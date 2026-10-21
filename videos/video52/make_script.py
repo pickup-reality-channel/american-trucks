@@ -96,6 +96,14 @@ sc("""According to ConsumerAffairs, dealers are still at risk of F T C scrutiny 
 # ---------- PATTERN ----------
 sc("""And remember that good dealers exist. Many dealers publish clear prices, skip add-ons and charge reasonable fees. According to CarEdge, fifty-six percent of the dealers in its twenty twenty-six report earned an A grade for their fees. Your goal is not to fight every dealer. It is to find the honest ones, and the tools in this video make them easy to spot.""",
    "friendly car dealership", "GOOD DEALERS EXIST")
+sc("""Here is a bonus trick, because there is always one more. The spot delivery. You sign the papers and drive the truck home before the financing is final. Days later, the dealer calls to say the loan was not approved at that rate, and asks you to come back and sign a new contract at a higher one. Before you drive away, make sure the financing is fully approved, in writing.""",
+   "pickup truck driving away dealership", "BONUS: THE SPOT DELIVERY")
+sc("""And a second bonus: the payment packing. A salesperson quotes a monthly payment that already includes extra products, without saying so. When you agree to the payment, you have unknowingly agreed to the products. The fix is the same as always. Ask for an itemized breakdown of the price, the fees, the products and the interest rate before you agree to any payment.""",
+   "itemized receipt", "BONUS: PAYMENT PACKING")
+sc("""What can you do if something goes wrong after you buy? Keep copies of every document and every email. If you believe a dealer misled you, you can contact the dealer's management, the manufacturer's customer service, your state attorney general or the consumer protection office in your state. Documentation is what makes a complaint work.""",
+   "documents folder", "KEEP EVERY DOCUMENT")
+sc("""And remember that the paperwork rules everything. Whatever the salesperson promised, the signed contract is what counts. If a promise matters, like free maintenance, a second key or a repair, make sure it is written into the contract or a signed form called a due bill. A verbal promise disappears the moment you drive off the lot.""",
+   "contract signing pen", "GET PROMISES IN WRITING")
 sc("""So what do all seven tricks have in common? They move your attention away from the total price. The monthly payment hides the loan length. The add-on sticker hides extra profit. The doc fee hides in the paperwork. The trade-in shuffle hides in the math. And urgency hides the competition. Every trick works by making the total harder to see.""",
    "pickup truck deal paperwork", "EVERY TRICK HIDES THE TOTAL")
 sc("""And that is why one question beats all seven: what is my out-the-door price? Ask it in writing, from several dealers, before you talk about payments, trade-ins or extras. Everything else is detail. The buyer who controls the total controls the deal.""",
@@ -120,7 +128,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video52", "length_scale": 1.5,
+json.dump({"id": "video52", "length_scale": 1.4,
   "title": "7 Dealer Tricks When Buying a Truck in 2026 (The Rule That Would Have Stopped Them Died)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

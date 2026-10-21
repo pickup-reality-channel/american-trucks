@@ -1,6 +1,6 @@
 {
  "id": "video51",
- "length_scale": 1.5,
+ "length_scale": 1.4,
  "title": "Lease vs Buy a Truck in 2027: The $10,000 Tax Twist Most Buyers Miss",
  "scenes": [
   {
@@ -224,6 +224,24 @@
    "text": "And never negotiate only the monthly payment. A dealer can hit almost any monthly number by changing the loan length, the down payment or the lease terms. Negotiate the price of the truck first, then the financing. That one habit protects you whether you lease or buy.",
    "query": "truck dealership negotiation",
    "caption": "NEGOTIATE PRICE, NOT PAYMENT",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more cost that many people forget: the down payment. A large down payment on a lease is especially risky. If the truck is stolen or totaled early in the lease, the insurance and gap coverage pay off the lease, but your down payment is usually gone. Many experts suggest putting as little money down on a lease as possible for exactly that reason.",
+   "query": "pickup truck accident insurance",
+   "caption": "LEASE DOWN PAYMENTS ARE RISKY",
+   "cuts": 3
+  },
+  {
+   "text": "With a purchase, a down payment works differently. It reduces the loan, lowers the total interest and helps you avoid being upside down. That money becomes equity in a truck you own. So the same five thousand dollars can be smart on a purchase and risky on a lease. It all depends on which path you choose.",
+   "query": "pickup truck keys money",
+   "caption": "DOWN PAYMENT ON A PURCHASE",
+   "cuts": 3
+  },
+  {
+   "text": "And think about how your life might change. A new job, a move, a growing family or a business can change the truck you need. A lease locks you into a fixed term, and ending it early can be expensive. A purchased truck can be sold at any time, although you take whatever the market offers. Flexibility has value too.",
+   "query": "family pickup truck",
+   "caption": "LIFE CHANGES",
    "cuts": 3
   },
   {

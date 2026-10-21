@@ -90,6 +90,12 @@ sc("""Before the verdict, one more real-world factor: your credit. The best leas
    "credit score", "CHECK YOUR CREDIT FIRST")
 sc("""And never negotiate only the monthly payment. A dealer can hit almost any monthly number by changing the loan length, the down payment or the lease terms. Negotiate the price of the truck first, then the financing. That one habit protects you whether you lease or buy.""",
    "truck dealership negotiation", "NEGOTIATE PRICE, NOT PAYMENT")
+sc("""There is one more cost that many people forget: the down payment. A large down payment on a lease is especially risky. If the truck is stolen or totaled early in the lease, the insurance and gap coverage pay off the lease, but your down payment is usually gone. Many experts suggest putting as little money down on a lease as possible for exactly that reason.""",
+   "pickup truck accident insurance", "LEASE DOWN PAYMENTS ARE RISKY")
+sc("""With a purchase, a down payment works differently. It reduces the loan, lowers the total interest and helps you avoid being upside down. That money becomes equity in a truck you own. So the same five thousand dollars can be smart on a purchase and risky on a lease. It all depends on which path you choose.""",
+   "pickup truck keys money", "DOWN PAYMENT ON A PURCHASE")
+sc("""And think about how your life might change. A new job, a move, a growing family or a business can change the truck you need. A lease locks you into a fixed term, and ending it early can be expensive. A purchased truck can be sold at any time, although you take whatever the market offers. Flexibility has value too.""",
+   "family pickup truck", "LIFE CHANGES")
 sc("""So who should lease a truck in twenty twenty-seven? Someone who drives a predictable, moderate number of miles, keeps the truck clean and stock, wants a new truck every few years, and is not eligible for the loan interest deduction, or is choosing a truck not assembled in America. Leasing can also make sense for a model with an uncertain future.""",
    "pickup truck clean new", "WHO SHOULD LEASE")
 sc("""And who should buy? Someone who keeps trucks for many years, drives a lot of miles, tows, works the truck hard, or likes to modify it. Buying also gets the edge in twenty twenty-six for eligible buyers of new, U S assembled trucks, thanks to the loan interest deduction. For most traditional truck owners, buying remains the better long-term choice.""",
@@ -116,7 +122,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video51", "length_scale": 1.5,
+json.dump({"id": "video51", "length_scale": 1.4,
   "title": "Lease vs Buy a Truck in 2027: The $10,000 Tax Twist Most Buyers Miss", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

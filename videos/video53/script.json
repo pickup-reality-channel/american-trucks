@@ -1,6 +1,6 @@
 {
  "id": "video53",
- "length_scale": 1.5,
+ "length_scale": 1.4,
  "title": "How to Negotiate a New Truck Price in 2026 (8 Steps Dealers Hope You Skip)",
  "scenes": [
   {
@@ -245,6 +245,24 @@
    "text": "Lease ads also hide other details in the fine print: the annual mileage limit, the fees at the end, and whether the offer requires excellent credit. A Ford Maverick lease listed by CarEdge at three hundred ninety-nine dollars a month for forty-eight months, with one thousand three hundred ninety-eight due, looks very different from a twenty-four month deal. Always compare lease length, mileage and total cost, not just the payment.",
    "query": "Ford Maverick lease",
    "caption": "READ THE FINE PRINT",
+   "cuts": 3
+  },
+  {
+   "text": "Here is one more tactic for hot trucks: get on the list. For high-demand models, some dealers keep a list of buyers who want to order at sticker price. Ask several dealers if they sell at sticker, put down a refundable deposit if they do, and wait. Patience can save the thousands of dollars that a market adjustment would add on a truck already on the lot.",
+   "query": "pickup truck order list",
+   "caption": "GET ON THE LIST",
+   "cuts": 3
+  },
+  {
+   "text": "And consider dealers outside your area. A dealer two hours away might have more inventory, lower fees or bigger discounts. Driving a few hours to save thousands of dollars is often worth it. Just remember that warranty service can be done at any authorized dealer, so buying far away does not mean you must return there for repairs.",
+   "query": "highway drive",
+   "caption": "LOOK BEYOND YOUR AREA",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, keep emotion out of it as long as you can. Test drive the truck, but do not tell the salesperson it is the one you have to have. A buyer who sounds ready to buy at any price gets offered any price. A buyer who sounds like they are comparing several trucks gets offered the best price.",
+   "query": "test drive pickup truck",
+   "caption": "KEEP EMOTION OUT OF IT",
    "cuts": 3
   },
   {

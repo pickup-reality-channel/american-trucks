@@ -1,6 +1,6 @@
 {
  "id": "video48",
- "length_scale": 1.5,
+ "length_scale": 1.4,
  "title": "The Most Expensive Pickups You Can Buy in 2026 (One Costs $122,265)",
  "scenes": [
   {
@@ -216,6 +216,18 @@
    "cuts": 3
   },
   {
+   "text": "Here is a quick way to compare all of these trucks. Divide the fully loaded price by the horsepower. The Raptor R, at about one hundred twenty-two thousand dollars and seven hundred twenty horsepower, costs about one hundred seventy dollars per horsepower. The Rivian, at about one hundred sixteen thousand dollars and more than one thousand horsepower, costs much less per horsepower. Numbers like that show why buyers do not choose trucks on power alone.",
+   "query": "Ford F-150 Raptor R Rivian R1T",
+   "caption": "PRICE PER HORSEPOWER",
+   "cuts": 3
+  },
+  {
+   "text": "And price per capability tells another story. A heavy-duty diesel truck can tow far more than any of these half-ton trucks, often for less money. If towing is the job, the most expensive half-ton is rarely the best tool. The top trims on this list are about luxury, speed and image as much as work.",
+   "query": "Ram 3500 towing",
+   "caption": "WHAT ARE YOU PAYING FOR?",
+   "cuts": 3
+  },
+  {
    "text": "So who is buying ninety and one hundred thousand dollar pickups? For many, a top-trim truck replaces a luxury car. It carries the family, tows the boat, and has the leather and screens of a premium sedan. For business owners, a truck can also come with tax and business-use considerations, which is something to discuss with an accountant, not a salesperson.",
    "query": "GMC Sierra Denali interior",
    "caption": "WHO BUYS $100K TRUCKS?",
@@ -263,6 +275,12 @@
    "text": "A good test is to price the truck two ways. First, the exact truck you want, fully loaded. Then the same truck with only the options you will really use every week. The difference is often ten or twenty thousand dollars. Ask yourself whether those extras are worth that money over the years you will own the truck, including the interest on the loan.",
    "query": "pickup truck configurator",
    "caption": "PRICE IT TWO WAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Also check the trims just below the top. A Lariat instead of a Platinum, an S L T instead of a Denali Ultimate, or a Laramie instead of a Tungsten often delivers most of the comfort for thousands of dollars less. The top trim is where carmakers make their biggest margins, and the step below is often where buyers get the best value.",
+   "query": "Ford F-150 Lariat",
+   "caption": "THE TRIM BELOW THE TOP",
    "cuts": 3
   },
   {

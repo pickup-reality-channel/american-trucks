@@ -99,6 +99,12 @@ sc("""And sometimes values fall. The first-generation Bronco, one of the most ce
 # ---------- PATTERN ----------
 sc("""There is a lesson for new truck buyers too. When a dealer tells you a new truck is a future collectible, be careful. Many limited editions are built in large numbers, and most new vehicles lose value in their first years. The Bronco Raptor number zero zero zero one is the extreme case, but the rule applies to every special edition sticker.""",
    "new truck dealership special edition", "BEWARE 'FUTURE COLLECTIBLE'")
+sc("""Here is another way to spot a future collectible: look at insurance quotes, not just sales. Hagerty tracks which vehicles people are asking to insure, by age group. When quote activity rises among younger buyers, values often follow. That is exactly what happened with the Toyota pickup and the Bullnose Ford, and it is a signal any buyer can watch through published market reports.""",
+   "classic truck insurance", "WATCH THE QUOTE ACTIVITY")
+sc("""And look at what gets reproduced. When aftermarket companies start making new body panels, interiors and trim for a truck, it means there are enough owners to support a business. That makes restoration easier and keeps more trucks alive, which grows the community around the model. A healthy parts market is one of the quiet signs of a lasting collectible.""",
+   "classic truck parts", "A HEALTHY PARTS MARKET")
+sc("""Finally, condition is king at every level of the market. In every example in this video, the best trucks sold for far more than the average. A rough Power Wagon, Syclone or Lightning is a project. A clean, documented one is an asset. If you can, buy the best example you can afford instead of the cheapest one you can find.""",
+   "classic pickup truck restored", "BUY THE BEST YOU CAN AFFORD")
 sc("""So what turns a truck into a collectible? Five things. A story, like the Power Wagon's link to the war. Nostalgia, like the Toyota and the Lightning for people who grew up with them. Survivors, because most examples were used up. Simplicity, so they can be kept running. And a buyer group that is growing, not shrinking.""",
    "classic pickup trucks show", "WHAT MAKES A COLLECTIBLE")
 sc("""And the twist in that list is that none of these trucks were expensive when new. They were work trucks, cheap trucks, or oddball performance trucks. The collectibles of the future are probably sitting in driveways right now, being used every day, and their owners have no idea.""",
@@ -123,7 +129,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video50", "length_scale": 1.5,
+json.dump({"id": "video50", "length_scale": 1.4,
   "title": "5 Trucks That Became Collectibles (And One That Lost $245,000)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

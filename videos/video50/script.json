@@ -1,6 +1,6 @@
 {
  "id": "video50",
- "length_scale": 1.5,
+ "length_scale": 1.4,
  "title": "5 Trucks That Became Collectibles (And One That Lost $245,000)",
  "scenes": [
   {
@@ -249,6 +249,24 @@
    "text": "There is a lesson for new truck buyers too. When a dealer tells you a new truck is a future collectible, be careful. Many limited editions are built in large numbers, and most new vehicles lose value in their first years. The Bronco Raptor number zero zero zero one is the extreme case, but the rule applies to every special edition sticker.",
    "query": "new truck dealership special edition",
    "caption": "BEWARE 'FUTURE COLLECTIBLE'",
+   "cuts": 3
+  },
+  {
+   "text": "Here is another way to spot a future collectible: look at insurance quotes, not just sales. Hagerty tracks which vehicles people are asking to insure, by age group. When quote activity rises among younger buyers, values often follow. That is exactly what happened with the Toyota pickup and the Bullnose Ford, and it is a signal any buyer can watch through published market reports.",
+   "query": "classic truck insurance",
+   "caption": "WATCH THE QUOTE ACTIVITY",
+   "cuts": 3
+  },
+  {
+   "text": "And look at what gets reproduced. When aftermarket companies start making new body panels, interiors and trim for a truck, it means there are enough owners to support a business. That makes restoration easier and keeps more trucks alive, which grows the community around the model. A healthy parts market is one of the quiet signs of a lasting collectible.",
+   "query": "classic truck parts",
+   "caption": "A HEALTHY PARTS MARKET",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, condition is king at every level of the market. In every example in this video, the best trucks sold for far more than the average. A rough Power Wagon, Syclone or Lightning is a project. A clean, documented one is an asset. If you can, buy the best example you can afford instead of the cheapest one you can find.",
+   "query": "classic pickup truck restored",
+   "caption": "BUY THE BEST YOU CAN AFFORD",
    "cuts": 3
   },
   {

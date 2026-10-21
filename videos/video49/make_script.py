@@ -106,6 +106,12 @@ sc("""It would be the cheapest new pickup in America by about four thousand doll
 # ---------- PATTERN ----------
 sc("""And there is a used-truck angle. When new truck prices climb, many buyers turn to used trucks. A two or three year old midsize truck can sometimes cost less than a new base model while offering a higher trim. But used truck prices also rose in recent years, so always compare the full cost, including interest rates, which are often higher for used vehicles.""",
    "used pickup trucks for sale", "THE USED-TRUCK ANGLE")
+sc("""Here is one more comparison that surprises people. The cheapest full-size truck on the list, the Silverado W T at thirty-nine thousand six hundred ninety-five, costs about ten thousand seven hundred dollars more than the cheapest Maverick. But the Silverado can tow up to nine thousand one hundred pounds in Cars dot com's table, while the base Maverick is listed at two thousand. If you really tow, the cheaper truck is not cheaper for you.""",
+   "Chevrolet Silverado WT towing", "CHEAPER IS NOT ALWAYS CHEAPER")
+sc("""And think about how many seats you need. The Maverick, Santa Cruz, Ranger and Colorado on this list all come as crew cabs in their cheapest form, seating five. The cheapest full-size trucks are regular cabs, seating two or three. For a family, a midsize crew cab can be the only truck on this list that actually fits everyone.""",
+   "Ford Ranger crew cab family", "COUNT THE SEATS")
+sc("""Finally, look at incentives on top of these prices. According to CarEdge's October twenty twenty-six list, the twenty twenty-six Nissan Frontier had zero percent financing for sixty months and a five hundred dollar rebate, and the twenty twenty-six Chevrolet Colorado had one thousand dollars cash back. The starting price is only the beginning. The real price depends on the offers in your month and region.""",
+   "Nissan Frontier dealership", "INCENTIVES CHANGE THE RANKING")
 sc("""So what does the list tell us? First, the cheapest trucks in America are small and midsize. Six of the ten cheapest are midsize or compact, and the cheapest full-size trucks start around forty thousand. Second, the cheapest full-size trucks are disappearing, as regular cab production ends. And third, the gap between the cheapest truck and the average truck is huge.""",
    "Ford Maverick Nissan Frontier Toyota Tacoma", "WHAT THE LIST TELLS US")
 sc("""And the final twist. In nineteen twenty-five, according to The Henry Ford, Ford's Model T pickup cost two hundred eighty-one dollars, and it was built so working people could afford it. One hundred years later, the cheapest pickup costs about twenty-nine thousand. The idea of the affordable truck is not dead. But it is fighting for space in a market built around sixty-seven thousand dollar trucks.""",
@@ -130,7 +136,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video49", "length_scale": 1.5,
+json.dump({"id": "video49", "length_scale": 1.4,
   "title": "The 10 Cheapest New Trucks in America for 2026 (And the Traps Inside the Price)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

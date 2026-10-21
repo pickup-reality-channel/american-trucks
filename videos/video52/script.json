@@ -1,6 +1,6 @@
 {
  "id": "video52",
- "length_scale": 1.5,
+ "length_scale": 1.4,
  "title": "7 Dealer Tricks When Buying a Truck in 2026 (The Rule That Would Have Stopped Them Died)",
  "scenes": [
   {
@@ -232,6 +232,30 @@
    "text": "And remember that good dealers exist. Many dealers publish clear prices, skip add-ons and charge reasonable fees. According to CarEdge, fifty-six percent of the dealers in its twenty twenty-six report earned an A grade for their fees. Your goal is not to fight every dealer. It is to find the honest ones, and the tools in this video make them easy to spot.",
    "query": "friendly car dealership",
    "caption": "GOOD DEALERS EXIST",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a bonus trick, because there is always one more. The spot delivery. You sign the papers and drive the truck home before the financing is final. Days later, the dealer calls to say the loan was not approved at that rate, and asks you to come back and sign a new contract at a higher one. Before you drive away, make sure the financing is fully approved, in writing.",
+   "query": "pickup truck driving away dealership",
+   "caption": "BONUS: THE SPOT DELIVERY",
+   "cuts": 3
+  },
+  {
+   "text": "And a second bonus: the payment packing. A salesperson quotes a monthly payment that already includes extra products, without saying so. When you agree to the payment, you have unknowingly agreed to the products. The fix is the same as always. Ask for an itemized breakdown of the price, the fees, the products and the interest rate before you agree to any payment.",
+   "query": "itemized receipt",
+   "caption": "BONUS: PAYMENT PACKING",
+   "cuts": 3
+  },
+  {
+   "text": "What can you do if something goes wrong after you buy? Keep copies of every document and every email. If you believe a dealer misled you, you can contact the dealer's management, the manufacturer's customer service, your state attorney general or the consumer protection office in your state. Documentation is what makes a complaint work.",
+   "query": "documents folder",
+   "caption": "KEEP EVERY DOCUMENT",
+   "cuts": 3
+  },
+  {
+   "text": "And remember that the paperwork rules everything. Whatever the salesperson promised, the signed contract is what counts. If a promise matters, like free maintenance, a second key or a repair, make sure it is written into the contract or a signed form called a due bill. A verbal promise disappears the moment you drive off the lot.",
+   "query": "contract signing pen",
+   "caption": "GET PROMISES IN WRITING",
    "cuts": 3
   },
   {

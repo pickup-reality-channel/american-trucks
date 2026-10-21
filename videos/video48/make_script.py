@@ -88,6 +88,10 @@ sc("""Why? Price is part of it. When a truck costs more than one hundred thousan
    "Chevrolet Silverado EV", "WHY $100K EVs STRUGGLE")
 
 # ---------- WHO BUYS ----------
+sc("""Here is a quick way to compare all of these trucks. Divide the fully loaded price by the horsepower. The Raptor R, at about one hundred twenty-two thousand dollars and seven hundred twenty horsepower, costs about one hundred seventy dollars per horsepower. The Rivian, at about one hundred sixteen thousand dollars and more than one thousand horsepower, costs much less per horsepower. Numbers like that show why buyers do not choose trucks on power alone.""",
+   "Ford F-150 Raptor R Rivian R1T", "PRICE PER HORSEPOWER")
+sc("""And price per capability tells another story. A heavy-duty diesel truck can tow far more than any of these half-ton trucks, often for less money. If towing is the job, the most expensive half-ton is rarely the best tool. The top trims on this list are about luxury, speed and image as much as work.""",
+   "Ram 3500 towing", "WHAT ARE YOU PAYING FOR?")
 sc("""So who is buying ninety and one hundred thousand dollar pickups? For many, a top-trim truck replaces a luxury car. It carries the family, tows the boat, and has the leather and screens of a premium sedan. For business owners, a truck can also come with tax and business-use considerations, which is something to discuss with an accountant, not a salesperson.""",
    "GMC Sierra Denali interior", "WHO BUYS $100K TRUCKS?")
 sc("""And here is the twist on financing. Most buyers do not pay cash. A higher price means a bigger loan and more interest. A truck that looks affordable as a monthly payment can cost far more over a long loan. That is why the sticker price is only the beginning of the real cost of an expensive truck.""",
@@ -108,6 +112,8 @@ sc("""So how do you avoid overpaying, at any price? First, compare the average t
    "pickup truck window sticker", "CHECKS 1 AND 2: AVERAGE, OPTIONS")
 sc("""A good test is to price the truck two ways. First, the exact truck you want, fully loaded. Then the same truck with only the options you will really use every week. The difference is often ten or twenty thousand dollars. Ask yourself whether those extras are worth that money over the years you will own the truck, including the interest on the loan.""",
    "pickup truck configurator", "PRICE IT TWO WAYS")
+sc("""Also check the trims just below the top. A Lariat instead of a Platinum, an S L T instead of a Denali Ultimate, or a Laramie instead of a Tungsten often delivers most of the comfort for thousands of dollars less. The top trim is where carmakers make their biggest margins, and the step below is often where buyers get the best value.""",
+   "Ford F-150 Lariat", "THE TRIM BELOW THE TOP")
 sc("""Third, watch for dealer markups on hot models, like the new T R X. Fourth, compare the same engineering under different badges, like Silverado and Sierra. And fifth, count the full cost: loan interest, insurance, fuel and depreciation over five years. The real price of an expensive truck is much higher than the number on the window.""",
    "truck dealership negotiation", "CHECKS 3, 4 AND 5")
 sc("""We put all of these checks into the Twenty Twenty-Seven Truck Buyer's Guide, with the numbers to compare and the questions to ask every dealer. The link is in the description and in the pinned comment. Subscribe for the next video, where we go to the other end of the market: the cheapest new trucks in America. Thanks for watching.""",
@@ -123,7 +129,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video48", "length_scale": 1.5,
+json.dump({"id": "video48", "length_scale": 1.4,
   "title": "The Most Expensive Pickups You Can Buy in 2026 (One Costs $122,265)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

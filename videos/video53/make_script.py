@@ -102,6 +102,12 @@ sc("""Two ads with almost the same monthly payment can be very different deals. 
 # ---------- PATTERN ----------
 sc("""Lease ads also hide other details in the fine print: the annual mileage limit, the fees at the end, and whether the offer requires excellent credit. A Ford Maverick lease listed by CarEdge at three hundred ninety-nine dollars a month for forty-eight months, with one thousand three hundred ninety-eight due, looks very different from a twenty-four month deal. Always compare lease length, mileage and total cost, not just the payment.""",
    "Ford Maverick lease", "READ THE FINE PRINT")
+sc("""Here is one more tactic for hot trucks: get on the list. For high-demand models, some dealers keep a list of buyers who want to order at sticker price. Ask several dealers if they sell at sticker, put down a refundable deposit if they do, and wait. Patience can save the thousands of dollars that a market adjustment would add on a truck already on the lot.""",
+   "pickup truck order list", "GET ON THE LIST")
+sc("""And consider dealers outside your area. A dealer two hours away might have more inventory, lower fees or bigger discounts. Driving a few hours to save thousands of dollars is often worth it. Just remember that warranty service can be done at any authorized dealer, so buying far away does not mean you must return there for repairs.""",
+   "highway drive", "LOOK BEYOND YOUR AREA")
+sc("""Finally, keep emotion out of it as long as you can. Test drive the truck, but do not tell the salesperson it is the one you have to have. A buyer who sounds ready to buy at any price gets offered any price. A buyer who sounds like they are comparing several trucks gets offered the best price.""",
+   "test drive pickup truck", "KEEP EMOTION OUT OF IT")
 sc("""So what is the pattern behind all eight steps? Control the information. The dealer negotiates every day. You negotiate a truck every few years. The steps in this video close that gap: you know the market price, the incentives, your financing, your trade value, and your walk-away number before you sit down.""",
    "pickup truck buyer dealership", "CONTROL THE INFORMATION")
 sc("""And here is the final twist. Negotiating is not about being aggressive. The best negotiators are calm, polite and prepared. They ask clear questions, they compare real offers, and they are willing to leave. In twenty twenty-six, with record payments and long loans, that preparation is worth more than ever.""",
@@ -126,7 +132,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video53", "length_scale": 1.5,
+json.dump({"id": "video53", "length_scale": 1.4,
   "title": "How to Negotiate a New Truck Price in 2026 (8 Steps Dealers Hope You Skip)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
