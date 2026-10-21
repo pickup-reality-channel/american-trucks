@@ -64,7 +64,7 @@ sc("""If you are keeping score, that is two of our seven trucks, from two of the
 
 # ---------- 4. HUMMER EV / FACTORY ZERO ----------
 sc("""Truck number four is the GMC Hummer EV pickup, and its story is easier to see in a factory than in a sales report. The Hummer EV, along with the Sierra EV, the Chevrolet Silverado EV and the Cadillac Escalade IQ, is built at a single General Motors plant called Factory Zero. It was built to be the home of GM's electric trucks. So when that plant slows down, it tells you what is happening to demand.""",
-   "GMC Hummer EV", "FACTORY ZERO: GM'S EV TRUCK PLANT")
+   "GMC Hummer EV", "FACTORY ZERO: GM EV TRUCK PLANT")
 sc("""Here is the timeline, as InsideEVs reported it. In October of twenty twenty-five, GM cut one of the plant's two shifts, which roughly halved its output, and permanently laid off twelve hundred workers. Not a temporary pause. Permanent. A company does not take that step when it expects demand to bounce back next week.""",
    "GMC Hummer EV pickup", "OCT 2025: 1,200 JOBS CUT")
 sc("""Then came the pauses. From October twenty-seventh to November twenty-fourth, twenty twenty-five, the plant was temporarily idled. Then, according to the union, a second pause began on March sixteenth, with workers expected back on April thirteenth, about four weeks. The remaining thirteen hundred workers were placed on temporary layoff. That is two shutdowns in about five months at the plant built for the electric truck future.""",
