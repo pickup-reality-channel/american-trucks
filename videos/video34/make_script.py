@@ -1,0 +1,133 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+# ---------- HOOK ----------
+sc("""The average new full-size pickup in America now sells for more than sixty-seven thousand dollars. One in five new car buyers now has a monthly payment of a thousand dollars or more. And a record one in four is signing a loan of seven years or longer. Truck payments have never been this high. Here is why, and how to avoid becoming one of those numbers.""",
+   "Ford F-150 Platinum", "$1,000+ A MONTH: 1 IN 5 BUYERS")
+
+# ---------- COLD OPEN ----------
+sc("""Start with the price. According to Kelley Blue Book, the average transaction price of a new full-size pickup was sixty-seven thousand, five hundred seventy-three dollars in September twenty twenty-six. That is the price people actually paid, not the sticker. The average for all new vehicles was fifty thousand, five hundred sixty-two. So the average full-size truck costs about seventeen thousand dollars more than the average new vehicle.""",
+   "Chevrolet Silverado High Country", "FULL-SIZE PICKUP: $67,573")
+sc("""And Americans keep paying it. In December twenty twenty-five, buyers purchased more than two hundred thirty-three thousand full-size pickups, the best month for the segment in five years, according to Kelley Blue Book. Combined retail and fleet revenue from full-size pickups passed fifteen billion dollars in a single month for the first time, according to Cox Automotive estimates.""",
+   "Ram 1500 dealership", "$15 BILLION IN ONE MONTH")
+sc("""In this video, we break down why truck payments are at records, using data from Edmunds, Kelley Blue Book and Cox Automotive. The price of the truck, the length of the loan, the interest rate, the down payment, and a hidden factor that is quietly adding thousands of dollars to many loans. And at the end, the moves that actually lower your payment. Every number is sourced in the description.""",
+   "GMC Sierra 1500 Denali", "5 REASONS + HOW TO FIGHT BACK")
+
+# ---------- 1. THE RECORDS ----------
+sc("""First, the records themselves. According to Edmunds, in the third quarter of twenty twenty-six, the average monthly payment on a financed new vehicle was seven hundred eighty-seven dollars, a record. It was seven hundred fifty-six dollars a year earlier. The average amount financed was a record forty-four thousand, six hundred sixty-four dollars.""",
+   "Ford F-150 XLT 2024", "AVERAGE PAYMENT: $787 (RECORD)")
+sc("""And the share of new car buyers with a payment of at least one thousand dollars a month hit twenty-one point two percent, also a record, up from nineteen point one percent a year earlier. Loans of eighty-four months or longer reached twenty-five point five percent of new vehicle financing. And the average total interest paid over the life of a new car loan reached nine thousand, nine hundred thirty-eight dollars.""",
+   "Ram 1500 Limited", "84-MONTH LOANS: 25.5%")
+sc("""And this did not happen overnight. In the first quarter of twenty twenty-six, Edmunds put the average new vehicle payment at seven hundred seventy-three dollars, and J.D. Power put it even higher, at eight hundred six, according to Jalopnik. The share of loans of eighty-four months or longer was twenty-two point nine percent then. By the third quarter, it was twenty-five point five. Every quarter of twenty twenty-six set a new record.""",
+   "Ford Super Duty F-250", "EVERY QUARTER: A NEW RECORD")
+sc("""And the total interest number is the one most buyers never see. Nine thousand, nine hundred thirty-eight dollars is the average interest over the life of a new car loan, up from nine thousand, four hundred forty-two a year earlier, according to Edmunds. That is almost ten thousand dollars paid just for borrowing, on an average vehicle. On a truck, with a larger loan, it is typically more.""",
+   "GMC Sierra 1500 AT4", "AVERAGE INTEREST: $9,938")
+sc("""Edmunds' Ivan Drury described buyers' mood in April twenty twenty-six. Right now, consumers are picking their battles when it comes to affordability. In the first quarter, the average amount financed was forty-three thousand, eight hundred ninety-nine dollars, up from forty-one thousand, four hundred seventy-three a year earlier. By the third quarter, it had grown again to forty-four thousand, six hundred sixty-four. Buyers are borrowing more almost every month.""",
+   "Ram 1500 Laramie 2025", "AMOUNT FINANCED: UP ~$3,200 IN A YEAR")
+sc("""Here is the twist. Those are averages for all new vehicles, including cheap compact cars. Trucks cost far more than the average vehicle. So for a typical full-size pickup buyer, the real payment is likely well above the average. If the average new vehicle costs about fifty thousand and the average full-size truck costs about sixty-seven thousand, a truck buyer is starting the math with a much bigger number.""",
+   "Chevrolet Silverado 1500 LTZ", "TRUCKS: ABOVE THE AVERAGE")
+
+# ---------- 2. PRICE ----------
+sc("""Reason one, the trucks themselves cost more. Kelley Blue Book's September twenty twenty-six data put Ram's average transaction price at sixty-eight thousand, three hundred fifty-one dollars, the highest of the major truck brands. GMC averaged sixty-five thousand, five hundred thirty-two. Ford averaged fifty-nine thousand, nine hundred sixty-three. Chevrolet, forty-nine thousand, four hundred sixty-five. And Toyota, forty-four thousand, five hundred thirty-nine.""",
+   "Ram 1500 Tungsten", "RAM BRAND ATP: $68,351")
+sc("""Look at the gap between Ram and Toyota. More than twenty-three thousand dollars separates their average transaction prices. Part of that is product mix. Toyota sells many affordable cars and hybrids, while Ram sells mostly full-size and heavy-duty trucks. But it also shows how much of America's car price problem is really a truck price problem.""",
+   "Toyota Tundra and Ram 1500", "RAM VS TOYOTA: $23,812 GAP")
+sc("""Those brand averages include cars and SUVs, so they are not truck prices alone. But Ram sells almost nothing except trucks and vans, so its average shows where truck prices are. And the full-size pickup segment average, sixty-seven thousand, five hundred seventy-three, was above the December twenty twenty-five level of sixty-six thousand, three hundred eighty-six, according to Kelley Blue Book.""",
+   "Ram 2500 Laramie", "DEC 2025: $66,386 → SEPT 2026: $67,573")
+sc("""And even the sticker has climbed. In December twenty twenty-five, the average manufacturer's suggested retail price of a new vehicle was fifty-two thousand, six hundred twenty-seven dollars, a record for the month, according to Kelley Blue Book. Incentives averaged seven point five percent of the transaction price. So discounts exist, but they are taken off a much higher starting point than a few years ago.""",
+   "Chevrolet Silverado window sticker", "AVERAGE MSRP: $52,627")
+sc("""Why so expensive? Because most buyers do not buy the cheap trim. Remember the Tacoma, whose range runs from about thirty-two thousand to more than sixty-four thousand dollars. Full-size trucks span an even wider range, from work trucks to luxury trims with massaging seats and huge screens. Cox Automotive's Erin Keating said December prices are usually elevated because the market delivers a strong mix of high-end and luxury vehicle sales.""",
+   "GMC Sierra Denali Ultimate", "BUYERS CHOOSE EXPENSIVE TRIMS")
+
+# ---------- 3. TARIFFS? ----------
+sc("""Reason two is the one everyone argues about, tariffs. TFLcar compared the landed cost, the sticker price plus the destination fee, of popular trims of America's best-selling vehicles between twenty twenty-four and twenty twenty-six. The Chevrolet Silverado fifteen hundred LT went from forty-nine thousand, nine hundred ninety-five to fifty-six thousand, two hundred ninety, up twelve point six percent. The GMC Sierra SLE went up eleven point nine percent.""",
+   "Chevrolet Silverado LT", "SILVERADO LT: +12.6% SINCE 2024")
+sc("""But here is the twist. Other trucks barely moved. The Ram fifteen hundred Big Horn rose six point four percent, the Ford F-150 XLT six percent, and the Toyota Tacoma SR five only zero point seven percent. And when TFLcar adjusted for about seven percent of inflation over two years, the F-150 XLT and Ram Big Horn were actually slightly cheaper in real terms, and the Tacoma SR five was almost six percent cheaper.""",
+   "Ford F-150 XLT", "ADJUSTED FOR INFLATION: F-150 -0.9%")
+sc("""And look at the gap between rivals. In TFLcar's comparison, the twenty twenty-six Silverado fifteen hundred LT landed at fifty-six thousand, two hundred ninety dollars, while the F-150 XLT landed at fifty-two thousand, five hundred ninety, and the Ram fifteen hundred Big Horn at forty-nine thousand, five hundred forty-one. Those are popular mid-level trims of competing trucks, and they are separated by almost seven thousand dollars. Shopping across brands is one of the easiest ways to save.""",
+   "Ram 1500 Big Horn", "SAME CLASS, ~$6,700 APART")
+sc("""So TFLcar concluded that most of the increase came from inflation, not tariffs alone, and called its analysis a dramatically simplified view. But it found one interesting pattern. Destination fees on all the half-ton pickups it sampled rose about forty percent over three years. The article called passing along tariff costs through those fees a plausible, if not likely, explanation.""",
+   "car carrier truck", "DESTINATION FEES: +40%")
+sc("""That matters because a destination fee is not negotiable in most deals, and it is easy to ignore when you look at the advertised price. On a Tacoma, the destination fee for twenty twenty-six was one thousand five hundred ninety-five dollars, according to CarScoops. Always compare trucks by their total landed price, not the base sticker.""",
+   "Toyota Tacoma window sticker", "COMPARE THE LANDED PRICE")
+
+# ---------- 4. LOAN LENGTH ----------
+sc("""Reason three, longer loans. Stretching a loan from five years to seven makes the monthly payment smaller, so buyers can fit a more expensive truck into the same budget. That is why twenty-five point five percent of new vehicle loans in the third quarter of twenty twenty-six were eighty-four months or longer, up from twenty-one point eight percent a year earlier, according to Edmunds. Among buyers with payments of a thousand dollars or more, sixty-nine percent chose terms of at least seventy-two months.""",
+   "pickup truck dealership finance office", "LONGER LOANS, BIGGER TRUCKS")
+sc("""Let's do the math with a truck at the segment average. Take sixty-seven thousand, five hundred seventy-three dollars, subtract Edmunds' average down payment of six thousand, two hundred six, and finance about sixty-one thousand, three hundred sixty-seven at the market's average rate of seven percent. Before taxes and fees, that is about one thousand two hundred fifteen dollars a month over five years.""",
+   "Ford F-150 Lariat", "5 YEARS: ~$1,215/MONTH")
+sc("""Over six years, it drops to about one thousand forty-six. Over seven years, about nine hundred twenty-six. So the seven-year loan looks almost three hundred dollars a month cheaper. But here is the twist. Total interest grows from about eleven thousand, five hundred dollars on the five-year loan to about sixteen thousand, four hundred on the seven-year loan. You pay about five thousand dollars more for the same truck, just to make each payment smaller.""",
+   "Chevrolet Silverado parked", "7 YEARS: +$4,900 IN INTEREST")
+sc("""Edmunds' Ivan Drury put it bluntly. Stretching out a loan shouldn't be a way to talk yourself into a vehicle that doesn't make sense for your budget. And there is a second cost to long loans, which brings us to the hidden factor.""",
+   "Ram 1500 Big Horn", "DOESN'T FIT YOUR BUDGET? DON'T STRETCH")
+
+# ---------- 5. NEGATIVE EQUITY ----------
+sc("""Reason four, negative equity. That is when you owe more on your current vehicle than it is worth, and the difference gets rolled into your new loan. According to Edmunds' first quarter twenty twenty-six report, as reported by Repairer Driven News, thirty point nine percent of buyers trading in a vehicle owed more than it was worth.""",
+   "used pickup truck trade-in", "30.9% ARE UNDERWATER")
+sc("""The average negative equity was seven thousand, one hundred eighty-three dollars, the highest ever for a first quarter, and up forty-two percent from five years earlier. Twenty-six percent of those buyers rolled more than ten thousand dollars into the new loan, and nine point three percent rolled in more than fifteen thousand. Their average payment was nine hundred thirty-two dollars, one hundred fifty-nine dollars more than the typical buyer.""",
+   "pickup truck car lot", "AVERAGE: $7,183 OWED")
+sc("""And those buyers borrowed much more. Buyers with negative equity financed an average of fifty-five thousand, nine hundred seventy dollars, twelve thousand, seventy-one dollars more than the typical new vehicle buyer, according to Edmunds. Their loans averaged seventy-seven point four months, compared with seventy point three months for all new vehicle loans.""",
+   "Ford F-150 Lariat dealership", "UNDERWATER BUYERS: $55,970 FINANCED")
+sc("""And here is the trap. Ninety point two percent of new loans with an underwater trade-in had terms of at least seventy-two months, and forty-three percent went to eighty-four months. Their average rate was seven point nine percent, versus six point nine for the market. Edmunds said many of those vehicles were purchased during the pandemic-era period at elevated prices, and that this creates a reinforcing cycle.""",
+   "Ford F-150 trade in", "43% GO TO 84 MONTHS")
+sc("""Let's add that to our truck. Roll seven thousand, one hundred eighty-three dollars of negative equity into the same sixty-one thousand dollar loan, at seven point nine percent for eighty-four months, and the payment is about one thousand sixty-five dollars a month, before taxes and fees. Total interest is about twenty-one thousand dollars. And because you started underwater, you are likely to be underwater on the new truck for years, and the cycle repeats.""",
+   "Ram 1500 2024", "UNDERWATER LOAN: ~$1,065/MONTH")
+sc("""Edmunds' Jessica Caldwell said, quote, it's compounding. And she added that negative equity is no longer a niche dynamic, and is becoming a more persistent feature of the trade-in experience. The average age of an underwater trade-in was four point three years, the highest on record. Long loans mean people are still upside down years after they buy.""",
+   "used trucks lot", "IT'S COMPOUNDING")
+
+# ---------- 6. RATES + DOWN PAYMENTS ----------
+sc("""Reason five, interest rates and smaller down payments. The average new vehicle rate held at seven percent through twenty twenty-six, according to Edmunds. A few years ago, many buyers were used to much lower rates. And the average new vehicle down payment fell to six thousand, two hundred six dollars in the first quarter, an all-time low, according to Jalopnik, citing Edmunds.""",
+   "bank loan paperwork", "AVERAGE APR: 7%")
+sc("""Here is the twist. Prices went up, but down payments went down. That means a larger share of the truck is financed, at a higher rate, for a longer time. Each one of those pushes the payment up or the total cost up. Together, they explain why the average amount financed keeps setting records.""",
+   "pickup trucks dealership lot", "PRICES UP, DOWN PAYMENTS DOWN")
+sc("""And the payment is not the whole cost of the truck. Insurance went up again in twenty twenty-six. According to Insurify, full-coverage car insurance averaged two thousand, two hundred thirty-seven dollars a year nationwide by mid twenty twenty-six, after falling about six percent in twenty twenty-five, with increases projected in thirty-two states by year end. That is close to two hundred dollars a month, on top of the loan.""",
+   "pickup truck highway", "INSURANCE: ~$2,237/YEAR")
+sc("""And insurance depends heavily on where you live. Insurify's largest first-half increases were in Connecticut, up ten percent, Kentucky, up six, and West Virginia, up five. The most expensive place was Washington, D.C., at three thousand, eight hundred eighty dollars a year for full coverage. Before you buy a truck, get an insurance quote for that exact truck. It can change which truck you can actually afford.""",
+   "pickup truck city street", "GET THE INSURANCE QUOTE FIRST")
+sc("""Add it up for our average truck. A payment of about one thousand forty-six dollars on a six-year loan, plus insurance near the national average of about one hundred eighty-six dollars a month, before fuel and maintenance. That is more than one thousand two hundred dollars a month just to own and insure the truck. That is why so many buyers feel trucks have become unaffordable, even when their income has gone up.""",
+   "Chevrolet Silverado 1500 LT", "PAYMENT + INSURANCE: $1,200+/MONTH")
+sc("""Jalopnik put the whole picture in one headline, quoting a warning that, there's a bubble. It is not a prediction we can verify. But the numbers show buyers stretching further every quarter. And used buyers are not escaping it either. Edmunds found the average used vehicle payment reached five hundred eighty-two dollars, at an average rate of ten point six percent.""",
+   "used pickup trucks", "USED: $582/MONTH AT 10.6%")
+
+# ---------- 7. HOW TO FIGHT BACK ----------
+sc("""Here is a simpler way to see it. Jalopnik calculated that a fifty thousand dollar loan at seven percent for seventy-two months costs about eight hundred fifty-two dollars a month. The article described seventy-two months as the most common term, and seven percent as the average new car rate. That is for an average new vehicle, not a full-size truck. Trucks start the math higher.""",
+   "Ford F-150 XLT 2025", "$50,000 AT 7% FOR 72 MONTHS = $852")
+sc("""And here is the twist about used trucks. Many buyers move to used to escape high payments. But Edmunds found that six point five percent of used vehicle buyers committed to payments of a thousand dollars or more in the third quarter, a record, and used loans carried an average rate of ten point six percent. A used truck is not automatically cheaper to finance. A higher rate can wipe out part of the lower price.""",
+   "used Ram 1500", "USED: 6.5% PAY $1,000+")
+sc("""So how do you avoid a record payment? First, decide your budget by total cost, not by monthly payment. Edmunds itself recommends weighing the total cost of a loan, not just whether the monthly payment fits. A salesperson can make almost any truck fit a monthly number by stretching the term. Ask for the total amount you will pay, including interest.""",
+   "pickup truck dealership", "1. BUDGET BY TOTAL COST")
+sc("""Second, keep the loan as short as you can afford, ideally five years or less. As our example showed, going from seven years to five years can save about five thousand dollars of interest on an average-priced truck. Third, put more money down. Every dollar you do not borrow is a dollar you do not pay seven percent interest on.""",
+   "Ford F-150 XL", "2. SHORTER LOAN. 3. BIGGER DOWN PAYMENT")
+sc("""Fourth, fix negative equity before you trade. If you owe more than your current truck is worth, consider keeping it longer and paying it down, instead of rolling thousands of dollars into a new loan at a higher rate. Fifth, compare financing from your bank or credit union before you walk into the dealership, so you know if the dealer's rate is a good one.""",
+   "pickup truck driveway", "4. FIX NEGATIVE EQUITY FIRST")
+sc("""And sixth, look at the trim, not just the truck. Remember TFLcar's numbers. The F-150 XLT and Ram Big Horn were, adjusted for inflation, about the same price in twenty twenty-six as in twenty twenty-four. The jump to a top trim can add tens of thousands of dollars. Many buyers who say trucks are too expensive are really pricing luxury trucks.""",
+   "Ram 1500 Big Horn 2025", "6. THE TRIM IS THE PRICE")
+sc("""Seventh, time it with the market. Incentives tend to move during the year, and Kelley Blue Book said December incentives reached seven point five percent of the average transaction price, the highest level of twenty twenty-five. When a new generation arrives, like the twenty twenty-seven Silverado and Sierra, the outgoing models can be easier to negotiate. A model-year changeover is often a good time to buy.""",
+   "Chevrolet Silverado 2026 dealer lot", "7. BUY AT THE CHANGEOVER")
+sc("""And consider a smaller truck. Kelley Blue Book put the average small and midsize pickup at forty-three thousand, seven hundred ninety dollars in September twenty twenty-six, almost twenty-four thousand less than the full-size average. And a midsize truck like the Tacoma, Ranger or Colorado starts in the low to mid thirty thousands. If you do not need full-size towing, the cheapest way to lower your payment is a smaller truck.""",
+   "Toyota Tacoma SR5", "MIDSIZE AVERAGE: $43,790")
+
+# ---------- CLOSE ----------
+sc("""So why did truck payments hit record highs? Because the average full-size truck now sells for about sixty-seven thousand dollars, buyers choose expensive trims, loans got longer, rates stayed around seven percent, down payments fell, and almost a third of trade-ins carry negative equity into the next loan. Each one adds to the payment, and together they set a new record almost every quarter.""",
+   "Chevrolet Silverado 1500 2025", "WHY PAYMENTS HIT RECORDS")
+sc("""And the final twist. The truck did not cause most of the problem, the loan did. Adjusted for inflation, several popular truck trims cost about the same as two years ago. What changed is how buyers pay for them. Control the term, the down payment and the trade-in, and the same truck can cost thousands less.""",
+   "Ford F-150 2025", "THE LOAN IS THE PROBLEM")
+sc("""We put a truck payment calculator worksheet and a dealer negotiation checklist into the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment. Subscribe, because next we look at how the best-selling truck in America stays on top. And tell us in the comments, what is your truck payment? Thanks for watching.""",
+   "Ram 1500 pickup truck", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+
+CH = {"The average new full-size pickup": "Intro", "First, the records themselves": "The new payment records", "Reason one, the trucks themselves": "Reason 1: Truck prices",
+      "Reason two is the one everyone": "Reason 2: Tariffs and destination fees", "Reason three, longer loans": "Reason 3: Longer loans",
+      "Reason four, negative equity": "Reason 4: Negative equity", "Reason five, interest rates": "Reason 5: Rates, down payments and insurance",
+      "So how do you avoid a record payment": "How to lower your payment", "So why did truck payments": "The verdict"}
+CUTS = {0: 8, 1: 8, 2: 5, 3: 4}
+for idx, s in enumerate(S):
+    if idx in CUTS: s["cuts"] = CUTS[idx]
+    for k, v in CH.items():
+        if s["text"].startswith(k): s["chapter"] = v
+json.dump({"id": "video34", "length_scale": 1.4,
+  "title": "Why Truck Payments Hit Record Highs (1 in 5 Buyers Now Pay $1,000 a Month)", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words", round(words*1.4/197,1), "min")
