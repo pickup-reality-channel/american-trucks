@@ -1,0 +1,120 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+# ---------- HOOK ----------
+sc("""One transmission problem can lock the rear wheels of a pickup at highway speed. Another has a factory bulletin that admits replacing the whole transmission will not fix it. And one recall had to be recalled again, because the dealers installed the wrong software. These are five truck transmission problems that can cost you thousands, and what to check before you buy.""",
+   "Chevrolet Silverado 2500HD", "5 TRANSMISSION PROBLEMS")
+
+# ---------- COLD OPEN ----------
+sc("""The transmission is the part most truck buyers think about least. People ask about the engine, the towing capacity and the bed length. Almost nobody asks which transmission is in the truck, and what its history is. That is a mistake, because according to J.D. Power, replacing a truck transmission typically costs between two thousand five hundred and six thousand dollars, parts and labor, and heavy-duty trucks can cost more.""",
+   "Ford F-150 pickup truck", "$2,500 TO $6,000 TO REPLACE")
+sc("""And in the last two years, transmissions have become one of the biggest stories in the truck world. Ford recalled almost one point four million F-150s for unexpected downshifts. General Motors recalled hundreds of thousands of trucks and SUVs because the rear wheels could lock up, and then had to expand and correct that recall in twenty twenty-six. And three separate class actions are fighting over whether these transmissions were defective from the start.""",
+   "GMC Sierra 1500", "RECALLS, EXPANSIONS, LAWSUITS")
+sc("""Here is the twist that connects most of this story. Ford's ten-speed and GM's ten-speed are related. The ten-speed automatic was developed jointly by General Motors and Ford, according to AutoGuide and Law three sixty Canada. Two rivals shared the engineering. And now both of them are dealing with complaints about how it shifts.""",
+   "Ford F-150 and Chevrolet Silverado", "FORD + GM: ONE 10-SPEED FAMILY")
+sc("""In this video, we go through five transmission problems, from the most dangerous to the most common. For each one, you will hear which trucks are affected, what the manufacturer did, and what owners say in court. Lawsuits are allegations, not proof, and we will say that every time. Every fact is sourced in the description. Let's start with the one that can lock your wheels.""",
+   "Chevrolet Silverado 1500", "FROM DANGEROUS TO COMMON")
+
+sc("""And before we start, a quick look at that cost, because it changes how you judge a used truck. J.D. Power lists the factors that push a transmission bill up. Heavy-duty and commercial trucks have larger, more complex transmissions. Automatics cost more than manuals. Factory parts cost more than aftermarket ones. Labor rates are higher in cities. And extra work like a torque converter can add to the total. On a newer heavy truck, the top of that range is easy to reach.""",
+   "Ford F-250 Super Duty", "WHAT DRIVES THE BILL UP")
+sc("""Why do so many trucks now have eight and ten gears? More gears let the engine stay in its most efficient range, which helps fuel economy and towing. But every extra gear means more clutches, more valves, and more software deciding when to shift. A modern automatic is constantly making decisions based on sensor signals. When a sensor or a valve gives it the wrong information, it can make the wrong decision very quickly.""",
+   "Chevrolet Silverado 1500 2022", "MORE GEARS, MORE DECISIONS")
+# ---------- 1. GM 10-SPEED LOCKUP ----------
+sc("""Problem number one is GM's ten-speed rear wheel lockup. On October seventeenth, twenty twenty-four, General Motors decided to recall about four hundred sixty-two thousand pickups and SUVs with Duramax turbo-diesel engines, according to WardsAuto. That included twenty twenty to twenty twenty-two Silverado and Sierra fifteen hundred, twenty-five hundred and thirty-five hundred trucks, and twenty twenty-one Tahoe, Suburban, Yukon and Escalade SUVs.""",
+   "Chevrolet Silverado 3500HD Duramax", "462,000 GM DIESELS RECALLED")
+sc("""The defect was excessive wear in the transmission control valve. That wear can drop fluid pressure and make shift valves move unexpectedly. The result is harsh shifting, and in rare cases, the rear wheels can lock up during a downshift from eighth gear. Drivers might see a message saying reduced propulsion. Imagine that on a highway with a trailer behind you.""",
+   "GMC Sierra 2500HD Denali", "REAR WHEELS CAN LOCK")
+sc("""The timeline shows how a recall is born. According to WardsAuto, GM got an internal safety report after a customer complaint on June fifth, twenty twenty-four. It opened an investigation on July sixteenth. On July twenty-ninth, the federal safety agency flagged more potential problems. By September seventeenth, GM had identified one thousand, eight hundred eighty-eight field reports of rear wheel lockups possibly related to the issue, plus eleven incidents and three minor injuries, none from crashes.""",
+   "Chevrolet Silverado 2500HD", "1,888 FIELD REPORTS")
+sc("""And GM did something unusual. It issued a stop-sale order on October twenty-fourth, and pulled certification from its certified used vehicles in dealer stock until they were repaired. The fix was software that monitors valve wear. If it detects excessive wear about ten thousand miles before a possible lockup, it limits the transmission to fifth gear until the next restart. A warranty program was added to cover further repairs.""",
+   "Chevrolet Tahoe", "THE FIX: LIMIT IT TO 5TH GEAR")
+sc("""Here is the twist. In twenty twenty-six, the recall got messier. According to The Drive, GM expanded it to forty-three thousand, seven hundred thirty-two more twenty twenty-two SUVs with electronic shift-by-wire. And in a second addendum, one thousand fifty-five trucks had to go back, because technicians had installed the wrong software version, one that might not detect the warning signs of valve body failure. A recall repair that needed its own repair.""",
+   "Chevrolet Suburban", "THE WRONG SOFTWARE WAS INSTALLED")
+sc("""And The Drive makes a point every owner should hear. The software update stops the transmission from making random, unsafe shifts at speed. But it does not repair the valve body, and it does not stop the wear. GM has released an updated valve body for its light-duty ten-speeds, but its effectiveness is unproven, according to the report. Then, in May twenty twenty-six, a class action was filed in federal court in Northern California, according to AutoGuide.""",
+   "GMC Yukon Denali", "SOFTWARE STOPS SHIFTS, NOT WEAR")
+sc("""The lawsuit alleges GM kept selling Chevrolet, GMC and Cadillac models while aware of harsh shifting, hesitation, gear engagement problems and sudden drivetrain locking, and that earlier bulletins and recalls addressed symptoms without fixing what plaintiffs call a design defect. GM had not commented publicly, and a judge has not decided whether it will proceed as a class action. So what do you check? Ask for proof of the recall software, and ask whether the valve body was replaced.""",
+   "Chevrolet Silverado 1500 LTZ", "CHECK: SOFTWARE AND VALVE BODY")
+
+sc("""There is one more detail from that first recall that matters for used buyers. When GM announced it, replacement parts were not yet available, and GM said it was working to obtain them, according to WardsAuto. Owner letters began going out on December ninth, twenty twenty-four. So for a while, owners had software protection, and a warranty program, but not a new part. If you buy one of these trucks, ask which of those three it actually received.""",
+   "Chevrolet Silverado 2500HD towing", "SOFTWARE FIRST, PARTS LATER")
+# ---------- 2. GM 8-SPEED SHUDDER ----------
+sc("""Problem number two is GM's eight-speed shudder. Before the ten-speed, many GM trucks used the Hydra-Matic eight-speed, the eight L forty-five and eight L ninety. According to Pickup Truck and SUV Talk, about eight hundred thousand Chevrolet and GMC trucks and SUVs built from twenty fifteen to twenty nineteen with these transmissions were part of a class action, where owners said the transmissions shudder and shake in high gears, and hesitate and lurch in lower gears, even after repairs.""",
+   "Chevrolet Silverado 2017", "8-SPEED: ~800,000 VEHICLES")
+sc("""The owners pointed to thirteen technical service bulletins that did not solve the problem. And then came the twist. On June twenty-seventh, twenty twenty-five, the Sixth Circuit Court of Appeals ruled nine to seven to decertify the class, finding too many differences among owners for one judge to oversee. GM won. The case went back to Judge David Lawson in Detroit, where owners can still try for smaller subclasses.""",
+   "GMC Sierra 2018", "APPEALS COURT: 9-7 FOR GM")
+sc("""But it did not end there. In September twenty twenty-six, a new case, Barba versus General Motors, targeted twenty nineteen Sierra, Silverado, Canyon and Colorado trucks with the eight L ninety or eight L forty-five built after March first, twenty nineteen, according to Top Class Actions. It alleges a common design flaw causing harsh shifting, jerking and hesitation in lower gears, and claims GM knew as early as twenty thirteen.""",
+   "Chevrolet Colorado", "2026: A NEW 8-SPEED CASE")
+sc("""And here is the line from that case that should make every used truck buyer stop. The complaint cites a December twenty twenty-three technical service bulletin stating, quote, replacing transmission components or complete assemblies will not improve the condition. In other words, for the condition described, even a new transmission was not expected to fix it. These are allegations in a lawsuit, and GM has not lost on the merits.""",
+   "GMC Canyon", "\"A NEW TRANSMISSION WILL NOT IMPROVE IT\"")
+sc("""So if you are looking at a twenty fifteen to twenty nineteen GM truck with an eight-speed, drive it at a steady forty to sixty miles per hour on a smooth road, and feel for a shudder, like driving over rumble strips. Ask whether the transmission fluid was changed to the updated type, and whether any of the bulletins were performed. A truck that shudders on the test drive will usually shudder for you too.""",
+   "Chevrolet Silverado 1500 2016", "TEST: STEADY 40-60 MPH")
+
+sc("""To understand how big the first eight-speed case was, look at its structure. According to Pickup Truck and SUV Talk, the litigation covered twenty-six statewide subclasses and fifty-nine state-law claims. That complexity is exactly what the appeals court said made a single class unworkable. And the new twenty twenty-six case is much narrower, two California buyers, Matthew Barba and Renzo Calvo-Saez, suing on behalf of California owners under California consumer law.""",
+   "Chevrolet Silverado Trail Boss", "26 SUBCLASSES, 59 CLAIMS")
+sc("""So far, two of our five problems belong to General Motors, the ten-speed and the eight-speed. And the twist is that GM's own customers have been caught between them. If you bought a twenty nineteen truck, you may have an eight-speed with a shudder case, or a ten-speed with a lockup recall, depending on the engine and trim. Same model year, same badge, two very different transmission stories. Always confirm which one is in the truck.""",
+   "GMC Sierra 1500 2019", "SAME YEAR, TWO TRANSMISSIONS")
+# ---------- 3. FORD F-150 DOWNSHIFT ----------
+sc("""Problem number three is the Ford F-150's unexpected downshift. On April fourteenth, twenty twenty-six, Ford recalled one million, three hundred ninety-two thousand, nine hundred thirty-five twenty fifteen to twenty seventeen F-150s, because of an unexpected downshift that can cause a loss of control, according to Motor1. A separate recall covered forty-four thousand, nine hundred sixty-three twenty fourteen F-150s for the same kind of problem.""",
+   "Ford F-150 2015", "1,392,935 F-150s RECALLED")
+sc("""The road to that recall took years. According to Ford Authority, the federal safety agency opened a preliminary investigation in March twenty twenty-five and upgraded it in early February twenty twenty-six. Owners claim the trucks can downshift suddenly without warning, and some reported at least one rear wheel lockup event. Imagine dropping several gears at once, at highway speed, in the rain.""",
+   "Ford F-150 XLT 2016", "SUDDEN DOWNSHIFTS. WHEEL LOCKUPS.")
+sc("""Here is the twist. The cause may not be the transmission's gears at all. According to Ford Authority, Ford believes the root cause is a supplier production problem with a lead frame, causing signal loss from the output shaft speed sensor. The federal agency also pointed to possible signal loss in the transmission range sensor. A tiny electrical part tells the transmission the wrong thing, and the transmission obeys.""",
+   "Ford F-150 Lariat 2017", "THE CAUSE: A SENSOR SIGNAL")
+sc("""And in court, the story keeps going. In February twenty twenty-six, in the case O'Connor versus Ford in federal court in Illinois, Judge Jeffrey Cummings denied Ford's motion for partial judgment, letting a Massachusetts consumer protection claim continue, according to Ford Authority. That does not mean Ford is liable. It means the case goes on. For a buyer, the practical point is simple. Check the VIN, and make sure the recall fix is done.""",
+   "Ford F-150 pickup truck", "THE CASE CONTINUES")
+
+sc("""There is one more twist hidden in that recall. The twenty fifteen to twenty seventeen F-150s span a change in transmissions. A reader comment on Ford Authority pointed out that many of those trucks use the older six-speed, not the ten-speed, and the article did not settle the question. That is a useful reminder. Recalls are written by model year and build date, not by what owners call the transmission. Only the VIN tells you for sure.""",
+   "Ford F-150 2017", "ONLY THE VIN KNOWS")
+sc("""And this was not the first time regulators looked at F-150 downshifts. According to Law three sixty Canada, the federal safety agency had investigated unexpected downshifting on twenty fifteen to twenty seventeen F-150s, potentially affecting one point three million vehicles. So the twenty twenty-six recall was the end of a long road, not a surprise. If you own one of these trucks and never got a letter, check the VIN today.""",
+   "Ford F-150 XLT", "A LONG ROAD TO A RECALL")
+# ---------- 4. FORD 10R80 ----------
+sc("""Problem number four is Ford's ten-speed automatic, the ten R eighty, which is in a huge number of Fords, the F-150, the Ranger, the Expedition and others. In April twenty twenty-five, a proposed class action was filed in Vancouver for Canadian owners, covering vehicles from model years twenty seventeen and twenty eighteen onward, according to Law three sixty Canada.""",
+   "Ford F-150 Raptor", "FORD 10R80 10-SPEED")
+sc("""The complaint lists what owners report. Difficulty shifting gears. Unintended lunging when shifting from park to drive. Shuddering and shimmying while driving. Sudden gear shifts the driver did not request. And premature wear of transmission parts and clutch plates. Transport Canada had looked into unintended downshifting complaints on twenty seventeen to twenty twenty F-150s with this transmission, after eleven consumer complaints. The class has not been certified, and the allegations have not been tested in court.""",
+   "Ford Expedition", "ALLEGED: LUNGE, SHUDDER, SUDDEN SHIFTS")
+sc("""Here is the twist. Consumer Reports put the F-150 at the top of its full-size truck reliability ranking, and still mentioned ten-speed transmission problems among owner complaints, according to Pickup Truck and SUV Talk. Both things can be true. A truck can be the most reliable in its class and still have a transmission that some owners hate. Most ten R eighty trucks never have a serious problem. Some owners notice harsh shifts. A smaller number end up with repairs.""",
+   "Ford F-150 Lariat", "MOST RELIABLE, STILL COMPLAINTS")
+sc("""What can you do? Many shift complaints on modern automatics are handled with software. The transmission learns how you drive, and a dealer can reset or update that learning. So when you test drive a used F-150 or Ranger, ask whether the transmission software has been updated or relearned, and drive it cold. Pay attention to the first shift from park to drive, and the shifts below twenty miles per hour.""",
+   "Ford Ranger 2024", "ASK FOR THE SOFTWARE UPDATE")
+
+sc("""Here is the part that ties problems three and four together. Ford's ten-speed and GM's ten-speed come from the same joint development. And both companies now face complaints about sudden or harsh shifts. Ford's recall points to a sensor signal. GM's points to valve wear. Different causes, similar symptoms. For a driver, the feeling is the same. The truck does something you did not ask it to do.""",
+   "Ford F-150 and Chevrolet Silverado pickups", "DIFFERENT CAUSES, SAME FEELING")
+# ---------- 5. TOYOTA + HEAVY DUTY ----------
+sc("""Problem number five shows that no brand is immune. In February twenty twenty-four, Toyota recalled about two hundred eighty thousand trucks and SUVs, twenty twenty-two and twenty twenty-three Tundras, Lexus LX six hundreds, and twenty twenty-three and twenty twenty-four Sequoias, because parts of the transmission may not immediately disengage when shifted into neutral, according to the Associated Press. The vehicle could creep forward at low speed if the brakes were not applied.""",
+   "Toyota Tundra 2022", "TUNDRA: 280,000, NEUTRAL MAY NOT BE NEUTRAL")
+sc("""The fix was a free software update. Toyota would not say whether there had been crashes or injuries. And the twist is that this came on the same new-generation Tundra whose twin-turbo engine would be recalled three times. Toyota's reputation was built on the old Tundra. The new one has had to earn it the hard way, with an engine story and a transmission story in its first years.""",
+   "Toyota Tundra TRD Pro", "SAME NEW TUNDRA. SECOND STORY.")
+sc("""And heavy-duty trucks have their own transmission concerns. According to Pickup Truck and SUV Talk's report on Consumer Reports data, some twenty twenty-four and twenty twenty-five Silverado heavy-duty owners reported valve body failures and full transmission replacements, and GM ran a customer satisfaction program for a transmission bearing issue on certain twenty twenty-four trucks. On Ram heavy-duty trucks, software problems left some trucks limited to about fifteen miles per hour, or made tow haul mode unavailable.""",
+   "Ram 2500 Heavy Duty", "HD TRUCKS: VALVE BODIES, LIMP MODE")
+sc("""A truck stuck at fifteen miles per hour with a trailer behind it is not a small problem. And a customer satisfaction program is not a recall. It is a goodwill repair that may have conditions and deadlines. That is why, on heavy-duty trucks, the service history matters just as much as the recall list. Ask the dealer to print both.""",
+   "Ram 3500 dually", "A SATISFACTION PROGRAM IS NOT A RECALL")
+
+sc("""So what does a failing transmission feel like before it fails? The symptoms in these recalls and lawsuits are a useful list. Harsh or delayed shifts. A shudder at steady speed. A lunge from park to drive. A sudden downshift. A warning message about reduced propulsion. Creeping in neutral. If you feel any of these on a test drive, do not let anyone tell you it is normal for this truck. Ask for it in writing.""",
+   "Toyota Sequoia", "THE WARNING SIGNS")
+# ---------- CLOSE ----------
+sc("""So what is the pattern across all five? Modern truck transmissions are not just gears and fluid. They are computers, sensors and valve bodies. Ford's downshift may come from a sensor signal. GM's lockup comes from valve wear, controlled by software. Toyota's neutral problem was fixed with software. And the most common fix for all of them is a software update, which can stop the danger without stopping the wear.""",
+   "Ford F-150 Chevrolet Silverado Toyota Tundra", "TRANSMISSIONS ARE COMPUTERS NOW")
+sc("""And here is the final twist. In court, the manufacturers are winning more often than you might think. GM won its eight-speed appeal. The death wobble case against Ford lost its class status on appeal too. That means if your transmission fails after the warranty, a class action probably will not save you. Your best protection is buying the right truck, with the right records, in the first place.""",
+   "GMC Sierra 1500", "A LAWSUIT WILL NOT SAVE YOU")
+sc("""Here is your transmission checklist for twenty twenty-seven. One, run the VIN for recalls and confirm the software updates were done. Two, ask for the transmission service history, fluid changes, valve body work, relearns. Three, drive the truck cold, and feel every shift from park to drive and below twenty miles per hour. Four, cruise at forty to sixty on a smooth road and feel for shudder. Five, if it is a heavy-duty truck, test tow haul mode.""",
+   "Chevrolet Silverado 2500HD", "5 TRANSMISSION CHECKS")
+sc("""And one last tip. If the truck is still under the powertrain warranty, find out exactly when it ends, in months and in miles. A transmission problem that appears one month before the warranty ends is free. One month after can cost thousands. We put all of this into the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
+   "Ford Super Duty", "KNOW YOUR WARRANTY END DATE")
+sc("""If this helped, subscribe, because next we look at the truck safety ratings nobody talks about, and some popular trucks score worse than you would expect. And tell us in the comments, has your truck's transmission ever done something strange? Thanks for watching.""",
+   "Ram 1500 pickup truck", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+
+CH = {"One transmission problem": "Intro", "Problem number one": "1. GM 10-speed rear wheel lockup", "Problem number two": "2. GM 8-speed shudder",
+      "Problem number three": "3. Ford F-150 unexpected downshift", "Problem number four": "4. Ford 10R80 10-speed",
+      "Problem number five": "5. Toyota Tundra and heavy-duty trucks", "So what is the pattern": "Transmission checklist for 2027"}
+CUTS = {0: 8, 1: 8, 2: 5, 3: 4}
+for idx, s in enumerate(S):
+    if idx in CUTS: s["cuts"] = CUTS[idx]
+    for k, v in CH.items():
+        if s["text"].startswith(k): s["chapter"] = v
+json.dump({"id": "video26", "length_scale": 1.44,
+  "title": "5 Truck Transmission Problems That Cost Thousands (Before You Buy in 2027)", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words")
