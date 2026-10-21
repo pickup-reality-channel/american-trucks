@@ -1,0 +1,7 @@
+- Ford, 2025 full-year US sales (F-Series 828,832; 49 years #1 truck; 44 years #1 vehicle; hybrids): https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- autoevolution, Q3 2026 full-size pickup sales: https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
+- Automotive Logistics, Novelis fires and Ford impact: https://www.automotivelogistics.media/supply-chain/aluminium-supplier-novelis-expects-to-restart-hot-mill-in-summer-2026-after-fires-caused-disruption-in-2025/2607587
+- Ford Authority, F-150 production cut at Dearborn (Oct 2025): https://fordauthority.com/2025/10/ford-f-150-production-cut-in-half-at-dearborn-assembly-plant/
+- Fox Business, Ford $19.5B charge, Lightning EV end (Dec 2025): https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Ford Authority, SVT Lightning values (Feb 2026): https://fordauthority.com/2026/02/1999-2004-ford-f-150-svt-lightning-values-have-skyrocketed/
+- Ford Authority, 1980-1986 F-Series +32% (Aug 2026): https://fordauthority.com/2026/08/1980-1986-ford-f-series-getting-noticed-by-car-collectors/
