@@ -38,5 +38,5 @@ jobs:
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git fetch origin deliveries || true
           git checkout -B deliveries $(git rev-parse --verify -q origin/deliveries || echo HEAD)
-          mkdir -p deliveries/$V && cp /tmp/out/* deliveries/$V/
+          mkdir -p deliveries/$V/media && cp /tmp/out/* deliveries/$V/ && cp videos/$V/media/*.jpg deliveries/$V/media/ 2>/dev/null || true
           git add -f deliveries && git commit -m "deliver $V" && git push origin deliveries
