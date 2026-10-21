@@ -1,0 +1,13 @@
+- Classic.com, 1953 Dodge Power Wagon, Barrett-Jackson Scottsdale 2026: https://www.classic.com/a/barrett-jackson-scottsdale-2026-en8PJ1n/lots/1953-dodge-power-wagon-WjbK07W
+- Hagerty, Bull Market pick: 1984-88 Toyota Pickup 4x4 SR5: https://www.hagerty.com/media/?p=273623
+- Ford Authority, 1980-1986 F-Series +32% (Aug 2026): https://fordauthority.com/2026/08/1980-1986-ford-f-series-getting-noticed-by-car-collectors/
+- Ford Authority, SVT Lightning values (Feb 2026): https://fordauthority.com/2026/02/1999-2004-ford-f-150-svt-lightning-values-have-skyrocketed/
+- Hagerty, Dodge Ram SRT-10 collector market: https://hagerty.com/media/?p=152442
+- autoevolution, Bronco Raptor VIN 0001 resale (Sept 2026): https://www.autoevolution.com/news/ford-bronco-raptor-vin-0001-has-just-sold-for-a-third-of-its-2022-charity-auction-hammer-price-276246.html
+- VEHQ, pickups worth more than new (454 SS, Syclone): https://vehq.com/pickup-trucks-worth-more-sold/
+- VEHQ, discontinued trucks (Syclone production): https://vehq.com/?p=137824
+- The Truth About Cars, Hagerty 2026 Bull Market list: https://thetruthaboutcars.com/cars/features/s-bull-selections-from-hagertys-2026-bull-market-list-45132745
+- AOL (2026), Dodge Li'l Red Express: https://www.aol.com/articles/dodges-lil-red-truck-spawned-170911988.html
+- Pedal Commander, best-selling trucks of 2025: https://pedalcommander.com/blogs/driveway/best-selling-trucks-2025
+- Fox Business, Ford $19.5B charge: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
