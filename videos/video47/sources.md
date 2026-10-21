@@ -1,0 +1,10 @@
+- AOL (2026), Dodge Li'l Red Express spawned the performance truck movement: https://www.aol.com/articles/dodges-lil-red-truck-spawned-170911988.html
+- Carscoops, Shelby's first V8 Dodge Dakota: https://www.carscoops.com/2018/01/shelbys-first-v8-powered-dodge-dakota/
+- VEHQ, discontinued trucks (GMC Syclone): https://vehq.com/?p=137824
+- VEHQ, pickups worth more than new (Syclone, 454 SS Hagerty values): https://vehq.com/pickup-trucks-worth-more-sold/
+- The Truth About Cars, Hagerty 2026 Bull Market list: https://thetruthaboutcars.com/cars/features/s-bull-selections-from-hagertys-2026-bull-market-list-45132745
+- Driving Line, the forgotten 2003-07 Silverado SS: https://www.drivingline.com/articles/forgotten-muscle-truck-the-03-07-silverado-ss-was-a-milder-alternative-to-lightning-srt-10/
+- Hagerty, Dodge Ram SRT-10 collector market: https://hagerty.com/media/?p=152442
+- Ford Authority, SVT Lightning values (Feb 2026): https://fordauthority.com/2026/02/1999-2004-ford-f-150-svt-lightning-values-have-skyrocketed/
+- Pickup Truck Talk, 2027 Ram TRX returns with 777 hp (Jan 2026): https://pickuptrucktalk.com/2026/01/2027-ram-trx-is-back-with-srt-badge-777-hp-supercharged-engine-100k-price/
+- Carscoops, Hemi return orders: https://www.carscoops.com/2025/07/hemis-return-sparked-10000-orders-in-less-than-24-hours/
