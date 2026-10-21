@@ -1,0 +1,30 @@
+{
+  "id": "test30",
+  "title": "The American Pickup Nobody Wants Anymore (And the One Everyone Does)",
+  "sources": [
+    "Motor Authority, Nissan Titan ends after 2024 model year: https://www.motorauthority.com/news/1140417_nissan-titan-dies-after-2024",
+    "CarScoops, 2025 US sales (Ford F-Series 801,525 units): https://carscoops.com/2026/01/2025-us-car-sales-trucks-win-again-evs-slide"
+  ],
+  "scenes": [
+    {
+      "text": "In 2022, Nissan sold just fifteen thousand Titan pickups in America. That was a forty-five percent drop in a single year.",
+      "query": "Nissan Titan pickup truck",
+      "caption": "TITAN 2022: 15,063 SOLD (-45%)"
+    },
+    {
+      "text": "Nissan then confirmed the truck would end after the twenty twenty-four model year.",
+      "query": "Nissan Titan XD",
+      "caption": "PRODUCTION ENDED AFTER 2024"
+    },
+    {
+      "text": "But here is the twist. In 2025, Ford sold eight hundred one thousand F-Series trucks. More than fifty times the Titan.",
+      "query": "Ford F-150 pickup truck",
+      "caption": "FORD F-SERIES 2025: 801,525 SOLD"
+    },
+    {
+      "text": "So Americans still love pickups. They just stopped buying the wrong ones. Next: five trucks buyers are quietly walking away from.",
+      "query": "pickup trucks parking lot dealership",
+      "caption": "5 TRUCKS BUYERS ARE LEAVING"
+    }
+  ]
+}
