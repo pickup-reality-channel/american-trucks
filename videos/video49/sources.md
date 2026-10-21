@@ -1,0 +1,11 @@
+- Cars.com, 10 cheapest pickup trucks you can buy (Aug 2026): https://cars.com/articles/here-are-the-10-cheapest-pickup-trucks-you-can-buy-right-now-448622/
+- SlashGear, cheapest new pickup trucks of 2026 (May 2026): https://www.slashgear.com/2169688/cheapest-new-pickup-trucks-can-buy-2026-ranked/
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Pedal Commander, best-selling trucks of 2025: https://pedalcommander.com/blogs/driveway/best-selling-trucks-2025
+- Motor Authority, Nissan Titan ends: https://www.motorauthority.com/news/1140417_nissan-titan-dies-after-2024
+- The Autopian, Hyundai Santa Cruz (Jan 2026): https://www.theautopian.com/the-santa-cruz-is-reportedly-dying-but-hyundai-says-making-it-was-a-valuable-learning-experience/
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- The Next Web, Slate Auto preorders (June 2026): https://thenextweb.com/news/slate-auto-ev-pickup-24950-preorders-bezos-production
+- Hagerty, small-pickup segment and regulations: https://hagerty.com/media/?p=255984
+- The Henry Ford, 1925 Model T pickup: https://thehenryford.org/collections-and-research/digital-collections/artifact/289663
