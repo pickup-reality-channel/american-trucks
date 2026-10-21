@@ -1,0 +1,132 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+sc("""Sixty-seven thousand, five hundred seventy-three dollars. That is what the average full-size pickup sold for in September twenty twenty-six, according to Kelley Blue Book. Add a seven-year loan, record diesel prices and insurance that keeps climbing, and buying a truck has become one of the biggest financial decisions most families will ever make. Yet most buyers spend more time choosing a paint color than checking the numbers.""",
+   'Ford F-150 dealership', 'AVG FULL-SIZE PICKUP: $67,573')
+sc("""So here it is: the complete truck buyer's checklist for twenty twenty-seven. Twelve steps, in order, from before you leave home to the moment you sign. One of these steps can be worth up to ten thousand dollars a year in tax deductions for the right buyer. Another can save you thousands in interest. And one takes two minutes and can stop you from buying a truck that should not tow.""",
+   'pickup truck checklist', '12 STEPS BEFORE YOU SIGN')
+sc("""Every number here comes from a published source listed in the description. This is general information, not financial or tax advice. If we could not confirm a figure, we left it out. Let's start before you ever see a truck.""",
+   'pickup trucks lot', 'EVERY NUMBER IS SOURCED')
+sc("""Step one: know the real cost of ownership, not just the price. According to AAA's twenty twenty-six Your Driving Costs study, a new half-ton pickup costs about sixteen thousand, four hundred forty-nine dollars a year to own and operate, assuming fifteen thousand miles a year over five years. A midsize pickup costs about thirteen thousand and eighty-nine.""",
+   'Chevrolet Silverado Toyota Tacoma', 'STEP 1: $16,449/YEAR TO OWN')
+sc("""That number includes depreciation, finance charges, insurance, registration and taxes, fuel, and maintenance. According to AAA, depreciation alone averaged four thousand, four hundred twenty-two dollars a year across all new vehicles. It is the biggest cost, and it never shows up on a bill.""",
+   'used pickup trucks', 'DEPRECIATION: $4,422/YEAR')
+sc("""Here is the first twist. In AAA's pickup numbers, the hybrid pickup was the cheapest to own, at sixteen thousand, one hundred seventeen dollars a year, cheaper than gas at sixteen thousand, six hundred twenty-six, and electric at seventeen thousand, four hundred fourteen. The truck with the cheapest monthly cost is not always the one with the lowest sticker price.""",
+   'Ford F-150 hybrid', 'HYBRID: CHEAPEST TO OWN')
+sc("""Step two: choose the right size and engine for your real life. Be honest about how often you tow, how many people you carry, and where you park. A midsize truck that does everything you need can save thousands a year compared with a full-size truck you only need twice a year.""",
+   'Ford Ranger Chevrolet Colorado', 'STEP 2: RIGHT SIZE, RIGHT ENGINE')
+sc("""And fuel prices changed the engine question in twenty twenty-six. According to the U S Energy Information Administration, regular gas averaged four dollars and twenty-eight cents and diesel six dollars and twenty-eight cents in the week of October nineteenth. A year earlier, the gap between them was about sixty cents. Now it is two dollars.""",
+   'diesel pump price', 'GAS $4.28. DIESEL $6.28')
+sc("""Here is a quick rule. Divide the diesel price by the gas price. Today that is about one point four seven, which means a diesel needs about forty-seven percent better fuel economy than the gas version just to break even on fuel. For most light-duty buyers, that is a tough bar. For heavy towing, diesel is still often the right tool.""",
+   'calculator', 'DIESEL NEEDS +47% MPG TO BREAK EVEN')
+sc("""And do not ignore the small trucks. According to Ford, the Ford Maverick sold one hundred fifty-five thousand and fifty-one units in twenty twenty-five, and eighty-one thousand and thirty-four of them were hybrids. For buyers who carry light loads and drive mostly in town, a small hybrid truck can cut fuel, insurance and purchase costs at the same time.""",
+   'Ford Maverick hybrid', '155,051 MAVERICKS IN 2025')
+sc("""And think about the cab and bed. Crew cabs are the most popular, but they are longer and often heavier, which affects parking, payload and price. A longer bed is great for work, but harder to park in the city. Measure your garage before you buy. Many full-size crew cab trucks do not fit in older garages.""",
+   'pickup truck garage', 'MEASURE YOUR GARAGE')
+sc("""Electric trucks deserve a quick note in your checklist. In AAA's twenty twenty-six study, the electric pickup was the most expensive to own, mostly because of higher purchase prices and depreciation. Ford ended production of the F-one-fifty Lightning in twenty twenty-five, according to Fox Business. If you consider an electric truck, check charging at home, towing range and resale carefully.""",
+   'electric pickup charging', 'ELECTRIC TRUCK? CHECK 3 THINGS')
+sc("""And think about mods before you buy. If you plan to add a lift, big tires or a heavy bumper, those changes affect fuel economy, insurance and payload. According to Insurify, lifted or modified trucks can cost more to insure. Buy the truck that fits your plans, not one you will need to change heavily.""",
+   'lifted pickup truck', 'PLAN YOUR MODS FIRST')
+sc("""Step three: check the payload and towing ratings of the exact truck, not the brochure. Payload is printed on a sticker in the driver's door jamb, and it includes passengers, cargo and the trailer's tongue weight. Heavily optioned trucks often have less payload. Read the sticker on the truck you are buying.""",
+   'truck door jamb sticker', 'STEP 3: READ THE DOOR STICKER')
+sc("""And check for recalls on any truck you are considering, new or used. In February twenty twenty-six, Chrysler recalled four hundred fifty-six thousand, two hundred eighty-seven vehicles, mostly Ram pickups, because a faulty towing module could disable trailer lights and trailer brakes, according to Pickup Truck Talk. Owners were told not to tow until it was fixed.""",
+   'Ram 1500 pickup', "456,287 RECALLED: DON'T TOW")
+sc("""The fix was free. But only if you know about it. You can check any vehicle identification number for open recalls on the N H T S A website in about two minutes. Do it before you buy a used truck, and ask the dealer to confirm that any recall on a new truck has been completed.""",
+   'NHTSA recall website', 'CHECK RECALLS BY VIN: 2 MINUTES')
+sc("""Step four: get insurance quotes before you choose the truck. According to Insurify, the national average for full coverage was two thousand, two hundred thirty-seven dollars a year in the first half of twenty twenty-six. But it varies enormously by truck.""",
+   'insurance paperwork', 'STEP 4: INSURANCE QUOTES FIRST')
+sc("""Here is the twist. In Insurify's comparison, full coverage for a full-size pickup averaged one hundred ninety-seven dollars a month, less than a sedan at two hundred forty-six. But performance trucks flip the math. According to Insure dot com data, the Ram fifteen hundred T R X cost three thousand, two hundred fifty-five dollars a year to insure. Two trucks with similar prices can have very different premiums.""",
+   'Ram TRX', 'TRX: $3,255/YEAR TO INSURE')
+sc("""And theft affects premiums too. The National Insurance Crime Bureau ranked the Chevrolet Silverado fifteen hundred as the fourth most stolen vehicle in America in twenty twenty-five, with sixteen thousand, seven hundred sixty-four thefts, and the Ford F-one-fifty seventh. Ask your insurer about anti-theft discounts.""",
+   'Chevrolet Silverado', 'SILVERADO: #4 MOST STOLEN')
+sc("""Step five: get pre-approved for a loan before you visit the dealer. According to Edmunds, the average new vehicle loan in the third quarter of twenty twenty-six carried a seven percent rate on a record forty-four thousand, six hundred sixty-four dollars financed, with an average payment of seven hundred eighty-seven dollars a month.""",
+   'credit union', 'STEP 5: GET PRE-APPROVED')
+sc("""A pre-approval from a bank or credit union gives you a rate to beat. If the dealer can offer a lower rate, great. If not, you already have financing. Without one, you are negotiating the truck and the loan at the same time, and that is exactly where buyers lose money.""",
+   'bank loan', 'A RATE TO BEAT')
+sc("""Here is the twist. Edmunds found that twenty-five point five percent of new vehicle loans had terms of eighty-four months or longer, and the average total interest was nine thousand, nine hundred thirty-eight dollars. A longer loan lowers the payment but raises the total cost. Always compare the total cost of the loan, not the monthly payment.""",
+   'calendar', '25.5% OF LOANS: 7+ YEARS')
+sc("""Your credit score matters a lot here. Rates vary widely by credit tier, and even a small difference in rate adds up over a long loan. According to Experian, the average new vehicle loan rate in the second quarter of twenty twenty-six was six point three five percent, while used vehicle loans averaged eleven point one nine percent. Check your credit report a few months before you shop and fix any errors.""",
+   'credit score report', 'NEW 6.35% VS USED 11.19%')
+sc("""And put down as much as you comfortably can. A bigger down payment means a smaller loan, less interest and less risk of owing more than the truck is worth. Edmunds reported that twenty-one point two percent of financed new vehicle purchases in the third quarter of twenty twenty-six had payments of one thousand dollars or more a month. A good down payment helps keep you out of that group.""",
+   'money savings', '21.2% PAY $1,000+/MONTH')
+sc("""Step six: decide whether to lease or buy. According to Experian, the average lease payment in the second quarter of twenty twenty-six was one hundred forty-eight dollars lower than the average loan payment. But trucks are often kept for many years, used for work and modified, habits that usually fit buying better than leasing.""",
+   'pickup truck', 'STEP 6: LEASE OR BUY?')
+sc("""Leasing can make sense if you drive few miles, want a new truck every few years and keep it close to stock. Buying usually wins if you keep trucks a long time, tow a lot or drive many miles. Mileage limits and wear charges on a lease can be expensive for a hard-working truck.""",
+   'pickup truck towing', 'LEASE LIMITS VS WORK TRUCKS')
+sc("""One more lease detail matters for truck buyers. Experian reported that leases made up twenty-three point seven five percent of new vehicle financing in the second quarter of twenty twenty-six, while loans rose to fifty-nine point five seven percent. Buyers are leaning back toward owning, and for trucks that are kept a long time, that usually makes sense.""",
+   'pickup truck owner', 'LEASES: 23.75% OF FINANCING')
+sc("""Step seven is the one that can be worth up to ten thousand dollars a year: check the new auto loan interest deduction. According to Fox reporting from January twenty twenty-six, eligible taxpayers can deduct up to ten thousand dollars a year in auto loan interest, whether they itemize or take the standard deduction.""",
+   'tax forms', 'STEP 7: UP TO $10,000 DEDUCTION')
+sc("""But the rules are strict. The vehicle must be new, bought for personal use, with final assembly in the United States, and the loan must be secured by the vehicle. The deduction phases out for higher incomes, starting above one hundred thousand dollars for individuals and two hundred thousand for joint filers. Leases generally do not qualify, because there is no loan.""",
+   'pickup truck assembly plant', 'NEW, US-ASSEMBLED, PERSONAL USE')
+sc("""Here is the twist most buyers miss. Two trucks with almost the same price can have different real costs if only one has final assembly in the United States. The assembly plant is printed on the window sticker. Check it, and talk to a tax professional about whether you qualify.""",
+   'window sticker', 'CHECK THE ASSEMBLY PLANT')
+sc("""Step eight: research the real price before you negotiate. The window sticker is a starting point, not the price you have to pay. Look at what others are paying, check for manufacturer rebates and incentives, and get written quotes from several dealers by email.""",
+   'car dealership', 'STEP 8: KNOW THE REAL PRICE')
+sc("""Rebates can be large on some trucks. According to CarEdge's deal list, updated in October twenty twenty-six, a twenty twenty-five Ford F-one-fifty Lightning carried eight thousand dollars cash back. Leftover model-year trucks often carry the biggest discounts, especially when the new model year has arrived.""",
+   'Ford F-150 Lightning', 'LIGHTNING: $8,000 CASH BACK')
+sc("""Email is your best negotiating tool. Ask several dealers for a written out-the-door price on the exact truck, with the stock number. Dealers who answer clearly and in writing are usually easier to deal with in person. And a written quote is something you can show another dealer.""",
+   'laptop email', 'GET WRITTEN QUOTES BY EMAIL')
+sc("""And be ready to walk away. There are many trucks and many dealers. The moment you feel you must buy this truck today, you lose your negotiating power. Saying you need a day to think is one of the most powerful things a buyer can do.""",
+   'walking away dealership', 'BE READY TO WALK AWAY')
+sc("""Step nine: negotiate the out-the-door price, not the payment. The out-the-door price includes the truck, taxes, registration and every fee. When you negotiate only the monthly payment, a dealer can stretch the loan or add products while keeping the payment where you want it.""",
+   'car dealership negotiation', 'STEP 9: OUT-THE-DOOR PRICE')
+sc("""Here is the twist: fees. According to CarEdge's State of Dealer Fees twenty twenty-six report, the average document fee in America is four hundred seventy-two dollars, but Florida averaged nine hundred seventy and California only eighty-five, because California caps it. Nineteen states cap doc fees. In others, the fee is whatever the dealer decides.""",
+   'dealer paperwork', 'AVG DOC FEE: $472')
+sc("""And the doc fee is a dealer fee, not a government fee, even if it is printed next to taxes and registration. Ask the dealer to separate government fees from dealer fees. If the dealer will not lower the doc fee, ask for a discount on the truck to offset it.""",
+   'dealer invoice', 'DEALER FEE ≠ GOVERNMENT FEE')
+sc("""Step ten: watch for add-ons. According to CarWhere, which studied five thousand two hundred eleven real buyer quotes through June twenty twenty-six, thirty-four point one percent included dealer-installed add-ons. Window tint averaged five hundred four dollars, door edge guards two hundred twenty-four, and wheel locks one hundred eighty-eight.""",
+   'dealer add-on sticker', 'STEP 10: 34.1% OF QUOTES HAD ADD-ONS')
+sc("""And in the finance office, you will likely be offered extended warranties, paint protection, gap coverage and service plans. Some can be useful, like gap coverage on a long loan with little money down. But all of them are optional, prices are often negotiable, and many can be bought later or from other providers.""",
+   'car dealership finance office', 'F&I PRODUCTS ARE OPTIONAL')
+sc("""Here is the twist: anything added to the loan costs interest too. A two thousand dollar product on a seven percent, seven-year loan costs much more than two thousand dollars. If you would not pay cash for it today, think twice before financing it.""",
+   'money calculator', 'ADD-ONS COST INTEREST TOO')
+sc("""Step eleven: inspect the truck and test drive it properly. Drive it on the highway, in town and over rough roads. Check the visibility, the parking cameras and the seat comfort. If you tow, ask whether you can test the truck with a load, or at least confirm the hitch and wiring are installed.""",
+   'pickup truck test drive', 'STEP 11: INSPECT AND TEST DRIVE')
+sc("""For a used truck, pay for a pre-purchase inspection by an independent mechanic. Check the frame for rust, look for signs of heavy towing or off-road abuse, and get a vehicle history report. A few hundred dollars for an inspection can save you from a truck with thousands in hidden problems.""",
+   'mechanic inspection', 'USED TRUCK? GET AN INSPECTION')
+sc("""And for a new truck, inspect it before you sign. Look for scratches or dents from shipping or the lot, confirm the options match the window sticker, and make sure you get two keys, the floor mats and the manual. Once you drive away, it is much harder to prove a problem came from the dealer.""",
+   'new truck delivery', 'INSPECT NEW TRUCKS TOO')
+sc("""Step twelve: read every line before you sign. Make sure the price, rate, term, trade-in value and fees match what you agreed to. Check that no products were added that you declined. And make sure any promise, like a free accessory or a repair, is written on the contract.""",
+   'signing contract', 'STEP 12: READ EVERY LINE')
+sc("""Here is a twist many buyers do not know. The federal CARS Rule, which would have banned some deceptive dealer practices, was struck down by a federal appeals court before it took effect. That means protection depends more on state laws and on your own attention. The contract is what counts.""",
+   'courthouse', 'THE CARS RULE NEVER TOOK EFFECT')
+sc("""And never sign a contract with blank spaces, and never drive away before the financing is final if you can avoid it. Some buyers have been called back days later and told their loan was not approved and they need to sign a new contract at a higher rate. Ask the dealer to confirm that financing is complete.""",
+   'car keys contract', 'NO BLANKS. FINAL FINANCING.')
+sc("""And keep copies of everything: the contract, the window sticker, the buyer's order, any written promises and every receipt. If there is a dispute later, about a fee, a warranty claim or a missing item, paperwork is your best protection. According to the Federal Trade Commission, warranty companies can ask for your maintenance records, so start a folder on day one.""",
+   'receipts folder', 'KEEP EVERY DOCUMENT')
+sc("""Bonus step: think about timing. End of the month, end of the quarter and end of the model year are traditionally when dealers push hardest to hit sales targets. When the new model year arrives, leftover trucks can carry bigger discounts. And a weekday visit, with an appointment, usually means more attention and less pressure than a busy Saturday.""",
+   'car dealership weekday', 'BONUS: TIMING MATTERS')
+sc("""And watch the model changes coming for twenty twenty-seven. According to Ford Authority, the twenty twenty-seven Ford Maverick X L becomes hybrid only, and the cheapest gas EcoBoost version moves up to the X L T all-wheel drive. Changes like that can make a leftover twenty twenty-six model a better deal, or a worse one, depending on what you want.""",
+   'Ford Maverick', '2027 CHANGES: KNOW THEM')
+sc("""Bonus step two: plan your trade-in separately. Get offers for your current truck from several buyers, including online buyers and other dealers, before you negotiate the new one. When the trade-in and the new truck are negotiated together, it is easy to lose track of what you are really getting for each.""",
+   'used truck trade in', 'NEGOTIATE THE TRADE SEPARATELY')
+sc("""And if you owe more than your current truck is worth, be careful. Rolling negative equity into a new loan makes the new loan bigger, and with seven-year terms becoming common, it can leave you upside down for years. Sometimes the cheapest move is to keep your current truck a little longer.""",
+   'car loan paperwork', 'WATCH NEGATIVE EQUITY')
+sc("""Bonus step three: budget for the first year. Registration and sales tax, insurance, a bed liner or cover, a hitch if you tow, and maybe new floor mats. According to AAA, license, registration and taxes alone averaged eight hundred two dollars a year in twenty twenty-six. Set that money aside before the truck arrives.""",
+   'pickup truck accessories', 'BUDGET FOR YEAR ONE')
+sc("""Let's recap the twelve steps. One: know the real cost of ownership. Two: choose the right size and engine. Three: check payload, towing and recalls. Four: get insurance quotes. Five: get pre-approved. Six: decide lease or buy. Seven: check the interest deduction.""",
+   'checklist', 'THE 12 STEPS: 1 TO 7')
+sc("""Eight: research the real price. Nine: negotiate the out-the-door price. Ten: watch for add-ons. Eleven: inspect and test drive. And twelve: read every line before you sign. Follow them in order, and you will be ahead of almost every buyer on the lot.""",
+   'checklist pickup truck', 'THE 12 STEPS: 8 TO 12')
+sc("""Here is the final twist. The best deal is not always the lowest price. It is the right truck, at a fair price, with a loan you can afford, insurance you checked, and no surprises in the contract. A buyer who follows a checklist can save thousands of dollars, even when paying close to sticker price.""",
+   'happy truck owner', 'THE BEST DEAL = NO SURPRISES')
+# ---------- CLOSE ----------
+sc("""We turned this entire checklist into a printable step-by-step guide, with worksheets for the real cost, the loan and the out-the-door price, in the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
+   'truck buyer guide', 'PRINTABLE CHECKLIST IN THE GUIDE')
+sc("""Subscribe for the next video, the complete breakdown of the Twenty Twenty-Seven Truck Buyer's Guide. And tell us in the comments: which step do you think most buyers skip? Thanks for watching.""",
+   'pickup truck sunset', "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+
+CH = {'Sixty-seven thousand, five hundred seventy-three': 'Intro', 'Step one: know the real': 'Step 1: The real cost', 'Step two: choose the right': 'Step 2: Size and engine', 'Step three: check the payload': 'Step 3: Payload and towing', 'Step four: get insurance quotes': 'Step 4: Insurance', 'Step five: get pre-approved for': 'Step 5: Financing', 'Step six: decide whether to': 'Step 6: Lease or buy', 'Step seven is the one': 'Step 7: The tax deduction', 'Step eight: research the real': 'Step 8: The real price', 'Step nine: negotiate the out-the-door': 'Step 9: Out-the-door price', 'Step ten: watch for add-ons.': 'Step 10: Add-ons', 'Step eleven: inspect the truck': 'Step 11: Inspect and drive', 'Step twelve: read every line': 'Step 12: Read before you sign', 'Bonus step: think about timing.': 'Bonus steps', "Let's recap the twelve steps.": 'The full checklist'}
+CUTS = {0: 8, 1: 8, 2: 5}
+for idx, sc_ in enumerate(S):
+    sc_["cuts"] = CUTS.get(idx, 3)
+    for k, v in CH.items():
+        if sc_["text"].startswith(k): sc_["chapter"] = v
+json.dump({"id": 'video59', "length_scale": 1.45,
+  "title": "The Truck Buyer's Checklist for 2027: 12 Steps Before You Sign (Step 7 Saves $10,000)", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words", round(words*1.45/212,1), "min")

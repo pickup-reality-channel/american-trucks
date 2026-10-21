@@ -1,0 +1,20 @@
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- AAA Your Driving Costs 2026 via CarPro: https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- AAA Your Driving Costs 2026 via Kelley Blue Book: https://www.kbb.com/car-news/aaa-hybrids-come-out-on-top-in-2026-ownership-cost-study/
+- EIA weekly fuel prices (week of Oct 19, 2026), summarized: https://startbusinessbystate.com/?p=16465
+- Pickup Truck Talk, Ram & Jeep towing recall (Feb 2026): https://pickuptrucktalk.com/2026/02/massive-ram-jeep-recall-halts-towing-on-over-450000-trucks-and-suvs-here-is-everything-you-should-know/
+- Insurify, car insurance report 2026: https://insurify.com/car-insurance/report/
+- Insurify, car vs truck insurance: https://insurify.com/car-insurance/car-vs-truck-insurance/
+- Yahoo / Insure.com, most expensive trucks to insure 2026: https://www.yahoo.com/lifestyle/articles/most-expensive-trucks-insure-2026-180054706.html
+- Ford Authority, NICB most stolen vehicles of 2025: https://fordauthority.com/2026/03/ford-f-150-among-top-10-most-stolen-vehicles-of-2025/
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
+- Auto Remarketing, Experian Q2 2026 automotive finance: https://autoremarketing.com/subprime/experian-sees-refinancing-continue-to-ripen-in-q2/
+- FOX 2 Detroit, car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
+- CarEdge, best truck deals (updated Oct 19, 2026): https://caredge.com/guides/deals/trucks/
+- CarEdge, State of Dealer Fees 2026: https://caredge.com/reports/state-of-dealer-fees
+- Fox Business, Ford Lightning production end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Federal Trade Commission, auto warranties: https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts
+- ConsumerAffairs, FTC CARS Rule thrown out by appeals court: https://www.consumeraffairs.com/news/ftcs-cars-rule-thrown-out-by-appeals-court-020525.html
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- CarWhere, dealer add-on study 2026: https://www.carwhere.com/research/studies/dealer-add-on-study
