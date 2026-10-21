@@ -107,7 +107,7 @@ def main(video):
         list(ex.map(render_scene, [(i, s, d, out, t["dur"]) for i, (s, t) in enumerate(zip(scenes, tts))]))
     # Captions come LAST and are timed from the audio that is really in the video:
     # scene start = sum of the measured scene lengths, sentence offsets = measured TTS durations.
-    srt, chapters, t0 = [], [], 0.0
+    srt, chapters, t0, timeline = [], [], 0.0, []
     for i, (s, t) in enumerate(zip(scenes, tts)):
         if s.get("chapter"):
             chapters.append(f"{int(t0//60)}:{int(t0%60):02d} {s['chapter']}")
@@ -116,9 +116,12 @@ def main(video):
             for c in cs:
                 end = pos + (b - a) * len(c) / chars
                 srt.append(f"{len(srt)+1}\n{ts(t0 + pos)} --> {ts(t0 + end)}\n{c}\n"); pos = end
-        t0 += probe(out / f"{i}.mp4")
+        dur = probe(out / f"{i}.mp4")
+        timeline.append({"scene": i, "start": t0, "dur": dur, "chapter": s.get("chapter"), "caption": s["caption"]})
+        t0 += dur
     (out / "list.txt").write_text("".join(f"file '{i}.mp4'\n" for i in range(len(scenes))))
     (out / "captions.srt").write_text("\n".join(srt))
+    (out / "timeline.json").write_text(json.dumps(timeline))
     (out / "chapters.txt").write_text("\n".join(chapters) + "\n")
     nocap = out / "nocaps.mp4"
     run("ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(out / "list.txt"), "-c", "copy", str(nocap))
