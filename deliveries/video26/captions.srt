@@ -1,0 +1,2287 @@
+1
+00:00:00,000 --> 00:00:02,769
+One transmission problem can lock the rear
+
+2
+00:00:02,769 --> 00:00:05,143
+wheels of a pickup at highway speed.
+
+3
+00:00:05,323 --> 00:00:08,032
+Another has a factory bulletin that admits
+
+4
+00:00:08,032 --> 00:00:10,934
+replacing the whole transmission will not fix
+
+5
+00:00:10,934 --> 00:00:11,128
+it.
+
+6
+00:00:11,308 --> 00:00:13,485
+And one recall had to be recalled
+
+7
+00:00:13,485 --> 00:00:16,519
+again, because the dealers installed the wrong
+
+8
+00:00:16,519 --> 00:00:17,113
+software.
+
+9
+00:00:17,293 --> 00:00:20,323
+These are five truck transmission problems that
+
+10
+00:00:20,323 --> 00:00:21,806
+can cost you thousands,
+
+11
+00:00:21,806 --> 00:00:23,934
+and what to check before you buy.
+
+12
+00:00:24,283 --> 00:00:26,830
+The transmission is the part most truck
+
+13
+00:00:26,830 --> 00:00:28,463
+buyers think about least.
+
+14
+00:00:28,643 --> 00:00:30,661
+People ask about the engine,
+
+15
+00:00:30,661 --> 00:00:33,473
+the towing capacity and the bed length.
+
+16
+00:00:33,653 --> 00:00:36,706
+Almost nobody asks which transmission is in
+
+17
+00:00:36,706 --> 00:00:39,191
+the truck, and what its history is.
+
+18
+00:00:39,371 --> 00:00:40,594
+That is a mistake,
+
+19
+00:00:40,594 --> 00:00:42,157
+because according to J.
+
+20
+00:00:42,337 --> 00:00:42,511
+D.
+
+21
+00:00:42,691 --> 00:00:46,702
+Power, replacing a truck transmission typically costs
+
+22
+00:00:46,702 --> 00:00:49,805
+between two thousand five hundred and six
+
+23
+00:00:49,805 --> 00:00:52,378
+thousand dollars, parts and labor,
+
+24
+00:00:52,378 --> 00:00:55,102
+and heavy-duty trucks can cost more.
+
+25
+00:00:55,452 --> 00:00:57,120
+And in the last two years,
+
+26
+00:00:57,120 --> 00:00:59,943
+transmissions have become one of the biggest
+
+27
+00:00:59,943 --> 00:01:01,675
+stories in the truck world.
+
+28
+00:01:01,855 --> 00:01:05,751
+Ford recalled almost one point four million
+
+29
+00:01:05,751 --> 00:01:08,740
+F-150s for unexpected downshifts.
+
+30
+00:01:08,920 --> 00:01:12,367
+General Motors recalled hundreds of thousands of
+
+31
+00:01:12,367 --> 00:01:15,167
+trucks and SUVs because the rear wheels
+
+32
+00:01:15,167 --> 00:01:16,172
+could lock up,
+
+33
+00:01:16,172 --> 00:01:18,613
+and then had to expand and correct
+
+34
+00:01:18,613 --> 00:01:20,983
+that recall in twenty twenty-six.
+
+35
+00:01:21,163 --> 00:01:24,005
+And three separate class actions are fighting
+
+36
+00:01:24,005 --> 00:01:27,288
+over whether these transmissions were defective from
+
+37
+00:01:27,288 --> 00:01:27,920
+the start.
+
+38
+00:01:28,269 --> 00:01:30,393
+Here is the twist that connects most
+
+39
+00:01:30,393 --> 00:01:31,218
+of this story.
+
+40
+00:01:31,398 --> 00:01:35,497
+Ford's ten-speed and GM's ten-speed are related.
+
+41
+00:01:35,677 --> 00:01:39,269
+The ten-speed automatic was developed jointly by
+
+42
+00:01:39,269 --> 00:01:41,065
+General Motors and Ford,
+
+43
+00:01:41,065 --> 00:01:44,209
+according to AutoGuide and Law three sixty
+
+44
+00:01:44,209 --> 00:01:44,733
+Canada.
+
+45
+00:01:44,913 --> 00:01:46,875
+Two rivals shared the engineering.
+
+46
+00:01:47,055 --> 00:01:48,983
+And now both of them are dealing
+
+47
+00:01:48,983 --> 00:01:51,153
+with complaints about how it shifts.
+
+48
+00:01:51,502 --> 00:01:52,384
+In this video,
+
+49
+00:01:52,384 --> 00:01:54,965
+we go through five transmission problems,
+
+50
+00:01:54,965 --> 00:01:57,169
+from the most dangerous to the most
+
+51
+00:01:57,169 --> 00:01:57,609
+common.
+
+52
+00:01:57,789 --> 00:01:58,714
+For each one,
+
+53
+00:01:58,714 --> 00:02:01,561
+you will hear which trucks are affected,
+
+54
+00:02:01,561 --> 00:02:03,411
+what the manufacturer did,
+
+55
+00:02:03,411 --> 00:02:05,475
+and what owners say in court.
+
+56
+00:02:05,655 --> 00:02:07,436
+Lawsuits are allegations,
+
+57
+00:02:07,436 --> 00:02:09,643
+not proof, and we will say that
+
+58
+00:02:09,643 --> 00:02:10,427
+every time.
+
+59
+00:02:10,607 --> 00:02:13,266
+Every fact is sourced in the description.
+
+60
+00:02:13,446 --> 00:02:15,070
+Let's start with the one that can
+
+61
+00:02:15,070 --> 00:02:15,907
+lock your wheels.
+
+62
+00:02:16,257 --> 00:02:17,729
+And before we start,
+
+63
+00:02:17,729 --> 00:02:19,643
+a quick look at that cost,
+
+64
+00:02:19,643 --> 00:02:22,146
+because it changes how you judge a
+
+65
+00:02:22,146 --> 00:02:22,955
+used truck.
+
+66
+00:02:23,135 --> 00:02:23,402
+J.
+
+67
+00:02:23,582 --> 00:02:23,757
+D.
+
+68
+00:02:23,937 --> 00:02:26,346
+Power lists the factors that push a
+
+69
+00:02:26,346 --> 00:02:27,791
+transmission bill up.
+
+70
+00:02:27,971 --> 00:02:31,186
+Heavy-duty and commercial trucks have larger,
+
+71
+00:02:31,186 --> 00:02:33,114
+more complex transmissions.
+
+72
+00:02:33,294 --> 00:02:35,756
+Automatics cost more than manuals.
+
+73
+00:02:35,936 --> 00:02:39,337
+Factory parts cost more than aftermarket ones.
+
+74
+00:02:39,517 --> 00:02:41,944
+Labor rates are higher in cities.
+
+75
+00:02:42,124 --> 00:02:44,592
+And extra work like a torque converter
+
+76
+00:02:44,592 --> 00:02:45,955
+can add to the total.
+
+77
+00:02:46,135 --> 00:02:47,812
+On a newer heavy truck,
+
+78
+00:02:47,812 --> 00:02:49,926
+the top of that range is easy
+
+79
+00:02:49,926 --> 00:02:50,582
+to reach.
+
+80
+00:02:50,932 --> 00:02:53,425
+Why do so many trucks now have
+
+81
+00:02:53,425 --> 00:02:55,088
+eight and ten gears?
+
+82
+00:02:55,268 --> 00:02:57,644
+More gears let the engine stay in
+
+83
+00:02:57,644 --> 00:02:59,444
+its most efficient range,
+
+84
+00:02:59,444 --> 00:03:02,037
+which helps fuel economy and towing.
+
+85
+00:03:02,217 --> 00:03:05,103
+But every extra gear means more clutches,
+
+86
+00:03:05,103 --> 00:03:08,201
+more valves, and more software deciding when
+
+87
+00:03:08,201 --> 00:03:08,834
+to shift.
+
+88
+00:03:09,014 --> 00:03:12,856
+A modern automatic is constantly making decisions
+
+89
+00:03:12,856 --> 00:03:14,738
+based on sensor signals.
+
+90
+00:03:14,918 --> 00:03:16,834
+When a sensor or a valve gives
+
+91
+00:03:16,834 --> 00:03:18,430
+it the wrong information,
+
+92
+00:03:18,430 --> 00:03:20,665
+it can make the wrong decision very
+
+93
+00:03:20,665 --> 00:03:21,176
+quickly.
+
+94
+00:03:21,526 --> 00:03:25,210
+Problem number one is GM's ten-speed rear
+
+95
+00:03:25,210 --> 00:03:26,379
+wheel lockup.
+
+96
+00:03:26,559 --> 00:03:28,253
+On October seventeenth,
+
+97
+00:03:28,253 --> 00:03:32,083
+twenty twenty-four, General Motors decided to recall
+
+98
+00:03:32,083 --> 00:03:35,692
+about four hundred sixty-two thousand pickups and
+
+99
+00:03:35,692 --> 00:03:38,564
+SUVs with Duramax turbo-diesel engines,
+
+100
+00:03:38,564 --> 00:03:40,258
+according to WardsAuto.
+
+101
+00:03:40,438 --> 00:03:44,215
+That included twenty twenty to twenty twenty-two
+
+102
+00:03:44,215 --> 00:03:47,127
+Silverado and Sierra fifteen hundred,
+
+103
+00:03:47,127 --> 00:03:51,140
+twenty-five hundred and thirty-five hundred trucks,
+
+104
+00:03:51,140 --> 00:03:53,343
+and twenty twenty-one Tahoe,
+
+105
+00:03:53,343 --> 00:03:56,019
+Suburban, Yukon and Escalade SUVs.
+
+106
+00:03:56,369 --> 00:03:58,856
+The defect was excessive wear in the
+
+107
+00:03:58,856 --> 00:04:00,722
+transmission control valve.
+
+108
+00:04:00,902 --> 00:04:03,533
+That wear can drop fluid pressure and
+
+109
+00:04:03,533 --> 00:04:06,092
+make shift valves move unexpectedly.
+
+110
+00:04:06,272 --> 00:04:08,338
+The result is harsh shifting,
+
+111
+00:04:08,338 --> 00:04:09,620
+and in rare cases,
+
+112
+00:04:09,620 --> 00:04:12,043
+the rear wheels can lock up during
+
+113
+00:04:12,043 --> 00:04:14,109
+a downshift from eighth gear.
+
+114
+00:04:14,289 --> 00:04:17,058
+Drivers might see a message saying reduced
+
+115
+00:04:17,058 --> 00:04:17,783
+propulsion.
+
+116
+00:04:17,963 --> 00:04:20,039
+Imagine that on a highway with a
+
+117
+00:04:20,039 --> 00:04:21,272
+trailer behind you.
+
+118
+00:04:21,622 --> 00:04:24,304
+The timeline shows how a recall is
+
+119
+00:04:24,304 --> 00:04:24,698
+born.
+
+120
+00:04:24,878 --> 00:04:26,668
+According to WardsAuto,
+
+121
+00:04:26,668 --> 00:04:29,626
+GM got an internal safety report after
+
+122
+00:04:29,626 --> 00:04:32,351
+a customer complaint on June fifth,
+
+123
+00:04:32,351 --> 00:04:33,829
+twenty twenty-four.
+
+124
+00:04:34,009 --> 00:04:37,643
+It opened an investigation on July sixteenth.
+
+125
+00:04:37,823 --> 00:04:39,418
+On July twenty-ninth,
+
+126
+00:04:39,418 --> 00:04:43,061
+the federal safety agency flagged more potential
+
+127
+00:04:43,061 --> 00:04:43,744
+problems.
+
+128
+00:04:43,924 --> 00:04:45,791
+By September seventeenth,
+
+129
+00:04:45,791 --> 00:04:48,106
+GM had identified one thousand,
+
+130
+00:04:48,106 --> 00:04:51,691
+eight hundred eighty-eight field reports of rear
+
+131
+00:04:51,691 --> 00:04:54,976
+wheel lockups possibly related to the issue,
+
+132
+00:04:54,976 --> 00:04:58,486
+plus eleven incidents and three minor injuries,
+
+133
+00:04:58,486 --> 00:04:59,830
+none from crashes.
+
+134
+00:05:00,181 --> 00:05:02,410
+And GM did something unusual.
+
+135
+00:05:02,590 --> 00:05:05,401
+It issued a stop-sale order on October
+
+136
+00:05:05,401 --> 00:05:09,693
+twenty-fourth, and pulled certification from its certified
+
+137
+00:05:09,693 --> 00:05:12,653
+used vehicles in dealer stock until they
+
+138
+00:05:12,653 --> 00:05:13,689
+were repaired.
+
+139
+00:05:13,869 --> 00:05:16,480
+The fix was software that monitors valve
+
+140
+00:05:16,480 --> 00:05:16,806
+wear.
+
+141
+00:05:16,986 --> 00:05:19,611
+If it detects excessive wear about ten
+
+142
+00:05:19,611 --> 00:05:22,375
+thousand miles before a possible lockup,
+
+143
+00:05:22,375 --> 00:05:25,138
+it limits the transmission to fifth gear
+
+144
+00:05:25,138 --> 00:05:26,727
+until the next restart.
+
+145
+00:05:26,907 --> 00:05:29,784
+A warranty program was added to cover
+
+146
+00:05:29,784 --> 00:05:31,028
+further repairs.
+
+147
+00:05:31,379 --> 00:05:32,760
+Here is the twist.
+
+148
+00:05:32,940 --> 00:05:34,547
+In twenty twenty-six,
+
+149
+00:05:34,547 --> 00:05:36,307
+the recall got messier.
+
+150
+00:05:36,487 --> 00:05:38,167
+According to The Drive,
+
+151
+00:05:38,167 --> 00:05:41,016
+GM expanded it to forty-three thousand,
+
+152
+00:05:41,016 --> 00:05:44,814
+seven hundred thirty-two more twenty twenty-two SUVs
+
+153
+00:05:44,814 --> 00:05:47,006
+with electronic shift-by-wire.
+
+154
+00:05:47,186 --> 00:05:48,879
+And in a second addendum,
+
+155
+00:05:48,879 --> 00:05:51,587
+one thousand fifty-five trucks had to go
+
+156
+00:05:51,587 --> 00:05:54,905
+back, because technicians had installed the wrong
+
+157
+00:05:54,905 --> 00:05:57,817
+software version, one that might not detect
+
+158
+00:05:57,817 --> 00:06:00,526
+the warning signs of valve body failure.
+
+159
+00:06:00,706 --> 00:06:03,308
+A recall repair that needed its own
+
+160
+00:06:03,308 --> 00:06:03,829
+repair.
+
+161
+00:06:04,179 --> 00:06:05,989
+And The Drive makes a point every
+
+162
+00:06:05,989 --> 00:06:06,977
+owner should hear.
+
+163
+00:06:07,157 --> 00:06:10,591
+The software update stops the transmission from
+
+164
+00:06:10,591 --> 00:06:13,368
+making random, unsafe shifts at speed.
+
+165
+00:06:13,548 --> 00:06:15,550
+But it does not repair the valve
+
+166
+00:06:15,550 --> 00:06:17,426
+body, and it does not stop the
+
+167
+00:06:17,426 --> 00:06:17,739
+wear.
+
+168
+00:06:17,919 --> 00:06:20,957
+GM has released an updated valve body
+
+169
+00:06:20,957 --> 00:06:23,420
+for its light-duty ten-speeds,
+
+170
+00:06:23,420 --> 00:06:26,212
+but its effectiveness is unproven,
+
+171
+00:06:26,212 --> 00:06:28,182
+according to the report.
+
+172
+00:06:28,362 --> 00:06:30,677
+Then, in May twenty twenty-six,
+
+173
+00:06:30,677 --> 00:06:33,291
+a class action was filed in federal
+
+174
+00:06:33,291 --> 00:06:35,457
+court in Northern California,
+
+175
+00:06:35,457 --> 00:06:37,174
+according to AutoGuide.
+
+176
+00:06:37,525 --> 00:06:40,978
+The lawsuit alleges GM kept selling Chevrolet,
+
+177
+00:06:40,978 --> 00:06:43,832
+GMC and Cadillac models while aware of
+
+178
+00:06:43,832 --> 00:06:45,859
+harsh shifting, hesitation,
+
+179
+00:06:45,859 --> 00:06:49,988
+gear engagement problems and sudden drivetrain locking,
+
+180
+00:06:49,988 --> 00:06:53,592
+and that earlier bulletins and recalls addressed
+
+181
+00:06:53,592 --> 00:06:57,046
+symptoms without fixing what plaintiffs call a
+
+182
+00:06:57,046 --> 00:06:58,097
+design defect.
+
+183
+00:06:58,277 --> 00:07:00,494
+GM had not commented publicly,
+
+184
+00:07:00,494 --> 00:07:03,080
+and a judge has not decided whether
+
+185
+00:07:03,080 --> 00:07:05,592
+it will proceed as a class action.
+
+186
+00:07:05,772 --> 00:07:07,490
+So what do you check?
+
+187
+00:07:07,670 --> 00:07:10,301
+Ask for proof of the recall software,
+
+188
+00:07:10,301 --> 00:07:12,719
+and ask whether the valve body was
+
+189
+00:07:12,719 --> 00:07:13,359
+replaced.
+
+190
+00:07:13,709 --> 00:07:15,916
+There is one more detail from that
+
+191
+00:07:15,916 --> 00:07:18,643
+first recall that matters for used buyers.
+
+192
+00:07:18,823 --> 00:07:20,370
+When GM announced it,
+
+193
+00:07:20,370 --> 00:07:23,391
+replacement parts were not yet available,
+
+194
+00:07:23,391 --> 00:07:25,528
+and GM said it was working to
+
+195
+00:07:25,528 --> 00:07:28,180
+obtain them, according to WardsAuto.
+
+196
+00:07:28,360 --> 00:07:30,946
+Owner letters began going out on December
+
+197
+00:07:30,946 --> 00:07:32,586
+ninth, twenty twenty-four.
+
+198
+00:07:32,766 --> 00:07:33,966
+So for a while,
+
+199
+00:07:33,966 --> 00:07:36,444
+owners had software protection,
+
+200
+00:07:36,444 --> 00:07:38,283
+and a warranty program,
+
+201
+00:07:38,283 --> 00:07:39,802
+but not a new part.
+
+202
+00:07:39,982 --> 00:07:41,843
+If you buy one of these trucks,
+
+203
+00:07:41,843 --> 00:07:44,004
+ask which of those three it actually
+
+204
+00:07:44,004 --> 00:07:44,545
+received.
+
+205
+00:07:44,895 --> 00:07:48,250
+Problem number two is GM's eight-speed shudder.
+
+206
+00:07:48,430 --> 00:07:50,176
+Before the ten-speed,
+
+207
+00:07:50,176 --> 00:07:54,169
+many GM trucks used the Hydra-Matic eight-speed,
+
+208
+00:07:54,169 --> 00:07:56,996
+the eight L forty-five and eight L
+
+209
+00:07:56,996 --> 00:07:57,578
+ninety.
+
+210
+00:07:57,758 --> 00:08:00,640
+According to Pickup Truck and SUV Talk,
+
+211
+00:08:00,640 --> 00:08:04,039
+about eight hundred thousand Chevrolet and GMC
+
+212
+00:08:04,039 --> 00:08:07,069
+trucks and SUVs built from twenty fifteen
+
+213
+00:08:07,069 --> 00:08:10,616
+to twenty nineteen with these transmissions were
+
+214
+00:08:10,616 --> 00:08:12,315
+part of a class action,
+
+215
+00:08:12,315 --> 00:08:15,788
+where owners said the transmissions shudder and
+
+216
+00:08:15,788 --> 00:08:17,266
+shake in high gears,
+
+217
+00:08:17,266 --> 00:08:20,074
+and hesitate and lurch in lower gears,
+
+218
+00:08:20,074 --> 00:08:21,478
+even after repairs.
+
+219
+00:08:21,828 --> 00:08:24,839
+The owners pointed to thirteen technical service
+
+220
+00:08:24,839 --> 00:08:27,412
+bulletins that did not solve the problem.
+
+221
+00:08:27,592 --> 00:08:29,148
+And then came the twist.
+
+222
+00:08:29,328 --> 00:08:30,967
+On June twenty-seventh,
+
+223
+00:08:30,967 --> 00:08:34,246
+twenty twenty-five, the Sixth Circuit Court of
+
+224
+00:08:34,246 --> 00:08:37,097
+Appeals ruled nine to seven to decertify
+
+225
+00:08:37,097 --> 00:08:40,305
+the class, finding too many differences among
+
+226
+00:08:40,305 --> 00:08:42,586
+owners for one judge to oversee.
+
+227
+00:08:42,766 --> 00:08:43,567
+GM won.
+
+228
+00:08:43,747 --> 00:08:46,303
+The case went back to Judge David
+
+229
+00:08:46,303 --> 00:08:47,697
+Lawson in Detroit,
+
+230
+00:08:47,697 --> 00:08:50,639
+where owners can still try for smaller
+
+231
+00:08:50,639 --> 00:08:51,491
+subclasses.
+
+232
+00:08:51,842 --> 00:08:53,293
+But it did not end there.
+
+233
+00:08:53,473 --> 00:08:55,920
+In September twenty twenty-six,
+
+234
+00:08:55,920 --> 00:08:56,789
+a new case,
+
+235
+00:08:56,789 --> 00:08:59,000
+Barba versus General Motors,
+
+236
+00:08:59,000 --> 00:09:01,526
+targeted twenty nineteen Sierra,
+
+237
+00:09:01,526 --> 00:09:05,158
+Silverado, Canyon and Colorado trucks with the
+
+238
+00:09:05,158 --> 00:09:08,001
+eight L ninety or eight L forty-five
+
+239
+00:09:08,001 --> 00:09:09,896
+built after March first,
+
+240
+00:09:09,896 --> 00:09:13,686
+twenty nineteen, according to Top Class Actions.
+
+241
+00:09:13,866 --> 00:09:16,794
+It alleges a common design flaw causing
+
+242
+00:09:16,794 --> 00:09:20,323
+harsh shifting, jerking and hesitation in lower
+
+243
+00:09:20,323 --> 00:09:22,876
+gears, and claims GM knew as early
+
+244
+00:09:22,876 --> 00:09:24,303
+as twenty thirteen.
+
+245
+00:09:24,654 --> 00:09:26,532
+And here is the line from that
+
+246
+00:09:26,532 --> 00:09:28,911
+case that should make every used truck
+
+247
+00:09:28,911 --> 00:09:29,599
+buyer stop.
+
+248
+00:09:29,779 --> 00:09:33,301
+The complaint cites a December twenty twenty-three
+
+249
+00:09:33,301 --> 00:09:35,767
+technical service bulletin stating,
+
+250
+00:09:35,767 --> 00:09:40,204
+quote, replacing transmission components or complete assemblies
+
+251
+00:09:40,204 --> 00:09:42,388
+will not improve the condition.
+
+252
+00:09:42,568 --> 00:09:43,643
+In other words,
+
+253
+00:09:43,643 --> 00:09:45,649
+for the condition described,
+
+254
+00:09:45,649 --> 00:09:48,515
+even a new transmission was not expected
+
+255
+00:09:48,515 --> 00:09:49,232
+to fix it.
+
+256
+00:09:49,412 --> 00:09:52,119
+These are allegations in a lawsuit,
+
+257
+00:09:52,119 --> 00:09:54,130
+and GM has not lost on the
+
+258
+00:09:54,130 --> 00:09:54,671
+merits.
+
+259
+00:09:55,022 --> 00:09:56,857
+So if you are looking at a
+
+260
+00:09:56,857 --> 00:09:59,822
+twenty fifteen to twenty nineteen GM truck
+
+261
+00:09:59,822 --> 00:10:01,234
+with an eight-speed,
+
+262
+00:10:01,234 --> 00:10:03,282
+drive it at a steady forty to
+
+263
+00:10:03,282 --> 00:10:05,541
+sixty miles per hour on a smooth
+
+264
+00:10:05,541 --> 00:10:07,588
+road, and feel for a shudder,
+
+265
+00:10:07,588 --> 00:10:09,847
+like driving over rumble strips.
+
+266
+00:10:10,027 --> 00:10:13,402
+Ask whether the transmission fluid was changed
+
+267
+00:10:13,402 --> 00:10:14,869
+to the updated type,
+
+268
+00:10:14,869 --> 00:10:17,583
+and whether any of the bulletins were
+
+269
+00:10:17,583 --> 00:10:18,317
+performed.
+
+270
+00:10:18,497 --> 00:10:20,796
+A truck that shudders on the test
+
+271
+00:10:20,796 --> 00:10:23,513
+drive will usually shudder for you too.
+
+272
+00:10:23,863 --> 00:10:26,938
+To understand how big the first eight-speed
+
+273
+00:10:26,938 --> 00:10:29,226
+case was, look at its structure.
+
+274
+00:10:29,406 --> 00:10:32,634
+According to Pickup Truck and SUV Talk,
+
+275
+00:10:32,634 --> 00:10:37,434
+the litigation covered twenty-six statewide subclasses and
+
+276
+00:10:37,434 --> 00:10:39,751
+fifty-nine state-law claims.
+
+277
+00:10:39,931 --> 00:10:43,108
+That complexity is exactly what the appeals
+
+278
+00:10:43,108 --> 00:10:46,212
+court said made a single class unworkable.
+
+279
+00:10:46,392 --> 00:10:49,529
+And the new twenty twenty-six case is
+
+280
+00:10:49,529 --> 00:10:52,666
+much narrower, two California buyers,
+
+281
+00:10:52,666 --> 00:10:55,634
+Matthew Barba and Renzo Calvo-Saez,
+
+282
+00:10:55,634 --> 00:10:59,195
+suing on behalf of California owners under
+
+283
+00:10:59,195 --> 00:11:01,229
+California consumer law.
+
+284
+00:11:01,580 --> 00:11:04,148
+So far, two of our five problems
+
+285
+00:11:04,148 --> 00:11:06,154
+belong to General Motors,
+
+286
+00:11:06,154 --> 00:11:08,882
+the ten-speed and the eight-speed.
+
+287
+00:11:09,062 --> 00:11:10,918
+And the twist is that GM's own
+
+288
+00:11:10,918 --> 00:11:13,393
+customers have been caught between them.
+
+289
+00:11:13,573 --> 00:11:16,125
+If you bought a twenty nineteen truck,
+
+290
+00:11:16,125 --> 00:11:18,409
+you may have an eight-speed with a
+
+291
+00:11:18,409 --> 00:11:20,760
+shudder case, or a ten-speed with a
+
+292
+00:11:20,760 --> 00:11:23,581
+lockup recall, depending on the engine and
+
+293
+00:11:23,581 --> 00:11:23,917
+trim.
+
+294
+00:11:24,097 --> 00:11:25,343
+Same model year,
+
+295
+00:11:25,343 --> 00:11:29,391
+same badge, two very different transmission stories.
+
+296
+00:11:29,571 --> 00:11:31,802
+Always confirm which one is in the
+
+297
+00:11:31,802 --> 00:11:32,195
+truck.
+
+298
+00:11:32,546 --> 00:11:36,070
+Problem number three is the Ford F-150's
+
+299
+00:11:36,070 --> 00:11:37,921
+unexpected downshift.
+
+300
+00:11:38,101 --> 00:11:39,655
+On April fourteenth,
+
+301
+00:11:39,655 --> 00:11:43,151
+twenty twenty-six, Ford recalled one million,
+
+302
+00:11:43,151 --> 00:11:45,792
+three hundred ninety-two thousand,
+
+303
+00:11:45,792 --> 00:11:49,599
+nine hundred thirty-five twenty fifteen to twenty
+
+304
+00:11:49,599 --> 00:11:53,639
+seventeen F-150s, because of an unexpected downshift
+
+305
+00:11:53,639 --> 00:11:56,203
+that can cause a loss of control,
+
+306
+00:11:56,203 --> 00:11:57,757
+according to Motor1.
+
+307
+00:11:57,937 --> 00:12:01,404
+A separate recall covered forty-four thousand,
+
+308
+00:12:01,404 --> 00:12:05,248
+nine hundred sixty-three twenty fourteen F-150s for
+
+309
+00:12:05,248 --> 00:12:07,132
+the same kind of problem.
+
+310
+00:12:07,482 --> 00:12:09,548
+The road to that recall took years.
+
+311
+00:12:09,728 --> 00:12:11,941
+According to Ford Authority,
+
+312
+00:12:11,941 --> 00:12:15,577
+the federal safety agency opened a preliminary
+
+313
+00:12:15,577 --> 00:12:19,846
+investigation in March twenty twenty-five and upgraded
+
+314
+00:12:19,846 --> 00:12:22,929
+it in early February twenty twenty-six.
+
+315
+00:12:23,109 --> 00:12:26,213
+Owners claim the trucks can downshift suddenly
+
+316
+00:12:26,213 --> 00:12:29,114
+without warning, and some reported at least
+
+317
+00:12:29,114 --> 00:12:31,003
+one rear wheel lockup event.
+
+318
+00:12:31,183 --> 00:12:34,133
+Imagine dropping several gears at once,
+
+319
+00:12:34,133 --> 00:12:35,419
+at highway speed,
+
+320
+00:12:35,419 --> 00:12:36,327
+in the rain.
+
+321
+00:12:36,677 --> 00:12:38,035
+Here is the twist.
+
+322
+00:12:38,215 --> 00:12:40,679
+The cause may not be the transmission's
+
+323
+00:12:40,679 --> 00:12:41,501
+gears at all.
+
+324
+00:12:41,681 --> 00:12:43,732
+According to Ford Authority,
+
+325
+00:12:43,732 --> 00:12:46,150
+Ford believes the root cause is a
+
+326
+00:12:46,150 --> 00:12:49,520
+supplier production problem with a lead frame,
+
+327
+00:12:49,520 --> 00:12:52,524
+causing signal loss from the output shaft
+
+328
+00:12:52,524 --> 00:12:53,476
+speed sensor.
+
+329
+00:12:53,656 --> 00:12:56,601
+The federal agency also pointed to possible
+
+330
+00:12:56,601 --> 00:12:59,682
+signal loss in the transmission range sensor.
+
+331
+00:12:59,862 --> 00:13:03,062
+A tiny electrical part tells the transmission
+
+332
+00:13:03,062 --> 00:13:04,200
+the wrong thing,
+
+333
+00:13:04,200 --> 00:13:06,120
+and the transmission obeys.
+
+334
+00:13:06,470 --> 00:13:07,427
+And in court,
+
+335
+00:13:07,427 --> 00:13:09,047
+the story keeps going.
+
+336
+00:13:09,227 --> 00:13:11,490
+In February twenty twenty-six,
+
+337
+00:13:11,490 --> 00:13:14,131
+in the case O'Connor versus Ford in
+
+338
+00:13:14,131 --> 00:13:16,092
+federal court in Illinois,
+
+339
+00:13:16,092 --> 00:13:19,638
+Judge Jeffrey Cummings denied Ford's motion for
+
+340
+00:13:19,638 --> 00:13:24,240
+partial judgment, letting a Massachusetts consumer protection
+
+341
+00:13:24,240 --> 00:13:27,559
+claim continue, according to Ford Authority.
+
+342
+00:13:27,739 --> 00:13:30,026
+That does not mean Ford is liable.
+
+343
+00:13:30,206 --> 00:13:31,913
+It means the case goes on.
+
+344
+00:13:32,093 --> 00:13:32,892
+For a buyer,
+
+345
+00:13:32,892 --> 00:13:34,891
+the practical point is simple.
+
+346
+00:13:35,071 --> 00:13:36,114
+Check the VIN,
+
+347
+00:13:36,114 --> 00:13:38,425
+and make sure the recall fix is
+
+348
+00:13:38,425 --> 00:13:38,798
+done.
+
+349
+00:13:39,148 --> 00:13:41,216
+There is one more twist hidden in
+
+350
+00:13:41,216 --> 00:13:41,969
+that recall.
+
+351
+00:13:42,149 --> 00:13:45,916
+The twenty fifteen to twenty seventeen F-150s
+
+352
+00:13:45,916 --> 00:13:48,511
+span a change in transmissions.
+
+353
+00:13:48,691 --> 00:13:51,948
+A reader comment on Ford Authority pointed
+
+354
+00:13:51,948 --> 00:13:54,507
+out that many of those trucks use
+
+355
+00:13:54,507 --> 00:13:56,058
+the older six-speed,
+
+356
+00:13:56,058 --> 00:13:57,454
+not the ten-speed,
+
+357
+00:13:57,454 --> 00:14:00,091
+and the article did not settle the
+
+358
+00:14:00,091 --> 00:14:00,789
+question.
+
+359
+00:14:00,969 --> 00:14:02,548
+That is a useful reminder.
+
+360
+00:14:02,728 --> 00:14:05,353
+Recalls are written by model year and
+
+361
+00:14:05,353 --> 00:14:07,837
+build date, not by what owners call
+
+362
+00:14:07,837 --> 00:14:09,043
+the transmission.
+
+363
+00:14:09,223 --> 00:14:11,650
+Only the VIN tells you for sure.
+
+364
+00:14:12,000 --> 00:14:14,415
+And this was not the first time
+
+365
+00:14:14,415 --> 00:14:17,375
+regulators looked at F-150 downshifts.
+
+366
+00:14:17,555 --> 00:14:20,466
+According to Law three sixty Canada,
+
+367
+00:14:20,466 --> 00:14:24,752
+the federal safety agency had investigated unexpected
+
+368
+00:14:24,752 --> 00:14:28,795
+downshifting on twenty fifteen to twenty seventeen
+
+369
+00:14:28,795 --> 00:14:33,081
+F-150s, potentially affecting one point three million
+
+370
+00:14:33,081 --> 00:14:33,809
+vehicles.
+
+371
+00:14:33,989 --> 00:14:37,059
+So the twenty twenty-six recall was the
+
+372
+00:14:37,059 --> 00:14:38,555
+end of a long road,
+
+373
+00:14:38,555 --> 00:14:39,736
+not a surprise.
+
+374
+00:14:39,916 --> 00:14:41,948
+If you own one of these trucks
+
+375
+00:14:41,948 --> 00:14:43,507
+and never got a letter,
+
+376
+00:14:43,507 --> 00:14:44,862
+check the VIN today.
+
+377
+00:14:45,212 --> 00:14:49,689
+Problem number four is Ford's ten-speed automatic,
+
+378
+00:14:49,689 --> 00:14:51,212
+the ten R eighty,
+
+379
+00:14:51,212 --> 00:14:53,719
+which is in a huge number of
+
+380
+00:14:53,719 --> 00:14:55,241
+Fords, the F-150,
+
+381
+00:14:55,241 --> 00:14:58,644
+the Ranger, the Expedition and others.
+
+382
+00:14:58,824 --> 00:15:01,026
+In April twenty twenty-five,
+
+383
+00:15:01,026 --> 00:15:03,858
+a proposed class action was filed in
+
+384
+00:15:03,858 --> 00:15:06,217
+Vancouver for Canadian owners,
+
+385
+00:15:06,217 --> 00:15:10,228
+covering vehicles from model years twenty seventeen
+
+386
+00:15:10,228 --> 00:15:12,352
+and twenty eighteen onward,
+
+387
+00:15:12,352 --> 00:15:15,183
+according to Law three sixty Canada.
+
+388
+00:15:15,533 --> 00:15:18,006
+The complaint lists what owners report.
+
+389
+00:15:18,186 --> 00:15:20,322
+Difficulty shifting gears.
+
+390
+00:15:20,502 --> 00:15:23,370
+Unintended lunging when shifting from park to
+
+391
+00:15:23,370 --> 00:15:23,753
+drive.
+
+392
+00:15:23,933 --> 00:15:26,556
+Shuddering and shimmying while driving.
+
+393
+00:15:26,736 --> 00:15:29,400
+Sudden gear shifts the driver did not
+
+394
+00:15:29,400 --> 00:15:29,976
+request.
+
+395
+00:15:30,156 --> 00:15:33,203
+And premature wear of transmission parts and
+
+396
+00:15:33,203 --> 00:15:34,173
+clutch plates.
+
+397
+00:15:34,353 --> 00:15:38,645
+Transport Canada had looked into unintended downshifting
+
+398
+00:15:38,645 --> 00:15:42,248
+complaints on twenty seventeen to twenty twenty
+
+399
+00:15:42,248 --> 00:15:44,548
+F-150s with this transmission,
+
+400
+00:15:44,548 --> 00:15:47,077
+after eleven consumer complaints.
+
+401
+00:15:47,257 --> 00:15:49,378
+The class has not been certified,
+
+402
+00:15:49,378 --> 00:15:51,950
+and the allegations have not been tested
+
+403
+00:15:51,950 --> 00:15:52,528
+in court.
+
+404
+00:15:52,878 --> 00:15:54,375
+Here is the twist.
+
+405
+00:15:54,555 --> 00:15:57,628
+Consumer Reports put the F-150 at the
+
+406
+00:15:57,628 --> 00:16:01,530
+top of its full-size truck reliability ranking,
+
+407
+00:16:01,530 --> 00:16:06,264
+and still mentioned ten-speed transmission problems among
+
+408
+00:16:06,264 --> 00:16:10,166
+owner complaints, according to Pickup Truck and
+
+409
+00:16:10,166 --> 00:16:10,914
+SUV Talk.
+
+410
+00:16:11,094 --> 00:16:12,882
+Both things can be true.
+
+411
+00:16:13,062 --> 00:16:15,268
+A truck can be the most reliable
+
+412
+00:16:15,268 --> 00:16:17,267
+in its class and still have a
+
+413
+00:16:17,267 --> 00:16:19,679
+transmission that some owners hate.
+
+414
+00:16:19,859 --> 00:16:22,305
+Most ten R eighty trucks never have
+
+415
+00:16:22,305 --> 00:16:23,563
+a serious problem.
+
+416
+00:16:23,743 --> 00:16:26,100
+Some owners notice harsh shifts.
+
+417
+00:16:26,280 --> 00:16:28,938
+A smaller number end up with repairs.
+
+418
+00:16:29,289 --> 00:16:30,171
+What can you do?
+
+419
+00:16:30,351 --> 00:16:33,406
+Many shift complaints on modern automatics are
+
+420
+00:16:33,406 --> 00:16:34,867
+handled with software.
+
+421
+00:16:35,047 --> 00:16:37,616
+The transmission learns how you drive,
+
+422
+00:16:37,616 --> 00:16:39,778
+and a dealer can reset or update
+
+423
+00:16:39,778 --> 00:16:40,725
+that learning.
+
+424
+00:16:40,905 --> 00:16:43,368
+So when you test drive a used
+
+425
+00:16:43,368 --> 00:16:44,726
+F-150 or Ranger,
+
+426
+00:16:44,726 --> 00:16:48,633
+ask whether the transmission software has been
+
+427
+00:16:48,633 --> 00:16:50,417
+updated or relearned,
+
+428
+00:16:50,417 --> 00:16:51,946
+and drive it cold.
+
+429
+00:16:52,126 --> 00:16:54,601
+Pay attention to the first shift from
+
+430
+00:16:54,601 --> 00:16:55,538
+park to drive,
+
+431
+00:16:55,538 --> 00:16:58,014
+and the shifts below twenty miles per
+
+432
+00:16:58,014 --> 00:16:58,349
+hour.
+
+433
+00:16:58,699 --> 00:17:00,751
+Here is the part that ties problems
+
+434
+00:17:00,751 --> 00:17:02,158
+three and four together.
+
+435
+00:17:02,338 --> 00:17:05,625
+Ford's ten-speed and GM's ten-speed come from
+
+436
+00:17:05,625 --> 00:17:07,598
+the same joint development.
+
+437
+00:17:07,778 --> 00:17:11,102
+And both companies now face complaints about
+
+438
+00:17:11,102 --> 00:17:12,840
+sudden or harsh shifts.
+
+439
+00:17:13,020 --> 00:17:15,783
+Ford's recall points to a sensor signal.
+
+440
+00:17:15,963 --> 00:17:18,087
+GM's points to valve wear.
+
+441
+00:17:18,267 --> 00:17:20,740
+Different causes, similar symptoms.
+
+442
+00:17:20,920 --> 00:17:21,924
+For a driver,
+
+443
+00:17:21,924 --> 00:17:23,776
+the feeling is the same.
+
+444
+00:17:23,956 --> 00:17:25,756
+The truck does something you did not
+
+445
+00:17:25,756 --> 00:17:26,406
+ask it to do.
+
+446
+00:17:26,756 --> 00:17:29,491
+Problem number five shows that no brand
+
+447
+00:17:29,491 --> 00:17:30,192
+is immune.
+
+448
+00:17:30,372 --> 00:17:32,761
+In February twenty twenty-four,
+
+449
+00:17:32,761 --> 00:17:36,537
+Toyota recalled about two hundred eighty thousand
+
+450
+00:17:36,537 --> 00:17:37,769
+trucks and SUVs,
+
+451
+00:17:37,769 --> 00:17:41,622
+twenty twenty-two and twenty twenty-three Tundras,
+
+452
+00:17:41,622 --> 00:17:43,317
+Lexus LX six hundreds,
+
+453
+00:17:43,317 --> 00:17:47,632
+and twenty twenty-three and twenty twenty-four Sequoias,
+
+454
+00:17:47,632 --> 00:17:50,792
+because parts of the transmission may not
+
+455
+00:17:50,792 --> 00:17:54,490
+immediately disengage when shifted into neutral,
+
+456
+00:17:54,490 --> 00:17:57,110
+according to the Associated Press.
+
+457
+00:17:57,290 --> 00:17:59,319
+The vehicle could creep forward at low
+
+458
+00:17:59,319 --> 00:18:01,295
+speed if the brakes were not applied.
+
+459
+00:18:01,646 --> 00:18:04,293
+The fix was a free software update.
+
+460
+00:18:04,473 --> 00:18:07,085
+Toyota would not say whether there had
+
+461
+00:18:07,085 --> 00:18:08,803
+been crashes or injuries.
+
+462
+00:18:08,983 --> 00:18:11,112
+And the twist is that this came
+
+463
+00:18:11,112 --> 00:18:14,546
+on the same new-generation Tundra whose twin-turbo
+
+464
+00:18:14,546 --> 00:18:17,087
+engine would be recalled three times.
+
+465
+00:18:17,267 --> 00:18:20,340
+Toyota's reputation was built on the old
+
+466
+00:18:20,340 --> 00:18:20,878
+Tundra.
+
+467
+00:18:21,058 --> 00:18:22,865
+The new one has had to earn
+
+468
+00:18:22,865 --> 00:18:23,936
+it the hard way,
+
+469
+00:18:23,936 --> 00:18:26,547
+with an engine story and a transmission
+
+470
+00:18:26,547 --> 00:18:28,221
+story in its first years.
+
+471
+00:18:28,571 --> 00:18:31,915
+And heavy-duty trucks have their own transmission
+
+472
+00:18:31,915 --> 00:18:32,530
+concerns.
+
+473
+00:18:32,710 --> 00:18:35,701
+According to Pickup Truck and SUV Talk's
+
+474
+00:18:35,701 --> 00:18:38,093
+report on Consumer Reports data,
+
+475
+00:18:38,093 --> 00:18:42,281
+some twenty twenty-four and twenty twenty-five Silverado
+
+476
+00:18:42,281 --> 00:18:46,020
+heavy-duty owners reported valve body failures and
+
+477
+00:18:46,020 --> 00:18:48,338
+full transmission replacements,
+
+478
+00:18:48,338 --> 00:18:51,478
+and GM ran a customer satisfaction program
+
+479
+00:18:51,478 --> 00:18:54,694
+for a transmission bearing issue on certain
+
+480
+00:18:54,694 --> 00:18:56,638
+twenty twenty-four trucks.
+
+481
+00:18:56,818 --> 00:18:58,823
+On Ram heavy-duty trucks,
+
+482
+00:18:58,823 --> 00:19:02,433
+software problems left some trucks limited to
+
+483
+00:19:02,433 --> 00:19:04,760
+about fifteen miles per hour,
+
+484
+00:19:04,760 --> 00:19:07,487
+or made tow haul mode unavailable.
+
+485
+00:19:07,838 --> 00:19:10,325
+A truck stuck at fifteen miles per
+
+486
+00:19:10,325 --> 00:19:12,667
+hour with a trailer behind it is
+
+487
+00:19:12,667 --> 00:19:14,130
+not a small problem.
+
+488
+00:19:14,310 --> 00:19:17,551
+And a customer satisfaction program is not
+
+489
+00:19:17,551 --> 00:19:18,246
+a recall.
+
+490
+00:19:18,426 --> 00:19:20,493
+It is a goodwill repair that may
+
+491
+00:19:20,493 --> 00:19:22,431
+have conditions and deadlines.
+
+492
+00:19:22,611 --> 00:19:23,514
+That is why,
+
+493
+00:19:23,514 --> 00:19:25,093
+on heavy-duty trucks,
+
+494
+00:19:25,093 --> 00:19:28,102
+the service history matters just as much
+
+495
+00:19:28,102 --> 00:19:29,531
+as the recall list.
+
+496
+00:19:29,711 --> 00:19:31,615
+Ask the dealer to print both.
+
+497
+00:19:31,965 --> 00:19:34,606
+So what does a failing transmission feel
+
+498
+00:19:34,606 --> 00:19:35,993
+like before it fails?
+
+499
+00:19:36,173 --> 00:19:39,205
+The symptoms in these recalls and lawsuits
+
+500
+00:19:39,205 --> 00:19:40,504
+are a useful list.
+
+501
+00:19:40,684 --> 00:19:42,843
+Harsh or delayed shifts.
+
+502
+00:19:43,023 --> 00:19:44,962
+A shudder at steady speed.
+
+503
+00:19:45,142 --> 00:19:46,965
+A lunge from park to drive.
+
+504
+00:19:47,145 --> 00:19:48,515
+A sudden downshift.
+
+505
+00:19:48,695 --> 00:19:51,539
+A warning message about reduced propulsion.
+
+506
+00:19:51,719 --> 00:19:53,194
+Creeping in neutral.
+
+507
+00:19:53,374 --> 00:19:55,191
+If you feel any of these on
+
+508
+00:19:55,191 --> 00:19:56,066
+a test drive,
+
+509
+00:19:56,066 --> 00:19:58,018
+do not let anyone tell you it
+
+510
+00:19:58,018 --> 00:19:59,701
+is normal for this truck.
+
+511
+00:19:59,881 --> 00:20:01,379
+Ask for it in writing.
+
+512
+00:20:01,729 --> 00:20:04,300
+So what is the pattern across all
+
+513
+00:20:04,300 --> 00:20:04,689
+five?
+
+514
+00:20:04,869 --> 00:20:08,175
+Modern truck transmissions are not just gears
+
+515
+00:20:08,175 --> 00:20:08,909
+and fluid.
+
+516
+00:20:09,089 --> 00:20:10,533
+They are computers,
+
+517
+00:20:10,533 --> 00:20:12,433
+sensors and valve bodies.
+
+518
+00:20:12,613 --> 00:20:15,103
+Ford's downshift may come from a sensor
+
+519
+00:20:15,103 --> 00:20:15,550
+signal.
+
+520
+00:20:15,730 --> 00:20:18,362
+GM's lockup comes from valve wear,
+
+521
+00:20:18,362 --> 00:20:20,142
+controlled by software.
+
+522
+00:20:20,322 --> 00:20:23,794
+Toyota's neutral problem was fixed with software.
+
+523
+00:20:23,974 --> 00:20:26,263
+And the most common fix for all
+
+524
+00:20:26,263 --> 00:20:28,404
+of them is a software update,
+
+525
+00:20:28,404 --> 00:20:31,506
+which can stop the danger without stopping
+
+526
+00:20:31,506 --> 00:20:32,170
+the wear.
+
+527
+00:20:32,521 --> 00:20:34,494
+And here is the final twist.
+
+528
+00:20:34,674 --> 00:20:37,516
+In court, the manufacturers are winning more
+
+529
+00:20:37,516 --> 00:20:39,260
+often than you might think.
+
+530
+00:20:39,440 --> 00:20:42,621
+GM won its eight-speed appeal.
+
+531
+00:20:42,801 --> 00:20:45,777
+The death wobble case against Ford lost
+
+532
+00:20:45,777 --> 00:20:48,142
+its class status on appeal too.
+
+533
+00:20:48,322 --> 00:20:51,282
+That means if your transmission fails after
+
+534
+00:20:51,282 --> 00:20:54,173
+the warranty, a class action probably will
+
+535
+00:20:54,173 --> 00:20:55,067
+not save you.
+
+536
+00:20:55,247 --> 00:20:57,726
+Your best protection is buying the right
+
+537
+00:20:57,726 --> 00:20:59,585
+truck, with the right records,
+
+538
+00:20:59,585 --> 00:21:00,762
+in the first place.
+
+539
+00:21:01,112 --> 00:21:03,592
+Here is your transmission checklist for twenty
+
+540
+00:21:03,592 --> 00:21:04,293
+twenty-seven.
+
+541
+00:21:04,473 --> 00:21:06,979
+One, run the VIN for recalls and
+
+542
+00:21:06,979 --> 00:21:10,034
+confirm the software updates were done.
+
+543
+00:21:10,214 --> 00:21:14,511
+Two, ask for the transmission service history,
+
+544
+00:21:14,511 --> 00:21:17,407
+fluid changes, valve body work,
+
+545
+00:21:17,407 --> 00:21:18,248
+relearns.
+
+546
+00:21:18,428 --> 00:21:20,526
+Three, drive the truck cold,
+
+547
+00:21:20,526 --> 00:21:22,999
+and feel every shift from park to
+
+548
+00:21:22,999 --> 00:21:25,847
+drive and below twenty miles per hour.
+
+549
+00:21:26,027 --> 00:21:28,399
+Four, cruise at forty to sixty on
+
+550
+00:21:28,399 --> 00:21:30,915
+a smooth road and feel for shudder.
+
+551
+00:21:31,095 --> 00:21:33,992
+Five, if it is a heavy-duty truck,
+
+552
+00:21:33,992 --> 00:21:35,611
+test tow haul mode.
+
+553
+00:21:35,961 --> 00:21:37,342
+And one last tip.
+
+554
+00:21:37,522 --> 00:21:39,791
+If the truck is still under the
+
+555
+00:21:39,791 --> 00:21:43,085
+powertrain warranty, find out exactly when it
+
+556
+00:21:43,085 --> 00:21:45,208
+ends, in months and in miles.
+
+557
+00:21:45,388 --> 00:21:48,362
+A transmission problem that appears one month
+
+558
+00:21:48,362 --> 00:21:50,543
+before the warranty ends is free.
+
+559
+00:21:50,723 --> 00:21:53,602
+One month after can cost thousands.
+
+560
+00:21:53,782 --> 00:21:55,569
+We put all of this into the
+
+561
+00:21:55,569 --> 00:21:58,217
+Twenty Twenty-Seven Truck Buyer's Guide.
+
+562
+00:21:58,397 --> 00:22:00,505
+The link is in the description and
+
+563
+00:22:00,505 --> 00:22:01,869
+in the pinned comment.
+
+564
+00:22:02,219 --> 00:22:03,287
+If this helped,
+
+565
+00:22:03,287 --> 00:22:05,993
+subscribe, because next we look at the
+
+566
+00:22:05,993 --> 00:22:08,841
+truck safety ratings nobody talks about,
+
+567
+00:22:08,841 --> 00:22:11,689
+and some popular trucks score worse than
+
+568
+00:22:11,689 --> 00:22:12,900
+you would expect.
+
+569
+00:22:13,080 --> 00:22:14,854
+And tell us in the comments,
+
+570
+00:22:14,854 --> 00:22:17,960
+has your truck's transmission ever done something
+
+571
+00:22:17,960 --> 00:22:18,467
+strange?
+
+572
+00:22:18,647 --> 00:22:19,796
+Thanks for watching.
