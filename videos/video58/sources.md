@@ -1,0 +1,14 @@
+- NPR via KJZZ, diesel passes $6 (Sep 11, 2026): https://www.kjzz.org/npr-top-stories/2026-09-11/us-diesel-prices-soar-past-6-a-gallon-deepening-strain-for-hauling-everyday-goods
+- WTOC, diesel record $6.51 (Sep 21, 2026): https://wtoc.com/2026/09/21/diesel-prices-hit-record-651-georgia-634
+- EIA weekly fuel prices (weeks of Oct 19, 2026 and Oct 20, 2025), summarized: https://startbusinessbystate.com/?p=16465
+- AAA Your Driving Costs 2026 via Kelley Blue Book: https://www.kbb.com/car-news/aaa-hybrids-come-out-on-top-in-2026-ownership-cost-study/
+- AAA Your Driving Costs 2026 via CarPro: https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- CarGurus, most expensive pickup trucks (Tundra i-Force Max, Sierra Denali Ultimate Duramax specs): https://cargurus.com/Cars/articles/most-expensive-pickup-trucks
+- Carscoops, Hemi return sparked 10,000+ orders: https://www.carscoops.com/2025/07/hemis-return-sparked-10000-orders-in-less-than-24-hours/
+- Fox Business, Ford Lightning production end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
+- FOX 2 Detroit, car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
+- Insurify, car insurance report 2026 (repair costs): https://insurify.com/car-insurance/report/
+- Fleet Maintenance, DOJ diesel delete policy (Jan 2026): https://www.fleetmaintenance.com/equipment/emissions-and-efficiency/news/55352642/doj-wont-pursue-jail-time-for-diesel-deleting-civil-penalty-risk-to-remain
