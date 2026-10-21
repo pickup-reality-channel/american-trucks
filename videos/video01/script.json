@@ -20,7 +20,7 @@
   },
   {
    "text": "Before we start, a quick note on how this channel works. Every number you hear comes from a published source, and the sources are listed in the description. If a figure could not be confirmed, we left it out. Truck buying is expensive, and you deserve facts, not rumors. Let's begin with the truck that is already gone.",
-   "query": "pickup trucks parked",
+   "query": "Ford F-250 Super Duty pickup",
    "caption": "EVERY NUMBER IS SOURCED"
   },
   {
@@ -113,7 +113,7 @@
   },
   {
    "text": "So what replaces it? A next-generation Lightning built as an extended-range electric vehicle, an EREV, where a gas engine acts as a generator for the battery. Ford estimates it could add up to seven hundred miles or more of total range. It is planned for the Rouge Electric Vehicle Center in Dearborn, with launch timing to be announced. Ford also expects about half of its global volume to be hybrids, EREVs and EVs by twenty thirty, up from seventeen percent in twenty twenty-five.",
-   "query": "Ford Rouge Center Dearborn",
+   "query": "Ford Rouge Complex Dearborn factory",
    "caption": "NEXT LIGHTNING: GAS-ASSISTED"
   },
   {
@@ -149,7 +149,7 @@
   },
   {
    "text": "Here is the twist. The Hummer EV is one of the most capable electric trucks ever built, and that is exactly the problem for its buyers. It is a very expensive truck in a market where buyers are suddenly cautious about expensive electric trucks. Great engineering does not fix a demand problem. And the next truck on our list has the opposite issue. Nothing is wrong with it. It is not electric at all. And it was not even built by the company on its badge.",
-   "query": "GMC Hummer EV pickup truck",
+   "query": "GMC Hummer EV pickup -H2 -\"Hummer H2\"",
    "caption": "GREAT ENGINEERING, SMALL AUDIENCE"
   },
   {
@@ -247,7 +247,7 @@
   },
   {
    "text": "So what is the pattern across all seven? Four of them are electric trucks, or were planned to be. One was a Japanese brand's full-size truck that never found enough buyers. One was a medium-duty truck that depended on a partner who sold the factory. One is a small Korean-brand pickup beaten six to one by a cheaper rival. Different problems, same lesson. A truck is not just a vehicle. It is a bet on a factory, a partner, a battery, and a buyer, and any one of them can break.",
-   "query": "pickup trucks lot",
+   "query": "Ford F-150 Chevrolet Silverado pickups dealership lot",
    "caption": "THE PATTERN: A TRUCK IS A BET",
    "chapter": "What to check before you buy in 2027"
   },

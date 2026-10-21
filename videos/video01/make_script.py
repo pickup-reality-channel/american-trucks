@@ -11,7 +11,7 @@ sc("""The answer is not what you think. It is not quality. It is not reliability
 sc("""Stay with me for the next twenty-two minutes, because there is a twist in every one of these stories. One truck was killed by a partner's factory sale. One was cancelled after four delays. One outsold its famous rival and was cancelled anyway. And one is not even built by the company on the badge. By the end, you will know exactly what to check before you sign for a truck in twenty twenty-seven.""",
    "Ram 1500 pickup truck", "7 TRUCKS. 7 TWISTS.")
 sc("""Before we start, a quick note on how this channel works. Every number you hear comes from a published source, and the sources are listed in the description. If a figure could not be confirmed, we left it out. Truck buying is expensive, and you deserve facts, not rumors. Let's begin with the truck that is already gone.""",
-   "pickup trucks parked", "EVERY NUMBER IS SOURCED")
+   "Ford F-250 Super Duty pickup", "EVERY NUMBER IS SOURCED")
 
 # ---------- 1. NISSAN TITAN ----------
 sc("""Truck number one is the Nissan Titan. In August of twenty twenty-three, a Nissan spokesman confirmed to Motor Authority that the Titan would end after the twenty twenty-four model year. Production at the plant in Canton, Mississippi, was scheduled to stop in the middle of twenty twenty-four. Not a recall. Not a scandal. A quiet announcement that one of the only full-size pickups from a Japanese brand was finished.""",
@@ -53,7 +53,7 @@ sc("""Put those numbers next to the truck it was built on. About twenty-seven th
 sc("""Ford's chief executive, Jim Farley, explained it in plain language. He said Ford would rather not spend billions more on large electric vehicles that have no path to profitability. And he added that hybrids are more than just economical now, and have been more popular than the company ever expected. Hybrids are now thirty percent of Ford's sales mix, and Ford said hybrid sales rose thirty percent in the most recent month while overall sales were flat.""",
    "Ford F-150 Raptor", "FARLEY: HYBRIDS ARE WINNING")
 sc("""So what replaces it? A next-generation Lightning built as an extended-range electric vehicle, an EREV, where a gas engine acts as a generator for the battery. Ford estimates it could add up to seven hundred miles or more of total range. It is planned for the Rouge Electric Vehicle Center in Dearborn, with launch timing to be announced. Ford also expects about half of its global volume to be hybrids, EREVs and EVs by twenty thirty, up from seventeen percent in twenty twenty-five.""",
-   "Ford Rouge Center Dearborn", "NEXT LIGHTNING: GAS-ASSISTED")
+   "Ford Rouge Complex Dearborn factory", "NEXT LIGHTNING: GAS-ASSISTED")
 sc("""If you are keeping score, that is two of our seven trucks, from two of the three biggest truck companies in America, where the electric version was cancelled and the answer was a gas engine helping out. Now watch what happens at the third big player, General Motors, because its story is not told by a sales chart. It is told by a factory.""",
    "Ford F-150 pickup", "NEXT: GM'S EV TRUCK FACTORY")
 
@@ -70,7 +70,7 @@ sc("""GM's explanation was short. A spokesperson said Factory Zero would tempora
 sc("""Now, one honest note. None of the sources we used publish a sales number for the Hummer EV pickup alone, so we will not invent one. What we can say, with sources, is what the plant did: it cut a shift, laid off workers, and paused twice. Those are decisions, not guesses. When a manufacturer changes its factory schedule this fast, it is reading demand more accurately than any outside analyst can.""",
    "Cadillac Escalade IQ", "NO HUMMER NUMBER? WE WON'T GUESS")
 sc("""Here is the twist. The Hummer EV is one of the most capable electric trucks ever built, and that is exactly the problem for its buyers. It is a very expensive truck in a market where buyers are suddenly cautious about expensive electric trucks. Great engineering does not fix a demand problem. And the next truck on our list has the opposite issue. Nothing is wrong with it. It is not electric at all. And it was not even built by the company on its badge.""",
-   "GMC Hummer EV pickup truck", "GREAT ENGINEERING, SMALL AUDIENCE")
+   "GMC Hummer EV pickup -H2 -\"Hummer H2\"", "GREAT ENGINEERING, SMALL AUDIENCE")
 
 # ---------- 5. SILVERADO MEDIUM DUTY ----------
 sc("""Truck number five is the biggest Chevrolet Silverado you have probably never noticed. The Silverado four thousand five hundred HD, fifty-five hundred HD and sixty-five hundred HD. These are the medium-duty work trucks, the kind you see hauling equipment, running as tow rigs, and working for small businesses. And according to Motor1 and GM Authority, their production ended on September thirtieth, twenty twenty-six.""",
@@ -117,7 +117,7 @@ sc("""To be fair, the Cybertruck still has something Ford and Ram could not keep
 
 # ---------- CLOSE ----------
 sc("""So what is the pattern across all seven? Four of them are electric trucks, or were planned to be. One was a Japanese brand's full-size truck that never found enough buyers. One was a medium-duty truck that depended on a partner who sold the factory. One is a small Korean-brand pickup beaten six to one by a cheaper rival. Different problems, same lesson. A truck is not just a vehicle. It is a bet on a factory, a partner, a battery, and a buyer, and any one of them can break.""",
-   "pickup trucks lot", "THE PATTERN: A TRUCK IS A BET")
+   "Ford F-150 Chevrolet Silverado pickups dealership lot", "THE PATTERN: A TRUCK IS A BET")
 sc("""That matters for you, because buying a truck is a long commitment. Here is what to check before you sign in twenty twenty-seven. First, look at the sales trend of the exact model, not just the brand. A truck whose sales are falling year after year is a warning sign for resale value and parts support. Second, find out who actually builds it, and whether a partner or a factory change could end it.""",
    "Ford F-150 pickup", "CHECK 1 AND 2: TREND AND BUILDER")
 sc("""Third, ask what the warranty and service plan look like if the model is discontinued. A warranty normally stays valid on a discontinued model, but get that in writing, because parts and dealer attention can fade. Fourth, compare the full cost, not just the sticker. Charging, fuel, insurance and what the truck will be worth in five years all belong on the same page. A cheap truck nobody wants can be the most expensive one you ever owned.""",

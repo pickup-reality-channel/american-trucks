@@ -35,7 +35,15 @@ def chunks(text, n=7):
 def tts(job):
     i, s, out = job
     wav = out / f"{i}.wav"
-    run("piper", "--model", MODEL, "--output_file", str(wav), input=s["text"].encode())
+    scale = os.environ.get("PIPER_LENGTH_SCALE", "1.2")  # >1 slows the voice to a documentary pace
+    for flag in ("--length-scale", "--length_scale"):
+        try:
+            run("piper", "--model", MODEL, flag, scale, "--output_file", str(wav), input=s["text"].encode())
+            break
+        except subprocess.CalledProcessError:
+            continue
+    else:
+        run("piper", "--model", MODEL, "--output_file", str(wav), input=s["text"].encode())
     return wav_len(wav) + 0.35
 
 
