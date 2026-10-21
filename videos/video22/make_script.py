@@ -1,0 +1,149 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+# ---------- HOOK ----------
+sc("""One truck recall in twenty twenty-six covered more than four million vehicles in a single filing. One covered every Cybertruck ever sold, because of glue. And one told owners not to drive their trucks at all, and to park them outside. These are the biggest truck recalls of twenty twenty-five and twenty twenty-six, ranked.""",
+   "Tesla Cybertruck", "THE 10 BIGGEST TRUCK RECALLS")
+
+# ---------- COLD OPEN ----------
+sc("""To understand how unusual these two years were, you need one number from twenty fourteen. That year, General Motors issued seventy-seven recalls, many of them tied to its infamous faulty ignition switch. For more than a decade, seventy-seven was the record that no automaker wanted to touch. According to Autoblog, citing federal data, Ford passed it in just the first six months of twenty twenty-five.""",
+   "Ford F-150 pickup truck", "THE OLD RECORD: GM, 77 IN 2014")
+sc("""By the end of twenty twenty-five, Ford had issued one hundred fifty-three recalls covering nearly thirteen million vehicles, according to Motor1. More than double the old record. And Automotive News, as quoted by Autoblog, reported that by mid-year Ford's count was higher than the next five automakers combined. Then twenty twenty-six arrived, and the single biggest recall of all was still to come.""",
+   "Ford Super Duty pickup", "FORD 2025: 153 RECALLS")
+sc("""But this is not a Ford-bashing video. In these two years, Stellantis, General Motors, Toyota, Tesla and Rivian all had truck recalls that made national news. Some were huge and boring. Some were tiny and frightening. And a few of them changed the way you should buy a truck in twenty twenty-seven.""",
+   "Ram 1500 pickup truck", "EVERY BRAND. EVERY SIZE.")
+sc("""So we ranked ten of them, from the smallest to the biggest. And here is the twist we will keep coming back to. The size of a recall tells you how many trucks share a defect. It does not tell you how dangerous it is. Some of the scariest recalls on this list cover fewer than a thousand trucks. Every number comes from a published source, listed in the description. Let's start at number ten.""",
+   "Rivian R1T", "SIZE IS NOT DANGER")
+
+sc("""First, a thirty-second lesson on how a recall actually works, because it changes how you read every number in this video. A safety recall is filed with the federal safety agency, NHTSA, when a manufacturer or the agency decides a defect creates a safety risk. The repair is free by law. Each recall gets a campaign number, like twenty-five V two seven four, and that number follows every truck it covers, no matter how many times the truck is sold.""",
+   "Ford F-150 XLT pickup", "HOW A RECALL WORKS")
+sc("""And one more thing most people do not know. A recall number counts every vehicle that could have the defect, not the ones that do. Rivian estimated about one percent of its recalled trucks were really affected. Ram said the same about one of its stability control recalls. So a recall of a million trucks may involve far fewer bad parts. The manufacturer recalls the whole range because it cannot tell which trucks have the problem without checking.""",
+   "Chevrolet Silverado HD", "RECALLED ≠ DEFECTIVE")
+
+# ---------- 10. RIVIAN ----------
+sc("""Number ten is the Rivian R one T. In January twenty twenty-six, Rivian recalled nineteen thousand, six hundred forty-one vehicles, twelve thousand, six hundred ten R one T pickups and seven thousand and thirty-one R one S SUVs, from the twenty twenty-two to twenty twenty-five model years, according to The EV Report. The problem was a rear suspension toe link joint that could separate while driving.""",
+   "Rivian R1T pickup", "RIVIAN: 19,641 RECALLED")
+sc("""Here is the twist. This defect did not come from the factory. It came from the service department. The joint may not have been reassembled correctly during service work done between April twenty twenty-two and March twenty twenty-five. In other words, a repair could have created the problem. Rivian estimated only about one percent of the recalled vehicles actually had the defect.""",
+   "Rivian R1T electric truck", "THE DEFECT CAME FROM SERVICE")
+sc("""But Rivian's advice was blunt. Owners were told not to drive the affected vehicles, and to park them outside, according to the report. A joint separating at speed could raise the risk of a crash without warning. The fix was new bolts with an updated procedure, free of charge. And the lesson for any truck owner is a strange one. After a repair, the work itself can be the thing that needs checking.""",
+   "Rivian R1S", "DO NOT DRIVE. PARK OUTSIDE.")
+
+# ---------- 9. F-150 LIGHTNING ----------
+sc("""Number nine is the smallest recall on our list, and maybe the most uncomfortable one. In March twenty twenty-five, Ford recalled nine hundred fifty twenty twenty-four F-150 Lightning electric pickups, according to Kelley Blue Book. Ford said a supplier's production deviations may have misaligned the electrodes inside the high-voltage battery cells.""",
+   "Ford F-150 Lightning", "LIGHTNING: 950 TRUCKS")
+sc("""Why does that matter? Over repeated charging and discharging, a misaligned electrode can cause an internal short circuit, and that is a fire risk. Until the repair was done, owners were asked to keep the battery charged below eighty percent. Think about that for an electric truck owner. You paid for a big battery, and the safety advice was to use only part of it.""",
+   "Ford F-150 Lightning charging", "CHARGE BELOW 80%")
+sc("""Here is the twist. Nine hundred fifty trucks is almost nothing next to the millions we will see later. But this is the kind of recall that matters most to the people inside it. A small recall can be serious, and a big recall can be a software patch. Keep that in mind, because number eight is also small, and it involves a part that holds your front wheels to the engine.""",
+   "Ford F-150 Lightning pickup", "SMALL. SERIOUS.")
+
+# ---------- 8. TACOMA ----------
+sc("""Number eight is the Toyota Tacoma. In October twenty twenty-five, Toyota recalled about six thousand brand-new twenty twenty-five Tacoma four-wheel-drive trucks, according to TFL Truck. The front driveshaft joints may have been made without the required materials, and they could deform or break while driving. Dealers check the driveshaft serial number and replace it if needed.""",
+   "Toyota Tacoma 2024", "TACOMA 2025: DRIVESHAFT JOINTS")
+sc("""Six thousand trucks is not a big number. But it lands on a truck that has a reputation to protect. The Tacoma is one of the most popular midsize pickups in America, and people buy it precisely because they expect it to last. And it was not the first time. In February twenty twenty-four, Toyota recalled about three hundred eighty-one thousand twenty twenty-two and twenty twenty-three Tacomas, because welding debris on the rear axle could make the retaining nuts loosen.""",
+   "Toyota Tacoma TRD", "2024: 381,000 TACOMAS")
+sc("""If those nuts came off, a part could separate from the axle and affect stability and braking. The fix was an inspection and a re-tightening, free of charge. So here is the twist. The brand with the strongest reliability reputation in trucks had two driveline recalls in two years. A reputation is built over decades. A recall can come from a single bad batch at a single supplier.""",
+   "Toyota Tacoma pickup", "A REPUTATION VS ONE BAD BATCH")
+
+# ---------- 7. CYBERTRUCK ----------
+sc("""Number seven is the Tesla Cybertruck. On March twentieth, twenty twenty-five, Tesla recalled forty-six thousand and ninety-six Cybertrucks, every one built from November thirteenth, twenty twenty-three, the start of deliveries, through February twenty-seventh, twenty twenty-five, according to CarScoops. In practice, that was basically every Cybertruck on the road at the time.""",
+   "Tesla Cybertruck", "EVERY CYBERTRUCK: 46,096")
+sc("""The problem was a stainless steel panel called the cant rail, which runs along the roof above the windows. It could partially come off while driving. And the reason is almost unbelievable for a truck sold as being bulletproof. The panel was held on entirely by structural adhesive. Glue. And that adhesive could become brittle from environmental exposure.""",
+   "Tesla Cybertruck side", "HELD ON BY GLUE")
+sc("""Here is the twist. Most of Tesla's earlier recalls were fixed with software updates, sent over the air. This one could not be. Owners had to bring the truck in, and Tesla added a stud welded to the panel and clamped to the truck's structure with a nut, plus a stronger adhesive. According to CarScoops, it was the eighth Cybertruck recall since deliveries began. In about sixteen months.""",
+   "Tesla Cybertruck rear", "RECALL NUMBER 8 IN ~16 MONTHS")
+sc("""And the Cybertruck story did not stop there. In May twenty twenty-six, Tesla recalled Cybertrucks with eighteen-inch steel wheels, because rough roads and cornering could crack the brake rotor stud holes and let wheel studs separate, according to federal data reported by iHeart. Tesla said there were no reported crashes or injuries. The fix was new rotors, hubs and lug nuts, at no cost.""",
+   "Tesla Cybertruck wheel", "2026: WHEEL STUDS")
+
+# ---------- 6. TUNDRA ----------
+sc("""Number six is the Toyota Tundra. In January twenty twenty-six, Toyota recalled one hundred sixty-two thousand twenty twenty-four and twenty twenty-five Tundra and Tundra Hybrid pickups, according to Autoblog. The rearview camera display could get stuck on the camera view, or show a black screen. Since twenty eighteen, federal rules have required backup cameras on new vehicles, so a camera that fails is a safety recall, not a comfort issue.""",
+   "Toyota Tundra 2024", "TUNDRA: 162,000 CAMERAS")
+sc("""The fix was a free software update to the parking assist computer. But the Tundra's bigger recall story started earlier. In twenty twenty-four, Toyota recalled about one hundred thousand twenty twenty-two and twenty twenty-three Tundras and about three thousand five hundred Lexus LX six hundreds, because machining debris may have been left inside the engine, which could cause knocking, rough running, and stalling, according to the Associated Press.""",
+   "Toyota Tundra TRD Pro", "EARLIER: ENGINE DEBRIS")
+sc("""And here is the twist. Toyota's remedy for that one was to replace the entire engine on every affected truck, free of charge. Not a part. Not an inspection. A whole engine. Toyota did not say what it cost. For comparison, keep that in mind for number five, because another company had a similar engine problem, and chose a very different fix.""",
+   "Toyota Tundra pickup", "TOYOTA'S FIX: A NEW ENGINE")
+
+sc("""Before we get to the top five, let's pause on something the first five recalls have in common. Every one of them was a physical part. A bolt, a battery cell, a driveshaft, a panel, a camera display. None of them could be solved by sending code to the truck overnight, except the Tundra camera. Now watch what happens as the numbers get bigger, because the top of this list looks completely different.""",
+   "Toyota Tundra Hybrid", "HALFWAY: ALL HARDWARE")
+
+# ---------- 5. GM 6.2 ----------
+sc("""Number five is the General Motors six point two liter V8, the L eighty-seven, used in the Chevrolet Silverado and GMC Sierra fifteen hundred, plus the Tahoe, Suburban, Yukon and Cadillac Escalade. In twenty twenty-five, GM recalled nearly six hundred thousand of these vehicles in the United States, under recall twenty-five V two seven four, according to GM Authority. The engines involved were built from March twenty twenty-one to May twenty twenty-four.""",
+   "Chevrolet Silverado 1500 2022", "GM 6.2L V8: ~600,000")
+sc("""The defect was in the heart of the engine, the connecting rods and the crankshaft. Contamination could damage the rod bearings, and some crankshafts may have been out of specification or improperly finished. The worst case was a seized engine and a sudden loss of power. GM estimated about three percent of the engines would need replacement.""",
+   "GMC Sierra 1500 Denali", "RODS. CRANKSHAFT. SEIZURE.")
+sc("""Now compare the fix with Toyota's. For engines that passed GM's inspection, the remedy was to change from zero W twenty oil to a thicker zero W forty oil, and replace the oil filter and oil fill cap. Toyota replaced every engine. GM replaced the ones that failed inspection and changed the oil in the rest. Two companies, two very different decisions.""",
+   "Chevrolet Tahoe", "TOYOTA: NEW ENGINES. GM: THICKER OIL.")
+sc("""And here is the twist that makes this one of the defining recalls of twenty twenty-six. On August twentieth, twenty twenty-six, the federal safety agency opened engineering analysis E A twenty-six zero zero five, covering nine hundred ninety-seven thousand, seven hundred forty-three vehicles from twenty twenty-one to twenty twenty-six. GM Authority counted four hundred ninety-nine complaints of engine failure after the recall repair, plus one hundred ninety-one more on engines outside the original dates.""",
+   "Chevrolet Silverado pickup", "690 COMPLAINTS AFTER THE FIX")
+sc("""Those are complaints, not confirmed failures. But for an owner, this is the hardest kind of recall. You did everything right. You took the truck in. You got the fix. And now regulators are asking whether the fix works. If you own or are buying one of these trucks, keep every oil change receipt and every service record. If this investigation turns into a new remedy, that paperwork will matter.""",
+   "GMC Yukon", "KEEP EVERY RECEIPT")
+
+# ---------- 4. FORD CAMERAS AND FUEL PUMPS ----------
+sc("""Number four is not one recall. It is a wave. In twenty twenty-five, Ford recalled about one point one million vehicles because the rearview camera image could freeze or be delayed, and more than eight hundred fifty thousand vehicles, including the Bronco, Expedition and F-two fifty, for a low-pressure fuel pump problem, according to Autoblog. Then on October twenty-second, twenty twenty-five, Reuters reported another camera recall, nearly one point four five million older vehicles.""",
+   "Ford F-250 Super Duty", "FORD: CAMERA AND FUEL PUMP WAVE")
+sc("""According to Reuters, Ford knew of about twelve thousand, five hundred warranty claims tied to the camera issue, and five crashes, with no injuries. In the month before, Ford had recalled one point nine million vehicles worldwide for camera problems. And earlier in October, about six hundred twenty-five thousand more for another camera issue and a seat belt issue. The camera story just kept growing.""",
+   "Ford Explorer", "12,500 WARRANTY CLAIMS")
+sc("""Here is the twist for truck owners. The October recall itself covered cars and SUVs, like the Explorer, the Escape and the Mustang. But Ford also extended rear camera coverage on millions of other vehicles with a fifteen-year warranty program covering more than two dozen models, including twenty fifteen to twenty twenty F-150 trucks, according to Reuters. If you own one of those F-150s, you may have camera coverage you never heard about.""",
+   "Ford F-150 thirteenth generation", "F-150 2015-2020: 15-YEAR CAMERA COVERAGE")
+sc("""And this did not start in twenty twenty-five. Reuters reported that in November twenty twenty-four, Ford agreed to a one hundred sixty-five million dollar civil penalty, after the federal safety agency found it had failed to recall vehicles with defective rearview cameras on time. In January twenty twenty-five, the agency asked Ford about more camera complaints. By September, the two sides agreed on a plan covering every twenty fifteen to twenty twenty-five vehicle with analog cameras.""",
+   "Ford F-150 pickup", "$165 MILLION PENALTY")
+
+sc("""Here is why the Ford camera saga matters even if you never owned one of those cars. It shows how a recall can grow. It started with complaints, became a federal question, turned into a penalty, and ended with a deal that covered a decade of vehicles. When you see a few complaints about a part on your truck today, that may be the very beginning of the same process.""",
+   "Ford Escape", "HOW A RECALL GROWS")
+
+# ---------- 3. F-150 DOWNSHIFT ----------
+sc("""Number three is the Ford F-150, and a problem that every driver fears. On April fourteenth, twenty twenty-six, Ford recalled one million, three hundred ninety-two thousand, nine hundred thirty-five twenty fifteen to twenty seventeen F-150s, because the transmission could make an unexpected downshift, which can cause a loss of control, according to Motor1. A separate recall covered forty-four thousand, nine hundred sixty-three twenty fourteen F-150s for the same kind of problem.""",
+   "Ford F-150 2016", "1,392,935 F-150s: DOWNSHIFT")
+sc("""Imagine you are driving at highway speed, and the transmission suddenly drops to a much lower gear. The rear wheels can lose grip, especially on a wet road or with an empty bed. That is the scenario this recall addresses. And the twist is that these trucks are nine to twelve years old. Many of them have changed hands several times, and a used buyer may have no idea the recall exists.""",
+   "Ford F-150 XLT 2015", "USED TRUCKS. OPEN RECALLS.")
+sc("""That is the biggest hidden lesson in this whole video. Recall letters go to the registered owner. If you bought a used truck from a private seller, or the address is old, the letter may never reach you. The federal recall website lets anyone enter a VIN for free and see open recalls in about a minute. Before you buy any used truck, do that first. Now number two, a recall that was hiding in the back seat.""",
+   "Ford F-150 pickup truck", "CHECK THE VIN BEFORE YOU BUY")
+
+# ---------- 2. RAM SEAT BELT ----------
+sc("""Number two is the Ram fifteen hundred. On August third, twenty twenty-six, Stellantis recalled more than one and a half million Ram fifteen hundred pickups, from the twenty nineteen through twenty twenty-six model years, as reported by Fox and Reuters. About one point two seven million were in the United States, one hundred fifty-six thousand in Canada, fifteen thousand in Mexico, and roughly seventy-five thousand elsewhere.""",
+   "Ram 1500 Laramie", "1.5 MILLION RAM 1500s")
+sc("""The problem was a rear seat belt buckle anchor, for the second-row center or driver-side seat, that may not have been properly attached to the body frame. A passenger would never know. The belt clicks normally. But in a crash, an anchor that is not secured may not do its job. Stellantis said it was aware of one possible injury. The remedy is an inspection, and a proper attachment if needed.""",
+   "Ram 1500 crew cab", "THE BELT CLICKS. THE ANCHOR MAY NOT HOLD.")
+sc("""Here is the twist. This recall covers the entire current generation of the Ram fifteen hundred, eight model years. It is one of the most popular family trucks in the country, with a big crew cab back seat. So this is not a recall about a worker's tool or a towing feature. It is about the kids in the back. And it only gets fixed if the owner takes the truck in.""",
+   "Ram 1500 Rebel", "8 MODEL YEARS. THE BACK SEAT.")
+sc("""Ram trucks also had smaller recalls that show how modern trucks fail. In November twenty twenty-four, Ram recalled thirty-three thousand, seven hundred seventy-seven twenty twenty-five Ram fifteen hundreds because damaged wheel bearing coding rings could disable electronic stability control, according to Auto one twenty-three. Only about one percent were thought to be affected. A tiny ring, damaged in handling, could switch off a major safety system.""",
+   "Ram 1500 2025", "A TINY RING. A BIG SYSTEM.")
+
+# ---------- 1. FORD TRAILER RECALL ----------
+sc("""And number one, the biggest truck recall of these two years. On February twentieth, twenty twenty-six, Ford recalled four million, three hundred eighty-one thousand, eight hundred seventy-eight vehicles, according to Motor1. It covered the twenty twenty-one to twenty twenty-six F-150, the twenty twenty-two to twenty twenty-six Super Duty and Maverick, the twenty twenty-four to twenty twenty-six Ranger, plus the Expedition, the E-Transit and the Lincoln Navigator.""",
+   "Ford F-150 towing", "#1: 4,381,878 VEHICLES")
+sc("""The problem was communication with a trailer. According to the federal safety agency, as reported by SlashGear, the trailer's brake lights and turn signals could malfunction, and the trailer brakes could become nonfunctional. On a truck, that is serious. A trailer with no brake lights is invisible to the driver behind you, and a trailer without brakes pushes your truck when you stop.""",
+   "Ford Super Duty towing trailer", "TRAILER BRAKES COULD FAIL")
+sc("""Now the twist. The biggest truck recall in years was fixed mostly by software, sent over the air, according to Motor1. That is why it could be so big. One piece of code ran on seven different models, across several plants, so one bug became four million recalls. And SlashGear noted that this single recall was many times larger than any Ford recall of twenty twenty-five.""",
+   "Ford F-150 fourteenth generation", "ONE BUG. 4 MILLION RECALLS.")
+sc("""And here is the part that most people missed. The same month, Ram's heavy-duty trucks had their own recall for a trailer tow module that could make trailer lights fail and trailer brakes stop working, covering four hundred fifty-six thousand, two hundred eighty-seven vehicles, according to federal campaign data compiled by Lemberg Law. Two rivals, the same weak point, in the same month. Trailer electronics became the recall story of early twenty twenty-six.""",
+   "Ram 2500 Heavy Duty", "RAM HD: SAME PROBLEM, SAME MONTH")
+
+sc("""Put the top three side by side and you see the scale of these two years. One point four million F-150s for a downshift. One and a half million Rams for a seat belt anchor. Four point four million Fords for trailer communication. Together, about seven point three million vehicles, in just three recalls, all in twenty twenty-six. That is roughly nine years of F-Series sales, at the twenty twenty-five pace of about eight hundred thousand trucks a year.""",
+   "Ford F-150 Raptor", "TOP 3: ~7.3 MILLION VEHICLES")
+
+# ---------- CLOSE ----------
+sc("""So what do these ten recalls tell us? Three patterns. First, software is now the biggest source of mass recalls, because the same code runs in millions of trucks. That makes recalls bigger, but it also makes many of them faster to fix. Second, the scariest recalls are usually mechanical and small, a driveshaft, a toe link, a battery cell. Third, some of the hardest problems are the ones where the fix itself is in question.""",
+   "Ford F-150 Chevrolet Silverado Ram 1500", "3 PATTERNS")
+sc("""And here is the twist that ties all ten together. Every one of these recalls was free to fix. The cost for an owner is not the repair. It is not knowing. A truck with an open recall can be sold, resold and driven for years without anyone noticing. Ford has even had to repeat some recalls, because an internal audit found vehicles recorded as repaired that never got the remedy, according to Kelley Blue Book.""",
+   "Ford Maverick", "THE REAL COST: NOT KNOWING")
+sc("""So before you buy any truck in twenty twenty-seven, do four things. Check the VIN on the federal recall website. Check it again on the brand's own recall page. Ask the dealer to print the service history and show the completed recall work. And if the truck is part of an open investigation, like the GM six point two, keep every receipt. We put this checklist, and the dealer questions that go with it, in the Twenty Twenty-Seven Truck Buyer's Guide.""",
+   "Chevrolet Silverado 1500", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+sc("""The link is in the description and in the pinned comment. If this helped you, subscribe, because next we look at the five engines you should avoid in a used truck, and some of them are in this video. And tell us in the comments which recall surprised you most. Thanks for watching.""",
+   "Ram 1500 pickup truck", "NEXT: 5 ENGINES TO AVOID")
+
+CH = {"One truck recall in twenty twenty-six": "Intro", "Number ten": "10. Rivian R1T suspension", "Number nine": "9. F-150 Lightning battery",
+      "Number eight": "8. Toyota Tacoma driveline", "Number seven": "7. Tesla Cybertruck panels", "Number six": "6. Toyota Tundra",
+      "Number five": "5. GM 6.2L V8", "Number four": "4. Ford cameras and fuel pumps", "Number three": "3. F-150 unexpected downshift",
+      "Number two": "2. Ram 1500 seat belts", "And number one": "1. Ford trailer brakes and lights", "So what do these ten": "What to check before you buy in 2027"}
+CUTS = {0: 8, 1: 8, 2: 5, 3: 4}
+for idx, s in enumerate(S):
+    if idx in CUTS: s["cuts"] = CUTS[idx]
+    for k, v in CH.items():
+        if s["text"].startswith(k): s["chapter"] = v
+json.dump({"id": "video22", "length_scale": 1.36,
+  "title": "The 10 Biggest Truck Recalls of 2025 and 2026, Ranked", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words")
