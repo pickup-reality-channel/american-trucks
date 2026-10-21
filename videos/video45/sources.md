@@ -1,0 +1,9 @@
+- SlashGear, why the Lincoln Blackwood failed: https://www.slashgear.com/1003357/the-reason-the-lincoln-blackwood-was-a-failure
+- VEHQ, discontinued trucks (Blackwood, SSR, Baja, EXT, Avalanche, H2 SUT): https://vehq.com/?p=137824
+- Motor Authority, Nissan Titan ends after 2024: https://www.motorauthority.com/news/1140417_nissan-titan-dies-after-2024
+- The Autopian, Hyundai Santa Cruz reportedly ending early (Jan 2026): https://www.theautopian.com/the-santa-cruz-is-reportedly-dying-but-hyundai-says-making-it-was-a-valuable-learning-experience/
+- InsideEVs, Cybertruck 2025 sales (Cox Automotive): https://insideevs.com/news/784715/tesla-cybertruck-ev-sales-drop-2025/
+- InsideEVs, Ram 1500 REV cancelled: https://insideevs.com/news/772186/ram-1500-rev-dead/
+- Fox Business, Ford $19.5B charge and Lightning end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- autoevolution, Q3 2026 pickup sales: https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results

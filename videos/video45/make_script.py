@@ -1,0 +1,132 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+# ---------- HOOK ----------
+sc("""A luxury pickup that cost fifty-two thousand dollars, and you could not get it with four-wheel drive. A truck that Tesla says it can build at more than one hundred twenty-five thousand a year, and Americans bought about twenty thousand. An electric Ram that was cancelled before a single customer got one. These are the trucks that flopped, and every one of them failed for a reason you can learn from.""",
+   "Lincoln Blackwood", "7 TRUCKS THAT FLOPPED")
+sc("""Some of these flops are twenty years old. Some happened in the last twelve months. But they all share a pattern, and once you see it, you will never look at a new truck launch the same way again. Because the mistakes that killed these trucks are the same mistakes that can cost you money as a buyer in twenty twenty-seven.""",
+   "Tesla Cybertruck", "SAME MISTAKES, DIFFERENT DECADES")
+sc("""Every number in this video comes from a published source, listed in the description. If a figure could not be confirmed, we left it out. Let's start with what may be the most famous truck flop in American history.""",
+   "Chevrolet SSR", "EVERY NUMBER IS SOURCED")
+
+# ---------- 1. BLACKWOOD ----------
+sc("""Number one is the Lincoln Blackwood. In two thousand two, Lincoln, Ford's luxury brand, decided to build a luxury pickup. It was based on the Ford F-one-fifty crew cab and on the Lincoln Navigator. It had dark wood-look trim on the bed, a carpeted cargo area, and a power tonneau cover. On paper, it was the most luxurious pickup America had ever seen.""",
+   "Lincoln Blackwood", "1. LINCOLN BLACKWOOD, 2002")
+sc("""Then buyers saw the details. According to SlashGear, the Blackwood started at fifty-two thousand dollars. That was about twenty thousand dollars more than a Ford F-one-fifty King Ranch, which was already a luxury truck. And here is the part that shocked truck buyers: four-wheel drive was not available. A fifty-two thousand dollar pickup that could not go off-road or handle a snowy driveway with confidence.""",
+   "Lincoln Blackwood pickup black", "$52,000, NO 4WD")
+sc("""And it had a direct rival. Cadillac launched the Escalade EXT, a luxury pickup with a fold-down wall between the cabin and the bed, at a hair under fifty thousand dollars. According to SlashGear, the Blackwood's five point four liter V eight made three hundred horsepower, while the Escalade EXT's six liter V eight made three hundred forty-five. The Lincoln cost more and did less. SlashGear called its failure almost entirely self-inflicted.""",
+   "Cadillac Escalade EXT", "CADILLAC EXT: CHEAPER, STRONGER")
+sc("""The result was brutal. According to V E H Q, just over three thousand three hundred eighty-three Blackwoods were built. It lasted one model year. And the twist? Lincoln tried again. The Mark L T, a luxury pickup based more closely on the F-one-fifty, was sold in the United States from two thousand six to two thousand eight. It also disappeared.""",
+   "Lincoln Mark LT", "~3,383 BUILT, ONE YEAR")
+sc("""There was another problem nobody talks about. The Blackwood's bed was not really a bed. It was lined with carpet and covered with a power cover, so it was more like a giant trunk. Buyers who wanted to throw a load of mulch or lumber in the back could not do it without worrying about ruining a fifty-two thousand dollar truck. It looked like a pickup, but it did not let you use it like one.""",
+   "Lincoln Blackwood bed", "A BED YOU COULD NOT USE")
+sc("""The lesson of the Blackwood is simple. A truck buyer will pay for luxury, but not at the cost of being a truck. Today, the most expensive pickups in America are luxury trims of normal trucks, like the King Ranch, the Denali and the Ram Limited. They kept the four-wheel drive, the towing and the bed. The Blackwood took those away, and buyers walked.""",
+   "Ford F-150 King Ranch", "LUXURY, BUT STILL A TRUCK")
+
+# ---------- 2. SSR ----------
+sc("""Number two is the Chevrolet S S R. It was a retro-styled, two-seat pickup with a retractable hardtop roof. It looked like a hot rod from the nineteen forties, with big round fenders. Chevrolet sold it from two thousand three to two thousand six. It was one of the most unusual vehicles General Motors ever put into production.""",
+   "Chevrolet SSR", "2. CHEVROLET SSR, 2003-2006")
+sc("""The problem was that nobody knew what it was for. It was a convertible that was too heavy to be a sports car, and a pickup with a bed too small and too pretty to really use. In its first years, it was criticized for being slow for its price. Chevrolet later added a much more powerful V eight, but by then, the first impression had already stuck.""",
+   "Chevrolet SSR red", "NOT A SPORTS CAR, NOT A TRUCK")
+sc("""According to V E H Q, just over twenty-four thousand S S Rs found homes. For a niche vehicle, that is not nothing. But for a full production model from General Motors, it was far below what was needed. The S S R ended after the two thousand six model year.""",
+   "Chevrolet SSR convertible", "JUST OVER 24,000 SOLD")
+sc("""The S S R also had a timing problem. It was expensive to build, with a complex folding steel roof, and it arrived at a moment when buyers were starting to worry about fuel prices. A heavy, two-seat convertible truck was a hard sell in that climate. Even its fans admitted it was more of a toy than a tool.""",
+   "Chevrolet SSR hardtop", "MORE TOY THAN TOOL")
+sc("""And here is the twist. Today, the S S R has a loyal fan club, and clean examples get attention at car shows and auctions. A truck that flopped as a new product is becoming a cult classic. The lesson: a vehicle can be a great idea for a small group of people and still be a terrible business for a giant company.""",
+   "Chevrolet SSR yellow", "FLOP TO CULT CLASSIC")
+
+# ---------- 3. BAJA ----------
+sc("""Number three is the Subaru Baja. Subaru took its Outback wagon, cut off the back of the roof, and added a small open bed. It had all-wheel drive, a car-like ride, and four doors. It was sold in the United States from two thousand three to two thousand six. Subaru had tried this idea before, with the BRAT in the late seventies and eighties.""",
+   "Subaru Baja", "3. SUBARU BAJA, 2003-2006")
+sc("""The Baja was too small to be taken seriously as a truck, and too strange-looking for many Subaru wagon buyers. Its bed was short, and the styling, with plastic cladding, divided people. According to V E H Q, Subaru moved fewer than thirty thousand units before retiring it.""",
+   "Subaru Baja pickup", "FEWER THAN 30,000 SOLD")
+sc("""Here is the big twist. The Baja was not a bad idea. It was an early idea. Fifteen years later, Ford launched the Maverick and Hyundai launched the Santa Cruz, both small, car-based pickups. The Maverick became a massive hit. According to Ford, it sold one hundred fifty-five thousand and fifty-one units in twenty twenty-five alone. That is more than five times what the Baja sold in its entire life, in a single year.""",
+   "Ford Maverick", "MAVERICK SOLD 5X THE BAJA IN ONE YEAR")
+sc("""So why did the Maverick win where the Baja lost? Price and practicality. The Maverick launched cheap, with a standard hybrid engine, and its bed was designed to be used. The Baja was priced like a premium wagon. The lesson: being early with a good idea is often the same as being wrong, unless you get the price right.""",
+   "Ford Maverick hybrid", "EARLY IS OFTEN THE SAME AS WRONG")
+
+# ---------- 4. TITAN ----------
+sc("""Number four is the Nissan Titan. It was not a weird truck. It was a serious full-size pickup, launched for the two thousand four model year to take on Ford, Chevy and Ram. A second generation arrived for twenty sixteen, including the heavier Titan X D. Nissan spent years trying to break into America's most profitable segment.""",
+   "Nissan Titan", "4. NISSAN TITAN, 2004-2024")
+sc("""It never broke through. According to Motor Authority, Titan sales in the United States were just fifteen thousand and sixty-three units in twenty twenty-two, down forty-five percent from the year before. Compare that to the F-Series, which sold more than eight hundred twenty-eight thousand trucks in twenty twenty-five. The Titan was selling in a week what Ford sometimes sells in a single day.""",
+   "Nissan Titan XD", "2022: 15,063 TITANS, -45%")
+sc("""Production at Nissan's plant in Canton, Mississippi, ended in twenty twenty-four. The twist is that the Titan was not a bad truck. Many reviewers liked it. Its problem was loyalty. Full-size truck buyers are some of the most loyal customers in the car business, and they kept going back to Ford, Chevy and Ram. Building a good truck was not enough to make them switch.""",
+   "Nissan Titan pickup", "GOOD TRUCK, WRONG MARKET")
+sc("""There is a deeper twist here. Toyota, another Japanese brand, faced the same wall with its full-size Tundra. According to autoevolution, the Tundra sold one hundred ten thousand and eighty units through September twenty twenty-six. That is strong for a newcomer, but still small next to the Detroit trucks. Toyota survived because it was patient and focused on reliability. Nissan eventually gave up.""",
+   "Toyota Tundra", "TOYOTA STAYED, NISSAN LEFT")
+sc("""The lesson for buyers? When a truck is discontinued, resale value and long-term support can suffer. If you buy a model from a brand that is struggling in the segment, look at the resale numbers carefully, because the truck might not be around in five years.""",
+   "Nissan Titan Pro-4X", "DISCONTINUED = RESALE RISK")
+
+# ---------- 5. SANTA CRUZ ----------
+sc("""Number five is happening right now. The Hyundai Santa Cruz, a small, car-based pickup launched in twenty twenty-one. According to The Autopian in January twenty twenty-six, Hyundai sold twenty-five thousand, four hundred ninety-nine Santa Cruzes in twenty twenty-five. Dealers had nearly five months of supply in stock at the end of the year.""",
+   "Hyundai Santa Cruz", "5. HYUNDAI SANTA CRUZ")
+sc("""And Automotive News reported, citing unnamed sources, that Hyundai plans to end Santa Cruz production early. It was originally planned to continue through the second quarter of twenty twenty-seven. One source said Hyundai had told suppliers it was cutting production by roughly half. Hyundai declined to confirm the report, saying it does not comment on future product speculation.""",
+   "Hyundai Santa Cruz pickup", "REPORT: PRODUCTION CUT EARLY")
+sc("""Here is why it struggled, and it is a perfect lesson in competition. According to The Autopian, the Maverick outsold the Santa Cruz six to one. The Maverick gets thirty-eight miles per gallon combined, versus twenty-five for the Santa Cruz. Its bed is four and a half feet long, versus four. And it started at twenty-nine thousand eight hundred forty dollars including destination, versus thirty-one thousand three hundred fifty for the Santa Cruz.""",
+   "Ford Maverick Hyundai Santa Cruz", "MAVERICK OUTSOLD IT 6 TO 1")
+sc("""So the Santa Cruz lost on almost every number a buyer cares about: price, fuel economy and bed size. The twist is that Hyundai does not see it as a failure. The company said the truck has helped it gain valuable experience and visibility in the open-bed market. And Hyundai says a new midsize body-on-frame truck is due in the U S market before twenty thirty.""",
+   "Hyundai Santa Cruz", "HYUNDAI: A LEARNING EXPERIENCE")
+
+# ---------- 6. CYBERTRUCK ----------
+sc("""Number six is the most talked-about truck of the decade. The Tesla Cybertruck. Revealed in twenty nineteen with stainless steel panels and a shape like nothing else on the road. Its first full year on the market was twenty twenty-four, and according to Cox Automotive estimates reported by InsideEVs, Tesla sold close to thirty-nine thousand Cybertrucks that year.""",
+   "Tesla Cybertruck", "6. TESLA CYBERTRUCK")
+sc("""Then the numbers turned. According to the same estimates, Americans bought about twenty thousand two hundred Cybertrucks in twenty twenty-five. That is nearly half the previous year. And here is the gap that makes it a flop by Tesla's own standard. Tesla says it has the capacity to produce over one hundred twenty-five thousand Cybertrucks per year at its Texas factory, and Elon Musk has floated two hundred fifty thousand as a target in the past.""",
+   "Tesla Cybertruck stainless steel", "2025: ~20,200 VS 125,000 CAPACITY")
+sc("""Why did it fall? It was expensive, it was polarizing, and it arrived just as the electric truck market cooled. The federal tax credit for electric vehicles ended in twenty twenty-five, which hurt every electric pickup. And the Cybertruck's design, the very thing that made it famous, also kept many traditional truck buyers away.""",
+   "Tesla Cybertruck rear", "WHY IT FELL")
+sc("""Here is the twist. By some measures, the Cybertruck is not a total flop. Twenty thousand trucks in one year is more than many niche vehicles ever sell, and far more than the Lincoln Blackwood or the Chevy S S R managed in their whole lives. It is a flop compared with its promise, not compared with zero. And that is the lesson. A truck can be judged a failure simply because it promised too much.""",
+   "Tesla Cybertruck Texas", "A FLOP COMPARED WITH ITS PROMISE")
+
+# ---------- 7. ELECTRIC FULL-SIZE ----------
+sc("""Number seven is two trucks that represent the biggest truck bet of the decade. The Ford F-one-fifty Lightning and the Ram fifteen hundred R E V. Both were supposed to prove that electric full-size pickups were the future. One was cancelled before it was sold. The other was ended after three years of production.""",
+   "Ford F-150 Lightning", "7. LIGHTNING AND RAM REV")
+sc("""Start with the Ram. The all-electric Ram fifteen hundred R E V was delayed several times, and in September twenty twenty-five, Ram cancelled the battery-only version before the first customer received one. The name was kept, but moved to a range-extended truck, where a gas engine charges the battery. The electric pickup Ram promised for years never reached a single driveway.""",
+   "Ram 1500 pickup", "RAM REV: CANCELLED BEFORE SALES")
+sc("""Then the Lightning. According to Fox Business, on December sixteenth, twenty twenty-five, Ford announced a nineteen point five billion dollar charge as it changed its electric strategy, and ended production of the all-electric Lightning. In the third quarter of twenty twenty-six, according to autoevolution, Ford sold only two hundred eighty-nine Lightnings, compared with ten thousand and five a year earlier.""",
+   "Ford F-150 Lightning pickup", "$19.5B CHARGE. Q3: 289 SOLD")
+sc("""Here is the twist. The Lightning was not unpopular at first. It had long waiting lists when it launched. The problem was price, towing range, and the end of the tax credit. And while the electric truck faded, Ford's hybrid F-one-fifty sold eighty-four thousand, nine hundred thirty-four units in twenty twenty-five, according to Ford. Buyers did not reject new technology. They rejected the technology that asked them to change too much.""",
+   "Ford F-150 hybrid", "HYBRID F-150: 84,934 IN 2025")
+
+# ---------- PATTERN ----------
+# ---------- MENTIONS ----------
+sc("""Before we look at the pattern, a few dishonorable mentions, trucks that did not flop as hard, but never reached what their makers hoped. The first is the Cadillac Escalade E X T, the rival that beat the Blackwood. According to SlashGear, it was unveiled in two thousand one and continued until twenty thirteen. That is a long run, but according to V E H Q, its sales stayed modest throughout.""",
+   "Cadillac Escalade EXT", "MENTION: CADILLAC ESCALADE EXT")
+sc("""The second is its cousin, the Chevrolet Avalanche, sold from two thousand two to twenty thirteen. It had a clever folding midgate that let owners extend the bed into the cabin. Many owners loved it. But it sat between a pickup and an S U V, and when buyers moved toward regular crew cab pickups, there was no room left for it. The twist: crew cab trucks basically absorbed its idea.""",
+   "Chevrolet Avalanche", "MENTION: CHEVY AVALANCHE")
+sc("""The third is the Hummer H two S U T, a pickup version of the Hummer H two, sold from two thousand five to two thousand nine. It was huge, thirsty and expensive, and it arrived just before fuel prices spiked and the financial crisis hit. When General Motors went through bankruptcy in two thousand nine, the Hummer brand was shut down. Timing can kill a truck as surely as a bad design.""",
+   "Hummer H2 SUT", "MENTION: HUMMER H2 SUT")
+sc("""And the twist? The Hummer name came back in twenty twenty-one as an electric pickup, the G M C Hummer E V. A brand that died partly because of fuel prices returned as a vehicle that uses no fuel at all. The truck business has a strange memory. Names come back, ideas come back, and sometimes they get a second chance.""",
+   "GMC Hummer EV", "THE HUMMER CAME BACK ELECTRIC")
+sc("""So what is the pattern behind all seven flops? There are three. First, price. The Blackwood, the Baja, the Santa Cruz and the Cybertruck all cost more than the trucks buyers compared them with. Second, practicality. Trucks without four-wheel drive, with tiny beds, or with limited towing range were rejected by buyers who use trucks as trucks.""",
+   "pickup trucks dealer lot", "PATTERN 1 AND 2: PRICE, PRACTICALITY")
+sc("""And third, loyalty. The Nissan Titan was a good truck, but it could not pull buyers away from brands their families had trusted for decades. Every flop on this list broke at least one of those three rules, and most broke two or three of them at the same time.""",
+   "Nissan Titan Ford F-150", "PATTERN 3: LOYALTY")
+sc("""And here is the final twist. Some of these flops paved the way for later success. The Baja and the El Camino idea came back as the Maverick. The luxury truck idea lives on in the King Ranch and the Denali. The electric truck idea is coming back as a range-extended hybrid. In the truck business, a failure is often just an idea that arrived at the wrong time or the wrong price.""",
+   "Ford Maverick Lincoln Blackwood", "FAILURES PAVE THE WAY")
+
+# ---------- CLOSE ----------
+sc("""So how do you avoid buying the next flop in twenty twenty-seven? First, check the sales trend of the exact model. A truck whose sales are falling fast, like the Santa Cruz or the Cybertruck, may face discounts now, but weaker resale later. Second, check whether it is still going to be built. A discontinued truck can lose value quickly.""",
+   "pickup truck dealership", "CHECKS 1 AND 2: TREND, FUTURE")
+sc("""Third, compare it with the best-selling truck in its class, on price, fuel economy, bed size and towing. If it loses on all four, like the Santa Cruz against the Maverick, that tells you something. Fourth, ignore the hype. Promises about future capacity or future features do not change the truck you drive home today.""",
+   "Ford Maverick pickup", "CHECKS 3 AND 4: COMPARE, IGNORE HYPE")
+sc("""And fifth, count the full cost, including what the truck will be worth in five years. A big discount on a dying model can still be a good deal, but only if you plan to keep it for a long time.""",
+   "pickup truck for sale", "CHECK 5: THE FULL COST")
+sc("""We put all of these checks into the Twenty Twenty-Seven Truck Buyer's Guide, with the numbers to compare and the warning signs to watch for. The link is in the description and in the pinned comment. Subscribe for the next video, about the rise and fall of the compact truck. And tell us in the comments: which truck flop do you secretly love? Thanks for watching.""",
+   "Chevrolet SSR Subaru Baja", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+
+CH = {"A luxury pickup": "Intro", "Number one": "1. Lincoln Blackwood", "Number two": "2. Chevrolet SSR",
+      "Number three": "3. Subaru Baja", "Number four": "4. Nissan Titan", "Number five": "5. Hyundai Santa Cruz",
+      "Number six": "6. Tesla Cybertruck", "Number seven": "7. Ford F-150 Lightning and Ram 1500 REV",
+      "Before we look at the pattern": "Dishonorable mentions", "So what is the pattern": "The pattern behind every flop", "So how do you avoid": "What to check before you buy in 2027"}
+CUTS = {0: 8, 1: 8, 2: 5}
+for idx, sc_ in enumerate(S):
+    sc_["cuts"] = CUTS.get(idx, 3)
+    for k, v in CH.items():
+        if sc_["text"].startswith(k): sc_["chapter"] = v
+json.dump({"id": "video45", "length_scale": 1.45,
+  "title": "7 Trucks That Were Total Flops (And the Mistake That Killed Each One)", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words")
