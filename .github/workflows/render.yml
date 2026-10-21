@@ -11,6 +11,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - name: Install tools
@@ -31,10 +32,11 @@ jobs:
             videos/${{ inputs.video }}/out/${{ inputs.video }}.mp4
             videos/${{ inputs.video }}/out/captions.srt
             videos/${{ inputs.video }}/credits.json
+            videos/${{ inputs.video }}/out/chapters.txt
       - name: Publish result to the deliveries branch
         run: |
           V="${{ inputs.video }}"
-          mkdir -p /tmp/out && cp videos/$V/out/$V.mp4 videos/$V/out/captions.srt videos/$V/credits.json /tmp/out/
+          mkdir -p /tmp/out && cp videos/$V/out/$V.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/credits.json /tmp/out/
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git fetch origin deliveries || true
           git checkout -B deliveries $(git rev-parse --verify -q origin/deliveries || echo HEAD)

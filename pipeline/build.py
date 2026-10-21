@@ -35,10 +35,12 @@ def main(video):
     d = pathlib.Path("videos") / video
     out = d / "out"; out.mkdir(exist_ok=True)
     scenes = json.loads((d / "script.json").read_text())["scenes"]
-    parts, srt, t0 = [], [], 0.0
+    parts, srt, t0, chapters = [], [], 0.0, []
     for i, s in enumerate(scenes):
         wav = out / f"{i}.wav"
         run("piper", "--model", MODEL, "--output_file", str(wav), input=s["text"].encode())
+        if s.get("chapter"):
+            chapters.append(f"{int(t0//60)}:{int(t0%60):02d} {s['chapter']}")
         dur = wav_len(wav) + 0.35
         frames = int(dur * FPS)
         zoom = f"zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS}"
@@ -55,6 +57,7 @@ def main(video):
         t0 += dur; parts.append(seg)
     (out / "list.txt").write_text("".join(f"file '{p.name}'\n" for p in parts))
     (out / "captions.srt").write_text("\n".join(srt))
+    (out / "chapters.txt").write_text("\n".join(chapters) + "\n")
     nocap = out / "nocaps.mp4"
     run("ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(out / "list.txt"), "-c", "copy", str(nocap))
     style = "FontName=DejaVu Sans,Bold=1,FontSize=22,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Alignment=2,MarginV=40"

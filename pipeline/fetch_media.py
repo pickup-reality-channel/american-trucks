@@ -25,7 +25,7 @@ def pick(query, used):
         artist = meta.get("Artist", {}).get("value", "unknown")
         return {"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
                 "license": lic, "artist": artist}
-    raise SystemExit(f"no usable image for: {query}")
+    return None
 
 
 def main(video):
@@ -35,10 +35,14 @@ def main(video):
     used, credits = set(), []
     for i, s in enumerate(script["scenes"]):
         m = pick(s["query"], used)
-        used.add(m["title"])
-        (d / "media" / f"{i}.jpg").write_bytes(requests.get(m["url"], headers=HEADERS, timeout=120).content)
-        credits.append({"scene": i, **m})
-        print(i, m["title"], m["license"])
+        if m is None:  # nothing new for this query: reuse the previous scene's photo
+            m = dict(credits[-1]); print(i, "reuse", m["title"])
+            (d / "media" / f"{i}.jpg").write_bytes((d / "media" / f"{i-1}.jpg").read_bytes())
+        else:
+            used.add(m["title"])
+            (d / "media" / f"{i}.jpg").write_bytes(requests.get(m["url"], headers=HEADERS, timeout=120).content)
+            print(i, m["title"], m["license"])
+        credits.append({**m, "scene": i})
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 
