@@ -30,15 +30,17 @@ jobs:
           name: ${{ inputs.video }}
           path: |
             videos/${{ inputs.video }}/out/${{ inputs.video }}.mp4
+            videos/${{ inputs.video }}/out/preview.mp4
             videos/${{ inputs.video }}/out/captions.srt
             videos/${{ inputs.video }}/credits.json
             videos/${{ inputs.video }}/out/chapters.txt
-      - name: Publish result to the deliveries branch
+      - name: Publish small files to the deliveries branch (full video stays in the run artifact)
         run: |
           V="${{ inputs.video }}"
-          mkdir -p /tmp/out && cp videos/$V/out/$V.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/credits.json /tmp/out/
+          mkdir -p /tmp/out/media && cp videos/$V/out/preview.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/out/frame*.jpg videos/$V/credits.json /tmp/out/
+          cp videos/$V/media/*.jpg /tmp/out/media/
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git fetch origin deliveries || true
           git checkout -B deliveries $(git rev-parse --verify -q origin/deliveries || echo HEAD)
-          mkdir -p deliveries/$V/media && cp /tmp/out/* deliveries/$V/ && cp videos/$V/media/*.jpg deliveries/$V/media/ 2>/dev/null || true
+          mkdir -p deliveries/$V && cp -r /tmp/out/* deliveries/$V/
           git add -f deliveries && git commit -m "deliver $V" && git push origin deliveries
