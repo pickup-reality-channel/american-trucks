@@ -65,8 +65,12 @@ def main(video):
     for i, s in enumerate(script["scenes"]):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
-            m = pick(s["query"], used)
+            q = s["query"]
+            m = pick(q, used)
+            while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
+                q = " ".join(q.split()[:-1]); m = pick(q, used)
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
+                if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
                 f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
             used.add(m["title"])
             f.write_bytes(download(m["url"])); last = f
