@@ -1,0 +1,8 @@
+- The Henry Ford, 1925 Ford Model T pickup ($281, April 1925, ~33,800 first year): https://thehenryford.org/collections-and-research/digital-collections/artifact/289663
+- The Daily Vroom, why the Chicken Tax still matters in 2026: https://thedailyvroom.com/p/why-the-chicken-tax-still-matters-to-vehicles-in-2026
+- The Drive, Ram outsold Silverado in 2019: https://www.thedrive.com/news/31716/ram-pickups-outsold-chevrolet-silverado-in-2019-for-first-time-in-history
+- Carscoops, Hemi return orders: https://www.carscoops.com/2025/07/hemis-return-sparked-10000-orders-in-less-than-24-hours/
+- Ford, 2025 full-year US sales (Maverick): https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Ford Authority, 2027 Maverick XL hybrid-only and prices: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- The Truth About Cars, 2027 Maverick pricing: https://www.thetruthaboutcars.com/cars/news-blog/2027-ford-maverick-tweaks-pricing-structure-engine-options-45136246
+- InsideEVs, Cybertruck 2025 sales: https://insideevs.com/news/784715/tesla-cybertruck-ev-sales-drop-2025/
