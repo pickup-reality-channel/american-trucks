@@ -1,0 +1,8 @@
+- Pickup Truck Talk, Ram & Jeep recall halts towing (Feb 2026): https://pickuptrucktalk.com/2026/02/massive-ram-jeep-recall-halts-towing-on-over-450000-trucks-and-suvs-here-is-everything-you-should-know/
+- NHTSA recall documents 26V-059: https://static.nhtsa.gov/odi/rcl/2026/RCRIT-26V059-0931.pdf
+- National Association of Trailer Manufacturers, The Importance of Safe Trailering: https://www.natm.com/news/the-importance-of-safe-trailering
+- Blue Ox, trailer sway and how to prevent it: https://www.blueox.com/all-you-need-to-know-about-trailer-sway-how-to-prevent-it/
+- Jalopnik, what SAE J2807 means for trucks: https://jalopnik.com/what-is-sae-j2807-what-does-it-mean-for-trucks-1593305929
+- EIA weekly fuel prices (week of Oct 19, 2026), summarized: https://startbusinessbystate.com/?p=16465
+- AAA Your Driving Costs 2026 via CarPro: https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- Fox Business, Ford Lightning production end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
