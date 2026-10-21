@@ -1,0 +1,13 @@
+{
+ "summary": "The IIHS safety ratings that never appear in truck ads: the back seat test most pickups fail, headlights, the new automatic braking test and hood height research. Every rating comes from a published source, listed below.",
+ "sources": [
+  "IIHS, 2026 awards (March 24, 2026): https://iihs.org/news/detail/iihs-pushes-improvements-in-crash-avoidance-with-2026-awards",
+  "Pickup Truck + SUV Talk, 2026 IIHS safest pickup trucks: https://pickuptrucktalk.com/2026/06/what-are-the-2026-iihs-safest-pickup-trucks/",
+  "Work Truck Online, large pickups falter in back seat safety (2023): https://www.worktruckonline.com/news/large-pickups-falter-in-back-seat-safety",
+  "Work Truck Online, small pickups fall short in rear seat safety (2023): https://www.worktruckonline.com/news/small-pickup-trucks-fall-short-in-rear-seat-safety",
+  "F&I Magazine, new crash test reveals small pickups' weakness: https://www.fi-magazine.com/news/new-crash-test-reveals-small-pickups-weakness",
+  "GM Authority, 2026 GMC Canyon marginal in updated moderate overlap (Sept 3, 2026): https://gmauthority.com/blog/2026/09/2026-gmc-canyon-fails-iihs-updated-moderate-overlap-crash-test-video/",
+  "NPR, taller vehicles more dangerous for pedestrians (IIHS study): https://www.npr.org/2023/11/14/1212737005/cars-trucks-pedestrian-deaths-increase-crash-data"
+ ],
+ "note": "Ratings apply to the cab style and model years stated in the video. Check iihs.org for your exact truck."
+}
