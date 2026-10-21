@@ -1,0 +1,8 @@
+- Insurify, car insurance costs in the first half of 2026: https://insurify.com/car-insurance/report/
+- Insurify, are trucks more expensive to insure (2026): https://insurify.com/car-insurance/car-vs-truck-insurance/
+- Yahoo / Insure.com data, most expensive trucks to insure in 2026: https://www.yahoo.com/lifestyle/articles/most-expensive-trucks-insure-2026-180054706.html
+- Pickup Truck Talk, Compare.com study of cheapest trucks to insure (Aug 2026): https://pickuptrucktalk.com/?p=215751
+- Ford Authority, cheapest brands to insure for 2026 (Consumer Reports / Insurify): https://fordauthority.com/2026/08/ford-among-cheapest-auto-brands-to-insure-for-2026/
+- Ford Authority, NICB most stolen vehicles of 2025: https://fordauthority.com/2026/03/ford-f-150-among-top-10-most-stolen-vehicles-of-2025/
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
+- Fox Business, Ford Lightning end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
