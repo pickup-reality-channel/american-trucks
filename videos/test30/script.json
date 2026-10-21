@@ -8,7 +8,7 @@
   "scenes": [
     {
       "text": "In 2022, Nissan sold just fifteen thousand Titan pickups in America. That was a forty-five percent drop in a single year.",
-      "query": "Nissan Titan pickup truck",
+      "query": "Nissan Titan Pro-4X pickup",
       "caption": "TITAN 2022: 15,063 SOLD (-45%)"
     },
     {
@@ -18,12 +18,12 @@
     },
     {
       "text": "But here is the twist. In 2025, Ford sold eight hundred one thousand F-Series trucks. More than fifty times the Titan.",
-      "query": "Ford F-150 pickup truck",
+      "query": "Ford F-150 XLT pickup -Lightning -EV",
       "caption": "FORD F-SERIES 2025: 801,525 SOLD"
     },
     {
       "text": "So Americans still love pickups. They just stopped buying the wrong ones. Next: five trucks buyers are quietly walking away from.",
-      "query": "pickup trucks parking lot dealership",
+      "query": "Chevrolet Silverado Ram 1500 Ford F-150 pickup trucks",
       "caption": "5 TRUCKS BUYERS ARE LEAVING"
     }
   ]

@@ -19,9 +19,16 @@ def ts(t):
     return f"{int(h):02}:{int(m):02}:{int(s):02},{int((s % 1) * 1000):03}"
 
 
-def chunks(text, n=6):
-    words = text.split()
-    return [" ".join(words[i:i + n]) for i in range(0, len(words), n)]
+def chunks(text, n=7):
+    """Caption chunks that end at punctuation when possible, at most n words."""
+    out, cur = [], []
+    for w in text.split():
+        cur.append(w)
+        if len(cur) >= n or w[-1] in ".,?!:":
+            out.append(" ".join(cur)); cur = []
+    if cur:
+        out.append(" ".join(cur))
+    return out
 
 
 def main(video):
@@ -37,7 +44,7 @@ def main(video):
         zoom = f"zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS}"
         cap = s["caption"].replace("'", "").replace(":", " -")
         label = (f"drawtext=text='{cap}':fontcolor=white:fontsize=56:borderw=4:bordercolor=black:"
-                 f"box=1:boxcolor=0xC8102E@0.9:boxborderw=18:x=60:y=h-150")
+                 f"box=1:boxcolor=0xC8102E@0.9:boxborderw=18:x=60:y=60")
         seg = out / f"{i}.mp4"
         run("ffmpeg", "-y", "-loop", "1", "-i", str(d / "media" / f"{i}.jpg"), "-i", str(wav),
             "-vf", f"scale=3840:-1,{zoom},{label},format=yuv420p", "-t", f"{dur:.2f}",
