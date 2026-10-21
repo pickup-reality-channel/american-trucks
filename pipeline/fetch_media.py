@@ -1,8 +1,39 @@
 """Download one real photo per scene from Wikimedia Commons and record its license/credit."""
-import json, sys, pathlib, requests
+import json, sys, time, pathlib, requests
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "american-trucks-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
+
+
+_cache = {}
+
+
+def api_pages(params):
+    """Wikimedia rate-limits bursts; retry with backoff and cache identical searches."""
+    key = json.dumps(params, sort_keys=True)
+    if key in _cache:
+        return _cache[key]
+    for attempt in range(8):
+        time.sleep(1.5)
+        r = requests.get(API, params=params, headers=HEADERS, timeout=60)
+        if r.status_code == 200:
+            try:
+                pages = r.json().get("query", {}).get("pages", {})
+                _cache[key] = pages
+                return pages
+            except ValueError:
+                pass
+        time.sleep(5 * (attempt + 1))
+    raise SystemExit(f"Commons API kept failing for {params['gsrsearch']}")
+
+
+def download(url):
+    for attempt in range(8):
+        r = requests.get(url, headers=HEADERS, timeout=120)
+        if r.status_code == 200:
+            return r.content
+        time.sleep(5 * (attempt + 1))
+    raise SystemExit(f"download failed: {url}")
 
 
 def pick(query, used):
@@ -11,7 +42,7 @@ def pick(query, used):
         "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 25,
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1920,
     }
-    pages = requests.get(API, params=params, headers=HEADERS, timeout=60).json().get("query", {}).get("pages", {})
+    pages = api_pages(params)
     for p in sorted(pages.values(), key=lambda x: x.get("index", 0)):
         info = (p.get("imageinfo") or [{}])[0]
         if info.get("mime") != "image/jpeg" or info.get("width", 0) < 2000:
@@ -40,7 +71,7 @@ def main(video):
             (d / "media" / f"{i}.jpg").write_bytes((d / "media" / f"{i-1}.jpg").read_bytes())
         else:
             used.add(m["title"])
-            (d / "media" / f"{i}.jpg").write_bytes(requests.get(m["url"], headers=HEADERS, timeout=120).content)
+            (d / "media" / f"{i}.jpg").write_bytes(download(m["url"]))
             print(i, m["title"], m["license"])
         credits.append({**m, "scene": i})
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
