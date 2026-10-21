@@ -5,7 +5,9 @@ ch=open(d+"/chapters.txt").read().strip()
 cr=json.load(open(d+"/credits.json"))
 sents=re.split(r'(?<=[.?!])\s+',sj["scenes"][0]["text"])
 intro=sj["scenes"][0]["text"]
-src=next((s["text"] for s in sj["scenes"][:6] if re.search(r"\bsources?\b|We used|we used",s["text"])),"")
+import os
+sf=f"/home/claude/american-trucks/videos/{v}/sources.txt"
+src=open(sf).read().strip() if os.path.exists(sf) else next((s["text"] for s in sj["scenes"][:6] if re.search(r"\bsources?\b|We used|we used",s["text"])),"")
 seen=set();lines=[]
 for c in cr:
     t=c["title"].replace("File:","")
@@ -25,7 +27,7 @@ Get the 2027 Truck Buyer's Guide: [LINK HERE]
 Chapters:
 {ch}
 
-Sources (as stated in the video):
+Sources:
 {src}
 
 Photos from Wikimedia Commons (credits):
