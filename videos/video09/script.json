@@ -105,15 +105,20 @@
    "caption": "RANGER VS F-150: $3,940 GAP"
   },
   {
-   "text": "Number seven is the Nissan Frontier, and the sources do not agree. Autoblog lists it at thirty-five thousand, one hundred fifty dollars, with a three point eight liter naturally aspirated V six making three hundred ten horsepower. SlashGear lists thirty-two thousand, one hundred fifty. That is a difference of exactly three thousand dollars between two reputable outlets, so check the price at a dealer before you decide.",
+   "text": "Number seven is the Nissan Frontier, and here the two sources we used look like they disagree, but they are really talking about two different trucks. SlashGear lists thirty-two thousand, one hundred fifty dollars, and Autoblog's list shows thirty-five thousand, one hundred fifty. According to Autoblog's later report on the twenty twenty-seven Frontier, the first is the King Cab with two-wheel drive, and the second is the same King Cab with four-wheel drive.",
    "query": "Nissan Frontier pickup",
-   "caption": "FRONTIER: $32,150 OR $35,150?",
+   "caption": "FRONTIER: $32,150 (4X2). $35,150 (4X4).",
    "chapter": "7. Nissan Frontier"
   },
   {
-   "text": "Whatever the price, buyers are choosing it. The Frontier sold sixty-six thousand, five hundred thirteen trucks through nine months, up nearly forty percent. That is the fastest growth on this list. But here is the twist. iSeeCars shows it keeping sixty-three point four percent of its value, the lowest on the midsize list. A truck that is popular and cheap is not always a truck that keeps its price.",
+   "text": "For twenty twenty-seven, Nissan prices the cheapest Frontier, the S King Cab two-wheel drive, at thirty-two thousand, four hundred ninety dollars, up three hundred forty dollars. It has a three point eight liter V six, three hundred ten horsepower, and tows up to seven thousand, one hundred fifty pounds. The Frontier sold sixty-six thousand, five hundred thirteen trucks through nine months, up nearly forty percent. That is the fastest growth on this list.",
    "query": "Nissan Frontier Pro-4X pickup",
-   "caption": "FRONTIER: UP 40%, RESALE 63.4%"
+   "caption": "2027 FRONTIER: FROM $32,490"
+  },
+  {
+   "text": "But here is the twist. iSeeCars shows the Frontier keeping sixty-three point four percent of its value after five years, the lowest of the five midsize trucks on the list. A truck that is popular and cheap is not always a truck that keeps its price. And a two-wheel drive King Cab is a very basic truck. The price you see is for the version with the fewest options.",
+   "query": "Nissan Frontier S King Cab pickup",
+   "caption": "FRONTIER: FAST SALES, LOWEST RESALE"
   },
   {
    "text": "Now let's do the math that most buyers skip, and it will change the ranking. We take each starting price from Autoblog, and apply the iSeeCars five-year resale value. This is an estimate, using the cheapest trim, and not a quote. But it shows what each truck costs you in lost value after five years. Start with the Ford Maverick. At twenty-eight thousand, one hundred forty-five dollars, and sixty-eight point two percent resale, it would be worth about nineteen thousand, one hundred ninety-five dollars. A loss of eight thousand, nine hundred fifty.",
@@ -121,9 +126,9 @@
    "caption": "MAVERICK: LOSES ~$8,950"
   },
   {
-   "text": "The Hyundai Santa Cruz, at twenty-nine thousand, seven hundred fifty and sixty-five point one percent, would be worth about nineteen thousand, three hundred sixty-seven. A loss of ten thousand, three hundred eighty-three. The Ford Ranger, at thirty-three thousand, three hundred fifty and sixty-eight point eight percent, would be worth about twenty-two thousand, nine hundred forty-five. A loss of ten thousand, four hundred five. And the Nissan Frontier, at thirty-five thousand, one hundred fifty and sixty-three point four percent, would be worth twenty-two thousand, two hundred eighty-five. A loss of twelve thousand, eight hundred sixty-five.",
+   "text": "The Hyundai Santa Cruz, at twenty-nine thousand, seven hundred fifty and sixty-five point one percent, would be worth about nineteen thousand, three hundred sixty-seven. A loss of ten thousand, three hundred eighty-three. The Ford Ranger, at thirty-three thousand, three hundred fifty and sixty-eight point eight percent, would be worth about twenty-two thousand, nine hundred forty-five. A loss of ten thousand, four hundred five. And the Nissan Frontier, at thirty-two thousand, one hundred fifty and sixty-three point four percent, would be worth about twenty thousand, three hundred eighty-three. A loss of eleven thousand, seven hundred sixty-seven.",
    "query": "Nissan Frontier pickup",
-   "caption": "FRONTIER: LOSES ~$12,865"
+   "caption": "FRONTIER: LOSES ~$11,767"
   },
   {
    "text": "And now the twist that changes the ranking. The Toyota Tacoma, at thirty-two thousand, one hundred forty-five dollars and eighty and a half percent resale, would be worth about twenty-five thousand, eight hundred seventy-seven. A loss of only six thousand, two hundred sixty-eight dollars. The truck that costs the most to buy, among these, is the one that loses the least. Over five years, the Tacoma costs about two thousand, seven hundred dollars less in lost value than the Maverick, even though it costs four thousand dollars more upfront.",
@@ -152,7 +157,7 @@
    "chapter": "The verdict"
   },
   {
-   "text": "Let's use one more number to explain the trade. The gap between the Maverick at twenty-eight thousand, one hundred forty-five and the Frontier at thirty-five thousand, one hundred fifty is seven thousand, five dollars. And the gap in five-year resale is about five points, sixty-eight point two against sixty-three point four. On a thirty-thousand-dollar truck, five points is fifteen hundred dollars. So the cheaper truck is also the one that keeps more.",
+   "text": "Let's use one more number to explain the trade. The gap between the Maverick at twenty-eight thousand, one hundred forty-five and the Frontier two-wheel drive at thirty-two thousand, one hundred fifty is four thousand, five dollars. And the gap in five-year resale is about five points, sixty-eight point two against sixty-three point four. On a thirty-thousand-dollar truck, five points is fifteen hundred dollars. So the cheaper truck is also the one that keeps more.",
    "query": "Ford Maverick pickup truck",
    "caption": "CHEAPER AND KEEPS MORE VALUE"
   },
