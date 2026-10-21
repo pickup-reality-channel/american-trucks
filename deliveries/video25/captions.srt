@@ -1,0 +1,2315 @@
+1
+00:00:00,000 --> 00:00:02,549
+The number one problem owners report on
+
+2
+00:00:02,549 --> 00:00:05,294
+three-year-old vehicles is not the engine.
+
+3
+00:00:05,474 --> 00:00:07,029
+It is not the transmission.
+
+4
+00:00:07,209 --> 00:00:08,684
+It is the phone connection.
+
+5
+00:00:08,864 --> 00:00:12,169
+Meanwhile, more than a hundred thousand F-150s
+
+6
+00:00:12,169 --> 00:00:13,893
+could roll away in park,
+
+7
+00:00:13,893 --> 00:00:16,839
+and millions of trucks had trailer brakes
+
+8
+00:00:16,839 --> 00:00:19,139
+that could quietly stop working.
+
+9
+00:00:19,319 --> 00:00:21,865
+These are six truck problems nobody warns
+
+10
+00:00:21,865 --> 00:00:23,417
+you about before you buy.
+
+11
+00:00:23,766 --> 00:00:25,569
+When you shop for a truck,
+
+12
+00:00:25,569 --> 00:00:28,480
+everybody warns you about the same things.
+
+13
+00:00:28,660 --> 00:00:30,065
+Check the engine.
+
+14
+00:00:30,245 --> 00:00:31,290
+Check for rust.
+
+15
+00:00:31,470 --> 00:00:32,759
+Check the mileage.
+
+16
+00:00:32,939 --> 00:00:34,396
+That advice is fine,
+
+17
+00:00:34,396 --> 00:00:36,363
+but it is from another era.
+
+18
+00:00:36,543 --> 00:00:39,386
+A modern pickup is a rolling network
+
+19
+00:00:39,386 --> 00:00:42,071
+of computers, cameras and modules,
+
+20
+00:00:42,071 --> 00:00:45,862
+and in twenty twenty-five and twenty twenty-six,
+
+21
+00:00:45,862 --> 00:00:49,021
+many of the problems that reached owners
+
+22
+00:00:49,021 --> 00:00:51,706
+came from places a test drive will
+
+23
+00:00:51,706 --> 00:00:52,890
+never show you.
+
+24
+00:00:53,240 --> 00:00:54,320
+Here is the proof.
+
+25
+00:00:54,500 --> 00:00:55,220
+In J.
+
+26
+00:00:55,400 --> 00:00:55,551
+D.
+
+27
+00:00:55,731 --> 00:00:59,357
+Power's twenty twenty-six Vehicle Dependability Study,
+
+28
+00:00:59,357 --> 00:01:02,110
+problem counts were the highest since the
+
+29
+00:01:02,110 --> 00:01:04,729
+study was revised in twenty twenty-two,
+
+30
+00:01:04,729 --> 00:01:06,610
+according to Ford Authority.
+
+31
+00:01:06,790 --> 00:01:09,504
+And the leading complaint category was not
+
+32
+00:01:09,504 --> 00:01:10,214
+mechanical.
+
+33
+00:01:10,394 --> 00:01:12,043
+It was infotainment.
+
+34
+00:01:12,223 --> 00:01:13,412
+At the same time,
+
+35
+00:01:13,412 --> 00:01:15,999
+the biggest truck recalls of the year
+
+36
+00:01:15,999 --> 00:01:17,328
+were about cameras,
+
+37
+00:01:17,328 --> 00:01:19,636
+trailer electronics and software,
+
+38
+00:01:19,636 --> 00:01:21,174
+not pistons and bolts.
+
+39
+00:01:21,524 --> 00:01:22,890
+So in this video,
+
+40
+00:01:22,890 --> 00:01:25,783
+we go through six problems that show
+
+41
+00:01:25,783 --> 00:01:28,194
+up again and again in recalls,
+
+42
+00:01:28,194 --> 00:01:31,086
+studies, lawsuits and owner reports,
+
+43
+00:01:31,086 --> 00:01:34,059
+and that most buyers never hear about
+
+44
+00:01:34,059 --> 00:01:35,747
+until it is too late.
+
+45
+00:01:35,927 --> 00:01:36,781
+For each one,
+
+46
+00:01:36,781 --> 00:01:39,410
+you will hear which trucks are affected,
+
+47
+00:01:39,410 --> 00:01:41,184
+what the documented fix is,
+
+48
+00:01:41,184 --> 00:01:43,287
+and how to check before you buy.
+
+49
+00:01:43,467 --> 00:01:45,229
+And yes, there is a twist in
+
+50
+00:01:45,229 --> 00:01:47,807
+every one, because some of these problems
+
+51
+00:01:47,807 --> 00:01:49,443
+are worse than they sound,
+
+52
+00:01:49,443 --> 00:01:50,700
+and some are better.
+
+53
+00:01:51,050 --> 00:01:53,638
+As always, every fact here comes from
+
+54
+00:01:53,638 --> 00:01:54,967
+a published source,
+
+55
+00:01:54,967 --> 00:01:56,786
+listed in the description.
+
+56
+00:01:56,966 --> 00:01:59,900
+Where something is only an allegation in
+
+57
+00:01:59,900 --> 00:02:01,807
+a lawsuit, we will say so.
+
+58
+00:02:01,987 --> 00:02:03,616
+Where a problem is rare,
+
+59
+00:02:03,616 --> 00:02:05,041
+we will say that too.
+
+60
+00:02:05,221 --> 00:02:06,451
+Fear is not the goal.
+
+61
+00:02:06,631 --> 00:02:08,222
+Knowing what to check is.
+
+62
+00:02:08,402 --> 00:02:11,526
+Let's start with the problem almost every
+
+63
+00:02:11,526 --> 00:02:14,346
+owner has, and almost nobody expects.
+
+64
+00:02:14,696 --> 00:02:17,013
+Problem number one is the screen and
+
+65
+00:02:17,013 --> 00:02:17,657
+the phone.
+
+66
+00:02:17,837 --> 00:02:18,522
+In J.
+
+67
+00:02:18,702 --> 00:02:18,899
+D.
+
+68
+00:02:19,079 --> 00:02:22,428
+Power's twenty twenty-six dependability study,
+
+69
+00:02:22,428 --> 00:02:26,723
+which surveyed owners of three-year-old twenty twenty-three
+
+70
+00:02:26,723 --> 00:02:29,634
+vehicles, four of the five most reported
+
+71
+00:02:29,634 --> 00:02:32,692
+problems involved smartphone connectivity,
+
+72
+00:02:32,692 --> 00:02:35,531
+according to Pickup Truck and SUV Talk.
+
+73
+00:02:35,711 --> 00:02:38,781
+Apple CarPlay and Android Auto issues led
+
+74
+00:02:38,781 --> 00:02:40,877
+for the third year in a row,
+
+75
+00:02:40,877 --> 00:02:43,872
+at eight point nine problems per hundred
+
+76
+00:02:43,872 --> 00:02:44,546
+vehicles.
+
+77
+00:02:44,895 --> 00:02:47,020
+And the problem goes beyond phones.
+
+78
+00:02:47,200 --> 00:02:51,349
+Bluetooth, wireless charging pads and the manufacturers'
+
+79
+00:02:51,349 --> 00:02:53,645
+own apps made up nearly half of
+
+80
+00:02:53,645 --> 00:02:56,535
+all infotainment problems in the study.
+
+81
+00:02:56,715 --> 00:02:58,500
+On the Ford Super Duty,
+
+82
+00:02:58,500 --> 00:03:02,536
+owners have reported backup camera color distortion,
+
+83
+00:03:02,536 --> 00:03:06,418
+blank screens, and center touchscreens that freeze
+
+84
+00:03:06,418 --> 00:03:08,281
+or reboot while driving,
+
+85
+00:03:08,281 --> 00:03:11,308
+according to Pickup Truck and SUV Talk.
+
+86
+00:03:11,488 --> 00:03:15,265
+Consumer Reports blamed in-car electronics for much
+
+87
+00:03:15,265 --> 00:03:18,152
+of the Ram fifteen hundred's low score.
+
+88
+00:03:18,502 --> 00:03:19,919
+Here is the twist.
+
+89
+00:03:20,099 --> 00:03:23,421
+Over-the-air updates were supposed to fix all
+
+90
+00:03:23,421 --> 00:03:24,011
+of this.
+
+91
+00:03:24,191 --> 00:03:25,352
+In the same J.
+
+92
+00:03:25,532 --> 00:03:25,695
+D.
+
+93
+00:03:25,875 --> 00:03:28,830
+Power study, forty percent of owners had
+
+94
+00:03:28,830 --> 00:03:32,007
+received an over-the-air update in the past
+
+95
+00:03:32,007 --> 00:03:32,377
+year.
+
+96
+00:03:32,557 --> 00:03:35,334
+But only twenty-seven percent said it improved
+
+97
+00:03:35,334 --> 00:03:36,179
+their vehicle.
+
+98
+00:03:36,359 --> 00:03:39,328
+And updates were associated with an increase
+
+99
+00:03:39,328 --> 00:03:41,893
+of two point five problems per hundred
+
+100
+00:03:41,893 --> 00:03:42,501
+vehicles.
+
+101
+00:03:42,681 --> 00:03:45,496
+Sometimes the fix brings new problems of
+
+102
+00:03:45,496 --> 00:03:46,059
+its own.
+
+103
+00:03:46,409 --> 00:03:48,093
+Why does this matter if it is
+
+104
+00:03:48,093 --> 00:03:48,906
+just a screen?
+
+105
+00:03:49,086 --> 00:03:50,910
+Because on a modern truck,
+
+106
+00:03:50,910 --> 00:03:53,718
+the screen controls far more than music.
+
+107
+00:03:53,898 --> 00:03:55,922
+It shows the backup camera,
+
+108
+00:03:55,922 --> 00:03:57,497
+the trailer settings,
+
+109
+00:03:57,497 --> 00:04:00,645
+the four-wheel-drive modes on some trucks,
+
+110
+00:04:00,645 --> 00:04:03,569
+and in many cases the climate controls.
+
+111
+00:04:03,749 --> 00:04:05,826
+A frozen screen in a truck is
+
+112
+00:04:05,826 --> 00:04:07,546
+not like a frozen phone.
+
+113
+00:04:07,726 --> 00:04:09,484
+It can take away the one camera
+
+114
+00:04:09,484 --> 00:04:11,185
+you need to back up a trailer.
+
+115
+00:04:11,535 --> 00:04:12,975
+So how do you check?
+
+116
+00:04:13,155 --> 00:04:14,398
+On a test drive,
+
+117
+00:04:14,398 --> 00:04:16,184
+connect your own phone,
+
+118
+00:04:16,184 --> 00:04:17,660
+wired and wireless.
+
+119
+00:04:17,840 --> 00:04:18,664
+Make a call.
+
+120
+00:04:18,844 --> 00:04:20,272
+Start navigation.
+
+121
+00:04:20,452 --> 00:04:23,063
+Put the truck in reverse three or
+
+122
+00:04:23,063 --> 00:04:25,674
+four times and watch how fast the
+
+123
+00:04:25,674 --> 00:04:26,861
+camera appears.
+
+124
+00:04:27,041 --> 00:04:29,145
+Then turn the truck off and on
+
+125
+00:04:29,145 --> 00:04:30,338
+again and repeat.
+
+126
+00:04:30,518 --> 00:04:32,183
+It takes five minutes,
+
+127
+00:04:32,183 --> 00:04:34,983
+and it tests the exact problem owners
+
+128
+00:04:34,983 --> 00:04:36,497
+complain about most.
+
+129
+00:04:36,677 --> 00:04:38,499
+Now, problem number two,
+
+130
+00:04:38,499 --> 00:04:40,625
+and it is the camera itself.
+
+131
+00:04:40,974 --> 00:04:43,587
+Problem number two is the backup camera.
+
+132
+00:04:43,767 --> 00:04:45,376
+Since twenty eighteen,
+
+133
+00:04:45,376 --> 00:04:48,669
+federal rules have required backup cameras on
+
+134
+00:04:48,669 --> 00:04:51,303
+new vehicles, so a camera that fails
+
+135
+00:04:51,303 --> 00:04:52,620
+is a safety issue,
+
+136
+00:04:52,620 --> 00:04:53,937
+not a convenience.
+
+137
+00:04:54,117 --> 00:04:55,965
+And in the last two years,
+
+138
+00:04:55,965 --> 00:04:58,950
+camera recalls have hit almost every truck
+
+139
+00:04:58,950 --> 00:04:59,376
+brand.
+
+140
+00:04:59,556 --> 00:05:01,729
+In January twenty twenty-six,
+
+141
+00:05:01,729 --> 00:05:05,775
+Toyota recalled one hundred sixty-two thousand Tundras
+
+142
+00:05:05,775 --> 00:05:08,622
+because the display could freeze or go
+
+143
+00:05:08,622 --> 00:05:10,795
+black, according to Autoblog.
+
+144
+00:05:11,144 --> 00:05:13,849
+Ram's heavy-duty trucks were part of a
+
+145
+00:05:13,849 --> 00:05:17,834
+camera recall covering eight hundred forty-four thousand
+
+146
+00:05:17,834 --> 00:05:19,685
+and twenty-seven vehicles,
+
+147
+00:05:19,685 --> 00:05:22,247
+because the image may not display in
+
+148
+00:05:22,247 --> 00:05:25,948
+reverse, according to federal campaign data compiled
+
+149
+00:05:25,948 --> 00:05:27,015
+by Lemberg Law.
+
+150
+00:05:27,195 --> 00:05:29,977
+And Ford recalled sixty-five thousand,
+
+151
+00:05:29,977 --> 00:05:34,077
+three hundred eighty-five twenty twenty-three and twenty
+
+152
+00:05:34,077 --> 00:05:37,371
+twenty-four Super Duty trucks whose SYNC four
+
+153
+00:05:37,371 --> 00:05:39,567
+software could show a delayed,
+
+154
+00:05:39,567 --> 00:05:41,836
+frozen or missing camera image,
+
+155
+00:05:41,836 --> 00:05:44,692
+according to Pickup Truck and SUV Talk.
+
+156
+00:05:45,041 --> 00:05:47,654
+But Ford's camera story is the biggest.
+
+157
+00:05:47,834 --> 00:05:50,115
+In October twenty twenty-five,
+
+158
+00:05:50,115 --> 00:05:53,081
+Reuters reported a recall of nearly one
+
+159
+00:05:53,081 --> 00:05:56,352
+point four five million older Ford vehicles
+
+160
+00:05:56,352 --> 00:06:00,230
+for distorted, intermittent or blank camera images,
+
+161
+00:06:00,230 --> 00:06:03,805
+after one point nine million vehicles worldwide
+
+162
+00:06:03,805 --> 00:06:05,098
+the month before.
+
+163
+00:06:05,278 --> 00:06:08,048
+Ford knew of about twelve thousand,
+
+164
+00:06:08,048 --> 00:06:11,688
+five hundred warranty claims and five crashes,
+
+165
+00:06:11,688 --> 00:06:13,033
+with no injuries.
+
+166
+00:06:13,213 --> 00:06:15,596
+And in November twenty twenty-four,
+
+167
+00:06:15,596 --> 00:06:17,775
+Ford had agreed to a one hundred
+
+168
+00:06:17,775 --> 00:06:21,520
+sixty-five million dollar penalty for recalling cameras
+
+169
+00:06:21,520 --> 00:06:22,269
+too slowly.
+
+170
+00:06:22,618 --> 00:06:25,138
+Here is the twist that most F-150
+
+171
+00:06:25,138 --> 00:06:26,589
+owners do not know.
+
+172
+00:06:26,769 --> 00:06:29,044
+Along with the October recall,
+
+173
+00:06:29,044 --> 00:06:32,532
+Ford extended rear camera coverage on millions
+
+174
+00:06:32,532 --> 00:06:36,248
+of vehicles with a fifteen-year warranty program,
+
+175
+00:06:36,248 --> 00:06:38,978
+covering more than two dozen models,
+
+176
+00:06:38,978 --> 00:06:42,542
+including twenty fifteen to twenty twenty F-150
+
+177
+00:06:42,542 --> 00:06:44,741
+trucks, according to Reuters.
+
+178
+00:06:44,921 --> 00:06:47,100
+If you own one of those F-150s
+
+179
+00:06:47,100 --> 00:06:48,698
+and your camera fails,
+
+180
+00:06:48,698 --> 00:06:50,659
+you may not have to pay for
+
+181
+00:06:50,659 --> 00:06:50,877
+it.
+
+182
+00:06:51,057 --> 00:06:52,542
+If you are buying one,
+
+183
+00:06:52,542 --> 00:06:54,296
+ask the dealer to confirm.
+
+184
+00:06:54,646 --> 00:06:55,494
+How do you check?
+
+185
+00:06:55,674 --> 00:06:58,778
+Put the truck in reverse several times,
+
+186
+00:06:58,778 --> 00:06:59,893
+cold and warm,
+
+187
+00:06:59,893 --> 00:07:01,644
+and watch for a delay,
+
+188
+00:07:01,644 --> 00:07:02,838
+a black screen,
+
+189
+00:07:02,838 --> 00:07:04,509
+or a distorted image.
+
+190
+00:07:04,689 --> 00:07:05,897
+Then run the VIN,
+
+191
+00:07:05,897 --> 00:07:08,598
+because a camera recall may already be
+
+192
+00:07:08,598 --> 00:07:09,948
+open on that truck.
+
+193
+00:07:10,128 --> 00:07:13,071
+And remember that camera problems are often
+
+194
+00:07:13,071 --> 00:07:15,535
+software, so a dealer update can fix
+
+195
+00:07:15,535 --> 00:07:16,630
+them in minutes.
+
+196
+00:07:16,810 --> 00:07:18,970
+The camera is cheap to check,
+
+197
+00:07:18,970 --> 00:07:20,757
+and expensive to ignore.
+
+198
+00:07:20,937 --> 00:07:23,585
+Problem number three is invisible from the
+
+199
+00:07:23,585 --> 00:07:24,467
+driver's seat.
+
+200
+00:07:24,816 --> 00:07:27,487
+Problem number three is the trailer connection.
+
+201
+00:07:27,667 --> 00:07:28,491
+Not the hitch.
+
+202
+00:07:28,671 --> 00:07:29,913
+The electronics.
+
+203
+00:07:30,093 --> 00:07:31,852
+On February twentieth,
+
+204
+00:07:31,852 --> 00:07:35,528
+twenty twenty-six, Ford recalled four million,
+
+205
+00:07:35,528 --> 00:07:38,245
+three hundred eighty-one thousand,
+
+206
+00:07:38,245 --> 00:07:41,203
+eight hundred seventy-eight vehicles,
+
+207
+00:07:41,203 --> 00:07:42,801
+including the F-150,
+
+208
+00:07:42,801 --> 00:07:45,359
+Super Duty, Maverick and Ranger,
+
+209
+00:07:45,359 --> 00:07:49,115
+because the truck could lose communication with
+
+210
+00:07:49,115 --> 00:07:50,074
+the trailer.
+
+211
+00:07:50,254 --> 00:07:53,192
+The trailer's brake lights and turn signals
+
+212
+00:07:53,192 --> 00:07:56,402
+could malfunction, and the trailer brakes could
+
+213
+00:07:56,402 --> 00:07:59,681
+stop working, according to Motor1 and SlashGear.
+
+214
+00:08:00,031 --> 00:08:03,081
+Pickup Truck and SUV Talk describes one
+
+215
+00:08:03,081 --> 00:08:05,349
+part of it on the Super Duty,
+
+216
+00:08:05,349 --> 00:08:08,008
+recall twenty-six V one zero four.
+
+217
+00:08:08,188 --> 00:08:11,078
+A software error can make the integrated
+
+218
+00:08:11,078 --> 00:08:14,329
+trailer module lose communication at startup.
+
+219
+00:08:14,509 --> 00:08:17,202
+That can disable trailer brake lights and
+
+220
+00:08:17,202 --> 00:08:20,027
+turn signals, and on higher-series modules,
+
+221
+00:08:20,027 --> 00:08:21,998
+the trailer brakes themselves.
+
+222
+00:08:22,178 --> 00:08:25,357
+Ford offered an over-the-air update or dealer
+
+223
+00:08:25,357 --> 00:08:26,346
+reprogramming.
+
+224
+00:08:26,695 --> 00:08:28,007
+Here is the twist.
+
+225
+00:08:28,187 --> 00:08:30,346
+Ram had almost the same problem in
+
+226
+00:08:30,346 --> 00:08:31,299
+the same month.
+
+227
+00:08:31,479 --> 00:08:34,510
+A recall reported in early February twenty
+
+228
+00:08:34,510 --> 00:08:38,191
+twenty-six covered four hundred fifty-six thousand,
+
+229
+00:08:38,191 --> 00:08:41,727
+two hundred eighty-seven Ram heavy-duty vehicles,
+
+230
+00:08:41,727 --> 00:08:44,542
+because a trailer tow module could make
+
+231
+00:08:44,542 --> 00:08:47,646
+trailer lights fail and trailer brakes stop
+
+232
+00:08:47,646 --> 00:08:51,399
+working, according to federal campaign data compiled
+
+233
+00:08:51,399 --> 00:08:52,481
+by Lemberg Law.
+
+234
+00:08:52,661 --> 00:08:54,922
+Two rivals, two suppliers,
+
+235
+00:08:54,922 --> 00:08:56,226
+one weak point.
+
+236
+00:08:56,575 --> 00:08:58,744
+And this is the scary part about
+
+237
+00:08:58,744 --> 00:08:59,896
+trailer problems.
+
+238
+00:09:00,076 --> 00:09:01,318
+You cannot see them.
+
+239
+00:09:01,498 --> 00:09:03,106
+From the driver's seat,
+
+240
+00:09:03,106 --> 00:09:04,784
+everything looks normal.
+
+241
+00:09:04,964 --> 00:09:06,519
+The trailer is behind you,
+
+242
+00:09:06,519 --> 00:09:08,552
+the lights are behind the trailer,
+
+243
+00:09:08,552 --> 00:09:10,884
+and the brakes are inside the trailer's
+
+244
+00:09:10,884 --> 00:09:11,303
+wheels.
+
+245
+00:09:11,483 --> 00:09:13,397
+The driver behind you is the first
+
+246
+00:09:13,397 --> 00:09:15,423
+person to find out your brake lights
+
+247
+00:09:15,423 --> 00:09:15,929
+are dead.
+
+248
+00:09:16,109 --> 00:09:18,262
+That is why this problem deserves a
+
+249
+00:09:18,262 --> 00:09:19,430
+place on this list.
+
+250
+00:09:19,779 --> 00:09:21,184
+So how do you check?
+
+251
+00:09:21,364 --> 00:09:22,533
+Before every trip,
+
+252
+00:09:22,533 --> 00:09:25,326
+have someone stand behind the trailer while
+
+253
+00:09:25,326 --> 00:09:27,405
+you press the brake and use both
+
+254
+00:09:27,405 --> 00:09:28,249
+turn signals.
+
+255
+00:09:28,429 --> 00:09:31,420
+Watch the trailer brake controller display on
+
+256
+00:09:31,420 --> 00:09:33,680
+the dash while you roll slowly and
+
+257
+00:09:33,680 --> 00:09:35,941
+apply the trailer brakes manually.
+
+258
+00:09:36,121 --> 00:09:38,017
+And if you are buying a truck
+
+259
+00:09:38,017 --> 00:09:40,697
+to tow, confirm the trailer module recall
+
+260
+00:09:40,697 --> 00:09:41,612
+was completed.
+
+261
+00:09:41,792 --> 00:09:43,464
+It is one of the cheapest safety
+
+262
+00:09:43,464 --> 00:09:44,509
+checks you can make.
+
+263
+00:09:44,858 --> 00:09:47,514
+Problem number four is the transmission,
+
+264
+00:09:47,514 --> 00:09:49,572
+and specifically how it shifts.
+
+265
+00:09:49,752 --> 00:09:53,398
+Many full-size trucks now use ten-speed automatics.
+
+266
+00:09:53,578 --> 00:09:56,403
+Ford's ten R eighty was developed through
+
+267
+00:09:56,403 --> 00:09:59,160
+a joint venture between Ford and General
+
+268
+00:09:59,160 --> 00:10:02,192
+Motors, according to Law three sixty Canada.
+
+269
+00:10:02,372 --> 00:10:05,019
+More gears help fuel economy and towing.
+
+270
+00:10:05,199 --> 00:10:08,247
+But owners of trucks with this transmission
+
+271
+00:10:08,247 --> 00:10:10,161
+have reported harsh shifts,
+
+272
+00:10:10,161 --> 00:10:12,572
+shudder and unexpected downshifts.
+
+273
+00:10:12,921 --> 00:10:15,299
+In April twenty twenty-five,
+
+274
+00:10:15,299 --> 00:10:18,355
+a proposed class action was filed in
+
+275
+00:10:18,355 --> 00:10:20,308
+Vancouver against Ford,
+
+276
+00:10:20,308 --> 00:10:23,534
+covering Canadian owners of the F-150,
+
+277
+00:10:23,534 --> 00:10:28,118
+Ranger, Expedition, Mustang and Lincoln Navigator with
+
+278
+00:10:28,118 --> 00:10:29,561
+the ten R eighty,
+
+279
+00:10:29,561 --> 00:10:33,297
+from model years twenty seventeen and twenty
+
+280
+00:10:33,297 --> 00:10:34,655
+eighteen onward.
+
+281
+00:10:34,835 --> 00:10:37,426
+The suit alleges difficulty shifting,
+
+282
+00:10:37,426 --> 00:10:40,296
+lunging when shifting from park to drive,
+
+283
+00:10:40,296 --> 00:10:43,376
+shuddering, and sudden shifts the driver did
+
+284
+00:10:43,376 --> 00:10:44,216
+not request.
+
+285
+00:10:44,396 --> 00:10:45,872
+These are allegations,
+
+286
+00:10:45,872 --> 00:10:48,355
+and the class has not been certified.
+
+287
+00:10:48,705 --> 00:10:49,913
+Here is the twist.
+
+288
+00:10:50,093 --> 00:10:52,486
+One of those complaints turned into a
+
+289
+00:10:52,486 --> 00:10:53,262
+real recall.
+
+290
+00:10:53,442 --> 00:10:55,014
+On April fourteenth,
+
+291
+00:10:55,014 --> 00:10:58,549
+twenty twenty-six, Ford recalled one million,
+
+292
+00:10:58,549 --> 00:11:01,220
+three hundred ninety-two thousand,
+
+293
+00:11:01,220 --> 00:11:05,070
+nine hundred thirty-five twenty fifteen to twenty
+
+294
+00:11:05,070 --> 00:11:09,155
+seventeen F-150s, because of an unexpected downshift
+
+295
+00:11:09,155 --> 00:11:11,747
+that can cause a loss of control,
+
+296
+00:11:11,747 --> 00:11:13,319
+according to Motor1.
+
+297
+00:11:13,499 --> 00:11:17,690
+Federal regulators had investigated unexpected downshifts on
+
+298
+00:11:17,690 --> 00:11:19,087
+these trucks before,
+
+299
+00:11:19,087 --> 00:11:21,602
+according to Law three sixty Canada.
+
+300
+00:11:21,952 --> 00:11:24,587
+And Ford is not alone with ten-speed
+
+301
+00:11:24,587 --> 00:11:25,319
+questions.
+
+302
+00:11:25,499 --> 00:11:29,330
+Consumer Reports noted transmission complaints on GM
+
+303
+00:11:29,330 --> 00:11:32,055
+trucks, and Pickup Truck and SUV Talk
+
+304
+00:11:32,055 --> 00:11:35,591
+reported that some twenty twenty-four and twenty
+
+305
+00:11:35,591 --> 00:11:40,010
+twenty-five Silverado heavy-duty owners described valve body
+
+306
+00:11:40,010 --> 00:11:43,251
+failures and full transmission replacements,
+
+307
+00:11:43,251 --> 00:11:46,713
+with GM running a customer satisfaction program
+
+308
+00:11:46,713 --> 00:11:49,881
+for a transmission bearing issue on certain
+
+309
+00:11:49,881 --> 00:11:51,796
+twenty twenty-four trucks.
+
+310
+00:11:51,976 --> 00:11:54,779
+So this is an industry-wide issue,
+
+311
+00:11:54,779 --> 00:11:56,097
+not one brand's.
+
+312
+00:11:56,447 --> 00:11:57,834
+How do you check on a test
+
+313
+00:11:57,834 --> 00:11:58,154
+drive?
+
+314
+00:11:58,334 --> 00:11:59,692
+Drive the truck cold,
+
+315
+00:11:59,692 --> 00:12:01,890
+not after the dealer has warmed it
+
+316
+00:12:01,890 --> 00:12:02,084
+up.
+
+317
+00:12:02,264 --> 00:12:04,651
+Pay attention to the shift from park
+
+318
+00:12:04,651 --> 00:12:06,839
+to drive, the first few upshifts,
+
+319
+00:12:06,839 --> 00:12:08,696
+and coasting down to a stop.
+
+320
+00:12:08,876 --> 00:12:11,536
+A clunk, a shudder or a delayed
+
+321
+00:12:11,536 --> 00:12:14,368
+engagement is worth asking about.
+
+322
+00:12:14,548 --> 00:12:17,581
+Then ask whether the transmission software has
+
+323
+00:12:17,581 --> 00:12:20,681
+been updated, because many shift complaints are
+
+324
+00:12:20,681 --> 00:12:22,593
+addressed with reprogramming.
+
+325
+00:12:22,773 --> 00:12:25,268
+Now, problem number five could let your
+
+326
+00:12:25,268 --> 00:12:26,291
+truck roll away.
+
+327
+00:12:26,641 --> 00:12:29,042
+Problem number five is the rear axle,
+
+328
+00:12:29,042 --> 00:12:30,664
+and it can show up in the
+
+329
+00:12:30,664 --> 00:12:32,091
+worst possible moment,
+
+330
+00:12:32,091 --> 00:12:34,362
+when you think the truck is parked.
+
+331
+00:12:34,542 --> 00:12:36,737
+In August twenty twenty-five,
+
+332
+00:12:36,737 --> 00:12:39,536
+Ford recalled up to one hundred three
+
+333
+00:12:39,536 --> 00:12:43,850
+thousand, one hundred seventy-four twenty twenty-three to
+
+334
+00:12:43,850 --> 00:12:47,103
+twenty twenty-five F-150s with a nine point
+
+335
+00:12:47,103 --> 00:12:49,903
+seven five inch heavy-duty rear axle,
+
+336
+00:12:49,903 --> 00:12:51,644
+according to RV Travel.
+
+337
+00:12:51,824 --> 00:12:54,419
+The rear axle hub bolt can wear
+
+338
+00:12:54,419 --> 00:12:57,768
+and snap, damaging the axle hub splines.
+
+339
+00:12:58,117 --> 00:12:59,882
+And here is what that means.
+
+340
+00:13:00,062 --> 00:13:01,617
+With damaged splines,
+
+341
+00:13:01,617 --> 00:13:03,987
+the truck can roll away while in
+
+342
+00:13:03,987 --> 00:13:06,430
+park, if the parking brake is not
+
+343
+00:13:06,430 --> 00:13:06,726
+set.
+
+344
+00:13:06,906 --> 00:13:08,613
+Or it can lose drive power.
+
+345
+00:13:08,793 --> 00:13:11,267
+The fix is replacing both rear axle
+
+346
+00:13:11,267 --> 00:13:14,306
+shafts, and owner letters were scheduled in
+
+347
+00:13:14,306 --> 00:13:17,486
+phases from August twenty twenty-five all the
+
+348
+00:13:17,486 --> 00:13:19,607
+way through May twenty-second,
+
+349
+00:13:19,607 --> 00:13:20,879
+twenty twenty-six.
+
+350
+00:13:21,059 --> 00:13:23,823
+That recall expanded an earlier one,
+
+351
+00:13:23,823 --> 00:13:26,818
+numbered twenty-three V eight nine six.
+
+352
+00:13:27,167 --> 00:13:28,537
+Here is the twist.
+
+353
+00:13:28,717 --> 00:13:31,655
+The trucks affected are the ones built
+
+354
+00:13:31,655 --> 00:13:32,891
+to tow the most,
+
+355
+00:13:32,891 --> 00:13:36,292
+with the heaviest-duty rear axle Ford offers
+
+356
+00:13:36,292 --> 00:13:37,297
+on the F-150.
+
+357
+00:13:37,477 --> 00:13:40,370
+The option buyers choose for strength was
+
+358
+00:13:40,370 --> 00:13:42,063
+the part being recalled.
+
+359
+00:13:42,243 --> 00:13:44,199
+And the Super Duty had a similar
+
+360
+00:13:44,199 --> 00:13:44,565
+story.
+
+361
+00:13:44,745 --> 00:13:46,436
+In twenty twenty-three,
+
+362
+00:13:46,436 --> 00:13:48,862
+Ford recalled forty-one thousand,
+
+363
+00:13:48,862 --> 00:13:52,979
+four hundred sixty-eight twenty twenty-three F-two fifty
+
+364
+00:13:52,979 --> 00:13:56,361
+and F-three fifty trucks because an incomplete
+
+365
+00:13:56,361 --> 00:13:59,154
+heat treatment could let the left rear
+
+366
+00:13:59,154 --> 00:14:00,625
+axle shaft fracture,
+
+367
+00:14:00,625 --> 00:14:03,198
+leaving the truck unable to hold in
+
+368
+00:14:03,198 --> 00:14:06,065
+park, according to Pickup Truck and SUV
+
+369
+00:14:06,065 --> 00:14:06,433
+Talk.
+
+370
+00:14:06,782 --> 00:14:08,947
+That makes the cheapest habit in this
+
+371
+00:14:08,947 --> 00:14:10,818
+whole video also one of the most
+
+372
+00:14:10,818 --> 00:14:11,403
+important.
+
+373
+00:14:11,583 --> 00:14:13,482
+Always set the parking brake,
+
+374
+00:14:13,482 --> 00:14:15,577
+every time, even on flat ground.
+
+375
+00:14:15,757 --> 00:14:17,832
+Truck owners often skip it,
+
+376
+00:14:17,832 --> 00:14:20,215
+because park feels like enough.
+
+377
+00:14:20,395 --> 00:14:23,343
+These two recalls show that park depends
+
+378
+00:14:23,343 --> 00:14:26,217
+on a small part inside the transmission
+
+379
+00:14:26,217 --> 00:14:28,428
+and on the axle staying in one
+
+380
+00:14:28,428 --> 00:14:28,871
+piece.
+
+381
+00:14:29,051 --> 00:14:31,209
+The parking brake is a second,
+
+382
+00:14:31,209 --> 00:14:32,359
+separate system.
+
+383
+00:14:32,539 --> 00:14:33,015
+Use it.
+
+384
+00:14:33,365 --> 00:14:35,810
+There is one more hidden problem that
+
+385
+00:14:35,810 --> 00:14:37,462
+belongs next to the axle,
+
+386
+00:14:37,462 --> 00:14:40,105
+because it also takes power away without
+
+387
+00:14:40,105 --> 00:14:40,633
+warning.
+
+388
+00:14:40,813 --> 00:14:42,379
+In twenty twenty-five,
+
+389
+00:14:42,379 --> 00:14:45,795
+Ford recalled about eight hundred fifty thousand
+
+390
+00:14:45,795 --> 00:14:47,645
+Ford and Lincoln vehicles,
+
+391
+00:14:47,645 --> 00:14:51,132
+including more than one hundred thirteen thousand
+
+392
+00:14:51,132 --> 00:14:53,694
+Super Duty trucks with the six point
+
+393
+00:14:53,694 --> 00:14:56,256
+two, six point eight and seven point
+
+394
+00:14:56,256 --> 00:14:57,964
+three liter gas engines,
+
+395
+00:14:57,964 --> 00:15:01,166
+because the low-pressure fuel pump could lose
+
+396
+00:15:01,166 --> 00:15:03,301
+pressure and stall the engine,
+
+397
+00:15:03,301 --> 00:15:06,077
+according to Pickup Truck and SUV Talk.
+
+398
+00:15:06,426 --> 00:15:08,591
+And here is the detail that makes
+
+399
+00:15:08,591 --> 00:15:10,560
+it a nobody-warns-you problem.
+
+400
+00:15:10,740 --> 00:15:13,425
+The report says failure is more likely
+
+401
+00:15:13,425 --> 00:15:15,685
+with low fuel or in hot weather.
+
+402
+00:15:15,865 --> 00:15:18,141
+That is exactly the situation of a
+
+403
+00:15:18,141 --> 00:15:19,815
+work truck in the summer,
+
+404
+00:15:19,815 --> 00:15:22,091
+running on the last quarter of the
+
+405
+00:15:22,091 --> 00:15:23,296
+tank between jobs.
+
+406
+00:15:23,476 --> 00:15:26,597
+Ford says the affected trucks were built
+
+407
+00:15:26,597 --> 00:15:29,874
+from July twenty twenty-one to July twenty
+
+408
+00:15:29,874 --> 00:15:30,732
+twenty-two.
+
+409
+00:15:30,912 --> 00:15:33,490
+The Power Stroke diesels were not included.
+
+410
+00:15:33,839 --> 00:15:36,521
+Problem number six has the scariest name.
+
+411
+00:15:36,701 --> 00:15:39,012
+Owners call it the death wobble.
+
+412
+00:15:39,192 --> 00:15:41,135
+It is a violent shaking of the
+
+413
+00:15:41,135 --> 00:15:43,597
+front end that can start after hitting
+
+414
+00:15:43,597 --> 00:15:45,152
+a bump at highway speed,
+
+415
+00:15:45,152 --> 00:15:47,679
+according to Pickup Truck and SUV Talk.
+
+416
+00:15:47,859 --> 00:15:50,575
+It is most associated with solid front
+
+417
+00:15:50,575 --> 00:15:53,292
+axle trucks, like the Ford Super Duty.
+
+418
+00:15:53,472 --> 00:15:54,881
+And when it happens,
+
+419
+00:15:54,881 --> 00:15:57,557
+the steering wheel shakes so hard that
+
+420
+00:15:57,557 --> 00:16:00,163
+many drivers have to slow down almost
+
+421
+00:16:00,163 --> 00:16:01,924
+to a stop before it ends.
+
+422
+00:16:02,275 --> 00:16:03,795
+Here is what is documented.
+
+423
+00:16:03,975 --> 00:16:06,539
+Pickup Truck and SUV Talk reports that
+
+424
+00:16:06,539 --> 00:16:08,630
+Ford redesigned the suspension,
+
+425
+00:16:08,630 --> 00:16:10,991
+that the redesign did not fully fix
+
+426
+00:16:10,991 --> 00:16:13,756
+the problem, and that reports now suggest
+
+427
+00:16:13,756 --> 00:16:16,050
+it is far less common than before.
+
+428
+00:16:16,230 --> 00:16:19,481
+Owners typically fix it by replacing track
+
+429
+00:16:19,481 --> 00:16:22,499
+bars, ball joints and steering dampers.
+
+430
+00:16:22,679 --> 00:16:24,991
+And no recall has been issued for
+
+431
+00:16:24,991 --> 00:16:28,004
+this issue on twenty twenty-three to twenty
+
+432
+00:16:28,004 --> 00:16:30,667
+twenty-six F-Series Super Duty trucks.
+
+433
+00:16:31,017 --> 00:16:32,886
+And here is the twist in court.
+
+434
+00:16:33,066 --> 00:16:35,642
+A class action over death wobble on
+
+435
+00:16:35,642 --> 00:16:38,586
+older Super Duty trucks has been running
+
+436
+00:16:38,586 --> 00:16:40,206
+for about seven years.
+
+437
+00:16:40,386 --> 00:16:41,936
+In twenty twenty-six,
+
+438
+00:16:41,936 --> 00:16:43,560
+according to Autoblog,
+
+439
+00:16:43,560 --> 00:16:45,332
+a federal appeals court,
+
+440
+00:16:45,332 --> 00:16:46,661
+the Ninth Circuit,
+
+441
+00:16:46,661 --> 00:16:49,983
+reversed the class certification and sent the
+
+442
+00:16:49,983 --> 00:16:52,124
+case back to the lower court.
+
+443
+00:16:52,304 --> 00:16:55,100
+It accepted Ford's argument that the problem
+
+444
+00:16:55,100 --> 00:16:57,706
+showed up at different rates across years
+
+445
+00:16:57,706 --> 00:16:58,596
+and platforms.
+
+446
+00:16:58,776 --> 00:17:00,248
+The case is not over,
+
+447
+00:17:00,248 --> 00:17:02,422
+but it looks weaker for owners.
+
+448
+00:17:02,772 --> 00:17:04,802
+So if you are buying a used
+
+449
+00:17:04,802 --> 00:17:07,885
+heavy-duty truck with a solid front axle,
+
+450
+00:17:07,885 --> 00:17:09,689
+drive it on the highway,
+
+451
+00:17:09,689 --> 00:17:12,246
+and over a few expansion joints or
+
+452
+00:17:12,246 --> 00:17:13,975
+rough patches at speed.
+
+453
+00:17:14,155 --> 00:17:16,044
+Ask whether the track bar,
+
+454
+00:17:16,044 --> 00:17:18,951
+ball joints or steering damper have been
+
+455
+00:17:18,951 --> 00:17:20,332
+replaced, and when.
+
+456
+00:17:20,512 --> 00:17:23,305
+And be careful with oversized tires and
+
+457
+00:17:23,305 --> 00:17:26,886
+lifts, because they change the front-end geometry.
+
+458
+00:17:27,066 --> 00:17:29,261
+A front end that has been maintained
+
+459
+00:17:29,261 --> 00:17:31,335
+is a very different truck from one
+
+460
+00:17:31,335 --> 00:17:32,127
+that has not.
+
+461
+00:17:32,478 --> 00:17:35,682
+Notice something about problems five and six.
+
+462
+00:17:35,862 --> 00:17:37,978
+Both are made worse by how trucks
+
+463
+00:17:37,978 --> 00:17:38,555
+are used.
+
+464
+00:17:38,735 --> 00:17:41,342
+Towing, hauling, lifting,
+
+465
+00:17:41,342 --> 00:17:43,428
+big tires, hot days,
+
+466
+00:17:43,428 --> 00:17:44,366
+low fuel.
+
+467
+00:17:44,546 --> 00:17:46,578
+The trucks most likely to show these
+
+468
+00:17:46,578 --> 00:17:48,553
+problems are the ones that work the
+
+469
+00:17:48,553 --> 00:17:49,004
+hardest.
+
+470
+00:17:49,184 --> 00:17:51,168
+So if a used truck spent its
+
+471
+00:17:51,168 --> 00:17:53,576
+life towing or carries a lift kit,
+
+472
+00:17:53,576 --> 00:17:56,338
+the checks we just covered matter twice
+
+473
+00:17:56,338 --> 00:17:56,905
+as much.
+
+474
+00:17:57,255 --> 00:17:58,361
+Before we finish,
+
+475
+00:17:58,361 --> 00:18:00,445
+a bonus problem that is rare but
+
+476
+00:18:00,445 --> 00:18:02,919
+expensive, and that is exactly why you
+
+477
+00:18:02,919 --> 00:18:03,895
+should know it.
+
+478
+00:18:04,075 --> 00:18:07,472
+The General Motors three liter Duramax diesel,
+
+479
+00:18:07,472 --> 00:18:08,431
+the L Z zero,
+
+480
+00:18:08,431 --> 00:18:11,680
+in the Silverado and Sierra fifteen hundred.
+
+481
+00:18:11,860 --> 00:18:14,829
+According to Pickup Truck and SUV Talk,
+
+482
+00:18:14,829 --> 00:18:17,721
+a small number of owners have reported
+
+483
+00:18:17,721 --> 00:18:20,994
+failures of the crankshaft thrust bearings,
+
+484
+00:18:20,994 --> 00:18:24,496
+which can cause excessive crankshaft end play,
+
+485
+00:18:24,496 --> 00:18:25,790
+low oil pressure,
+
+486
+00:18:25,790 --> 00:18:28,454
+and in some cases a complete engine
+
+487
+00:18:28,454 --> 00:18:29,368
+replacement.
+
+488
+00:18:29,718 --> 00:18:31,674
+In June twenty twenty-six,
+
+489
+00:18:31,674 --> 00:18:34,383
+a teardown of one failed engine with
+
+490
+00:18:34,383 --> 00:18:37,770
+about seven thousand five hundred miles found
+
+491
+00:18:37,770 --> 00:18:40,253
+only one complete thrust bearing,
+
+492
+00:18:40,253 --> 00:18:42,210
+plus fragments of another.
+
+493
+00:18:42,390 --> 00:18:44,865
+The writer suggested the engine may have
+
+494
+00:18:44,865 --> 00:18:47,341
+left the factory with a bearing missing,
+
+495
+00:18:47,341 --> 00:18:49,321
+but noted that cannot be proven.
+
+496
+00:18:49,501 --> 00:18:52,625
+The report stresses that failures are relatively
+
+497
+00:18:52,625 --> 00:18:55,489
+uncommon among the thousands of these trucks
+
+498
+00:18:55,489 --> 00:18:56,270
+on the road.
+
+499
+00:18:56,450 --> 00:18:58,574
+Rare, but worth asking about.
+
+500
+00:18:58,924 --> 00:19:01,177
+And one more quiet problem from Ram.
+
+501
+00:19:01,357 --> 00:19:03,655
+In September twenty twenty-four,
+
+502
+00:19:03,655 --> 00:19:05,954
+Stellantis recalled one million,
+
+503
+00:19:05,954 --> 00:19:08,396
+two hundred twenty-seven thousand,
+
+504
+00:19:08,396 --> 00:19:11,484
+eight hundred eight Ram fifteen hundreds in
+
+505
+00:19:11,484 --> 00:19:12,777
+the United States,
+
+506
+00:19:12,777 --> 00:19:16,297
+because the anti-lock brake module software could
+
+507
+00:19:16,297 --> 00:19:18,954
+disable electronic stability control,
+
+508
+00:19:18,954 --> 00:19:20,606
+according to CarScoops.
+
+509
+00:19:20,786 --> 00:19:22,980
+The brakes still worked normally.
+
+510
+00:19:23,160 --> 00:19:25,432
+But a safety system that helps prevent
+
+511
+00:19:25,432 --> 00:19:27,883
+skids could switch off without the driver
+
+512
+00:19:27,883 --> 00:19:28,362
+knowing.
+
+513
+00:19:28,542 --> 00:19:30,713
+A software update fixed it.
+
+514
+00:19:31,062 --> 00:19:33,533
+Put those two together and you see
+
+515
+00:19:33,533 --> 00:19:36,294
+why software matters even for the most
+
+516
+00:19:36,294 --> 00:19:37,819
+basic safety systems.
+
+517
+00:19:37,999 --> 00:19:38,919
+In one case,
+
+518
+00:19:38,919 --> 00:19:41,833
+a stability system could be turned off
+
+519
+00:19:41,833 --> 00:19:42,446
+by code.
+
+520
+00:19:42,626 --> 00:19:45,308
+In another, trailer brakes could be turned
+
+521
+00:19:45,308 --> 00:19:46,074
+off by code.
+
+522
+00:19:46,254 --> 00:19:48,058
+Neither one would show up on a
+
+523
+00:19:48,058 --> 00:19:49,080
+quick test drive,
+
+524
+00:19:49,080 --> 00:19:50,823
+and neither one shows up as a
+
+525
+00:19:50,823 --> 00:19:52,686
+warning light you would notice.
+
+526
+00:19:52,866 --> 00:19:54,556
+The only way to know is the
+
+527
+00:19:54,556 --> 00:19:55,432
+recall record.
+
+528
+00:19:55,781 --> 00:19:58,243
+So look at the six problems together.
+
+529
+00:19:58,423 --> 00:20:00,188
+A screen that freezes.
+
+530
+00:20:00,368 --> 00:20:02,155
+A camera that goes black.
+
+531
+00:20:02,335 --> 00:20:04,855
+A trailer module that drops out.
+
+532
+00:20:05,035 --> 00:20:07,450
+A transmission that shifts on its own.
+
+533
+00:20:07,630 --> 00:20:10,082
+An axle that lets the truck roll
+
+534
+00:20:10,082 --> 00:20:10,695
+in park.
+
+535
+00:20:10,875 --> 00:20:12,632
+And a front end that shakes at
+
+536
+00:20:12,632 --> 00:20:13,452
+highway speed.
+
+537
+00:20:13,632 --> 00:20:15,340
+Only two of them are the kind
+
+538
+00:20:15,340 --> 00:20:18,578
+of mechanical problem your grandfather would recognize.
+
+539
+00:20:18,758 --> 00:20:21,370
+The rest are electronics and software.
+
+540
+00:20:21,720 --> 00:20:23,694
+And here is the final twist.
+
+541
+00:20:23,874 --> 00:20:27,531
+The electronic problems are the most common,
+
+542
+00:20:27,531 --> 00:20:29,941
+but often the easiest to fix,
+
+543
+00:20:29,941 --> 00:20:32,767
+a software update at the dealer or
+
+544
+00:20:32,767 --> 00:20:33,847
+over the air.
+
+545
+00:20:34,027 --> 00:20:35,826
+The mechanical ones are rarer,
+
+546
+00:20:35,826 --> 00:20:37,625
+but they are the ones that can
+
+547
+00:20:37,625 --> 00:20:39,484
+cost you, or put you in danger.
+
+548
+00:20:39,664 --> 00:20:42,288
+So a smart buyer tests both.
+
+549
+00:20:42,468 --> 00:20:44,474
+You play with the screen and the
+
+550
+00:20:44,474 --> 00:20:45,602
+camera like a kid,
+
+551
+00:20:45,602 --> 00:20:47,421
+and you drive the truck cold,
+
+552
+00:20:47,421 --> 00:20:48,361
+on the highway,
+
+553
+00:20:48,361 --> 00:20:49,364
+like a mechanic.
+
+554
+00:20:49,714 --> 00:20:52,163
+Here is the checklist for twenty twenty-seven.
+
+555
+00:20:52,343 --> 00:20:54,851
+One, connect your phone and test the
+
+556
+00:20:54,851 --> 00:20:55,339
+screen.
+
+557
+00:20:55,519 --> 00:20:58,428
+Two, reverse five times and watch the
+
+558
+00:20:58,428 --> 00:20:58,978
+camera.
+
+559
+00:20:59,158 --> 00:21:01,747
+Three, test trailer lights with a helper.
+
+560
+00:21:01,927 --> 00:21:05,399
+Four, drive cold and feel every shift.
+
+561
+00:21:05,579 --> 00:21:08,028
+Five, check that the parking brake holds
+
+562
+00:21:08,028 --> 00:21:08,702
+on a slope.
+
+563
+00:21:08,882 --> 00:21:11,698
+Six, test the steering at highway speed
+
+564
+00:21:11,698 --> 00:21:12,493
+over bumps.
+
+565
+00:21:12,673 --> 00:21:14,817
+And seven, run the VIN for every
+
+566
+00:21:14,817 --> 00:21:15,621
+open recall.
+
+567
+00:21:15,972 --> 00:21:18,727
+We put this full test-drive checklist into
+
+568
+00:21:18,727 --> 00:21:21,614
+the Twenty Twenty-Seven Truck Buyer's Guide,
+
+569
+00:21:21,614 --> 00:21:23,779
+along with the questions to ask a
+
+570
+00:21:23,779 --> 00:21:24,238
+dealer.
+
+571
+00:21:24,418 --> 00:21:26,490
+The link is in the description and
+
+572
+00:21:26,490 --> 00:21:27,831
+in the pinned comment.
+
+573
+00:21:28,011 --> 00:21:29,386
+If this helped you,
+
+574
+00:21:29,386 --> 00:21:32,209
+subscribe, because next we look at five
+
+575
+00:21:32,209 --> 00:21:35,755
+transmission problems that cost owners thousands.
+
+576
+00:21:35,935 --> 00:21:37,752
+And tell us in the comments,
+
+577
+00:21:37,752 --> 00:21:40,087
+which of these six problems have you
+
+578
+00:21:40,087 --> 00:21:40,347
+had?
+
+579
+00:21:40,527 --> 00:21:41,572
+Thanks for watching.
