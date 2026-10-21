@@ -1,0 +1,10 @@
+- SEMA, 2026 Market Report press release (June 30, 2026): https://www.sema.org/news-media/press-release/sema-market-research-road-culture-continues-drive-consumer-spending
+- SEMA News, what to know about the 2026 market report: https://www.sema.org/news-media/enews/2026/28/heres-what-you-need-know-semas-2026-market-report
+- Federal Trade Commission, Auto Warranties and Auto Service Contracts: https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts
+- SlashGear, tire prices going up (Oct 2026): https://www.slashgear.com/2272762/tire-prices-going-up-what-drivers-should-know/
+- Insurify, car vs truck insurance (modified/lifted trucks): https://insurify.com/car-insurance/car-vs-truck-insurance/
+- AAA Your Driving Costs 2026 via CarPro: https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- EIA weekly fuel prices (week of Oct 19, 2026), summarized: https://startbusinessbystate.com/?p=16465
+- Fleet Maintenance, DOJ won't pursue criminal charges for diesel deletes (Jan 2026): https://www.fleetmaintenance.com/equipment/emissions-and-efficiency/news/55352642/doj-wont-pursue-jail-time-for-diesel-deleting-civil-penalty-risk-to-remain
+- Ford Authority, NICB most stolen vehicles of 2025: https://fordauthority.com/2026/03/ford-f-150-among-top-10-most-stolen-vehicles-of-2025/
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
