@@ -1,0 +1,7 @@
+- Auto Remarketing, Edmunds Q3 2026 financing records: https://www.autoremarketing.com/?p=131431
+- Auto Remarketing, Experian Q2 2026 automotive finance: https://autoremarketing.com/subprime/experian-sees-refinancing-continue-to-ripen-in-q2/
+- Ford Authority, Experian Q2 2026 top leased models (Explorer payments): https://fordauthority.com/2026/09/ford-explorer-among-top-10-leased-models-of-q2-2026/
+- FOX 2 Detroit, Treasury rollout of car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- Fox Business, Ford $19.5B charge and Lightning end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- autoevolution, Q3 2026 pickup sales: https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
