@@ -43,4 +43,4 @@ jobs:
           split -b 90M -d -a 2 videos/$V/out/$V.mp4 /tmp/out/parts/$V.mp4.part
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git checkout --orphan deliveries-new && git rm -rf -q . && mkdir -p deliveries/$V && cp -r /tmp/out/* deliveries/$V/
-          git add -f deliveries && git commit -q -m "deliver $V" && git push -f origin deliveries-new:deliveries
+          git add -f deliveries && git commit -q -m "deliver $V" && git push -f origin deliveries-new:deliveries-$V
