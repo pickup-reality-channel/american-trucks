@@ -1,0 +1,16 @@
+- AAA Your Driving Costs 2026 via Kelley Blue Book (Sep 2026): https://www.kbb.com/car-news/aaa-hybrids-come-out-on-top-in-2026-ownership-cost-study/
+- AAA Your Driving Costs 2026 via CarPro (Oct 2026): https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
+- FOX 2 Detroit, car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
+- Insurify, car insurance costs first half of 2026: https://insurify.com/car-insurance/report/
+- Insurify, car vs truck insurance: https://insurify.com/car-insurance/car-vs-truck-insurance/
+- Yahoo / Insure.com, most expensive trucks to insure 2026: https://www.yahoo.com/lifestyle/articles/most-expensive-trucks-insure-2026-180054706.html
+- Ford Authority, NICB most stolen vehicles of 2025: https://fordauthority.com/2026/03/ford-f-150-among-top-10-most-stolen-vehicles-of-2025/
+- SlashGear, tire prices going up (Oct 2026): https://www.slashgear.com/2272762/tire-prices-going-up-what-drivers-should-know/
+- NPR via KJZZ, diesel passes $6 (Sep 11, 2026): https://www.kjzz.org/npr-top-stories/2026-09-11/us-diesel-prices-soar-past-6-a-gallon-deepening-strain-for-hauling-everyday-goods
+- WTOC, diesel record $6.51 (Sep 21, 2026): https://wtoc.com/2026/09/21/diesel-prices-hit-record-651-georgia-634
+- EIA weekly fuel prices (week of Oct 19, 2026), summarized: https://startbusinessbystate.com/?p=16465
+- Fox Business, Ford Lightning production end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
