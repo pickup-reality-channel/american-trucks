@@ -1,10 +1,8 @@
-"""Download one real photo per scene from Wikimedia Commons and record its license/credit."""
+"""Download real photos per scene from Wikimedia Commons (several per scene for fast cuts) and record license/credit."""
 import json, sys, time, pathlib, requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-HEADERS = {"User-Agent": "american-trucks-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
-
-
+HEADERS = {"User-Agent": "pickup-reality-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
 _cache = {}
 
 
@@ -39,7 +37,7 @@ def download(url):
 def pick(query, used):
     params = {
         "action": "query", "format": "json", "generator": "search",
-        "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 25,
+        "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 30,
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1920,
     }
     pages = api_pages(params)
@@ -63,17 +61,17 @@ def main(video):
     d = pathlib.Path("videos") / video
     script = json.loads((d / "script.json").read_text())
     (d / "media").mkdir(exist_ok=True)
-    used, credits = set(), []
+    used, credits, last = set(), [], None
     for i, s in enumerate(script["scenes"]):
-        m = pick(s["query"], used)
-        if m is None:  # nothing new for this query: reuse the previous scene's photo
-            m = dict(credits[-1]); print(i, "reuse", m["title"])
-            (d / "media" / f"{i}.jpg").write_bytes((d / "media" / f"{i-1}.jpg").read_bytes())
-        else:
+        for k in range(s.get("cuts", 2)):
+            f = d / "media" / f"{i}_{k}.jpg"
+            m = pick(s["query"], used)
+            if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
+                f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
             used.add(m["title"])
-            (d / "media" / f"{i}.jpg").write_bytes(download(m["url"]))
-            print(i, m["title"], m["license"])
-        credits.append({**m, "scene": i})
+            f.write_bytes(download(m["url"])); last = f
+            credits.append({**m, "scene": i, "cut": k})
+            print(i, k, m["title"], m["license"])
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 

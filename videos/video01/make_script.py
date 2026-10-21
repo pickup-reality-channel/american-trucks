@@ -3,12 +3,16 @@ S = []
 def sc(text, query, caption):
     S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
 
+# ---------- HOOK (first 20 seconds) ----------
+sc("""Seven American pickup trucks are being abandoned right now. One was cancelled after four delays. One cost Ford nineteen point five billion dollars. And one outsold Tesla's Cybertruck and was killed anyway. Here is what really happened.""",
+   "Ford F-150 Lightning electric pickup", "7 TRUCKS. BILLIONS LOST.")
+
 # ---------- COLD OPEN ----------
 sc("""Americans bought more pickup trucks last year than almost anything else on four wheels. Ford sold eight hundred one thousand, five hundred twenty-five F-Series trucks in twenty twenty-five. Chevrolet sold five hundred seventy-seven thousand Silverados. Ram sold three hundred seventy-four thousand. By every measure, the pickup is the most powerful product in the American car business. So here is the question nobody is asking. If trucks are selling like this, why are seven of them being abandoned?""",
    "Ford F-150 pickup truck", "2025: F-SERIES 801,525 SOLD")
 sc("""The answer is not what you think. It is not quality. It is not reliability. In most of these cases, the trucks were not even bad. They were caught in the middle of the biggest bet the auto industry has made in decades, and that bet is now being rewritten in public, with billions of dollars attached.""",
    "Chevrolet Silverado 1500 pickup", "SILVERADO 2025: 577,434")
-sc("""Stay with me for the next twenty-two minutes, because there is a twist in every one of these stories. One truck was killed by a partner's factory sale. One was cancelled after four delays. One outsold its famous rival and was cancelled anyway. And one is not even built by the company on the badge. By the end, you will know exactly what to check before you sign for a truck in twenty twenty-seven.""",
+sc("""Stay with me for the next twenty minutes, because there is a twist in every one of these stories. One truck was killed by a partner's factory sale. One was cancelled after four delays. One outsold its famous rival and was cancelled anyway. And one is not even built by the company on the badge. By the end, you will know exactly what to check before you sign for a truck in twenty twenty-seven.""",
    "Ram 1500 pickup truck", "7 TRUCKS. 7 TWISTS.")
 sc("""Before we start, a quick note on how this channel works. Every number you hear comes from a published source, and the sources are listed in the description. If a figure could not be confirmed, we left it out. Truck buying is expensive, and you deserve facts, not rumors. Let's begin with the truck that is already gone.""",
    "Ford F-250 Super Duty pickup", "EVERY NUMBER IS SOURCED")
@@ -125,11 +129,13 @@ sc("""Third, ask what the warranty and service plan look like if the model is di
 sc("""We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. It covers the numbers to check, the questions to ask a dealer, and the warning signs we just walked through. The link is in the description and in the pinned comment. And if you want to see which trucks are actually worth buying next, subscribe, because the next video covers exactly that. Thanks for watching.""",
    "Ram 1500 pickup truck", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
 
-CH = {"Americans bought more pickup": "Intro", "Truck number one": "1. Nissan Titan", "Truck number two": "2. Ram 1500 REV",
+CH = {"Seven American pickup trucks are being": "Intro", "Truck number one": "1. Nissan Titan", "Truck number two": "2. Ram 1500 REV",
       "Truck number three": "3. Ford F-150 Lightning", "Truck number four": "4. GMC Hummer EV and Factory Zero",
       "Truck number five": "5. Chevrolet Silverado medium-duty", "Truck number six": "6. Hyundai Santa Cruz",
       "Truck number seven": "7. Tesla Cybertruck", "So what is the pattern": "What to check before you buy in 2027"}
-for sc_ in S:
+CUTS = {0: 8, 1: 8, 2: 5, 3: 4}  # fast cuts in the first minute to hold attention
+for idx, sc_ in enumerate(S):
+    if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
 json.dump({"id": "video01",

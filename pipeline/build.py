@@ -1,23 +1,39 @@
-"""Narration (Piper) -> Ken Burns scenes (ffmpeg) -> captions burned in LAST. Outputs video, .srt, credits."""
+"""Narration (Piper, one call per sentence so timings are exact) -> fast-cut photo scenes (ffmpeg)
+-> captions burned in LAST, timed from the real audio. Outputs video, preview, frames, .srt, chapters."""
 import json, sys, pathlib, subprocess, wave, re, os
 from concurrent.futures import ThreadPoolExecutor
 
 W, H, FPS = 1920, 1080, 30
 MODEL = os.environ.get("PIPER_MODEL", "voices/en_US-ryan-high.onnx")
+SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.2")  # >1 slows the voice to a documentary pace
+GAP, TAIL = 0.18, 0.35  # silence between sentences / at the end of a scene
 
 
 def run(*a, **k):
     subprocess.run(a, check=True, **k)
 
 
-def wav_len(p):
-    with wave.open(str(p)) as w:
-        return w.getnframes() / w.getframerate()
+def piper(text, wav):
+    for flag in ("--length-scale", "--length_scale"):
+        try:
+            run("piper", "--model", MODEL, flag, SCALE, "--output_file", str(wav), input=text.encode()); return
+        except subprocess.CalledProcessError:
+            continue
+    run("piper", "--model", MODEL, "--output_file", str(wav), input=text.encode())
+
+
+def probe(p):
+    return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(p)],
+                                capture_output=True, text=True, check=True).stdout)
 
 
 def ts(t):
     h, r = divmod(t, 3600); m, s = divmod(r, 60)
     return f"{int(h):02}:{int(m):02}:{int(s):02},{int((s % 1) * 1000):03}"
+
+
+def sentences(text):
+    return [x.strip() for x in re.findall(r"[^.?!]+[.?!]+|[^.?!]+$", text) if x.strip()]
 
 
 def chunks(text, n=7):
@@ -32,31 +48,50 @@ def chunks(text, n=7):
     return out
 
 
-def tts(job):
+def tts_scene(job):
+    """One wav per sentence, joined with fixed gaps. Returns the exact start/end of every sentence."""
     i, s, out = job
-    wav = out / f"{i}.wav"
-    scale = os.environ.get("PIPER_LENGTH_SCALE", "1.2")  # >1 slows the voice to a documentary pace
-    for flag in ("--length-scale", "--length_scale"):
-        try:
-            run("piper", "--model", MODEL, flag, scale, "--output_file", str(wav), input=s["text"].encode())
-            break
-        except subprocess.CalledProcessError:
-            continue
-    else:
-        run("piper", "--model", MODEL, "--output_file", str(wav), input=s["text"].encode())
-    return wav_len(wav) + 0.35
+    spans, frames, rate, t = [], [], None, 0.0
+    for k, sent in enumerate(sentences(s["text"])):
+        wav = out / f"{i}_{k}.wav"
+        piper(sent, wav)
+        with wave.open(str(wav)) as w:
+            rate, params = w.getframerate(), w.getparams()
+            data = w.readframes(w.getnframes()); n = w.getnframes()
+        spans.append((sent, t, t + n / rate)); frames.append(data)
+        pad = TAIL if k == len(sentences(s["text"])) - 1 else GAP
+        frames.append(b"\x00" * int(pad * rate) * params.sampwidth * params.nchannels)
+        t += n / rate + pad
+    with wave.open(str(out / f"{i}.wav"), "wb") as w:
+        w.setparams(params); w.writeframes(b"".join(frames))
+    return {"dur": t, "spans": spans}
 
 
-def render_segment(job):
+def render_scene(job):
     i, s, d, out, dur = job
-    frames = int(dur * FPS)
-    zoom = f"zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS}"
+    imgs = sorted((d / "media").glob(f"{i}_*.jpg"), key=lambda p: int(p.stem.split("_")[1]))
+    total = int(dur * FPS) + 1
+    n = len(imgs); base = total // n
     cap = s["caption"].replace("'", "").replace(":", " -")
     label = (f"drawtext=text='{cap}':fontcolor=white:fontsize=56:borderw=4:bordercolor=black:"
              f"box=1:boxcolor=0xC8102E@0.9:boxborderw=18:x=60:y=60")
-    run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(d / "media" / f"{i}.jpg"), "-i", str(out / f"{i}.wav"),
-        "-vf", f"scale=2880:-1,{zoom},{label},format=yuv420p", "-t", f"{dur:.2f}",
-        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-c:a", "aac", "-shortest", str(out / f"{i}.mp4"))
+    parts = []
+    for k, img in enumerate(imgs):
+        f = base + (total - base * n if k == n - 1 else 0)
+        # alternate zoom in / zoom out so consecutive cuts never look the same
+        z = f"1+0.0006*on" if k % 2 == 0 else f"1.18-0.0006*on"
+        zoom = f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={f}:s={W}x{H}:fps={FPS}"
+        flash = ",fade=t=in:st=0:d=0.12:color=white" if i < 4 and k > 0 else ""  # hook: flash on every cut
+        part = out / f"{i}_{k}.mp4"
+        run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(img),
+            "-vf", f"scale=2880:-1,{zoom}{flash},{label},format=yuv420p", "-frames:v", str(f),
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-an", str(part))
+        parts.append(part)
+    (out / f"{i}_list.txt").write_text("".join(f"file '{p.name}'\n" for p in parts))
+    vid = out / f"{i}_v.mp4"
+    run("ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(out / f"{i}_list.txt"), "-c", "copy", str(vid))
+    run("ffmpeg", "-y", "-loglevel", "error", "-i", str(vid), "-i", str(out / f"{i}.wav"),
+        "-c:v", "copy", "-c:a", "aac", "-shortest", str(out / f"{i}.mp4"))
 
 
 def main(video):
@@ -64,17 +99,21 @@ def main(video):
     out = d / "out"; out.mkdir(exist_ok=True)
     scenes = json.loads((d / "script.json").read_text())["scenes"]
     with ThreadPoolExecutor(4) as ex:
-        durs = list(ex.map(tts, [(i, s, out) for i, s in enumerate(scenes)]))
-    srt, t0, chapters = [], 0.0, []
-    for s, dur in zip(scenes, durs):
+        tts = list(ex.map(tts_scene, [(i, s, out) for i, s in enumerate(scenes)]))
+    with ThreadPoolExecutor(4) as ex:
+        list(ex.map(render_scene, [(i, s, d, out, t["dur"]) for i, (s, t) in enumerate(zip(scenes, tts))]))
+    # Captions come LAST and are timed from the audio that is really in the video:
+    # scene start = sum of the measured scene lengths, sentence offsets = measured TTS durations.
+    srt, chapters, t0 = [], [], 0.0
+    for i, (s, t) in enumerate(zip(scenes, tts)):
         if s.get("chapter"):
             chapters.append(f"{int(t0//60)}:{int(t0%60):02d} {s['chapter']}")
-        cs = chunks(s["text"]); step = (dur - 0.35) / len(cs)
-        for j, c in enumerate(cs):
-            srt.append(f"{len(srt)+1}\n{ts(t0 + j*step)} --> {ts(t0 + (j+1)*step)}\n{c}\n")
-        t0 += dur
-    with ThreadPoolExecutor(4) as ex:
-        list(ex.map(render_segment, [(i, s, d, out, dur) for i, (s, dur) in enumerate(zip(scenes, durs))]))
+        for sent, a, b in t["spans"]:
+            cs = chunks(sent); chars = sum(len(c) for c in cs); pos = a
+            for c in cs:
+                end = pos + (b - a) * len(c) / chars
+                srt.append(f"{len(srt)+1}\n{ts(t0 + pos)} --> {ts(t0 + end)}\n{c}\n"); pos = end
+        t0 += probe(out / f"{i}.mp4")
     (out / "list.txt").write_text("".join(f"file '{i}.mp4'\n" for i in range(len(scenes))))
     (out / "captions.srt").write_text("\n".join(srt))
     (out / "chapters.txt").write_text("\n".join(chapters) + "\n")
@@ -82,16 +121,15 @@ def main(video):
     run("ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(out / "list.txt"), "-c", "copy", str(nocap))
     style = "FontName=DejaVu Sans,Bold=1,FontSize=22,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Alignment=2,MarginV=40"
     final = out / f"{video}.mp4"
-    # captions last; slideshow content compresses well, so crf 27 keeps a 23 min video near 150 MB
     run("ffmpeg", "-y", "-loglevel", "error", "-i", str(nocap), "-vf", f"subtitles={out/'captions.srt'}:force_style='{style}'",
-        "-c:v", "libx264", "-preset", "medium", "-tune", "stillimage", "-crf", "27", "-c:a", "aac", "-b:a", "96k", str(final))
-    # small preview + frames so the result can be reviewed without downloading the full file
+        "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", "-maxrate", "2500k", "-bufsize", "5000k",
+        "-c:a", "aac", "-b:a", "96k", str(final))
     run("ffmpeg", "-y", "-loglevel", "error", "-i", str(final), "-vf", "scale=640:360", "-c:v", "libx264", "-preset", "veryfast",
         "-b:v", "250k", "-c:a", "aac", "-b:a", "48k", str(out / "preview.mp4"))
-    total = sum(durs)
-    for k, t in enumerate([20, total * 0.25, total * 0.5, total * 0.75, total - 20]):
+    total = probe(final)
+    for k, t in enumerate([8, 25, 45, total * 0.25, total * 0.5, total * 0.75, total - 20]):
         run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{t:.1f}", "-i", str(final), "-frames:v", "1", "-vf", "scale=960:-1", str(out / f"frame{k}.jpg"))
-    print("done", final, f"{total/60:.1f} min")
+    print("done", final, f"{total/60:.1f} min, captions {len(srt)}")
 
 
 if __name__ == "__main__":
