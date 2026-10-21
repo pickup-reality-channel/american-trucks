@@ -1,0 +1,12 @@
+- Pickup Truck Talk, top 5 most expensive full-size trucks for 2026 (Jan 2026): https://pickuptrucktalk.com/2026/01/top-5-most-expensive-full-size-trucks-for-2026/
+- CarGurus, most expensive pickup trucks in 2026 (June 2026): https://cargurus.com/Cars/articles/most-expensive-pickup-trucks
+- Cox Automotive / Kelley Blue Book, September 2026 average transaction prices: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- Pickup Truck Talk, 2027 Ram TRX returns (Jan 2026): https://pickuptrucktalk.com/2026/01/2027-ram-trx-is-back-with-srt-badge-777-hp-supercharged-engine-100k-price/
+- autoevolution, Q3 2026 pickup sales (Tundra): https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- The Truth About Cars, 2027 Maverick pricing: https://www.thetruthaboutcars.com/cars/news-blog/2027-ford-maverick-tweaks-pricing-structure-engine-options-45136246
+- SlashGear, Lincoln Blackwood: https://www.slashgear.com/1003357/the-reason-the-lincoln-blackwood-was-a-failure
+- InsideEVs, Cybertruck 2025 sales: https://insideevs.com/news/784715/tesla-cybertruck-ev-sales-drop-2025/
+- Fox Business, Ford $19.5B charge: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- Ford Authority, SVT Lightning values: https://fordauthority.com/2026/02/1999-2004-ford-f-150-svt-lightning-values-have-skyrocketed/
+- The Henry Ford, 1925 Model T pickup: https://thehenryford.org/collections-and-research/digital-collections/artifact/289663
