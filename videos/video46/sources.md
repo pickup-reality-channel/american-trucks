@@ -1,0 +1,10 @@
+- Hagerty, how regulations made the small-pickup segment a dinosaur park: https://hagerty.com/media/?p=255984
+- The Daily Vroom, why the Chicken Tax still matters in 2026: https://thedailyvroom.com/p/why-the-chicken-tax-still-matters-to-vehicles-in-2026
+- VEHQ, discontinued trucks (GMC Syclone): https://vehq.com/?p=137824
+- Ford, 2025 full-year US sales (Ranger, Maverick): https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Pedal Commander, best-selling trucks of 2025 (Tacoma): https://pedalcommander.com/blogs/driveway/best-selling-trucks-2025
+- The Autopian, Hyundai Santa Cruz (Jan 2026): https://www.theautopian.com/the-santa-cruz-is-reportedly-dying-but-hyundai-says-making-it-was-a-valuable-learning-experience/
+- The Truth About Cars, 2027 Maverick pricing: https://www.thetruthaboutcars.com/cars/news-blog/2027-ford-maverick-tweaks-pricing-structure-engine-options-45136246
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- The Next Web, Slate Auto $24,950 pickup preorders (June 2026): https://thenextweb.com/news/slate-auto-ev-pickup-24950-preorders-bezos-production
+- InsideEVs, Cybertruck 2025 sales: https://insideevs.com/news/784715/tesla-cybertruck-ev-sales-drop-2025/
