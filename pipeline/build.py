@@ -24,7 +24,7 @@ def chunks(text, n=7):
     out, cur = [], []
     for w in text.split():
         cur.append(w)
-        if len(cur) >= n or w[-1] in ".,?!:":
+        if len(cur) >= n or (w[-1] in ".,?!:" and len(cur) >= 3):
             out.append(" ".join(cur)); cur = []
     if cur:
         out.append(" ".join(cur))
