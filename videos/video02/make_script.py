@@ -83,6 +83,21 @@ sc("""The truck is as simple as a modern truck can be. According to Electrek, it
 sc("""Now the twist. Slate originally pitched the truck at under twenty thousand dollars, but that price assumed the seven thousand, five hundred dollar federal tax credit, which no longer exists. The company has raised about one point four billion dollars, and it plans to sell directly to customers, with no dealerships. First deliveries are still expected by the end of twenty twenty-six. But Electrek notes that electric startups have often failed to deliver affordable vehicles at scale.""",
    "Slate Auto", "UNDER $20,000 BECAME $24,950")
 
+
+# ---------- THE BIGGER PICTURE ----------
+sc("""Before the close, let's put the whole market on one table, because the pattern gets clearer when you see it side by side. Through the first nine months of twenty twenty-six, according to Pickup Truck Talk, the Chevrolet Silverado sold four hundred thirteen thousand, three hundred eighty-three trucks, down less than one percent. The GMC Sierra sold two hundred fifty-two thousand, six hundred thirty-nine, flat. Even Ford's F-Series, down six point eight percent, still sold more than half a million.""",
+   "Chevrolet Silverado 1500 pickup", "9 MONTHS 2026: SILVERADO 413,383")
+sc("""Now compare those numbers with the electric ones. The gas and diesel trucks barely moved, or grew. The electric trucks fell by forty, sixty, even ninety percent. That is the real twist of this whole story. The pickup truck market did not shrink. A small slice of it, the slice that was supposed to be the future, shrank while everything around it held steady. The buyers did not leave trucks. They left the electric version of trucks.""",
+   "GMC Sierra pickup", "TRUCKS HELD. EV TRUCKS FELL.")
+sc("""Why does that matter? Because a truck buyer is a different kind of buyer. A truck is a tool. It tows a trailer on a Friday, hauls lumber on a Saturday, and sits in a driveway on Sunday. A buyer who does that cares about range with a trailer, charging on a job site, and what the truck costs per mile. When the tax credit disappeared, the electric truck lost its biggest argument, which was the price.""",
+   "Ford F-250 Super Duty pickup", "A TRUCK IS A TOOL")
+sc("""Look at what the carmakers chose to build next. Ford is bringing back the Lightning with a generator. Ram is rebuilding the one thousand five hundred REV with a V six that only charges the battery. GM insiders are reportedly looking at plug-in hybrids. Three different companies, three different plans, one shared idea. Keep the electric drive, but add something that does not depend on finding a charger.""",
+   "Ram 1500 pickup", "THE NEW IDEA: ELECTRIC DRIVE + ENGINE")
+sc("""There is a cost to that change, and it is not small. Ford took a nineteen point five billion dollar charge. General Motors said earlier in twenty twenty-six it would lose about six billion dollars from repealing its electric investments. That is more than twenty-five billion dollars between two companies, spent changing direction. And that is only what the companies announced. The real cost includes the jobs paused at Factory Zero and the workers sent home.""",
+   "General Motors Factory Zero Detroit", "FORD $19.5B + GM ~$6B")
+sc("""And what about the buyer who already owns one? This is a fair question, and it deserves a straight answer. A warranty normally stays valid on a discontinued model, and an electric truck still works the same on the day after the announcement. The risk is value. A truck with a famous name and no future often loses value faster than a truck that is still being built, so check resale numbers before you pay.""",
+   "Ford F-150 Lightning pickup", "OWNING A DISCONTINUED TRUCK")
+
 # ---------- CLOSE ----------
 sc("""So what is the pattern across all seven? One electric truck was ended after a nineteen point five billion dollar charge. One was cancelled and came back as a hybrid. Two lost almost half their sales once the tax credit was gone. One lost sixty-two percent. One is a famous truck that sells in the thousands, not the tens of thousands. And one is still a promise. The lesson is not that electric trucks are doomed. It is that they were priced and planned for a world with a subsidy, and that world ended.""",
    "Ford F-150 Chevrolet Silverado pickups dealership lot", "THE PATTERN: BUILT FOR A SUBSIDY")
@@ -103,7 +118,7 @@ for idx, sc_ in enumerate(S):
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
 json.dump({"id": "video02",
-  "title": "7 Electric Pickups Americans Stopped Buying (What Really Happened)", "scenes": S},
+  "length_scale": 1.38, "title": "7 Electric Pickups Americans Stopped Buying (What Really Happened)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
 print(len(S), "scenes", words, "words ~", round(words/150, 1), "min")

@@ -97,7 +97,10 @@ def render_scene(job):
 def main(video):
     d = pathlib.Path("videos") / video
     out = d / "out"; out.mkdir(exist_ok=True)
-    scenes = json.loads((d / "script.json").read_text())["scenes"]
+    _sj = json.loads((d / "script.json").read_text())
+    scenes = _sj["scenes"]
+    global SCALE
+    SCALE = str(_sj.get("length_scale", SCALE))
     with ThreadPoolExecutor(4) as ex:
         tts = list(ex.map(tts_scene, [(i, s, out) for i, s in enumerate(scenes)]))
     with ThreadPoolExecutor(4) as ex:
