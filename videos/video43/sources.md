@@ -1,0 +1,8 @@
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Pedal Commander, best-selling trucks of 2025: https://pedalcommander.com/blogs/driveway/best-selling-trucks-2025
+- DBusiness, GM leads 2025 US sales: https://www.dbusiness.com/daily-news/general-motors-leads-2025-u-s-auto-industry-sales/
+- autoevolution, Q3 2026 full-size pickup sales: https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
+- The Drive, Ram outsold Silverado in 2019: https://www.thedrive.com/news/31716/ram-pickups-outsold-chevrolet-silverado-in-2019-for-first-time-in-history
+- Carscoops, Hemi return sparked 10,000+ orders: https://www.carscoops.com/2025/07/hemis-return-sparked-10000-orders-in-less-than-24-hours/
+- Automotive Logistics, Novelis fires: https://www.automotivelogistics.media/supply-chain/aluminium-supplier-novelis-expects-to-restart-hot-mill-in-summer-2026-after-fires-caused-disruption-in-2025/2607587
+- Fox Business, Ford $19.5B charge: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
