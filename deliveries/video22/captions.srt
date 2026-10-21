@@ -1,0 +1,2579 @@
+1
+00:00:00,000 --> 00:00:03,156
+One truck recall in twenty twenty-six covered
+
+2
+00:00:03,156 --> 00:00:05,682
+more than four million vehicles in a
+
+3
+00:00:05,682 --> 00:00:06,664
+single filing.
+
+4
+00:00:06,844 --> 00:00:09,824
+One covered every Cybertruck ever sold,
+
+5
+00:00:09,824 --> 00:00:11,046
+because of glue.
+
+6
+00:00:11,226 --> 00:00:13,301
+And one told owners not to drive
+
+7
+00:00:13,301 --> 00:00:14,598
+their trucks at all,
+
+8
+00:00:14,598 --> 00:00:16,219
+and to park them outside.
+
+9
+00:00:16,399 --> 00:00:18,682
+These are the biggest truck recalls of
+
+10
+00:00:18,682 --> 00:00:21,145
+twenty twenty-five and twenty twenty-six,
+
+11
+00:00:21,145 --> 00:00:21,565
+ranked.
+
+12
+00:00:21,916 --> 00:00:24,804
+To understand how unusual these two years
+
+13
+00:00:24,804 --> 00:00:27,411
+were, you need one number from twenty
+
+14
+00:00:27,411 --> 00:00:28,046
+fourteen.
+
+15
+00:00:28,226 --> 00:00:31,965
+That year, General Motors issued seventy-seven recalls,
+
+16
+00:00:31,965 --> 00:00:34,208
+many of them tied to its infamous
+
+17
+00:00:34,208 --> 00:00:35,772
+faulty ignition switch.
+
+18
+00:00:35,952 --> 00:00:37,463
+For more than a decade,
+
+19
+00:00:37,463 --> 00:00:40,485
+seventy-seven was the record that no automaker
+
+20
+00:00:40,485 --> 00:00:41,536
+wanted to touch.
+
+21
+00:00:41,716 --> 00:00:43,409
+According to Autoblog,
+
+22
+00:00:43,409 --> 00:00:44,948
+citing federal data,
+
+23
+00:00:44,948 --> 00:00:47,409
+Ford passed it in just the first
+
+24
+00:00:47,409 --> 00:00:49,948
+six months of twenty twenty-five.
+
+25
+00:00:50,298 --> 00:00:52,480
+By the end of twenty twenty-five,
+
+26
+00:00:52,480 --> 00:00:55,589
+Ford had issued one hundred fifty-three recalls
+
+27
+00:00:55,589 --> 00:00:58,367
+covering nearly thirteen million vehicles,
+
+28
+00:00:58,367 --> 00:00:59,690
+according to Motor1.
+
+29
+00:00:59,870 --> 00:01:01,913
+More than double the old record.
+
+30
+00:01:02,093 --> 00:01:03,408
+And Automotive News,
+
+31
+00:01:03,408 --> 00:01:04,854
+as quoted by Autoblog,
+
+32
+00:01:04,854 --> 00:01:07,615
+reported that by mid-year Ford's count was
+
+33
+00:01:07,615 --> 00:01:10,638
+higher than the next five automakers combined.
+
+34
+00:01:10,818 --> 00:01:12,889
+Then twenty twenty-six arrived,
+
+35
+00:01:12,889 --> 00:01:15,293
+and the single biggest recall of all
+
+36
+00:01:15,293 --> 00:01:16,496
+was still to come.
+
+37
+00:01:16,845 --> 00:01:19,051
+But this is not a Ford-bashing video.
+
+38
+00:01:19,231 --> 00:01:20,758
+In these two years,
+
+39
+00:01:20,758 --> 00:01:22,928
+Stellantis, General Motors,
+
+40
+00:01:22,928 --> 00:01:25,982
+Toyota, Tesla and Rivian all had truck
+
+41
+00:01:25,982 --> 00:01:28,554
+recalls that made national news.
+
+42
+00:01:28,734 --> 00:01:30,545
+Some were huge and boring.
+
+43
+00:01:30,725 --> 00:01:32,653
+Some were tiny and frightening.
+
+44
+00:01:32,833 --> 00:01:34,425
+And a few of them changed the
+
+45
+00:01:34,425 --> 00:01:36,018
+way you should buy a truck in
+
+46
+00:01:36,018 --> 00:01:37,117
+twenty twenty-seven.
+
+47
+00:01:37,466 --> 00:01:38,943
+So we ranked ten of them,
+
+48
+00:01:38,943 --> 00:01:40,891
+from the smallest to the biggest.
+
+49
+00:01:41,071 --> 00:01:42,844
+And here is the twist we will
+
+50
+00:01:42,844 --> 00:01:44,067
+keep coming back to.
+
+51
+00:01:44,247 --> 00:01:46,314
+The size of a recall tells you
+
+52
+00:01:46,314 --> 00:01:48,450
+how many trucks share a defect.
+
+53
+00:01:48,630 --> 00:01:50,603
+It does not tell you how dangerous
+
+54
+00:01:50,603 --> 00:01:50,952
+it is.
+
+55
+00:01:51,132 --> 00:01:53,403
+Some of the scariest recalls on this
+
+56
+00:01:53,403 --> 00:01:55,927
+list cover fewer than a thousand trucks.
+
+57
+00:01:56,107 --> 00:01:58,726
+Every number comes from a published source,
+
+58
+00:01:58,726 --> 00:02:00,309
+listed in the description.
+
+59
+00:02:00,489 --> 00:02:02,231
+Let's start at number ten.
+
+60
+00:02:02,580 --> 00:02:05,160
+First, a thirty-second lesson on how a
+
+61
+00:02:05,160 --> 00:02:06,654
+recall actually works,
+
+62
+00:02:06,654 --> 00:02:09,166
+because it changes how you read every
+
+63
+00:02:09,166 --> 00:02:10,591
+number in this video.
+
+64
+00:02:10,771 --> 00:02:13,133
+A safety recall is filed with the
+
+65
+00:02:13,133 --> 00:02:14,708
+federal safety agency,
+
+66
+00:02:14,708 --> 00:02:17,570
+NHTSA, when a manufacturer or the agency
+
+67
+00:02:17,570 --> 00:02:20,361
+decides a defect creates a safety risk.
+
+68
+00:02:20,541 --> 00:02:22,747
+The repair is free by law.
+
+69
+00:02:22,927 --> 00:02:25,523
+Each recall gets a campaign number,
+
+70
+00:02:25,523 --> 00:02:28,045
+like twenty-five V two seven four,
+
+71
+00:02:28,045 --> 00:02:30,863
+and that number follows every truck it
+
+72
+00:02:30,863 --> 00:02:33,534
+covers, no matter how many times the
+
+73
+00:02:33,534 --> 00:02:34,572
+truck is sold.
+
+74
+00:02:34,921 --> 00:02:36,646
+And one more thing most people do
+
+75
+00:02:36,646 --> 00:02:37,116
+not know.
+
+76
+00:02:37,296 --> 00:02:39,834
+A recall number counts every vehicle that
+
+77
+00:02:39,834 --> 00:02:41,197
+could have the defect,
+
+78
+00:02:41,197 --> 00:02:42,497
+not the ones that do.
+
+79
+00:02:42,677 --> 00:02:45,527
+Rivian estimated about one percent of its
+
+80
+00:02:45,527 --> 00:02:48,099
+recalled trucks were really affected.
+
+81
+00:02:48,279 --> 00:02:50,224
+Ram said the same about one of
+
+82
+00:02:50,224 --> 00:02:52,168
+its stability control recalls.
+
+83
+00:02:52,348 --> 00:02:54,925
+So a recall of a million trucks
+
+84
+00:02:54,925 --> 00:02:57,584
+may involve far fewer bad parts.
+
+85
+00:02:57,764 --> 00:03:00,561
+The manufacturer recalls the whole range because
+
+86
+00:03:00,561 --> 00:03:02,658
+it cannot tell which trucks have the
+
+87
+00:03:02,658 --> 00:03:04,115
+problem without checking.
+
+88
+00:03:04,464 --> 00:03:07,294
+Number ten is the Rivian R one
+
+89
+00:03:07,294 --> 00:03:07,483
+T.
+
+90
+00:03:07,663 --> 00:03:09,977
+In January twenty twenty-six,
+
+91
+00:03:09,977 --> 00:03:12,690
+Rivian recalled nineteen thousand,
+
+92
+00:03:12,690 --> 00:03:15,164
+six hundred forty-one vehicles,
+
+93
+00:03:15,164 --> 00:03:18,196
+twelve thousand, six hundred ten R one
+
+94
+00:03:18,196 --> 00:03:21,628
+T pickups and seven thousand and thirty-one
+
+95
+00:03:21,628 --> 00:03:22,665
+R one S SUVs,
+
+96
+00:03:22,665 --> 00:03:26,495
+from the twenty twenty-two to twenty twenty-five
+
+97
+00:03:26,495 --> 00:03:29,687
+model years, according to The EV Report.
+
+98
+00:03:29,867 --> 00:03:32,225
+The problem was a rear suspension toe
+
+99
+00:03:32,225 --> 00:03:35,092
+link joint that could separate while driving.
+
+100
+00:03:35,441 --> 00:03:36,602
+Here is the twist.
+
+101
+00:03:36,782 --> 00:03:38,941
+This defect did not come from the
+
+102
+00:03:38,941 --> 00:03:39,464
+factory.
+
+103
+00:03:39,644 --> 00:03:41,583
+It came from the service department.
+
+104
+00:03:41,763 --> 00:03:44,304
+The joint may not have been reassembled
+
+105
+00:03:44,304 --> 00:03:47,432
+correctly during service work done between April
+
+106
+00:03:47,432 --> 00:03:50,494
+twenty twenty-two and March twenty twenty-five.
+
+107
+00:03:50,674 --> 00:03:51,630
+In other words,
+
+108
+00:03:51,630 --> 00:03:54,180
+a repair could have created the problem.
+
+109
+00:03:54,360 --> 00:03:57,147
+Rivian estimated only about one percent of
+
+110
+00:03:57,147 --> 00:04:00,200
+the recalled vehicles actually had the defect.
+
+111
+00:04:00,549 --> 00:04:02,488
+But Rivian's advice was blunt.
+
+112
+00:04:02,668 --> 00:04:04,675
+Owners were told not to drive the
+
+113
+00:04:04,675 --> 00:04:07,351
+affected vehicles, and to park them outside,
+
+114
+00:04:07,351 --> 00:04:08,810
+according to the report.
+
+115
+00:04:08,990 --> 00:04:11,586
+A joint separating at speed could raise
+
+116
+00:04:11,586 --> 00:04:13,982
+the risk of a crash without warning.
+
+117
+00:04:14,162 --> 00:04:16,140
+The fix was new bolts with an
+
+118
+00:04:16,140 --> 00:04:18,458
+updated procedure, free of charge.
+
+119
+00:04:18,638 --> 00:04:20,852
+And the lesson for any truck owner
+
+120
+00:04:20,852 --> 00:04:21,958
+is a strange one.
+
+121
+00:04:22,138 --> 00:04:23,056
+After a repair,
+
+122
+00:04:23,056 --> 00:04:25,013
+the work itself can be the thing
+
+123
+00:04:25,013 --> 00:04:26,237
+that needs checking.
+
+124
+00:04:26,586 --> 00:04:29,086
+Number nine is the smallest recall on
+
+125
+00:04:29,086 --> 00:04:31,924
+our list, and maybe the most uncomfortable
+
+126
+00:04:31,924 --> 00:04:32,194
+one.
+
+127
+00:04:32,374 --> 00:04:34,331
+In March twenty twenty-five,
+
+128
+00:04:34,331 --> 00:04:37,897
+Ford recalled nine hundred fifty twenty twenty-four
+
+129
+00:04:37,897 --> 00:04:40,203
+F-150 Lightning electric pickups,
+
+130
+00:04:40,203 --> 00:04:42,301
+according to Kelley Blue Book.
+
+131
+00:04:42,481 --> 00:04:45,709
+Ford said a supplier's production deviations may
+
+132
+00:04:45,709 --> 00:04:49,341
+have misaligned the electrodes inside the high-voltage
+
+133
+00:04:49,341 --> 00:04:50,283
+battery cells.
+
+134
+00:04:50,632 --> 00:04:51,689
+Why does that matter?
+
+135
+00:04:51,869 --> 00:04:54,683
+Over repeated charging and discharging,
+
+136
+00:04:54,683 --> 00:04:57,858
+a misaligned electrode can cause an internal
+
+137
+00:04:57,858 --> 00:05:00,239
+short circuit, and that is a fire
+
+138
+00:05:00,239 --> 00:05:00,600
+risk.
+
+139
+00:05:00,780 --> 00:05:02,489
+Until the repair was done,
+
+140
+00:05:02,489 --> 00:05:04,922
+owners were asked to keep the battery
+
+141
+00:05:04,922 --> 00:05:06,828
+charged below eighty percent.
+
+142
+00:05:07,008 --> 00:05:08,783
+Think about that for an electric truck
+
+143
+00:05:08,783 --> 00:05:09,063
+owner.
+
+144
+00:05:09,243 --> 00:05:10,823
+You paid for a big battery,
+
+145
+00:05:10,823 --> 00:05:12,696
+and the safety advice was to use
+
+146
+00:05:12,696 --> 00:05:13,632
+only part of it.
+
+147
+00:05:13,981 --> 00:05:15,375
+Here is the twist.
+
+148
+00:05:15,555 --> 00:05:18,174
+Nine hundred fifty trucks is almost nothing
+
+149
+00:05:18,174 --> 00:05:20,123
+next to the millions we will see
+
+150
+00:05:20,123 --> 00:05:20,489
+later.
+
+151
+00:05:20,669 --> 00:05:22,288
+But this is the kind of recall
+
+152
+00:05:22,288 --> 00:05:24,338
+that matters most to the people inside
+
+153
+00:05:24,338 --> 00:05:24,500
+it.
+
+154
+00:05:24,680 --> 00:05:27,168
+A small recall can be serious,
+
+155
+00:05:27,168 --> 00:05:29,241
+and a big recall can be a
+
+156
+00:05:29,241 --> 00:05:30,485
+software patch.
+
+157
+00:05:30,665 --> 00:05:31,845
+Keep that in mind,
+
+158
+00:05:31,845 --> 00:05:34,138
+because number eight is also small,
+
+159
+00:05:34,138 --> 00:05:36,301
+and it involves a part that holds
+
+160
+00:05:36,301 --> 00:05:38,397
+your front wheels to the engine.
+
+161
+00:05:38,747 --> 00:05:41,278
+Number eight is the Toyota Tacoma.
+
+162
+00:05:41,458 --> 00:05:43,610
+In October twenty twenty-five,
+
+163
+00:05:43,610 --> 00:05:47,267
+Toyota recalled about six thousand brand-new twenty
+
+164
+00:05:47,267 --> 00:05:50,351
+twenty-five Tacoma four-wheel-drive trucks,
+
+165
+00:05:50,351 --> 00:05:52,000
+according to TFL Truck.
+
+166
+00:05:52,180 --> 00:05:54,568
+The front driveshaft joints may have been
+
+167
+00:05:54,568 --> 00:05:56,665
+made without the required materials,
+
+168
+00:05:56,665 --> 00:05:58,762
+and they could deform or break while
+
+169
+00:05:58,762 --> 00:05:59,228
+driving.
+
+170
+00:05:59,408 --> 00:06:02,261
+Dealers check the driveshaft serial number and
+
+171
+00:06:02,261 --> 00:06:03,564
+replace it if needed.
+
+172
+00:06:03,913 --> 00:06:06,047
+Six thousand trucks is not a big
+
+173
+00:06:06,047 --> 00:06:06,514
+number.
+
+174
+00:06:06,694 --> 00:06:08,412
+But it lands on a truck that
+
+175
+00:06:08,412 --> 00:06:10,131
+has a reputation to protect.
+
+176
+00:06:10,311 --> 00:06:12,306
+The Tacoma is one of the most
+
+177
+00:06:12,306 --> 00:06:14,714
+popular midsize pickups in America,
+
+178
+00:06:14,714 --> 00:06:17,466
+and people buy it precisely because they
+
+179
+00:06:17,466 --> 00:06:18,705
+expect it to last.
+
+180
+00:06:18,885 --> 00:06:20,382
+And it was not the first time.
+
+181
+00:06:20,562 --> 00:06:22,632
+In February twenty twenty-four,
+
+182
+00:06:22,632 --> 00:06:26,303
+Toyota recalled about three hundred eighty-one thousand
+
+183
+00:06:26,303 --> 00:06:29,641
+twenty twenty-two and twenty twenty-three Tacomas,
+
+184
+00:06:29,641 --> 00:06:32,245
+because welding debris on the rear axle
+
+185
+00:06:32,245 --> 00:06:34,715
+could make the retaining nuts loosen.
+
+186
+00:06:35,064 --> 00:06:36,722
+If those nuts came off,
+
+187
+00:06:36,722 --> 00:06:39,245
+a part could separate from the axle
+
+188
+00:06:39,245 --> 00:06:41,624
+and affect stability and braking.
+
+189
+00:06:41,804 --> 00:06:44,028
+The fix was an inspection and a
+
+190
+00:06:44,028 --> 00:06:46,181
+re-tightening, free of charge.
+
+191
+00:06:46,361 --> 00:06:48,207
+So here is the twist.
+
+192
+00:06:48,387 --> 00:06:51,880
+The brand with the strongest reliability reputation
+
+193
+00:06:51,880 --> 00:06:54,482
+in trucks had two driveline recalls in
+
+194
+00:06:54,482 --> 00:06:55,167
+two years.
+
+195
+00:06:55,347 --> 00:06:58,528
+A reputation is built over decades.
+
+196
+00:06:58,708 --> 00:07:00,758
+A recall can come from a single
+
+197
+00:07:00,758 --> 00:07:02,807
+bad batch at a single supplier.
+
+198
+00:07:03,156 --> 00:07:05,920
+Number seven is the Tesla Cybertruck.
+
+199
+00:07:06,100 --> 00:07:07,481
+On March twentieth,
+
+200
+00:07:07,481 --> 00:07:11,625
+twenty twenty-five, Tesla recalled forty-six thousand and
+
+201
+00:07:11,625 --> 00:07:15,477
+ninety-six Cybertrucks, every one built from November
+
+202
+00:07:15,477 --> 00:07:17,804
+thirteenth, twenty twenty-three,
+
+203
+00:07:17,804 --> 00:07:19,548
+the start of deliveries,
+
+204
+00:07:19,548 --> 00:07:21,875
+through February twenty-seventh,
+
+205
+00:07:21,875 --> 00:07:25,001
+twenty twenty-five, according to CarScoops.
+
+206
+00:07:25,181 --> 00:07:28,176
+In practice, that was basically every Cybertruck
+
+207
+00:07:28,176 --> 00:07:29,674
+on the road at the time.
+
+208
+00:07:30,023 --> 00:07:32,547
+The problem was a stainless steel panel
+
+209
+00:07:32,547 --> 00:07:33,905
+called the cant rail,
+
+210
+00:07:33,905 --> 00:07:36,170
+which runs along the roof above the
+
+211
+00:07:36,170 --> 00:07:36,688
+windows.
+
+212
+00:07:36,868 --> 00:07:39,399
+It could partially come off while driving.
+
+213
+00:07:39,579 --> 00:07:42,098
+And the reason is almost unbelievable for
+
+214
+00:07:42,098 --> 00:07:44,188
+a truck sold as being bulletproof.
+
+215
+00:07:44,368 --> 00:07:46,659
+The panel was held on entirely by
+
+216
+00:07:46,659 --> 00:07:48,048
+structural adhesive.
+
+217
+00:07:48,228 --> 00:07:48,518
+Glue.
+
+218
+00:07:48,698 --> 00:07:51,308
+And that adhesive could become brittle from
+
+219
+00:07:51,308 --> 00:07:52,704
+environmental exposure.
+
+220
+00:07:53,053 --> 00:07:54,284
+Here is the twist.
+
+221
+00:07:54,464 --> 00:07:57,586
+Most of Tesla's earlier recalls were fixed
+
+222
+00:07:57,586 --> 00:07:59,221
+with software updates,
+
+223
+00:07:59,221 --> 00:08:00,559
+sent over the air.
+
+224
+00:08:00,739 --> 00:08:02,063
+This one could not be.
+
+225
+00:08:02,243 --> 00:08:04,495
+Owners had to bring the truck in,
+
+226
+00:08:04,495 --> 00:08:06,678
+and Tesla added a stud welded to
+
+227
+00:08:06,678 --> 00:08:09,135
+the panel and clamped to the truck's
+
+228
+00:08:09,135 --> 00:08:10,568
+structure with a nut,
+
+229
+00:08:10,568 --> 00:08:12,274
+plus a stronger adhesive.
+
+230
+00:08:12,454 --> 00:08:14,020
+According to CarScoops,
+
+231
+00:08:14,020 --> 00:08:16,811
+it was the eighth Cybertruck recall since
+
+232
+00:08:16,811 --> 00:08:17,969
+deliveries began.
+
+233
+00:08:18,149 --> 00:08:19,832
+In about sixteen months.
+
+234
+00:08:20,182 --> 00:08:22,440
+And the Cybertruck story did not stop
+
+235
+00:08:22,440 --> 00:08:22,806
+there.
+
+236
+00:08:22,986 --> 00:08:24,777
+In May twenty twenty-six,
+
+237
+00:08:24,777 --> 00:08:29,004
+Tesla recalled Cybertrucks with eighteen-inch steel wheels,
+
+238
+00:08:29,004 --> 00:08:32,227
+because rough roads and cornering could crack
+
+239
+00:08:32,227 --> 00:08:34,663
+the brake rotor stud holes and let
+
+240
+00:08:34,663 --> 00:08:36,168
+wheel studs separate,
+
+241
+00:08:36,168 --> 00:08:39,391
+according to federal data reported by iHeart.
+
+242
+00:08:39,571 --> 00:08:42,266
+Tesla said there were no reported crashes
+
+243
+00:08:42,266 --> 00:08:43,054
+or injuries.
+
+244
+00:08:43,234 --> 00:08:45,381
+The fix was new rotors,
+
+245
+00:08:45,381 --> 00:08:47,061
+hubs and lug nuts,
+
+246
+00:08:47,061 --> 00:08:48,087
+at no cost.
+
+247
+00:08:48,437 --> 00:08:50,771
+Number six is the Toyota Tundra.
+
+248
+00:08:50,951 --> 00:08:53,065
+In January twenty twenty-six,
+
+249
+00:08:53,065 --> 00:08:56,929
+Toyota recalled one hundred sixty-two thousand twenty
+
+250
+00:08:56,929 --> 00:09:00,720
+twenty-four and twenty twenty-five Tundra and Tundra
+
+251
+00:09:00,720 --> 00:09:03,490
+Hybrid pickups, according to Autoblog.
+
+252
+00:09:03,670 --> 00:09:06,618
+The rearview camera display could get stuck
+
+253
+00:09:06,618 --> 00:09:07,921
+on the camera view,
+
+254
+00:09:07,921 --> 00:09:09,498
+or show a black screen.
+
+255
+00:09:09,678 --> 00:09:11,248
+Since twenty eighteen,
+
+256
+00:09:11,248 --> 00:09:14,460
+federal rules have required backup cameras on
+
+257
+00:09:14,460 --> 00:09:17,030
+new vehicles, so a camera that fails
+
+258
+00:09:17,030 --> 00:09:18,386
+is a safety recall,
+
+259
+00:09:18,386 --> 00:09:19,814
+not a comfort issue.
+
+260
+00:09:20,163 --> 00:09:22,416
+The fix was a free software update
+
+261
+00:09:22,416 --> 00:09:24,471
+to the parking assist computer.
+
+262
+00:09:24,651 --> 00:09:27,500
+But the Tundra's bigger recall story started
+
+263
+00:09:27,500 --> 00:09:28,018
+earlier.
+
+264
+00:09:28,198 --> 00:09:29,750
+In twenty twenty-four,
+
+265
+00:09:29,750 --> 00:09:33,207
+Toyota recalled about one hundred thousand twenty
+
+266
+00:09:33,207 --> 00:09:36,876
+twenty-two and twenty twenty-three Tundras and about
+
+267
+00:09:36,876 --> 00:09:39,699
+three thousand five hundred Lexus LX six
+
+268
+00:09:39,699 --> 00:09:43,085
+hundreds, because machining debris may have been
+
+269
+00:09:43,085 --> 00:09:44,708
+left inside the engine,
+
+270
+00:09:44,708 --> 00:09:46,613
+which could cause knocking,
+
+271
+00:09:46,613 --> 00:09:48,589
+rough running, and stalling,
+
+272
+00:09:48,589 --> 00:09:50,988
+according to the Associated Press.
+
+273
+00:09:51,337 --> 00:09:52,765
+And here is the twist.
+
+274
+00:09:52,945 --> 00:09:55,501
+Toyota's remedy for that one was to
+
+275
+00:09:55,501 --> 00:09:58,642
+replace the entire engine on every affected
+
+276
+00:09:58,642 --> 00:10:00,248
+truck, free of charge.
+
+277
+00:10:00,428 --> 00:10:01,171
+Not a part.
+
+278
+00:10:01,351 --> 00:10:02,454
+Not an inspection.
+
+279
+00:10:02,634 --> 00:10:03,702
+A whole engine.
+
+280
+00:10:03,882 --> 00:10:06,506
+Toyota did not say what it cost.
+
+281
+00:10:06,686 --> 00:10:09,147
+For comparison, keep that in mind for
+
+282
+00:10:09,147 --> 00:10:11,941
+number five, because another company had a
+
+283
+00:10:11,941 --> 00:10:13,471
+similar engine problem,
+
+284
+00:10:13,471 --> 00:10:15,533
+and chose a very different fix.
+
+285
+00:10:15,882 --> 00:10:17,635
+Before we get to the top five,
+
+286
+00:10:17,635 --> 00:10:19,914
+let's pause on something the first five
+
+287
+00:10:19,914 --> 00:10:21,258
+recalls have in common.
+
+288
+00:10:21,438 --> 00:10:23,346
+Every one of them was a physical
+
+289
+00:10:23,346 --> 00:10:23,644
+part.
+
+290
+00:10:23,824 --> 00:10:25,857
+A bolt, a battery cell,
+
+291
+00:10:25,857 --> 00:10:27,801
+a driveshaft, a panel,
+
+292
+00:10:27,801 --> 00:10:29,304
+a camera display.
+
+293
+00:10:29,484 --> 00:10:31,510
+None of them could be solved by
+
+294
+00:10:31,510 --> 00:10:33,863
+sending code to the truck overnight,
+
+295
+00:10:33,863 --> 00:10:35,498
+except the Tundra camera.
+
+296
+00:10:35,678 --> 00:10:37,949
+Now watch what happens as the numbers
+
+297
+00:10:37,949 --> 00:10:40,098
+get bigger, because the top of this
+
+298
+00:10:40,098 --> 00:10:42,063
+list looks completely different.
+
+299
+00:10:42,413 --> 00:10:45,262
+Number five is the General Motors six
+
+300
+00:10:45,262 --> 00:10:46,725
+point two liter V8,
+
+301
+00:10:46,725 --> 00:10:48,188
+the L eighty-seven,
+
+302
+00:10:48,188 --> 00:10:51,191
+used in the Chevrolet Silverado and GMC
+
+303
+00:10:51,191 --> 00:10:52,961
+Sierra fifteen hundred,
+
+304
+00:10:52,961 --> 00:10:54,116
+plus the Tahoe,
+
+305
+00:10:54,116 --> 00:10:57,042
+Suburban, Yukon and Cadillac Escalade.
+
+306
+00:10:57,222 --> 00:10:58,759
+In twenty twenty-five,
+
+307
+00:10:58,759 --> 00:11:01,694
+GM recalled nearly six hundred thousand of
+
+308
+00:11:01,694 --> 00:11:04,209
+these vehicles in the United States,
+
+309
+00:11:04,209 --> 00:11:07,143
+under recall twenty-five V two seven four,
+
+310
+00:11:07,143 --> 00:11:08,960
+according to GM Authority.
+
+311
+00:11:09,140 --> 00:11:11,680
+The engines involved were built from March
+
+312
+00:11:11,680 --> 00:11:14,341
+twenty twenty-one to May twenty twenty-four.
+
+313
+00:11:14,690 --> 00:11:16,571
+The defect was in the heart of
+
+314
+00:11:16,571 --> 00:11:19,016
+the engine, the connecting rods and the
+
+315
+00:11:19,016 --> 00:11:19,706
+crankshaft.
+
+316
+00:11:19,886 --> 00:11:22,792
+Contamination could damage the rod bearings,
+
+317
+00:11:22,792 --> 00:11:25,302
+and some crankshafts may have been out
+
+318
+00:11:25,302 --> 00:11:27,943
+of specification or improperly finished.
+
+319
+00:11:28,123 --> 00:11:30,550
+The worst case was a seized engine
+
+320
+00:11:30,550 --> 00:11:32,477
+and a sudden loss of power.
+
+321
+00:11:32,657 --> 00:11:35,018
+GM estimated about three percent of the
+
+322
+00:11:35,018 --> 00:11:36,895
+engines would need replacement.
+
+323
+00:11:37,244 --> 00:11:39,729
+Now compare the fix with Toyota's.
+
+324
+00:11:39,909 --> 00:11:43,151
+For engines that passed GM's inspection,
+
+325
+00:11:43,151 --> 00:11:45,907
+the remedy was to change from zero
+
+326
+00:11:45,907 --> 00:11:48,338
+W twenty oil to a thicker zero
+
+327
+00:11:48,338 --> 00:11:49,311
+W forty oil,
+
+328
+00:11:49,311 --> 00:11:52,067
+and replace the oil filter and oil
+
+329
+00:11:52,067 --> 00:11:52,796
+fill cap.
+
+330
+00:11:52,976 --> 00:11:55,205
+Toyota replaced every engine.
+
+331
+00:11:55,385 --> 00:11:58,374
+GM replaced the ones that failed inspection
+
+332
+00:11:58,374 --> 00:12:00,598
+and changed the oil in the rest.
+
+333
+00:12:00,778 --> 00:12:03,669
+Two companies, two very different decisions.
+
+334
+00:12:04,019 --> 00:12:05,898
+And here is the twist that makes
+
+335
+00:12:05,898 --> 00:12:07,954
+this one of the defining recalls of
+
+336
+00:12:07,954 --> 00:12:09,011
+twenty twenty-six.
+
+337
+00:12:09,191 --> 00:12:10,644
+On August twentieth,
+
+338
+00:12:10,644 --> 00:12:14,349
+twenty twenty-six, the federal safety agency opened
+
+339
+00:12:14,349 --> 00:12:17,619
+engineering analysis E A twenty-six zero zero
+
+340
+00:12:17,619 --> 00:12:21,252
+five, covering nine hundred ninety-seven thousand,
+
+341
+00:12:21,252 --> 00:12:25,393
+seven hundred forty-three vehicles from twenty twenty-one
+
+342
+00:12:25,393 --> 00:12:26,919
+to twenty twenty-six.
+
+343
+00:12:27,099 --> 00:12:31,031
+GM Authority counted four hundred ninety-nine complaints
+
+344
+00:12:31,031 --> 00:12:33,980
+of engine failure after the recall repair,
+
+345
+00:12:33,980 --> 00:12:36,999
+plus one hundred ninety-one more on engines
+
+346
+00:12:36,999 --> 00:12:38,895
+outside the original dates.
+
+347
+00:12:39,244 --> 00:12:40,707
+Those are complaints,
+
+348
+00:12:40,707 --> 00:12:42,310
+not confirmed failures.
+
+349
+00:12:42,490 --> 00:12:43,507
+But for an owner,
+
+350
+00:12:43,507 --> 00:12:45,601
+this is the hardest kind of recall.
+
+351
+00:12:45,781 --> 00:12:47,221
+You did everything right.
+
+352
+00:12:47,401 --> 00:12:48,585
+You took the truck in.
+
+353
+00:12:48,765 --> 00:12:49,926
+You got the fix.
+
+354
+00:12:50,106 --> 00:12:52,971
+And now regulators are asking whether the
+
+355
+00:12:52,971 --> 00:12:53,670
+fix works.
+
+356
+00:12:53,850 --> 00:12:55,741
+If you own or are buying one
+
+357
+00:12:55,741 --> 00:12:56,821
+of these trucks,
+
+358
+00:12:56,821 --> 00:12:59,455
+keep every oil change receipt and every
+
+359
+00:12:59,455 --> 00:13:00,468
+service record.
+
+360
+00:13:00,648 --> 00:13:03,307
+If this investigation turns into a new
+
+361
+00:13:03,307 --> 00:13:05,756
+remedy, that paperwork will matter.
+
+362
+00:13:06,106 --> 00:13:08,231
+Number four is not one recall.
+
+363
+00:13:08,411 --> 00:13:09,305
+It is a wave.
+
+364
+00:13:09,485 --> 00:13:11,059
+In twenty twenty-five,
+
+365
+00:13:11,059 --> 00:13:13,992
+Ford recalled about one point one million
+
+366
+00:13:13,992 --> 00:13:17,425
+vehicles because the rearview camera image could
+
+367
+00:13:17,425 --> 00:13:18,928
+freeze or be delayed,
+
+368
+00:13:18,928 --> 00:13:21,932
+and more than eight hundred fifty thousand
+
+369
+00:13:21,932 --> 00:13:24,150
+vehicles, including the Bronco,
+
+370
+00:13:24,150 --> 00:13:26,081
+Expedition and F-two fifty,
+
+371
+00:13:26,081 --> 00:13:28,728
+for a low-pressure fuel pump problem,
+
+372
+00:13:28,728 --> 00:13:30,302
+according to Autoblog.
+
+373
+00:13:30,482 --> 00:13:32,632
+Then on October twenty-second,
+
+374
+00:13:32,632 --> 00:13:36,861
+twenty twenty-five, Reuters reported another camera recall,
+
+375
+00:13:36,861 --> 00:13:39,728
+nearly one point four five million older
+
+376
+00:13:39,728 --> 00:13:40,373
+vehicles.
+
+377
+00:13:40,723 --> 00:13:42,259
+According to Reuters,
+
+378
+00:13:42,259 --> 00:13:44,819
+Ford knew of about twelve thousand,
+
+379
+00:13:44,819 --> 00:13:47,744
+five hundred warranty claims tied to the
+
+380
+00:13:47,744 --> 00:13:50,011
+camera issue, and five crashes,
+
+381
+00:13:50,011 --> 00:13:51,254
+with no injuries.
+
+382
+00:13:51,434 --> 00:13:52,747
+In the month before,
+
+383
+00:13:52,747 --> 00:13:55,374
+Ford had recalled one point nine million
+
+384
+00:13:55,374 --> 00:13:57,935
+vehicles worldwide for camera problems.
+
+385
+00:13:58,115 --> 00:13:59,779
+And earlier in October,
+
+386
+00:13:59,779 --> 00:14:03,180
+about six hundred twenty-five thousand more for
+
+387
+00:14:03,180 --> 00:14:05,785
+another camera issue and a seat belt
+
+388
+00:14:05,785 --> 00:14:06,219
+issue.
+
+389
+00:14:06,399 --> 00:14:08,489
+The camera story just kept growing.
+
+390
+00:14:08,839 --> 00:14:10,963
+Here is the twist for truck owners.
+
+391
+00:14:11,143 --> 00:14:14,494
+The October recall itself covered cars and
+
+392
+00:14:14,494 --> 00:14:16,408
+SUVs, like the Explorer,
+
+393
+00:14:16,408 --> 00:14:18,562
+the Escape and the Mustang.
+
+394
+00:14:18,742 --> 00:14:21,855
+But Ford also extended rear camera coverage
+
+395
+00:14:21,855 --> 00:14:24,462
+on millions of other vehicles with a
+
+396
+00:14:24,462 --> 00:14:28,227
+fifteen-year warranty program covering more than two
+
+397
+00:14:28,227 --> 00:14:31,702
+dozen models, including twenty fifteen to twenty
+
+398
+00:14:31,702 --> 00:14:33,150
+twenty F-150 trucks,
+
+399
+00:14:33,150 --> 00:14:34,671
+according to Reuters.
+
+400
+00:14:34,851 --> 00:14:36,988
+If you own one of those F-150s,
+
+401
+00:14:36,988 --> 00:14:39,608
+you may have camera coverage you never
+
+402
+00:14:39,608 --> 00:14:40,435
+heard about.
+
+403
+00:14:40,785 --> 00:14:43,006
+And this did not start in twenty
+
+404
+00:14:43,006 --> 00:14:43,839
+twenty-five.
+
+405
+00:14:44,019 --> 00:14:47,558
+Reuters reported that in November twenty twenty-four,
+
+406
+00:14:47,558 --> 00:14:50,163
+Ford agreed to a one hundred sixty-five
+
+407
+00:14:50,163 --> 00:14:52,100
+million dollar civil penalty,
+
+408
+00:14:52,100 --> 00:14:54,771
+after the federal safety agency found it
+
+409
+00:14:54,771 --> 00:14:57,709
+had failed to recall vehicles with defective
+
+410
+00:14:57,709 --> 00:14:59,379
+rearview cameras on time.
+
+411
+00:14:59,559 --> 00:15:01,853
+In January twenty twenty-five,
+
+412
+00:15:01,853 --> 00:15:04,836
+the agency asked Ford about more camera
+
+413
+00:15:04,836 --> 00:15:05,677
+complaints.
+
+414
+00:15:05,857 --> 00:15:08,337
+By September, the two sides agreed on
+
+415
+00:15:08,337 --> 00:15:10,951
+a plan covering every twenty fifteen to
+
+416
+00:15:10,951 --> 00:15:14,100
+twenty twenty-five vehicle with analog cameras.
+
+417
+00:15:14,450 --> 00:15:16,368
+Here is why the Ford camera saga
+
+418
+00:15:16,368 --> 00:15:18,465
+matters even if you never owned one
+
+419
+00:15:18,465 --> 00:15:19,303
+of those cars.
+
+420
+00:15:19,483 --> 00:15:21,968
+It shows how a recall can grow.
+
+421
+00:15:22,148 --> 00:15:23,831
+It started with complaints,
+
+422
+00:15:23,831 --> 00:15:25,452
+became a federal question,
+
+423
+00:15:25,452 --> 00:15:26,823
+turned into a penalty,
+
+424
+00:15:26,823 --> 00:15:28,943
+and ended with a deal that covered
+
+425
+00:15:28,943 --> 00:15:30,252
+a decade of vehicles.
+
+426
+00:15:30,432 --> 00:15:32,445
+When you see a few complaints about
+
+427
+00:15:32,445 --> 00:15:33,999
+a part on your truck today,
+
+428
+00:15:33,999 --> 00:15:35,897
+that may be the very beginning of
+
+429
+00:15:35,897 --> 00:15:36,875
+the same process.
+
+430
+00:15:37,225 --> 00:15:39,667
+Number three is the Ford F-150,
+
+431
+00:15:39,667 --> 00:15:42,659
+and a problem that every driver fears.
+
+432
+00:15:42,839 --> 00:15:44,300
+On April fourteenth,
+
+433
+00:15:44,300 --> 00:15:47,589
+twenty twenty-six, Ford recalled one million,
+
+434
+00:15:47,589 --> 00:15:50,073
+three hundred ninety-two thousand,
+
+435
+00:15:50,073 --> 00:15:53,654
+nine hundred thirty-five twenty fifteen to twenty
+
+436
+00:15:53,654 --> 00:15:57,526
+seventeen F-150s, because the transmission could make
+
+437
+00:15:57,526 --> 00:15:59,280
+an unexpected downshift,
+
+438
+00:15:59,280 --> 00:16:01,765
+which can cause a loss of control,
+
+439
+00:16:01,765 --> 00:16:03,226
+according to Motor1.
+
+440
+00:16:03,406 --> 00:16:06,755
+A separate recall covered forty-four thousand,
+
+441
+00:16:06,755 --> 00:16:10,468
+nine hundred sixty-three twenty fourteen F-150s for
+
+442
+00:16:10,468 --> 00:16:12,288
+the same kind of problem.
+
+443
+00:16:12,638 --> 00:16:15,273
+Imagine you are driving at highway speed,
+
+444
+00:16:15,273 --> 00:16:17,844
+and the transmission suddenly drops to a
+
+445
+00:16:17,844 --> 00:16:18,872
+much lower gear.
+
+446
+00:16:19,052 --> 00:16:21,472
+The rear wheels can lose grip,
+
+447
+00:16:21,472 --> 00:16:24,052
+especially on a wet road or with
+
+448
+00:16:24,052 --> 00:16:25,101
+an empty bed.
+
+449
+00:16:25,281 --> 00:16:28,183
+That is the scenario this recall addresses.
+
+450
+00:16:28,363 --> 00:16:30,387
+And the twist is that these trucks
+
+451
+00:16:30,387 --> 00:16:32,113
+are nine to twelve years old.
+
+452
+00:16:32,293 --> 00:16:35,043
+Many of them have changed hands several
+
+453
+00:16:35,043 --> 00:16:37,299
+times, and a used buyer may have
+
+454
+00:16:37,299 --> 00:16:39,132
+no idea the recall exists.
+
+455
+00:16:39,481 --> 00:16:41,579
+That is the biggest hidden lesson in
+
+456
+00:16:41,579 --> 00:16:42,570
+this whole video.
+
+457
+00:16:42,750 --> 00:16:45,258
+Recall letters go to the registered owner.
+
+458
+00:16:45,438 --> 00:16:47,451
+If you bought a used truck from
+
+459
+00:16:47,451 --> 00:16:48,555
+a private seller,
+
+460
+00:16:48,555 --> 00:16:49,984
+or the address is old,
+
+461
+00:16:49,984 --> 00:16:51,997
+the letter may never reach you.
+
+462
+00:16:52,177 --> 00:16:55,326
+The federal recall website lets anyone enter
+
+463
+00:16:55,326 --> 00:16:57,259
+a VIN for free and see open
+
+464
+00:16:57,259 --> 00:16:59,120
+recalls in about a minute.
+
+465
+00:16:59,300 --> 00:17:01,485
+Before you buy any used truck,
+
+466
+00:17:01,485 --> 00:17:02,504
+do that first.
+
+467
+00:17:02,684 --> 00:17:03,751
+Now number two,
+
+468
+00:17:03,751 --> 00:17:05,955
+a recall that was hiding in the
+
+469
+00:17:05,955 --> 00:17:06,666
+back seat.
+
+470
+00:17:07,017 --> 00:17:09,710
+Number two is the Ram fifteen hundred.
+
+471
+00:17:09,890 --> 00:17:11,022
+On August third,
+
+472
+00:17:11,022 --> 00:17:14,703
+twenty twenty-six, Stellantis recalled more than one
+
+473
+00:17:14,703 --> 00:17:17,392
+and a half million Ram fifteen hundred
+
+474
+00:17:17,392 --> 00:17:20,790
+pickups, from the twenty nineteen through twenty
+
+475
+00:17:20,790 --> 00:17:22,417
+twenty-six model years,
+
+476
+00:17:22,417 --> 00:17:24,611
+as reported by Fox and Reuters.
+
+477
+00:17:24,791 --> 00:17:27,516
+About one point two seven million were
+
+478
+00:17:27,516 --> 00:17:29,022
+in the United States,
+
+479
+00:17:29,022 --> 00:17:31,961
+one hundred fifty-six thousand in Canada,
+
+480
+00:17:31,961 --> 00:17:33,897
+fifteen thousand in Mexico,
+
+481
+00:17:33,897 --> 00:17:37,052
+and roughly seventy-five thousand elsewhere.
+
+482
+00:17:37,401 --> 00:17:39,557
+The problem was a rear seat belt
+
+483
+00:17:39,557 --> 00:17:42,453
+buckle anchor, for the second-row center or
+
+484
+00:17:42,453 --> 00:17:45,147
+driver-side seat, that may not have been
+
+485
+00:17:45,147 --> 00:17:47,572
+properly attached to the body frame.
+
+486
+00:17:47,752 --> 00:17:49,633
+A passenger would never know.
+
+487
+00:17:49,813 --> 00:17:51,368
+The belt clicks normally.
+
+488
+00:17:51,548 --> 00:17:52,555
+But in a crash,
+
+489
+00:17:52,555 --> 00:17:54,768
+an anchor that is not secured may
+
+490
+00:17:54,768 --> 00:17:55,774
+not do its job.
+
+491
+00:17:55,954 --> 00:17:58,536
+Stellantis said it was aware of one
+
+492
+00:17:58,536 --> 00:17:59,716
+possible injury.
+
+493
+00:17:59,896 --> 00:18:02,020
+The remedy is an inspection,
+
+494
+00:18:02,020 --> 00:18:04,598
+and a proper attachment if needed.
+
+495
+00:18:04,948 --> 00:18:06,307
+Here is the twist.
+
+496
+00:18:06,487 --> 00:18:09,699
+This recall covers the entire current generation
+
+497
+00:18:09,699 --> 00:18:11,505
+of the Ram fifteen hundred,
+
+498
+00:18:11,505 --> 00:18:12,710
+eight model years.
+
+499
+00:18:12,890 --> 00:18:14,665
+It is one of the most popular
+
+500
+00:18:14,665 --> 00:18:16,440
+family trucks in the country,
+
+501
+00:18:16,440 --> 00:18:18,277
+with a big crew cab back seat.
+
+502
+00:18:18,457 --> 00:18:20,720
+So this is not a recall about
+
+503
+00:18:20,720 --> 00:18:23,530
+a worker's tool or a towing feature.
+
+504
+00:18:23,710 --> 00:18:25,288
+It is about the kids in the
+
+505
+00:18:25,288 --> 00:18:25,580
+back.
+
+506
+00:18:25,760 --> 00:18:27,412
+And it only gets fixed if the
+
+507
+00:18:27,412 --> 00:18:28,836
+owner takes the truck in.
+
+508
+00:18:29,186 --> 00:18:32,109
+Ram trucks also had smaller recalls that
+
+509
+00:18:32,109 --> 00:18:34,156
+show how modern trucks fail.
+
+510
+00:18:34,336 --> 00:18:36,498
+In November twenty twenty-four,
+
+511
+00:18:36,498 --> 00:18:38,939
+Ram recalled thirty-three thousand,
+
+512
+00:18:38,939 --> 00:18:42,985
+seven hundred seventy-seven twenty twenty-five Ram fifteen
+
+513
+00:18:42,985 --> 00:18:46,542
+hundreds because damaged wheel bearing coding rings
+
+514
+00:18:46,542 --> 00:18:49,541
+could disable electronic stability control,
+
+515
+00:18:49,541 --> 00:18:51,983
+according to Auto one twenty-three.
+
+516
+00:18:52,163 --> 00:18:54,792
+Only about one percent were thought to
+
+517
+00:18:54,792 --> 00:18:55,622
+be affected.
+
+518
+00:18:55,802 --> 00:18:56,760
+A tiny ring,
+
+519
+00:18:56,760 --> 00:18:58,356
+damaged in handling,
+
+520
+00:18:58,356 --> 00:19:01,468
+could switch off a major safety system.
+
+521
+00:19:01,819 --> 00:19:02,806
+And number one,
+
+522
+00:19:02,806 --> 00:19:05,243
+the biggest truck recall of these two
+
+523
+00:19:05,243 --> 00:19:05,638
+years.
+
+524
+00:19:05,818 --> 00:19:07,370
+On February twentieth,
+
+525
+00:19:07,370 --> 00:19:10,615
+twenty twenty-six, Ford recalled four million,
+
+526
+00:19:10,615 --> 00:19:13,013
+three hundred eighty-one thousand,
+
+527
+00:19:13,013 --> 00:19:15,623
+eight hundred seventy-eight vehicles,
+
+528
+00:19:15,623 --> 00:19:17,033
+according to Motor1.
+
+529
+00:19:17,213 --> 00:19:20,627
+It covered the twenty twenty-one to twenty
+
+530
+00:19:20,627 --> 00:19:24,609
+twenty-six F-150, the twenty twenty-two to twenty
+
+531
+00:19:24,609 --> 00:19:27,453
+twenty-six Super Duty and Maverick,
+
+532
+00:19:27,453 --> 00:19:31,598
+the twenty twenty-four to twenty twenty-six Ranger,
+
+533
+00:19:31,598 --> 00:19:33,224
+plus the Expedition,
+
+534
+00:19:33,224 --> 00:19:36,474
+the E-Transit and the Lincoln Navigator.
+
+535
+00:19:36,824 --> 00:19:39,286
+The problem was communication with a trailer.
+
+536
+00:19:39,466 --> 00:19:42,144
+According to the federal safety agency,
+
+537
+00:19:42,144 --> 00:19:43,860
+as reported by SlashGear,
+
+538
+00:19:43,860 --> 00:19:46,813
+the trailer's brake lights and turn signals
+
+539
+00:19:46,813 --> 00:19:50,040
+could malfunction, and the trailer brakes could
+
+540
+00:19:50,040 --> 00:19:51,482
+become nonfunctional.
+
+541
+00:19:51,662 --> 00:19:52,613
+On a truck,
+
+542
+00:19:52,613 --> 00:19:53,996
+that is serious.
+
+543
+00:19:54,176 --> 00:19:56,172
+A trailer with no brake lights is
+
+544
+00:19:56,172 --> 00:19:58,290
+invisible to the driver behind you,
+
+545
+00:19:58,290 --> 00:20:00,710
+and a trailer without brakes pushes your
+
+546
+00:20:00,710 --> 00:20:01,920
+truck when you stop.
+
+547
+00:20:02,269 --> 00:20:03,535
+Now the twist.
+
+548
+00:20:03,715 --> 00:20:06,297
+The biggest truck recall in years was
+
+549
+00:20:06,297 --> 00:20:08,041
+fixed mostly by software,
+
+550
+00:20:08,041 --> 00:20:09,297
+sent over the air,
+
+551
+00:20:09,297 --> 00:20:10,693
+according to Motor1.
+
+552
+00:20:10,873 --> 00:20:12,563
+That is why it could be so
+
+553
+00:20:12,563 --> 00:20:12,823
+big.
+
+554
+00:20:13,003 --> 00:20:15,310
+One piece of code ran on seven
+
+555
+00:20:15,310 --> 00:20:18,386
+different models, across several plants,
+
+556
+00:20:18,386 --> 00:20:21,385
+so one bug became four million recalls.
+
+557
+00:20:21,565 --> 00:20:24,421
+And SlashGear noted that this single recall
+
+558
+00:20:24,421 --> 00:20:26,745
+was many times larger than any Ford
+
+559
+00:20:26,745 --> 00:20:28,671
+recall of twenty twenty-five.
+
+560
+00:20:29,020 --> 00:20:30,604
+And here is the part that most
+
+561
+00:20:30,604 --> 00:20:31,342
+people missed.
+
+562
+00:20:31,522 --> 00:20:32,620
+The same month,
+
+563
+00:20:32,620 --> 00:20:35,840
+Ram's heavy-duty trucks had their own recall
+
+564
+00:20:35,840 --> 00:20:38,401
+for a trailer tow module that could
+
+565
+00:20:38,401 --> 00:20:41,548
+make trailer lights fail and trailer brakes
+
+566
+00:20:41,548 --> 00:20:45,572
+stop working, covering four hundred fifty-six thousand,
+
+567
+00:20:45,572 --> 00:20:48,060
+two hundred eighty-seven vehicles,
+
+568
+00:20:48,060 --> 00:20:51,426
+according to federal campaign data compiled by
+
+569
+00:20:51,426 --> 00:20:52,304
+Lemberg Law.
+
+570
+00:20:52,484 --> 00:20:54,654
+Two rivals, the same weak point,
+
+571
+00:20:54,654 --> 00:20:55,874
+in the same month.
+
+572
+00:20:56,054 --> 00:20:59,221
+Trailer electronics became the recall story of
+
+573
+00:20:59,221 --> 00:21:00,873
+early twenty twenty-six.
+
+574
+00:21:01,222 --> 00:21:03,193
+Put the top three side by side
+
+575
+00:21:03,193 --> 00:21:05,163
+and you see the scale of these
+
+576
+00:21:05,163 --> 00:21:05,820
+two years.
+
+577
+00:21:06,000 --> 00:21:09,459
+One point four million F-150s for a
+
+578
+00:21:09,459 --> 00:21:10,447
+downshift.
+
+579
+00:21:10,627 --> 00:21:12,865
+One and a half million Rams for
+
+580
+00:21:12,865 --> 00:21:14,237
+a seat belt anchor.
+
+581
+00:21:14,417 --> 00:21:16,962
+Four point four million Fords for trailer
+
+582
+00:21:16,962 --> 00:21:17,831
+communication.
+
+583
+00:21:18,011 --> 00:21:21,835
+Together, about seven point three million vehicles,
+
+584
+00:21:21,835 --> 00:21:23,485
+in just three recalls,
+
+585
+00:21:23,485 --> 00:21:25,360
+all in twenty twenty-six.
+
+586
+00:21:25,540 --> 00:21:27,884
+That is roughly nine years of F-Series
+
+587
+00:21:27,884 --> 00:21:30,352
+sales, at the twenty twenty-five pace of
+
+588
+00:21:30,352 --> 00:21:33,005
+about eight hundred thousand trucks a year.
+
+589
+00:21:33,355 --> 00:21:35,706
+So what do these ten recalls tell
+
+590
+00:21:35,706 --> 00:21:35,920
+us?
+
+591
+00:21:36,100 --> 00:21:37,238
+Three patterns.
+
+592
+00:21:37,418 --> 00:21:40,564
+First, software is now the biggest source
+
+593
+00:21:40,564 --> 00:21:41,792
+of mass recalls,
+
+594
+00:21:41,792 --> 00:21:44,708
+because the same code runs in millions
+
+595
+00:21:44,708 --> 00:21:45,475
+of trucks.
+
+596
+00:21:45,655 --> 00:21:47,406
+That makes recalls bigger,
+
+597
+00:21:47,406 --> 00:21:49,426
+but it also makes many of them
+
+598
+00:21:49,426 --> 00:21:50,369
+faster to fix.
+
+599
+00:21:50,549 --> 00:21:54,659
+Second, the scariest recalls are usually mechanical
+
+600
+00:21:54,659 --> 00:21:56,593
+and small, a driveshaft,
+
+601
+00:21:56,593 --> 00:21:57,479
+a toe link,
+
+602
+00:21:57,479 --> 00:21:58,688
+a battery cell.
+
+603
+00:21:58,868 --> 00:22:01,159
+Third, some of the hardest problems are
+
+604
+00:22:01,159 --> 00:22:03,039
+the ones where the fix itself is
+
+605
+00:22:03,039 --> 00:22:03,744
+in question.
+
+606
+00:22:04,094 --> 00:22:06,260
+And here is the twist that ties
+
+607
+00:22:06,260 --> 00:22:07,449
+all ten together.
+
+608
+00:22:07,629 --> 00:22:10,028
+Every one of these recalls was free
+
+609
+00:22:10,028 --> 00:22:10,508
+to fix.
+
+610
+00:22:10,688 --> 00:22:12,405
+The cost for an owner is not
+
+611
+00:22:12,405 --> 00:22:13,080
+the repair.
+
+612
+00:22:13,260 --> 00:22:14,200
+It is not knowing.
+
+613
+00:22:14,380 --> 00:22:16,547
+A truck with an open recall can
+
+614
+00:22:16,547 --> 00:22:19,064
+be sold, resold and driven for years
+
+615
+00:22:19,064 --> 00:22:20,742
+without anyone noticing.
+
+616
+00:22:20,922 --> 00:22:22,848
+Ford has even had to repeat some
+
+617
+00:22:22,848 --> 00:22:25,797
+recalls, because an internal audit found vehicles
+
+618
+00:22:25,797 --> 00:22:28,144
+recorded as repaired that never got the
+
+619
+00:22:28,144 --> 00:22:30,431
+remedy, according to Kelley Blue Book.
+
+620
+00:22:30,780 --> 00:22:32,870
+So before you buy any truck in
+
+621
+00:22:32,870 --> 00:22:35,378
+twenty twenty-seven, do four things.
+
+622
+00:22:35,558 --> 00:22:38,317
+Check the VIN on the federal recall
+
+623
+00:22:38,317 --> 00:22:38,948
+website.
+
+624
+00:22:39,128 --> 00:22:41,274
+Check it again on the brand's own
+
+625
+00:22:41,274 --> 00:22:42,054
+recall page.
+
+626
+00:22:42,234 --> 00:22:44,646
+Ask the dealer to print the service
+
+627
+00:22:44,646 --> 00:22:47,609
+history and show the completed recall work.
+
+628
+00:22:47,789 --> 00:22:49,787
+And if the truck is part of
+
+629
+00:22:49,787 --> 00:22:51,414
+an open investigation,
+
+630
+00:22:51,414 --> 00:22:53,338
+like the GM six point two,
+
+631
+00:22:53,338 --> 00:22:54,744
+keep every receipt.
+
+632
+00:22:54,924 --> 00:22:56,278
+We put this checklist,
+
+633
+00:22:56,278 --> 00:22:58,556
+and the dealer questions that go with
+
+634
+00:22:58,556 --> 00:23:01,265
+it, in the Twenty Twenty-Seven Truck Buyer's
+
+635
+00:23:01,265 --> 00:23:01,634
+Guide.
+
+636
+00:23:01,984 --> 00:23:04,064
+The link is in the description and
+
+637
+00:23:04,064 --> 00:23:05,409
+in the pinned comment.
+
+638
+00:23:05,589 --> 00:23:06,823
+If this helped you,
+
+639
+00:23:06,823 --> 00:23:09,290
+subscribe, because next we look at the
+
+640
+00:23:09,290 --> 00:23:11,497
+five engines you should avoid in a
+
+641
+00:23:11,497 --> 00:23:13,574
+used truck, and some of them are
+
+642
+00:23:13,574 --> 00:23:14,483
+in this video.
+
+643
+00:23:14,663 --> 00:23:16,708
+And tell us in the comments which
+
+644
+00:23:16,708 --> 00:23:18,320
+recall surprised you most.
+
+645
+00:23:18,500 --> 00:23:19,545
+Thanks for watching.
