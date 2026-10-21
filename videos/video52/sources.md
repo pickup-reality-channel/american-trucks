@@ -1,0 +1,6 @@
+- CarWhere, dealer add-on study (buyer quotes through June 2026): https://www.carwhere.com/research/studies/dealer-add-on-study
+- CarEdge, State of Dealer Fees 2026: https://caredge.com/reports/state-of-dealer-fees
+- Auto Remarketing, Edmunds Q3 2026 financing records: https://www.autoremarketing.com/?p=131431
+- Pickup Truck Talk, 2027 Ram TRX price and markups (Jan 2026): https://pickuptrucktalk.com/2026/01/2027-ram-trx-is-back-with-srt-badge-777-hp-supercharged-engine-100k-price/
+- ConsumerAffairs, FTC CARS Rule thrown out by appeals court: https://www.consumeraffairs.com/news/ftcs-cars-rule-thrown-out-by-appeals-court-020525.html
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
