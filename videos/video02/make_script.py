@@ -118,7 +118,7 @@ for idx, sc_ in enumerate(S):
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
 json.dump({"id": "video02",
-  "length_scale": 1.38, "title": "7 Electric Pickups Americans Stopped Buying (What Really Happened)", "scenes": S},
+  "length_scale": 1.42, "title": "7 Electric Pickups Americans Stopped Buying (What Really Happened)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
 print(len(S), "scenes", words, "words ~", round(words/150, 1), "min")

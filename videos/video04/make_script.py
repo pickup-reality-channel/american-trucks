@@ -105,7 +105,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video04", "length_scale": 1.5,
+json.dump({"id": "video04", "length_scale": 1.66,
   "title": "6 Truck Brands Winning and Losing the Sales War Right Now", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
