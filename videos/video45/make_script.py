@@ -106,6 +106,13 @@ sc("""And third, loyalty. The Nissan Titan was a good truck, but it could not pu
 sc("""And here is the final twist. Some of these flops paved the way for later success. The Baja and the El Camino idea came back as the Maverick. The luxury truck idea lives on in the King Ranch and the Denali. The electric truck idea is coming back as a range-extended hybrid. In the truck business, a failure is often just an idea that arrived at the wrong time or the wrong price.""",
    "Ford Maverick Lincoln Blackwood", "FAILURES PAVE THE WAY")
 
+sc("""There is a warning sign that many of these flops shared before they failed: discounts. When a truck needs big cash rebates soon after launch, it often means buyers are not convinced. According to CarEdge's October twenty twenty-six deal list, a twenty twenty-five Ford F-one-fifty Lightning carried eight thousand dollars cash back. Big discounts can be a great deal, but they can also be a signal.""",
+   "Ford F-150 Lightning dealership", "BIG REBATES CAN BE A SIGNAL")
+sc("""Another warning sign is a long list of delays. The Ram R E V was pushed back several times before it was cancelled. When a truck keeps slipping, the company is often struggling to make the numbers work. Buyers who put down deposits on delayed trucks should always know how to get their money back.""",
+   "Ram 1500 pickup", "DELAYS ARE A WARNING")
+sc("""And the last sign is a truck that tries to do something nobody asked for. The Blackwood, the S S R and the Baja all solved problems most truck buyers did not have. The trucks that succeed, like the Maverick, solve problems that millions of people already have: price, fuel and everyday usefulness.""",
+   "Chevrolet SSR Subaru Baja", "SOLVE A REAL PROBLEM")
+
 # ---------- CLOSE ----------
 sc("""So how do you avoid buying the next flop in twenty twenty-seven? First, check the sales trend of the exact model. A truck whose sales are falling fast, like the Santa Cruz or the Cybertruck, may face discounts now, but weaker resale later. Second, check whether it is still going to be built. A discontinued truck can lose value quickly.""",
    "pickup truck dealership", "CHECKS 1 AND 2: TREND, FUTURE")

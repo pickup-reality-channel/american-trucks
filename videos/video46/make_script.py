@@ -101,6 +101,17 @@ sc("""There is one more piece of the puzzle: price. For many young buyers, a new
 sc("""And here is the final twist. The new small trucks do not look like the old ones underneath. The Maverick is built like a crossover. The Slate is electric. The old compact pickup did not come back the way it left. It came back in the only shapes that today's rules and costs allow.""",
    "Ford Maverick pickup", "IT CAME BACK IN A NEW SHAPE")
 
+sc("""There is one more chapter in the small truck story: the used market. Because new small trucks disappeared for years, clean used Rangers, S-tens and old Toyota pickups became valuable. According to Hagerty, the nineteen eighty-four to eighty-eight Toyota Pickup four by four even became a Bull Market pick, with the number of these trucks on Hagerty policies quadrupling since twenty seventeen.""",
+   "Toyota pickup 1980s", "OLD SMALL TRUCKS GOT VALUABLE")
+sc("""That tells you how strong the demand for small trucks really is. When buyers cannot find a new one, they pay more for an old one. And it explains why the Maverick sold so quickly when it arrived. The demand had been building for a decade, with nowhere to go.""",
+   "Ford Ranger 1990s", "DEMAND WITH NOWHERE TO GO")
+sc("""There is also a lesson about regulations. Rules written for good reasons, like better fuel economy, can have side effects nobody planned. The footprint rule did not set out to kill small trucks, but it changed the math for every carmaker. Whenever you see a big change in what is for sale, it is worth asking what rule might be behind it.""",
+   "pickup trucks traffic", "RULES HAVE SIDE EFFECTS")
+sc("""And the future may bring new rules again. Fuel economy and emissions standards change with each administration, and tariffs on imported vehicles and parts shifted in twenty twenty-five and twenty twenty-six. Each change can make small trucks easier or harder to build and sell in America. The next chapter of this story will be written partly in Washington.""",
+   "US Capitol building", "THE NEXT CHAPTER: WASHINGTON")
+sc("""For buyers, the takeaway is simple. The small truck you can buy today is shaped by decisions made long before you walked into the dealer. Knowing that history helps you understand why prices and choices look the way they do, and helps you spot a real bargain when one appears.""",
+   "Ford Maverick dealership", "HISTORY EXPLAINS THE PRICE")
+
 # ---------- CLOSE ----------
 sc("""So if you want a smaller truck in twenty twenty-seven, here is what to check. First, measure your real needs. If you rarely tow more than a few thousand pounds, a small or midsize truck may do everything you need for much less money. Second, compare bed size and payload, not just the price. A short bed might not fit your gear.""",
    "Ford Maverick bed", "CHECKS 1 AND 2: NEEDS, BED")
@@ -118,7 +129,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video46", "length_scale": 1.5,
+json.dump({"id": "video46", "length_scale": 1.45,
   "title": "The Rise and Fall of the Small Truck in America (And the Rule That Killed It)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

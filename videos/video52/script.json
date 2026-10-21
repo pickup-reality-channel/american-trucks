@@ -1,6 +1,6 @@
 {
  "id": "video52",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "7 Dealer Tricks When Buying a Truck in 2026 (The Rule That Would Have Stopped Them Died)",
  "scenes": [
   {
@@ -268,6 +268,18 @@
    "text": "And that is why one question beats all seven: what is my out-the-door price? Ask it in writing, from several dealers, before you talk about payments, trade-ins or extras. Everything else is detail. The buyer who controls the total controls the deal.",
    "query": "Ford F-150 Chevrolet Silverado dealer",
    "caption": "ONE QUESTION BEATS THEM ALL",
+   "cuts": 3
+  },
+  {
+   "text": "And a final note on timing your visit. Dealers are busiest on weekends, when salespeople juggle several buyers and decisions are rushed. A weekday visit, with an appointment and your written quotes in hand, usually means a calmer conversation and more attention. A calm buyer makes better decisions.",
+   "query": "car dealership weekday",
+   "caption": "VISIT ON A WEEKDAY",
+   "cuts": 3
+  },
+  {
+   "text": "Bring a friend if you can. A second person can notice things you miss, ask questions you forget, and remind you of your limits when the pressure rises. Many dealer tricks work because buyers are tired and alone at the end of a long day. Do not give them that advantage.",
+   "query": "two people car dealership",
+   "caption": "BRING A FRIEND",
    "cuts": 3
   },
   {

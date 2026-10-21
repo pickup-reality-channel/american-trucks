@@ -1,6 +1,6 @@
 {
  "id": "video54",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "Why Truck Insurance Costs So Much in 2026 (And the $4,111 Surprise)",
  "scenes": [
   {
@@ -280,6 +280,18 @@
    "text": "And here is the final twist. The biggest factor in your premium is not on any list in this video. It is you: your age, your driving record, your credit in many states, and where you park at night. The same truck can cost one driver half as much to insure as another. That is why your own quote is the only number that really matters.",
    "query": "driver pickup truck",
    "caption": "THE BIGGEST FACTOR IS YOU",
+   "cuts": 3
+  },
+  {
+   "text": "And here is one more money tip. When you finish paying off a truck, review whether you still need full coverage. An older truck with a lower value may not be worth insuring for collision damage. Dropping coverage you no longer need can save hundreds of dollars a year, though you should only do it if you can afford to repair or replace the truck yourself.",
+   "query": "old pickup truck",
+   "caption": "PAID OFF? REVIEW COVERAGE",
+   "cuts": 3
+  },
+  {
+   "text": "And keep a clean record. A single at-fault accident or a speeding ticket can raise your premium for several years. For truck owners, careful driving is not just about safety. It is one of the biggest long-term savings you can control.",
+   "query": "pickup truck highway driving",
+   "caption": "A CLEAN RECORD SAVES MONEY",
    "cuts": 3
   },
   {

@@ -105,6 +105,13 @@ sc("""So what do these five have in common? Each one changed who a pickup was fo
 sc("""And here is the final twist. The biggest changes in pickup history did not come from making trucks bigger or more powerful. They came from reaching people who were not being served. The cheapest truck in nineteen twenty-five. The car-like truck in nineteen fifty-seven. The small hybrid truck in twenty twenty-two. The next truck to change America will probably do the same.""",
    "Ford Maverick Ford Model T", "THE NEXT ONE WILL DO THE SAME")
 
+sc("""One more pickup deserves a mention for changing how Americans work: the crew cab. Four full doors and a full back seat turned the pickup into a true family vehicle. Today, most full-size pickups sold are crew cabs, and the cheapest regular cab trucks are disappearing. That shift is one reason the average pickup now costs so much more than it once did.""",
+   "pickup truck crew cab", "THE CREW CAB CHANGED EVERYTHING")
+sc("""And the diesel pickup changed towing. When heavy-duty pickups got strong diesel engines, families could tow large campers and horse trailers without a commercial truck. A whole lifestyle of road trips and weekend shows grew around that ability. The pickup became the vehicle that makes other hobbies possible.""",
+   "pickup truck towing camper", "THE TRUCK THAT ENABLES HOBBIES")
+sc("""Every one of these changes followed the same path. A truck reached a new kind of buyer, other companies copied it, and the market changed for good. If you want to guess the next big change, look for the buyers today's trucks are leaving out. That is where the next pickup that changes America will come from.""",
+   "Ford Maverick pickup", "WHO IS BEING LEFT OUT?")
+
 # ---------- CLOSE ----------
 sc("""So what does this mean if you are buying a truck in twenty twenty-seven? First, buy for your real needs. Many people who buy a full-size truck rarely tow or haul heavy loads. If that is you, a smaller truck like the Maverick may save you thousands, just like it did for the buyers who made it a hit.""",
    "Ford Maverick Ford F-150", "CHECK 1: YOUR REAL NEEDS")

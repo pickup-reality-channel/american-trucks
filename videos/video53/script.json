@@ -1,6 +1,6 @@
 {
  "id": "video53",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "How to Negotiate a New Truck Price in 2026 (8 Steps Dealers Hope You Skip)",
  "scenes": [
   {
@@ -275,6 +275,18 @@
    "text": "And here is the final twist. Negotiating is not about being aggressive. The best negotiators are calm, polite and prepared. They ask clear questions, they compare real offers, and they are willing to leave. In twenty twenty-six, with record payments and long loans, that preparation is worth more than ever.",
    "query": "friendly handshake car",
    "caption": "CALM, POLITE, PREPARED",
+   "cuts": 3
+  },
+  {
+   "text": "And do not forget the extras that should come with the truck. Ask for two keys, all the floor mats, the owner's manual and any accessories shown in the photos. Make sure any promised repair or item is written on the contract. These small items cost money to replace, and they are easiest to get before you sign.",
+   "query": "truck keys floor mats",
+   "caption": "GET THE EXTRAS IN WRITING",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, inspect the truck before you sign. Walk around it in good light, check for scratches or dents, and make sure the options match the window sticker. Once you drive away, it becomes much harder to prove a problem came from the dealer lot.",
+   "query": "pickup truck inspection",
+   "caption": "INSPECT BEFORE YOU SIGN",
    "cuts": 3
   },
   {

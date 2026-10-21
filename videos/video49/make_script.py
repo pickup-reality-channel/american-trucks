@@ -117,6 +117,11 @@ sc("""So what does the list tell us? First, the cheapest trucks in America are s
 sc("""And the final twist. In nineteen twenty-five, according to The Henry Ford, Ford's Model T pickup cost two hundred eighty-one dollars, and it was built so working people could afford it. One hundred years later, the cheapest pickup costs about twenty-nine thousand. The idea of the affordable truck is not dead. But it is fighting for space in a market built around sixty-seven thousand dollar trucks.""",
    "Ford Model T pickup", "$281 IN 1925")
 
+sc("""One more thing to watch in twenty twenty-seven is tariffs. Some of the cheapest trucks on this list are built in Mexico, and tariffs on imported vehicles and parts changed several times in twenty twenty-five and twenty twenty-six. When tariffs change, entry prices can move quickly. A cheap truck today is not guaranteed to be the cheap truck next year.""",
+   "pickup trucks port", "TARIFFS CAN MOVE PRICES")
+sc("""And assembly location also matters for the new auto loan interest deduction. According to a January twenty twenty-six report, the deduction only applies to new vehicles with final assembly in the United States, bought for personal use. So two trucks with similar prices can have different real costs for a buyer who qualifies. Check the window sticker for the assembly plant.""",
+   "pickup truck assembly plant", "ASSEMBLY LOCATION MATTERS")
+
 # ---------- CLOSE ----------
 sc("""So how do you actually get a cheap truck in twenty twenty-seven? First, always compare prices including destination. A low headline price can hide a two to three thousand dollar fee. Second, ask about factory orders. If the base truck is not on the lot, ordering it can be the only way to pay the base price.""",
    "pickup truck window sticker", "CHECKS 1 AND 2: DESTINATION, ORDER")
@@ -136,7 +141,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video49", "length_scale": 1.4,
+json.dump({"id": "video49", "length_scale": 1.45,
   "title": "The 10 Cheapest New Trucks in America for 2026 (And the Traps Inside the Price)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

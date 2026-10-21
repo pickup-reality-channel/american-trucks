@@ -109,6 +109,11 @@ sc("""So what do all seven tricks have in common? They move your attention away 
 sc("""And that is why one question beats all seven: what is my out-the-door price? Ask it in writing, from several dealers, before you talk about payments, trade-ins or extras. Everything else is detail. The buyer who controls the total controls the deal.""",
    "Ford F-150 Chevrolet Silverado dealer", "ONE QUESTION BEATS THEM ALL")
 
+sc("""And a final note on timing your visit. Dealers are busiest on weekends, when salespeople juggle several buyers and decisions are rushed. A weekday visit, with an appointment and your written quotes in hand, usually means a calmer conversation and more attention. A calm buyer makes better decisions.""",
+   "car dealership weekday", "VISIT ON A WEEKDAY")
+sc("""Bring a friend if you can. A second person can notice things you miss, ask questions you forget, and remind you of your limits when the pressure rises. Many dealer tricks work because buyers are tired and alone at the end of a long day. Do not give them that advantage.""",
+   "two people car dealership", "BRING A FRIEND")
+
 # ---------- CLOSE ----------
 sc("""One more tool that works: walk away politely. Thank the salesperson, leave your phone number, and go. Many buyers find that the best offer arrives after they leave, by phone or email, once the dealer realizes the sale might be lost. Walking away is not rude. It is the strongest negotiating move a buyer has.""",
    "pickup truck parking lot", "THE POWER OF WALKING AWAY")
@@ -128,7 +133,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video52", "length_scale": 1.4,
+json.dump({"id": "video52", "length_scale": 1.45,
   "title": "7 Dealer Tricks When Buying a Truck in 2026 (The Rule That Would Have Stopped Them Died)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

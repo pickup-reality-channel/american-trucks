@@ -105,6 +105,11 @@ sc("""There is also a middle path. Some buyers finance a truck with a shorter lo
 sc("""And here is the final twist. The worst choice is not leasing or buying. It is stretching a loan to eighty-four months to afford a truck that is too expensive. According to Edmunds, twenty-one point two percent of new vehicle buyers who financed were paying one thousand dollars or more a month in the third quarter of twenty twenty-six. If the payment only works with a seven-year loan, the truck may simply cost too much.""",
    "pickup truck price sticker", "THE REAL MISTAKE: TOO MUCH TRUCK")
 
+sc("""One last consideration is the truck's warranty. Most leases end before the factory warranty runs out, so lessees rarely pay for major repairs. Owners who keep trucks for many years will eventually pay for repairs themselves. That is part of the cost of owning, and it is why reliability and a good maintenance history matter so much if you buy.""",
+   "pickup truck repair", "WARRANTY AND REPAIRS")
+sc("""If you buy and plan to keep the truck long term, set aside money each month for future maintenance and repairs, as if you were still making a small payment. When the big repair bill arrives, it will not hurt as much. That simple habit turns the payment-free years into real savings.""",
+   "savings jar money", "SAVE FOR FUTURE REPAIRS")
+
 # ---------- CLOSE ----------
 sc("""So here is your checklist before you decide. First, compare the total cost of both options over the time you plan to keep the truck, not just the monthly payment. Second, check your real yearly mileage. Third, check whether the truck is assembled in the U S and whether you qualify for the interest deduction, with a tax professional.""",
    "car buying checklist", "CHECKS 1, 2 AND 3")
@@ -122,7 +127,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video51", "length_scale": 1.4,
+json.dump({"id": "video51", "length_scale": 1.45,
   "title": "Lease vs Buy a Truck in 2027: The $10,000 Tax Twist Most Buyers Miss", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

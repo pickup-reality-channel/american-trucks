@@ -113,6 +113,11 @@ sc("""So what is the pattern behind all eight steps? Control the information. Th
 sc("""And here is the final twist. Negotiating is not about being aggressive. The best negotiators are calm, polite and prepared. They ask clear questions, they compare real offers, and they are willing to leave. In twenty twenty-six, with record payments and long loans, that preparation is worth more than ever.""",
    "friendly handshake car", "CALM, POLITE, PREPARED")
 
+sc("""And do not forget the extras that should come with the truck. Ask for two keys, all the floor mats, the owner's manual and any accessories shown in the photos. Make sure any promised repair or item is written on the contract. These small items cost money to replace, and they are easiest to get before you sign.""",
+   "truck keys floor mats", "GET THE EXTRAS IN WRITING")
+sc("""Finally, inspect the truck before you sign. Walk around it in good light, check for scratches or dents, and make sure the options match the window sticker. Once you drive away, it becomes much harder to prove a problem came from the dealer lot.""",
+   "pickup truck inspection", "INSPECT BEFORE YOU SIGN")
+
 # ---------- CLOSE ----------
 sc("""A quick example shows how the steps add up. Imagine a buyer who saves three percent by comparing quotes, avoids one thousand four hundred dollars in add-ons, skips a fifteen hundred dollar protection plan they did not need, and uses a zero percent offer instead of an average rate. On a sixty thousand dollar truck, that can add up to many thousands of dollars, without any yelling or tricks.""",
    "money savings truck", "HOW THE SAVINGS ADD UP")
@@ -132,7 +137,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video53", "length_scale": 1.4,
+json.dump({"id": "video53", "length_scale": 1.45,
   "title": "How to Negotiate a New Truck Price in 2026 (8 Steps Dealers Hope You Skip)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

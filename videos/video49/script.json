@@ -1,6 +1,6 @@
 {
  "id": "video49",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "The 10 Cheapest New Trucks in America for 2026 (And the Traps Inside the Price)",
  "scenes": [
   {
@@ -272,6 +272,18 @@
    "text": "And the final twist. In nineteen twenty-five, according to The Henry Ford, Ford's Model T pickup cost two hundred eighty-one dollars, and it was built so working people could afford it. One hundred years later, the cheapest pickup costs about twenty-nine thousand. The idea of the affordable truck is not dead. But it is fighting for space in a market built around sixty-seven thousand dollar trucks.",
    "query": "Ford Model T pickup",
    "caption": "$281 IN 1925",
+   "cuts": 3
+  },
+  {
+   "text": "One more thing to watch in twenty twenty-seven is tariffs. Some of the cheapest trucks on this list are built in Mexico, and tariffs on imported vehicles and parts changed several times in twenty twenty-five and twenty twenty-six. When tariffs change, entry prices can move quickly. A cheap truck today is not guaranteed to be the cheap truck next year.",
+   "query": "pickup trucks port",
+   "caption": "TARIFFS CAN MOVE PRICES",
+   "cuts": 3
+  },
+  {
+   "text": "And assembly location also matters for the new auto loan interest deduction. According to a January twenty twenty-six report, the deduction only applies to new vehicles with final assembly in the United States, bought for personal use. So two trucks with similar prices can have different real costs for a buyer who qualifies. Check the window sticker for the assembly plant.",
+   "query": "pickup truck assembly plant",
+   "caption": "ASSEMBLY LOCATION MATTERS",
    "cuts": 3
   },
   {

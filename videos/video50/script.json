@@ -1,6 +1,6 @@
 {
  "id": "video50",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "5 Trucks That Became Collectibles (And One That Lost $245,000)",
  "scenes": [
   {
@@ -280,6 +280,18 @@
    "text": "And the twist in that list is that none of these trucks were expensive when new. They were work trucks, cheap trucks, or oddball performance trucks. The collectibles of the future are probably sitting in driveways right now, being used every day, and their owners have no idea.",
    "query": "pickup truck driveway",
    "caption": "THE NEXT ONE IS IN A DRIVEWAY",
+   "cuts": 3
+  },
+  {
+   "text": "A final point about time. Every truck on this list spent years being ignored before it became a collectible. The Power Wagon was a work truck for decades. The Toyota was a cheap used truck for decades. If you are buying to profit, think in decades, not months. If you are buying for fun, the clock does not matter at all.",
+   "query": "Dodge Power Wagon farm",
+   "caption": "THINK IN DECADES",
+   "cuts": 3
+  },
+  {
+   "text": "And enjoy the truck. Collectible trucks are meant to be driven, shown and shared. Many owners find that the people they meet at shows and on the road are worth more than any price increase. A truck that brings you joy every weekend is already a good investment, whatever the auction results say.",
+   "query": "classic pickup truck show",
+   "caption": "ENJOY THE TRUCK",
    "cuts": 3
   },
   {

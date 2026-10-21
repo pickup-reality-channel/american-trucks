@@ -112,6 +112,11 @@ sc("""So what is the pattern? Truck insurance is not expensive because trucks ar
 sc("""And here is the final twist. The biggest factor in your premium is not on any list in this video. It is you: your age, your driving record, your credit in many states, and where you park at night. The same truck can cost one driver half as much to insure as another. That is why your own quote is the only number that really matters.""",
    "driver pickup truck", "THE BIGGEST FACTOR IS YOU")
 
+sc("""And here is one more money tip. When you finish paying off a truck, review whether you still need full coverage. An older truck with a lower value may not be worth insuring for collision damage. Dropping coverage you no longer need can save hundreds of dollars a year, though you should only do it if you can afford to repair or replace the truck yourself.""",
+   "old pickup truck", "PAID OFF? REVIEW COVERAGE")
+sc("""And keep a clean record. A single at-fault accident or a speeding ticket can raise your premium for several years. For truck owners, careful driving is not just about safety. It is one of the biggest long-term savings you can control.""",
+   "pickup truck highway driving", "A CLEAN RECORD SAVES MONEY")
+
 # ---------- CLOSE ----------
 sc("""One more thing to know before you buy: insurance quotes are free and fast. Most insurers can give you a quote online in minutes if you have the vehicle identification number or the exact model and trim. There is no reason to wait until you are sitting in the finance office. A few quotes the night before you shop can change which truck you choose.""",
    "laptop insurance quote", "QUOTES ARE FREE AND FAST")
@@ -132,7 +137,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video54", "length_scale": 1.4,
+json.dump({"id": "video54", "length_scale": 1.45,
   "title": "Why Truck Insurance Costs So Much in 2026 (And the $4,111 Surprise)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

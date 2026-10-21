@@ -104,6 +104,20 @@ sc("""So what is the pattern? Every forgotten muscle truck was built in small nu
 sc("""And that is exactly why they are rising now. Small production means few survivors. The buyers who wanted them as teenagers now have money. And the trucks are simple enough to restore and enjoy. The muscle trucks that failed in the showroom are winning at auction decades later.""",
    "Chevrolet 454 SS Dodge Ram SRT-10", "FAILED NEW, WINNING NOW")
 
+sc("""There is a strange connection between all of these trucks: rules. The Li'l Red Express used an emissions loophole for heavy trucks. Later muscle trucks were built just as fuel economy rules were tightening. And today's T R X returns at a time when many rivals are moving to smaller turbocharged engines. Muscle trucks have always lived in the gaps between regulations.""",
+   "Ram TRX", "MUSCLE TRUCKS LIVE IN THE GAPS")
+sc("""Another connection is price. When new, most of these trucks cost more than a normal pickup, but less than a true sports car. That made them a back door into performance for buyers who needed a truck anyway. A muscle truck could haul on Saturday and race on Sunday, at least in theory.""",
+   "Chevrolet 454 SS", "A BACK DOOR TO PERFORMANCE")
+sc("""And there is the insurance angle. According to Insure dot com data, the Ram fifteen hundred T R X was the second most expensive truck to insure in twenty twenty-six, at three thousand two hundred fifty-five dollars a year, and the Ford F-one-fifty Raptor cost two thousand six hundred eighty-two. Performance trucks cost more to own, not just to buy.""",
+   "Ford F-150 Raptor", "TRX INSURANCE: $3,255/YEAR")
+sc("""For classic muscle trucks, insurance works differently. Collector policies are often much cheaper than regular policies, but they come with limits, like restricted mileage and secure storage. If you buy a forgotten muscle truck as a weekend toy, ask about a collector policy. It can make owning one far more affordable.""",
+   "classic truck garage", "COLLECTOR INSURANCE CAN HELP")
+sc("""And finally, think about parts. Some of these trucks, like the four fifty-four S S and the Silverado S S, share many parts with normal Chevrolet trucks, which makes them easier to keep running. Rare trucks like the Syclone and the Shelby Dakota have special parts that can be hard to find. Before you buy, find out where the hard-to-get parts will come from.""",
+   "Chevrolet Silverado SS", "CHECK PARTS AVAILABILITY")
+
+sc("""Before you buy any forgotten muscle truck, get a pre-purchase inspection from a mechanic who knows older trucks. Check for rust in the frame and the bed, look for signs of hard racing, and confirm the engine and transmission numbers match the paperwork. A matching-numbers truck with clean records is usually worth far more than one with a swapped engine, even if both look the same in photos.""",
+   "classic pickup truck inspection", "GET A PRE-PURCHASE INSPECTION")
+
 # ---------- CLOSE ----------
 sc("""So if you want a muscle truck, old or new, here is what to check in twenty twenty-seven. First, check originality. On a collector truck, the original engine, paint and trim can be worth tens of thousands of dollars. Second, check the trend. Use a valuation tool to see whether the truck is rising, flat or falling.""",
    "classic pickup truck show", "CHECKS 1 AND 2: ORIGINAL, TREND")
@@ -121,7 +135,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video47", "length_scale": 1.5,
+json.dump({"id": "video47", "length_scale": 1.45,
   "title": "6 Muscle Trucks Nobody Remembers (One Beat a Corvette)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

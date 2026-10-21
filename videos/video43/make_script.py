@@ -99,6 +99,13 @@ sc("""But loyalty is changing. Younger buyers compare online before they ever wa
 sc("""Here is the final twist, and it is the one that helps you. The fiercer the rivalry, the better it is for buyers. When three companies are fighting over the same customer, they compete with incentives, financing deals, and features. In a quarter when Ram is growing by a third and Ford and Chevy are slightly down, someone is under pressure to win buyers back. Pressure means deals.""",
    "truck dealership sale", "RIVALRY = DEALS")
 
+sc("""There is one more battlefield in this rivalry: heavy-duty trucks. Ford's Super Duty, Ram's heavy-duty trucks and GM's Silverado and Sierra HD fight for buyers who tow big trailers and haul heavy loads. These trucks are expensive and profitable. According to Ford, Super Duty had its best sales year since two thousand four in twenty twenty-five, which shows the heavy-duty fight is far from over.""",
+   "Ford Super Duty Ram 2500", "THE HEAVY-DUTY WAR")
+sc("""And the diesel engine is a big part of that fight. Ram has long been known for its Cummins diesel, Ford for its Power Stroke and GM for its Duramax. For many heavy-duty buyers, the engine name matters as much as the brand on the grille. Loyalty to a diesel can be just as strong as loyalty to a truck brand.""",
+   "Ram 2500 Cummins", "DIESEL LOYALTY")
+sc("""So when you look at the full picture, each brand wins somewhere. Ford wins the single nameplate and hybrids. GM wins the combined total. Ram wins momentum in twenty twenty-six. No brand wins everything, and that balance is exactly what keeps prices competitive for buyers.""",
+   "pickup trucks lineup", "EACH BRAND WINS SOMEWHERE")
+
 # ---------- CLOSE ----------
 sc("""So here is how to use the rivalry when you buy a truck in twenty twenty-seven. First, never shop just one brand. Get a written price on comparable trucks from Ford, Chevy or GMC, and Ram. Dealers know buyers are loyal, and they price for it. Showing that you are willing to switch is one of the strongest moves you have.""",
    "Ford Chevrolet Ram trucks", "CHECK 1: SHOP ALL THREE")

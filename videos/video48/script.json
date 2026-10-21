@@ -1,6 +1,6 @@
 {
  "id": "video48",
- "length_scale": 1.4,
+ "length_scale": 1.45,
  "title": "The Most Expensive Pickups You Can Buy in 2026 (One Costs $122,265)",
  "scenes": [
   {
@@ -262,6 +262,12 @@
    "text": "And the final twist. The truck that made pickups popular, the Model T runabout, cost two hundred eighty-one dollars in nineteen twenty-five, according to The Henry Ford. It was built to be affordable for anyone who worked. One hundred years later, the most expensive pickups cost more than many houses did a few decades ago. The pickup went from the cheapest vehicle you could buy to one of the most expensive.",
    "query": "Ford Model T pickup",
    "caption": "FROM CHEAPEST TO PRICIEST",
+   "cuts": 3
+  },
+  {
+   "text": "And finally, the waiting list effect. When a new performance truck like the T R X launches, early buyers often pay the most. A year or two later, when supply catches up, the same truck can often be bought closer to sticker or below it. Patience is one of the most valuable options you can choose, and it costs nothing.",
+   "query": "Ram TRX dealership",
+   "caption": "PATIENCE IS A FREE OPTION",
    "cuts": 3
   },
   {

@@ -113,6 +113,9 @@ sc("""And notice the pattern in the bet that failed. The electric Lightning was 
 sc("""And here is the last twist. The F-Series did not stay on top because it was always the best truck. In many years, critics preferred a rival. It stayed on top because it offered the widest range, the biggest dealer network, and a name buyers trusted. That trust is worth more than any single feature.""",
    "Ford F-150 dealership lot", "TRUST BEATS FEATURES")
 
+sc("""One more detail shows how deep the F-Series runs in American life. Many fleets, from utility companies to city governments, standardize on one truck so that parts, training and repairs stay simple. Once a fleet chooses the F-Series, it often keeps buying it for decades. That fleet loyalty is a quiet engine behind the forty-nine year streak, and it rarely shows up in the headlines.""",
+   "Ford F-150 fleet trucks", "FLEETS KEEP THE STREAK ALIVE")
+
 # ---------- CLOSE ----------
 sc("""So what does this history mean if you are buying a Ford truck in twenty twenty-seven? First, check the powertrain trend. The hybrid F-one-fifty is selling strongly, while the electric Lightning has ended. A truck with growing demand is usually easier to resell and to service.""",
    "Ford F-150 hybrid", "CHECK 1: THE POWERTRAIN TREND")

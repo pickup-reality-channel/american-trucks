@@ -1,6 +1,6 @@
 {
  "id": "video47",
- "length_scale": 1.5,
+ "length_scale": 1.45,
  "title": "6 Muscle Trucks Nobody Remembers (One Beat a Corvette)",
  "scenes": [
   {
@@ -256,6 +256,42 @@
    "text": "And that is exactly why they are rising now. Small production means few survivors. The buyers who wanted them as teenagers now have money. And the trucks are simple enough to restore and enjoy. The muscle trucks that failed in the showroom are winning at auction decades later.",
    "query": "Chevrolet 454 SS Dodge Ram SRT-10",
    "caption": "FAILED NEW, WINNING NOW",
+   "cuts": 3
+  },
+  {
+   "text": "There is a strange connection between all of these trucks: rules. The Li'l Red Express used an emissions loophole for heavy trucks. Later muscle trucks were built just as fuel economy rules were tightening. And today's T R X returns at a time when many rivals are moving to smaller turbocharged engines. Muscle trucks have always lived in the gaps between regulations.",
+   "query": "Ram TRX",
+   "caption": "MUSCLE TRUCKS LIVE IN THE GAPS",
+   "cuts": 3
+  },
+  {
+   "text": "Another connection is price. When new, most of these trucks cost more than a normal pickup, but less than a true sports car. That made them a back door into performance for buyers who needed a truck anyway. A muscle truck could haul on Saturday and race on Sunday, at least in theory.",
+   "query": "Chevrolet 454 SS",
+   "caption": "A BACK DOOR TO PERFORMANCE",
+   "cuts": 3
+  },
+  {
+   "text": "And there is the insurance angle. According to Insure dot com data, the Ram fifteen hundred T R X was the second most expensive truck to insure in twenty twenty-six, at three thousand two hundred fifty-five dollars a year, and the Ford F-one-fifty Raptor cost two thousand six hundred eighty-two. Performance trucks cost more to own, not just to buy.",
+   "query": "Ford F-150 Raptor",
+   "caption": "TRX INSURANCE: $3,255/YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "For classic muscle trucks, insurance works differently. Collector policies are often much cheaper than regular policies, but they come with limits, like restricted mileage and secure storage. If you buy a forgotten muscle truck as a weekend toy, ask about a collector policy. It can make owning one far more affordable.",
+   "query": "classic truck garage",
+   "caption": "COLLECTOR INSURANCE CAN HELP",
+   "cuts": 3
+  },
+  {
+   "text": "And finally, think about parts. Some of these trucks, like the four fifty-four S S and the Silverado S S, share many parts with normal Chevrolet trucks, which makes them easier to keep running. Rare trucks like the Syclone and the Shelby Dakota have special parts that can be hard to find. Before you buy, find out where the hard-to-get parts will come from.",
+   "query": "Chevrolet Silverado SS",
+   "caption": "CHECK PARTS AVAILABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Before you buy any forgotten muscle truck, get a pre-purchase inspection from a mechanic who knows older trucks. Check for rust in the frame and the bed, look for signs of hard racing, and confirm the engine and transmission numbers match the paperwork. A matching-numbers truck with clean records is usually worth far more than one with a swapped engine, even if both look the same in photos.",
+   "query": "classic pickup truck inspection",
+   "caption": "GET A PRE-PURCHASE INSPECTION",
    "cuts": 3
   },
   {

@@ -110,6 +110,11 @@ sc("""So what turns a truck into a collectible? Five things. A story, like the P
 sc("""And the twist in that list is that none of these trucks were expensive when new. They were work trucks, cheap trucks, or oddball performance trucks. The collectibles of the future are probably sitting in driveways right now, being used every day, and their owners have no idea.""",
    "pickup truck driveway", "THE NEXT ONE IS IN A DRIVEWAY")
 
+sc("""A final point about time. Every truck on this list spent years being ignored before it became a collectible. The Power Wagon was a work truck for decades. The Toyota was a cheap used truck for decades. If you are buying to profit, think in decades, not months. If you are buying for fun, the clock does not matter at all.""",
+   "Dodge Power Wagon farm", "THINK IN DECADES")
+sc("""And enjoy the truck. Collectible trucks are meant to be driven, shown and shared. Many owners find that the people they meet at shows and on the road are worth more than any price increase. A truck that brings you joy every weekend is already a good investment, whatever the auction results say.""",
+   "classic pickup truck show", "ENJOY THE TRUCK")
+
 # ---------- CLOSE ----------
 sc("""So if you want to buy a collectible truck in twenty twenty-seven, here is what to check. First, originality. Original engine, paint, interior and documents can be worth more than any upgrade. Second, the trend. Look at values over three to five years, not one auction. Third, who is buying. A truck loved by younger collectors usually has a longer future.""",
    "classic truck inspection", "CHECKS 1, 2 AND 3")
@@ -129,7 +134,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video50", "length_scale": 1.4,
+json.dump({"id": "video50", "length_scale": 1.45,
   "title": "5 Trucks That Became Collectibles (And One That Lost $245,000)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

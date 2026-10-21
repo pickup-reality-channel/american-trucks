@@ -107,6 +107,9 @@ sc("""So what is the pattern? The most expensive pickups fall into three groups.
 sc("""And the final twist. The truck that made pickups popular, the Model T runabout, cost two hundred eighty-one dollars in nineteen twenty-five, according to The Henry Ford. It was built to be affordable for anyone who worked. One hundred years later, the most expensive pickups cost more than many houses did a few decades ago. The pickup went from the cheapest vehicle you could buy to one of the most expensive.""",
    "Ford Model T pickup", "FROM CHEAPEST TO PRICIEST")
 
+sc("""And finally, the waiting list effect. When a new performance truck like the T R X launches, early buyers often pay the most. A year or two later, when supply catches up, the same truck can often be bought closer to sticker or below it. Patience is one of the most valuable options you can choose, and it costs nothing.""",
+   "Ram TRX dealership", "PATIENCE IS A FREE OPTION")
+
 # ---------- CLOSE ----------
 sc("""So how do you avoid overpaying, at any price? First, compare the average transaction price, not the sticker. If full-size trucks average about sixty-seven thousand dollars, know where your truck sits against that. Second, look at what each option really costs. On a fully loaded truck, options can add tens of thousands of dollars that you may never use.""",
    "pickup truck window sticker", "CHECKS 1 AND 2: AVERAGE, OPTIONS")
@@ -129,7 +132,7 @@ for idx, sc_ in enumerate(S):
     sc_["cuts"] = CUTS.get(idx, 3)
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video48", "length_scale": 1.4,
+json.dump({"id": "video48", "length_scale": 1.45,
   "title": "The Most Expensive Pickups You Can Buy in 2026 (One Costs $122,265)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
