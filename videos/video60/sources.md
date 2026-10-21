@@ -1,0 +1,31 @@
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- autoevolution, Q3 2026 full-size pickup sales: https://www.autoevolution.com/news/ford-f-series-leads-q3-2026-full-size-pickup-sales-as-ram-posts-big-jump-276554.html
+- Carscoops, Hemi return sparked 10,000+ orders: https://www.carscoops.com/2025/07/hemis-return-sparked-10000-orders-in-less-than-24-hours/
+- Edmunds, 2027 Chevy Silverado first look (June 2026): https://www.edmunds.com/car-news/2027-chevy-silverado-debut-first-look.html
+- Edmunds, 2027 Silverado vs Ram 1500 vs F-150 specs (June 2026): https://www.edmunds.com/car-news/2027-chevy-silverado-ram-1500-ford-f150-spec-comparison.html
+- Ford Authority, 2027 Maverick XL hybrid-only: https://fordauthority.com/2026/08/2027-ford-maverick-xl-adopts-hybrid-as-exclusive-powerplant/
+- Ford, 2025 full-year US sales: https://www.fromtheroad.ford.com/us/en/articles/2026/ford-2025-full-year-us-sales-results
+- Fox Business, Ford Lightning production end: https://www.foxbusiness.com/markets/ford-cuts-electric-f-150-lightning-production-takes-19-5b-charge-strategic-shift
+- The Next Web, Slate Auto preorders (June 2026): https://thenextweb.com/news/slate-auto-ev-pickup-24950-preorders-bezos-production
+- The Autopian, Hyundai Santa Cruz (Jan 2026): https://www.theautopian.com/the-santa-cruz-is-reportedly-dying-but-hyundai-says-making-it-was-a-valuable-learning-experience/
+- AAA Your Driving Costs 2026 via CarPro: https://www.carpro.com/blog/aaa-study-new-vehicle-ownership-is-up-to-12863-per-year
+- AAA Your Driving Costs 2026 via Kelley Blue Book: https://www.kbb.com/car-news/aaa-hybrids-come-out-on-top-in-2026-ownership-cost-study/
+- Insurify, car insurance report 2026: https://insurify.com/car-insurance/report/
+- Insurify, car vs truck insurance: https://insurify.com/car-insurance/car-vs-truck-insurance/
+- Yahoo / Insure.com, most expensive trucks to insure 2026: https://www.yahoo.com/lifestyle/articles/most-expensive-trucks-insure-2026-180054706.html
+- SlashGear, tire prices going up (Oct 2026): https://www.slashgear.com/2272762/tire-prices-going-up-what-drivers-should-know/
+- NPR via KJZZ, diesel passes $6 (Sep 11, 2026): https://www.kjzz.org/npr-top-stories/2026-09-11/us-diesel-prices-soar-past-6-a-gallon-deepening-strain-for-hauling-everyday-goods
+- WTOC, diesel record $6.51 (Sep 21, 2026): https://wtoc.com/2026/09/21/diesel-prices-hit-record-651-georgia-634
+- EIA weekly fuel prices (week of Oct 19, 2026), summarized: https://startbusinessbystate.com/?p=16465
+- Auto Remarketing, Edmunds Q3 2026 financing: https://www.autoremarketing.com/?p=131431
+- FOX 2 Detroit, car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
+- CarEdge, State of Dealer Fees 2026: https://caredge.com/reports/state-of-dealer-fees
+- CarWhere, dealer add-on study 2026: https://www.carwhere.com/research/studies/dealer-add-on-study
+- Ford Authority, NICB most stolen vehicles of 2025: https://fordauthority.com/2026/03/ford-f-150-among-top-10-most-stolen-vehicles-of-2025/
+- Auto Remarketing, Experian Q2 2026 automotive finance: https://autoremarketing.com/subprime/experian-sees-refinancing-continue-to-ripen-in-q2/
+- CarEdge, best truck deals (updated Oct 19, 2026): https://caredge.com/guides/deals/trucks/
+- National Association of Trailer Manufacturers, safe trailering: https://www.natm.com/news/the-importance-of-safe-trailering
+- ConsumerAffairs, FTC CARS Rule thrown out by appeals court: https://www.consumeraffairs.com/news/ftcs-cars-rule-thrown-out-by-appeals-court-020525.html
+- Pickup Truck Talk, Ram & Jeep towing recall (Feb 2026): https://pickuptrucktalk.com/2026/02/massive-ram-jeep-recall-halts-towing-on-over-450000-trucks-and-suvs-here-is-everything-you-should-know/
+- Federal Trade Commission, auto warranties: https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts
+- SEMA, 2026 Market Report (June 2026): https://www.sema.org/news-media/press-release/sema-market-research-road-culture-continues-drive-consumer-spending
