@@ -1,0 +1,7 @@
+- CarEdge, best truck deals right now (updated Oct 19, 2026): https://caredge.com/guides/deals/trucks/
+- CarEdge, State of Dealer Fees 2026: https://caredge.com/reports/state-of-dealer-fees
+- CarWhere, dealer add-on study 2026: https://www.carwhere.com/research/studies/dealer-add-on-study
+- Cox Automotive / Kelley Blue Book, September 2026 ATP: https://www.coxautoinc.com/wp-content/uploads/2026/10/September-2026-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf
+- Auto Remarketing, Experian Q2 2026 automotive finance: https://autoremarketing.com/subprime/experian-sees-refinancing-continue-to-ripen-in-q2/
+- Auto Remarketing, Edmunds Q3 2026 financing records: https://www.autoremarketing.com/?p=131431
+- FOX 2 Detroit, Treasury rollout of car loan interest deduction (Jan 2026): https://www.fox2detroit.com/news/treasury-car-loan-tax-break-us-assembled-cars
