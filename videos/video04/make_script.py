@@ -88,6 +88,18 @@ sc("""Now here is the final twist. Total trucks in the table grew by about eight
 sc("""Why does that matter to you? Because the brand that is gaining has a reason to make a deal, and the brand that is losing has a reason to make a deal too, just for different reasons. And the truck you cross-shop is probably the one that went the other way. If you are looking at a Ford, check what Ram is offering. If you are looking at a Ram, check what Ford and General Motors are offering. Competition is the most useful tool a buyer has.""",
    "Chevrolet Silverado Ford F-150 pickups", "COMPETITION IS YOUR BEST TOOL")
 
+# ---------- EXTRA BUYER VALUE ----------
+sc("""Let's turn the share numbers into something a buyer can use. Remember that in our calculation Stellantis moved from about thirteen percent of these trucks to about fifteen percent, and Ford from about thirty-four to about thirty-two. A shift like that does not mean one truck is good and the other is bad. It means more buyers chose one badge this year. Treat it as a clue about where dealers are busy, and where they may be hungry for a sale.""",
+   "Ram 1500 pickup truck", "WHAT A SHARE SHIFT MEANS FOR YOU")
+sc("""Before you buy any truck, new or used, run the vehicle identification number through the official recall lookup. It is free, it takes a minute, and it tells you whether a safety fix is still open for that exact truck. This matters more with a truck from a brand in the middle of change, because lineups and plans shift. Do the same for the model year you want, and read what other owners say about that specific year, not only the badge.""",
+   "Chevrolet Silverado 1500 pickup", "CHECK THE VIN FOR OPEN RECALLS")
+sc("""Now the money. Ask every dealer for the out-the-door price in writing, with all fees and options included, and get the quotes for the same trim on the same day. A monthly payment can hide a lot, and a longer loan can make a high price feel small. Remember the incentives figure we gave you, six point five percent of the average price in August. If the discount on your quote is far smaller, ask why, and ask politely, and be ready to walk away.""",
+   "Ford F-150 XLT pickup", "GET THE OUT-THE-DOOR PRICE")
+sc("""Last, think about who each brand suits. If you want the truck that many people already chose, Ford, General Motors and Toyota have large bases, which usually helps with service and resale. If you want a gas truck from a brand that is growing, Ram is the story of the year. And if you are looking at a truck with an uncertain future, like the Santa Cruz, wait for a clear answer, and ask for the warranty terms in writing before you sign anything.""",
+   "Toyota Tundra pickup", "WHO SHOULD BUY, WHO SHOULD WAIT")
+sc("""One more mistake is to shop only inside one brand. A buyer who walks into a single showroom hears one story. Visit at least two brands, and bring the quote from the first to the second. Remember that Ford lost fifty-two thousand, nine hundred forty-three trucks while Stellantis gained fifty-five thousand, three hundred ninety-three. Those buyers did compare, and they moved. You can use the same freedom, and the dealer knows it.""",
+   "Ford F-150 and Ram 1500 pickups", "SHOP TWO BRANDS, NOT ONE")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy in twenty twenty-seven? First, look at the sales trend of the exact model, not only the brand. A brand can be growing while one of its trucks is falling. Second, find out whether the truck is still being built, and for how long. Third, compare the full cost, with the price, the financing, and the resale value, because a truck that sells well is generally easier to sell later.""",
    "Ford F-150 pickup", "CHECK 1, 2 AND 3")
@@ -105,7 +117,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video04", "length_scale": 1.83,
+json.dump({"id": "video04", "length_scale": 1.55,
   "title": "6 Truck Brands Winning and Losing the Sales War Right Now", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)

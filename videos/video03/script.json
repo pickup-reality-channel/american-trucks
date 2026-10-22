@@ -1,6 +1,6 @@
 {
  "id": "video03",
- "length_scale": 1.67,
+ "length_scale": 1.55,
  "title": "7 Midsize Trucks Fighting for Buyers in 2027 (Who Is Really Winning)",
  "scenes": [
   {
@@ -185,6 +185,26 @@
    "text": "One more point about reading numbers like these. A quarter can lie. The Ranger fell almost ten percent in one quarter and rose almost fifteen in the next. The Maverick fell five percent in the first half and rose twenty percent in the third quarter. So when you read a headline about a truck that is booming or collapsing, check the full nine months, not only the last three. The longer window tells you the real direction.",
    "query": "Ford Ranger pickup",
    "caption": "A QUARTER CAN LIE"
+  },
+  {
+   "text": "Let's slow down and ask what the big numbers really mean for a person standing on a lot. The Tacoma sold two hundred fourteen thousand, eight hundred seventy-five trucks, and the Colorado sold seventy-two thousand, eight hundred sixty-three. That gap tells you which truck is common, and a common truck is usually easier to compare, easier to find used, and easier to sell later. It does not tell you which truck is better for you. Popular and right are two different questions.",
+   "query": "Toyota Tacoma pickup truck",
+   "caption": "POPULAR IS NOT THE SAME AS RIGHT"
+  },
+  {
+   "text": "Here is the most common mistake we see. A buyer falls in love with a monthly payment and forgets the total price. So ask for the out-the-door price in writing, which is the full amount with every fee and every option included. Remember that the average full-size truck sold for sixty-seven thousand, four hundred forty-six dollars in August, while the average new vehicle of any kind sold for fifty thousand and eighty-nine. Your own number should be compared with those, not guessed.",
+   "query": "Ford F-150 pickup truck",
+   "caption": "ASK FOR THE OUT-THE-DOOR PRICE"
+  },
+  {
+   "text": "Next, compare like with like. Take the same trim of two different trucks, say a Frontier and a Ranger, and get both prices on the same day, with the same kind of options. Prices and incentives move from quarter to quarter, as the Ranger's roller coaster showed, so a quote from last month is not a fair comparison. Write the numbers down side by side. It takes only a few minutes, and it is the cheapest negotiation tool you will ever own.",
+   "query": "Nissan Frontier Ranger pickup trucks",
+   "caption": "SAME TRIM. SAME DAY."
+  },
+  {
+   "text": "Finally, who should wait? If you need to tow a heavy trailer, do not trust a headline or a salesperson. Open the driver's door and read the sticker on the door frame, because it lists the limits for that exact truck. If the number is too close to your trailer, look at a bigger truck. If your budget is tight and you only haul light loads, the Maverick or a midsize truck may be enough. And if a model you love has shaky sales, ask about the warranty in writing before you sign.",
+   "query": "Ford Maverick pickup truck",
+   "caption": "READ THE DOOR STICKER FOR TOWING"
   },
   {
    "text": "So what does this mean if you are buying a truck in twenty twenty-seven? First, a midsize truck is not automatically cheaper in total cost. Compare the exact trim, the options, and the financing, not the segment. Second, look at the sales trend of the exact model. A truck with falling sales, like the Gladiator, can mean fewer incentives to negotiate with and a risk for resale value, or sometimes a better deal, so check both.",

@@ -97,6 +97,15 @@ sc("""And if you love the Gladiator, you should not panic. A sales drop and a ru
 sc("""One more point about reading numbers like these. A quarter can lie. The Ranger fell almost ten percent in one quarter and rose almost fifteen in the next. The Maverick fell five percent in the first half and rose twenty percent in the third quarter. So when you read a headline about a truck that is booming or collapsing, check the full nine months, not only the last three. The longer window tells you the real direction.""",
    "Ford Ranger pickup", "A QUARTER CAN LIE")
 
+# ---------- EXTRA BUYER VALUE ----------
+sc("""Let's slow down and ask what the big numbers really mean for a person standing on a lot. The Tacoma sold two hundred fourteen thousand, eight hundred seventy-five trucks, and the Colorado sold seventy-two thousand, eight hundred sixty-three. That gap tells you which truck is common, and a common truck is usually easier to compare, easier to find used, and easier to sell later. It does not tell you which truck is better for you. Popular and right are two different questions.""",
+   "Toyota Tacoma pickup truck", "POPULAR IS NOT THE SAME AS RIGHT")
+sc("""Here is the most common mistake we see. A buyer falls in love with a monthly payment and forgets the total price. So ask for the out-the-door price in writing, which is the full amount with every fee and every option included. Remember that the average full-size truck sold for sixty-seven thousand, four hundred forty-six dollars in August, while the average new vehicle of any kind sold for fifty thousand and eighty-nine. Your own number should be compared with those, not guessed.""",
+   "Ford F-150 pickup truck", "ASK FOR THE OUT-THE-DOOR PRICE")
+sc("""Next, compare like with like. Take the same trim of two different trucks, say a Frontier and a Ranger, and get both prices on the same day, with the same kind of options. Prices and incentives move from quarter to quarter, as the Ranger's roller coaster showed, so a quote from last month is not a fair comparison. Write the numbers down side by side. It takes only a few minutes, and it is the cheapest negotiation tool you will ever own.""",
+   "Nissan Frontier Ranger pickup trucks", "SAME TRIM. SAME DAY.")
+sc("""Finally, who should wait? If you need to tow a heavy trailer, do not trust a headline or a salesperson. Open the driver's door and read the sticker on the door frame, because it lists the limits for that exact truck. If the number is too close to your trailer, look at a bigger truck. If your budget is tight and you only haul light loads, the Maverick or a midsize truck may be enough. And if a model you love has shaky sales, ask about the warranty in writing before you sign.""",
+   "Ford Maverick pickup truck", "READ THE DOOR STICKER FOR TOWING")
 # ---------- CLOSE ----------
 sc("""So what does this mean if you are buying a truck in twenty twenty-seven? First, a midsize truck is not automatically cheaper in total cost. Compare the exact trim, the options, and the financing, not the segment. Second, look at the sales trend of the exact model. A truck with falling sales, like the Gladiator, can mean fewer incentives to negotiate with and a risk for resale value, or sometimes a better deal, so check both.""",
    "Ford Ranger pickup truck", "CHECK 1 AND 2: TRIM AND TREND")
@@ -114,7 +123,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video03", "length_scale": 1.67,
+json.dump({"id": "video03", "length_scale": 1.55,
   "title": "7 Midsize Trucks Fighting for Buyers in 2027 (Who Is Really Winning)", "scenes": S},
   open("script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
