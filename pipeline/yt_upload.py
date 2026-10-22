@@ -36,6 +36,15 @@ def queue():
                 yield f"v{v:02d}-s{s}", v, sm["file"], at, sm["title"], sm["description"].replace("[LINK HERE]", ebook), False
 
 
+def queue_lote():
+    """Long videos 01-10 only, on the dates in agendamento/lote-01-10/longs.json (13:00 Brasilia = 16:00 UTC)."""
+    ebook = os.environ.get("EBOOK_URL") or "[LINK HERE]"
+    for n, day in json.load(open("agendamento/lote-01-10/longs.json")).items():
+        v = int(n); m = json.load(open(f"agendamento/meta/video{n}.json"))
+        at = dt.datetime.fromisoformat(day).replace(tzinfo=dt.timezone.utc) + dt.timedelta(hours=16)
+        yield f"v{n}", v, f"video{n}.mp4", at, m["title"], m["description"].replace("[LINK HERE]", ebook), True
+
+
 def upload(tok, path, title, desc, tags, at):
     body = {"snippet": {"title": title, "description": desc, "tags": tags, "categoryId": "2",
                         "defaultLanguage": "en", "defaultAudioLanguage": "en"},
@@ -60,9 +69,10 @@ def main(mode):
         for c in r.json().get("items", []): print("channel:", c["snippet"]["title"], c["id"], c.get("status", {}))
         return
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
-    budget = int(os.environ.get("YT_BUDGET") or 9500)
+    lote = mode == "lote"
+    budget = int(os.environ.get("YT_BUDGET") or (9900 if lote else 9500))
     now = dt.datetime.now(dt.timezone.utc); dl = pathlib.Path("/tmp/dl"); dl.mkdir(exist_ok=True)
-    for key, v, fname, at, title, desc, is_long in queue():
+    for key, v, fname, at, title, desc, is_long in (queue_lote() if lote else queue()):
         if key in state: continue
         if at < now + dt.timedelta(hours=2):
             print("skip (slot already passed):", key, at); state[key] = {"skipped": "slot passed"}; continue

@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "check (test the credentials) or upload"
+        description: "check (test the credentials), upload (calendar) or lote (long videos 01-10 only)"
         required: true
         default: check
   schedule:

@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency: lote
 jobs:
   zip:
     runs-on: ubuntu-latest
@@ -27,6 +28,9 @@ jobs:
       - name: Publish
         run: |
           gh release delete lote-01-10 -y --cleanup-tag || true
-          gh release create lote-01-10 /tmp/video*.zip agendamento/lote-01-10/schedule-videos-01-10.xlsx \
+          gh release create lote-01-10 agendamento/lote-01-10/schedule-videos-01-10.xlsx \
             --target "$GITHUB_SHA" --title "Videos 01-10 for manual scheduling" \
             --notes "One zip per video (01-10) (long video, 5 Shorts, captions, thumbnail and textos.txt each) plus the posting schedule spreadsheet."
+          for f in /tmp/video*.zip; do
+            gh release upload lote-01-10 $f --clobber || { sleep 15; gh release upload lote-01-10 $f --clobber; }
+          done
