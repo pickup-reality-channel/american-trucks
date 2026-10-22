@@ -1,0 +1,105 @@
+# Photo credits: How Long Do Trucks Really Last? The 250,000-Mile Data (2027)
+
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra Endeavour.jpg by Bluesnote, CC BY-SA 3.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 04.jpg by Retired electrician, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 03.jpg by Retired electrician, CC0
+- Old Decals NHP F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Tuned Ford F-150 Triton V8 Crew Cab.JPG by Bull-Doser, Public domain
+- Ford F-150 Raptor Range Warden.jpg by Cpl. Aaron Diamant, Public domain
+- 2008-09-17 Ford F-150 and Chevy Express 1500 crashed in Durham.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- Red Ford F-150 XLT of the tenth generation on Mesa AP tires (4890241876).jpg by cogdogblog, CC BY 2.0
+- Old Jefferson Louisiana, January 2019 Street Drain Cleaning.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- Old CN Car Shops under renovation (29374378258).jpg by Larry from Charlottetown, PEI, Canada, CC BY 2.0
+- Old Dixie Cafe Florida Diner 01.jpg by MrBill3, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2014 (16330261513).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 SLT Heavy Duty Quad Cab 2012 (16861616546).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 SLT Heavy Duty Quad Cab 2011 (16327951654).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST.jpg by Wlb5V, CC BY-SA 4.0
+- Chevrolet Silverado Las Vegas Fall 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- Old Metairie Library pickup truck, Louisiana May 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Old Logo - 51309971385.jpg by oxfordblues84, CC BY-SA 2.0
+- 2023 Chevrolet Montana Premier (Brazil) front view 01.jpg by Autosdeprimera, CC BY 3.0
+- 2023 Chevrolet Montana Premier (Brazil) front view 02.jpg by Autosdeprimera, CC BY 3.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- Ram 1500 Hemi Laramie 2015 (23976047977).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Green Light Trailer @ Wal-Mart on FL 50 in Spring Hill.jpg by DanTD, CC BY-SA 4.0
+- 2010 Ford Ranger XLT SuperCab.jpg by CC-BY-CarImages, CC BY-SA 2.0
+- Chevrolet C10 Custom DeLuxe (8546978520).jpg by Vetatur Fumare, CC BY-SA 2.0
+- Green Banks - Chevy Suburban C10.jpg by Jarek Tuszyński, CC BY-SA 3.0
+- West Yellowstone (MT, USA), Yellowstone Avenue, Fahrzeuge der Yellowstone Vacation Tours -- 2022 -- 2381.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 2005 Ford F-350.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- 20 Toyota Tundra TRD Pro.jpg by HJUdall, CC0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2018 Silverado 1500 LT Z71.jpg by MickOhrberg, CC BY-SA 4.0
+- 18 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- Toyota Sequoia (XK80) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- TOYOTA SEQUOIA (XK60) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Honda Ridgeline RTL 2020.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Honda Ridgeline RTL 2022.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Ford F-350 SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Ford F-350 Lariat FX4 Turbo Diesel V8 Dual 1999 (15752251435).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5L EcoBoost 4WD P552 Shadow Black (42).jpg by Damian B Oh, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2019 Ram 3500 Heavy Duty Turbo Diesel with Cummins engine front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- Ram 3500 SLT Heavy Duty Quad Cab Dual 2012 (10969261326).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-350 Super Duty Tow Truck P708.JPG by Bull-Doser, Public domain
+- 1971 ford f-350 custom holmes 440.jpg by Rjluna2, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- Honda Ridgeline P4220684.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Honda Ridgeline RTL-E Offroad.jpg by Jennie Logan, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2017 chevrolet silverado 1500 wt regular standard reverse.jpg by Rjluna2, CC BY-SA 4.0
+- 2017 chevrolet silverado 1500 wt regular standard obseve.jpg by Rjluna2, CC BY-SA 4.0
+- Toyota Tundra TRD Sport (2023) (53487889244).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 07 Toyota Tundra Limited.jpg by HJUdall, CC0
+- 2014 Toyota Tundra 5.7 V8.jpg by Rutger van der Maar, CC BY 2.0
+- 2004 Toyota Tundra Stepside Access Cab 4.7 V8 (51345579389).jpg by Rutger van der Maar, CC BY 2.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1990 GMC Sierra K-1500 SLE Sportside, front left, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1997 Ford F250 Heavy Duty Supercab in White, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Ford Super Duty (27647713070).jpg by Bob P. B., CC BY 2.0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- Ram 1500 Laramie V6 EcoDiesel 2016 (37947470062).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 Laramie Crew Cab 3.0 Diesel, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Ford F-150 FX2 -- 06-04-2010.jpg by IFCAR, Public domain
+- Carretera PR-688, Vega Baja, Puerto Rico (1).jpg by Yarfpr, CC BY-SA 4.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- Ford Super Duty shuttle bus - Loggerhead Marinelife Center, Juno Beach, Palm Beach County, FL.jpg by Winnebaggo, CC0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0

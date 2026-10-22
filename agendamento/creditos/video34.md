@@ -1,0 +1,113 @@
+# Photo credits: Why Truck Payments Hit Record Highs (1 in 5 Buyers Now Pay $1,000 a Month)
+
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 19 Ford F-150 Platinum.jpg by HJUdall, CC0
+- Ford F-150 Platinum 2018 (54374428620).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Platinum front (21031930262).jpg by Zytonits, CC BY-SA 2.0
+- Ford F-150 Platinum 2009 (9397390874).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 Platinum rear (20419231244).jpg by Zytonits, CC BY-SA 2.0
+- Ford F-150 Platinum EcoBoost 2014 (39303749914).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2010 Ford F-150 Platinum -- 07-10-2010.jpg by IFCAR, Public domain
+- Leimershof 7. US-Car-Treffen 1937 Chevrolet Silverado High Country-20230909-RM-172038.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Silverado High Country Duramax 2022.jpg by RL GNZLZ, CC BY-SA 2.0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 15 Chevrolet Silverado 1500 High Country.jpg by HJUdall, CC0
+- Chevrolet Silverado High Country 2025.jpg by RL GNZLZ, CC BY-SA 4.0
+- Chevrolet Silverado High Country 2023 (53270769475).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet Silverado High Country 2023 (53444212521).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet Silverado High Country 2018 (42967818375).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2004 Dodge Ram 1500 Sport (48909327046).jpg by George, CC BY-SA 2.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- Peter Boulware Toyota dealership - Tallahassee, FL.jpg by FLGALine1999, CC0
+- Adams Chrysler Dodge Jeep Ram, Montevideo, Minnesota (29483935272).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Coastal Chrysler-Dodge-Jeep-Ram, Quincy, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Avalon White Pearl (3).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Avalon White Pearl (4).jpg by Damian B Oh, CC BY-SA 4.0
+- 1990 Ford F-150 XLT Lariat 4x2 regular cab 8' Styleside, front left, 06-24-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1990 Ford F-150 XLT Lariat 4x2 regular cab 8' Styleside, rear left, 06-24-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2022 Ram 1500 Limited Crew Cab 4x4, front left, 05-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram 1500 Limited.jpg by HJUdall, CC0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 20 GMC Sierra 1500 AT4.jpg by HJUdall, CC0
+- 2025 Ram 1500 rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2015 Chevrolet Silverado 1500 LTZ, front 2.29.20.jpg by Kevauto, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71, rear 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 25 Ram 1500 Tungsten.jpg by HJUdall, CC0
+- Ram 1500 Tungsten Crew Cab 4x4 (2026) (55213168171).jpg by Charles from Port Chester, New York, CC0
+- Honolulu Pride Parade - 2012 (7333211318).jpg by Daniel Ramirez from Honolulu, USA, CC BY 2.0
+- Honolulu Pride Parade - 2012 (7333213498).jpg by Daniel Ramirez from Honolulu, USA, CC BY 2.0
+- 20 Ram 2500 Laramie Longhorn.jpg by HJUdall, CC0
+- 16 Ram 2500 Laramie.jpg by HJUdall, CC0
+- Boston George Floyd Protest, boarded windows on Newbury St. 2.jpg by GorillaWarfare, CC BY 4.0
+- Front Street Cafe Bethel.jpg by Andrea Pokrzywinski, CC BY 2.0
+- 22 GMC Sierra 1500 Denali Ultimate (2).jpg by HJUdall, CC0
+- 23 GMC Sierra 1500 Denali Ultimate (3).jpg by HJUdall, CC0
+- Chevrolet Silverado LT Z71 GMTK2CC FL Summit White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Silverado LT Z71 GMTK2CC FL Summit White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- 25 Ram 1500 Big Horn.jpg by HJUdall, CC0
+- Car carrier loading Maybach in Tokyo 4.jpg by Syced, CC0
+- Car carrier loading Maybach in Tokyo.jpg by Syced, CC0
+- Polka Dot Restaurant 1 North Main Street downtown White River Junction VT October 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- Red 2019-20 Chevrolet Silverado at Canyon Ridge.jpg by Noah Wulf, CC BY-SA 3.0
+- 2020 Chevrolet Silverado 1500 High Country, front 10.25.20.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 V6 eTorque Big Horn 2022 (53411473634).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- MIAS 2024 - Toyota Land Cruiser J70 pickup camper by Overland Kings.jpg by Ethan Llamas, CC BY-SA 4.0
+- PChome Express KPC-0817 at Hall C, World Trade Center 20220401.jpg by Solomon203, CC BY-SA 4.0
+- Hudson pickup truck (38412981182).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- FORD F-150 LARIAT SPORT 4X4 China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Salão Internacional do Automóvel 2018 São Paulo6.jpg by Washington Costa/Ministry of Development, Industry, Trade and Services (MDIC), CC BY-SA 2.0
+- Salão Internacional do Automóvel 2018 São Paulo10.jpg by Washington Costa/Ministry of Development, Industry, Trade and Services (MDIC), CC BY-SA 2.0
+- 2023 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- DSNY Garbage Trucks Fleet Lot.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Food trucks at Ochsner Medical lot, Old Jefferson Louisiana, 19 June 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Federal home loan bank Atlanta.jpg by Tyler Lahti, CC BY-SA 4.0
+- People's Loan Bank (Ljubljana) 02.jpg by Superchilum, CC BY-SA 4.0
+- Walt's Live Oak Chrysler Dodge Jeep Ram.jpg by The Bushranger, CC BY-SA 4.0
+- Action GM of Bainbridge.jpg by The Bushranger, CC BY-SA 4.0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- FEMA - 37217 - A resident and a pickup truck going through a flooded street in Texas.jpg by Jacinta Quesada, Public domain
+- James Goldstraw 52 "Days of Thunder" Pickup Truck - 2025 American Speedfest (1).jpg by BWard 1997, CC BY 4.0
+- 23 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- 12 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Customized 1950s Chevrolet Pickup Truck Lyndonville VT August 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 16 Ford F-150 XLT.jpg by HJUdall, CC0
+- Ford F-150 V8 XLT 2025.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Hobson Chevrolet Buick Dealership, Cairo.JPG by Michael Rivera, CC BY-SA 3.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Attaching U-Haul trailer to GMC pickup truck East Haven VT October 2016.jpg by Artaxerxes, CC BY-SA 3.0
+- DRIVEWAY OF A SHEEP RANCH IN THE LEAKEY, TEXAS, AREA NEAR SAN ANTONIO - NARA - 554879.jpg by Marc St. Gil, Public domain
+- 2009 Dodge Ram SLT Big Horn Quad Cab.jpg by IFCAR, Public domain
+- 2009 silver Dodge Ram Big Horn ed. side.JPG by BrokenSphere, CC BY-SA 3.0
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 13 Toyota Tacoma PreRunner SR5.jpg by HJUdall, CC0
+- 10 Toyota Tacoma PreRunner SR5.jpg by HJUdall, CC0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 15 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ford F-150 Supertruck.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0

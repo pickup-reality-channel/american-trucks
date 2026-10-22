@@ -1,0 +1,93 @@
+# Photo credits: 2027 Toyota Tundra: Did Toyota Fix the Engine? What We Know So Far
+
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Toyota Tundras racing pickup trucks one sponsored by Con-way Freight.jpg by Bo Nash, CC BY-SA 2.0
+- Third Gen Toyota Tundra TRD Pro on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- White 2003-6 Toyota Tundra With custom Bumper.jpg by Noah Wulf, CC BY-SA 3.0
+- Toyota Tundra USK56 FL 1794 Edition Smoked Mesquite.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- Toyota Tundra TRD Pro (15845664454).jpg by Jacob Frey 4A, CC BY 2.0
+- Toyota Tundra TRD Pro (16442179606).jpg by Jacob Frey 4A, CC BY 2.0
+- Toyota Tundra TRD Pro (24804127005).jpg by Jacob Frey 4A, CC BY 2.0
+- Toyota Tundra TRD Pro (24686288262).jpg by Jacob Frey 4A, CC BY 2.0
+- 2022 Toyota Tundra TRD Pro, front NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro, rear NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Toyota Tundra TRD Pro Repping the NFL (53519968013).jpg by crudmucosa, CC BY 2.0
+- MIAS 2024 - 2017 Toyota Tundra 1794 Edition camper by Overland Kings.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2014 Toyota Tundra 1794 Edition.jpg by A. Bailey, CC BY-SA 3.0
+- Toyota Tundra 4x4 1794 Edition 2017.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- 2023 Manila Auto Salon - Toyota Tundra 1794 Edition 2017 Camper by OverlandKings.jpg by Ethan Llamas, CC BY 4.0
+- 2023 Toyota Tundra interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2005 Toyota Tundra, Front Left, 04-11-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Toyota Tundra USK56 FL 5.7 Platinum CrewMax 4x4 Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra USK56 FL 5.7 Platinum CrewMax 4x4 Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra Endeavour.jpg by Bluesnote, CC BY-SA 3.0
+- 2022 Toyota Tundra 1794 Edition TRD Crew Cab 4X4 in Celestial Silver, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2022 Toyota Tundra 1794 Edition TRD Crew Cab 4X4 in Celestial Silver, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2020 Tundra Engine Bay.jpg by THEWHITEBOY503, CC BY-SA 4.0
+- Toyota Tundra TRD Sport (2023) (53487889244).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2022 Toyota Tundra Limited CrewMax Short Bed 4x4 with TRD Off-Road Package, front left, 11-01-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2022 Toyota Tundra Limited TRD 4X4 Off Road front.jpg by DestinationFearFan, CC BY-SA 4.0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Aisin high torque capacity RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- Overlooking the Playa (7297592286).jpg by BLM Nevada, Public domain
+- Toyota Tundra VXKA76 CrewMax 3.4 Platinum Long Bed Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra Safety Truck Sonoma 2021.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- TOYOTA TUNDRA (XK70) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2004 Toyota Tundra truck interior - 33595533880.jpg by Anton Vlasov, CC BY 2.0
+- 2004 Toyota Tundra truck interior.jpg by Anton Vlasov, CC BY 2.0
+- 2026 Toyota Tundra TRD Pro.jpg by Gogerr, CC BY-SA 4.0
+- TOYOTA TUNDRA (XK50) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Toyota Tundra VXKA76 CrewMax 3.4 Platinum Long Bed Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 04.jpg by Retired electrician, CC0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- TOYOTA TUNDRA (XK70) China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- 23 Toyota Tundra 1794 Edition.jpg by HJUdall, CC0
+- Toyota Tundra HV Crew Cab 1794 Edition (2026) (55213908816).jpg by Charles from Port Chester, New York, CC0
+- Toyota Tundra Big Red Tow Vehicle.jpg by TaurusEmerald, CC BY-SA 4.0
+- Denny Hamlin Out Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- Toyota Tundra Fire and Safety Truck Sonoma 2023.jpg by TaurusEmerald, CC BY-SA 4.0
+- The rearview of Toyota TUNDRA II.JPG by Tokumeigakarinoaoshima, CC0
+- 2022 Toyota Tundra Limited TRD 4X4 Off Road rear.jpg by DestinationFearFan, CC BY-SA 4.0
+- Toyota Tundra SR5 V8 TRD 2014 (14244513581).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2024 ToyotaSave Mart 350 - Sarah Stierch 33.jpg by Missvain, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 03.jpg by Retired electrician, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 02.jpg by Retired electrician, CC0
+- Toyota Tundra SR5 2013.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- The frontview of Toyota TUNDRA (XK50) used in TOYOTA 5 CONTINENTAL DRIVE.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- The rearview of Toyota TUNDRA (XK50) used in TOYOTA 5 CONTINENTAL DRIVE.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Dülmen, Auto Bertels, Toyota GR Supra -- 2021 -- 9552-4.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Auto Bertels, Toyota GR Supra -- 2021 -- 9563.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Toyota Tundra - Bass Pro Shops & Cabelas.jpg by FLGALine1999, CC0
+- 2014 Toyota Tundra 5.7 V8.jpg by Rutger van der Maar, CC BY 2.0
+- Toyota Tundra hybride 2023 au SIAM 2023.JPG by Bull-Doser, Public domain
+- Toyota Tundra hybride de 2022 au salon des voitures éléctriques de Montréal 2022.JPG by Bull-Doser, Public domain
+- Cody Coughlin Martinsville 2017 (33700495701) (cropped).jpg by Zach Catanzareti Photo, CC BY-SA 2.0
+- Taylor gray (53078359554).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Thompsons Family of Dealerships Toyota Tundra.jpg by TaurusEmerald, CC BY-SA 4.0
+- Toyota Tundra Monster Truck (15764769182).jpg by Marcus Balcher from Daytona, FL, United States, CC BY-SA 2.0
+- Toyota Tundra (49539731462).jpg by crash71100, CC0
+- Toyota Tundra Platinum (49584715847).jpg by Dennis Elzinga, CC BY 2.0
+- Toyota 2000-3 Tundra recall pickup with a new replacement frame.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 3.0
+- Toyota Tundra Platinum at the New York International Auto Show (8611439201).jpg by Joseph Brent, CC BY-SA 2.0
+- V08559P090.jpg by Transportation Research Center, NHTSA, Public domain
+- Syracuse Orange wrapping on a 2025 Toyota Tundra, Cuse on the Quad event, Toyota Fun Zone, Syracuse University 02.jpg by Kiran891, CC BY-SA 4.0
+- VenIsles15Feb06ToyotaTundra.jpg by Infrogmation, CC BY 2.5
+- EgyptianToyotaMaple1.jpg by Infrogmation, CC BY 2.5
+- Syracuse Orange wrapping on a 2025 Toyota Tundra, Cuse on the Quad event, Toyota Fun Zone, Syracuse University 01.jpg by Kiran891, CC BY-SA 4.0
+- 07 Toyota Tundra Limited.jpg by HJUdall, CC0
+- Thomasville Toyota.jpg by Michael Rivera, CC BY-SA 4.0
+- 2022 Toyota Tundra Limited in Celestial Silver Metallic, Rear Left, 12-25-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Toyota Tundra Limited in Celestial Silver Metallic, Front Left, 12-25-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Toyota Tundra Crew Max Limited.jpg by IFCAR, Public domain
+- 2013 Toyota Tundra XK50.jpg by User3204, CC BY-SA 4.0
+- The frontview of Toyota TUNDRA II.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0

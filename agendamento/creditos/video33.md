@@ -1,0 +1,119 @@
+# Photo credits: Tacoma vs Ranger vs Colorado for 2027: The Winner Changes in Every Round
+
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- Toyota Tacoma Las Vegas Fall 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2024 Toyota Tacoma TRD Off-Road.jpg by Clock38030, CC BY 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7062.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Ranger V6 Limited (Argentina), side.jpg by Just a Man, CC BY 4.0
+- 2024 Ford Ranger Tremor EcoBlue Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Ranger 2.0 XL 4x4.jpg by Just a Man, CC BY 4.0
+- 2024 Ford Ranger interior.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford Ranger V6 Limited (Argentina), front side.jpg by Just a Man, CC BY 4.0
+- 2024 Ford Ranger V6 Limited (Argentina), rear side.jpg by Just a Man, CC BY 4.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 2023 Chevrolet Colorado Z71 Crew Cab.jpg by Bull-Doser, Public domain
+- 0 Chevrolet Colorado (second generation) 1.jpg by Benespit, CC BY-SA 4.0
+- 2004 Chevrolet Colorado LS Regular Cab Z85 2WD, front right, 07-17-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Colorado LTZ 2023 (54284074233).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Flava kamioneto Ford F-150 en Tjumeno.jpg by RG72, CC BY 4.0
+- 2025 LiUNA! 150 - Frankie Muniz.jpg by Caleb Spicer, CC BY 4.0
+- 2025 LiUNA! 150 - Will Lambros.jpg by Caleb Spicer, CC BY 4.0
+- 2025 LiUNA! 150 - Ben Rhodes.jpg by Caleb Spicer, CC BY 4.0
+- Starr 041106-0424 Pennisetum clandestinum.jpg by Forest & Kim Starr, CC BY 3.0
+- Laurel Street, Uptown New Orleans, June 2023 - 44.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) DSC 7353.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Toyota Tacoma TRD Off Road black rear.jpg by Throwawayacc222, CC0
+- 2024 Chevrolet Colorado Z71, front left, 09-28-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Colorado Z71 GMT31XX-2 Jet Black (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick Coupe 1973.jpg by RL GNZLZ, CC BY-SA 2.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- 23 Toyota Tacoma TRD Pro.jpg by HJUdall, CC0
+- 2024 Toyota Tacoma TRD Sport rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- 22 Toyota Tacoma SR.jpg by HJUdall, CC0
+- 2025 Toyota Tacoma SR Xtracab, rear 5.4.25.jpg by Kevauto, CC BY-SA 4.0
+- 2026 Chevrolet Colorado WT, front left, 09-27-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Colorado WT 4WD in Sterling Grey Metallic, Front Right, 08-19-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 21 Toyota Tacoma TRD Sport.jpg by HJUdall, CC0
+- 2020 Toyota Tacoma TRD Sport 4X4 Crew Cab V6 in Barcelona Red Metallic, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Chevrolet Colorado ZR2 (2026) (55208119401).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Colorado ZR2 (2026) (55208511175).jpg by Charles from Port Chester, New York, CC0
+- ToyotaTacomaSIAM2024.jpg by Bull-Doser, Public domain
+- 2024 Cleveland Auto Show (53571764732).jpg by Erik Drost, CC BY 2.0
+- Toyota Tacoma XtraCab 2WD.jpg by Mliu92, CC BY-SA 3.0
+- Toyota Tacoma XtraCab 2WD 2.jpg by Mliu92, CC BY-SA 3.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- PIMS 2024 - Ford Ranger 3.0 EcoBoost Raptor 4x4 V6.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Ford Ranger Raptor Ecoboost 4x4 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- White Checkered 2017-20 Chevrolet Colorado ZR2 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- 24 Chevrolet Colorado ZR2 Bison.jpg by HJUdall, CC0
+- 2024 Chevrolet Colorado interior.jpg by Deathpallie325, CC BY-SA 4.0
+- 2012 Chevrolet Colorado interior.jpg by Deathpallie325, CC BY 4.0
+- Ford Ranger Raptor (P703) 1X7A6776.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6774.jpg by Alexander-93, CC BY-SA 4.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Old-timey gas station in La Riviere, Manitoba. (40655843463).jpg by Rob Swystun from Winnipeg, Canada, CC BY 2.0
+- 2024 Chevrolet Colorado ZR2, rear right, 07-18-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- My Public Lands Magazine, Summer 2014 (13992918113).jpg by Bureau  of Land Management, Public domain
+- Leftovers (8291902463).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 22 Chevrolet Colorado ZR2.jpg by HJUdall, CC0
+- 2025 Chevrolet Colorado ZR2, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Little Big Trailer towed by Ram Pickup @ WPB Service Plaza.jpg by DanTD, CC BY 4.0
+- EB I-10 Jeff Co Rest Area; No Left Turn from Picnic Area Exit.jpg by DanTD, CC0
+- 2024 Toyota Tacoma TRD Sport interior.jpg by Deathpallie325, CC BY-SA 4.0
+- 23 GMC Canyon AT4.jpg by HJUdall, CC0
+- GMC Canyon AT4 GMT31XX Double Cab.jpg by Bull-Doser, Public domain
+- Ford Ranger XLT 2.5 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- 1977 Ford F-150 Ranger XLT regular cab 8' Styleside 2WD, front left, 06-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Tacoma Trailhunter (2026) (55212826017).jpg by Charles from Port Chester, New York, CC0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- QFR Ford Ranger ERV Trayback.jpg by FlightJeremy, CC BY-SA 4.0
+- QFR Ford Ranger ERV Servicebody.jpg by FlightJeremy, CC BY-SA 4.0
+- 24 Jeep Gladiator Rubicon Mopar 24 Edition.jpg by HJUdall, CC0
+- Jeep Gladiator (JT) Rubicon in red - 2of2.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- 2006 Honda Ridgeline 3.5 V6 4WD.jpg by Rutger van der Maar, CC BY 2.0
+- 2017 Honda Ridgeline.jpg by DestinationFearFan, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, rear right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- IIHS crash hall.jpg by Brady Holt, CC BY 3.0
+- Ford Focus versus Ford Explorer crash test IIHS.jpg by Brady Holt, CC BY 3.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 GMC Canyon Denali interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2023 GMC Canyon.jpg by 42-BRT, CC BY-SA 4.0
+- GMC Canyon AT4 Crew Cab (2023) (53625710470).jpg by Charles from Port Chester, New York, CC BY 2.0
+- GMC Canyon AT4 Crew Cab.JPG by Bull-Doser, Public domain
+- 1987 Jeep Comanche pickup in black at 2021 Macungie meet 2of4.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1987 Jeep Comanche pickup in black at 2021 Macungie meet 1of4.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Hoonigan Jeep Gladiator, EMS 23, Essen (P1170041-RR).jpg by MB-one, CC BY-SA 4.0
+- Jeep Gladiator (JT) 1X7A0017.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2008 Dodge Dakota.jpg by IFCAR, Public domain
+- Dakota interior 2003.jpg by OrangeMooch17, CC BY-SA 4.0
+- 2023 Toyota Tacoma TRD Off-Road Double Cab in Black, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 2023 Toyota Tacoma TRD Off-Road Double Cab in Black, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2013 Chevrolet Colorado LT 2.8 front.jpg by LuvsMG481, CC BY-SA 4.0
+- 2013 Chevrolet Colorado LT 2.8 rear.jpg by LuvsMG481, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma in the Snow.jpg by Mundanemetal, CC BY 4.0
+- Chevrolet Colorado High Country 2018 (46414614972).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Royal Thai Army, Chevrolet Colorado utility truck..jpg by Manrat Thiusthas, CC BY-SA 4.0
+- 2024 Ford Ranger Raptor 4x4 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ford Ranger Raptor Ecoboost Auto.jpg by Calreyn88, CC BY-SA 4.0
+- Starr 060307-6671 Panicum maximum.jpg by Forest & Kim Starr, CC BY 3.0
+- Starr 060307-6660 Cenchrus ciliaris.jpg by Forest & Kim Starr, CC BY 3.0
+- 24 Toyota Tacoma TRD Pro HV.jpg by HJUdall, CC0
+- 22 Toyota Tacoma TRD Pro.jpg by HJUdall, CC0
+- Ford Ranger Wildtrak (T6, P375) 1X7A6170.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Stormtrak (T6, P375) 1X7A0369.jpg by Alexander Migl, CC BY-SA 4.0

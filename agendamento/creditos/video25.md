@@ -1,0 +1,107 @@
+# Photo credits: 6 Truck Problems Nobody Warns You About (Check Before You Buy in 2027)
+
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2017 chevrolet silverado 1500 wt regular standard obseve.jpg by Rjluna2, CC BY-SA 4.0
+- 2017 chevrolet silverado 1500 wt regular standard reverse.jpg by Rjluna2, CC BY-SA 4.0
+- 2015 Chevrolet Silverado interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 Chevrolet Silverado interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 Chevrolet Silverado facelift interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2017 silverado 1500 4wd double cab standard box lt z71 rally 2 edition (observe).jpg by Rjluna2, CC BY-SA 4.0
+- 2017 silverado 1500 4wd double cab standard box lt z71 rally 2 edition (reverse).jpg by Rjluna2, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- 2022 Ram 1500 interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2021 Ram 1500 interior.jpg by deathpallie325, CC BY-SA 4.0
+- Ram 1500 Limited (2022).jpg by Y.Leclercq, CC BY-SA 4.0
+- 2013 Ram 1500 @ the 2012 New York International Auto Show (7048361135).jpg by LotPro Cars, CC BY-SA 2.0
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- Ford Ranger Super Duty carsales.jpg by carsales.com.au, CC BY 4.0
+- Ford Super Duty Pickup Truck Grille (54176646134).jpg by Tony Webster, CC BY 2.0
+- Ford 2011 Super Duty Pickup Truck.jpg by Tabercil from Canadian, CC BY-SA 2.0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 1999 Ford F-150 interior.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- 2021 Ford F-550 Super Duty interior.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2019 Ford F-250 Platinum interior.jpg by deathpallie325, CC BY-SA 4.0
+- Tesla Cybertruck - Interior - Tesla Store Athens 2024.jpg by Mpelas199, CC0
+- Tesla Cybertruck - Interior 3 - Tesla Store Athens 2024.jpg by Mpelas199, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- 2015 Chevrolet Silverado 1500 LTZ, front 2.29.20.jpg by Kevauto, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71, rear 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- Toyota Tundra Track Cleaner Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra SR5.jpg by HJUdall, CC0
+- Ram 2500 SLT Heavy Duty Quad Cab 2012 (16861616546).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford Explorer EV IAA 2023 1X7A0593.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Explorer EV IAA 2023 1X7A0592.jpg by Alexander-93, CC BY-SA 4.0
+- 2017 Ford F-150 front 5.19.18.jpg by Kevauto, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 2507.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Ford F150 Platinum Crew Cab (29118624415).jpg by Sicnag, CC BY 2.0
+- 1998-2003 Ford F-150 tailgate mural.jpg by LouieRBLX, CC BY-SA 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- NB I-75 Rest Area, Marion Co, FLA; Volvos, Freightliners, Fords and other trucks.jpg by DanTD, CC BY-SA 4.0
+- White Ford F-250 Towing UTV on W Ann Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- Alky flopper under tow.jpg by Trekphiler, CC BY 3.0
+- Luxury Cars towed by Ram Crew Cab at SB I-95 Rest Area.jpg by DanTD, CC BY 4.0
+- EB I-4 Seminole Co Rest Area; Truck Parking-3.jpg by DanTD, CC BY-SA 4.0
+- Northbound RV parking mates (that's us in the middle) (48681147817).jpg by dvs from Vermont, USA, CC BY 2.0
+- Ford F-350 Super Duty (9202536689).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2003 Ford F-150 Super Crew, brush guard, sun guard, window gards (3356451932).jpg by Mark Skrobola from NJ, USA, CC BY 2.0
+- Loading GOES-T onto C-5 Super Galaxy (51670635145).jpg by NOAASatellites, Public domain
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford Expedition Limited 3.5 EcoBoost 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- London Police Service Ford Expedition - 2022.jpg by SpoonCivicTypeR, CC BY 4.0
+- 2016 Ford F-150 XL.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2009 Ford F-150 XLT 5.4 V8.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Denver Auto Show Ford F-150 Lightning wheel.jpg by Corqe, CC0
+- Ford F-150 Lightning CRI 02 2023 1907.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 FX2 -- 06-04-2010.jpg by IFCAR, Public domain
+- West Yellowstone (MT, USA), Yellowstone Avenue, Fahrzeuge der Yellowstone Vacation Tours -- 2022 -- 2381.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 22 Ford F-350 Super Duty King Ranch.jpg by HJUdall, CC0
+- Ford F-250 Super Duty, parking lot of Walmart Supercenter, Bloomsburg, Pennsylvania, May 4 2024.jpg by Deans Charbal, CC BY-SA 4.0
+- White Ford F-250 Super Duty, parking lot of Hoopla's Xtreme, Shamokin Dam, Pennsylvania, May 5 2024.jpg by Deans Charbal, CC BY-SA 4.0
+- National Grid USA Gas Line Work, Baxter Estates, NY August 30, 2022.jpg by AITFFan1, CC BY-SA 4.0
+- CBP OFO Officers Provide Humanitarian Support to Victims Affected by Hurricane Harvey (36575857520).jpg by U.S. Customs and Border Protection, Public domain
+- 2005 Ford F-350.jpg by Calreyn88, CC BY-SA 4.0
+- 1997 Ford F-350 4x4 DRW XL regular cab, front left, 08-03-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2001 Ford F-250 Super Duty XL regular cab flatbed, front left, 05-17-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2021 F-250 Super Duty XLT Tremor in Carbonized Gray (front).jpg by Jstoker421, CC BY-SA 4.0
+- 1965 Ford F-100 Custom Cab Pickup (25070510270).jpg by Sicnag, CC BY 2.0
+- 1994 Ford F-350 XLT 4x4 crew cab, front left, 08-06-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1978 Ford F-250 Ranger regular cab Camper Special.jpg by MercurySable99, CC BY-SA 4.0
+- Lifted White Ford F-250 on W Tropical Pkwy.jpg by Noah Wulf, CC BY-SA 3.0
+- Ford F-250 lifted.jpg by https://www.flickr.com/photos/diamondbackcovers/, CC BY-SA 2.0
+- Tow trucks at Græsted Veterantræf 2017.jpg by Leif Jørgensen, CC BY-SA 4.0
+- Danmarks Tekniske Museum - Zone-Redningskorpset 06.jpg by Leif Jørgensen, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- GMC Sierra Duramax 1500 CC GMTT1XX.jpg by Bull-Doser, Public domain
+- 2002 GMC Sierra 1500, Rear Left, 04-13-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Ford F650 XLT Super Duty Pickup Truck.jpg by Michel Curi, CC BY 2.0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0

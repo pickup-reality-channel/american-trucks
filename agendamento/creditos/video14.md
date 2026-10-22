@@ -1,0 +1,81 @@
+# Photo credits: Heavy-Duty Trucks in 2027: Sales Are Falling, But Why Do They Hold Value?
+
+- Ford F-350 Super Duty Extended Cab.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty Albi Ford.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty Crew Cab P221.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty PowerStroke Ferrento Regular Cab.jpg by Bull-Doser, Public domain
+- 24 Ford F-350 Super Duty XL CC.jpg by HJUdall, CC0
+- Ford Super Duty militar.jpg by Preyes, CC BY 4.0
+- Ford F 350 Super Duty PHN131.jpg by Bull-Doser, Public domain
+- '17 Ford F-250 Super Duty Crew Cab.jpg by Bull-Doser, Public domain
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2014 (16330261513).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Quad Cab 2014 (10093419036).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 SLT Heavy Duty Quad Cab 2012 (12530261853).jpg by order_242 from Chile, CC BY-SA 2.0
+- Dodge Ram 2500 Heavy Duty 2007 (9321859751).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2012 Ram 2500 Heavy Duty crew cab Cummins diesel - in Aberdeen NC.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC0
+- Dodge Ram 2500 SLT Heavy Duty 2009 (15797695096).jpg by order_242 from Chile, CC BY-SA 2.0
+- Dodge Ram 2500 Laramie Heavy Duty Quad Cab 2009.jpg by Qwerty242, CC BY-SA 3.0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 2003 Chevrolet Silverado 2500HD regular cab 4x4, front right, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 2500HD Extended.JPG by Bull-Doser, Public domain
+- 19 Chevrolet Silverado 2500HD LTZ.jpg by HJUdall, CC0
+- Chevrolet Silverado RDR 2500HD GMT911.jpg by Bull-Doser, Public domain
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- '17 Ford F-250 Super Duty Double Cab.jpg by Bull-Doser, Public domain
+- Ford F-250 Super Duty P473 King Maintenance.jpg by Bull-Doser, Public domain
+- 2016 Ford F-250 Super Duty XL Regular Cab 4x4 with XL Appearance Package, front left, 10-28-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Ram Heavy Duty DS Crew Cab (Tuned).jpg by Bull-Doser, Public domain
+- 2021 Ford Super Duty.jpg by Scott Beeton, CC BY-SA 4.0
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- Ford Ranger Super Duty carsales.jpg by carsales.com.au, CC BY 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1999 Dodge Ram Cab 2500 4x4 stakebed.jpg by Mr.choppers, CC BY-SA 3.0
+- Ram 3500 pickup truck Eastern Avenue downtown Saint Johnsbury VT September 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 18 Ram 3500 Tradesman.jpg by HJUdall, CC0
+- 2019 Ram 3500 Heavy Duty Turbo Diesel with Cummins engine front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- Ram 3500 SLT Heavy Duty Quad Cab Dual 2012 (10969261326).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- Chevrolet Silverado 2500HD Regular Cab Love's.jpg by Bull-Doser, Public domain
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 21 Chevrolet Silverado 3500HD LT.jpg by HJUdall, CC0
+- GMC Sierra HD Crew Cab GMTT1XX Denali.jpg by Bull-Doser, Public domain
+- GMC Sierra Crew Cab HD Elior.jpg by Bull-Doser, Public domain
+- GMC Sierra 3500HD Denali GMT912.jpg by Bull-Doser, Public domain
+- 18 GMC Sierra 3500HD Denali.jpg by HJUdall, CC0
+- 23 Ford F-350 Super Duty Lariat.jpg by HJUdall, CC0
+- 18 Ford F-350 Super Duty Lariat.jpg by HJUdall, CC0
+- Ford Super Duty P558 F-450 Crew Cab.jpg by Bull-Doser, Public domain
+- 19 Ford F-450 Super Duty Platinum.jpg by HJUdall, CC0
+- Ford F-250 Super Duty P221 Regular Cab.JPG by Bull-Doser, Public domain
+- Ford F-250 Super Duty P473 Englobe.jpg by Bull-Doser, Public domain
+- 2019 or 2020 Chevrolet Silverado 6500HD Medium Duty front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Chevrolet Silverado 6500HD - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Mercedes-Benz Trucks plant of Foton Daimler at Miaocheng (20260122150609).jpg by N509FZ, CC BY-SA 4.0
+- Motor Vehicles - Motor Trucks - Parts - Bodies - Hercules Buggy Co. & International Harvester - Manufacture of bodies for Class B Army motor trucks at the Deering Plant of International Harvester Corp., Chicago, (...) - NARA - 45505793.jpg by Unknown authorUnknown author or not provided, Public domain
+- 2022 Chevrolet Silverado 6500HD - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- U.S. Navy Chevrolet Silverado Chassis Cab Las Vegas Fall 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- Ford F-350 NASCAR Safety Truck Roseville 2021.jpg by TaurusEmerald, CC BY-SA 4.0
+- Ford F-350 NASCAR Safety Truck Madera 2023.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- 22 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- Ford F-250 Super Duty P558 Extended Cab.jpg by Bull-Doser, Public domain
+- 2018 Ram 3500 Laramie Crew Cab 4x4 with 8' Box, front left, 12-08-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2018 Ram 3500 Laramie Crew Cab 4x4 with 8' Box, rear right, 12-08-2022.jpg by MercurySable99, CC BY-SA 4.0
+- '06 Chevrolet Silverado 2500HD Crew Cab.JPG by Bull-Doser, Public domain
+- 08 Chevrolet Silverado 2500HD LT2.jpg by HJUdall, CC0
+- Dodge Ram 3500 Heavy Duty (14918338027).jpg by FotoSleuth, CC BY 2.0
+- 2024 Ram Heavy Duty 3500 Limited Longhorn Crew Cab SRW 6'4 Box in Pearl White & Walnut Brown Metallic Two-Tone, front left, 2026-05-09.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-350 Super Duty Extended.JPG by Bull-Doser, Public domain
+- Ford F-350 Super Duty (25518606998).jpg by Guillaume Vachey, CC0
+- Chevrolet Silverado 3500 HD GMT911.jpg by Bull-Doser, Public domain
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1978 Ford F-250 Ranger regular cab Camper Special.jpg by MercurySable99, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

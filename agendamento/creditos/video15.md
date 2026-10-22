@@ -1,0 +1,79 @@
+# Photo credits: Why Ram Trucks Are Surging in 2026 (And the Catch Nobody Mentions)
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- Ram 1500 V6 eTorque Big Horn 2022 (53411473634).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- 2009 Dodge Ram SLT Big Horn Quad Cab.jpg by IFCAR, Public domain
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- 25 Ram 1500 Big Horn.jpg by HJUdall, CC0
+- 2009 silver Dodge Ram Big Horn ed. side.JPG by BrokenSphere, CC BY-SA 3.0
+- 2009 silver Dodge Ram Big Horn ed. front.JPG by BrokenSphere, CC BY-SA 3.0
+- 2009 silver Dodge Ram Big Horn ed. rear.JPG by BrokenSphere, CC BY-SA 3.0
+- Ram 1500 Rebel (DT) IMG 5357.jpg by Alexander Migl, CC BY-SA 4.0
+- Male Exiting Gray Dodge Ram 1500 in Lane.jpg by Noah Wulf, CC BY-SA 4.0
+- Tactical One Ram 1500 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 Rebel 5.7 Hemi Crew Cab 2021.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DS 5.7 Hemi Crew Cab 2017.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1999 Dodge Ram Cab 2500 4x4 stakebed.jpg by Mr.choppers, CC BY-SA 3.0
+- Ram 2500.jpg by בויי הרובוט, CC BY-SA 4.0
+- Bureau of Land Management Ram 2500.jpg by Noah Wulf, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (1).jpg by Damian B Oh, CC BY-SA 4.0
+- 2017 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- 2018 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado GMTT1XX Crew Cab.jpg by Bull-Doser, Public domain
+- 2005 Chevrolet Silverado 2500 6.6 V8 Diesel (51163157037).jpg by Rutger van der Maar, CC BY 2.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Retro-Travel Trailer @ NB I-75 Pasco Rest Area.jpg by DanTD, CC BY-SA 4.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Ram 1500 SLT 2012 (53112209661).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ram 1500 Laramie 2013 (10093421586).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2019 Ram 1500 Laramie, rear 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Rebel 5.7 Hemi Crew Cab 2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 Rebel 5.7 Hemi Crew Cab 2022 (2).jpg by Ethan Llamas, CC BY-SA 4.0
+- Jeep Wrangler JL or a Jeep Gladiator JT.jpg by Oleg Yunakov, CC BY-SA 4.0
+- U.S. Navy Jeep Gladiator Las Vegas Fall 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Jeep Gladiator (JT) 1X7A0017.jpg by Alexander Migl, CC BY-SA 4.0
+- Jeep Gladiator in Ukiah - December 2023 - Sarah Stierch.jpg by Missvain, CC BY 4.0
+- Black Ram 2500 in Las Vegas Neighborhood.jpg by Noah Wulf, CC BY-SA 4.0
+- Ram 2500 SLT Crew Cab 2013 (36692665703).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ram 3500 pickup truck Eastern Avenue downtown Saint Johnsbury VT September 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Moscow, big black rusty Dodge RAM SLT, Mar 2026 01.jpg by Retired electrician, CC0
+- Big Cat Fuels and Mi Casita Mexican Restaurant, Cairo, Georgia.jpg by The Bushranger, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2020 Ram 1500 Laramie, front 2.29.20.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ram K2 1500 Hemi Rocky Ridge.jpg by DestinationFearFan, CC BY-SA 4.0
+- Ram 1500 Hemi 2012 (15159327445).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 Rebel 5.7 Hemi Crew Cab 2022 (1).jpg by Ethan Llamas, CC BY-SA 4.0
+- 2020 Ram 1500 Classic Tradesman Crew Cab with SXT Package, front left 09-12-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2017 Ram 1500 ST Hemi Crew Cab 4x2 5'7 Box with Tradesman Package and Popular Equipment Group in Bright Silver Metallic, Front Right, 2023-12-18.jpg by Elise240SX, CC BY-SA 4.0
+- 2025 Ram 1500 rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- 1996 Dodge Ram 1500 Front Drivers side.jpg by NickWilson1964, CC BY-SA 4.0
+- Ram 1500 DT FL 3.0 Rebel Billet Silver Metallic.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DS 5.7 Hemi Lariat Bright White 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Tahoe Hotshots (28467253560).jpg by BLM Nevada, Public domain
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 DS 5.7 Hemi Lariat Bright White 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2020 Ram 1500 5.7 Hemi Laramie Longhorn in Billet Silver, front left.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Granite Crystal Metallic (21).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Granite Crystal Metallic (24).jpg by Damian B Oh, CC BY-SA 4.0

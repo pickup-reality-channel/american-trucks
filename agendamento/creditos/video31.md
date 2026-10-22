@@ -1,0 +1,106 @@
+# Photo credits: Every New Truck Coming in 2027 (One Just Got Delayed Again)
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2026 Chevrolet Silverado SIAM de 2026.jpg by Bull-Doser, Public domain
+- 2003–2006 Chevrolet Silverado 1500, purple, 2026 Hot Wheels Legends Tour - Albuquerque, NM 2026-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1981–1986 Chevrolet Silverado 10, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- California Highway Patrol Chevrolet Silverado Z71 Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2026 Chevrolet Silverado EV au SIAM 2026.jpg by Bull-Doser, Public domain
+- 1994 GMC Sierra 1500, 2026 Hot Wheels Legends Tour - Albuquerque, NM 2026-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1999–2006 GMC Sierra 1500, "Lightning McQueen", 2026 Hot Wheels Legends Tour - Albuquerque, NM 2026-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
+- GMC Sierra 1500 (E4 NSU) - 21 June 2026.jpg by Aethonatic, CC0
+- 2026 GMC Sierra 1500 au SIAM 2026.jpg by Bull-Doser, Public domain
+- 1982 GMC Sierra Classic 1500, brown, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ford F-150 Supertruck.jpg by Calreyn88, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet 327 Cubic Inch Small-Block V8 Engine Marinized By Chris-Craft, Incorporated Of Algonac, Michigan; Mounted On An Engine Hoist.jpg by TruckMatt, CC0
+- Left Side Of A Chevrolet 327 Cubic Inch Small-Block V8 Marinized By Boat Manufacturer Chris-Craft Of Algonac, Michigan.jpg by TruckMatt, CC BY 4.0
+- Chevrolet Silverado High Country Duramax 2022.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Duramax Extended Cab.JPG by Bull-Doser, Public domain
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- JeffDavisMLKEarhartServicePickupBlueplate.JPG by Infrogmation of New Orleans, CC BY 3.0
+- JeffDavisMLKEarhartServicePickup.JPG by Infrogmation of New Orleans, CC BY 3.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (4).jpg by Damian B Oh, CC BY-SA 4.0
+- '14-'15 GMC 1500 Sierra Montréal East Towing Crew Cab.jpg by Bull-Doser, Public domain
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- GMC Sierra 1500 Denali GMTT1XX Crew Cab.jpg by Bull-Doser, Public domain
+- GMC Sierra Denali 2500 HD (2025) (55215914339).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette Stingray (C7) (52528871077).jpg by More Cars, CC BY 2.0
+- Chevrolet Camaro 400hp.jpg by Scott Hudson from Tucson Arizona , USA, CC BY 2.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 26 GMC Sierra EV AT4.jpg by HJUdall, CC0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dodge Ram 1500 Daytona SRT-10.JPG by Bull-Doser, Public domain
+- 73128 Hither Green to Hither Green 1Q64 (18760502689).jpg by Train Photos, CC BY-SA 2.0
+- 2008 Dodge Dakota.jpg by IFCAR, Public domain
+- Dakota interior 2003.jpg by OrangeMooch17, CC BY-SA 4.0
+- Belvidere Assembly Plant South Summer 2026.jpg by Morlack7, CC0
+- Belvidere Assembly Plant South Summer 2026 West End.jpg by Morlack7, CC0
+- 1990 Dodge Dakota (Cruisin' At The Boardwalk '12).jpg by Bull-Doser, Public domain
+- 91 Dodge Dakota R-T (8931694859).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Louisville Assembly Plant.jpg by Smokeyrunbandit, CC BY-SA 3.0
+- Ford Buffalo Stamping Plant from near entrance to Woodlawn Beach State Park, Hamburg, New York - 20211102.jpg by Andre Carrotflower, CC BY-SA 4.0
+- BlueOval City.jpg by Arctyx creative, CC BY-SA 4.0
+- Ford assembly line - 1913.jpg by Unknown authorUnknown author, Public domain
+- Assembly line Ford T, 1923.jpg by Peter Elfelt, CC BY-SA 4.0
+- 1924 Ford Model T Flivver IAA 2023 1X7A0610.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Model T BW 2018-07-15 13-17-32.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford F-150 Lightning Platinum (2024) (53621721260).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford F-150 Lightning Platinum (2024) (53621721230).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- Honda Ridgeline P4220684.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Honda Ridgeline RTL-E Offroad.jpg by Jennie Logan, CC BY-SA 4.0
+- 1988 Dodge Shelby Dakota Prototype, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Lunar Electric Rover 2008 desert testing 2.JPG by NASA/Regan Geeseman, Public domain
+- Warsaw-indiana-from-above.jpg by unknown, Public domain
+- Warsaw-indiana-downtown.jpg by Derek Jensen, Public domain
+- Lunar Electric Rover at 2009 Presidential inauguration parade 2.jpg by Bill Ingalls, Public domain
+- Fish4345 - Flickr - NOAA Photo Library.jpg by SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC., Public domain
+- Electric Car Charging Point, Ditchling Road, Brighton (September 2010).JPG by Hassocks5489, CC0
+- Elways electric truck dynamic charging electric road eRoadArlanda project 2019-05-16.jpg by Gunnar Asplund, gasplund@elways.se, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050112).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050123).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Jerzy Jeliński in Katowice after returning from a trip around the world.jpg by Unknown authorUnknown author, Public domain
+- Ekspedycja Jerzego Jelińskiego dookoła świata - pobyt w Tokio. Polski harcerz Jerzy Jeliński przy samochodzie Buick, przed polskim poselstwem.jpg by Unknown authorUnknown author, Public domain
+- Harcerska Ekspedycja Dookoła Świata. Harcerze Jerzy Jeliński, Bruno Bredschneidre, Jan Wacław Łada, Eugeniusz Henryk Smosarski stoją przed samochodem marki Ford.jpg by Unknown authorUnknown author, Public domain
+- Pobyt Jerzego Jelińskiego na Wawelu w Krakowie po powrocie z ekspedycji dookoła świata. Harcerz Jerzy Jeliński (z prawej) przy swoim Buick'u.jpg by Unknown authorUnknown author, Public domain
+- Škoda Octavia Scout front Poznan 2011.jpg by Peżot, CC0
+- Škoda Karoq Scout at Paris Motor Show 2018, Paris (1Y7A2125).jpg by Matti Blume, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2025 Ram 1500 rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- La Grande - Larison - Frees Chevrolet Co..JPG by Publichall, CC BY-SA 3.0
+- Possible 2026 Chevy Silverado 2500 HD @ Orange and Landstreet, Taft, FL.jpg by DanTD, CC BY 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 1990 GMC Sierra K-1500 SLE Sportside, front left, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- Silverado 2500 - Bomberos Nayarit.jpg by IBERZA, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 25 Ford Maverick XLT.jpg by HJUdall, CC0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0

@@ -1,0 +1,155 @@
+# Photo credits: Chevy vs Ford vs Ram: Who Is Really Winning the Truck War in 2026?
+
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Butler and Douglas Memorial Park.jpg by The Bushranger, CC BY-SA 4.0
+- Manitoba Drive shopping area in Clarenville.jpg by Ycleymans, CC BY 4.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Walt's Live Oak Chrysler Dodge Jeep Ram.jpg by The Bushranger, CC BY-SA 4.0
+- Action GM of Bainbridge.jpg by The Bushranger, CC BY-SA 4.0
+- Tifton Harley-Davidson (south face).JPG by Michael Rivera, CC BY-SA 3.0
+- Levi Rathburn House site in Mechanicsburg.jpg by Nyttend, Public domain
+- AC&I office site.jpg by Nyttend, Public domain
+- 23 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- 15 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- Maryland Natural Resources Police Chevy pickup at 2020 Graduation Ceremony.jpg by Maryland GovPics, CC BY 2.0
+- NSSL researchers prep for deployment in the NWC truck bay 07.jpg by NOAA NSSL, CC0
+- Box Canyon Recreational Shooting Site pistol range (53167193721).jpg by BLMArizona, Public domain
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 GMC Sierra EV Denali front view.jpg by Deathpallie325, CC BY-SA 4.0
+- GMC Sierra Classic pickup truck.jpg by dave_7, CC BY 2.0
+- Ford F-450 Super Duty - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford F-450 Super Duty - 01.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 22 Ford F-450 Super Duty Limited.jpg by HJUdall, CC0
+- Volvo VNL 860 transporting a Chevrolet Silverado, Essex, Ontario, 2025-08-30 01.jpg by Chris Woodrich, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado 1500 Crew Cab Rona.jpg by Bull-Doser, Public domain
+- National Park Service employee works to fill pickup truck with debris.jpg by CapeHatterasNPS, Public domain
+- 200915-H-DO456-010.jpg by CBP Photography, Public domain
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- Silverado 2500 - Bomberos Nayarit.jpg by IBERZA, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Chevrolet Advance Design red.jpg by Gzzz, CC BY-SA 4.0
+- Chevrolet 3600 pickup.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet Advance Design 1953 Jeff's Restaurant Silesia City Center Katowice 02.jpg by Abraham, CC BY 4.0
+- 1977 Ford F-150 Custom Regular Cab 8' Styleside, 07-22-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 1977 Ford F-150 Ranger XLT regular cab 8' Styleside 2WD, front left, 06-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 73-77 Ford F-150 Explorer.jpg by IFCAR, Public domain
+- 1972 Chevrolet Pickup 5.7 V8 (53608125288).jpg by Kieran White from Manchester, England, CC BY 2.0
+- 1960 Chevrolet Apache 10 Stepside by mick.jpg by Mick from Northamptonshire, England, CC BY 2.0
+- Classic truck (6650148151).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 94-01 Dodge Ram regularcab.jpg by IFCAR, Public domain
+- Dodge Ram 2500 -- 11-26-2011 1.jpg by IFCAR, Public domain
+- 1991-93 Dodge Ram 250 Club Cab Cummins.jpg by Mr.choppers, CC BY-SA 3.0
+- Dodge Ram 2500 Cummins Turbo Diesel (50656854711).jpg by Dennis Elzinga, CC BY 2.0
+- Ram 2500 Cummins Crew Cab.jpg by Bull-Doser, Public domain
+- 2012 Ram 2500 Heavy Duty crew cab Cummins diesel - in Aberdeen NC.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC0
+- Ram 1500 Limited (2022).jpg by Y.Leclercq, CC BY-SA 4.0
+- 2022 Ram 1500 interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 Ram 1500 Limited Crew Cab 4x4, front left, 05-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, rear 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Bighorn, front 3.11.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 2.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 2.28.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Bighorn, rear 3.11.20.jpg by Kevauto, CC BY-SA 4.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2014 Washington Auto Show (12090381783).jpg by U.S. Department of Energy from United States, Public domain
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 1).jpg by Gerhard Fieseler Werke GmbH, CC0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 4).jpg by Gerhard Fieseler Werke GmbH, CC0
+- 1992 ford f-150 custom (obverse).jpg by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (script).JPG by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (reverse).JPG by Rjluna2, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST, NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST, front NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST.jpg by Wlb5V, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1907.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3638.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2017 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- 2018 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Granite Crystal Metallic (11).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Delmonico Red Pearl (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Delmonico Red Pearl (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 5.7 Hemi Lariat 2017.jpg by Ethan Llamas, CC BY-SA 4.0
+- DodgeRamHemi.jpg by dodge challenger1, CC BY 2.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 Rebel (DT) IMG 5357.jpg by Alexander Migl, CC BY-SA 4.0
+- Male Exiting Gray Dodge Ram 1500 in Lane.jpg by Noah Wulf, CC BY-SA 4.0
+- U.S. Route 60 Miami, TX-2 (24298458230).jpg by Mobilus In Mobili, CC BY-SA 2.0
+- Rockingham Speedway - Camping World Truck Series - April 15th 2012 (7086464801).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Tulane Avenue Commute New Orleans - Downriver side, 9th September 2019 12.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (1).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (2).jpg by Damian B Oh, CC BY-SA 4.0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- Ram 1500 Laramie Hemi 2013 (34211812493).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ram 1500 Laramie 2013 (10093421586).jpg by order_242 from Chile, CC BY-SA 2.0
+- Inland Empire CA 20230829 004944029.jpg by Sony 1992, CC0
+- Dark Grey Ford F-150 on U.S. Route 95.jpg by Noah Wulf, CC BY-SA 3.0
+- Toyota (4368223689).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 22 GMC Canyon Denali.jpg by HJUdall, CC0
+- 23 GMC Canyon Denali.jpg by HJUdall, CC0
+- 2023 GMC Canyon Denali interior.jpg by deathpallie325, CC BY-SA 4.0
+- Snowstorm South Parking Lot (2240246313).jpg by Aaron Tait from San Francisco, United States, CC BY 2.0
+- RV in a supermarket parking lot, Kenai Peninsula, Alaska 2010.jpg by Keith Parker, CC BY-SA 2.0
+- Friendly dog in Publix parking lot, Marietta GA.jpg by John Phelan, CC BY 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- 2024 Mint 400 (53581352711).jpg by BLM Nevada, Public domain
+- MCPC photos DSC 0049 (33688979001).jpg by Montgomery County Planning Commission, CC BY-SA 2.0
+- 2012 Suzuki Equator Pick-Up (34840906874).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 Macungie show 2of4.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Lučenec - Autogrenda.jpg by Ladislav Luppa, CC BY-SA 3.0
+- BD60052 (17.05.01, Motorvej 501)DSC 5357 Balancer (23922020018).jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- BL52067 (17.06.14, Motorvej 501, Viby J)DSC 2871 Balancer (26226953458).jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- Oregon's annular eclipse 2023 (53265843056).jpg by Bureau of Land Management Oregon and Washington from Portland, America, CC BY 2.0
+- Small team gets BLM firetrucks to America’s wildfires (22845681791).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22646540230).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- '20 Ram 2500 Cummins Crew Cab.jpg by Bull-Doser, Public domain
+- Ram 2500 DT Cummins Crew Cab.jpg by Bull-Doser, Public domain
+- '10 Ram 2500 Cummins Crew Cab (MIAS '10).jpg by Bull-Doser, Public domain
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton AXCR.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (front).jpg by Ethan Llamas, CC BY-SA 4.0
+- Mandeville Trailhead to Shiver Shack.JPG by Infrogmation of New Orleans, CC BY 3.0
+- FEMA - 15970 - Photograph by John Fleck taken on 09-20-2005 in Mississippi.jpg by John Fleck, Public domain
+- The Black Forest Fire incident command center is shown in an aerial view June 12, 2013, in Colorado Springs, Colo 130612-Z-UA373-083.jpg by Capt Darin Overstreet, Public domain
+- Toyota FJ40 truck, Bangladesh (26219451854).jpg by Shadman Samee from Dhaka, Bangladesh, CC BY-SA 2.0
+- Caterpillar 795F size comparison (cropped).JPG by TZorn, CC BY-SA 3.0
+- Photography by David Adam Kess (Classic Automobiles) Chevrolet's first major redesign post-World War 2, photography by david adam kess,Chevrolet truck front old school.jpg by David Adam Kess, CC BY-SA 4.0
+- 1964 Mercury Econoline pickup truck.jpg by Zytonits, CC BY-SA 2.0
+- Yakult Banqiao Dealer 20170624.jpg by Solomon203, CC BY-SA 4.0
+- VAZ-2121 customized to Truck.jpg by dave_7, CC BY-SA 2.0
+- Rockingham Truck Series Race April 14th 2013 (8661006753).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Rockingham Truck Series Race April 14th 2013 (8660999659).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Chase Elliot Miguel Paludo Joey Logano Ryan Blaney (8661010691).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0

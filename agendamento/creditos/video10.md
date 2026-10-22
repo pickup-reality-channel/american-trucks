@@ -1,0 +1,95 @@
+# Photo credits: The Truth About Max Towing Numbers (What the Brochure Does Not Say)
+
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- NB I-75 Rest Area, Marion Co, FLA; Volvos, Freightliners, Fords and other trucks.jpg by DanTD, CC BY-SA 4.0
+- I-95 NB Colleton Co, SC Rest Area; South Picnic Shelter.jpg by DanTD, CC BY-SA 4.0
+- Florida Fish and Wildlife Conservation Commission Ford F-150 towing 4WD vehicle.jpg by Florida Fish and Wildlife Conservation Commission, Public domain
+- 2003 Ford F-150 Super Crew, brush guard, sun guard, window gards (3356451932).jpg by Mark Skrobola from NJ, USA, CC BY 2.0
+- My 2004 F-150 Lariat 4x4 (412272284).jpg by Crystal Foxx from Sacramento, Ca, USA, CC BY 2.0
+- Madera Speedway Tow Truck.jpg by TaurusEmerald, CC BY-SA 4.0
+- Mini Miglia Challenge Crash Recovery Thruxton 2026.jpg by BWard 1997, CC BY 4.0
+- 2002-07 Chevy Silverado-1965 Aristocrat Lo-Liner.JPG by DanTD, CC BY-SA 4.0
+- Kenworth Anteater vs Chevy RV and Boat Trailers.jpg by DanTD, CC BY-SA 4.0
+- Chevy Tandem RV-Boat Trailers in NB Colleton Co Rest Area.jpg by DanTD, CC BY-SA 4.0
+- I-95 SB Johnston County NC Rest Area-5.jpg by DanTD, CC BY-SA 4.0
+- Jacob Riis Park td (2018-08-12) 131.jpg by Tdorante10, CC BY-SA 4.0
+- 1965 Aristocrat Lo-Liner; Rear End.JPG by DanTD, CC BY-SA 4.0
+- 2 Big 5th Wheelers from Brookridge, Florida.jpg by DanTD, CC BY-SA 4.0
+- Chevrolet GMT800 Towing Silverado.jpeg by Bull-Doser, Public domain
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 Rebel (DT) IMG 5357.jpg by Alexander Migl, CC BY-SA 4.0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- '17 Ford F-250 Super Duty Double Cab.jpg by Bull-Doser, Public domain
+- Ford F-250 Super Duty P473 King Maintenance.jpg by Bull-Doser, Public domain
+- 2016 Ford F-250 Super Duty XL Regular Cab 4x4 with XL Appearance Package, front left, 10-28-2022.jpg by MercurySable99, CC BY-SA 4.0
+- EastNOAp06Carpile8.jpg by Infrogmation, CC BY 2.5
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2021 Chevrolet Silverado 1500 LT 4x4 Double Cab, front right, 09-02-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2011 Chevrolet Silverado 1500 LT Extended Cab Standard Box 4x4 in Victory Red, front left, 2024-06-17.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 Ram 1500 Crew Cab Short Box Sport 4x4 in Bright White, front left, 2026-04-05.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 Ram 1500 Crew Cab Short Box Sport 4x4 in Bright White, rear left, 2026-04-05.jpg by Elise240SX, CC BY-SA 4.0
+- Ram 1500 V6 eTorque Big Horn 2022 (53411473634).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- Toyota Tacoma towing trailer Photographs by Jared Tarbell.jpg by Jared Tarbell, CC BY 2.0
+- This is not a roadway.jpg by Elliott R. Plack, CC0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- '03-'06 Chevrolet Silverado 3500 Towing.jpg by Bull-Doser, Public domain
+- 1986 Chevrolet C30 Silverado 3+3 Double Cab tow truck.jpg by Mr.choppers, CC BY-SA 3.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- Butler and Douglas Memorial Park.jpg by The Bushranger, CC BY-SA 4.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- 2009 Dodge Ram SLT Big Horn Quad Cab.jpg by IFCAR, Public domain
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- 2024 Chevrolet Colorado ZR2, rear right, 07-18-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2025 Chevrolet Colorado ZR2, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 03-05 Chevrolet Silverado 1500 Work Truck 4x4 regular cab.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD GMT911.jpg by Bull-Doser, Public domain
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Chevrolet Silverado 1500 GMT800 Regular Cab.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado LT Z71 GMTK2CC FL Summit White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Silverado LT Z71 GMTK2CC FL Summit White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Silverado 1500 regular cab pickup truck with Monster Energy promotional livery and aftermarket off-road accessories - FirstLook festival in the Netherlands.jpg by Sebastiaan Broekhoven, CC BY-SA 4.0
+- Modified White Chevrolet Silverado High Country on W Craig Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- 1999 Ford F-150 Lariat SuperCab 6.5' Styleside, front left, 06-15-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 1990 Ford F-150 XLT Lariat 4x2 regular cab 8' Styleside, rear left, 06-24-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, rear right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, front right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- White Checkered 2017-20 Chevrolet Colorado ZR2 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2024 Ford F-150 King Ranch front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- 2023 Hyundai Santa Cruz au SIAM 2023.JPG by Bull-Doser, Public domain
+- 2022 Hyundai Santa Cruz, Front Left, 10-17-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Ram 1500 SLT 2012 (53112209661).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ram 1500 Rebel 4X4 DT Bright White (2).jpg by Damian B Oh, CC BY-SA 4.0

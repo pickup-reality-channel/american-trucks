@@ -1,0 +1,107 @@
+# Photo credits: The Most Stolen Trucks in America (One Is Stolen 10x More Than Average)
+
+- 11 GMC Sierra 2500HD Denali.jpg by HJUdall, CC0
+- 24 GMC Sierra 2500HD SLE.jpg by HJUdall, CC0
+- 15 GMC Sierra 2500HD Denali.jpg by HJUdall, CC0
+- GMC Sierra 2500HD Extended Cab.JPG by Bull-Doser, Public domain
+- GMC Sierra 2500HD Crew Cab.jpg by Bull-Doser, Public domain
+- GMC Sierra 2500HD GMT800.JPG by Bull-Doser, Public domain
+- 24 GMC Sierra 2500HD Pro.jpg by HJUdall, CC0
+- GMC Sierra 2500HD Extended.jpg by Bull-Doser, Public domain
+- 2020 Chevrolet Silverado 1500 High Country, front 10.25.20.jpg by Kevauto, CC BY-SA 4.0
+- Butler and Douglas Memorial Park.jpg by The Bushranger, CC BY-SA 4.0
+- Sunken Meadow State Park; Their own trucks.jpg by DanTD, CC BY-SA 4.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- Ann Arbor Fuller Park playground in March 2025 - gallery wall.jpg by Crocodiletiger~commonswiki, CC BY-SA 4.0
+- A park volunteer leads a guided tour of Sulphur Springs. (22ae61da-2bbc-430d-9ee6-a59eab49c674).JPG by NPS, Public domain
+- Dr. Ana Steffen (third from left) and team members at an Earth Day event in Jemez Springs, 2023. (ccc9a4c3-de79-47ec-95e1-da96315d5661).jpg by NPS, Public domain
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- DSCF0916 Children and teenagers kick a red ball across a parking lot at dusk with parked cars and a lit fairride in the background.jpg by PattayaPatrol, CC BY-SA 4.0
+- '14-'15 GMC Sierra 1500 Crew Cab Kodiak GMTK2XX (Les chauds vendredis 2018).jpg by Bull-Doser, Public domain
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- Snowstorm South Parking Lot (2240246313).jpg by Aaron Tait from San Francisco, United States, CC BY 2.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Flava kamioneto Ford F-150 en Tjumeno.jpg by RG72, CC BY 4.0
+- RAM 1500 left.jpg by Ominae, CC BY-SA 4.0
+- RAM 1500 right.jpg by Ominae, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 2017 Hyundai Elantra, Windsor, Ontario, 2025-07-01.jpg by Crisco 1492, CC BY-SA 4.0
+- Hyundai Elantra (AD) Motorworld Munich 1X7A0069.jpg by Alexander-93, CC BY-SA 4.0
+- 2021 Chevrolet Silverado 1500 ZZ1.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2021 Chevrolet Silverado 1500 LT 4x4 Double Cab, front right, 09-02-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- KIA K5 TF China.jpg by Dinkun Chen, CC BY-SA 4.0
+- KIA K5 OPTIMA China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 12 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- 15 Chevrolet Silverado 1500 High Country.jpg by HJUdall, CC0
+- Ford World Headquarters under clouds, next to F-150, from parking lot (1).jpg by 42-BRT, CC BY 4.0
+- Ford World Headquarters under clouds, next to F-150, from parking lot (2).jpg by 42-BRT, CC BY 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 24 GMC Sierra 2500HD Denali Ultimate (2).jpg by HJUdall, CC0
+- 2024 GMC Sierra 2500HD Denali rear view.jpg by deathpallie325, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- 23 GMC Sierra 3500HD SLT.jpg by HJUdall, CC0
+- 25 GMC Sierra 3500HD Chassis Cab Pro.jpg by HJUdall, CC0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- The rearview of Toyota LAND CRUISER 70 PICKUP at night.JPG by Tokumeigakarinoaoshima, CC0
+- 1938 Ford Pickup Truck (43137633701).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Sunwide Durevole tire on Silverado.jpg by Corqe, CC0
+- Volvo VNL 860 transporting a Chevrolet Silverado, Essex, Ontario, 2025-08-30 01.jpg by Chris Woodrich, CC BY-SA 4.0
+- Ford F-150 Raptor Pickup Truck Underside Skid Plate (48661117252).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 1).jpg by Gerhard Fieseler Werke GmbH, CC0
+- White 2012 Ram 2500 on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Black Ram 2500 in Las Vegas Neighborhood.jpg by Noah Wulf, CC BY-SA 4.0
+- Photo of catalytic converters seized during Operation Heavy Metal.jpg by Unknown authorUnknown author, Public domain
+- Catalytic converter 20230510.jpg by Santeri Viinamäki, CC BY-SA 4.0
+- Department of Wishful Thinking.jpg by artistmac, CC BY-SA 2.0
+- 3 for the ride (52176881944).jpg by Carlos Pacheco from Toronto, Canada, CC BY 2.0
+- 2015 Ford F150 Platinum Crew Cab (29118624415).jpg by Sicnag, CC BY 2.0
+- 1998-2003 Ford F-150 tailgate mural.jpg by LouieRBLX, CC BY-SA 4.0
+- Red Line train at 12th Street Oakland City Center, May 2024.jpg by Pi.1415926535, CC BY-SA 4.0
+- Oakland City Center entrance to 12th Street station, November 2017.jpg by Pi.1415926535, CC BY-SA 3.0
+- CHP Ford CVPI during traffic stop.jpg by Jenni, CC BY-SA 2.0
+- 2014-06-22 Duke's Club.- Chevrolet.jpg by PIERRE ANDRE LECLERCQ, CC BY-SA 4.0
+- Los Angeles Freeway Traffic.jpg by 4X4 Blazer 1776, CC BY 2.0
+- Rapid Transit District bus traveling in El Monte-Los Angeles bus lane, passing rush hour traffic on San Bernardino Freeway, 1973.jpg by Los Angeles Times staff photographer, CC BY 4.0
+- Pickup truck in Decatur, Texas.jpg by Mliu92, CC BY-SA 4.0
+- FEMA - 37217 - A resident and a pickup truck going through a flooded street in Texas.jpg by Jacinta Quesada, Public domain
+- 2022 Chevrolet Silverado 6500HD - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2022 Chevrolet Silverado 6500HD - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- Ford Ranger Super Duty carsales.jpg by carsales.com.au, CC BY 4.0
+- Ford F-450 Super Duty - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford Mustang Mach-E GT IAA 2021 1X7A0176.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Mustang Mach-E Rally Auto Zuerich 2023 1X7A1182.jpg by Alexander-93, CC BY-SA 4.0
+- 1940 Chevrolet pickup truck, "Frank's Garage", Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Michael Smith 93 Pickup Truck Donington Park 2024.jpg by BWard 1997, CC BY 4.0
+- A steering-wheel lock is a visible anti-theft device.jpg by Bill Abbott, CC BY-SA 2.0
+- 2006-07-16 Lenkradkralle im Goggomobil Coupé.jpg by unknown, CC BY-SA 2.0 de
+- 2015 Ram 3500 ProMaster (18163877968).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ram truck parked at the Palac Kultury I Nauki - Warsaw.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 3.0
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- Flags for sale in Becker, Minnesota.jpg by Lorie Shaull from St Paul, United States, CC BY 2.0
+- 2017 DFSK K01H 1.3 Extra Cabin 2-door pickup truck (Big Lee's Kitchen food truck, 01) (34299557936).jpg by Manoj Prasad from Kuala Lumpur, Malaysia, CC BY-SA 2.0
+- 2017 DFSK K01H 1.3 Extra Cabin 2-door pickup truck (Big Lee's Kitchen food truck, 02) (33498989154).jpg by Manoj Prasad from Kuala Lumpur, Malaysia, CC BY-SA 2.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- Münster, Parkhaus am Coesfelder Kreuz, Ford Mustang Bullit -- 2019 -- 9556-8.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Münster, Parkhaus am Coesfelder Kreuz, Ford Mustang Bullit -- 2019 -- 9579-83.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

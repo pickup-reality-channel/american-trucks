@@ -1,0 +1,99 @@
+# Photo credits: 7 Electric Pickups Americans Stopped Buying (What Really Happened)
+
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1907.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Rear Left, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-150 Lightning Lariat, Auto 2024, Zurich (PANA1012).jpg by Matti Blume, CC BY-SA 4.0
+- Ford F-150 Lightning Auto Zuerich 2023 1X7A1494.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 Lightning Auto Zuerich 2023 1X7A1179.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 Lightning Portek.jpg by Bull-Doser, Public domain
+- Ford F-150 Lightning IMG 7317.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST, NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST, front NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- Ford F-150 Lightning charging port.jpg by WMrapids, CC0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Tesla Model Y & Ford F-150 Lightning CRI 02 2023 1904.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2022 Ford F-150 Lightning (27478).jpg by Calreyn88, CC BY-SA 4.0
+- Ford Plant, Dearborn, Michigan (73115).jpg by Tichnor Brothers, Publisher, Public domain
+- Ford Dearborn Factory Aerial (45574999515).jpg by formulanone, CC BY-SA 2.0
+- DEARBORN SKYLINE. FORD RIVER ROUGE PLANT IN BACKGROUND - NARA - 549710.jpg by Joe Clark, Public domain
+- Ford Industries, River Rouge, Mich (62380).jpg by Tichnor Brothers, Publisher, Public domain
+- Ford F-150 Lightning Valkrie au Salon auto Lanaudière 2025.jpg by Bull-Doser, Public domain
+- Dr. Ana Steffen (third from left) and team members at an Earth Day event in Jemez Springs, 2023. (ccc9a4c3-de79-47ec-95e1-da96315d5661).jpg by NPS, Public domain
+- Ford F-150 Lightning Platinum (2024) (53621721260).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford F-150 Lightning Platinum (2024) (53621721230).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Ram 1500 V6 eTorque Big Horn 2022 (53411473634).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- 2024 Chevrolet Silverado EV RST.jpg by Wlb5V, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV 4WT AWD in Summit White, front left, 2024-06-30.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 GMC Sierra EV Denali front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 24 GMC Sierra EV Denali Edition 1.jpg by HJUdall, CC0
+- 2024 GMC Sierra EV Denali in Eugene, Oregon.jpg by Wlb5V, CC BY-SA 4.0
+- 2024 GMC Sierra EV Denali rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- General Motors Factory ZERO Detroit plant, 2021 (51845515837).jpg by The White House, Public domain
+- P20211117AS-0994 (51846557478).jpg by The White House, Public domain
+- 2024 Chevrolet Silverado EV 4WT AWD in Summit White, rear left, 2024-06-30.jpg by Elise240SX, CC BY-SA 4.0
+- 26 GMC Sierra EV Elevation.jpg by HJUdall, CC0
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- 2022 GMC Hummer EV pickup front.jpg by DestinationFearFan, CC BY-SA 4.0
+- GMC Hummer EV - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 24 GMC Hummer EV 3X Omega Edition Pickup.jpg by HJUdall, CC0
+- GMC Hummer EV Pickup Washington DC Metro Area, USA (2).jpg by OWS Photography, CC BY 4.0
+- 2022 GMC Hummer EV pickup rear.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- Stainless steel Cybertruck car at Stockholm, Sweden 2024.jpg by Editorq35, CC0
+- Stainless Finish (53518910972).jpg by crudmucosa, CC BY 2.0
+- Tesla Cybertruck - April 2024 - Sarah Stierch 01.jpg by Missvain, CC BY 4.0
+- Tesla Cybertruck - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-front-left-wheel.jpg by u/Kruzat, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, front 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- Rivian-r1t-2021.jpg by Photo by Rivian, CC BY-SA 4.0
+- Rivian R1T on Sunset Blvd.jpg by Chris Yarzab, CC BY 2.0
+- Debut of the Rivian R1T pickup at the 2018 Los Angeles Auto Show, November 27, 2018.jpg by Richard Truesdell, CC BY-SA 4.0
+- Rivian founder and CEO Robert "RJ" Scaringe at the debut of the Rivian R1T pickup at the 2018 Los Angeles Auto Show, November 27, 2018.jpg by Richard Truesdell, CC BY-SA 4.0
+- Eucidaris tribuloides (Slate-pencil Urchin).jpg by Nhobgood (talk) Nick Hobgood, CC BY-SA 3.0
+- Slate Run-Slate Run Creek through a mixed Fall Forest 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- Slate Macro 1.JPG by “Jon Zander (Digon3)”, CC BY-SA 3.0
+- Slate Run - Canada Geese 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- 2015 Lo Res Car Petersen Automotive Museum.jpg by TaurusEmerald, CC BY-SA 4.0
+- Slate sprites (Pseudagrion salisburyense) mating.jpg by Charles J. Sharp, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Sierra Classic pickup truck.jpg by dave_7, CC BY 2.0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- '17 Ford F-250 Super Duty Double Cab.jpg by Bull-Doser, Public domain
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Biden driving Hummer EV 2021 (51846557668).jpg by The White House, Public domain
+- P20211117AS-0426 (51846491051).jpg by The White House, Public domain
+- Ford F-150 Lightning CRI 05 2023 3638.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Badge Ford F-150 Lightning CRI 02 2023 1973.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 Limited P702 Agate Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- Ram 1500 Rebel 4X4 DT Bright White (3).jpg by Damian B Oh, CC BY-SA 4.0

@@ -1,0 +1,91 @@
+# Photo credits: 2027 Nissan Frontier: $15 Cheaper Than a Tacoma, But There Is a Catch
+
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X 1X7A7196.jpg by Alexander-93, CC BY-SA 4.0
+- Black Nissan Frontier D40 at Craig Rd & Simmons St.jpg by Noah Wulf, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x4 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x2 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2016 Nissan NP300 Navara Tekna DCi 3.0.jpg by Vauxford, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 2006.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Nissan Frontier 2.3 Pro 4X (Argentina).jpg by Just a Man, CC BY 4.0
+- 2025 Nissan Frontier Pro-4X, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Nissan Frontier Pro-4X, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Nissan Frontier Pro-4X, Rear Right, 07-20-2020.jpg by SsmIntrigue, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2023 1X7A0007.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Nissan Frontier Crew Cab Pro-4X in Boulder Gray Pearl, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2022 Nissan Frontier Crew Cab Pro-4X in Boulder Gray Pearl, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 16 Nissan Frontier PRO-4X.jpg by HJUdall, CC0
+- NISSAN NAVARA D23 China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2012 Nissan Frontier 2.7 S Bravado 4x2, rear left, 06-20-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2017 Nissan Navara Tekna DCi 2.3 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2012 Nissan Frontier 2.7 S Bravado 4x2, front left, 06-20-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2013 Nissan Frontier Navara 2.5 XE, 07-07-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2022 Nissan Frontier S King Cab, Front Left, 11-07-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Nissan Frontier S King Cab in Super Black, Rear Right, 12-19-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Nissan Frontier King Cab S in Super Black, Front Left, 09-16-2022.jpg by Elise240SX, CC BY-SA 4.0
+- NISSAN FRONTIER Nismo King Cab rear.jpg by TTTNIS, Public domain
+- Police vehicle - PNP - DIVTUPRAMB - Puno - Peru - Nissan Frontier - side view.jpg by AgainErick, CC BY-SA 4.0
+- Nissan Frontier D22 2.7 Bravado 4x2 Polar White.jpg by Ethan Llamas, CC BY-SA 4.0
+- PM Substituição na Maré 2.jpg by Fernando Frazão/ABr, CC BY 3.0 br
+- Isuzu NKR 1987 (10335321354).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2022 Nissan Frontier (D41) Pro-X.jpg by DestinationFearFan, CC BY-SA 4.0
+- Nissan Frontier Crew Cab Pro-X (2024) (53621843358).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan Frontier Pickup Truck.jpg by Khaosaming, CC BY-SA 3.0
+- Nissan Frontier Pro PHEV 001.jpg by JustAnotherCarDesigner, CC0
+- 22 Toyota Tacoma SR.jpg by HJUdall, CC0
+- 2025 Toyota Tacoma SR Xtracab, front 5.4.25.jpg by Kevauto, CC BY-SA 4.0
+- Nissan Frontier S (2022) (53645891286).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan Frontier SV Crew Cab (2026) (55212364268).jpg by Charles from Port Chester, New York, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Nissan Frontier Pro PHEV 002.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier D22 2.7 Bravado 2WD Gun Metallic.jpg by Ethan Llamas, CC BY-SA 4.0
+- Police vehicle - PNP - DIVTUPRAMB - Puno - Peru - Nissan Frontier.jpg by AgainErick, CC BY-SA 4.0
+- Nissan Frontier SSP Yucatán.jpg by J Magno, CC BY-SA 4.0
+- Cook Medical Center 1.JPG by Michael Rivera, CC BY-SA 3.0
+- Video Warehouse, Tebeau St, Waycross.JPG by Michael Rivera, CC BY-SA 3.0
+- 2006 Nissan Frontier 2.7 Standard 4x2 in Polar White, 08-06-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Frontier D22 2.7 Standard ABS-CBN News crewcab - rear.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Frontier D22 2.7 Standard ABS-CBN News crewcab - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- Red Nissan Frontier (D22) on Tenaya Way.jpg by Noah Wulf, CC BY-SA 3.0
+- Nissan Frontier Pro 001.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier Pro 006.jpg by JustAnotherCarDesigner, CC0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Buenos Aires Police vehicles Toyota Corolla and Nissan Frontier.jpg by Just a Man, CC BY 4.0
+- Nissan Frontier 2006.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Nissan Frontier Pro 002.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier Pro 003.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier 2.3 S 4x2, Edesur.jpg by Just a Man, CC BY 4.0
+- Nissan Frontier 2.7 S 4x2 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Nissan A61 Titan Crew Cab.jpg by Bull-Doser, Public domain
+- Nissan Frontier Pro 004.jpg by JustAnotherCarDesigner, CC0
+- '04 Nissan Titan Extended Cab.jpg by Bull-Doser, Public domain
+- 2016 Nissan Titan XD.jpg by Ryan Hildebrand, CC BY-SA 4.0
+- Nissan Frontier D21 pickup 1996.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2022 Nissan Frontier 2.3 X-Gear 4x4 (Argentina).jpg by Just a Man, CC BY 4.0
+- 23 Nissan Frontier PRO-X.jpg by HJUdall, CC0
+- Nissan Frontier Pro 005.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier 2.7 S 4x2 (ABS-CBN fleet media truck) 2007.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1st gen white Nissan Frontier side.JPG by BrokenSphere, CC BY-SA 3.0
+- Nissan Frontier Navara 2.5 LS 4x2 2011.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Navara-R.jpg by Calreyn88, CC BY-SA 4.0
+- 25 Toyota Tacoma TRD Off-Road HV.jpg by HJUdall, CC0
+- Aisin RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- 2026 Nissan Frontier interior.jpg by Deathpallie325, CC BY 4.0
+- 2022 Nissan Frontier (D41, red).jpg by DestinationFearFan, CC BY-SA 4.0
+- Two guys discuss matters against their truck- only of only three vehicles I saw on that island in over an hour (27798312812).jpg by shankar s. from Dubai, united arab emirates, CC BY 2.0
+- Portland Pride 2014 - 024.JPG by Another Believer, CC BY-SA 3.0
+- Nissan Navara, WAW.jpg by Raf24~commonswiki, CC BY-SA 4.0
+- Nissan Navara en Valencia.jpg by Dorieo, CC BY-SA 4.0
+- Roamify Roof Top Tent.jpg by Larissa Janzen, CC BY 4.0
+- Huntsville State Park Headquarters Texas 2025.jpg by Larry D. Moore, CC BY 4.0
+- ‘22 Nissan Frontier Crew Cab.jpg by Bull-Doser, Public domain
+- 20200512 Nissan Navara 02.jpg by Kahvilokki, CC0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0

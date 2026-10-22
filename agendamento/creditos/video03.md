@@ -1,0 +1,101 @@
+# Photo credits: 7 Midsize Trucks Fighting for Buyers in 2027 (Who Is Really Winning)
+
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X 1X7A7196.jpg by Alexander-93, CC BY-SA 4.0
+- Black Nissan Frontier D40 at Craig Rd & Simmons St.jpg by Noah Wulf, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x4 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x2 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2016 Nissan NP300 Navara Tekna DCi 3.0.jpg by Vauxford, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 2006.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tundras racing pickup trucks one sponsored by Con-way Freight.jpg by Bo Nash, CC BY-SA 2.0
+- Third Gen Toyota Tundra TRD Pro on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- 2023 Nissan Frontier 2.3 Pro 4X (Argentina).jpg by Just a Man, CC BY 4.0
+- 2025 Nissan Frontier Pro-4X, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- Nissan Frontier Pickup Truck.jpg by Khaosaming, CC BY-SA 3.0
+- Nissan Frontier Pro PHEV 001.jpg by JustAnotherCarDesigner, CC0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- White Checkered 2017-20 Chevrolet Colorado ZR2 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- 2023 GMC Canyon.jpg by 42-BRT, CC BY-SA 4.0
+- GMC Canyon P4250781.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6774.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6776.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Wildtrak (T6, P375) 1X7A6170.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Stormtrak (T6, P375) 1X7A0369.jpg by Alexander Migl, CC BY-SA 4.0
+- Jeep Gladiator (JT) 1X7A0017.jpg by Alexander Migl, CC BY-SA 4.0
+- Jeep Gladiator in Ukiah - December 2023 - Sarah Stierch.jpg by Missvain, CC BY 4.0
+- 24 Jeep Gladiator Rubicon Mopar 24 Edition.jpg by HJUdall, CC0
+- Jeep Gladiator (JT) Rubicon in red - 1of2.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- Honda Ridgeline RTL 2020.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Honda Ridgeline RTL 2022.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2019 Honda Ridgeline RTL-E Offroad.jpg by Jennie Logan, CC BY-SA 4.0
+- 23 Honda Ridgeline RTL-E.jpg by HJUdall, CC0
+- This is not a roadway.jpg by Elliott R. Plack, CC0
+- Traffic on Oran K Gragson Freeway.jpg by Noah Wulf, CC BY-SA 3.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma in the Snow.jpg by Mundanemetal, CC BY 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 XLT Pickup Truck (53150027120).jpg by Tony Webster, CC BY 2.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan Frontier Pro PHEV 002.jpg by JustAnotherCarDesigner, CC0
+- Nissan Frontier D22 2.7 Bravado 2WD Gun Metallic.jpg by Ethan Llamas, CC BY-SA 4.0
+- White 2003-6 Toyota Tundra With custom Bumper.jpg by Noah Wulf, CC BY-SA 3.0
+- Toyota Tundra USK56 FL 1794 Edition Smoked Mesquite.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2005 Toyota Tundra, Front Left, 04-11-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Toyota Tundra USK56 FL 5.7 Platinum CrewMax 4x4 Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) DSC 7353.jpg by Alexander Migl, CC BY-SA 4.0
+- 12-07-15-wikimania-wdc-by-RalfR-037.jpg by Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de Wikis in der Ausbildung, CC BY-SA 3.0
+- Ford Maverick (pickup truck) IMG 6586.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick (pickup truck) IMG 6586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Canyon 2017 Pickup Truck 5.jpg by MTSRider18, CC BY-SA 3.0
+- GMC Canyon 2017 Pickup Truck 3.jpg by MTSRider18, CC BY-SA 3.0
+- Gobi Jeep gladiator (JT) on W Ann Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- Jeep Gladiator (JT) IMG 3988.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor - 20231003-P1003802.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Ford Ranger MS-RT IMG 3714.jpg by Alexander Migl, CC BY-SA 4.0
+- 12-07-15-wikimania-wdc-by-RalfR-035.jpg by Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de Wikis in der Ausbildung, CC BY-SA 3.0
+- Second Gen Toyota Tacoma on Snowy Mountain - 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Rear Left, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Nissan Frontier SSP Yucatán.jpg by J Magno, CC BY-SA 4.0
+- Starr 061121-9960 Saccharum officinarum.jpg by Forest & Kim Starr, CC BY 3.0
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Ranger Stormtrak (T6, P375) 1X7A0319.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Wildtrak (T6, P375) 1X7A6173.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- Toyota Tacoma Back to the Future Show Truck NAIAS 2016.jpg by WillisMoon, CC BY 4.0
+- Toyota Tacoma 1Y7A4923.jpg by Alexander Migl, CC BY-SA 4.0

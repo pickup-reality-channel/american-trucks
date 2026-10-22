@@ -1,0 +1,178 @@
+# Photo credits: The Truck Buyer's Checklist for 2027: 12 Steps Before You Sign (Step 7 Saves $10,000)
+
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- RiverBend Ford.jpg by The Bushranger, CC BY-SA 4.0
+- Commerce March 2017 107 (Meador Commerce Dodge Chrysler Jeep Ram).jpg by Michael Barera, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Native American (20190910-OPPE-LSC-1787).jpg by USDAgov, Public domain
+- Native American (20190910-OPPE-LSC-1771).jpg by USDAgov, Public domain
+- Native American (20190910-OPPE-LSC-1825).jpg by USDAgov, Public domain
+- Five Sandoval Indian Pueblos Feed Those In Need (20190910-OPPE-LSC-1807).jpg by USDAgov, Public domain
+- Native American (20190910-OPPE-LSC-1804).jpg by USDAgov, Public domain
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1970 Ford pickup truck (8477379542).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1974 Ford Ranchero pickup truck.jpg by dave_7, CC BY 2.0
+- Trucks with boat trailers at Dowling Park boat ramp park.jpg by Michael Rivera, CC BY-SA 4.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- Chevrolet Silverado 3500 HD Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- Customized 1950s Chevrolet Pickup Truck Lyndonville VT August 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- Pickup Trucks For Hire.jpg by Collins Musonda, CC BY-SA 4.0
+- Pickup trucks for hire.jpg by Collins Musonda, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- 2015 Chevy Colorado (12492817963).jpg by artistmac, CC BY-SA 2.0
+- 2015 Chevy Colorado Crew Cab (12493166684).jpg by artistmac, CC BY-SA 2.0
+- Telephone Exchange mission 66 building with automobile and park ranger cars in front on it in Big Bend National Park. Image (9367fdfcb3c54016a2c2b131a0af28e2).jpg by Jack E. Boucher, Public domain
+- Teboil price 3,888 = empty 3.JPG by MKFI, Public domain
+- Fuel Prices Continuing to Rise.jpg by Icomparioimages, CC BY-SA 4.0
+- Sign-1190478, Glenflesk, Co. Kerry, Ireland.jpg by Mucklagh, CC BY-SA 4.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Mechanical-calculator-Brunsviga-800-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1940 Chevrolet pickup truck, "Frank's Garage", Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Michael Smith 93 Pickup Truck Donington Park 2024.jpg by BWard 1997, CC BY 4.0
+- Richard Ellingworth 36 Pickup Truck Rockingham.jpg by BWard 1997, CC BY 4.0
+- Ram Pickup plug-in hybrid rear -- 2011 DC.jpg by IFCAR, Public domain
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Fisker Alaska Motorworld Munich 1X7A0128.jpg by Alexander-93, CC BY-SA 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- Lifted White Ford F-250 on W Tropical Pkwy.jpg by Noah Wulf, CC BY-SA 3.0
+- 1953 Volkswagen Type 2 T1 Pickup (8370387849).jpg by Sicnag, CC BY 2.0
+- BondeCCFL535.1965.ChristianSchnabel.jpg by Christian Schnabel, Public domain
+- Rover 2000 TC (Baureihe P6, Serie 2).jpg by Rolf Kranz, CC BY-SA 4.0
+- 20141025 Shockwave Truck Alliance Air Show 2014-3.jpg by Balon Greyjoy, CC0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Liberty Credit Union branch on North Side of Evansville.jpg by Rckania, CC BY-SA 4.0
+- 20240902 xl 1347-Volkbank, Bad Kohlgrub.jpg by Molgreen, CC BY-SA 4.0
+- Kagawaken Credit Cooperative Ritsurin Branch.jpg by ラハール, CC BY-SA 4.0
+- Federal home loan bank Atlanta.jpg by Tyler Lahti, CC BY-SA 4.0
+- People's Loan Bank (Ljubljana) 02.jpg by Superchilum, CC BY-SA 4.0
+- People's Loan Bank (Ljubljana) 04.jpg by Superchilum, CC BY-SA 4.0
+- Calendar 2.jpg by পাপৰি বৰা, CC BY-SA 4.0
+- Close-up of calendar in Spanish - Calendario en español.jpg by Maximopi, CC BY-SA 4.0
+- Calendar of Wurmprecht, February and March.jpg by Wurmprecht, Public domain
+- Notation financière des états du monde selon Standard & Poor's en 2011.jpg by GaillardA, CC BY-SA 3.0
+- Orchestral score - geograph.org.uk - 8073300.jpg by Anthony O'Neil, CC BY-SA 2.0
+- Ryan Valentine scores.jpg by Markbarnes, CC BY 2.5
+- "Never spend your money before you have it."; Thomas Jefferson. The Security Savings Bank & Trust Company; Toledo, Ohio - DPLA - e087ba6f2a0cc47d40322a17b1c01d80 (page 2).jpg by unknown, Public domain
+- "Honor is the substructure and money the superstructure of a successful life…"; Peter Cooper. The Security Savings Bank & Trust Company; Toledo, Ohio - DPLA - ed8ec81ca93bee6e6f1586f1e3a1eccc (page 2).jpg by unknown, Public domain
+- Vintage Radio-Shaped Metal Savings Bank, Dial Savings Safe, Measures 4.25 Inches Wide, Made In Japan (29675088690).jpg by Joe Haupt from USA, CC BY-SA 2.0
+- Chevrolet Pickup Truck Mod Kulmbach 2018 P6170255.jpg by Ermell, CC BY-SA 4.0
+- Two women in the back of a pickup truck on a rural road.jpg by Mattsjc, CC BY 4.0
+- Cheveep - Old pickup truck on Oak Street, New Orleans, 1 May 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Chevrolet Tow Truck (1468489148).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Mini Tow truck (21020062396).jpg by Zytonits, CC BY-SA 2.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- Orange Idiot Release Your Tax Forms (33930659382).jpg by PunkToad from oakland, us, CC BY 2.0
+- Gillie "helping" with the tax forms (4316094077).jpg by Dwight Sipler from Stow, MA, USA, CC BY 2.0
+- Crypto Tax - Bitcoin Medallions and Word "Tax".jpg by edwinchuen, CC BY 2.0
+- 1915 Ford Pickup (8068518917).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1982 Dodge Rampage pickup at 2019 AACA Hershey meet 8of7.jpg by Mr.choppers, CC BY-SA 3.0
+- 1993 Dodge Ram W250 Club Cab 4x4 Cummins td.jpg by Mr.choppers, CC BY-SA 3.0
+- 2023 Denver Auto Show Kia Niro EX Touring window sticker.jpg by Corqe, CC0
+- 2023 Denver Auto Show Kia Sportage Hybrid SX-Prestige window sticker.jpg by Corqe, CC0
+- 2023 Denver Auto Show Kia K5 GT dealership sticker.jpg by Corqe, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
+- A Volvo car dealership in Chattanooga, Tennessee.jpg by Harrison Keely, CC BY 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Lenovo G500s laptop-2903.jpg by Raimond Spekking, CC BY-SA 4.0
+- Lenovo G500s laptop-2905.jpg by Raimond Spekking, CC BY-SA 4.0
+- Flying Laptop Control Center Stuttgart 5.JPG by Ptolusque, CC BY-SA 4.0
+- Walking away from Oakley - geograph.org.uk - 7663062.jpg by Mr Ignavy, CC BY-SA 2.0
+- Surfer walking away from the sea - geograph.org.uk - 4816453.jpg by Ant Basterfield, CC BY-SA 2.0
+- Couple walking away on a dirt road (15951584995).jpg by simpleinsomnia, CC BY 2.0
+- Romford Suzuki car dealership - geograph.org.uk - 1992483.jpg by Stacey Harris, CC BY-SA 2.0
+- Dees of Croydon car dealership - geograph.org.uk - 2364246.jpg by Stacey Harris, CC BY-SA 2.0
+- Crawley Volkswagen car dealership - geograph.org.uk - 3385411.jpg by Stacey Harris, CC BY-SA 2.0
+- Smith & Secrest business invoice, Oakesdale, Washington, 1889 - DPLA - 1dd2d53c0d326220401a8d28193c5e6b.jpg by unknown, Public domain
+- Tuttle and Robie Hardware business invoice, Oakesdale, Washington, 1889 - DPLA - 395e424187f3cbc9f050376b4c8c718b.jpg by unknown, Public domain
+- H.H. Selfridge Hardware business invoice, Oakesdale, Washington, 1889 - DPLA - 44b055fb00d895907b49ca6793815dea.jpg by unknown, Public domain
+- H.H. Selfridge Hardware business invoice, Oakesdale, Washington, 1889 - DPLA - 98dc156a6e61aacd32840e115094cd58.jpg by unknown, Public domain
+- J.L. Bailor & Co. business invoice, Oakesdale, Washington, 1889 - DPLA - 413192946580179541a436631071e177.jpg by unknown, Public domain
+- J.L. Bailor & Co. business invoice, Oakesdale, Washington, 1889 - DPLA - 7d39d9c0697bd2f917c8f09e905b678b.jpg by unknown, Public domain
+- Pontiac Trans Am (9615522214).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Pontiac Trans Am (9615519246).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Art Deco Car Workshop. Haynes Ford, Maidstone.jpg by John K Thorne, CC BY 4.0
+- Art Deco Haynes Ford Maidstone. (51997457898).jpg by John K  Thorne from Universal , Universal, CC0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- Euro Changeover Board of Ireland calculator 3.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 1.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 2.jpg by ZICO, CC BY-SA 4.0
+- 1986 Jeep J-10 pickup truck - yellow 7.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- BYD Shark 6 DMO AWD Deep Sea Blue test drive unit.jpg by Ethan Llamas, CC BY-SA 4.0
+- Fiat Titano Ranch 4x4 2026.jpg by Just a Man, CC BY 4.0
+- US Navy 060205-N-0685C-005 Aviation Structural Mechanic Airman Andrew Ochieng performs a daily inspection on the main rotor plate of an SH-60F helicopter.jpg by U.S. Navy photo by Photographer's Mate Airman Javier Capella, Public domain
+- US Navy 031215-N-8213G-001 Aviation Structural Mechanic 1st Class Nagorniuk Artem, from Keiv, Ukraine, performs a magnetic particle inspection.jpg by U.S. Navy photo by Photographer’s Mate Airman Konstandinos Goumenidis., Public domain
+- US Navy 090722-N-5586R-070 Aviation Structural Mechanic 2nd Class Michael Smith assists Aviation Structural Mechanic 3rd Class Erika Mata with her daily inspection on a SH-60F Sea Hawk helicopter.jpg by U.S. Navy photo by Mass Communication Specialist Seaman Apprentice Amanda L. Ray, Public domain
+- Ricca Ford Truck, New Orleans August 2016 - Rear.jpg by Infrogmation of New Orleans, CC BY 2.0
+- Delivery service truck (16277420261).jpg by Takashi Hososhima from Tokyo, Japan, CC BY-SA 2.0
+- Ricca Ford Truck, New Orleans August 2016 - flags.jpg by Infrogmation of New Orleans, CC BY 2.0
+- Comet Interceptor contract signing ESA24643784.jpg by European Space Agency, CC BY-SA 3.0 igo
+- Signing a contract between partner cities Sanok and Truskavets (2023)bbb.jpg by Lowdown, CC BY-SA 4.0
+- Signing a contract between partner cities Sanok and Truskavets (2023)ee.jpg by Lowdown, CC BY-SA 4.0
+- Courthouse in Aurillac 01.jpg by Krzysztof Golik, CC BY-SA 4.0
+- Vue du palais de justice de Bruxelles.jpg by Fawaz.tairou, CC BY-SA 4.0
+- Omagh Courthouse (01), January 2010.JPG by Ardfern, CC BY-SA 3.0
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 320d BMW's car key (177809156).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- 1970s SAAB car key manufactured by the Swedish lock company Assa.jpg by R. Henrik Nilsson, CC BY 4.0
+- Tax receipts (folder 1 of 2) - DPLA - 15589b546d9fb0893f3c195e1c456894 (page 71).jpg by Weld County (Colo.). Treasurer's Office, author; Union Colony of Colorado, author; Cache la Poudre Irrigating Company, author, Public domain
+- Tax receipts (folder 1 of 2) - DPLA - 15589b546d9fb0893f3c195e1c456894 (page 20).jpg by Weld County (Colo.). Treasurer's Office, author; Union Colony of Colorado, author; Cache la Poudre Irrigating Company, author, Public domain
+- Tax receipts (folder 1 of 2) - DPLA - 15589b546d9fb0893f3c195e1c456894 (page 9).jpg by Weld County (Colo.). Treasurer's Office, author; Union Colony of Colorado, author; Cache la Poudre Irrigating Company, author, Public domain
+- Tonbridge Audi car dealership - geograph.org.uk - 2782634.jpg by Stacey Harris, CC BY-SA 2.0
+- Car Dealership on Seafield Road - geograph.org.uk - 4007260.jpg by Graham Robson, CC BY-SA 2.0
+- A Nissan car dealership in California, Maryland 01.jpg by Harrison Keely, CC BY 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Kia dump truck in Nha Trang.jpg by Ilya Plekhanov, CC BY-SA 4.0
+- Mercedes Genh2 truck, IAA 2024, Hanover (IMG 1811).jpg by User:Celestinesucess, CC BY-SA 4.0
+- Street trade in India, truck decorations.jpg by Ninara, CC BY 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Liberty Bonds - Advertising Methods - LIBERTY LOAN CAMPAIGN; BOY scouts in car looking for loan. June 4, 1917, New York City - NARA - 45491008.jpg by Unknown authorUnknown author or not provided, Public domain
+- Chevrolet Silverado 1500 regular cab pickup truck with Monster Energy promotional livery and aftermarket off-road accessories - FirstLook festival in the Netherlands.jpg by Sebastiaan Broekhoven, CC BY-SA 4.0
+- 2022 Toyota Land Cruiser 79 pickup truck, 06-30-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1988 Jeep Comanche pickup in black at 2024 AMO show 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Checklist (14750126694).jpg by Spotting973, CC BY-SA 2.0
+- Earthquake Survival Kit - Checklist (2851285426).jpg by David Pursehouse from Kawasaki, Japan, CC BY 2.0
+- Brown on aft flight deck with microphone during STS-95.jpg by NASA, Public domain
+- Cinema "Kyiv" ("Kiev") in Minsk, Belarus 1.jpg by Homoatrox, CC BY-SA 3.0
+- Cinema "Kyiv" ("Kiev") in Minsk, Belarus 2.jpg by Homoatrox, CC BY-SA 3.0
+- Shinjuku Station (49305781532).jpg by Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- UPS MAN TGL COE truck Denmark.jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Mazda B2200 UF 4x2 Sunset Wine.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2018 Honda Ridgeline RTL-T at Sunset.jpg by Matthew Clark, CC BY-SA 4.0
+- Parking at Split Rock (6fd8fdb3-fbac-47ee-8434-1d66eda7e145).jpg by NPS Photo, Public domain

@@ -1,0 +1,125 @@
+# Photo credits: Which Trucks Are Really Built in America? (A Toyota Beats the Silverado)
+
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Toyota Tundra Sonoma 2022.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra Limited.jpg by HJUdall, CC0
+- 2022 Toyota Tundra Limited CrewMax Short Bed 4x4 with TRD Off-Road Package, front left, 11-01-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2022 Toyota Tundra Double Cab SR5, front 4.5.23.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro, rear NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- Toyota Tundra UAE Desert Trips 2022 (51874029119).jpg by Ahmad El-kays from Mississauga, Canada, CC BY 2.0
+- 1992 ford f-150 custom (obverse).jpg by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (script).JPG by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (reverse).JPG by Rjluna2, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, front left, 2026-06-12.jpg by Elise240SX, CC BY-SA 4.0
+- 2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, rear left, 2026-06-12.jpg by Elise240SX, CC BY-SA 4.0
+- DEARBORN SKYLINE. FORD RIVER ROUGE PLANT IN BACKGROUND - NARA - 549710.jpg by Joe Clark, Public domain
+- Ford Industries, River Rouge, Mich (62380).jpg by Tichnor Brothers, Publisher, Public domain
+- Ford Rouge Plant green roof 2019.jpg by Antony-22, CC BY-SA 4.0
+- Hoonigan Jeep Gladiator, EMS 23, Essen (P1170041-RR).jpg by MB-one, CC BY-SA 4.0
+- Jeep Gladiator (JT) 1X7A0017.jpg by Alexander Migl, CC BY-SA 4.0
+- Jeep Gladiator Bramsche.jpg by Thomas Vogt, CC BY 2.0
+- Jeep Gladiator JT 2019 1.jpg by The Wikipeadian guy, CC BY-SA 4.0
+- 2023 Denver Auto Show Kia K5 GT dealership sticker.jpg by Corqe, CC0
+- 2023 Denver Auto Show Kia Niro EX Touring window sticker.jpg by Corqe, CC0
+- Ambassador Bridge from the Detroit River, Windsor, Ontario, 2025-07-27 03.jpg by Chris Woodrich, CC BY-SA 4.0
+- Ambassador Bridge from the Detroit River, Windsor, Ontario, 2025-07-27 05.jpg by Chris Woodrich, CC BY-SA 4.0
+- Former Kroger's Bakery - 51307835348.jpg by oxfordblues84, CC BY-SA 2.0
+- Former Kroger's Bakery - 51307640991.jpg by oxfordblues84, CC BY-SA 2.0
+- Seattle - Smith-Gandy car dealership, circa 1960s (55091228432).jpg by Seattle Municipal Archives from Seattle, WA, CC BY 4.0
+- Car Source Kenosha Burned out car lot.jpg by Lightburst, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- American University Glover Gate.jpg by Samschoe, CC BY-SA 4.0
+- Wat Phra Kaew by Ninara TSP edit crop.jpg by Original image: Ninara from Helsinki, Finland.  Edit: TSP, CC BY 4.0
+- 24 Jeep Gladiator Rubicon Mopar 24 Edition.jpg by HJUdall, CC0
+- Jeep Gladiator (JT) Rubicon in red - 2of2.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- Honda Ridgeline P4220684.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Honda Ridgeline RTL-E Offroad.jpg by Jennie Logan, CC BY-SA 4.0
+- 23 Honda Ridgeline RTL-E.jpg by HJUdall, CC0
+- 2024 Honda Ridgeline front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado Trail Boss 2020.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020 (9 June 2025).jpg by RL GNZLZ, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ford Maverick XLT.jpg by HJUdall, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- White 2012 Ram 2500 on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Black Ram 2500 in Las Vegas Neighborhood.jpg by Noah Wulf, CC BY-SA 4.0
+- 11 GMC Sierra 2500HD Denali.jpg by HJUdall, CC0
+- 24 GMC Sierra 2500HD SLE.jpg by HJUdall, CC0
+- 2006 Ford F-650.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Medium-Duty Super Duty F-650 - Two Men and a Truck, box truck.jpg by Winnebaggo, CC0
+- Cargo Autoracer, Emder Hafen, CN-01.jpg by kaʁstn Disk/Cat, CC BY-SA 3.0 de
+- Cargo Schelde Highway, Emder Hafen.jpg by kaʁstn Disk/Cat, CC BY-SA 3.0 de
+- Truck on Highway Bridge.jpg by Destroducks, CC BY-SA 4.0
+- CSIRO ScienceImage 3497 Truck on highway rural NSW.jpg by Carl Davies, CSIRO, CC BY 3.0
+- Jim Farley portrait photo, 2024.jpg by FordPhotographer, CC BY-SA 4.0
+- Jim Farley in race suit next to Shelby Cobra.jpg by FordPhotographer, CC BY-SA 4.0
+- 25 Ram 3500 Big Horn.jpg by HJUdall, CC0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Oakville Assembly.JPG by Whpq, CC BY-SA 3.0
+- Ford Oakville Assembly Plant, Oakville, Ontario (29358646733).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- 24 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- Assembly aa2 orion.jpg by NASA/Tony Gray, Public domain
+- Artemis I Orion Lift & Mate (KSC-20211020-PH-FMX01 0216).jpg by Frank Michaux, Public domain
+- 2015 chevrolet silverado ltz double cab 3500 hd (observe).JPG by Rjluna2, CC BY-SA 4.0
+- 2016 chevrolet silverado wt regular standard blackout reverse.jpg by Rjluna2, CC BY-SA 4.0
+- The central flagpole grounds and open assembly plaza of Toledo City Hall.jpg by QueenCityCebu, CC BY-SA 4.0
+- Toledo-Jeep Parkway Redevelopment (CORF & JRS) - 6022358494.jpg by Ohio Redevelopment Projects - ODSA, CC BY 2.0
+- Toyota Truck Manufacturing Facility - panoramio.jpg by iPhone Photography, CC BY 3.0
+- L-07-10-14-A (14648759553).jpg by US Department of Labor, Public domain
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7062.jpg by Alexander Migl, CC BY-SA 4.0
+- Volkswagen ID.5 GTX 1X7A0318.jpg by Alexander Migl, CC BY-SA 4.0
+- Volkswagen ID.4 GTX 1X7A0301.jpg by Alexander Migl, CC BY-SA 4.0
+- Gigafactory Texas Building 1 June 2022.jpg by Larry D. Moore, CC BY 4.0
+- Gigafactory Texas Construction North Elevation February 2021.jpg by Larry D. Moore, CC BY 4.0
+- Toyota Tundra Track Cleaner Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra SR5.jpg by HJUdall, CC0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Silverado 1987 C20 Oldtimertreffen Ebern 2019 P6200662.jpg by Ermell, CC BY-SA 4.0
+- United States of Cargo Processing (28585540298).jpg by CBP Photography, Public domain
+- Taco Trucks-Trump wall protest.jpg by Jessie Oni / Voice of America, Public domain
+- REAR WINDOW OF A CAR SHOWS A "SAVE THE TALLGRASS PRAIRIE" STICKER. THE DRIVER WAS ATTENDING THE SECOND ANNUAL... - NARA - 557148.jpg by Patricia DuBose Duncan, Public domain
+- Zombie Family Sticker (15240489498).jpg by cogdogblog, CC BY 2.0
+- VIN - Audi 80-90 B4.JPG by Hans Haase, CC BY-SA 3.0
+- VIN - Audi 80-90 B4 - 2.JPG by Hans Haase, CC BY-SA 3.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Jeep Gladiator Mojave Las Vegas 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2021 Jeep Gladiator Mojave.jpg by Calreyn88, CC BY-SA 4.0
+- Jeep Gladiator in Ukiah - December 2023 - Sarah Stierch.jpg by Missvain, CC BY 4.0
+- Gobi Jeep gladiator (JT) on W Ann Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 03of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 01of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0

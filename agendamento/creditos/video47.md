@@ -1,0 +1,146 @@
+# Photo credits: 6 Muscle Trucks Nobody Remembers (One Beat a Corvette)
+
+- 1979 Dodge Lil Red Express (4932052363).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1979 Dodge Lil Red Express (4932051593).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Dodge Lil' Red Express (1979) (52127809752).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1979 Dodge Lil Red Express (4932053175).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Dodge Lil' Red Express (1979) (53771296845).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dodge Lil' Red Express (1979) (53771082448).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dodge Lil' Red Express (1979) (52128860308).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 79 Dodge Lil Red Express Truck (7305148030).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- GMC Syclone 1.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone (4821286342).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- GMC Syclone (2542865499).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 1991 GMC Syclone in Black, front right (Saratoga).jpg by Mr.choppers, CC BY-SA 3.0
+- GMC Syclone (1991) (54874345451).jpg by Charles from Port Chester, New York, CC0
+- GMC Syclone (1991) (54874345456).jpg by Charles from Port Chester, New York, CC0
+- GMCSyclone.jpg by dave_7, CC BY 2.0
+- 1978 Dodge Adventurer 200 a factory original pickup at 2015 AACA Eastern Regional Fall Meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1978 Dodge Adventurer 200 a factory original pickup at 2015 AACA Eastern Regional Fall Meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1978 Dodge Adventurer 200 a factory original pickup at 2015 AACA Eastern Regional Fall Meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Lil Red Express Truck (39341857222).jpg by Triple-green, CC BY-SA 2.0
+- 1978 Dodge Lil' Red Express Pick-Up (7324786496).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 78 Dodge Lil' Red Express Pick-Up (7324783658).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 78 Dodge Lil' Red Express Pick-Up (7324784590).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 78 Dodge Lil Red Express Pick-Up (8938300596).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 78 Dodge Lil Red Express Pick-Up (8938292118).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 78 Dodge Lil Red Express Pick-Up (8937673931).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Dodge L'il Red Express Trucks.jpg by Greg Gjerdingen, CC BY 2.0
+- Dodge Dakota Lil Red Express - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1990 Dodge Lil' Red Dakota Pick-Up.jpg by Greg Gjerdingen, CC BY 2.0
+- Dodge Dakota Shelby - 14831741343.jpg by Jacob Frey 4A, CC BY 2.0
+- Dodge Dakota Shelby 1.jpg by LukaCali, CC BY-SA 4.0
+- Dodge Dakota Shelby.jpg by Jacob Frey 4A, CC BY 2.0
+- 1989 Dodge Dakota Shelby V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 1989 Dodge Dakota Shelby in Exotic Red, Front Left, 06-18-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 1989 Dodge Dakota Shelby in Exotic Red, Rear Right, 06-18-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 1989 Dodge Dakota Shelby in Exotic Red, front left (Queen Street 2025).jpg by Elise240SX, CC BY-SA 4.0
+- 1988 Dodge Shelby Dakota Prototype, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Dodge Shelby Dakota Pick-Up (34993044521).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1989 Dodge Shelby Daytona (34959193892).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1989 Dodge Shelby Daytona (34995699281).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Custer State Park, South Dakota - 2015 - 20357687154.jpg by vwcampin, CC BY 2.0
+- Custer State Park - South Dakota - 2015 - 20849988090.jpg by vwcampin, CC BY 2.0
+- 1989 Dodge Shelby Daytona (34279236564).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1988 Dodge Daytona Shelby Z (34982877812).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- GMCSyclone-rear (cropped).jpg by dave_7, CC BY 2.0
+- GMCSyclone-rear.jpg by dave_7, CC BY 2.0
+- 2013 ASA AutoX 1 10 (8756016362).jpg by Grant.C, CC BY 2.0
+- Chevrolet S10 (4920685638).jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- 2013 ASA AutoX IMG 3706 edited (9234489229).jpg by Grant.C, CC BY 2.0
+- GMC-Typhoon.jpg by 1994McLarenF1, CC BY-SA 4.0
+- GMC Typhoon - 14349066938.jpg by Jacob Frey 4A, CC BY 2.0
+- GMC Typhoon - 14535633345.jpg by Jacob Frey 4A, CC BY 2.0
+- As-New 1990 Chevrolet 454 SS Pickup, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- As-New 1990 Chevrolet 454 SS Pickup, Interior, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 1990 Chevrolet C1500 SS 454 7.4.jpg by Vauxford, CC BY-SA 4.0
+- 1972 Chevrolet El Camino SS 454, black, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1970 Chevrolet Chevelle SS 454, black convertible, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1971 Chevrolet Monte Carlo SS 454, red & black, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet C1500 Sport Interior.jpg by TKOIII, CC BY-SA 4.0
+- Chevrolet C1500 Sport at Radwood Austin.jpg by TKOIII, CC BY-SA 4.0
+- Chevrolet C1500 Sport at Radwood Austin 2.jpg by TKOIII, CC BY-SA 4.0
+- Ford F-150 Lightning (1994) (54872367368).jpg by Charles from Port Chester, New York, CC0
+- Ford F-150 Lightning (1994) (54871274132).jpg by Charles from Port Chester, New York, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Chevelle 454 SS Convertible Annual Fathers Day Car Show Hyannis.jpg by EgorovaSvetlana, CC BY-SA 4.0
+- Chevrolet Chevelle SS 454 1970 01.jpg by RL GNZLZ, CC BY-SA 2.0
+- 1972 Chevrolet Chevelle SS 454, yellow, front left side, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Silverado SS 1.jpg by LukaCali, CC BY-SA 4.0
+- View of a Chevrolet Silverado SS in the Coffee and Cars event at the Museum of Power - geograph.org.uk - 6164207.jpg by Robert Lamb, CC BY-SA 2.0
+- Chevrolet Silverado SS (14203022268).jpg by GPS 56 from New Zealand, CC BY 2.0
+- 03-05 Chevrolet Silverado SS.jpg by IFCAR, Public domain
+- 2005 Chevrolet Silverado Sportside 5.3 V8 (50587161658).jpg by Rutger van der Maar, CC BY 2.0
+- Ward Burton COT Impala David Starr Silverado Truck - 2025 American Speedfest.jpg by BWard 1997, CC BY 4.0
+- Chevy (14467564735).jpg by Mike Mozart from Funny YouTube, USA, CC BY 2.0
+- Daytona 10 (458491160).jpg by Abir Anwar from Sydney, Australia, CC BY 2.0
+- USMC-111018-M-FY706-001.jpg by Lance Cpl. Mondo Lescaud, Public domain
+- Rockingham Truck Series Race April 14th 2013 (8662103972).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Back of a truck in Boston (Unsplash).jpg by Alice Donovan Rouse alicekat, CC0
+- PlainsGaStores.jpg by Bubba73 (talk), Jud McCranie, CC BY-SA 3.0
+- 06 dodge ram srt-10.jpg by Jjustdoit, CC BY-SA 4.0
+- Dodge Ram SRT-10 (38798699982).jpg by Dennis Elzinga, CC BY 2.0
+- 2005 Dodge RAM SRT-10 8.3 Front.jpg by Vauxford, CC BY-SA 4.0
+- Dodge Viper SRT 10 - Circuit Paul Armagnac, Nogaro, France le 14 mars 2013 - Club ASA - Image Photo Picture (13170169573).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0
+- 2005 Dodge RAM SRT-10 8.3 Side.jpg by Vauxford, CC BY-SA 4.0
+- 2005 Dodge RAM SRT-10 8.3 Rear.jpg by Vauxford, CC BY-SA 4.0
+- 2005 Dodge Ram SRT-10, Rear Left, 05-23-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- 2005 Dodge Ram SRT-10, Front Left, 05-23-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Villejuif - rue Fritsch - monster truck.jpg by Société d'histoire locale et de protection du patrimoine de Villejuif, CC BY-SA 4.0
+- Dodge Ram SRT-10 Regular Cab (Centropolis Laval '10).jpg by Bull-Doser, Public domain
+- 2005 silver Dodge Ram SRT-10 front.JPG by BrokenSphere, CC BY-SA 3.0
+- Goodwood Breakfast Club - Dodge Ram SRT-10 - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Dodge Ram 1500 Daytona SRT-10.JPG by Bull-Doser, Public domain
+- Dodge Ram SRT-10 (2005) (53771205334).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dodge SRT-10 Pick-Up (6171340078).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford SVT Lightning - 4273555214.jpg by Nick Ares, CC BY-SA 2.0
+- Ford SVT Lightning.jpg by Nick Ares, CC BY-SA 2.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- 2000 Ford F-150 SVT Lightning 5.4.jpg by Vauxford, CC BY-SA 4.0
+- 1969 Ford F-100 Ranger MD1.jpg by Acxroterion, CC BY-SA 4.0
+- FORD F150 SVT Lightning.jpg by MIKI Yoshihito, CC BY 2.0
+- Ford F150 SVT model car.jpg by Victor Lopes, CC BY-SA 4.0
+- Auto Ford F-Series Moscow Kantemirovskaya Street С767КУ199 2013-04 1366713598.JPG by Artyom Svetlov, CC BY 4.0
+- Ford F150 SVT Lightning.jpg by FotoSleuth, CC BY 2.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Chevelle SS 454 1970 02.jpg by RL GNZLZ, CC BY-SA 2.0
+- 1972 Chevrolet Chevelle SS 454, yellow, rear, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1972 Chevrolet Chevelle SS 454, yellow, interior, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Chevrolet Chevelle SS 454 (1970) (53767894392).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Chevelle SS 454 LS6 (1970) (55220899684).jpg by Charles from Port Chester, New York, CC0
+- 1972 Chevrolet Chevelle SS 454 Sport Coupe in Black, Front Left, 2023-11-16.jpg by Elise240SX, CC BY 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Bristow Firestone Service Station OK garage bays 2026-09-15 13-02-22.jpg by G. Edward Johnson, CC BY 4.0
+- 1975 Toyota Land Cruiser FJ45 pickup (ZA).jpg by Mr.choppers, CC BY-SA 3.0
+- 1937 Studebaker Pick-Up (16652283593).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Fishing at Government Point Cove (f1866a68-2ed8-4e6d-80ba-7e09ad716160).jpg by Andrew Cattoir (Lake Mead National Recreation Area), Public domain
+- Int605nThru-Int10ewOldButtonCopy (30403096185).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
+- Saint-Zénon-du-Lac-Humqui - Bureau de poste.JPG by Amqui, CC BY-SA 3.0
+- GMC Sierra Classic pickup truck.jpg by dave_7, CC BY 2.0
+- View of a 1951 Chevrolet 3100 pickup truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243062.jpg by Robert Lamb, CC BY-SA 2.0
+- 2023 Downtown West Allis Classic Car Show 36 (1937 Ford pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 40 (1937 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 35 (1941 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 69 (1965 Chevrolet C-K).jpg by Michael Barera, CC BY-SA 4.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
