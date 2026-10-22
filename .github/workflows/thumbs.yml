@@ -18,13 +18,14 @@ jobs:
       URLS: ${{ inputs.urls }}
     steps:
       - uses: actions/checkout@v4
+      - run: pip install -q pillow
       - name: Download and convert
         run: |
           mkdir -p agendamento/thumbs
           echo "$URLS" | tr '|' '\n' | while IFS='@' read -r n url; do
             [ -z "$n" ] && continue
             curl -sSfL "$url" -o /tmp/t.jpg || { echo "FAILED $n"; continue; }
-            convert /tmp/t.jpg -resize 1280x720^ -gravity center -extent 1280x720 -quality 88 agendamento/thumbs/video$n.jpg
+            python3 -c "from PIL import Image, ImageOps; ImageOps.fit(Image.open('/tmp/t.jpg').convert('RGB'), (1280, 720)).save('agendamento/thumbs/video$n.jpg', quality=88)"
             echo "ok $n $(stat -c %s agendamento/thumbs/video$n.jpg)"
             gh release upload video$n agendamento/thumbs/video$n.jpg --clobber || echo "no release yet for $n"
           done
