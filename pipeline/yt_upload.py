@@ -68,6 +68,12 @@ def main(mode):
                          headers={"Authorization": f"Bearer {tok}"}, timeout=30); r.raise_for_status()
         for c in r.json().get("items", []): print("channel:", c["snippet"]["title"], c["id"], c.get("status", {}))
         return
+    if mode == "status":
+        ids = ",".join(x["id"] for x in json.loads(STATE.read_text()).values() if "id" in x)
+        r = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"part": "status", "id": ids},
+                         headers={"Authorization": f"Bearer {tok}"}, timeout=30); r.raise_for_status()
+        for v in r.json()["items"]: print(v["id"], v["status"])
+        return
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     lote = mode == "lote"
     budget = int(os.environ.get("YT_BUDGET") or (9900 if lote else 9500))
