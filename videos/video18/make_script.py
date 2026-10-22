@@ -67,6 +67,17 @@ sc("""So who should buy a twenty twenty-seven Tundra? A buyer who values resale,
 sc("""And if you are shopping for a used Tundra, the advice is different. Check the build date of the exact truck, and check whether the recall repair was done. A twenty twenty-two to twenty twenty-four truck that has had a documented repair is a different purchase from one that has not. Ask for the paperwork. A Toyota dealer can look up the recall status with the vehicle identification number, and it takes a few minutes.""",
    "Toyota Tundra used pickup", "USED TUNDRA: CHECK THE RECALL STATUS")
 
+sc("""Let us slow down on the recall, because this is the part that confuses people. A recall is not the same as a verdict. It means the manufacturer, or the government, identified a defect that can affect safety or function, and a repair is offered at no cost to the owner. It does not tell you how many trucks actually failed. And it does not tell you whether a repaired truck will last. So the right question is not whether there was a recall. It is whether this exact truck was repaired.""",
+   "Toyota dealership service", "A RECALL IS NOT A VERDICT")
+sc("""Here is how to check. Every truck has a seventeen character vehicle identification number, found on the driver side of the dashboard and on the door jamb. The National Highway Traffic Safety Administration lets you type that number on its recall website and see open recalls for free. A Toyota dealer can also look it up. If a recall is open, the repair is free. If it was done, ask for the paperwork. This takes five minutes, and it matters more than any review.""",
+   "Toyota Tundra VIN number", "CHECK THE VIN: FREE, FIVE MINUTES")
+sc("""Now the question about the hybrid. The i-Force Max has forty-eight more horsepower and one hundred four more pound-feet than the standard V six, and the inverter. But it adds complexity, a battery and electric motor, and the sources we used do not give the extra cost for twenty twenty-seven. So the honest advice is simple. If you tow heavy loads, or want to power tools on a job site, the hybrid makes sense. If you drive mostly on roads with light loads, the standard V six already has three hundred eighty-nine horsepower, and that is plenty.""",
+   "Toyota Tundra hybrid", "HYBRID: WORTH IT FOR TOWING AND POWER")
+sc("""It also helps to read the longevity study carefully. A truck can reach two hundred fifty thousand miles because the engine is excellent, or because an owner replaced the engine and kept driving. The study counts miles, not repair bills. And resale value measures what the market believes today. If the market is wrong about a problem, the price will change later. So use these numbers as signals, not as guarantees, and never as a replacement for checking the exact truck.""",
+   "Toyota Tundra high mileage", "MILES COUNT. REPAIR BILLS DO NOT.")
+sc("""One more point for buyers who finance. A truck that holds eighty percent of its value helps you when it is time to sell or trade. But the price you pay at the start still matters most. At the estimates we saw, a Tundra can cost from forty-five thousand to eighty-four thousand dollars. Every thousand dollars you pay above the average is a thousand dollars you need the resale value to cover. So compare the same trim, the same options, and the same day, across at least three dealers.""",
+   "Toyota Tundra dealership", "HIGH RESALE DOES NOT REPLACE A GOOD PRICE")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy a Tundra in twenty twenty-seven? First, the official price and the on-sale date, once Toyota announces them. Second, the warranty for the engine and the hybrid system, in writing. Third, the recall status for any used truck. And fourth, the towing and payload on the door sticker. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
    "Toyota Tundra pickup", "CHECK 1, 2, 3 AND 4")
@@ -82,7 +93,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video18", "length_scale": 2.0,
+json.dump({"id": "video18", "length_scale": 2.03,
   "title": "2027 Toyota Tundra: Did Toyota Fix the Engine? What We Know So Far", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

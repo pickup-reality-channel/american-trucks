@@ -54,6 +54,17 @@ sc("""The Inquirer review adds some driving numbers. The XRT with the turbo goes
 sc("""So here is the paradox. Owners give it high marks. Safety is strong. The warranty is long. And still the truck sells twenty-eight percent fewer units. The answer is probably price and size. A forty-four thousand dollar XRT is expensive for a four foot bed. A Maverick costs less at the start, according to The Autopian. The article lists twenty-nine thousand, eight hundred forty dollars for the Maverick against thirty-one thousand, three hundred fifty for the Santa Cruz.""",
    "Ford Maverick XL pickup", "MAVERICK $29,840. SANTA CRUZ $31,350.")
 
+sc("""Let us look closer at why the Maverick wins, because the reason is simple. It starts at a lower price. It is rated at thirty-eight miles per gallon combined, according to The Autopian. And it is sold in far larger numbers, which means more dealers, more parts, and more used trucks to choose from later. The Santa Cruz has a better turbo engine and a more car-like design, but a buyer who is shopping with a calculator will usually end up on the Maverick side.""",
+   "Ford Maverick Hybrid pickup", "WHY THE MAVERICK WINS: PRICE, MPG, SCALE")
+sc("""There is also a question of what a buyer wants to carry. The Santa Cruz bed is four feet long and holds twenty-seven cubic feet, and the Maverick bed is four and a half feet long, according to The Autopian. That half foot matters for things like a mountain bike, a few bags of mulch, or two sheets of plywood. If your hauling is occasional, either truck works. If it is every week, the bed will decide the purchase before the engine does.""",
+   "Hyundai Santa Cruz bed cargo", "BED: 4.0 FT VS 4.5 FT")
+sc("""Now think about what happens to the owner of a truck that may not get a successor. The warranty stays in place, and Hyundai has to keep supplying parts for years. That part is not a real risk. The real risk is resale. If buyers believe a model is ending, used prices can fall faster. We do not have a resale figure for the Santa Cruz in our sources, so we will not invent one. But it is fair to say that this is the number a careful buyer should ask the dealer about.""",
+   "Hyundai Santa Cruz used truck", "THE REAL RISK IS RESALE, NOT PARTS")
+sc("""And what about the twenty twenty-seven price? Kelley Blue Book lists the range as thirty-one thousand, nine hundred fifty to forty-four thousand, four hundred twenty-five dollars. At the same time it shows a deal ending November second, so dealers are willing to move trucks. A buyer who is patient, and who has a Maverick quote in hand, can use it as leverage. The best time to negotiate on a model with high inventory is when the dealer has had the truck for months.""",
+   "Hyundai Santa Cruz dealership", "HIGH INVENTORY MEANS ROOM TO NEGOTIATE")
+sc("""Finally, a note about reading headlines. The first report said the Santa Cruz was dead. Hyundai did not confirm it, and then it confirmed the opposite, that the truck continues. Both can be true, because a model can continue for a year and still be near the end. Companies rarely announce an ending far in advance. So treat a continuing model as a truck with an uncertain future, and decide whether that uncertainty matters to you.""",
+   "Hyundai Santa Cruz pickup", "CONTINUES FOR 2027, NOT FOREVER")
+
 # 5 THE FUTURE
 sc("""Part four, what comes next. Hyundai confirmed a new midsize body-on-frame pickup at its twenty twenty-five CEO Investor Day. The company says it will reach the United States before twenty thirty. Automotive News reports twenty twenty-nine. The Autopian expects it to be bigger than the Santa Cruz, and to compete with the Ford Ranger, the Chevrolet Colorado, the Toyota Tacoma and the Honda Ridgeline.""",
    "Hyundai pickup concept", "NEXT: A MIDSIZE TRUCK BEFORE 2030")
@@ -78,6 +89,6 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video19", "length_scale": 2.0,
+json.dump({"id": "video19", "length_scale": 2.07,
   "title": "Hyundai Santa Cruz: Dead or Alive for 2027? The Real Numbers", "scenes": S}, open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

@@ -54,6 +54,19 @@ sc("""Now the numbers that tell you where the Colorado stands. Through nine mont
 sc("""And remember, the Colorado and the GMC Canyon are the same truck with different badges. The Canyon is growing while the Colorado slips, so part of the Colorado's decline may be buyers moving to the sibling. Adding the Silverado, the Sierra, the Colorado, the Canyon and the electric trucks, General Motors sold about seven hundred eighty-seven thousand trucks through nine months, down one point eight percent.""",
    "GMC Canyon pickup", "GM TRUCKS: ABOUT 787,000. DOWN 1.8%")
 
+sc("""Let us look at the price ladder, because it shows how the lineup is built. The Work Truck starts at thirty-four thousand, four hundred ninety-five dollars in two wheel drive. The LT in two wheel drive is thirty-eight thousand, ninety-five. The Trail Boss is forty-two thousand, five hundred ninety-five, the Z71 is forty-six thousand, six hundred ninety-five, and the ZR2 is fifty-two thousand, seven hundred ninety-five. And the ZR2 Bison is sixty-four thousand, four hundred ninety-five. From bottom to top, that is a difference of thirty thousand dollars.""",
+   "Chevrolet Colorado ZR2 Bison", "FROM $34,495 TO $64,495")
+sc("""Notice what you get for the extra money. From the Work Truck to the LT, about three thousand six hundred dollars buys a more comfortable cabin. From the LT four wheel drive to the Trail Boss, the price rises about one thousand two hundred dollars, and the truck gains an off-road character. These are our own calculations from the listed prices, not Chevrolet's. The point is that the Colorado has a clear ladder, and most buyers will find a step that fits.""",
+   "Chevrolet Colorado LT pickup", "OUR MATH FROM THE LISTED PRICES")
+sc("""The destination charge deserves a word. All the prices we quoted include a destination charge of two thousand, ninety-five dollars. That means the truck's own price is lower than it looks, and the number on the window sticker is higher than an advertisement that leaves it out. When you compare quotes from different dealers, always ask for the out-the-door price, which includes taxes and fees. It is the only number that lets you compare two offers honestly.""",
+   "Chevrolet Colorado window sticker", "ASK FOR THE OUT-THE-DOOR PRICE")
+sc("""Think also about the engine question in practical terms. A new engine code could mean nothing for the owner, or it could mean a small change in emissions or durability. While we wait for Chevrolet, the safest move for a buyer who wants an early build is to ask the dealer for written confirmation of the warranty, and to read the coverage terms. The GM powertrain warranty details are not in the sources we used, so check them on the manufacturer's site.""",
+   "Chevrolet Colorado engine warranty", "ASK FOR THE WARRANTY IN WRITING")
+sc("""And remember the buying calendar. The last twenty twenty-six trucks were built on October sixteenth, and the twenty twenty-seven trucks begin on October nineteenth. That means the first weeks of the new model year will have very few trucks on dealer lots, and orders will take time. A buyer in a hurry should look at a leftover twenty twenty-six, and a buyer who wants the new truck should place an order and be patient.""",
+   "Chevrolet Colorado factory", "2026 ENDS OCT 16. 2027 STARTS OCT 19.")
+sc("""Last, think about how you will use the truck. The Colorado is crew cab only, with a short bed, and it tows up to seven thousand, seven hundred pounds. If you need a long bed, an extended cab, or a diesel, look at other trucks. If you want a strong turbo engine and a good off-road package in a single body style, the Colorado makes it simple. The lack of choice is a feature for buyers who dislike spending hours on a configurator.""",
+   "Chevrolet Colorado Z71 trail", "ONE BODY STYLE. FEWER CHOICES.")
+
 # BUYERS
 sc("""So who should buy a Colorado? Someone who wants a midsize truck with strong power, a high tow rating and a good off-road package. The Trail Boss and the ZR2 are the favorites. And who should wait? Anyone who needs to know what the new engine code means, and anyone who wants a published price. Chevrolet opened the order books for the twenty twenty-seven Colorado, but the sources give no on-sale date.""",
    "Chevrolet Colorado Trail Boss", "BUY: OFF-ROAD, POWER. WAIT: PRICE, ENGINE.")
@@ -73,6 +86,6 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video20", "length_scale": 2.0,
+json.dump({"id": "video20", "length_scale": 2.2,
   "title": "2027 Chevy Colorado: The Engine Changed and Chevrolet Won't Say How", "scenes": S}, open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")
