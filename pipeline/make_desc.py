@@ -8,6 +8,10 @@ intro=sj["scenes"][0]["text"]
 import os
 sf=f"/home/claude/american-trucks/videos/{v}/sources.txt"
 src=open(sf).read().strip() if os.path.exists(sf) else next((s["text"] for s in sj["scenes"][:6] if re.search(r"\bsources?\b|We used|we used",s["text"])),"")
+OUT=["Pickup Truck Talk","Autoblog","iSeeCars","Kelley Blue Book","KBB","Cars.com","CarScoops","Motor Authority","Electrek","InsideEVs","GM Authority","Ford Authority","Motor1","The Autopian","Autoevolution","SlashGear","Work Truck Online","CarGurus","Cox Automotive","Consumer Reports","J.D. Power","Edmunds","NPR","Fox Business","Benzinga","TopSpeed","CarBuzz","TFLcar","Torque News","Mopar Insiders","Philadelphia Inquirer","Nissan","Toyota","Ford","Stellantis","Hyundai","Chevrolet"]
+txt=" ".join(x["text"] for x in sj["scenes"])
+cited=[o for o in OUT[:32] if o.lower() in txt.lower()]
+if not src.strip(): src="Outlets cited in the video: "+", ".join(cited)+". Direct links are in the pinned comment."
 seen=set();lines=[]
 for c in cr:
     t=c["title"].replace("File:","")
