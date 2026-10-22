@@ -64,7 +64,7 @@ jobs:
           PY
       - name: Refresh the texts on an existing release
         if: steps.chk.outputs.skip == '1'
-        run: gh release upload video$N /tmp/r/textos.txt --clobber
+        run: gh release upload video$N /tmp/r/textos.txt --clobber || { sleep 10; gh release upload video$N /tmp/r/textos.txt --clobber; }
       - name: Create the release
         if: steps.chk.outputs.skip != '1'
         run: |
