@@ -11,9 +11,11 @@ SLOTS_UTC = [(16, 0), (20, 0), (24, 0)]
 
 def token():
     r = requests.post("https://oauth2.googleapis.com/token", data={
-        "client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
-        "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}, timeout=30)
-    r.raise_for_status(); return r.json()["access_token"]
+        "client_id": os.environ["YT_CLIENT_ID"].strip(), "client_secret": os.environ["YT_CLIENT_SECRET"].strip(),
+        "refresh_token": os.environ["YT_REFRESH_TOKEN"].strip(), "grant_type": "refresh_token"}, timeout=30)
+    if not r.ok:
+        sys.exit(f"token refresh failed: {r.status_code} {r.text}")
+    return r.json()["access_token"]
 
 
 def queue():
