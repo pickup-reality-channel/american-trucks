@@ -1,0 +1,12 @@
+{"summary": "Which pickups are really built in America in 2026: the Cars.com American-Made Index and the Kogod Made in America Auto Index, the trucks built in Mexico and Canada, the 2025 truck tariffs and the Detroit split over Ram's waiver request, and the billions GM, Stellantis and Toyota are spending to bring truck production home. Every number comes from a published source, listed below.",
+ "sources": [
+  "Pickup Truck + SUV Talk, American-Made Index 2026: how American is your truck? (June 23, 2026): https://pickuptrucktalk.com/2026/06/american-made-index-2026/",
+  "Kogod School of Business, American University, 2026 Made in America Auto Index: https://kogod.american.edu/autoindex/2026",
+  "Pickup Truck + SUV Talk, GM, Ford applaud Trump 25% medium-, heavy-duty truck tariff, blast Ram trucks waiver appeal (Oct 8, 2025): https://pickuptrucktalk.com/2025/10/gm-ford-applaud-trump-25-medium-heavy-duty-truck-tariff-blast-ram-trucks-waiver-appeal/",
+  "The Drive, Ford's cheapest models get up to $2,000 more expensive due to tariffs (May 2025): https://www.thedrive.com/news/fords-cheapest-models-get-up-to-2000-more-expensive-due-to-tariffs",
+  "Automotive World, Toyota bets US$3.6bn on Texas local Tacoma production (July 7, 2026): https://www.automotiveworld.com/news/toyota-bets-us3-6bn-on-texas-local-tacoma-production/",
+  "Stellantis, Stellantis to invest $13 billion to grow in the United States (Oct 14, 2025): https://www.stellantis.com/en/news/press-releases/2025/october/stellantis-to-invest-13-billion-to-grow-in-the-united-states",
+  "Crain's Detroit Business, GM shifts Orion plant from EVs to gas in $4B U.S. investment (June 10, 2025): https://prod.crainsdetroit.com/node/922781",
+  "Ford Authority, Oakville Ford Super Duty production reached double digits in May 2026 (June 4, 2026): https://fordauthority.com/2026/06/oakville-ford-super-duty-production-reached-double-digits-in-may-2026/"
+ ],
+ "note": "Rankings quoted as published. Pickup Truck + SUV Talk's table and text disagree by one place on the 2026 Silverado and Sierra 1500 ranks, so the script says 'in the eighties' and 'high seventies'. VIN first-character country codes are the standard ISO 3779 world manufacturer identifier ranges."}
