@@ -70,3 +70,9 @@ jobs:
         run: |
           T=$(python3 -c "import json;print(json.load(open('agendamento/meta/video$N.json'))['title'])")
           gh release create video$N /tmp/r/* --target "$GITHUB_SHA" --title "v$N: $T" --notes "Pacote para agendar no YouTube: video$N.mp4 (longo), short1-5.mp4, captions.srt e textos.txt (título, descrição e textos dos Shorts)."
+      - name: Attach the thumbnail
+        run: |
+          if [ -f agendamento/thumbs/video$N.jpg ]; then
+            cp agendamento/thumbs/video$N.jpg /tmp/thumbnail.jpg
+            gh release upload video$N /tmp/thumbnail.jpg --clobber
+          fi
