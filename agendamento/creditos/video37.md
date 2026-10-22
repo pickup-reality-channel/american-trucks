@@ -1,0 +1,115 @@
+# Photo credits: What Happened to Cheap Trucks? The $19,995 Pickup Now Costs $27,145
+
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford Maverick interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick Lariat FWD Ecoboost.jpg by Zoz0716, CC BY-SA 4.0
+- 2022 Ford Maverick XL in Shadow Black, Front Left, 06-26-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 22 Ford Maverick Lariat.jpg by HJUdall, CC0
+- Chevrolet CK (1988) pickups, peach, Golden Super Cruise 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1988 Chevrolet R30 Custom Deluxe regular cab Big Dooley flatbed, front right, 06-06-2026.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Caprice Classic 1988.JPG by CapriceEdo, CC BY-SA 4.0
+- 1988 Chevrolet C1500 (37290243515).jpg by GPS 56 from New Zealand, CC BY 2.0
+- 1988–1998 Chevrolet CK 1500, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet C-10 Custom Deluxe 1988 (9371626185).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet C-10 Custom Deluxe 1988 (38835072720).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Pickup 4x4 i halmåker.jpg by Øyvind Holmstad, CC BY-SA 4.0
+- General Electric 1994 battery powered radio.jpg by Daniel Christensen at en.wikipedia, CC BY 3.0
+- 1958 Edsel Pacer Convertible with Teletouch (18839792638).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Citation Teletouch Transmission (18997339216).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Citation (18997333986).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- 2015 chevrolet silverado 3500 hd incomplete wt reverse.JPG by Rjluna2, CC BY-SA 4.0
+- 2015 chevrolet silverado 1500 wt long observe.JPG by Rjluna2, CC BY-SA 4.0
+- 2015 chevrolet silverado 3500 hd incomplete wt observe.JPG by Rjluna2, CC BY-SA 4.0
+- 2015 chevrolet silverado 1500 wt long reverse.JPG by Rjluna2, CC BY-SA 4.0
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 2024 Ford Maverick XL, front left, 08-21-2026.jpg by BuickRiviera99, CC BY-SA 4.0
+- 1971 Ford Maverick, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford Maverick owed by the City of St. Catharines.jpg by Gogerr, CC BY-SA 4.0
+- 2025 Ford Maverick Lobo au salon auto Lanaudière 2025.jpg by Bull-Doser, Public domain
+- 2025 Ford Maverick Lobo, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2026 Chevrolet Colorado WT, front left, 09-27-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Colorado WT 4WD in Sterling Grey Metallic, Front Right, 08-19-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 2025 Hyundai Santa Cruz Preferred in Hampton Grey, front left, 2026-04-12.jpg by Elise240SX, CC BY-SA 4.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 22 Toyota Tacoma SR.jpg by HJUdall, CC0
+- 2025 Toyota Tacoma SR Xtracab, front 5.4.25.jpg by Kevauto, CC BY-SA 4.0
+- 07 Ford F-150 XL.jpg by HJUdall, CC0
+- 2019 Ford F-150 XL regular cab 8' with Chrome package, front left, 06-15-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet 3500 Cheyenne 1993 (53336960584).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet CK 3500 -- 01-07-2012.jpg by IFCAR, Public domain
+- Dark Grey 1997 Chevrolet C-K 3500 turning onto Simmons St.jpg by Noah Wulf, CC BY-SA 3.0
+- Chevrolet C K 3500 Regular Cab (1988) (53465078630).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Silverado 3500HD GMTT1XX Garry’s.jpg by Bull-Doser, Public domain
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Seattle - Smith-Gandy car dealership, circa 1960s (55091228432).jpg by Seattle Municipal Archives from Seattle, WA, CC BY 4.0
+- Car Source Kenosha Burned out car lot.jpg by Lightburst, CC BY-SA 4.0
+- Toyota Tacoma V6 4x4 SR5 (III) – f 02112024.jpg by © M 93, CC BY-SA 3.0 de
+- Toyota Tacoma V6 4x4 SR5 (III) – h 02112024.jpg by © M 93, CC BY-SA 3.0 de
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 24 Ford Maverick XLT Tremor.jpg by HJUdall, CC0
+- '15-'17 Ford F-150 Regular Cab St. Basile Le Grand.jpg by Bull-Doser, Public domain
+- 1977 Ford F-150 Custom Regular Cab 8' Styleside, 07-22-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 1998 Ford Ranger Supercab XL.jpg by LoveTripSpotting, CC BY-SA 4.0
+- Ford Ranger XLT III 1998 Orange (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- 1999 Ford F-150 interior.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- 2022 Ram 1500 Limited Crew Cab 4x4, front left, 05-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram 1500 Limited.jpg by HJUdall, CC0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7062.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ford Maverick Lobo, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick au salon international de l'auto de Montréal 2025.jpg by Bull-Doser, Public domain
+- 2025 Hyundai Santa Cruz interior.jpg by Deathpallie325, CC BY 4.0
+- 2025 Hyundai Santa Cruz XRT (United States) front view.jpg by Charles, CC BY 2.0
+- Scania S-series car carrier in Tokyo.jpg by Syced, CC0
+- Car carrier loading Maybach in Tokyo.jpg by Syced, CC0
+- Eucidaris tribuloides (Slate-pencil Urchin).jpg by Nhobgood (talk) Nick Hobgood, CC BY-SA 3.0
+- Slate Run-Slate Run Creek through a mixed Fall Forest 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- GMC 3-3 pickup truck - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- Nissan 720 pickup truck - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- Leer Topper - Camper Shell - Truck.jpg by Tony Webster, CC BY 2.0
+- LEER 122 Camper Shell.jpg by SsmIntrigue, CC BY-SA 4.0
+- Ram Pickup plug-in hybrid rear -- 2011 DC.jpg by IFCAR, Public domain
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- 1924 Ford Model T Flivver IAA 2023 1X7A0610.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Model T BW 2018-07-15 13-17-32.jpg by Berthold Werner, CC BY-SA 3.0
+- Louisville Assembly Plant.jpg by Smokeyrunbandit, CC BY-SA 3.0
+- Ford Buffalo Stamping Plant from near entrance to Woodlawn Beach State Park, Hamburg, New York - 20211102.jpg by Andre Carrotflower, CC BY-SA 4.0
+- 2008 Dodge Dakota.jpg by IFCAR, Public domain
+- Dakota interior 2003.jpg by OrangeMooch17, CC BY-SA 4.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2016 chevrolet silverado wt regular standard blackout observe.jpg by Rjluna2, CC BY-SA 4.0
+- 2016 chevrolet silverado wt regular standard blackout reverse.jpg by Rjluna2, CC BY-SA 4.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- 2026 Ford Maverick SIAM 2026.jpeg by Bull-Doser, Public domain
+- 23 Ford Maverick XLT.jpg by HJUdall, CC0
+- Slate Truck demonstration in Seattle - 01.jpg by SounderBruce, CC BY-SA 4.0
+- Slate Truck demonstration in Seattle - 02.jpg by SounderBruce, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

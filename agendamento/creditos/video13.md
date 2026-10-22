@@ -1,0 +1,67 @@
+# Photo credits: The Cybertruck Problem: 250,000 Promised, This Is What Sold (2026)
+
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0576.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0629.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0622.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0620.jpg by Alexander-93, CC BY-SA 4.0
+- Stainless steel Cybertruck car at Stockholm, Sweden 2024.jpg by Editorq35, CC0
+- Stainless Finish (53518910972).jpg by crudmucosa, CC BY 2.0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- 2024 Tesla Cybertruck, Moab 02.jpg by A1C6, CC0
+- Tesla Cybertruck 003.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck dark gray 01.jpg by Wikideas1, CC0
+- Tesla Cybertruck dark gray 02.jpg by Wikideas1, CC0
+- Tesla Cybertruck - 06.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck - April 2024 - Sarah Stierch 01.jpg by Missvain, CC BY 4.0
+- Tesla Cybertruck - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck - 01.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla CyberTruck in Barre, Vermont.jpg by Kenneth C. Zirkel, CC BY 4.0
+- Tesla Cybertruck - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-front-left-wheel.jpg by u/Kruzat, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, front 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- 2023 production-level Tesla Cybertruck on display in Denver, Colorado.jpg by N2e, CC0
+- 2024 Tesla Cybertruck, front left, 07-27-2024.jpg by Cutlass, CC0
+- Gigafactory Texas Building 1 June 2022.jpg by Larry D. Moore, CC BY 4.0
+- Gigafactory Texas Construction North Elevation February 2021.jpg by Larry D. Moore, CC BY 4.0
+- Tesla Cybertruck - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck Pickup truck (54699110364).jpg by Tomás Del Coro, CC BY-SA 4.0
+- Tesla Cybertruck 004.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck SoHo 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck (grey) - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Matte Black Tesla Cybertruck, 32nd Street between Madison and 5th Avenue, 2024-06-21, Midtown South, Manhattan, New York 03.jpg by Deans Charbal, CC BY-SA 4.0
+- Matte Black Tesla Cybertruck, 32nd Street between Madison and 5th Avenue, 2024-06-21, Midtown South, Manhattan, New York 01.jpg by Deans Charbal, CC BY-SA 4.0
+- Tesla Cybertruck on Highway 401 Westbound at Leslie Street - 20250121.jpg by Sikander Iqbal, CC BY-SA 4.0
+- Matte Black Tesla Cybertruck, 32nd Street between Madison and 5th Avenue, 2024-06-21, Midtown South, Manhattan, New York 02.jpg by Deans Charbal, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck - 08.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck SoHo.jpg by Kidfly182, CC BY 4.0
+- The White House - 54381276830.jpg by The White House, Public domain
+- 2024 Tesla Cybertruck Foundation Series, front left (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Tesla Cybertruck (black).jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck - April 2024 - Sarah Stierch 02.jpg by Missvain, CC BY 4.0
+- Tesla Cybertruck Cyberbeast Satin Stealth Black - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- Tesla Cybertruck - AUTO ATHINA 2024 - Front.jpg by Mpelas199, CC0
+- Tesla Cybertruck - 07.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (53639113810).jpg by rulenumberone2 from San Francisco, CA, USA, CC BY 2.0
+- Tesla Cybertruck (53638876578).jpg by rulenumberone2 from San Francisco, CA, USA, CC BY 2.0
+- Cybertruck-fremont-cropped.jpg by Lcaa9, CC BY-SA 4.0
+- Davenport - Cybertruck.jpg by YukioSanjo, CC BY 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Rivian-r1t-2021.jpg by Photo by Rivian, CC BY-SA 4.0
+- Debut of the Rivian R1T pickup at the 2018 Los Angeles Auto Show, November 27, 2018.jpg by Richard Truesdell, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear left, 07-27-2024.jpg by Cutlass, CC0
+- Tesla Cybertruck – Electric Utility Truck (54675530479).jpg by Tomás Del Coro, CC BY-SA 4.0
+- Tesla Cybertruck labeled as "Ford" - 02.jpg by Valkyrie McBride, CC BY 4.0
+- Tesla Cybertruck labeled as "Ford" - 01.jpg by Valkyrie McBride, CC BY 4.0
+- Cybertruck in New York City (54150209152).jpg by Paul Lowry from New York, EEUU de A, CC BY 2.0
+- 2024 Tesla Cybertruck Foundation Series, rear left (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0
+- Tesla dealership, Tallahassee, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

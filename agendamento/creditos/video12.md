@@ -1,0 +1,95 @@
+# Photo credits: Which Trucks Last the Longest? The 2026 Ranking (250,000 Miles)
+
+- 2019 Ram 3500 Heavy Duty Turbo Diesel with Cummins engine front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- Ram 3500 SLT Heavy Duty Quad Cab Dual 2012 (10969261326).jpg by order_242 from Chile, CC BY-SA 2.0
+- Dodge Ram 3500 Heavy Duty (14918338027).jpg by FotoSleuth, CC BY 2.0
+- Ram Heavy Duty DS Crew Cab (Tuned).jpg by Bull-Doser, Public domain
+- 2024 Ram Heavy Duty 3500 Limited Longhorn Crew Cab SRW 6'4 Box in Pearl White & Walnut Brown Metallic Two-Tone, front left, 2026-05-09.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 Ram Heavy Duty 3500 Limited Longhorn Crew Cab SRW 6'4 Box in Pearl White & Walnut Brown Metallic Two-Tone, rear left, 2026-05-09.jpg by Elise240SX, CC BY-SA 4.0
+- 2006 - Dodge Ram 3500 - Mega Cab - Dually 4x4 - Laramie - RL.jpg by © JD (de.wikipedia.org), CC BY-SA 4.0
+- 2006 - Dodge Ram 3500 - Mega Cab - Dually 4x4 - Laramie - FL.jpg by © JD (de.wikipedia.org), CC BY-SA 4.0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Third Gen Toyota Tundra TRD Pro on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- Toyota Tundras racing pickup trucks one sponsored by Con-way Freight.jpg by Bo Nash, CC BY-SA 2.0
+- 2005 Toyota Tundra, Front Left, 04-11-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Toyota Tundra USK56 FL 1794 Edition Smoked Mesquite.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- '17 Ford F-250 Super Duty Double Cab.jpg by Bull-Doser, Public domain
+- Ford F-250 Super Duty P473 King Maintenance.jpg by Bull-Doser, Public domain
+- 2016 Ford F-250 Super Duty XL Regular Cab 4x4 with XL Appearance Package, front left, 10-28-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1999 Dodge Ram Cab 2500 4x4 stakebed.jpg by Mr.choppers, CC BY-SA 3.0
+- Ram 3500 pickup truck Eastern Avenue downtown Saint Johnsbury VT September 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-350 Super Duty Extended Cab.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty Albi Ford.jpg by Bull-Doser, Public domain
+- 2018 Ram 3500 Laramie Crew Cab 4x4 with 8' Box, front left, 12-08-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2018 Ram 3500 Laramie Crew Cab 4x4 with 8' Box, rear right, 12-08-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Tundra Endeavour.jpg by Bluesnote, CC BY-SA 3.0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2014 Toyota Tundra 1794 Edition.jpg by A. Bailey, CC BY-SA 3.0
+- MIAS 2024 - 2017 Toyota Tundra 1794 Edition camper by Overland Kings.jpg by Ethan Llamas, CC BY-SA 4.0
+- White 2003-6 Toyota Tundra With custom Bumper.jpg by Noah Wulf, CC BY-SA 3.0
+- Toyota Tundra USK56 FL 5.7 Platinum CrewMax 4x4 Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- 23 GMC Sierra 3500HD SLT.jpg by HJUdall, CC0
+- 18 GMC Sierra 3500HD Denali.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 2003 Chevrolet Silverado 2500HD regular cab 4x4, front right, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Honda Ridgeline RTL 2020.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Honda Ridgeline RTL 2022.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-350 Super Duty Crew Cab P221.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty PowerStroke Ferrento Regular Cab.jpg by Bull-Doser, Public domain
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1978 Ford F-250 Ranger regular cab Camper Special.jpg by MercurySable99, CC BY-SA 4.0
+- Ram 2500.jpg by בויי הרובוט, CC BY-SA 4.0
+- Bureau of Land Management Ram 2500.jpg by Noah Wulf, CC BY-SA 4.0
+- Honda Ridgeline RTL 2023.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Honda Ridgeline 144326.jpg by Trop86, CC0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2014 (16330261513).jpg by order_242 from Chile, CC BY-SA 2.0
+- 18 Ram 3500 Tradesman.jpg by HJUdall, CC0
+- 25 Ram 3500 Big Horn.jpg by HJUdall, CC0
+- Ford F-250 Super Duty P221 Regular Cab.JPG by Bull-Doser, Public domain
+- Ford F-250 Super Duty P473 Englobe.jpg by Bull-Doser, Public domain
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 03.jpg by Retired electrician, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 04.jpg by Retired electrician, CC0
+- '04 Nissan Titan Extended Cab.jpg by Bull-Doser, Public domain
+- Nissan A61 Titan Crew Cab.jpg by Bull-Doser, Public domain
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- EB I-10 Jeff Co Rest Area; No Left Turn from Picnic Area Exit.jpg by DanTD, CC0
+- 2024 Mint 400 (53581352711).jpg by BLM Nevada, Public domain
+- 2006 - Dodge Ram 3500 - Mega Cab - Dually 4x4 - Laramie - RR.jpg by © JD (de.wikipedia.org), CC BY-SA 4.0
+- Entry from Morningside Drive in Dade City, FL-07.jpg by DanTD, CC BY 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tundra USK56 FL 5.7 Platinum CrewMax 4x4 Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford F-250 Lariat Chrome Badge on New Pickup Truck (48614257213).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY-SA 2.0
+- Ford F-250 fire department truck (8036226282).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, rear right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, front right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 1500 GMT800 Regular Cab.jpg by Bull-Doser, Public domain
+- '01-'02 Chevrolet Silverado 1500 Reg. Cab.JPG by Bull-Doser, Public domain
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0

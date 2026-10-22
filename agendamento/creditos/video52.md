@@ -1,0 +1,150 @@
+# Photo credits: 7 Dealer Tricks When Buying a Truck in 2026 (The Rule That Would Have Stopped Them Died)
+
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Hobson Chevrolet Buick Dealership, Cairo.JPG by Michael Rivera, CC BY-SA 3.0
+- Toyota HiLux GR Sport 1X7A7281.jpg by Alexander-93, CC BY-SA 4.0
+- Car dealership in Rockville Maryland shop 1.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights, but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain
+- Briarwood Ford Dealership at Night, Pittsfield Township (Saline), Michigan - panoramio.jpg by Dwight Burdette, CC BY 3.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 1of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 4of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 3of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 2of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- Tri-County International Trucks dealership Ypsilanti Michigan.JPG by Dwight Burdette, CC BY 3.0
+- Adams Motors. New England's most modern and best equipped Dodge - Plymouth dealership, Dodge Job-Rated trucks (80111).jpg by Fullcolor Post Cards, New England Advertising, 82 Needham St., Newton Highlands 61, Mass., Public domain
+- Volvo Trucks Huércal.jpg by Schumi4ever, CC BY-SA 4.0
+- Toyohashi Mitsubishi Fuso Truck and Bus Sales.jpg by 運動会プロテインパワー, CC BY-SA 4.0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- RiverBend Ford.jpg by The Bushranger, CC BY-SA 4.0
+- Commerce March 2017 107 (Meador Commerce Dodge Chrysler Jeep Ram).jpg by Michael Barera, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Falcon Motor Accessories Closing Down 07.jpg by beareye2010, CC0
+- Falcon Motor Accessories Closing Down 03.jpg by beareye2010, CC0
+- Falcon Motor Accessories Closing Down 01.jpg by beareye2010, CC0
+- Hiawatha, Kansas loan guarantee 3903822028 o.jpg by unknown, Public domain
+- Ambassador Pyatt at Signing Ceremony for Loan Guarantee for Ukraine, Kyiv, Ukraine, June 3, 2016 (27361760371).jpg by U.S. Embassy Kyiv Ukraine, Public domain
+- Ambassador Pyatt at Signing Ceremony for Loan Guarantee for Ukraine, Kyiv, Ukraine, June 3, 2016 (27157050880).jpg by U.S. Embassy Kyiv Ukraine, Public domain
+- DSCF0901 A busy outdoor market scene as vendors sell mangosteens piled in the back of a pickup truck while customers inspect and pick fruit.jpg by PattayaPatrol, CC BY-SA 4.0
+- DFC 2041 A street vendor sells produce from the back of a lit pickup truck at night with scooters and apartment buildings lining the quiet urban road.jpg by PattayaPatrol, CC BY-SA 4.0
+- 1915 Ford Model T T2 Pickup (12703440714).jpg by Sicnag, CC BY 2.0
+- Shiozawa Credit Union Head Store2.JPG by Waka77, CC0
+- Milwaukee August 2024 042 (Summit Credit Union).jpg by Michael Barera, CC BY-SA 4.0
+- Union Savings and Loan Building - New Orleans (51789677787).jpg by Tony Webster, CC BY 2.0
+- Miami High Rise Window Cleaning truck logo decal.JPG by Daniel Christensen, CC BY-SA 3.0
+- Silver on black (95655364).jpg by Anthony Easton from Montreal, canada, CC BY 2.0
+- 1954 Chevy 3100 5 window truck sold by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- 2004 Dodge Ram 1500 Sport (48909327046).jpg by George, CC BY-SA 2.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- Peter Boulware Toyota dealership - Tallahassee, FL.jpg by FLGALine1999, CC0
+- Kugelbund-Felgenschloss-92145.jpg by Raimond Spekking, CC BY-SA 4.0
+- Kugelbund-Felgenschloss und Felgenschloss-Adapter-92163.jpg by Raimond Spekking, CC BY-SA 4.0
+- Bell telephone magazine (1922) (14752979581).jpg by Internet Archive Book Images, Public domain
+- Car tire tracks in snow under sodium light.jpg by W.carter, CC0
+- Abandoned car in Marine Park (10852p).jpg by Rhododendrites, CC BY-SA 4.0
+- Thomasville Toyota.jpg by Michael Rivera, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
+- Car dealer, Alperton - geograph.org.uk - 2581082.jpg by Stacey Harris, CC BY-SA 2.0
+- Dixie, Former car dealership, Cross City.JPG by Michael Rivera, CC BY-SA 4.0
+- Tesla dealership, Tallahassee, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Jdm cars lined up.jpg by Duniti, CC BY-SA 4.0
+- Rotting Car Lot Schertz TX 04.jpg by Jonmallard, CC BY-SA 4.0
+- Rotting Car Lot Schertz TX 05.jpg by Jonmallard, CC BY-SA 4.0
+- Rotting Car Lot Schertz TX 02.jpg by Jonmallard, CC BY-SA 4.0
+- K-Class Blimp Goodyear ZNP-K Control Car - 50815567501.jpg by Eric Friedebach, CC BY 2.0
+- K-Class Blimp Goodyear ZNP-K Control Car.jpg by Eric Friedebach, CC BY 2.0
+- "In the Irish Village - pretty lassies in jaunting cars before 'Cormac Chapel' - World's Fair, St. Louis, U.S.A." (Louisiana Purchase Exposition). U and U 42.jpg by Underwood and Underwood, Public domain
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Green Light Trailer @ Wal-Mart on FL 50 in Spring Hill.jpg by DanTD, CC BY-SA 4.0
+- 2010 Ford Ranger XLT SuperCab.jpg by CC-BY-CarImages, CC BY-SA 2.0
+- 1947 Dodge (6201456865).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 2013 Ram 1500 @ the 2012 New York International Auto Show (6905488632).jpg by LotPro Cars, CC BY-SA 2.0
+- 2013 Ram 1500 @ the 2012 New York International Auto Show (7051579097).jpg by LotPro Cars, CC BY-SA 2.0
+- 2013 Ram 1500 @ the 2012 New York International Auto Show (7048361035).jpg by LotPro Cars, CC BY-SA 2.0
+- MIAS 2024 - Toyota Land Cruiser J70 pickup camper by Overland Kings.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1985 Nissan Sunny Pickup (8753735550).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- PChome Express KPC-0817 at Hall C, World Trade Center 20220401.jpg by Solomon203, CC BY-SA 4.0
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- View of an American flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4174600.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a classic flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4176487.jpg by Robert Lamb, CC BY-SA 2.0
+- A Volvo car dealership in Chattanooga, Tennessee.jpg by Harrison Keely, CC BY 4.0
+- Romford Suzuki car dealership - geograph.org.uk - 1992483.jpg by Stacey Harris, CC BY-SA 2.0
+- Crawley Volkswagen car dealership - geograph.org.uk - 3385411.jpg by Stacey Harris, CC BY-SA 2.0
+- Leaders seek input, give guidance on consumer financial products, Image 1 of 3.jpg by Roland Balik, Public domain
+- Leaders seek input, give guidance on consumer financial products 120120-F-BO262-024.jpg by Roland Balik, Public domain
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- NYNM members review paperwork.jpg by Eric Durr, Public domain
+- How Louisiana Native Turned Childhood Wonder into NASA Stennis Career.jpg by NASA/Danny Nowlin, Public domain
+- Oberfinanzdirektion, Frankfurt, 1956.jpg by Charles Henry Culberson, CC BY 4.0
+- Vancovuer, Washington, United States Postal Service Contract Postal Unit Shell Fisher's Landing, August 2020.jpg by Steven Baltakatei Sandoval, CC BY-SA 4.0
+- Cadastral Set Monument 2016 Under Forest Service Contract, Tahoe National Forest Boundary near Scotts Flat Reservoir (29716882511).jpg by blmcalifornia, Public domain
+- Acquisition and Cross-Servicing Agreement 140415-N-DX698-215.jpg by Petty Officer 1st Class Jay Chu, Public domain
+- Countdown sign at Charles MGH station, December 2013.jpg by MassDOT, Public domain
+- To Cortlandt Sign at the New York Transit Musuem, February 2016.jpg by HeatherMarieKosur, CC BY-SA 4.0
+- Contract No. 70, WPA Sewer Construction, Rutland, WPA sign near manhole 6, Rutland Sewer, Rutland, Mass., Jul. 23, 1940 - DPLA - 925ada0755c4d8ca93d5817e78e659e1.jpg by Massachusetts. Metropolitan District Water Supply Commission, Pike, Stuart D., 1910-1978, Public domain
+- 1955 Mercury Montclair Convertible.jpg by Alden Jewell, CC BY 2.0
+- Toy car salesman showing a craft chicha vendor.jpg by Wilfredor, CC0
+- Typical colonial house from downtown Maracaibo.jpg by unknown, CC0
+- 1964 Mercury Econoline pickup truck.jpg by Zytonits, CC BY-SA 2.0
+- Yakult Banqiao Dealer 20170624.jpg by Solomon203, CC BY-SA 4.0
+- VAZ-2121 customized to Truck.jpg by dave_7, CC BY-SA 2.0
+- French Calendar Medal, 1778 (35142074520).jpg by Joe deSousa, CC0
+- Kom Ombo Temple Calendar 3.JPG by Ad Meskens, CC BY-SA 4.0
+- Poydras Street, New Orleans CBD July 2021 - Little Gem Saloon Last Month Calendar.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- Ancient Rain quote, Pier 28 Muni Metro stop.JPG by BrokenSphere, CC BY-SA 4.0
+- The Sea and the Hills quote, Pier 14 SF 2.JPG by BrokenSphere, CC BY-SA 3.0
+- The Sea and the Hills quote, Pier 14 SF 3.JPG by BrokenSphere, CC BY-SA 3.0
+- The Apex Building, headquarters of the Federal Trade Commission, on Constitution Avenue and 7th Streets in Washington, D.C.jpg by Harrison Keely, CC BY 4.0
+- Federal Trade Commission Building 2.jpg by Kurt Kaiser, Public domain
+- Federal Trade Commission Building (53839143157).jpg by ajay_suresh, CC BY 2.0
+- Courthouse in Aurillac 01.jpg by Krzysztof Golik, CC BY-SA 4.0
+- Vue du palais de justice de Bruxelles.jpg by Fawaz.tairou, CC BY-SA 4.0
+- Omagh Courthouse (01), January 2010.JPG by Ardfern, CC BY-SA 3.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 Macungie show 2of4.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 Macungie show 3of4.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- "Javelin 2" American Motors funny car dragster Chilson Motors PA at 2015 AMO show 3of6.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- "Javelin 2" American Motors funny car dragster Chilson Motors PA at 2015 AMO show 5of6.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- "Javelin 2" American Motors funny car dragster Chilson Motors PA at 2015 AMO show 1of6.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Seattle - Dave's Appliance Rebuild truck 01.jpg by Joe Mabel, CC BY-SA 3.0
+- 88c161 Pickup truck driving onto Augusta Ferry (28129733993).jpg by William Alden from Louisville, Kentucky, USA, CC BY-SA 2.0
+- Dale Gent Pickup Truck Racing Donington Park 2026.jpg by BWard 1997, CC BY 4.0
+- Seven receipts for groceries, two itemized lists of groceries, and one receipt for goods, July 24, 1830-July 2, 1831 - DPLA - a2a54eaa2eae20843f2c1f756e2e9193 (page 2).jpg by unknown, Public domain
+- Seven receipts for groceries, two itemized lists of groceries, and one receipt for goods, July 24, 1830-July 2, 1831 - DPLA - a2a54eaa2eae20843f2c1f756e2e9193 (page 4).jpg by unknown, Public domain
+- Seven receipts for groceries, two itemized lists of groceries, and one receipt for goods, July 24, 1830-July 2, 1831 - DPLA - a2a54eaa2eae20843f2c1f756e2e9193 (page 9).jpg by unknown, Public domain
+- My Documents Service named train.jpg by Kirill Borisenko, CC0
+- Schnellhefter Kunststoff.jpg by Rico Heil (silmaril), CC BY-SA 3.0
+- File Folder with Documents (23909830671).jpg by Tony Webster from Portland, Oregon, CC BY-SA 2.0
+- Legal Contract & Signature - Warm Tones.jpg by Blogtrepreneur, CC BY 2.0
+- Gavin Newsom signs SB206 on The Shop 03.jpg by Government of California, Public domain
+- Cape Hatteras Light Station (Lighthouse), Life at the Light, Cape Hatteras National Seashore, Buxton, North Carolina (14453375032).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Nissan Navara 4x4 PRO4x 2024 (5).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Toyota Hilux 4x4 GR Sport 2024.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Ford Ranger 4x2 Wildtrak 2024 (5).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Abandoned car dealership, Flower Hill.jpg by D. Benjamin Miller, CC0
+- Two Bobbys, South Norwood, SE25 (5717699705).jpg by Ewan Munro from London, UK, CC BY-SA 2.0
+- Art Deco Haynes Ford Maidstone. (51997457898).jpg by John K  Thorne from Universal , Universal, CC0
+- Porsche 911 - Father and Son (6207018662).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- Snowstorm South Parking Lot (2240246313).jpg by Aaron Tait from San Francisco, United States, CC BY 2.0
+- FSO Polonez Truck on a parking lot next to the Plac na Stawach in Kraków.jpg by SuperTank17, CC BY 3.0
+- Reading Between The Phone Numbers (14923462855).jpg by Alan Levine from Archydal, Canada, CC BY 2.0
+- WeBuyCars Signage in Milnerton, Cape Town.jpg by Husskeyy, CC BY-SA 4.0
+- Do you get Co-op points for buying a car^ - geograph.org.uk - 2500499.jpg by Peter Barr, CC BY-SA 2.0
+- 2024 Zip Buy Now, Pay Later 250 Toyota Supra Pace Car.jpg by TaurusEmerald, CC BY-SA 4.0
+- KGM Musso Q300 Smoke Taupe (2).jpg by Damian B Oh, CC BY-SA 4.0
+- KGM Musso Q300 Smoke Taupe (1).jpg by Damian B Oh, CC BY-SA 4.0
+- KGM Musso EV O100 Space Black (1).jpg by Damian B Oh, CC BY-SA 4.0

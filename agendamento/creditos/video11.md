@@ -1,0 +1,99 @@
+# Photo credits: 5 Pickups Actually Worth Buying in 2027 (And the Warning for Each)
+
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma in the Snow.jpg by Mundanemetal, CC BY 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) DSC 7353.jpg by Alexander Migl, CC BY-SA 4.0
+- 25 Toyota Tacoma TRD Off-Road HV.jpg by HJUdall, CC0
+- Aisin RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- 12-07-15-wikimania-wdc-by-RalfR-035.jpg by Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de Wikis in der Ausbildung, CC BY-SA 3.0
+- 12-07-15-wikimania-wdc-by-RalfR-037.jpg by Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de Wikis in der Ausbildung, CC BY-SA 3.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 XLT Pickup Truck (53150027120).jpg by Tony Webster, CC BY 2.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Ram 1500 Rebel (DT) IMG 5357.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 V6 eTorque Big Horn 2022 (53411473634).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 SLT 2012 (53112209661).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2019 Ram 3500 Heavy Duty Turbo Diesel with Cummins engine front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- Ram 3500 SLT Heavy Duty Quad Cab Dual 2012 (10969261326).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado 3500 HD GMT911.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado HD Crew Cab GMTT1XX.jpeg by Bull-Doser, Public domain
+- Ford F-350 Super Duty Extended Cab.jpg by Bull-Doser, Public domain
+- Ford F-350 Super Duty Albi Ford.jpg by Bull-Doser, Public domain
+- Inland Empire CA 20230829 004944029.jpg by Sony 1992, CC0
+- Dark Grey Ford F-150 on U.S. Route 95.jpg by Noah Wulf, CC BY-SA 3.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen 1937 Chevrolet Silverado High Country-20230909-RM-172038.jpg by Ermell, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-150 Lightning Lariat, Auto 2024, Zurich (PANA1012).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- Lake Havasu (27588752947).jpg by BLMArizona, Public domain
+- Orange CR 527 North Xing CSX TDSI Loop-03.jpg by DanTD, CC BY 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Rear Left, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-150 Lightning Portek.jpg by Bull-Doser, Public domain
+- Lindy's Fried Chicken, Blountstown, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Toyota (4368223689).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 2001 Ford F-150 XLT 4x4 Regular Cab Styleside Long Bed with Sport Group.jpg by MercurySable99, CC BY-SA 4.0
+- 1998 Ford F-150 XLT Pickup (30588433012).jpg by Sicnag, CC BY 2.0
+- Ram 1500 Laramie 2013 (10093421586).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2019 Ram 1500 Laramie, front 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2009 Dodge Ram SLT Big Horn Quad Cab.jpg by IFCAR, Public domain
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 1999 Ford F-150 Lariat SuperCab 6.5' Styleside, front left, 06-15-2025.jpg by MercurySable99, CC BY-SA 4.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2014 (16330261513).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2024 Mint 400 (53581352711).jpg by BLM Nevada, Public domain
+- Glynmill Inn.jpg by David-17362, CC BY-SA 4.0
+- 03-05 Chevrolet Silverado 1500 Work Truck 4x4 regular cab.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 1500 regular cab pickup truck with Monster Energy promotional livery and aftermarket off-road accessories - FirstLook festival in the Netherlands.jpg by Sebastiaan Broekhoven, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ram K2 1500 Hemi Rocky Ridge.jpg by DestinationFearFan, CC BY-SA 4.0

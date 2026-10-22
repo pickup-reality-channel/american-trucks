@@ -1,0 +1,164 @@
+# Photo credits: The Rise and Fall of the Small Truck in America (And the Rule That Killed It)
+
+- General Electric 1994 battery powered radio.jpg by Daniel Christensen at en.wikipedia, CC BY 3.0
+- 1958 Edsel Pacer Convertible with Teletouch (18839792638).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Citation Teletouch Transmission (18997339216).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Citation (18997333986).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor - 20231003-P1003802.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Taman Serinsim Sabah Ford Ranger-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Leimershof 7. US-Car-Treffen Chevrolet S-10 (pickup, 1st generation)-20230909-RM-161740.jpg by Ermell, CC BY-SA 4.0
+- 2009-03-11 Chevy S-10 SB on N Gregson St in Durham (cropped).jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- 98-04 Chevrolet S-10.jpg by IFCAR, Public domain
+- (2025-08-28) Lowered Chevrolet S-10 Regular-Cab (2nd generation 1998-2003), parking lot of Knoebels, Elysburg, Pennsylvania 04.jpg by Deans Charbal, CC BY-SA 4.0
+- (2025-08-28) Lowered Chevrolet S-10 Regular-Cab (2nd generation 1998-2003), parking lot of Knoebels, Elysburg, Pennsylvania 02.jpg by Deans Charbal, CC BY-SA 4.0
+- (2025-08-28) Lowered Chevrolet S-10 Regular-Cab (2nd generation 1998-2003), parking lot of Knoebels, Elysburg, Pennsylvania 03.jpg by Deans Charbal, CC BY-SA 4.0
+- (2025-08-28) Lowered Chevrolet S-10 Regular-Cab (2nd generation 1998-2003), parking lot of Knoebels, Elysburg, Pennsylvania 01.jpg by Deans Charbal, CC BY-SA 4.0
+- Chevrolet S-10 LT 2012.jpg by RL GNZLZ, CC BY-SA 2.0
+- 1979-1983 Datsun 720 2-door cab chassis (2010-12-17).jpg by OSX, Public domain
+- Datsun Pickup (9397492894).jpg by ilikewaffles11, CC BY 2.0
+- Datsun Pickup (4559361434).jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Datsun Truck G222.jpg by Rinbro, CC BY-SA 4.0
+- Datsun 521 Pickup - 34424254910.jpg by Jacob Frey 4A, CC BY 2.0
+- Datsun 620 Truck RHD, Tasmania, Australia.jpg by AN Shackle, CC BY-SA 4.0
+- Datsun 620 in Thailand 08.jpg by M.rJirapat, CC BY-SA 4.0
+- Datsun 620 in Thailand 05.jpg by M.rJirapat, CC BY-SA 4.0
+- Toyota Publica 1000 pick up (1970s) (11343416214).jpg by Charlie from United Kingdom, CC BY 2.0
+- Toyota RT66P Corona Mark Ⅱ Double Pick (23110313312).jpg by 先従隗始, CC0
+- 1970s Peugeot 404 pick up van (10543100504).jpg by Charlie from United Kingdom, CC BY 2.0
+- Toyota pickup truck - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- Toyota pickup truck - Flickr - dave 7 (1).jpg by dave_7 from Canada, CC BY 2.0
+- Toyota pickup truck - Flickr - dave 7 (2).jpg by dave_7 from Canada, CC BY 2.0
+- Toyota HiLux GR Sport 1X7A7281.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Toyota Hilux Champ 2.4 Diesel SWB Attractive Package.jpg by Chanokchon, CC BY-SA 4.0
+- A Toyota Hilux pickup truck with a snowplow 02.jpg by Sadenäyttely, CC BY-SA 4.0
+- 1972 Chevrolet LUV rear.jpg by TTTNIS, CC0
+- Chevrolet LUV ver2.JPG by 293.xx.xxx.xx, Public domain
+- Chevrolet Luv 3.2 LS Crew Cab 4x4 1999 (13155534225).jpg by order_242 from Chile, CC BY-SA 2.0
+- 1994 Subaru 284 4WD pickup BRAT (15958639684).jpg by Charlie from United Kingdom, CC BY 2.0
+- Subaru Brat - 42177266322.jpg by Jacob Frey 4A, CC BY 2.0
+- Subaru Brat - 17016044839.jpg by Jacob Frey 4A, CC BY 2.0
+- 1983 Ford Ranger 2.9 V6.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Ranger (Americas) XLT SuperCab 4x2 2011.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Ranger "Spirit" edition.jpg by Mr.choppers, CC BY-SA 3.0
+- Chevrolet S10 Blazer - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- CHEVROLET S-10 BLAZER (CHINA).jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6776.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6774.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger MS-RT IMG 3714.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Syclone 1.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone (4821286342).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2008 Dodge Dakota.jpg by IFCAR, Public domain
+- Dakota interior 2003.jpg by OrangeMooch17, CC BY-SA 4.0
+- City Hall - Dodge, North Dakota 10-08-2008.jpg by Andrew Filer from Seattle (ex-Minneapolis), CC BY-SA 2.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- 2008-11-11 CarMax in Raleigh.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- Satilla Regional Library Douglas.jpg by Mjrmtg, CC BY-SA 3.0
+- 1989 Mazda B2200 Cab Plus.jpg by Shervin Nakhjavani, CC BY-SA 4.0
+- Mazda B2200 1993.jpg by Ethan Llamas, CC BY-SA 4.0
+- Mazda B2200 GSX 4x2 1996.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2004 Chevrolet Colorado LS Regular Cab Z85 2WD, front right, 07-17-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2004 Chevrolet Colorado Z71 LS Crew Cab in Silver Birch Metallic, rear left, 09-06-2026.jpg by Cutlass, CC0
+- 2004 Chevrolet Colorado Z71 LS Crew Cab in Silver Birch Metallic, front left, 09-06-2026.jpg by Cutlass, CC0
+- Ford Ranger Crew Cab Servicelab.jpg by Bull-Doser, Public domain
+- Ford Ranger Crew Cab LK Roofings.jpg by Bull-Doser, Public domain
+- 2019 Ford Ranger Lariat crew cab.jpg by Truck Hardware, CC BY 2.0
+- 2011 Ford Ranger XL Regular Cab 4x2, front left, 04-04-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2011 Ford Ranger XL Regular Cab 4x2, rear left, 04-04-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Ranger 3.0 XL 4x2 Cabina Doble 2011.jpg by Just a Man, CC BY 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 1977 Ford F-150 Ranger XLT regular cab 8' Styleside 2WD, front left, 06-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 Ranger.jpg by Bull-Doser, Public domain
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- New Jersey Turnpike Chevy Pickup @ Clara Barton.jpg by DanTD, CC BY-SA 4.0
+- 1937 Ford 830 Pickup (27964602564).jpg by Sicnag, CC BY 2.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Bedford light truck mfd 1955 engine 2800cc per DVLA data.jpg by Charles01, CC BY-SA 3.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- Jetour Zongheng F700 002.jpg by JustAnotherCarDesigner, CC0
+- Parking at Split Rock (6fd8fdb3-fbac-47ee-8434-1d66eda7e145).jpg by NPS Photo, Public domain
+- WB West Alden Avenue at Jerry Jones Drive Intersection dashcam.jpg by Michael Rivera, CC BY 4.0
+- DFC 2453 Evening traffic lined up beneath a golden ceremonial arch as the sun sets and clouds gather overhead.jpg by PattayaPatrol, CC BY-SA 4.0
+- Ford Ranger Raptor IAA 2019 JM 0492.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Ford Ranger Raptor IAA 2019 JM 1163.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Ford Ranger Raptor IAA 2019 JM 0493.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Ford Ranger 1985 (15790613415).jpg by order_242 from Chile, CC BY-SA 2.0
+- President Ronald Reagan and Nancy Reagan posing with a new Ford pickup truck at Rancho Del Cielo - DPLA - 1f3e6e482a699d099cb3f39e26da47be.jpg by President (1981-1989 : Reagan). White House Photographic Office. 1981-1989, Public domain
+- President Ronald Reagan and Nancy Reagan Posing with a New Ford Pickup Truck at Rancho Del Cielo - DPLA - a3d31774f2b651631f7e8b98a8634226.jpg by President (1981-1989 : Reagan). White House Photographic Office. 1981-1989, Public domain
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 2023 Chevrolet Colorado Z71 Crew Cab.jpg by Bull-Doser, Public domain
+- 0 Chevrolet Colorado (second generation) 1.jpg by Benespit, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Ford Maverick Lariat FWD Ecoboost.jpg by Zoz0716, CC BY-SA 4.0
+- Lunar Electric Rover 2008 desert testing 2.JPG by NASA/Regan Geeseman, Public domain
+- Lunar Electric Rover at 2009 Presidential inauguration parade 2.jpg by Bill Ingalls, Public domain
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Small team gets BLM firetrucks to America’s wildfires (22646506170).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22845682181).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22820981002).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Cummins Engine Factory, Columbus, Indiana.jpg by born1945, CC BY 2.0
+- Dallara IndyCar Factory in 2017.jpg by NaBUru38, CC BY-SA 4.0
+- Old Bag Factory 5970.jpg by Chris Light, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- 25 Hyundai Santa Cruz Limited.jpg by HJUdall, CC0
+- 25 Hyundai Santa Cruz XRT.jpg by HJUdall, CC0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- YMCA Southwell, Tifton.jpg by Michael Rivera, CC BY 4.0
+- Alco, Nashville.JPG by Michael Rivera, CC BY-SA 3.0
+- Telephone Exchange mission 66 building with automobile and park ranger cars in front on it in Big Bend National Park. Image (9367fdfcb3c54016a2c2b131a0af28e2).jpg by Jack E. Boucher, Public domain
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- Flags for sale in Becker, Minnesota.jpg by Lorie Shaull from St Paul, United States, CC BY 2.0
+- Flags for sale in Becker, Minnesota-03.jpg by Lorie Shaull, CC BY 2.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Toyota pickup truck - Flickr - dave 7 (5).jpg by dave_7 from Canada, CC BY-SA 2.0
+- Toyota pickup truck - Flickr - dave 7 (4).jpg by dave_7 from Canada, CC BY-SA 2.0
+- 4x4 pickups at Wadi Rum (12464784523).jpg by Jorge Láscar from Australia, CC BY 2.0
+- Ford Ranger Fr.jpg by Calreyn88, CC BY-SA 4.0
+- 2017 Ford Ranger Limited.jpg by Vauxford, CC BY-SA 4.0
+- Ford Ranger Bahrain.jpg by Mohammed Hamad, CC BY-SA 4.0
+- I-26 traffic near Irmo, SC.jpg by Thomas Kirchel, CC BY-SA 4.0
+- Directing Traffic DVIDS57297.jpg by Sgt. Joe Roos, Public domain
+- I-26 Traffic, between Chapin and Columbia, SC.jpg by Thomas Kirchel, CC BY-SA 4.0
+- US Capitol east side.JPG by Martin Falbisoner, CC BY-SA 3.0
+- Capitol at Dusk 2.jpg by Martin Falbisoner, CC BY-SA 3.0
+- US Capitol west side.JPG by Martin Falbisoner, CC BY-SA 3.0
+- 1970 Ford Maverick, Herby's Ford, Alexandria.jpg by Marion S. Trikosko, Public domain
+- Ford Maverick four door sedan (12394777633).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Bronco Sport and 4th Generation Escape.jpg by Nathan Dimartino, CC BY-SA 4.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Ford Ranger Wildtrak (T6, P375) 1X7A6170.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Stormtrak (T6, P375) 1X7A0319.jpg by Alexander Migl, CC BY-SA 4.0

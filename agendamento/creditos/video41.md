@@ -1,0 +1,162 @@
+# Photo credits: 5 Classic American Pickups Worth Buying Now (Before 2027 Prices Jump)
+
+- ArabiDetourMikesLane17Nov.jpg by Infrogmation, CC BY 2.5
+- Kakadu (AU), Kakadu National Park, Cahills Crossing -- 2019 -- 4153.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 1964 Chevrolet C10 pick-up truck at the Maxey Classic Car Show, August 2018 - geograph.org.uk - 5876658.jpg by Paul Bryan, CC BY-SA 2.0
+- 1965 Chevrolet C10 3.8 Rear.jpg by Vauxford, CC BY-SA 4.0
+- 1965 Chevrolet C10 3.8 Front.jpg by Vauxford, CC BY-SA 4.0
+- (Photographed by David Adam Kess 1963 Chevy C10) pickup (custom rims.jpg by David Adam Kess, CC BY-SA 4.0
+- Chevrolet C10 (10402535506).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Chevrolet C10 Silverado Truck (1976) - 29472591916.jpg by SG2012, CC BY 2.0
+- Chevrolet C10 FLEETSIDE dutch licence registration BE-62-17-.JPG by AlfvanBeem, CC0
+- 1963 Chevy C10 (pic.a10 )7.jpg by David Adam Kess, CC BY-SA 4.0
+- Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg by Rbdesimone, CC BY-SA 4.0
+- 1968 Dodge Charger (49305135257).jpg by George, CC BY-SA 2.0
+- 1968 Dodge Charger (49311456593).jpg by George, CC BY-SA 2.0
+- 2023 Toyota Sequoia.jpg by Blueck, CC BY-SA 4.0
+- 2023 Toyota Sequoia (cropped).jpg by Blueck, CC BY-SA 4.0
+- Classic Automobiles - Erie Street - Lowell AZ.jpg by Al_HikesAZ, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 36 (1937 Ford pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- Ford pickup truck (1946) - 14453320294.jpg by SG2012, CC BY 2.0
+- 2024 Downtown West Allis Classic Car Show 59 (1930 Ford pickup).jpg by Michael Barera, CC BY-SA 4.0
+- EastNOAp06Carpile8.jpg by Infrogmation, CC BY 2.5
+- 1985 Ford F-150 XLT.jpg by Calreyn88, CC BY-SA 4.0
+- 1985 Ford F150 (15298507797).jpg by GPS 56 from New Zealand, CC BY 2.0
+- Ford F-250 BW 2016-07-17 14-01-47.jpg by Berthold Werner, CC BY-SA 3.0
+- LVMPD Unmarked Ford F-250 at W Lone Mountain & Rancho.jpg by Noah Wulf, CC BY-SA 4.0
+- 1972 Ford F-250 5.9L V8.jpg by Calreyn88, CC BY-SA 4.0
+- Silverstone Classic 2014 - 14722534567.jpg by Draco2008, CC BY 2.0
+- 1989 Ford Centurion Classic 350 Lariat XLT 460 V8 front.jpg by Mr.choppers, CC BY-SA 3.0
+- 1989 Centurion Classic 350 Lariat XLT 460 V8 rear.jpg by Mr.choppers, CC BY-SA 3.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Ford Bronco (15267344870).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1966 Ford Bronco (6098504018).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Bronco 302 (1971) (53771477287).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1986 Ford F-150 au Plein gaz CHMG-DT 2025.jpg by Bull-Doser, Public domain
+- 1986 Ford F-150 XLT Lariat Explorer Special Regular Cab Styleside in Light Regatta Blue & Medium Silver Metallic Deluxe Two-Tone, Front Left, 10-28-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 1986 Ford F-150 Standard 4x4 Regular Cab 8' Styleside, 08-07-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 1984 (14920944502).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 XLT 1984 (14974994929).jpg by order_242 from Chile, CC BY-SA 2.0
+- Doo Dah Parade, 2005 - DPLA - 1866e535fb8cef927d437f90a04a6874 (page 3).jpg by unknown, Public domain
+- 1967 Chevrolet C10 pickup, rusty, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1967 Chevrolet C10 6.5' Stepside, front right, 08-05-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1967 Chevrolet C10 6.5' Stepside, front left (2023 ARMCO Park Wheels of Steel Car Cruise).jpg by MercurySable99, CC BY-SA 4.0
+- 1967 Chevrolet C10 Custom Pick-Up (14527352071).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1967 Chevrolet C10 Custom Pick-Up (14530740075).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1967 Chevrolet C10 Custom Pick-Up (14344104070).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1960 Chevrolet C10 Stepside Pickup (20709342883).jpg by Sicnag, CC BY 2.0
+- 1965 Chevrolet C10 Stepside Pickup (30963398537).jpg by Sicnag, CC BY 2.0
+- 1968 Chevrolet C10 Stepside Roseville 2025.jpg by TaurusEmerald, CC BY-SA 4.0
+- 1957 Chevrolet 3100 in Kyiv 01.jpg by Novoklimov, CC0
+- 1957 Chevrolet 3100 in Kyiv 05.jpg by Novoklimov, CC0
+- 1957 Chevrolet 3100 in Kyiv 03.jpg by Novoklimov, CC0
+- 1969-1970 Chevrolet C10 pickup, blue, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1964 Chevrolet C10 Pickup.jpg by Sicnag, CC BY 2.0
+- Chevrolet C10 pickup (41863894401).jpg by FotoSleuth, CC BY 2.0
+- 1970 Chevrolet C10 Pickup (cropped).jpg by Sicnag, CC BY 2.0
+- 1970 Chevrolet C10 Pickup.jpg by Sicnag, CC BY 2.0
+- 1972 Chevrolet C10 Cheyenne Pickup (21176795799).jpg by Sicnag, CC BY 2.0
+- As-New 1990 Chevrolet 454 SS Pickup, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- As-New 1990 Chevrolet 454 SS Pickup, Interior, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 1990 Chevrolet C1500 SS 454 7.4.jpg by Vauxford, CC BY-SA 4.0
+- Chevrolet C1500 Sport Interior.jpg by TKOIII, CC BY-SA 4.0
+- Chevrolet C1500 Sport at Radwood Austin.jpg by TKOIII, CC BY-SA 4.0
+- Chevrolet C1500 Sport at Radwood Austin 2.jpg by TKOIII, CC BY-SA 4.0
+- 1972 Chevrolet El Camino SS 454, black, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Chevelle 454 SS Convertible Annual Fathers Day Car Show Hyannis.jpg by EgorovaSvetlana, CC BY-SA 4.0
+- 1970 Chevrolet Chevelle SS 454, black convertible, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1971 Chevrolet Monte Carlo SS 454, red & black, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Chevelle SS 454 1970 01.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Chevelle SS 454 1970 02.jpg by RL GNZLZ, CC BY-SA 2.0
+- Tuned '88-'90 Chevrolet C-K Regular Cab.jpg by Bull-Doser, Public domain
+- '88-'90 Chevrolet C-K 2500 Regular Cab.JPG by Bull-Doser, Public domain
+- '88-'90 Chevrolet C-K 2500 Reg. Cab.JPG by Bull-Doser, Public domain
+- 1972 Chevrolet Chevelle SS 454 Sport Coupe in Black, Front Left, 2023-11-16.jpg by Elise240SX, CC BY 4.0
+- 1972 Chevrolet Chevelle SS 454 Sport Coupe in Black, Rear Left, 2023-11-16.jpg by Elise240SX, CC BY 4.0
+- 1972 Chevrolet Chevelle SS 454 Sport Coupe in Black, Rear Right, 2023-11-16.jpg by Elise240SX, CC BY 4.0
+- FORD F150 SVT Lightning.jpg by MIKI Yoshihito, CC BY 2.0
+- Ford F150 SVT model car.jpg by Victor Lopes, CC BY-SA 4.0
+- Ford SVT Lightning - 4273555214.jpg by Nick Ares, CC BY-SA 2.0
+- 2003 Ford F150 Harley Davidson And 2001 Ford F150 Lightning (12882168305).jpg by Kieran White from Manchester, England, CC BY 2.0
+- 2000 Ford F-150 SVT Lightning 5.4.jpg by Vauxford, CC BY-SA 4.0
+- Ford F-150 SVT Lightning.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Lightning (1994) (54872367368).jpg by Charles from Port Chester, New York, CC0
+- Ford F-150 Lightning (1994) (54871274132).jpg by Charles from Port Chester, New York, CC0
+- Ford SVT Lightning.jpg by Nick Ares, CC BY-SA 2.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- 1969 Ford F-100 Ranger MD1.jpg by Acxroterion, CC BY-SA 4.0
+- Auto Ford F-Series Moscow Kantemirovskaya Street С767КУ199 2013-04 1366713598.JPG by Artyom Svetlov, CC BY 4.0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Badge Ford F-150 Lightning CRI 02 2023 1973.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F150 SVT Lightning.jpg by FotoSleuth, CC BY 2.0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- LVMPD Unmarked Ford F-350 SD on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- 1956 Chevrolet 3100 pickup - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1955 Chevrolet Task-force 3100 pickup - 1953 International Harvester Travelall.jpg by The Greater Southwestern Exploration Company from Long Beach, California, United States, CC BY 2.0
+- 1955 Chevrolet Task Force 3100.jpg by Calreyn88, CC BY-SA 4.0
+- 1957 Chevrolet 3100 in Kyiv 02.jpg by Novoklimov, CC0
+- 1957 Chevrolet 3100 in Kyiv 04.jpg by Novoklimov, CC0
+- Chevrolet 1957 3100 Series Pickup Truck.jpg by besopha, CC BY-SA 2.0
+- Chevrolet Pickup Apache 32 1959 6170532.jpg by Ermell, CC BY-SA 4.0
+- Camionette Chevrolet.jpg by Ludovic Péron, CC BY-SA 3.0
+- 1959 Chevrolet Apache Pickup.jpg by Sicnag, CC BY 2.0
+- 55 Chevrolet Cameo Carrier (rear).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 55 Chevrolet Cameo Carrier (front).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 57 Chevrolet 3124 Cameo Carrier (Rear 2).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Truck dedicated to fallen 3-5 Marines displayed for "Dark Horse" battalion 120913-M-OM885-006.jpg by Lance Cpl. Joseph Scanlan, Public domain
+- 1949 Chevrolet 3100 Pickup - Mississauga, Ontario.jpg by Mustang Joe, CC0
+- '54 (?) Chevrolet 3100 Pickup in Lower Saxony (2024).jpg by JoachimKohler-HB, CC BY-SA 4.0
+- GMC Syclone 1.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone (4821286342).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- GMCSyclone-rear (cropped).jpg by dave_7, CC BY 2.0
+- GMCSyclone-rear.jpg by dave_7, CC BY 2.0
+- 2013 ASA AutoX 1 10 (8756016362).jpg by Grant.C, CC BY 2.0
+- GMCSyclone.jpg by dave_7, CC BY 2.0
+- Chevrolet S10 (4920685638).jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- GMC Syclone (2542865499).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 1959 Dodge D100 Sweptline, rear left, 08-06-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1959 Dodge D100 Sweptline, front left, 08-06-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Dodge D200 Pickup 1972.jpg by Bene Riobó, CC BY-SA 4.0
+- 1974 Dodge D200 pickup - camper special (4880939128).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Dodge D200 truck (7249523048).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1984 Dodge Ramcharger (Friesland, 2021).jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Dodge Ramcharger -- 07-20-2009.jpg by IFCAR, Public domain
+- Dodge Ramcharger - 2022.jpg by Kirchenfan, CC0
+- 2024 Downtown West Allis Classic Car Show 52 (1937 Ford pickup).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 69 (1965 Chevrolet C-K).jpg by Michael Barera, CC BY-SA 4.0
+- View of a 1951 Chevrolet 3100 pickup truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243062.jpg by Robert Lamb, CC BY-SA 2.0
+- Honda Beat rear trunk.jpg by Guyon Cumby, CC BY 2.0
+- Honda Beat 1991 2.jpg by Calreyn88, CC BY-SA 4.0
+- Honda Beat TE37.jpg by MikaPr65, CC BY-SA 4.0
+- 2004 Ford F-150 Lightning 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Ford F-150 Lightning.jpg by Calreyn88, CC BY-SA 4.0
+- Yvbpf 1b (25961735623).jpg by Greg Goebel from Loveland CO, USA, CC BY-SA 2.0
+- 2023 Downtown West Allis Classic Car Show 40 (1937 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 35 (1941 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- View of a 1956 Chevrolet pick-up truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243184.jpg by Robert Lamb, CC BY-SA 2.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Ford F-150 Shelby Super Snake.jpg by Calreyn88, CC BY-SA 4.0
+- View of a Ford pick-up truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6242461.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a 1955 Ford F100 pick-up in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6242478.jpg by Robert Lamb, CC BY-SA 2.0
+- Ford F-Series Blues (explored) - Flickr - Michel Curi.jpg by Michel Curi, CC BY 2.0
+- Pickup Truck Racing Thruxton 2009 (3).jpg by BWard 1997, CC BY 4.0
+- 1932 Ford Pickup Hot Rod.jpg by Sicnag, CC BY 2.0
+- Four-door El Camino.jpg by simonov, CC BY-SA 2.0
+- 1975 Toyota Land Cruiser FJ45 pickup (ZA).jpg by Mr.choppers, CC BY-SA 3.0
+- Bristow Firestone Service Station OK garage bays 2026-09-15 13-02-22.jpg by G. Edward Johnson, CC BY 4.0
+- GMC Sierra Classic pickup truck.jpg by dave_7, CC BY 2.0
+- 1959 Ford F-100 Pick-Up (27980457762).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1956 Ford F-100 Pick-Up (28266200827).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford F100 Twin-I-Beam Pickup-Motor-04ASD.jpg by Asurnipal, CC BY-SA 4.0

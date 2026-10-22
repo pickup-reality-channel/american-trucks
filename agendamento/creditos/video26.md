@@ -1,0 +1,105 @@
+# Photo credits: 5 Truck Transmission Problems That Cost Thousands (Before You Buy in 2027)
+
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- 2003 Chevrolet Silverado 2500HD regular cab 4x4, front right, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 2500HD Extended.JPG by Bull-Doser, Public domain
+- 19 Chevrolet Silverado 2500HD LTZ.jpg by HJUdall, CC0
+- Chevrolet Silverado 2500HD Regular Cab Love's.jpg by Bull-Doser, Public domain
+- 2024 Chevrolet Silverado 2500HD rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2024 Chevrolet Silverado 2500HD interior.jpg by Deathpallie325, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 1990 GMC Sierra K-1500 SLE Sportside, front left, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado 1500 Crew Cab Rona.jpg by Bull-Doser, Public domain
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- 2021 Chevrolet Silverado 1500 ZZ1.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2002 Chevrolet Silverado 1500 LS 4x4 Sportside Regular Cab, 08-14-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 3500HD GMTT1XX Garry’s.jpg by Bull-Doser, Public domain
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 11 GMC Sierra 2500HD Denali.jpg by HJUdall, CC0
+- 24 GMC Sierra 2500HD Denali Ultimate (2).jpg by HJUdall, CC0
+- 24 Chevrolet Silverado 2500HD Custom.jpg by HJUdall, CC0
+- 22 Chevrolet Silverado 2500HD Custom.jpg by HJUdall, CC0
+- Chevrolet tahoe taxi.jpg by Joseph Zadeh, CC BY-SA 4.0
+- Chevrolet Tahoe (GMTT1XX) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Chevrolet Suburban (GMT800) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Chevrolet Suburban (GMTT1XX) Washington DC Metro Area, USA (4).jpg by OWS Photography, CC BY 4.0
+- GMC Yukon XL Denali (GMTT1XX) 1X7A6323.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Yukon Denali (GMTK2UG) DSC 2923.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Chevrolet Silverado 1500 LTZ, front 2.29.20.jpg by Kevauto, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71, rear 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 24 Chevrolet Silverado 2500HD LTZ.jpg by HJUdall, CC0
+- Chevrolet Silverado RDR 2500HD GMT911.jpg by Bull-Doser, Public domain
+- 2017 chevrolet silverado 1500 wt regular standard obseve.jpg by Rjluna2, CC BY-SA 4.0
+- Chevrolet Silverado 2017 Pickup Truck Interior.jpg by Alistair Fernandez, CC BY-SA 3.0
+- 2018 GMC Sierra Denali interior.jpg by Deathpallie325, CC BY 4.0
+- 2018 GMC Sierra 1500 SLT, rear 5.19.20.jpg by Kevauto, CC BY-SA 4.0
+- Chevrolet Colorado High Country 2018 (46414614972).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- GMC Canyon P4250781.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71, front 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71 Crew Cab in Black, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Chevrolet Silverado Trail Boss 2020.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020 (9 June 2025).jpg by RL GNZLZ, CC BY-SA 4.0
+- 2019 GMC Sierra 1500 Denali au SIAM 2019.jpg by Bull-Doser, Public domain
+- 2019 GMC Sierra 1500 Crew Cab Pierrefonds-Roxboro.jpg by Bull-Doser, Public domain
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2015 Ford F-150 Double Cab.jpg by Bull-Doser, Public domain
+- Ford F-150 XLT FX4 2016 (26140458158).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 XLT FX4 2016 (43550748274).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Lariat FX4 2017 (39303735594).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Lariat V8 Luxury FX4 2017 (33449676901).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2018 Ford F-150 Crew Cab front 5.26.18.jpg by Kevauto, CC BY-SA 4.0
+- 2018 Ford F-150 Crew Cab rear 5.26.18.jpg by Kevauto, CC BY-SA 4.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2009 Ford F-150 XLT 5.4 V8.jpg by Calreyn88, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford Expedition Limited 3.5 EcoBoost 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- London Police Service Ford Expedition - 2022.jpg by SpoonCivicTypeR, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7062.jpg by Alexander Migl, CC BY-SA 4.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- National Park Service employee works to fill pickup truck with debris.jpg by CapeHatterasNPS, Public domain
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- Ram 2500 SLT Heavy Duty Quad Cab 2012 (16861616546).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 25 Ram 3500 Big Horn.jpg by HJUdall, CC0
+- Toyota Sequoia (XK80) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- TOYOTA SEQUOIA (XK60) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Rockingham Truck Series Race April 14th 2013 (8662100150).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Rockingham Truck Series Race April 14th 2013 (8662102604).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- 20 GMC Sierra 1500 AT4.jpg by HJUdall, CC0
+- '19 GMC Sierra 1500 DLC Greenteam.jpg by Bull-Doser, Public domain
+- 2024 Chevrolet Silverado 2500HD front view.jpg by Deathpallie325, CC BY-SA 4.0
+- '06 Chevrolet Silverado 2500HD Crew Cab.JPG by Bull-Doser, Public domain
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- Ford Super Duty shuttle bus - Loggerhead Marinelife Center, Juno Beach, Palm Beach County, FL.jpg by Winnebaggo, CC0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

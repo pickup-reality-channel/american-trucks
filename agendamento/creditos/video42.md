@@ -1,0 +1,168 @@
+# Photo credits: The Ford F-Series in 5 Turning Points (And the Fire That Shook It in 2026)
+
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- 1956 Ford Pickup Nostalgia Street Rods (54795372320).jpg by Tomás Del Coro from Fabulous Las Vegas, Nevada, USA, CC BY-SA 4.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Pörtschach Winklern Seeuferstraße 8 Oldtimer Ford F-100 24112012 4533.jpg by Johann Jaritz, CC BY-SA 4.0
+- Pörtschach Winklern Seeuferstraße 8 Oldtimer Ford F-100 Detail 24112012 4534.jpg by Johann Jaritz, CC BY-SA 4.0
+- Pörtschach Winklern Seeuferstraße 8 Oldtimer Ford F-100 Detail 24112012 4535.jpg by Johann Jaritz, CC BY-SA 4.0
+- 1969 Ford F-100 Ranger MD1.jpg by Acxroterion, CC BY-SA 4.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford Medium-Duty Super Duty F-650 - Two Men and a Truck, box truck.jpg by Winnebaggo, CC0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- RiverBend Ford.jpg by The Bushranger, CC BY-SA 4.0
+- Commerce March 2017 107 (Meador Commerce Dodge Chrysler Jeep Ram).jpg by Michael Barera, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- 1951 Ford F-1 6.5' pickup, front right, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- ,00 7938 Pickup model "Ford F-1".jpg by W. Bulach, CC BY-SA 4.0
+- Ford F-1 pickup 02.jpg by Bene Riobó, CC BY-SA 4.0
+- 1952 Ford F-1 Pickup Truck.jpg by Michel Curi, CC BY 2.0
+- 1948 Ford F-1 Pickup truck MD2.jpg by Acroterion, CC BY-SA 4.0
+- 1949 Ford F-1 Pickup (21033132151).jpg by Sicnag, CC BY 2.0
+- 1948 Ford F-1 Pickup.jpg by Sicnag, CC BY 2.0
+- 1958 Ford F-100 truck (6047476433).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1960 Ford F-600, truck (5080204393).jpg by sv1ambo, CC BY 2.0
+- 1960 Ford F-600, truck (5080809876).jpg by sv1ambo, CC BY 2.0
+- 1967 Ford F-100 Bright Teal Pickup.jpg by DanTD, CC BY-SA 4.0
+- 1950 Ford (3527002569).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Sophie's '56 (Explored) - Flickr - Bob Dass.jpg by Bob Dass, CC BY 2.0
+- 1950 Ford F-1, orange, custom, Golden Super Cruise 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1950 Ford F68 Pickup (53601320347).jpg by Mustang Joe, CC0
+- Ford F-1 pickup.jpg by Bene Riobó, CC BY-SA 4.0
+- Pörtschach Winklern Seeuferstraße 8 Oldtimer Ford F-100 24112012 4532.jpg by Johann Jaritz, CC BY-SA 4.0
+- 1953 Ford F-100 Pickup and Mini Pickup.jpg by Bob P. B., CC BY 2.0
+- .00 7939. Ford F-100 (1953).jpg by W. Bulach, CC BY-SA 4.0
+- 1955 Ford F-100 Custom Cab Pickup (30405236540).jpg by Sicnag, CC BY 2.0
+- 1953 Ford F-100 Deluxe Cab Pickup (28865516362).jpg by Sicnag, CC BY 2.0
+- 1955 Ford F-100 Standard Cab Pickup (44976781304).jpg by Sicnag, CC BY 2.0
+- 1956 Ford F-100 - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1956 Ford F-100 - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1956 Ford F-100 (4797946902).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1977 Ford F150 Ranger 4WD 5.9 Rear.jpg by Vauxford, CC BY-SA 4.0
+- 1977 Ford F150 Ranger 4WD 5.9 Front.jpg by Vauxford, CC BY-SA 4.0
+- Ford 3000 closed-cab.JPG by Jacek Rużyczka, CC BY-SA 4.0
+- 1977 Ford F-150 Custom Regular Cab 8' Styleside, 07-22-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 1977 Ford F-150 Ranger XLT regular cab 8' Styleside 2WD, front left, 06-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 73-77 Ford F-150 Explorer.jpg by IFCAR, Public domain
+- 1979 Ford F-150 Ranger in Dark Jade, Front Left, 06-17-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 1979 Ford F-150 Ranger in Dark Jade, Rear Left, 06-17-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 1979 Ford F-150 Ranger Regular Cab 8' Styleside in Raven Black, Rear Left, 05-27-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 1977 Ford F-100 Ranger XLT Pickup (28517814952).jpg by Sicnag, CC BY 2.0
+- 1977 Ford F-100 Ranger regular cab 4x2 8' Styleside, front left, 08-27-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1977 Ford F-100 Ranger regular cab 4x2 8' Styleside, rear left, 08-25-2024.jpg by MercurySable99, CC BY-SA 4.0
+- ArabiDetourMikesLane17Nov.jpg by Infrogmation, CC BY 2.5
+- Kakadu (AU), Kakadu National Park, Cahills Crossing -- 2019 -- 4153.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- EastNOAp06Carpile8.jpg by Infrogmation, CC BY 2.5
+- 1985 Ford F-150 XLT.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F150 Utility 1985 Pacific Highway Logan City P1060357.jpg by John Robert McPherson, CC0
+- NYPD Ford F-550 Super Duty (17185132320).jpg by Jason Lawrence from New York, CC BY 2.0
+- 1993 Ford F-250 ambulance (5350666210).jpg by sv1ambo, CC BY 2.0
+- 1992 Ford F-250 ambulance (5350668732).jpg by sv1ambo, CC BY 2.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1978 Ford F-250 Ranger regular cab Camper Special.jpg by MercurySable99, CC BY-SA 4.0
+- 1973 Ford F-250, blue, 55th Annual All Ford Day.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford F-150 XLT 1997 (52990149695).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Lariat 1997.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford F-150 XLT Super Cab 1997 (53081647561).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 1998 Ford F-150 XLT Pickup (30588433012).jpg by Sicnag, CC BY 2.0
+- 1998-2003 Ford F-150 tailgate mural.jpg by LouieRBLX, CC BY-SA 4.0
+- Wild Adventures Christmas 2016, Ford F-150.jpg by Michael Rivera, CC BY-SA 4.0
+- Ford F-150 (tenth generation) Harley Davidson IMG 3683.jpg by Alexander Migl, CC BY-SA 4.0
+- 1999 Ford F-150 interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Riva.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- 24 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- Ford SVT Lightning - 4273555214.jpg by Nick Ares, CC BY-SA 2.0
+- Ford SVT Lightning.jpg by Nick Ares, CC BY-SA 2.0
+- 2000 Ford F-150 SVT Lightning 5.4.jpg by Vauxford, CC BY-SA 4.0
+- West Yellowstone (MT, USA), Yellowstone Avenue, Fahrzeuge der Yellowstone Vacation Tours -- 2022 -- 2381.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 2005 Ford F-350.jpg by Calreyn88, CC BY-SA 4.0
+- 22 Ford F-350 Super Duty King Ranch.jpg by HJUdall, CC0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5L EcoBoost 4WD P552 Shadow Black (42).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5L EcoBoost 4WD P552 Shadow Black (40).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2017 Ford F-150 front 5.19.18.jpg by Kevauto, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 2507.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2015 Ford F-150 Pickup Truck.jpg by Tuner tom, CC BY-SA 3.0
+- '15-'17 Ford F-150 SuperCab Cooper.jpg by Bull-Doser, Public domain
+- 2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, front left, 2026-06-12.jpg by Elise240SX, CC BY-SA 4.0
+- 2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, rear left, 2026-06-12.jpg by Elise240SX, CC BY-SA 4.0
+- Police truck, Dearborn, Michigan.jpg by Rmhermen, CC BY-SA 4.0
+- 1992 ford f-150 custom (obverse).jpg by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (script).JPG by Rjluna2, CC BY-SA 4.0
+- 1992 ford f-150 custom (reverse).JPG by Rjluna2, CC BY-SA 4.0
+- Truck, Greenfield Village, Oakwood Boulevard, Fairlane, Dearborn, MI.jpg by w_lemay, CC BY-SA 2.0
+- Truck, Greenfield Village, Oakwood Boulevard, Fairlane, Dearborn, MI - 54271347591.jpg by w_lemay, CC BY-SA 2.0
+- Truck, Greenfield Village, Oakwood Boulevard, Fairlane, Dearborn, MI - 54271775235.jpg by w_lemay, CC BY-SA 2.0
+- 2014 Washington Auto Show (12090381783).jpg by U.S. Department of Energy from United States, Public domain
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 1).jpg by Gerhard Fieseler Werke GmbH, CC0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 4).jpg by Gerhard Fieseler Werke GmbH, CC0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Rear Left, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1907.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Tesla Model Y & Ford F-150 Lightning CRI 02 2023 1904.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621721260).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford F-150 Lightning Platinum (2024) (53621721230).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 23 Ford F-150 Lightning Platinum.jpg by HJUdall, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen 1937 Chevrolet Silverado High Country-20230909-RM-172038.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- East Bank Regional Library, Metairie, Louisiana June 2026 - Library pickup trucks.jpg by Infrogmation, CC BY-SA 4.0
+- East Bank Regional Library, Metairie, Louisiana June 2026 - Taxi and Library Pickups.jpg by Infrogmation, CC BY-SA 4.0
+- Next Generation Diesel, Baum, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 1989 Ford F-250 ambulance (5636703161).jpg by sv1ambo, CC BY 2.0
+- 1989 Ford F-250 ambulance (5636697593).jpg by sv1ambo, CC BY 2.0
+- Ford F-1 Israeli Postal Service Erez Israel Museum.JPG by Muhandes, CC BY-SA 3.0
+- 2022 Ford F-150 Lightning (27478).jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3638.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning.jpg by Xboxcarsforza1, CC BY-SA 4.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Ford F-150 Shelby Super Snake.jpg by Calreyn88, CC BY-SA 4.0
+- Transport-auto.com trucks.jpg by transport-auto.com, CC BY-SA 3.0
+- Small team gets BLM firetrucks to America’s wildfires (22845694861).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- US Air Force tests first all-electric vehicle fleet in California (1701121).jpg by U.S. Air Force photo by Tech. Sgt. Sarah Corrice, Public domain
+- Shelby, Paris Motor Show 2018, Paris (1Y7A1544).jpg by Matti Blume, CC BY-SA 4.0
+- 1991 Ford F-150.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1969 Ford F-250 Custom Cab pickup (7708143584).jpg by sv1ambo, CC BY 2.0
+- 1969 Ford F-250 Custom Cab pickup (7708144270).jpg by sv1ambo, CC BY 2.0
+- Some People With Severe Depression - People With Mental Illnesses Who Enrich Or Have Enriched Our Lives (22741192277).jpg by Chic Bee, CC BY 2.0
+- 2025 Ford Maverick XLT, front 4.15.25.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick XLT FX4, rear 4.15.25.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick XLT FX4, front 4.15.25.jpg by Kevauto, CC BY-SA 4.0
+- Ford F-150 Lightning Lariat, Auto 2024, Zurich (PANA1012).jpg by Matti Blume, CC BY-SA 4.0
+- Ford F-150 Lightning Portek.jpg by Bull-Doser, Public domain
+- Ford F-150 Lightning Auto Zuerich 2023 1X7A1494.jpg by Alexander-93, CC BY-SA 4.0

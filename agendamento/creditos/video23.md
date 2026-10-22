@@ -1,0 +1,111 @@
+# Photo credits: 5 Truck Engines to Avoid Before 2027 (Even Toyota Made the List)
+
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Toyota Tundra Sonoma 2022.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra Limited.jpg by HJUdall, CC0
+- 2022 Toyota Tundra Limited CrewMax Short Bed 4x4 with TRD Off-Road Package, front left, 11-01-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2022 Toyota Tundra Double Cab SR5, front 4.5.23.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro, rear NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- Toyota Tundra UAE Desert Trips 2022 (51874029119).jpg by Ahmad El-kays from Mississauga, Canada, CC BY 2.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 03-05 Chevrolet Silverado 1500 Work Truck 4x4 regular cab.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 à 4 portes.jpg by Bull-Doser, Public domain
+- 2021 Chevrolet Silverado 1500 LT 4x4 Double Cab, front right, 09-02-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2002 Chevrolet Silverado 1500 LS 4x4 Sportside Regular Cab, 08-14-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- '19 Chevrolet Silverado 1500 Crew Cab @ Francos 2019.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado Crew Cab Texas Edition 1500 GMTT1XX.jpg by Bull-Doser, Public domain
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Laramie V6 EcoDiesel 2016 (37947470062).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ram 1500 Laramie Crew Cab 3.0 Diesel, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro, front NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Toyota Tundra CrewMax Limited, front 6.30.22.jpg by Kevauto, CC BY-SA 4.0
+- Toyota Tundra, Stockholm ( 1090862).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- Toyota Tundra Track Cleaner Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra SR5.jpg by HJUdall, CC0
+- 20 Toyota Tundra TRD Pro.jpg by HJUdall, CC0
+- 2026 Toyota Tundra TRD Pro.jpg by Gogerr, CC BY-SA 4.0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- 07 Toyota Tundra Limited.jpg by HJUdall, CC0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Lexus LX 600 VJA310 Atomic Silver (2).jpg by Damian B Oh, CC BY-SA 4.0
+- LEXUS LX 600 F-SPORT (J310) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 15 Chevrolet Silverado 1500 High Country.jpg by HJUdall, CC0
+- 2019 Chevrolet Silverado 1500 High Country, rear 9.24.19.jpg by Kevauto, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet tahoe taxi.jpg by Joseph Zadeh, CC BY-SA 4.0
+- Chevrolet Tahoe (GMTT1XX) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- GMC Yukon XL Denali (GMTT1XX) 1X7A6323.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Yukon Denali (GMTK2UG) DSC 2923.jpg by Alexander Migl, CC BY-SA 4.0
+- Cadillac Escalade (GMTT1XX) IMG 0799.jpg by Alexander-93, CC BY-SA 4.0
+- Cadillac Escalade ESV (GMTK2XX) 1X7A1581.jpg by Alexander-93, CC BY-SA 4.0
+- 2025 LiUNA! 150 - Toni Breidinger and Ben Maier.jpg by Caleb Spicer, CC BY 4.0
+- Rockingham Truck Series Race April 14th 2013 (8662102412).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- 2020 Chevrolet Silverado 1500 5.3 V8 (51689278365).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado Z71 Adventure 2001 (30002348818).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 1998 GMC Sierra 1500 SLT 4WD Z71 Extended Cab, front left, 08-05-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2018 GMC Sierra 1500 SLT, rear 5.19.20.jpg by Kevauto, CC BY-SA 4.0
+- Chevrolet Silverado Trail Boss 2020.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020 (9 June 2025).jpg by RL GNZLZ, CC BY-SA 4.0
+- 2015 Chevrolet Silverado 1500 LTZ, front 2.29.20.jpg by Kevauto, CC BY-SA 4.0
+- 2016 Chevrolet Silverado 1500 LTZ Z71, rear 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen 1937 Chevrolet Silverado High Country-20230909-RM-172038.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 20 GMC Sierra 1500 AT4.jpg by HJUdall, CC0
+- 19 Ford F-250 Super Duty XLT.jpg by HJUdall, CC0
+- '17 Ford F-250 Super Duty Double Cab.jpg by Bull-Doser, Public domain
+- West Yellowstone (MT, USA), Yellowstone Avenue, Fahrzeuge der Yellowstone Vacation Tours -- 2022 -- 2381.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 22 Ford F-350 Super Duty King Ranch.jpg by HJUdall, CC0
+- Ford F-450 Super Duty - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford F-450 Super Duty - 01.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford Super Duty - Sunbelt Rentals service truck.jpg by FLGALine1999, CC0
+- Ford Medium-Duty Super Duty F-650 - Two Men and a Truck, box truck.jpg by Winnebaggo, CC0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1978 Ford F-250 Ranger regular cab Camper Special.jpg by MercurySable99, CC BY-SA 4.0
+- 2005 Ford F-350.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Ford F-350 SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- 2006 Ford F-650.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-650 Crew Cab Pickup.JPG by Summerspop at English Wikipedia, Public domain
+- Nelson Tree Service - Ford F-750 tree truck.jpg by FLGALine1999, CC0
+- 2011 Ford F-750.jpg by Jason Lawrence from Boston, CC BY 2.0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5L EcoBoost 4WD P552 Shadow Black (42).jpg by Damian B Oh, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2009 Ford F-150 XLT 5.4 V8.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 Ford F-150 XL.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- NB I-75 Rest Area, Marion Co, FLA; Volvos, Freightliners, Fords and other trucks.jpg by DanTD, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- Ram 1500 Laramie Hemi 2013 (34211812493).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- 25 Ram 1500 Big Horn.jpg by HJUdall, CC0
+- Rockingham Truck Series Race April 14th 2013 (8662100150).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Rockingham Truck Series Race April 14th 2013 (8662102604).jpg by Mike Kalasnik from Unionville, CT, USA, CC BY-SA 2.0
+- Toyota Tundra TRD Sport (2023) (53487889244).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 17 Toyota Tundra SR5.jpg by HJUdall, CC0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0

@@ -1,0 +1,158 @@
+# Photo credits: The 10 Cheapest New Trucks in America for 2026 (And the Traps Inside the Price)
+
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Ford Maverick XL, front left, 08-21-2026.jpg by BuickRiviera99, CC BY-SA 4.0
+- 2022 Ford Maverick XL in Shadow Black, Front Left, 06-26-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford Maverick interior.jpg by deathpallie325, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0
+- 2016 Nissan NP300 Navara Tekna DCi 3.0.jpg by Vauxford, CC BY-SA 4.0
+- NISSAN NAVARA D23 China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2017 Nissan Navara Tekna DCi 2.3 Front.jpg by Vauxford, CC BY-SA 4.0
+- Police vehicle - PNP - DIVTUPRAMB - Puno - Peru - Nissan Frontier - side view.jpg by AgainErick, CC BY-SA 4.0
+- 2013 Nissan Frontier Navara 2.5 XE, 07-07-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x4 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- 22 Toyota Tacoma SR.jpg by HJUdall, CC0
+- 2025 Toyota Tacoma SR Xtracab, front 5.4.25.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Toyota Tacoma SR Xtracab, rear 5.4.25.jpg by Kevauto, CC BY-SA 4.0
+- 2023 Toyota Tacoma interior.jpg by deathpallie325, CC BY-SA 4.0
+- Florida I75nb SR 222 Overpass.jpg by Michael Rivera, CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 1of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 4of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 3of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- GMC Sierra Regular Cab 1500.jpg by Bull-Doser, Public domain
+- GMC Sierra Regular Cab GMT912.JPG by Bull-Doser, Public domain
+- 1982 GMC K-3500 High Sierra regular cab flatbed, front left, 06-08-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 03of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 01of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- GMC Canyon P4250781.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Colorado High Country 2018 (46414614972).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 23 GMC Canyon AT4.jpg by HJUdall, CC0
+- GMC Canyon AT4 GMT31XX Double Cab.jpg by Bull-Doser, Public domain
+- GMC Canyon AT4 Crew Cab.JPG by Bull-Doser, Public domain
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 07 Ford F-150 XL.jpg by HJUdall, CC0
+- 2001 Ford F-150 XLT 4x4 Regular Cab Styleside Long Bed with Sport Group.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 regular cab long bed.jpg by IFCAR, Public domain
+- Ford F-150 ext cab long bed.jpg by IFCAR, Public domain
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- NB I-75 Rest Area, Marion Co, FLA; Volvos, Freightliners, Fords and other trucks.jpg by DanTD, CC BY-SA 4.0
+- I-95 NB Colleton Co, SC Rest Area; South Picnic Shelter.jpg by DanTD, CC BY-SA 4.0
+- 2015 chevrolet silverado 3500 hd incomplete wt reverse.JPG by Rjluna2, CC BY-SA 4.0
+- 2015 chevrolet silverado 1500 wt long observe.JPG by Rjluna2, CC BY-SA 4.0
+- 2015 chevrolet silverado 3500 hd incomplete wt observe.JPG by Rjluna2, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Silverado Regular Cab GMTK2RC Summit White (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Silverado Regular Cab GMTK2RC Summit White (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Silverado GMTT1XX Crew Cab.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado Crew Cab Texas Edition 1500 GMTT1XX.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado GMTT1XX Regular Cab DLC.jpg by Bull-Doser, Public domain
+- 03-05 Chevrolet Silverado 1500 Work Truck 4x4 regular cab.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD GMT911.jpg by Bull-Doser, Public domain
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- 2024 Ford Ranger 2.0 XL 4x4.jpg by Just a Man, CC BY 4.0
+- 2011 Ford Ranger XL Regular Cab 4x2, rear left, 04-04-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2011 Ford Ranger XL Regular Cab 4x2, front left, 04-04-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Ranger MS-RT IMG 3714.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ford Ranger XLT in Argentina.jpg by Elcondelvp, CC BY-SA 4.0
+- 1969 Ford F-100 Ranger MD1.jpg by Acxroterion, CC BY-SA 4.0
+- General Electric 1994 battery powered radio.jpg by Daniel Christensen at en.wikipedia, CC BY 3.0
+- 1958 Edsel Citation Teletouch Transmission (18997339216).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Pacer Convertible with Teletouch (18839792638).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2026 Chevrolet Colorado WT, front left, 09-27-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Colorado WT 4WD in Sterling Grey Metallic, Front Right, 08-19-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 2023 Chevrolet Colorado WT 4WD in Sterling Grey Metallic, Rear Right, 08-19-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 22 GMC Canyon Denali.jpg by HJUdall, CC0
+- 23 GMC Canyon Denali.jpg by HJUdall, CC0
+- 2023 GMC Canyon Denali interior.jpg by deathpallie325, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- W T Roundy Motor Court New Hill NC.JPG by KimWrenn, CC BY-SA 3.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x2 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2012 Nissan Frontier 2.7 S Bravado 4x2, front left, 06-20-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Black Nissan Frontier D40 at Craig Rd & Simmons St.jpg by Noah Wulf, CC BY-SA 4.0
+- 2014 Nissan Frontier SV V6 4x4 King Cab, front left, 12-01-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2014 Nissan Frontier SV V6 4x4 King Cab, rear left, 12-01-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Nissan Frontier S (2022) (53645891286).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan Frontier (D41) Pro-4X 1X7A7196.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Nissan Frontier 2.3 Pro 4X (Argentina).jpg by Just a Man, CC BY 4.0
+- 2025 Nissan Frontier Pro-4X, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Hyundai Santa Cruz au SIAM 2023.JPG by Bull-Doser, Public domain
+- 2022 Hyundai Santa Cruz, Front Left, 10-17-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 25 Hyundai Santa Cruz Limited.jpg by HJUdall, CC0
+- 25 Hyundai Santa Cruz XRT.jpg by HJUdall, CC0
+- 2023 Denver Auto Show Hyundai Santa Cruz wheel.jpg by Corqe, CC0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Fisker Alaska Motorworld Munich 1X7A0128.jpg by Alexander-93, CC BY-SA 4.0
+- President Trump Tours a Lordstown Motors 2021 Endurance (50397189013).jpg by The White House from Washington, DC, Public domain
+- Cummins Engine Factory, Columbus, Indiana.jpg by born1945, CC BY 2.0
+- Dallara IndyCar Factory in 2017.jpg by NaBUru38, CC BY-SA 4.0
+- Old Bag Factory 5970.jpg by Chris Light, CC BY-SA 4.0
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- Flags for sale in Becker, Minnesota.jpg by Lorie Shaull from St Paul, United States, CC BY 2.0
+- Flags for sale in Becker, Minnesota-03.jpg by Lorie Shaull, CC BY 2.0
+- 2015 chevrolet silverado 1500 wt long reverse.JPG by Rjluna2, CC BY-SA 4.0
+- 2016 chevrolet silverado wt regular standard blackout reverse.jpg by Rjluna2, CC BY-SA 4.0
+- 2016 chevrolet silverado wt regular standard blackout observe.jpg by Rjluna2, CC BY-SA 4.0
+- Ford Ranger Crew Cab Servicelab.jpg by Bull-Doser, Public domain
+- Ford Ranger Crew Cab LK Roofings.jpg by Bull-Doser, Public domain
+- 2019 Ford Ranger Lariat crew cab.jpg by Truck Hardware, CC BY 2.0
+- Nissan Capital (Villa Luro) en Julio de 2025.jpg by Just a Man, CC BY 4.0
+- 2012 Suzuki Equator Pick-Up (34840906874).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2012 Nissan Frontier 2.7 S Bravado 4x2, rear left, 06-20-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- O'Reilly Auto Parts, Crawfordville, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Ford Maverick (8335633050).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- 1988 Ford Maverick as sold in Australia (4484589781).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- '27 Ford Model T Pickup & Delivery (Cruisin' At The Boardwalk '14).jpg by Bull-Doser, Public domain
+- 1921 Ford Model T T3 Pickup (28557064535).jpg by Sicnag, CC BY 2.0
+- 1926 Ford Model T pickup (7558818386).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Chevrolet pick-up 1941a.jpg by Finoskov, CC BY-SA 4.0
+- Chevrolet AK Series BW 2017-07-16 14-15-57.jpg by Berthold Werner, CC BY-SA 4.0
+- Chevrolet AK Series truck (53059855135).jpg by Joost J. Bakker  IJmuiden from The Netherlands, CC BY 2.0
+- 1915 Ford Pickup (8068518917).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1982 Dodge Rampage pickup at 2019 AACA Hershey meet 8of7.jpg by Mr.choppers, CC BY-SA 3.0
+- 1993 Dodge Ram W250 Club Cab 4x4 Cummins td.jpg by Mr.choppers, CC BY-SA 3.0
+- Miami High Rise Window Cleaning truck logo decal.JPG by Daniel Christensen, CC BY-SA 3.0
+- Silver on black (95655364).jpg by Anthony Easton from Montreal, canada, CC BY 2.0
+- 1954 Chevy 3100 5 window truck sold by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Royal Thai Army, Chevrolet Colorado utility truck..jpg by Manrat Thiusthas, CC BY-SA 4.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford Maverick (4533049970).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick (42123387295).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0

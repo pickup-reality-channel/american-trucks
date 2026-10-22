@@ -1,0 +1,167 @@
+# Photo credits: 5 Trucks That Became Collectibles (And One That Lost $245,000)
+
+- Dodge Power Wagon WM-300.jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Dodge Power Wagon (2586135056).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Dodge Power Wagon truck.JPG by Alf van Beem, CC0
+- Dodge Power Wagon (3661099605).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1954 Dodge Power Wagon (6027653308).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Dodge Power Wagon (4369743924).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Militär Dodge Power Wagon (1).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- Dodge Power Wagon (2586135072).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- 4x4 pickups at Wadi Rum (12464784523).jpg by Jorge Láscar from Australia, CC BY 2.0
+- Alsager Carnival - fire service Toyota Hilux - Jun 2025.jpg by Dominic Nelson, CC BY-SA 4.0
+- Toyota Hilux Pickup 4x4 2-door 1987.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Hilux KUN26L 3.0 G 4x4 Black.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Pickup 4x4 grey (1).jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Hilux KUN26L 3.0 G 4x4 Grayish Brown Metallic.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Pickup 4x4 gray (2).jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Hilux 4x2 2.4 J security truck 20221015.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1954 Dodge Power Wagon Pick-Up (31786088291).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1954 Dodge Power Wagon Pick-Up (31737544736).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1954 Dodge Power Wagon Pick-Up (31786088291) (cropped).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1954 Dodge Power Wagon Pick-Up (31737542006).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Dodge Power Wagon (51325633162).jpg by Eric Friedebach, CC BY 2.0
+- Dodge Power Wagon @ Kenly 95-2.jpg by DanTD, CC BY-SA 4.0
+- Dodge Power Wagon @ Kenly 95-4.jpg by DanTD, CC BY-SA 4.0
+- Dodge Power Wagon 4x4 -- Walter P Chrysler Museum 10-23-2010 059 N.jpg by Corvair Owner, CC BY-SA 2.0
+- Dodge Power Wagon 4x4 -- Walter P Chrysler Museum 10-23-2010 058 N.jpg by Corvair Owner, CC BY-SA 2.0
+- Dodge Power Wagon @ Kenly 95-9.jpg by DanTD, CC BY-SA 4.0
+- Dodge C-4 Power Wagon (1953) (52340193220).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dodge C-4 Power Wagon (1953) (52338806397).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Militär Dodge Power Wagon (2).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- 1977 Dodge W100 Macho Power Wagon, rear left, 08-25-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1977 Dodge W100 Macho Power Wagon, front left, 08-25-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Dodge Power Wagon trucks (avant).jpg by Kev22, CC BY-SA 4.0
+- 1976 Dodge Power Wagon W200.jpg by Rutger van der Maar, CC BY 2.0
+- Dodge Power Wagon @ Kenly 95-1.jpg by DanTD, CC BY-SA 4.0
+- Dodge Power Wagon @ Kenly 95-5.jpg by DanTD, CC BY-SA 4.0
+- Dodge W300M Power Wagon (1958) USA (owner Dan Hodges).JPG by AlfvanBeem, CC0
+- USN 50744 Dodge Power Wagon.JPG by Alf van Beem, CC0
+- 1944 Dodge Power Wagon (15245656990).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 21 Ram 2500 Power Wagon 75th Anniversary Edition.jpg by HJUdall, CC0
+- Red Ram 2500 Power Wagon (DJ) on W Ann Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- 2011 Ram 2500 Power Wagon -- 2011 DC.jpg by IFCAR, Public domain
+- Toyota Hilux 4x4 SR5 2003.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Toyota Tacoma SR5 4x4 Sonoma 2023.jpg by TaurusEmerald, CC BY-SA 4.0
+- Toyota Tacoma V6 4x4 SR5 (III) – f 02112024.jpg by © M 93, CC BY-SA 3.0 de
+- 1985 Toyota SR5 Pickup (25952052560).jpg by Bob P. B., CC BY 2.0
+- 1985 Toyota FJ45 Land Cruiser Pick-Up (34693515756).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1985 Toyota FJ45 Land Cruiser Pick-Up (33891352184).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1995 Toyota Pickup SR5.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, rear right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, front right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Pickup 4x4 (Hilux).jpg by Jacob Frey 4A, CC BY 2.0
+- 2024 Toyota Hilux 2.8 GR Sport 4x4 in Emotional Red, 06-30-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Hilux 4x4 GR Sport 2024.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Toyota pickup truck - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- Toyota pickup truck - Flickr - dave 7 (5).jpg by dave_7 from Canada, CC BY-SA 2.0
+- Toyota pickup truck - Flickr - dave 7 (1).jpg by dave_7 from Canada, CC BY 2.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- 1985 Ford F-150 XLT.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F150 Utility 1985 Pacific Highway Logan City P1060356.jpg by John Robert McPherson, CC0
+- Ford F150 Utility 1985 Pacific Highway Logan City P1060357.jpg by John Robert McPherson, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-250 BW 2016-07-17 14-01-47.jpg by Berthold Werner, CC BY-SA 3.0
+- LVMPD Unmarked Ford F-250 at W Lone Mountain & Rancho.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford Bronco (15267344870).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1966 Ford Bronco (6098504018).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Bronco 302 (1971) (53771477287).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1950 Ford (3527002569).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Ford - Marmon Herrington 4X4 conversion (3527002003).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Menno Yoder Polygonal Barn.jpg by Nyttend, Public domain
+- ArabiDetourMikesLane17Nov.jpg by Infrogmation, CC BY 2.5
+- Kakadu (AU), Kakadu National Park, Cahills Crossing -- 2019 -- 4153.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 1972 Ford F-250 5.9L V8.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-250 Lariat.jpg by Calreyn88, CC BY-SA 4.0
+- Ford SVT Lightning - 4273555214.jpg by Nick Ares, CC BY-SA 2.0
+- Ford SVT Lightning.jpg by Nick Ares, CC BY-SA 2.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- 2000 Ford F-150 SVT Lightning 5.4.jpg by Vauxford, CC BY-SA 4.0
+- 1969 Ford F-100 Ranger MD1.jpg by Acxroterion, CC BY-SA 4.0
+- FORD F150 SVT Lightning.jpg by MIKI Yoshihito, CC BY 2.0
+- 2004 Ford F-150 Lightning 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Ford F-150 Lightning.jpg by Calreyn88, CC BY-SA 4.0
+- Auto Ford F-Series Moscow Kantemirovskaya Street С767КУ199 2013-04 1366713598.JPG by Artyom Svetlov, CC BY 4.0
+- Ford F150 SVT model car.jpg by Victor Lopes, CC BY-SA 4.0
+- Ford F150 SVT Lightning.jpg by FotoSleuth, CC BY 2.0
+- Ford F-150 SVT Lightning.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Badge Ford F-150 Lightning CRI 02 2023 1973.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- 06 dodge ram srt-10.jpg by Jjustdoit, CC BY-SA 4.0
+- Dodge Ram SRT-10 (38798699982).jpg by Dennis Elzinga, CC BY 2.0
+- 2005 Dodge RAM SRT-10 8.3 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2005 Dodge Ram SRT-10, Front Left, 05-23-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- 2005 Dodge Ram SRT-10, Rear Left, 05-23-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- Dodge Viper SRT 10 - Circuit Paul Armagnac, Nogaro, France le 14 mars 2013 - Club ASA - Image Photo Picture (13170169573).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0
+- 2005 Dodge RAM SRT-10 8.3 Side.jpg by Vauxford, CC BY-SA 4.0
+- 2005 Dodge RAM SRT-10 8.3 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Dodge Ram SRT-10 Regular Cab (Centropolis Laval '10).jpg by Bull-Doser, Public domain
+- 2005 silver Dodge Ram SRT-10 front.JPG by BrokenSphere, CC BY-SA 3.0
+- Goodwood Breakfast Club - Dodge Ram SRT-10 - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Dodge Ram 1500 Daytona SRT-10.JPG by Bull-Doser, Public domain
+- As-New 1990 Chevrolet 454 SS Pickup, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- As-New 1990 Chevrolet 454 SS Pickup, Interior, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 1990 Chevrolet C1500 SS 454 7.4.jpg by Vauxford, CC BY-SA 4.0
+- GMC Syclone 1.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone.jpg by TKOIII, CC BY-SA 4.0
+- GMC Syclone (4821286342).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1979 Dodge Lil Red Express (4932052363).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1979 Dodge Lil Red Express (4932051593).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1979 Dodge Lil Red Express (4932053175).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- GMC Sierra Classic pickup truck.jpg by dave_7, CC BY 2.0
+- View of a 1951 Chevrolet 3100 pickup truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243062.jpg by Robert Lamb, CC BY-SA 2.0
+- 2023 Downtown West Allis Classic Car Show 36 (1937 Ford pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Ford Bronco Raptor.jpg by UltraTech66, CC BY-SA 4.0
+- 24 Ford Bronco Raptor.jpg by HJUdall, CC0
+- Ford Bronco Raptor (2024) (53621271856).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Bronco Raptor (6th gen) at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- Ford Bronco Raptor (2024) (53621481423).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Tobi Hlavnicka Ford Bronco Raptor Rebelle Rally Las Vegas 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- Rodz & Bodz Movie Car Museum auction, Fall Guy Movie 1981 GMC K2500 Sierra Grande Pick Up Truck, edited 2025-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
+- Austin K4 National Benzole Mixture Tanker (1950) (53335891441).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Austin K4 National Benzole Mixture Tanker (1950) (53336231809).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- 2013 Arizona Classic Bronco Stampede - panoramio.jpg by Chris English, CC BY-SA 3.0
+- 1975 Ford Bronco (42383275805).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1975 Ford Bronco (41456623830).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2012 Suzuki Equator Pick-Up (34840906874).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Adams Motors. New England's most modern and best equipped Dodge - Plymouth dealership, Dodge Job-Rated trucks (80111).jpg by Fullcolor Post Cards, New England Advertising, 82 Needham St., Newton Highlands 61, Mass., Public domain
+- Dodge and Plymouth, 3547 East Washington Street, Dodge job rated trucks, Virginia Ave. at New Jersey (81263).jpg by Tichnor Brothers, Publisher, Public domain
+- Austin Allegro 3 1.3HL Pick-up.jpg by andreboeni, CC BY 2.0
+- Austin Allegro 3 1.3HL Pick-up - 45907312082.jpg by andreboeni, CC BY 2.0
+- Barkas B1000 (1987).jpg by andreboeni, CC BY 2.0
+- Classic Moto Show 2015 71.jpg by Dawid Skwarczeński, CC BY-SA 4.0
+- Classic Automobiles - Erie Street - Lowell AZ.jpg by Al_HikesAZ, CC BY-SA 4.0
+- Hartridge 800 Fuel pump test stand, pic5.JPG by Alf van Beem, CC0
+- Chevrolet Art Deco to be restored.jpg by AlfvanBeem, CC0
+- Blue Chevy (168516243).jpeg by Paul Jacobson, CC BY-SA 3.0
+- Bristow Firestone Service Station OK garage bays 2026-09-15 13-02-22.jpg by G. Edward Johnson, CC BY 4.0
+- 2023 Downtown West Allis Classic Car Show 40 (1937 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 35 (1941 Chevrolet pickup truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2024 Downtown West Allis Classic Car Show 59 (1930 Ford pickup).jpg by Michael Barera, CC BY-SA 4.0
+- Attaching U-Haul trailer to GMC pickup truck East Haven VT October 2016.jpg by Artaxerxes, CC BY-SA 3.0
+- DRIVEWAY OF A SHEEP RANCH IN THE LEAKEY, TEXAS, AREA NEAR SAN ANTONIO - NARA - 554879.jpg by Marc St. Gil, Public domain
+- Do Not Block Driveway (10824633223).jpg by David Brossard, CC BY-SA 2.0
+- Dodge Power Wagon @ Kenly 95-7.jpg by DanTD, CC BY-SA 4.0
+- Dodge Power Wagon at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- Dodge Power Wagon @ Kenly 95-8.jpg by DanTD, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 69 (1965 Chevrolet C-K).jpg by Michael Barera, CC BY-SA 4.0
+- 2024 Downtown West Allis Classic Car Show 52 (1937 Ford pickup).jpg by Michael Barera, CC BY-SA 4.0
+- View of a 1956 Chevrolet pick-up truck in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243184.jpg by Robert Lamb, CC BY-SA 2.0
+- Classic Volvo truck - geograph.org.uk - 4028363.jpg by Michael Trolove, CC BY-SA 2.0
+- View of a classic flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4176487.jpg by Robert Lamb, CC BY-SA 2.0
+- Fargo Fire Truck (Byward Auto Classic).jpg by Bull-Doser, Public domain
+- 1975 Toyota Land Cruiser FJ45 pickup (ZA).jpg by Mr.choppers, CC BY-SA 3.0
+- 1937 Studebaker Pick-Up (16652283593).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1937 Studebaker Pick-Up (17272501625).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2022 Downtown West Allis Classic Car Show 106 (1953 GMC M211 Military Truck).jpg by Michael Barera, CC BY-SA 4.0
+- 2022 Downtown West Allis Classic Car Show 072 (1966 Chevrolet C-K).jpg by Michael Barera, CC BY-SA 4.0
+- Classic-Gala 2025, Schwetzingen (20250906-P1049240).jpg by Matti Blume, CC BY-SA 4.0
+- Dodge Power Wagon @ Kenly 95-6.jpg by DanTD, CC BY-SA 4.0
+- Red Power Wagon WM-100.jpg by Alden Jewell, CC BY 2.0
+- Dodge Power Wagon Tow Truck (6103221649).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0

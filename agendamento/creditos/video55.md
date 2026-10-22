@@ -1,0 +1,177 @@
+# Photo credits: The Real Cost of Owning a Truck in 2026: 5 Hidden Costs (One Is $4,422 a Year)
+
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Old-timey gas station in La Riviere, Manitoba. (40655843463).jpg by Rob Swystun from Winnipeg, Canada, CC BY 2.0
+- Clyattville Gas Station.JPG by Michael Rivera, CC BY-SA 3.0
+- Line at a gas station, June 15, 1979.jpg by Warren K. Leffler, Public domain
+- Peach Mart Store and Gas Station.JPG by Michael Rivera, CC BY-SA 3.0
+- Shell station corner Portland and Railroad Streets downtown Saint Johnsbury VT September 2016.jpg by Artaxerxes, CC BY-SA 3.0
+- JeffDavisMLKEarhartServicePickup.JPG by Infrogmation of New Orleans, CC BY 3.0
+- JeffDavisMLKEarhartAcrossPickup.JPG by Infrogmation of New Orleans, CC BY 3.0
+- Snowstorm South Parking Lot (2240246313).jpg by Aaron Tait from San Francisco, United States, CC BY 2.0
+- RV in a supermarket parking lot, Kenai Peninsula, Alaska 2010.jpg by Keith Parker, CC BY-SA 2.0
+- Friendly dog in Publix parking lot, Marietta GA.jpg by John Phelan, CC BY 4.0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- Bunyan trucks Valdosta Mall parking lot dashcam.jpg by Michael Rivera, CC0
+- Funny Car AAA.JPG by GSenkow, CC BY-SA 3.0
+- AAA NASCAR Pit Stop Challenge.jpg by TaurusEmerald, CC BY-SA 4.0
+- AAA mini car (3689061138).jpg by Shaun C. Williams from USA, CC BY 2.0
+- Trucks with boat trailers at Dowling Park boat ramp park.jpg by Michael Rivera, CC BY-SA 4.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- Chevrolet Silverado 3500 HD Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- 1936 Ford Model 67 pickup truck - Seattle 2026-08-23 - dashboard 01.jpg by Joe Mabel, CC BY-SA 4.0
+- 1936 Ford Model 67 pickup truck - Seattle 2026-08-23 - dashboard 02.jpg by Joe Mabel, CC BY-SA 4.0
+- Mid-City New Orleans Model A Ford Truck Dashboard, 2006.jpg by Infrogmation, CC BY 2.5
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1970 Ford pickup truck (8477379542).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Chris's Car Repair.jpg by Mbrickn, CC BY 4.0
+- Car dealership, Tweedside Trading Estate, Tweedmouth - geograph.org.uk - 4329955.jpg by Graham Robson, CC BY-SA 2.0
+- Trade Car Outlet on former car park, Mill Royd Street - geograph.org.uk - 4242910.jpg by Humphrey Bolton, CC BY-SA 2.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Customized 1950s Chevrolet Pickup Truck Lyndonville VT August 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Chevrolet Pickup Truck Mod Kulmbach 2018 P6170255.jpg by Ermell, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Art Deco Car Workshop. Haynes Ford, Maidstone.jpg by John K Thorne, CC BY 4.0
+- Art Deco Haynes Ford Maidstone. (51997457898).jpg by John K  Thorne from Universal , Universal, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Fall of Kolberg in 1761.jpg by Alexander von Kotzebue, Public domain
+- 1915 Ford Pickup (8068518917).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1982 Dodge Rampage pickup at 2019 AACA Hershey meet 8of7.jpg by Mr.choppers, CC BY-SA 3.0
+- 1993 Dodge Ram W250 Club Cab 4x4 Cummins td.jpg by Mr.choppers, CC BY-SA 3.0
+- Liberty Credit Union branch on North Side of Evansville.jpg by Rckania, CC BY-SA 4.0
+- 20240902 xl 1347-Volkbank, Bad Kohlgrub.jpg by Molgreen, CC BY-SA 4.0
+- Kagawaken Credit Cooperative Ritsurin Branch.jpg by ラハール, CC BY-SA 4.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- Two women in the back of a pickup truck on a rural road.jpg by Mattsjc, CC BY 4.0
+- Hughenden, capital of the Shire of Flinders, rural Queensland, Australia 11.jpg by Ridiculopathy, CC0
+- DZ6 2591 An abandoned white pickup bed overgrown with plants sits beside a quiet lamp-lit street at night.jpg by PattayaPatrol, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Sears Parts Repair Brooklyn.JPG by Niceckhart, CC BY-SA 3.0
+- - Flickr - dave 7 (7).jpg by dave_7 from Canada, CC BY 2.0
+- Arcouette Auto Center, Enfield CT.jpg by John Phelan, CC BY 4.0
+- March of Dimes 241 (5672873043).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- March of Dimes 240 (5673440044).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- 誰允許國家販賣全民健保資料民間社團聯合記者會.jpg by Mingwangx, CC BY-SA 3.0
+- Chris Land 77 Pickup Truck Racing - 2025 American Speedfest (2).jpg by BWard 1997, CC BY 4.0
+- Oil Derrick Truck (169365832).jpg by Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0
+- Oil Derrick Truck (169365877).jpg by Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 07of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- GMC pickup, beige (2).jpg by Cjp24, CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 AACA Eastern Regional Fall Meet 8of9.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Continental AG tire factory Mittellandkanal Stoecken Hannover Germany 02.jpg by Christian A. Schröder (ChristianSchd), CC BY-SA 4.0
+- Big black tires at Furilden factory 4.jpg by W.carter, CC BY-SA 4.0
+- Big black tires at Furilden factory 2.jpg by W.carter, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- Removing dropper post lever and brake lever with torque tool.jpg by Alextredz, CC BY-SA 4.0
+- Dance Hall Brake 2014.JPG by Chris Ward, CC BY-SA 4.0
+- Rotor Truing Fork & Brake Piston Press.jpg by JaredMcKenzie, CC0
+- 06 Gas prices in Europe 2012 - OMV gas station prices in Austria - Benzinpreise.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
+- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
+- Shell Gas Station Prices @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- A gas pump at a Thorntons.jpg by Goose Green Photography, CC BY 4.0
+- Race Trac gas pump Louisiana 14 May 2025.jpg by Infrogmation, CC BY-SA 4.0
+- Diesel Gas Pump (54474872295).jpg by Tony Webster, CC BY 2.0
+- Anna Chemical Oil tanker - IMO 7384986 on Deûle (3).jpg by Pierre André Leclercq, CC BY 4.0
+- Tanker Sten Suomi at a fuel depot in Stockholm.jpg by Frank Schulenburg, CC BY-SA 4.0
+- 2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg by Gordon Leggett, CC BY-SA 4.0
+- Gas Prices Sign - Yes Way Gas Station - Fort Pierre - South Dakota.jpg by Tony Webster, CC BY 2.0
+- Gas Prices on June 5, 2022 in Eugene, Oregon.jpg by Rick Obst, CC BY 2.0
+- Antalya, Turkey 9 March 2022 - Gas Station Prices.jpg by Sharon Hahn Darlin, CC BY 2.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck.JPEG by Unknown, United States Marine Corps, Public domain
+- Ontario DMV office interior.jpg by OregonDOT, CC BY 2.0
+- Ontario DMV grand opening (manager and employees).jpg by OregonDOT, CC BY 2.0
+- California DMV Eureka CA2.jpg by Ellin Beltz, CC BY-SA 3.0
+- Chevrolet Silverado 1500 regular cab pickup truck with Monster Energy promotional livery and aftermarket off-road accessories - FirstLook festival in the Netherlands.jpg by Sebastiaan Broekhoven, CC BY-SA 4.0
+- 2022 Toyota Land Cruiser 79 pickup truck, 06-30-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1988 Jeep Comanche pickup in black at 2024 AMO show 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- Cheveep - Old pickup truck on Oak Street, New Orleans, 1 May 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Attaching U-Haul trailer to GMC pickup truck East Haven VT October 2016.jpg by Artaxerxes, CC BY-SA 3.0
+- DRIVEWAY OF A SHEEP RANCH IN THE LEAKEY, TEXAS, AREA NEAR SAN ANTONIO - NARA - 554879.jpg by Marc St. Gil, Public domain
+- Do Not Block Driveway (10824633223).jpg by David Brossard, CC BY-SA 2.0
+- Old Metairie Library pickup truck, Louisiana May 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Old pickup truck at Moose Creek Lodge, Yukon (10752690686).jpg by Anthony DeLorenzo from Whitehorse, Yukon, Canada, CC BY 2.0
+- Old Pickup Truck Edgewater (17721292050).jpg by Phillip Pessar from Miami, USA, CC BY 2.0
+- San Diego (California, USA), San Diego Avenue, Dodge Hot Rod -- 2012 -- 5345.jpg by Dietmar Rabich, CC BY-SA 4.0
+- West Yellowstone (MT, USA), Targhee Pass Highway, Haus -- 2022 -- 2396.jpg by Dietmar Rabich, CC BY-SA 4.0
+- West Yellowstone (MT, USA), N Canyon Street, Shops -- 2022 -- 171246.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Little Big Trailer towed by Ram Pickup @ WPB Service Plaza.jpg by DanTD, CC BY 4.0
+- Ford F-350 Super Duty Tow Truck P708.JPG by Bull-Doser, Public domain
+- NATO tow bar rotated 180 degrees.jpg by Lewis Collard, CC BY-SA 3.0
+- Fastway e2 Weight Distribution and Sway Control Trailer Tow Hitch (27189607617).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- Tow hitch 01.jpg by CosyCobra, CC BY-SA 4.0
+- 20141025 Shockwave Truck Alliance Air Show 2014-3.jpg by Balon Greyjoy, CC0
+- Recology Lodal Garbage Truck 14425 in San Francisco.jpg by Dllu, CC BY-SA 4.0
+- Bakersfield, (CA) Truck Kenworth at Flying J Travel (5).jpg by Pierre André Leclercq, CC BY-SA 4.0
+- Ram Pickup plug-in hybrid rear -- 2011 DC.jpg by IFCAR, Public domain
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Fisker Alaska Motorworld Munich 1X7A0128.jpg by Alexander-93, CC BY-SA 4.0
+- Star's Electric Sitar RD - pickup and flat bridge for buzz sound.jpg by Shunichi kouroki, CC BY 2.0
+- Camac electric Bass Pickup.jpg by Elmschrat, CC BY-SA 4.0
+- Mobil Anak Bangsa Electric Pickup Trucks (Mining Indonesia 2026).jpg by Sulthan Naufal, CC BY-SA 4.0
+- Pickup Trucks For Hire.jpg by Collins Musonda, CC BY-SA 4.0
+- Pickup trucks for hire.jpg by Collins Musonda, CC BY-SA 4.0
+- International pickup trucks (8114310999).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- View of an American flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4174600.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a classic flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4176487.jpg by Robert Lamb, CC BY-SA 2.0
+- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
+- A Volvo car dealership in Chattanooga, Tennessee.jpg by Harrison Keely, CC BY 4.0
+- Romford Suzuki car dealership - geograph.org.uk - 1992483.jpg by Stacey Harris, CC BY-SA 2.0
+- Euro Changeover Board of Ireland calculator 3.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 1.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 2.jpg by ZICO, CC BY-SA 4.0
+- NISA PK 5 - Rechenmachine - Alte Mühle Proschim.jpg by ubahnverleih, CC0
+- Rheinmetall D IIc - Rechenmachine - Alte Mühle Proschim.jpg by ubahnverleih, CC0
+- AUS vs ARG Girls' lightweight Bronze Medal Bout 2018 YOG (269).JPG by BugWarp, CC BY-SA 4.0
+- Checklist (14750126694).jpg by Spotting973, CC BY-SA 2.0
+- Earthquake Survival Kit - Checklist (2851285426).jpg by David Pursehouse from Kawasaki, Japan, CC BY 2.0
+- Brown on aft flight deck with microphone during STS-95.jpg by NASA, Public domain
+- Mazda B2200 UF 4x2 Sunset Wine.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2018 Honda Ridgeline RTL-T at Sunset.jpg by Matthew Clark, CC BY-SA 4.0
+- Parking at Split Rock (6fd8fdb3-fbac-47ee-8434-1d66eda7e145).jpg by NPS Photo, Public domain

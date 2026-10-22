@@ -1,0 +1,95 @@
+# Photo credits: 2027 Chevy Colorado: The Engine Changed and Chevrolet Won't Say How
+
+- 2024 Chevrolet Colorado ZR2, rear right, 07-18-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2025 Chevrolet Colorado ZR2, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- White Checkered 2017-20 Chevrolet Colorado ZR2 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 2021 Chevrolet Colorado ZR2 in Black, Front Left, 03-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2021 Chevrolet Colorado ZR2 in Black, Rear Left, 03-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 Chevrolet Colorado interior.jpg by Deathpallie325, CC BY-SA 4.0
+- 2026 Chevrolet Colorado au SIAM 2026.jpg by Bull-Doser, Public domain
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado LT Z71 4x4 2012 (16658259715).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado 1500.jpg by Rutger van der Maar, CC BY 2.0
+- 2019 Chevrolet Silverado 1500 Crew Cab LT (front), 10.20.19.jpg by Ghostofakina, CC BY-SA 4.0
+- Chevrolet Silverado LS 5.3 Sidestep 2003 (15409073994).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2024 Chevrolet Colorado Z71, front left, 09-28-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (6).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (3).jpg by Damian B Oh, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- 2017 Chevrolet Colorado 2.8 LTZ Z71 4x4 in Orange Crush, front right.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet Colorado RG 2.8 LT Z71 Black Meet Kettle.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet Colorado High Country 2018 (46414614972).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Royal Thai Army, Chevrolet Colorado utility truck..jpg by Manrat Thiusthas, CC BY-SA 4.0
+- Chevrolet Colorado Z71 (2024) (53652313335).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Colorado ZR2 (2026) (55208511175).jpg by Charles from Port Chester, New York, CC0
+- 24 Chevrolet Colorado ZR2 Bison.jpg by HJUdall, CC0
+- 22 Chevrolet Colorado ZR2.jpg by HJUdall, CC0
+- My Public Lands Magazine, Summer 2014 (13992918113).jpg by Bureau  of Land Management, Public domain
+- Leftovers (8291902463).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Chevrolet Colorado Crew Cab Z71 GMT31XX.jpg by Bull-Doser, Public domain
+- '09 Chevrolet Colorado Crew Cab (MIAS).JPG by Bull-Doser, Public domain
+- Chevrolet Colorado ZR2 (2026) (55208119401).jpg by Charles from Port Chester, New York, CC0
+- 2020 Chevrolet Colorado side view.jpg by Ee2mba, CC BY-SA 4.0
+- 22 Chevrolet Colorado Work Truck.jpg by HJUdall, CC0
+- 26 Chevrolet Colorado Work Truck.jpg by HJUdall, CC0
+- Facelifted Chevrolet Colorado 2017.jpg by Poramin, CC BY-SA 4.0
+- Hastings Chevrolet Co., 209 Colorado Ave., Santa Monica -- California (81629).jpg by Tichnor Brothers, Publisher, Public domain
+- '04-'05 Chevrolet Colorado Extended Cab (Orange Julep '10).jpg by Bull-Doser, Public domain
+- 1968 Chevrolet CK, orange, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2020 Chevrolet Colorado (4 portes) au SIAM 2020.jpg by Bull-Doser, Public domain
+- Chevrolet display at the 2025 Detroit Auto Show during the charity preview 6860 54258927315 o.jpg by City of Detroit, Public domain
+- 1980 Chevrolet Citation X-11 hatchback at the Rambler Ranch 3of5.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 2015 Chevrolet Colorado 4x4 LTZ Tracker.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Valley of the Gods Eclipse Dispersed Camping (53263598939).jpg by BLMUtah, Public domain
+- Chevrolet Colorado 1.jpg by Grid Grairard, Public domain
+- 22 GMC Canyon Denali.jpg by HJUdall, CC0
+- 23 GMC Canyon Denali.jpg by HJUdall, CC0
+- 0 Chevrolet Colorado (second generation) 1.jpg by Benespit, CC BY-SA 4.0
+- 2013 Chevrolet Colorado LT 2.8 front.jpg by LuvsMG481, CC BY-SA 4.0
+- 2023 GMC Canyon.jpg by 42-BRT, CC BY-SA 4.0
+- GMC Canyon P4250781.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 GMC Canyon Denali interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 GMC Canyon interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2013 Chevrolet Colorado LT 2.8 rear.jpg by LuvsMG481, CC BY-SA 4.0
+- Chevrolet Colorado LT 2025.jpg by RL GNZLZ, CC BY-SA 4.0
+- Neglected- 1968 Camaro - Flickr - Hugo-90.jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Tubbed Chevelle (28426786331).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Car Accident in Colorado Springs by David Shankbone.jpg by David Shankbone, CC BY-SA 3.0
+- Chevrolet 3800 Lowry Community Fire Truck.JPG by Jacek Rużyczka, CC BY-SA 4.0
+- 22 GMC Canyon Elevation.jpg by HJUdall, CC0
+- 23 GMC Canyon AT4.jpg by HJUdall, CC0
+- 2020 Chevrolet Colorado Crew Cab Short Box Z71 4x4 Trail Runner Special Edition in Crush, front left, 2024-09-06.jpg by Elise240SX, CC BY-SA 4.0
+- Chevrolet Colorado Z71 GMT31XX-2 Jet Black (2).jpg by Damian B Oh, CC BY-SA 4.0
+- 2022 Chevrolet Silverado 6500HD - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 23 Chevrolet Colorado Trail Boss.jpg by HJUdall, CC0
+- Starr 060307-6664 Casuarina equisetifolia.jpg by Forest & Kim Starr, CC BY 3.0
+- Starr 060307-6660 Cenchrus ciliaris.jpg by Forest & Kim Starr, CC BY 3.0
+- The Black Forest Fire incident command center is shown in an aerial view June 12, 2013, in Colorado Springs, Colo 130612-Z-UA373-083.jpg by Capt Darin Overstreet, Public domain
+- The Black Forest Fire incident command center is shown in an aerial view June 12, 2013, in Colorado Springs, Colo 130612-Z-UA373-086.jpg by Capt Darin Overstreet, Public domain
+- 2022 Chevrolet Silverado 6500HD - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Lego Chevrolet Silverado.jpg by WaddlesJP13, CC BY-SA 4.0
+- 23 GMC Canyon Elevation.jpg by HJUdall, CC0
+- 23 GMC Canyon AT4X.jpg by HJUdall, CC0
+- GMC Canyon Denali 1 (31887372813).jpg by Zytonits, CC BY-SA 2.0
+- GMC Canyon Denali 2 (32699671835).jpg by Zytonits, CC BY-SA 2.0
+- GMC Canyon 2017 Pickup Truck.jpg by MTSRider18, CC BY-SA 3.0
+- GMC Canyon 2017 Pickup Truck 5.jpg by MTSRider18, CC BY-SA 3.0
+- 2007 Chevrolet Colorado LT Z71, rear 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 2007 Chevrolet Colorado LT Z71, front 1.26.20.jpg by Kevauto, CC BY-SA 4.0
+- 2026 Chevrolet Colorado WT, front left, 09-27-2025.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (9).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (11).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (10).jpg by Damian B Oh, CC BY-SA 4.0
+- Red 2019-20 Chevrolet Silverado at Canyon Ridge.jpg by Noah Wulf, CC BY-SA 3.0
+- Modified White Chevrolet Silverado High Country on W Craig Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (14).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet Colorado Z71 2.7T GMT31XX-2 Sterling Gray Metallic (13).jpg by Damian B Oh, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0

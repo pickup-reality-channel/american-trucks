@@ -1,0 +1,182 @@
+# Photo credits: 2027 Truck Buyer's Guide: Everything Changing Before You Buy (New Silverado, Hybrid-Only Maverick, $6 Diesel)
+
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- Volvo VNL 860 transporting a Chevrolet Silverado, Essex, Ontario, 2025-08-30 01.jpg by Chris Woodrich, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen 1937 Chevrolet Silverado High Country-20230909-RM-172038.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton AXCR.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (front).jpg by Ethan Llamas, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - rear.jpg by Ethan Llamas, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 GLX 4x2 2024 (interior).jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (rear).jpg by Ethan Llamas, CC BY-SA 4.0
+- 2025 Mitsubishi Triton 2.4 Athlete 4WD interior.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (dashboard).jpg by Ethan Llamas, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Hobson Chevrolet Buick Dealership, Cairo.JPG by Michael Rivera, CC BY-SA 3.0
+- Toyota HiLux GR Sport 1X7A7281.jpg by Alexander-93, CC BY-SA 4.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2017 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- 2018 Ram 1500 HEMI 5.7l v8.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Limited 5.7L V8 Hemi DT Granite Crystal Metallic (13).jpg by Damian B Oh, CC BY-SA 4.0
+- Mandeville Trailhead to Shiver Shack.JPG by Infrogmation of New Orleans, CC BY 3.0
+- NSSL researchers prep for deployment in the NWC truck bay 07.jpg by NOAA NSSL, CC0
+- FEMA - 15970 - Photograph by John Fleck taken on 09-20-2005 in Mississippi.jpg by John Fleck, Public domain
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- 1970 Ford pickup truck (8477379542).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1974 Ford Ranchero pickup truck.jpg by dave_7, CC BY 2.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 03of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 01of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 07of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Chevrolet Silverado 6500HD - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2015 Chevrolet Silverado interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2022 Chevrolet Silverado interior.jpg by deathpallie325, CC BY-SA 4.0
+- 2024 Chevrolet Silverado 2500HD interior.jpg by Deathpallie325, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- 22 Chevrolet Silverado 1500 ZR2.jpg by HJUdall, CC0
+- La Grande - Larison - Frees Chevrolet Co..JPG by Publichall, CC BY-SA 3.0
+- Possible 2026 Chevy Silverado 2500 HD @ Orange and Landstreet, Taft, FL.jpg by DanTD, CC BY 4.0
+- Wes Haney Chevrolet.jpg by The Bushranger, CC BY-SA 4.0
+- 2012 ZX Auto Grand Tiger Double Cab Pickup (14959057960).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 07 Ford F-150 XL.jpg by HJUdall, CC0
+- 25 Ram 1500 Tungsten.jpg by HJUdall, CC0
+- Ram 1500 Tungsten Crew Cab 4x4 (2026) (55213168171).jpg by Charles from Port Chester, New York, CC0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Miami High Rise Window Cleaning truck logo decal.JPG by Daniel Christensen, CC BY-SA 3.0
+- Silver on black (95655364).jpg by Anthony Easton from Montreal, canada, CC BY 2.0
+- 1954 Chevy 3100 5 window truck sold by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- 1949 Austin A40 pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1942 Dodge pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1974 Ford Ranchero pickup truck in.jpg by dave_7, CC BY 2.0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck.JPEG by Unknown, United States Marine Corps, Public domain
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ontario DMV office interior.jpg by OregonDOT, CC BY 2.0
+- Ontario DMV grand opening (manager and employees).jpg by OregonDOT, CC BY 2.0
+- California DMV Eureka CA2.jpg by Ellin Beltz, CC BY-SA 3.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Chevrolet Silverado 6500HD - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Chevrolet Silverado 1500.jpg by Rutger van der Maar, CC BY 2.0
+- March of Dimes 241 (5672873043).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- March of Dimes 240 (5673440044).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- 誰允許國家販賣全民健保資料民間社團聯合記者會.jpg by Mingwangx, CC BY-SA 3.0
+- GMC pickup, beige (2).jpg by Cjp24, CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 AACA Eastern Regional Fall Meet 8of9.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Chevrolet pickup 1946 (3).jpg by Cjp24, CC BY-SA 4.0
+- A gas pump at a Thorntons.jpg by Goose Green Photography, CC BY 4.0
+- Race Trac gas pump Louisiana 14 May 2025.jpg by Infrogmation, CC BY-SA 4.0
+- Diesel Gas Pump (54474872295).jpg by Tony Webster, CC BY 2.0
+- 06 Gas prices in Europe 2012 - OMV gas station prices in Austria - Benzinpreise.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
+- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
+- Shell Gas Station Prices @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Diesel fuel tank trucks to Petron1.jpg by unknown, CC BY-SA 4.0
+- Peterbilt Diesel Fuel Tank.jpg by Theodoros0, CC BY-SA 4.0
+- Benoa Bali Indonesia-Petamina-tank-truck-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Anacortes Refinery 31911.JPG by Walter Siegmund (talk), CC BY 2.5
+- Blue hour fog over Preemraff oil refinery by Brofjorden.jpg by W.carter, CC BY-SA 4.0
+- Altona Oil Refinery Victoria.jpg by Sgroey, CC BY-SA 4.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Fall of Kolberg in 1761.jpg by Alexander von Kotzebue, Public domain
+- Liberty Credit Union branch on North Side of Evansville.jpg by Rckania, CC BY-SA 4.0
+- 20240902 xl 1347-Volkbank, Bad Kohlgrub.jpg by Molgreen, CC BY-SA 4.0
+- Kagawaken Credit Cooperative Ritsurin Branch.jpg by ラハール, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Chevrolet Tow Truck (1468489148).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Mini Tow truck (21020062396).jpg by Zytonits, CC BY-SA 2.0
+- 1915 Ford Pickup (8068518917).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1982 Dodge Rampage pickup at 2019 AACA Hershey meet 8of7.jpg by Mr.choppers, CC BY-SA 3.0
+- 1993 Dodge Ram W250 Club Cab 4x4 Cummins td.jpg by Mr.choppers, CC BY-SA 3.0
+- 2023 Denver Auto Show Kia Niro EX Touring window sticker.jpg by Corqe, CC0
+- 2023 Denver Auto Show Kia Sportage Hybrid SX-Prestige window sticker.jpg by Corqe, CC0
+- 2023 Denver Auto Show Kia K5 GT dealership sticker.jpg by Corqe, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
+- A Volvo car dealership in Chattanooga, Tennessee.jpg by Harrison Keely, CC BY 4.0
+- Lenovo G500s laptop-2903.jpg by Raimond Spekking, CC BY-SA 4.0
+- Lenovo G500s laptop-2905.jpg by Raimond Spekking, CC BY-SA 4.0
+- Flying Laptop Control Center Stuttgart 5.JPG by Ptolusque, CC BY-SA 4.0
+- Kia dump truck in Nha Trang.jpg by Ilya Plekhanov, CC BY-SA 4.0
+- Mercedes Genh2 truck, IAA 2024, Hanover (IMG 1811).jpg by User:Celestinesucess, CC BY-SA 4.0
+- Street trade in India, truck decorations.jpg by Ninara, CC BY 2.0
+- Pontiac Trans Am (9615522214).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Pontiac Trans Am (9615519246).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Courthouse in Aurillac 01.jpg by Krzysztof Golik, CC BY-SA 4.0
+- Vue du palais de justice de Bruxelles.jpg by Fawaz.tairou, CC BY-SA 4.0
+- Omagh Courthouse (01), January 2010.JPG by Ardfern, CC BY-SA 3.0
+- Silver Third-Gen Ram 2500 Towing Horses.jpg by Noah Wulf, CC BY-SA 4.0
+- EB I-4 Seminole Co Rest Area; Truck Parking-3.jpg by DanTD, CC BY-SA 4.0
+- 2 Big 5th Wheelers from Brookridge, Florida.jpg by DanTD, CC BY-SA 4.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Toronto Police Mounted Unit pickup truck with horse trailer, 2017 livery (2).jpg by PvOberstein, CC0
+- Whatcom County Sheriff Pickup Truck (17302066606).jpg by Alex Smith from Fort Collins, CO, United States, CC0
+- Leer Topper - Camper Shell - Truck.jpg by Tony Webster, CC BY 2.0
+- LEER 122 Camper Shell.jpg by SsmIntrigue, CC BY-SA 4.0
+- A Heavy Duty Truck Bed Cover On A Toyota Tacoma.jpg by Mliu92, CC BY-SA 2.0
+- Camping Trailer on Ball Hitch - Towing with Safety Chains (52953247534).jpg by Tony Webster, CC BY 2.0
+- NATO tow bar rotated 180 degrees.jpg by Lewis Collard, CC BY-SA 3.0
+- Fastway e2 Weight Distribution and Sway Control Trailer Tow Hitch (27189607617).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- Chris Land 77 Pickup Truck Racing - 2025 American Speedfest (2).jpg by BWard 1997, CC BY 4.0
+- Oil Derrick Truck (169365832).jpg by Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0
+- Oil Derrick Truck (169365877).jpg by Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0
+- View of an American flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4174600.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a classic flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4176487.jpg by Robert Lamb, CC BY-SA 2.0
+- 1964 Chevrolet C10 pick-up truck at the Maxey Classic Car Show, August 2018 - geograph.org.uk - 5876658.jpg by Paul Bryan, CC BY-SA 2.0
+- Comet Interceptor contract signing ESA24643784.jpg by European Space Agency, CC BY-SA 3.0 igo
+- Signing a contract between partner cities Sanok and Truskavets (2023)bbb.jpg by Lowdown, CC BY-SA 4.0
+- Signing a contract between partner cities Sanok and Truskavets (2023)ee.jpg by Lowdown, CC BY-SA 4.0
+- Two women in the back of a pickup truck on a rural road.jpg by Mattsjc, CC BY 4.0
+- 1984 Chevrolet pickup truck, two-tone, Golden Super Cruise 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- Reo Speedwagon D19XA pickup truck (3661099261).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- UPS MAN TGL COE truck Denmark.jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Mazda B2200 UF 4x2 Sunset Wine.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2018 Honda Ridgeline RTL-T at Sunset.jpg by Matthew Clark, CC BY-SA 4.0
+- Parking at Split Rock (6fd8fdb3-fbac-47ee-8434-1d66eda7e145).jpg by NPS Photo, Public domain

@@ -1,0 +1,157 @@
+# Photo credits: 7 Trucks That Were Total Flops (And the Mistake That Killed Each One)
+
+- 2002 Lincoln Blackwood 2.jpg by IFCAR, Public domain
+- Lincoln Blackwood 2.jpg by LukaCali, CC BY-SA 4.0
+- Lincoln Blackwood 3.jpg by LukaCali, CC BY-SA 4.0
+- Lincoln Blackwood 1.jpg by LukaCali, CC BY-SA 4.0
+- Lincoln Blackwood bed open.jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2002 Lincoln Blackwood, rear left, 5-23-2021.jpg by Cutlass, CC0
+- 2002 Lincoln Blackwood, front left, 5-23-2021.jpg by Cutlass, CC0
+- 2002 Lincoln Blackwood, rear right, 4-05-2021.jpg by BlueCrabRedCrab, CC0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0576.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0629.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0622.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0620.jpg by Alexander-93, CC BY-SA 4.0
+- 2005 Chevrolet SSR 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Chevrolet SSR 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Chevrolet SSR.jpg by Calreyn88, CC BY-SA 4.0
+- Moscow car show 2026-08-01 2006 Chevrolet SSR 05.jpg by Retired electrician, CC0
+- Moscow car show 2026-08-01 2006 Chevrolet SSR 06.jpg by Retired electrician, CC0
+- 2002 Lincoln Blackwood Pick-Up (7811317090).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 02 Lincoln Blackwood Pick-Up (7811319642).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2002 Lincoln Blackwood, front left, 4-05-2021.jpg by BlueCrabRedCrab, CC0
+- Blackwood.jpg by Accord14, CC BY-SA 4.0
+- Port Lincoln Railway Station(GN14463).jpg by State Government Photographer, CC0
+- 2011 Cadillac Escalade EXT, Front Left, 09-26-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Cadillac Escalade EXT GMT900.JPG by Bull-Doser, Public domain
+- Cadillac Escalade EXT (41185466731).jpg by Dennis Elzinga, CC BY 2.0
+- Lincoln Mark LT long bed.jpg by IFCAR, Public domain
+- 06 Lincoln Mark LT Base.jpg by HJUdall, CC0
+- '08 Lincoln Mark LT (Montreal).jpg by Bull-Doser, Public domain
+- 2024 Ford F-150 King Ranch front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- 22 Ford F-150 King Ranch.jpg by HJUdall, CC0
+- Moscow car show 2026-07-31 2006 Chevrolet SSR 02.jpg by Retired electrician, CC0
+- Moscow car show 2026-07-31 2006 Chevrolet SSR 01.jpg by Retired electrician, CC0
+- 2004 Chevrolet SSR.jpg by Calreyn88, CC BY-SA 4.0
+- 2003–2006 Chevrolet SSR, red, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2004 Chevrolet SSR, rear left, 07-02-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2004 Chevrolet SSR, front left, 07-02-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (5).jpg by Damian B Oh, CC BY-SA 4.0
+- 2005 Chevrolet SSR, rear right, 06-15-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2005 Chevrolet SSR, front right, 06-15-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2005 Chevrolet SSR, front left, 08-24-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet SSR in Moscow 2.jpg by Valera N. Trubin, CC BY 4.0
+- Chevrolet SSR in Moscow 1.jpg by Valera N. Trubin, CC BY 4.0
+- 2004 Chevrolet SSR, front right (2023 ARMCO Park Wheels of Steel Car Cruise).jpg by MercurySable99, CC BY-SA 4.0
+- Subaru Baja DSC 2964.jpg by Alexander Migl, CC BY-SA 4.0
+- Subaru Baja US Import Bahrain.jpg by Mohammed Hamad, CC BY-SA 4.0
+- Subaru Baja Turbo.jpg by IFCAR, Public domain
+- 2003 Subaru Baja, front left, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2006 Subaru Baja Sport, rear right, 01-02-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2006 Subaru Baja Sport, front right, 01-02-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan Titan V8 P4220668.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Titan at gas station.jpg by Max schwalbe, CC BY-SA 4.0
+- 20 Nissan Titan Platinum Reserve.jpg by HJUdall, CC0
+- Nissan Titan XD '16.jpg by Bull-Doser, Public domain
+- 19 Nissan Titan XD PRO-4X.jpg by HJUdall, CC0
+- Nissan Titan XD 2 (32707379235).jpg by Zytonits, CC BY-SA 2.0
+- '04 Nissan Titan Extended Cab.jpg by Bull-Doser, Public domain
+- Nissan A61 Titan Crew Cab.jpg by Bull-Doser, Public domain
+- 2016 Nissan Titan XD.jpg by Ryan Hildebrand, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- TOYOTA TUNDRA (XK70) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Nissan Titan Pro- 4X (31894723663).jpg by Zytonits, CC BY-SA 2.0
+- Nissan Titan Pro-4X 2 (31894713303).jpg by Zytonits, CC BY-SA 2.0
+- 2021 Nissan Titan Pro-4X, front 4.29.21.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Hyundai Santa Cruz au SIAM 2023.JPG by Bull-Doser, Public domain
+- 2022 Hyundai Santa Cruz, Front Left, 10-17-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- 25 Hyundai Santa Cruz XRT.jpg by HJUdall, CC0
+- 25 Hyundai Santa Cruz Limited.jpg by HJUdall, CC0
+- 2023 Denver Auto Show Hyundai Santa Cruz wheel.jpg by Corqe, CC0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- 2024 Tesla Cybertruck, Moab 02.jpg by A1C6, CC0
+- Tesla Cybertruck 003.jpg by Kidfly182, CC BY 4.0
+- Stainless steel Cybertruck car at Stockholm, Sweden 2024.jpg by Editorq35, CC0
+- Stainless Finish (53518910972).jpg by crudmucosa, CC BY 2.0
+- Tesla Cybertruck dark gray 01.jpg by Wikideas1, CC0
+- 2024 Tesla Cybertruck, rear 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-charging-port-closed.jpg by u/mrlewaynee, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear left, 07-27-2024.jpg by Cutlass, CC0
+- Even more beautiful up close (53617953183).jpg by Lars Plougmann from United States, CC BY-SA 2.0
+- Tesla Cybertruck - 06.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck dark gray 02.jpg by Wikideas1, CC0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- 2008 Cadillac Escalade EXT 6.2 V8 (16287285293).jpg by Rutger van der Maar, CC BY 2.0
+- 2007 Cadillac Escalade EXT 6.2 V8 (51960394663).jpg by Rutger van der Maar, CC BY 2.0
+- 2003 Cadillac Escalade EXT 6.0 V8 (51412430663).jpg by Rutger van der Maar, CC BY 2.0
+- '10 Chevrolet Avalanche (MIAS '10).jpg by Bull-Doser, Public domain
+- Chevrolet Avalanche GMT900 Sanming 01 2022-08-06.jpg by Randall Ferry, CC BY-SA 4.0
+- Chevrolet Avalanche GMT900 Sanming 02 2022-08-06.jpg by Randall Ferry, CC BY-SA 4.0
+- Hummer H2 in Hel.jpg by DerHexer, CC BY-SA 3.0
+- San Diego (California, USA), San Diego Avenue -- 2012 -- 5552.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Pewter Hummer H2 SUT on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 4.0
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- GMC Hummer EV - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 24 GMC Hummer EV 3X Omega Edition Pickup.jpg by HJUdall, CC0
+- Green Light Trailer @ Wal-Mart on FL 50 in Spring Hill.jpg by DanTD, CC BY-SA 4.0
+- 2010 Ford Ranger XLT SuperCab.jpg by CC-BY-CarImages, CC BY-SA 2.0
+- 1947 Dodge (6201456865).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- '16 Nissan Titan XD.jpg by Bull-Doser, Public domain
+- 21 Nissan Titan SV.jpg by HJUdall, CC0
+- 18 Nissan Titan S.jpg by HJUdall, CC0
+- Ford Bronco Sport and 4th Generation Escape.jpg by Nathan Dimartino, CC BY-SA 4.0
+- 1966 Mercury Comet Cyclone GT (30978953930).jpg by Sicnag, CC BY 2.0
+- 1967 Mercury Comet Cyclone GT (32087792714).jpg by Sicnag, CC BY 2.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1907.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 Rebel (DT) IMG 5357.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (6).jpg by Damian B Oh, CC BY-SA 4.0
+- Chevrolet SSR GMT368 Aqua Blur Metallic (1).jpg by Damian B Oh, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Truck for Sale, as is, Utah Hwy 12.jpg by Paul Harrison, CC BY-SA 4.0
+- View of an American flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4174600.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a classic flatbed truck in the Classic Car Boot Sale - geograph.org.uk - 4176487.jpg by Robert Lamb, CC BY-SA 2.0
+- Chevrolet SSR 1X7A6615.jpg by Alexander-93, CC BY-SA 4.0
+- Flickr - DVS1mn - 04 Chevrolet SSR (1).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Flickr - DVS1mn - 04 Chevrolet SSR.jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0

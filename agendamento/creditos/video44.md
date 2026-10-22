@@ -1,0 +1,164 @@
+# Photo credits: 5 Pickups That Changed America (One Started With a War Over Chicken)
+
+- '27 Ford Model T Pickup & Delivery (Cruisin' At The Boardwalk '14).jpg by Bull-Doser, Public domain
+- 1921 Ford Model T T3 Pickup (28557064535).jpg by Sicnag, CC BY 2.0
+- 1926 Ford Model T pickup (7558819698).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1926 Ford Model T pickup (7558818386).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1915 Ford Model T T2 Pickup (12703440714).jpg by Sicnag, CC BY 2.0
+- 1931 Ford Model A Pickup Pickup (34347597105).jpg by Sicnag, CC BY 2.0
+- Ford Model T Light Tender, Royal Air Force Museum, Hendon. (22908758823).jpg by Roland Turner from Birmingham, Great Britain, CC BY-SA 2.0
+- 1926 Ford Model T Pick-up Black (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0
+- 22 Ford Maverick Lariat.jpg by HJUdall, CC0
+- Ford Maverick (pickup truck) IMG 6586.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Model T (1925) Classic-Gala 2021 1X7A0217.jpg by Alexander Migl, CC BY-SA 4.0
+- 1925 Ford Model T touring.jpg by ModelTMitch, Public domain
+- Ford Model T Tourer (1926-1927).jpg by SG2012, CC BY 2.0
+- Ford Model T Speedster (1924-1925) - 14282977141.jpg by SG2012, CC BY 2.0
+- 1925 Ford Model T Annual Fathers Day Car Show Hyannis.jpg by EgorovaSvetlana, CC BY-SA 4.0
+- 1925 Model T T4 Truck (29413138091).jpg by Sicnag, CC BY 2.0
+- 1927 Ford Model T T5 Tourer (32491932820).jpg by Sicnag, CC BY 2.0
+- 1926 Ford Model T T5 Coupe (32719508592).jpg by Sicnag, CC BY 2.0
+- 1927 Ford Model T Truck (14156852472).jpg by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0
+- 1927 Ford Model T Truck (13973008428).jpg by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0
+- 1922 Ford Model T table top truck (6712896055).jpg by sv1ambo, CC BY 2.0
+- 1926 Ford Model T Pick-up Black (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford Model T Van - Flickr - mick - Lumix.jpg by Mick from Northamptonshire, England, CC BY 2.0
+- 1924 Ford Model T Flivver IAA 2023 1X7A0610.jpg by Alexander-93, CC BY-SA 4.0
+- Paris (75), musée des Arts et métiers, Ford model T, 1908 2.jpg by Pierre Poschadel, CC BY-SA 3.0
+- Ford Model T (CNAM-IMG 0617).jpg by Rama, CC BY-SA 2.0 fr
+- Paris (75), musée des Arts et métiers, Ford model T, 1908 1.jpg by Pierre Poschadel, CC BY-SA 3.0
+- 1912 Ford Model T Delivery Car pic1.jpg by Alf van Beem, CC0
+- 1912 Ford Model T Delivery Car pic6.jpg by Alf van Beem, CC0
+- 1912 Ford Model T Delivery Car pic3.jpg by Alf van Beem, CC0
+- Ford Model T BW 2018-07-15 13-17-32.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford Model T BW 2018-07-15 13-17-15.jpg by Berthold Werner, CC BY-SA 3.0
+- Colonia del Sacramento 2016 015.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
+- Ford Ranchero 1957.jpg by https://www.flickr.com/people/hugo90/, CC BY 2.0
+- Ford Ranchero 1957 (32691100978).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Ranchero 1957 (26689056019).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 1959 Chevrolet El Camino Custom.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Food & Shelter Car Show 09 (1959 Chevrolet El Camino).jpg by Michael Barera, CC BY-SA 4.0
+- 2019 Food & Shelter Car Show 08 (1959 Chevrolet El Camino).jpg by Michael Barera, CC BY-SA 4.0
+- El Camino, BAS 24, Brussels (P1170193-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Chevrolet El Camino "SS" (Auto classique Combos Express '12).jpg by Bull-Doser at English Wikipedia, Public domain
+- 2024 Downtown West Allis Classic Car Show 75 (1971 Chevrolet El Camino SS).jpg by Michael Barera, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 2022 Downtown West Allis Classic Car Show 030 (1970 Chevrolet El Camino SS).jpg by Michael Barera, CC BY-SA 4.0
+- Chevrolet El Camino 1970 at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- 1970 Chevrolet El Camino, custom 383, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford Ranchero (seventh generation, 1977-1979) Kulmbach-20220626-RM-160247.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen Ford Ranchero-20230909-RM-160919.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen Ford Ranchero-20230909-RM-160923.jpg by Ermell, CC BY-SA 4.0
+- Volkswagen Type 2 Pickup Truck (4971977325).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Volkswagen Type 2 Pickup Truck (4972591434).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Volkswagen Type 2 pickup (1970), Museum Angkut, 2017-10-01.jpg by Crisco 1492, CC BY-SA 4.0
+- 1961er (?) Volkswagen Transporter T bei der Rhodo 2023.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 1956 Volkswagen Transporter T1 2slash26 Pickup pic3.JPG by Alf van Beem, CC0
+- 1956 Volkswagen Transporter T1 2slash26 Pickup pic2.JPG by Alf van Beem, CC0
+- 1940 Ford Pickup Truck (176661135).jpg by Zane Schmidlen, CC BY 3.0
+- 2022 Toyota Land Cruiser 79 pickup truck, 06-30-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- RIFLE IN PICKUP TRUCK - NARA - 549220.jpg by Boyd Norton, Public domain
+- 1972 Chevrolet LUV rear.jpg by TTTNIS, CC0
+- Chevrolet Luv 3.2 LS Crew Cab 4x4 1999 (13155534225).jpg by order_242 from Chile, CC BY-SA 2.0
+- 1972 Chevrolet LUV.jpg by TTTNIS, CC0
+- 1994 Subaru 284 4WD pickup BRAT (15958639684).jpg by Charlie from United Kingdom, CC BY 2.0
+- Subaru Brat - 42177266322.jpg by Jacob Frey 4A, CC BY 2.0
+- Subaru Brat - 17016044839.jpg by Jacob Frey 4A, CC BY 2.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- TOYOTA TUNDRA (XK70) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Alsager Carnival - fire service Toyota Hilux - Jun 2025.jpg by Dominic Nelson, CC BY-SA 4.0
+- Toyota HiLux GR Sport 1X7A7281.jpg by Alexander-93, CC BY-SA 4.0
+- 2026 Toyota Hilux BEV.jpg by TTTNIS, CC0
+- Green Light Trailer @ Wal-Mart on FL 50 in Spring Hill.jpg by DanTD, CC BY-SA 4.0
+- 2010 Ford Ranger XLT SuperCab.jpg by CC-BY-CarImages, CC BY-SA 2.0
+- 1947 Dodge (6201456865).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 94-01 Dodge Ram regularcab.jpg by IFCAR, Public domain
+- Dodge Ram 2500 -- 11-26-2011 1.jpg by IFCAR, Public domain
+- 1991-93 Dodge Ram 250 Club Cab Cummins.jpg by Mr.choppers, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Custom Ram 1500 showing a modified front grille with Rocky Ridge badging.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 1999 Dodge Ram Cab 2500 4x4 stakebed.jpg by Mr.choppers, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Dodge D-W Ram-20220911-RM-162749.jpg by Ermell, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, rear 3.1.20.jpg by Kevauto, CC BY-SA 4.0
+- 2019 Ram 1500 Laramie, front 2.26.20.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor 2026.jpg by RL GNZLZ, CC BY-SA 4.0
+- 2025 Ford Maverick Lobo au salon auto Lanaudière 2025.jpg by Bull-Doser, Public domain
+- 2022 Ford Maverick Lariat FWD Ecoboost.jpg by Zoz0716, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Ford Maverick Lariat Pick-Up (52805113038).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 24 Ford Maverick XLT Tremor.jpg by HJUdall, CC0
+- 2025 Ford Maverick Tremor au SIAM 2025.jpg by Bull-Doser, Public domain
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2025 Ford Maverick Lobo, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick Lobo, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick au salon international de l'auto de Montréal 2025.jpg by Bull-Doser, Public domain
+- Ford Maverick (4533049970).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2022 Ford Maverick interior.jpg by deathpallie325, CC BY-SA 4.0
+- Ford Maverick (53247917054).jpg by Jason Lawrence from New York, CC BY 2.0
+- Ford Maverick (pickup truck) IMG 6586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- Stainless steel Cybertruck car at Stockholm, Sweden 2024.jpg by Editorq35, CC0
+- Stainless Finish (53518910972).jpg by crudmucosa, CC BY 2.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- Classic Automobiles - Erie Street - Lowell AZ.jpg by Al_HikesAZ, CC BY-SA 4.0
+- Customized 1950s Chevrolet Pickup Truck Lyndonville VT August 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 1952-53? Chevrolet pickup truck, Very Fine Wheels Car Show – Golden 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- Mazda B-Series 2002-2007 Lone Pine 2018-04-07 California 01.jpg by Agnieszka Kwiecień, Nova, CC BY-SA 4.0
+- Mazda B2200 1993.jpg by Ethan Llamas, CC BY-SA 4.0
+- Mazda B2200 GSX 4x2 1996.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick (42123387295).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- DFM Truck 1.3 Crew Cab 2009 (9790349236).jpg by order_242 from Chile, CC BY-SA 2.0
+- Medway Norse Peugeot Boxer crew cab pickup truck in white, side view on Green Street, Gillingham.jpg by OathOn, CC0
+- Truro City Council crew cab pick-up truck, Coosebean Greenway, Truro, Cornwall - May 2023.jpg by Mutney, CC BY-SA 4.0
+- Stripped VW T2 Camper @ 2018 DC Bug Jam.jpg by DanTD, CC BY 4.0
+- Entry from Morningside Drive in Dade City, FL-07.jpg by DanTD, CC BY 4.0
+- Entry from Morningside Drive in Dade City, FL-08.jpg by DanTD, CC BY 4.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 1970 Ford Maverick, Herby's Ford, Alexandria.jpg by Marion S. Trikosko, Public domain
+- Ford Maverick Coupe (Orange Julep '10).jpg by Bull-Doser, Public domain
+- Ford Maverick four door sedan (12394773303).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Miami High Rise Window Cleaning truck logo decal.JPG by Daniel Christensen, CC BY-SA 3.0
+- Silver on black (95655364).jpg by Anthony Easton from Montreal, canada, CC BY 2.0
+- 1954 Chevy 3100 5 window truck sold by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 2011 Greater Los Angeles Auto Show (10990378775).jpg by Neon Tommy, CC BY-SA 2.0
+- Leimershof 7. US-Car-Treffen Ford Ranchero-20230909-RM-164427.jpg by Ermell, CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen Ford Ranchero GT 500-20230909-RM-152307.jpg by Ermell, CC BY-SA 4.0

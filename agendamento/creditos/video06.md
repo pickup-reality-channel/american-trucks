@@ -1,0 +1,97 @@
+# Photo credits: 6 Hybrid Pickups Taking Over in 2027 (Who Is Really Winning)
+
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4533049970).jpg by Spanish Coches, CC BY 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Ford Plant, Dearborn, Michigan (73115).jpg by Tichnor Brothers, Publisher, Public domain
+- Ford Dearborn Factory Aerial (45574999515).jpg by formulanone, CC BY-SA 2.0
+- Ford Industries, Dearborn, Mich (65798).jpg by Tichnor Brothers, Publisher, Public domain
+- Ford Industries, River Rouge, Mich (62380).jpg by Tichnor Brothers, Publisher, Public domain
+- Fort Collins Municipal Railway Streetcar, Henry Ford Museum of American Innovation, Oakwood Boulevard, Fairlane, Dearborn, MI - 54270783724.jpg by Warren LeMay, CC BY-SA 2.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Front Right, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Lariat in Atlas Blue Metallic, Rear Left, 08-06-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 25 Toyota Tacoma TRD Off-Road HV.jpg by HJUdall, CC0
+- Aisin RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- DEARBORN SKYLINE. FORD RIVER ROUGE PLANT IN BACKGROUND - NARA - 549710.jpg by Joe Clark, Public domain
+- RIVER ROUGE PLANT OF THE FORD MOTOR COMPANY COVERS 1200 ACRES OF LAND IN DEARBORN - NARA - 549725.jpg by Joe Clark, Public domain
+- Ford F-150 Lightning Lariat, Auto 2024, Zurich (PANA1012).jpg by Matti Blume, CC BY-SA 4.0
+- Ford F-150 Lightning Auto Zuerich 2023 1X7A1494.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- General Motors Factory ZERO Detroit plant, 2021 (51845515837).jpg by The White House, Public domain
+- P20211117AS-0994 (51846557478).jpg by The White House, Public domain
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2015 Ford F150 Platinum Crew Cab (29118624415).jpg by Sicnag, CC BY 2.0
+- Ford F-150 Lightning Portek.jpg by Bull-Doser, Public domain
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford F-150 Lightning Auto Zuerich 2023 1X7A1179.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford Maverick (42123387295).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Toyota Tacoma in the Snow.jpg by Mundanemetal, CC BY 4.0
+- Second Gen Toyota Tacoma on Snowy Mountain - 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford Maverick four door sedan (12394773303).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick Coupe (Orange Julep '10).jpg by Bull-Doser, Public domain
+- 2024 Toyota Tacoma TRD Off Road black rear.jpg by Throwawayacc222, CC0
+- Toyota Tacoma XtraCab 2WD.jpg by Mliu92, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch front view.jpg by Deathpallie325, CC BY 4.0
+- Toyota Tacoma XtraCab 2WD 2.jpg by Mliu92, CC BY-SA 3.0
+- BakFlip G2 Toyota Tacoma TRD 4X4.jpg by Esskay840, CC BY-SA 4.0
+- Ford Maverick (538872007).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick (2910385658).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Shelby, Paris Motor Show 2018, Paris (1Y7A1544).jpg by Matti Blume, CC BY-SA 4.0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- Ford F-150 Limited P702 Agate Black (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (4).jpg by Damian B Oh, CC BY-SA 4.0

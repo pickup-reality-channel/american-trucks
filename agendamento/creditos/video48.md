@@ -1,0 +1,158 @@
+# Photo credits: The Most Expensive Pickups You Can Buy in 2026 (One Costs $122,265)
+
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- Ford F-150 Raptor 3.5T 2018 (45840639514).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
+- Ford F-150 Raptor (49522651482).jpg by crash71100, CC0
+- Ford F-150 Raptor (49522651487).jpg by crash71100, CC0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- RiverBend Ford.jpg by The Bushranger, CC BY-SA 4.0
+- Commerce March 2017 107 (Meador Commerce Dodge Chrysler Jeep Ram).jpg by Michael Barera, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (1).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (4).jpg by Damian B Oh, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2022 Ram 1500 Limited Crew Cab 4x4, front left, 05-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram 1500 Limited.jpg by HJUdall, CC0
+- Ram 1500 Limited DT Ivory White Tri-coat (1).jpg by Damian B Oh, CC BY-SA 4.0
+- 1949 Austin A40 pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1942 Dodge pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1974 Ford Ranchero pickup truck in.jpg by dave_7, CC BY 2.0
+- 2002 Lincoln Blackwood 2.jpg by IFCAR, Public domain
+- Lincoln Blackwood 3.jpg by LukaCali, CC BY-SA 4.0
+- Lincoln Blackwood 2.jpg by LukaCali, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- 22 Chevrolet Silverado 1500 ZR2.jpg by HJUdall, CC0
+- Chevrolet Silverado ZR2 2024 (54835957237).jpg by RL GNZLZ, CC BY-SA 4.0
+- 23 Chevrolet Silverado 1500 ZR2.jpg by HJUdall, CC0
+- Chevrolet Silverado ZR2 2023 (53332095219).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet Silverado ZR2 2023 (54066482973).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet Silverado ZR2 2023 (55113228843).jpg by RL GNZLZ, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 6.2L 2023 (52518435882).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet Silverado ZR2 2024 (55054301366).jpg by RL GNZLZ, CC BY-SA 4.0
+- Chevrolet Silverado 1500 ZR2 (2026) (55208410128).jpg by Charles from Port Chester, New York, CC0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- TOYOTA TUNDRA (XK70) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Tired of camping in an RV parking lot? Stay at Starlight Camping in Kanab. 02.jpg by Starlightkanab, CC0
+- Tired of camping in an RV parking lot? Stay at Starlight Camping in Kanab. 03.jpg by Starlightkanab, CC0
+- Cambodia. Phnom Penh. The Tuol Sleng Genocide Museum. Known as S-21. (Security prison 21). Bou Meng one of two adult survivors. Signing copies of his book. (40041285514).jpg by Anne and David from Kent, England UK, Public domain
+- 2026 Toyota Tundra TRD Pro.jpg by Gogerr, CC BY-SA 4.0
+- Toyota Tundra Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- Toyota Tundra Safety Truck Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 23 GMC Sierra 1500 Denali Ultimate (4).jpg by HJUdall, CC0
+- 22 GMC Sierra 1500 Denali Ultimate (1).jpg by HJUdall, CC0
+- 23 GMC Sierra 1500 Denali Ultimate (2).jpg by HJUdall, CC0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (5).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (8).jpg by Damian B Oh, CC BY-SA 4.0
+- 2023 GMC Sierra Denali interior.jpg by deathpallie325, CC BY-SA 4.0
+- 22 GMC Sierra 1500 Denali Ultimate (2).jpg by HJUdall, CC0
+- 23 GMC Sierra 1500 Denali Ultimate (1).jpg by HJUdall, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- 25 Ram 1500 RHO.jpg by HJUdall, CC0
+- 2025 RAM 1500 RHO Crew Cab 4x4, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 RAM 1500 RHO Crew Cab 4x4, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, rear right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, front right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- Ram 1500 RHO Crew Cab 4x4 (2026) (55213412319).jpg by Charles from Port Chester, New York, CC0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- 24 Ford F-150 Raptor.jpg by HJUdall, CC0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 25 Ram 1500 Tungsten.jpg by HJUdall, CC0
+- Ram 1500 Tungsten Crew Cab 4x4 (2026) (55213168171).jpg by Charles from Port Chester, New York, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 Raptor (52018126368).jpg by crash71100, CC0
+- Ford F-150 SVT Raptor 2012 (53169362716).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Raptor 2011 (26427673837).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford SVT Lightning - 4273555214.jpg by Nick Ares, CC BY-SA 2.0
+- Ford SVT Lightning.jpg by Nick Ares, CC BY-SA 2.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- 2016 Ford F-150 XL SuperCab 4x2 with XL Sport Package, front right, 07-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 XL 1996 (27819851564).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2015-2017 Ford F-150 XL SuperCrew.jpg by LouieRBLX, CC BY-SA 4.0
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- 24 GMC Hummer EV 3X Omega Edition Pickup.jpg by HJUdall, CC0
+- GMC Hummer EV Pickup Washington DC Metro Area, USA (2).jpg by OWS Photography, CC BY 4.0
+- Rivian-r1t-2021.jpg by Photo by Rivian, CC BY-SA 4.0
+- Rivian R1T on Sunset Blvd.jpg by Chris Yarzab, CC BY 2.0
+- Rivian Normal Plant Floor.jpg by Photo by Rivian., CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- Debut of the Rivian R1T pickup at the 2018 Los Angeles Auto Show, November 27, 2018.jpg by Richard Truesdell, CC BY-SA 4.0
+- 22 Rivian R1T Adventure.jpg by HJUdall, CC0
+- Rivian at the Del Amo Mall in Torrance CA.jpg by RykJ, CC BY-SA 2.0
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2024 Chevrolet Silverado EV RST, NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- 2024 Chevrolet Silverado EV RST, front NYIAS 2022.jpg by Kevauto, CC BY-SA 4.0
+- Ford F-150 Raptor (32936630248).jpg by Dennis Elzinga, CC BY 2.0
+- Ford Raptor SVT Crew Cab (12488460573).jpg by artistmac, CC BY-SA 2.0
+- Ford Raptor SVT Crew Cab (12488456683).jpg by artistmac, CC BY-SA 2.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Dodge Ram 3500.JPG by Bull-Doser, Public domain
+- Bois d'Arc Bash 2016 43 (parade).jpg by Michael Barera, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (6).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (7).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (9).jpg by Damian B Oh, CC BY-SA 4.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- 1970 Ford pickup truck (8477379542).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1974 Ford Ranchero pickup truck.jpg by dave_7, CC BY 2.0
+- Ford F-450 Super Duty - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford F-450 Super Duty - 01.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 22 Ford F-450 Super Duty Limited.jpg by HJUdall, CC0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- '27 Ford Model T Pickup & Delivery (Cruisin' At The Boardwalk '14).jpg by Bull-Doser, Public domain
+- 1921 Ford Model T T3 Pickup (28557064535).jpg by Sicnag, CC BY 2.0
+- 1926 Ford Model T pickup (7558819698).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Miami High Rise Window Cleaning truck logo decal.JPG by Daniel Christensen, CC BY-SA 3.0
+- Silver on black (95655364).jpg by Anthony Easton from Montreal, canada, CC BY 2.0
+- 1954 Chevy 3100 5 window truck sold by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 1of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 4of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 3of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 2014 Ford F-150 SVT Raptor (12763168633).jpg by qJake, CC BY-SA 2.0
+- Ford F-150 Raptor V6 2022 (54452819834).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2014 Ford F-150 SVT Raptor (12763173703).jpg by qJake, CC BY-SA 2.0

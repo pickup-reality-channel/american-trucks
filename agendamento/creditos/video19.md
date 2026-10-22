@@ -1,0 +1,101 @@
+# Photo credits: Hyundai Santa Cruz: Dead or Alive for 2027? The Real Numbers
+
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Hyundai Santa Cruz au SIAM 2023.JPG by Bull-Doser, Public domain
+- 2022 Hyundai Santa Cruz, Front Left, 10-17-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2025 Hyundai Santa Cruz interior.jpg by Deathpallie325, CC BY 4.0
+- Hyundai Santa Cruz XRT (2024) (53624691402).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Hyundai Santa Cruz XRT (2024) (53625588796).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Hyundai Santa Cruz Preferred in Twilight Black, Rear Left, 11-05-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (15).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (14).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (12).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (7).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (8).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (4).jpg by Damian B Oh, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) rear view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) rear view.jpg by Zeometric, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view.jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz Limited.jpg by HJUdall, CC0
+- 23 Hyundai Santa Cruz Limited.jpg by HJUdall, CC0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (13).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (10).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (11).jpg by Damian B Oh, CC BY-SA 4.0
+- 2012 Suzuki Equator Pick-Up (34840906874).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- A Hyundai auto dealership in Burlington, Vermont.jpg by Harrison Keely, CC BY 4.0
+- Montgomery, AL. Usine Hyundai.jpg by ClaudeH, CC BY-SA 4.0
+- HMMA Front.jpg by HyundaiAlabama, CC BY-SA 4.0
+- Hyundai Motor America Headquarters Fountain Valley California 2022.jpg by DigitalIceAge, CC BY 4.0
+- Hyundai America Technical Center Superior Township.JPG by Dwight Burdette, CC BY 3.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 23 Hyundai Santa Cruz SEL Premium.jpg by HJUdall, CC0
+- 2025 Hyundai Santa Cruz XRT (United States) front view.jpg by Charles, CC BY 2.0
+- 2025 Hyundai Santa Cruz XRT (United States) rear view.jpg by Charles, CC BY 2.0
+- 25 Hyundai Santa Cruz XRT.jpg by HJUdall, CC0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (6).jpg by Damian B Oh, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Denver Auto Show Hyundai Santa Cruz wheel.jpg by Corqe, CC0
+- Atracando el buque metanero "LNG AKWA IBOM", de la compañía NLNG. Tenerife, España.jpg by CARLOS TEIXIDOR CADENAS, CC BY 4.0
+- Buque gasero "LNG AKWA IBOM". Compañía NLNG. Tenerife, España. Spain.jpg by CARLOS TEIXIDOR CADENAS, CC BY 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 23 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 24 Hyundai Santa Cruz XRT.jpg by HJUdall, CC0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Honda Ridgeline RTL 2020.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Honda Ridgeline RTL 2022.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Hyundai Santa Cruz interior.jpg by deathpallie325, CC BY-SA 4.0
+- MetroManila,Manilajf9999 02.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- 2023 Hyundai Santa Cruz Ultimate AWD in Hampton Grey, Rear Right, 07-29-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 2023 Hyundai Santa Cruz Ultimate AWD in Hampton Grey, Front Right, 07-29-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Hyundai Staria Premium 2022.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Hyundai Grand Starex Platinum 2017.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2022 Hyundai Santa Cruz SEL, rear 4.30.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T H-Trac, Front Right, 08-21-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (9).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (16).jpg by Damian B Oh, CC BY-SA 4.0
+- MetroManila,Manilajf9999 06.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- MetroManila,Manilajf9999 08.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- 2022 Hyundai Santa Cruz 2.5T H-Trac, Rear Left, 08-21-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Hyundai Santa Fe, GIMS 2018, Le Grand-Saconnex (1X7A1735).jpg by Matti Blume, CC BY-SA 4.0
+- Hyundai Pony 2 Pickup Green (13).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Pony 2 Pickup Green (18).jpg by Damian B Oh, CC BY-SA 4.0
+- HYUNDAI SANTA FE (DM) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Hyundai Santa Fe (TM) IMG001.jpg by Anonymousfox36, CC BY-SA 4.0
+- HYUNDAI SANTA FE (CM) China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (SM) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Hyundai Santa Cruz XRT (2026) (55210097784).jpg by Charles from Port Chester, New York, CC0
+- Hyundai Santa Cruz 2.5T HTRAC XRT NX4A OB PE Hampton Gray development mule (21).jpg by Damian B Oh, CC BY-SA 4.0
+- Hyundai Santa Fe Monaco.jpg by Calreyn88, CC0
+- HYUNDAI SANTA FE (DM) China (9).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (SM) China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (DM) China (41).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (DM) China (25).jpg by Dinkun Chen, CC BY-SA 4.0
+- CM-Santa-Fe-CRDi Hyundai leaf-retouched.jpg by Wikisympathisant, CC BY-SA 4.0
+- HYUNDAI SANTA FE (TM) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (DM) China (7).jpg by Dinkun Chen, CC BY-SA 4.0
+- Honda Ridgeline RTL 2023.jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Honda Ridgeline AWD.jpg by DestinationFearFan, CC BY-SA 4.0
+- HYUNDAI SANTA FE (SM) China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (CM) China (5).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (CM) China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (CM) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Hyundai Santa Fe TM (China) 001.jpg by Jengtingchen, CC BY-SA 4.0
+- HYUNDAI SANTA FE (MX5) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0

@@ -1,0 +1,113 @@
+# Photo credits: The Hybrid Truck War of 2027: Ford Is Winning, and GM Doesn't Have One
+
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Platinum 3.5 EcoBoost 2014 (11427355873).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 Platinum 3.5 EcoBoost 2013 (12530123265).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 Platinum 3.5 EcoBoost 2013 (11498840534).jpg by order_242 from Chile, CC BY-SA 2.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tundra hybride 2023 au SIAM 2023.JPG by Bull-Doser, Public domain
+- Toyota Tundra hybride de 2022 au salon des voitures éléctriques de Montréal 2022.JPG by Bull-Doser, Public domain
+- Toyota Tundra HV Crew Cab 1794 Edition (2026) (55213908816).jpg by Charles from Port Chester, New York, CC0
+- Aisin high torque capacity RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Toyota Highlander Hybrid (XU70) 1X7A6359.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Highlander Hybrid (XU70) 1X7A6356.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Highlander Hybrid (XU70) 1X7A0197.jpg by Alexander Migl, CC BY-SA 4.0
+- TOYOTA HIGHLANDER HYBRID (XU70) China (11).jpg by Dinkun Chen, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Chevrolet Silverado EV right rear quarter view.jpg by ITakePhotosOfCars, CC0
+- 2024 Chevrolet Silverado EV.jpg by UltraTech66, CC BY-SA 4.0
+- Cologne Germany Electric-Car-Charging-Point-at-TUV-Rheinland-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Electric car charging station, Batman (Turkey).jpg by Zalasem1, CC BY 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- 2024 Honda Prologue Elite (United States) interior.jpg by Charles, CC BY 2.0
+- 2024 Honda Prologue Elite (United States) rear view.jpg by Charles, CC BY 2.0
+- US Capitol west side.JPG by Martin Falbisoner, CC BY-SA 3.0
+- Capitol at Dusk 2.jpg by Martin Falbisoner, CC BY-SA 3.0
+- Toyota Prius (XW60) Plug-in Hybrid IMG 9905.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Prius (XW60) Plug-in Hybrid Automesse Ludwigsburg 2023 1X7A0004.jpg by Alexander-93, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- 19 Ford F-150 Platinum.jpg by HJUdall, CC0
+- Ford F-150 Platinum front (21031930262).jpg by Zytonits, CC BY-SA 2.0
+- FORD F-150 LARIAT SPORT 4X4 China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2015 Ford F-150 Lariat SuperCab 4x4 with Lariat Chrome package, front right, 06-22-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Virginia 2nd Amendment Rally (2020 Jan) - 49416193696.jpg by Anthony Crider, CC BY 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2021 Toyota Tundra SR5 Pro Double Cab in Lunar Rock, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- 17 Toyota Tundra SR5.jpg by HJUdall, CC0
+- 19 Toyota Tundra SR5.jpg by HJUdall, CC0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2024 Toyota Tundra TRD Pro Repping the NFL (53519968013).jpg by crudmucosa, CC BY 2.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- 25 Toyota Tacoma TRD Off-Road HV.jpg by HJUdall, CC0
+- Aisin RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 03.jpg by Retired electrician, CC0
+- Moscow, Toyota Tundra (XK50, 2013) black, Oct 2025 04.jpg by Retired electrician, CC0
+- Toyota RAV4 Plug-in Hybrid GR Sport IMG 9896.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota RAV4 Plug-in Hybrid GR Sport IMG 9891.jpg by Alexander-93, CC BY-SA 4.0
+- Jeep Wrangler Rubicon (JL) 4xe 1X7A0285.jpg by Alexander Migl, CC BY-SA 4.0
+- Jeep Wrangler Rubicon (JL) 4xe 1X7A0287.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Jeep Wrangler 4xe charging - February 2025 - Sarah Stierch.jpg by Missvain, CC0
+- Jeep Wrangler Plug-In Hybrid blockiert Ladesäule Mariahilfplatz München.jpg by Wikitarisch, CC BY 4.0
+- 2026 Jeep Cherokee interior.jpg by Deathpallie325, CC BY 4.0
+- 1979 Jeep Cherokee Chief, orange, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Sting Ray Convertible (C2)- 6280171.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 8837.jpg by Alexander-93, CC BY-SA 4.0
+- 2015–2019 Chevrolet Silverado 3500HD Z71, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD Sonoma 2026.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2024 GMC Sierra EV Denali front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 24 GMC Sierra EV Denali Edition 1.jpg by HJUdall, CC0
+- General Motors Factory ZERO Detroit plant, 2021 (51845515837).jpg by The White House, Public domain
+- GM Components Holdings - Grand Rapids Operations.jpg by WMrapids, CC0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050112).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050123).jpg by Matti Blume, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Mint 400 (53581352711).jpg by BLM Nevada, Public domain
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- 1992 Ford F-250 ambulance (5350668732).jpg by sv1ambo, CC BY 2.0
+- Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Port Orchard, WA - Harper Park - kayak packed to go home.jpg by Joe Mabel, CC BY-SA 4.0
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- Toyota Tacoma towing trailer Photographs by Jared Tarbell.jpg by Jared Tarbell, CC BY 2.0
+- This is not a roadway.jpg by Elliott R. Plack, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0

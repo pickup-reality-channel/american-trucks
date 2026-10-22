@@ -1,0 +1,34 @@
+name: thumbs
+# Downloads Canva thumbnail exports (short-lived signed links passed as an input, never committed),
+# saves them as agendamento/thumbs/videoNN.jpg and attaches them to each video's release.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "NN@url pairs separated by |"
+        required: true
+permissions:
+  contents: write
+concurrency: thumbs
+jobs:
+  thumbs:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      URLS: ${{ inputs.urls }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and convert
+        run: |
+          mkdir -p agendamento/thumbs
+          echo "$URLS" | tr '|' '\n' | while IFS='@' read -r n url; do
+            [ -z "$n" ] && continue
+            curl -sSfL "$url" -o /tmp/t.jpg || { echo "FAILED $n"; continue; }
+            convert /tmp/t.jpg -resize 1280x720^ -gravity center -extent 1280x720 -quality 88 agendamento/thumbs/video$n.jpg
+            echo "ok $n $(stat -c %s agendamento/thumbs/video$n.jpg)"
+            gh release upload video$n agendamento/thumbs/video$n.jpg --clobber || echo "no release yet for $n"
+          done
+      - name: Commit
+        run: |
+          git config user.name "upload-bot" && git config user.email "upload-bot@users.noreply.github.com"
+          git add agendamento/thumbs && git commit -qm "thumbs: Canva exports" && git push

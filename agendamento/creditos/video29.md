@@ -1,0 +1,101 @@
+# Photo credits: 5 Warning Signs Before You Buy a Used Truck in 2027 (2.45 Million Odometers Rolled Back)
+
+- Green Light Trailer @ Wal-Mart on FL 50 in Spring Hill.jpg by DanTD, CC BY-SA 4.0
+- 2010 Ford Ranger XLT SuperCab.jpg by CC-BY-CarImages, CC BY-SA 2.0
+- 1947 Dodge (6201456865).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- 1964 Mercury Econoline pickup truck.jpg by Zytonits, CC BY-SA 2.0
+- Yakult Banqiao Dealer 20170624.jpg by Solomon203, CC BY-SA 4.0
+- VAZ-2121 customized to Truck.jpg by dave_7, CC BY-SA 2.0
+- FargoTruck-rear.jpg by dave_7, CC BY 2.0
+- 1978 Datsun 1500 Pickup (23471611322).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Limited P702 Agate Black (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Chevrolet Silverado 1500 ZZ1.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- Chevrolet Silverado 1500 GMT800 Regular Cab.jpg by Bull-Doser, Public domain
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 1936 Ford Model 67 pickup truck - Seattle 2026-08-23 - dashboard 01.jpg by Joe Mabel, CC BY-SA 4.0
+- 1936 Ford Model 67 pickup truck - Seattle 2026-08-23 - dashboard 02.jpg by Joe Mabel, CC BY-SA 4.0
+- 2025 Ford F-150 12-inch Cluster-Off-Road drive mode.jpg by User:McChizzle, Public domain
+- GOES-T Loading onto C-5 Super Galaxy (51670635290).jpg by NOAASatellites, Public domain
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet Silverado 1977 C20 Oldtimertreffen Ebern 2019 6200347.jpg by Ermell, CC BY-SA 4.0
+- 22 Ford F-350 Super Duty King Ranch.jpg by HJUdall, CC0
+- 08 Ford F-350 Super Duty Lariat King Ranch.jpg by HJUdall, CC0
+- 1949 Austin A40 pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 1942 Dodge pickup truck interior - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- Small team gets BLM firetrucks to America’s wildfires (22820966902).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22845682181).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- UPS MAN TGL COE truck Denmark.jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- FEMA - 37217 - A resident and a pickup truck going through a flooded street in Texas.jpg by Jacinta Quesada, Public domain
+- FloridaAvBoatPickup.jpg by Infrogmation, CC BY 2.5
+- Flooding - Stranded Car in Shopping Center Parking Lot.JPG by Digimint, CC BY-SA 3.0
+- Jersey City, N.J., Dec. 12, 2012 -- The Port suffered severe flooding to the car lots adjacent to Port during Hurricane Sandy. At this demolition site, some of the cars that were da - DPLA - 27ef51450a286e58317c9773fad7647e.jpg by Department of Homeland Security. Federal Emergency Management Agency. Public Affairs Division. 3/1/2003, Public domain
+- Flatbed semi-truck trailer hauling recycling alongside Ford landscaping truck, I-90 westbound, Spokane, WA 2024.jpg by Ewkada, CC BY 3.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Flickr - Rubenstein - Whitey Ford and Yogi Berra.jpg by Rubenstein, CC BY 2.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- 2015 Ford F-150 Pickup Truck.jpg by Tuner tom, CC BY-SA 3.0
+- 2019 Ford F-150 XLT 4X4 Supercrew in Ruby Red Metallic, rear left, 2026-06-12.jpg by Elise240SX, CC BY-SA 4.0
+- FEMA - 34620 - Flooded highway with traffic in Arkansas.jpg by Jocelyn Augustino, Public domain
+- Flooded Mississippi River Park Andalusia Illinois.JPG by Roger Deschner, CC BY-SA 4.0
+- Chevrolet Silverado 3500 HD GMT911.jpg by Bull-Doser, Public domain
+- 03-05 Chevrolet Silverado 1500 Work Truck 4x4 regular cab.jpg by MercurySable99, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 6.2 V8 High Country (51769097941).jpg by Rutger van der Maar, CC BY 2.0
+- 2020 Chevrolet Silverado 1500 de 4 portes au SIAM 2020.jpg by Bull-Doser, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- Ram 1500 Hemi Laramie Crew Cab 2014 (12422927473).jpg by order_242 from Chile, CC BY-SA 2.0
+- First world problem - Flickr - Robert Couse-Baker.jpg by Robert Couse-Baker from Sacramento, California, CC BY 2.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ram 2500 SLT Heavy Duty Quad Cab 2012 (16861616546).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 2500 Laramie Heavy Duty Crew Cab 2013 (17699579192).jpg by order_242 from Chile, CC BY-SA 2.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford F-250 fire department truck (8036226282).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Small team gets BLM firetrucks to America’s wildfires (22845694861).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22808496086).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Maryland Natural Resources Police Chevy pickup at 2020 Graduation Ceremony.jpg by Maryland GovPics, CC BY 2.0
+- Leimershof US-Car-Treffen Chevrolet C-K Silverado-20220911-RM-154444.jpg by Ermell, CC BY-SA 4.0
+- HTS Systems Seafood Ford F350.jpg by MobiusDaXter, CC BY-SA 3.0
+- Attaching U-Haul trailer to GMC pickup truck East Haven VT October 2016.jpg by Artaxerxes, CC BY-SA 3.0
+- Ford F350 Piece of Cake Rahway NJ.jpg by MobiusDaXter, CC BY-SA 3.0
+- Small team gets BLM firetrucks to America’s wildfires (22845681791).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (5).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5L EcoBoost 4WD P552 Shadow Black (42).jpg by Damian B Oh, CC BY-SA 4.0
+- Dodge Power Wagon (51325633162).jpg by Eric Friedebach, CC BY 2.0
+- Frigid Ford - Ford F250 pickup truck - Flickr - dave 7.jpg by dave_7 from Canada, CC BY 2.0
+- 2017 chevrolet silverado 1500 wt regular standard obseve.jpg by Rjluna2, CC BY-SA 4.0
+- 2017 chevrolet silverado 1500 wt regular standard reverse.jpg by Rjluna2, CC BY-SA 4.0
+- 2019 Ram 3500 Heavy Duty Turbo Diesel with Cummins engine front NYIAS 2019.jpg by Kevauto, CC BY-SA 4.0
+- Ram 3500 SLT Heavy Duty Quad Cab Dual 2012 (10969261326).jpg by order_242 from Chile, CC BY-SA 2.0
+- 2000 Skoda Pickup LX 1.9 D (Front).jpg by PlasticBodyPanels, CC BY 4.0
+- 2000 Skoda Pickup LX 1.9 D (Rear).jpg by PlasticBodyPanels, CC BY 4.0
+- HELMET (FindID 841400).jpg by The Portable Antiquities Scheme, Dot Boughton, 2017-06-22 11:21:26, CC BY 2.0
+- Fragment of an iron burgonet helmet (FindID 841400).jpg by The Portable Antiquities Scheme, Dot Boughton, 2017-06-22 11:13:27, CC BY 2.0
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- U S Customs & Border Protection Officers find 5 4 Pounds of Heroin Concealed in the Transfer Case of a Pickup Truck (6812337865).jpg by CBP Photography, Public domain
+- Maui Police Department Child Safety Seat Inspection 6.JPG by 293.xx.xxx.xx, CC BY 3.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0

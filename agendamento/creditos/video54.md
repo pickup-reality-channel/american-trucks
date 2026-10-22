@@ -1,0 +1,160 @@
+# Photo credits: Why Truck Insurance Costs So Much in 2026 (And the $4,111 Surprise)
+
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- GMC Hummer EV Pickup Washington DC Metro Area, USA (2).jpg by OWS Photography, CC BY 4.0
+- 24 GMC Hummer EV 3X Omega Edition Pickup.jpg by HJUdall, CC0
+- 2022 GMC Hummer EV pickup front.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 GMC Hummer EV pickup rear.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2024 GMC Hummer EV Pickup 2X 4WD Sport Package in Meteorite Metallic, front left, 2024-03-31.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 GMC Hummer EV Pickup 2X 4WD Sport Package in Meteorite Metallic, rear left, 2024-03-31.jpg by Elise240SX, CC BY-SA 4.0
+- 24 GMC Hummer EV 2X Pickup.jpg by HJUdall, CC0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado 1500 Crew Cab Rona.jpg by Bull-Doser, Public domain
+- National Park Service employee works to fill pickup truck with debris.jpg by CapeHatterasNPS, Public domain
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- 200915-H-DO456-010.jpg by CBP Photography, Public domain
+- U.S. Route 60 Miami, TX-2 (24298458230).jpg by Mobilus In Mobili, CC BY-SA 2.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- GEICO 1976.jpg by Marion S. Trikosko, Public domain
+- 2005 Fubon Insurance forced car insurance credit.jpg by Solomon203, CC BY-SA 3.0
+- Don't look at me for cheap car insurance^ - geograph.org.uk - 1952056.jpg by Alasdair MacNeill, CC BY-SA 2.0
+- Figure 1- Average County Target Premium Rates for the Federal Crop Insurance Program by Groups of 20 Percent, 2013 (17055289015).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Figure 5 Counties with the Highest Rates of Opioid Prescriptions and DI Claims, 2017 (49358518697).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Mammoth Insurance Co P6160244.jpg by Chris Light, CC BY-SA 4.0
+- Sears Parts Repair Brooklyn.JPG by Niceckhart, CC BY-SA 3.0
+- - Flickr - dave 7 (7).jpg by dave_7 from Canada, CC BY 2.0
+- Arcouette Auto Center, Enfield CT.jpg by John Phelan, CC BY 4.0
+- FEMA - 44376 - truck windshield with hail damage in OK.jpg by Win Henderson, Public domain
+- Hailstone-smashed front windshield of a car from 4 July 2010 hailstorm (Limon, eastern Colorado, USA).jpg by James St. John, CC BY 2.0
+- Hailstone-smashed back window of a car from 4 July 2010 hailstorm (Limon, eastern Colorado, USA).jpg by James St. John, CC BY 2.0
+- Southwest corner - Washington Circle.JPG by AgnosticPreachersKid, CC BY-SA 3.0
+- Washington Circle tulips in 2023.jpg by Sdkb, CC BY-SA 4.0
+- Aerial view of Washington Circle, with Foggy Bottom station entrance in foreground (cropped).jpg by Jack Boucher, Public domain
+- BLMC 99X Mini 1000HL - BLMC Mini Pickup (23052111195).jpg by 先従隗始, CC0
+- BLMC 99X Mini 1000HL - BLMC Mini Pickup (23052111200).jpg by 先従隗始, CC0
+- 1936 Chevrolet Sedan Pickup - "Brutally Sexy" (49692198451).jpg by Mustang Joe, CC0
+- Two women in the back of a pickup truck on a rural road.jpg by Mattsjc, CC BY 4.0
+- Hughenden, capital of the Shire of Flinders, rural Queensland, Australia 11.jpg by Ridiculopathy, CC0
+- DZ6 2591 An abandoned white pickup bed overgrown with plants sits beside a quiet lamp-lit street at night.jpg by PattayaPatrol, CC BY-SA 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- Lifted White Ford F-250 on W Tropical Pkwy.jpg by Noah Wulf, CC BY-SA 3.0
+- 1953 Volkswagen Type 2 T1 Pickup (8370387849).jpg by Sicnag, CC BY 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Ferry Ship Marine Atlantic (39555100020).jpg by Michel Rathwell from Cornwall, Canada, CC BY 2.0
+- ISDRA camping (46323676942).jpg by blmcalifornia, Public domain
+- Carolyn Comeau On The Impact Of Health Insurance Reform (4444465706).jpg by Nancy Pelosi from San Francisco, CA, CC BY 2.0
+- FARMERS GOV - Huerta del Valle - Community Garden and Farm (20181113-FPAC-LSC-0463).jpg by USDAgov, Public domain
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- DSCF0916 Children and teenagers kick a red ball across a parking lot at dusk with parked cars and a lit fairride in the background.jpg by PattayaPatrol, CC BY-SA 4.0
+- '14-'15 GMC Sierra 1500 Crew Cab Kodiak GMTK2XX (Les chauds vendredis 2018).jpg by Bull-Doser, Public domain
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- 1940 Chevrolet pickup truck, "Frank's Garage", Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Michael Smith 93 Pickup Truck Donington Park 2024.jpg by BWard 1997, CC BY 4.0
+- Richard Ellingworth 36 Pickup Truck Rockingham.jpg by BWard 1997, CC BY 4.0
+- GMC Hummer EV - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- GMC Hummer EV - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 2022 GMC Hummer EV.jpg by UltraTech66, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- REE Automotive P7-C class 4 electric truck with Knapheide vocational body Work Truck Week 2024 facing right.jpg by MJofLakeland1, Public domain
+- Electric GM 6500XD truck.jpg by Foxcorner, CC BY-SA 4.0
+- The Modec battery-electric van.jpg by Peter Van den Bossche, CC BY-SA 2.0
+- Nissan Titan XD '16.jpg by Bull-Doser, Public domain
+- 19 Nissan Titan XD PRO-4X.jpg by HJUdall, CC0
+- Nissan Titan XD 2 (32707379235).jpg by Zytonits, CC BY-SA 2.0
+- Ford Ranger Raptor (P703) 1X7A6776.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6774.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor IAA 2019 JM 0492.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Honda Ridgeline P4220684.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 Honda Ridgeline RTL-E Offroad.jpg by Jennie Logan, CC BY-SA 4.0
+- 23 Honda Ridgeline RTL-E.jpg by HJUdall, CC0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 2016 Ram 3500 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Ram 3500 Laramie.jpg by Calreyn88, CC BY 4.0
+- Ram 3500 pickup truck Eastern Avenue downtown Saint Johnsbury VT September 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Luxury Cars towed by Ram Crew Cab at SB I-95 Rest Area.jpg by DanTD, CC BY 4.0
+- EB I-4 Seminole Co Rest Area; Truck Parking-3.jpg by DanTD, CC BY-SA 4.0
+- White 2012 Ram 2500 on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Black Ram 2500 in Las Vegas Neighborhood.jpg by Noah Wulf, CC BY-SA 4.0
+- Bureau of Land Management Ram 2500.jpg by Noah Wulf, CC BY-SA 4.0
+- 1948 Chevrolet 3100 pickup truck.jpg by Guywelch2000, CC BY 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2021 Macungie show 6of6.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1946 Hudson Super Six Big Boy pickup truck at 2015 Macungie show 2of4.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1954 GMC 100 pickup truck, red, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1970 Chevrolet pickup truck, red, rear, Golden Super Cruise 2026-08-01.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1965 Ford F-250 pickup truck, red & grey, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1988 Jeep Comanche pickup in black at 2024 AMO show 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1988 Jeep Comanche pickup in black at 2024 AMO show 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1952 Ford F-1 Five Star Cab Pickup (28517814912).jpg by Sicnag, CC BY 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Sandakan Sabah Road-works-at-Jalan-Labuk-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 4.0
+- Isuzu 750 High Lift 2 HL3 DON 007 Big Brook 100 Year Old Forest Donnelly SF I-2017.jpg by Aussie Oc at English Wikipedia (Laurenç MARSOL), CC BY-SA 4.0
+- Work crew in a truck prepare to move out to job site - NARA - 283831.jpg by Unknown authorUnknown author or not provided, Public domain
+- Doosan DX 225 LC excavator loading dirt at job site in Campbell.jpg by Grendelkhan, CC BY-SA 4.0
+- Caterpillar 325 FL excavator on a job site.jpg by Grendelkhan, CC BY-SA 4.0
+- Stripped VW T2 Camper @ 2018 DC Bug Jam.jpg by DanTD, CC BY 4.0
+- Entry from Morningside Drive in Dade City, FL-07.jpg by DanTD, CC BY 4.0
+- Entry from Morningside Drive in Dade City, FL-08.jpg by DanTD, CC BY 4.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Small team gets BLM firetrucks to America’s wildfires (22213384953).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Bristow Firestone Service Station OK front 2026-09-15 14-02-47.jpg by G. Edward Johnson, CC BY 4.0
+- Bristow Firestone Service Station OK garage bays 2026-09-15 13-02-22.jpg by G. Edward Johnson, CC BY 4.0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Discount-bank-ayalon-bituach-june-2016.jpg by Rakoon, CC0
+- Daniel suarez (52261695520).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Austin cindric (52781062008).jpg by Zach Catanzareti Photo, CC BY 2.0
+- 1AT logo.jpg by Wajid5545, CC BY-SA 4.0
+- Samsung Galaxy Note 10 (Wiki).jpg by 嘉傑, CC BY-SA 4.0
+- Wat Phra Kaew by Ninara TSP edit crop.jpg by Original image: Ninara from Helsinki, Finland.  Edit: TSP, CC BY 4.0
+- Beleximgarant insurance policy 2019.jpg by Rakoon, CC0
+- Fire insurance receipt, 1912-1913, for the Harlington, Harmondsworth and Cranford Cottage Hospital, issued by the Sun Insurance Office, London.jpg by Sun Insurance Office
+
+(Life time: c. 1912), Public domain
+- Insurance policy envelope of Mingtai Insurance 20240509.jpg by Solomon203, CC BY-SA 4.0
+- HK Kln City 九龍城 evening Shek Ku Lung Road Sha Po Road near 太子道東 Prince Edward Road East December 2020 SSG 08.jpg by Dua Grecviem, CC BY-SA 4.0
+- Nevinshall.JPG by Jadvii, CC BY-SA 3.0
+- 2005-06-07 Storm drain overflow in Durham.jpg by Ildar Sagdejev (Specious), CC BY-SA 3.0
+- MBTA F40PH-3C 1036 in black at Readville December 2025.jpg by 4300streetcar, CC BY 4.0
+- O'Reilly Auto Parts, Crawfordville, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Hampshire Countryside Service Pickup.jpg by Tim Sheerman-Chase, CC BY 2.0
+- Colorful (214249751).jpeg by Robin Férand, CC BY 3.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Mark Willis 65 Pickup Truck Racing - 2025 American Speedfest.jpg by BWard 1997, CC BY 4.0
+- Mark Willis 65 Michael Smith 93 Pickup Truck Qualifying - 2025 American Speedfest.jpg by BWard 1997, CC BY 4.0
+- Mark Willis 65 Pickup Truck Racing - 2025 American Speedfest (1).jpg by BWard 1997, CC BY 4.0
+- Old Metairie Library pickup truck, Louisiana May 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Cheveep - Old pickup truck on Oak Street, New Orleans, 1 May 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Old pickup truck at Moose Creek Lodge, Yukon (10752690686).jpg by Anthony DeLorenzo from Whitehorse, Yukon, Canada, CC BY 2.0
+- 88c161 Pickup truck driving onto Augusta Ferry (28129733993).jpg by William Alden from Louisville, Kentucky, USA, CC BY-SA 2.0
+- Hino 500 Ranger Lineman and Repair Truck 2017 (3).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Flickr - Hugo90 - International.jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- March of Dimes 241 (5672873043).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- March of Dimes 240 (5673440044).jpg by SupportPDX from Portland, Oregon, USA, CC BY-SA 2.0
+- 誰允許國家販賣全民健保資料民間社團聯合記者會.jpg by Mingwangx, CC BY-SA 3.0
+- Renewal Certificate, Old American Insurance Company for Harry S. Truman - DPLA - 8536c4da4e67913a31f1f316b3a0b852.jpg by Truman, Margaret (Mary Margaret), 1924-2008; Truman, Bess Wallace, 1885-1982, Public domain
+- Royal Insurance Company Menu 4.jpeg by Royal Insurance Company, Public domain
+- Royal Insurance Company Menu 2.jpeg by Royal Insurance Company, Public domain
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- Chevrolet Pickup Truck Mod Kulmbach 2018 P6170255.jpg by Ermell, CC BY-SA 4.0

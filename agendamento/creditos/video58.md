@@ -1,0 +1,173 @@
+# Photo credits: Diesel vs Gas vs Hybrid Truck in 2026: The $6.51 Diesel Shock Changed the Math
+
+- A gas pump at a Thorntons.jpg by Goose Green Photography, CC BY 4.0
+- Race Trac gas pump Louisiana 14 May 2025.jpg by Infrogmation, CC BY-SA 4.0
+- Diesel Gas Pump (54474872295).jpg by Tony Webster, CC BY 2.0
+- Boat gas pump, Holiday Harbor marina, Shasta Lake, 2011.jpg by DimiTalen, CC0
+- Dead Gas Station Jeff Hwy Louisiana Pump Counter.jpg by Bart Everson, CC BY 2.0
+- Diesel pump at Vallée-Jonction rail yard.jpg by Wolfy13399, CC BY-SA 4.0
+- Diesel pump 20160819.jpg by Santeri Viinamäki, CC BY-SA 4.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Dodge Ram 2500 & Ford F150 (13386152213).jpg by order_242 from Chile, CC BY-SA 2.0
+- Small team gets BLM firetrucks to America’s wildfires (22646506960).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22845681791).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22213390103).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22442375199).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22646540230).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Small team gets BLM firetrucks to America’s wildfires (22646499420).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Old-timey gas station in La Riviere, Manitoba. (40655843463).jpg by Rob Swystun from Winnipeg, Canada, CC BY 2.0
+- Clyattville Gas Station.JPG by Michael Rivera, CC BY-SA 3.0
+- Line at a gas station, June 15, 1979.jpg by Warren K. Leffler, Public domain
+- Peach Mart Store and Gas Station.JPG by Michael Rivera, CC BY-SA 3.0
+- Fuel Prices @ Canoe Creek Service Plaza; 1 Mile.jpg by DanTD, CC BY 4.0
+- Sign-1190478, Glenflesk, Co. Kerry, Ireland.jpg by Mucklagh, CC BY-SA 4.0
+- SB FLTPK; Fort Drum Service Plaza; Gas Prices One Mile.jpg by DanTD, CC BY 4.0
+- Love's Truck Stop Gas Prices - Diesel and Unleaded (55563129954).jpg by Tony Webster, CC BY-SA 4.0
+- 1960 Volvo diesel truck, pict1.JPG by Alf van Beem, CC0
+- 1964 Volvo 4851 turbo diesel truck.JPG by Alf van Beem, CC0
+- Flickr - DVIDSHUB - USS Porter damaged in collision with oil tanker (Image 2 of 3).jpg by DVIDSHUB, CC BY 2.0
+- Flickr - DVIDSHUB - USS Porter damaged in collision with oil tanker (Image 1 of 3).jpg by DVIDSHUB, CC BY 2.0
+- 120812-N-XO436-114 USS Porter after collision.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Jonathan Sunderman, Public domain
+- 06 Gas prices in Europe 2012 - OMV gas station prices in Austria - Benzinpreise.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
+- Gas Prices Sign - Yes Way Gas Station - Fort Pierre - South Dakota.jpg by Tony Webster, CC BY 2.0
+- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
+- Figure 1- Monthly West Texas Intermediate and Brent Crude Oil Prices, 2009-May 2015 (19779909169).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Fuel prices - geograph.org.uk - 7182853.jpg by Bob Harvey, CC BY-SA 2.0
+- SPBU Pertamina 2022.jpg by Henri Aja, CC BY-SA 4.0
+- Pump at RaceTrac, Bradford County, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- Funny Car AAA.JPG by GSenkow, CC BY-SA 3.0
+- AAA NASCAR Pit Stop Challenge.jpg by TaurusEmerald, CC BY-SA 4.0
+- AAA mini car (3689061138).jpg by Shaun C. Williams from USA, CC BY 2.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Saliwangan Sabah Diesel-lokomotive-6105-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- USS Cavalla - diesel engine 1.jpg by Eric Polk, CC BY-SA 4.0
+- USS Cavalla - diesel engine 2.jpg by Eric Polk, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra (GMTK2XX) DSC 8581.jpg by Alexander Migl, CC BY-SA 4.0
+- GMC Sierra Denali GMTT1XX Atomsphere Brownstone (3).jpg by Damian B Oh, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- New Jersey Turnpike Chevy Pickup @ Clara Barton.jpg by DanTD, CC BY-SA 4.0
+- Diesel fuel tank trucks to Petron1.jpg by unknown, CC BY-SA 4.0
+- Peterbilt Diesel Fuel Tank.jpg by Theodoros0, CC BY-SA 4.0
+- Benoa Bali Indonesia-Petamina-tank-truck-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 10.jpg by Coyau, CC BY-SA 3.0
+- Vehicle urea filling station.jpg by Fumikas Sagisavas, CC0
+- Urea filling point for vehicles.jpg by Fumikas Sagisavas, CC0
+- Diesel Exhaust Fluid & Ethanol Free Pumps @ Buc-ees DB.jpg by DanTD, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Chevrolet Tow Truck (1468489148).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Mini Tow truck (21020062396).jpg by Zytonits, CC BY-SA 2.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Dodge Ram 3500.JPG by Bull-Doser, Public domain
+- Bois d'Arc Bash 2016 43 (parade).jpg by Michael Barera, CC BY-SA 4.0
+- Renntransporter Pickup Auflieger.JPG by KarleHorn, CC BY 3.0
+- Fifth wheel IHC truck MD2.jpg by Acroterion, CC BY-SA 4.0
+- Starcraft RV - GSL Fifth Wheel.jpg by Anshamblen15, CC BY-SA 4.0
+- NB I-75 Rest Area, Marion Co, FLA; Volvos, Freightliners, Fords and other trucks.jpg by DanTD, CC BY-SA 4.0
+- I-95 NB Colleton Co, SC Rest Area; South Picnic Shelter.jpg by DanTD, CC BY-SA 4.0
+- Florida Fish and Wildlife Conservation Commission Ford F-150 towing 4WD vehicle.jpg by Florida Fish and Wildlife Conservation Commission, Public domain
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Former Crystal Ford dealership demolition, Kingston upon Hull, Oct23 09.jpg by Hullian111, CC BY-SA 4.0
+- 2005 Dodge Magnum RT (19026310711).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Triumph TR4 A (8654817332).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Euro Changeover Board of Ireland calculator 3.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 1.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 2.jpg by ZICO, CC BY-SA 4.0
+- 1915 Ford Pickup (8068518917).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1982 Dodge Rampage pickup at 2019 AACA Hershey meet 8of7.jpg by Mr.choppers, CC BY-SA 3.0
+- 1993 Dodge Ram W250 Club Cab 4x4 Cummins td.jpg by Mr.choppers, CC BY-SA 3.0
+- Diesel Locomotive "Clyde" Under Repair.jpg by Lankyrider, CC BY-SA 4.0
+- Diesel Locomotive "Nith" Under Repair.jpg by Lankyrider, CC BY-SA 4.0
+- Scania DI13 072M marine engine 2.jpg by Antti Leppänen, CC BY 4.0
+- Mechanic shop 05.jpg by Amuzujoe, CC BY-SA 4.0
+- Mechanic shop 03.jpg by Amuzujoe, CC BY-SA 4.0
+- Mechanic shop 01.jpg by Amuzujoe, CC BY-SA 4.0
+- Diesel exhaust of truck Krupp AK 380.jpg by Spielvogel, CC BY-SA 4.0
+- 1985 Chevrolet Blazer K5 6.2 diesel (14428210890).jpg by Charlie from United Kingdom, CC BY 2.0
+- D13B EGR.jpg by Panoha, CC BY-SA 3.0
+- Camry Hybrid 2012 07 VA 4071 low battery indicator.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0
+- FUGA HYBRID Battery (4099957199).jpg by TTTNIS, CC BY 2.0
+- CSIRO ScienceImage 11473 CSIRO engineers refitting a plugin hybrid electric trial car with a larger battery pack and battery charger which can plug into a standard household power point or a special charging point.jpg by division, CSIRO, CC BY 3.0
+- 2018 Ford F-350 Super Duty Lariat Powerstroke turbo diesel 6.7L V8 rear, Hagerty 6.1.19.jpg by Kevauto, CC BY-SA 4.0
+- 2000 Ford F-350 Super Duty Crew Cab 7.3L Powerstroke Diesel V8 with trailer attached, Hagerty 6.1.19.jpg by Kevauto, CC BY-SA 4.0
+- 2000 Ford F-350 Super Duty Crew Cab 7.3L Powerstroke Diesel V8 with trailer attached, Hagerty rear 6.1.19.jpg by Kevauto, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Traffic, Accra (P1090903).jpg by Matti Blume, CC BY-SA 4.0
+- Highway 401-Highway 402 interchange.jpg by Ryan Stubbs (Haljackey), CC BY-SA 3.0
+- NHP Dodge Charger Traffic Stop on LV Freeway.jpg by Noah Wulf, CC BY-SA 3.0
+- Ford Ranger 4x4 Raptor 3.0 Power Stroke Diesel V6 2024 (2).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Ford Ranger 4x4 Raptor 3.0 Power Stroke Diesel V6 2024 (1).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Ford Ranger 4x4 Raptor 3.0 Power Stroke Diesel V6 2024 (8).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Red Truck In The Snow (245604409).jpeg by Daniel Ross, CC0
+- Pickup plowing snow in Jyväskylä.JPG by Antti Leppänen, CC BY-SA 3.0
+- Snow Gauge Truck (8318328485).jpg by Oregon Department of Transportation, CC BY 2.0
+- Petrol station in Bénin.jpg by Ferdinand Reus, CC BY-SA 2.0
+- HP Petrol Bunk 31102016.jpg by Nikhilb239, CC BY-SA 4.0
+- Indian Oil Petrol Bunk 06122016.jpg by Nikhil B, CC BY 3.0
+- Truck on Highway Bridge.jpg by Destroducks, CC BY-SA 4.0
+- CSIRO ScienceImage 3497 Truck on highway rural NSW.jpg by Carl Davies, CSIRO, CC BY 3.0
+- Fire truck vs semi (8098039321).jpg by Rob Swystun from Winnipeg, Canada, CC BY 2.0
+- Mercedes-Benz Axor with semi-trailer and three heavy equipment vehicles.jpg by Cjp24, CC BY-SA 4.0
+- Talbert Lowboy Trailer (2).jpg by Joedamadman, CC BY-SA 3.0
+- Talbert Lowboy Trailer (3).jpg by Joedamadman, CC BY-SA 3.0
+- Old Metairie Library pickup truck, Louisiana May 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Cheveep - Old pickup truck on Oak Street, New Orleans, 1 May 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Old pickup truck at Moose Creek Lodge, Yukon (10752690686).jpg by Anthony DeLorenzo from Whitehorse, Yukon, Canada, CC BY 2.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 07of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- GMC pickup, beige (2).jpg by Cjp24, CC BY-SA 4.0
+- Bakkie Transport, Alternative Mobility Ritual.jpg by LondekaT, CC BY-SA 4.0
+- Commuting in Cordova - panoramio.jpg by Sam Beebe/Ecotrust, CC BY-SA 3.0
+- Sacramento Valley-causeway crime spree.jpg by . ., CC BY 2.0
+- St Bernard Highway, Arabi, Louisiana, 2 Nov 2021 - 05.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- Isuzu D-Max + tent trailer, Bunda Cliffs, 2017 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- NB US 1-23-301 Weigh Station; All Trucks, Trailers Pickups and Vans Exit.jpg by DanTD, CC BY-SA 4.0
+- Ford F-450 Super Duty Towing P558.jpg by Bull-Doser, Public domain
+- Ford F-550 Super Duty Towing (Orange Julep).jpg by Bull-Doser, Public domain
+- Ford F-450 Super Duty P558 Towing.jpg by Bull-Doser, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Anacortes Refinery 31911.JPG by Walter Siegmund (talk), CC BY 2.5
+- Blue hour fog over Preemraff oil refinery by Brofjorden.jpg by W.carter, CC BY-SA 4.0
+- Altona Oil Refinery Victoria.jpg by Sgroey, CC BY-SA 4.0
+- NISA PK 5 - Rechenmachine - Alte Mühle Proschim.jpg by ubahnverleih, CC0
+- Rheinmetall D IIc - Rechenmachine - Alte Mühle Proschim.jpg by ubahnverleih, CC0
+- AUS vs ARG Girls' lightweight Bronze Medal Bout 2018 YOG (269).JPG by BugWarp, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton AXCR.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (front).jpg by Ethan Llamas, CC BY-SA 4.0
+- Checklist (14750126694).jpg by Spotting973, CC BY-SA 2.0
+- Earthquake Survival Kit - Checklist (2851285426).jpg by David Pursehouse from Kawasaki, Japan, CC BY 2.0
+- 230316-F-ZB805-0158 - Weasels operate at night during RF-N 23-2.jpg by Staff Sgt. Madeline Herzog, Public domain
+- Mazda B2200 UF 4x2 Sunset Wine.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2018 Honda Ridgeline RTL-T at Sunset.jpg by Matthew Clark, CC BY-SA 4.0
+- Parking at Split Rock (6fd8fdb3-fbac-47ee-8434-1d66eda7e145).jpg by NPS Photo, Public domain

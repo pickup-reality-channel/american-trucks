@@ -1,0 +1,155 @@
+# Photo credits: Lease vs Buy a Truck in 2027: The $10,000 Tax Twist Most Buyers Miss
+
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Laramie GM Auto Center - Chevrolet Buick GMC Car Dealership in Laramie Wyoming.jpg by Tony Webster, CC BY 2.0
+- Hobson Chevrolet Buick Dealership, Cairo.JPG by Michael Rivera, CC BY-SA 3.0
+- Toyota HiLux GR Sport 1X7A7281.jpg by Alexander-93, CC BY-SA 4.0
+- Car dealership in Rockville Maryland shop 1.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights, but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain
+- Briarwood Ford Dealership at Night, Pittsfield Township (Saline), Michigan - panoramio.jpg by Dwight Burdette, CC BY 3.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet 1500 Silverado 4.3 1999 (16584371311).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado 1500 Crew Cab Rona.jpg by Bull-Doser, Public domain
+- National Park Service employee works to fill pickup truck with debris.jpg by CapeHatterasNPS, Public domain
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- 200915-H-DO456-010.jpg by CBP Photography, Public domain
+- U.S. Route 60 Miami, TX-2 (24298458230).jpg by Mobilus In Mobili, CC BY-SA 2.0
+- 23 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- 15 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- Maryland Natural Resources Police Chevy pickup at 2020 Graduation Ceremony.jpg by Maryland GovPics, CC BY 2.0
+- NSSL researchers prep for deployment in the NWC truck bay 07.jpg by NOAA NSSL, CC0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Art Deco Car Workshop. Haynes Ford, Maidstone.jpg by John K Thorne, CC BY 4.0
+- Art Deco Haynes Ford Maidstone. (51997457898).jpg by John K  Thorne from Universal , Universal, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Ford Explorer EV IAA 2023 1X7A0593.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Explorer EV IAA 2023 1X7A0592.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Explorer PHEV 1X7A6478.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevy Pickup 1956.jpg by Palauenc05, CC BY-SA 4.0
+- Abandoned pickup at Kelvin A. Lewis farm in Creeds 3.jpg by PumpkinSky, CC BY-SA 3.0
+- Fargo pickup.jpg by Sylvainbrousseau, CC BY-SA 3.0
+- Creepy Key West, Florida (7820037824).jpg by Richard Elzey from Spring Hill, Florida, USA, CC BY 2.0
+- ANP trucks in Kunar.jpg by Sgt. 1st Class Lawree Washingtonn (U.S. Armed Forces), Public domain
+- TCFD Yanping Branch BFY-6930 and 48-3A arriving Dadaocheng Wharf 20230422.jpg by 玄史生, CC0
+- Walt's Live Oak Chrysler Dodge Jeep Ram.jpg by The Bushranger, CC BY-SA 4.0
+- Action GM of Bainbridge.jpg by The Bushranger, CC BY-SA 4.0
+- Tifton Harley-Davidson (south face).JPG by Michael Rivera, CC BY-SA 3.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Liberty Bonds - Advertising Methods - LIBERTY LOAN CAMPAIGN; BOY scouts in car looking for loan. June 4, 1917, New York City - NARA - 45491008.jpg by Unknown authorUnknown author or not provided, Public domain
+- KG Pawn and Car Loan, Whalley, Surrey (8254833336).jpg by Reg Natarajan from Vancouver, Bogotá, CC BY 2.0
+- LIBERTY LOANS. SALES CAR LOC hec.10782.jpg by Harris & Ewing Collection, Public domain
+- Облигация на сумму 50 рублей Государственный заем третьей пятилетки back.jpg by USSR government (issuer); designer and engraver not identified in the museum catalogue. Digital reproduction: Museum of the National Bank of the Republic of Belarus., Public domain
+- Облигация на сумму 50 рублей Государственный заем третьей пятилетки (выпуск второго года) 1939 back.jpg by USSR government (issuer); designer and engraver not identified in the museum catalogue. Digital reproduction: Museum of the National Bank of the Republic of Belarus., Public domain
+- Облигация на сумму 50 рублей Государственный выигрышный заем back.jpg by USSR government (issuer); designer and engraver not identified in the museum catalogue. Digital reproduction: Museum of the National Bank of the Republic of Belarus., Public domain
+- MIAS 2024 - Toyota Land Cruiser J70 pickup camper by Overland Kings.jpg by Ethan Llamas, CC BY-SA 4.0
+- 1985 Nissan Sunny Pickup (8753735550).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- PChome Express KPC-0817 at Hall C, World Trade Center 20220401.jpg by Solomon203, CC BY-SA 4.0
+- Old Metairie Library pickup truck, Louisiana May 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Cheveep - Old pickup truck on Oak Street, New Orleans, 1 May 2024.jpg by Infrogmation, CC BY-SA 4.0
+- Old pickup truck at Moose Creek Lodge, Yukon (10752690686).jpg by Anthony DeLorenzo from Whitehorse, Yukon, Canada, CC BY 2.0
+- Ashland Farm old 02.jpg by WayneRay, CC BY-SA 4.0
+- Rusty vintage Bedford pickup truck.jpg by Lkabs, CC0
+- Old Vintage Bedford Truck.jpg by Lkabs, CC0
+- MT-LB, Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck on the Highway of Death.JPEG by Unknown, United States Marine Corps, Public domain
+- A pickup truck with a canoe and trailer exits a closed area of Highway 169 in Ely, Minnesota on July 14, 2026.jpg by Lorie Shaull, CC BY 4.0
+- Mitsubishi pickup truck, T-62 tank and a Mercedes-Benz tank truck.JPEG by Unknown, United States Marine Corps, Public domain
+- Us-treasury-building.jpg by MeanieHyaena, CC BY 4.0
+- U.S. Treasury Building from behind the fence.jpg by Frypie, CC BY-SA 4.0
+- U.S. Treasury Building and Albert Gallatin Statue.jpg by Sealy j, CC BY-SA 4.0
+- 1921 Ford Model T T3 Pickup (28557064535).jpg by Sicnag, CC BY 2.0
+- 1925 Model T T4 Truck (29413138091).jpg by Sicnag, CC BY 2.0
+- 1974 Jeep J10 pickup truck all-original finished in green at 2017 AMO meet 03of12.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Orange Idiot Release Your Tax Forms (33930659382).jpg by PunkToad from oakland, us, CC BY 2.0
+- Gillie "helping" with the tax forms (4316094077).jpg by Dwight Sipler from Stow, MA, USA, CC BY 2.0
+- Crypto Tax - Bitcoin Medallions and Word "Tax".jpg by edwinchuen, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- ROC-NCL and 12 libraries interlibrary loan contract 19691230.jpg by Solomon203, CC BY-SA 3.0
+- ROC-NCL TPTPL TPTCL TPL interlibrary loan contract 19681207.jpg by Solomon203, CC BY-SA 3.0
+- Bangladesh Ministry of Information and Broadcasting meeting on cinema hall loan disbursement 2023-12-27 (PID-0011704).jpg by Press Information Department, Public domain
+- Euro Changeover Board of Ireland calculator 3.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 1.jpg by ZICO, CC BY-SA 4.0
+- Euro Changeover Board of Ireland calculator 2.jpg by ZICO, CC BY-SA 4.0
+- New Jersey Turnpike Southern Toll Plaza.jpg by DanTD, CC BY-SA 4.0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Little Big Trailer towed by Ram Pickup @ WPB Service Plaza.jpg by DanTD, CC BY 4.0
+- Moses and Murfy on a road trip (15294869378).jpg by tracydonald, CC BY 2.0
+- Geigertown Central Railroad - 54717798992.jpg by George Neat, CC BY-SA 4.0
+- Geigertown Central Railroad Museum - 54748543423.jpg by George Neat, CC BY-SA 4.0
+- Chevrolet Pickup Truck Mod Kulmbach 2018 P6170255.jpg by Ermell, CC BY-SA 4.0
+- Two women in the back of a pickup truck on a rural road.jpg by Mattsjc, CC BY 4.0
+- 1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg by Artaxerxes, CC BY-SA 4.0
+- Ram 2500 (lifted pickup truck).jpg by Oleg Yunakov, CC BY-SA 4.0
+- Lifted White Ford F-250 on W Tropical Pkwy.jpg by Noah Wulf, CC BY-SA 3.0
+- 1953 Volkswagen Type 2 T1 Pickup (8370387849).jpg by Sicnag, CC BY 2.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- DSC 9049 A pickup truck parked on a busy brightly lit city street at night with HVAC and gas cylinders tools and hoses loaded in its open bed neon shop signs and traffic visible in the background.jpg by PattayaPatrol, CC BY-SA 4.0
+- Tools of the Trade (fa8f8d86-92d4-4af2-b146-65fb8ec6e27c).JPG by NPS, Public domain
+- Lloyd Fuller Diary, October 10, 8, 1942 (14957752581).jpg by USMC Archives from Quantico, USA, CC BY 2.0
+- 1966 Ford F-Series @ Kenly 95.jpg by DanTD, CC BY-SA 4.0
+- Seattle Automobile Company Building - 1101 E Pike Street.jpg by Publichall, CC BY-SA 4.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Chevrolet pick-up 1941a.jpg by Finoskov, CC BY-SA 4.0
+- Chevrolet AK Series BW 2017-07-16 14-15-57.jpg by Berthold Werner, CC BY-SA 4.0
+- Chevrolet AK Series truck (53059855135).jpg by Joost J. Bakker  IJmuiden from The Netherlands, CC BY 2.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Orchestral score - geograph.org.uk - 8073300.jpg by Anthony O'Neil, CC BY-SA 2.0
+- Ryan Valentine scores.jpg by Markbarnes, CC BY 2.5
+- Seals at North Score Holm - geograph.org.uk - 5838216.jpg by Andy Waddington, CC BY-SA 2.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 1of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 4of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- 1948 Nash Haul Thrift dealership tow truck at Rambler Ranch 3of4.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
+- Phil White 63 Pickup Truck Rockingham 2004.jpg by BWard 1997, CC BY 4.0
+- In this photo taken on March 31, 2017, Kristin Poland and David Pereira examining the pickup truck involved in the Concan, TX crash (34410691006).jpg by NTSBgov, Public domain
+- 10-50 Car vs. Fire Truck.jpg by Daniel Fleming, CC BY-SA 2.0
+- Chunghwa Telecom AXG-1835, CWT51 20190216.jpg by 玄史生, CC0
+- Chunghwa Telecom BBF-2690 20210327a.jpg by 玄史生, CC0
+- Chunghwa Telecom BBF-2690 head 20230812.jpg by 玄史生, CC0
+- 1986 Jeep J20 pickup truck in Garnet Metallic at 2025 meet 11of11.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1986 Jeep J20 pickup truck in Garnet Metallic at 2025 meet 07of11.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1986 Jeep J20 pickup truck in Garnet Metallic at 2025 meet 01of11.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Suction Truck on Oak Street New Orleans 4Feb 2019.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- 1955 Ford F-100 Custom Cab Pickup (30405236540).jpg by Sicnag, CC BY 2.0
+- 1953 Ford F-100 Deluxe Cab Pickup (28865516362).jpg by Sicnag, CC BY 2.0
+- Customized 1950s Chevrolet Pickup Truck Lyndonville VT August 2017.jpg by Artaxerxes, CC BY-SA 4.0
+- A pickup truck relocating some furniture.jpg by Sani Nuhu, CC BY-SA 4.0
+- Pickup truck in Decatur, Texas.jpg by Mliu92, CC BY-SA 4.0
+- Chunghwa Telecom BBF-2690 20200808c.jpg by 玄史生, CC0
+- Chunghwa Telecom BBF-2690 20200201.jpg by 玄史生, CC0
+- Chunghwa Telecom BBF-2690 20200808a.jpg by 玄史生, CC0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, rear right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, front right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
+- DSCF0901 A busy outdoor market scene as vendors sell mangosteens piled in the back of a pickup truck while customers inspect and pick fruit.jpg by PattayaPatrol, CC BY-SA 4.0
+- Toyota Hilux Lineman Repair Truck 2016.jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Hino 500 Ranger Lineman and Repair Truck 2017 (3).jpg by Captainmorlypogi1959, CC BY-SA 4.0
+- Sears Parts Repair Brooklyn.JPG by Niceckhart, CC BY-SA 3.0
+- Joint Expeditionary Base takes the Military Saves Pledge 150127-N-IN807-016.jpg by Petty Officer 2nd Class Jared Aldape, Public domain
+- Donald Trump at Aston, PA September 32th.jpg by Michael Vadon, CC BY-SA 4.0
+- Donald Trump at Aston, PA September 19th.jpg by Michael Vadon, CC BY-SA 4.0
+- WeBuyCars Signage in Milnerton, Cape Town.jpg by Husskeyy, CC BY-SA 4.0
+- Do you get Co-op points for buying a car^ - geograph.org.uk - 2500499.jpg by Peter Barr, CC BY-SA 2.0
+- 2024 Zip Buy Now, Pay Later 250 Toyota Supra Pace Car.jpg by TaurusEmerald, CC BY-SA 4.0
+- MBTA BTC-1A coach lease sign March 2025.jpg by 4300streetcar, CC BY 4.0
+- Hotai Leasing and Carplus Auto Leasing information desks 20190309.jpg by Solomon203, CC BY-SA 4.0
+- Carplus Auto Leasing and Hotai Leasing information desks 20210425.jpg by Solomon203, CC BY-SA 4.0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- KGM Musso Q300 Smoke Taupe (2).jpg by Damian B Oh, CC BY-SA 4.0
+- KGM Musso Q300 Smoke Taupe (1).jpg by Damian B Oh, CC BY-SA 4.0

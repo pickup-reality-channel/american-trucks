@@ -1,0 +1,72 @@
+# Photo credits: 2027 Ford Maverick: Price Cuts, No More Turbo on Cheap Trims (What Changed)
+
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0
+- 22 Ford Maverick Lariat.jpg by HJUdall, CC0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Ford Maverick Lariat FWD Ecoboost.jpg by Zoz0716, CC BY-SA 4.0
+- 2022 Ford Maverick Lariat Pick-Up (52805113038).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2022 Ford Maverick Lariat Pick-Up (52805918565).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1969.5 Ford Maverick (5923994991).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2025 Ford Maverick Lobo au salon auto Lanaudière 2025.jpg by Bull-Doser, Public domain
+- 2025 Ford Maverick Lobo, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick Lobo, front NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 2025 Ford Maverick au salon international de l'auto de Montréal 2025.jpg by Bull-Doser, Public domain
+- MBTA F40PH-3C 1036 in black at Readville December 2025.jpg by 4300streetcar, CC BY 4.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4533049970).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Tremor 2026.jpg by RL GNZLZ, CC BY-SA 4.0
+- 2025 Ford Maverick Tremor au SIAM 2025.jpg by Bull-Doser, Public domain
+- 24 Ford Maverick XLT Tremor.jpg by HJUdall, CC0
+- Ford Maverick (42123387295).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0
+- Ford Maverick four door sedan (12394773303).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick Coupe (Orange Julep '10).jpg by Bull-Doser, Public domain
+- 2022 Ford Maverick XLT AWD, Rear Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Ford Maverick XLT with FX4 Off-Road Package in Area 51, Front Right, 01-16-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Grabber (2482172338).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick (2910385658).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (2908081245).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (538872007).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick (pickup truck) IMG 6586.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick (pickup truck) IMG 6586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- O'Reilly Auto Parts, Crawfordville, Florida.jpg by The Bushranger, CC BY-SA 4.0
+- 1994 Ford Maverick GLX LWB.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ford Maverick interior.jpg by deathpallie325, CC BY-SA 4.0
+- Ford Maverick (53247917054).jpg by Jason Lawrence from New York, CC BY 2.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- Ford Maverick four door sedan (12394777633).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1970 Ford Maverick, Herby's Ford, Alexandria.jpg by Marion S. Trikosko, Public domain
+- 2022 Ford Maverick XLT with FX4 Off-Road Package in Area 51, Rear Right, 01-16-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 2025 Ford Maverick au SIAM 2025.jpg by Bull-Doser, Public domain
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- 2022 Ford Maverick XL in Shadow Black, Front Left, 06-26-2022.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick (2910381672).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick owed by the City of St. Catharines.jpg by Gogerr, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Ford maverick.jpg by Mizalrodriguezmendez, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Eucidaris tribuloides (Slate-pencil Urchin).jpg by Nhobgood (talk) Nick Hobgood, CC BY-SA 3.0
+- Slate Run-Slate Run Creek through a mixed Fall Forest 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- 25 Ford Maverick XLT.jpg by HJUdall, CC0
+- 2025 Ford Maverick XLT, front 4.15.25.jpg by Kevauto, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0

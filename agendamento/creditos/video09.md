@@ -1,0 +1,95 @@
+# Photo credits: 7 Cheapest New Trucks You Can Buy in 2027 (Which One Is Worth It)
+
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, Front Right, 10-10-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 Ford Maverick.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Maverick (pickup truck) IMG 6586.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick (pickup truck) IMG 6586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick at Rogers Place 2022.jpg by Rowanswiki, CC0
+- 2022 Ford Maverick XLT AWD with FX4 Off-Road Package.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
+- 2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg by Corqe, CC0
+- Ford Ranger (T6, P703) Wildtrak IMG 7320.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger (T6, P703) Wildtrak IMG 7323.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6776.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) 1X7A6774.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Ranger Raptor - 20231003-P1003802.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Eucidaris tribuloides (Slate-pencil Urchin).jpg by Nhobgood (talk) Nick Hobgood, CC BY-SA 3.0
+- Slate Run-Slate Run Creek through a mixed Fall Forest 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- Slate Macro 1.JPG by “Jon Zander (Digon3)”, CC BY-SA 3.0
+- Slate Run - Canada Geese 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- 22 Ford Maverick Lariat.jpg by HJUdall, CC0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- 2023 Hyundai Santa Cruz SEL Premium, front left, 02-05-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Hyundai Santa Cruz au SIAM 2023.JPG by Bull-Doser, Public domain
+- 2022 Hyundai Santa Cruz, Front Left, 10-17-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 25 Hyundai Santa Cruz SEL.jpg by HJUdall, CC0
+- 2023 Toyota Tacoma interior.jpg by deathpallie325, CC BY-SA 4.0
+- Florida I75nb SR 222 Overpass.jpg by Michael Rivera, CC0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, rear right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 2019 Toyota Tacoma SR5 4WD Access Cab, front right, 09-03-2022.jpg by MercurySable99, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2437.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- 2026 Chevrolet Colorado WT, front left, 09-27-2025.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Colorado WT 4WD in Sterling Grey Metallic, Front Right, 08-19-2023.jpg by Elise240SX, CC BY-SA 4.0
+- 2023 GMC Canyon.jpg by 42-BRT, CC BY-SA 4.0
+- GMC Canyon P4250781.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Ranger 2.0 XL 4x4.jpg by Just a Man, CC BY 4.0
+- 2011 Ford Ranger XL Regular Cab 4x2, rear left, 04-04-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Ranger Wildtrak (T6, P375) 1X7A6170.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Stormtrak (T6, P375) 1X7A0369.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5885.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X Automesse Ludwigsburg 2022 1X7A5942.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Frontier (D41) Pro-4X 1X7A7196.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Nissan Frontier 2.3 Pro 4X (Argentina).jpg by Just a Man, CC BY 4.0
+- 2022 Nissan Frontier S King Cab, Front Left, 11-07-2021.jpg by Elise240SX, CC BY-SA 4.0
+- 2022 Nissan Frontier S King Cab in Super Black, Rear Right, 12-19-2021.jpg by Elise240SX, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 2022 Ford Maverick interior.jpg by deathpallie325, CC BY-SA 4.0
+- Black Nissan Frontier D40 at Craig Rd & Simmons St.jpg by Noah Wulf, CC BY-SA 4.0
+- Nissan Frontier 2.7 Titanium 4x4 2003.jpg by Ethan Llamas, CC BY-SA 4.0
+- Toyota Tacoma (N300) TRD 1X7A2438.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Toyota Tacoma TRD Off Road (N400) DSC 7353.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 4444.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Chevrolet Colorado High Country (Chile) front view.jpg by RL GNZLZ, CC BY-SA 2.0
+- Second Gen chevrolet Colorado on Snowy Mountain.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2022 Ford Maverick XL, rear 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick XL, front 5.4.22.jpg by Kevauto, CC BY-SA 4.0
+- 2022 Ford Maverick Lariat FWD Ecoboost.jpg by Zoz0716, CC BY-SA 4.0
+- 2022 Ford Maverick Lariat Pick-Up (52805113038).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ford Maverick (53247917054).jpg by Jason Lawrence from New York, CC BY 2.0
+- 24 Ford Maverick XL.jpg by HJUdall, CC0
+- Slate Run-Wetlands in Fall 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- Slate Run-Wetlands in Fall 4.jpg by Sixflashphoto, CC BY-SA 4.0
+- Toyota Tacoma in the Snow.jpg by Mundanemetal, CC BY 4.0
+- Second Gen Toyota Tacoma on Snowy Mountain - 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- White Checkered 2017-20 Chevrolet Colorado ZR2 in Las Vegas.jpg by Noah Wulf, CC BY-SA 3.0
+- 2017 Chevrolet Colorado 2.8 LTZ Z71 4x4 in Orange Crush, front right.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Ranger MS-RT IMG 3714.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Hyundai Santa Cruz interior.jpg by Deathpallie325, CC BY 4.0
+- 2022 Hyundai Santa Cruz Preferred in Twilight Black, Rear Left, 11-05-2022.jpg by Elise240SX, CC BY-SA 4.0
+- 2024 Ford F-150 Lightning interior.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning Platinum (2024) (53621481713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0

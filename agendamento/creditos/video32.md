@@ -1,0 +1,113 @@
+# Photo credits: Scout Motors vs the Big Three: The Truck That Might Not Arrive Until 2030
+
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050112).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050123).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050109).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050111).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050115).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050118).jpg by Matti Blume, CC BY-SA 4.0
+- Scout Terra IAA 2025 DSC 1914.jpg by Alexander Migl, CC BY-SA 4.0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050115) (cropped).jpg by Matti Blume, CC BY-SA 4.0
+- International Harvester Scout (42691552685).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0
+- 1979 International Harvester Scout (34321218970).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1978 International Harvester Scout Traveler 4x4 diesel (2022 Portersville Summer Steam Show).jpg by MercurySable99, CC BY-SA 4.0
+- International Harvester Scout 80.jpg by Ericthered43, CC BY-SA 3.0
+- International Harvester Scout II (27854990837).jpg by FotoSleuth, CC BY 2.0
+- International Harvester Scout II (28850193558).jpg by FotoSleuth, CC BY 2.0
+- 1978 International Harvester Scout II wagon (22834244999).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1978 International Harvester Scout (8117737699).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Scout Jerzy Jeliński in Katowice after returning from a trip around the world.jpg by Unknown authorUnknown author, Public domain
+- Ekspedycja Jerzego Jelińskiego dookoła świata - pobyt w Tokio. Polski harcerz Jerzy Jeliński przy samochodzie Buick, przed polskim poselstwem.jpg by Unknown authorUnknown author, Public domain
+- Harcerska Ekspedycja Dookoła Świata. Harcerze Jerzy Jeliński, Bruno Bredschneidre, Jan Wacław Łada, Eugeniusz Henryk Smosarski stoją przed samochodem marki Ford.jpg by Unknown authorUnknown author, Public domain
+- Pobyt Jerzego Jelińskiego na Wawelu w Krakowie po powrocie z ekspedycji dookoła świata. Harcerz Jerzy Jeliński (z prawej) przy swoim Buick'u.jpg by Unknown authorUnknown author, Public domain
+- Pobyt w Krakowie harcerza Jerzego Jelińskiego po jego powrocie z podróży dookoła świata. Harcerz Jerzy Jeliński przy swoim samochodzie marki Buick, po powrocie z ekspedycji dookoła świata, przed Pałacem Prasy.jpg by Unknown authorUnknown author, Public domain
+- American pickups (11013192234).jpg by order_242 from Chile, CC BY-SA 2.0
+- Hatchet cove, Nl - panoramio.jpg by Michael Skeard, CC BY-SA 3.0
+- Imperial Sand Dunes (51858590639).jpg by blmcalifornia, Public domain
+- Butler and Douglas Memorial Park.jpg by The Bushranger, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Nieuport 28C.1 - DPLA - a865dba596832d4146d81c475b3ae1e2 (page 5).jpg by S. A. Des Establisements Nieuport, CC0
+- Nieuport 28C.1 - DPLA - a865dba596832d4146d81c475b3ae1e2 (page 4).jpg by S. A. Des Establisements Nieuport, CC0
+- Scout Terra, IAA Summit 2025, Munich (20250908-P1050118) (cropped).jpg by Matti Blume, CC BY-SA 4.0
+- Scout ready for anything (18494366829).jpg by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- Pobyt w Warszawie harcerza Jerzego Jelińskiego po jego powrocie z podróży dookoła świata. Harcerz Jerzy Jeliński ze swoim samochodem marki Buick na placu Marszałka Józefa Piłsudskiego.jpg by Unknown authorUnknown author, Public domain
+- Pobyt w Poznaniu harcerza Jerzego Jelińskiego po jego powrocie z podróży dookoła świata. Harcerz Jerzy Jeliński przed swoim samochodem wyprawowym marki Buick, w otoczeniu nierozpoznanych osób.jpg by Unknown authorUnknown author, Public domain
+- WSJ2007 TerraVille woggle.JPG by Superchilum, CC BY-SA 3.0
+- WSJ2007 TerraVille Tin.JPG by Superchilum, CC BY-SA 3.0
+- VW Boxer 1192cm3.jpg by Johannes Maximilian, CC BY-SA 4.0
+- 1971 volkswagen campermobile engine comparment.jpg by Rjluna2, CC BY-SA 4.0
+- Pobyt w Krakowie harcerza Jerzego Jelińskiego po jego powrocie z podróży dookoła świata. Jeliński przy swoim samochodzie Buick, po odznaczeniu go Krzyżem Zasługi.jpg by Unknown authorUnknown author, Public domain
+- 1978 International Scout Traveler Diesel (26757160113).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- WSJ2007 TerraVille topac.JPG by Superchilum, CC BY-SA 3.0
+- WSJ2007 TerraVille game.JPG by Superchilum, CC BY-SA 3.0
+- The burning of Columbia, South Carolina, February 17, 1865.jpg by William Waud (d. 1878) for Harper's Weekly., Public domain
+- British Columbia Parliament Building in Victoria, British Columbia, Canada 07.jpg by Michal Klajban, CC BY-SA 4.0
+- Škoda Octavia Scout front Poznan 2011.jpg by Peżot, CC0
+- Škoda Karoq Scout at Paris Motor Show 2018, Paris (1Y7A2125).jpg by Matti Blume, CC BY-SA 4.0
+- WSJ2007 TerraVille Cooking.JPG by Superchilum, CC BY-SA 3.0
+- WSJ2007 TerraVille Slovenian Heart.JPG by Superchilum, CC BY-SA 3.0
+- 1977 International Scout Traveler Rough Country (37023908312).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1977 International Scout Traveler Rough Country (37005637756).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- Ekspedycja harcerzy polskich dookoła świata - pobyt w Krakowie 3.jpg by Unknown authorUnknown author, Public domain
+- Ekspedycja Jerzego Jelińskiego dookoła świata - pobyt w Cleveland.jpg by Unknown authorUnknown author, Public domain
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2014-2016 Ram 3500 Crew Cab Towing Cummins.JPG by Bull-Doser, Public domain
+- Retro-Travel Trailer @ NB I-75 Pasco Rest Area.jpg by DanTD, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- 2026 RAM 1500 Limited in Ivory Tri-Coat Pearl, rear right, 2026-06-14.jpg by Elise240SX, CC BY-SA 4.0
+- 2026 RAM 1500 Limited in Ivory Tri-Coat Pearl, front right, 2026-06-14.jpg by Elise240SX, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Ford F-150 Lightning Rear.jpg by UltraTech66, CC BY-SA 4.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 1990 GMC Sierra K-1500 SLE Sportside, front left, 08-25-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning charging port.jpg by WMrapids, CC0
+- Ford F-150 Lightning CRI 05 2023 3640.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 02 2023 1905.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Ford F-150 Lightning CRI 05 2023 3639.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Fisker Alaska Motorworld Munich 1X7A0128.jpg by Alexander-93, CC BY-SA 4.0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- Jeep Grand Wagoneer (WS) 1X7A1911.jpg by Alexander-93, CC BY-SA 4.0
+- Jeep Grand Wagoneer (WS) 1X7A1913.jpg by Alexander-93, CC BY-SA 4.0
+- Seattle - Smith-Gandy car dealership, circa 1960s (55091228432).jpg by Seattle Municipal Archives from Seattle, WA, CC BY 4.0
+- Car Source Kenosha Burned out car lot.jpg by Lightburst, CC BY-SA 4.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- NSW RFS - Toyota LandCruiser 70 Striker.jpg by Mary and Andrew, CC BY 2.0
+- International Scout II - June 2025 - Sarah Stierch 01.jpg by Missvain, CC0
+- International Scout II - June 2025 - Sarah Stierch 02.jpg by Missvain, CC0
+- 2021 Ford Bronco Big Bend, Front Right, 07-11-2021.jpg by SsmIntrigue, CC BY-SA 4.0
+- 2021 Ford Bronco Wildtrak 4-door soft-top front close-up.jpg by Nathan Dimartino, CC BY-SA 4.0
+- WSJ2007 TerraVille Southamerican Basket.JPG by Superchilum, CC BY-SA 3.0
+- WSJ2007 TerraVille Swedish art.JPG by Superchilum, CC BY-SA 3.0
+- Volkswagen ID.5 GTX 1X7A0318.jpg by Alexander Migl, CC BY-SA 4.0
+- Volkswagen ID.4 GTX 1X7A0301.jpg by Alexander Migl, CC BY-SA 4.0
+- Volkswagen Chattanooga Assembly Plant in Tennessee 02.jpg by Harrison Keely, CC BY 4.0
+- Volkswagen Chattanooga Assembly Plant in Tennessee 04.jpg by Harrison Keely, CC BY 4.0
+- WSJ2007 TerraVille Indian paint.JPG by Superchilum, CC BY-SA 3.0
+- WSJ2007 TerraVille Shinty 2.JPG by Superchilum, CC BY-SA 3.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ekspedycja harcerzy polskich dookoła świata - pobyt w Krakowie 1.jpg by Unknown authorUnknown author, Public domain
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- WSJ2007 TerraVille Dutch Spaghetti.JPG by Superchilum, CC BY-SA 3.0
+- Ram 1500 Pickup Truck (49376517091).jpg by Tony Webster from United States, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
