@@ -76,7 +76,7 @@ def main(mode):
         return
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     lote = mode == "lote"
-    budget = int(os.environ.get("YT_BUDGET") or (9900 if lote else 9500))
+    budget = int(os.environ.get("YT_BUDGET") or 9900)
     now = dt.datetime.now(dt.timezone.utc); dl = pathlib.Path("/tmp/dl"); dl.mkdir(exist_ok=True)
     for key, v, fname, at, title, desc, is_long in (queue_lote() if lote else queue()):
         if key in state: continue

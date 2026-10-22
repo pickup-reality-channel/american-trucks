@@ -1,6 +1,6 @@
 name: youtube
 # Uploads the next videos of agendamento/calendar.json as private + scheduled (publishAt).
-# Runs daily after the YouTube quota resets (midnight Pacific) once the repo variable YT_AUTO is "true".
+# Runs daily after the YouTube quota resets (midnight Pacific, 07:00 UTC).
 on:
   workflow_dispatch:
     inputs:
@@ -15,7 +15,6 @@ permissions:
 concurrency: youtube
 jobs:
   youtube:
-    if: github.event_name == 'workflow_dispatch' || vars.YT_AUTO == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 300
     env:
