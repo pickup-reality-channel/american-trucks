@@ -1,0 +1,2283 @@
+1
+00:00:00,000 --> 00:00:02,867
+Six dollars and fifty-one cents.
+
+2
+00:00:03,047 --> 00:00:05,444
+In September twenty twenty-six,
+
+3
+00:00:05,444 --> 00:00:08,383
+the average price of diesel in America
+
+4
+00:00:08,383 --> 00:00:10,161
+hit an all-time record,
+
+5
+00:00:10,161 --> 00:00:11,476
+according to AAA.
+
+6
+00:00:11,656 --> 00:00:14,481
+For decades, truck owners were told that
+
+7
+00:00:14,481 --> 00:00:16,741
+diesel pays off in the long run.
+
+8
+00:00:16,921 --> 00:00:19,479
+But when diesel costs two dollars more
+
+9
+00:00:19,479 --> 00:00:21,162
+per gallon than gasoline,
+
+10
+00:00:21,162 --> 00:00:22,575
+that old rule breaks.
+
+11
+00:00:22,755 --> 00:00:25,361
+And the numbers show something that would
+
+12
+00:00:25,361 --> 00:00:27,713
+have sounded crazy just one year ago.
+
+13
+00:00:28,062 --> 00:00:31,609
+So which truck engine actually pays off
+
+14
+00:00:31,609 --> 00:00:34,065
+now: diesel, gas or hybrid?
+
+15
+00:00:34,245 --> 00:00:36,707
+We will look at fuel prices,
+
+16
+00:00:36,707 --> 00:00:38,817
+ownership costs, towing,
+
+17
+00:00:38,817 --> 00:00:40,839
+maintenance and resale,
+
+18
+00:00:40,839 --> 00:00:44,005
+using AAA's twenty twenty-six study,
+
+19
+00:00:44,005 --> 00:00:47,346
+federal fuel data and the latest sales
+
+20
+00:00:47,346 --> 00:00:48,049
+numbers.
+
+21
+00:00:48,229 --> 00:00:49,929
+And we will do the math that
+
+22
+00:00:49,929 --> 00:00:51,933
+most dealers will not do for you.
+
+23
+00:00:52,282 --> 00:00:54,912
+Every number here comes from a published
+
+24
+00:00:54,912 --> 00:00:57,147
+source, listed in the description.
+
+25
+00:00:57,327 --> 00:00:59,957
+When we use example fuel economy numbers
+
+26
+00:00:59,957 --> 00:01:01,075
+to show the math,
+
+27
+00:01:01,075 --> 00:01:03,311
+we will tell you clearly that they
+
+28
+00:01:03,311 --> 00:01:04,165
+are examples.
+
+29
+00:01:04,345 --> 00:01:06,595
+Your own results depend on your truck
+
+30
+00:01:06,595 --> 00:01:07,689
+and how you drive.
+
+31
+00:01:07,869 --> 00:01:10,040
+If we could not confirm a figure,
+
+32
+00:01:10,040 --> 00:01:11,027
+we left it out.
+
+33
+00:01:11,207 --> 00:01:12,763
+Let's start with the shock.
+
+34
+00:01:13,113 --> 00:01:14,419
+According to NPR,
+
+35
+00:01:14,419 --> 00:01:17,648
+the national average for diesel passed six
+
+36
+00:01:17,648 --> 00:01:20,339
+dollars a gallon for the first time
+
+37
+00:01:20,339 --> 00:01:22,415
+ever on September eleventh,
+
+38
+00:01:22,415 --> 00:01:26,105
+twenty twenty-six, reaching six dollars and five
+
+39
+00:01:26,105 --> 00:01:27,950
+cents, according to AAA.
+
+40
+00:01:28,130 --> 00:01:29,275
+A year earlier,
+
+41
+00:01:29,275 --> 00:01:32,177
+it was about three dollars and seventy
+
+42
+00:01:32,177 --> 00:01:32,635
+cents.
+
+43
+00:01:32,815 --> 00:01:34,248
+The previous record,
+
+44
+00:01:34,248 --> 00:01:35,896
+from twenty twenty-two,
+
+45
+00:01:35,896 --> 00:01:39,049
+was about five dollars and eighty-two cents.
+
+46
+00:01:39,400 --> 00:01:40,897
+And it kept climbing.
+
+47
+00:01:41,077 --> 00:01:43,249
+On September twenty-first,
+
+48
+00:01:43,249 --> 00:01:45,922
+AAA reported a new record of six
+
+49
+00:01:45,922 --> 00:01:49,013
+dollars and fifty-one cents a gallon,
+
+50
+00:01:49,013 --> 00:01:50,516
+according to WTOC.
+
+51
+00:01:50,696 --> 00:01:54,059
+In Georgia, truck drivers described lines of
+
+52
+00:01:54,059 --> 00:01:55,665
+trucks at fuel stops,
+
+53
+00:01:55,665 --> 00:01:59,028
+and one owner-operator said a single fill-up
+
+54
+00:01:59,028 --> 00:02:01,245
+of his big rig cost about one
+
+55
+00:02:01,245 --> 00:02:03,920
+thousand two hundred fifty dollars.
+
+56
+00:02:04,270 --> 00:02:05,431
+Why did this happen?
+
+57
+00:02:05,611 --> 00:02:08,163
+NPR reported that the war with Iran,
+
+58
+00:02:08,163 --> 00:02:11,495
+which began in late February twenty twenty-six,
+
+59
+00:02:11,495 --> 00:02:14,899
+disrupted shipping through the Strait of Hormuz,
+
+60
+00:02:14,899 --> 00:02:16,884
+a key route for oil tankers.
+
+61
+00:02:17,064 --> 00:02:19,688
+Brent crude traded above one hundred five
+
+62
+00:02:19,688 --> 00:02:21,608
+dollars a barrel in September,
+
+63
+00:02:21,608 --> 00:02:24,552
+compared with about seventy dollars before the
+
+64
+00:02:24,552 --> 00:02:24,808
+war.
+
+65
+00:02:25,158 --> 00:02:26,922
+Here is the first twist.
+
+66
+00:02:27,102 --> 00:02:29,761
+Diesel was hit harder than gasoline.
+
+67
+00:02:29,941 --> 00:02:32,847
+According to the U S Energy Information
+
+68
+00:02:32,847 --> 00:02:36,574
+Administration, in the week of October nineteenth,
+
+69
+00:02:36,574 --> 00:02:40,449
+twenty twenty-six, regular gas averaged four dollars
+
+70
+00:02:40,449 --> 00:02:42,163
+and twenty-eight cents,
+
+71
+00:02:42,163 --> 00:02:45,591
+and diesel six dollars and twenty-eight cents.
+
+72
+00:02:45,771 --> 00:02:47,816
+That is a gap of exactly two
+
+73
+00:02:47,816 --> 00:02:49,057
+dollars a gallon.
+
+74
+00:02:49,406 --> 00:02:50,556
+A year earlier,
+
+75
+00:02:50,556 --> 00:02:52,855
+in October twenty twenty-five,
+
+76
+00:02:52,855 --> 00:02:54,770
+the gap was much smaller.
+
+77
+00:02:54,950 --> 00:02:56,944
+According to the same E I A
+
+78
+00:02:56,944 --> 00:02:59,677
+data, gas was about three dollars and
+
+79
+00:02:59,677 --> 00:03:02,926
+two cents, and diesel about three sixty-two.
+
+80
+00:03:03,106 --> 00:03:05,997
+The gap was only about sixty cents.
+
+81
+00:03:06,177 --> 00:03:07,005
+In one year,
+
+82
+00:03:07,005 --> 00:03:09,556
+the diesel penalty more than tripled.
+
+83
+00:03:09,905 --> 00:03:12,692
+And history shows how extreme this is.
+
+84
+00:03:12,872 --> 00:03:15,455
+NPR noted that the two thousand eight
+
+85
+00:03:15,455 --> 00:03:18,177
+diesel peak of about four seventy-four,
+
+86
+00:03:18,177 --> 00:03:19,783
+adjusted for inflation,
+
+87
+00:03:19,783 --> 00:03:22,784
+equals about seven dollars and twenty cents
+
+88
+00:03:22,784 --> 00:03:23,971
+in today's money.
+
+89
+00:03:24,151 --> 00:03:25,603
+So in real terms,
+
+90
+00:03:25,603 --> 00:03:28,679
+prices have been even higher before.
+
+91
+00:03:28,859 --> 00:03:30,744
+But for today's truck owners,
+
+92
+00:03:30,744 --> 00:03:32,890
+six dollars is a number they have
+
+93
+00:03:32,890 --> 00:03:34,385
+never seen at the pump.
+
+94
+00:03:34,736 --> 00:03:36,934
+Now let's look at the big picture
+
+95
+00:03:36,934 --> 00:03:37,801
+of ownership.
+
+96
+00:03:37,981 --> 00:03:40,946
+AAA's Your Driving Costs study for twenty
+
+97
+00:03:40,946 --> 00:03:43,983
+twenty-six compared pickups by powertrain.
+
+98
+00:03:44,163 --> 00:03:47,402
+An electric pickup cost seventeen thousand,
+
+99
+00:03:47,402 --> 00:03:50,340
+four hundred fourteen dollars a year to
+
+100
+00:03:50,340 --> 00:03:50,641
+own.
+
+101
+00:03:50,821 --> 00:03:54,072
+A gas pickup cost sixteen thousand,
+
+102
+00:03:54,072 --> 00:03:56,208
+six hundred twenty-six.
+
+103
+00:03:56,388 --> 00:03:59,764
+And a hybrid pickup cost sixteen thousand,
+
+104
+00:03:59,764 --> 00:04:01,532
+one hundred seventeen.
+
+105
+00:04:01,881 --> 00:04:04,546
+So the hybrid was the cheapest pickup
+
+106
+00:04:04,546 --> 00:04:06,130
+to own in AAA's study,
+
+107
+00:04:06,130 --> 00:04:08,867
+about five hundred dollars a year less
+
+108
+00:04:08,867 --> 00:04:11,891
+than gas, and almost thirteen hundred less
+
+109
+00:04:11,891 --> 00:04:12,899
+than electric.
+
+110
+00:04:13,079 --> 00:04:16,547
+AAA's per-mile numbers tell the same story:
+
+111
+00:04:16,547 --> 00:04:19,289
+about one dollar and seven cents a
+
+112
+00:04:19,289 --> 00:04:21,466
+mile for the hybrid pickup,
+
+113
+00:04:21,466 --> 00:04:23,966
+one ten for gas and one sixteen
+
+114
+00:04:23,966 --> 00:04:25,014
+for electric.
+
+115
+00:04:25,364 --> 00:04:27,350
+Here is an important detail.
+
+116
+00:04:27,530 --> 00:04:30,830
+AAA's fuel numbers used a twelve-month average
+
+117
+00:04:30,830 --> 00:04:33,484
+gas price of four dollars and fifteen
+
+118
+00:04:33,484 --> 00:04:36,067
+cents through May twenty twenty-six,
+
+119
+00:04:36,067 --> 00:04:39,152
+assuming fifteen thousand miles a year over
+
+120
+00:04:39,152 --> 00:04:39,941
+five years.
+
+121
+00:04:40,121 --> 00:04:43,542
+And AAA's pickup comparison did not include
+
+122
+00:04:43,542 --> 00:04:44,974
+a diesel category.
+
+123
+00:04:45,154 --> 00:04:46,278
+So for diesel,
+
+124
+00:04:46,278 --> 00:04:48,927
+we have to do the math ourselves.
+
+125
+00:04:49,278 --> 00:04:50,437
+Before we do,
+
+126
+00:04:50,437 --> 00:04:54,003
+let's understand why each engine exists.
+
+127
+00:04:54,183 --> 00:04:57,181
+Diesel engines are known for strong low-speed
+
+128
+00:04:57,181 --> 00:04:59,846
+torque and efficiency under heavy loads,
+
+129
+00:04:59,846 --> 00:05:02,844
+which is why they dominate heavy-duty towing.
+
+130
+00:05:03,024 --> 00:05:05,806
+Gas engines are usually cheaper to buy
+
+131
+00:05:05,806 --> 00:05:07,563
+and simpler to maintain.
+
+132
+00:05:07,743 --> 00:05:10,690
+And hybrids add an electric motor and
+
+133
+00:05:10,690 --> 00:05:12,362
+battery to save fuel,
+
+134
+00:05:12,362 --> 00:05:15,069
+especially in stop-and-go driving.
+
+135
+00:05:15,420 --> 00:05:17,853
+Today, you can find all three in
+
+136
+00:05:17,853 --> 00:05:18,461
+pickups.
+
+137
+00:05:18,641 --> 00:05:21,649
+GM offers the three liter Duramax diesel
+
+138
+00:05:21,649 --> 00:05:23,378
+in its half-ton trucks.
+
+139
+00:05:23,558 --> 00:05:25,137
+According to CarGurus,
+
+140
+00:05:25,137 --> 00:05:27,002
+in the G M C Sierra Denali
+
+141
+00:05:27,002 --> 00:05:30,374
+Ultimate it makes three hundred five horsepower
+
+142
+00:05:30,374 --> 00:05:33,961
+and four hundred ninety-five pound-feet of torque.
+
+143
+00:05:34,141 --> 00:05:36,649
+Heavy-duty trucks from Ford,
+
+144
+00:05:36,649 --> 00:05:39,247
+Ram and GM offer big diesel V
+
+145
+00:05:39,247 --> 00:05:41,397
+eights and inline sixes.
+
+146
+00:05:41,746 --> 00:05:43,790
+And hybrids have grown fast.
+
+147
+00:05:43,970 --> 00:05:45,272
+According to Ford,
+
+148
+00:05:45,272 --> 00:05:47,371
+it sold eighty-four thousand,
+
+149
+00:05:47,371 --> 00:05:51,279
+nine hundred thirty-four F-one-fifty hybrids in twenty
+
+150
+00:05:51,279 --> 00:05:53,595
+twenty-five, up fifteen percent.
+
+151
+00:05:53,775 --> 00:05:57,010
+The Toyota Tundra's i-Force Max hybrid makes
+
+152
+00:05:57,010 --> 00:06:00,907
+four hundred thirty-seven horsepower and five hundred
+
+153
+00:06:00,907 --> 00:06:03,407
+eighty-three pound-feet of torque,
+
+154
+00:06:03,407 --> 00:06:05,025
+according to CarGurus.
+
+155
+00:06:05,205 --> 00:06:07,118
+That is more torque than the half-ton
+
+156
+00:06:07,118 --> 00:06:07,480
+diesel.
+
+157
+00:06:07,830 --> 00:06:09,851
+Here is the twist about hybrids.
+
+158
+00:06:10,031 --> 00:06:12,474
+Truck hybrids are not just about fuel
+
+159
+00:06:12,474 --> 00:06:13,003
+economy.
+
+160
+00:06:13,183 --> 00:06:15,064
+They are also about torque.
+
+161
+00:06:15,244 --> 00:06:18,487
+Electric motors deliver strong torque instantly,
+
+162
+00:06:18,487 --> 00:06:21,258
+which helps with towing and acceleration.
+
+163
+00:06:21,438 --> 00:06:24,000
+That is why some hybrid pickups are
+
+164
+00:06:24,000 --> 00:06:26,051
+sold as performance options,
+
+165
+00:06:26,051 --> 00:06:27,881
+not just economy options.
+
+166
+00:06:28,231 --> 00:06:29,218
+Now the math.
+
+167
+00:06:29,398 --> 00:06:32,499
+We will use example fuel economy numbers,
+
+168
+00:06:32,499 --> 00:06:35,296
+not the rating of any specific truck,
+
+169
+00:06:35,296 --> 00:06:38,094
+to show how prices change the answer.
+
+170
+00:06:38,274 --> 00:06:40,750
+Imagine a gas truck that gets twenty
+
+171
+00:06:40,750 --> 00:06:41,919
+miles per gallon,
+
+172
+00:06:41,919 --> 00:06:44,464
+a diesel truck that gets twenty-five,
+
+173
+00:06:44,464 --> 00:06:47,284
+and a hybrid truck that gets twenty-four.
+
+174
+00:06:47,464 --> 00:06:50,424
+All driven fifteen thousand miles a year.
+
+175
+00:06:50,774 --> 00:06:53,438
+The gas truck uses seven hundred fifty
+
+176
+00:06:53,438 --> 00:06:54,490
+gallons a year.
+
+177
+00:06:54,670 --> 00:06:57,043
+At four dollars and twenty-eight cents,
+
+178
+00:06:57,043 --> 00:06:59,477
+that is about three thousand two hundred
+
+179
+00:06:59,477 --> 00:07:00,208
+ten dollars.
+
+180
+00:07:00,388 --> 00:07:03,267
+The diesel uses six hundred gallons.
+
+181
+00:07:03,447 --> 00:07:06,037
+At six dollars and twenty-eight cents,
+
+182
+00:07:06,037 --> 00:07:08,899
+that is about three thousand seven hundred
+
+183
+00:07:08,899 --> 00:07:10,262
+sixty-eight dollars.
+
+184
+00:07:10,442 --> 00:07:12,520
+The diesel uses fewer gallons,
+
+185
+00:07:12,520 --> 00:07:15,291
+but costs more than five hundred dollars
+
+186
+00:07:15,291 --> 00:07:16,677
+a year more to fuel.
+
+187
+00:07:17,026 --> 00:07:18,838
+Now the big twist.
+
+188
+00:07:19,018 --> 00:07:21,867
+Run the same example with October twenty
+
+189
+00:07:21,867 --> 00:07:23,220
+twenty-five prices.
+
+190
+00:07:23,400 --> 00:07:25,888
+Gas at three dollars and two cents:
+
+191
+00:07:25,888 --> 00:07:29,370
+about two thousand two hundred sixty-five dollars
+
+192
+00:07:29,370 --> 00:07:29,867
+a year.
+
+193
+00:07:30,047 --> 00:07:31,981
+Diesel at three sixty-two:
+
+194
+00:07:31,981 --> 00:07:35,179
+about two thousand one hundred seventy-two.
+
+195
+00:07:35,359 --> 00:07:36,323
+One year ago,
+
+196
+00:07:36,323 --> 00:07:38,621
+the diesel was cheaper to fuel.
+
+197
+00:07:38,801 --> 00:07:40,845
+Today it is more expensive.
+
+198
+00:07:41,025 --> 00:07:43,195
+Same trucks, same miles,
+
+199
+00:07:43,195 --> 00:07:44,461
+different war.
+
+200
+00:07:44,811 --> 00:07:45,705
+And the hybrid?
+
+201
+00:07:45,885 --> 00:07:47,146
+In our example,
+
+202
+00:07:47,146 --> 00:07:51,095
+the hybrid uses six hundred twenty-five gallons
+
+203
+00:07:51,095 --> 00:07:52,271
+of gas a year.
+
+204
+00:07:52,451 --> 00:07:54,955
+At four dollars and twenty-eight cents,
+
+205
+00:07:54,955 --> 00:07:57,395
+that is about two thousand six hundred
+
+206
+00:07:57,395 --> 00:07:58,744
+seventy-five dollars.
+
+207
+00:07:58,924 --> 00:08:01,433
+That is about five hundred thirty dollars
+
+208
+00:08:01,433 --> 00:08:02,902
+less than the gas truck,
+
+209
+00:08:02,902 --> 00:08:05,227
+and about eleven hundred less than the
+
+210
+00:08:05,227 --> 00:08:06,818
+diesel, at today's prices.
+
+211
+00:08:07,168 --> 00:08:09,154
+Here is a simple rule you can
+
+212
+00:08:09,154 --> 00:08:10,454
+use with any truck.
+
+213
+00:08:10,634 --> 00:08:13,190
+Divide the diesel price by the gas
+
+214
+00:08:13,190 --> 00:08:13,641
+price.
+
+215
+00:08:13,821 --> 00:08:18,054
+Today, six twenty-eight divided by four twenty-eight
+
+216
+00:08:18,054 --> 00:08:20,497
+is about one point four seven.
+
+217
+00:08:20,677 --> 00:08:22,816
+That means a diesel needs to get
+
+218
+00:08:22,816 --> 00:08:26,159
+about forty-seven percent better fuel economy than
+
+219
+00:08:26,159 --> 00:08:28,432
+the gas version just to break even
+
+220
+00:08:28,432 --> 00:08:28,966
+on fuel.
+
+221
+00:08:29,146 --> 00:08:29,922
+A year ago,
+
+222
+00:08:29,922 --> 00:08:32,954
+it needed only about twenty percent better.
+
+223
+00:08:33,304 --> 00:08:37,037
+And there is another hidden diesel cost:
+
+224
+00:08:37,037 --> 00:08:38,997
+diesel exhaust fluid,
+
+225
+00:08:38,997 --> 00:08:40,770
+often called D E F.
+
+226
+00:08:40,950 --> 00:08:43,485
+Modern diesel trucks use it to reduce
+
+227
+00:08:43,485 --> 00:08:46,569
+emissions, and it must be refilled regularly.
+
+228
+00:08:46,749 --> 00:08:49,985
+It is not expensive compared with fuel,
+
+229
+00:08:49,985 --> 00:08:52,060
+but it is one more cost a
+
+230
+00:08:52,060 --> 00:08:54,632
+gas or hybrid owner never pays.
+
+231
+00:08:54,982 --> 00:08:56,418
+So for fuel alone,
+
+232
+00:08:56,418 --> 00:08:58,652
+at twenty twenty-six prices,
+
+233
+00:08:58,652 --> 00:09:01,684
+a light-duty diesel is hard to justify
+
+234
+00:09:01,684 --> 00:09:03,040
+for most drivers.
+
+235
+00:09:03,220 --> 00:09:05,484
+But fuel is not the whole story.
+
+236
+00:09:05,664 --> 00:09:07,622
+Towing, purchase price,
+
+237
+00:09:07,622 --> 00:09:10,517
+maintenance and resale all matter.
+
+238
+00:09:10,697 --> 00:09:11,939
+Let's go through them.
+
+239
+00:09:12,288 --> 00:09:14,564
+Towing is where diesel fights back.
+
+240
+00:09:14,744 --> 00:09:16,742
+When you tow a heavy trailer,
+
+241
+00:09:16,742 --> 00:09:18,877
+gas engines often lose a lot of
+
+242
+00:09:18,877 --> 00:09:21,701
+efficiency, while diesels tend to hold up
+
+243
+00:09:21,701 --> 00:09:22,941
+better under load.
+
+244
+00:09:23,121 --> 00:09:26,080
+Diesels also offer exhaust braking in many
+
+245
+00:09:26,080 --> 00:09:28,969
+trucks, which helps control speed on long
+
+246
+00:09:28,969 --> 00:09:32,281
+downhill grades without overheating the brakes.
+
+247
+00:09:32,630 --> 00:09:34,461
+For very heavy trailers,
+
+248
+00:09:34,461 --> 00:09:36,902
+such as big fifth wheel campers,
+
+249
+00:09:36,902 --> 00:09:39,113
+horse trailers and equipment,
+
+250
+00:09:39,113 --> 00:09:43,079
+heavy-duty diesel trucks remain the standard choice.
+
+251
+00:09:43,259 --> 00:09:47,100
+Their engines, transmissions and cooling systems are
+
+252
+00:09:47,100 --> 00:09:49,464
+built to pull big loads for long
+
+253
+00:09:49,464 --> 00:09:50,202
+distances.
+
+254
+00:09:50,382 --> 00:09:51,427
+For those owners,
+
+255
+00:09:51,427 --> 00:09:53,579
+the question is less about fuel and
+
+256
+00:09:53,579 --> 00:09:55,177
+more about the right tool.
+
+257
+00:09:55,527 --> 00:09:58,093
+Here is the twist for half-ton buyers.
+
+258
+00:09:58,273 --> 00:10:01,385
+Hybrids are now serious tow vehicles too.
+
+259
+00:10:01,565 --> 00:10:05,842
+Ford's F-one-fifty PowerBoost and Toyota's Tundra i-Force
+
+260
+00:10:05,842 --> 00:10:08,544
+Max are rated to tow large trailers,
+
+261
+00:10:08,544 --> 00:10:11,396
+and their electric torque helps at low
+
+262
+00:10:11,396 --> 00:10:11,921
+speeds.
+
+263
+00:10:12,101 --> 00:10:15,093
+But hybrid fuel savings shrink when towing
+
+264
+00:10:15,093 --> 00:10:16,162
+on the highway,
+
+265
+00:10:16,162 --> 00:10:19,368
+because the battery helps most in stop-and-go
+
+266
+00:10:19,368 --> 00:10:19,938
+driving.
+
+267
+00:10:20,287 --> 00:10:21,657
+And electric trucks?
+
+268
+00:10:21,837 --> 00:10:23,242
+They have huge torque,
+
+269
+00:10:23,242 --> 00:10:26,052
+but towing can cut their range dramatically.
+
+270
+00:10:26,232 --> 00:10:29,957
+Ford ended production of the F-one-fifty Lightning
+
+271
+00:10:29,957 --> 00:10:32,788
+in twenty twenty-five and took a large
+
+272
+00:10:32,788 --> 00:10:35,023
+charge as it shifted strategy,
+
+273
+00:10:35,023 --> 00:10:36,960
+according to Fox Business.
+
+274
+00:10:37,140 --> 00:10:39,155
+For long-distance towing,
+
+275
+00:10:39,155 --> 00:10:42,784
+most buyers in twenty twenty-six still choose
+
+276
+00:10:42,784 --> 00:10:44,558
+diesel, gas or hybrid.
+
+277
+00:10:44,908 --> 00:10:46,580
+Now purchase price.
+
+278
+00:10:46,760 --> 00:10:49,529
+Diesel engines usually cost extra as an
+
+279
+00:10:49,529 --> 00:10:52,581
+option, and on heavy-duty trucks the diesel
+
+280
+00:10:52,581 --> 00:10:55,491
+option can add many thousands of dollars.
+
+281
+00:10:55,671 --> 00:10:58,329
+Hybrids also often cost more than the
+
+282
+00:10:58,329 --> 00:10:59,479
+base gas engine.
+
+283
+00:10:59,659 --> 00:11:02,306
+The gas engine is usually the cheapest
+
+284
+00:11:02,306 --> 00:11:02,794
+to buy.
+
+285
+00:11:03,143 --> 00:11:06,158
+And financing makes every extra dollar more
+
+286
+00:11:06,158 --> 00:11:06,859
+expensive.
+
+287
+00:11:07,039 --> 00:11:08,465
+According to Edmunds,
+
+288
+00:11:08,465 --> 00:11:10,841
+the average new vehicle loan in the
+
+289
+00:11:10,841 --> 00:11:13,828
+third quarter of twenty twenty-six carried a
+
+290
+00:11:13,828 --> 00:11:15,730
+seven percent interest rate,
+
+291
+00:11:15,730 --> 00:11:18,378
+and the average total interest over the
+
+292
+00:11:18,378 --> 00:11:19,939
+loan was nine thousand,
+
+293
+00:11:19,939 --> 00:11:22,248
+nine hundred thirty-eight dollars.
+
+294
+00:11:22,428 --> 00:11:25,119
+An expensive engine option on a long
+
+295
+00:11:25,119 --> 00:11:28,035
+loan costs more than its sticker price.
+
+296
+00:11:28,385 --> 00:11:30,081
+Here is the payback twist.
+
+297
+00:11:30,261 --> 00:11:32,717
+If a hybrid option costs a couple
+
+298
+00:11:32,717 --> 00:11:35,770
+of thousand dollars extra and saves about
+
+299
+00:11:35,770 --> 00:11:38,450
+five hundred dollars a year in fuel,
+
+300
+00:11:38,450 --> 00:11:39,790
+as in our example,
+
+301
+00:11:39,790 --> 00:11:42,173
+it could pay for itself in about
+
+302
+00:11:42,173 --> 00:11:44,332
+four years at today's prices.
+
+303
+00:11:44,512 --> 00:11:47,046
+A diesel option that costs much more
+
+304
+00:11:47,046 --> 00:11:49,580
+and saves nothing on fuel at today's
+
+305
+00:11:49,580 --> 00:11:51,903
+prices may never pay back on fuel
+
+306
+00:11:51,903 --> 00:11:52,325
+alone.
+
+307
+00:11:52,505 --> 00:11:54,795
+That is why the price gap matters
+
+308
+00:11:54,795 --> 00:11:55,350
+so much.
+
+309
+00:11:55,700 --> 00:11:57,278
+And there is a tax angle.
+
+310
+00:11:57,458 --> 00:12:00,893
+According to Fox reporting from January twenty
+
+311
+00:12:00,893 --> 00:12:04,551
+twenty-six, a new federal deduction lets eligible
+
+312
+00:12:04,551 --> 00:12:07,537
+buyers deduct up to ten thousand dollars
+
+313
+00:12:07,537 --> 00:12:09,851
+a year in auto loan interest on
+
+314
+00:12:09,851 --> 00:12:12,763
+new vehicles with final assembly in the
+
+315
+00:12:12,763 --> 00:12:15,675
+United States, bought for personal use.
+
+316
+00:12:15,855 --> 00:12:18,573
+Where your truck is assembled can change
+
+317
+00:12:18,573 --> 00:12:19,593
+your real cost.
+
+318
+00:12:19,773 --> 00:12:21,561
+Check with a tax professional.
+
+319
+00:12:21,911 --> 00:12:23,083
+Now maintenance.
+
+320
+00:12:23,263 --> 00:12:26,212
+Gas engines are generally the simplest.
+
+321
+00:12:26,392 --> 00:12:29,920
+Modern diesels have extra emissions equipment,
+
+322
+00:12:29,920 --> 00:12:33,371
+such as particulate filters and exhaust fluid
+
+323
+00:12:33,371 --> 00:12:36,515
+systems, which can be expensive to repair
+
+324
+00:12:36,515 --> 00:12:37,665
+when they fail.
+
+325
+00:12:37,845 --> 00:12:40,701
+Hybrids add a battery and electric motor,
+
+326
+00:12:40,701 --> 00:12:43,000
+but they often reduce brake wear,
+
+327
+00:12:43,000 --> 00:12:46,135
+because regenerative braking does part of the
+
+328
+00:12:46,135 --> 00:12:46,483
+work.
+
+329
+00:12:46,834 --> 00:12:49,291
+And repairs are getting more expensive for
+
+330
+00:12:49,291 --> 00:12:49,817
+everyone.
+
+331
+00:12:49,997 --> 00:12:51,717
+According to Insurify,
+
+332
+00:12:51,717 --> 00:12:55,158
+auto maintenance and repair costs have risen
+
+333
+00:12:55,158 --> 00:12:58,363
+about forty-five percent in the past five
+
+334
+00:12:58,363 --> 00:12:58,832
+years.
+
+335
+00:12:59,012 --> 00:13:00,656
+AAA put maintenance,
+
+336
+00:13:00,656 --> 00:13:03,861
+repairs and tires at eleven point seven
+
+337
+00:13:03,861 --> 00:13:06,902
+cents per mile across all vehicles in
+
+338
+00:13:06,902 --> 00:13:08,382
+twenty twenty-six.
+
+339
+00:13:08,562 --> 00:13:10,985
+A complex engine can cost more when
+
+340
+00:13:10,985 --> 00:13:12,439
+something goes wrong.
+
+341
+00:13:12,790 --> 00:13:14,438
+Here is a diesel warning.
+
+342
+00:13:14,618 --> 00:13:18,061
+Some owners remove emissions equipment to avoid
+
+343
+00:13:18,061 --> 00:13:20,551
+repairs, which is called a delete.
+
+344
+00:13:20,731 --> 00:13:22,722
+In January twenty twenty-six,
+
+345
+00:13:22,722 --> 00:13:25,537
+the Justice Department said it would stop
+
+346
+00:13:25,537 --> 00:13:28,215
+criminal prosecution of diesel deletes,
+
+347
+00:13:28,215 --> 00:13:30,344
+according to Fleet Maintenance.
+
+348
+00:13:30,524 --> 00:13:32,928
+But tampering is still a Clean Air
+
+349
+00:13:32,928 --> 00:13:36,111
+Act violation, with civil penalties listed at
+
+350
+00:13:36,111 --> 00:13:40,071
+forty-five thousand, two hundred sixty-eight dollars per
+
+351
+00:13:40,071 --> 00:13:40,567
+engine.
+
+352
+00:13:40,917 --> 00:13:42,310
+And hybrid batteries?
+
+353
+00:13:42,490 --> 00:13:46,100
+Many hybrid owners worry about replacement cost.
+
+354
+00:13:46,280 --> 00:13:49,883
+Manufacturers usually cover hybrid batteries with their
+
+355
+00:13:49,883 --> 00:13:51,062
+own long warranty,
+
+356
+00:13:51,062 --> 00:13:53,223
+separate from the basic warranty.
+
+357
+00:13:53,403 --> 00:13:56,112
+Check the battery warranty on the exact
+
+358
+00:13:56,112 --> 00:13:57,918
+truck you are considering,
+
+359
+00:13:57,918 --> 00:14:01,391
+because coverage varies by manufacturer and state.
+
+360
+00:14:01,740 --> 00:14:03,586
+Now resale value.
+
+361
+00:14:03,766 --> 00:14:06,972
+Diesel trucks have traditionally held their value
+
+362
+00:14:06,972 --> 00:14:10,112
+very well, especially heavy-duty trucks used for
+
+363
+00:14:10,112 --> 00:14:10,570
+towing.
+
+364
+00:14:10,750 --> 00:14:12,600
+But here is the twist:
+
+365
+00:14:12,600 --> 00:14:15,458
+when fuel prices change this fast,
+
+366
+00:14:15,458 --> 00:14:18,401
+used buyers change their minds too.
+
+367
+00:14:18,581 --> 00:14:20,773
+A diesel that was easy to sell
+
+368
+00:14:20,773 --> 00:14:23,330
+when diesel was cheap may be harder
+
+369
+00:14:23,330 --> 00:14:26,033
+to sell when diesel costs two dollars
+
+370
+00:14:26,033 --> 00:14:27,056
+more than gas.
+
+371
+00:14:27,406 --> 00:14:30,181
+Hybrids may benefit from the same shift.
+
+372
+00:14:30,361 --> 00:14:32,406
+When fuel is expensive,
+
+373
+00:14:32,406 --> 00:14:35,783
+used buyers look for efficient trucks.
+
+374
+00:14:35,963 --> 00:14:38,418
+The Ford Maverick is a sign of
+
+375
+00:14:38,418 --> 00:14:39,400
+that demand.
+
+376
+00:14:39,580 --> 00:14:40,907
+According to Ford,
+
+377
+00:14:40,907 --> 00:14:44,518
+the Maverick sold one hundred fifty-five thousand
+
+378
+00:14:44,518 --> 00:14:47,614
+and fifty-one units in twenty twenty-five,
+
+379
+00:14:47,614 --> 00:14:51,079
+and eighty-one thousand and thirty-four of them
+
+380
+00:14:51,079 --> 00:14:52,037
+were hybrids.
+
+381
+00:14:52,387 --> 00:14:55,336
+And manufacturers are reading the same signal.
+
+382
+00:14:55,516 --> 00:14:57,696
+According to Ford Authority,
+
+383
+00:14:57,696 --> 00:15:00,888
+the twenty twenty-seven Ford Maverick X L
+
+384
+00:15:00,888 --> 00:15:02,445
+becomes hybrid only,
+
+385
+00:15:02,445 --> 00:15:05,793
+and the cheapest EcoBoost gas version moves
+
+386
+00:15:05,793 --> 00:15:07,739
+up to the X L T all-wheel
+
+387
+00:15:07,739 --> 00:15:08,206
+drive.
+
+388
+00:15:08,386 --> 00:15:11,582
+The entry-level small truck in America is
+
+389
+00:15:11,582 --> 00:15:13,843
+becoming a hybrid by default.
+
+390
+00:15:14,192 --> 00:15:16,689
+Here is the twist about gas engines.
+
+391
+00:15:16,869 --> 00:15:18,397
+Even as hybrids grow,
+
+392
+00:15:18,397 --> 00:15:20,944
+big gas engines are not going away.
+
+393
+00:15:21,124 --> 00:15:22,750
+According to Carscoops,
+
+394
+00:15:22,750 --> 00:15:25,296
+when Ram announced the return of the
+
+395
+00:15:25,296 --> 00:15:27,770
+Hemi V eight in twenty twenty-five,
+
+396
+00:15:27,770 --> 00:15:30,669
+it received more than ten thousand orders
+
+397
+00:15:30,669 --> 00:15:32,861
+in less than twenty-four hours.
+
+398
+00:15:33,041 --> 00:15:35,923
+Many buyers still want the sound and
+
+399
+00:15:35,923 --> 00:15:38,405
+simplicity of a big gas engine,
+
+400
+00:15:38,405 --> 00:15:40,646
+even when fuel is expensive.
+
+401
+00:15:40,995 --> 00:15:43,459
+Let's look at how driving style changes
+
+402
+00:15:43,459 --> 00:15:44,153
+the answer.
+
+403
+00:15:44,333 --> 00:15:47,062
+Hybrids shine in stop-and-go traffic,
+
+404
+00:15:47,062 --> 00:15:49,718
+where the electric motor can do more
+
+405
+00:15:49,718 --> 00:15:53,111
+work and regenerative braking recovers energy.
+
+406
+00:15:53,291 --> 00:15:54,028
+On a long,
+
+407
+00:15:54,028 --> 00:15:56,610
+steady highway drive at high speed,
+
+408
+00:15:56,610 --> 00:15:59,339
+the hybrid advantage usually shrinks.
+
+409
+00:15:59,519 --> 00:16:02,008
+So a hybrid driven mostly on the
+
+410
+00:16:02,008 --> 00:16:05,197
+interstate may save less than you expect.
+
+411
+00:16:05,546 --> 00:16:07,195
+Diesels are the opposite.
+
+412
+00:16:07,375 --> 00:16:09,574
+They tend to be most efficient on
+
+413
+00:16:09,574 --> 00:16:11,907
+long highway drives and under load,
+
+414
+00:16:11,907 --> 00:16:14,306
+and less suited to many short trips.
+
+415
+00:16:14,486 --> 00:16:17,741
+Modern diesel emissions systems can need longer
+
+416
+00:16:17,741 --> 00:16:20,787
+drives at higher temperatures to clean their
+
+417
+00:16:20,787 --> 00:16:22,172
+particulate filters.
+
+418
+00:16:22,352 --> 00:16:24,767
+A diesel used only for short trips
+
+419
+00:16:24,767 --> 00:16:27,820
+around town can run into extra maintenance.
+
+420
+00:16:28,170 --> 00:16:29,459
+Climate matters too.
+
+421
+00:16:29,639 --> 00:16:31,227
+In very cold weather,
+
+422
+00:16:31,227 --> 00:16:34,024
+diesel fuel can gel without the right
+
+423
+00:16:34,024 --> 00:16:35,990
+winter blend or additives,
+
+424
+00:16:35,990 --> 00:16:39,090
+and some diesel owners use block heaters.
+
+425
+00:16:39,270 --> 00:16:42,010
+Hybrids can lose some efficiency in the
+
+426
+00:16:42,010 --> 00:16:42,923
+cold as well,
+
+427
+00:16:42,923 --> 00:16:45,664
+because the engine runs more to provide
+
+428
+00:16:45,664 --> 00:16:46,015
+heat.
+
+429
+00:16:46,195 --> 00:16:49,384
+Gas engines are generally the least sensitive
+
+430
+00:16:49,384 --> 00:16:51,013
+to cold weather starts.
+
+431
+00:16:51,363 --> 00:16:53,151
+And availability matters.
+
+432
+00:16:53,331 --> 00:16:55,863
+Diesel is sold at most truck stops
+
+433
+00:16:55,863 --> 00:16:57,501
+and many gas stations,
+
+434
+00:16:57,501 --> 00:16:59,661
+but not every station has it,
+
+435
+00:16:59,661 --> 00:17:01,969
+especially in some urban areas.
+
+436
+00:17:02,149 --> 00:17:04,274
+Gas is available everywhere.
+
+437
+00:17:04,454 --> 00:17:06,416
+A hybrid uses regular gas,
+
+438
+00:17:06,416 --> 00:17:08,831
+so there is nothing new to find.
+
+439
+00:17:09,011 --> 00:17:10,280
+For most drivers,
+
+440
+00:17:10,280 --> 00:17:12,967
+that convenience is a small but real
+
+441
+00:17:12,967 --> 00:17:13,713
+advantage.
+
+442
+00:17:14,062 --> 00:17:15,957
+Here is a final cost twist:
+
+443
+00:17:15,957 --> 00:17:18,904
+fuel price swings hit diesel owners harder
+
+444
+00:17:18,904 --> 00:17:22,131
+because diesel moves goods across the country.
+
+445
+00:17:22,311 --> 00:17:23,607
+When diesel rises,
+
+446
+00:17:23,607 --> 00:17:26,774
+the cost of shipping almost everything rises
+
+447
+00:17:26,774 --> 00:17:29,654
+with it, according to NPR's reporting on
+
+448
+00:17:29,654 --> 00:17:32,389
+the strain for hauling everyday goods.
+
+449
+00:17:32,569 --> 00:17:34,891
+So even owners of gas trucks feel
+
+450
+00:17:34,891 --> 00:17:37,213
+the diesel shock in other prices.
+
+451
+00:17:37,562 --> 00:17:38,966
+And for businesses,
+
+452
+00:17:38,966 --> 00:17:41,034
+the math is different again.
+
+453
+00:17:41,214 --> 00:17:44,410
+A contractor who tows equipment every day
+
+454
+00:17:44,410 --> 00:17:46,515
+may get a lot of value from
+
+455
+00:17:46,515 --> 00:17:49,712
+a diesel's durability and towing ability,
+
+456
+00:17:49,712 --> 00:17:52,441
+and fuel can be a business expense.
+
+457
+00:17:52,621 --> 00:17:55,098
+A family that tows a camper twice
+
+458
+00:17:55,098 --> 00:17:57,500
+a year will rarely earn back the
+
+459
+00:17:57,500 --> 00:17:59,227
+extra cost of a diesel.
+
+460
+00:17:59,577 --> 00:18:01,949
+Finally, think about how long you will
+
+461
+00:18:01,949 --> 00:18:02,885
+keep the truck.
+
+462
+00:18:03,065 --> 00:18:04,560
+The longer you keep it,
+
+463
+00:18:04,560 --> 00:18:06,704
+the more the fuel savings add up,
+
+464
+00:18:06,704 --> 00:18:09,497
+and the more a reliable powertrain matters.
+
+465
+00:18:09,677 --> 00:18:12,380
+If you trade trucks every three years,
+
+466
+00:18:12,380 --> 00:18:15,367
+the purchase price and resale value matter
+
+467
+00:18:15,367 --> 00:18:17,003
+more than fuel economy.
+
+468
+00:18:17,354 --> 00:18:19,742
+And remember that tires and weight matter
+
+469
+00:18:19,742 --> 00:18:20,732
+for every engine.
+
+470
+00:18:20,912 --> 00:18:22,194
+Big off-road tires,
+
+471
+00:18:22,194 --> 00:18:25,028
+lift kits and heavy accessories can reduce
+
+472
+00:18:25,028 --> 00:18:27,457
+fuel economy no matter what is under
+
+473
+00:18:27,457 --> 00:18:28,064
+the hood.
+
+474
+00:18:28,244 --> 00:18:30,849
+A hybrid with heavy mud tires may
+
+475
+00:18:30,849 --> 00:18:32,981
+lose much of its advantage.
+
+476
+00:18:33,161 --> 00:18:35,144
+Keep the truck close to stock if
+
+477
+00:18:35,144 --> 00:18:36,818
+fuel savings are your goal.
+
+478
+00:18:37,168 --> 00:18:39,350
+So who should choose which engine?
+
+479
+00:18:39,530 --> 00:18:41,725
+Let's go through the most common types
+
+480
+00:18:41,725 --> 00:18:42,649
+of truck owners,
+
+481
+00:18:42,649 --> 00:18:44,209
+starting with the commuter.
+
+482
+00:18:44,389 --> 00:18:46,465
+If you mostly drive to work,
+
+483
+00:18:46,465 --> 00:18:48,467
+run errands and rarely tow,
+
+484
+00:18:48,467 --> 00:18:50,914
+the hybrid is usually the winner.
+
+485
+00:18:51,094 --> 00:18:53,282
+It saves the most fuel in city
+
+486
+00:18:53,282 --> 00:18:54,814
+and suburban driving,
+
+487
+00:18:54,814 --> 00:18:57,148
+and AAA's study shows it was the
+
+488
+00:18:57,148 --> 00:18:58,826
+cheapest pickup to own.
+
+489
+00:18:59,176 --> 00:19:02,415
+Next, the highway driver who tows occasionally.
+
+490
+00:19:02,595 --> 00:19:05,288
+A gas engine or a hybrid usually
+
+491
+00:19:05,288 --> 00:19:06,298
+makes sense.
+
+492
+00:19:06,478 --> 00:19:09,059
+The gas engine is cheaper to buy
+
+493
+00:19:09,059 --> 00:19:10,995
+and simpler to maintain.
+
+494
+00:19:11,175 --> 00:19:13,343
+The hybrid saves more fuel if you
+
+495
+00:19:13,343 --> 00:19:15,052
+do a lot of mixed driving.
+
+496
+00:19:15,232 --> 00:19:17,987
+A light-duty diesel is hard to justify
+
+497
+00:19:17,987 --> 00:19:21,103
+at twenty twenty-six fuel prices unless you
+
+498
+00:19:21,103 --> 00:19:23,278
+get very high highway mileage.
+
+499
+00:19:23,628 --> 00:19:24,858
+Then the heavy tower.
+
+500
+00:19:25,038 --> 00:19:27,038
+If you pull a large camper,
+
+501
+00:19:27,038 --> 00:19:29,853
+horse trailer or equipment every week,
+
+502
+00:19:29,853 --> 00:19:32,668
+a heavy-duty diesel is still often the
+
+503
+00:19:32,668 --> 00:19:33,409
+best tool.
+
+504
+00:19:33,589 --> 00:19:35,630
+The fuel cost hurts more now,
+
+505
+00:19:35,630 --> 00:19:37,459
+but the towing capability,
+
+506
+00:19:37,459 --> 00:19:40,555
+engine braking and durability under load are
+
+507
+00:19:40,555 --> 00:19:41,681
+hard to replace.
+
+508
+00:19:41,861 --> 00:19:43,262
+For these owners,
+
+509
+00:19:43,262 --> 00:19:45,983
+safety and capability come first.
+
+510
+00:19:46,333 --> 00:19:47,691
+And the budget buyer.
+
+511
+00:19:47,871 --> 00:19:51,026
+If the lowest purchase price matters most,
+
+512
+00:19:51,026 --> 00:19:53,430
+a base gas engine is usually the
+
+513
+00:19:53,430 --> 00:19:55,383
+cheapest way into a truck.
+
+514
+00:19:55,563 --> 00:19:57,331
+And in the small truck class,
+
+515
+00:19:57,331 --> 00:19:59,954
+the Maverick hybrid shows that the cheapest
+
+516
+00:19:59,954 --> 00:20:02,394
+choice and the most efficient choice can
+
+517
+00:20:02,394 --> 00:20:03,492
+be the same truck.
+
+518
+00:20:03,843 --> 00:20:05,604
+Here is one more twist:
+
+519
+00:20:05,604 --> 00:20:07,825
+fuel prices can change again.
+
+520
+00:20:08,005 --> 00:20:11,445
+President Trump said oil prices likely would
+
+521
+00:20:11,445 --> 00:20:14,651
+not fall until after the November midterm
+
+522
+00:20:14,651 --> 00:20:16,840
+elections, according to NPR.
+
+523
+00:20:17,020 --> 00:20:19,458
+And S and P Global's Jim Burkhard
+
+524
+00:20:19,458 --> 00:20:21,896
+said the market is adjusting to a
+
+525
+00:20:21,896 --> 00:20:22,709
+new normal.
+
+526
+00:20:22,889 --> 00:20:25,740
+Nobody knows where diesel will be in
+
+527
+00:20:25,740 --> 00:20:27,324
+twenty twenty-seven.
+
+528
+00:20:27,504 --> 00:20:29,950
+So choose a truck that makes sense
+
+529
+00:20:29,950 --> 00:20:31,749
+across a range of prices,
+
+530
+00:20:31,749 --> 00:20:32,972
+not just today's.
+
+531
+00:20:33,323 --> 00:20:35,277
+A simple way to do that is
+
+532
+00:20:35,277 --> 00:20:37,456
+to run your own math at three
+
+533
+00:20:37,456 --> 00:20:39,110
+prices: today's price,
+
+534
+00:20:39,110 --> 00:20:41,891
+last year's price and a higher price.
+
+535
+00:20:42,071 --> 00:20:44,578
+If one engine wins in all three
+
+536
+00:20:44,578 --> 00:20:46,761
+cases, it is a safe choice.
+
+537
+00:20:46,941 --> 00:20:48,892
+If it only wins when fuel is
+
+538
+00:20:48,892 --> 00:20:50,842
+cheap, you are taking a bet.
+
+539
+00:20:51,192 --> 00:20:53,664
+Let's summarize what the numbers say.
+
+540
+00:20:53,844 --> 00:20:55,494
+In twenty twenty-six,
+
+541
+00:20:55,494 --> 00:20:58,401
+the hybrid pickup was the cheapest to
+
+542
+00:20:58,401 --> 00:20:59,893
+own in AAA's study.
+
+543
+00:21:00,073 --> 00:21:03,895
+Diesel's fuel advantage disappeared for most drivers
+
+544
+00:21:03,895 --> 00:21:07,202
+when diesel became two dollars more expensive
+
+545
+00:21:07,202 --> 00:21:07,864
+than gas.
+
+546
+00:21:08,044 --> 00:21:10,621
+Gas engines are still the cheapest to
+
+547
+00:21:10,621 --> 00:21:12,920
+buy and the simplest to maintain.
+
+548
+00:21:13,100 --> 00:21:16,710
+And heavy-duty diesels still rule heavy towing.
+
+549
+00:21:17,060 --> 00:21:19,404
+So here is your engine checklist for
+
+550
+00:21:19,404 --> 00:21:20,706
+twenty twenty-seven.
+
+551
+00:21:20,886 --> 00:21:23,390
+One: divide the diesel price by the
+
+552
+00:21:23,390 --> 00:21:25,680
+gas price to see how much better
+
+553
+00:21:25,680 --> 00:21:27,039
+the diesel must be.
+
+554
+00:21:27,219 --> 00:21:30,737
+Two: estimate fuel for your real miles.
+
+555
+00:21:30,917 --> 00:21:34,420
+Three: compare the option prices and payback
+
+556
+00:21:34,420 --> 00:21:34,818
+time.
+
+557
+00:21:34,998 --> 00:21:37,843
+Four: think about towing needs honestly.
+
+558
+00:21:38,023 --> 00:21:40,704
+And five: test your choice at different
+
+559
+00:21:40,704 --> 00:21:41,529
+fuel prices.
+
+560
+00:21:41,879 --> 00:21:44,101
+We put a fuel cost worksheet and
+
+561
+00:21:44,101 --> 00:21:47,017
+the full engine comparison into the Twenty
+
+562
+00:21:47,017 --> 00:21:49,309
+Twenty-Seven Truck Buyer's Guide.
+
+563
+00:21:49,489 --> 00:21:51,850
+The link is in the description and
+
+564
+00:21:51,850 --> 00:21:53,378
+in the pinned comment.
+
+565
+00:21:53,558 --> 00:21:55,499
+Subscribe for the next video:
+
+566
+00:21:55,499 --> 00:21:58,644
+the complete truck buyer's checklist for twenty
+
+567
+00:21:58,644 --> 00:21:59,514
+twenty-seven.
+
+568
+00:21:59,694 --> 00:22:01,929
+And tell us in the comments:
+
+569
+00:22:01,929 --> 00:22:03,685
+diesel, gas or hybrid,
+
+570
+00:22:03,685 --> 00:22:05,441
+what is in your truck?
+
+571
+00:22:05,621 --> 00:22:06,770
+Thanks for watching.
