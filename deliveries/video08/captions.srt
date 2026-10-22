@@ -1,0 +1,2171 @@
+1
+00:00:00,000 --> 00:00:03,514
+One pickup keeps about eighty percent of
+
+2
+00:00:03,514 --> 00:00:05,886
+its value after five years.
+
+3
+00:00:06,066 --> 00:00:09,521
+The best-selling truck in America loses nearly
+
+4
+00:00:09,521 --> 00:00:11,023
+thirty-nine percent.
+
+5
+00:00:11,203 --> 00:00:13,349
+On a sixty thousand dollar truck,
+
+6
+00:00:13,349 --> 00:00:15,494
+that is a difference of more than
+
+7
+00:00:15,494 --> 00:00:17,055
+eleven thousand dollars.
+
+8
+00:00:17,235 --> 00:00:19,475
+And the truck that holds its value
+
+9
+00:00:19,475 --> 00:00:21,320
+best of all might not be the
+
+10
+00:00:21,320 --> 00:00:22,308
+one you expect.
+
+11
+00:00:22,488 --> 00:00:24,958
+Here are the trucks that hold their
+
+12
+00:00:24,958 --> 00:00:27,004
+value, with the real numbers.
+
+13
+00:00:27,355 --> 00:00:28,883
+When you buy a truck,
+
+14
+00:00:28,883 --> 00:00:30,994
+the price you pay is only the
+
+15
+00:00:30,994 --> 00:00:31,940
+first number.
+
+16
+00:00:32,120 --> 00:00:34,113
+The second number is what it is
+
+17
+00:00:34,113 --> 00:00:35,592
+worth when you sell it.
+
+18
+00:00:35,772 --> 00:00:37,792
+And the gap between the two is
+
+19
+00:00:37,792 --> 00:00:40,149
+the real cost of owning that truck.
+
+20
+00:00:40,329 --> 00:00:43,269
+A truck that loses twenty percent of
+
+21
+00:00:43,269 --> 00:00:45,965
+its value in five years costs you
+
+22
+00:00:45,965 --> 00:00:48,824
+far less than one that loses forty,
+
+23
+00:00:48,824 --> 00:00:51,764
+even if the sticker price is exactly
+
+24
+00:00:51,764 --> 00:00:54,133
+the same on the day you sign.
+
+25
+00:00:54,482 --> 00:00:57,138
+The data we use comes from iSeeCars,
+
+26
+00:00:57,138 --> 00:01:00,606
+which analyzed more than three million vehicles
+
+27
+00:01:00,606 --> 00:01:03,409
+to calculate how much value each model
+
+28
+00:01:03,409 --> 00:01:05,106
+keeps after five years.
+
+29
+00:01:05,286 --> 00:01:08,431
+Their truck pages list the five-year resale
+
+30
+00:01:08,431 --> 00:01:10,772
+value, which is the share of the
+
+31
+00:01:10,772 --> 00:01:13,552
+original price a truck is still worth.
+
+32
+00:01:13,732 --> 00:01:17,180
+We turn that into depreciation by subtracting
+
+33
+00:01:17,180 --> 00:01:19,096
+from one hundred percent.
+
+34
+00:01:19,276 --> 00:01:21,684
+And we use a May twenty twenty-six
+
+35
+00:01:21,684 --> 00:01:24,941
+article from SlashGear for the dollar figures.
+
+36
+00:01:25,121 --> 00:01:27,966
+Every source is listed in the description.
+
+37
+00:01:28,316 --> 00:01:30,614
+A caution before we start.
+
+38
+00:01:30,794 --> 00:01:33,571
+These are averages across a huge number
+
+39
+00:01:33,571 --> 00:01:35,779
+of trucks, so your truck can be
+
+40
+00:01:35,779 --> 00:01:38,698
+better or worse depending on the mileage,
+
+41
+00:01:38,698 --> 00:01:40,407
+the condition, the trim,
+
+42
+00:01:40,407 --> 00:01:42,544
+and the market where you sell.
+
+43
+00:01:42,724 --> 00:01:45,251
+And the iSeeCars pages we read show
+
+44
+00:01:45,251 --> 00:01:47,562
+only the top five trucks in each
+
+45
+00:01:47,562 --> 00:01:50,523
+category, so some trucks you might expect
+
+46
+00:01:50,523 --> 00:01:53,195
+to see, like the Chevrolet Silverado,
+
+47
+00:01:53,195 --> 00:01:55,073
+are not in the part of the
+
+48
+00:01:55,073 --> 00:01:56,806
+list that we could read.
+
+49
+00:01:56,986 --> 00:01:58,891
+We will not guess their numbers.
+
+50
+00:01:59,240 --> 00:02:01,883
+So here are six groups of trucks,
+
+51
+00:02:01,883 --> 00:02:03,884
+and a twist in every one.
+
+52
+00:02:04,064 --> 00:02:06,450
+One truck sits right behind a Porsche
+
+53
+00:02:06,450 --> 00:02:07,675
+in the whole study.
+
+54
+00:02:07,855 --> 00:02:10,647
+One sells in huge numbers and still
+
+55
+00:02:10,647 --> 00:02:12,801
+loses almost forty percent.
+
+56
+00:02:12,981 --> 00:02:15,851
+One small truck beats a bigger rival,
+
+57
+00:02:15,851 --> 00:02:18,333
+and one truck that is falling in
+
+58
+00:02:18,333 --> 00:02:20,504
+sales still holds its value.
+
+59
+00:02:20,684 --> 00:02:21,495
+Stay with me,
+
+60
+00:02:21,495 --> 00:02:23,677
+because the last twist is about the
+
+61
+00:02:23,677 --> 00:02:25,360
+truck that most people buy,
+
+62
+00:02:25,360 --> 00:02:27,542
+and it affects how you should think
+
+63
+00:02:27,542 --> 00:02:28,602
+about a purchase.
+
+64
+00:02:28,953 --> 00:02:31,621
+Number one is the Toyota Tacoma,
+
+65
+00:02:31,621 --> 00:02:33,538
+and it is the champion.
+
+66
+00:02:33,718 --> 00:02:36,818
+According to the iSeeCars truck page,
+
+67
+00:02:36,818 --> 00:02:39,666
+the Tacoma keeps eighty and a half
+
+68
+00:02:39,666 --> 00:02:42,849
+percent of its value after five years,
+
+69
+00:02:42,849 --> 00:02:46,283
+which is a depreciation of nineteen point
+
+70
+00:02:46,283 --> 00:02:47,372
+five percent.
+
+71
+00:02:47,552 --> 00:02:49,897
+That is the best of any midsize
+
+72
+00:02:49,897 --> 00:02:52,091
+truck, by a very wide margin.
+
+73
+00:02:52,271 --> 00:02:54,724
+The next one on the midsize list,
+
+74
+00:02:54,724 --> 00:02:55,913
+the Ford Ranger,
+
+75
+00:02:55,913 --> 00:02:58,738
+keeps sixty-eight point eight percent.
+
+76
+00:02:59,088 --> 00:03:00,812
+The SlashGear article,
+
+77
+00:03:00,812 --> 00:03:03,792
+which cites the iSeeCars study of cars
+
+78
+00:03:03,792 --> 00:03:05,517
+that hold their value,
+
+79
+00:03:05,517 --> 00:03:08,182
+gives a slightly different figure,
+
+80
+00:03:08,182 --> 00:03:10,378
+nineteen point nine percent,
+
+81
+00:03:10,378 --> 00:03:12,730
+and that matches a drop of six
+
+82
+00:03:12,730 --> 00:03:16,650
+thousand, four hundred twenty-six dollars from the
+
+83
+00:03:16,650 --> 00:03:18,453
+original selling price.
+
+84
+00:03:18,633 --> 00:03:20,547
+The two figures are close,
+
+85
+00:03:20,547 --> 00:03:23,271
+and they come from different pages of
+
+86
+00:03:23,271 --> 00:03:24,375
+the same study,
+
+87
+00:03:24,375 --> 00:03:25,553
+so we show both.
+
+88
+00:03:25,733 --> 00:03:27,172
+And here is the twist.
+
+89
+00:03:27,352 --> 00:03:30,360
+The Tacoma holds its value better than
+
+90
+00:03:30,360 --> 00:03:33,606
+almost every vehicle in the entire study,
+
+91
+00:03:33,606 --> 00:03:35,189
+not just the trucks.
+
+92
+00:03:35,539 --> 00:03:39,563
+SlashGear calls the Tacoma the fourth-best vehicle
+
+93
+00:03:39,563 --> 00:03:40,287
+outright.
+
+94
+00:03:40,467 --> 00:03:43,276
+Only three cars held their value better
+
+95
+00:03:43,276 --> 00:03:46,372
+than it, the Porsche seven eighteen Cayman,
+
+96
+00:03:46,372 --> 00:03:48,101
+the Porsche nine eleven,
+
+97
+00:03:48,101 --> 00:03:50,045
+and the Chevrolet Corvette.
+
+98
+00:03:50,225 --> 00:03:53,035
+It even beat the Toyota GR Supra.
+
+99
+00:03:53,215 --> 00:03:55,250
+A work truck for a few tens
+
+100
+00:03:55,250 --> 00:03:58,266
+of thousands of dollars sits just behind
+
+101
+00:03:58,266 --> 00:03:59,020
+a Porsche.
+
+102
+00:03:59,200 --> 00:04:01,950
+And the article notes that Toyotas take
+
+103
+00:04:01,950 --> 00:04:04,701
+nearly half of the twenty-five spots on
+
+104
+00:04:04,701 --> 00:04:06,746
+the lowest-depreciation list.
+
+105
+00:04:07,097 --> 00:04:09,683
+Number two is the Toyota Tundra,
+
+106
+00:04:09,683 --> 00:04:12,513
+and it is the full-size champion by
+
+107
+00:04:12,513 --> 00:04:13,645
+a huge margin.
+
+108
+00:04:13,825 --> 00:04:17,072
+The iSeeCars truck page shows eighty and
+
+109
+00:04:17,072 --> 00:04:20,238
+three tenths percent of its value after
+
+110
+00:04:20,238 --> 00:04:23,810
+five years, a depreciation of nineteen point
+
+111
+00:04:23,810 --> 00:04:24,947
+seven percent.
+
+112
+00:04:25,127 --> 00:04:27,770
+The next full-size truck on the list
+
+113
+00:04:27,770 --> 00:04:30,413
+is the Ram one thousand five hundred
+
+114
+00:04:30,413 --> 00:04:32,836
+at sixty-one point eight percent.
+
+115
+00:04:33,016 --> 00:04:35,621
+That is a gap of about eighteen
+
+116
+00:04:35,621 --> 00:04:36,209
+points.
+
+117
+00:04:36,559 --> 00:04:40,130
+The SlashGear article gives a slightly different
+
+118
+00:04:40,130 --> 00:04:41,766
+number for the Tundra,
+
+119
+00:04:41,766 --> 00:04:44,891
+twenty-one point two percent depreciation,
+
+120
+00:04:44,891 --> 00:04:47,420
+which is a drop of eight thousand,
+
+121
+00:04:47,420 --> 00:04:51,066
+seven hundred forty-six dollars from the original
+
+122
+00:04:51,066 --> 00:04:51,512
+price.
+
+123
+00:04:51,692 --> 00:04:53,782
+So between the two sources,
+
+124
+00:04:53,782 --> 00:04:57,420
+the Tundra loses somewhere between nineteen and
+
+125
+00:04:57,420 --> 00:04:58,890
+twenty-one percent.
+
+126
+00:04:59,070 --> 00:05:01,580
+That is half of what its rivals
+
+127
+00:05:01,580 --> 00:05:01,984
+lose.
+
+128
+00:05:02,164 --> 00:05:03,825
+And here is the twist.
+
+129
+00:05:04,005 --> 00:05:07,478
+The Tundra is not the best-selling full-size
+
+130
+00:05:07,478 --> 00:05:07,952
+truck.
+
+131
+00:05:08,132 --> 00:05:10,545
+It sold one hundred ten thousand and
+
+132
+00:05:10,545 --> 00:05:13,763
+eighty through nine months of twenty twenty-six.
+
+133
+00:05:13,943 --> 00:05:16,213
+It is the best at keeping its
+
+134
+00:05:16,213 --> 00:05:16,683
+value.
+
+135
+00:05:17,033 --> 00:05:18,797
+Number three is a group,
+
+136
+00:05:18,797 --> 00:05:20,415
+the heavy-duty trucks,
+
+137
+00:05:20,415 --> 00:05:22,327
+and they are the surprise.
+
+138
+00:05:22,507 --> 00:05:24,278
+On the iSeeCars list,
+
+139
+00:05:24,278 --> 00:05:27,737
+the Ram three thousand five hundred keeps
+
+140
+00:05:27,737 --> 00:05:31,533
+seventy-nine point eight percent of its value
+
+141
+00:05:31,533 --> 00:05:32,967
+after five years.
+
+142
+00:05:33,147 --> 00:05:37,850
+The Ford F-three-fifty Super Duty keeps seventy-nine
+
+143
+00:05:37,850 --> 00:05:38,755
+point six.
+
+144
+00:05:38,935 --> 00:05:42,674
+The Ford F-four-fifty keeps seventy-seven percent,
+
+145
+00:05:42,674 --> 00:05:45,740
+the F-two-fifty seventy-five point seven,
+
+146
+00:05:45,740 --> 00:05:48,506
+and the Ram two thousand five hundred
+
+147
+00:05:48,506 --> 00:05:50,301
+seventy-four point nine.
+
+148
+00:05:50,651 --> 00:05:51,858
+Look at the twist.
+
+149
+00:05:52,038 --> 00:05:55,460
+The heavy-duty trucks hold their value almost
+
+150
+00:05:55,460 --> 00:05:57,666
+as well as the Tacoma and the
+
+151
+00:05:57,666 --> 00:06:01,925
+Tundra, with depreciation between twenty and twenty-five
+
+152
+00:06:01,925 --> 00:06:02,533
+percent.
+
+153
+00:06:02,713 --> 00:06:05,036
+That is much better than the half-ton
+
+154
+00:06:05,036 --> 00:06:06,982
+trucks that sit next to them on
+
+155
+00:06:06,982 --> 00:06:07,799
+the same lot.
+
+156
+00:06:07,979 --> 00:06:10,653
+A buyer who needs a one-ton truck
+
+157
+00:06:10,653 --> 00:06:13,084
+for work is also buying one of
+
+158
+00:06:13,084 --> 00:06:16,164
+the best-protected assets on the list.
+
+159
+00:06:16,344 --> 00:06:18,097
+These trucks are expensive,
+
+160
+00:06:18,097 --> 00:06:20,175
+but they are slow to lose value.
+
+161
+00:06:20,525 --> 00:06:22,584
+Number four is the rest of the
+
+162
+00:06:22,584 --> 00:06:25,399
+midsize group, and the order is different
+
+163
+00:06:25,399 --> 00:06:26,840
+from the sales table.
+
+164
+00:06:27,020 --> 00:06:30,441
+The Ford Ranger keeps sixty-eight point eight
+
+165
+00:06:30,441 --> 00:06:31,049
+percent.
+
+166
+00:06:31,229 --> 00:06:35,757
+The GMC Canyon keeps sixty-six point eight.
+
+167
+00:06:35,937 --> 00:06:39,675
+The Jeep Gladiator keeps sixty-five point two.
+
+168
+00:06:39,855 --> 00:06:43,424
+And the Nissan Frontier keeps sixty-three point
+
+169
+00:06:43,424 --> 00:06:45,929
+four, which is the fifth entry on
+
+170
+00:06:45,929 --> 00:06:46,612
+the list.
+
+171
+00:06:46,792 --> 00:06:49,191
+All four are well behind the Tacoma,
+
+172
+00:06:49,191 --> 00:06:51,123
+at eighty and a half percent.
+
+173
+00:06:51,473 --> 00:06:52,993
+Here is the twist.
+
+174
+00:06:53,173 --> 00:06:57,048
+The Nissan Frontier is the fastest-growing truck
+
+175
+00:06:57,048 --> 00:06:58,016
+of the year,
+
+176
+00:06:58,016 --> 00:07:01,567
+up almost forty percent through nine months.
+
+177
+00:07:01,747 --> 00:07:03,112
+But in this list,
+
+178
+00:07:03,112 --> 00:07:05,762
+it has the lowest resale value of
+
+179
+00:07:05,762 --> 00:07:06,484
+the five.
+
+180
+00:07:06,664 --> 00:07:08,316
+And the Jeep Gladiator,
+
+181
+00:07:08,316 --> 00:07:11,116
+whose sales fell nearly twenty percent,
+
+182
+00:07:11,116 --> 00:07:14,060
+still keeps more value than the Frontier.
+
+183
+00:07:14,240 --> 00:07:16,750
+So sales and resale do not move
+
+184
+00:07:16,750 --> 00:07:17,479
+together.
+
+185
+00:07:17,659 --> 00:07:20,058
+A truck that is selling fast can
+
+186
+00:07:20,058 --> 00:07:21,932
+still lose value quickly,
+
+187
+00:07:21,932 --> 00:07:24,480
+and a truck that is selling slowly
+
+188
+00:07:24,480 --> 00:07:25,380
+can keep it.
+
+189
+00:07:25,730 --> 00:07:28,021
+Number five is the small trucks,
+
+190
+00:07:28,021 --> 00:07:30,097
+and there are only two on the
+
+191
+00:07:30,097 --> 00:07:30,455
+list.
+
+192
+00:07:30,635 --> 00:07:34,300
+The Ford Maverick keeps sixty-eight point two
+
+193
+00:07:34,300 --> 00:07:37,395
+percent of its value after five years,
+
+194
+00:07:37,395 --> 00:07:41,386
+a depreciation of thirty-one point eight percent.
+
+195
+00:07:41,566 --> 00:07:45,252
+The Hyundai Santa Cruz keeps sixty-five point
+
+196
+00:07:45,252 --> 00:07:49,019
+one, a depreciation of thirty-four point nine.
+
+197
+00:07:49,199 --> 00:07:51,305
+So the Maverick is ahead,
+
+198
+00:07:51,305 --> 00:07:53,158
+by about three points.
+
+199
+00:07:53,509 --> 00:07:55,192
+And here is the twist.
+
+200
+00:07:55,372 --> 00:07:58,227
+The Santa Cruz sold fourteen thousand,
+
+201
+00:07:58,227 --> 00:08:01,758
+eight hundred eleven trucks through nine months
+
+202
+00:08:01,758 --> 00:08:03,335
+of twenty twenty-six,
+
+203
+00:08:03,335 --> 00:08:05,288
+down twenty-eight percent,
+
+204
+00:08:05,288 --> 00:08:07,842
+and reports say it is being phased
+
+205
+00:08:07,842 --> 00:08:08,143
+out.
+
+206
+00:08:08,323 --> 00:08:11,186
+Yet it still holds sixty-five percent of
+
+207
+00:08:11,186 --> 00:08:13,118
+its value after five years,
+
+208
+00:08:13,118 --> 00:08:15,981
+which is better than the Nissan Frontier
+
+209
+00:08:15,981 --> 00:08:17,913
+and close to the Gladiator.
+
+210
+00:08:18,093 --> 00:08:20,254
+A truck can be discontinued,
+
+211
+00:08:20,254 --> 00:08:22,569
+and still keep a good share of
+
+212
+00:08:22,569 --> 00:08:23,341
+its value.
+
+213
+00:08:23,521 --> 00:08:25,517
+But the reports are unconfirmed,
+
+214
+00:08:25,517 --> 00:08:27,201
+and the market will decide.
+
+215
+00:08:27,551 --> 00:08:29,920
+Number six is the group that most
+
+216
+00:08:29,920 --> 00:08:33,222
+people buy, the full-size half-ton trucks from
+
+217
+00:08:33,222 --> 00:08:33,797
+Detroit.
+
+218
+00:08:33,977 --> 00:08:35,885
+On the iSeeCars list,
+
+219
+00:08:35,885 --> 00:08:39,428
+the Ram one thousand five hundred keeps
+
+220
+00:08:39,428 --> 00:08:43,334
+sixty-one point eight percent of its value.
+
+221
+00:08:43,514 --> 00:08:47,973
+The Ford F-one-fifty keeps sixty-one point four.
+
+222
+00:08:48,153 --> 00:08:51,514
+The GMC Sierra one thousand five hundred
+
+223
+00:08:51,514 --> 00:08:54,371
+Limited keeps sixty-one point one,
+
+224
+00:08:54,371 --> 00:08:57,732
+and the regular Sierra one thousand five
+
+225
+00:08:57,732 --> 00:08:59,832
+hundred sixty point five.
+
+226
+00:09:00,012 --> 00:09:03,319
+Those are depreciations of about thirty-eight and
+
+227
+00:09:03,319 --> 00:09:05,411
+a half to almost forty percent.
+
+228
+00:09:05,761 --> 00:09:07,351
+Now the final twist,
+
+229
+00:09:07,351 --> 00:09:08,942
+and it matters most.
+
+230
+00:09:09,122 --> 00:09:12,568
+The three best-selling truck lines in America,
+
+231
+00:09:12,568 --> 00:09:13,916
+the Ford F-Series,
+
+232
+00:09:13,916 --> 00:09:16,613
+the Chevrolet Silverado and the Ram,
+
+233
+00:09:16,613 --> 00:09:19,759
+together made up fifty-nine percent of the
+
+234
+00:09:19,759 --> 00:09:22,157
+sales of the top ten trucks this
+
+235
+00:09:22,157 --> 00:09:22,531
+year.
+
+236
+00:09:22,711 --> 00:09:24,036
+And in this list,
+
+237
+00:09:24,036 --> 00:09:26,295
+the two of them that we could
+
+238
+00:09:26,295 --> 00:09:29,021
+read lose close to forty percent of
+
+239
+00:09:29,021 --> 00:09:29,956
+their value.
+
+240
+00:09:30,136 --> 00:09:32,995
+A truck that sells in huge numbers
+
+241
+00:09:32,995 --> 00:09:34,256
+is easy to buy,
+
+242
+00:09:34,256 --> 00:09:35,685
+and easy to sell.
+
+243
+00:09:35,865 --> 00:09:37,641
+But it is not a truck that
+
+244
+00:09:37,641 --> 00:09:38,733
+holds its price.
+
+245
+00:09:39,083 --> 00:09:40,934
+Let's put that in dollars,
+
+246
+00:09:40,934 --> 00:09:43,354
+with an example that is clearly an
+
+247
+00:09:43,354 --> 00:09:43,924
+example.
+
+248
+00:09:44,104 --> 00:09:47,283
+Imagine a truck that costs fifty thousand
+
+249
+00:09:47,283 --> 00:09:48,214
+dollars new.
+
+250
+00:09:48,394 --> 00:09:49,951
+At the Tundra's rate,
+
+251
+00:09:49,951 --> 00:09:52,101
+nineteen point seven percent,
+
+252
+00:09:52,101 --> 00:09:54,993
+it would be worth about forty thousand,
+
+253
+00:09:54,993 --> 00:09:58,181
+one hundred fifty dollars after five years.
+
+254
+00:09:58,361 --> 00:10:00,243
+At the F-one-fifty's rate,
+
+255
+00:10:00,243 --> 00:10:02,487
+thirty-eight point six percent,
+
+256
+00:10:02,487 --> 00:10:05,382
+it would be worth about thirty thousand,
+
+257
+00:10:05,382 --> 00:10:06,395
+seven hundred.
+
+258
+00:10:06,575 --> 00:10:09,035
+That is a difference of nine thousand,
+
+259
+00:10:09,035 --> 00:10:10,783
+four hundred fifty dollars,
+
+260
+00:10:10,783 --> 00:10:12,531
+on the same starting price.
+
+261
+00:10:12,881 --> 00:10:14,587
+To make this real,
+
+262
+00:10:14,587 --> 00:10:16,863
+let's run four examples.
+
+263
+00:10:17,043 --> 00:10:18,559
+These are examples,
+
+264
+00:10:18,559 --> 00:10:19,836
+not real quotes,
+
+265
+00:10:19,836 --> 00:10:22,708
+and we use the iSeeCars percentages.
+
+266
+00:10:22,888 --> 00:10:26,013
+First, a midsize truck that costs forty
+
+267
+00:10:26,013 --> 00:10:27,695
+thousand dollars new.
+
+268
+00:10:27,875 --> 00:10:31,127
+The Tacoma, at nineteen point five percent
+
+269
+00:10:31,127 --> 00:10:34,224
+depreciation, would lose seven thousand,
+
+270
+00:10:34,224 --> 00:10:35,927
+eight hundred dollars,
+
+271
+00:10:35,927 --> 00:10:38,482
+and be worth thirty-two thousand,
+
+272
+00:10:38,482 --> 00:10:40,727
+two hundred after five years.
+
+273
+00:10:40,907 --> 00:10:43,514
+The Ranger would lose twelve thousand,
+
+274
+00:10:43,514 --> 00:10:45,435
+four hundred eighty dollars.
+
+275
+00:10:45,785 --> 00:10:48,686
+Continue with the same forty thousand dollar
+
+276
+00:10:48,686 --> 00:10:49,082
+truck.
+
+277
+00:10:49,262 --> 00:10:50,591
+The Jeep Gladiator,
+
+278
+00:10:50,591 --> 00:10:53,040
+at thirty-four point eight percent,
+
+279
+00:10:53,040 --> 00:10:55,070
+would lose thirteen thousand,
+
+280
+00:10:55,070 --> 00:10:57,029
+nine hundred twenty dollars.
+
+281
+00:10:57,209 --> 00:10:59,098
+And the Nissan Frontier,
+
+282
+00:10:59,098 --> 00:11:00,987
+at thirty-six point six,
+
+283
+00:11:00,987 --> 00:11:03,269
+would lose fourteen thousand,
+
+284
+00:11:03,269 --> 00:11:04,686
+six hundred forty.
+
+285
+00:11:04,866 --> 00:11:07,443
+So between the Tacoma and the Frontier,
+
+286
+00:11:07,443 --> 00:11:10,021
+the same starting price would leave you
+
+287
+00:11:10,021 --> 00:11:12,268
+with a difference of six thousand,
+
+288
+00:11:12,268 --> 00:11:14,846
+eight hundred forty dollars in what the
+
+289
+00:11:14,846 --> 00:11:15,837
+truck is worth.
+
+290
+00:11:16,187 --> 00:11:20,013
+Second example, a heavy-duty truck that costs
+
+291
+00:11:20,013 --> 00:11:22,479
+seventy thousand dollars new.
+
+292
+00:11:22,659 --> 00:11:25,304
+The Ram three thousand five hundred,
+
+293
+00:11:25,304 --> 00:11:27,361
+at twenty point two percent,
+
+294
+00:11:27,361 --> 00:11:29,491
+would lose fourteen thousand,
+
+295
+00:11:29,491 --> 00:11:31,401
+one hundred forty dollars.
+
+296
+00:11:31,581 --> 00:11:35,136
+The Ford F-three-fifty would lose fourteen thousand,
+
+297
+00:11:35,136 --> 00:11:36,434
+two hundred eighty.
+
+298
+00:11:36,614 --> 00:11:40,336
+The F-four-fifty would lose sixteen thousand,
+
+299
+00:11:40,336 --> 00:11:41,328
+one hundred.
+
+300
+00:11:41,508 --> 00:11:45,293
+The F-two-fifty, seventeen thousand and ten.
+
+301
+00:11:45,473 --> 00:11:48,254
+And the Ram two thousand five hundred,
+
+302
+00:11:48,254 --> 00:11:51,255
+seventeen thousand, five hundred seventy.
+
+303
+00:11:51,605 --> 00:11:54,707
+Third example, a small truck that costs
+
+304
+00:11:54,707 --> 00:11:56,934
+thirty thousand dollars new.
+
+305
+00:11:57,114 --> 00:12:00,786
+The Maverick, at thirty-one point eight percent,
+
+306
+00:12:00,786 --> 00:12:02,699
+would lose nine thousand,
+
+307
+00:12:02,699 --> 00:12:04,765
+five hundred forty dollars.
+
+308
+00:12:04,945 --> 00:12:06,058
+The Santa Cruz,
+
+309
+00:12:06,058 --> 00:12:07,989
+at thirty-four point nine,
+
+310
+00:12:07,989 --> 00:12:09,771
+would lose ten thousand,
+
+311
+00:12:09,771 --> 00:12:11,330
+four hundred seventy.
+
+312
+00:12:11,510 --> 00:12:14,134
+The difference is nine hundred thirty dollars.
+
+313
+00:12:14,314 --> 00:12:15,468
+Not very large,
+
+314
+00:12:15,468 --> 00:12:17,854
+but it is money that comes back
+
+315
+00:12:17,854 --> 00:12:19,393
+to you, or does not,
+
+316
+00:12:19,393 --> 00:12:20,932
+on the day you sell.
+
+317
+00:12:21,282 --> 00:12:24,635
+Fourth example, the one that matters most,
+
+318
+00:12:24,635 --> 00:12:28,067
+a full-size truck that costs sixty thousand
+
+319
+00:12:28,067 --> 00:12:29,025
+dollars new.
+
+320
+00:12:29,205 --> 00:12:32,459
+The Tundra, at nineteen point seven percent,
+
+321
+00:12:32,459 --> 00:12:34,456
+would lose eleven thousand,
+
+322
+00:12:34,456 --> 00:12:36,601
+eight hundred twenty dollars.
+
+323
+00:12:36,781 --> 00:12:39,498
+The Ram one thousand five hundred would
+
+324
+00:12:39,498 --> 00:12:41,239
+lose twenty-two thousand,
+
+325
+00:12:41,239 --> 00:12:42,632
+nine hundred twenty.
+
+326
+00:12:42,812 --> 00:12:46,548
+The F-one-fifty would lose twenty-three thousand,
+
+327
+00:12:46,548 --> 00:12:47,921
+one hundred sixty.
+
+328
+00:12:48,101 --> 00:12:50,882
+And the Sierra one thousand five hundred
+
+329
+00:12:50,882 --> 00:12:53,176
+would lose twenty-three thousand,
+
+330
+00:12:53,176 --> 00:12:54,150
+seven hundred.
+
+331
+00:12:54,500 --> 00:12:56,640
+Look at the gap in that last
+
+332
+00:12:56,640 --> 00:12:57,251
+example.
+
+333
+00:12:57,431 --> 00:12:59,753
+Between the Tundra and the Ram,
+
+334
+00:12:59,753 --> 00:13:02,899
+the difference in loss is eleven thousand,
+
+335
+00:13:02,899 --> 00:13:04,397
+one hundred dollars.
+
+336
+00:13:04,577 --> 00:13:06,995
+Between the Tundra and the Sierra,
+
+337
+00:13:06,995 --> 00:13:09,697
+eleven thousand, eight hundred eighty.
+
+338
+00:13:09,877 --> 00:13:11,705
+That is a large number,
+
+339
+00:13:11,705 --> 00:13:13,772
+and it is the same size as
+
+340
+00:13:13,772 --> 00:13:15,044
+a good used car.
+
+341
+00:13:15,224 --> 00:13:17,087
+It is the reason why a buyer
+
+342
+00:13:17,087 --> 00:13:19,017
+who plans to keep a truck for
+
+343
+00:13:19,017 --> 00:13:21,812
+only five years should think about resale,
+
+344
+00:13:21,812 --> 00:13:24,407
+and not only about the monthly payment.
+
+345
+00:13:24,757 --> 00:13:26,626
+Now the honest counterpoint.
+
+346
+00:13:26,806 --> 00:13:29,225
+The Tundra and the Ram are different
+
+347
+00:13:29,225 --> 00:13:31,307
+trucks, with different engines,
+
+348
+00:13:31,307 --> 00:13:34,062
+different prices, and different features.
+
+349
+00:13:34,242 --> 00:13:36,913
+A buyer who chooses the Ram because
+
+350
+00:13:36,913 --> 00:13:38,897
+they prefer how it drives,
+
+351
+00:13:38,897 --> 00:13:40,652
+or how much it can tow,
+
+352
+00:13:40,652 --> 00:13:43,017
+or the price they were offered,
+
+353
+00:13:43,017 --> 00:13:45,306
+is making a reasonable choice.
+
+354
+00:13:45,486 --> 00:13:48,737
+Resale value is one number among many.
+
+355
+00:13:48,917 --> 00:13:50,198
+It should be in your decision,
+
+356
+00:13:50,198 --> 00:13:51,435
+but it should not be the only
+
+357
+00:13:51,435 --> 00:13:51,947
+thing in it.
+
+358
+00:13:52,298 --> 00:13:54,027
+So what is the lesson?
+
+359
+00:13:54,207 --> 00:13:57,365
+Resale value is part of the price.
+
+360
+00:13:57,545 --> 00:14:00,138
+A cheaper truck that loses more is
+
+361
+00:14:00,138 --> 00:14:02,120
+not always cheaper to own.
+
+362
+00:14:02,300 --> 00:14:04,870
+And an expensive truck that keeps its
+
+363
+00:14:04,870 --> 00:14:07,300
+value can cost less over five years
+
+364
+00:14:07,300 --> 00:14:09,315
+than it looks like on the day
+
+365
+00:14:09,315 --> 00:14:10,148
+of purchase.
+
+366
+00:14:10,328 --> 00:14:13,296
+The heavy-duty trucks and the two Toyotas
+
+367
+00:14:13,296 --> 00:14:15,613
+lose half as much as the typical
+
+368
+00:14:15,613 --> 00:14:17,713
+half-ton, and that is a real,
+
+369
+00:14:17,713 --> 00:14:20,754
+measurable difference in what you will pay
+
+370
+00:14:20,754 --> 00:14:21,984
+to own the truck.
+
+371
+00:14:22,335 --> 00:14:24,168
+But there is a counter-argument,
+
+372
+00:14:24,168 --> 00:14:25,028
+and it is fair.
+
+373
+00:14:25,208 --> 00:14:27,887
+A truck that holds its value usually
+
+374
+00:14:27,887 --> 00:14:29,226
+costs more to buy,
+
+375
+00:14:29,226 --> 00:14:31,756
+and buyers pay for the reputation.
+
+376
+00:14:31,936 --> 00:14:35,849
+SlashGear notes that pickups hold value best
+
+377
+00:14:35,849 --> 00:14:37,983
+of all vehicle segments,
+
+378
+00:14:37,983 --> 00:14:42,162
+slightly ahead of fuel-sipping hybrids and well
+
+379
+00:14:42,162 --> 00:14:43,407
+ahead of SUVs.
+
+380
+00:14:43,587 --> 00:14:46,239
+So every truck on this list is,
+
+381
+00:14:46,239 --> 00:14:49,234
+on average, a better store of value
+
+382
+00:14:49,234 --> 00:14:50,518
+than most cars.
+
+383
+00:14:50,698 --> 00:14:52,823
+The question is only how much better.
+
+384
+00:14:53,173 --> 00:14:54,322
+One more warning.
+
+385
+00:14:54,502 --> 00:14:56,905
+These are averages for the truck as
+
+386
+00:14:56,905 --> 00:14:58,278
+it sold in the past,
+
+387
+00:14:58,278 --> 00:15:00,063
+and the future can change.
+
+388
+00:15:00,243 --> 00:15:02,685
+Prices of new trucks are rising,
+
+389
+00:15:02,685 --> 00:15:06,347
+with the average full-size pickup at sixty-seven
+
+390
+00:15:06,347 --> 00:15:10,238
+thousand, four hundred forty-six dollars in August,
+
+391
+00:15:10,238 --> 00:15:12,527
+according to Kelley Blue Book.
+
+392
+00:15:12,707 --> 00:15:16,445
+Electric trucks are being cancelled and rewritten.
+
+393
+00:15:16,625 --> 00:15:19,133
+And a model that is discontinued can
+
+394
+00:15:19,133 --> 00:15:20,456
+lose value quickly,
+
+395
+00:15:20,456 --> 00:15:21,153
+or slowly.
+
+396
+00:15:21,333 --> 00:15:24,088
+So treat these numbers as a guide,
+
+397
+00:15:24,088 --> 00:15:25,222
+not a promise.
+
+398
+00:15:25,572 --> 00:15:28,370
+Let's explain the key number in plain
+
+399
+00:15:28,370 --> 00:15:31,168
+words, because it is easy to misread.
+
+400
+00:15:31,348 --> 00:15:33,840
+When the Tacoma keeps eighty and a
+
+401
+00:15:33,840 --> 00:15:36,480
+half percent of its value after five
+
+402
+00:15:36,480 --> 00:15:39,266
+years, it means that for every hundred
+
+403
+00:15:39,266 --> 00:15:40,512
+dollars you paid,
+
+404
+00:15:40,512 --> 00:15:43,225
+the truck is still worth about eighty
+
+405
+00:15:43,225 --> 00:15:46,011
+dollars and fifty cents when you sell.
+
+406
+00:15:46,191 --> 00:15:50,362
+When the F-one-fifty keeps sixty-one point four,
+
+407
+00:15:50,362 --> 00:15:53,751
+it is worth about sixty-one dollars and
+
+408
+00:15:53,751 --> 00:15:54,794
+forty cents.
+
+409
+00:15:54,974 --> 00:15:57,016
+The rest is what you pay for
+
+410
+00:15:57,016 --> 00:15:58,256
+owning the truck,
+
+411
+00:15:58,256 --> 00:16:00,590
+and you pay it whether you drive
+
+412
+00:16:00,590 --> 00:16:02,486
+ten miles or ten thousand.
+
+413
+00:16:02,836 --> 00:16:06,586
+Now compare two figures we already saw.
+
+414
+00:16:06,766 --> 00:16:10,098
+The Tundra keeps eighty and three tenths
+
+415
+00:16:10,098 --> 00:16:13,264
+percent, and the Ram one thousand five
+
+416
+00:16:13,264 --> 00:16:16,263
+hundred keeps sixty-one point eight.
+
+417
+00:16:16,443 --> 00:16:18,519
+Both are full-size trucks,
+
+418
+00:16:18,519 --> 00:16:20,835
+and both are sold at the same
+
+419
+00:16:20,835 --> 00:16:22,352
+kind of dealership.
+
+420
+00:16:22,532 --> 00:16:24,887
+But the gap between them is about
+
+421
+00:16:24,887 --> 00:16:27,742
+eighteen points, and on a sixty thousand
+
+422
+00:16:27,742 --> 00:16:30,311
+dollar truck it was eleven thousand,
+
+423
+00:16:30,311 --> 00:16:31,739
+one hundred dollars.
+
+424
+00:16:31,919 --> 00:16:33,904
+That is why we say the sticker
+
+425
+00:16:33,904 --> 00:16:35,228
+is the first number.
+
+426
+00:16:35,408 --> 00:16:37,715
+The second number can be larger than
+
+427
+00:16:37,715 --> 00:16:40,086
+any discount you will ever negotiate.
+
+428
+00:16:40,437 --> 00:16:42,952
+A very common buyer mistake is to
+
+429
+00:16:42,952 --> 00:16:45,696
+look only at the monthly payment and
+
+430
+00:16:45,696 --> 00:16:46,915
+ignore the exit.
+
+431
+00:16:47,095 --> 00:16:49,346
+A payment tells you what the next
+
+432
+00:16:49,346 --> 00:16:50,369
+few years cost.
+
+433
+00:16:50,549 --> 00:16:52,313
+It does not tell you what you
+
+434
+00:16:52,313 --> 00:16:53,835
+will get back at the end.
+
+435
+00:16:54,015 --> 00:16:55,103
+Before you sign,
+
+436
+00:16:55,103 --> 00:16:56,871
+ask yourself one question.
+
+437
+00:16:57,051 --> 00:16:59,321
+If I sell this truck in five
+
+438
+00:16:59,321 --> 00:17:02,159
+years, what do I expect to receive?
+
+439
+00:17:02,339 --> 00:17:04,727
+Then look up the resale figure for
+
+440
+00:17:04,727 --> 00:17:05,922
+that exact model,
+
+441
+00:17:05,922 --> 00:17:08,521
+and write the expected amount next to
+
+442
+00:17:08,521 --> 00:17:10,698
+the price you are paying today.
+
+443
+00:17:11,049 --> 00:17:13,184
+The next question is how to verify
+
+444
+00:17:13,184 --> 00:17:14,566
+what a truck is worth.
+
+445
+00:17:14,746 --> 00:17:16,709
+Do not trust a single page.
+
+446
+00:17:16,889 --> 00:17:19,506
+Look at the resale figure from the
+
+447
+00:17:19,506 --> 00:17:22,355
+study, then check what the same model
+
+448
+00:17:22,355 --> 00:17:24,741
+is listed for in your own area,
+
+449
+00:17:24,741 --> 00:17:27,744
+with similar mileage and the same trim.
+
+450
+00:17:27,924 --> 00:17:30,107
+Compare the same trim on the same
+
+451
+00:17:30,107 --> 00:17:32,158
+day, so that the market has not
+
+452
+00:17:32,158 --> 00:17:34,077
+moved between your two looks.
+
+453
+00:17:34,257 --> 00:17:36,224
+And if a dealer quotes you a
+
+454
+00:17:36,224 --> 00:17:39,103
+trade-in value, write it down and compare
+
+455
+00:17:39,103 --> 00:17:40,578
+it to what you found,
+
+456
+00:17:40,578 --> 00:17:42,966
+because the gap between the two is
+
+457
+00:17:42,966 --> 00:17:44,230
+the dealer's room.
+
+458
+00:17:44,580 --> 00:17:46,553
+There is also the paperwork.
+
+459
+00:17:46,733 --> 00:17:48,377
+If you are buying used,
+
+460
+00:17:48,377 --> 00:17:50,379
+ask for the service records,
+
+461
+00:17:50,379 --> 00:17:53,881
+and run the vehicle identification number through
+
+462
+00:17:53,881 --> 00:17:54,953
+a recall check,
+
+463
+00:17:54,953 --> 00:17:57,097
+so you know that no safety fix
+
+464
+00:17:57,097 --> 00:17:59,528
+is still open on that exact truck.
+
+465
+00:17:59,708 --> 00:18:02,195
+If the truck has a remaining factory
+
+466
+00:18:02,195 --> 00:18:04,406
+warranty, ask for it in writing,
+
+467
+00:18:04,406 --> 00:18:06,894
+and ask whether it transfers to you.
+
+468
+00:18:07,074 --> 00:18:09,419
+A truck with records and a clear
+
+469
+00:18:09,419 --> 00:18:11,763
+history is easier to sell later,
+
+470
+00:18:11,763 --> 00:18:14,327
+and that helps keep the very resale
+
+471
+00:18:14,327 --> 00:18:16,745
+value we have been talking about.
+
+472
+00:18:17,095 --> 00:18:19,521
+So who does this list suit?
+
+473
+00:18:19,701 --> 00:18:21,911
+If you keep a truck for about
+
+474
+00:18:21,911 --> 00:18:23,815
+five years and then sell,
+
+475
+00:18:23,815 --> 00:18:26,939
+the Tacoma, the Tundra and the heavy-duty
+
+476
+00:18:26,939 --> 00:18:29,454
+trucks are the ones that lose the
+
+477
+00:18:29,454 --> 00:18:32,120
+least, and the Maverick is the best
+
+478
+00:18:32,120 --> 00:18:33,111
+small choice.
+
+479
+00:18:33,291 --> 00:18:35,782
+If you want a full-size half-ton from
+
+480
+00:18:35,782 --> 00:18:38,206
+Detroit, you are buying a truck that
+
+481
+00:18:38,206 --> 00:18:40,159
+loses close to forty percent,
+
+482
+00:18:40,159 --> 00:18:42,583
+so the discount you negotiate on day
+
+483
+00:18:42,583 --> 00:18:43,728
+one matters more.
+
+484
+00:18:43,908 --> 00:18:46,099
+And if you will keep the truck
+
+485
+00:18:46,099 --> 00:18:48,509
+for many years and drive it until
+
+486
+00:18:48,509 --> 00:18:51,357
+it stops, resale matters much less than
+
+487
+00:18:51,357 --> 00:18:52,964
+reliability and price.
+
+488
+00:18:53,314 --> 00:18:54,544
+And who should wait?
+
+489
+00:18:54,724 --> 00:18:56,985
+If you are looking at a truck
+
+490
+00:18:56,985 --> 00:18:58,933
+that is being phased out,
+
+491
+00:18:58,933 --> 00:19:00,492
+like the Santa Cruz,
+
+492
+00:19:00,492 --> 00:19:03,220
+or a model whose future is unclear,
+
+493
+00:19:03,220 --> 00:19:04,233
+do not guess.
+
+494
+00:19:04,413 --> 00:19:06,706
+Ask whether it is still being built,
+
+495
+00:19:06,706 --> 00:19:08,935
+and ask the dealer for the warranty
+
+496
+00:19:08,935 --> 00:19:10,973
+and the service plan in writing.
+
+497
+00:19:11,153 --> 00:19:13,296
+A good truck can keep a decent
+
+498
+00:19:13,296 --> 00:19:15,582
+share of its value even after it
+
+499
+00:19:15,582 --> 00:19:19,082
+is discontinued, but the reports are unconfirmed.
+
+500
+00:19:19,262 --> 00:19:21,455
+When the future of a model is
+
+501
+00:19:21,455 --> 00:19:24,556
+unclear, patience is cheaper than regret.
+
+502
+00:19:24,907 --> 00:19:27,423
+One last way to use this video
+
+503
+00:19:27,423 --> 00:19:29,017
+is as a tiebreaker.
+
+504
+00:19:29,197 --> 00:19:31,570
+Say you have narrowed your choice to
+
+505
+00:19:31,570 --> 00:19:33,943
+two trucks that cost about the same,
+
+506
+00:19:33,943 --> 00:19:35,129
+and you like both.
+
+507
+00:19:35,309 --> 00:19:37,631
+Look at the resale figure for each.
+
+508
+00:19:37,811 --> 00:19:39,936
+If one keeps far more of its
+
+509
+00:19:39,936 --> 00:19:42,744
+value, as the Tacoma does against the
+
+510
+00:19:42,744 --> 00:19:45,704
+Frontier, then the second truck needs a
+
+511
+00:19:45,704 --> 00:19:47,146
+real reason to win,
+
+512
+00:19:47,146 --> 00:19:49,422
+such as a feature you will use
+
+513
+00:19:49,422 --> 00:19:50,257
+every week.
+
+514
+00:19:50,437 --> 00:19:51,872
+If the two are close,
+
+515
+00:19:51,872 --> 00:19:54,194
+as the Maverick and the Santa Cruz
+
+516
+00:19:54,194 --> 00:19:56,448
+are, then choose on how the truck
+
+517
+00:19:56,448 --> 00:19:58,703
+drives, and on the price you were
+
+518
+00:19:58,703 --> 00:19:59,249
+offered.
+
+519
+00:19:59,599 --> 00:20:01,512
+So what should you check before you
+
+520
+00:20:01,512 --> 00:20:02,989
+buy in twenty twenty-seven?
+
+521
+00:20:03,169 --> 00:20:06,527
+First, look up the five-year resale value
+
+522
+00:20:06,527 --> 00:20:08,083
+of the exact model,
+
+523
+00:20:08,083 --> 00:20:09,229
+not the brand.
+
+524
+00:20:09,409 --> 00:20:12,299
+Second, compare the full cost over five
+
+525
+00:20:12,299 --> 00:20:15,188
+years, including what you expect to get
+
+526
+00:20:15,188 --> 00:20:16,596
+back when you sell.
+
+527
+00:20:16,776 --> 00:20:20,390
+Third, check the mileage and condition rules
+
+528
+00:20:20,390 --> 00:20:22,444
+that affect resale value,
+
+529
+00:20:22,444 --> 00:20:25,401
+because a truck with high mileage is
+
+530
+00:20:25,401 --> 00:20:27,701
+worth less than the average.
+
+531
+00:20:27,881 --> 00:20:30,729
+And fourth, ask whether the truck is
+
+532
+00:20:30,729 --> 00:20:32,153
+still being built.
+
+533
+00:20:32,503 --> 00:20:34,335
+We put all of this into a
+
+534
+00:20:34,335 --> 00:20:38,366
+checklist, the Twenty Twenty-Seven Truck Buyer's Guide.
+
+535
+00:20:38,546 --> 00:20:40,605
+It covers the numbers to check,
+
+536
+00:20:40,605 --> 00:20:42,599
+the questions to ask a dealer,
+
+537
+00:20:42,599 --> 00:20:45,256
+and the warning signs we walked through.
+
+538
+00:20:45,436 --> 00:20:47,769
+The link is in the description and
+
+539
+00:20:47,769 --> 00:20:49,279
+in the pinned comment.
+
+540
+00:20:49,459 --> 00:20:51,888
+If you want to know which engines
+
+541
+00:20:51,888 --> 00:20:53,729
+to avoid in a used truck,
+
+542
+00:20:53,729 --> 00:20:56,599
+subscribe, because that is coming soon.
+
+543
+00:20:56,779 --> 00:20:57,940
+Thanks for watching.
