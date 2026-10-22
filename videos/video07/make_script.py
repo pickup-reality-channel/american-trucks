@@ -99,6 +99,20 @@ sc("""There is one more twist, and it is about the price. According to Kelley Bl
    "Ford F-150 Lariat pickup", "AVERAGE FULL-SIZE PRICE: $67,446")
 
 # ---------- CLOSE ----------
+# ---------- EXTRA: BUYER VALUE ----------
+sc("""Let's use two of the numbers we already saw to make the point about size. The Ford F-Series sold five hundred fifty-six thousand, seven hundred thirty-eight trucks in nine months, and the Ranger sold fifty-one thousand, six hundred thirty. That is why a loss can mean very different things. The F-Series lost forty thousand, eight hundred eight trucks and still led the table by a wide gap. A small truck losing a few thousand could be a real problem. A big truck losing a few thousand might be nothing. Always compare a change to the size of the truck.""",
+   "Ford F-150 pickup truck", "A LOSS MEANS DIFFERENT THINGS")
+sc("""Here is a mistake that a lot of shoppers make. They see a truck that is up twenty-four percent and assume it must be the best truck. But the Ram's growth is a sales number, not a quality number. It tells you that many people chose it, and the reasons could be price, timing, a new model or a good offer. A sales table cannot tell you about reliability or comfort. For those, you need owner reviews, recall records and a test drive, and the sales table is only the start.""",
+   "Ram 1500 pickup truck", "SALES ARE NOT QUALITY")
+sc("""Before you buy any of these trucks, check the recall record for the exact vehicle. It takes a few minutes. Find the vehicle identification number, which is on the plate at the base of the windshield and on the door sticker. Enter it on the government recall lookup, and it will tell you whether any safety recall is open on that exact truck. A popular truck is not a truck without recalls, and a dealer should be happy to show you that the check is clean.""",
+   "Chevrolet Silverado 1500 pickup", "CHECK THE VIN FOR RECALLS")
+sc("""The door sticker answers another question that the sales table cannot. It lists the weight rating of the truck and the payload, which is how much weight the truck can carry. For towing, the sticker and the owner manual matter more than the brand name. A heavy-duty Sierra and a light-duty Sierra share a name, but they are different tools. So when you read that the heavy-duty trucks fell and the light-duty ones rose, remember that the buyer who needs the work truck must check the sticker on the exact truck.""",
+   "GMC Sierra HD pickup", "READ THE DOOR STICKER")
+sc("""Who does each part of this list suit? If you want the biggest network of parts and service, the top three, the Ford F-Series, the Chevrolet Silverado and the Ram, hold fifty-nine percent of the list, so there are a lot of them on the road. If you want a midsize truck, the Tacoma is far ahead, and the Frontier is the fast riser. If you want something small and efficient, the Maverick is the story, with the hybrid at about sixty percent of its sales.""",
+   "Toyota Tacoma pickup", "WHO THE LIST SUITS")
+sc("""And who should wait? If you are looking at a truck that is falling, like the Colorado for the nine months or the Ranger in one quarter, do not panic and do not rush. Wait for one more quarter of numbers, and ask the dealer whether anything is changing in the model. A falling number is a question, not a verdict. The same goes for a truck that is rising fast. Let the numbers settle, compare the same trim on the same day at two dealers, and then decide.""",
+   "Chevrolet Colorado pickup", "WAIT FOR ONE MORE QUARTER")
+
 sc("""So what should you check before you buy a truck in twenty twenty-seven? First, look at the sales of the exact version, not the model. A heavy-duty truck and a light-duty truck from the same brand can move in opposite directions. Second, look at the latest quarter, not only the year. And third, remember that the best-selling truck is not automatically the best truck for you. Popularity helps resale and service. It does not choose your trailer.""",
    "Ford F-150 pickup", "CHECK 1, 2 AND 3")
 sc("""We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. It covers the numbers to check, the questions to ask a dealer, and the warning signs we walked through. The link is in the description and in the pinned comment. If you want to know which trucks are the most reliable, according to the data, subscribe, because that is coming soon. Thanks for watching.""",
@@ -114,7 +128,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video07", "length_scale": 1.85,
+json.dump({"id": "video07", "length_scale": 1.55,
   "title": "The 10 Best-Selling Trucks of 2026 (And What the Ranking Hides)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

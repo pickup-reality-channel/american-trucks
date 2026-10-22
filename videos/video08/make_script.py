@@ -83,6 +83,25 @@ sc("""One more warning. These are averages for the truck as it sold in the past,
    "Ford F-150 Lightning pickup", "AVERAGES, NOT PROMISES")
 
 # ---------- CLOSE ----------
+# ---------- EXTRA: BUYER VALUE ----------
+sc("""Let's explain the key number in plain words, because it is easy to misread. When the Tacoma keeps eighty and a half percent of its value after five years, it means that for every hundred dollars you paid, the truck is still worth about eighty dollars and fifty cents when you sell. When the F-one-fifty keeps sixty-one point four, it is worth about sixty-one dollars and forty cents. The rest is what you pay for owning the truck, and you pay it whether you drive ten miles or ten thousand.""",
+   "Toyota Tacoma pickup", "WHAT RESALE VALUE REALLY MEANS")
+sc("""Now compare two figures we already saw. The Tundra keeps eighty and three tenths percent, and the Ram one thousand five hundred keeps sixty-one point eight. Both are full-size trucks, and both are sold at the same kind of dealership. But the gap between them is about eighteen points, and on a sixty thousand dollar truck it was eleven thousand, one hundred dollars. That is why we say the sticker is the first number. The second number can be larger than any discount you will ever negotiate.""",
+   "Toyota Tundra Ram 1500 pickups", "TUNDRA VS RAM: THE SECOND NUMBER")
+sc("""A very common buyer mistake is to look only at the monthly payment and ignore the exit. A payment tells you what the next few years cost. It does not tell you what you will get back at the end. Before you sign, ask yourself one question. If I sell this truck in five years, what do I expect to receive? Then look up the resale figure for that exact model, and write the expected amount next to the price you are paying today.""",
+   "Ford F-150 pickup dealership", "THE EXIT PRICE MATTERS")
+sc("""The next question is how to verify what a truck is worth. Do not trust a single page. Look at the resale figure from the study, then check what the same model is listed for in your own area, with similar mileage and the same trim. Compare the same trim on the same day, so that the market has not moved between your two looks. And if a dealer quotes you a trade-in value, write it down and compare it to what you found, because the gap between the two is the dealer's room.""",
+   "Chevrolet Silverado 1500 pickup", "COMPARE SAME TRIM, SAME DAY")
+sc("""There is also the paperwork. If you are buying used, ask for the service records, and run the vehicle identification number through a recall check, so you know that no safety fix is still open on that exact truck. If the truck has a remaining factory warranty, ask for it in writing, and ask whether it transfers to you. A truck with records and a clear history is easier to sell later, and that helps keep the very resale value we have been talking about.""",
+   "Ram 1500 pickup truck", "VIN, RECALLS, SERVICE RECORDS")
+sc("""So who does this list suit? If you keep a truck for about five years and then sell, the Tacoma, the Tundra and the heavy-duty trucks are the ones that lose the least, and the Maverick is the best small choice. If you want a full-size half-ton from Detroit, you are buying a truck that loses close to forty percent, so the discount you negotiate on day one matters more. And if you will keep the truck for many years and drive it until it stops, resale matters much less than reliability and price.""",
+   "Ford Maverick pickup", "WHO THIS LIST SUITS")
+sc("""And who should wait? If you are looking at a truck that is being phased out, like the Santa Cruz, or a model whose future is unclear, do not guess. Ask whether it is still being built, and ask the dealer for the warranty and the service plan in writing. A good truck can keep a decent share of its value even after it is discontinued, but the reports are unconfirmed. When the future of a model is unclear, patience is cheaper than regret.""",
+   "Hyundai Santa Cruz pickup", "IF THE MODEL'S FUTURE IS UNCLEAR")
+
+sc("""One last way to use this video is as a tiebreaker. Say you have narrowed your choice to two trucks that cost about the same, and you like both. Look at the resale figure for each. If one keeps far more of its value, as the Tacoma does against the Frontier, then the second truck needs a real reason to win, such as a feature you will use every week. If the two are close, as the Maverick and the Santa Cruz are, then choose on how the truck drives, and on the price you were offered.""",
+   "Nissan Frontier Toyota Tacoma pickups", "USE RESALE AS A TIEBREAKER")
+
 sc("""So what should you check before you buy in twenty twenty-seven? First, look up the five-year resale value of the exact model, not the brand. Second, compare the full cost over five years, including what you expect to get back when you sell. Third, check the mileage and condition rules that affect resale value, because a truck with high mileage is worth less than the average. And fourth, ask whether the truck is still being built.""",
    "Ford F-150 pickup", "CHECK 1, 2, 3 AND 4")
 sc("""We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. It covers the numbers to check, the questions to ask a dealer, and the warning signs we walked through. The link is in the description and in the pinned comment. If you want to know which engines to avoid in a used truck, subscribe, because that is coming soon. Thanks for watching.""",
@@ -97,7 +116,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video08", "length_scale": 2.03,
+json.dump({"id": "video08", "length_scale": 1.55,
   "title": "6 Trucks That Hold Their Value After 5 Years (The Real Numbers)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

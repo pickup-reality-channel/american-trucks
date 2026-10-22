@@ -72,6 +72,33 @@ sc("""So who should buy a Colorado? Someone who wants a midsize truck with stron
    "Chevrolet Colorado Trail Boss", "BUY: OFF-ROAD, POWER. WAIT: PRICE, ENGINE.")
 sc("""If you are comparing, remember what we saw in the sales numbers. The Tacoma sells far more than the Colorado, and the Frontier is growing fast. And the Canyon is the same truck as the Colorado with a different look. So the choice is partly about the dealer and the deal, not only the truck. Get quotes on both the Colorado and the Canyon, and compare the same trim, with the same options, on the same day.""",
    "Toyota Tacoma and Chevrolet Colorado", "COMPARE COLORADO, CANYON, TACOMA, FRONTIER")
+# NEWSCENES
+sc("""Let us explain the engine code change in terms of what a buyer can do. You cannot read the inside of an engine, but you can read paperwork. Ask the dealer for the build date of the exact truck and ask which engine code appears on its order. Compare it with the code on a twenty twenty-six truck. If the code is different, you at least know you are looking at the changed version. That does not tell you what changed, but it tells you which truck you are buying.""",
+   "Chevrolet Colorado engine", "CHECK THE CODE ON THE ORDER")
+sc("""Now compare two prices that we already stated. The Trail Boss is forty-two thousand, five hundred ninety-five dollars, and the Z71 is forty-six thousand, six hundred ninety-five. The ZR2 is fifty-two thousand, seven hundred ninety-five. Each step brings more off-road equipment, but each step also costs a few thousand dollars. Ask yourself how often you will actually leave the pavement. If the answer is rarely, a lower trim may serve you for less money.""",
+   "Chevrolet Colorado Trail Boss pickup", "HOW OFTEN DO YOU LEAVE THE PAVEMENT?")
+sc("""A common mistake is to buy the top trim for a feature you will not use. The ZR2 has ten point seven inches of ground clearance, which matters on rough trails and matters little on a commute. The Bison, at sixty-four thousand, four hundred ninety-five dollars, is built for serious off-road use. If your driving is mostly highway and town, paying for that capability is like buying a boat for a pond. Be honest about your weekends.""",
+   "Chevrolet Colorado ZR2 Bison", "DO NOT PAY FOR TRAILS YOU WILL NOT DRIVE")
+sc("""How should you read the towing figure? Seven thousand, seven hundred pounds is the maximum when the truck is properly configured. That means the right trim, the right drive and the right equipment. A Colorado you find on a lot may tow less. So before you buy for a specific trailer, find the number on the door sticker of that exact truck. Then compare it with the weight of your trailer, with the load already inside it. Leave a margin.""",
+   "Chevrolet Colorado towing", "MAXIMUM TOW IS NOT EVERY TRUCK")
+sc("""Payload is the number people forget. Up to about seventeen hundred pounds sounds like a lot, until you add passengers, a toolbox, a tonneau cover and a tongue weight from a trailer. Payload is what the truck can carry in the cab and in the bed together. If you use the truck for work, add up what you carry on an ordinary day. And again, read the sticker of the truck you are buying, not the maximum in a brochure.""",
+   "Chevrolet Colorado bed cargo", "PAYLOAD COUNTS PEOPLE TOO")
+sc("""Let us talk about the Canyon, since it is the same truck with a different badge. The Canyon is growing while the Colorado slips. That tells us the two trucks compete with each other for the same buyer. For you, that is useful. Ask both dealers for a quote on the same trim, with the same options, on the same day. Because the trucks match, any difference in price is a difference in the deal, and not in the truck.""",
+   "GMC Canyon pickup", "SAME TRUCK, TWO DEALS: GET BOTH QUOTES")
+sc("""Think about the five G hotspot honestly. It sounds like a large upgrade, and for some people it is. But it normally needs a data plan, and the sources do not say what that costs. If you already have a phone plan with hotspot data, you may not need it. If you work remotely from the truck, it might be worth paying for. Either way, ask the dealer how long any trial lasts, and write down the answer.""",
+   "Chevrolet Colorado hotspot", "DO YOU NEED A SECOND DATA PLAN?")
+sc("""One more caution about colors and interiors. If you want Storm Gray Metallic, Nitron Blue or Serpent Metallic, the restrictions we described can block some pairings. A salesperson may promise a combination that the order system will not accept. Before you put down a deposit, ask to see the configuration confirmed on the order screen. A deposit is easier to give than to get back, so settle the color first.""",
+   "Chevrolet Colorado new colors", "CONFIRM THE COMBINATION BEFORE A DEPOSIT")
+sc("""And a last view of the whole picture. The Colorado is a strong, simple lineup with real choices on price and off-road equipment, and with two open questions. What did the engine change, and what will the twenty twenty-seven price be? If those questions matter to you, wait. If they do not, you can still make a smart purchase by comparing out-the-door prices, checking the sticker and getting the warranty terms in writing. Prepared buyers rarely overpay.""",
+   "Chevrolet Colorado ZR2 pickup", "TWO OPEN QUESTIONS, THEN DECIDE")
+
+sc("""Let us go through a sample plan for a careful buyer. Step one, decide whether you need the off-road trims or whether a Work Truck or LT will do. Step two, ask two dealers for the out-the-door price on the same trim, one for the Colorado and one for the Canyon. Step three, ask for the warranty terms in writing. Step four, read the door sticker for towing and payload. Step five, confirm the color and interior on the order screen. Five steps, and none of them cost anything.""",
+   "Chevrolet Colorado pickup", "A FIVE-STEP PLAN FOR BUYERS")
+sc("""Finally, a word about patience. The first weeks of a new model year are when information is thinnest. Prices may not be published, the engine change may be unexplained, and trucks are scarce. A buyer who waits a little gets more facts, and a buyer who cannot wait gets a leftover twenty twenty-six truck, which we know a little better. Either choice is sensible. What is not sensible is paying for a new truck while guessing about what changed inside it.""",
+   "Chevrolet Colorado Z71 pickup", "PATIENCE BEATS GUESSING")
+sc("""And if you remember only one idea from this video, let it be this one. Every number we quoted is a starting point, not an answer. Prices are before taxes and fees. Towing is a maximum. Payload depends on the sticker. The engine code is a question. When you walk into a dealership, bring these questions with you, and the answers will tell you far more than any advertisement. Good buyers ask, and then they check.""",
+   "Chevrolet Colorado Trail Boss pickup", "EVERY NUMBER IS A STARTING POINT")
+
 sc("""So what should you check before you buy a twenty twenty-seven Colorado? First, the official price. Second, the explanation for the engine code change. Third, whether your color and interior can be combined. And fourth, the exact towing and payload on the door sticker of the truck you are buying. The Twenty Twenty-Seven Truck Buyer's Guide has this checklist. The link is in the description and in the pinned comment.""",
    "Chevrolet Colorado pickup", "CHECK 1, 2, 3 AND 4")
 sc("""If you want to see the Toyota Tacoma against the Colorado, subscribe, because that comparison is coming. Thanks for watching.""",
@@ -86,6 +113,6 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video20", "length_scale": 2.2,
+json.dump({"id": "video20", "length_scale": 1.55,
   "title": "2027 Chevy Colorado: The Engine Changed and Chevrolet Won't Say How", "scenes": S}, open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

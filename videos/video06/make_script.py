@@ -83,6 +83,25 @@ sc("""One more reason the hybrid is rising is the simplest one. It does not ask 
    "Ford F-150 pickup truck", "A HYBRID ASKS NOTHING NEW")
 
 # ---------- CLOSE ----------
+# ---------- EXTRA: BUYER VALUE ----------
+sc("""Let's turn the headline number into something you can use. The Maverick Hybrid was about sixty percent of all Mavericks sold through nine months. For a shopper, that means the hybrid is the version most likely to be on the lot, with the most owners, the most parts and the most service experience behind it. When a version is the main version, you are not buying the unusual one. That is a quiet advantage, and it does not show up on a spec sheet.""",
+   "Ford Maverick Hybrid pickup", "THE HYBRID IS THE MAIN MAVERICK")
+sc("""Now compare two figures from the Tacoma. The hybrid makes three hundred twenty-six horsepower and four hundred sixty-five pound-feet, against two hundred seventy-eight and three hundred seventeen for the best non-hybrid. It is rated at twenty-three miles per gallon combined with four-wheel drive, against twenty-one. So you get more power and a little better economy at once. That is unusual, because most upgrades make you trade one for the other. Ask whether the extra cost buys you both.""",
+   "Toyota Tacoma Hybrid pickup", "MORE POWER AND BETTER MPG")
+sc("""A common mistake is to trust the official fuel economy number as a promise. It is a rating from a test, and your own driving will differ. If you tow, haul a heavy load, or drive mostly on the highway, the real number can be lower, and the hybrid advantage can shrink. The way to check is simple. Ask the dealer for a longer test drive on a route like yours, and ask owners of the same truck what they actually see on the dash.""",
+   "Ford F-150 Hybrid pickup", "OFFICIAL MPG IS NOT YOUR MPG")
+sc("""If you plan to tow, check the door sticker and the owner manual for the exact truck, not the brochure. The sticker lists the weight ratings, and the manual lists the towing limit for the exact engine and axle. A hybrid and a gas version of the same truck can have different limits. Do not assume that a hybrid tows the same as the gas truck, and do not assume it tows less. Read the number for the truck you are buying, and write it down.""",
+   "Ford F-150 PowerBoost pickup towing trailer", "TOWING: READ THE DOOR STICKER")
+sc("""Then there is the warranty, which matters more on a hybrid because it has extra parts. Ask what covers the battery and the hybrid system, how long, and whether it transfers if you sell the truck. Ask for it in writing, not as a promise at the desk. Also run the vehicle identification number through a recall check. It takes a few minutes, and it tells you whether any safety fix is still open on that exact truck before you sign.""",
+   "Toyota Tacoma Hybrid pickup", "WARRANTY IN WRITING, VIN CHECK")
+sc("""So who does each truck suit? If you want a small, simple truck at a small truck price, the Maverick Hybrid is the clear sales winner. If you want a full-size truck with a different engine, the F-one-fifty Hybrid is the one that Ford already sells in real numbers. If you want a midsize truck with more power and more efficiency, the Tacoma Hybrid fits. And if you like the idea of the Ram REV, treat it as a promise, because it has no price, range or towing number yet.""",
+   "Ford Maverick Hybrid pickup", "WHO SHOULD BUY WHICH")
+sc("""And who should wait? Anyone whose next truck is the Ram REV or a Ford or General Motors truck that is only planned. A date can slip, as the Ram launch did, and the specifications can change before the truck reaches a dealer. If your current truck is working, there is no cost to waiting for real numbers. If you need a truck now, buy one that exists, compare it to the gas version on the same day, and work out the payback in years before you sign.""",
+   "Ram 1500 pickup truck", "WAIT FOR REAL NUMBERS")
+
+sc("""One more way to use the numbers is to ask what the Maverick and the F-one-fifty Hybrid have in common. Both are trucks that Ford was already selling, with a hybrid system that has been on real roads. Compare that with the plans that were rewritten, where the buyer must wait and trust. A truck that is on sale today lets you read owner reports, ask a neighbor, and test the real thing. That is worth more than any promise, however good the promise sounds.""",
+   "Ford F-150 Hybrid Maverick Hybrid pickups", "BUY WHAT YOU CAN TEST")
+
 sc("""So what should you check before you buy a hybrid truck in twenty twenty-seven? First, look at the real fuel economy for your kind of driving. Towing can cut the advantage a lot, and the official number is not the same as the one you will see. Second, check the warranty on the battery and the hybrid system, in writing. Third, compare the price of the hybrid with the gas truck, and work out how many years it takes to earn the difference back.""",
    "Ford F-150 pickup", "CHECK 1, 2 AND 3")
 sc("""Fourth, do not buy a hybrid that has not been built yet. A promised truck can slip, as the Ram REV did, from twenty twenty-four to twenty twenty-seven. And fifth, check the sales trend of the exact model. A truck that sells in the tens of thousands, like the Maverick Hybrid, will have parts, service and resale demand. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
@@ -99,7 +118,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video06", "length_scale": 1.99,
+json.dump({"id": "video06", "length_scale": 1.55,
   "title": "6 Hybrid Pickups Taking Over in 2027 (Who Is Really Winning)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

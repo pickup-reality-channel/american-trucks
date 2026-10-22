@@ -79,6 +79,27 @@ sc("""One more point for buyers who finance. A truck that holds eighty percent o
    "Toyota Tundra dealership", "HIGH RESALE DOES NOT REPLACE A GOOD PRICE")
 
 # ---------- CLOSE ----------
+# NEWSCENES
+sc("""Let us put the three Tundra measures side by side one more time, because buyers often remember only one of them. Resale is eighty and three tenths percent after five years. Longevity is twenty-eight point two percent reaching two hundred fifty thousand miles, second in the study. And Pickup Truck Talk ranked reliability fifth of five. If you only heard the first two, you would think there is no risk. If you only heard the third, you would think there is no reason to buy. Both views are incomplete.""",
+   "Toyota Tundra pickup truck", "ONE TRUCK, THREE SCORECARDS")
+sc("""What does the engine problem mean for a buyer of a new truck? It means the question has moved from whether the problem existed to whether it was fixed. Toyota says the manufacturing problem has been addressed, and recall documents say engines built after the changes fall outside the affected production period. That is a statement from the maker. It is not independent proof. So for a new truck, the sensible step is to ask the dealer to put the warranty terms for the engine in writing.""",
+   "Toyota Tundra new pickup", "ASK FOR THE ENGINE WARRANTY IN WRITING")
+sc("""When you test drive a Tundra, use your ears. The problem described in the article could cause knocking, rough running or power loss. So drive the truck cold if you can, ask the dealer not to warm it up before you arrive, and listen at startup and at low speed. Take it on a road where you can accelerate firmly. A test drive does not prove an engine is sound, but a rough start or a knock is a clear reason to walk away.""",
+   "Toyota Tundra test drive", "TEST DRIVE: START IT COLD AND LISTEN")
+sc("""Now the subscription issue, because it is easy to overlook. The digital key needs an active Remote Connect trial or subscription. Before you sign, ask what the trial lasts, what the plan costs afterward, and what happens to the key if you stop paying. Our sources do not give those answers, so we will not guess. The point is simple. A feature that is standard on the window sticker may still depend on a monthly service.""",
+   "Toyota Tundra digital key phone", "ASK WHAT HAPPENS WHEN THE TRIAL ENDS")
+sc("""The towing numbers also deserve a practical check. CarGurus said up to twelve thousand pounds, and Kelley Blue Book showed eleven thousand, four hundred fifty. Neither figure is a promise about the truck on the lot. The sticker on the driver door jamb lists the weight limits for that exact vehicle, and the payload there includes the weight of you, your passengers and your gear. If you tow a trailer often, do that math before you decide on a trim.""",
+   "Toyota Tundra towing", "THE DOOR STICKER BEATS ANY BROCHURE")
+sc("""Consider also what the inverter would do for you in daily use. A two point four kilowatt inverter can run power tools at a job site, lights at a campsite, or a few essentials in an emergency. But Toyota has not said where the outlets are or whether full output is available while parked. So do not buy the hybrid for the inverter alone until those details are published. Buy it because you want the extra power, and treat the inverter as a bonus.""",
+   "Toyota Tundra job site", "DO NOT BUY ON AN UNPUBLISHED FEATURE")
+sc("""A word about timing. Toyota has not published prices or on-sale dates in our sources, and the Kelley Blue Book figures are estimates. That means a careful buyer has time. You can watch for the official numbers, then compare the same trim, with the same options, at more than one dealer. The risk of waiting is small, and the risk of paying a premium on a guess is larger. Patience is a form of negotiation.""",
+   "Toyota Tundra dealership lot", "WAIT FOR THE OFFICIAL PRICE")
+sc("""Last, who is this truck really for? It suits a buyer who keeps a truck for many years, who values resale, and who is willing to verify the engine's history. It suits someone who wants a hybrid with real power and who tows or works with it. It does not suit a buyer who needs certainty today, or who dislikes subscriptions. For that buyer, the used market, with a documented recall repair, may be the calmer path.""",
+   "Toyota Tundra Limited pickup", "WHO IT SUITS AND WHO SHOULD WAIT")
+
+sc("""A final habit worth building is to keep a simple folder for the truck. Put the window sticker, the written warranty terms, the recall check, and every service receipt in it. If the engine ever becomes a question, the folder answers it in minutes. A buyer with paperwork is in a very different position from a buyer with only a memory. It costs nothing, and for a truck with a known engine history, it may be the most useful thing you do.""",
+   "Toyota Tundra pickup", "KEEP A FOLDER: STICKER, WARRANTY, RECEIPTS")
+
 sc("""So what should you check before you buy a Tundra in twenty twenty-seven? First, the official price and the on-sale date, once Toyota announces them. Second, the warranty for the engine and the hybrid system, in writing. Third, the recall status for any used truck. And fourth, the towing and payload on the door sticker. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
    "Toyota Tundra pickup", "CHECK 1, 2, 3 AND 4")
 sc("""If you want to know how the Toyota Tacoma compares with its rivals for twenty twenty-seven, subscribe, because that is coming soon. Thanks for watching.""",
@@ -93,7 +114,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video18", "length_scale": 2.03,
+json.dump({"id": "video18", "length_scale": 1.55,
   "title": "2027 Toyota Tundra: Did Toyota Fix the Engine? What We Know So Far", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

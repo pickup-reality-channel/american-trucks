@@ -85,6 +85,20 @@ sc("""Let's use one more number to explain the trade. The gap between the Maveri
 sc("""That is the final twist. In the truck market, the cheap truck and the smart truck are not always the same. But in this list, the cheapest truck you can buy today is also one of the better ones at keeping its value. That is unusual, and it is part of the reason the Maverick has become so popular, with its hybrid selling in the tens of thousands. A low price can be a strength, if the truck holds up.""",
    "Ford Maverick Lariat pickup", "CHEAP AND SMART, FOR ONCE")
 
+# ---------- BUYER GUIDANCE ----------
+sc("""Let's talk about who each of these trucks suits, because the right answer depends on the buyer. If you want the lowest price and a truck you can really sign for today, the Maverick fits. If you plan to keep a truck for many years, the Santa Cruz can still make sense, because the low price helps and the resale worry matters less when you never sell. If you may sell in five years, the Tacoma looks better, because it kept eighty and a half percent of its value.""",
+   "Ford Maverick pickup", "WHO SUITS WHICH TRUCK")
+sc("""Now, who should wait? If you need a truck this year, do not wait for the Slate. The sources say first deliveries are expected by the end of twenty twenty-six, and that is a promise, not a delivery. Preorders can be useful for someone who is patient, who does not need a screen, and who accepts a range estimate of two hundred five miles. But a buyer who needs a work truck on Monday should look at a truck that is already on the lot.""",
+   "Slate Auto electric truck", "WHO SHOULD WAIT")
+sc("""Here is the first common mistake. Buyers compare the starting price of one truck with the landed price of another. Remember that a starting price is the cheapest trim, and it usually does not include the destination fee. The Tacoma shows how big the gap can be, thirty-two thousand, one hundred forty-five against thirty-nine thousand, four hundred fifty for the SR5. So always ask for the out-the-door price in writing, and compare that number, not the number in the ad.""",
+   "Toyota Tacoma pickup", "MISTAKE: COMPARING THE WRONG PRICES")
+sc("""The second mistake is comparing different trims. A work truck and a well equipped truck are different products, even when they share a badge. The Colorado at thirty-two thousand, four hundred dollars and the Canyon at thirty-eight thousand, nine hundred dollars are twins, and the gap is more than six thousand dollars. So when you check two trucks, pick the same trim, the same engine and the same options, and ask for both quotes on the same day.""",
+   "Chevrolet Colorado pickup", "MISTAKE: DIFFERENT TRIMS")
+sc("""Let's also compare two figures we already saw. The Ranger sold fifty-one thousand, six hundred thirty trucks through nine months, and the Frontier sold sixty-six thousand, five hundred thirteen. The Frontier sold more and grew faster, but the Ranger keeps sixty-eight point eight percent of its value, against sixty-three point four for the Frontier. Sales tell you what people bought this year. Resale tells you what the next buyer will pay. A careful shopper looks at both.""",
+   "Ford Ranger pickup", "SALES VS RESALE")
+sc("""There is one more check that costs nothing. If you are looking at a Santa Cruz, a Maverick or any other truck, ask the dealer for the warranty terms in writing, and ask whether any recall or service notice is open. You can look up the vehicle identification number, the VIN, in the official recall search from the government. It takes a few minutes. This matters most for the Santa Cruz, because a model that is being phased out is one where you want every promise on paper. Paper is what you can point to later, and a spoken promise is easy to forget.""",
+   "Hyundai Santa Cruz pickup truck", "ASK FOR WARRANTY IN WRITING")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy a cheap truck in twenty twenty-seven? First, ask for the full price, with the destination fee and every other charge, because the starting price is only the first number. Second, check whether the model is still being built, like the Santa Cruz. Third, compare the resale value, because a cheaper truck that loses more may cost more over five years. And fourth, match the truck to your real needs, like towing and bed size.""",
    "Ford F-150 pickup", "CHECK 1, 2, 3 AND 4")
@@ -100,7 +114,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video09", "length_scale": 1.88,
+json.dump({"id": "video09", "length_scale": 1.55,
   "title": "7 Cheapest New Trucks You Can Buy in 2027 (Which One Is Worth It)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

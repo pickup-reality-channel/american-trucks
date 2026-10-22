@@ -82,6 +82,23 @@ sc("""That means the trucks that most Americans buy are not the ones that the st
 sc("""Think about what that means. If you tow, and haul, and plan to keep the truck for years, the heavy-duty trucks make sense. If you drive mostly on the highway, and the truck is a family vehicle, a half-ton truck is built for that, and the study says it is not the likeliest to reach two hundred fifty thousand. But how many families keep a truck that long? If you drive fifteen thousand miles a year, two hundred fifty thousand miles takes almost seventeen years.""",
    "Ram 1500 pickup truck", "250,000 MILES = ~17 YEARS AT 15,000/YR")
 
+# ---------- BUYER GUIDANCE ----------
+sc("""Let's compare two figures we already saw, because the comparison helps. The Ram three thousand five hundred is at thirty-one point nine percent, and the Tacoma is at twenty-five percent. That is a gap of six point nine points, but both are far above the truck average of eleven point one. For a buyer, the lesson is that second place and fourth place are both very good. Do not pay a large premium to move up one spot in a list like this one.""",
+   "Ram 3500 Toyota Tacoma pickups", "NUMBER ONE VS NUMBER FOUR")
+sc("""So who do these results suit? A rancher, a contractor or a farmer who tows and hauls heavy loads and keeps a truck for a decade should start with the heavy-duty group, the Ram three thousand five hundred, the Sierra three thousand five hundred HD, and the Ford Super Duty trucks. A buyer who wants a smaller truck that holds up, and does not need that much capacity, should look at the Tacoma. A buyer who wants a half-ton with a strong record can start with the Tundra, after checking the engine.""",
+   "Ram 3500 Heavy Duty pickup", "WHO SHOULD BUY WHICH")
+sc("""And who should wait, or look somewhere else? If you are choosing a midsize truck, remember that the Ford Ranger and the Nissan Frontier were not in the top twelve this time. That does not make them bad trucks. It means the study does not single them out, so you need to check the individual truck even more carefully. A buyer who wants the strongest longevity signal in the midsize group has one clear answer in this ranking, and it is the Tacoma.""",
+   "Ford Ranger pickup", "MIDSIZE: ONE CLEAR LEADER")
+sc("""Here is the first common mistake. People read a list like this and then buy any used truck of that model, without checking that exact truck. A model can be near the top, and one truck of that model can still have been abused. The second mistake is the reverse. A buyer ignores a perfectly good truck because its model is not in the top twelve. Remember that the study measures averages across a whole model, not the history of the truck in front of you.""",
+   "Toyota Tundra pickup truck", "TWO COMMON MISTAKES")
+sc("""So how do you verify a specific truck? Start with the vehicle identification number, the VIN. Use it to look up open recalls in the official government recall search, and ask the seller for the maintenance records that go with that VIN. Ask whether the engine or transmission was ever replaced, and why. Then ask for the answers in writing. A seller with a good truck is usually happy to share records, and a seller who avoids the question has told you something.""",
+   "Ford F-250 pickup truck", "CHECK THE VIN AND THE RECORDS")
+sc("""If you are buying new, the same logic applies to the warranty. Ask for the warranty terms in writing, and compare the out-the-door price of two trucks on the same day, with the same trim. A truck that is likely to last is only a good deal when you do not overpay at the start. The Tacoma at thirty-nine thousand, four hundred fifty dollars for the SR5 is a good example, because the price on the lot is not the price in the headline.""",
+   "Toyota Tacoma SR5 pickup", "OUT-THE-DOOR PRICE, SAME DAY")
+
+sc("""One last thought on the trucks that drop out of the ranking. The Ford F-one-fifty, the Silverado one thousand five hundred, the Ram one thousand five hundred and the Sierra one thousand five hundred are all missing from the top twelve, yet millions of people drive them happily. If you own one, this is not a reason to worry. It is a reason to keep up the maintenance, and to keep the service records. Records are the one thing every owner controls, and they also help when you sell. A buyer will pay more for a truck with a clear history than for one with none.""",
+   "Chevrolet Silverado 1500 pickup", "OWNERS CONTROL THE RECORDS")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy a used truck in twenty twenty-seven? First, the service records, because a truck that was maintained is more likely to last than one that was not. Second, the recalls and the known problems for the exact engine. Third, the mileage and the age, together. And fourth, the price, because a truck that lasts is only a good deal if you do not overpay at the start.""",
    "Ford F-150 pickup", "CHECK 1, 2, 3 AND 4")
@@ -97,7 +114,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video12", "length_scale": 1.96,
+json.dump({"id": "video12", "length_scale": 1.55,
   "title": "Which Trucks Last the Longest? The 2026 Ranking (250,000 Miles)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

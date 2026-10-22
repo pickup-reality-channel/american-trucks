@@ -1,6 +1,6 @@
 {
  "id": "video10",
- "length_scale": 2.06,
+ "length_scale": 1.55,
  "title": "The Truth About Max Towing Numbers (What the Brochure Does Not Say)",
  "scenes": [
   {
@@ -153,6 +153,46 @@
    "text": "Finally, remember the new trucks. The Ram one thousand five hundred REV, the range-extended truck coming in twenty twenty-seven, has no published towing capacity yet, according to TruckDaily. The Lightning will return as an extended-range truck, but Ford has not announced when it will go on sale. And the Slate truck has no towing figure in the sources we found. If towing is your reason for buying, do not buy a truck that has no number yet.",
    "query": "Ram 1500 pickup truck",
    "caption": "NEW TRUCKS: NO TOWING NUMBERS YET"
+  },
+  {
+   "text": "Let's slow down on one idea, because it is the heart of this video. A towing number is not a property of a truck model. It is a property of one exact build. When Ford says thirteen thousand, five hundred pounds, it means a V six, a Max Tow axle, a SuperCrew cab, a six and a half foot box and four-wheel drive, all at once. Take away any one of those, and the number is no longer promised. So when you read a brochure, read the small print before the big print.",
+   "query": "Ford F-150 pickup truck",
+   "caption": "A NUMBER BELONGS TO ONE BUILD"
+  },
+  {
+   "text": "Here is a simple way to compare two figures we already saw. The Silverado with the diesel and the package tows thirteen thousand, three hundred pounds, and without the package it tows about nine thousand to nine thousand, seven hundred. The Ram with the Hurricane engine tows eleven thousand, six hundred ten. So a basic Silverado can tow less than a Ram, and a well equipped Silverado can tow more. The badge did not change. The checklist of options did.",
+   "query": "Chevrolet Silverado 1500 pickup truck",
+   "caption": "SAME BADGE, VERY DIFFERENT NUMBER"
+  },
+  {
+   "text": "Now let's talk about the most common buyer mistake. A person sees a number in an advertisement, goes to the lot, and buys the truck that looks right. Nobody checks whether that exact truck has the package. Later, at home, the trailer is heavier than the sticker allows. The fix is easy and free. Before you sign, ask the salesperson to show you the door sticker on the exact truck, and ask for the towing figure in writing, on the same page as the price.",
+   "query": "Ford F-150 Lariat pickup",
+   "caption": "MISTAKE: BUYING FROM THE AD"
+  },
+  {
+   "text": "A second mistake is to look only at the tow rating and forget the payload. Remember the Ford, with a payload of two thousand, four hundred forty pounds, and the Chevrolet, with two thousand, two hundred sixty. The Ram is at two thousand, three hundred sixty. These are close to each other, while the towing numbers are not. So if you carry people, tools or a loaded bed, the payload may be the number that limits you first, long before the trailer does.",
+   "query": "Ram 1500 Hurricane pickup",
+   "caption": "MISTAKE: FORGETTING PAYLOAD"
+  },
+  {
+   "text": "So who is each truck for? A buyer who tows close to the top of the range, with a heavy trailer every month, should look at the Ford with the V six, or the Silverado with the package, and should pay for the right configuration. A buyer who tows a small trailer a few times a year can save money with the Ram V six, or with a midsize truck like the Colorado, the Frontier or the Tacoma. And a buyer who only hauls light loads may be happy with the Maverick.",
+   "query": "Chevrolet Colorado pickup truck",
+   "caption": "WHO SHOULD BUY WHICH"
+  },
+  {
+   "text": "And who should wait? Anyone who is planning to tow with one of the new trucks that has no published number. The Ram REV, the Lightning that is coming back, and the Slate all fall in this group, according to the sources we used. You cannot plan a trip with a number that does not exist. If you must buy this year, buy a truck with a figure on paper, then check it on the sticker. When the new numbers arrive, compare them the same way we did here.",
+   "query": "Ford F-150 Lightning electric pickup",
+   "caption": "WHO SHOULD WAIT"
+  },
+  {
+   "text": "One more way to use the spread we saw. The gap between the best Ford at thirteen thousand, five hundred and the Ford hybrid at eleven thousand, two hundred is two thousand, three hundred pounds. Ask yourself whether your trailer needs that extra room. If it does not, the hybrid or the V eight may be the smarter buy. If your trailer is heavy, those two thousand, three hundred pounds are exactly what you are paying the extra money for, so do not trade them away to save a little.",
+   "query": "Ford F-150 PowerBoost pickup",
+   "caption": "DO YOU NEED THE EXTRA 2,300 LB?"
+  },
+  {
+   "text": "Finally, a note about reading reviews. When two outlets give two different numbers, as with the Santa Cruz at three thousand, five hundred and five thousand pounds, do not pick the one you like. Write down both, and ask the dealer which engine is in the exact truck in front of you. If the dealer cannot answer from the sticker, that is a signal to slow down. A good answer is specific. A vague answer is a reason to keep shopping, and to check another lot the same day. Comparing two trucks on the same day keeps the details fresh in your mind, and it makes the real differences between the trucks easier to see.",
+   "query": "Hyundai Santa Cruz pickup truck",
+   "caption": "TWO NUMBERS? ASK WHICH ENGINE"
   },
   {
    "text": "So what should you check before you buy a truck for towing in twenty twenty-seven? First, the engine, cab, drive and package, not only the model. Second, the door sticker of the exact truck you are buying. Third, the loaded weight of your trailer. And fourth, the payload, because the tongue of the trailer and the people in the truck count against it. If one of those four is wrong, the brochure number does not apply to you.",

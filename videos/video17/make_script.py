@@ -81,6 +81,27 @@ sc("""And a buyer who plans to sell in five years should compare carefully. Ask 
    "Nissan Frontier S pickup", "COMPARE OUT-THE-DOOR PRICES")
 
 # ---------- CLOSE ----------
+# NEWSCENES
+sc("""Let us slow down on the fifteen dollar gap, because it is easy to misread. Fifteen dollars is less than the thirty dollar disagreement between the sources about the destination fee. So the gap is smaller than the noise in the data. It does not mean the Frontier is the better deal, and it does not mean the Tacoma is. It means that on the sticker, the two trucks are tied, and the decision has to come from somewhere else.""",
+   "Nissan Frontier pickup", "THE GAP IS SMALLER THAN THE FEE ERROR")
+sc("""So where should the decision come from? Start with what you do with the truck. The Frontier offers a V six with three hundred ten horsepower, and it tows up to seven thousand, one hundred fifty pounds. The Tacoma offers a turbo four-cylinder and a hybrid with much more torque. If you value a simple engine, the Frontier fits. If you value the most torque and the best resale, the numbers favor the Tacoma. Neither answer is wrong. They are different priorities.""",
+   "Toyota Tacoma hybrid pickup", "SIMPLE ENGINE OR MORE TORQUE?")
+sc("""Now let us explain the resale number in plain words, because it is the one buyers skip. Sixty-three point four percent after five years means that for every hundred dollars you pay today, the truck is worth about sixty-three dollars when you sell. The Tacoma, at eighty and a half percent, is worth about eighty. That gap is not a small detail. It is money that leaves your pocket slowly, a little every month, whether or not you ever notice it.""",
+   "Nissan Frontier pickup truck", "63.4 PERCENT MEANS ABOUT $63 PER $100")
+sc("""A common mistake is to compare trucks by the monthly payment. A payment can look low because the loan is long, and it hides both the price and the resale. A better habit is to compare three things on every truck. The out-the-door price, which includes the destination fee. The five-year resale percentage. And the tow rating for the exact trim you want. If a dealer will not give you all three, that is information too.""",
+   "Nissan Frontier S pickup", "DO NOT SHOP BY MONTHLY PAYMENT")
+sc("""Here is how to verify the destination fee. Ask the dealer to write down the full price in a list, line by line, with the sticker price, the destination fee, taxes and any dealer fees on separate lines. Our sources gave seventeen forty-five and seventeen seventy-five dollars, and they could not both be right. The written list settles it. If a line is vague, ask what it is for, and ask whether it can be removed.""",
+   "Nissan Frontier window sticker", "GET THE FEES IN WRITING, LINE BY LINE")
+sc("""Remember also that the sales growth tells you what buyers did, not what the truck will do for you. The Frontier is up thirty-nine point six percent, and that is real. But a truck can be popular for a good price and still lose value faster. Popularity is a fact about the market. Resale and longevity are facts about ownership. When a video or a salesperson quotes the first kind of number, ask for the second kind.""",
+   "Nissan Frontier PRO-4X pickup", "POPULAR IS NOT THE SAME AS DURABLE")
+sc("""Let us be fair to the Frontier, too. The longevity numbers describe averages across many trucks, not your truck. A well-maintained truck with regular oil changes can beat the average, and a neglected one will not. The study cannot see how you drive. So the right way to use the twelve and a half percent figure is as a reason to look closely, to ask for service records on a used truck, and to keep a maintenance log on a new one.""",
+   "Nissan Frontier pickup", "AVERAGES ARE NOT YOUR TRUCK")
+sc("""Finally, think about the buyer who should wait. If you plan to sell in five years, or if you need the highest resale you can get, give the Tacoma a serious look before you sign. If Toyota has not yet published its twenty twenty-seven prices, as Autoblog noted, you can wait and compare again when it does. And if you decide on the Frontier anyway, you now know exactly which numbers you are accepting.""",
+   "Nissan Frontier Toyota Tacoma pickups", "WHO SHOULD WAIT AND COMPARE")
+
+sc("""One last practical tip for any midsize truck shopper. Do not let the order of the conversation decide the outcome. Many buyers talk about the monthly payment first, then the trade-in, then the price. Reverse it. Settle the price of the truck first, in writing, with the destination fee included. Then talk about the trade-in as a separate deal. Then talk about financing. Three separate negotiations are easier to check than one big tangled one, and each number can be compared with the figures we covered today.""",
+   "Nissan Frontier pickup truck", "NEGOTIATE ONE NUMBER AT A TIME")
+
 sc("""So what should you check before you buy a midsize truck in twenty twenty-seven? First, the out-the-door price with the destination fee. Second, the engine and the towing for the exact trim. Third, the five-year resale value, which is where the Frontier is weakest. And fourth, whether the model is still being built. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
    "Nissan Frontier pickup", "CHECK 1, 2, 3 AND 4")
 sc("""If you want to know whether the twenty twenty-seven Toyota Tundra fixed its engine, subscribe, because that is coming next. Thanks for watching.""",
@@ -95,7 +116,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video17", "length_scale": 2.05,
+json.dump({"id": "video17", "length_scale": 1.55,
   "title": "2027 Nissan Frontier: $15 Cheaper Than a Tacoma, But There Is a Catch", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

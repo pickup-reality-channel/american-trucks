@@ -80,6 +80,27 @@ sc("""That is the lesson of this list. The best truck on paper depends on what y
 sc("""Here is a way to decide in five minutes. Write down your three priorities, for example price, resale and towing. Then look up the exact numbers for the three trucks you like, from the sources in this video. And write the warnings next to each one. A truck with one clear warning that you can live with is a better choice than a truck with no warnings that you could not find.""",
    "Ford F-150 pickup", "DECIDE IN FIVE MINUTES")
 
+# ---------- BUYER GUIDANCE ----------
+sc("""Let's compare two figures we already saw. The Tacoma keeps eighty and a half percent of its value after five years, and the Ford F-one-fifty keeps sixty-one point four. That is a gap of about nineteen points. On a truck that costs fifty thousand dollars, nineteen points is a lot of money you get back, or do not get back, when you sell. So resale is not a small detail. For many buyers, it is the largest cost in the first five years of owning a truck.""",
+   "Toyota Tacoma Ford F-150 pickups", "RESALE GAP: 19 POINTS")
+sc("""Here is the first common mistake. Buyers pick the truck from a list, and then walk into the dealership without a plan. The salesperson talks about the monthly payment. The better question is the out-the-door price, which includes the destination fee and every other charge. Ask for it in writing for two trucks of the same trim, on the same day. Then compare those two numbers. That is the only comparison that is fair.""",
+   "Ford F-150 XLT pickup", "ASK FOR THE OUT-THE-DOOR PRICE")
+sc("""The second mistake is trusting one source. We showed that the Ram is first in one study and near the bottom in another. A buyer who reads only the first source will buy with too much confidence. A buyer who reads only the second will miss a truck that owners rate well. Read both, write down what each one measures, and then decide how much weight each deserves. Doing that takes ten minutes and can save a lot of regret.""",
+   "Ram 1500 Laramie pickup", "MISTAKE: ONE SOURCE ONLY")
+sc("""So who should wait? If you are thinking about the Santa Cruz style of buying, where the model has an uncertain future, wait until you know what the company says. If you want a Ram, wait until you have checked the recalls and the ABS software issue for the exact model year. And if you want the Tundra, wait until you have looked at the engine record and the warranty. Waiting a week to check is cheap. Owning the wrong truck for five years is not.""",
+   "Ram 1500 Big Horn pickup", "WHO SHOULD WAIT")
+sc("""And who should buy now? A first-time buyer who wants low running costs and a low price can go straight to the Maverick Hybrid, because the numbers are clear. A buyer who wants a truck that holds its value, and does not need heavy towing, can go to the Tacoma. A buyer who tows or hauls for a living can look at the heavy-duty group, and think about the truck as a tool, not an investment. Each of these buyers can decide with confidence, because the data fits the need.""",
+   "Ford Maverick Hybrid pickup", "WHO SHOULD BUY NOW")
+sc("""How do you check a recall in practice? Take the vehicle identification number, the VIN, from the windshield or the door sticker, and enter it in the official recall lookup from the government. It tells you whether a repair is open on that exact truck. Do this for a new truck on the lot, as well as a used one. For a used truck, also ask the seller for the service records, and ask for the warranty terms in writing. It costs nothing, and it is the best protection you have.""",
+   "Ford F-150 Lariat pickup", "CHECK THE VIN FOR RECALLS")
+sc("""One more honest point about the heavy-duty trucks. They hold their value, as we saw, between seventy-five and almost eighty percent. But the sales for two of the three Detroit companies are falling. A buyer should ask why, and should not assume that a falling market means a bad truck. It may mean that fewer people need one. If you are one of the people who need one, resale value is a bonus. Buy it for the work it does first, and the resale second.""",
+   "Ram 2500 Heavy Duty pickup", "BUY FOR THE WORK FIRST")
+
+sc("""Finally, here is how the five picks fit together for a household with more than one need. A family that wants one truck for everything may find that no pick is perfect, and that is normal. The Ford gives mainstream choice, the Ram gives value and momentum, and the Tacoma gives resale. Pick the strength you will use every week, accept the warning that you can live with, and ignore the rest. A truck that fits ninety percent of your week is better than a perfect truck you cannot afford.""",
+   "Ford F-150 Ram 1500 Toyota Tacoma pickups", "PICK THE STRENGTH YOU USE WEEKLY")
+sc("""And a short word on timing. The numbers in this video come from reports published during twenty twenty-six. Prices, incentives and sales change from month to month, so use our figures as a starting point, and confirm the current numbers on the day you shop. Ask for the price in writing, ask for the warranty terms in writing, and compare the same trim at two dealers on the same day. That small habit is worth more than any list.""",
+   "Chevrolet Silverado 1500 pickup truck", "CONFIRM NUMBERS THE DAY YOU SHOP")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy in twenty twenty-seven? First, the recalls on the exact model year. Second, the full price with the destination fee. Third, the five-year resale value. And fourth, the towing and payload numbers for the exact configuration. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
    "Chevrolet Silverado 1500", "CHECK 1, 2, 3 AND 4")
@@ -94,7 +115,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video11", "length_scale": 2.05,
+json.dump({"id": "video11", "length_scale": 1.55,
   "title": "5 Pickups Actually Worth Buying in 2027 (And the Warning for Each)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")
