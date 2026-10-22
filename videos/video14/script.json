@@ -1,6 +1,6 @@
 {
  "id": "video14",
- "length_scale": 2.06,
+ "length_scale": 1.55,
  "title": "Heavy-Duty Trucks in 2027: Sales Are Falling, But Why Do They Hold Value?",
  "scenes": [
   {
@@ -159,6 +159,46 @@
    "text": "But a store of value is only useful if you can sell. In a market where the heavy-duty lines are shrinking, there may be fewer new trucks and fewer buyers, and that is something to watch. We do not have used price data in the sources we found. A careful buyer checks local prices for the exact truck, and compares the five-year picture to the cost of a lease or a rental, if the work is occasional.",
    "query": "Chevrolet Silverado HD pickup",
    "caption": "CHECK THE LOCAL USED MARKET"
+  },
+  {
+   "text": "Before the checklist, let's read the main sales number in a calm way. The three heavy-duty lines sold three hundred thirty-five thousand, two hundred sixteen trucks in nine months, down six point three percent. That is a fall, but it is not a collapse. Hundreds of thousands of buyers still chose these trucks. Remember also that Ford is not in that total, because the sources do not split out the Super Duty. So do not read the table as proof that Ford is winning or losing. It tells you about three brands, and it says nothing more.",
+   "query": "Heavy duty pickup trucks",
+   "caption": "A FALL IS NOT A COLLAPSE"
+  },
+  {
+   "text": "Now, how to verify a heavy-duty truck before you buy it. Go to the door sticker. It lists the payload and the towing figure for that exact truck, and those depend on the engine, the axle and the cab. A brochure shows the best case, and the sticker shows the truck in front of you. Write down the two numbers, then compare them with the heaviest load you really carry. If the sticker figure is close to your load, you want a bigger margin, not a smaller one.",
+   "query": "Ford F-250 Super Duty pickup",
+   "caption": "READ THE DOOR STICKER, NOT THE BROCHURE"
+  },
+  {
+   "text": "Let's also separate two numbers that people often blend together. Resale value is what the market thinks a truck will be worth. Longevity is the chance that a truck reaches two hundred fifty thousand miles. The Ram three thousand five hundred is strong on both, at seventy-nine point eight percent and thirty-one point nine. The Ford F-three-fifty is strong on resale at seventy-nine point six, but its longevity is fifteen point one. The Chevrolet three thousand five hundred HD is at eleven point seven, barely above the truck average of eleven point one. Different questions, different answers.",
+   "query": "Ram 3500 Heavy Duty",
+   "caption": "RESALE AND LONGEVITY ARE DIFFERENT QUESTIONS"
+  },
+  {
+   "text": "A word about the earlier edition of the study. The F-three-fifty was first at forty-nine point one percent, and in the latest edition it is sixth at fifteen point one. The Silverado two thousand five hundred HD was sixth at forty-one point two, and it is now ninth at fourteen point one. Those are big moves, and they tell you something useful. These are statistical estimates, and they change from one edition to the next. Use them to narrow your list, not to decide for you, and let the exact truck and its records have the final word.",
+   "query": "Chevrolet Silverado 2500HD pickup",
+   "caption": "STUDIES CHANGE FROM EDITION TO EDITION"
+  },
+  {
+   "text": "If you are considering the Silverado medium-duty, or any truck that has just ended, be careful and practical. The sources do not say how warranty or service will be handled after production ended, so do not assume. Ask the dealer to answer in writing, and ask how parts will be supplied. Ask whether the price reflects the fact that there is no announced successor. A truck can still be a good tool when the line is gone, but you should be paying for that situation, and you should know about it before you sign.",
+   "query": "Chevrolet Silverado medium duty truck",
+   "caption": "ASK FOR PARTS AND SERVICE IN WRITING"
+  },
+  {
+   "text": "Who should buy a heavy-duty truck, and who should wait? It suits the person who tows or hauls heavy loads every week, or a business that needs a tool and values what the truck is worth later. It may not suit a commuter with an occasional trailer, because a half-ton is easier to drive and costs less to buy. And it is a reason to wait if you cannot find local used prices for the exact truck, because a store of value only helps when there are buyers on the other side.",
+   "query": "Ram 2500 pickup",
+   "caption": "WHO IT SUITS, AND WHO SHOULD WAIT"
+  },
+  {
+   "text": "Last, the common mistakes. Buying a heavy-duty truck for the image. Trusting a brand's reputation instead of the numbers for the specific model. Comparing one company's top trim with another company's base trim. And accepting the first quote. Get the same configuration quoted by the Ford, Ram and Chevrolet dealers on the same day, in writing, with the full price. In a market where Ram is growing and Chevrolet is falling, the offers may not be equal, and the only way to find out is to ask.",
+   "query": "Chevrolet Silverado HD pickup",
+   "caption": "COMPARE THE SAME TRUCK ON THE SAME DAY"
+  },
+  {
+   "text": "A short routine before you visit a dealer. Decide how heavy your real load is, and write it down. Look up the door sticker figures for the trucks on your list. Ask each brand for the same configuration, in writing, with the full price. Then compare the five-year resale figures for those exact models, remembering that Ram and Ford are strong there, and the half-ton keeps much less. Finally, ask whether the model is still being built. If every answer is clear, you are choosing with your eyes open, which is all any set of numbers can really do for you.",
+   "query": "Ford F-350 Super Duty pickup",
+   "caption": "A SHORT ROUTINE BEFORE THE DEALER"
   },
   {
    "text": "So what should you check before you buy a heavy-duty truck in twenty twenty-seven? First, whether you really need one, because a half-ton can do a lot. Second, the exact configuration, the engine, the axle, the payload and the towing figure on the door sticker. Third, the five-year resale value for that model. And fourth, whether the model is still being built, because the Silverado medium-duty shows that it can end.",

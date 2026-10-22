@@ -82,6 +82,27 @@ sc("""The final twist is about the Lobo and Tremor price cuts. They are the most
 sc("""Before you order, check three things. First, the real price with the destination fee, because the prices in the pricing document exclude it, and Ford's fee was not stated in the report we used. Second, the exact engine you are getting, because the turbo is now on fewer trims. And third, whether the towing package is included, because it is an option. The Maverick is a simple truck, but its options are not always simple.""",
    "Ford Maverick XLT pickup", "CHECK PRICE, ENGINE AND TOW PACKAGE")
 
+# ---------- BUYER GUIDE: HOW TO USE THESE NUMBERS ----------
+sc("""Before the checklist, a word about how to read these prices. They come from a pricing document reported on August twenty-eighth, and The Truth About Cars says they can change before the trucks arrive. They also leave out the destination fee. So a thirty-two thousand, one hundred fifty-five dollar Lobo is a starting point, and not a quote. The practical rule is to ask for the out-the-door price in writing, with the destination fee, the taxes and the options on separate lines, and to check the date on the quote.""",
+   "Ford Maverick Lobo pickup", "PRICES ARE AS REPORTED, NOT FINAL")
+sc("""Now the price cuts. The Lobo is about thirty-eight hundred dollars lower, and the Tremor is about thirty-five hundred lower. Those are real savings, but they only help if you want those trims. The way to test is to put the trims side by side at one dealer on one day, and ask what each one costs with the same options. If the gap between two trims is small, the more equipped one may be the better value. If it is large, the cheaper one may give you everything you actually use.""",
+   "Ford Maverick Tremor pickup", "LINE UP THE TRIMS ON THE SAME DAY")
+sc("""Let's think about hybrid versus turbo as a decision and not as a spec sheet. The hybrid makes one hundred ninety-one horsepower and gets forty-two miles per gallon in the city, according to Autoblog. The turbo makes two hundred fifty horsepower and two hundred seventy-seven pound-feet. If most of your driving is in town, the hybrid is the sensible default. If you want quicker passing and more power with a trailer, the turbo is the one. Drive both, back to back, because the numbers do not tell you which one you will enjoy.""",
+   "Ford Maverick Hybrid pickup", "HYBRID OR TURBO: DRIVE BOTH")
+sc("""Now the towing package, and how to verify it. The four thousand pound package is now offered on the hybrid, but it is an option, and not every truck on the lot will have it. Ask for it in writing for the exact truck you are buying, and then check the door sticker for the towing and payload figures. Match them to your trailer, with some margin. Four thousand pounds is a small trailer, so weigh the trailer loaded, not empty. If it is close to the limit, you want a bigger truck.""",
+   "Ford Maverick towing trailer", "CHECK THE STICKER FOR TOWING AND PAYLOAD")
+sc("""A caution about the price history. The twenty twenty-two launch price of twenty-two thousand, five hundred dollars and the twenty twenty-six hybrid price of twenty-eight thousand, one hundred forty-five come from different sources, and the article says they are not directly comparable. So do not treat the difference as an exact measure of inflation. What matters for you is the quote in front of you today. Use the older figure only as a reminder that the cheapest truck in America has become more expensive, and that buyers kept coming anyway.""",
+   "Ford Maverick first generation pickup", "DO NOT OVER-READ THE PRICE HISTORY")
+sc("""What about the Slate and the Santa Cruz? The Slate was priced at twenty-four thousand, nine hundred fifty dollars and its first deliveries are expected by the end of twenty twenty-six, but it has not been delivered yet, and it is sold without dealers. If you can wait, watching its first owners is cheap. The Santa Cruz is reported to be ending after twenty twenty-six, so if you are looking at one, ask how parts and service will be handled. Neither changes the Maverick's position today, but both are worth knowing.""",
+   "Slate Auto electric truck", "SLATE AND SANTA CRUZ: WORTH WATCHING")
+sc("""And the mistakes we see with small trucks. Assuming the cheapest trim has the turbo, when the XL and the Lariat will not. Forgetting the destination fee. Stretching to the Tremor for looks, when the hybrid would do everything you need. Skipping a test drive of the other engine. And not asking for the towing package in writing. The Maverick is a simple truck, and a patient buyer with a written quote and a checked sticker will usually get the right one.""",
+   "Ford Maverick XLT pickup", "COMMON BUYER MISTAKES")
+
+sc("""To pull it together, here is a simple routine for ordering a Maverick. Decide first whether you need the turbo or the hybrid, and be honest about how you drive. Decide whether you will tow, and how heavy the trailer is. Then ask for the out-the-door price on the exact trim, in writing, with the destination fee. Compare it with the Ranger, the Tacoma and the Colorado prices from the Autoblog list, so you see the whole range. And if you are not in a hurry, check what the Slate does when it arrives. A small truck rewards a patient buyer more than a fast one.""",
+   "Ford Maverick pickup", "A SIMPLE ROUTINE BEFORE YOU ORDER")
+sc("""One more way to think about it. The Maverick costs less than most trucks, so a small mistake costs less too, but the numbers show that small mistakes still add up. A few thousand dollars on the wrong trim, a missing tow package, or a fee nobody mentioned can erase the savings you came for. That is why the written quote matters so much. It turns a friendly conversation into a number you can compare, and a number you can compare is the best tool a buyer has, no matter how cheap the truck is.""",
+   "Ford Maverick Hybrid pickup", "A WRITTEN QUOTE IS YOUR BEST TOOL")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy a small truck in twenty twenty-seven? First, the full price, with every fee. Second, the powertrain on the exact trim. Third, the towing and payload for your use. And fourth, the five-year resale value, and whether the model is still being built. We put all of this into a checklist, the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment.""",
    "Ford Maverick pickup", "CHECK 1, 2, 3 AND 4")
@@ -97,7 +118,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video16", "length_scale": 2.13,
+json.dump({"id": "video16", "length_scale": 1.55,
   "title": "2027 Ford Maverick: Price Cuts, No More Turbo on Cheap Trims (What Changed)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")

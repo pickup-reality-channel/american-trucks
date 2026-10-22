@@ -80,6 +80,25 @@ sc("""So what is the Cybertruck problem? It is not that the truck failed to sell
 sc("""And the problem is the wider electric truck market. The Silverado EV fell forty-three percent through nine months. The Lightning fell seventy-nine. The Hummer EV fell sixty-two. The Cybertruck is not alone, and it is not even the worst. Its number is a symptom of a market that was planned for a subsidy, and that lost the federal tax credit. The truck that looks the most different is in the same trouble as the ones that look like everything else.""",
    "Tesla Cybertruck Ford F-150 Lightning", "SAME MARKET. SAME TROUBLE.")
 
+# ---------- BUYER GUIDE: HOW TO USE THESE NUMBERS ----------
+sc("""Before the checklist, let's turn the biggest numbers into something a buyer can use. Three different things have been mixed together in the headlines. A plan is what a company hopes to sell, and for the Cybertruck that was two hundred fifty thousand a year. Capacity is what a factory is able to build, and the shareholder letter lists more than one hundred twenty-five thousand. Sales are what customers actually paid for. When you read a claim about any truck, ask which of the three it is, because mixing them up is the easiest way to end up confused.""",
+   "Tesla Cybertruck pickup truck", "PLAN, CAPACITY AND SALES ARE NOT THE SAME")
+sc("""Next, registrations and sales. A registration is a record that a truck is on the road under somebody's name. A sale is a customer choosing to buy it. We saw that S and P Global Mobility counted seven thousand and seventy-one registrations in the fourth quarter, while Cox counted four thousand, one hundred forty sales, and one thousand, three hundred thirty-nine of the registrations went to SpaceX and Musk's other companies. The lesson is simple. Compare numbers only when they come from the same source, and always ask who the buyer was.""",
+   "Tesla Cybertruck SpaceX", "REGISTRATIONS ARE NOT SALES")
+sc("""Now think about the range between the two estimates, about thirty-seven hundred on one side and seven to eight thousand on the other. A buyer should read a wide range like that as a message. It says that nobody outside Tesla really knows. The lower figure is described as a low-confidence estimate, and the higher one uses Tesla's global total as a ceiling. Do not pick the number that supports what you already believe. Hold both in your head, and let the uncertainty be part of your decision.""",
+   "Tesla Cybertruck front", "A WIDE RANGE MEANS NOBODY OUTSIDE TESLA KNOWS")
+sc("""Then there is the price. The truck now starts at seventy-four thousand, nine hundred ninety dollars after a five thousand dollar increase, and the average full-size pickup sold for sixty-seven thousand, four hundred forty-six. A starting price is not what you pay. Ask for the out-the-door price in writing, with every fee and every option on the exact truck. Ask what day the quote is good for, because this price has moved in both directions in a short time. And if you compare it with another truck, compare the same kind of trim on the same day.""",
+   "Tesla Cybertruck dual motor", "ASK FOR THE OUT-THE-DOOR PRICE IN WRITING")
+sc("""Here is how to verify the truck itself. Take the vehicle identification number, the VIN, and run it through the official recall lookup before you pay. Ask for the service records, and ask for the warranty terms in writing, not in conversation. Then find out where the nearest service center is, and how long the wait is for an appointment. With a truck that has few sales and little published data, these checks matter more, because there are fewer owners who have already found the problems for you.""",
+   "Tesla Cybertruck stainless steel", "CHECK THE VIN, THE RECALLS AND THE SERVICE")
+sc("""Who is this truck for, and who should wait? It suits a buyer who loves the design, who has the budget for a price near seventy-five thousand dollars, and who is comfortable owning something unusual from a company that does not report its numbers. It may not suit a buyer who needs a proven record, who wants easy resale, or who depends on a nearby service network. If that second description sounds like you, waiting for the next quarter's numbers costs very little, and it may tell you a lot.""",
+   "Tesla Cybertruck pickup", "WHO IT SUITS, AND WHO SHOULD WAIT")
+sc("""Finally, the mistakes we see most often. Buying because of a headline, either the one that says the truck failed or the one that says it leads. Forgetting that leading a small category is not the same as a large market. Paying the starting price without reading the fees. Skipping the recall check because the truck is new. And assuming that a company's confidence is the same as a company's data. A calm buyer with a written quote and a checked VIN is better protected than any prediction, ours included.""",
+   "Tesla Cybertruck", "COMMON BUYER MISTAKES")
+
+sc("""To put all of this together, imagine you are standing in a showroom, or reading an online listing. Here is a short routine that works for any low-volume truck. First, write down the out-the-door price, and compare it with the average full-size pickup at sixty-seven thousand, four hundred forty-six dollars, so you know what the premium is. Second, ask for the warranty and service terms in writing. Third, run the VIN. Fourth, ask yourself which numbers you trust, and who published them. If you can answer all four calmly, you are ready to decide. If you cannot, the truck will still be there next month.""",
+   "Tesla Cybertruck pickup", "A FOUR-STEP SHOWROOM ROUTINE")
+
 # ---------- CLOSE ----------
 sc("""So what should you check before you buy a Cybertruck, or any low-volume truck, in twenty twenty-seven? First, the real price, with every fee, since the starting price has changed in both directions. Second, the warranty and the service network near you. Third, the resale value, which the sources we found do not give. And fourth, the company's honesty about its numbers. A company that tells you how many it sells is easier to trust.""",
    "Tesla Cybertruck", "CHECK 1, 2, 3 AND 4")
@@ -96,7 +115,7 @@ for idx, sc_ in enumerate(S):
     if idx in CUTS: sc_["cuts"] = CUTS[idx]
     for k, v in CH.items():
         if sc_["text"].startswith(k): sc_["chapter"] = v
-json.dump({"id": "video13", "length_scale": 2.08,
+json.dump({"id": "video13", "length_scale": 1.55,
   "title": "The Cybertruck Problem: 250,000 Promised, This Is What Sold (2026)", "scenes": S},
   open("script.json", "w"), indent=1)
 print(len(S), "scenes", sum(len(s["text"].split()) for s in S), "words")
