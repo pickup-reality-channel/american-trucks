@@ -80,6 +80,7 @@ def main(mode):
     now = dt.datetime.now(dt.timezone.utc); dl = pathlib.Path("/tmp/dl"); dl.mkdir(exist_ok=True)
     for key, v, fname, at, title, desc, is_long in (queue_lote() if lote else queue()):
         if key in state: continue
+        if not is_long and os.environ.get("YT_SHORTS") != "1": continue  # Shorts are scheduled by hand
         if at < now + dt.timedelta(hours=2):
             print("skip (slot already passed):", key, at); state[key] = {"skipped": "slot passed"}; continue
         if budget < COST_UPLOAD + (COST_THUMB if is_long else 0): break
