@@ -1,0 +1,149 @@
+import json
+S = []
+def sc(text, query, caption):
+    S.append({"text": " ".join(text.split()), "query": query, "caption": caption})
+
+# ---------- HOOK ----------
+sc("""Two years ago, the V8 pickup looked finished. Ram killed the Hemi. Electric trucks were the future. Fuel economy fines were climbing. Then everything reversed. Ram brought the Hemi back in six months. GM just revealed two brand-new V8s. Ford is putting its V8 back into more F-150 trims. So is the V8 truck dying, or is it coming back stronger than ever?""",
+   "Ram 1500 Hemi", "THE V8 IS BACK?")
+
+# ---------- COLD OPEN ----------
+sc("""For generations, the V8 was the heart of the American pickup. The sound, the torque, the simple feeling that a real truck needs eight cylinders. But in the early twenty-twenties, almost every automaker told buyers the same thing. Turbo sixes are more efficient, hybrids are coming, and electric trucks will take over.""",
+   "Chevrolet Silverado V8 engine", "THE HEART OF THE AMERICAN TRUCK")
+sc("""In this video, we look at what really happened to the V8 between twenty twenty-five and twenty twenty-seven. Why Ram dropped the Hemi and then rushed it back, why GM is spending hundreds of millions on new V8s, why Ford changed course on the F-150, and why Toyota is the one company not bringing its V8 back. Every number is sourced in the description.""",
+   "Ford F-150 Coyote V8", "WHAT HAPPENED TO THE V8?")
+sc("""And here is the first surprise. The biggest threat to the V8 was not electric trucks. It was the automakers themselves, and the buyers forced them to change their minds. Let's start with the company that made the biggest mistake.""",
+   "Ram 1500 2025", "THE BUYERS FOUGHT BACK")
+
+# ---------- 1. RAM KILLS THE HEMI ----------
+sc("""For the twenty twenty-five model year, Ram dropped the five point seven liter Hemi V8 from the Ram fifteen hundred. In its place came the three liter Hurricane twin-turbo inline six. On paper, the Hurricane was better. The standard version makes four hundred twenty horsepower, and the high output version makes five hundred forty horsepower, more than the Hemi ever made in a regular Ram fifteen hundred.""",
+   "Ram 1500 2025 Laramie", "2025: NO MORE HEMI")
+sc("""But truck buyers do not shop on paper. Ram sold four hundred thirty-one thousand, six hundred seventy trucks in twenty twenty-five, down two percent from twenty twenty-four, according to TopSpeed. In the first quarter of twenty twenty-five alone, Ram's United States volume was ninety-three thousand, three hundred sixty-eight, also down two percent from a year earlier.""",
+   "Ram 1500 Big Horn", "RAM SALES: DOWN 2%")
+sc("""Then Stellantis brought back a familiar face. Tim Kuniskis rejoined the company as Ram CEO in December twenty twenty-four, after a six-month retirement. And one of his first big decisions was to undo the decision that removed the Hemi. As he later put it, buyers were disappointed that Ram did not give them a choice. People hate not having a choice.""",
+   "Ram trucks dealership", "PEOPLE HATE NOT HAVING A CHOICE")
+sc("""Kuniskis also explained the math. There are three point six million people out there with a Hemi, he said. Losing those loyal buyers would be expensive. It would be a lot more effective to give them back the Hemi. In other words, the V8 was not just an engine. It was a customer base.""",
+   "Ram 1500 Hemi Laramie", "3.6 MILLION HEMI OWNERS")
+
+# ---------- 2. THE HEMI RETURNS ----------
+sc("""In June twenty twenty-five, Ram announced that the Hemi was coming back for the twenty twenty-six Ram fifteen hundred. According to WardsAuto, the program was fast-tracked to take six months instead of the originally planned eighteen. Automakers rarely move that fast on an engine.""",
+   "Ram 1500 2026", "BACK IN 6 MONTHS, NOT 18")
+sc("""The returning engine is the five point seven liter Hemi with eTorque, a forty-eight volt mild hybrid system. It makes three hundred ninety-five horsepower and four hundred ten pound-feet of torque. It is a one thousand two hundred dollar option on most trims, from the Tradesman to the Laramie, and it comes at no extra charge on the Limited and Longhorn.""",
+   "Ram 1500 Limited", "HEMI: 395 HP, $1,200")
+sc("""The rollout came in stages. According to WardsAuto, the Hemi arrived first on the volume trims, and comes to the Rebel late in the model year. And Ram said it had no plans, at least for now, to bring back the supercharged six point two liter Hemi from the TRX. The comeback was about the everyday V8, not the halo engine.""",
+   "Ram 1500 Rebel 2025", "ROLLOUT IN STAGES")
+sc("""Here is the twist. The Hemi that came back is less powerful than the engine it replaced. The standard Hurricane makes four hundred twenty horsepower, and the high output version makes five hundred forty. The Hemi makes three hundred ninety-five. Buyers were willing to pay one thousand two hundred dollars for less horsepower, because they wanted eight cylinders.""",
+   "Ram 1500 Rebel", "LESS POWER, MORE DEMAND")
+sc("""And notice one more detail. According to WardsAuto, the returning truck does not carry a Hemi badge. Ram is using a new insignia instead. And the Hemi is built in Saltillo, Mexico, which Stellantis said remains the site for now. So the comeback of the most American engine name runs through a factory in Mexico.""",
+   "Ram 1500 TRX", "NO HEMI BADGE")
+sc("""So how many buyers came back? According to TopSpeed, Ram sold about ten thousand Hemi-equipped pickups in twenty twenty-five, limited by production capacity. Kuniskis expects about one hundred thousand in twenty twenty-six. That is ten times more. And he expects thirty-five percent of Ram buyers to choose the Hemi by the end of twenty twenty-six, with a similar rate in twenty twenty-seven and twenty twenty-eight.""",
+   "Ram 1500 Tradesman", "10,000 → 100,000 HEMIS")
+sc("""And the factory had to catch up. According to ClubAlfa, citing an interview Kuniskis gave to Mopar Insiders, total Hemi production in twenty twenty-four was about thirty thousand units, and some of those engines went unsold. For twenty twenty-six, Kuniskis said, this year we'll go past one hundred thousand units. That is roughly triple. And he added, twenty twenty-six will tell us what the real split between the six-cylinder and the Hemi looks like.""",
+   "Ram 1500 Laramie 2026", "HEMI OUTPUT: ~30,000 → 100,000+")
+sc("""Now compare that with the competition. According to Kuniskis, Ford sells about twenty-five percent of F-150s with its five liter V8. And GM's V8s, the five point three and the six point two, account for at least eighty percent of Silverado and Sierra sales, by his estimate. So even after the comeback, Ram sells far fewer V8s than GM.""",
+   "Chevrolet Silverado 1500 2024", "GM: 80% V8 (RAM'S ESTIMATE)")
+
+# ---------- 3. GM DOUBLES DOWN ----------
+sc("""And that brings us to GM, the company that never stopped believing in the V8. On September seventeenth, twenty twenty-six, GM unveiled its sixth-generation Small Block V8 family for the twenty twenty-seven Chevrolet Silverado and GMC Sierra fifteen hundred. Two brand-new engines, in a year when many people expected the V8 to fade away.""",
+   "Chevrolet Silverado 2025", "2026: GM'S NEW V8s")
+sc("""The first is the L seventy-six, a five point seven liter V8 with four hundred two horsepower. And here is a fun detail. Five point seven liters is three hundred fifty cubic inches. GM is bringing back the famous three fifty displacement that powered Chevy trucks and muscle cars for decades.""",
+   "Chevrolet 350 small block", "5.7L = THE 350 IS BACK")
+sc("""The second is the L seventy-eight, a six point six liter V8 with four hundred eighty-one horsepower and five hundred one pound-feet of torque. That is four hundred cubic inches. GM claims it has the highest horsepower of any naturally aspirated V8 in its segment. And GM says no light-duty competitor beats the five point seven's maximum tow rating of thirteen thousand seven hundred pounds.""",
+   "GMC Sierra 1500 Denali", "6.6L: 481 HP, 501 LB-FT")
+sc("""The new engines use a dual fuel system that combines direct injection and port fuel injection. GM says that helps cover a wider range of power, efficiency and emissions conditions. And GM expects more than one point five million miles of real-world validation before the trucks reach dealers.""",
+   "GM engine plant", "1.5 MILLION MILES OF TESTING")
+sc("""With the new V8s, the twenty twenty-seven Silverado and Sierra fifteen hundred get a four-engine lineup. The two new V8s join the TurboMax four-cylinder and the three liter Duramax turbo-diesel. And as we covered in our made in America video, GM is also converting its Orion plant in Michigan to build gas-powered full-size pickups and SUVs starting in early twenty twenty-seven. GM is betting on gasoline trucks, not walking away from them.""",
+   "GMC Sierra AT4", "FOUR ENGINES FOR 2027")
+sc("""GM is also spending real money on V8 production. According to Automotive World, production starts at GM's Flint Engine Operations, with an additional eight hundred eighty-eight million dollar investment at Tonawanda, New York, and six hundred ninety-one million Canadian dollars at St. Catharines, Ontario. That is more than a billion dollars of capacity for engines that many people said had no future.""",
+   "Tonawanda Engine plant", "$888 MILLION IN TONAWANDA")
+
+# ---------- 4. GM'S V8 PROBLEM ----------
+sc("""But here is the twist that GM would rather not talk about. Why would GM need an all-new V8 so soon? Because its current six point two liter V8, the L eighty-seven, had a very public failure. In April twenty twenty-five, GM recalled five hundred ninety-seven thousand, six hundred thirty vehicles built between March twenty twenty-one and May twenty twenty-four.""",
+   "GMC Sierra Denali 6.2", "RECALL: 597,630 VEHICLES")
+sc("""According to The Autopian, the recall covered the Silverado and Sierra fifteen hundred, the Tahoe, the Suburban, the Yukon and the Escalade. GM's investigation found twenty-eight thousand, one hundred two complaints or incidents potentially involving engine failure in the United States, including fourteen thousand, three hundred thirty-two alleging a loss of propulsion.""",
+   "Chevrolet Tahoe", "28,102 COMPLAINTS")
+sc("""GM linked the failures to twelve crashes, twelve injuries and forty-two fires. It identified supplier manufacturing problems as the root cause, including sediment that damaged rod bearings, and crankshafts with out-of-specification dimensions. Engines showing damage were repaired or replaced. Others got thicker oil, a new filter and a new oil cap, plus a special ten-year or one hundred fifty thousand mile warranty.""",
+   "Cadillac Escalade", "THE FIX: THICKER OIL")
+sc("""And the story did not end there. In January twenty twenty-six, federal safety regulators opened a new investigation after thirty-six reports of engine failure in vehicles that had already received the recall work. So the new V8 is not only a statement of confidence. It is also a fresh start after one of the biggest engine recalls of twenty twenty-five.""",
+   "Chevrolet Suburban", "NHTSA: IS THE FIX WORKING?")
+
+# ---------- 5. FORD'S U-TURN ----------
+sc("""Now Ford. The F-150 has offered the five liter Coyote V8 for years. But for the twenty twenty-six model year, Ford scaled back V8 availability. According to Ford Authority, the V8 sat out the twenty twenty-six model year in the King Ranch and Platinum, two of the most expensive F-150 trims. The buyers most willing to pay for a V8 could no longer get one.""",
+   "Ford F-150 King Ranch", "2026: NO V8 IN KING RANCH")
+sc("""Then came the reversal. According to Ford Authority, citing sources familiar with the matter, the five liter V8 returns to the King Ranch and Platinum for twenty twenty-seven. It will be offered in seven trims, the XL, XLT, STX, Lariat, Tremor, King Ranch and Platinum. The engine is rated at four hundred horsepower and four hundred ten pound-feet of torque.""",
+   "Ford F-150 Platinum", "2027: V8 IN 7 TRIMS")
+sc("""And here is the bigger surprise. For twenty twenty-seven, the twin-turbo two point seven liter EcoBoost V6 is reportedly no longer orderable on the F-150. The three liter EcoBoost V6 becomes the standard engine on the XL, STX and XLT. So Ford is dropping a small turbo V6 from its best-selling truck, while giving the V8 more trims. Few people predicted that in twenty twenty-two.""",
+   "Ford F-150 EcoBoost", "2.7 ECOBOOST: GONE")
+sc("""And there is another reason the V8 looks better in twenty twenty-six. The turbo engines got weaker. According to TFLtruck, the twenty twenty-six F-150's three point five liter EcoBoost dropped from four hundred to three hundred eighty-two horsepower, eighteen horsepower less, after Ford added a gasoline particulate filter to meet soot emissions rules. The PowerBoost hybrid dropped ten horsepower, to four hundred twenty.""",
+   "Ford F-150 Lariat", "3.5 ECOBOOST: −18 HP")
+sc("""So here is the twist. For twenty twenty-seven, the five liter V8 in the F-150 makes four hundred horsepower, more than the three hundred eighty-two of the three point five EcoBoost. Ford's turbo V6 still makes more torque, five hundred pound-feet, and it still tows up to thirteen thousand five hundred pounds. But on horsepower, the old V8 now beats the engine that was supposed to replace it.""",
+   "Ford F-150 XLT", "V8 400 HP vs ECOBOOST 382 HP")
+sc("""Ford still keeps its other engines. The three point five liter EcoBoost, the PowerBoost hybrid, and the supercharged five point two liter V8 in the Raptor R. So in twenty twenty-seven, an F-150 buyer can choose between turbo sixes, a hybrid, and two very different V8s. Choice, once again, is the strategy.""",
+   "Ford F-150 Raptor R", "RAPTOR R: SUPERCHARGED V8")
+
+# ---------- 6. WHY THE V8 SURVIVED ----------
+sc("""So why did the V8 survive? The first reason is regulation. In early July twenty twenty-five, the One Big Beautiful Bill Act reduced fines under the corporate average fuel economy rules to zero. For decades, those fines pushed automakers toward smaller, more efficient engines. Suddenly, the financial penalty for selling thirsty trucks was gone.""",
+   "United States Capitol", "CAFE FINES: $0")
+sc("""And it went further. According to InsideEVs, a letter from federal regulators to automakers, reported by the Detroit News on July sixteenth, twenty twenty-five, wiped out fuel economy penalties back to the twenty twenty-two model year. The market for the credits automakers used to avoid those fines largely disappeared.""",
+   "gas station pickup truck", "PENALTIES WIPED BACK TO 2022")
+sc("""The second reason is the electric truck slowdown. In September twenty twenty-five, Ram canceled the fully electric Ram fifteen hundred REV, citing rapidly slowing industry demand for full-size electric pickups. The name moved to the range-extended model, which uses a Pentastar V6 as a generator. And the federal electric vehicle tax credit of up to seventy-five hundred dollars was repealed in September twenty twenty-five.""",
+   "Ram 1500 REV", "RAM EV: CANCELED")
+sc("""And the electric Ram had trouble long before it was canceled. According to AutoGuide, Ram repeatedly delayed the electric truck's production date, and in January twenty twenty-five it dropped the large two hundred twenty-nine kilowatt-hour battery option. The truck that was supposed to replace the V8 never reached a single customer. Meanwhile, the V8 it was supposed to replace came back.""",
+   "Ram 1500 REV concept", "THE EV THAT NEVER ARRIVED")
+sc("""The third reason is the buyers. Ram's sales fell when the Hemi left. Ram expects the Hemi to reach thirty-five percent of buyers. Ford is putting the V8 back into its luxury trims. And GM's own V8s power most of its full-size pickups, by Ram's estimate. The market voted, and the V8 won the vote.""",
+   "pickup trucks parking lot", "THE BUYERS VOTED")
+
+# ---------- 7. TOYOTA SAYS NO ----------
+sc("""But not everyone is going back. Toyota dropped the five point seven liter V8 from the Tundra when the current generation launched for twenty twenty-two. And for twenty twenty-seven, according to Pickup Truck plus SUV Talk, the V8 is not returning. The Tundra keeps its three point four liter twin-turbo V6, in gas and i-FORCE MAX hybrid form.""",
+   "Toyota Tundra 2022", "TOYOTA: NO V8 FOR 2027")
+sc("""On paper, the V6 wins easily. The old Tundra V8 made three hundred eighty-one horsepower and four hundred one pound-feet. The standard twin-turbo V6 makes three hundred eighty-nine horsepower and four hundred seventy-nine pound-feet. The hybrid makes four hundred thirty-seven horsepower and five hundred eighty-three pound-feet of torque.""",
+   "Toyota Tundra i-Force Max", "HYBRID V6: 583 LB-FT")
+sc("""Toyota did update the twenty twenty-seven Tundra in other ways. It gets a redesigned front end with a more vertical grille, Toyota Safety Sense four point zero, a new multimedia system and newer electrical architecture. But no new engine. Pickup Truck plus SUV Talk says Toyota remains committed to turbocharged gas and hybrid powertrains, and nothing in the announcement suggests otherwise.""",
+   "Toyota Tundra 2024", "2027 TUNDRA: NEW FACE, SAME V6")
+sc("""But here is the twist. The Tundra V6 has its own reliability problem. According to Pickup Truck plus SUV Talk, certain twenty twenty-two to twenty twenty-four Tundra engines failed because of machining debris left inside during manufacturing, which could become trapped in a crankshaft main bearing. Toyota introduced an improved bearing and manufacturing changes, and its latest recall remedy uses dealer software to decide which engines need replacement.""",
+   "Toyota Tundra TRD Pro", "TUNDRA V6: RECALLS")
+sc("""So both of the newest engine strategies had trouble. GM's V8 had a massive recall, and Toyota's twin-turbo V6 had its own. The lesson is not that V8s are more reliable, or that turbo sixes are. It is that any brand-new engine needs time, and the first years carry the most risk.""",
+   "Toyota Tundra Capstone", "NEW ENGINE = NEW RISK")
+
+# ---------- 8. WHAT ABOUT THE REST ----------
+sc("""And the V8 debate is spreading beyond trucks. The new Dodge Charger launched with the same three liter twin-turbo inline six that Ram calls the Hurricane, and Dodge calls the Sixpack. According to Torque Cafe, Dodge CEO Matt McAlear pushed back on reports that a V8 would not fit, saying, don't be surprised if it would fit. But he stopped short of confirming a return.""",
+   "Dodge Charger 2024", "DODGE: V8 WOULD FIT")
+sc("""And the heavy-duty market never left the V8. Heavy-duty gas trucks from Ford, GM and Ram still rely on big V8 engines, because towing and long engine life matter more than fuel economy at that end of the market. The real fight over cylinders has always been in the half-ton pickup, and that is where the comeback is happening.""",
+   "Ford F-250 Super Duty", "HEAVY DUTY: NEVER LEFT")
+
+# ---------- 9. WHAT IT MEANS FOR BUYERS ----------
+sc("""So what does this mean if you are buying a truck in twenty twenty-seven? First, the V8 is not going away soon. GM just designed two new ones, Ram brought its V8 back, and Ford is expanding V8 availability. If you want eight cylinders, you will have choices for years.""",
+   "Chevrolet Silverado Trail Boss", "1. THE V8 IS NOT DYING")
+sc("""Second, think twice about the first model year of any new engine. GM's L eighty-seven and Toyota's twin-turbo V6 both show that new engines can have expensive problems in their early years. GM's new V8s arrive in the twenty twenty-seven trucks. Waiting a year, or checking the recall record, can save you a lot of trouble.""",
+   "car mechanic engine repair", "2. CAREFUL WITH YEAR ONE")
+sc("""Third, compare the numbers, not the cylinder count. The Ram Hemi is a one thousand two hundred dollar option with less horsepower than the standard Hurricane. The Tundra's hybrid V6 makes more torque than any of these V8s. Pick the engine that fits your towing, your budget and your fuel costs.""",
+   "pickup truck towing trailer", "3. COMPARE THE NUMBERS")
+sc("""And check what the V8 really costs. Ram charges one thousand two hundred dollars for the Hemi on most trims. According to TopSpeed, Ford's five liter V8 carries no extra charge where it is offered. And GM's new five point seven and six point six liter engines will be priced with the twenty twenty-seven trucks. The same eight cylinders can cost very different amounts depending on the badge, so ask for the engine price before you sign.""",
+   "Ford F-150 dealership", "WHAT DOES THE V8 COST?")
+sc("""And fourth, remember that the rules can change again. Fuel economy fines were cut to zero by one law, and another law can bring them back. Electric truck plans were canceled, but range-extended trucks are still coming. The V8's comeback is real, but it depends on policy and gas prices as much as on engineering.""",
+   "gas prices sign", "4. THE RULES CAN CHANGE")
+
+# ---------- CLOSE ----------
+sc("""So, is the V8 dying? Not in twenty twenty-seven. Ram dropped the Hemi, lost sales, and brought it back in six months. GM revived the three fifty and built a four hundred cubic inch V8 for its half-ton trucks. Ford is putting the V8 back into its luxury F-150s and dropping a small turbo six. Only Toyota is staying with turbo power.""",
+   "Ram 1500 Hemi", "THE VERDICT")
+sc("""And the final twist. The V8 was not saved by engineers. It was saved by buyers who refused to give it up, and by a law that removed the fines that were pushing it out. The future of the V8 now depends less on technology than on what drivers keep asking for.""",
+   "Ford F-150 V8", "SAVED BY THE BUYERS")
+sc("""We compared every twenty twenty-seven pickup engine, with horsepower, torque, towing and real fuel costs, in the Twenty Twenty-Seven Truck Buyer's Guide. The link is in the description and in the pinned comment. Subscribe, because next we look at the fuel economy of every pickup for twenty twenty-seven. And tell us in the comments, V8 or turbo six? Thanks for watching.""",
+   "Chevrolet Silverado pickup truck", "2027 TRUCK BUYER'S GUIDE: LINK BELOW")
+
+CH = {"Two years ago, the V8 pickup": "Intro", "For the twenty twenty-five model year, Ram dropped": "Ram kills the Hemi",
+      "In June twenty twenty-five, Ram announced": "The Hemi comes back", "And that brings us to GM": "GM's new V8s",
+      "But here is the twist that GM": "GM's V8 recall", "Now Ford. The F-150": "Ford's V8 U-turn",
+      "So why did the V8 survive": "Why the V8 survived", "But not everyone is going back": "Toyota says no",
+      "And the V8 debate is spreading": "Beyond the half-ton", "So what does this mean if you are buying": "What it means for buyers",
+      "So, is the V8 dying": "The verdict"}
+CUTS = {0: 8, 1: 8, 2: 5, 3: 4}
+for idx, s in enumerate(S):
+    if idx in CUTS: s["cuts"] = CUTS[idx]
+    for k, v in CH.items():
+        if s["text"].startswith(k): s["chapter"] = v
+json.dump({"id": "video39", "length_scale": 1.4,
+  "title": "The V8 Is Back: Why Ford, GM and Ram Reversed Course (Toyota Didn't)", "scenes": S},
+  open("script.json", "w"), indent=1)
+words = sum(len(s["text"].split()) for s in S)
+print(len(S), "scenes", words, "words", round(words*1.4/197,1), "min")
