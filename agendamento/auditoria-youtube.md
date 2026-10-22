@@ -2,11 +2,11 @@
 
 Formulário: https://support.google.com/youtube/contact/yt_api_form
 Escolha a opção **"I want to request an audit / quota extension"** (ou "Audit and quota extension").
-Copie cada resposta em inglês no campo correspondente. Onde está **[PREENCHER]**, é com você.
+Copie cada resposta em inglês no campo correspondente. Todos os campos estão preenchidos.
 
 ---
 
-**Your name:** Vinicius [PREENCHER sobrenome]
+**Your name:** Vinicius Hoscher
 
 **Email:** viniciusmcerqueira1@gmail.com
 
@@ -14,9 +14,9 @@ Copie cada resposta em inglês no campo correspondente. Onde está **[PREENCHER]
 
 **Organization website:** https://viniciushoscher-ctrl.github.io/american-trucks/
 
-**Organization address / country:** [PREENCHER cidade], Brazil
+**Organization address / country:** New York, United States
 
-**Google Cloud project number:** [PREENCHER] (está em https://console.cloud.google.com/home/dashboard?project=pickup-reality, no card "Project info", campo "Project number")
+**Google Cloud project number:** 72248929079
 
 **Project ID:** pickup-reality
 
