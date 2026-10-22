@@ -1,0 +1,33 @@
+name: lote
+on:
+  push:
+    paths: ['agendamento/lote-01-10/**', '.github/workflows/lote.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the packages for videos 01-10
+        run: |
+          for n in 01 02 03 04 05 06 07 08 09 10; do
+            gh release download video$n -D /tmp/z/video$n -R "$GITHUB_REPOSITORY"
+          done
+          cp agendamento/lote-01-10/schedule-videos-01-10.xlsx /tmp/z/
+          ls -la /tmp/z/*
+      - name: Zip in two parts (release assets max 2 GB)
+        run: |
+          cd /tmp/z
+          zip -0 -r /tmp/pickup-reality-01-05.zip video01 video02 video03 video04 video05 schedule-videos-01-10.xlsx
+          zip -0 -r /tmp/pickup-reality-06-10.zip video06 video07 video08 video09 video10 schedule-videos-01-10.xlsx
+          ls -la /tmp/*.zip
+      - name: Publish
+        run: |
+          gh release delete lote-01-10 -y --cleanup-tag || true
+          gh release create lote-01-10 /tmp/pickup-reality-01-05.zip /tmp/pickup-reality-06-10.zip agendamento/lote-01-10/schedule-videos-01-10.xlsx \
+            --target "$GITHUB_SHA" --title "Videos 01-10 for manual scheduling" \
+            --notes "Two zips with videos 01-10 (long video, 5 Shorts, captions, thumbnail and textos.txt each) plus the posting schedule spreadsheet."
