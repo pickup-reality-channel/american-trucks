@@ -1,0 +1,123 @@
+# Photo credits: The V8 Is Back: Why Ford, GM and Ram Reversed Course (Toyota Didn't)
+
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi 2011 (17514237608).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 1500 Hemi 2012 (15159327445).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado GMTT1XX Crew Cab.jpg by Bull-Doser, Public domain
+- 2006 Chevrolet Silverado 2500 6.6 V8 Diesel (50509038001).jpg by Rutger van der Maar, CC BY 2.0
+- 2005 Chevrolet Silverado 2500 6.6 V8 Diesel (51163157037).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet Silverado Double Cab GMTT1XX.JPG by Bull-Doser, Public domain
+- 2002 Chevrolet Silverado 3500 LS 4x4 Crew Cab Big Dooley, front right, 08-05-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Silverado (49298313837).jpg by crash71100, CC0
+- Chevrolet Silverado (49297628528).jpg by crash71100, CC0
+- Chevrolet Silverado GMTT1XX 2500HD Double Cab.jpg by Bull-Doser, Public domain
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2025 Ram 1500 rear view.jpg by Deathpallie325, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 25 Ram 1500 Laramie (cropped).jpg by HJUdall, CC0
+- 25 Ram 1500 Laramie.jpg by HJUdall, CC0
+- 20 Ram 1500 Big Horn Built to Serve.jpg by HJUdall, CC0
+- 25 Ram 1500 Big Horn.jpg by HJUdall, CC0
+- 2019 Ram Truck 1500 Laramie.jpg by Whydoesitfeelsogood, CC BY-SA 4.0
+- Rio Vista Dodge Chrysler Jeep Ram - September 2023 - Sarah Stierch.jpg by Missvain, CC BY 4.0
+- Ram 1500 Hemi Laramie 2017 (38645198921).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ram 1500 Hemi Laramie 2015 (23976047977).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 18 Ram 1500 Sport.jpg by HJUdall, CC0
+- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
+- 2022 Ram 1500 Limited Crew Cab 4x4, front left, 05-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram 1500 Limited.jpg by HJUdall, CC0
+- Ram 1500 Rebel (2020) (53365503114).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2025 RAM 1500 Rebel, front 3.28.25.jpg by Kevauto, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 Rebel 4X4 DT Bright White (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500 Classic Tradesman Crew Cab with SXT Package, front left 09-12-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram ProMaster 1500 Tradesman SWB.jpg by HJUdall, CC0
+- 18 Ram 1500 Laramie Limited.jpg by HJUdall, CC0
+- Ram 1500 Laramie Hemi 2013 (34211812493).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 12 Chevrolet Silverado 1500 LT.jpg by HJUdall, CC0
+- 15 Chevrolet Silverado 1500 High Country.jpg by HJUdall, CC0
+- Volvo VNL 860 transporting a Chevrolet Silverado, Essex, Ontario, 2025-08-30 01.jpg by Chris Woodrich, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette 350 GT (3).jpg by Cjp24, CC BY-SA 4.0
+- Chevrolet Corvette 350 GT (2).jpg by Cjp24, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (2).jpg by Damian B Oh, CC BY-SA 4.0
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Indigo Blue (1).jpg by Damian B Oh, CC BY-SA 4.0
+- St. Catharines Engine Plant - St. Catharines, ON.jpg by JFVoll, CC BY-SA 4.0
+- GM Livonia Engine plant Livonia Michigan.JPG by Dwight Burdette, CC BY 3.0
+- GMC Sierra 1500 Z71.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 26 GMC Sierra EV AT4.jpg by HJUdall, CC0
+- Engine No. 26 firehouse, Buffalo, New York - 20200529.jpg by Andre Carrotflower, CC BY-SA 4.0
+- Airplanes - Parts - Manufacturing Berling Magnetos for U.S. Government; Erickson Manufacturing Co., Buffalo, N.Y. Machining frame for type D-81 Berling magneto used on aeronautical motors - NARA - 17340879.jpg by Unknown authorUnknown author or not provided, Public domain
+- GMC Sierra 1500 Denali 6.2L Crew Cab GMTT1XX Avalon White Pearl (2).jpg by Damian B Oh, CC BY-SA 4.0
+- 24 GMC Sierra 2500HD Denali Ultimate (2).jpg by HJUdall, CC0
+- Chevrolet tahoe taxi.jpg by Joseph Zadeh, CC BY-SA 4.0
+- Chevrolet Tahoe (GMTT1XX) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Cadillac Escalade (GMTT1XX) IMG 0799.jpg by Alexander-93, CC BY-SA 4.0
+- Cadillac Escalade ESV (GMTK2XX) 1X7A1581.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Suburban (GMTT1XX) Washington DC Metro Area, USA (4).jpg by OWS Photography, CC BY 4.0
+- Chevrolet Suburban (GMT800) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- 2024 Ford F-150 King Ranch front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 King Ranch rear view.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- 19 Ford F-150 Platinum.jpg by HJUdall, CC0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Ford F-150 3.5L EcoBoost Limited P552 Shadow Black (4).jpg by Damian B Oh, CC BY-SA 4.0
+- 2024 Ford F-150 Lariat front view.jpg by Deathpallie325, CC BY 4.0
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- 2003 Ford F-150 XLT SuperCab Flareside 4x4 with XLT Sport Group, front left, 03-30-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2009 Ford F-150 XLT 5.4 V8.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- US Capitol west side.JPG by Martin Falbisoner, CC BY-SA 3.0
+- US Capitol east side.JPG by Martin Falbisoner, CC BY-SA 3.0
+- Pickup Truck-Car Carrier @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- Old-timey gas station in La Riviere, Manitoba. (40655843463).jpg by Rob Swystun from Winnipeg, Canada, CC BY 2.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Snowstorm South Parking Lot (2240246313).jpg by Aaron Tait from San Francisco, United States, CC BY 2.0
+- RV in a supermarket parking lot, Kenai Peninsula, Alaska 2010.jpg by Keith Parker, CC BY-SA 2.0
+- 2022 Toyota Tundra TRD Pro.jpg by UltraTech66, CC BY-SA 4.0
+- 2022 Toyota Tundra TRD Pro rear.jpg by UltraTech66, CC BY-SA 4.0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Aisin high torque capacity RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Toyota Tundra Track Cleaner Sonoma 2024.jpg by TaurusEmerald, CC BY-SA 4.0
+- 22 Toyota Tundra SR5.jpg by HJUdall, CC0
+- 24 Toyota Tundra TRD Pro HV.jpg by HJUdall, CC0
+- 2019 Toyota Tundra TRD Pro 5.7L V8.jpg by DestinationFearFan, CC BY-SA 4.0
+- 23 Toyota Tundra Capstone HV.jpg by HJUdall, CC0
+- Toyota Tundra VXKH75 CrewMax 3.4 Capstone Hybrid Magnetic Gray Metallic 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Dodge Charger Daytona (2024) MYLE Festival 2025 DSC 9392.jpg by Alexander Migl, CC BY-SA 4.0
+- Dodge Charger Daytona (2024) MYLE Festival 2025 DSC 9748.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-250 Super Duty (P558) 1X7A7058.jpg by Alexander-93, CC BY-SA 4.0
+- 16 Ford F-250 Super Duty Lariat.jpg by HJUdall, CC0
+- Chevrolet Silverado Trail Boss 2020.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020 (9 June 2025).jpg by RL GNZLZ, CC BY-SA 4.0
+- Mechanic repairing car engine.jpg by Bembety, CC0
+- Image from page 143 of "Railway master mechanic (microform)" (1895).jpg by Internet Archive Book Images, CC0
+- Kenworth Truck Towing Heavy Equipment on Spring Mtn.jpg by Noah Wulf, CC BY-SA 4.0
+- Little Big Trailer towed by Ram Pickup @ WPB Service Plaza.jpg by DanTD, CC BY 4.0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
+- Gas Prices on June 5, 2022 in Eugene, Oregon.jpg by Rick Obst, CC BY 2.0
+- Ram 1500 Hemi 2011 (13747378674).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ram 1500 Hemi 2014 (13911838777).jpg by order_242 from Chile, CC BY-SA 2.0
+- Ford F-150 V8 Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford F-150 V8 XLT 2012 (43216302895).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Chevrolet C-10 Silverado in Lower Saxony.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg by Ermell, CC BY-SA 4.0

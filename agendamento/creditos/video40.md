@@ -1,0 +1,133 @@
+# Photo credits: The Real Fuel Cost of Every Pickup in 2027 (One Costs 4x More Than Another)
+
+- Ford Maverick Hybrid Lariat 2023.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick Hybrid Lariat 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- Ford Maverick XLT Hybrid SuperCrew (2023) (53621481688).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Maverick Tremor DSC 2885.jpg by Alexander Migl, CC BY-SA 4.0
+- 1972 Ford Maverick Sprint (616806978).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford-Maverick-Grabber.jpg by IFCAR, Public domain
+- Ford Maverick Grabber (7074947805).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford Maverick (4533049970).jpg by Spanish Coches, CC BY 2.0
+- Petrol station in Bénin.jpg by Ferdinand Reus, CC BY-SA 2.0
+- Second pump at gas station.jpg by Moonstruck Exploring, CC BY-SA 4.0
+- First pump at front of gas station.jpg by Moonstruck Exploring, CC BY-SA 4.0
+- Chevron Gas Pump (307966687).jpg by Person Lin from Taoyuan, Taiwan, CC BY-SA 2.0
+- Defective Gas Station Pump Screen.jpg by Lionel Allorge, CC BY-SA 3.0
+- Gas station Winslow AZ 2026-04-06 11-13-10.jpg by G. Edward Johnson, CC BY 4.0
+- Gas pumps Winslow AZ 2026-04-06 11-14-17 1.jpg by G. Edward Johnson, CC BY 4.0
+- Dead Gas Station Jeff Hwy Louisiana Pump Counter.jpg by Bart Everson, CC BY 2.0
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - front.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton AXCR.jpg by Ethan Llamas, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 Athlete 4WD White Diamond - rear.jpg by Ethan Llamas, CC BY-SA 4.0
+- PIMS 2024 - Mitsubishi Triton Athlete 4WD (front).jpg by Ethan Llamas, CC BY-SA 4.0
+- Mitsubishi Triton 2.4 GLX 4x2 2024 (interior).jpg by Ethan Llamas, CC BY-SA 4.0
+- 25 Toyota Tacoma TRD Off-Road HV.jpg by HJUdall, CC0
+- Aisin RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Toyota Tacoma (N300) TRD IMG 6050.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma Huntington Beach Lifeguard.jpg by Guywelch2000, CC0
+- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
+- Gas Prices on June 5, 2022 in Eugene, Oregon.jpg by Rick Obst, CC BY 2.0
+- 06 Gas prices in Europe 2012 - OMV gas station prices in Austria - Benzinpreise.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
+- Shell Gas Station Prices @ Canoe Creek Service Plaza.jpg by DanTD, CC BY 4.0
+- 2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg by Gordon Leggett, CC BY-SA 4.0
+- Anna Chemical Oil tanker - IMO 7384986 on Deûle (3).jpg by Pierre André Leclercq, CC BY 4.0
+- Moscow, motor pump on a truck, Mar 2026 01.jpg by Retired electrician, CC0
+- FL 52 Flying J Pilot Diesel Truck Tanker.JPG by DanTD, CC BY-SA 3.0
+- HP Petrol Bunk 31102016.jpg by Nikhilb239, CC BY-SA 4.0
+- Orlen petrol station Piotrowicka Katowice.jpg by Abraham, CC BY 4.0
+- Smart ED Monroney sticker WAS 2011 1126.jpg by Mariordo Mario Roberto Duran Ortiz, CC BY-SA 3.0
+- 2023 Denver Auto Show Kia K5 GT dealership sticker.jpg by Corqe, CC0
+- 2012 Chevrolet Volt window sticker 01 2012 0483.jpg by Mariordo (Mario R. Durán Ortiz), CC BY-SA 3.0
+- TargetMPG.jpg by Jimad, Public domain
+- Ford Maverick (37184438473).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick (4532455253).jpg by Spanish Coches, CC BY 2.0
+- Ford Maverick owed by the City of St. Catharines.jpg by Gogerr, CC BY-SA 4.0
+- 2022 Ford Maverick XLT AWD, rear 4.23.22.jpg by Kevauto, CC BY-SA 4.0
+- Ford Maverick Lariat FX4 2023 (53521927650).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Lariat FX4 2024 (53408495684).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford Maverick Tremor DSC 2868.jpg by Alexander Migl, CC BY-SA 4.0
+- 24 Ford Maverick XLT Tremor.jpg by HJUdall, CC0
+- 2022 Hyundai Santa Cruz 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hyundai Santa Cruz 2.5T Limited (United States) front view (cropped).jpg by Zeometric, CC BY-SA 2.0
+- Ford Ranger Raptor (P703) DSC 7063.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Ranger Raptor (P703) DSC 7062.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9735.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Tacoma TRD Pro 1X7A0433.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Tacoma TRD Off Road (N400) IMG 9727.jpg by Alexander-93, CC BY-SA 4.0
+- 24 Toyota Tacoma TRD Pro HV.jpg by HJUdall, CC0
+- 23 Toyota Tacoma TRD Pro.jpg by HJUdall, CC0
+- 2023 Chevrolet Colorado ZR2.jpg by 42-BRT, CC BY-SA 4.0
+- 2023 Chevrolet Colorado Z71 Crew Cab.jpg by Bull-Doser, Public domain
+- Hoonigan Jeep Gladiator, EMS 23, Essen (P1170041-RR).jpg by MB-one, CC BY-SA 4.0
+- Jeep Gladiator (JT) 1X7A0017.jpg by Alexander Migl, CC BY-SA 4.0
+- 1977 Ford F-150 Ranger XLT regular cab 8' Styleside 2WD, front left, 06-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) 1X7A1775.jpg by Alexander-93, CC BY-SA 4.0
+- 22 Ford F-150 Hybrid Lariat.jpg by HJUdall, CC0
+- 23 Ford F-150 Hybrid Limited.jpg by HJUdall, CC0
+- 2025 Ford F-150 PowerBoost Lariat-EV driving mode.jpg by User:McChizzle, Public domain
+- 2024 Ford F-150 Lariat rear view.jpg by Deathpallie325, CC BY 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ram 1500 front view.jpg by Deathpallie325, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500 Classic Tradesman Crew Cab with SXT Package, front left 09-12-2022.jpg by MercurySable99, CC BY-SA 4.0
+- 25 Ram ProMaster 1500 Tradesman SWB.jpg by HJUdall, CC0
+- Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg by Ermell, CC BY-SA 4.0
+- 2000 Chevrolet Silverado 1500.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Raptor & Chevrolet Silverado & Transit (51182571053).jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet 1500 Silverado 1999 (9371578739).jpg by order_242 from Chile, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Trail Boss 2020 (9 June 2025).jpg by RL GNZLZ, CC BY-SA 4.0
+- 2007-Toyota-Tundra-DC-1.jpg by IFCAR, Public domain
+- Toyota Tundra at 2019 SF Auto Show.jpg by DestinationFearFan, CC BY-SA 4.0
+- 23 Toyota Tundra Limited iForce Max.jpg by HJUdall, CC0
+- Aisin high torque capacity RWD 1-motor hybrid transmission.jpg by TTTNIS, CC0
+- Chevrolet Silverado High Country Duramax 2022.jpg by RL GNZLZ, CC BY-SA 2.0
+- Chevrolet Silverado Duramax Extended Cab.JPG by Bull-Doser, Public domain
+- Refueling a diesel vehicle at a gas station during the day with focus on the fuel cap and nozzle.jpg by Shixart1985, CC BY 2.0
+- SPBU Pertamina 2022.jpg by Henri Aja, CC BY-SA 4.0
+- 2020 Chevrolet Silverado 1500 Custom.jpg by DestinationFearFan, CC BY-SA 4.0
+- 2016 chevrolet silverado 2500hd ltz z71 custom sport crew short observe.jpg by Rjluna2, CC BY-SA 4.0
+- Ram 2500.jpg by בויי הרובוט, CC BY-SA 4.0
+- Dodge Ram 2500 Cummins Turbo Diesel (50656854711).jpg by Dennis Elzinga, CC BY 2.0
+- 24 Chevrolet Silverado 2500HD LT.jpg by HJUdall, CC0
+- 16 Chevrolet Silverado 2500HD High Country.jpg by HJUdall, CC0
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
+- Ford F-150 Raptor 3.5T 2018 (45840639514).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 25 Ram 1500 RHO.jpg by HJUdall, CC0
+- 2025 RAM 1500 RHO Crew Cab 4x4, rear NYIAS 2025.jpg by Kevauto, CC BY-SA 4.0
+- 21 Ram 1500 Classic Warlock.jpg by HJUdall, CC0
+- 2022 Ram 1500 Classic Warlock in Flame Red, front left, 2024-07-14.jpg by Elise240SX, CC BY-SA 4.0
+- 2025 Chevrolet Silverado ZR2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Silverado ZR2 2024.jpg by RL GNZLZ, CC BY-SA 4.0
+- DFC 4874 Nighttime showstopper a heavily customized neon-lit pickup truck with oversized tires rooftop gear and flame decals parked on a Chon Buri street glowing green and purple under the lights.jpg by PattayaPatrol, CC BY-SA 4.0
+- NCC truck.JPG by You may select the license of your choice., CC BY-SA 3.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- Rivian-r1t-2021.jpg by Photo by Rivian, CC BY-SA 4.0
+- Rivian R1T on Sunset Blvd.jpg by Chris Yarzab, CC BY 2.0
+- Ram Pickup plug-in hybrid rear -- 2011 DC.jpg by IFCAR, Public domain
+- Fisker Alaska IAA 2023 1X7A0790.jpg by Alexander-93, CC BY-SA 4.0
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Hamburg, Speicherstadt, Block W -- 2016 -- 2957.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 1986 Jeep J20 pickup truck in Garnet Metallic at 2025 meet 11of11.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- 1986 Jeep J20 pickup truck in Garnet Metallic at 2025 meet 07of11.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Red Truck In The Snow (245604409).jpeg by Daniel Ross, CC0
+- Pickup plowing snow in Jyväskylä.JPG by Antti Leppänen, CC BY-SA 3.0
+- No Ethanol Added - Premium Recreational Gasoline - 91 Octane Gas (46484945855).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- Une pompe à essence Petrom à Casablanca-photo Bertrand SOUBEYRAND.jpg by Bertrand SOUBEYRAND, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Maverick Grabber (616807078).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- Ford Maverick Grabber logo (7074946597).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Old Gas Station Hamburg Grindel.jpg by Capecross, CC BY-SA 4.0
+- Gas Station at Night (51118972527).jpg by Doug Davey from New Jersey, United States, CC BY 2.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 Ford F-150 Lightning.jpg by WMrapids, CC0
