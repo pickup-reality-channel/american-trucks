@@ -82,6 +82,18 @@ Every title with a factual claim inside it (e.g. "Owners Had to Sign a Contract"
 - Upload: `pipeline/yt_upload.py` / `youtube.yml`. Quota check: 4 long uploads + thumbnails (6,600 units) + the 2 daily Shorts (3,200) = 9,800 of the 10,000 daily units until 11/03/2027. It fits, but with no margin; I will ask Google for a quota increase together with the API audit.
 - Releases keep the `videoNN` pattern (`dayNN-a` … `dayNN-d`) so nothing large goes to the project folder.
 
+## 6b. Trend slot (from the viral-video research, 2026-10-23)
+
+Source: `/mnt/project-files/pesquisa/viral-car-videos-2026-10-23.md` (YouTube API, last 10 days). What it shows:
+- New-reveal exotics pull the biggest numbers: the Tesla Roadster reveal (15/10/2026) put several videos above 10M views in about a week; Porsche Mission S videos reached ~2.6M.
+- "Banned + cheap" works for long videos (a banned-Chinese-car video hit 2.5M in under 3 days).
+- Our own niche also moves: pickup-market and hidden-dealer-stock videos at 540k–670k in under a week.
+
+How the plan uses it:
+- The 30 themes above are evergreen and stay the base. **One day per week becomes a trend day**: the theme is swapped for whatever car is breaking news that week, with the same 4 angles (e.g. "2 Things Nobody Tells You About the Tesla Roadster", "Porsche Mission S vs Corvette ZR1").
+- Before each batch is scripted, `trends.yml` (branch `claude/project-thread-p1ji6g`, about 2,000 quota units per run) re-pulls the data, because news from October 2026 will be stale by February 2027.
+- Banned/cheap and truck themes (e.g. a Chinese pickup sold outside the US) are good bridge days back to the truck audience (open question 3).
+
 ## 7. Open questions for Vinicius
 
 1. **Start date:** 12/02/2027 (no gap after the last long video, my recommendation) or 28/02/2027?
