@@ -1,0 +1,330 @@
+{
+ "id": "video78",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Ford GT vs GT40: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "The Ford G T forty won Le Mans four times in a row in the nineteen sixties. Fifty years later, the modern Ford GT went back to Le Mans and won too. They look related, they carry the same mission, and they wear the same name, almost. But they are completely different machines, and the biggest difference is not the engine. It is what each one was actually built to win.",
+   "query": "Ford GT40 and Ford GT",
+   "caption": "FORD GT vs GT40",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "One was a pure race car that happened to have some road versions. The other was a road car built so that a race car could exist. One cost a few thousand pounds when new and now sells for millions. The other cost about half a million dollars and is now valued at more. Today we explain the real difference, step by step.",
+   "query": "Ford GT40 Gulf",
+   "caption": "RACE CAR vs ROAD CAR",
+   "cuts": 8
+  },
+  {
+   "text": "Along the way, you will hear about the most expensive American car ever sold at auction at the time, the photo finish that cost a driver his victory, a forty-million-dollar name, and a car built behind a fake broom cupboard. Every number comes from a published source, listed in the description.",
+   "query": "Ford GT40 auction",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "And here is the first twist. The car that became the symbol of American racing was born in England. Let's start there.",
+   "query": "Ford GT40 England",
+   "caption": "BORN IN ENGLAND",
+   "cuts": 3
+  },
+  {
+   "text": "The G T forty began with a grudge. Petrolicious reported that in nineteen sixty-three, Henry Ford the second tried to buy Ferrari, spending several million dollars on negotiations and audits. The deal collapsed when Ford refused to give Enzo Ferrari full control of his racing programs. So Ford decided to beat Ferrari at Le Mans.",
+   "query": "Henry Ford II",
+   "caption": "1963: THE FAILED DEAL",
+   "cuts": 3,
+   "chapter": "Two different births"
+  },
+  {
+   "text": "Car and Classic reported that the car was based on Eric Broadley's Lola Mark six, a British, aluminum-bodied V8 GT car, and that development took place in Slough, England, with Broadley, Ford engineer Roy Lunn, and team manager John Wyer. The G T forty was born in April nineteen sixty-four.",
+   "query": "Lola Mk6 GT",
+   "caption": "APRIL 1964: THE GT40 IS BORN",
+   "cuts": 3
+  },
+  {
+   "text": "It did not start well. Petrolicious reported that under John Wyer, the G T forty failed to finish its first official race, and failed again at Le Mans in nineteen sixty-four. For nineteen sixty-five, Ford handed the program to Carroll Shelby. Car and Classic said Ken Miles won at Daytona that year, but all five Fords failed to finish at Le Mans.",
+   "query": "Ford GT40 1964 Le Mans",
+   "caption": "1964 AND 1965: FAILURE",
+   "cuts": 3
+  },
+  {
+   "text": "Ford did not give up. For nineteen sixty-six, Car and Classic reported, Ford entered nine cars at Le Mans, built twelve engines for the race, and brought seven spares. That is how much Henry Ford the second wanted to beat Ferrari. The modern GT program, by comparison, began with a dozen people behind a fake cupboard door.",
+   "query": "Ford GT40 Mk II 1966",
+   "caption": "9 CARS, 19 ENGINES",
+   "cuts": 3
+  },
+  {
+   "text": "The modern GT had a very different birth. Jalopnik reported that it came from a cancelled racing Mustang called Project Silver. Ford's head of product development, Raj Nair, then started a new program in secret, called Project Phoenix, without his bosses' approval, in a basement at Ford's product development center in Dearborn.",
+   "query": "Ford GT design studio",
+   "caption": "PROJECT PHOENIX",
+   "cuts": 3
+  },
+  {
+   "text": "Motoring Research reported that the studio's door was disguised as a broom cupboard, and Wikipedia quotes designer Chris Svensson saying only about twelve people had access. Ford revealed the car at the twenty fifteen Detroit auto show. So one car was born from a feud with Ferrari, and the other from a secret project inside Ford itself.",
+   "query": "Ford GT 2015 reveal",
+   "caption": "BORN IN SECRET",
+   "cuts": 3
+  },
+  {
+   "text": "The name tells part of the story. Petrolicious and Car and Classic both reported that the forty in G T forty refers to the car's height, about forty inches. Wikipedia lists forty point five inches, and says forty inches was the minimum allowed. A race car so low that its height became its name.",
+   "query": "Ford GT40 side profile",
+   "caption": "40 INCHES TALL",
+   "cuts": 3,
+   "chapter": "The name"
+  },
+  {
+   "text": "The modern car is called simply the Ford GT. Why not G T forty? Wikipedia says that when Ford built the first-generation GT in two thousand five, it tried to buy the G T forty name, and the owners wanted forty million dollars. Negotiations failed, so the production cars were simply called GT.",
+   "query": "Ford GT 2005",
+   "caption": "THE $40 MILLION NAME",
+   "cuts": 3
+  },
+  {
+   "text": "So the first difference is in the badge. The original car is the G T forty. The modern cars are the GT, two generations of them, from two thousand five and from twenty seventeen. They honor the original, but legally they are not allowed to share its full name.",
+   "query": "Ford GT badge",
+   "caption": "GT, NOT GT40",
+   "cuts": 3
+  },
+  {
+   "text": "That first modern GT, from two thousand five, is the middle child of this family. Wikipedia says it used a supercharged five point four liter V8 with five hundred fifty horsepower, and had a suggested price of about one hundred forty thousand dollars. Ford built four thousand thirty-eight of them before production ended in September two thousand six, short of the planned four thousand five hundred.",
+   "query": "Ford GT 2005 first generation",
+   "caption": "2005 GT: 550 HP, $139,995",
+   "cuts": 3
+  },
+  {
+   "text": "Unlike the twenty seventeen car, the two thousand five GT looked almost exactly like the original G T forty, just slightly bigger. It was a tribute. The twenty seventeen GT took a different approach. It kept the idea of a low, mid-engined Le Mans car, but its shape was designed around modern aerodynamics, not nostalgia.",
+   "query": "Ford GT 2005 and GT40",
+   "caption": "A TRIBUTE vs A NEW SHAPE",
+   "cuts": 3
+  },
+  {
+   "text": "Now the engines. Wikipedia says the first G T forty Mark one used a two eighty-nine cubic inch, four point seven liter V8, the same kind of production engine used in the Ford Mustang. The Mark two and Mark four used a much bigger four twenty-seven cubic inch, seven liter V8. The car that won Le Mans in nineteen sixty-eight used a three oh two cubic inch V8, rated at four hundred twenty-five horsepower.",
+   "query": "Ford GT40 V8 engine",
+   "caption": "GT40: V8 FROM 4.7 TO 7.0 L",
+   "cuts": 3,
+   "chapter": "V8 vs V6"
+  },
+  {
+   "text": "Car and Classic said the seven liter versions produced about four hundred sixty-three horsepower and could exceed two hundred miles per hour. That was enormous for the nineteen sixties. Ford's plan was simple. Use a huge American V8 and overpower the more delicate European engines.",
+   "query": "Ford GT40 Mk II",
+   "caption": "463 HP, 200+ MPH",
+   "cuts": 3
+  },
+  {
+   "text": "The modern GT went the opposite way. Gear Patrol reported a three point five liter twin-turbo EcoBoost V6, with six hundred forty-seven horsepower and five hundred fifty pound-feet of torque, later six hundred sixty horsepower according to Wikipedia. Fewer cylinders, half the displacement of a G T forty Mark two, and far more power.",
+   "query": "Ford GT EcoBoost V6",
+   "caption": "GT: 3.5 L V6, 647-660 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. The V6 was not chosen to save money. Gear Patrol said its slim packaging let the designers build Ford's most aerodynamically efficient car. The G T forty used a big engine to win. The modern GT used a small engine to make space for air. That single choice explains much of the difference between them.",
+   "query": "Ford GT rear air channels",
+   "caption": "SMALL ENGINE, MORE AIR",
+   "cuts": 3
+  },
+  {
+   "text": "The gearboxes tell the same story. Car and Classic said the first G T forty used a five-speed manual. Gear Patrol reported that the modern GT uses a seven-speed automatic, with no manual option, and an anti-lag system that keeps the turbochargers spooled in Sport and Track modes. One car asked the driver to do everything. The other uses electronics to make every driver faster.",
+   "query": "Ford GT40 gear lever",
+   "caption": "5-SPEED MANUAL vs 7-SPEED AUTO",
+   "cuts": 3
+  },
+  {
+   "text": "And the speed numbers are closer than you might think. Car and Classic said the seven liter G T forty could exceed two hundred miles per hour. Gear Patrol listed the modern GT at two hundred sixteen miles per hour, with zero to sixty in two point nine seconds. Fifty years of progress, and the top speed grew by only about eight percent. The real gains came in braking, grip, safety, and comfort.",
+   "query": "Ford GT high speed",
+   "caption": "200+ MPH vs 216 MPH",
+   "cuts": 3
+  },
+  {
+   "text": "The structures are different too. The early G T forty followed the Lola's approach, but Wikipedia says the Mark four was built entirely in the United States by Kar Kraft, with an aluminum honeycomb tub that weighed only eighty-six pounds. That was aerospace technology in a nineteen sixties race car.",
+   "query": "Ford GT40 Mk IV",
+   "caption": "MK IV: 86 LB ALUMINUM TUB",
+   "cuts": 3,
+   "chapter": "Steel, aluminum, carbon"
+  },
+  {
+   "text": "The modern GT uses a carbon fiber monocoque, Wikipedia says, built by Multimatic in Markham, Ontario. Gear Patrol listed a dry weight of about three thousand fifty-four pounds. Wikipedia lists a curb weight of about one thousand eight hundred to two thousand three hundred pounds for the nineteen sixty-six G T forty Mark two A.",
+   "query": "Ford GT carbon tub",
+   "caption": "GT: CARBON MONOCOQUE",
+   "cuts": 3
+  },
+  {
+   "text": "So the modern car is much heavier. It has air conditioning, airbags, crash structures, infotainment, and everything needed to be legal on today's roads. The G T forty had almost nothing a modern driver would expect. It was a race car first, and its road versions were afterthoughts.",
+   "query": "Ford GT40 interior",
+   "caption": "A RACE CAR FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Even so, the modern GT keeps some race car habits. Gear Patrol said its seats are fixed to the carbon tub, and the pedals and steering wheel move instead. In Track mode, it drops about two inches and its spoiler rises about a foot. It is a road car that thinks like a race car.",
+   "query": "Ford GT Track mode",
+   "caption": "A ROAD CAR THAT THINKS LIKE A RACE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the difference is huge. The G T forty's cabin was tight, hot, and loud, with the driver sitting low, just ahead of a huge V8. The modern GT has air conditioning, digital screens, and modern safety equipment. Both cars are cramped, but only one was designed with the idea that someone might drive it to dinner.",
+   "query": "Ford GT interior dashboard",
+   "caption": "DINNER OR LE MANS?",
+   "cuts": 3
+  },
+  {
+   "text": "Now the most important difference, and the one nobody explains. The G T forty won Le Mans outright. Wikipedia lists four overall victories, nineteen sixty-six with Bruce McLaren and Chris Amon, nineteen sixty-seven with Dan Gurney and A J Foyt, nineteen sixty-eight with Pedro Rodriguez and Lucien Bianchi, and nineteen sixty-nine with Jacky Ickx and Jackie Oliver.",
+   "query": "Ford GT40 Le Mans 1969",
+   "caption": "GT40: 4 OVERALL WINS",
+   "cuts": 3,
+   "chapter": "Overall win vs class win"
+  },
+  {
+   "text": "And Wikipedia says the same chassis, number ten seventy-five, won in both nineteen sixty-eight and nineteen sixty-nine. The nineteen sixty-nine race, Car and Classic reported, was won by just over one hundred meters after three hundred seventy-two laps, ahead of a Porsche nine oh eight. One of the closest finishes in Le Mans history.",
+   "query": "Ford GT40 Gulf 1075",
+   "caption": "CHASSIS 1075: TWO WINS",
+   "cuts": 3
+  },
+  {
+   "text": "Those last two wins came from a private team. Wikipedia says the nineteen sixty-eight and nineteen sixty-nine winners were entered by John Wyer Automotive, the same John Wyer who had run the program at the start. And they wore the colors of their sponsor, Gulf Oil, which RM Sotheby's describes as Powder Blue with a Marigold stripe, one of the most famous paint schemes in racing history.",
+   "query": "Ford GT40 Gulf livery",
+   "caption": "THE GULF COLORS",
+   "cuts": 3
+  },
+  {
+   "text": "The modern GT won something different. Wikipedia says that in twenty sixteen, a Ford Chip Ganassi Racing GT won the L M G T E Pro class at Le Mans, fifty years after the nineteen sixty-six victory. That is a class win, among G T cars, not the overall victory. The fastest cars at Le Mans in twenty sixteen were prototypes built only for racing.",
+   "query": "Ford GT Le Mans 2016",
+   "caption": "GT: 2016 CLASS WIN",
+   "cuts": 3
+  },
+  {
+   "text": "That is the difference most people miss. The G T forty was built to beat everyone, including the fastest prototypes of its time. The modern GT was built to win its class, against other G T race cars from brands like Ferrari and Porsche. Both wins mattered, but they were not the same kind of win.",
+   "query": "Ford GT vs Ferrari 488 GTE",
+   "caption": "TWO DIFFERENT KINDS OF WIN",
+   "cuts": 3
+  },
+  {
+   "text": "And that explains why the modern GT is a road car at all. To race in the G T classes, a car has to be based on a model sold to the public. So Ford needed road cars, built and sold in real numbers, to justify its race car. In the nineteen sixties, Ford built road versions to satisfy racing rules too, but the race car always came first. With the modern GT, the road car and the race car were planned together from the start.",
+   "query": "Ford GT road and race car",
+   "caption": "WHY THE ROAD CAR EXISTS",
+   "cuts": 3
+  },
+  {
+   "text": "And yet the modern GT had its own impact. Gear Patrol reported that after the GT's success, Porsche re-engineered its nine eleven R S R race car for twenty seventeen, moving its flat-six from the very back to the middle of the car, to improve aerodynamics and close the gap with the Ford. The G T forty beat Ferrari. The GT changed Porsche.",
+   "query": "Porsche 911 RSR 2017",
+   "caption": "THE GT CHANGED PORSCHE",
+   "cuts": 3
+  },
+  {
+   "text": "The G T forty story also has a dark side. Wikipedia says that at Le Mans in nineteen sixty-six, Ken Miles was leading when Ford told him to slow down so three of its cars could cross the line together for a photo. Because Bruce McLaren's car had started further back and covered more distance, McLaren and Amon were declared the winners.",
+   "query": "Ford GT40 1966 finish",
+   "caption": "THE STAGED FINISH",
+   "cuts": 3,
+   "chapter": "The human cost"
+  },
+  {
+   "text": "Two months later, on the seventeenth of August nineteen sixty-six, Miles was killed at Riverside International Raceway in California while testing the experimental Ford J car, Wikipedia says. Near two hundred miles per hour, the car flipped, caught fire, and broke apart. Wikipedia attributes the crash to excess lift from its flat-topped body and an unproven chassis.",
+   "query": "Riverside International Raceway",
+   "caption": "KEN MILES, 1918-1966",
+   "cuts": 3
+  },
+  {
+   "text": "The Mark four that won Le Mans in nineteen sixty-seven followed the J car, with a steel tube roll cage added, according to Wikipedia. Racing in the nineteen sixties was brutally dangerous. The modern GT race cars, with carbon structures and modern safety rules, belong to a different world.",
+   "query": "Ford GT40 Mk IV 1967 Le Mans",
+   "caption": "A STEEL ROLL CAGE ADDED",
+   "cuts": 3
+  },
+  {
+   "text": "And that nineteen sixty-seven win was historic. Petrolicious reported that the G T forty Mark four became the first entirely American-designed and built car to win Le Mans. The program that began with an English Lola chassis ended with a car designed and built in the United States, by Kar Kraft, beating the best of Europe.",
+   "query": "Ford GT40 Mk IV Gurney Foyt",
+   "caption": "1967: FIRST ALL-AMERICAN WINNER",
+   "cuts": 3
+  },
+  {
+   "text": "How rare are they? Wikipedia lists about one hundred five G T forties built in total, including race cars and road cars. Only seven Mark three cars, the street-legal versions with a detuned three hundred six horsepower V8, were built. And only six Mark fours.",
+   "query": "Ford GT40 Mk III road car",
+   "caption": "GT40: ~105 BUILT",
+   "cuts": 3,
+   "chapter": "How many were built"
+  },
+  {
+   "text": "The modern GT was built in larger numbers, but still very few. Car Showroom reported that Ford planned five hundred cars, then one thousand, then added three hundred fifty more. Wikipedia says the earlier two thousand five GT was built in four thousand thirty-eight examples. Even the rarest modern GT is far more common than a G T forty.",
+   "query": "Ford GT production",
+   "caption": "GT: ~1,350 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "And building the modern car was slow. Jalopnik reported that Ford planned two hundred fifty cars per year, but built only one hundred thirty-eight for the twenty seventeen model year. Multimatic had never built cars at that scale, and did not reach its daily build rate until mid twenty seventeen. The G T forty program, at its peak, could build race cars much faster, but only because it built so few road cars.",
+   "query": "Ford GT Multimatic Markham",
+   "caption": "138 CARS IN YEAR ONE",
+   "cuts": 3
+  },
+  {
+   "text": "And the buying process shows the difference. Wikipedia says a G T forty built for competition had a purchase price of about five thousand two hundred pounds. The modern GT required an application, and Autoblog reported that buyers of the first five hundred cars had to agree not to resell for twenty-four months. Ford even sued John Cena for flipping his.",
+   "query": "Ford GT40 price 1960s",
+   "caption": "\u00a35,200 vs AN APPLICATION",
+   "cuts": 3
+  },
+  {
+   "text": "Now the money. In August twenty twelve, RM Auctions sold a nineteen sixty-eight G T forty, chassis P slash ten seventy-four, for eleven million dollars, including the buyer's premium. RM said it was the first lightweight G T forty built for the Gulf team, used as the camera car in Steve McQueen's film Le Mans, and that the price set a world record for an American car at auction.",
+   "query": "Ford GT40 Gulf Steve McQueen",
+   "caption": "$11 MILLION (2012)",
+   "cuts": 3,
+   "chapter": "What they are worth"
+  },
+  {
+   "text": "RM said the car was sold to Solar Productions in nineteen seventy and used extensively to film McQueen's nineteen seventy-one movie. So part of that eleven million dollars was not about racing at all. It was about Hollywood, Steve McQueen, and the Gulf colors, the same mix of history and story that drives the value of the modern GT.",
+   "query": "Steve McQueen Le Mans film",
+   "caption": "HOLLYWOOD HISTORY",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also lists a Mark two that finished third at Le Mans in nineteen sixty-six, which sold through RM Sotheby's in twenty eighteen for about nine point eight million dollars. Real G T forties with racing history are among the most valuable American cars in the world.",
+   "query": "Ford GT40 Mk II 1966",
+   "caption": "$9.8 MILLION (2018)",
+   "cuts": 3
+  },
+  {
+   "text": "The modern GT is valuable too, in a different league. Gear Patrol listed a starting price of about four hundred fifty thousand dollars. Hagerty's valuation tool listed a twenty twenty-two Ford GT at about seven hundred eighty-eight thousand dollars in January twenty twenty-six. A strong gain, but far from G T forty money.",
+   "query": "Ford GT 2022",
+   "caption": "GT: ~$788,000 (2026)",
+   "cuts": 3
+  },
+  {
+   "text": "Even the two thousand five GT has become a collector car. AutoMonitor, a valuation site, estimates that a two thousand five GT in good condition is worth about three hundred fifty thousand to four hundred fifty thousand dollars today, and it mentions a low-mileage example that sold for six hundred sixty-five thousand dollars at a twenty twenty-four auction. That is several times its original price of about one hundred forty thousand.",
+   "query": "Ford GT 2005 auction",
+   "caption": "2005 GT: ~$350K-$450K (EST.)",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. Ford also built modern GTs that cost more than many G T forties once did, in real terms. Wikipedia lists the track-only GT Mark two, forty-five built at about one point two million dollars each, and the GT Mark four, with sixty-seven planned at about one point seven million. The modern GT family reached hypercar prices.",
+   "query": "Ford GT Mk IV",
+   "caption": "MK IV: ~$1.7 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "And the Mark four set a record of its own. Ford reported in April twenty twenty-six that the GT Mark four lapped the N\u00fcrburgring Nordschleife in six minutes fifteen point nine seven seven seconds, the third fastest car ever there, and the fastest with an internal combustion engine. Ford describes it as a track-only vehicle.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "MK IV: 6:15.977",
+   "cuts": 3,
+   "chapter": "The real difference"
+  },
+  {
+   "text": "So what is the real difference between the Ford GT and the G T forty? The G T forty was a race car, built in England and America to win Le Mans outright and humiliate Ferrari, with huge V8s, almost no comfort, and a brutal human cost. It did exactly that, four times.",
+   "query": "Ford GT40 Le Mans",
+   "caption": "THE GT40: A RACE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The modern GT is a road car built so that a race car could exist. A carbon fiber, V6-powered supercar designed in secret, sold only to approved buyers, and raced to a class win fifty years after the original. It honored the G T forty, and then went on to write its own story.",
+   "query": "Ford GT road",
+   "caption": "THE GT: A ROAD CAR WITH A MISSION",
+   "cuts": 3
+  },
+  {
+   "text": "Which one would you rather have in your garage, a real G T forty or a modern GT? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the Ford GT, look at the real cost of owning one, and tell the story of the man who made Ford beat Ferrari.",
+   "query": "Ford GT40 and Ford GT",
+   "caption": "WHICH ONE WOULD YOU CHOOSE?",
+   "cuts": 3
+  },
+  {
+   "text": "And if your next Ford is a truck, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ford GT sunset",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

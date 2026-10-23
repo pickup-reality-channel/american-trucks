@@ -1,0 +1,10 @@
+- Gear Patrol, The car that forced Porsche to redesign its fastest 911 (May 2017): https://www.gearpatrol.com/cars/a352077/ford-gt-review-specs-images-porsche-911-ferrari-488gtb/
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Jalopnik, Ford missed its production target for the first year of the Ford GT: https://jalopnik.com/1827701915
+- Car Showroom, Ford will build 350 more GTs: https://www.carshowroom.com.au/news/ford-will-build-350-more-gts-books-open-november-8th/
+- Autoblog, John Cena and Ford settle over flipped GT (June 2018): https://www.autoblog.com/2018/06/19/john-cena-ford-gt-flip-settlement
+- Hagerty valuation tools, 2022 Ford GT (Jan 2026): https://www.hagerty.com/valuation-tools/ford/gt/2022/2022-ford-gt
+- AutoMonitor, How much does a Ford GT cost? (estimates, sources not cited): https://automonitor.io/blog/how-much-does-a-ford-gt-cost/
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census
+- Ford, Ford GT Mk IV makes Nürburgring history (Apr 2026): https://www.at.ford.com/us/en/home/news-media/news/2026/4/ford-gt-mk-iv-makes-nuerburgring-history-with-third-fastest-lap-.html

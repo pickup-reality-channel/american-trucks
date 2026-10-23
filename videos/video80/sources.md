@@ -1,0 +1,6 @@
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
+- Wikipedia, Ken Miles: https://en.wikipedia.org/wiki/Ken_Miles
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Wikipedia, 1966 24 Hours of Le Mans: https://en.wikipedia.org/wiki/1966_24_Hours_of_Le_Mans
+- Wikipedia, Ford v Ferrari: https://en.wikipedia.org/wiki/Ford_v_Ferrari
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT

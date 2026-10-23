@@ -1,0 +1,13 @@
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT
+- Wikipedia, Ken Miles: https://en.wikipedia.org/wiki/Ken_Miles
+- Petrolicious, Ford's quest to beat Ferrari with the GT40: https://petrolicious.com/blogs/articles/ford-gt40
+- Car and Classic, Legend of Le Mans: Ford's GT40 turns 60: https://www.carandclassic.com/magazine/legend-of-le-mans-fords-gt40-turns-60/
+- Jalopnik, The Ford GT was born to avenge the death of a secret Mustang: https://www.jalopnik.com/the-ford-gt-was-born-to-avenge-the-death-of-a-secret-mu-1794070410/
+- Motoring Research, 2017 Ford GT: inside the top secret design studio: https://www.motoringresearch.com/car-news-list/features/2017-ford-gt-design-studio/
+- Gear Patrol, The car that forced Porsche to redesign its fastest 911 (May 2017): https://www.gearpatrol.com/cars/a352077/ford-gt-review-specs-images-porsche-911-ferrari-488gtb/
+- Car Showroom, Ford will build 350 more GTs: https://www.carshowroom.com.au/news/ford-will-build-350-more-gts-books-open-november-8th/
+- Autoblog, John Cena and Ford settle over flipped GT (June 2018): https://www.autoblog.com/2018/06/19/john-cena-ford-gt-flip-settlement
+- RM Sotheby's, GT40 Gulf/Mirage lightweight brings record $11 million (Aug 2012): https://rmsothebys.com/media-center/press-releases/gt40-gulfmirage-lightweight-racing-car-brings-record-11-million-at-rm-s-friday-monterey-sale
+- Hagerty valuation tools, 2022 Ford GT (Jan 2026): https://www.hagerty.com/valuation-tools/ford/gt/2022/2022-ford-gt
+- Ford, Ford GT Mk IV makes Nürburgring history (Apr 2026): https://www.at.ford.com/us/en/home/news-media/news/2026/4/ford-gt-mk-iv-makes-nuerburgring-history-with-third-fastest-lap-.html
