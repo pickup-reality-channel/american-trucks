@@ -1,0 +1,2351 @@
+1
+00:00:00,000 --> 00:00:02,644
+The Bugatti Chiron has one thousand four
+
+2
+00:00:02,644 --> 00:00:04,760
+hundred seventy-nine horsepower.
+
+3
+00:00:04,940 --> 00:00:07,800
+It cost two point four million euros
+
+4
+00:00:07,800 --> 00:00:08,991
+before options.
+
+5
+00:00:09,171 --> 00:00:11,912
+And almost everything people repeat about it
+
+6
+00:00:11,912 --> 00:00:13,096
+is the boring part.
+
+7
+00:00:13,276 --> 00:00:15,136
+Today we are going to show you
+
+8
+00:00:15,136 --> 00:00:17,432
+two things about the Chiron that most
+
+9
+00:00:17,432 --> 00:00:18,920
+people have never heard,
+
+10
+00:00:18,920 --> 00:00:21,029
+and the second one changes how you
+
+11
+00:00:21,029 --> 00:00:22,146
+see the whole car.
+
+12
+00:00:22,496 --> 00:00:23,424
+Here is a hint.
+
+13
+00:00:23,604 --> 00:00:25,990
+The first secret is hidden in a
+
+14
+00:00:25,990 --> 00:00:26,298
+key.
+
+15
+00:00:26,478 --> 00:00:28,501
+Not the key that starts the car,
+
+16
+00:00:28,501 --> 00:00:29,322
+a second one.
+
+17
+00:00:29,502 --> 00:00:31,778
+The second secret is about heat.
+
+18
+00:00:31,958 --> 00:00:34,646
+This engine throws away more energy as
+
+19
+00:00:34,646 --> 00:00:36,768
+heat than it ever sends to the
+
+20
+00:00:36,768 --> 00:00:37,264
+wheels.
+
+21
+00:00:37,444 --> 00:00:40,208
+And the way Bugatti solved that problem
+
+22
+00:00:40,208 --> 00:00:42,405
+is one of the wildest pieces of
+
+23
+00:00:42,405 --> 00:00:44,886
+engineering ever put in a road car.
+
+24
+00:00:45,236 --> 00:00:47,378
+Along the way you will see the
+
+25
+00:00:47,378 --> 00:00:50,163
+record that a former Formula One driver
+
+26
+00:00:50,163 --> 00:00:52,234
+set without wearing a helmet,
+
+27
+00:00:52,234 --> 00:00:55,020
+the one-off Chiron that sold for almost
+
+28
+00:00:55,020 --> 00:00:56,305
+ten million euros,
+
+29
+00:00:56,305 --> 00:00:59,162
+and the moment in twenty twenty-six when
+
+30
+00:00:59,162 --> 00:01:00,804
+Bugatti changed owners.
+
+31
+00:01:00,984 --> 00:01:03,359
+Every number in this video comes from
+
+32
+00:01:03,359 --> 00:01:04,578
+a published source,
+
+33
+00:01:04,578 --> 00:01:06,824
+and the list is in the description.
+
+34
+00:01:07,175 --> 00:01:09,646
+But first, to understand why these two
+
+35
+00:01:09,646 --> 00:01:11,012
+secrets exist at all,
+
+36
+00:01:11,012 --> 00:01:13,093
+you need to know what the Chiron
+
+37
+00:01:13,093 --> 00:01:13,873
+had to beat.
+
+38
+00:01:14,053 --> 00:01:15,648
+And the car it had to beat
+
+39
+00:01:15,648 --> 00:01:16,875
+was another Bugatti.
+
+40
+00:01:17,225 --> 00:01:19,965
+The story starts with Ferdinand Piech,
+
+41
+00:01:19,965 --> 00:01:22,995
+the engineer who ran the Volkswagen Group.
+
+42
+00:01:23,175 --> 00:01:25,297
+Around nineteen ninety-seven,
+
+43
+00:01:25,297 --> 00:01:27,639
+riding a Japanese express train,
+
+44
+00:01:27,639 --> 00:01:30,933
+he sketched an eighteen-cylinder engine on an
+
+45
+00:01:30,933 --> 00:01:31,592
+envelope.
+
+46
+00:01:31,772 --> 00:01:32,653
+A year later,
+
+47
+00:01:32,653 --> 00:01:34,346
+in nineteen ninety-eight,
+
+48
+00:01:34,346 --> 00:01:36,718
+Volkswagen bought the Bugatti name.
+
+49
+00:01:36,898 --> 00:01:39,963
+It reportedly paid around fifty million dollars,
+
+50
+00:01:39,963 --> 00:01:41,878
+and it got only the trademark.
+
+51
+00:01:42,058 --> 00:01:44,645
+The old factory and the parts were
+
+52
+00:01:44,645 --> 00:01:45,634
+already gone.
+
+53
+00:01:45,985 --> 00:01:48,353
+Several concept cars followed.
+
+54
+00:01:48,533 --> 00:01:49,422
+One of them,
+
+55
+00:01:49,422 --> 00:01:52,091
+shown at the Frankfurt Motor Show in
+
+56
+00:01:52,091 --> 00:01:55,871
+nineteen ninety-nine, was called the eighteen slash
+
+57
+00:01:55,871 --> 00:01:56,834
+three Chiron.
+
+58
+00:01:57,014 --> 00:01:59,010
+So the name Chiron was used by
+
+59
+00:01:59,010 --> 00:02:01,472
+Bugatti long before the car you know.
+
+60
+00:02:01,652 --> 00:02:03,861
+Then, at the Geneva show in two
+
+61
+00:02:03,861 --> 00:02:06,711
+thousand, Piech promised a car with more
+
+62
+00:02:06,711 --> 00:02:09,418
+than one thousand horsepower and a top
+
+63
+00:02:09,418 --> 00:02:12,624
+speed above four hundred kilometers per hour.
+
+64
+00:02:12,974 --> 00:02:14,970
+That promise became the Veyron.
+
+65
+00:02:15,150 --> 00:02:18,377
+The engine lost two cylinders along the
+
+66
+00:02:18,377 --> 00:02:21,768
+way and became the famous eight-liter W16
+
+67
+00:02:21,768 --> 00:02:23,753
+with four turbochargers.
+
+68
+00:02:23,933 --> 00:02:26,534
+The Veyron made the dream real.
+
+69
+00:02:26,714 --> 00:02:29,721
+But according to analysts at Sanford C.
+
+70
+00:02:29,901 --> 00:02:33,380
+Bernstein, quoted by evo magazine in twenty
+
+71
+00:02:33,380 --> 00:02:37,264
+thirteen, Volkswagen lost about three point nine
+
+72
+00:02:37,264 --> 00:02:40,420
+million pounds on every Veyron it sold.
+
+73
+00:02:40,770 --> 00:02:42,931
+And the Veyron set a very high
+
+74
+00:02:42,931 --> 00:02:43,219
+bar.
+
+75
+00:02:43,399 --> 00:02:44,452
+In twenty ten,
+
+76
+00:02:44,452 --> 00:02:47,384
+a Veyron sixteen point four Super Sport
+
+77
+00:02:47,384 --> 00:02:51,294
+reached four hundred thirty-one kilometers per hour.
+
+78
+00:02:51,474 --> 00:02:54,185
+Whatever came next had to be faster,
+
+79
+00:02:54,185 --> 00:02:57,349
+more powerful, and still usable every day.
+
+80
+00:02:57,529 --> 00:02:59,681
+That is a brutal brief for any
+
+81
+00:02:59,681 --> 00:03:00,327
+engineer.
+
+82
+00:03:00,677 --> 00:03:02,874
+The answer was shown on the first
+
+83
+00:03:02,874 --> 00:03:04,538
+of March, twenty sixteen,
+
+84
+00:03:04,538 --> 00:03:06,203
+at the Geneva Motor Show.
+
+85
+00:03:06,383 --> 00:03:08,800
+It was named after Louis Chiron,
+
+86
+00:03:08,800 --> 00:03:11,594
+a racing driver from Monaco who drove
+
+87
+00:03:11,594 --> 00:03:13,860
+for Bugatti in its golden era.
+
+88
+00:03:14,040 --> 00:03:16,455
+The design team was led by Achim
+
+89
+00:03:16,455 --> 00:03:17,209
+Anscheidt.
+
+90
+00:03:17,389 --> 00:03:19,550
+And the base price was two point
+
+91
+00:03:19,550 --> 00:03:20,834
+four million euros,
+
+92
+00:03:20,834 --> 00:03:23,400
+with a deposit of two hundred thousand
+
+93
+00:03:23,400 --> 00:03:25,156
+euros just to get in line.
+
+94
+00:03:25,507 --> 00:03:27,399
+The numbers were enormous.
+
+95
+00:03:27,579 --> 00:03:30,628
+Bugatti rated the engine at fifteen hundred
+
+96
+00:03:30,628 --> 00:03:33,820
+metric horsepower, which is one thousand four
+
+97
+00:03:33,820 --> 00:03:36,089
+hundred seventy-nine horsepower,
+
+98
+00:03:36,089 --> 00:03:39,139
+with one thousand six hundred newton meters
+
+99
+00:03:39,139 --> 00:03:41,550
+of torque from two thousand to six
+
+100
+00:03:41,550 --> 00:03:42,614
+thousand r p m.
+
+101
+00:03:42,794 --> 00:03:45,620
+Zero to one hundred kilometers per hour
+
+102
+00:03:45,620 --> 00:03:47,649
+took two point four seconds,
+
+103
+00:03:47,649 --> 00:03:50,475
+and zero to three hundred took thirteen
+
+104
+00:03:50,475 --> 00:03:51,200
+point six.
+
+105
+00:03:51,550 --> 00:03:53,454
+The car was also heavy.
+
+106
+00:03:53,634 --> 00:03:56,971
+Wikipedia lists an estimated curb weight of
+
+107
+00:03:56,971 --> 00:03:59,299
+almost two thousand kilograms,
+
+108
+00:03:59,299 --> 00:04:02,016
+close to forty-four hundred pounds.
+
+109
+00:04:02,196 --> 00:04:06,064
+All-wheel drive, a seven-speed dual-clutch gearbox,
+
+110
+00:04:06,064 --> 00:04:07,885
+and a carbon fiber body.
+
+111
+00:04:08,065 --> 00:04:10,581
+Bugatti planned to build only five hundred
+
+112
+00:04:10,581 --> 00:04:11,060
+of them.
+
+113
+00:04:11,240 --> 00:04:13,278
+And here is where our first secret
+
+114
+00:04:13,278 --> 00:04:13,818
+comes in.
+
+115
+00:04:14,168 --> 00:04:15,642
+Secret number one.
+
+116
+00:04:15,822 --> 00:04:18,668
+A normal Chiron cannot reach its top
+
+117
+00:04:18,668 --> 00:04:19,142
+speed.
+
+118
+00:04:19,322 --> 00:04:20,205
+Not without help.
+
+119
+00:04:20,385 --> 00:04:23,168
+The car is electronically limited to about
+
+120
+00:04:23,168 --> 00:04:26,481
+three hundred seventy-five to three hundred eighty
+
+121
+00:04:26,481 --> 00:04:28,999
+kilometers per hour in normal driving.
+
+122
+00:04:29,179 --> 00:04:30,267
+To go faster,
+
+123
+00:04:30,267 --> 00:04:32,859
+the driver has to use a special
+
+124
+00:04:32,859 --> 00:04:33,696
+speed key.
+
+125
+00:04:34,046 --> 00:04:35,803
+With that key in place,
+
+126
+00:04:35,803 --> 00:04:38,859
+the Chiron enters what Bugatti calls Top
+
+127
+00:04:38,859 --> 00:04:39,700
+Speed mode.
+
+128
+00:04:39,880 --> 00:04:41,445
+The car lowers itself,
+
+129
+00:04:41,445 --> 00:04:43,153
+the aerodynamics change,
+
+130
+00:04:43,153 --> 00:04:45,644
+and the limit rises to four hundred
+
+131
+00:04:45,644 --> 00:04:47,565
+twenty kilometers per hour.
+
+132
+00:04:47,745 --> 00:04:50,647
+That is two hundred sixty-one miles per
+
+133
+00:04:50,647 --> 00:04:51,019
+hour.
+
+134
+00:04:51,199 --> 00:04:52,700
+And it is still a limit,
+
+135
+00:04:52,700 --> 00:04:54,764
+not the maximum the car could do.
+
+136
+00:04:55,114 --> 00:04:57,407
+So why limit a car that cost
+
+137
+00:04:57,407 --> 00:04:58,144
+millions?
+
+138
+00:04:58,324 --> 00:05:01,087
+The main reason given is the tires.
+
+139
+00:05:01,267 --> 00:05:02,468
+At those speeds,
+
+140
+00:05:02,468 --> 00:05:05,547
+every tire is spinning thousands of times
+
+141
+00:05:05,547 --> 00:05:08,025
+per minute, and the forces on the
+
+142
+00:05:08,025 --> 00:05:09,452
+rubber are extreme.
+
+143
+00:05:09,632 --> 00:05:12,313
+Bugatti decided the safe ceiling for a
+
+144
+00:05:12,313 --> 00:05:14,500
+road car on road tires was four
+
+145
+00:05:14,500 --> 00:05:16,969
+hundred twenty kilometers per hour.
+
+146
+00:05:17,149 --> 00:05:19,595
+The key is basically a promise that
+
+147
+00:05:19,595 --> 00:05:20,923
+you really mean it.
+
+148
+00:05:21,273 --> 00:05:22,851
+But here is the twist.
+
+149
+00:05:23,031 --> 00:05:26,058
+Many people believe the famous three hundred
+
+150
+00:05:26,058 --> 00:05:28,122
+and four mile per hour run was
+
+151
+00:05:28,122 --> 00:05:30,186
+done in a Chiron like the ones
+
+152
+00:05:30,186 --> 00:05:31,286
+customers drive.
+
+153
+00:05:31,466 --> 00:05:32,290
+It was not.
+
+154
+00:05:32,470 --> 00:05:35,676
+That car was a pre-production Chiron Super
+
+155
+00:05:35,676 --> 00:05:37,583
+Sport three hundred plus,
+
+156
+00:05:37,583 --> 00:05:39,796
+and it was built for one job.
+
+157
+00:05:40,147 --> 00:05:41,869
+On the second of August,
+
+158
+00:05:41,869 --> 00:05:45,099
+twenty nineteen, at the Volkswagen Group test
+
+159
+00:05:45,099 --> 00:05:47,468
+track at Ehra-Lessien in Germany,
+
+160
+00:05:47,468 --> 00:05:50,196
+Le Mans winner Andy Wallace drove that
+
+161
+00:05:50,196 --> 00:05:52,852
+car to four hundred ninety point four
+
+162
+00:05:52,852 --> 00:05:55,077
+eight four kilometers per hour.
+
+163
+00:05:55,257 --> 00:05:57,700
+That is three hundred four point seven
+
+164
+00:05:57,700 --> 00:05:59,437
+seven three miles per hour.
+
+165
+00:05:59,617 --> 00:06:02,408
+It was the first time a near-production
+
+166
+00:06:02,408 --> 00:06:05,056
+car went past three hundred miles per
+
+167
+00:06:05,056 --> 00:06:07,419
+hour, and the run was verified by
+
+168
+00:06:07,419 --> 00:06:07,848
+T U V.
+
+169
+00:06:08,198 --> 00:06:09,863
+According to Autocar,
+
+170
+00:06:09,863 --> 00:06:12,558
+the record car had an extra safety
+
+171
+00:06:12,558 --> 00:06:16,364
+cell, aerodynamic changes designed with Dallara,
+
+172
+00:06:16,364 --> 00:06:17,474
+a longer tail,
+
+173
+00:06:17,474 --> 00:06:19,219
+a taller seventh gear,
+
+174
+00:06:19,219 --> 00:06:21,915
+and an engine tune of one thousand
+
+175
+00:06:21,915 --> 00:06:24,928
+five hundred seventy-eight horsepower.
+
+176
+00:06:25,108 --> 00:06:28,033
+Its Michelin tires were specially built,
+
+177
+00:06:28,033 --> 00:06:30,885
+and every single one was X-rayed before
+
+178
+00:06:30,885 --> 00:06:31,470
+the run.
+
+179
+00:06:31,650 --> 00:06:33,968
+At top speed each tire turned about
+
+180
+00:06:33,968 --> 00:06:36,816
+four thousand one hundred times per minute.
+
+181
+00:06:37,167 --> 00:06:40,525
+Wallace later described the strangest feeling at
+
+182
+00:06:40,525 --> 00:06:42,554
+three hundred miles per hour.
+
+183
+00:06:42,734 --> 00:06:44,330
+It was not the noise or the
+
+184
+00:06:44,330 --> 00:06:44,626
+wind.
+
+185
+00:06:44,806 --> 00:06:46,894
+It was the gyroscopic effect of the
+
+186
+00:06:46,894 --> 00:06:49,401
+spinning wheels, which he felt through the
+
+187
+00:06:49,401 --> 00:06:49,938
+steering.
+
+188
+00:06:50,118 --> 00:06:51,118
+At that speed,
+
+189
+00:06:51,118 --> 00:06:54,049
+the wheels themselves fight to keep going
+
+190
+00:06:54,049 --> 00:06:54,692
+straight.
+
+191
+00:06:55,042 --> 00:06:57,385
+And then Bugatti did something no one
+
+192
+00:06:57,385 --> 00:06:57,956
+expected.
+
+193
+00:06:58,136 --> 00:06:59,072
+The same year,
+
+194
+00:06:59,072 --> 00:07:02,418
+company president Stephan Winkelmann said the goal
+
+195
+00:07:02,418 --> 00:07:04,894
+had been to be the first manufacturer
+
+196
+00:07:04,894 --> 00:07:07,437
+to reach three hundred miles per hour,
+
+197
+00:07:07,437 --> 00:07:09,779
+and that Bugatti would now focus on
+
+198
+00:07:09,779 --> 00:07:10,582
+other areas.
+
+199
+00:07:10,762 --> 00:07:11,762
+In other words,
+
+200
+00:07:11,762 --> 00:07:14,432
+the fastest brand in the world announced
+
+201
+00:07:14,432 --> 00:07:17,101
+it would stop chasing top speed records.
+
+202
+00:07:17,451 --> 00:07:20,588
+So the production Super Sport three hundred
+
+203
+00:07:20,588 --> 00:07:22,849
+plus was sold with a limit too.
+
+204
+00:07:23,029 --> 00:07:24,643
+Only thirty were made,
+
+205
+00:07:24,643 --> 00:07:27,576
+priced at three point five million euros
+
+206
+00:07:27,576 --> 00:07:30,583
+before tax, and customer cars are limited
+
+207
+00:07:30,583 --> 00:07:33,664
+to four hundred forty kilometers per hour.
+
+208
+00:07:33,844 --> 00:07:36,019
+Even the car named after the record
+
+209
+00:07:36,019 --> 00:07:38,070
+cannot legally repeat the record.
+
+210
+00:07:38,250 --> 00:07:39,957
+That is secret number one.
+
+211
+00:07:40,137 --> 00:07:43,271
+The fastest Chiron is always held back.
+
+212
+00:07:43,622 --> 00:07:45,303
+Before secret number two,
+
+213
+00:07:45,303 --> 00:07:48,196
+there is another record most people forget.
+
+214
+00:07:48,376 --> 00:07:50,447
+In August twenty seventeen,
+
+215
+00:07:50,447 --> 00:07:53,362
+before the three hundred mile per hour
+
+216
+00:07:53,362 --> 00:07:56,200
+run, Bugatti wanted to prove that the
+
+217
+00:07:56,200 --> 00:07:58,731
+Chiron could not only go fast but
+
+218
+00:07:58,731 --> 00:07:59,498
+also stop.
+
+219
+00:07:59,678 --> 00:08:02,185
+The test was zero to four hundred
+
+220
+00:08:02,185 --> 00:08:03,704
+kilometers per hour,
+
+221
+00:08:03,704 --> 00:08:04,996
+and back to zero.
+
+222
+00:08:05,346 --> 00:08:07,772
+The driver was Juan Pablo Montoya.
+
+223
+00:08:07,952 --> 00:08:10,291
+He won the Monaco Grand Prix in
+
+224
+00:08:10,291 --> 00:08:13,989
+Formula One, the Indianapolis five hundred twice,
+
+225
+00:08:13,989 --> 00:08:17,159
+and the twenty-four hours of Daytona three
+
+226
+00:08:17,159 --> 00:08:17,612
+times.
+
+227
+00:08:17,792 --> 00:08:21,046
+And according to Bugatti's own press release,
+
+228
+00:08:21,046 --> 00:08:23,361
+he did this run without a racing
+
+229
+00:08:23,361 --> 00:08:25,025
+suit, without a helmet,
+
+230
+00:08:25,025 --> 00:08:26,905
+and without a HANS device.
+
+231
+00:08:27,256 --> 00:08:30,630
+The Chiron reached four hundred kilometers per
+
+232
+00:08:30,630 --> 00:08:33,344
+hour in thirty-two point six seconds,
+
+233
+00:08:33,344 --> 00:08:37,159
+covering two thousand six hundred twenty-one meters.
+
+234
+00:08:37,339 --> 00:08:39,345
+Then it braked to a full stop
+
+235
+00:08:39,345 --> 00:08:41,905
+in about nine point three seconds and
+
+236
+00:08:41,905 --> 00:08:44,049
+four hundred ninety-one meters.
+
+237
+00:08:44,229 --> 00:08:47,736
+The total was forty-one point nine six
+
+238
+00:08:47,736 --> 00:08:50,411
+seconds, certified by S G S T
+
+239
+00:08:50,411 --> 00:08:51,242
+U V Saar.
+
+240
+00:08:51,592 --> 00:08:54,192
+The braking part is just as wild.
+
+241
+00:08:54,372 --> 00:08:56,489
+The rear wing turned into an air
+
+242
+00:08:56,489 --> 00:08:58,341
+brake at forty-nine degrees,
+
+243
+00:08:58,341 --> 00:09:00,920
+less than a second after braking began.
+
+244
+00:09:01,100 --> 00:09:03,831
+Bugatti said it added about nine hundred
+
+245
+00:09:03,831 --> 00:09:06,220
+kilograms of downforce at the rear.
+
+246
+00:09:06,400 --> 00:09:08,699
+The car slowed at about two g.
+
+247
+00:09:08,879 --> 00:09:11,789
+And Montoya said the Chiron was really
+
+248
+00:09:11,789 --> 00:09:15,005
+impressive in how stable and consistent it
+
+249
+00:09:15,005 --> 00:09:15,311
+was.
+
+250
+00:09:15,661 --> 00:09:17,100
+But here is the twist.
+
+251
+00:09:17,280 --> 00:09:19,080
+That record did not last.
+
+252
+00:09:19,260 --> 00:09:21,031
+Koenigsegg later beat it,
+
+253
+00:09:21,031 --> 00:09:22,589
+first with the Regera,
+
+254
+00:09:22,589 --> 00:09:24,856
+and then with the Jesko Absolut,
+
+255
+00:09:24,856 --> 00:09:27,477
+which brought the time down to around
+
+256
+00:09:27,477 --> 00:09:30,452
+twenty-five seconds in twenty twenty-five.
+
+257
+00:09:30,632 --> 00:09:33,121
+So the Chiron's first great record is
+
+258
+00:09:33,121 --> 00:09:35,611
+now a reference point for its rivals,
+
+259
+00:09:35,611 --> 00:09:37,226
+not the top of the list.
+
+260
+00:09:37,577 --> 00:09:39,643
+Now, secret number two.
+
+261
+00:09:39,823 --> 00:09:41,824
+And this is the one that changes
+
+262
+00:09:41,824 --> 00:09:43,074
+how you see the car.
+
+263
+00:09:43,254 --> 00:09:46,870
+The Chiron's engine produces about fifteen hundred
+
+264
+00:09:46,870 --> 00:09:47,666
+horsepower.
+
+265
+00:09:47,846 --> 00:09:49,523
+But according to Bugatti,
+
+266
+00:09:49,523 --> 00:09:51,602
+as reported by Motor Authority,
+
+267
+00:09:51,602 --> 00:09:54,621
+the engine generates more than three thousand
+
+268
+00:09:54,621 --> 00:09:56,298
+horsepower worth of heat.
+
+269
+00:09:56,478 --> 00:09:58,975
+Twice as much energy is thrown away
+
+270
+00:09:58,975 --> 00:10:00,830
+as heat as is used to move
+
+271
+00:10:00,830 --> 00:10:01,400
+the car.
+
+272
+00:10:01,751 --> 00:10:03,425
+That is not a flaw that only
+
+273
+00:10:03,425 --> 00:10:04,142
+Bugatti has.
+
+274
+00:10:04,322 --> 00:10:07,541
+Every gasoline engine turns a large share
+
+275
+00:10:07,541 --> 00:10:10,054
+of its fuel into heat instead of
+
+276
+00:10:10,054 --> 00:10:10,603
+motion.
+
+277
+00:10:10,783 --> 00:10:12,351
+The difference is scale.
+
+278
+00:10:12,531 --> 00:10:15,829
+When your engine makes fifteen hundred horsepower,
+
+279
+00:10:15,829 --> 00:10:18,006
+the heat it throws away is enough
+
+280
+00:10:18,006 --> 00:10:20,051
+to cook the car from the inside
+
+281
+00:10:20,051 --> 00:10:22,295
+if it is not removed every second.
+
+282
+00:10:22,645 --> 00:10:25,297
+So Bugatti built a cooling system that
+
+283
+00:10:25,297 --> 00:10:27,601
+sounds like it belongs in a power
+
+284
+00:10:27,601 --> 00:10:28,020
+plant.
+
+285
+00:10:28,200 --> 00:10:30,452
+The Chiron has ten radiators.
+
+286
+00:10:30,632 --> 00:10:32,175
+They cool the engine,
+
+287
+00:10:32,175 --> 00:10:33,277
+the charge air,
+
+288
+00:10:33,277 --> 00:10:34,379
+the engine oil,
+
+289
+00:10:34,379 --> 00:10:37,317
+the transmission, the rear differential,
+
+290
+00:10:37,317 --> 00:10:38,933
+and the hydraulic oil.
+
+291
+00:10:39,284 --> 00:10:41,542
+The water pump moves about eight hundred
+
+292
+00:10:41,542 --> 00:10:43,799
+liters of coolant per minute through the
+
+293
+00:10:43,799 --> 00:10:44,195
+engine.
+
+294
+00:10:44,375 --> 00:10:47,807
+The high-temperature loop holds thirty-seven liters of
+
+295
+00:10:47,807 --> 00:10:50,540
+coolant, and it circulates through the loop
+
+296
+00:10:50,540 --> 00:10:52,002
+in about three seconds.
+
+297
+00:10:52,182 --> 00:10:55,912
+A second, low-temperature loop with twelve liters
+
+298
+00:10:55,912 --> 00:10:58,805
+keeps the charge air from overheating,
+
+299
+00:10:58,805 --> 00:11:00,936
+even in stop-and-go traffic.
+
+300
+00:11:01,287 --> 00:11:02,633
+Then there is the air.
+
+301
+00:11:02,813 --> 00:11:05,245
+More than sixty thousand liters of air
+
+302
+00:11:05,245 --> 00:11:07,740
+pass through the engine every minute at
+
+303
+00:11:07,740 --> 00:11:08,444
+full power.
+
+304
+00:11:08,624 --> 00:11:10,951
+The big intakes on the sides,
+
+305
+00:11:10,951 --> 00:11:12,717
+just behind the doors,
+
+306
+00:11:12,717 --> 00:11:14,081
+feed that engine.
+
+307
+00:11:14,261 --> 00:11:15,714
+And under the car,
+
+308
+00:11:15,714 --> 00:11:17,814
+a flat floor with strakes,
+
+309
+00:11:17,814 --> 00:11:21,287
+active diffusers, and NACA ducts pulls cool
+
+310
+00:11:21,287 --> 00:11:23,386
+air across the drivetrain.
+
+311
+00:11:23,737 --> 00:11:26,314
+The fuel side is just as extreme.
+
+312
+00:11:26,494 --> 00:11:29,655
+The engine uses duplex fuel injection with
+
+313
+00:11:29,655 --> 00:11:32,589
+thirty-two injectors, two per cylinder.
+
+314
+00:11:32,769 --> 00:11:35,887
+And the official mixed fuel consumption is
+
+315
+00:11:35,887 --> 00:11:39,153
+twenty-two point five liters per one hundred
+
+316
+00:11:39,153 --> 00:11:41,825
+kilometers, which is about ten and a
+
+317
+00:11:41,825 --> 00:11:43,458
+half miles per gallon,
+
+318
+00:11:43,458 --> 00:11:45,165
+and that is the gentle,
+
+319
+00:11:45,165 --> 00:11:46,353
+everyday figure.
+
+320
+00:11:46,703 --> 00:11:48,758
+The exhaust is titanium.
+
+321
+00:11:48,938 --> 00:11:52,554
+There are four pre-catalytic converters and two
+
+322
+00:11:52,554 --> 00:11:55,171
+main catalysts, and one of them is
+
+323
+00:11:55,171 --> 00:11:58,018
+described as about six times the size
+
+324
+00:11:58,018 --> 00:12:00,942
+of a normal car's catalytic converter.
+
+325
+00:12:01,122 --> 00:12:04,931
+The titanium silencer weighs only about forty-four
+
+326
+00:12:04,931 --> 00:12:05,464
+pounds.
+
+327
+00:12:05,644 --> 00:12:07,980
+And the car has six tailpipes,
+
+328
+00:12:07,980 --> 00:12:10,549
+four at the back and two pointing
+
+329
+00:12:10,549 --> 00:12:10,939
+down.
+
+330
+00:12:11,289 --> 00:12:14,167
+Even the turbocharging is designed around this
+
+331
+00:12:14,167 --> 00:12:14,667
+problem.
+
+332
+00:12:14,847 --> 00:12:17,784
+The Chiron uses two-stage turbocharging.
+
+333
+00:12:17,964 --> 00:12:20,343
+Two turbochargers work from launch,
+
+334
+00:12:20,343 --> 00:12:22,246
+and the other two join in at
+
+335
+00:12:22,246 --> 00:12:24,829
+about three thousand eight hundred r p
+
+336
+00:12:24,829 --> 00:12:24,965
+m.
+
+337
+00:12:25,145 --> 00:12:27,691
+That is how the car delivers peak
+
+338
+00:12:27,691 --> 00:12:30,468
+torque from two thousand all the way
+
+339
+00:12:30,468 --> 00:12:32,166
+to six thousand r p m,
+
+340
+00:12:32,166 --> 00:12:34,634
+without the huge lag of four big
+
+341
+00:12:34,634 --> 00:12:35,792
+turbos at once.
+
+342
+00:12:36,142 --> 00:12:38,153
+So here is the real secret of
+
+343
+00:12:38,153 --> 00:12:38,916
+the Chiron.
+
+344
+00:12:39,096 --> 00:12:42,136
+Its greatest achievement is not making fifteen
+
+345
+00:12:42,136 --> 00:12:43,392
+hundred horsepower.
+
+346
+00:12:43,572 --> 00:12:45,972
+Plenty of tuners can make big power
+
+347
+00:12:45,972 --> 00:12:47,206
+for a few seconds.
+
+348
+00:12:47,386 --> 00:12:51,492
+Its achievement is surviving fifteen hundred horsepower,
+
+349
+00:12:51,492 --> 00:12:54,352
+all day, at four hundred kilometers per
+
+350
+00:12:54,352 --> 00:12:56,991
+hour, with air conditioning on and a
+
+351
+00:12:56,991 --> 00:12:58,311
+warranty attached.
+
+352
+00:12:58,661 --> 00:13:01,416
+And that also explains a detail people
+
+353
+00:13:01,416 --> 00:13:02,213
+often miss.
+
+354
+00:13:02,393 --> 00:13:05,140
+The Chiron uses the same displacement and
+
+355
+00:13:05,140 --> 00:13:07,753
+the same number of turbochargers as the
+
+356
+00:13:07,753 --> 00:13:08,221
+Veyron.
+
+357
+00:13:08,401 --> 00:13:11,227
+Motor Authority says the power gain of
+
+358
+00:13:11,227 --> 00:13:14,721
+about twenty-five percent came mainly from more
+
+359
+00:13:14,721 --> 00:13:16,505
+boost and bigger turbos.
+
+360
+00:13:16,685 --> 00:13:19,186
+Almost every part of the engine was
+
+361
+00:13:19,186 --> 00:13:20,971
+redesigned to survive it,
+
+362
+00:13:20,971 --> 00:13:23,758
+with titanium and carbon fiber parts to
+
+363
+00:13:23,758 --> 00:13:24,615
+save weight.
+
+364
+00:13:24,965 --> 00:13:27,347
+All of that engineering has a price,
+
+365
+00:13:27,347 --> 00:13:29,134
+and it does not stop at the
+
+366
+00:13:29,134 --> 00:13:29,597
+dealer.
+
+367
+00:13:29,777 --> 00:13:33,621
+Collector Steve Hamilton showed his Chiron maintenance
+
+368
+00:13:33,621 --> 00:13:34,689
+costs on video,
+
+369
+00:13:34,689 --> 00:13:37,537
+and The Drive summarized them in January
+
+370
+00:13:37,537 --> 00:13:38,960
+twenty twenty-three.
+
+371
+00:13:39,140 --> 00:13:42,139
+A normal annual service was about eleven
+
+372
+00:13:42,139 --> 00:13:44,388
+thousand five hundred dollars.
+
+373
+00:13:44,738 --> 00:13:47,730
+The four-year major service was about thirty-four
+
+374
+00:13:47,730 --> 00:13:50,599
+thousand dollars, which was covered by warranty
+
+375
+00:13:50,599 --> 00:13:51,332
+in his case.
+
+376
+00:13:51,512 --> 00:13:55,052
+An extra four-year bumper-to-bumper warranty was listed
+
+377
+00:13:55,052 --> 00:13:57,433
+at two hundred four thousand dollars.
+
+378
+00:13:57,613 --> 00:13:59,903
+And a single taillight was quoted at
+
+379
+00:13:59,903 --> 00:14:01,874
+more than ten thousand dollars.
+
+380
+00:14:02,224 --> 00:14:04,464
+The bigger parts are even more extreme.
+
+381
+00:14:04,644 --> 00:14:07,442
+The Drive listed a replacement engine at
+
+382
+00:14:07,442 --> 00:14:10,730
+about eight hundred fifty-six thousand dollars,
+
+383
+00:14:10,730 --> 00:14:13,388
+and a dual-clutch gearbox at about one
+
+384
+00:14:13,388 --> 00:14:15,976
+hundred eighty-five thousand dollars.
+
+385
+00:14:16,156 --> 00:14:18,887
+Front brake rotors were more than eighteen
+
+386
+00:14:18,887 --> 00:14:21,684
+thousand dollars, and front pads around six
+
+387
+00:14:21,684 --> 00:14:23,180
+thousand seven hundred.
+
+388
+00:14:23,530 --> 00:14:25,979
+But here is a twist about tires.
+
+389
+00:14:26,159 --> 00:14:28,551
+The Veyron was famous for tire sets
+
+390
+00:14:28,551 --> 00:14:31,627
+that cost around thirty thousand to forty-two
+
+391
+00:14:31,627 --> 00:14:34,634
+thousand dollars, and the Veyron's tires had
+
+392
+00:14:34,634 --> 00:14:37,230
+to be replaced every two thousand five
+
+393
+00:14:37,230 --> 00:14:38,187
+hundred miles.
+
+394
+00:14:38,367 --> 00:14:39,419
+For the Chiron,
+
+395
+00:14:39,419 --> 00:14:42,085
+Bugatti engineers said they moved to a
+
+396
+00:14:42,085 --> 00:14:45,101
+standard rim design and a standard mounting
+
+397
+00:14:45,101 --> 00:14:47,766
+process, so the tires are much cheaper
+
+398
+00:14:47,766 --> 00:14:50,221
+and can be changed far more easily.
+
+399
+00:14:50,571 --> 00:14:52,775
+So the Chiron was not only built
+
+400
+00:14:52,775 --> 00:14:54,773
+to be faster than the Veyron.
+
+401
+00:14:54,953 --> 00:14:56,979
+It was also built to fix some
+
+402
+00:14:56,979 --> 00:14:59,493
+of the Veyron's ownership headaches.
+
+403
+00:14:59,673 --> 00:15:01,549
+It is still one of the most
+
+404
+00:15:01,549 --> 00:15:03,772
+expensive cars on earth to keep,
+
+405
+00:15:03,772 --> 00:15:05,717
+but in some areas it is less
+
+406
+00:15:05,717 --> 00:15:08,148
+punishing than the car it replaced.
+
+407
+00:15:08,328 --> 00:15:10,657
+We break down the full ownership cost
+
+408
+00:15:10,657 --> 00:15:11,916
+in a separate video.
+
+409
+00:15:12,266 --> 00:15:15,574
+Now, five hundred Chirons sounds simple.
+
+410
+00:15:15,754 --> 00:15:16,381
+It is not.
+
+411
+00:15:16,561 --> 00:15:18,809
+Inside that number there are many very
+
+412
+00:15:18,809 --> 00:15:19,696
+different cars.
+
+413
+00:15:19,876 --> 00:15:22,178
+The base Chiron accounts for about two
+
+414
+00:15:22,178 --> 00:15:22,662
+hundred.
+
+415
+00:15:22,842 --> 00:15:25,183
+Then there is the Chiron Sport,
+
+416
+00:15:25,183 --> 00:15:26,467
+about sixty cars,
+
+417
+00:15:26,467 --> 00:15:29,789
+a sharper version that is eighteen kilograms
+
+418
+00:15:29,789 --> 00:15:32,281
+lighter and has torque vectoring.
+
+419
+00:15:32,632 --> 00:15:34,370
+There is the Pur Sport,
+
+420
+00:15:34,370 --> 00:15:35,655
+about sixty cars,
+
+421
+00:15:35,655 --> 00:15:38,679
+built for corners rather than top speed,
+
+422
+00:15:38,679 --> 00:15:41,930
+about fifty kilograms lighter with a higher
+
+423
+00:15:41,930 --> 00:15:42,535
+redline.
+
+424
+00:15:42,715 --> 00:15:44,484
+There is the Super Sport,
+
+425
+00:15:44,484 --> 00:15:45,759
+about eighty cars,
+
+426
+00:15:45,759 --> 00:15:47,740
+with a longer tail and a top
+
+427
+00:15:47,740 --> 00:15:50,855
+speed limit of four hundred forty kilometers
+
+428
+00:15:50,855 --> 00:15:51,492
+per hour.
+
+429
+00:15:51,672 --> 00:15:54,228
+And there are small series like the
+
+430
+00:15:54,228 --> 00:15:56,858
+Chiron Noire and the Les Legendes du
+
+431
+00:15:56,858 --> 00:15:59,706
+Ciel, built in batches of about twenty.
+
+432
+00:16:00,056 --> 00:16:01,739
+And then there are the one-offs.
+
+433
+00:16:01,919 --> 00:16:02,834
+One of them,
+
+434
+00:16:02,834 --> 00:16:04,359
+the Chiron Profilee,
+
+435
+00:16:04,359 --> 00:16:06,342
+was built as a single car.
+
+436
+00:16:06,522 --> 00:16:08,792
+In February twenty twenty-three,
+
+437
+00:16:08,792 --> 00:16:11,132
+RM Sotheby's sold it in Paris for
+
+438
+00:16:11,132 --> 00:16:14,748
+nine million seven hundred ninety-two thousand five
+
+439
+00:16:14,748 --> 00:16:15,741
+hundred euros.
+
+440
+00:16:15,921 --> 00:16:18,790
+Hagerty reported that it became the most
+
+441
+00:16:18,790 --> 00:16:21,516
+valuable new car ever sold at auction,
+
+442
+00:16:21,516 --> 00:16:23,165
+far above its estimate.
+
+443
+00:16:23,516 --> 00:16:26,216
+Bugatti also built other cars on the
+
+444
+00:16:26,216 --> 00:16:28,917
+Chiron's foundations, like the Divo,
+
+445
+00:16:28,917 --> 00:16:31,693
+the Centodieci, the Bolide track car,
+
+446
+00:16:31,693 --> 00:16:33,268
+and the open Mistral.
+
+447
+00:16:33,448 --> 00:16:35,279
+They are not counted as Chirons,
+
+448
+00:16:35,279 --> 00:16:36,710
+but they share its heart.
+
+449
+00:16:36,890 --> 00:16:38,166
+In other words,
+
+450
+00:16:38,166 --> 00:16:40,717
+the W16 lived on in many forms
+
+451
+00:16:40,717 --> 00:16:43,438
+after the base car was sold out.
+
+452
+00:16:43,789 --> 00:16:45,867
+And here is a twist about value.
+
+453
+00:16:46,047 --> 00:16:48,185
+In November twenty seventeen,
+
+454
+00:16:48,185 --> 00:16:51,062
+just months after the first deliveries,
+
+455
+00:16:51,062 --> 00:16:53,716
+evo reported that a used Chiron with
+
+456
+00:16:53,716 --> 00:16:57,035
+about one thousand three hundred thirty miles
+
+457
+00:16:57,035 --> 00:16:59,911
+was offered for three point six million
+
+458
+00:16:59,911 --> 00:17:02,566
+pounds, against a price of about two
+
+459
+00:17:02,566 --> 00:17:04,483
+point five million pounds.
+
+460
+00:17:04,663 --> 00:17:07,071
+The first used Chiron was being sold
+
+461
+00:17:07,071 --> 00:17:08,274
+for more than new.
+
+462
+00:17:08,624 --> 00:17:11,239
+Bugatti sold out the Chiron by January
+
+463
+00:17:11,239 --> 00:17:12,478
+twenty twenty-two.
+
+464
+00:17:12,658 --> 00:17:15,021
+The last base-spec car was built in
+
+465
+00:17:15,021 --> 00:17:17,047
+September twenty twenty-three.
+
+466
+00:17:17,227 --> 00:17:19,294
+And in May twenty twenty-four,
+
+467
+00:17:19,294 --> 00:17:22,051
+the five hundredth and final Chiron left
+
+468
+00:17:22,051 --> 00:17:22,672
+Molsheim.
+
+469
+00:17:22,852 --> 00:17:25,889
+It was a Super Sport called L'Ultime,
+
+470
+00:17:25,889 --> 00:17:28,515
+painted in two shades of blue to
+
+471
+00:17:28,515 --> 00:17:31,634
+recall the very first Chiron of twenty
+
+472
+00:17:31,634 --> 00:17:32,291
+sixteen.
+
+473
+00:17:32,641 --> 00:17:35,515
+Top Gear reported that its livery carries
+
+474
+00:17:35,515 --> 00:17:38,039
+place names from the Chiron's story.
+
+475
+00:17:38,219 --> 00:17:40,274
+Geneva, where it was launched.
+
+476
+00:17:40,454 --> 00:17:44,257
+Ehra-Lessien, where it broke three hundred miles
+
+477
+00:17:44,257 --> 00:17:44,970
+per hour.
+
+478
+00:17:45,150 --> 00:17:47,089
+Molsheim, its home.
+
+479
+00:17:47,269 --> 00:17:50,058
+And the number five hundred appears under
+
+480
+00:17:50,058 --> 00:17:51,010
+the rear wing,
+
+481
+00:17:51,010 --> 00:17:52,235
+on the wheel caps,
+
+482
+00:17:52,235 --> 00:17:54,479
+and engraved on the engine cover.
+
+483
+00:17:54,829 --> 00:17:57,093
+One more detail people love.
+
+484
+00:17:57,273 --> 00:17:58,775
+In twenty eighteen,
+
+485
+00:17:58,775 --> 00:18:01,543
+Lego and Bugatti built a full-size,
+
+486
+00:18:01,543 --> 00:18:04,389
+drivable Chiron out of Lego Technic.
+
+487
+00:18:04,569 --> 00:18:06,864
+It used more than one million pieces
+
+488
+00:18:06,864 --> 00:18:09,477
+and two thousand three hundred four Power
+
+489
+00:18:09,477 --> 00:18:10,560
+Functions motors.
+
+490
+00:18:10,740 --> 00:18:13,595
+It produced an estimated five point four
+
+491
+00:18:13,595 --> 00:18:17,164
+horsepower and reached about twenty kilometers per
+
+492
+00:18:17,164 --> 00:18:17,520
+hour.
+
+493
+00:18:17,871 --> 00:18:20,051
+And there was a smaller one for
+
+494
+00:18:20,051 --> 00:18:23,216
+everyone else, the Technic set forty-two zero
+
+495
+00:18:23,216 --> 00:18:26,029
+eighty-three, at one to eight scale with
+
+496
+00:18:26,029 --> 00:18:28,772
+about three thousand six hundred parts.
+
+497
+00:18:28,952 --> 00:18:30,148
+For many people,
+
+498
+00:18:30,148 --> 00:18:32,539
+that box is the only Chiron they
+
+499
+00:18:32,539 --> 00:18:33,585
+will ever own.
+
+500
+00:18:33,765 --> 00:18:35,652
+It is a reminder of what the
+
+501
+00:18:35,652 --> 00:18:36,865
+car really became.
+
+502
+00:18:37,045 --> 00:18:38,375
+Not just a machine,
+
+503
+00:18:38,375 --> 00:18:39,285
+but a symbol.
+
+504
+00:18:39,636 --> 00:18:40,994
+So what replaced it?
+
+505
+00:18:41,174 --> 00:18:42,895
+In June twenty twenty-four,
+
+506
+00:18:42,895 --> 00:18:44,936
+Bugatti revealed the Tourbillon.
+
+507
+00:18:45,116 --> 00:18:48,049
+It drops the quad-turbo W16 for a
+
+508
+00:18:48,049 --> 00:18:52,227
+naturally aspirated eight point three liter V16
+
+509
+00:18:52,227 --> 00:18:54,360
+developed with Cosworth,
+
+510
+00:18:54,360 --> 00:18:56,760
+plus three electric motors.
+
+511
+00:18:56,940 --> 00:18:59,830
+Total output is about one thousand seven
+
+512
+00:18:59,830 --> 00:19:02,142
+hundred seventy-five horsepower,
+
+513
+00:19:02,142 --> 00:19:04,599
+and the price is about three point
+
+514
+00:19:04,599 --> 00:19:06,983
+eight million euros before taxes.
+
+515
+00:19:07,333 --> 00:19:08,784
+Here is the twist.
+
+516
+00:19:08,964 --> 00:19:11,072
+The Tourbillon is a hybrid,
+
+517
+00:19:11,072 --> 00:19:13,413
+but its top speed is listed at
+
+518
+00:19:13,413 --> 00:19:16,614
+two hundred seventy-seven miles per hour,
+
+519
+00:19:16,614 --> 00:19:19,424
+faster than a normal Chiron's limit.
+
+520
+00:19:19,604 --> 00:19:22,565
+So even the successor was designed around
+
+521
+00:19:22,565 --> 00:19:23,937
+a top speed figure,
+
+522
+00:19:23,937 --> 00:19:26,681
+years after Bugatti said it would stop
+
+523
+00:19:26,681 --> 00:19:27,836
+chasing records.
+
+524
+00:19:28,186 --> 00:19:30,043
+And the company itself changed.
+
+525
+00:19:30,223 --> 00:19:31,767
+In twenty twenty-one,
+
+526
+00:19:31,767 --> 00:19:34,927
+Volkswagen moved Bugatti into a new venture
+
+527
+00:19:34,927 --> 00:19:38,088
+with the Croatian electric car maker Rimac,
+
+528
+00:19:38,088 --> 00:19:41,322
+with Porsche holding a large minority stake.
+
+529
+00:19:41,502 --> 00:19:44,391
+Then, in September twenty twenty-six,
+
+530
+00:19:44,391 --> 00:19:47,825
+Carscoops reported that a group of investors
+
+531
+00:19:47,825 --> 00:19:49,699
+bought Porsche's stakes.
+
+532
+00:19:49,879 --> 00:19:52,932
+Volkswagen and Porsche now own nothing of
+
+533
+00:19:52,932 --> 00:19:56,729
+Bugatti, and Mate Rimac became Bugatti's president.
+
+534
+00:19:57,079 --> 00:19:58,158
+Think about that.
+
+535
+00:19:58,338 --> 00:20:01,265
+The Chiron was born inside Volkswagen,
+
+536
+00:20:01,265 --> 00:20:03,807
+from a sketch by Ferdinand Piech.
+
+537
+00:20:03,987 --> 00:20:06,193
+Its successor will be sold by a
+
+538
+00:20:06,193 --> 00:20:09,112
+company that Volkswagen no longer owns at
+
+539
+00:20:09,112 --> 00:20:09,397
+all.
+
+540
+00:20:09,577 --> 00:20:12,393
+The Chiron is the last Bugatti of
+
+541
+00:20:12,393 --> 00:20:15,807
+the Volkswagen era with the original W16
+
+542
+00:20:15,807 --> 00:20:17,855
+formula as its main car.
+
+543
+00:20:18,205 --> 00:20:20,265
+So let's recap the two things most
+
+544
+00:20:20,265 --> 00:20:22,872
+people don't know about the Bugatti Chiron.
+
+545
+00:20:23,052 --> 00:20:23,911
+Number one.
+
+546
+00:20:24,091 --> 00:20:27,191
+A normal Chiron is always held back.
+
+547
+00:20:27,371 --> 00:20:29,542
+It needs a special key to reach
+
+548
+00:20:29,542 --> 00:20:31,083
+its limited top speed,
+
+549
+00:20:31,083 --> 00:20:33,534
+and even the three hundred mile per
+
+550
+00:20:33,534 --> 00:20:36,055
+hour record car was a special build.
+
+551
+00:20:36,235 --> 00:20:38,801
+Customer cars never got to repeat it.
+
+552
+00:20:39,151 --> 00:20:40,079
+Number two.
+
+553
+00:20:40,259 --> 00:20:42,641
+The real engineering story is heat,
+
+554
+00:20:42,641 --> 00:20:43,661
+not horsepower.
+
+555
+00:20:43,841 --> 00:20:46,653
+An engine that makes about fifteen hundred
+
+556
+00:20:46,653 --> 00:20:50,135
+horsepower while generating more than three thousand
+
+557
+00:20:50,135 --> 00:20:51,407
+horsepower of heat,
+
+558
+00:20:51,407 --> 00:20:53,014
+cooled by ten radiators,
+
+559
+00:20:53,014 --> 00:20:55,893
+eight hundred liters of coolant per minute,
+
+560
+00:20:55,893 --> 00:20:58,303
+and sixty thousand liters of air per
+
+561
+00:20:58,303 --> 00:20:58,772
+minute.
+
+562
+00:20:59,122 --> 00:21:01,850
+Those two facts explain the whole car.
+
+563
+00:21:02,030 --> 00:21:04,223
+Bugatti did not build a car that
+
+564
+00:21:04,223 --> 00:21:05,594
+was simply powerful.
+
+565
+00:21:05,774 --> 00:21:07,845
+It built a car that could control
+
+566
+00:21:07,845 --> 00:21:09,476
+that power and survive it,
+
+567
+00:21:09,476 --> 00:21:11,359
+and then it chose to limit it.
+
+568
+00:21:11,539 --> 00:21:14,232
+That is why the Chiron feels different
+
+569
+00:21:14,232 --> 00:21:16,359
+from a dragster or a tuner car
+
+570
+00:21:16,359 --> 00:21:17,564
+with big numbers.
+
+571
+00:21:17,915 --> 00:21:20,376
+Tomorrow we look at the Chiron from
+
+572
+00:21:20,376 --> 00:21:21,641
+three more angles.
+
+573
+00:21:21,821 --> 00:21:24,519
+How it really compares with its fiercest
+
+574
+00:21:24,519 --> 00:21:26,407
+rival, the Koenigsegg Jesko.
+
+575
+00:21:26,587 --> 00:21:28,735
+What it really costs to own one.
+
+576
+00:21:28,915 --> 00:21:30,842
+And the full story behind the car.
+
+577
+00:21:31,022 --> 00:21:32,478
+If you liked this one,
+
+578
+00:21:32,478 --> 00:21:33,867
+the others go deeper.
+
+579
+00:21:34,217 --> 00:21:36,819
+Tell us in the comments which secret
+
+580
+00:21:36,819 --> 00:21:38,193
+surprised you more,
+
+581
+00:21:38,193 --> 00:21:39,638
+the key or the heat.
+
+582
+00:21:39,818 --> 00:21:42,120
+And if you are shopping for something
+
+583
+00:21:42,120 --> 00:21:44,546
+a little more practical than a Bugatti,
+
+584
+00:21:44,546 --> 00:21:47,408
+our twenty twenty-seven Truck Buyer's Guide is
+
+585
+00:21:47,408 --> 00:21:49,025
+linked in the description.
+
+586
+00:21:49,205 --> 00:21:52,852
+Subscribe to Pickup Reality for more stories
+
+587
+00:21:52,852 --> 00:21:56,084
+about the cars and trucks people really
+
+588
+00:21:56,084 --> 00:21:56,995
+talk about.
