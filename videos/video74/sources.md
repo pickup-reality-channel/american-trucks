@@ -1,0 +1,17 @@
+- The Drive, 2023 Chevy Corvette Z06: 670 hp from a naturally aspirated flat-plane V8 (Oct 2021): https://www.thedrive.com/news/42882/2023-chevy-corvette-z06-670-hp-from-a-naturally-aspirated-flat-plane-v8
+- The Drive, 2023 Porsche 911 GT3 RS specs, debut and price (Aug 2022): https://www.thedrive.com/news/2023-porsche-911-gt3rs-specs-debut-reveal-price.md
+- Hagerty, 2023 Corvette Z06 arrives with world's most powerful naturally aspirated V-8: https://www.hagerty.com/media/?p=179871
+- Autoblog, 2023 Chevy Corvette Z06: the 9 coolest things: https://www.autoblog.com/2022/02/18/2023-chevy-corvette-z06-coolest-9-things/
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- AP via WFYI, Corvette goes mid-engine for first time (July 2019): https://www.wfyi.org/news/articles/corvette-goes-mid-engine-for-first-time-to-raise-performance
+- Motor Authority, The 2023 Corvette Z06 exists because of Zora Arkus-Duntov: https://www.motorauthority.com/news/1136291_the-2023-chevrolet-corvette-z06-exists-because-of-zora-arkus-duntov
+- Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/
+- Auto123, Corvette Z06 and ZR1 recall (Aug 2025): https://www.auto123.com/en/news/chevrolet-corvette-recall-z06-zr1/73126
+- Motor1, 2023 Porsche 911 GT3 RS laps the Nürburgring in 6:49.328: https://www.motor1.com/news/616069/porsche-911-gt3-rs-nurburgring-lap-record/
+- Top Gear, Corvette ZR1X fastest American car around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring
+- CarScoops, This Porsche 911 GT3 RS sold for $40k profit after 1.4k miles (May 2025): https://www.carscoops.com/2025/05/this-porsche-911-gt3-rs-was-sold-for-40k-profit-after-1-4k-miles/
+- CarScoops, Corvette Z06 prices crashing on the used market (Aug 2025): https://www.carscoops.com/2025/08/corvette-z06-prices-crashing-used-market-losses/
+- CarScoops, Corvette Z06 flippers learn what happens when the hype fades (Oct 2025): https://www.carscoops.com/2025/10/corvette-z06-flippers-are-learning-the-hard-way-what-happens-when-the-hype-fades/
+- Motorious, Over 1,700 Corvette Z06s sit unsold (Aug 2025): https://www.motorious.com/articles/news/dealers-offer-deep-discounts-as-over-1-700-chevrolet-corvette-z06s-sit-unsold
+- CLASSIC.COM, Porsche 992.1 GT3 RS market benchmark: https://www.classic.com/m/porsche/911/992/9921/gt3-rs/standard/

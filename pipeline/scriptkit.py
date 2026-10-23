@@ -29,5 +29,5 @@ def save(vid, title, sources, angle):
     words = sum(len(s["text"].split()) for s in S)
     mins = round(words * SCALE / 212, 1)
     print(vid, len(S), "scenes", words, "words", mins, "min")
-    if mins < 19.8:  # renders run ~6% longer than this estimate (video60: 21.0 est, 22.3 real)
+    if mins < 20.2:  # real renders run 1-6% longer (video60: 21.0 est, 22.3 real; video61: 21.7 est, 21.9 real)
         raise SystemExit(f"{vid}: too short ({mins} min), every phase-2 video must run over 20 minutes")

@@ -1,0 +1,349 @@
+{
+ "id": "video74",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Why the Corvette Z06 Beats the 911 GT3 RS (And Where It Loses)",
+ "scenes": [
+  {
+   "text": "The Chevrolet Corvette Z06 has more power than a Porsche nine eleven G T three R S. It gets to sixty miles per hour faster. It costs about half as much. So why is the Porsche more than twenty seconds faster around the N\u00fcrburgring, and why do used ones sell for more than they cost new, while used Z06s sell for less? That is what we are going to explain.",
+   "query": "Chevrolet Corvette Z06",
+   "caption": "Z06 vs 911 GT3 RS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "These two cars are the most famous track-focused sports cars from America and Germany. Both use naturally aspirated engines that rev past eight thousand r p m. Both put their engines behind the driver, but in very different places. And both were built with racing in mind.",
+   "query": "Porsche 911 GT3 RS",
+   "caption": "AMERICA vs GERMANY",
+   "cuts": 8
+  },
+  {
+   "text": "But they win in completely different ways. The Corvette wins on power, acceleration, price, and practicality. The Porsche wins on downforce, weight, lap times, and value over time. By the end of this video, you will know exactly where each one beats the other, and the one number that explains it all.",
+   "query": "Porsche 911 GT3 RS and Corvette Z06",
+   "caption": "WHERE EACH ONE WINS",
+   "cuts": 5
+  },
+  {
+   "text": "Every number in this video comes from a published source, listed in the description. And where a comparison is not perfectly equal, we will tell you.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 3
+  },
+  {
+   "text": "The Corvette Z06 was unveiled on the twenty-sixth of October twenty twenty-one, according to Wikipedia. It uses the L T six, a five point five liter V8 with a flat-plane crankshaft. The Drive reported six hundred seventy horsepower at eight thousand four hundred r p m, and a redline of eight thousand six hundred.",
+   "query": "Corvette Z06 LT6 engine",
+   "caption": "Z06: 670 HP V8",
+   "cuts": 3,
+   "chapter": "Meet the two cars"
+  },
+  {
+   "text": "Hagerty described it as the most powerful naturally aspirated production V8 ever. Autoblog said its block, heads, valvetrain, and fuel system are shared with the Corvette C eight dot R race car, and that every engine is assembled by a single technician in Bowling Green, Kentucky.",
+   "query": "Corvette C8.R",
+   "caption": "A RACE-DERIVED ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "The Porsche nine eleven G T three R S of the nine ninety-two generation was revealed on the seventeenth of August twenty twenty-two, The Drive reported. It uses a four liter naturally aspirated flat-six engine, making five hundred eighteen horsepower, with a redline of nine thousand r p m.",
+   "query": "Porsche 911 GT3 RS 992",
+   "caption": "GT3 RS: 518 HP FLAT-SIX",
+   "cuts": 3
+  },
+  {
+   "text": "R S stands for Rennsport, German for racing sport. Porsche has used it on its most extreme nine elevens since the nineteen seventies. And the G T three R S is essentially a road-legal version of the thinking behind Porsche's G T three race cars.",
+   "query": "Porsche 911 Carrera RS 2.7",
+   "caption": "RS = RENNSPORT",
+   "cuts": 3
+  },
+  {
+   "text": "So on paper, the Corvette has about one hundred fifty-two more horsepower. That is a big gap, almost thirty percent more power. If horsepower decided everything, this video would already be over. It does not.",
+   "query": "Corvette Z06 vs Porsche GT3 RS",
+   "caption": "+152 HP FOR THE CORVETTE",
+   "cuts": 3
+  },
+  {
+   "text": "Both names also come from racing. Hagerty reported that the very first Corvette Z06, in nineteen sixty-three, was a racing package created by Zora Arkus-Duntov, and that only one hundred ninety-nine were built that first year. Motor Authority said the first cars went straight to race teams. So the Z06 name is about sixty years old, older than the G T three name by decades.",
+   "query": "1963 Corvette Z06",
+   "caption": "THE Z06 NAME: 1963",
+   "cuts": 3
+  },
+  {
+   "text": "And the two brands have met many times on the track. Corvette Racing and Porsche were long-time rivals in the G T classes at Le Mans. Racer reported that in June twenty twenty-three, the number thirty-three Corvette C eight dot R won the G T E Am class at Le Mans, Corvette's ninth class win, in the final G T E race at the circuit. These road cars carry that rivalry onto the street.",
+   "query": "Corvette C8.R Le Mans 2023",
+   "caption": "RIVALS AT LE MANS",
+   "cuts": 3
+  },
+  {
+   "text": "Round one, straight-line acceleration. The Drive reported that Chevrolet claims zero to sixty miles per hour in two point six seconds for the Z06. For the G T three R S, The Drive listed three point zero seconds. Four tenths of a second is a big gap in this class.",
+   "query": "Corvette Z06 launch",
+   "caption": "0-60: 2.6 s vs 3.0 s",
+   "cuts": 3,
+   "chapter": "Where the Z06 wins: acceleration"
+  },
+  {
+   "text": "Part of the reason is power. The other part is layout. The Corvette's engine sits in the middle of the car, ahead of the rear axle. The Porsche's engine sits behind the rear axle. Both layouts put weight over the driven rear wheels, which helps traction off the line, and both cars use quick dual-clutch gearboxes, eight speeds in the Corvette and seven in the Porsche.",
+   "query": "Porsche 911 GT3 RS engine bay",
+   "caption": "MID-ENGINE vs REAR-ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "So if you line them up at a drag strip, the Corvette should get to sixty first. The Z06 wins round one. But a race track is not a drag strip, and that is where the story changes.",
+   "query": "drag strip",
+   "caption": "ROUND 1: Z06",
+   "cuts": 3
+  },
+  {
+   "text": "Gearing matters too. Hagerty reported that the Z06 uses only an eight-speed dual-clutch gearbox, with a shorter final drive than the regular Stingray with the Z fifty-one package. The Drive said the G T three R S uses a seven-speed P D K gearbox with shorter, track-focused ratios. Neither car offers a manual. Both are built to shift faster than any human could.",
+   "query": "Porsche PDK gear selector",
+   "caption": "NO MANUAL IN EITHER",
+   "cuts": 3
+  },
+  {
+   "text": "Round two, price. GM Authority reported a twenty twenty-six Z06 coupe price of about one hundred nineteen thousand seven hundred dollars, including destination. The Drive reported that the twenty twenty-three G T three R S started at about two hundred twenty-five thousand dollars, including fees.",
+   "query": "Corvette Z06 window sticker",
+   "caption": "$119,695 vs $225,250",
+   "cuts": 3,
+   "chapter": "Where the Z06 wins: price"
+  },
+  {
+   "text": "To be fair, those are different model years. Prices usually rise over time, so the gap today is likely even larger. Either way, the Porsche costs close to twice as much as the Corvette before options.",
+   "query": "Porsche dealership",
+   "caption": "ALMOST DOUBLE",
+   "cuts": 3
+  },
+  {
+   "text": "And options can make the Porsche far more expensive. CarScoops reported on a twenty twenty-four G T three R S with an original sticker of about three hundred nine thousand dollars, including about ninety thousand dollars in options. The Weissach package alone, with a carbon fiber roof and other lightweight parts, cost about thirty-three thousand five hundred dollars.",
+   "query": "Porsche 911 GT3 RS Weissach",
+   "caption": "WEISSACH: ~$33,500",
+   "cuts": 3
+  },
+  {
+   "text": "The Corvette's options are cheaper. Even a highly equipped Z06 convertible with the Z zero seven package had a sticker of about one hundred seventy thousand dollars, CarScoops reported. That is still far below a well-optioned G T three R S. Round two goes to the Z06, and it is not close.",
+   "query": "Corvette Z06 convertible Z07",
+   "caption": "ROUND 2: Z06",
+   "cuts": 3
+  },
+  {
+   "text": "Round three, daily life. This is a surprising win for the Corvette. The Associated Press reported that the C eight Corvette has a front trunk that fits an airline-size carry-on, and a rear space that fits two sets of golf clubs. The Z06 is built on the same basic body.",
+   "query": "Corvette C8 frunk",
+   "caption": "FRUNK + REAR TRUNK",
+   "cuts": 3,
+   "chapter": "Where the Z06 wins: daily life"
+  },
+  {
+   "text": "The G T three R S gave up its front trunk. The Drive reported that Porsche replaced the three separate radiators of the regular nine eleven with a single, large, angled radiator in the nose, where the luggage space used to be. Hot air exits through vents in the hood and fins on the roof. It is brilliant for cooling and aerodynamics, but terrible for luggage.",
+   "query": "Porsche GT3 RS hood vents",
+   "caption": "NO FRUNK IN THE GT3 RS",
+   "cuts": 3
+  },
+  {
+   "text": "The Z06 also offers something the G T three R S does not, a convertible. The Drive reported that the Z06 comes as a coupe and a convertible, with the same suspension tuning. If you want an eight thousand six hundred r p m engine with the roof open, the Corvette is the one that offers it.",
+   "query": "Corvette Z06 convertible top down",
+   "caption": "Z06 CONVERTIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "And the Corvette was designed as a road car first, with track ability added. Even its air conditioning, Autoblog reported, is rated to cool the cabin in one hundred degree heat. Round three, daily life, goes to the Z06.",
+   "query": "Corvette Z06 interior",
+   "caption": "ROUND 3: Z06",
+   "cuts": 3
+  },
+  {
+   "text": "Now the Porsche fights back. Round four, downforce. This is the single biggest difference between these two cars. Downforce is the force that the air pushes down onto the car at speed. More downforce means more grip in fast corners, and more confidence under braking.",
+   "query": "Porsche 911 GT3 RS rear wing",
+   "caption": "WHAT IS DOWNFORCE?",
+   "cuts": 3,
+   "chapter": "Where the Porsche wins: downforce"
+  },
+  {
+   "text": "The Drive reported that Porsche claims the G T three R S produces over nine hundred pounds of downforce at about one hundred twenty-four miles per hour, and about one thousand eight hundred ninety-five pounds at one hundred seventy-seven miles per hour.",
+   "query": "Porsche GT3 RS aero",
+   "caption": "1,895 LB AT 177 MPH",
+   "cuts": 3
+  },
+  {
+   "text": "Hagerty reported that the Z06 with the Z zero seven package produces seven hundred thirty-four pounds of downforce at one hundred eighty-six miles per hour. The standard Z06 makes three hundred sixty-five. So at a lower speed, the Porsche makes more than two and a half times the downforce of the best-equipped Z06.",
+   "query": "Corvette Z06 Z07 wing",
+   "caption": "734 LB AT 186 MPH",
+   "cuts": 3
+  },
+  {
+   "text": "How does the Porsche do it? The Drive said its rear wing is so tall that the top edge sits above the roofline, a first for a production Porsche. And it was the first production Porsche with a drag reduction system, or D R S. Flaps on the front and rear wings open to cut drag on straights, then close for maximum grip in corners.",
+   "query": "Porsche GT3 RS DRS wing",
+   "caption": "FIRST PORSCHE WITH DRS",
+   "cuts": 3
+  },
+  {
+   "text": "D R S is a Formula One idea. In F1, drivers open a flap on the rear wing to go faster on the straights. Porsche brought that idea to a road car you can buy at a dealer. Round four, downforce, goes to the Porsche by a wide margin.",
+   "query": "Formula One DRS",
+   "caption": "ROUND 4: GT3 RS",
+   "cuts": 3
+  },
+  {
+   "text": "Round five, weight. The Drive listed the G T three R S at three thousand two hundred sixty-eight pounds. It also reported that the lightest Z06, with the Z zero seven package, weighs three thousand four hundred thirty-four pounds. So the Porsche is about one hundred sixty-six pounds lighter.",
+   "query": "Porsche 911 GT3 RS side",
+   "caption": "3,268 LB vs 3,434 LB",
+   "cuts": 3,
+   "chapter": "Where the Porsche wins: weight"
+  },
+  {
+   "text": "Weight affects everything on a track. Braking, cornering, and how quickly the tires overheat. A lighter car needs less grip to change direction. So even though the Corvette has more power, the Porsche has less mass to carry around every corner.",
+   "query": "Porsche GT3 RS cornering",
+   "caption": "LESS MASS, MORE AGILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Here is how to think about it. Divide weight by horsepower. The Z06 Z zero seven carries about five point one pounds per horsepower. The G T three R S carries about six point three. So the Corvette has the better power-to-weight ratio on paper, which helps on the straights. But the Porsche's grip advantage is so large that it more than makes up for it in the corners. Round five, by pure weight, goes to the Porsche.",
+   "query": "Porsche GT3 RS and Corvette Z06 track",
+   "caption": "ROUND 5: GT3 RS",
+   "cuts": 3
+  },
+  {
+   "text": "Brakes are part of the weight story. The Drive reported that the Z06 uses Brembo brakes with six-piston front calipers on fourteen point six inch rotors, with optional carbon-ceramic brakes measuring fifteen point seven inches at the front. The Drive also said the G T three R S got larger six-piston brakes with slightly thicker rotors than the regular G T three. Both cars are built to stop again and again without fading.",
+   "query": "Corvette Z06 Brembo brakes",
+   "caption": "BIG BRAKES ON BOTH",
+   "cuts": 3
+  },
+  {
+   "text": "And the tires are enormous. The Drive reported that the Z06's rear tires are three hundred forty-five millimeters wide, made possible by a body three point six inches wider than the regular Stingray. Hagerty said standard tires are Michelin Pilot Sport four S, and the Z zero seven package uses even stickier Michelin Cup two R tires. The Corvette uses mechanical grip to fight the Porsche's aerodynamic grip.",
+   "query": "Corvette Z06 rear tire",
+   "caption": "345 MM REAR TIRES",
+   "cuts": 3
+  },
+  {
+   "text": "And now the one number that explains it all, the lap time at the N\u00fcrburgring Nordschleife, the twenty point eight kilometer German track that carmakers use as a benchmark. Motor1 reported that the G T three R S lapped it in six minutes forty-nine point three two eight seconds, driven by Porsche's J\u00f6rg Bergmeister.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "GT3 RS: 6:49.328",
+   "cuts": 3,
+   "chapter": "The one number"
+  },
+  {
+   "text": "Top Gear reported that the Corvette Z06 lapped the same circuit in seven minutes eleven point eight two six seconds, driven by Aaron Link, in twenty twenty-five. That is about twenty-two and a half seconds slower than the Porsche.",
+   "query": "Corvette Z06 N\u00fcrburgring",
+   "caption": "Z06: 7:11.826",
+   "cuts": 3
+  },
+  {
+   "text": "Twenty-two seconds is a huge gap at the N\u00fcrburgring. Motor1 said the G T three R S was more than ten seconds faster than the regular nine eleven G T three, which lapped in six minutes fifty-nine point nine two seven. So the Z06 was not only slower than the G T three R S, it was also slower than the regular G T three.",
+   "query": "Porsche 911 GT3",
+   "caption": "SLOWER THAN THE GT3 TOO",
+   "cuts": 3
+  },
+  {
+   "text": "And this is where everything comes together. The Nordschleife has long, fast corners, where downforce matters enormously. The Porsche's extra downforce and lower weight beat the Corvette's extra power. On the straights, the Corvette can pull. In the fast corners, the Porsche is in another world. Round six, the lap time, goes to the Porsche.",
+   "query": "N\u00fcrburgring fast corner",
+   "caption": "ROUND 6: GT3 RS",
+   "cuts": 3
+  },
+  {
+   "text": "To be fair to Chevrolet, the Corvette family does have faster cars. Top Gear reported that on the same trip, the twin-turbo Z R one lapped in six minutes fifty point seven six three, and the hybrid Z R one X in six minutes forty-nine point two seven five. The Z R one X was actually about five hundredths of a second quicker than the G T three R S. But those cars have more than one thousand horsepower.",
+   "query": "Corvette ZR1X",
+   "caption": "ZR1X: 6:49.275",
+   "cuts": 3
+  },
+  {
+   "text": "And price brings us back to value. GM Authority listed the twenty twenty-six Z R one at about one hundred eighty-two thousand dollars, including destination. That is still less than the twenty twenty-three G T three R S starting price reported by The Drive. So Chevrolet can match the Porsche's lap time, but only by adding twin turbochargers and about four hundred more horsepower than the Z06.",
+   "query": "Corvette ZR1 twin turbo",
+   "caption": "ZR1: ~$182,395",
+   "cuts": 3
+  },
+  {
+   "text": "Round seven, and this one surprises people. What happens to your money after you buy? CarScoops reported in May twenty twenty-five that a twenty twenty-four G T three R S with about one thousand four hundred miles and an original sticker of about three hundred nine thousand dollars sold on Bring a Trailer for three hundred fifty-one thousand dollars. That is about forty-two thousand dollars above its sticker price.",
+   "query": "Porsche 911 GT3 RS auction",
+   "caption": "SOLD $41,700 OVER STICKER",
+   "cuts": 3,
+   "chapter": "Where the Porsche wins: value"
+  },
+  {
+   "text": "The Corvette went the other way. CarScoops reported a Z06 coupe with an original sticker of about one hundred forty-six thousand dollars and two thousand one hundred miles that sold for one hundred eighteen thousand, and a twenty twenty-five Z06 convertible with a sticker of about one hundred seventy thousand that sold for one hundred thirty-seven thousand five hundred. Both about twenty percent below sticker.",
+   "query": "Corvette Z06 auction",
+   "caption": "Z06: ~20% BELOW STICKER",
+   "cuts": 3
+  },
+  {
+   "text": "Why? Supply. Motorious reported in August twenty twenty-five that about one thousand seven hundred Z06s were sitting at American dealers, with discounts of up to twelve thousand dollars. Porsche builds the G T three R S in far smaller numbers, and buyers often struggle to get one at sticker price. Scarcity keeps values high.",
+   "query": "Corvette dealer inventory",
+   "caption": "1,700 Z06s UNSOLD",
+   "cuts": 3
+  },
+  {
+   "text": "And the market benchmark agrees. Classic dot com listed a market benchmark of about three hundred eighty-eight thousand dollars for the nine ninety-two G T three R S in twenty twenty-six. That is far above the original starting price. Round seven, value over time, goes to the Porsche.",
+   "query": "Porsche 911 GT3 RS front",
+   "caption": "ROUND 7: GT3 RS",
+   "cuts": 3
+  },
+  {
+   "text": "But here is the twist. That also means a used Z06 can be a bargain. If the original buyer lost twenty percent, the second buyer gets a hand-built, six hundred seventy horsepower car for much less money. For someone buying used, the Corvette's weakness becomes a strength.",
+   "query": "used Corvette Z06",
+   "caption": "THE USED BARGAIN",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more cost to consider, reliability and recalls. In August twenty twenty-five, Auto123 reported a recall of about twenty-five thousand Corvettes, including twenty twenty-three to twenty twenty-five Z06 models, because fuel could spill onto the left radiator during refueling and create a fire risk. Sales were suspended while GM worked on a fix. News like that can also weigh on used prices.",
+   "query": "Corvette Z06 fuel door",
+   "caption": "THE 2025 RECALL",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the two cars show their different priorities. The Drive reported that the G T three R S steering wheel has a D R S button plus four rotary dials to adjust things like suspension and traction, compared with one dial on the normal G T three. It is a cockpit built for adjusting the car lap after lap.",
+   "query": "Porsche GT3 RS steering wheel",
+   "caption": "4 DIALS ON THE WHEEL",
+   "cuts": 3,
+   "chapter": "How they feel"
+  },
+  {
+   "text": "The Corvette uses its distinctive cockpit layout with a long row of controls on the center console, and a driver-focused design. Autoblog said its exhaust can be tuned through presets called Tour, Sport, and Track. The Z06 is designed to be comfortable on a road trip, then loud and sharp on a track day.",
+   "query": "Corvette C8 interior",
+   "caption": "TOUR, SPORT, TRACK",
+   "cuts": 3
+  },
+  {
+   "text": "And they sound different. The Corvette's flat-plane V8 screams to eight thousand six hundred r p m. The Porsche's flat-six howls to nine thousand. Both are among the last high-revving, naturally aspirated engines in the world, at a time when most rivals have switched to turbochargers or electric motors.",
+   "query": "Porsche flat six engine",
+   "caption": "8,600 vs 9,000 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed is another difference. The Drive reported that the G T three R S reaches about one hundred eighty-four miles per hour, in seventh gear. All that downforce comes with drag, which limits top speed. That is the price of grip. The Porsche gives up some speed on the straights to gain huge speed in the corners.",
+   "query": "Porsche GT3 RS high speed",
+   "caption": "184 MPH: THE PRICE OF GRIP",
+   "cuts": 3
+  },
+  {
+   "text": "Both engines are also becoming rare in a wider sense. Many of today's fastest cars use turbochargers, hybrid systems, or both, including the Corvette Z R one X. The Z06 and the G T three R S are two of the few that still rely only on displacement, revs, and clever engineering. Whichever one you prefer, you are buying the end of an era.",
+   "query": "Corvette Z06 and Porsche 911 GT3 RS parked",
+   "caption": "THE END OF AN ERA",
+   "cuts": 3
+  },
+  {
+   "text": "So let's count the rounds. The Corvette Z06 wins acceleration, price, and daily life. The Porsche nine eleven G T three R S wins downforce, weight, the lap time, and value over time. Four rounds to three, for the Porsche.",
+   "query": "Corvette Z06 and Porsche GT3 RS",
+   "caption": "GT3 RS WINS 4-3",
+   "cuts": 3,
+   "chapter": "The verdict"
+  },
+  {
+   "text": "But the real answer depends on what you want. If you want the fastest car around a race track, and a car that may hold its value, the G T three R S is the better tool, if you can afford it and can get one. If you want huge power, a convertible option, and space for luggage, at about half the price, the Z06 is the better deal.",
+   "query": "Porsche GT3 RS on track",
+   "caption": "WHAT DO YOU WANT?",
+   "cuts": 3
+  },
+  {
+   "text": "And here is the final twist. The difference nobody explains is not power. It is air. The Porsche was designed around downforce, and the Corvette was designed around its engine. That single choice explains the lap time, the price, the trunk, and even the resale value.",
+   "query": "Porsche GT3 RS wing and Corvette Z06",
+   "caption": "IT'S NOT POWER. IT'S AIR",
+   "cuts": 3
+  },
+  {
+   "text": "Which one would you pick? Tell us in the comments. In the other videos of this series, we reveal two things you didn't know about the Z06, we work out what it really costs to own one, and we tell the insane story behind the mid-engine Corvette.",
+   "query": "Corvette Z06 Torch Red",
+   "caption": "WHICH WOULD YOU PICK?",
+   "cuts": 3
+  },
+  {
+   "text": "If you are looking for something with a bed instead of a wing, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Corvette Z06 sunset",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

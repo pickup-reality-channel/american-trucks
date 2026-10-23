@@ -1,0 +1,367 @@
+{
+ "id": "video76",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind the Mid-Engine Corvette",
+ "scenes": [
+  {
+   "text": "For sixty-six years, every Chevrolet Corvette had its engine in the front. Then, in July twenty nineteen, Chevrolet moved it behind the driver. It looked like a sudden revolution. It was not. The mid-engine Corvette was a dream that started in the nineteen fifties, survived secret prototypes, a rotary engine, an oil crisis, and the death of the man who wanted it most.",
+   "query": "Chevrolet Corvette C8 Stingray",
+   "caption": "THE INSANE STORY OF THE MID-ENGINE CORVETTE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "That man was Zora Arkus-Duntov, the engineer often called the father of the Corvette. He spent decades pushing for a mid-engine car, and he was told no again and again. When he reviewed a new front-engined Corvette in the nineteen nineties, he reportedly summed up his frustration in one short sentence. The engine is still in the front.",
+   "query": "Zora Arkus-Duntov",
+   "caption": "THE ENGINE IS STILL IN THE FRONT",
+   "cuts": 8
+  },
+  {
+   "text": "And here is the first twist. The father of America's sports car won his class at Le Mans twice driving a German car. A Porsche. That detail tells you a lot about where his ideas came from.",
+   "query": "Porsche 550 Spyder Le Mans",
+   "caption": "HE WON LE MANS IN A PORSCHE",
+   "cuts": 5
+  },
+  {
+   "text": "This is the story of how the Corvette finally got its engine behind the seats. Every date and number comes from a published source, listed in the description.",
+   "query": "Corvette prototypes",
+   "caption": "EVERY DATE IS SOURCED",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says Zachar Arkus was born in Brussels, Belgium, on Christmas Day, nineteen oh nine. He became an engineer and a racing driver. Driven, a New Zealand outlet, notes he also set a record at Pikes Peak, the famous hill climb in Colorado.",
+   "query": "Brussels Belgium 1900s",
+   "caption": "BORN IN BRUSSELS, 1909",
+   "cuts": 3,
+   "chapter": "The man behind the dream"
+  },
+  {
+   "text": "He raced at Le Mans four times, from nineteen fifty-two to nineteen fifty-five, according to Wikipedia. And in nineteen fifty-four and nineteen fifty-five, he won his class driving Porsche five fifty R S Spyders, small mid-engined race cars. So he knew first-hand how a car with its engine behind the driver behaves on a track.",
+   "query": "Porsche 550 RS Spyder",
+   "caption": "CLASS WINS: 1954 AND 1955",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says he joined Chevrolet on the first of May nineteen fifty-three, after seeing the Corvette concept at a show in New York. He was not the Corvette's creator. That credit goes to Harley Earl, GM's design chief. But Duntov became the engineer who turned it into a real sports car.",
+   "query": "1953 Chevrolet Corvette",
+   "caption": "JOINED CHEVROLET IN 1953",
+   "cuts": 3
+  },
+  {
+   "text": "And he did not wait long to make his views known. Wikipedia says that in December nineteen fifty-three, just months after joining, he wrote a memo called Thoughts Pertaining to Youth, Hot Rodders and Chevrolet. In it, he laid out his plans to use Chevrolet's V8 to win over performance fans. It was the start of the Corvette as a performance car.",
+   "query": "1950s hot rod",
+   "caption": "THE 1953 MEMO",
+   "cuts": 3
+  },
+  {
+   "text": "Remember, the first Corvette of nineteen fifty-three used a six-cylinder engine, not a V8. It looked like a sports car, but it was not very fast. Duntov's job was to give it the performance to match its looks. And from the start, he believed the engine should eventually move behind the driver.",
+   "query": "1953 Corvette Blue Flame six",
+   "caption": "THE FIRST CORVETTE HAD A SIX",
+   "cuts": 3
+  },
+  {
+   "text": "Driven reported that he became director of high-performance vehicles in nineteen fifty-four, introduced V8 power to the Corvette in nineteen fifty-five, and fuel injection in nineteen fifty-seven. And from the late nineteen fifties, he watched top-level racing move toward mid-engined cars. He wanted the Corvette to follow.",
+   "query": "1957 Corvette fuel injection",
+   "caption": "V8 IN 1955, FUEL INJECTION IN 1957",
+   "cuts": 3
+  },
+  {
+   "text": "But there was a problem. Hagerty explained that in early nineteen fifty-seven, American carmakers agreed to stop direct racing involvement, after the nineteen fifty-five Le Mans disaster, which killed more than eighty spectators. GM's top executives kept a ban on hotter track models.",
+   "query": "1955 Le Mans",
+   "caption": "1957: THE RACING BAN",
+   "cuts": 3,
+   "chapter": "The racing ban"
+  },
+  {
+   "text": "Duntov did not give up. Motor Authority reported that he worked around the ban with experimental cars, and by quietly giving performance parts to race teams. In nineteen sixty-three, he created the Z06 option package, which Hagerty said was code-named Zora's Option six and listed as a normal production option to avoid alarming management.",
+   "query": "1963 Corvette Z06",
+   "caption": "ZORA'S OPTION 6",
+   "cuts": 3
+  },
+  {
+   "text": "Only one hundred ninety-nine Z06s were built that first year, Motor Authority said, and the first ones went straight to race teams. Duntov was clearly willing to bend the rules to make the Corvette faster. And his biggest idea was still waiting, moving the engine.",
+   "query": "1963 Corvette Sting Ray racing",
+   "caption": "199 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "Why did he care so much about the engine's position? It comes down to physics. With the engine in the front, most of the weight sits over the front wheels, away from the rear wheels that drive the car. With the engine in the middle, the weight sits closer to the center, and more of it presses on the driven rear wheels. That helps traction, braking balance, and how quickly the car can change direction.",
+   "query": "mid engine layout diagram",
+   "caption": "WHY MID-ENGINE?",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty, Duntov built the C E R V one, the Chevrolet Engineering Research Vehicle. Driven described it as a single-seat, Indy-style open-wheeler with the engine behind the driver. It was not a road car. It was a rolling laboratory.",
+   "query": "Chevrolet CERV I",
+   "caption": "1960: CERV I",
+   "cuts": 3,
+   "chapter": "The research cars"
+  },
+  {
+   "text": "And it had a real impact. CorvSport reported that the C E R V one tested the independent rear suspension that later appeared on the famous nineteen sixty-three Split-Window Corvette. So even a mid-engined research car made the front-engined Corvette better.",
+   "query": "1963 Corvette split window",
+   "caption": "IT IMPROVED THE 1963 CORVETTE",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the C E R V two, in nineteen sixty-four. Driven said it was a mid-engined, all-wheel-drive sports car that would have worn a Corvette badge, built to compete with the Ford G T forty in endurance racing. Duntov hoped private teams could race it, since factory racing was banned.",
+   "query": "Chevrolet CERV II",
+   "caption": "1964: CERV II vs FORD GT40",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. Ford went to Le Mans with the G T forty and beat Ferrari. Chevrolet's mid-engined answer, the C E R V two, never raced as planned. Driven put it simply. It didn't happen. While Ford made history with a mid-engined car, Chevrolet's stayed in the workshop.",
+   "query": "Ford GT40 Le Mans",
+   "caption": "IT DIDN'T HAPPEN",
+   "cuts": 3
+  },
+  {
+   "text": "And Ford's success made the point painfully clear. In nineteen sixty-six, Ford's mid-engined G T forty finished first, second, and third at Le Mans, ending Ferrari's run of victories there. The car that Chevrolet's C E R V two was meant to fight became one of the most famous race cars in history. The mid-engine layout was now the proven formula.",
+   "query": "Ford GT40 1966 Le Mans finish",
+   "caption": "1966: FORD 1-2-3 AT LE MANS",
+   "cuts": 3
+  },
+  {
+   "text": "The prototypes kept coming. CorvSport described the X P eight nineteen, a rear-engined prototype inspired by the Chevrolet Corvair, with a body designed by Larry Shinoda. It had too much weight at the back, and CorvSport called it a failure.",
+   "query": "Chevrolet XP-819",
+   "caption": "XP-819: TOO MUCH WEIGHT AT THE BACK",
+   "cuts": 3,
+   "chapter": "The prototypes"
+  },
+  {
+   "text": "Then came the Astro two, a race-inspired mid-engine prototype with a big V8 mounted across the car. And in nineteen sixty-nine, CorvSport said, engineers built two X P eight eighty-two prototypes, with a three hundred fifty cubic inch small-block V8 mounted transversely behind the seats.",
+   "query": "Chevrolet Astro II",
+   "caption": "1969: XP-882",
+   "cuts": 3
+  },
+  {
+   "text": "And then the story turned strange. John DeLorean, Chevrolet's general manager at the time, cancelled the X P eight eighty-two, calling it too impractical and costly, CorvSport reported. Then he learned that Ford planned to sell the De Tomaso Pantera, an Italian mid-engined sports car, through its Lincoln-Mercury dealers.",
+   "query": "De Tomaso Pantera",
+   "caption": "FORD'S PANTERA",
+   "cuts": 3
+  },
+  {
+   "text": "Suddenly, DeLorean changed his mind. CorvSport said he reversed the cancellation and ordered the X P eight eighty-two prepared for the nineteen seventy New York Auto Show. A rival's announcement had brought the mid-engine Corvette back from the dead.",
+   "query": "Chevrolet XP-882 auto show",
+   "caption": "BACK FROM THE DEAD",
+   "cuts": 3
+  },
+  {
+   "text": "CorvSport said Ford planned to offer the Pantera in America from late nineteen seventy-one. The idea of an Italian mid-engined car in Ford showrooms, while Chevrolet had nothing like it, was apparently too much for GM. Competition, not engineering, decided the fate of the prototype.",
+   "query": "De Tomaso Pantera 1971",
+   "caption": "COMPETITION DECIDED IT",
+   "cuts": 3
+  },
+  {
+   "text": "Then came one of the wildest ideas in Corvette history. In nineteen seventy-two, the X P eight ninety-five was built on the X P eight eighty-two chassis with an aluminum alloy body. CorvSport said it was nicknamed the Reynolds Aluminum Car, and Driven said it was authorized by John DeLorean.",
+   "query": "Chevrolet XP-895",
+   "caption": "1972: THE ALUMINUM CAR",
+   "cuts": 3,
+   "chapter": "The rotary Corvette"
+  },
+  {
+   "text": "And GM considered rotary power. CorvSport reported that early plans included a four hundred twenty horsepower four-rotor engine, made by joining two Vega two-rotor engines together. A Wankel rotary engine has no pistons in the usual sense. It uses spinning triangular rotors, and it is very compact, which made it attractive for a mid-engined car.",
+   "query": "four rotor Wankel engine",
+   "caption": "A 420 HP FOUR-ROTOR ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. The rotary program was scrapped during the energy crisis of the early nineteen seventies, CorvSport said. Rotary engines were known for poor fuel economy. In a world of fuel shortages, a thirsty four-rotor engine was the wrong idea at the wrong time.",
+   "query": "1973 oil crisis gas line",
+   "caption": "KILLED BY THE OIL CRISIS",
+   "cuts": 3
+  },
+  {
+   "text": "And DeLorean himself left Chevrolet in nineteen seventy-three, CorvSport said, to start his own company. His own car, the DMC twelve, would later become famous with its stainless steel body and gullwing doors. One of the mid-engine Corvette's biggest supporters was gone.",
+   "query": "DeLorean DMC-12",
+   "caption": "DELOREAN LEAVES",
+   "cuts": 3
+  },
+  {
+   "text": "The car did not die. CorvSport said that by nineteen seventy-six it had a four hundred cubic inch Chevrolet V8 and double-folding gullwing doors, and the name Aerovette was later applied to all its versions. And this time, it came very close to production.",
+   "query": "Chevrolet Aerovette",
+   "caption": "THE AEROVETTE",
+   "cuts": 3,
+   "chapter": "So close: the Aerovette"
+  },
+  {
+   "text": "CorvSport reported that the Aerovette was approved for production starting in nineteen eighty, with a three hundred fifty V8 and an expected price of fifteen thousand to eighteen thousand dollars. A mid-engine Corvette was finally on the plan.",
+   "query": "Chevrolet Aerovette gullwing",
+   "caption": "APPROVED FOR 1980",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine what that would have meant. A mid-engined American sports car with gullwing doors, in showrooms at the start of the nineteen eighties, at a price many middle-class buyers could stretch to. It would have arrived years before most people had ever seen a mid-engined car on an American street.",
+   "query": "Chevrolet Aerovette rear",
+   "caption": "WHAT MIGHT HAVE BEEN",
+   "cuts": 3
+  },
+  {
+   "text": "Then the twist. By then, its supporters had left. CorvSport said Duntov, design chief Bill Mitchell, and GM president Ed Cole had all retired. Wikipedia says Duntov retired in nineteen seventy-five, and Dave McLellan became the Corvette's chief engineer.",
+   "query": "Bill Mitchell GM design",
+   "caption": "THE SUPPORTERS RETIRE",
+   "cuts": 3
+  },
+  {
+   "text": "McLellan cancelled it. CorvSport said he argued that a front-engined car would be cheaper to build and more powerful, and he pointed to weak American sales of imported mid- and rear-engined cars, compared with front-engined cars like the Datsun two forty Z. The Aerovette was dead, and the Corvette stayed front-engined for four more generations.",
+   "query": "Datsun 240Z",
+   "caption": "CANCELLED",
+   "cuts": 3
+  },
+  {
+   "text": "Here is how close it came, and how cheap it would have been. Fifteen to eighteen thousand dollars in nineteen eighty money. Today, a Corvette Z R one costs about one hundred eighty-two thousand dollars, GM Authority reported. The mid-engine Corvette eventually arrived, but in a very different price world.",
+   "query": "Chevrolet Aerovette show",
+   "caption": "$15,000-$18,000 IN 1980",
+   "cuts": 3
+  },
+  {
+   "text": "The dream returned once more in nineteen ninety. The C E R V three, Driven said, paid homage to Duntov's earlier concepts. It looked production-ready, with all-wheel drive, four-wheel steering, and active suspension. But, as Driven put it, it still wasn't the right time.",
+   "query": "Chevrolet CERV III",
+   "caption": "1990: CERV III",
+   "cuts": 3,
+   "chapter": "The long wait"
+  },
+  {
+   "text": "Why did it fail again? The reasons were never simple. A mid-engine car is more expensive to engineer and build. It needs a new chassis, new cooling, and a new gearbox. And for decades, the front-engined Corvette was selling well and making money. There was always a reason to wait one more generation.",
+   "query": "Corvette C4 1990",
+   "caption": "ALWAYS ONE MORE GENERATION",
+   "cuts": 3
+  },
+  {
+   "text": "Meanwhile, front-engined Corvettes kept getting better. The C four, the C five, the C six, and the C seven. Some had enormous power. Hagerty reported that the C seven Z06 of twenty fifteen had a supercharged six hundred fifty horsepower V8. But the engine was still in the front.",
+   "query": "Corvette C7 Z06",
+   "caption": "650 HP, ENGINE IN THE FRONT",
+   "cuts": 3
+  },
+  {
+   "text": "Duntov never saw his dream come true. Wikipedia says that during a review of the C five Corvette in the mid nineteen nineties, he reportedly said, the engine is still in the front. He died on the twenty-first of April nineteen ninety-six, at the age of eighty-six. His ashes are entombed at the National Corvette Museum in Bowling Green, Kentucky.",
+   "query": "National Corvette Museum",
+   "caption": "DUNTOV DIES, 1996",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. Bowling Green is also where every Corvette is built. So the man who fought for a mid-engine Corvette rests in the same city where, more than twenty years after his death, the first mid-engine Corvettes would roll off the line.",
+   "query": "Bowling Green Corvette plant",
+   "caption": "HE RESTS WHERE THEY ARE BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "On the eighteenth of July twenty nineteen, Chevrolet finally revealed the mid-engine Corvette, the C eight. The Associated Press reported that the reveal took place in a World War Two dirigible hangar in Orange County, California, and that Corvettes had used front-mounted engines for sixty-six years.",
+   "query": "Corvette C8 reveal 2019",
+   "caption": "JULY 18, 2019: THE C8",
+   "cuts": 3,
+   "chapter": "Finally: the C8"
+  },
+  {
+   "text": "Chief engineer Tadge Juechter told the Associated Press why. We were reaching the performance limitations of a front-engine car, he said. And people spending a lot of money want it to be the best performer all around. The same argument Duntov had made sixty years earlier.",
+   "query": "Corvette C8 Stingray side",
+   "caption": "THE PERFORMANCE LIMIT",
+   "cuts": 3
+  },
+  {
+   "text": "The numbers were remarkable. The AP reported a new six point two liter V8 with four hundred ninety-five horsepower, zero to sixty in under three seconds with the performance package, and a starting price under sixty thousand dollars. A mid-engined car with supercar acceleration, for the price of a well-equipped pickup truck.",
+   "query": "Corvette C8 Stingray",
+   "caption": "UNDER $60,000",
+   "cuts": 3
+  },
+  {
+   "text": "The AP also listed some surprises. The C eight can run on four cylinders to save fuel, it has a front trunk big enough for an airline-size carry-on, and the rear storage can hold two sets of golf clubs. It was also built in right-hand drive for international markets for the first time. A mid-engine car that was still practical, exactly the kind of compromise Duntov's critics said was impossible.",
+   "query": "Corvette C8 frunk",
+   "caption": "PRACTICAL AND MID-ENGINED",
+   "cuts": 3
+  },
+  {
+   "text": "Business was part of the reason too. The AP reported that Corvette sales through June twenty nineteen were just under ten thousand cars, not huge numbers, and that GM hoped the new design would attract younger buyers who had never considered a Corvette. The mid-engine layout was a bet on the car's future, not just its performance.",
+   "query": "Corvette C8 young buyers",
+   "caption": "A BET ON THE FUTURE",
+   "cuts": 3
+  },
+  {
+   "text": "It was not perfect. The AP noted that the new car was slightly heavier and slightly less aerodynamic than the front-engined model it replaced, partly because of the large air intakes on its sides. A mid-engined car needs to feed air to an engine behind the driver, and those intakes became the C eight's signature look.",
+   "query": "Corvette C8 side air intake",
+   "caption": "HEAVIER, BUT FASTER",
+   "cuts": 3
+  },
+  {
+   "text": "And Duntov was not forgotten. Wikipedia says there were rumors that a high-performance C eight might be called Zora, and that a camouflaged prototype was spotted with stickers resembling his profile. Engineers seemed to know exactly whose dream they were finishing.",
+   "query": "Corvette C8 prototype camouflage",
+   "caption": "THE ZORA RUMORS",
+   "cuts": 3
+  },
+  {
+   "text": "But even now, the story had one more obstacle. GM Authority reported that C eight production was originally planned to start in December twenty nineteen, but was delayed by the United Auto Workers strike against General Motors, which included a walkout at the Bowling Green plant. Wikipedia says production officially began on the third of February twenty twenty.",
+   "query": "Bowling Green Assembly",
+   "caption": "DELAYED BY A STRIKE",
+   "cuts": 3,
+   "chapter": "A bumpy start"
+  },
+  {
+   "text": "And the very first production C eight was special. The Peak reported that Rick Hendrick, the NASCAR team owner and Corvette enthusiast, bought it at the Barrett-Jackson auction in Scottsdale, Arizona, for about three million dollars. The money above the car's normal price went to the Detroit Children's Fund.",
+   "query": "Barrett-Jackson auction",
+   "caption": "FIRST C8: $3 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "The car was a hit. Wikipedia says the C eight was named twenty twenty MotorTrend Car of the Year, and lists about twenty thousand three hundred C eights built for twenty twenty, despite the strike and the pandemic. For the twenty twenty-three model year, production rose to about fifty-three thousand eight hundred.",
+   "query": "Corvette C8 MotorTrend",
+   "caption": "2020 CAR OF THE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Production stayed strong. Wikipedia lists about twenty-six thousand two hundred C eights for twenty twenty-one, about twenty-five thousand eight hundred for twenty twenty-two, the peak of about fifty-three thousand eight hundred for twenty twenty-three, and about forty-two thousand nine hundred for twenty twenty-four. With about twenty-five thousand eight hundred more for twenty twenty-five, that adds up to almost one hundred ninety-five thousand mid-engine Corvettes in six model years, by our own arithmetic. Duntov's impossible car had become a mass-production reality.",
+   "query": "Corvette C8 assembly line",
+   "caption": "~195,000 MID-ENGINE CORVETTES",
+   "cuts": 3
+  },
+  {
+   "text": "Then the mid-engine layout made new Corvettes possible. The Z06, unveiled on the twenty-sixth of October twenty twenty-one, with its five point five liter flat-plane crank V8 making six hundred seventy horsepower. The E Ray, unveiled in January twenty twenty-three, the first hybrid, all-wheel-drive Corvette, with six hundred fifty-five horsepower, according to Wikipedia.",
+   "query": "Corvette E-Ray",
+   "caption": "Z06 AND E-RAY",
+   "cuts": 3,
+   "chapter": "The family Duntov never saw"
+  },
+  {
+   "text": "Then the Z R one, revealed in July twenty twenty-four with a twin-turbo V8 making one thousand sixty-four horsepower, and the hybrid Z R one X with one thousand two hundred fifty, Wikipedia said. Top Gear reported that the Z R one X lapped the N\u00fcrburgring in six minutes forty-nine point two seven five seconds in twenty twenty-five, at the time the fastest lap ever by an American car.",
+   "query": "Corvette ZR1X",
+   "caption": "1,250 HP ZR1X",
+   "cuts": 3
+  },
+  {
+   "text": "Think about that. The C E R V two of nineteen sixty-four was a mid-engined, all-wheel-drive Corvette concept built to fight the best in the world. Sixty years later, the Z R one X is a mid-engined, all-wheel-drive Corvette that set an American record at the N\u00fcrburgring. Duntov's idea was right. It just needed half a century.",
+   "query": "Chevrolet CERV II and ZR1X",
+   "caption": "DUNTOV WAS RIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "And the competition did not stop. Wikipedia says the Z R one X's American record was later beaten by the Ford Mustang G T D Competition, with a lap of about six minutes forty point eight seconds in April twenty twenty-six. Ford and Chevrolet, rivals since the days of the G T forty and the C E R V two, are still fighting over the same German racetrack.",
+   "query": "Ford Mustang GTD",
+   "caption": "FORD STRIKES BACK",
+   "cuts": 3
+  },
+  {
+   "text": "And the race car came full circle too. In June twenty twenty-three, Racer reported, the mid-engined Corvette C eight dot R won its class at Le Mans, Corvette's ninth class win there, in the final race of the G T E category. Duntov won his class at Le Mans in a mid-engined Porsche. Almost seventy years later, a mid-engined Corvette did the same.",
+   "query": "Corvette C8.R Le Mans 2023",
+   "caption": "LE MANS, FULL CIRCLE",
+   "cuts": 3
+  },
+  {
+   "text": "So here is the insane story behind the mid-engine Corvette. A Belgian-born engineer who won Le Mans in a Porsche. A racing ban. Research cars and rotary engines. A rival's Italian sports car that saved a prototype. An oil crisis, a cancelled production plan, and one short, famous complaint. And finally, sixty-six years after the first Corvette, the engine moved behind the seats.",
+   "query": "Corvette C8 and Aerovette",
+   "caption": "THE STORY IN ONE MINUTE",
+   "cuts": 3
+  },
+  {
+   "text": "Do you think Chevrolet waited too long, or was the timing finally right? Tell us in the comments. In the other videos of this series, we reveal two things you didn't know about the Corvette Z06, compare it with the Porsche nine eleven G T three R S, and work out what it really costs to own one.",
+   "query": "Corvette Z06",
+   "caption": "DID CHEVY WAIT TOO LONG?",
+   "cuts": 3
+  },
+  {
+   "text": "And if your next vehicle is a pickup instead of a Corvette, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Corvette C8 sunset",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

@@ -19,6 +19,8 @@ sc("""That move was huge. The Associated Press reported in July twenty nineteen 
    "Corvette C8 Stingray mid engine", "66 YEARS OF FRONT ENGINES")
 sc("""With the engine behind the seats, more weight sits over the rear wheels, which helps traction when accelerating out of corners. That is why the Z06 can put six hundred seventy horsepower through only its rear tires and still reach sixty miles per hour in under three seconds. The layout made this engine possible.""",
    "Corvette Z06 rear three quarter", "WEIGHT OVER THE REAR WHEELS")
+sc("""Juechter also explained the business side to the Associated Press. He said they were asking people to spend a lot of money for this car, and people want it to be the best performer all around. In other words, to compete with European supercars, the Corvette needed a European supercar layout. The Z06 is the purest expression of that idea.""",
+   "Corvette C8 and European supercar", "THE BEST PERFORMER ALL AROUND")
 sc("""Its engine is called the L T six. The Drive reported the details. A five point five liter V8 with two overhead camshafts per bank, making six hundred seventy horsepower at eight thousand four hundred r p m, and four hundred sixty pound-feet of torque at six thousand three hundred. The redline is eight thousand six hundred.""",
    "Corvette LT6 engine", "5.5L LT6: 670 HP, 8,600 RPM")
 sc("""That is twenty horsepower more than the previous Z06, which used a supercharged six point two liter V8. Chevrolet's new engine makes more power with less displacement and without forced induction. Hagerty described it as the most powerful naturally aspirated production V8 ever.""",

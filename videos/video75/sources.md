@@ -1,0 +1,15 @@
+- The Drive, 2023 Chevy Corvette Z06: 670 hp from a naturally aspirated flat-plane V8: https://www.thedrive.com/news/42882/2023-chevy-corvette-z06-670-hp-from-a-naturally-aspirated-flat-plane-v8
+- Hagerty, How the Corvette Z06 went from '60s racing package to modern monster: https://hagerty.com/media/?p=257365
+- Hagerty, 2023 Corvette Z06 arrives: https://www.hagerty.com/media/?p=179871
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- GM Authority, 2025 Corvette Z06 gets revised fuel economy ratings (Sept 2024): https://gmauthority.com/blog/2024/09/2025-corvette-z06-gets-revised-fuel-economy-ratings/
+- AutoMonitor, How much does a Corvette Z06 actually cost? (estimates): https://automonitor.io/blog/how-much-does-a-chevrolet-corvette-z06-cost/
+- CarEdge, Corvette Z06 cost to own (estimates): https://caredge.com/chevrolet/corvette-z06/costs
+- Motorious, Over 1,700 Corvette Z06s sit unsold (Aug 2025): https://www.motorious.com/articles/news/dealers-offer-deep-discounts-as-over-1-700-chevrolet-corvette-z06s-sit-unsold
+- CarScoops, Corvette Z06 prices crashing on the used market (Aug 2025): https://www.carscoops.com/2025/08/corvette-z06-prices-crashing-used-market-losses/
+- CarScoops, Corvette Z06 flippers learn what happens when the hype fades (Oct 2025): https://www.carscoops.com/2025/10/corvette-z06-flippers-are-learning-the-hard-way-what-happens-when-the-hype-fades/
+- Autoblog, 2023 Chevy Corvette Z06: the 9 coolest things: https://www.autoblog.com/2022/02/18/2023-chevy-corvette-z06-coolest-9-things/
+- Auto123, Corvette Z06 and ZR1 recall (Aug 2025): https://www.auto123.com/en/news/chevrolet-corvette-recall-z06-zr1/73126
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census
+- The Drive, 2023 Porsche 911 GT3 RS specs and price: https://www.thedrive.com/news/2023-porsche-911-gt3rs-specs-debut-reveal-price.md
+- CarScoops, Porsche 911 GT3 RS sold for $40k profit (May 2025): https://www.carscoops.com/2025/05/this-porsche-911-gt3-rs-was-sold-for-40k-profit-after-1-4k-miles/

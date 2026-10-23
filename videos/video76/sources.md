@@ -1,0 +1,13 @@
+- Wikipedia, Zora Arkus-Duntov: https://en.wikipedia.org/wiki/Zora_Arkus-Duntov
+- Driven (NZ), The 'Father of the Corvette' always wanted a middle child (June 2022): https://www.drivencarguide.co.nz/news/the-good-oil-father-of-the-corvette-always-wanted-a-middle-child
+- CorvSport, Mid-engine Corvette prototypes: XP-882: https://www.corvsport.com/mid-engine-corvette-prototypes-xp-882/
+- Hagerty, How the Corvette Z06 went from '60s racing package to modern monster: https://hagerty.com/media/?p=257365
+- Motor Authority, The 2023 Corvette Z06 exists because of Zora Arkus-Duntov: https://www.motorauthority.com/news/1136291_the-2023-chevrolet-corvette-z06-exists-because-of-zora-arkus-duntov
+- AP via WFYI, Corvette goes mid-engine for first time to raise performance (July 2019): https://www.wfyi.org/news/articles/corvette-goes-mid-engine-for-first-time-to-raise-performance
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- GM Authority, C8 Corvette production now officially underway (Feb 2020): https://gmauthority.com/blog/2020/02/c8-corvette-production-now-officially-underway/
+- The Peak, First production C8 Corvette auctioned for $3 million (Jan 2020): https://www.thepeakmagazine.com.sg/lifestyle/chevy-c8-corvette
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Top Gear, Corvette ZR1X fastest American car around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring
