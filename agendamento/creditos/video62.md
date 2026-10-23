@@ -1,0 +1,203 @@
+# Photo credits: Bugatti Chiron vs Koenigsegg Jesko: The Difference Nobody Explains
+
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 2017.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Royal Blue.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 2019.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 2.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg, Auto 2024, Zurich (PANA0940).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1377.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1375.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1398.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A0924.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A0943.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS1047).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS0844).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Koenigsegg Jesko Attack 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Koenigsegg Jesko Attack 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Koenigsegg Jesko Attack 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack 12.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Super Sport.jpg by MrWalkr, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Montlhéry,1927, Bugatti, Louis Chiron - btv1b531900131.jpg by Agence Rol, Public domain
+- Louis Chiron and Duke de Trémoille.jpg by Agence de presse Meurisse, Public domain
+- Louis Chiron winning the 1930 Belgian Grand Prix.jpg by Agence de presse Meurisse, Public domain
+- Koenigsegg CC8S - Side 01.jpg by G-Tinnetje, CC BY-SA 2.0
+- Koenigsegg CC8S.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg CC8S - Side 01 (cropped).jpg by G-Tinnetje, CC BY-SA 2.0
+- Bugatti W16, Berlin (1X7A3942).jpg by Matti Blume, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010490.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010489.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- Koenigsegg One 1 Engine, GIMS 2014(Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg One 1 Engine, GIMS 2014(Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- KoenigseggAgeraR-engine.jpg by Autoviva, CC BY 2.0
+- 2023 Koenigsegg Jesko Rear LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Jesko (2022) (52571686464).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Jesko (2022) (52570942832).jpg by Charles from Port Chester, New York, CC BY 2.0
+- E-85 (85% Ethanol) Gas Station Pump for Flex-Fuel E85 Vehicles (28822296738).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- US Navy 100730-N-6676S-051 Customers wait to fill up their flex-fuel vehicles with E85 fuel at the grand opening of the newest flex-fuel pump built in the Hampton Roads area.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class John Stratton, Public domain
+- Sheetz Gas Pump (4246161886).jpg by bobbsled, CC BY-SA 2.0
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Jesko (2022) (52571408406).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Jesko (2022) (52571686429).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Jesko (2022) (52571686519).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2018 Bugatti Chiron in Exposed Blue Carbon, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 2020 Bugatti Chiron Sport in Nocturne and Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Koenigsegg Jesko Absolut Lego Technic (Interior).jpg by Mathious Ier, CC0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS1046).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko 17.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 10.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 18.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 20.jpg by Calreyn88, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0525).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Regera White.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron With Lights.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron BW.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron LC.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron CH12 RON.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron SHZ 1.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Black White.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Jesko 11.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Koenigsegg Jesko Absolut.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 12.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack (2025) (55214811516).jpg by Charles from Port Chester, New York, CC0
+- Koenigsegg Jesko Attack 14.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 2021 Bugatti Chiron Pur Sport SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Chiron Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Koenigsegg Jesko Absolut 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Koenigsegg Jesko Absolut 7389 FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Koenigsegg Jesko Absolut.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron (8171).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8169).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8170).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Koenigsegg Agera RST 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Ehra-Lessien - Zunftbaum.jpg by Oxfordian Kissuth, CC BY-SA 3.0
+- Ehra.JPG by Vanellus Foto, CC BY-SA 3.0
+- Ehra-Lessien Kiebitzmühle NLD 33925267.jpg by Hubertus Gerhardt, CC BY 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype.jpg by Liam Walker, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Absolut mock-up (20220401) 02.jpg by オーバードライブ83, CC BY-SA 4.0
+- Koenigsegg Jesko Absolut mock-up (20220401) 01.jpg by オーバードライブ83, CC BY-SA 4.0
+- Koenigsegg Jesko Absolut Auto Zuerich 2025 DSC 3671.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Jesko Absolute 1.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Absolute.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Absolut Auto Zuerich 2025 DSC 3673.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Jesko, Auto 2024, Zurich (PANA0957).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko Absolut Lego Technic gray (Engine).jpg by Mathious Ier, CC0
+- Bugatti Bolide & Koenigsegg Jesko Absolut Lego Technic (2).jpg by Mathious Ier, CC0
+- Bugatti Chiron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron THJ.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Turn 5 Laguna Seca Raceway during Race 2 of MotoAmerica Junior Cup 2022.jpg by VagrantInquisitor, CC BY-SA 4.0
+- Military Appreciation Day at Mazda Raceway Laguna Seca (37083889620).jpg by Presidio of Monterey, Public domain
+- Laguna Seca's Corkscrew - 2014 (2).jpg by 菅野崇, CC BY-SA 3.0
+- Koenigsegg Jesko Attack (55193446366).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Koenigsegg Jesko 14.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- A Bugatti Chiron.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée.jpg by Pelicanactor, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée (cropped).jpg by Pelicanactor, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée rear.jpg by Pelicanactor, CC BY-SA 4.0
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti (suivi de) Dreyfus sur Bugatti - btv1b53197913v.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti - btv1b53197906s.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti - btv1b531979149.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- 2016-03-01 Geneva Motor Show 0877.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show G069.JPG by Ghoster, CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show G075.JPG by Ghoster, CC BY-SA 4.0
+- Koenigsegg Jesko Genf 2019 1Y7A5546.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Jesko Genf 2019 1Y7A5893.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Jesko Genf 2019 1Y7A5461.jpg by Alexander Migl, CC BY-SA 4.0
+- 2006 Koenigsegg CCXR Factory Test Car Chassis YT9M2GOV8H5007031 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCXR Factory Test Car Chassis YT9M2GOV8H5007031 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCXR Factory Test Car Chassis YT9M2GOV8H5007031.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko (2022) (52571858880).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Jesko 7.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 6.jpg by Calreyn88, CC BY-SA 4.0
+- GIMS 2019, Le Grand-Saconnex (GIMS0960).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron Sport 110 Ans.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Bugatti Chiron Sport 110 Ans 8.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 5.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Sadairs Spear 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Saddairs Spear 1.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Saddairs Spear.jpg by Calreyn88, CC BY-SA 4.0
+- Rostig förtöjningsring Gotland.jpg by En-cas-de-soleil, CC BY-SA 4.0
+- Penannular brooches, rings and an ornament from Gotland.jpg by W.carter, CC BY 4.0
+- Universal aluminium ring stick 1.jpg by W.carter, CC BY 4.0
+- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
+- Spring Mountains from Nevada State Route 160 (Pahrump Valley Highway) northbound in the Red Rock Canyon National Conservation Area (September 30, 2026).jpg by TheYearbookTeacher, CC BY 4.0
+- 2015-11-03 12 23 07 View northwest from the southeast end of Nevada State Route 160 (Blue Diamond Road) in Enterprise, Nevada.jpg by Famartin, CC BY-SA 4.0
+- Pahrump Valley, Nevada State Route 160 (23487418969).jpg by Tony Webster from Portland, Oregon, CC BY-SA 2.0
+- Bugatti Chiron Super Sport 300+ (55155037021).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 6.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 4.jpg by Laurent Jerry, CC BY-SA 4.0
+- Ray Baldwin Subaru Stamford NY Auto Show 103.JPG by RayBaldwin, CC BY-SA 4.0
+- Christian Von Koenigsegg Interview at Goodwood Festival of Speed (14340401677).jpg by Michelin LIVE UK from Stoke-On-Trent, UK, CC BY 2.0
+- 40. St.Gallen Symposium-Christian von Koenigsegg-HSGN 028-01971.JPG by Marcel Giger, CC BY-SA 4.0
+- Rimac (101).jpg by El monty, CC BY-SA 4.0
+- Green Monster Seats.jpg by Aidan Siegel, CC BY-SA 3.0
+- Green Monster (10374170485).jpg by Kelly from Parsons, Kansas, CC BY-SA 2.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron, Auto 2025, Zurich (20251029-P1074241).jpg by Matti Blume, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport 300+, front left (Miller).jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Koenigsegg Jesko Attack.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack 13.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko Attack 3.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Bolide & Koenigsegg Jesko Absolut Lego Technic.jpg by Mathious Ier, CC0
+- Koenigsegg Jesko 19.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 13.jpg by Calreyn88, CC BY-SA 4.0
+- Blue Bugatti Chiron.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Jesko, Auto 2024, Zurich (PANA0936).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko, Auto 2024, Zurich (PANA0954).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko at Bridgehampton C&C, front right.jpg by Mr.choppers, CC BY-SA 3.0
+
+## Sources
+
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Koenigsegg Jesko: https://en.wikipedia.org/wiki/Koenigsegg_Jesko
+- Wikipedia, Koenigsegg (company history, models, ownership): https://en.wikipedia.org/wiki/Koenigsegg
+- The Drive, Koenigsegg Jesko reveal (Mar 2019): https://www.thedrive.com/news/26777/koenigsegg-jesko-a-swedish-megacar-with-1600-hp-seven-clutches-and-300-mph-top-speed
+- AOL / Motor1, Jesko Absolut can do 330 mph in theory: https://www.aol.com/news/koenigsegg-jesko-absolut-330-mph-182000829.html
+- Top Gear, Koenigsegg Agera RS 277.9 mph record (Nov 2017): https://www.topgear.com/car-news/supercars/koenigsegg-has-smashed-worlds-fastest-car-record
+- Bugatti newsroom, 0-400-0 km/h in 42 seconds (Sept 2017): https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Autocar, Chiron goes 304mph: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-goes-304mph-set-hypercar-record
+- Motor1, Bugatti retires from speed records: https://www.motor1.com/news/368539/bugatti-retires-chasing-speed-records/
+- Motor Authority, Chiron W16 engine: https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- Hagerty UK, Chiron Profilee auction: https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- The Drive, Chiron maintenance costs: https://www.thedrive.com/news/heres-what-it-cost-to-maintain-a-bugatti-chiron-over-10-years
+- Motor1, Rimac and Bugatti (55/45 split): https://www.motor1.com/news/755654/rimac-complete-control-bugatti/
+- Carscoops, Rimac finalizes Bugatti takeover (Sept 2026): https://carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership
+- Car Throttle, Bugatti Tourbillon: https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion

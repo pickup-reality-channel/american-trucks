@@ -1,0 +1,13 @@
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT
+- Gear Patrol, The car that forced Porsche to redesign its fastest 911 (May 2017): https://www.gearpatrol.com/cars/a352077/ford-gt-review-specs-images-porsche-911-ferrari-488gtb/
+- Jalopnik, The Ford GT was born to avenge the death of a secret Mustang: https://www.jalopnik.com/the-ford-gt-was-born-to-avenge-the-death-of-a-secret-mu-1794070410/
+- Motoring Research, 2017 Ford GT: inside the top secret design studio (May 2017): https://www.motoringresearch.com/car-news-list/features/2017-ford-gt-design-studio/
+- Petrolicious, Ford's quest to beat Ferrari with the GT40: https://petrolicious.com/blogs/articles/ford-gt40
+- Car and Classic, Legend of Le Mans: Ford's GT40 turns 60: https://www.carandclassic.com/magazine/legend-of-le-mans-fords-gt40-turns-60/
+- Car Showroom, Ford will build 350 more GTs: https://www.carshowroom.com.au/news/ford-will-build-350-more-gts-books-open-november-8th/
+- Jalopnik, Ford missed its production target for the first year of the Ford GT: https://jalopnik.com/1827701915
+- Autoblog, John Cena and Ford settle over flipped GT (June 2018): https://www.autoblog.com/2018/06/19/john-cena-ford-gt-flip-settlement
+- Ford, Ford GT Mk IV makes Nürburgring history (Apr 2026): https://www.at.ford.com/us/en/home/news-media/news/2026/4/ford-gt-mk-iv-makes-nuerburgring-history-with-third-fastest-lap-.html
+- Corvette Blogger, Ford needed a non-production race car to beat the ZR1X record (Apr 2026): https://www.corvetteblogger.com/2026/04/04/video-ford-needed-a-non-production-race-car-to-beat-the-corvette-zr1xs-record-at-the-nurburgring/
+- Hagerty valuation tools, 2022 Ford GT (Jan 2026): https://www.hagerty.com/valuation-tools/ford/gt/2022/2022-ford-gt
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby

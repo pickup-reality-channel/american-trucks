@@ -138,8 +138,8 @@ sc("""Then the Z R one, revealed in July twenty twenty-four with a twin-turbo V8
    "Corvette ZR1X", "1,250 HP ZR1X")
 sc("""Think about that. The C E R V two of nineteen sixty-four was a mid-engined, all-wheel-drive Corvette concept built to fight the best in the world. Sixty years later, the Z R one X is a mid-engined, all-wheel-drive Corvette that set an American record at the Nürburgring. Duntov's idea was right. It just needed half a century.""",
    "Chevrolet CERV II and ZR1X", "DUNTOV WAS RIGHT")
-sc("""And the competition did not stop. Wikipedia says the Z R one X's American record was later beaten by the Ford Mustang G T D Competition, with a lap of about six minutes forty point eight seconds in April twenty twenty-six. Ford and Chevrolet, rivals since the days of the G T forty and the C E R V two, are still fighting over the same German racetrack.""",
-   "Ford Mustang GTD", "FORD STRIKES BACK")
+sc("""And the competition did not stop. In April twenty twenty-six, Corvette Blogger reported that Ford answered with the G T Mark four, a track-only, non-street-legal car, which lapped the Nordschleife in about six minutes sixteen seconds, while the Corvette Z R one X still held the American production car record. Ford and Chevrolet, rivals since the days of the G T forty and the C E R V two, are still fighting over the same German racetrack.""",
+   "Ford GT Mk IV", "FORD STRIKES BACK")
 sc("""And the race car came full circle too. In June twenty twenty-three, Racer reported, the mid-engined Corvette C eight dot R won its class at Le Mans, Corvette's ninth class win there, in the final race of the G T E category. Duntov won his class at Le Mans in a mid-engined Porsche. Almost seventy years later, a mid-engined Corvette did the same.""",
    "Corvette C8.R Le Mans 2023", "LE MANS, FULL CIRCLE")
 sc("""So here is the insane story behind the mid-engine Corvette. A Belgian-born engineer who won Le Mans in a Porsche. A racing ban. Research cars and rotary engines. A rival's Italian sports car that saved a prototype. An oil crisis, a cancelled production plan, and one short, famous complaint. And finally, sixty-six years after the first Corvette, the engine moved behind the seats.""",
@@ -162,5 +162,6 @@ save("video76", "The Insane Story Behind the Mid-Engine Corvette", [
     "GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/",
     "Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/",
     "Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40",
+    "Corvette Blogger, Ford needed a non-production race car to beat the ZR1X Nürburgring record (Apr 2026): https://www.corvetteblogger.com/2026/04/04/video-ford-needed-a-non-production-race-car-to-beat-the-corvette-zr1xs-record-at-the-nurburgring/",
     "Top Gear, Corvette ZR1X fastest American car around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring",
 ], "D")
