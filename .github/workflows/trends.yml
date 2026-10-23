@@ -1,0 +1,28 @@
+name: trends
+# Read-only research: car/truck videos that went viral on YouTube (US) in the last days.
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "window in days"
+        required: false
+        default: "10"
+  push:
+    branches: [claude/project-thread-p1ji6g]
+    paths: [pipeline/yt_trends.py, .github/workflows/trends.yml]
+permissions:
+  contents: write
+jobs:
+  trends:
+    runs-on: ubuntu-latest
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests
+      - run: cd pipeline && python yt_trends.py ${{ inputs.days || '10' }} && mv research ..
+      - run: |
+          git config user.name "trends-bot" && git config user.email "trends-bot@users.noreply.github.com"
+          git add research/trends && (git diff --cached --quiet || git commit -qm "trends: viral car videos snapshot") && git pull -q --rebase && git push
