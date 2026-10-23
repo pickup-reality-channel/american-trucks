@@ -8,6 +8,9 @@ on:
         description: "check (test the credentials), upload (calendar) or lote (long videos 01-10 only)"
         required: true
         default: check
+      budget:
+        description: "quota units to spend this run (default 9900; YouTube stops the run on its own if the real quota is hit)"
+        required: false
   schedule:
     - cron: "15 9 * * *"
 permissions:
@@ -22,7 +25,7 @@ jobs:
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       EBOOK_URL: ${{ vars.EBOOK_URL }}
-      YT_BUDGET: ${{ vars.YT_BUDGET }}
+      YT_BUDGET: ${{ inputs.budget || vars.YT_BUDGET }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
