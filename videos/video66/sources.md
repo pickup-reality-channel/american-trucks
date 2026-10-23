@@ -1,0 +1,16 @@
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Wikipedia, Ferrari 12Cilindri: https://en.wikipedia.org/wiki/Ferrari_12Cilindri
+- Wikipedia, Lamborghini (history): https://en.wikipedia.org/wiki/Lamborghini
+- Motor1, Ferrari 12Cilindri vs Lamborghini Revuelto (June 2024): https://www.motor1.com/news/723932/ferrari-12cilindri-versus-lamborghini-revuelto-comparison/
+- Top Gear, PCOTY 2025: Vanquish vs 12Cilindri vs Revuelto: https://www.topgear.com/car-news/pcoty-2025/v12-victory-aston-martin-vanquish-vs-ferrari-12cilindri-vs-lamborghini-revuelto
+- Ferrari magazine, Mythbusters: the first Ferrari V12: https://ferrari.com/en-CA/magazine/articles/mythbusters-the-first-ferrari-v12
+- Ferrari magazine, the race that inspired an icon (Daytona 1967): https://www.ferrari.com/magazine/articles/the-race-that-inspired-an-icon
+- Autocar, Ferrari 12Cilindri priced from £336,500: https://autocar.co.uk/car-news/new-cars/ferrari-12cilindri-priced-%C2%A3336500-spider-adds-%C2%A330k
+- Kelley Blue Book, Ferrari 12Cilindri: https://www.kbb.com/ferrari/12cilindri/
+- Kelley Blue Book, Lamborghini Revuelto: https://www.kbb.com/lamborghini/revuelto/
+- Jalopnik, Revuelto carbon options (Oct 2026): https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/
+- Car and Driver via Yahoo Autos, Revuelto: https://autos.yahoo.com/revuelto-1001-hp-hybrid-v-131900739.html
+- Auto123, Revuelto SV debut (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/
+- Motor Authority, Revuelto sold out for 2 years: https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- duPont Registry, Lamborghini 2024 deliveries: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- autoevolution, used Revuelto values (Oct 2026): https://www.autoevolution.com/news/how-much-is-a-2024-lamborghini-revuelto-worth-today-after-6000-miles-276767.html

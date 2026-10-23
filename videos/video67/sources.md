@@ -1,0 +1,14 @@
+- Jalopnik, Revuelto test car options and sticker (Oct 2026): https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/
+- Kelley Blue Book, Lamborghini Revuelto (price, mpg, warranty, charging): https://www.kbb.com/lamborghini/revuelto/
+- Motor Authority, Revuelto sold out for 2 years (July 2023): https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- Supercars.net, configuring a Revuelto gets expensive (2023): https://www.supercars.net/blog/configuring-a-lamborghini-revuelto-gets-expensive-very-quickly/
+- duPont Registry, Lamborghini 2024 deliveries: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- MoneyGeek, Lamborghini insurance costs (Aug 2026): https://www.moneygeek.com/insurance/auto/lamborghini-car-insurance/
+- MoneyGeek, Bugatti Chiron insurance (Apr 2026): https://www.moneygeek.com/insurance/auto/bugatti-chiron-insurance/
+- AutoGuide, Revuelto door recall (July 2025): https://www.autoguide.com/auto/manufacturers/lamborghini/why-these-lambo-doors-could-fall-on-your-head-or-hold-you-hostage-44623369
+- HR Owen, Lamborghini fixed price servicing: https://hrowen.co.uk/lamborghini/aftersales/servicing/fixed-price-servicing
+- autoevolution, used Revuelto values (Oct 2026): https://www.autoevolution.com/news/how-much-is-a-2024-lamborghini-revuelto-worth-today-after-6000-miles-276767.html
+- Auto123, Revuelto SV debut (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/
+- Motor1, Revuelto SV US price: https://www.motor1.com/news/805408/lamborghini-revuelto-sv-price-options/
+- Kelley Blue Book, Ferrari 12Cilindri: https://www.kbb.com/ferrari/12cilindri/

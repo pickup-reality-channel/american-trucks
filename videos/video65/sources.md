@@ -1,0 +1,13 @@
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Car and Driver via Yahoo Autos, Revuelto: the 1001-hp hybrid V-12 (Mar 2023): https://autos.yahoo.com/revuelto-1001-hp-hybrid-v-131900739.html
+- Motor1, Ferrari 12Cilindri vs Lamborghini Revuelto (June 2024): https://www.motor1.com/news/723932/ferrari-12cilindri-versus-lamborghini-revuelto-comparison/
+- Top Gear, PCOTY 2025: Vanquish vs 12Cilindri vs Revuelto: https://www.topgear.com/car-news/pcoty-2025/v12-victory-aston-martin-vanquish-vs-ferrari-12cilindri-vs-lamborghini-revuelto
+- Auto123, Revuelto SV debut at Monterey (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/
+- Motor1, Revuelto SV price from US order sheet: https://www.motor1.com/news/805408/lamborghini-revuelto-sv-price-options/
+- AutoGuide, Revuelto door recall (July 2025): https://www.autoguide.com/auto/manufacturers/lamborghini/why-these-lambo-doors-could-fall-on-your-head-or-hold-you-hostage-44623369
+- Motor Authority, Revuelto sold out for 2 years (July 2023): https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- duPont Registry, Lamborghini record 10,687 deliveries in 2024: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- autoevolution, 2024 Revuelto after 6,000 miles (Oct 2026): https://www.autoevolution.com/news/how-much-is-a-2024-lamborghini-revuelto-worth-today-after-6000-miles-276767.html
+- Kelley Blue Book, Lamborghini Revuelto: https://www.kbb.com/lamborghini/revuelto/
+- Jalopnik, Revuelto carbon fiber options (Oct 2026): https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/
+- TFLcar, Aventador production ends after 11,465 cars (Sept 2022): https://tflcar.com/2022/09/lamborghini-aventador-production-ends-news/
