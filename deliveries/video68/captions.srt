@@ -1,0 +1,2191 @@
+1
+00:00:00,000 --> 00:00:01,762
+In May twenty twenty-one,
+
+2
+00:00:01,762 --> 00:00:05,006
+Lamborghini's boss made a promise that sounded
+
+3
+00:00:05,006 --> 00:00:05,781
+impossible.
+
+4
+00:00:05,961 --> 00:00:09,316
+The brand of screaming V12s would electrify
+
+5
+00:00:09,316 --> 00:00:10,721
+its entire lineup,
+
+6
+00:00:10,721 --> 00:00:12,749
+cut the CO2 of its cars in
+
+7
+00:00:12,749 --> 00:00:16,104
+half, and still build the wildest supercars
+
+8
+00:00:16,104 --> 00:00:17,118
+in the world.
+
+9
+00:00:17,298 --> 00:00:18,464
+Two years later,
+
+10
+00:00:18,464 --> 00:00:21,815
+the answer rolled out of Sant'Agata Bolognese.
+
+11
+00:00:21,995 --> 00:00:24,561
+This is why Lamborghini built the Revuelto
+
+12
+00:00:24,561 --> 00:00:25,478
+the way it did.
+
+13
+00:00:25,827 --> 00:00:28,046
+It is a story about a tractor
+
+14
+00:00:28,046 --> 00:00:30,572
+maker who wanted to beat Ferrari,
+
+15
+00:00:30,572 --> 00:00:33,556
+a company that changed owners again and
+
+16
+00:00:33,556 --> 00:00:36,540
+again, a hybrid named after a lightning
+
+17
+00:00:36,540 --> 00:00:39,065
+bolt, and a team of engineers who
+
+18
+00:00:39,065 --> 00:00:41,973
+refused to put a turbocharger on their
+
+19
+00:00:41,973 --> 00:00:42,279
+V12.
+
+20
+00:00:42,459 --> 00:00:44,683
+And every decision they made is hidden
+
+21
+00:00:44,683 --> 00:00:46,731
+somewhere in the shape of this car.
+
+22
+00:00:47,081 --> 00:00:49,388
+Every fact in this video comes from
+
+23
+00:00:49,388 --> 00:00:50,639
+a published source,
+
+24
+00:00:50,639 --> 00:00:52,352
+listed in the description.
+
+25
+00:00:52,532 --> 00:00:55,373
+And to understand why the Revuelto looks
+
+26
+00:00:55,373 --> 00:00:56,509
+the way it does,
+
+27
+00:00:56,509 --> 00:00:59,136
+we need to start sixty years earlier,
+
+28
+00:00:59,136 --> 00:01:01,124
+with a man who already had a
+
+29
+00:01:01,124 --> 00:01:04,319
+successful business and decided to build cars
+
+30
+00:01:04,319 --> 00:01:04,816
+anyway.
+
+31
+00:01:05,165 --> 00:01:06,965
+Here is the first twist.
+
+32
+00:01:07,145 --> 00:01:10,682
+The Revuelto is called Lamborghini's first true
+
+33
+00:01:10,682 --> 00:01:11,209
+hybrid.
+
+34
+00:01:11,389 --> 00:01:14,047
+But it was not Lamborghini's first hybrid.
+
+35
+00:01:14,227 --> 00:01:15,658
+That was another car,
+
+36
+00:01:15,658 --> 00:01:17,908
+named after a flash of lightning.
+
+37
+00:01:18,258 --> 00:01:21,636
+Ferruccio Lamborghini was an industrialist.
+
+38
+00:01:21,816 --> 00:01:23,506
+According to Wikipedia,
+
+39
+00:01:23,506 --> 00:01:24,755
+he made tractors,
+
+40
+00:01:24,755 --> 00:01:26,960
+boilers, and air conditioners,
+
+41
+00:01:26,960 --> 00:01:28,723
+and his tractor company,
+
+42
+00:01:28,723 --> 00:01:32,985
+Lamborghini Trattori, was founded in nineteen forty-eight.
+
+43
+00:01:33,165 --> 00:01:37,717
+In nineteen sixty-three he founded Automobili Lamborghini,
+
+44
+00:01:37,717 --> 00:01:39,130
+with a clear goal,
+
+45
+00:01:39,130 --> 00:01:41,013
+to compete with Ferrari.
+
+46
+00:01:41,363 --> 00:01:43,124
+His first series car,
+
+47
+00:01:43,124 --> 00:01:44,801
+the three fifty G T,
+
+48
+00:01:44,801 --> 00:01:48,155
+had a V12 designed by Giotto Bizzarrini.
+
+49
+00:01:48,335 --> 00:01:51,711
+The chassis was developed by Gian Paolo
+
+50
+00:01:51,711 --> 00:01:54,047
+Dallara and Paolo Stanzani.
+
+51
+00:01:54,227 --> 00:01:55,993
+From the very first car,
+
+52
+00:01:55,993 --> 00:01:58,052
+the V12 was the heart of the
+
+53
+00:01:58,052 --> 00:02:01,362
+brand, and every Lamborghini built since then
+
+54
+00:02:01,362 --> 00:02:03,422
+has come from the same town,
+
+55
+00:02:03,422 --> 00:02:04,967
+Sant'Agata Bolognese.
+
+56
+00:02:05,317 --> 00:02:07,676
+Then came the car that changed the
+
+57
+00:02:07,676 --> 00:02:08,300
+industry.
+
+58
+00:02:08,480 --> 00:02:10,229
+In nineteen sixty-six,
+
+59
+00:02:10,229 --> 00:02:13,012
+the Miura placed its V12 behind the
+
+60
+00:02:13,012 --> 00:02:14,920
+driver, in a mid-engine,
+
+61
+00:02:14,920 --> 00:02:16,828
+rear-wheel-drive layout.
+
+62
+00:02:17,008 --> 00:02:19,371
+That layout became the template for what
+
+63
+00:02:19,371 --> 00:02:20,967
+people now call a supercar.
+
+64
+00:02:21,147 --> 00:02:24,682
+And Lamborghini started naming cars after fighting
+
+65
+00:02:24,682 --> 00:02:27,651
+bulls, a tradition that continues with the
+
+66
+00:02:27,651 --> 00:02:28,287
+Revuelto.
+
+67
+00:02:28,637 --> 00:02:30,668
+Then the Countach broke the rule.
+
+68
+00:02:30,848 --> 00:02:33,422
+Named in nineteen seventy-four,
+
+69
+00:02:33,422 --> 00:02:35,332
+its name is not a bull,
+
+70
+00:02:35,332 --> 00:02:37,657
+but a Piedmontese expletive,
+
+71
+00:02:37,657 --> 00:02:39,567
+according to Wikipedia.
+
+72
+00:02:39,747 --> 00:02:41,785
+It became the poster car of a
+
+73
+00:02:41,785 --> 00:02:45,018
+generation, with sharp edges and scissor doors
+
+74
+00:02:45,018 --> 00:02:46,353
+that opened upward.
+
+75
+00:02:46,533 --> 00:02:49,082
+Those doors and those edges are still
+
+76
+00:02:49,082 --> 00:02:50,597
+in the Revuelto today.
+
+77
+00:02:50,947 --> 00:02:52,410
+Behind the poster cars,
+
+78
+00:02:52,410 --> 00:02:54,128
+the company was in trouble.
+
+79
+00:02:54,308 --> 00:02:58,184
+Wikipedia lists Ferruccio as owner until nineteen
+
+80
+00:02:58,184 --> 00:03:02,930
+seventy-two, then Swiss investors Georges-Henri Rossetti and
+
+81
+00:03:02,930 --> 00:03:06,173
+Rene Leimer until nineteen seventy-seven.
+
+82
+00:03:06,353 --> 00:03:08,056
+Then came receivership,
+
+83
+00:03:08,056 --> 00:03:11,241
+and a bankruptcy in nineteen seventy-eight.
+
+84
+00:03:11,591 --> 00:03:14,661
+After that, Patrick Mimran owned the company
+
+85
+00:03:14,661 --> 00:03:18,220
+from nineteen eighty-four to nineteen eighty-seven.
+
+86
+00:03:18,400 --> 00:03:19,958
+Then Chrysler bought it,
+
+87
+00:03:19,958 --> 00:03:22,556
+and owned it until nineteen ninety-four.
+
+88
+00:03:22,736 --> 00:03:25,406
+Then came Indonesian investors,
+
+89
+00:03:25,406 --> 00:03:27,646
+through MegaTech, V'Power,
+
+90
+00:03:27,646 --> 00:03:29,110
+and Mycom Sedtco.
+
+91
+00:03:29,290 --> 00:03:30,806
+Through all of it,
+
+92
+00:03:30,806 --> 00:03:34,175
+Lamborghini kept building V12 flagships,
+
+93
+00:03:34,175 --> 00:03:35,523
+like the Diablo,
+
+94
+00:03:35,523 --> 00:03:37,881
+named after a fighting bull.
+
+95
+00:03:38,232 --> 00:03:40,127
+In nineteen ninety-eight,
+
+96
+00:03:40,127 --> 00:03:42,781
+Audi, part of the Volkswagen Group,
+
+97
+00:03:42,781 --> 00:03:44,222
+bought Lamborghini.
+
+98
+00:03:44,402 --> 00:03:46,794
+And that brought stability and money.
+
+99
+00:03:46,974 --> 00:03:48,697
+The Murcielago followed,
+
+100
+00:03:48,697 --> 00:03:51,281
+then the Aventador in twenty eleven.
+
+101
+00:03:51,461 --> 00:03:54,220
+Reports at the end of the Aventador's
+
+102
+00:03:54,220 --> 00:03:56,159
+run, in twenty twenty-two,
+
+103
+00:03:56,159 --> 00:03:59,365
+put its production at about eleven thousand
+
+104
+00:03:59,365 --> 00:04:01,527
+four hundred sixty-five cars.
+
+105
+00:04:01,877 --> 00:04:03,014
+Here is the twist.
+
+106
+00:04:03,194 --> 00:04:06,612
+The same company that bought Lamborghini also
+
+107
+00:04:06,612 --> 00:04:07,676
+owned Bugatti.
+
+108
+00:04:07,856 --> 00:04:11,681
+Ferdinand Piech, the Volkswagen Group chairman who
+
+109
+00:04:11,681 --> 00:04:15,123
+revived Bugatti, also oversaw the purchase of
+
+110
+00:04:15,123 --> 00:04:16,041
+Lamborghini.
+
+111
+00:04:16,221 --> 00:04:17,535
+And years later,
+
+112
+00:04:17,535 --> 00:04:20,737
+Lamborghini would name a car after him.
+
+113
+00:04:21,087 --> 00:04:22,785
+By the late twenty tens,
+
+114
+00:04:22,785 --> 00:04:25,898
+Lamborghini faced a problem that money could
+
+115
+00:04:25,898 --> 00:04:27,100
+not simply solve.
+
+116
+00:04:27,280 --> 00:04:30,788
+Hagerty described how new exhaust emission laws
+
+117
+00:04:30,788 --> 00:04:33,026
+in Europe, the United Kingdom,
+
+118
+00:04:33,026 --> 00:04:36,683
+and California were pushing the combustion engine
+
+119
+00:04:36,683 --> 00:04:39,220
+out, and how some form of electric
+
+120
+00:04:39,220 --> 00:04:43,175
+driving was becoming non-negotiable in those markets.
+
+121
+00:04:43,525 --> 00:04:46,402
+Many brands answered the same problem by
+
+122
+00:04:46,402 --> 00:04:47,193
+downsizing.
+
+123
+00:04:47,373 --> 00:04:49,914
+Smaller engines, turbochargers,
+
+124
+00:04:49,914 --> 00:04:51,472
+and hybrid systems.
+
+125
+00:04:51,652 --> 00:04:54,504
+Ferrari moved much of its range to
+
+126
+00:04:54,504 --> 00:04:57,190
+turbocharged V8s and V6 hybrids.
+
+127
+00:04:57,370 --> 00:05:00,909
+A big naturally aspirated V12 was starting
+
+128
+00:05:00,909 --> 00:05:02,931
+to look like a dinosaur.
+
+129
+00:05:03,281 --> 00:05:04,565
+And the Aventador,
+
+130
+00:05:04,565 --> 00:05:05,992
+for all its success,
+
+131
+00:05:05,992 --> 00:05:06,705
+was aging.
+
+132
+00:05:06,885 --> 00:05:10,778
+It used a seven-speed single-clutch automated gearbox
+
+133
+00:05:10,778 --> 00:05:12,614
+called the I S R for more
+
+134
+00:05:12,614 --> 00:05:13,642
+than a decade,
+
+135
+00:05:13,642 --> 00:05:16,139
+and many reviewers found it harsh.
+
+136
+00:05:16,319 --> 00:05:19,253
+The next flagship had to be cleaner,
+
+137
+00:05:19,253 --> 00:05:23,003
+faster, smoother, and still unmistakably a V12
+
+138
+00:05:23,003 --> 00:05:23,981
+Lamborghini.
+
+139
+00:05:24,332 --> 00:05:27,011
+The Aventador itself had been a huge
+
+140
+00:05:27,011 --> 00:05:29,840
+step when it arrived in twenty eleven,
+
+141
+00:05:29,840 --> 00:05:32,445
+with a carbon fiber monocoque and a
+
+142
+00:05:32,445 --> 00:05:35,125
+V12 that grew more powerful over its
+
+143
+00:05:35,125 --> 00:05:37,358
+life, ending with the Ultimae.
+
+144
+00:05:37,538 --> 00:05:40,446
+Its replacement had to beat the most
+
+145
+00:05:40,446 --> 00:05:42,788
+extreme Aventador, the S V J,
+
+146
+00:05:42,788 --> 00:05:45,131
+while also cutting emissions.
+
+147
+00:05:45,311 --> 00:05:47,639
+That was the brief the engineers were
+
+148
+00:05:47,639 --> 00:05:48,016
+given.
+
+149
+00:05:48,366 --> 00:05:52,069
+Lamborghini's first answer came in twenty nineteen.
+
+150
+00:05:52,249 --> 00:05:54,207
+On the third of September,
+
+151
+00:05:54,207 --> 00:05:56,164
+it revealed the Sian F K P
+
+152
+00:05:56,164 --> 00:05:59,477
+thirty-seven, and showed it at the Frankfurt
+
+153
+00:05:59,477 --> 00:06:02,036
+Motor Show in electric gold paint.
+
+154
+00:06:02,216 --> 00:06:05,000
+Sian means a flash of lightning in
+
+155
+00:06:05,000 --> 00:06:06,800
+the Bolognese dialect,
+
+156
+00:06:06,800 --> 00:06:08,683
+according to Wikipedia.
+
+157
+00:06:09,033 --> 00:06:11,575
+The name F K P thirty-seven honored
+
+158
+00:06:11,575 --> 00:06:13,100
+Ferdinand Karl Piech,
+
+159
+00:06:13,100 --> 00:06:15,642
+the late Volkswagen Group chairman,
+
+160
+00:06:15,642 --> 00:06:17,821
+born in nineteen thirty-seven.
+
+161
+00:06:18,001 --> 00:06:21,324
+And the Sian was Lamborghini's first hybrid
+
+162
+00:06:21,324 --> 00:06:22,483
+production car.
+
+163
+00:06:22,663 --> 00:06:25,112
+Instead of a lithium-ion battery,
+
+164
+00:06:25,112 --> 00:06:27,859
+it stored energy in a supercapacitor,
+
+165
+00:06:27,859 --> 00:06:31,199
+which Wikipedia says provides three times the
+
+166
+00:06:31,199 --> 00:06:33,649
+power of a lithium battery of the
+
+167
+00:06:33,649 --> 00:06:34,540
+same weight.
+
+168
+00:06:34,890 --> 00:06:37,550
+The Sian's electric motor was small,
+
+169
+00:06:37,550 --> 00:06:40,358
+a forty-eight volt unit in the gearbox
+
+170
+00:06:40,358 --> 00:06:43,388
+adding thirty-four horsepower to a V12 of
+
+171
+00:06:43,388 --> 00:06:45,826
+about seven hundred seventy-four.
+
+172
+00:06:46,006 --> 00:06:49,847
+Only sixty-three coupes and nineteen roadsters were
+
+173
+00:06:49,847 --> 00:06:51,730
+built, and all were sold.
+
+174
+00:06:51,910 --> 00:06:53,415
+It was an experiment,
+
+175
+00:06:53,415 --> 00:06:56,281
+proof that a Lamborghini V12 could carry
+
+176
+00:06:56,281 --> 00:06:59,004
+electric help without losing its soul.
+
+177
+00:06:59,354 --> 00:07:01,826
+And then, in twenty twenty-one,
+
+178
+00:07:01,826 --> 00:07:05,653
+Lamborghini used the same supercapacitor idea in
+
+179
+00:07:05,653 --> 00:07:07,248
+another tribute car,
+
+180
+00:07:07,248 --> 00:07:09,800
+the Countach L P I eight hundred
+
+181
+00:07:09,800 --> 00:07:13,229
+dash four, a modern reinterpretation of the
+
+182
+00:07:13,229 --> 00:07:16,339
+poster car from the nineteen seventies.
+
+183
+00:07:16,519 --> 00:07:19,224
+Two limited cars tested the waters.
+
+184
+00:07:19,404 --> 00:07:21,656
+The Revuelto would be the real thing.
+
+185
+00:07:22,007 --> 00:07:23,110
+Then came the plan.
+
+186
+00:07:23,290 --> 00:07:26,875
+On the twenty-first of May twenty twenty-one,
+
+187
+00:07:26,875 --> 00:07:31,975
+WardsAuto reported, Lamborghini CEO Stephan Winkelmann presented
+
+188
+00:07:31,975 --> 00:07:34,923
+a roadmap called Direzione Cor Tauri.
+
+189
+00:07:35,103 --> 00:07:37,655
+Cor Tauri is the brightest star in
+
+190
+00:07:37,655 --> 00:07:39,756
+the constellation of Taurus,
+
+191
+00:07:39,756 --> 00:07:40,432
+the bull.
+
+192
+00:07:40,612 --> 00:07:43,315
+The plan was to electrify the entire
+
+193
+00:07:43,315 --> 00:07:46,243
+range by the end of twenty twenty-four.
+
+194
+00:07:46,593 --> 00:07:49,581
+Lamborghini said it would invest more than
+
+195
+00:07:49,581 --> 00:07:52,284
+one point five billion euros over four
+
+196
+00:07:52,284 --> 00:07:55,486
+years, the largest investment in its history.
+
+197
+00:07:55,666 --> 00:07:58,022
+It set an internal target to cut
+
+198
+00:07:58,022 --> 00:08:00,672
+the CO2 emissions of its products by
+
+199
+00:08:00,672 --> 00:08:03,617
+fifty percent by the beginning of twenty
+
+200
+00:08:03,617 --> 00:08:04,501
+twenty-five.
+
+201
+00:08:04,681 --> 00:08:07,337
+And the first fully electric Lamborghini was
+
+202
+00:08:07,337 --> 00:08:09,390
+planned for the second half of the
+
+203
+00:08:09,390 --> 00:08:09,813
+decade.
+
+204
+00:08:10,163 --> 00:08:12,438
+Winkelmann summed it up in one line.
+
+205
+00:08:12,618 --> 00:08:14,156
+We did not want to be the
+
+206
+00:08:14,156 --> 00:08:16,308
+first company making electric cars,
+
+207
+00:08:16,308 --> 00:08:17,785
+but we will be the best.
+
+208
+00:08:17,965 --> 00:08:19,121
+In other words,
+
+209
+00:08:19,121 --> 00:08:21,204
+Lamborghini would not rush.
+
+210
+00:08:21,384 --> 00:08:23,956
+It would electrify on its own terms,
+
+211
+00:08:23,956 --> 00:08:26,744
+starting with the most important car in
+
+212
+00:08:26,744 --> 00:08:28,744
+its range, the V12 flagship.
+
+213
+00:08:29,095 --> 00:08:30,627
+Here is the twist.
+
+214
+00:08:30,807 --> 00:08:33,197
+A plan to cut emissions in half
+
+215
+00:08:33,197 --> 00:08:35,509
+usually means smaller engines.
+
+216
+00:08:35,689 --> 00:08:39,421
+Lamborghini decided to do it while building
+
+217
+00:08:39,421 --> 00:08:40,809
+a brand new V12.
+
+218
+00:08:40,989 --> 00:08:43,604
+The answer would be a plug-in hybrid,
+
+219
+00:08:43,604 --> 00:08:46,219
+with a battery and motors helping the
+
+220
+00:08:46,219 --> 00:08:48,269
+V12, instead of replacing it.
+
+221
+00:08:48,619 --> 00:08:50,898
+The first big decision was what not
+
+222
+00:08:50,898 --> 00:08:51,289
+to do.
+
+223
+00:08:51,469 --> 00:08:55,055
+Hagerty wrote that rather than downsizing or
+
+224
+00:08:55,055 --> 00:08:57,010
+adding forced induction,
+
+225
+00:08:57,010 --> 00:08:59,129
+like many other carmakers,
+
+226
+00:08:59,129 --> 00:09:02,878
+Lamborghini kept a naturally aspirated V12 and
+
+227
+00:09:02,878 --> 00:09:04,182
+made it all new.
+
+228
+00:09:04,362 --> 00:09:07,265
+The engineers wanted the Revuelto to stay
+
+229
+00:09:07,265 --> 00:09:09,531
+close to Lamborghini's heritage,
+
+230
+00:09:09,531 --> 00:09:10,805
+and to that sound.
+
+231
+00:09:11,156 --> 00:09:14,579
+Rouven Mohr, then head of Lamborghini's research
+
+232
+00:09:14,579 --> 00:09:18,145
+and development, explained the changes to Hagerty.
+
+233
+00:09:18,325 --> 00:09:21,035
+We designed a new valvetrain to increase
+
+234
+00:09:21,035 --> 00:09:22,458
+the redline, he said.
+
+235
+00:09:22,638 --> 00:09:24,823
+It is now set at nine thousand
+
+236
+00:09:24,823 --> 00:09:26,208
+five hundred r p m,
+
+237
+00:09:26,208 --> 00:09:28,757
+which was not possible with the old
+
+238
+00:09:28,757 --> 00:09:29,267
+engine.
+
+239
+00:09:29,447 --> 00:09:31,723
+The engine block casting is different,
+
+240
+00:09:31,723 --> 00:09:34,059
+and the cylinder heads are different as
+
+241
+00:09:34,059 --> 00:09:34,358
+well.
+
+242
+00:09:34,709 --> 00:09:35,862
+Car and Driver,
+
+243
+00:09:35,862 --> 00:09:37,091
+via Yahoo Autos,
+
+244
+00:09:37,091 --> 00:09:40,243
+reported that the new V12 is thirty-seven
+
+245
+00:09:40,243 --> 00:09:43,010
+pounds lighter than the Aventador's.
+
+246
+00:09:43,190 --> 00:09:45,536
+Hagerty listed a new intake,
+
+247
+00:09:45,536 --> 00:09:47,464
+a new exhaust manifold,
+
+248
+00:09:47,464 --> 00:09:51,235
+and a modified crankshaft for faster revving.
+
+249
+00:09:51,415 --> 00:09:53,600
+So the hybrid car got a better
+
+250
+00:09:53,600 --> 00:09:56,222
+combustion engine, not a weaker one.
+
+251
+00:09:56,572 --> 00:09:59,685
+And Mohr described the philosophy behind the
+
+252
+00:09:59,685 --> 00:10:01,808
+hybrid system in one sentence.
+
+253
+00:10:01,988 --> 00:10:05,075
+This is basically like a naturally aspirated
+
+254
+00:10:05,075 --> 00:10:06,759
+car that is much faster.
+
+255
+00:10:06,939 --> 00:10:09,899
+He also said there is no combustion-only
+
+256
+00:10:09,899 --> 00:10:12,859
+mode, but that the system's basic layout
+
+257
+00:10:12,859 --> 00:10:15,450
+is absolutely combustion-dominated.
+
+258
+00:10:15,630 --> 00:10:18,459
+The electric motors are there to serve
+
+259
+00:10:18,459 --> 00:10:19,054
+the V12.
+
+260
+00:10:19,405 --> 00:10:21,576
+The second big decision was where to
+
+261
+00:10:21,576 --> 00:10:22,481
+put everything.
+
+262
+00:10:22,661 --> 00:10:25,456
+The Aventador's gearbox sat in front of
+
+263
+00:10:25,456 --> 00:10:27,750
+the engine, in the middle of the
+
+264
+00:10:27,750 --> 00:10:28,037
+car.
+
+265
+00:10:28,217 --> 00:10:29,457
+For the Revuelto,
+
+266
+00:10:29,457 --> 00:10:33,469
+Lamborghini moved a new eight-speed dual-clutch gearbox
+
+267
+00:10:33,469 --> 00:10:36,460
+behind the engine and turned it sideways.
+
+268
+00:10:36,640 --> 00:10:39,233
+Car and Driver reported this was done
+
+269
+00:10:39,233 --> 00:10:41,826
+to optimize the center of gravity and
+
+270
+00:10:41,826 --> 00:10:44,418
+free up space for a working diffuser.
+
+271
+00:10:44,769 --> 00:10:46,313
+That move freed the central tunnel.
+
+272
+00:10:46,493 --> 00:10:49,654
+Lamborghini filled it with the three point
+
+273
+00:10:49,654 --> 00:10:51,762
+eight kilowatt hour battery,
+
+274
+00:10:51,762 --> 00:10:54,547
+running lengthwise between the seats,
+
+275
+00:10:54,547 --> 00:10:55,525
+like a spine.
+
+276
+00:10:55,705 --> 00:10:58,703
+One electric motor sits on the gearbox,
+
+277
+00:10:58,703 --> 00:11:01,009
+and two more sit at the front,
+
+278
+00:11:01,009 --> 00:11:02,085
+one per wheel,
+
+279
+00:11:02,085 --> 00:11:05,237
+for all-wheel drive and torque vectoring.
+
+280
+00:11:05,417 --> 00:11:08,941
+Total output reached one thousand and one
+
+281
+00:11:08,941 --> 00:11:09,887
+horsepower.
+
+282
+00:11:10,237 --> 00:11:12,942
+The engineers also worried about feel.
+
+283
+00:11:13,122 --> 00:11:15,272
+Mohr told Hagerty that they put a
+
+284
+00:11:15,272 --> 00:11:17,552
+lot of effort into making the boost
+
+285
+00:11:17,552 --> 00:11:19,638
+from the electric motors linear,
+
+286
+00:11:19,638 --> 00:11:21,527
+so the car does not feel like
+
+287
+00:11:21,527 --> 00:11:22,700
+it suddenly jumps.
+
+288
+00:11:22,880 --> 00:11:24,819
+And they worked on brake feel,
+
+289
+00:11:24,819 --> 00:11:27,792
+with software deciding when the motors recover
+
+290
+00:11:27,792 --> 00:11:30,765
+energy and when the carbon-ceramic brakes take
+
+291
+00:11:30,765 --> 00:11:31,088
+over.
+
+292
+00:11:31,439 --> 00:11:33,076
+The body changed too.
+
+293
+00:11:33,256 --> 00:11:36,714
+Lamborghini built a new carbon fiber monocoque
+
+294
+00:11:36,714 --> 00:11:39,346
+that Car and Driver reported is ten
+
+295
+00:11:39,346 --> 00:11:43,256
+percent lighter and twenty-five percent stiffer than
+
+296
+00:11:43,256 --> 00:11:44,459
+the Aventador's.
+
+297
+00:11:44,639 --> 00:11:47,684
+Hagerty reported that the front structure,
+
+298
+00:11:47,684 --> 00:11:50,077
+made of Forged Composites carbon,
+
+299
+00:11:50,077 --> 00:11:53,412
+is twenty percent lighter than the Aventador's
+
+300
+00:11:53,412 --> 00:11:55,297
+aluminium front structure.
+
+301
+00:11:55,648 --> 00:11:58,586
+The driver controls all of this through
+
+302
+00:11:58,586 --> 00:11:59,038
+modes.
+
+303
+00:11:59,218 --> 00:12:01,768
+Car and Driver listed Strada,
+
+304
+00:12:01,768 --> 00:12:03,702
+Sport, Corsa, and Ego,
+
+305
+00:12:03,702 --> 00:12:06,252
+plus a new mode called Citta,
+
+306
+00:12:06,252 --> 00:12:07,747
+Italian for city,
+
+307
+00:12:07,747 --> 00:12:11,177
+that drives on electricity alone for an
+
+308
+00:12:11,177 --> 00:12:13,463
+estimated six miles or so.
+
+309
+00:12:13,643 --> 00:12:16,355
+Knobs on the steering wheel set both
+
+310
+00:12:16,355 --> 00:12:18,992
+the driving mode and how the hybrid
+
+311
+00:12:18,992 --> 00:12:20,725
+system uses its energy,
+
+312
+00:12:20,725 --> 00:12:24,115
+recharging, holding, or spending the battery.
+
+313
+00:12:24,466 --> 00:12:26,544
+That electric mode was not a gimmick.
+
+314
+00:12:26,724 --> 00:12:28,465
+It answered a real problem.
+
+315
+00:12:28,645 --> 00:12:31,417
+Some cities and regions are moving toward
+
+316
+00:12:31,417 --> 00:12:33,850
+zones where only cars that can drive
+
+317
+00:12:33,850 --> 00:12:35,878
+without emissions are welcome.
+
+318
+00:12:36,058 --> 00:12:38,780
+A V12 supercar that can arrive at
+
+319
+00:12:38,780 --> 00:12:41,337
+a hotel or leave a quiet street
+
+320
+00:12:41,337 --> 00:12:44,141
+in electric mode fits into a world
+
+321
+00:12:44,141 --> 00:12:46,368
+that is changing around it.
+
+322
+00:12:46,718 --> 00:12:48,559
+The numbers that came out of all
+
+323
+00:12:48,559 --> 00:12:49,423
+this were huge.
+
+324
+00:12:49,603 --> 00:12:53,056
+Wikipedia lists zero to one hundred kilometers
+
+325
+00:12:53,056 --> 00:12:55,683
+per hour in two point five seconds,
+
+326
+00:12:55,683 --> 00:12:58,085
+zero to two hundred in six point
+
+327
+00:12:58,085 --> 00:13:00,863
+six seconds, zero to three hundred in
+
+328
+00:13:00,863 --> 00:13:02,364
+fifteen point three,
+
+329
+00:13:02,364 --> 00:13:04,616
+and a top speed of about three
+
+330
+00:13:04,616 --> 00:13:07,169
+hundred fifty kilometers per hour.
+
+331
+00:13:07,349 --> 00:13:10,891
+And Car and Driver reported Lamborghini's claim
+
+332
+00:13:10,891 --> 00:13:13,680
+that it is quicker than the Aventador
+
+333
+00:13:13,680 --> 00:13:14,132
+S V J,
+
+334
+00:13:14,132 --> 00:13:16,544
+on track and in a straight line.
+
+335
+00:13:16,894 --> 00:13:18,415
+Then came design.
+
+336
+00:13:18,595 --> 00:13:21,839
+Mitja Borkert, Lamborghini's design chief,
+
+337
+00:13:21,839 --> 00:13:25,084
+told Hagerty that the team's challenge was
+
+338
+00:13:25,084 --> 00:13:28,175
+to design the next Lamborghini flagship,
+
+339
+00:13:28,175 --> 00:13:31,651
+following the brand's design DNA while adding
+
+340
+00:13:31,651 --> 00:13:33,351
+an unexpected element.
+
+341
+00:13:33,531 --> 00:13:36,872
+Car and Driver reported that executives wanted
+
+342
+00:13:36,872 --> 00:13:39,123
+to avoid a car that looked like
+
+343
+00:13:39,123 --> 00:13:40,357
+a reskinned Sian.
+
+344
+00:13:40,708 --> 00:13:44,034
+The result has Y-shaped lights front and
+
+345
+00:13:44,034 --> 00:13:47,361
+rear, a nod to Lamborghini's hexagon and
+
+346
+00:13:47,361 --> 00:13:48,858
+Y design language.
+
+347
+00:13:49,038 --> 00:13:51,257
+The exhaust pipes sit high,
+
+348
+00:13:51,257 --> 00:13:53,148
+between the taillights.
+
+349
+00:13:53,328 --> 00:13:55,540
+Hagerty pointed out that this is not
+
+350
+00:13:55,540 --> 00:13:56,462
+just for looks.
+
+351
+00:13:56,642 --> 00:13:59,222
+It shortens the path from the cylinder
+
+352
+00:13:59,222 --> 00:14:00,648
+heads to the outlets.
+
+353
+00:14:00,828 --> 00:14:03,329
+And the engine bay is left open
+
+354
+00:14:03,329 --> 00:14:05,588
+for everyone to see the V12.
+
+355
+00:14:05,938 --> 00:14:07,760
+And owners shaped the interior.
+
+356
+00:14:07,940 --> 00:14:11,429
+Hagerty wrote that customers wanted more space,
+
+357
+00:14:11,429 --> 00:14:13,359
+and Lamborghini delivered,
+
+358
+00:14:13,359 --> 00:14:16,477
+with a wheelbase about three inches longer
+
+359
+00:14:16,477 --> 00:14:18,779
+and a roof about an inch taller
+
+360
+00:14:18,779 --> 00:14:20,189
+than the Aventador.
+
+361
+00:14:20,369 --> 00:14:22,784
+The monocoque was made bigger to fit
+
+362
+00:14:22,784 --> 00:14:25,266
+taller drivers, and it still came out
+
+363
+00:14:25,266 --> 00:14:25,802
+lighter.
+
+364
+00:14:26,153 --> 00:14:27,697
+Finally, the name.
+
+365
+00:14:27,877 --> 00:14:30,617
+Revuelto was a Spanish fighting bull that
+
+366
+00:14:30,617 --> 00:14:33,023
+fought in the Barcelona arena in the
+
+367
+00:14:33,023 --> 00:14:35,830
+eighteen eighties, according to Wikipedia.
+
+368
+00:14:36,010 --> 00:14:37,513
+After the Countach,
+
+369
+00:14:37,513 --> 00:14:39,965
+the Sian, and other exceptions,
+
+370
+00:14:39,965 --> 00:14:42,813
+the flagship went back to the oldest
+
+371
+00:14:42,813 --> 00:14:45,107
+Lamborghini tradition of all,
+
+372
+00:14:45,107 --> 00:14:46,215
+a bull's name.
+
+373
+00:14:46,565 --> 00:14:49,615
+Inside, the Revuelto shows how much the
+
+374
+00:14:49,615 --> 00:14:50,709
+brand changed.
+
+375
+00:14:50,889 --> 00:14:53,698
+Car and Driver listed a twelve point
+
+376
+00:14:53,698 --> 00:14:55,726
+three inch driver display,
+
+377
+00:14:55,726 --> 00:14:58,924
+an eight point four inch vertical central
+
+378
+00:14:58,924 --> 00:15:01,499
+screen, and a nine point one inch
+
+379
+00:15:01,499 --> 00:15:04,775
+passenger screen, a first for Lamborghini.
+
+380
+00:15:04,955 --> 00:15:07,654
+But the start button still sits under
+
+381
+00:15:07,654 --> 00:15:08,457
+a red flap,
+
+382
+00:15:08,457 --> 00:15:10,864
+like the switch of a fighter jet.
+
+383
+00:15:11,044 --> 00:15:13,680
+New technology, old theater.
+
+384
+00:15:14,030 --> 00:15:16,573
+The Revuelto was revealed online on the
+
+385
+00:15:16,573 --> 00:15:19,312
+twenty-ninth of March twenty twenty-three.
+
+386
+00:15:19,492 --> 00:15:21,718
+Full production started by July,
+
+387
+00:15:21,718 --> 00:15:24,291
+and first deliveries came in the last
+
+388
+00:15:24,291 --> 00:15:26,447
+quarter of twenty twenty-three.
+
+389
+00:15:26,627 --> 00:15:30,224
+Motor Authority reported in July twenty twenty-three
+
+390
+00:15:30,224 --> 00:15:32,507
+that the car was already sold out
+
+391
+00:15:32,507 --> 00:15:33,890
+for about two years,
+
+392
+00:15:33,890 --> 00:15:36,658
+before a single customer had driven one.
+
+393
+00:15:37,008 --> 00:15:40,386
+The pace of electrification followed the plan.
+
+394
+00:15:40,566 --> 00:15:43,193
+Car and Driver's roadmap at the reveal
+
+395
+00:15:43,193 --> 00:15:45,544
+said a hybrid Urus would follow in
+
+396
+00:15:45,544 --> 00:15:48,932
+twenty twenty-four, then a hybrid replacement for
+
+397
+00:15:48,932 --> 00:15:49,761
+the Huracan.
+
+398
+00:15:49,941 --> 00:15:53,914
+Today, Lamborghini's lineup is the Revuelto,
+
+399
+00:15:53,914 --> 00:15:56,803
+the Temerario plug-in hybrid V8,
+
+400
+00:15:56,803 --> 00:15:57,977
+and the Urus,
+
+401
+00:15:57,977 --> 00:16:00,054
+according to Wikipedia.
+
+402
+00:16:00,234 --> 00:16:03,356
+The promise of Direzione Cor Tauri largely
+
+403
+00:16:03,356 --> 00:16:04,100
+came true.
+
+404
+00:16:04,450 --> 00:16:06,191
+And sales did not suffer.
+
+405
+00:16:06,371 --> 00:16:08,027
+In twenty twenty-four,
+
+406
+00:16:08,027 --> 00:16:11,564
+Lamborghini delivered a record ten thousand six
+
+407
+00:16:11,564 --> 00:16:13,521
+hundred eighty-seven cars,
+
+408
+00:16:13,521 --> 00:16:17,134
+more than six percent above twenty twenty-three,
+
+409
+00:16:17,134 --> 00:16:19,316
+according to duPont Registry.
+
+410
+00:16:19,496 --> 00:16:22,800
+Wikipedia lists one thousand four hundred six
+
+411
+00:16:22,800 --> 00:16:24,709
+Revueltos built that year.
+
+412
+00:16:24,889 --> 00:16:27,642
+The hybrid V12 did not scare buyers
+
+413
+00:16:27,642 --> 00:16:28,035
+away.
+
+414
+00:16:28,386 --> 00:16:30,510
+The critics were impressed too.
+
+415
+00:16:30,690 --> 00:16:34,146
+In Top Gear's twenty twenty-five Performance Car
+
+416
+00:16:34,146 --> 00:16:35,010
+of the Year,
+
+417
+00:16:35,010 --> 00:16:38,250
+the Revuelto beat the Ferrari twelve Cilindri
+
+418
+00:16:38,250 --> 00:16:41,058
+and the Aston Martin Vanquish on track.
+
+419
+00:16:41,238 --> 00:16:43,567
+Top Gear said its chassis can keep
+
+420
+00:16:43,567 --> 00:16:45,005
+pace with its engine,
+
+421
+00:16:45,005 --> 00:16:47,060
+and that the car is still loud
+
+422
+00:16:47,060 --> 00:16:49,458
+and dramatic even in electric mode.
+
+423
+00:16:49,808 --> 00:16:51,797
+And the car is still built the
+
+424
+00:16:51,797 --> 00:16:52,327
+old way.
+
+425
+00:16:52,507 --> 00:16:55,850
+Motor Authority reported that the Revuelto is
+
+426
+00:16:55,850 --> 00:16:59,491
+largely hand-built, by around five hundred people
+
+427
+00:16:59,491 --> 00:17:01,274
+at Sant'Agata Bolognese,
+
+428
+00:17:01,274 --> 00:17:04,320
+the same town where every Lamborghini has
+
+429
+00:17:04,320 --> 00:17:07,143
+been built since nineteen sixty-three,
+
+430
+00:17:07,143 --> 00:17:08,703
+according to Hagerty.
+
+431
+00:17:08,883 --> 00:17:11,600
+That is one reason supply stayed tight,
+
+432
+00:17:11,600 --> 00:17:13,898
+and the waiting list stayed long.
+
+433
+00:17:14,249 --> 00:17:17,773
+Lamborghini also used the Revuelto as a
+
+434
+00:17:17,773 --> 00:17:18,405
+canvas.
+
+435
+00:17:18,585 --> 00:17:22,297
+Its Ad Personam department created one-off Opera
+
+436
+00:17:22,297 --> 00:17:25,236
+Unica cars with hand-painted liveries,
+
+437
+00:17:25,236 --> 00:17:29,181
+including one inspired by the Taurus constellation,
+
+438
+00:17:29,181 --> 00:17:32,893
+the same constellation behind the name Direzione
+
+439
+00:17:32,893 --> 00:17:33,666
+Cor Tauri.
+
+440
+00:17:33,846 --> 00:17:36,695
+There was a collaboration with Ducati,
+
+441
+00:17:36,695 --> 00:17:38,568
+and in twenty twenty-six,
+
+442
+00:17:38,568 --> 00:17:42,166
+Revuelto Italia editions for the Winter Olympics
+
+443
+00:17:42,166 --> 00:17:45,689
+and for the anniversary of Italian unification.
+
+444
+00:17:46,039 --> 00:17:47,815
+The rival chose a different path.
+
+445
+00:17:47,995 --> 00:17:49,997
+In May twenty twenty-four,
+
+446
+00:17:49,997 --> 00:17:53,463
+Ferrari revealed the twelve Cilindri in Miami
+
+447
+00:17:53,463 --> 00:17:56,851
+Beach, a front-engined V12 grand tourer with
+
+448
+00:17:56,851 --> 00:17:58,699
+no hybrid system at all.
+
+449
+00:17:58,879 --> 00:18:02,217
+Autocar reported that Ferrari invested heavily to
+
+450
+00:18:02,217 --> 00:18:05,077
+make its biggest engine meet new emissions
+
+451
+00:18:05,077 --> 00:18:05,485
+rules.
+
+452
+00:18:05,665 --> 00:18:08,345
+So the two great Italian V12 brands
+
+453
+00:18:08,345 --> 00:18:11,714
+answered the same pressure in opposite ways.
+
+454
+00:18:12,065 --> 00:18:14,817
+Top Gear measured the difference in its
+
+455
+00:18:14,817 --> 00:18:16,511
+twenty twenty-five test.
+
+456
+00:18:16,691 --> 00:18:18,320
+Since twenty fifteen,
+
+457
+00:18:18,320 --> 00:18:21,344
+it said, Ferrari's V12 had gained about
+
+458
+00:18:21,344 --> 00:18:22,740
+ninety horsepower.
+
+459
+00:18:22,920 --> 00:18:26,224
+Lamborghini's V12 car had gained about three
+
+460
+00:18:26,224 --> 00:18:29,677
+hundred eleven, thanks to the electric motors.
+
+461
+00:18:29,857 --> 00:18:30,993
+And on track,
+
+462
+00:18:30,993 --> 00:18:33,526
+the Revuelto came out on top.
+
+463
+00:18:33,706 --> 00:18:36,023
+The bet on electricity paid off in
+
+464
+00:18:36,023 --> 00:18:36,841
+performance.
+
+465
+00:18:37,191 --> 00:18:39,774
+We compare those two cars in detail
+
+466
+00:18:39,774 --> 00:18:42,137
+in another video of this series.
+
+467
+00:18:42,317 --> 00:18:43,504
+But for this story,
+
+468
+00:18:43,504 --> 00:18:44,755
+the point is simple.
+
+469
+00:18:44,935 --> 00:18:48,028
+Lamborghini did not hybridize because it had
+
+470
+00:18:48,028 --> 00:18:48,801
+to give up.
+
+471
+00:18:48,981 --> 00:18:50,531
+It hybridized to win,
+
+472
+00:18:50,531 --> 00:18:53,557
+and in the most respected comparison test
+
+473
+00:18:53,557 --> 00:18:54,443
+of its year,
+
+474
+00:18:54,443 --> 00:18:54,960
+it did.
+
+475
+00:18:55,310 --> 00:18:56,831
+It was not all perfect.
+
+476
+00:18:57,011 --> 00:18:58,603
+In twenty twenty-five,
+
+477
+00:18:58,603 --> 00:19:02,223
+AutoGuide reported a recall of twenty-seven United
+
+478
+00:19:02,223 --> 00:19:05,191
+States Revueltos, because pins on the gas
+
+479
+00:19:05,191 --> 00:19:08,231
+springs holding up the scissor doors could
+
+480
+00:19:08,231 --> 00:19:10,548
+have been installed incorrectly.
+
+481
+00:19:10,728 --> 00:19:12,872
+A door could drop suddenly,
+
+482
+00:19:12,872 --> 00:19:15,650
+or become hard to open from inside.
+
+483
+00:19:15,830 --> 00:19:18,847
+Dealers inspected and replaced the pins for
+
+484
+00:19:18,847 --> 00:19:19,197
+free.
+
+485
+00:19:19,548 --> 00:19:21,011
+And here is the twist.
+
+486
+00:19:21,191 --> 00:19:23,671
+The scissor doors are a design element
+
+487
+00:19:23,671 --> 00:19:25,825
+going back to the Countach of the
+
+488
+00:19:25,825 --> 00:19:27,065
+nineteen seventies.
+
+489
+00:19:27,245 --> 00:19:28,513
+Fifty years later,
+
+490
+00:19:28,513 --> 00:19:30,626
+they are still one of the most
+
+491
+00:19:30,626 --> 00:19:33,584
+complex and expensive features on the car.
+
+492
+00:19:33,764 --> 00:19:36,500
+Tradition is part of why people buy
+
+493
+00:19:36,500 --> 00:19:39,627
+a Lamborghini, and tradition has a cost.
+
+494
+00:19:39,978 --> 00:19:42,335
+In August twenty twenty-six,
+
+495
+00:19:42,335 --> 00:19:44,104
+at Monterey Car Week,
+
+496
+00:19:44,104 --> 00:19:47,304
+Lamborghini revealed the Revuelto S V.
+
+497
+00:19:47,484 --> 00:19:52,049
+Auto123 reported about one thousand fifty-one horsepower,
+
+498
+00:19:52,049 --> 00:19:54,452
+eighty percent more downforce,
+
+499
+00:19:54,452 --> 00:19:57,175
+and a lap of the Hockenheimring in
+
+500
+00:19:57,175 --> 00:20:00,299
+one minute forty-one point six seconds,
+
+501
+00:20:00,299 --> 00:20:03,343
+the fastest production car time there.
+
+502
+00:20:03,523 --> 00:20:06,589
+Production is limited to one thousand nine
+
+503
+00:20:06,589 --> 00:20:10,311
+hundred sixty-three, the year Ferruccio founded the
+
+504
+00:20:10,311 --> 00:20:10,895
+company.
+
+505
+00:20:11,245 --> 00:20:13,172
+That number closes a circle.
+
+506
+00:20:13,352 --> 00:20:16,859
+Sixty-three years after a tractor maker built
+
+507
+00:20:16,859 --> 00:20:19,820
+his first V12 to compete with Ferrari,
+
+508
+00:20:19,820 --> 00:20:23,094
+Lamborghini built its fastest V12 car ever
+
+509
+00:20:23,094 --> 00:20:25,510
+and limited it to a number that
+
+510
+00:20:25,510 --> 00:20:27,458
+honors his founding year.
+
+511
+00:20:27,638 --> 00:20:28,837
+The V12 survived,
+
+512
+00:20:28,837 --> 00:20:31,376
+and it did it by adding electricity.
+
+513
+00:20:31,727 --> 00:20:33,933
+And the next step is already planned.
+
+514
+00:20:34,113 --> 00:20:37,699
+Car and Driver's twenty twenty-three roadmap said
+
+515
+00:20:37,699 --> 00:20:41,067
+Lamborghini's first fully electric car was due
+
+516
+00:20:41,067 --> 00:20:42,750
+in twenty twenty-eight.
+
+517
+00:20:42,930 --> 00:20:43,967
+When it comes,
+
+518
+00:20:43,967 --> 00:20:46,782
+the Revuelto will be remembered as the
+
+519
+00:20:46,782 --> 00:20:49,818
+bridge, the car that proved a Lamborghini
+
+520
+00:20:49,818 --> 00:20:53,373
+flagship could be electrified without losing its
+
+521
+00:20:53,373 --> 00:20:53,670
+V12.
+
+522
+00:20:54,020 --> 00:20:56,942
+So why did Lamborghini build the Revuelto
+
+523
+00:20:56,942 --> 00:20:57,584
+this way?
+
+524
+00:20:57,764 --> 00:21:00,514
+Because it had promised to cut emissions
+
+525
+00:21:00,514 --> 00:21:02,645
+in half, and it refused to give
+
+526
+00:21:02,645 --> 00:21:04,776
+up the naturally aspirated V12.
+
+527
+00:21:04,956 --> 00:21:07,917
+Every unusual feature follows from those two
+
+528
+00:21:07,917 --> 00:21:08,590
+decisions.
+
+529
+00:21:08,770 --> 00:21:10,346
+The sideways gearbox,
+
+530
+00:21:10,346 --> 00:21:11,696
+the battery spine,
+
+531
+00:21:11,696 --> 00:21:13,046
+the small battery,
+
+532
+00:21:13,046 --> 00:21:14,996
+the front electric motors,
+
+533
+00:21:14,996 --> 00:21:17,397
+and the high-revving new engine.
+
+534
+00:21:17,747 --> 00:21:20,176
+In the rest of this Revuelto series,
+
+535
+00:21:20,176 --> 00:21:22,807
+we reveal two secrets hidden inside the
+
+536
+00:21:22,807 --> 00:21:25,439
+car, compare it with the Ferrari twelve
+
+537
+00:21:25,439 --> 00:21:28,070
+Cilindri, and break down what it really
+
+538
+00:21:28,070 --> 00:21:29,217
+costs to own one.
+
+539
+00:21:29,397 --> 00:21:31,529
+Tell us in the comments if you
+
+540
+00:21:31,529 --> 00:21:34,372
+think Lamborghini made the right choice,
+
+541
+00:21:34,372 --> 00:21:36,647
+or if the V12 should have stayed
+
+542
+00:21:36,647 --> 00:21:37,002
+pure.
+
+543
+00:21:37,352 --> 00:21:39,916
+If you are shopping for something more
+
+544
+00:21:39,916 --> 00:21:41,873
+practical than a Lamborghini,
+
+545
+00:21:41,873 --> 00:21:44,978
+our twenty twenty-seven Truck Buyer's Guide is
+
+546
+00:21:44,978 --> 00:21:46,733
+linked in the description.
+
+547
+00:21:46,913 --> 00:21:50,337
+Subscribe to Pickup Reality for more stories
+
+548
+00:21:50,337 --> 00:21:53,762
+about the machines people really talk about.
