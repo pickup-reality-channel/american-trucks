@@ -1,0 +1,348 @@
+{
+ "id": "video69",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Ferrari SF90",
+ "scenes": [
+  {
+   "text": "The Ferrari SF90 Stradale has almost one thousand horsepower, it reaches one hundred kilometers per hour in two and a half seconds, and when it arrived it was faster around Ferrari's own test track than the LaFerrari hypercar. But it hides two facts that most people, even many Ferrari fans, have never heard. One of them is about going backward. The other is about which wheels move the car.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE SF90",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the hint. The SF90 has eight forward gears, and not a single reverse gear. And in one of its modes, this mid-engined Ferrari becomes a front-wheel-drive car. Both facts sound like mistakes. They are actually two of the smartest decisions Ferrari ever made.",
+   "query": "Ferrari SF90 Stradale rear",
+   "caption": "NO REVERSE GEAR?",
+   "cuts": 8
+  },
+  {
+   "text": "Along the way, you will see the recall that told owners not to drive their cars, the extreme XX version limited to seven hundred ninety-nine cars, and the car that replaced the SF90 sooner than many expected. Every number in this video comes from a published source, and the list is in the description.",
+   "query": "Ferrari SF90 XX Stradale",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "And one more twist before we start. The SF90 was not Ferrari's first hybrid. But it was the first one Ferrari built for more than a few hundred customers, and that changed the company.",
+   "query": "Ferrari LaFerrari",
+   "caption": "NOT THE FIRST FERRARI HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "The name tells a story. S F ninety refers to the ninetieth anniversary of Scuderia Ferrari, the company's racing team, and Stradale means made for the road. Ferrari unveiled it on Wednesday, the twenty-ninth of May twenty nineteen, at its home in Maranello, Italy, according to Reuters.",
+   "query": "Ferrari Maranello",
+   "caption": "SF90: 90 YEARS OF SCUDERIA FERRARI",
+   "cuts": 3,
+   "chapter": "Ninety years of racing"
+  },
+  {
+   "text": "Ferrari's chief executive at the time, Louis Camilleri, called the car astounding, fast, and completely revolutionary. Reuters reported that about two thousand selected customers were invited to view and reserve it, with deliveries due within twelve months. It was a bigger audience than any Ferrari hybrid before it.",
+   "query": "Ferrari SF90 Stradale red",
+   "caption": "ASTOUNDING, FAST, REVOLUTIONARY",
+   "cuts": 3
+  },
+  {
+   "text": "The earlier LaFerrari, built from twenty thirteen to twenty sixteen, was a hybrid too, but a limited series. Driven, a New Zealand outlet, lists five hundred coupes and two hundred ten Aperta roadsters. Its hybrid system was inspired by the K E R S energy recovery technology that came into Formula One in two thousand nine. The SF90 took that idea to series production.",
+   "query": "Ferrari LaFerrari Aperta",
+   "caption": "LAFERRARI: A LIMITED HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "The numbers are serious. A three point nine nine liter twin-turbo V8, the F one fifty-four, makes about seven hundred sixty-nine horsepower on its own. Three electric motors add about two hundred seventeen more. Total output is about nine hundred eighty-six horsepower, or one thousand metric horsepower, with eight hundred newton meters of torque.",
+   "query": "Ferrari SF90 engine",
+   "caption": "986 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Zero to one hundred kilometers per hour takes two point five seconds, zero to two hundred takes six point seven, and top speed is three hundred forty kilometers per hour, or two hundred eleven miles per hour. The battery is seven point nine kilowatt hours, and the gearbox is an eight-speed dual-clutch unit. And that gearbox is where the first secret hides.",
+   "query": "Ferrari SF90 Stradale side",
+   "caption": "0-100 IN 2.5 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "Before the secrets, a quick word on how a dual-clutch gearbox works, because it matters for secret number one. It has two clutches, one for the odd gears and one for the even gears. While you drive in one gear, the next one is already selected and waiting. That is why the shifts are so fast. Design News reported that this new eight-speed unit, built with Magna, is about seven kilograms lighter than the seven-speed gearbox it replaced, and its clutches are twenty percent smaller in diameter.",
+   "query": "Ferrari SF90 Stradale gear selector",
+   "caption": "TWO CLUTCHES, EIGHT GEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Secret number one. The SF90 has no reverse gear. Its eight-speed dual-clutch gearbox only goes forward. duPont Registry and InsideEVs both reported that when an SF90 backs out of a parking space, it is the front electric motors that do the work, spinning backward.",
+   "query": "Ferrari SF90 Stradale parking",
+   "caption": "SECRET 1: NO REVERSE GEAR",
+   "cuts": 3,
+   "chapter": "Secret 1: no reverse gear"
+  },
+  {
+   "text": "InsideEVs explained that reverse works only in the electric eDrive mode, powered by the front motors, so the car can move at low speed without even starting the V8. In other words, every time an SF90 reverses, it is behaving like an electric car.",
+   "query": "Ferrari SF90 front",
+   "caption": "REVERSE IS ELECTRIC",
+   "cuts": 3
+  },
+  {
+   "text": "Why would Ferrari remove a reverse gear from a car that costs half a million dollars? Weight and space. A reverse gear needs its own gear set and shafts inside the gearbox. If electric motors can already move the car backward, that hardware becomes dead weight. Removing it makes the gearbox lighter and more compact.",
+   "query": "Ferrari SF90 gearbox",
+   "caption": "WHY? WEIGHT AND SPACE",
+   "cuts": 3
+  },
+  {
+   "text": "Design News put a number on it. According to its report, eliminating the reverse gear saved about ten kilograms on its own, on top of the weight already saved by the new design. The complete eight-speed transmission weighs about one hundred thirty-eight kilograms. In a car where every kilogram was fought for, ten kilograms from one missing gear is a real win.",
+   "query": "Ferrari SF90 Stradale rear diffuser",
+   "caption": "REVERSE GONE: ~10 KG SAVED",
+   "cuts": 3
+  },
+  {
+   "text": "And Ferrari was not alone. The McLaren Artura, another plug-in hybrid supercar, also uses its electric motor in place of a reverse gear, according to Wikipedia. Once a car has strong electric motors, the old reverse gear starts to look like a part from another era.",
+   "query": "McLaren Artura",
+   "caption": "McLAREN DID IT TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. Weight mattered a lot, because the hybrid system is heavy. InsideEVs reported that the hybrid components add about two hundred seventy kilograms. That is roughly the weight of three or four adult passengers. Ferrari had to save weight everywhere else just to keep the car competitive, and dropping the reverse gear was one of those savings.",
+   "query": "Ferrari SF90 carbon",
+   "caption": "HYBRID PARTS: ~270 KG",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a way to picture it. Every forward gear in a gearbox is a pair of gears in mesh. Reverse needs an extra gear in between, an idler, to flip the direction of rotation, plus the parts to engage it. In the SF90, all of that simply is not there. When the driver selects reverse, the computer asks the front motors to turn the other way.",
+   "query": "Ferrari SF90 Stradale cockpit",
+   "caption": "NO IDLER GEAR, NO REVERSE",
+   "cuts": 3
+  },
+  {
+   "text": "There is even a small, very Ferrari detail. In the SF90, the gear selector on the center tunnel was designed to look like the classic Ferrari open gate, the metal grid that guided the gear lever in older manual Ferraris. Autobuzz, reporting Ferrari's own launch details, said the selector draws on the manual gearbox lever gate, with past and present merging. So the most modern Ferrari of its time reverses electrically, while its selector imitates a manual gearbox from decades ago.",
+   "query": "Ferrari gated shifter",
+   "caption": "A NOD TO THE OPEN GATE",
+   "cuts": 3
+  },
+  {
+   "text": "InsideEVs said Ferrari kept the dry weight at one thousand five hundred seventy kilograms, which means about one point five seven kilograms for every metric horsepower. For a car carrying a battery, three motors, and power electronics, that is a remarkable result.",
+   "query": "Ferrari SF90 Assetto Fiorano",
+   "caption": "1.57 KG PER HORSEPOWER",
+   "cuts": 3
+  },
+  {
+   "text": "Secret number two. In one of its modes, the SF90 is a front-wheel-drive car. In eDrive mode, the V8 is switched off, and the car moves only on its two front electric motors. InsideEVs reported that in eDrive the SF90 uses only the front axle, with a range of up to about twenty-five kilometers.",
+   "query": "Ferrari SF90 Stradale electric",
+   "caption": "SECRET 2: FRONT-WHEEL DRIVE",
+   "cuts": 3,
+   "chapter": "Secret 2: front-wheel drive"
+  },
+  {
+   "text": "Think about that. A mid-engined Ferrari, with its V8 behind the driver, pulling itself through a city with its front wheels, silently. With the V8 off, InsideEVs said the SF90 can reach about one hundred thirty-five kilometers per hour, which is about eighty-four miles per hour, on electricity alone.",
+   "query": "Ferrari SF90 city",
+   "caption": "135 KM/H ON ELECTRICITY",
+   "cuts": 3
+  },
+  {
+   "text": "Reuters explained the reason. The electric-only mode lets the car run quietly through city centers. In some European cities, there are growing limits on noise and emissions. A Ferrari that can enter a historic center in silence, and then wake up its V8 on the open road, fits into that world.",
+   "query": "Ferrari SF90 historic city",
+   "caption": "SILENT IN THE CITY",
+   "cuts": 3
+  },
+  {
+   "text": "And when the V8 is running, those front motors do something else entirely. They give the car all-wheel drive and torque vectoring. duPont Registry described Ferrari's R A C dash e system, which can send different amounts of power to each front wheel to help the car turn into a corner.",
+   "query": "Ferrari SF90 cornering",
+   "caption": "RAC-e TORQUE VECTORING",
+   "cuts": 3
+  },
+  {
+   "text": "So the twist is that the same front motors that make the SF90 a quiet city car also make it a faster track car. One part of the car, two completely different personalities. Ferrari calls its drive modes eDrive, Hybrid, which is the default, Performance, and Qualify, which uses the full power of all three motors and the V8.",
+   "query": "Ferrari SF90 steering wheel",
+   "caption": "eDRIVE TO QUALIFY",
+   "cuts": 3
+  },
+  {
+   "text": "And here is a detail that makes this even stranger. The third electric motor is not at the front at all. Wikipedia describes it as sitting between the V8 and the gearbox, at the back of the car, where it helps the engine and recharges the battery. So the SF90 can be a silent front-wheel-drive car, a hybrid all-wheel-drive car, or a full-power track car, depending on the button you press.",
+   "query": "Ferrari SF90 Stradale yellow",
+   "caption": "THREE CARS IN ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Now, how useful is twenty-five kilometers of electric range in real life? It is about fifteen miles. That is enough to leave a city center, cross a quiet neighborhood early in the morning, or arrive at a hotel without waking anyone. It is not enough for a long commute. Ferrari never sold the SF90 as an electric car. It sold it as a Ferrari that can choose when to be silent.",
+   "query": "Ferrari SF90 Stradale night",
+   "caption": "~15 MILES OF SILENCE",
+   "cuts": 3
+  },
+  {
+   "text": "And the battery is small for a reason. At seven point nine kilowatt hours, it is a fraction of the size of a typical electric car battery. A bigger battery would add range, but also weight, and weight is the enemy of a supercar. Ferrari chose just enough battery to make the front motors useful, and no more.",
+   "query": "Ferrari SF90 chassis",
+   "caption": "7.9 kWh: JUST ENOUGH",
+   "cuts": 3
+  },
+  {
+   "text": "So did all this make the SF90 fast? Wikipedia says that as of twenty twenty it was the fastest Ferrari road car around Fiorano, Ferrari's own test track, seven tenths of a second faster than LaFerrari. InsideEVs listed a Fiorano lap of about seventy-nine seconds.",
+   "query": "Fiorano circuit",
+   "caption": "7 TENTHS FASTER THAN LAFERRARI",
+   "cuts": 3,
+   "chapter": "Faster than LaFerrari"
+  },
+  {
+   "text": "That is a big statement. The LaFerrari was a limited-edition hypercar. The SF90 was a series production car that more customers could buy. Ferrari built a car for a wider audience and it beat the brand's flagship on its own circuit.",
+   "query": "Ferrari LaFerrari track",
+   "caption": "SERIES CAR BEATS HYPERCAR",
+   "cuts": 3
+  },
+  {
+   "text": "And in twenty twenty, Wikipedia says, the SF90 lapped the Top Gear test track in one minute eleven point three seconds, the fastest car to lap it at that time. Its aerodynamics helped. Ferrari claims three hundred ninety kilograms of downforce at two hundred fifty kilometers per hour.",
+   "query": "Ferrari SF90 aerodynamics",
+   "caption": "TOP GEAR LAP: 1:11.3",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the Assetto Fiorano package, a track pack with Multimatic shock absorbers, carbon fiber parts, a titanium exhaust, and carbon wheels. Wikipedia says it saves thirty kilograms. CarGurus reported that the package cost about fifty thousand dollars in America.",
+   "query": "Ferrari SF90 Assetto Fiorano",
+   "caption": "ASSETTO FIORANO: ~$50,000",
+   "cuts": 3
+  },
+  {
+   "text": "Ferrari also built an open version, the SF90 Spider, with a retractable hard top. Wikipedia says it was the first Ferrari plug-in hybrid offered as a convertible, and calls it the most powerful non-limited convertible in the world at the time.",
+   "query": "Ferrari SF90 Spider",
+   "caption": "SF90 SPIDER",
+   "cuts": 3,
+   "chapter": "The Spider and the XX"
+  },
+  {
+   "text": "Then came the extreme versions. In twenty twenty-three, Ferrari revealed the SF90 X X Stradale and X X Spider, track-focused cars that are still road legal. Combined output rose to about one thousand sixteen horsepower. Production was set at seven hundred ninety-nine Stradales and five hundred ninety-nine Spiders, all pre-allocated to customers.",
+   "query": "Ferrari SF90 XX Stradale",
+   "caption": "XX: 799 + 599 CARS",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. The X X name comes from Ferrari's track-only program, where customers buy cars like the F X X K that cannot be driven on public roads. The SF90 X X was the first time Ferrari put the X X name on a car you could legally drive on the street.",
+   "query": "Ferrari FXX-K",
+   "caption": "XX ON THE STREET",
+   "cuts": 3
+  },
+  {
+   "text": "The X X also had to look different, and it does. Evo India reported that it is the first Ferrari with a fixed rear wing since the F50 of the nineteen nineties, and that the rear wing alone produces three hundred fifteen kilograms of downforce. The combustion engine also gained power, to about seven hundred eighty-six horsepower, for a total of about one thousand sixteen.",
+   "query": "Ferrari F40 rear wing",
+   "caption": "FIRST FIXED WING SINCE THE F40",
+   "cuts": 3
+  },
+  {
+   "text": "No car is perfect, and the SF90 had a serious recall. In October twenty twenty-three, Motor Authority reported that six hundred fourteen SF90s from the twenty twenty-two to twenty twenty-four model years were recalled in the United States.",
+   "query": "Ferrari SF90 Stradale recall",
+   "caption": "614 CARS RECALLED",
+   "cuts": 3,
+   "chapter": "The recall"
+  },
+  {
+   "text": "The problem was the turbocharger oil delivery pipes. Some may have been made with a notch or the wrong thickness, which could cause an oil leak and a fire. Ferrari and the National Highway Traffic Safety Administration urged owners not to drive the affected cars until dealers replaced the pipes, which they did for free.",
+   "query": "Ferrari SF90 engine bay",
+   "caption": "DON'T DRIVE IT",
+   "cuts": 3
+  },
+  {
+   "text": "It is a reminder that a hybrid supercar has two complex systems at once. A high-strung twin-turbo V8, and a high-voltage electric system. Both have to be perfect, and the SF90's recall was on the old-fashioned side, the turbo engine, not the battery.",
+   "query": "Ferrari V8 engine",
+   "caption": "THE PROBLEM WAS THE TURBO",
+   "cuts": 3
+  },
+  {
+   "text": "Recalls like this are actually common in the supercar world, because these cars are built in small numbers and pushed to extreme limits. What made this one notable was the instruction. Owners of half-million-dollar cars were told to leave them parked until the fix was done. For many, that meant weeks without their Ferrari.",
+   "query": "Ferrari SF90 Stradale garage",
+   "caption": "PARKED UNTIL FIXED",
+   "cuts": 3
+  },
+  {
+   "text": "What is it like to own? CarGurus listed the twenty twenty-three SF90 Stradale at a starting price of about five hundred twenty thousand dollars in the United States, and the Spider at about five hundred seventy thousand. It also listed fuel economy of up to fifty-one M P G e for the coupe, a rating that includes electric driving.",
+   "query": "Ferrari SF90 Stradale price",
+   "caption": "~$520,000 TO START",
+   "cuts": 3,
+   "chapter": "Living with it"
+  },
+  {
+   "text": "Practicality is limited. CarGurus listed just two seats and two point six cubic feet of cargo space. It also noted that the car is not crash tested by the usual American safety agencies, which is normal for low-volume supercars. This is not a car you choose for weekend shopping.",
+   "query": "Ferrari SF90 interior",
+   "caption": "2.6 CUBIC FEET OF CARGO",
+   "cuts": 3
+  },
+  {
+   "text": "The cockpit was also a break with the past. Autobuzz described a sixteen-inch curved digital instrument display behind the steering wheel, controlled through touch pads and haptic buttons on the wheel itself, and no central infotainment screen at all. The passenger gets only a small display, which shows the speed. The idea was that the driver should never have to look away from the road.",
+   "query": "Ferrari SF90 dashboard",
+   "caption": "16-INCH CURVED DISPLAY",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the SF90 introduced a new Ferrari cockpit, with a curved digital display and touch-sensitive controls on the steering wheel. And here is the twist. When Ferrari revealed the SF90's replacement in twenty twenty-five, Motoring Research reported that it went back to physical switches on the steering wheel instead of haptic touch controls, plus a physical start button. Owners had spoken.",
+   "query": "Ferrari SF90 steering wheel",
+   "caption": "BACK TO PHYSICAL BUTTONS",
+   "cuts": 3
+  },
+  {
+   "text": "That replacement is the eight forty-nine Testarossa, revealed on the tenth of September twenty twenty-five. Motoring Research reported about one thousand fifty horsepower combined, about fifty more than the SF90, with an enhanced four liter twin-turbo V8 making about eight hundred thirty horsepower on its own.",
+   "query": "Ferrari 849 Testarossa",
+   "caption": "849 TESTAROSSA: 1,050 HP",
+   "cuts": 3,
+   "chapter": "The replacement"
+  },
+  {
+   "text": "Motoring Research reported prices of about four hundred thousand pounds for the coupe and about four hundred thirty-five thousand pounds for the Spider in Europe, and a top speed of more than two hundred five miles per hour. In other words, more power and more downforce, at a price in the same territory as the car it replaces.",
+   "query": "Ferrari 849 Testarossa Spider",
+   "caption": "~\u00a3400,000 IN EUROPE",
+   "cuts": 3
+  },
+  {
+   "text": "It keeps the SF90's recipe of three electric motors and a plug-in battery of about seven point four five kilowatt hours, and claims zero to one hundred in under two point three seconds. It produces four hundred fifteen kilograms of downforce, twenty-five more than the SF90. And it revives one of Ferrari's most famous names, the Testarossa from the nineteen eighties.",
+   "query": "Ferrari Testarossa 1984",
+   "caption": "THE TESTAROSSA NAME RETURNS",
+   "cuts": 3
+  },
+  {
+   "text": "So the SF90's life as Ferrari's flagship series car lasted about five years, from first sales in twenty twenty to the reveal of its successor in twenty twenty-five. Short, but enormously important, because it proved that Ferrari buyers would accept a plug, a battery, and even a front-wheel-drive mode.",
+   "query": "Ferrari SF90 Stradale and 849",
+   "caption": "5 YEARS THAT CHANGED FERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "And the next step was even bigger. Ferrari has since revealed its first fully electric car, the Luce, with an interior designed by LoveFrom, the studio of Jony Ive and Marc Newson. Electra's summary lists four motors, more than one thousand horsepower in boost mode, and first deliveries scheduled from October twenty twenty-six. The SF90's front motors were the first step on that road.",
+   "query": "Ferrari Luce",
+   "caption": "NEXT: THE ELECTRIC LUCE",
+   "cuts": 3
+  },
+  {
+   "text": "The Luce was revealed in steps. Electra's summary says the technology was shown in October twenty twenty-five, the name and interior in San Francisco in February twenty twenty-six, and the exterior in Rome on the twenty-fifth of May twenty twenty-six. It lists a battery of one hundred twenty-two kilowatt hours and up to five hundred thirty kilometers of range on the European W L T P cycle.",
+   "query": "Ferrari Luce electric",
+   "caption": "LUCE: 122 kWh, 530 KM",
+   "cuts": 3
+  },
+  {
+   "text": "Think about the path. LaFerrari, a limited hypercar with a small hybrid system. Then the SF90, a series production car that could drive on electricity for a few miles. Then the Luce, a Ferrari with no engine at all. In about thirteen years, Ferrari went from an electric boost to a fully electric car, and the SF90 sits right in the middle.",
+   "query": "Ferrari LaFerrari SF90",
+   "caption": "FROM BOOST TO FULLY ELECTRIC",
+   "cuts": 3
+  },
+  {
+   "text": "So let's recap the two things most people don't know about the Ferrari SF90. Number one, it has no reverse gear. Its front electric motors drive it backward, which saved weight and space in the gearbox, in a car that had to carry about two hundred seventy kilograms of hybrid hardware.",
+   "query": "Ferrari SF90 Stradale rear view",
+   "caption": "1. NO REVERSE GEAR",
+   "cuts": 3,
+   "chapter": "The two things, again"
+  },
+  {
+   "text": "Number two, in eDrive mode it is a front-wheel-drive Ferrari, pulling itself silently through cities on its front motors for about twenty-five kilometers, at up to one hundred thirty-five kilometers per hour. Then those same motors give it all-wheel drive and torque vectoring on the track.",
+   "query": "Ferrari SF90 Stradale front view",
+   "caption": "2. A FRONT-WHEEL-DRIVE FERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "Together, those two facts explain why the SF90 matters. It was not just a fast Ferrari. It was the car that taught Ferrari to use electric motors as a real part of the car, not an add-on. Everything that came after, from the eight forty-nine Testarossa to the Luce, builds on it.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "THE CAR THAT TAUGHT FERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "In the other videos of this series, we compare the SF90 with the McLaren Artura, we ask whether a normal person could ever afford one, and we tell the story behind Ferrari's first plug-in hybrid. Tell us in the comments which fact surprised you more, the missing reverse gear or the front-wheel-drive mode.",
+   "query": "McLaren Artura",
+   "caption": "3 MORE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "If you are shopping for something more practical than a Ferrari, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ferrari SF90 sunset",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

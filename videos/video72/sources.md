@@ -1,0 +1,26 @@
+- Motor Authority, 2010 Geneva: Ferrari 599 HY-KERS concept: https://www.motorauthority.com/news/1042084_2010-geneva-motor-show-ferrari-599-hy-kers-concept
+- CAR Magazine, Ferrari HY-KERS hybrid at Geneva 2010: https://carmagazine.co.uk/car-news/first-official-pictures/ferrari/ferrari-hy-kers-hybrid-2010-at-geneva-motor-show
+- AutoGuide, Geneva 2010: Ferrari to offer hybrid versions of all models by 2014: https://www.autoguide.com/auto-news/2010/03/geneva-2010-ferrari-to-offer-hybrid-versions-of-all-models-by-2014.html
+- Driven (NZ), LaFerrari was the world's first HEV hypercar: https://www.drivencarguide.co.nz/news/the-good-oil-laferrari-was-the-worlds-first-hev-hypercar/
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Wikipedia, Ferrari (company history, IPO): https://en.wikipedia.org/wiki/Ferrari
+- Autosport, Former Ferrari chief Sergio Marchionne dies (July 2018): https://www.autosport.com/f1/news/former-ferrari-chief-sergio-marchionne-dies-5297863/5297863/
+- Bloomberg, Ferrari enlists Philip Morris veteran Camilleri as next CEO (July 2018): https://www.bloomberg.com/news/articles/2018-07-21/ferrari-proposes-camilleri-to-replace-ailing-marchionne-as-ceo
+- ANSA, Ferrari to launch 15 new models (Sept 2018): https://www.ansa.it/english/news/business/2018/09/18/ferrari-to-launch-15-new-models_59177c10-40a0-4c24-8b57-1b918332cd04.html
+- Motor1, Ferrari reveals roadmap with more hybrids (Sept 2018): https://www.motor1.com/news/266493/ferrari-reveals-roadmap-more-hybrids/
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- The Race, Ferrari CEO Camilleri resigns for personal reasons (Dec 2020): https://www.the-race.com/formula-1/ferrari-ceo-camilleri-resigns-for-personal-reasons/
+- Wikipedia, Benedetto Vigna: https://en.wikipedia.org/wiki/Benedetto_Vigna
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Autobuzz, Facts & Figures: SF90 Stradale launched in Malaysia (2020): https://autobuzz.my/2020/09/18/facts-figures-ferrari-sf90-stradale-launched-in-malaysia/
+- CarGurus, 2023 Ferrari SF90 pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- Road & Track via Yahoo, Fire, glitches, delays: McLaren after the Artura launch (June 2022): https://autos.yahoo.com/fire-glitches-delays-mclaren-post-202000664.html
+- Wikipedia, Ferrari LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, Kinetic energy recovery system (Formula One): https://en.wikipedia.org/wiki/Kinetic_energy_recovery_system
+- Wikipedia, Ferrari F80: https://en.wikipedia.org/wiki/Ferrari_F80
+- Motor Authority, Ferrari 2024 deliveries: 51% hybrids: https://www.motorauthority.com/news/1145679_ferrari-2024-hybrid-sales
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
+- Electra, Ferrari Luce: everything we know: https://www.go-electra.com/en/newsroom/electric-ferrari-luce-price-power-and-everything-we-know/

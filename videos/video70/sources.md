@@ -1,0 +1,20 @@
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Wikipedia, McLaren Artura: https://en.wikipedia.org/wiki/McLaren_Artura
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 29, 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Design News, Magna 8-speed DCT in the SF90: https://www.designnews.com/automotive/ferrari-sf90-stradale-accelerates-through-gears-magnas-8-speed-dual-clutch-transmission
+- duPont Registry, Ferrari SF90 Stradale review: https://news.dupontregistry.com/blogs/ferrari-news/ferrari-sf90-stradale-price-specs-photos-review
+- CarGurus, 2023 Ferrari SF90 pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- Kelley Blue Book, 2025 McLaren Artura: https://www.kbb.com/mclaren/artura/2025/
+- Carwow Spain, Ferrari 296 GTB vs McLaren Artura (June 2021): https://www.carwow.es/blog/comparativa-ferrari-296-gtb-vs-mclaren-artura
+- Road & Track via Yahoo, Fire, glitches, delays: McLaren after the Artura launch (June 2022): https://autos.yahoo.com/fire-glitches-delays-mclaren-post-202000664.html
+- Autobuzz, Facts & Figures: SF90 Stradale launched in Malaysia (2020): https://autobuzz.my/2020/09/18/facts-figures-ferrari-sf90-stradale-launched-in-malaysia/
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Driven (NZ), LaFerrari was the world's first HEV hypercar: https://www.drivencarguide.co.nz/news/the-good-oil-laferrari-was-the-worlds-first-hev-hypercar/
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Autocar NZ, McLaren is now in Abu Dhabi hands: https://www.autocar.co.nz/mclaren-is-now-in-abu-dhabi-hands
+- Business Day, McLaren Automotive to be bought by Abu Dhabi's CYVN Holdings (Oct 2024): https://www.businessday.co.za/bd/life/motoring/2024-10-31-mclaren-automotive-to-be-bought-by-abu-dhabis-cyvn-holdings/
+- Autoevolution, Artura faces 2028 exit as P34 prepares for 2027 debut: https://www.autoevolution.com/news/v6-powered-mclaren-artura-faces-2028-exit-as-new-p34-hybrid-supercar-prepares-for-2027-debut-275652.html
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
+- Electra, Ferrari Luce: everything we know: https://www.go-electra.com/en/newsroom/electric-ferrari-luce-price-power-and-everything-we-know/

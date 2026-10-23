@@ -1,0 +1,16 @@
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Kelley Blue Book, 2024 Ferrari SF90 (MSRP, fair price, resale value, warranty, EV range): https://www.kbb.com/ferrari/sf90/2024/
+- AutoMonitor, How much does a Ferrari SF90 Stradale cost? (estimates, no sources listed): https://automonitor.io/blog/how-much-does-a-ferrari-sf90-stradale-cost/
+- CarGurus, 2023 Ferrari SF90 review and pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- U.S. Census Bureau, Income in the United States: 2023: https://www.census.gov/library/publications/2024/demo/p60-282.html
+- KTVU / Fox, How much the typical American household earned in 2023 (Census data): https://ktvu.com/news/how-much-american-household-earned-2023-census
+- ClubAlfa, A Ferrari SF90 Stradale crash has become one of the most costly ever (Mar 2024): https://www.clubalfa.it/en/a-ferrari-sf90-stradale-crash-has-become-one-of-the-most-costly-ever-2625
+- Ferrari, Warranty and maintenance (Genuine Maintenance, Power16): https://www.ferrari.com/en-US/auto/car-part-services-warranty-maintenance
+- Bloomberg, Ferrari plans $7,500 hybrid, EV battery service subscription (June 2024): https://www.bloomberg.com/news/articles/2024-06-26/ferrari-plans-7-500-hybrid-ev-battery-service-subscription
+- ClubAlfa, Ferrari offers up to 16 years of warranty for its hybrids (July 2024): https://www.clubalfa.it/en/ferrari-offers-up-to-16-years-of-warranty-for-its-hybrids-and-8-for-electric-cars-6380
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Carwow Spain, Ferrari 296 GTB vs McLaren Artura (June 2021): https://www.carwow.es/blog/comparativa-ferrari-296-gtb-vs-mclaren-artura
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/

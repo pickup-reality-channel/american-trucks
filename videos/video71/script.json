@@ -1,0 +1,367 @@
+{
+ "id": "video71",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "Can a Normal Person Afford a Ferrari SF90?",
+ "scenes": [
+  {
+   "text": "Could a normal person ever afford a Ferrari SF90? The sticker price is more than half a million dollars. But the sticker price is only the beginning. There is insurance, maintenance, tires, options, a battery that Ferrari plans to replace, and one number that surprises almost everyone. Today we do the math, using real published figures.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "CAN A NORMAL PERSON AFFORD AN SF90?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is a hint about the surprise. One of the most expensive parts of owning many supercars is how much value they lose. And for the SF90, that number looks very different from what most people expect. We will get to it.",
+   "query": "Ferrari SF90 Stradale rear",
+   "caption": "THE NUMBER THAT SURPRISES EVERYONE",
+   "cuts": 8
+  },
+  {
+   "text": "We will also look at the SF90 that crashed in Finland, the insurance payout that followed, and why the electric range on the American sticker is so much shorter than the one Ferrari advertised in Europe. Every figure is from a published source, listed in the description. Where a number is an estimate, we will say so.",
+   "query": "Ferrari SF90 Spider",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "First, a quick reminder of what you would be buying. The SF90 Stradale has a twin-turbo V8 and three electric motors, about nine hundred eighty-six horsepower combined, and it reaches one hundred kilometers per hour in two point five seconds, according to Wikipedia. It was Ferrari's first plug-in hybrid series production car.",
+   "query": "Ferrari SF90 Stradale engine",
+   "caption": "986 HP PLUG-IN HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the price. AutoMonitor, a car valuation site, says the SF90 Stradale had a manufacturer's suggested retail price of about five hundred seven thousand dollars when it launched. By the twenty twenty-four model year, Kelley Blue Book lists the Stradale coupe at about five hundred twenty-nine thousand dollars.",
+   "query": "Ferrari SF90 Stradale red",
+   "caption": "STARTS AT ~$529,000 (2024)",
+   "cuts": 3,
+   "chapter": "The sticker price"
+  },
+  {
+   "text": "Want the open-top version? Kelley Blue Book lists the twenty twenty-four SF90 Spider at about five hundred eighty-four thousand dollars. That is about fifty-five thousand dollars more, for a retractable hard top. Fifty-five thousand dollars is close to the price of a well-equipped new pickup truck.",
+   "query": "Ferrari SF90 Spider roof",
+   "caption": "SPIDER: ~$584,000",
+   "cuts": 3
+  },
+  {
+   "text": "Then come the options. AutoMonitor says option packages can add thirty thousand to eighty thousand dollars. One single option shows how fast it adds up. CarGurus reported that the Assetto Fiorano package, the track pack with special shock absorbers, carbon fiber parts, and a titanium exhaust, costs about fifty thousand dollars.",
+   "query": "Ferrari SF90 Assetto Fiorano",
+   "caption": "ASSETTO FIORANO: ~$50,000",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist on the purchase price. Kelley Blue Book lists a fair purchase price for the twenty twenty-four Stradale of about four hundred ninety-four thousand dollars, which is below the sticker price. In other words, the market price can sit below the list price, which is not always true for a Ferrari.",
+   "query": "Ferrari dealership",
+   "caption": "FAIR PRICE: ~$494,000",
+   "cuts": 3
+  },
+  {
+   "text": "But the Spider tells a different story. Kelley Blue Book lists a fair purchase price for the twenty twenty-four SF90 Spider of about five hundred eighty-eight thousand dollars, slightly above its own list price of about five hundred eighty-four thousand. So the open car was in higher demand. Buyers were paying more than the sticker for the version with the folding roof.",
+   "query": "Ferrari SF90 Spider open",
+   "caption": "SPIDER: ABOVE STICKER",
+   "cuts": 3
+  },
+  {
+   "text": "So a realistic starting point for a well-optioned SF90 Stradale in America is somewhere around five hundred fifty thousand dollars before taxes and fees. Let's use that as our target, and see what it takes to get there.",
+   "query": "Ferrari SF90 Stradale yellow",
+   "caption": "TARGET: ~$550,000",
+   "cuts": 3
+  },
+  {
+   "text": "And that is before sales tax. Sales tax depends on the state, so here is a simple example with our own arithmetic. At a seven percent rate, a five hundred fifty thousand dollar car would carry about thirty-eight thousand five hundred dollars in sales tax. That alone is almost half of the median household income for a full year.",
+   "query": "sales tax receipt",
+   "caption": "EXAMPLE: 7% TAX = ~$38,500",
+   "cuts": 3
+  },
+  {
+   "text": "So before the car leaves the dealer, a buyer could already be close to six hundred thousand dollars, once options, tax, registration, and delivery are added. That is the real entry ticket. Now let's put that number next to a normal paycheck.",
+   "query": "Ferrari SF90 delivery",
+   "caption": "~$600,000 OUT THE DOOR",
+   "cuts": 3
+  },
+  {
+   "text": "How does that compare with a normal income? The U S Census Bureau reported that the median American household income in twenty twenty-three was about eighty thousand six hundred dollars. That means half of households earn less than that, and half earn more.",
+   "query": "American suburb houses",
+   "caption": "MEDIAN HOUSEHOLD: ~$80,600",
+   "cuts": 3,
+   "chapter": "The income math"
+  },
+  {
+   "text": "The Census figure was eighty thousand six hundred ten dollars, a four percent rise from about seventy-seven thousand five hundred forty in twenty twenty-two. That is the income of a real middle-class household, often with two working adults. Keep that number in mind, because we will compare every cost in this video against it.",
+   "query": "family home driveway",
+   "caption": "UP 4% FROM 2022",
+   "cuts": 3
+  },
+  {
+   "text": "At that income, a five hundred fifty thousand dollar Ferrari is almost seven years of total household income, before taxes, and before spending a single dollar on food, housing, or anything else. Just to be clear, this is simple arithmetic, not a financial recommendation.",
+   "query": "family budget calculator",
+   "caption": "~7 YEARS OF INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "What about a loan? Here is an example, using our own arithmetic. Put one hundred thousand dollars down, borrow four hundred thousand, and pay it back over seven years at an assumed interest rate of seven percent. The monthly payment would be about six thousand dollars. That is about seventy-two thousand dollars a year, close to the entire median household income.",
+   "query": "car loan paperwork",
+   "caption": "LOAN EXAMPLE: ~$6,000/MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "And the hundred thousand dollar down payment is more than a full year of median income on its own. So for a household near the median, the honest answer is no. The payment alone would take almost everything. But the payment is not the only cost. Now let's look at the running costs.",
+   "query": "Ferrari SF90 Stradale front",
+   "caption": "THE HONEST ANSWER",
+   "cuts": 3
+  },
+  {
+   "text": "Insurance is the first big running cost. AutoMonitor estimates that an SF90 typically costs ten thousand to sixteen thousand dollars a year to insure, depending on location, driving record, and coverage. It does not list a source for that range, so treat it as an estimate.",
+   "query": "Ferrari SF90 Stradale garage",
+   "caption": "INSURANCE: ~$10K-$16K/YEAR (EST.)",
+   "cuts": 3,
+   "chapter": "Insurance"
+  },
+  {
+   "text": "To understand why, look at what happened in Finland. ClubAlfa reported in March twenty twenty-four that an SF90 hydroplaned on a highway in heavy rain, while driving within the speed limit, and left the road. Nobody was hurt, and no other cars were involved. But the car was badly damaged.",
+   "query": "Ferrari SF90 Stradale rain",
+   "caption": "THE FINLAND CRASH",
+   "cuts": 3
+  },
+  {
+   "text": "The insurer decided not to repair it. Instead, it bought the car back and sold its salvageable parts. ClubAlfa said the owner received about five hundred thirty thousand euros, down from an original value of about seven hundred fifty thousand euros, because the car had covered fifty-three thousand kilometers in two years.",
+   "query": "Ferrari SF90 Stradale damaged",
+   "caption": "\u20ac530,000 PAYOUT",
+   "cuts": 3
+  },
+  {
+   "text": "ClubAlfa said the claim was only resolved after months of waiting. Think about what that means for an owner. Months without the car, an insurer deciding the car was not worth repairing, and a payout about two hundred twenty thousand euros below its original value. Even with full insurance, a crash in an SF90 can be very expensive.",
+   "query": "insurance claim paperwork",
+   "caption": "MONTHS OF WAITING",
+   "cuts": 3
+  },
+  {
+   "text": "ClubAlfa also gave examples of Ferrari part prices. About thirty thousand euros for a convertible top, about thirty thousand for a rear diffuser, and up to eighty thousand for a rear bumper. A single body part can cost as much as an entire new family car. That is why insurers charge so much.",
+   "query": "Ferrari SF90 rear diffuser",
+   "caption": "A BUMPER: UP TO \u20ac80,000",
+   "cuts": 3
+  },
+  {
+   "text": "And here is a detail most people miss. That owner drove fifty-three thousand kilometers in two years, about thirty-three thousand miles. Many SF90s are driven far less. The Finnish owner was actually using the car, and the mileage cut the payout by a large amount.",
+   "query": "Ferrari SF90 Stradale highway",
+   "caption": "53,000 KM IN TWO YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Now maintenance, and this is where Ferrari helps more than most people know. Ferrari's official website describes its Genuine Maintenance program, which covers regular scheduled maintenance for the first seven years of a new car, with original parts and Ferrari technicians.",
+   "query": "Ferrari service center",
+   "caption": "7 YEARS OF SCHEDULED MAINTENANCE",
+   "cuts": 3,
+   "chapter": "Maintenance"
+  },
+  {
+   "text": "Ferrari says owners can choose to service the car either every twelve thousand five hundred miles, or once a year, with no mileage limit on the yearly option. So for the first seven years, routine servicing is part of the deal. That is a big deal for a car with a V8, three motors, and a high-voltage battery.",
+   "query": "Ferrari SF90 engine bay",
+   "caption": "EVERY 12,500 MILES OR ONCE A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "After that, the bills begin. AutoMonitor estimates that annual service at an authorized dealer typically costs four thousand five hundred to seven thousand dollars, and that a major service can cost six thousand to twelve thousand dollars. Again, these are estimates without a listed source.",
+   "query": "Ferrari mechanic",
+   "caption": "AFTER YEAR 7: ~$4.5K-$7K/YEAR (EST.)",
+   "cuts": 3
+  },
+  {
+   "text": "Tires are a separate cost. AutoMonitor estimates three hundred fifty to six hundred dollars per tire, or about one thousand eight hundred to three thousand dollars for a full set. Drive the car hard on a track, and a set may not last long.",
+   "query": "Ferrari SF90 wheel tire",
+   "caption": "TIRES: ~$1,800-$3,000 A SET",
+   "cuts": 3
+  },
+  {
+   "text": "And there is the warranty. Kelley Blue Book lists a three-year, unlimited-mile basic warranty on the twenty twenty-four SF90. Ferrari's website says that can be extended in blocks, and offers a paid program called Power sixteen that can cover major parts like the engine and transmission, renewed yearly up to the sixteenth year of the car's life.",
+   "query": "Ferrari SF90 Stradale side",
+   "caption": "3-YEAR WARRANTY, EXTENDABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Now the question every hybrid buyer asks. What happens to the battery? The SF90 has a seven point nine kilowatt hour battery, InsideEVs reported. All batteries lose capacity over time. So what does Ferrari do about it?",
+   "query": "Ferrari SF90 battery",
+   "caption": "WHAT ABOUT THE BATTERY?",
+   "cuts": 3,
+   "chapter": "The battery question"
+  },
+  {
+   "text": "In twenty twenty-four, Bloomberg reported that Ferrari planned a battery service subscription for its hybrids and electric cars, at around seven thousand euros, about seven thousand five hundred dollars, a year. For hybrids like the SF90, Bloomberg said the plan included a battery replacement after eight years.",
+   "query": "Ferrari SF90 Stradale plug",
+   "caption": "BATTERY PLAN: ~$7,500/YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "ClubAlfa described two options, called Hybrid Warranty and Power Hybrid. It said that under the Hybrid Warranty, Ferrari commits to replacing the high-voltage battery free of charge at the eighth year, and that Power Hybrid covers major hybrid components from year eight to year sixteen. ClubAlfa noted that the price was based on reports, not confirmed.",
+   "query": "Ferrari SF90 Spider rear",
+   "caption": "NEW BATTERY AT YEAR 8",
+   "cuts": 3
+  },
+  {
+   "text": "Now imagine keeping the car for sixteen years, the full length of Ferrari's hybrid coverage. At about seven thousand five hundred dollars a year, a battery subscription would add up to about one hundred twenty thousand dollars over that time, by our own arithmetic. That is more than the price of many luxury sedans, spent just on keeping the hybrid system covered.",
+   "query": "Ferrari SF90 Stradale classic",
+   "caption": "16 YEARS: ~$120,000 (EXAMPLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Of course, an owner does not have to buy the plan. But the alternative is to carry the risk of a hybrid system failure alone, on a car with three motors, power electronics, and a high-voltage battery. For most SF90 owners, paying for peace of mind will probably be the easier choice.",
+   "query": "Ferrari SF90 motor",
+   "caption": "PEACE OF MIND HAS A PRICE",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist. Ferrari is basically treating the battery like a service item, the same way it treats oil and filters. You pay a yearly fee, and Ferrari keeps the hybrid system fresh. For an owner, that removes the fear of a huge battery bill. But it adds one more yearly cost to the list.",
+   "query": "Ferrari SF90 Stradale white",
+   "caption": "THE BATTERY AS A SERVICE",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel is the smallest cost on the list, but there is a twist hiding here. Ferrari's European figures, reported by InsideEVs, promised up to twenty-five kilometers of electric range, which is about fifteen miles. But Kelley Blue Book lists only eight miles of electric range for the twenty twenty-four SF90.",
+   "query": "Ferrari SF90 Stradale charging",
+   "caption": "15 MILES OR 8 MILES?",
+   "cuts": 3,
+   "chapter": "Fuel and the range twist"
+  },
+  {
+   "text": "That gap is a big one. Fifteen miles of silent driving can cover a short trip across town. Eight miles is closer to leaving your neighborhood quietly, before the V8 wakes up. For an owner who imagined running errands on electricity, the American number tells a more modest story.",
+   "query": "Ferrari SF90 Stradale suburb",
+   "caption": "8 MILES OF SILENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Why the difference? Europe and the United States use different testing methods. The American E P A test is generally tougher on electric range than the European cycles used in many marketing claims. So the same car can show a much shorter range on an American window sticker.",
+   "query": "Ferrari SF90 Stradale city street",
+   "caption": "DIFFERENT TESTS, DIFFERENT NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "What does it cost to charge? Here is our own example. A full charge of the seven point nine kilowatt hour battery, at an assumed home electricity price of seventeen cents per kilowatt hour, would cost about one dollar and thirty-four cents. Charging losses add a little. It is probably the cheapest thing you will ever do with a Ferrari.",
+   "query": "home EV charger garage",
+   "caption": "A FULL CHARGE: ~$1.34 (EXAMPLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Kelley Blue Book lists combined fuel economy of about seventeen to eighteen miles per gallon on gasoline, with premium fuel recommended. CarGurus lists up to fifty-one M P G e, a figure that includes electric driving. In real life, that depends on how often the car is plugged in. Either way, at these prices, fuel is not what breaks the budget.",
+   "query": "gas station premium fuel",
+   "caption": "~17-18 MPG ON GASOLINE",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a simple example, again our own arithmetic. Drive five thousand miles a year at about seventeen miles per gallon, and you would burn around two hundred ninety-four gallons. At an assumed four dollars a gallon for premium fuel, that is about one thousand two hundred dollars a year. Less than one month of the insurance estimate.",
+   "query": "fuel pump premium",
+   "caption": "FUEL: ~$1,200/YEAR (EXAMPLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the number that surprises everyone. Depreciation, which means how much value a car loses over time. Many expensive cars lose a huge share of their price in the first few years. So how much does the SF90 lose?",
+   "query": "Ferrari SF90 Stradale for sale",
+   "caption": "HOW MUCH VALUE DOES IT LOSE?",
+   "cuts": 3,
+   "chapter": "The surprise: depreciation"
+  },
+  {
+   "text": "Kelley Blue Book lists a private party value of about four hundred seventy-eight thousand dollars for a twenty twenty-four SF90 Stradale. Compare that with the list price of about five hundred twenty-nine thousand. The difference is about fifty thousand dollars, or roughly ten percent.",
+   "query": "Ferrari SF90 Stradale used",
+   "caption": "RESALE: ~$478,000",
+   "cuts": 3
+  },
+  {
+   "text": "AutoMonitor goes further. It estimates that a well-maintained SF90, driven two thousand to four thousand miles a year, can keep seventy-five to ninety percent of its purchase price over five years. It also says used SF90s trade between about four hundred eighty thousand and six hundred fifty thousand dollars, depending on version and condition.",
+   "query": "Ferrari SF90 XX Stradale",
+   "caption": "USED: ~$480K-$650K",
+   "cuts": 3
+  },
+  {
+   "text": "Here is why that matters. Losing ten to twenty-five percent of half a million dollars is still a lot of money, between about fifty thousand and one hundred twenty-five thousand. But compared with many luxury cars, it is a relatively gentle drop. Ferrari limits supply, and that helps keep values up.",
+   "query": "Ferrari Maranello factory",
+   "caption": "LIMITED SUPPLY HOLDS VALUE",
+   "cuts": 3
+  },
+  {
+   "text": "And notice the condition in that estimate. Two thousand to four thousand miles a year. The Finnish car, driven fifty-three thousand kilometers in two years, lost far more value. The cheapest way to own an SF90, it seems, is to hardly drive it. That is the strange economics of a supercar.",
+   "query": "Ferrari SF90 Stradale covered",
+   "caption": "DRIVE LESS, LOSE LESS",
+   "cuts": 3
+  },
+  {
+   "text": "So let's add it up, for five years, using the figures we have seen. These are rough estimates, not a quote. Insurance at ten to sixteen thousand a year adds about fifty to eighty thousand dollars. Scheduled maintenance is covered by Ferrari in the first seven years. Tires and other wear items might add several thousand more.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "5-YEAR ESTIMATE",
+   "cuts": 3,
+   "chapter": "The full bill"
+  },
+  {
+   "text": "A battery subscription, if you choose it, at about seven thousand five hundred dollars a year, would add about thirty-seven thousand five hundred dollars over five years. And depreciation, based on AutoMonitor's estimate, could take another fifty to one hundred twenty-five thousand.",
+   "query": "Ferrari SF90 Spider",
+   "caption": "BATTERY + DEPRECIATION",
+   "cuts": 3
+  },
+  {
+   "text": "Put it together, and the cost of simply keeping an SF90 for five years, beyond the purchase price, could be somewhere around one hundred fifty thousand to two hundred fifty thousand dollars. That is two to three times the median annual household income, just to keep the car.",
+   "query": "Ferrari SF90 Stradale night",
+   "caption": "~$150K-$250K TO KEEP IT",
+   "cuts": 3
+  },
+  {
+   "text": "And remember the recall. In October twenty twenty-three, Motor Authority reported that six hundred fourteen SF90s in America were recalled for turbo oil pipes that could leak and start a fire. The repair was free. But owners were told not to drive their cars until it was done, a reminder that even a half-million-dollar car can sit in the garage.",
+   "query": "Ferrari SF90 recall",
+   "caption": "RECALL: 614 CARS",
+   "cuts": 3
+  },
+  {
+   "text": "So who can actually afford an SF90? Using a very rough rule of thumb that many personal finance writers share, a car should cost a small fraction of your income or wealth. By that logic, the SF90 is a car for people with millions in assets, not for someone earning even a high salary.",
+   "query": "luxury mansion garage",
+   "caption": "A CAR FOR MILLIONAIRES",
+   "cuts": 3,
+   "chapter": "So who can afford it?"
+  },
+  {
+   "text": "Ferrari also controls who gets the newest cars. When the SF90 launched, Reuters reported that about two thousand selected customers were invited to view and reserve it. For the X X version, Evo India reported that all seven hundred ninety-nine Stradales and five hundred ninety-nine Spiders were already sold. Money is not always enough. You also need to be on the list.",
+   "query": "Ferrari SF90 XX Stradale track",
+   "caption": "MONEY IS NOT ENOUGH",
+   "cuts": 3
+  },
+  {
+   "text": "Is there a cheaper way into this technology? Ferrari's two ninety-six G T B uses a plug-in hybrid V6. Carwow Spain listed it at about two hundred sixty-nine thousand euros at launch, roughly half the price of an SF90. Still not cheap, but a different world of cost.",
+   "query": "Ferrari 296 GTB",
+   "caption": "THE CHEAPER FERRARI HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "And there is the used market. AutoMonitor says used SF90s trade from about four hundred eighty thousand dollars. That saves some money, but the running costs do not get smaller with a used car. Insurance, tires, and the battery plan stay about the same, and an older car may be outside Ferrari's seven-year maintenance window.",
+   "query": "used Ferrari dealer",
+   "caption": "USED SF90: ~$480K AND UP",
+   "cuts": 3
+  },
+  {
+   "text": "And the SF90 itself has already been replaced. Motoring Research reported that the eight forty-nine Testarossa, revealed in September twenty twenty-five, takes its place with about one thousand fifty horsepower, at about four hundred thousand pounds for the coupe in Europe. As new models arrive, older SF90s will slowly become a little more reachable on the used market.",
+   "query": "Ferrari 849 Testarossa",
+   "caption": "REPLACED BY THE 849",
+   "cuts": 3
+  },
+  {
+   "text": "So, can a normal person afford a Ferrari SF90? For a household near the median income, the honest answer is no. The purchase price is about seven years of total income, and the running costs alone could match two or three years of income over five years.",
+   "query": "Ferrari SF90 Stradale red",
+   "caption": "THE ANSWER: NO",
+   "cuts": 3,
+   "chapter": "The answer"
+  },
+  {
+   "text": "But the surprise is that the SF90 is not the money pit people expect. Ferrari covers scheduled maintenance for seven years, offers a plan to replace the battery, and values have held up well for low-mileage cars. For the wealthy buyer, it can actually be one of the less painful ways to own a hypercar-level machine.",
+   "query": "Ferrari SF90 Stradale yellow",
+   "caption": "NOT THE MONEY PIT YOU EXPECT",
+   "cuts": 3
+  },
+  {
+   "text": "Tell us in the comments. If someone gave you an SF90 for free, could you afford to keep it? In the other videos of this series, we reveal two things you didn't know about the SF90, compare it with the McLaren Artura, and tell the story behind Ferrari's first plug-in hybrid.",
+   "query": "Ferrari SF90 Spider sunset",
+   "caption": "COULD YOU AFFORD TO KEEP IT?",
+   "cuts": 3
+  },
+  {
+   "text": "If you want a vehicle you can actually afford to buy and own, our twenty twenty-seven Truck Buyer's Guide is linked in the description, with real numbers on the trucks most people buy. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "pickup truck dealership",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "id": "video70",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Ferrari SF90 vs McLaren Artura: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two plug-in hybrid supercars. Both arrived in the same era, both have a battery of under eight kilowatt hours, both can drive on electricity alone, and both have thrown away the reverse gear. The Ferrari SF90 Stradale and the McLaren Artura look like the same idea. But one costs about twice as much as the other, and the reason is the difference nobody explains.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "SF90 vs ARTURA",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "On paper, the SF90 has almost one thousand horsepower and all-wheel drive. The Artura has about six hundred eighty, a V6, and rear-wheel drive. So the easy answer is that the Ferrari is simply more car. But that answer misses the real story, which is about what each company was trying to build, and what each one risked.",
+   "query": "McLaren Artura",
+   "caption": "THE EASY ANSWER IS WRONG",
+   "cuts": 8
+  },
+  {
+   "text": "Because here is the twist. The Artura was never really built to fight the SF90. Its true rival is a different Ferrari, one that shares its engine layout almost exactly. And the SF90 was never Ferrari's answer to McLaren. It was Ferrari's new flagship, aimed at a different buyer entirely.",
+   "query": "Ferrari 296 GTB",
+   "caption": "THE REAL RIVAL IS ANOTHER FERRARI",
+   "cuts": 5
+  },
+  {
+   "text": "Along the way, you will hear about the McLaren launch that went wrong, the Ferrari recall that told owners to park their cars, and what happened to both companies after these cars came out. Every number here is from a published source, listed in the description.",
+   "query": "McLaren Artura Spider",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 3
+  },
+  {
+   "text": "Start with the Ferrari. The SF90 Stradale was unveiled in Maranello on the twenty-ninth of May twenty nineteen, Reuters reported, as the first Ferrari hybrid built for wider series production. The name marks ninety years of Scuderia Ferrari, the racing team.",
+   "query": "Ferrari SF90 Stradale red",
+   "caption": "FERRARI SF90: MAY 2019",
+   "cuts": 3,
+   "chapter": "Two cars, one idea"
+  },
+  {
+   "text": "It combines a four liter twin-turbo V8 with three electric motors. Wikipedia lists about seven hundred sixty-nine horsepower from the engine, and about nine hundred eighty-six combined, with eight hundred newton meters of torque. Zero to one hundred kilometers per hour takes two point five seconds, and top speed is three hundred forty.",
+   "query": "Ferrari SF90 engine",
+   "caption": "986 HP, V8 + 3 MOTORS",
+   "cuts": 3
+  },
+  {
+   "text": "Ferrari treated the launch like an event. Reuters reported that about two thousand selected customers were invited to Maranello to see the car and reserve one, with deliveries expected within twelve months. Ferrari's chief executive at the time, Louis Camilleri, called it astounding, fast, and completely revolutionary. This was not a quiet entry model. It was a statement.",
+   "query": "Ferrari Maranello",
+   "caption": "2,000 CUSTOMERS INVITED",
+   "cuts": 3
+  },
+  {
+   "text": "Now the McLaren. Wikipedia says the Artura was announced on the twenty-third of November twenty twenty and unveiled in February twenty twenty-one. It replaced the five seventy S as McLaren's entry series car, and it was McLaren's third hybrid, after the P1 hypercar and the Speedtail.",
+   "query": "McLaren Artura orange",
+   "caption": "McLAREN ARTURA: 2021",
+   "cuts": 3
+  },
+  {
+   "text": "And this rivalry is older than these two cars. In twenty thirteen, McLaren and Ferrari each launched a hybrid hypercar. McLaren had the P1, built in a run of three hundred seventy-five cars. Ferrari had the LaFerrari, with five hundred coupes, according to Driven. The SF90 and the Artura are what happened when both companies took that hybrid idea from hypercars into their regular model lines.",
+   "query": "McLaren P1 and LaFerrari",
+   "caption": "2013: P1 vs LAFERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "The name blends two words, art and future. Its engine is a three liter twin-turbo V6, coded M six thirty, with its two banks of cylinders set at one hundred twenty degrees. It makes about five hundred eighty-five metric horsepower on its own. An electric motor adds ninety-five more, for about six hundred eighty combined, with seven hundred twenty newton meters of torque.",
+   "query": "McLaren Artura engine",
+   "caption": "680 PS, V6 + 1 MOTOR",
+   "cuts": 3
+  },
+  {
+   "text": "Why a V6 with such a wide angle? With the cylinder banks set one hundred twenty degrees apart, there is room to place the two turbochargers inside the V, between the banks. Engineers call this a hot vee. It keeps the engine short, low, and compact, which helps a mid-engined car carry its weight lower and closer to the center.",
+   "query": "McLaren M630 V6",
+   "caption": "120 DEGREES: A HOT VEE",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia lists zero to one hundred in about three seconds, and a top speed of three hundred thirty kilometers per hour. So the Ferrari is about half a second quicker to one hundred, and ten kilometers per hour faster at the top. Those gaps sound small. The price gap is not.",
+   "query": "McLaren Artura side",
+   "caption": "0-100 IN ~3.0 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "In the United States, CarGurus listed the twenty twenty-three SF90 Stradale starting at about five hundred twenty thousand dollars. Kelley Blue Book listed the twenty twenty-five Artura at about two hundred fifty-four thousand dollars, and the Artura Spider at about two hundred seventy-nine thousand.",
+   "query": "Ferrari SF90 Stradale and McLaren Artura",
+   "caption": "$520K vs $254K",
+   "cuts": 3,
+   "chapter": "The price gap"
+  },
+  {
+   "text": "So for the price of one SF90, you could almost buy two Arturas. That is the first difference nobody explains properly. These two cars are not competitors in the showroom. They sit in completely different price classes, even though they share a lot of technology.",
+   "query": "McLaren Artura rear",
+   "caption": "ONE SF90 = TWO ARTURAS",
+   "cuts": 3
+  },
+  {
+   "text": "Here is why that matters. Ferrari had a cheaper hybrid planned too. The two hundred ninety-six G T B, revealed in twenty twenty-one, uses a twin-turbo V6 with a one hundred twenty degree angle between its cylinder banks, a plug-in battery, and an electric motor. That is almost exactly the Artura's recipe.",
+   "query": "Ferrari 296 GTB",
+   "caption": "THE 296 GTB: SAME RECIPE",
+   "cuts": 3
+  },
+  {
+   "text": "Carwow Spain compared them at launch. It listed the two ninety-six at eight hundred thirty metric horsepower combined, and the Artura at six hundred eighty. It listed a starting price in Spain of about two hundred sixty-nine thousand euros for the Ferrari, and about two hundred thirty-five thousand for the McLaren. Those two really are rivals.",
+   "query": "Ferrari 296 GTB and McLaren Artura",
+   "caption": "296 GTB vs ARTURA",
+   "cuts": 3
+  },
+  {
+   "text": "So the honest comparison is this. The SF90 sits above both of them, as Ferrari's flagship. The Artura and the two ninety-six fight each other one level lower. When people put the SF90 and the Artura side by side, they are comparing a Ferrari flagship with a McLaren entry model. That is the twist behind the price.",
+   "query": "Ferrari SF90 Stradale front",
+   "caption": "FLAGSHIP vs ENTRY MODEL",
+   "cuts": 3
+  },
+  {
+   "text": "Carwow's launch comparison also showed how close the two ninety-six and the Artura are. It listed the Ferrari at two point nine seconds to one hundred and three hundred forty kilometers per hour, with about twenty-five kilometers of electric range. It listed the McLaren at three seconds, three hundred thirty, and about thirty kilometers of range. Both weighed about one and a half tonnes ready to drive.",
+   "query": "Ferrari 296 GTB rear",
+   "caption": "296 vs ARTURA: NECK AND NECK",
+   "cuts": 3
+  },
+  {
+   "text": "Now look inside, because the hybrid systems are where these cars really differ. The SF90 has three electric motors. Two are on the front axle, one for each front wheel. The third sits between the V8 and the gearbox. That layout gives the Ferrari electric all-wheel drive.",
+   "query": "Ferrari SF90 chassis",
+   "caption": "SF90: THREE MOTORS",
+   "cuts": 3,
+   "chapter": "Two ways to build a hybrid"
+  },
+  {
+   "text": "The Artura has just one electric motor, an axial flux design built into the gearbox housing, according to Wikipedia. It drives the rear wheels with the engine. There is nothing at the front. The Artura stays rear-wheel drive, like almost every McLaren road car before it.",
+   "query": "McLaren Artura chassis",
+   "caption": "ARTURA: ONE MOTOR, RWD",
+   "cuts": 3
+  },
+  {
+   "text": "Axial flux is worth a short explanation. In a typical electric motor, the magnetic field runs from the center outward. In an axial flux motor, it runs along the axis, so the motor can be shaped like a thick disc instead of a long cylinder. That makes it short and compact, which is why McLaren could fit it between the engine and the gearbox.",
+   "query": "electric motor axial flux",
+   "caption": "WHAT IS AXIAL FLUX?",
+   "cuts": 3
+  },
+  {
+   "text": "And here is what they share. Both cars dropped the reverse gear. Design News reported that removing reverse from the SF90's eight-speed gearbox saved about ten kilograms, because the front motors move the car backward. Wikipedia says the Artura does the same thing with its single motor, which also replaces the reverse gear.",
+   "query": "Ferrari SF90 Stradale rear",
+   "caption": "NEITHER HAS A REVERSE GEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Both also use eight-speed dual-clutch gearboxes. Both use small batteries. InsideEVs listed the SF90's at seven point nine kilowatt hours. Wikipedia lists the Artura's at about seven point four, weighing about eighty-eight kilograms. Neither car is trying to be an electric car. Both use electricity to add punch, and a few silent miles.",
+   "query": "McLaren Artura interior",
+   "caption": "7.9 kWh vs 7.4 kWh",
+   "cuts": 3
+  },
+  {
+   "text": "On electricity alone, the two cars behave differently, and this is the twist most people miss. The SF90's electric mode uses only its front motors, InsideEVs reported. So in eDrive, a mid-engined Ferrari becomes a front-wheel-drive car, with up to about twenty-five kilometers of range and a top speed of about one hundred thirty-five kilometers per hour.",
+   "query": "Ferrari SF90 Stradale city",
+   "caption": "SF90 eDRIVE: FRONT-WHEEL DRIVE",
+   "cuts": 3,
+   "chapter": "Silent mode"
+  },
+  {
+   "text": "The Artura's electric mode uses its rear motor, so it stays rear-wheel drive even in silence. Wikipedia lists an electric range of about thirty-one kilometers on the European cycle. Kelley Blue Book lists about twenty-one miles for the American version, which is about thirty-four kilometers. Either way, it can go a little further on electricity than the Ferrari.",
+   "query": "McLaren Artura city",
+   "caption": "ARTURA EV: ~21 MILES",
+   "cuts": 3
+  },
+  {
+   "text": "So the cheaper car has the longer electric range. That sounds strange, but it makes sense. The Ferrari spends its electricity on performance, with three motors and much more combined power. The McLaren's single motor is less powerful, so the same amount of battery lasts longer.",
+   "query": "McLaren Artura charging",
+   "caption": "CHEAPER CAR, LONGER EV RANGE",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel economy follows the same logic. CarGurus listed the SF90 coupe at up to fifty-one M P G e, a combined figure that includes electric driving. These figures depend heavily on how often the car is plugged in. A plug-in hybrid that is never charged simply carries its battery as extra weight.",
+   "query": "Ferrari SF90 charging port",
+   "caption": "UP TO 51 MPGe",
+   "cuts": 3
+  },
+  {
+   "text": "Weight is where McLaren put up its strongest fight. The Artura is built on a new carbon fiber structure called the McLaren Carbon Lightweight Architecture, or M C L A. Wikipedia lists its lightest curb weight at about one thousand four hundred ninety-eight kilograms, ready to drive.",
+   "query": "McLaren Artura carbon tub",
+   "caption": "McLAREN MCLA CARBON CHASSIS",
+   "cuts": 3,
+   "chapter": "The weight war"
+  },
+  {
+   "text": "Ferrari quotes the SF90 in a different way. InsideEVs reported a dry weight of one thousand five hundred seventy kilograms, which means without fluids like fuel and oil. A dry weight is always lower than a curb weight. So the SF90 is clearly the heavier car, by more than the numbers first suggest.",
+   "query": "Ferrari SF90 Stradale side view",
+   "caption": "DRY WEIGHT vs CURB WEIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "InsideEVs said the SF90's hybrid parts add about two hundred seventy kilograms. That is the price of three motors and all-wheel drive. The SF90 uses that extra hardware to put almost one thousand horsepower onto the road. The Artura uses lightness instead, and lets the rear tires do the work.",
+   "query": "Ferrari SF90 Stradale cornering",
+   "caption": "SF90: +270 KG OF HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "So the difference in philosophy is clear. Ferrari built a heavier car with more power and four driven wheels. McLaren built a lighter car with less power and two. Both are fast. They just get there in opposite ways.",
+   "query": "McLaren Artura cornering",
+   "caption": "POWER vs LIGHTNESS",
+   "cuts": 3
+  },
+  {
+   "text": "In corners, Ferrari uses its front motors for torque vectoring. The system can send different amounts of power to each front wheel, helping pull the nose of the car into a turn. duPont Registry described this as Ferrari's R A C dash e system.",
+   "query": "Ferrari SF90 track",
+   "caption": "FERRARI: ELECTRIC TORQUE VECTORING",
+   "cuts": 3,
+   "chapter": "How they turn"
+  },
+  {
+   "text": "McLaren went a different way. Wikipedia says the Artura was the first modern McLaren with an electronically controlled differential, which manages how power is split between the two rear wheels. It is a less exotic solution than Ferrari's front motors, but it is lighter, and it keeps the car's handling closer to a classic rear-wheel-drive supercar.",
+   "query": "McLaren Artura track",
+   "caption": "McLAREN: AN E-DIFF",
+   "cuts": 3
+  },
+  {
+   "text": "Think of the two systems like this. In the Ferrari, electricity is used to steer the car through the corner, by pushing one front wheel harder than the other. In the McLaren, the differential uses clutches to manage grip at the rear. One is a new idea from the electric era. The other is a refined version of a solution that racing cars have used for decades.",
+   "query": "Ferrari SF90 and McLaren Artura track",
+   "caption": "ELECTRIC vs MECHANICAL",
+   "cuts": 3
+  },
+  {
+   "text": "On the track, the Ferrari had the numbers. Wikipedia says the SF90 was, as of twenty twenty, the fastest Ferrari road car ever around Ferrari's Fiorano test track, seven tenths of a second faster than LaFerrari. It also says the SF90 set the fastest lap on the Top Gear test track in twenty twenty, one minute eleven point three seconds.",
+   "query": "Fiorano circuit Ferrari",
+   "caption": "SF90: TRACK RECORDS",
+   "cuts": 3
+  },
+  {
+   "text": "The Artura was not built to chase those records. Its job was to make a hybrid McLaren usable every day, with rear-wheel drive feel and a lower price. And that job turned out to be much harder than anyone expected.",
+   "query": "McLaren Artura road",
+   "caption": "ARTURA'S REAL JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist in the McLaren story. Road and Track reported in June twenty twenty-two that Artura deliveries, first expected at the end of twenty twenty-one, were delayed until July twenty twenty-two. At the media drive, some test cars had problems, including dark screens and cars going into limp mode, a reduced power safety mode.",
+   "query": "McLaren Artura launch",
+   "caption": "DELAYS AND GLITCHES",
+   "cuts": 3,
+   "chapter": "A difficult launch"
+  },
+  {
+   "text": "Road and Track also reported that a test car caught fire, and that McLaren blamed a nut on an oil cooler fuel line. For a brand launching a new hybrid with a new chassis, a new engine, and new electronics, it was a hard start.",
+   "query": "McLaren Artura test",
+   "caption": "A TEST CAR FIRE",
+   "cuts": 3
+  },
+  {
+   "text": "And the timing was terrible. Road and Track said McLaren's sales fell from four thousand six hundred sixty-two cars in twenty nineteen to one thousand six hundred fifty-nine in twenty twenty, during the pandemic, then recovered only to about two thousand one hundred thirty-eight in twenty twenty-one. McLaren even sold its headquarters and leased it back to raise money.",
+   "query": "McLaren Technology Centre",
+   "caption": "SALES: 4,662 TO 1,659",
+   "cuts": 3
+  },
+  {
+   "text": "To reassure buyers, McLaren offered a five-year warranty, a six-year warranty on the battery, and three years of free servicing, Road and Track reported. Kelley Blue Book still lists a five-year, unlimited-mile warranty on the twenty twenty-five Artura. McLaren knew it had to win back trust.",
+   "query": "McLaren Artura showroom",
+   "caption": "5-YEAR WARRANTY",
+   "cuts": 3
+  },
+  {
+   "text": "Ferrari had its problems too. In October twenty twenty-three, Motor Authority reported that six hundred fourteen SF90s from the twenty twenty-two to twenty twenty-four model years were recalled in America, because turbo oil delivery pipes could leak and cause a fire. Owners were told not to drive the cars until the pipes were replaced for free.",
+   "query": "Ferrari SF90 Stradale recall",
+   "caption": "SF90: 614 CARS RECALLED",
+   "cuts": 3
+  },
+  {
+   "text": "So both cars had trouble. But the difference was the company behind them. Ferrari's recall was an issue on a successful car from a profitable company. McLaren's problems arrived while the whole company was fighting for money.",
+   "query": "Ferrari Maranello factory",
+   "caption": "SAME PROBLEMS, DIFFERENT COMPANIES",
+   "cuts": 3
+  },
+  {
+   "text": "And then came the most surprising twist. Road and Track reported that McLaren's new chief executive was Michael Leiters, the former chief technology officer of Ferrari. The man who had helped develop Ferrari's cars was now in charge of fixing McLaren's.",
+   "query": "McLaren Artura front",
+   "caption": "EX-FERRARI CTO RUNS McLAREN",
+   "cuts": 3,
+   "chapter": "A Ferrari man at McLaren"
+  },
+  {
+   "text": "The ownership changed too. Autocar New Zealand reported that Bahrain's sovereign fund, Mumtalakat, took control of McLaren in early twenty twenty-four. Then, in October twenty twenty-four, Business Day reported a deal for McLaren Automotive to be bought by CYVN Holdings of Abu Dhabi, an investor in electric vehicles.",
+   "query": "McLaren Woking",
+   "caption": "NEW OWNERS: MIDDLE EAST",
+   "cuts": 3
+  },
+  {
+   "text": "Meanwhile, the Artura kept improving. For twenty twenty-five, McLaren raised its power to about six hundred ninety horsepower and added the Artura Spider, a convertible. The car that had a troubled start became a more complete product.",
+   "query": "McLaren Artura Spider",
+   "caption": "UPDATE: ~690 HP + SPIDER",
+   "cuts": 3
+  },
+  {
+   "text": "The open versions repeat the price gap. CarGurus listed the twenty twenty-three SF90 Spider at about five hundred seventy thousand dollars, with a retractable hard top. Kelley Blue Book listed the twenty twenty-five Artura Spider at about two hundred seventy-nine thousand. Once again, the Ferrari costs about twice as much.",
+   "query": "Ferrari SF90 Spider",
+   "caption": "SPIDERS: $570K vs $279K",
+   "cuts": 3
+  },
+  {
+   "text": "And Ferrari kept pushing the SF90 upward. In twenty twenty-three it revealed the SF90 X X Stradale and X X Spider. Evo India reported about one thousand sixteen horsepower, seven hundred ninety-nine Stradales and five hundred ninety-nine Spiders, all sold, and called it the first road-legal model in Ferrari's X X program. McLaren had nothing like that based on the Artura.",
+   "query": "Ferrari SF90 XX Stradale",
+   "caption": "SF90 XX: 1,016 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Ferrari moved on from the SF90 fast. On the tenth of September twenty twenty-five, Motoring Research reported, Ferrari revealed the eight forty-nine Testarossa as its replacement, with about one thousand fifty horsepower, about fifty more than the SF90. It keeps the V8, three electric motors, and a plug-in battery of about seven point four five kilowatt hours.",
+   "query": "Ferrari 849 Testarossa",
+   "caption": "SF90 REPLACED: 849 TESTAROSSA",
+   "cuts": 3,
+   "chapter": "What came next"
+  },
+  {
+   "text": "And Ferrari went further. Its first fully electric car, the Luce, has an interior designed by LoveFrom, the studio of Jony Ive and Marc Newson. Electra's summary lists four motors, more than one thousand horsepower in boost mode, and first deliveries from October twenty twenty-six.",
+   "query": "Ferrari Luce",
+   "caption": "FERRARI LUCE: FULLY ELECTRIC",
+   "cuts": 3
+  },
+  {
+   "text": "McLaren's future is less certain. Autoevolution reported in twenty twenty-six that the Artura could be dropped around twenty twenty-eight, and that a new hybrid supercar, code-named P thirty-four, is expected to debut in twenty twenty-seven. The Artura's story may end sooner than its fans would like.",
+   "query": "McLaren Artura rear view",
+   "caption": "ARTURA: EXIT IN 2028?",
+   "cuts": 3
+  },
+  {
+   "text": "So here is the twist at the end. The car that cost twice as much was replaced after about five years by a more powerful version of the same idea. The cheaper car survived its troubled launch, but its maker changed owners, changed bosses, and is now planning what comes next.",
+   "query": "Ferrari SF90 and McLaren Artura",
+   "caption": "TWO DIFFERENT ENDINGS",
+   "cuts": 3
+  },
+  {
+   "text": "So what is the real difference between the Ferrari SF90 and the McLaren Artura? It is not just power. It is the job each car had. The SF90 was a flagship, built to prove that Ferrari could make a hybrid faster than its own hypercar. Three motors, all-wheel drive, almost one thousand horsepower, and a price to match.",
+   "query": "Ferrari SF90 Stradale",
+   "caption": "SF90: THE FLAGSHIP",
+   "cuts": 3,
+   "chapter": "The real difference"
+  },
+  {
+   "text": "The Artura was an entry model, built to bring hybrid technology to McLaren's most affordable series car. One motor, rear-wheel drive, a new lightweight chassis, and a price about half of the Ferrari's. Its real rival was the Ferrari two ninety-six G T B, not the SF90.",
+   "query": "McLaren Artura",
+   "caption": "ARTURA: THE ENTRY HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "Even inside, the two cars feel different. Autobuzz described the SF90's cockpit as a sixteen-inch curved digital display behind the steering wheel, controlled through touch pads and haptic buttons, with no central infotainment screen at all. Ferrari later went back to physical buttons on the eight forty-nine Testarossa, Motoring Research reported. The SF90's cabin was a bold experiment, and not everyone liked it.",
+   "query": "Ferrari SF90 interior",
+   "caption": "SF90: A BOLD COCKPIT",
+   "cuts": 3
+  },
+  {
+   "text": "And they share one surprising idea. Neither has a reverse gear. Both rely on electric motors to back out of a parking space. Two rival companies, two different philosophies, and the same quiet decision deep inside the gearbox.",
+   "query": "Ferrari SF90 and McLaren Artura parked",
+   "caption": "BOTH: NO REVERSE GEAR",
+   "cuts": 3
+  },
+  {
+   "text": "If you could have one, which would you choose? The flagship Ferrari with all-wheel drive, or the lighter rear-wheel-drive McLaren for half the price? Tell us in the comments. In the other videos of this series, we reveal two things most people don't know about the SF90, the real cost of owning one, and the story behind Ferrari's first plug-in hybrid.",
+   "query": "Ferrari SF90 Stradale yellow",
+   "caption": "WHICH WOULD YOU CHOOSE?",
+   "cuts": 3
+  },
+  {
+   "text": "And if your next vehicle is a truck instead of a supercar, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "McLaren Artura sunset",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

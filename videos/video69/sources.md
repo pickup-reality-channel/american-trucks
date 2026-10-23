@@ -1,0 +1,13 @@
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 29, 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid (May 2019): https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- duPont Registry, Ferrari SF90 Stradale price, specs, review: https://news.dupontregistry.com/blogs/ferrari-news/ferrari-sf90-stradale-price-specs-photos-review
+- Design News, Magna 8-speed DCT in the SF90: https://www.designnews.com/automotive/ferrari-sf90-stradale-accelerates-through-gears-magnas-8-speed-dual-clutch-transmission
+- Autobuzz, Facts & Figures: SF90 Stradale launched in Malaysia (2020): https://autobuzz.my/2020/09/18/facts-figures-ferrari-sf90-stradale-launched-in-malaysia/
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Driven (NZ), LaFerrari was the world's first HEV hypercar: https://www.drivencarguide.co.nz/news/the-good-oil-laferrari-was-the-worlds-first-hev-hypercar/
+- Wikipedia, McLaren Artura (electric motor replaces reverse gear): https://en.wikipedia.org/wiki/McLaren_Artura
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- CarGurus, 2023 Ferrari SF90 review and pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- Motoring Research, Ferrari 849 Testarossa replaces the SF90 (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
+- Electra, Ferrari Luce: everything we know: https://www.go-electra.com/en/newsroom/electric-ferrari-luce-price-power-and-everything-we-know/
