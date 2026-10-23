@@ -1,0 +1,15 @@
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Koenigsegg Jesko: https://en.wikipedia.org/wiki/Koenigsegg_Jesko
+- Wikipedia, Koenigsegg (company history, models, ownership): https://en.wikipedia.org/wiki/Koenigsegg
+- The Drive, Koenigsegg Jesko reveal (Mar 2019): https://www.thedrive.com/news/26777/koenigsegg-jesko-a-swedish-megacar-with-1600-hp-seven-clutches-and-300-mph-top-speed
+- AOL / Motor1, Jesko Absolut can do 330 mph in theory: https://www.aol.com/news/koenigsegg-jesko-absolut-330-mph-182000829.html
+- Top Gear, Koenigsegg Agera RS 277.9 mph record (Nov 2017): https://www.topgear.com/car-news/supercars/koenigsegg-has-smashed-worlds-fastest-car-record
+- Bugatti newsroom, 0-400-0 km/h in 42 seconds (Sept 2017): https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Autocar, Chiron goes 304mph: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-goes-304mph-set-hypercar-record
+- Motor1, Bugatti retires from speed records: https://www.motor1.com/news/368539/bugatti-retires-chasing-speed-records/
+- Motor Authority, Chiron W16 engine: https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- Hagerty UK, Chiron Profilee auction: https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- The Drive, Chiron maintenance costs: https://www.thedrive.com/news/heres-what-it-cost-to-maintain-a-bugatti-chiron-over-10-years
+- Motor1, Rimac and Bugatti (55/45 split): https://www.motor1.com/news/755654/rimac-complete-control-bugatti/
+- Carscoops, Rimac finalizes Bugatti takeover (Sept 2026): https://carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership
+- Car Throttle, Bugatti Tourbillon: https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion

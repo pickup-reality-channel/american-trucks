@@ -1,17 +1,46 @@
-"""Download one real photo per scene from Wikimedia Commons and record its license/credit."""
-import json, sys, pathlib, requests
+"""Download real photos per scene from Wikimedia Commons (several per scene for fast cuts) and record license/credit."""
+import json, sys, time, pathlib, requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-HEADERS = {"User-Agent": "american-trucks-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
+HEADERS = {"User-Agent": "pickup-reality-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
+_cache = {}
+
+
+def api_pages(params):
+    """Wikimedia rate-limits bursts; retry with backoff and cache identical searches."""
+    key = json.dumps(params, sort_keys=True)
+    if key in _cache:
+        return _cache[key]
+    for attempt in range(8):
+        time.sleep(1.5)
+        r = requests.get(API, params=params, headers=HEADERS, timeout=60)
+        if r.status_code == 200:
+            try:
+                pages = r.json().get("query", {}).get("pages", {})
+                _cache[key] = pages
+                return pages
+            except ValueError:
+                pass
+        time.sleep(5 * (attempt + 1))
+    raise SystemExit(f"Commons API kept failing for {params['gsrsearch']}")
+
+
+def download(url):
+    for attempt in range(8):
+        r = requests.get(url, headers=HEADERS, timeout=120)
+        if r.status_code == 200:
+            return r.content
+        time.sleep(5 * (attempt + 1))
+    raise SystemExit(f"download failed: {url}")
 
 
 def pick(query, used):
     params = {
         "action": "query", "format": "json", "generator": "search",
-        "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 25,
+        "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 30,
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1920,
     }
-    pages = requests.get(API, params=params, headers=HEADERS, timeout=60).json().get("query", {}).get("pages", {})
+    pages = api_pages(params)
     for p in sorted(pages.values(), key=lambda x: x.get("index", 0)):
         info = (p.get("imageinfo") or [{}])[0]
         if info.get("mime") != "image/jpeg" or info.get("width", 0) < 2000:
@@ -25,20 +54,28 @@ def pick(query, used):
         artist = meta.get("Artist", {}).get("value", "unknown")
         return {"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
                 "license": lic, "artist": artist}
-    raise SystemExit(f"no usable image for: {query}")
+    return None
 
 
 def main(video):
     d = pathlib.Path("videos") / video
     script = json.loads((d / "script.json").read_text())
     (d / "media").mkdir(exist_ok=True)
-    used, credits = set(), []
+    used, credits, last = set(), [], None
     for i, s in enumerate(script["scenes"]):
-        m = pick(s["query"], used)
-        used.add(m["title"])
-        (d / "media" / f"{i}.jpg").write_bytes(requests.get(m["url"], headers=HEADERS, timeout=120).content)
-        credits.append({"scene": i, **m})
-        print(i, m["title"], m["license"])
+        for k in range(s.get("cuts", 2)):
+            f = d / "media" / f"{i}_{k}.jpg"
+            q = s["query"]
+            m = pick(q, used)
+            while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
+                q = " ".join(q.split()[:-1]); m = pick(q, used)
+            if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
+                if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
+                f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
+            used.add(m["title"])
+            f.write_bytes(download(m["url"])); last = f
+            credits.append({**m, "scene": i, "cut": k})
+            print(i, k, m["title"], m["license"])
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 

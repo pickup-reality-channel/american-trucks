@@ -1,0 +1,18 @@
+- Wikipedia, Bugatti (company history): https://en.wikipedia.org/wiki/Bugatti
+- Wikipedia, Louis Chiron: https://en.wikipedia.org/wiki/Louis_Chiron
+- Bugatti newsroom, 80 years ago Bugatti wins Le Mans: https://newsroom.bugatti.com/press-releases/80-years-ago-bugatti-wins-24-hours-of-le-mans
+- Bugatti newsroom, Romano Artioli, the man who breathed life into Bugatti: https://newsroom.bugatti.com/press-releases/romano-artioli-the-man-who-breathed-life-into-bugatti
+- Top Gear, how the Bugatti Veyron became a thing: https://www.topgear.com/car-news/supercars/heres-how-bugatti-veyron-became-thing
+- evo, true cost of the Veyron revealed (Oct 2013): https://evo.co.uk/news/evonews/290953/true_cost_of_the_veyron_revealed.html
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Motor Authority, Chiron W16 engine: https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- Bugatti newsroom, 0-400-0 km/h in 42 seconds: https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Top Gear, Koenigsegg Agera RS record (Nov 2017): https://www.topgear.com/car-news/supercars/koenigsegg-has-smashed-worlds-fastest-car-record
+- Autocar, Chiron goes 304mph: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-goes-304mph-set-hypercar-record
+- Motor1, Bugatti retires from speed records: https://www.motor1.com/news/368539/bugatti-retires-chasing-speed-records/
+- Hagerty UK, Chiron Profilee auction: https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- Motor1, last 1,500-hp Chiron delivered (Jan 2024): https://www.motor1.com/news/704067/last-chiron-1500-delivered/
+- Top Gear, the 500th and final Chiron (May 2024): https://www.topgear.com/car-news/first-look/it-final-500th-definitely-last-ever-bugatti-chiron
+- Motor1, Rimac and Bugatti (55/45): https://www.motor1.com/news/755654/rimac-complete-control-bugatti/
+- Car Throttle, Bugatti Tourbillon: https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion
+- Carscoops, Rimac finalizes Bugatti takeover (Sept 2026): https://carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership

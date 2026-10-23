@@ -1,0 +1,15 @@
+- Wikipedia, Bugatti Chiron (specs, variants, production, records, Lego): https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Bugatti newsroom, 0-400-0 km/h in 42 seconds (Sept 11, 2017): https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Autocar, Bugatti Chiron goes 304mph: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-goes-304mph-set-hypercar-record
+- Motor1, Bugatti retires from chasing speed records (2019): https://www.motor1.com/news/368539/bugatti-retires-chasing-speed-records/
+- Motor Authority, a close look at the Chiron W16 engine: https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- The Drive, what it cost to maintain a Chiron (Jan 2023): https://www.thedrive.com/news/heres-what-it-cost-to-maintain-a-bugatti-chiron-over-10-years
+- Motor1, Chiron tires won't cost $42,000: https://www.motor1.com/news/180923/bugatti-chiron-tires-cost/
+- evo, true cost of the Veyron revealed (Oct 2013): https://evo.co.uk/news/evonews/290953/true_cost_of_the_veyron_revealed.html
+- Top Gear, how the Veyron became a thing: https://www.topgear.com/car-news/supercars/heres-how-bugatti-veyron-became-thing
+- Hagerty UK, Chiron Profilee auction record: https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- evo, first used Chiron (Nov 2017): https://evo.co.uk/bugatti/chiron/20283/first-used-bugatti-chiron-aims-for-1m-profit
+- Top Gear, the 500th and final Chiron (May 2024): https://www.topgear.com/car-news/first-look/it-final-500th-definitely-last-ever-bugatti-chiron
+- Car Throttle, Bugatti Tourbillon (June 2024): https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion
+- Carscoops, Rimac finalizes Bugatti takeover (Sept 2026): https://carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership
+- Wikipedia, Koenigsegg Jesko (0-400-0 records): https://en.wikipedia.org/wiki/Koenigsegg_Jesko

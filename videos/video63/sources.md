@@ -1,0 +1,15 @@
+- Wikipedia, Bugatti Chiron (price, deposit, deliveries, variants, production): https://en.wikipedia.org/wiki/Bugatti_Chiron
+- The Drive, what it cost to maintain a Chiron (Jan 2023, Hamilton Collection): https://www.thedrive.com/news/heres-what-it-cost-to-maintain-a-bugatti-chiron-over-10-years
+- Motor1, Chiron Sport 110 Ans costs $50K per year to insure (Apr 2019, ValuePenguin): https://www.motor1.com/news/347085/bugatti-chiron-sport-insurance-cost/
+- MoneyGeek, Bugatti Chiron insurance (updated Apr 2026): https://www.moneygeek.com/insurance/auto/bugatti-chiron-insurance/
+- Motor1, Chiron tires won't cost $42,000: https://www.motor1.com/news/180923/bugatti-chiron-tires-cost/
+- Driven Car Guide (NZ), Singapore Chiron service cost estimate (Sept 2021, indicative): https://www.drivencarguide.co.nz/news/bugatti-owner-reveals-the-mind-blowing-services-costs-behind-3-million-hypercar/
+- The Drive, $21,000 Veyron oil change (Dec 2020): https://www.thedrive.com/news/37983/this-is-what-a-21000-oil-change-on-a-bugatti-veyron-looks-like
+- Bugatti newsroom, 0-400-0 record (brake specs): https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Motor Authority, Chiron W16 engine (air, injectors, fuel): https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- Motor1, last 1,500-hp Chiron delivered (Jan 2024): https://www.motor1.com/news/704067/last-chiron-1500-delivered/
+- evo, first used Chiron (Nov 2017): https://evo.co.uk/bugatti/chiron/20283/first-used-bugatti-chiron-aims-for-1m-profit
+- duPont Registry, first US Chiron sells at RM Sotheby's (Dec 2017): https://news.dupontregistry.com/bugatti/first-us-chiron-sells-rm-sothebys-12072017
+- Hagerty UK, Chiron Profilee auction record (Feb 2023): https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- Top Gear, the 500th and final Chiron (May 2024): https://www.topgear.com/car-news/first-look/it-final-500th-definitely-last-ever-bugatti-chiron
+- Car Throttle, Bugatti Tourbillon price and deliveries: https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion
