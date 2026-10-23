@@ -1,0 +1,2255 @@
+1
+00:00:00,000 --> 00:00:03,056
+One of these cars has sixteen cylinders,
+
+2
+00:00:03,056 --> 00:00:06,571
+four turbochargers, and weighs about two tons.
+
+3
+00:00:06,751 --> 00:00:08,787
+The other has eight cylinders,
+
+4
+00:00:08,787 --> 00:00:12,181
+two turbochargers, and weighs about thirty percent
+
+5
+00:00:12,181 --> 00:00:12,521
+less.
+
+6
+00:00:12,701 --> 00:00:14,870
+One comes from a brand owned for
+
+7
+00:00:14,870 --> 00:00:17,716
+decades by the biggest carmaker in Europe.
+
+8
+00:00:17,896 --> 00:00:19,849
+The other comes from a man who
+
+9
+00:00:19,849 --> 00:00:22,192
+started a car company at twenty-two.
+
+10
+00:00:22,372 --> 00:00:24,574
+This is the Bugatti Chiron against the
+
+11
+00:00:24,574 --> 00:00:27,414
+Koenigsegg Jesko, and the real difference between
+
+12
+00:00:27,414 --> 00:00:29,152
+them is not the one you think.
+
+13
+00:00:29,502 --> 00:00:32,997
+Most comparisons stop at horsepower and top
+
+14
+00:00:32,997 --> 00:00:33,485
+speed.
+
+15
+00:00:33,665 --> 00:00:35,851
+But these two cars were built on
+
+16
+00:00:35,851 --> 00:00:38,789
+opposite ideas about what a hypercar should
+
+17
+00:00:38,789 --> 00:00:38,994
+be.
+
+18
+00:00:39,174 --> 00:00:42,084
+One tries to make extreme speed feel
+
+19
+00:00:42,084 --> 00:00:43,620
+calm and luxurious.
+
+20
+00:00:43,800 --> 00:00:46,131
+The other tries to make every gram
+
+21
+00:00:46,131 --> 00:00:48,050
+and every millisecond count.
+
+22
+00:00:48,399 --> 00:00:50,518
+In this video we go through the
+
+23
+00:00:50,518 --> 00:00:52,090
+engines, the gearboxes,
+
+24
+00:00:52,090 --> 00:00:54,072
+the weight, the aerodynamics,
+
+25
+00:00:54,072 --> 00:00:56,805
+the records, and the people behind them.
+
+26
+00:00:56,985 --> 00:00:57,942
+And at the end,
+
+27
+00:00:57,942 --> 00:01:00,175
+we will show you the one difference
+
+28
+00:01:00,175 --> 00:01:02,791
+that actually decides which car is better
+
+29
+00:01:02,791 --> 00:01:03,812
+for which buyer.
+
+30
+00:01:03,992 --> 00:01:06,534
+Every number is sourced in the description.
+
+31
+00:01:06,884 --> 00:01:09,508
+First twist, before we even start.
+
+32
+00:01:09,688 --> 00:01:12,591
+The Chiron is no longer in production.
+
+33
+00:01:12,771 --> 00:01:14,892
+The last of the five hundred left
+
+34
+00:01:14,892 --> 00:01:17,334
+the factory in May twenty twenty-four.
+
+35
+00:01:17,514 --> 00:01:19,661
+The Jesko arrived later.
+
+36
+00:01:19,841 --> 00:01:21,904
+So this is not a fight between
+
+37
+00:01:21,904 --> 00:01:23,828
+two cars on sale at the same
+
+38
+00:01:23,828 --> 00:01:24,172
+time.
+
+39
+00:01:24,352 --> 00:01:27,103
+It is a fight between two philosophies.
+
+40
+00:01:27,453 --> 00:01:29,079
+Let's start with who built them.
+
+41
+00:01:29,259 --> 00:01:31,494
+Bugatti, as it exists today,
+
+42
+00:01:31,494 --> 00:01:34,367
+was revived by the Volkswagen Group.
+
+43
+00:01:34,547 --> 00:01:37,297
+Ferdinand Piech bought the name in nineteen
+
+44
+00:01:37,297 --> 00:01:39,919
+ninety-eight, and the Veyron and then the
+
+45
+00:01:39,919 --> 00:01:41,837
+Chiron were built in Molsheim,
+
+46
+00:01:41,837 --> 00:01:44,139
+France, with the resources of one of
+
+47
+00:01:44,139 --> 00:01:46,889
+the largest carmakers on earth behind them.
+
+48
+00:01:47,238 --> 00:01:49,665
+Koenigsegg is the opposite story.
+
+49
+00:01:49,845 --> 00:01:52,954
+Christian von Koenigsegg founded it in Sweden
+
+50
+00:01:52,954 --> 00:01:54,612
+in nineteen ninety-four,
+
+51
+00:01:54,612 --> 00:01:56,892
+when he was twenty-two years old.
+
+52
+00:01:57,072 --> 00:01:59,741
+The company started in Olofstrom,
+
+53
+00:01:59,741 --> 00:02:01,681
+then moved to Angelholm.
+
+54
+00:02:01,861 --> 00:02:05,217
+After a fire damaged a production building
+
+55
+00:02:05,217 --> 00:02:07,454
+in February twenty-oh-three,
+
+56
+00:02:07,454 --> 00:02:10,810
+Koenigsegg moved onto a former Swedish Air
+
+57
+00:02:10,810 --> 00:02:12,008
+Force airfield.
+
+58
+00:02:12,358 --> 00:02:14,907
+That is why Koenigsegg cars carry a
+
+59
+00:02:14,907 --> 00:02:15,853
+ghost symbol.
+
+60
+00:02:16,033 --> 00:02:18,008
+It was the emblem of the air
+
+61
+00:02:18,008 --> 00:02:20,759
+force squadron that used those hangars,
+
+62
+00:02:20,759 --> 00:02:23,510
+and Koenigsegg adopted it as a tribute.
+
+63
+00:02:23,690 --> 00:02:26,134
+Every Jesko is built in a converted
+
+64
+00:02:26,134 --> 00:02:28,578
+hangar, with that ghost on the car.
+
+65
+00:02:28,927 --> 00:02:30,622
+And the names tell you a lot.
+
+66
+00:02:30,802 --> 00:02:33,829
+The Chiron is named after Louis Chiron,
+
+67
+00:02:33,829 --> 00:02:37,089
+a racing driver from Monaco from Bugatti's
+
+68
+00:02:37,089 --> 00:02:37,943
+golden era.
+
+69
+00:02:38,123 --> 00:02:40,874
+The Jesko is named after Jesko von
+
+70
+00:02:40,874 --> 00:02:43,544
+Koenigsegg, the founder's father.
+
+71
+00:02:43,724 --> 00:02:46,058
+One looks back at a brand's history.
+
+72
+00:02:46,238 --> 00:02:48,107
+The other is a family name.
+
+73
+00:02:48,457 --> 00:02:50,292
+Scale is the twist here.
+
+74
+00:02:50,472 --> 00:02:53,364
+According to Wikipedia's model table,
+
+75
+00:02:53,364 --> 00:02:56,491
+Koenigsegg had built or planned a little
+
+76
+00:02:56,491 --> 00:02:59,539
+over eight hundred cars in total across
+
+77
+00:02:59,539 --> 00:03:00,712
+all its models.
+
+78
+00:03:00,892 --> 00:03:04,317
+Bugatti built five hundred Chirons alone.
+
+79
+00:03:04,497 --> 00:03:07,198
+So a single Bugatti model is close
+
+80
+00:03:07,198 --> 00:03:10,615
+to the size of Koenigsegg's entire history.
+
+81
+00:03:10,965 --> 00:03:12,184
+Now the engines.
+
+82
+00:03:12,364 --> 00:03:15,838
+The Chiron uses an eight-liter W16,
+
+83
+00:03:15,838 --> 00:03:17,624
+quad-turbocharged.
+
+84
+00:03:17,804 --> 00:03:21,156
+That means sixteen cylinders arranged like two
+
+85
+00:03:21,156 --> 00:03:22,614
+V8s joined together,
+
+86
+00:03:22,614 --> 00:03:23,853
+with four turbos.
+
+87
+00:03:24,033 --> 00:03:26,662
+The standard car makes one thousand four
+
+88
+00:03:26,662 --> 00:03:30,080
+hundred seventy-nine horsepower and one thousand six
+
+89
+00:03:30,080 --> 00:03:32,183
+hundred newton meters of torque.
+
+90
+00:03:32,532 --> 00:03:35,708
+The Jesko uses a five-liter twin-turbo V8
+
+91
+00:03:35,708 --> 00:03:37,954
+with a flat-plane crankshaft.
+
+92
+00:03:38,134 --> 00:03:40,930
+On regular gasoline it makes one thousand
+
+93
+00:03:40,930 --> 00:03:42,976
+two hundred eighty horsepower.
+
+94
+00:03:43,156 --> 00:03:45,008
+On E eighty-five biofuel,
+
+95
+00:03:45,008 --> 00:03:48,342
+it makes one thousand six hundred horsepower,
+
+96
+00:03:48,342 --> 00:03:51,529
+and one thousand five hundred newton meters
+
+97
+00:03:51,529 --> 00:03:52,269
+of torque.
+
+98
+00:03:52,449 --> 00:03:55,427
+It revs to eight thousand five hundred
+
+99
+00:03:55,427 --> 00:03:55,898
+r p m.
+
+100
+00:03:56,247 --> 00:03:58,999
+So here is the first surprise.
+
+101
+00:03:59,179 --> 00:04:00,490
+On the right fuel,
+
+102
+00:04:00,490 --> 00:04:03,259
+the Jesko has more horsepower than the
+
+103
+00:04:03,259 --> 00:04:06,465
+standard Chiron, with half the cylinders and
+
+104
+00:04:06,465 --> 00:04:09,233
+almost three liters less displacement.
+
+105
+00:04:09,413 --> 00:04:11,420
+Even the Chiron Super Sport,
+
+106
+00:04:11,420 --> 00:04:15,289
+at one thousand five hundred seventy-eight horsepower,
+
+107
+00:04:15,289 --> 00:04:17,582
+comes in just below the Jesko on
+
+108
+00:04:17,582 --> 00:04:18,585
+E eighty-five.
+
+109
+00:04:18,935 --> 00:04:20,433
+But the twist is fuel.
+
+110
+00:04:20,613 --> 00:04:23,622
+That headline number depends on E eighty-five,
+
+111
+00:04:23,622 --> 00:04:25,846
+a fuel blend that is not available
+
+112
+00:04:25,846 --> 00:04:27,219
+at every gas station.
+
+113
+00:04:27,399 --> 00:04:28,799
+On normal gasoline,
+
+114
+00:04:28,799 --> 00:04:31,377
+the Jesko drops to one thousand two
+
+115
+00:04:31,377 --> 00:04:33,292
+hundred eighty horsepower,
+
+116
+00:04:33,292 --> 00:04:36,165
+about two hundred less than the Chiron.
+
+117
+00:04:36,345 --> 00:04:38,185
+So the answer to which car is
+
+118
+00:04:38,185 --> 00:04:40,659
+more powerful depends on where you fill
+
+119
+00:04:40,659 --> 00:04:40,849
+up.
+
+120
+00:04:41,199 --> 00:04:44,135
+The engines also sound and feel completely
+
+121
+00:04:44,135 --> 00:04:44,833
+different.
+
+122
+00:04:45,013 --> 00:04:47,730
+The Chiron uses a two-stage system.
+
+123
+00:04:47,910 --> 00:04:49,963
+Two turbos work from launch,
+
+124
+00:04:49,963 --> 00:04:52,236
+and the other two join at about
+
+125
+00:04:52,236 --> 00:04:54,803
+three thousand eight hundred r p m,
+
+126
+00:04:54,803 --> 00:04:57,662
+giving peak torque from two thousand to
+
+127
+00:04:57,662 --> 00:04:59,056
+six thousand r p m.
+
+128
+00:04:59,236 --> 00:05:01,478
+It is designed to feel like a
+
+129
+00:05:01,478 --> 00:05:03,102
+wave that never ends.
+
+130
+00:05:03,451 --> 00:05:05,843
+The Jesko is designed to rev.
+
+131
+00:05:06,023 --> 00:05:08,323
+The flat-plane crank is lighter,
+
+132
+00:05:08,323 --> 00:05:11,628
+about five kilograms lighter than the previous
+
+133
+00:05:11,628 --> 00:05:14,144
+Agera crank according to Wikipedia,
+
+134
+00:05:14,144 --> 00:05:16,803
+and The Drive reported the claim that
+
+135
+00:05:16,803 --> 00:05:19,318
+it is the lightest V8 crankshaft in
+
+136
+00:05:19,318 --> 00:05:20,036
+the world.
+
+137
+00:05:20,216 --> 00:05:22,366
+A high redline and a light crank
+
+138
+00:05:22,366 --> 00:05:24,315
+make the engine react faster.
+
+139
+00:05:24,664 --> 00:05:26,940
+This is where the cars split hardest.
+
+140
+00:05:27,120 --> 00:05:30,818
+The Chiron uses a seven-speed dual-clutch gearbox
+
+141
+00:05:30,818 --> 00:05:32,553
+developed with Ricardo.
+
+142
+00:05:32,733 --> 00:05:36,377
+A dual-clutch gearbox pre-selects the next gear,
+
+143
+00:05:36,377 --> 00:05:38,655
+so shifts are fast and smooth.
+
+144
+00:05:38,835 --> 00:05:41,207
+It is strong enough to handle sixteen
+
+145
+00:05:41,207 --> 00:05:42,617
+hundred newton meters,
+
+146
+00:05:42,617 --> 00:05:43,130
+all day.
+
+147
+00:05:43,480 --> 00:05:46,675
+The Jesko uses something Koenigsegg calls the
+
+148
+00:05:46,675 --> 00:05:48,450
+Light Speed Transmission.
+
+149
+00:05:48,630 --> 00:05:50,948
+It has nine forward gears and,
+
+150
+00:05:50,948 --> 00:05:52,648
+as The Drive reported,
+
+151
+00:05:52,648 --> 00:05:53,808
+seven clutches.
+
+152
+00:05:53,988 --> 00:05:57,128
+Instead of only pre-selecting the next gear,
+
+153
+00:05:57,128 --> 00:05:59,270
+it can jump to almost any gear
+
+154
+00:05:59,270 --> 00:06:02,910
+almost instantly, for example straight from seventh
+
+155
+00:06:02,910 --> 00:06:03,624
+to second.
+
+156
+00:06:03,973 --> 00:06:05,682
+According to Wikipedia,
+
+157
+00:06:05,682 --> 00:06:09,025
+the gearbox weighs about ninety kilograms and
+
+158
+00:06:09,025 --> 00:06:11,996
+shifts in twenty to thirty milliseconds.
+
+159
+00:06:12,176 --> 00:06:14,184
+And the paddles have two levels.
+
+160
+00:06:14,364 --> 00:06:16,872
+A light pull shifts one gear.
+
+161
+00:06:17,052 --> 00:06:19,084
+A hard pull jumps to the best
+
+162
+00:06:19,084 --> 00:06:21,185
+gear for maximum acceleration.
+
+163
+00:06:21,365 --> 00:06:25,034
+Koenigsegg calls it Ultimate Power On Demand.
+
+164
+00:06:25,384 --> 00:06:26,696
+Here is the twist.
+
+165
+00:06:26,876 --> 00:06:29,198
+Koenigsegg's previous big car,
+
+166
+00:06:29,198 --> 00:06:32,372
+the Regera, had no traditional gearbox at
+
+167
+00:06:32,372 --> 00:06:32,681
+all.
+
+168
+00:06:32,861 --> 00:06:35,293
+It used a direct drive system with
+
+169
+00:06:35,293 --> 00:06:36,437
+electric motors.
+
+170
+00:06:36,617 --> 00:06:38,165
+Then, for the Jesko,
+
+171
+00:06:38,165 --> 00:06:41,182
+Koenigsegg went the other way and built
+
+172
+00:06:41,182 --> 00:06:44,431
+one of the most complicated gearboxes ever
+
+173
+00:06:44,431 --> 00:06:45,824
+put in a road car.
+
+174
+00:06:46,004 --> 00:06:48,752
+The same company solved the same problem
+
+175
+00:06:48,752 --> 00:06:50,195
+in two opposite ways.
+
+176
+00:06:50,545 --> 00:06:51,532
+Now weight.
+
+177
+00:06:51,712 --> 00:06:55,131
+Wikipedia lists the Chiron at an estimated
+
+178
+00:06:55,131 --> 00:06:58,957
+one thousand nine hundred ninety-six kilograms.
+
+179
+00:06:59,137 --> 00:07:01,590
+The Jesko Attack is listed at one
+
+180
+00:07:01,590 --> 00:07:05,380
+thousand four hundred twenty kilograms with fluids,
+
+181
+00:07:05,380 --> 00:07:08,130
+and the Jesko Absolut at one thousand
+
+182
+00:07:08,130 --> 00:07:09,690
+three hundred ninety.
+
+183
+00:07:09,870 --> 00:07:12,339
+That is a difference of almost six
+
+184
+00:07:12,339 --> 00:07:15,678
+hundred kilograms, or about one thousand three
+
+185
+00:07:15,678 --> 00:07:16,767
+hundred pounds.
+
+186
+00:07:17,117 --> 00:07:19,113
+Why is the Chiron so heavy?
+
+187
+00:07:19,293 --> 00:07:20,903
+Part of it is the engine and
+
+188
+00:07:20,903 --> 00:07:21,592
+the cooling.
+
+189
+00:07:21,772 --> 00:07:23,676
+It has ten radiators.
+
+190
+00:07:23,856 --> 00:07:26,074
+Part of it is all-wheel drive.
+
+191
+00:07:26,254 --> 00:07:28,309
+And part of it is luxury.
+
+192
+00:07:28,489 --> 00:07:31,204
+Bugatti wanted a car that could cross
+
+193
+00:07:31,204 --> 00:07:33,039
+a continent with leather,
+
+194
+00:07:33,039 --> 00:07:35,901
+sound insulation, and air conditioning,
+
+195
+00:07:35,901 --> 00:07:38,470
+at speeds most cars cannot reach at
+
+196
+00:07:38,470 --> 00:07:38,764
+all.
+
+197
+00:07:39,114 --> 00:07:41,900
+The Jesko is rear-wheel drive and has
+
+198
+00:07:41,900 --> 00:07:44,837
+active rear-wheel steering as standard.
+
+199
+00:07:45,017 --> 00:07:48,160
+It uses Koenigsegg's Triplex suspension,
+
+200
+00:07:48,160 --> 00:07:50,988
+which adds a third damper to control
+
+201
+00:07:50,988 --> 00:07:53,423
+the car as it squats and dives.
+
+202
+00:07:53,603 --> 00:07:56,659
+And Michelin Pilot Sport Cup two tires
+
+203
+00:07:56,659 --> 00:07:59,795
+are standard, with track-only Cup two R
+
+204
+00:07:59,795 --> 00:08:01,323
+tires as an option.
+
+205
+00:08:01,674 --> 00:08:03,403
+Then there is downforce.
+
+206
+00:08:03,583 --> 00:08:05,799
+The Jesko Attack has a huge rear
+
+207
+00:08:05,799 --> 00:08:07,461
+wing and front splitter.
+
+208
+00:08:07,641 --> 00:08:11,339
+Koenigsegg claims about eight hundred kilograms of
+
+209
+00:08:11,339 --> 00:08:15,038
+downforce at two hundred forty-nine kilometers per
+
+210
+00:08:15,038 --> 00:08:18,218
+hour, one thousand kilograms at two hundred
+
+211
+00:08:18,218 --> 00:08:21,842
+seventy-five, and about one thousand four hundred
+
+212
+00:08:21,842 --> 00:08:22,804
+at top speed.
+
+213
+00:08:22,984 --> 00:08:24,807
+That is the weight of a small
+
+214
+00:08:24,807 --> 00:08:26,629
+car pushing it into the road.
+
+215
+00:08:26,980 --> 00:08:28,788
+The Chiron uses its wing in a
+
+216
+00:08:28,788 --> 00:08:29,661
+different way.
+
+217
+00:08:29,841 --> 00:08:32,075
+In Top Speed mode it hides much
+
+218
+00:08:32,075 --> 00:08:33,804
+of its aero to cut drag,
+
+219
+00:08:33,804 --> 00:08:36,542
+and under hard braking the wing stands
+
+220
+00:08:36,542 --> 00:08:37,910
+up as an air brake.
+
+221
+00:08:38,090 --> 00:08:40,849
+In Bugatti's zero to four hundred to
+
+222
+00:08:40,849 --> 00:08:43,762
+zero test, the wing went to forty-nine
+
+223
+00:08:43,762 --> 00:08:47,287
+degrees and added about nine hundred kilograms
+
+224
+00:08:47,287 --> 00:08:49,816
+of rear downforce while stopping.
+
+225
+00:08:50,166 --> 00:08:52,105
+The twist on grip is this.
+
+226
+00:08:52,285 --> 00:08:54,189
+There are actually two Jeskos.
+
+227
+00:08:54,369 --> 00:08:56,769
+The Attack is the downforce car for
+
+228
+00:08:56,769 --> 00:08:57,249
+tracks.
+
+229
+00:08:57,429 --> 00:09:00,111
+The Absolut is the low-drag car for
+
+230
+00:09:00,111 --> 00:09:00,877
+top speed.
+
+231
+00:09:01,057 --> 00:09:03,592
+It replaces the big wing with two
+
+232
+00:09:03,592 --> 00:09:06,435
+rear fins, and its downforce drops to
+
+233
+00:09:06,435 --> 00:09:09,047
+about one hundred fifty kilograms,
+
+234
+00:09:09,047 --> 00:09:11,890
+with a drag coefficient of zero point
+
+235
+00:09:11,890 --> 00:09:13,120
+two seven eight.
+
+236
+00:09:13,300 --> 00:09:17,159
+Koenigsegg built two different answers inside one
+
+237
+00:09:17,159 --> 00:09:18,025
+model name.
+
+238
+00:09:18,374 --> 00:09:20,615
+Now the question everyone asks.
+
+239
+00:09:20,795 --> 00:09:22,200
+Which one is faster?
+
+240
+00:09:22,380 --> 00:09:24,897
+Let's go through the record history,
+
+241
+00:09:24,897 --> 00:09:26,855
+because it is a story of the
+
+242
+00:09:26,855 --> 00:09:28,533
+two brands taking turns.
+
+243
+00:09:28,713 --> 00:09:30,383
+In twenty seventeen,
+
+244
+00:09:30,383 --> 00:09:33,221
+Bugatti set a zero to four hundred
+
+245
+00:09:33,221 --> 00:09:35,808
+to zero record with the Chiron,
+
+246
+00:09:35,808 --> 00:09:38,813
+at forty-one point nine six seconds,
+
+247
+00:09:38,813 --> 00:09:41,484
+with Juan Pablo Montoya driving.
+
+248
+00:09:41,834 --> 00:09:44,551
+Weeks later, Koenigsegg answered.
+
+249
+00:09:44,731 --> 00:09:47,301
+Top Gear reported that the Agera RS
+
+250
+00:09:47,301 --> 00:09:50,091
+beat the Chiron's zero to four hundred
+
+251
+00:09:50,091 --> 00:09:52,294
+to zero time by more than five
+
+252
+00:09:52,294 --> 00:09:52,881
+seconds.
+
+253
+00:09:53,061 --> 00:09:55,884
+Then, on the fourth of November twenty
+
+254
+00:09:55,884 --> 00:09:58,855
+seventeen, on a closed stretch of Nevada
+
+255
+00:09:58,855 --> 00:10:01,678
+highway between Las Vegas and Pahrump,
+
+256
+00:10:01,678 --> 00:10:05,169
+the Agera RS averaged two hundred seventy-seven
+
+257
+00:10:05,169 --> 00:10:07,546
+point nine miles per hour in two
+
+258
+00:10:07,546 --> 00:10:08,363
+directions.
+
+259
+00:10:08,713 --> 00:10:10,699
+Then came Bugatti's response.
+
+260
+00:10:10,879 --> 00:10:13,766
+On the second of August twenty nineteen,
+
+261
+00:10:13,766 --> 00:10:17,519
+at Ehra-Lessien, Andy Wallace drove a pre-production
+
+262
+00:10:17,519 --> 00:10:20,406
+Chiron Super Sport three hundred plus to
+
+263
+00:10:20,406 --> 00:10:23,438
+three hundred four point seven seven three
+
+264
+00:10:23,438 --> 00:10:24,520
+miles per hour.
+
+265
+00:10:24,700 --> 00:10:26,495
+It was the first car of its
+
+266
+00:10:26,495 --> 00:10:28,091
+kind past three hundred.
+
+267
+00:10:28,440 --> 00:10:30,716
+But here is the detail that matters.
+
+268
+00:10:30,896 --> 00:10:33,473
+Bugatti's run was in one direction.
+
+269
+00:10:33,653 --> 00:10:36,895
+Koenigsegg's Nevada record was an average of
+
+270
+00:10:36,895 --> 00:10:39,253
+two runs in opposite directions,
+
+271
+00:10:39,253 --> 00:10:42,052
+which is the traditional way to cancel
+
+272
+00:10:42,052 --> 00:10:43,452
+out wind and slope.
+
+273
+00:10:43,632 --> 00:10:45,473
+So each brand can say it holds
+
+274
+00:10:45,473 --> 00:10:47,129
+a different kind of record,
+
+275
+00:10:47,129 --> 00:10:49,031
+and both are telling the truth.
+
+276
+00:10:49,380 --> 00:10:52,770
+After that, Bugatti's president said the company
+
+277
+00:10:52,770 --> 00:10:55,383
+would stop chasing top speed records.
+
+278
+00:10:55,563 --> 00:10:59,115
+And Koenigsegg's answer was the Jesko Absolut.
+
+279
+00:10:59,295 --> 00:11:02,525
+Its maker estimates about five hundred kilometers
+
+280
+00:11:02,525 --> 00:11:05,557
+per hour, and simulations shared by Koenigsegg
+
+281
+00:11:05,557 --> 00:11:08,654
+put the theoretical figure around three hundred
+
+282
+00:11:08,654 --> 00:11:10,104
+thirty miles per hour.
+
+283
+00:11:10,454 --> 00:11:12,184
+But there is a big twist.
+
+284
+00:11:12,364 --> 00:11:14,437
+As of the reports we found,
+
+285
+00:11:14,437 --> 00:11:17,048
+that top speed has not been proven
+
+286
+00:11:17,048 --> 00:11:18,123
+in a real run.
+
+287
+00:11:18,303 --> 00:11:21,743
+Koenigsegg itself called the three hundred thirty
+
+288
+00:11:21,743 --> 00:11:23,709
+figure a theoretical number,
+
+289
+00:11:23,709 --> 00:11:25,956
+and said finding a road or track
+
+290
+00:11:25,956 --> 00:11:28,343
+long and smooth enough is the hard
+
+291
+00:11:28,343 --> 00:11:28,694
+part.
+
+292
+00:11:28,874 --> 00:11:32,013
+The Absolut's fastest numbers are still on
+
+293
+00:11:32,013 --> 00:11:32,461
+paper.
+
+294
+00:11:32,811 --> 00:11:35,422
+Where the Jesko has proven itself is
+
+295
+00:11:35,422 --> 00:11:36,364
+acceleration.
+
+296
+00:11:36,544 --> 00:11:40,159
+On the twenty-sixth of June twenty twenty-four,
+
+297
+00:11:40,159 --> 00:11:42,313
+at Orebro airport in Sweden,
+
+298
+00:11:42,313 --> 00:11:44,774
+a Jesko Absolut ran zero to four
+
+299
+00:11:44,774 --> 00:11:47,697
+hundred to zero kilometers per hour in
+
+300
+00:11:47,697 --> 00:11:50,697
+twenty-seven point eight three seconds.
+
+301
+00:11:50,877 --> 00:11:53,494
+Then, on the seventh of August twenty
+
+302
+00:11:53,494 --> 00:11:56,959
+twenty-five, it improved to twenty-five point two
+
+303
+00:11:56,959 --> 00:11:57,808
+one seconds.
+
+304
+00:11:58,157 --> 00:12:01,536
+Compare that with the Chiron's forty-one point
+
+305
+00:12:01,536 --> 00:12:04,253
+nine six seconds in twenty seventeen.
+
+306
+00:12:04,433 --> 00:12:07,324
+The Jesko cut more than sixteen seconds.
+
+307
+00:12:07,504 --> 00:12:09,036
+That is not a small win.
+
+308
+00:12:09,216 --> 00:12:11,599
+And it tells you exactly what each
+
+309
+00:12:11,599 --> 00:12:13,140
+car was optimized for.
+
+310
+00:12:13,320 --> 00:12:15,600
+One for top speed with comfort,
+
+311
+00:12:15,600 --> 00:12:18,761
+the other for violent acceleration with low
+
+312
+00:12:18,761 --> 00:12:19,276
+weight.
+
+313
+00:12:19,626 --> 00:12:21,403
+There is also the racetrack.
+
+314
+00:12:21,583 --> 00:12:24,440
+Wikipedia lists the Jesko Attack at two
+
+315
+00:12:24,440 --> 00:12:27,736
+minutes fifty-six point nine seven seconds at
+
+316
+00:12:27,736 --> 00:12:29,714
+the Gotland Ring in Sweden,
+
+317
+00:12:29,714 --> 00:12:32,791
+and one minute twenty-four point eight six
+
+318
+00:12:32,791 --> 00:12:33,889
+at Laguna Seca.
+
+319
+00:12:34,069 --> 00:12:37,428
+Bugatti never built the standard Chiron for
+
+320
+00:12:37,428 --> 00:12:38,365
+lap records.
+
+321
+00:12:38,545 --> 00:12:41,293
+For corners it created the Pur Sport,
+
+322
+00:12:41,293 --> 00:12:44,487
+about fifty kilograms lighter with a higher
+
+323
+00:12:44,487 --> 00:12:45,081
+redline.
+
+324
+00:12:45,431 --> 00:12:46,569
+Now rarity.
+
+325
+00:12:46,749 --> 00:12:49,800
+Bugatti built five hundred Chirons in many
+
+326
+00:12:49,800 --> 00:12:52,705
+versions, from the base car to one-offs.
+
+327
+00:12:52,885 --> 00:12:56,581
+Koenigsegg plans one hundred twenty-five Jeskos,
+
+328
+00:12:56,581 --> 00:12:59,122
+built at about forty to fifty per
+
+329
+00:12:59,122 --> 00:13:01,817
+year, plus a separate run of thirty
+
+330
+00:13:01,817 --> 00:13:03,357
+Sadair's Spear cars.
+
+331
+00:13:03,537 --> 00:13:06,099
+Every Jesko build slot was sold by
+
+332
+00:13:06,099 --> 00:13:07,756
+March twenty nineteen,
+
+333
+00:13:07,756 --> 00:13:10,016
+right after the Geneva reveal.
+
+334
+00:13:10,365 --> 00:13:12,364
+Price is harder to compare,
+
+335
+00:13:12,364 --> 00:13:15,696
+because Koenigsegg does not quote list prices
+
+336
+00:13:15,696 --> 00:13:17,769
+the way a normal brand does,
+
+337
+00:13:17,769 --> 00:13:19,990
+and options change everything.
+
+338
+00:13:20,170 --> 00:13:22,663
+The Chiron launched at two point four
+
+339
+00:13:22,663 --> 00:13:24,617
+million euros before options.
+
+340
+00:13:24,797 --> 00:13:27,264
+Special Chirons went much higher,
+
+341
+00:13:27,264 --> 00:13:30,180
+like the Super Sport three hundred plus
+
+342
+00:13:30,180 --> 00:13:33,170
+at three point five million euros before
+
+343
+00:13:33,170 --> 00:13:33,469
+tax.
+
+344
+00:13:33,819 --> 00:13:36,072
+And the twist is what happened later.
+
+345
+00:13:36,252 --> 00:13:39,161
+A one-off Chiron Profilee sold at auction
+
+346
+00:13:39,161 --> 00:13:42,284
+in Paris in February twenty twenty-three for
+
+347
+00:13:42,284 --> 00:13:45,903
+nine million seven hundred ninety-two thousand five
+
+348
+00:13:45,903 --> 00:13:49,025
+hundred euros, which Hagerty called a record
+
+349
+00:13:49,025 --> 00:13:50,799
+for a new car at auction.
+
+350
+00:13:50,979 --> 00:13:52,533
+Rarity, not speed,
+
+351
+00:13:52,533 --> 00:13:55,554
+set the highest price ever paid for
+
+352
+00:13:55,554 --> 00:13:56,331
+a Chiron.
+
+353
+00:13:56,681 --> 00:14:00,037
+Ownership costs are also different in style.
+
+354
+00:14:00,217 --> 00:14:03,446
+Chiron owner Steve Hamilton reported an annual
+
+355
+00:14:03,446 --> 00:14:06,606
+service of about eleven thousand five hundred
+
+356
+00:14:06,606 --> 00:14:09,625
+dollars, and The Drive listed a replacement
+
+357
+00:14:09,625 --> 00:14:12,995
+engine at about eight hundred fifty-six thousand
+
+358
+00:14:12,995 --> 00:14:13,557
+dollars.
+
+359
+00:14:13,737 --> 00:14:16,266
+A Jesko has a smaller engine and
+
+360
+00:14:16,266 --> 00:14:19,032
+fewer cylinders, but it is built in
+
+361
+00:14:19,032 --> 00:14:21,561
+tiny numbers by a small company,
+
+362
+00:14:21,561 --> 00:14:24,406
+and parts are made in small batches.
+
+363
+00:14:24,756 --> 00:14:27,422
+Here is a difference almost nobody talks
+
+364
+00:14:27,422 --> 00:14:27,821
+about.
+
+365
+00:14:28,001 --> 00:14:28,512
+Time.
+
+366
+00:14:28,692 --> 00:14:31,214
+The Chiron was revealed at the Geneva
+
+367
+00:14:31,214 --> 00:14:33,395
+Motor Show on the first of March
+
+368
+00:14:33,395 --> 00:14:36,394
+twenty sixteen, and the first three customer
+
+369
+00:14:36,394 --> 00:14:39,530
+cars were delivered in March twenty seventeen,
+
+370
+00:14:39,530 --> 00:14:40,825
+about a year later.
+
+371
+00:14:41,005 --> 00:14:43,359
+By then, according to Wikipedia,
+
+372
+00:14:43,359 --> 00:14:46,155
+the first two hundred cars had already
+
+373
+00:14:46,155 --> 00:14:46,891
+been sold.
+
+374
+00:14:47,240 --> 00:14:49,964
+The Jesko was revealed at Geneva in
+
+375
+00:14:49,964 --> 00:14:51,675
+March twenty nineteen.
+
+376
+00:14:51,855 --> 00:14:54,895
+Koenigsegg showed a pre-series car in July
+
+377
+00:14:54,895 --> 00:14:58,151
+twenty twenty-one, and the first customer car
+
+378
+00:14:58,151 --> 00:15:01,190
+was delivered in June twenty twenty-three.
+
+379
+00:15:01,370 --> 00:15:03,597
+That is more than four years from
+
+380
+00:15:03,597 --> 00:15:05,553
+reveal to the first delivery,
+
+381
+00:15:05,553 --> 00:15:07,645
+in the middle of a pandemic and
+
+382
+00:15:07,645 --> 00:15:09,265
+a global parts shortage.
+
+383
+00:15:09,614 --> 00:15:11,455
+That gap says a lot about the
+
+384
+00:15:11,455 --> 00:15:12,343
+two companies.
+
+385
+00:15:12,523 --> 00:15:15,908
+Bugatti could lean on the testing facilities,
+
+386
+00:15:15,908 --> 00:15:19,142
+suppliers, and engineering teams of a giant
+
+387
+00:15:19,142 --> 00:15:19,593
+group.
+
+388
+00:15:19,773 --> 00:15:22,748
+Koenigsegg develops a huge share of its
+
+389
+00:15:22,748 --> 00:15:26,028
+technology in-house, from the engine to the
+
+390
+00:15:26,028 --> 00:15:29,079
+gearbox, and The Drive reported that the
+
+391
+00:15:29,079 --> 00:15:32,054
+Jesko's crankshaft is milled by a small
+
+392
+00:15:32,054 --> 00:15:34,495
+manufacturer in southern Sweden.
+
+393
+00:15:34,844 --> 00:15:36,412
+And here is the twist.
+
+394
+00:15:36,592 --> 00:15:39,691
+The slower company built the more radical
+
+395
+00:15:39,691 --> 00:15:39,994
+car.
+
+396
+00:15:40,174 --> 00:15:42,367
+The Light Speed Transmission,
+
+397
+00:15:42,367 --> 00:15:43,955
+the flat-plane crank,
+
+398
+00:15:43,955 --> 00:15:47,510
+and the Triplex suspension are Koenigsegg's own
+
+399
+00:15:47,510 --> 00:15:47,964
+ideas.
+
+400
+00:15:48,144 --> 00:15:50,563
+The Chiron is an evolution of the
+
+401
+00:15:50,563 --> 00:15:54,082
+Veyron's formula, with the same displacement and
+
+402
+00:15:54,082 --> 00:15:55,988
+the same number of turbos,
+
+403
+00:15:55,988 --> 00:15:58,407
+but almost every part redesigned.
+
+404
+00:15:58,587 --> 00:16:00,781
+One brand perfected an idea.
+
+405
+00:16:00,961 --> 00:16:02,436
+The other kept reinventing.
+
+406
+00:16:02,785 --> 00:16:05,760
+Both cars also spawned special versions,
+
+407
+00:16:05,760 --> 00:16:08,660
+and they reveal what each brand values.
+
+408
+00:16:08,840 --> 00:16:12,256
+Bugatti's specials were mostly about design,
+
+409
+00:16:12,256 --> 00:16:14,041
+materials, and stories.
+
+410
+00:16:14,221 --> 00:16:16,781
+The Chiron Noire was a tribute to
+
+411
+00:16:16,781 --> 00:16:20,270
+the nineteen thirty-six Type fifty-seven S C.
+
+412
+00:16:20,450 --> 00:16:23,284
+The Les Legendes du Ciel cars honored
+
+413
+00:16:23,284 --> 00:16:24,432
+early aviators.
+
+414
+00:16:24,612 --> 00:16:26,952
+And the Sport one hundred ten Ans
+
+415
+00:16:26,952 --> 00:16:29,291
+celebrated Bugatti's anniversary.
+
+416
+00:16:29,641 --> 00:16:33,090
+Bugatti did build performance specials too.
+
+417
+00:16:33,270 --> 00:16:34,396
+The Pur Sport,
+
+418
+00:16:34,396 --> 00:16:37,212
+sixty cars, was built for handling,
+
+419
+00:16:37,212 --> 00:16:40,189
+with a higher redline of six thousand
+
+420
+00:16:40,189 --> 00:16:42,441
+nine hundred r p m and about
+
+421
+00:16:42,441 --> 00:16:44,694
+fifty kilograms less weight.
+
+422
+00:16:44,874 --> 00:16:46,020
+The Super Sport,
+
+423
+00:16:46,020 --> 00:16:48,457
+eighty cars, had a longer tail and
+
+424
+00:16:48,457 --> 00:16:51,323
+a limit of four hundred forty kilometers
+
+425
+00:16:51,323 --> 00:16:51,968
+per hour.
+
+426
+00:16:52,318 --> 00:16:56,118
+Koenigsegg's special Jesko is the Sadair's Spear,
+
+427
+00:16:56,118 --> 00:16:57,902
+limited to thirty cars.
+
+428
+00:16:58,082 --> 00:17:00,475
+It is named after a horse that
+
+429
+00:17:00,475 --> 00:17:03,506
+Jesko von Koenigsegg rode in his final
+
+430
+00:17:03,506 --> 00:17:04,862
+race as a jockey.
+
+431
+00:17:05,042 --> 00:17:07,286
+Wikipedia lists it at up to one
+
+432
+00:17:07,286 --> 00:17:10,761
+thousand six hundred twenty-five horsepower on E
+
+433
+00:17:10,761 --> 00:17:13,729
+eighty-five, and its top speed is lowered
+
+434
+00:17:13,729 --> 00:17:16,841
+to about three hundred sixty kilometers per
+
+435
+00:17:16,841 --> 00:17:18,289
+hour for track work.
+
+436
+00:17:18,640 --> 00:17:20,381
+And it was faster on track.
+
+437
+00:17:20,561 --> 00:17:23,583
+Wikipedia says the Sadair's Spear lapped the
+
+438
+00:17:23,583 --> 00:17:26,469
+Gotland Ring one point one seconds quicker
+
+439
+00:17:26,469 --> 00:17:27,980
+than the Jesko Attack.
+
+440
+00:17:28,160 --> 00:17:32,020
+So even Koenigsegg's special edition is defined
+
+441
+00:17:32,020 --> 00:17:33,253
+by a stopwatch,
+
+442
+00:17:33,253 --> 00:17:36,374
+while many of Bugatti's are defined by
+
+443
+00:17:36,374 --> 00:17:38,017
+a color, a material,
+
+444
+00:17:38,017 --> 00:17:39,085
+or a tribute.
+
+445
+00:17:39,435 --> 00:17:42,322
+To understand why speed records matter so
+
+446
+00:17:42,322 --> 00:17:44,083
+much to these two brands,
+
+447
+00:17:44,083 --> 00:17:45,843
+look at what came before.
+
+448
+00:17:46,023 --> 00:17:47,104
+In twenty ten,
+
+449
+00:17:47,104 --> 00:17:50,422
+the Bugatti Veyron Super Sport averaged two
+
+450
+00:17:50,422 --> 00:17:53,818
+hundred sixty-nine point eight six miles per
+
+451
+00:17:53,818 --> 00:17:55,439
+hour at Ehra-Lessien.
+
+452
+00:17:55,619 --> 00:17:56,952
+In twenty fourteen,
+
+453
+00:17:56,952 --> 00:17:59,128
+the Hennessey Venom G T hit two
+
+454
+00:17:59,128 --> 00:18:01,794
+hundred seventy point four nine in one
+
+455
+00:18:01,794 --> 00:18:04,601
+direction at the Kennedy Space Center in
+
+456
+00:18:04,601 --> 00:18:05,162
+Florida.
+
+457
+00:18:05,513 --> 00:18:07,773
+Then the Agera RS changed the game
+
+458
+00:18:07,773 --> 00:18:08,438
+in Nevada.
+
+459
+00:18:08,618 --> 00:18:11,039
+Top Gear reported that it was a
+
+460
+00:18:11,039 --> 00:18:14,632
+customer car, driven by Koenigsegg test driver
+
+461
+00:18:14,632 --> 00:18:18,147
+Niklas Lilja on an eleven-mile closed stretch
+
+462
+00:18:18,147 --> 00:18:19,787
+of Highway one sixty.
+
+463
+00:18:19,967 --> 00:18:22,915
+One run reached two hundred eighty-four point
+
+464
+00:18:22,915 --> 00:18:24,553
+five five miles per hour.
+
+465
+00:18:24,733 --> 00:18:27,920
+The other, uphill and into a headwind,
+
+466
+00:18:27,920 --> 00:18:31,861
+reached two hundred seventy-one point one nine.
+
+467
+00:18:32,212 --> 00:18:34,650
+So when Bugatti came back in twenty
+
+468
+00:18:34,650 --> 00:18:37,575
+nineteen with three hundred four miles per
+
+469
+00:18:37,575 --> 00:18:40,292
+hour, it was answering a challenge from
+
+470
+00:18:40,292 --> 00:18:40,780
+Sweden.
+
+471
+00:18:40,960 --> 00:18:44,298
+And when Koenigsegg built the Jesko Absolut,
+
+472
+00:18:44,298 --> 00:18:46,498
+it was answering that answer.
+
+473
+00:18:46,678 --> 00:18:48,954
+This back and forth pushed both cars
+
+474
+00:18:48,954 --> 00:18:51,546
+further than either brand might have gone
+
+475
+00:18:51,546 --> 00:18:51,925
+alone.
+
+476
+00:18:52,276 --> 00:18:54,580
+There is one more difference that most
+
+477
+00:18:54,580 --> 00:18:56,824
+comparisons miss, and it is about the
+
+478
+00:18:56,824 --> 00:18:57,430
+companies.
+
+479
+00:18:57,610 --> 00:18:58,931
+In twenty nineteen,
+
+480
+00:18:58,931 --> 00:19:01,780
+Koenigsegg sold a twenty percent stake to
+
+481
+00:19:01,780 --> 00:19:05,046
+the Chinese-backed company NEVS for one hundred
+
+482
+00:19:05,046 --> 00:19:06,991
+seventy-one million dollars.
+
+483
+00:19:07,171 --> 00:19:08,608
+In twenty twenty-one,
+
+484
+00:19:08,608 --> 00:19:10,387
+it bought that stake back.
+
+485
+00:19:10,567 --> 00:19:14,050
+Today the company is again fully independent.
+
+486
+00:19:14,401 --> 00:19:16,246
+Bugatti went the other way.
+
+487
+00:19:16,426 --> 00:19:18,066
+In twenty twenty-one,
+
+488
+00:19:18,066 --> 00:19:21,579
+Volkswagen moved Bugatti into a joint venture
+
+489
+00:19:21,579 --> 00:19:24,937
+with the Croatian electric car maker Rimac.
+
+490
+00:19:25,117 --> 00:19:28,692
+Rimac held fifty-five percent and Porsche forty-five.
+
+491
+00:19:28,872 --> 00:19:31,590
+Then, in September twenty twenty-six,
+
+492
+00:19:31,590 --> 00:19:34,822
+Carscoops reported that a group of investors
+
+493
+00:19:34,822 --> 00:19:36,585
+bought Porsche's stakes,
+
+494
+00:19:36,585 --> 00:19:39,670
+and Mate Rimac became Bugatti's president.
+
+495
+00:19:40,020 --> 00:19:41,982
+So the twist is that today,
+
+496
+00:19:41,982 --> 00:19:44,235
+both of these brands are run by
+
+497
+00:19:44,235 --> 00:19:46,997
+a founder figure from a small country.
+
+498
+00:19:47,177 --> 00:19:49,706
+A Swede who started at twenty-two,
+
+499
+00:19:49,706 --> 00:19:52,235
+and a Croatian who founded his own
+
+500
+00:19:52,235 --> 00:19:54,987
+electric car company and now runs the
+
+501
+00:19:54,987 --> 00:19:57,963
+most famous hypercar brand in the world.
+
+502
+00:19:58,143 --> 00:20:00,312
+The Volkswagen era of Bugatti,
+
+503
+00:20:00,312 --> 00:20:02,626
+the era that created the Chiron,
+
+504
+00:20:02,626 --> 00:20:03,205
+is over.
+
+505
+00:20:03,555 --> 00:20:05,760
+And the next battle has already started.
+
+506
+00:20:05,940 --> 00:20:08,732
+Bugatti's successor, the Tourbillon,
+
+507
+00:20:08,732 --> 00:20:11,912
+uses a naturally aspirated V16 with three
+
+508
+00:20:11,912 --> 00:20:15,324
+electric motors and about one thousand seven
+
+509
+00:20:15,324 --> 00:20:17,806
+hundred seventy-five horsepower.
+
+510
+00:20:17,986 --> 00:20:20,502
+Koenigsegg has said the Absolut is the
+
+511
+00:20:20,502 --> 00:20:23,019
+fastest Koenigsegg it will ever try to
+
+512
+00:20:23,019 --> 00:20:23,350
+make.
+
+513
+00:20:23,530 --> 00:20:26,318
+Both brands are stepping away from the
+
+514
+00:20:26,318 --> 00:20:27,713
+pure top speed war,
+
+515
+00:20:27,713 --> 00:20:29,474
+in different directions.
+
+516
+00:20:29,823 --> 00:20:32,447
+So what is the difference nobody explains?
+
+517
+00:20:32,627 --> 00:20:33,932
+It is not horsepower,
+
+518
+00:20:33,932 --> 00:20:36,354
+because the winner depends on the fuel.
+
+519
+00:20:36,534 --> 00:20:37,854
+It is not top speed,
+
+520
+00:20:37,854 --> 00:20:40,559
+because the records were set in different
+
+521
+00:20:40,559 --> 00:20:43,067
+ways and the Jesko's highest number is
+
+522
+00:20:43,067 --> 00:20:44,255
+still theoretical.
+
+523
+00:20:44,604 --> 00:20:46,888
+The real difference is what each car
+
+524
+00:20:46,888 --> 00:20:48,157
+does with its power.
+
+525
+00:20:48,337 --> 00:20:50,258
+The Chiron uses its mass,
+
+526
+00:20:50,258 --> 00:20:51,796
+its all-wheel drive,
+
+527
+00:20:51,796 --> 00:20:54,639
+and its cooling to make extreme speed
+
+528
+00:20:54,639 --> 00:20:55,408
+feel calm.
+
+529
+00:20:55,588 --> 00:20:57,668
+It is a grand tourer that can
+
+530
+00:20:57,668 --> 00:21:00,681
+touch two hundred sixty-one miles per hour
+
+531
+00:21:00,681 --> 00:21:02,977
+in comfort, with a key to unlock
+
+532
+00:21:02,977 --> 00:21:03,192
+it.
+
+533
+00:21:03,542 --> 00:21:05,620
+The Jesko uses its lightness,
+
+534
+00:21:05,620 --> 00:21:08,342
+its gearbox, and its downforce to make
+
+535
+00:21:08,342 --> 00:21:10,276
+every input feel immediate.
+
+536
+00:21:10,456 --> 00:21:12,052
+It is a car that wants a
+
+537
+00:21:12,052 --> 00:21:13,515
+racetrack or a runway,
+
+538
+00:21:13,515 --> 00:21:15,642
+and it proved it by cutting more
+
+539
+00:21:15,642 --> 00:21:18,501
+than sixteen seconds from the Chiron's zero
+
+540
+00:21:18,501 --> 00:21:20,429
+to four hundred to zero time.
+
+541
+00:21:20,780 --> 00:21:23,040
+So if you wanted the most refined
+
+542
+00:21:23,040 --> 00:21:25,164
+way to travel at a speed almost
+
+543
+00:21:25,164 --> 00:21:26,671
+no one else can reach,
+
+544
+00:21:26,671 --> 00:21:28,384
+the Chiron is the answer.
+
+545
+00:21:28,564 --> 00:21:31,337
+If you wanted the most extreme driving
+
+546
+00:21:31,337 --> 00:21:33,453
+machine with a license plate,
+
+547
+00:21:33,453 --> 00:21:35,205
+the Jesko is the answer.
+
+548
+00:21:35,385 --> 00:21:37,103
+They are both hypercars.
+
+549
+00:21:37,283 --> 00:21:38,894
+They are not trying to win the
+
+550
+00:21:38,894 --> 00:21:39,431
+same test.
+
+551
+00:21:39,781 --> 00:21:41,881
+Tell us in the comments which one
+
+552
+00:21:41,881 --> 00:21:42,836
+you would pick,
+
+553
+00:21:42,836 --> 00:21:43,345
+and why.
+
+554
+00:21:43,525 --> 00:21:45,845
+And watch the other videos in this
+
+555
+00:21:45,845 --> 00:21:48,233
+Chiron series, where we look at two
+
+556
+00:21:48,233 --> 00:21:50,485
+little-known facts about the car,
+
+557
+00:21:50,485 --> 00:21:52,668
+what it really costs to own one,
+
+558
+00:21:52,668 --> 00:21:54,579
+and the full story of how it
+
+559
+00:21:54,579 --> 00:21:55,193
+was made.
+
+560
+00:21:55,542 --> 00:21:57,909
+If you are shopping for something more
+
+561
+00:21:57,909 --> 00:22:01,271
+practical, our twenty twenty-seven Truck Buyer's Guide
+
+562
+00:22:01,271 --> 00:22:03,077
+is linked in the description.
+
+563
+00:22:03,257 --> 00:22:06,572
+Subscribe to Pickup Reality for more stories
+
+564
+00:22:06,572 --> 00:22:09,887
+about the machines people really talk about.
