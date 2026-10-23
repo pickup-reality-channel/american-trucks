@@ -1,6 +1,6 @@
 # Pickup Reality — Phase 2: 4 daily angles on exotic cars (from Feb 2027)
 
-Status: **DRAFT, waiting for Vinicius's approval.** Nothing will be rendered until it is approved.
+Status: **APPROVED by Vinicius on 23/10/2026** (same channel, e-book kept, start on the first free day, 4 videos per day, every video over 20 minutes).
 
 ## 1. Where we are
 
@@ -31,7 +31,7 @@ Title rules (same as phase 1): curiosity first, 50–70 characters, the model na
 
 ## 4. Length and slots
 
-- Each of the 4 videos: **10–12 minutes** (above 8 min, so mid-roll ads work). Four 20+ minute videos per day on the same car would repeat itself and would take 4x the render time.
+- Each of the 4 videos: **more than 20 minutes** (decided by Vinicius 23/10/2026, same spec as phase 1: script for 25–30 min, hook in the first minute, twist every ~2 min). To keep four 20+ minute videos on the same car from repeating each other, each angle owns its own material: A = the two facts plus the context around them, B = the full head-to-head, C = ownership and money only, D = history only. Shared facts are mentioned in one sentence and the video points to the other angle.
 - Posting times (BRT): **A 10:00 · B 13:00 · C 16:00 · D 19:00**. Shorts stay at 17:00 and 21:00.
 - Proposed start: **Fri 12/02/2027**, the day after the last long video, so the channel never has a day without long content. (Vinicius wrote "28 de 2027"; if he means 28/02/2027, the channel would have 16 days with only Shorts. See open questions.)
 - First batch = 30 days × 4 = **120 videos**, from 12/02 to 13/03/2027.
@@ -97,7 +97,7 @@ How the plan uses it:
 ## 7. Open questions for Vinicius
 
 1. **Start date:** 12/02/2027 (no gap after the last long video, my recommendation) or 28/02/2027?
-2. **Length:** 10–12 minutes per video (my recommendation), or keep >20 min for at least one angle (e.g. D, the story)?
+2. ~~Length~~ Decided: every video over 20 minutes.
 3. **Same channel?** Exotic cars are a step away from "Pickup Reality" (trucks). Keeping it on the same channel is simpler; a second channel would keep the audiences clean. Day 21 (Ram TRX vs Raptor R) is a bridge back to trucks; we could add one truck theme per week to keep the old audience.
 4. **E-book:** the "2027 Truck Buyer's Guide" fits the truck videos, not hypercars. Keep it in every description, or only on truck themes?
 5. **Shorts for phase 2:** keep making 5 Shorts per day from these videos, or stop new Shorts until the current queue ends (11/03/2027)?
