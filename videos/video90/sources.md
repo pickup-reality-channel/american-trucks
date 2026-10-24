@@ -1,0 +1,8 @@
+- Wikipedia, Pagani Zonda: https://en.wikipedia.org/wiki/Pagani_Zonda
+- Wikipedia, Pagani Utopia: https://en.wikipedia.org/wiki/Pagani_Utopia
+- Wikipedia, Pagani (company): https://en.wikipedia.org/wiki/Pagani_(company)
+- Top Gear, This is the brand new Pagani Utopia: https://www.topgear.com/car-news/first-look/brand-new-pagani-utopia-v12-engined-throwback
+- Supercar Blondie, The Pagani Utopia is here: https://supercarblondie.com/pagani-utopia-c10-v12-manual-supercar-revealed/
+- Pagani Automobili press release, Pagani Utopia Roadster: https://www.pagani.com/press/utopia-roadster/
+- Gulf News, Pagani Zonda Riviera sold for $5.5 million at Riyadh Season car auction: https://gulfnews.com/amp/auto/news/pagani-zonda-riviera-sold-for-55-million-at-riyadh-season-car-auction-1.1574581887664
+- Attic Capital, Horacio Pagani and the Zonda: https://atticcapital.com/horacio-pagani-zonda/
