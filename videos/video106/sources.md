@@ -1,0 +1,6 @@
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Wikipedia, Nissan GT-R: https://en.wikipedia.org/wiki/Nissan_GT-R
+- Car and Driver (via Yahoo Autos), 2024 Nissan GT-R costs $122,885 (16 May 2023): https://autos.yahoo.com/2024-nissan-gt-r-costs-161200041.html
+- Jalopnik, 2009 Nissan GT-R priced at $69,850, on sale July 7: https://jalopnik.com/2009-nissan-gt-r-priced-at-69-850-on-sale-july-7-397345
+- Motor Authority, Pearl Yellow 2012 Lexus LFA with 72 miles sells for $808,000 on Bring a Trailer (7 July 2021): https://www.motorauthority.com/news/1132702_pearl-yellow-2012-lexus-lfa-with-72-miles-sells-for-808-000-on-bring-a-trailer
+- Supercar Blondie, Super rare Lexus LFA sells for massive $845k at auction (25 April 2022): https://supercarblondie.com/cars/lexus-lfa-850-miles-sells-845k/
