@@ -1,0 +1,19 @@
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Edmunds, 2023 Ford F-150 True Cost to Own: https://www.edmunds.com/ford/f-150/2023/cost-to-own/
+- Edmunds, The Ram TRX is dead: https://www.edmunds.com/car-news/the-ram-trx-is-dead.html
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
+- Kelley Blue Book, End of the dinosaurs: Ram announces final TRX: https://www.kbb.com/car-news/end-of-the-dinosaurs-ram-announces-final-trx
+- U.S. Energy Information Administration, Gasoline and diesel fuel update: https://www.eia.gov/petroleum/gasdiesel/
+- NHTSA, Recalls by vehicle, Ram 1500, model year 2021: https://api.nhtsa.gov/recalls/recallsByVehicle?make=ram&model=1500&modelYear=2021
+- Tires Easy, 2021 Ram 1500 TRX 325/65R18 tyres: https://www.tires-easy.com/tires/2021-ram-1500-trx-325-65-18-121t
+- Tire Rack, Goodyear Wrangler Territory AT: https://www.tirerack.com/tires/goodyear-wrangler-territory-at
+- RAM-TRX.com forum (community, unverified), OEM wheel, tire and sensor cost from dealer: https://www.ram-trx.com/threads/oem-wheel-tire-and-sensor-cost-from-dealer.1889/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Motor1, The Ram TRX is dead: https://www.motor1.com/news/694983/ram-1500-trx-dead/
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Motor1, 2027 Ram TRX revealed: now with 777 horsepower: https://www.motor1.com/news/783086/2025-ram-trx-horsepower-price-details/
+- Autoblog, 2026 Ford F-150 Raptor review, specs, pricing and warranty: https://www.autoblog.com/cars/ford/f-150-raptor/2026
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
