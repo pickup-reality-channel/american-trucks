@@ -1,0 +1,338 @@
+{
+ "id": "video156",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind John DeLorean",
+ "scenes": [
+  {
+   "text": "He was the youngest division head General Motors ever had. He walked away from it in nineteen seventy-three, built a stainless steel sports car in Northern Ireland, and was arrested in a Los Angeles hotel room on the nineteenth of October nineteen eighty-two. A jury later acquitted him on all eight charges. This is the story of John DeLorean, and every claim comes from a named source.",
+   "query": "John DeLorean",
+   "caption": "THE INSANE STORY BEHIND JOHN DELOREAN",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We used Wikipedia's pages on John DeLorean and on the DeLorean car, Encyclopedia dot com's account of the nineteen eighty-four trial, EBSCO's research starter, Ate Up With Motor, ThePricer and Business Insider. These sources disagree about numbers, dates and even a famous quote. We show those disagreements. Our own arithmetic is labelled.",
+   "query": "John DeLorean story",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 ENCYCLOPEDIA.COM \u00b7 EBSCO \u00b7 ATE UP WITH MOTOR \u00b7 THEPRICER \u00b7 BUSINESS INSIDER \u00b7 SOURCES DISAGREE ON SEVERAL POINTS \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "John Zachary DeLorean was born in Detroit on the sixth of January nineteen twenty-five, and died on the nineteenth of March two thousand five, at age eighty, from a stroke, Wikipedia says. He studied industrial engineering, then automotive engineering at the Chrysler Institute, and took an MBA at the University of Michigan in nineteen fifty-six.",
+   "query": "Early life",
+   "caption": "WIKIPEDIA: BORN 6 JAN 1925, DETROIT \u00b7 DIED 19 MAR 2005, AGE 80 (STROKE) \u00b7 B.S. LAWRENCE INSTITUTE OF TECHNOLOGY 1948 \u00b7 M.S. CHRYSLER INSTITUTE 1952 \u00b7 MBA U. OF MICHIGAN 1956",
+   "cuts": 5,
+   "chapter": "The engineer"
+  },
+  {
+   "text": "His first big employer was Packard, where Wikipedia says he earned fourteen thousand dollars in nineteen fifty-three. In nineteen fifty-six he joined Pontiac at sixteen thousand dollars, as an assistant to Pete Estes and Semon Bunkie Knudsen. By our arithmetic, that is a fourteen percent raise in three years, and he was promoted to division chief engineer in nineteen sixty-one.",
+   "query": "Packard and Pontiac",
+   "caption": "WIKIPEDIA: PACKARD 1953, $14,000 \u00b7 PONTIAC 1956, $16,000 (+14.3%, OUR ARITHMETIC) \u00b7 CHIEF ENGINEER OF PONTIAC 1961",
+   "cuts": 3
+  },
+  {
+   "text": "He is known for the Pontiac GTO, which began as a nineteen sixty-four option package, according to Wikipedia. In nineteen sixty-five, at age forty, he became Pontiac's division head, a record as GM's youngest. Wikipedia says the pace continued: on the fifteenth of February nineteen sixty-nine he was named head of Chevrolet, with a salary of two hundred thousand dollars.",
+   "query": "The GTO and promotion",
+   "caption": "WIKIPEDIA: PONTIAC GTO \u2014 1964 OPTION PACKAGE \u00b7 1965 PONTIAC DIVISION HEAD AT 40, GM'S YOUNGEST \u00b7 15 FEB 1969 HEAD OF CHEVROLET, SALARY $200,000",
+   "cuts": 3
+  },
+  {
+   "text": "The Wikipedia page adds bonuses of up to four hundred thousand dollars. By our arithmetic, that makes his Chevrolet pay up to six hundred thousand a year, which is thirty-seven and a half times his sixteen thousand dollar Pontiac starting salary. Chevrolet's Vega reached three hundred ninety-five thousand, seven hundred ninety-two sales in the nineteen seventy-three model year.",
+   "query": "The pay",
+   "caption": "$200,000 + UP TO $400,000 BONUS = UP TO $600,000 vs $16,000 START = 37.5\u00d7 (OUR ARITHMETIC) \u00b7 WIKIPEDIA: VEGA 395,792 SALES IN MY1973 \u00b7 CHEVROLET 1971 SALES >3 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen seventy-two he became GM vice president of car and truck production. He left GM on the second of April nineteen seventy-three, at age forty-eight by our arithmetic. Wikipedia says GM gave him a Florida Cadillac franchise as a retirement gift. His own verdict on his old employer, quoted there, was that they have too many bean counters and not enough engineers.",
+   "query": "Leaving GM",
+   "caption": "WIKIPEDIA: 1972 GM VP CAR AND TRUCK PRODUCTION \u00b7 LEFT GM 2 APR 1973 (AGE 48, OUR ARITHMETIC) \u00b7 GAVE HIM A FLORIDA CADILLAC FRANCHISE \u00b7 QUOTE: 'THEY HAVE TOO MANY BEAN COUNTERS AND NOT ENOUGH ENGINEERS'",
+   "cuts": 3
+  },
+  {
+   "text": "The sources disagree on when the company began. Wikipedia's DeLorean page says it was formed in nineteen seventy-three after he left GM, and the car page says the same. EBSCO says DMC was founded in Detroit in nineteen seventy-five. A third date in the car page is the Giugiaro contract, signed in March nineteen seventy-five. We report all three.",
+   "query": "When was DMC founded?",
+   "caption": "WIKIPEDIA (JOHN + CAR PAGES): FORMED 1973 \u00b7 EBSCO: FOUNDED IN DETROIT 1975 \u00b7 GIUGIARO CONTRACT MARCH 1975 (WIKIPEDIA) \u2192 DATES CONFLICT; NOT RESOLVABLE FROM OUR SOURCES",
+   "cuts": 3,
+   "chapter": "The company"
+  },
+  {
+   "text": "Wikipedia says he raised about two hundred million dollars, including four million of his own. By our arithmetic, his own money was two percent of the total. The rest came from investors and the British government. He was already connected: Wikipedia says he knew Johnny Carson, and that Lee Iacocca was best man at his second wedding.",
+   "query": "The money",
+   "caption": "WIKIPEDIA: ~$200 MILLION RAISED, INCL. $4 MILLION OF HIS OWN = 2% (OUR ARITHMETIC) \u00b7 JOHNNY CARSON INTRODUCED \u00b7 LEE IACOCCA BEST MAN AT 2ND WEDDING",
+   "cuts": 3
+  },
+  {
+   "text": "The factory was in Dunmurry, near Belfast. Wikipedia says the Northern Ireland Development Agency provided about a hundred million pounds in incentives, and the plant had more than two thousand workers at its peak. EBSCO adds that the British government invested to address high unemployment in Northern Ireland. So the cars were built partly with public money.",
+   "query": "The Belfast factory",
+   "caption": "WIKIPEDIA: ~\u00a3100 MILLION FROM THE NORTHERN IRELAND DEVELOPMENT AGENCY \u00b7 2,000+ WORKERS AT PEAK \u00b7 EBSCO: BRITISH GOVERNMENT INVESTED TO ADDRESS HIGH UNEMPLOYMENT",
+   "cuts": 3
+  },
+  {
+   "text": "The car itself took years. The DeLorean page says Giugiaro's contract was signed in March nineteen seventy-five, the first prototype appeared in October nineteen seventy-six, and the first production car was announced on the twenty-first of January nineteen eighty-one. By our arithmetic, that is about five years and nine months from contract to announcement.",
+   "query": "Years of development",
+   "caption": "WIKIPEDIA: GIUGIARO CONTRACT MARCH 1975 \u00b7 PROTOTYPE 1 OCT 1976 \u00b7 FIRST PRODUCTION CAR ANNOUNCED 21 JAN 1981 \u2192 ~5 YR 10 MO FROM CONTRACT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Along the way Lotus was brought in. Wikipedia says Colin Chapman re-engineered the car after a prototype went to Lotus in nineteen seventy-eight. The chassis became a steel backbone derived from the Lotus Esprit platform. Ate Up With Motor says the Lotus engineering work cost about twenty-three million dollars, billed directly to the DeLorean company in Britain.",
+   "query": "Lotus",
+   "caption": "WIKIPEDIA: PROTOTYPE 2 TO LOTUS 1978; CHAPMAN RE-ENGINEERED; CHASSIS DERIVED FROM ESPRIT \u00b7 ATE UP WITH MOTOR: LOTUS ENGINEERING \u2248 $23 MILLION, BILLED TO DMC LTD.",
+   "cuts": 3
+  },
+  {
+   "text": "The price promise slipped. The name DMC-12 came from a target of twelve thousand dollars, Wikipedia says, and the car launched at twenty-five thousand. The page also records a nineteen eighty-two price of twenty-nine thousand, eight hundred twenty-five. For the story of the man, the point is that the business plan and the product never lined up, as the sales later showed.",
+   "query": "The price slipped",
+   "caption": "WIKIPEDIA: '12' FROM A $12,000 TARGET \u00b7 1981 MSRP $25,000 \u00b7 1982 $29,825 \u00b7 SALES LATER BELOW PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Sales told the story. Wikipedia says that by the end of nineteen eighty-one about seventy-five hundred cars had been built and three thousand sold. October nineteen eighty-one was the best month, with seven hundred twenty sold, and January nineteen eighty-two only three hundred fifty. By our arithmetic, that is forty percent of production sold, and a fifty-one percent drop in three months.",
+   "query": "Sales collapse",
+   "caption": "WIKIPEDIA: END-1981 ~7,500 BUILT, ~3,000 SOLD = 40% \u00b7 OCT 1981: 720 \u00b7 JAN 1982: 350 = \u221251% (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The slide"
+  },
+  {
+   "text": "John DeLorean's page puts it another way: by February nineteen eighty-two more than half of the roughly seven thousand cars produced were unsold, the company had about a hundred seventy-five million dollars of debt, and the factory went into receivership. In March, telegrams asked all three hundred forty-three dealers to buy six cars each, and none responded with an order.",
+   "query": "Debt and receivership",
+   "caption": "WIKIPEDIA (JOHN DELOREAN): FEB 1982 \u2014 >HALF OF ~7,000 CARS UNSOLD \u00b7 ~$175 MILLION DEBT \u00b7 RECEIVERSHIP \u00b7 DMC-12 PAGE: MARCH 1982 TELEGRAMS TO 343 DEALERS ASKED THEM TO BUY 6 EACH \u00b7 NO ORDERS",
+   "cuts": 3
+  },
+  {
+   "text": "Money was moving too. Wikipedia says the British government found in January nineteen eighty-two that only eighty-five hundred cars had been built, and that twenty-three million pounds had been moved to a Panamanian account, money that never reached Lotus. It adds that Colin Chapman died at the start of the investigation.",
+   "query": "Where did the money go?",
+   "caption": "WIKIPEDIA (JOHN DELOREAN): JAN 1982 \u2014 BRITISH GOVERNMENT FOUND ONLY 8,500 CARS BUILT; \u00a323 MILLION MOVED TO A PANAMANIAN ACCOUNT; NEVER REACHED LOTUS; CHAPMAN DIED AT START OF INVESTIGATION",
+   "cuts": 3
+  },
+  {
+   "text": "Ate Up With Motor tells it differently. It says DeLorean transferred seventeen point six five million dollars to GPD Services, a Geneva-based holding company, five point one million of it from the British company and the rest from a US research partnership. It does not mention Panama. The two sources describe different accounts, in different currencies, and we cannot reconcile them.",
+   "query": "Two accounts of the money",
+   "caption": "ATE UP WITH MOTOR: $17.65 MILLION TO GPD SERVICES (GENEVA) \u2014 $5.1 M FROM DMC LTD., REST FROM A US PARTNERSHIP \u00b7 NO MENTION OF PANAMA \u00b7 vs WIKIPEDIA: \u00a323 M TO PANAMA \u2192 NOT RECONCILABLE (DIFFERENT AMOUNTS, CURRENCIES, PLACES)",
+   "cuts": 3
+  },
+  {
+   "text": "Ate Up With Motor adds that a creditors' investigator, Malcolm Schade, reported about half the missing money ended up in a DeLorean personal account used to buy Logan Manufacturing in Utah, and the rest was never accounted for. It says Chapman died of a heart attack in December nineteen eighty-two, leaving prosecutors unable to disprove DeLorean's claim that the money was a personal loan from Chapman.",
+   "query": "The loan claim",
+   "caption": "ATE UP WITH MOTOR: INVESTIGATOR MALCOLM SCHADE \u2014 ~HALF OF MISSING GPD MONEY TO A DELOREAN PERSONAL ACCOUNT (BOUGHT LOGAN MANUFACTURING, UTAH) \u00b7 CHAPMAN DIED DEC 1982 \u2192 CLAIM OF A PERSONAL LOAN COULD NOT BE DISPROVED",
+   "cuts": 3
+  },
+  {
+   "text": "The factory was shut. Wikipedia says production stopped in May nineteen eighty-two. Ate Up With Motor says the British receivers shut down the British company in October nineteen eighty-two. The car page says Consolidated International later bought the unsold cars and assembled about a hundred more, with final production on the twenty-fourth of December nineteen eighty-two.",
+   "query": "The factory closes",
+   "caption": "WIKIPEDIA: PRODUCTION STOPPED MAY 1982 \u00b7 ATE UP WITH MOTOR: BRITISH RECEIVERS SHUT DMC LTD. OCT 1982 \u00b7 CONSOLIDATED INTERNATIONAL BUILT ~100 MORE \u00b7 FINAL PRODUCTION 24 DEC 1982",
+   "cuts": 3
+  },
+  {
+   "text": "Now the sting. Ate Up With Motor says James Hoffman, a federal informant with drug-trafficking convictions, approached DeLorean through a friend of his son. On the eleventh of July nineteen eighty-two they met at a hotel in Newport Beach, where Hoffman proposed a one point five million dollar brokerage fee plus three hundred thousand in expenses.",
+   "query": "The informant",
+   "caption": "ATE UP WITH MOTOR: JAMES HOFFMAN, FEDERAL INFORMANT WITH DRUG CONVICTIONS \u00b7 11 JULY 1982, NEWPORT BEACH MARRIOTT \u00b7 $1.5 M BROKERAGE FEE + $300,000 EXPENSES \u00b7 DELOREAN SAYS HOFFMAN MADE FIRST CONTACT",
+   "cuts": 3,
+   "chapter": "The sting"
+  },
+  {
+   "text": "On the eighth of September, according to Encyclopedia dot com, FBI agent Benedict Tisa, posing as banker James Benedict, met DeLorean in San Carlos, California. On one tape the agent mentions an investor with profits from cocaine deals, and DeLorean replies that it looks like a good opportunity. The proposal was for DeLorean to invest one point eight million dollars.",
+   "query": "The banker",
+   "caption": "ENCYCLOPEDIA.COM: 8 SEPT 1982 \u2014 FBI AGENT BENEDICT TISA AS 'JAMES BENEDICT', SAN CARLOS, CA \u00b7 TAPE: 'IT LOOKS LIKE A GOOD OPPORTUNITY' \u00b7 PROPOSED INVESTMENT $1.8 MILLION \u00b7 (ATE UP WITH MOTOR DATES A WASHINGTON MEETING 4 SEPT)",
+   "cuts": 3
+  },
+  {
+   "text": "The sources disagree on what was bought. Encyclopedia dot com says thirty-four kilos of cocaine, expected to sell for five point one million dollars. Ate Up With Motor says one hundred kilos, two hundred twenty pounds. John DeLorean's Wikipedia page says a deal described as two hundred twenty pounds worth twenty-four million, while the FBI actually set up fifty-nine pounds worth six and a half million.",
+   "query": "How much cocaine?",
+   "caption": "ENCYCLOPEDIA.COM: 34 KG \u2248 $5.1 M \u00b7 ATE UP WITH MOTOR: 100 KG (220 LB) \u00b7 WIKIPEDIA: DESCRIBED 220 LB (~$24 M); FBI SET UP 59 LB (27 KG, ~$6.5 M) \u00b7 SOURCES CONFLICT",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, thirty-four kilos is seventy-five pounds, and fifty-nine pounds is twenty-seven kilos. So the sources give amounts of twenty-seven, thirty-four and a hundred kilos. They may describe the proposed deal, the amount at the hotel, and the headline figure differently. The pages do not explain, and the discrepancy is part of the case's confusing record.",
+   "query": "Converting the amounts",
+   "caption": "34 KG = 75 LB \u00b7 59 LB = 26.8 KG \u00b7 220 LB = 99.8 KG (OUR CONVERSIONS) \u00b7 WHICH FIGURE IS WHICH: NOT EXPLAINED IN THE SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Money was the motive, say the sources. Wikipedia says DeLorean's company was reportedly seeking seventeen million dollars to avoid insolvency. Encyclopedia dot com says he hoped to raise a fifteen million dollar loan through the San Carlos bank. EBSCO says he had been unable to secure more bank financing. Again the amounts differ, but all agree the company was running out of money.",
+   "query": "The motive",
+   "caption": "WIKIPEDIA: DMC SEEKING ~$17 M TO AVOID INSOLVENCY \u00b7 ENCYCLOPEDIA.COM: HOPED TO RAISE A $15 M LOAN VIA THE SAN CARLOS BANK \u00b7 EBSCO: COULD NOT SECURE MORE BANK FINANCING",
+   "cuts": 3
+  },
+  {
+   "text": "The arrest came on the nineteenth of October nineteen eighty-two, in room five oh one of the Sheraton Plaza Hotel near Los Angeles airport, according to Ate Up With Motor. EBSCO says DeLorean saw the cocaine, remarked that it looked good as gold, and was arrested. Encyclopedia dot com says that on an earlier tape he described cocaine as better than gold.",
+   "query": "The arrest",
+   "caption": "19 OCT 1982, SHERATON PLAZA HOTEL, ROOM 501 (ATE UP WITH MOTOR) \u00b7 EBSCO: 'GOOD AS GOLD' AT THE ARREST \u00b7 ENCYCLOPEDIA.COM: TAPE 2 \u2014 'BETTER THAN GOLD' (CORRECTION NOTE: NOT 'GOOD AS GOLD') \u2192 TWO QUOTES, TWO MOMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Federal officials said they had more than a hundred hours of audio and video surveillance, Encyclopedia dot com says. He was held ten days in the Los Angeles County Jail, Ate Up With Motor says. On bail, the sources disagree by a factor of ten: EBSCO says two hundred fifty thousand dollars secured by property, Ate Up With Motor says a two and a half million dollar bond.",
+   "query": "Surveillance and bail",
+   "caption": "ENCYCLOPEDIA.COM: >100 HOURS OF AUDIO/VIDEO \u00b7 ATE UP WITH MOTOR: 10 DAYS IN LA COUNTY JAIL; $2.5 M BOND \u00b7 EBSCO: $250,000 BAIL, SECURED BY HIS NEW YORK APARTMENT, NEW JERSEY ESTATE, PAUMA VALLEY HOME \u00b7 10\u00d7 DISCREPANCY (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "He faced eight charges, EBSCO says. The newspaper reports of the arrest, the car page adds, came on the twentieth of October, and the company filed for bankruptcy on the twenty-sixth of October. By our arithmetic, that is seven days from arrest to bankruptcy filing, and the car page says the factory had already stopped in May.",
+   "query": "Eight charges",
+   "caption": "EBSCO: 8 CHARGES \u00b7 WIKIPEDIA (CAR): ARREST REPORTS 20 OCT 1982; BANKRUPTCY FILED 26 OCT 1982 \u00b7 19 \u2192 26 OCT = 7 DAYS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The trial ran in Los Angeles, with Judge Robert Takasugi. Encyclopedia dot com gives the dates as the eighteenth of April to the sixteenth of August nineteen eighty-four, and Ate Up With Motor says sixty-two days of trial. The prosecutors were James Walsh and Robert Parry. The defence lawyers were Howard Weitzman and Donald Re. DeLorean did not testify.",
+   "query": "The trial",
+   "caption": "ENCYCLOPEDIA.COM: LOS ANGELES, JUDGE ROBERT TAKASUGI \u00b7 18 APR \u2013 16 AUG 1984 \u00b7 PROSECUTORS WALSH + PARRY \u00b7 DEFENCE WEITZMAN + RE \u00b7 ATE UP WITH MOTOR: 62 TRIAL DAYS \u00b7 DELOREAN DID NOT TESTIFY",
+   "cuts": 3,
+   "chapter": "The trial"
+  },
+  {
+   "text": "The defence was entrapment. Encyclopedia dot com says Weitzman argued DeLorean was vulnerable and desperate, and was coerced by government pressure. On cross-examination, agent Tisa admitted he had lied to a contact about receiving DeLorean's money, and had rewritten case notes and destroyed part of the originals. Ate Up With Motor says he admitted continuing the deal knowing DeLorean lacked the money.",
+   "query": "Entrapment",
+   "caption": "ENCYCLOPEDIA.COM: DEFENCE = VULNERABLE, DESPERATE, COERCED \u00b7 TISA ADMITTED LYING TO A CONTACT, REWRITING NOTES, DESTROYING PART OF ORIGINALS \u00b7 ATE UP WITH MOTOR: TISA CONTINUED THE DEAL KNOWING DELOREAN LACKED THE $1.8 M",
+   "cuts": 3
+  },
+  {
+   "text": "The informant was damaged. Both sources say Hoffman admitted demanding a share of the seized money. Encyclopedia dot com says Judge Takasugi called him a hired gun and said the prosecution's late disclosure was offensive. Tapes showed Hoffman drinking heavily and making lewd remarks. By our arithmetic, the informant's credibility problems came from the government's own recordings.",
+   "query": "The informant on the stand",
+   "caption": "ENCYCLOPEDIA.COM + ATE UP WITH MOTOR: HOFFMAN SOUGHT A SHARE OF SEIZED MONEY \u00b7 JUDGE TAKASUGI: 'HIRED GUN'; LATE DISCLOSURE 'OFFENSIVE' \u00b7 TAPES: HOFFMAN DRINKING HEAVILY, LEWD REMARKS \u00b7 'FROM GOVERNMENT'S OWN RECORDINGS' = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "The closing arguments were theatrical. Prosecutor Walsh called DeLorean a man with the conscience of a tomcat. Weitzman compared the case to George Orwell's nineteen eighty-four, arguing the government rewrote history. Weitzman held daily press conferences outside the courthouse. Encyclopedia dot com adds that DeLorean told reporters afterwards, thank God for Howard.",
+   "query": "Closing arguments",
+   "caption": "ENCYCLOPEDIA.COM: WALSH \u2014 'A MAN WITH THE CONSCIENCE OF A TOMCAT' \u00b7 WEITZMAN COMPARED THE CASE TO ORWELL'S '1984'; DAILY PRESS CONFERENCES \u00b7 DELOREAN: 'THANK GOD FOR HOWARD' (REPORTEDLY)",
+   "cuts": 3
+  },
+  {
+   "text": "The verdict came on the sixteenth of August nineteen eighty-four. Encyclopedia dot com says not guilty on all charges after twenty-nine hours of deliberation. EBSCO says all eight charges. Ate Up With Motor says the judge told jurors to acquit if they found entrapment, and they unanimously did. By our arithmetic, from the arrest to the verdict was twenty-two months.",
+   "query": "Acquitted",
+   "caption": "16 AUG 1984 \u00b7 NOT GUILTY ON ALL (8) CHARGES \u00b7 29 HOURS OF DELIBERATION (ENCYCLOPEDIA.COM) \u00b7 UNANIMOUS ENTRAPMENT FINDING (ATE UP WITH MOTOR) \u00b7 19 OCT 1982 \u2192 16 AUG 1984 \u2248 22 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Jurors said afterwards that they believed DeLorean had been entrapped and would not have engaged in criminal activity without the government's financial inducement, according to Encyclopedia dot com. That is a statement about the legal finding. It is not a finding that DeLorean was innocent of every wrongdoing, and the later fraud case, in the next chapter, shows the story was not over.",
+   "query": "What the jurors said",
+   "caption": "ENCYCLOPEDIA.COM: JURORS \u2014 BELIEVED HE WAS ENTRAPPED; WOULD NOT HAVE ENGAGED IN CRIME WITHOUT GOVERNMENT INDUCEMENT \u00b7 LEGAL FINDING \u2260 FINDING OF OVERALL INNOCENCE (OUR NOTE)",
+   "cuts": 3
+  },
+  {
+   "text": "The money case continued. Ate Up With Motor says that in nineteen eighty-five Detroit federal prosecutors charged DeLorean with fraud, tax evasion and racketeering, and that he was acquitted at an October nineteen eighty-six trial, about two months later. John DeLorean's page says a fraud and tax evasion indictment from nineteen eighty-five ended in an acquittal reported in December nineteen eighty-six.",
+   "query": "The second case",
+   "caption": "ATE UP WITH MOTOR: 1985 DETROIT CHARGES (FRAUD, TAX EVASION, RACKETEERING) \u2192 ACQUITTED ~2 MONTHS AFTER AN OCT 1986 TRIAL \u00b7 WIKIPEDIA: 1985 INDICTMENT \u2192 ACQUITTAL REPORTED DEC 1986 (CONSISTENT)",
+   "cuts": 3,
+   "chapter": "After the verdict"
+  },
+  {
+   "text": "In Britain, Ate Up With Motor says former Lotus managing director Fred Bushell was arrested in June nineteen eighty-nine and later pleaded guilty to fraud. The British crown also charged DeLorean, but his attorneys successfully resisted all extradition attempts. And it says Christina Ferrare filed for divorce after the nineteen eighty-four trial, seeking custody of their two children.",
+   "query": "Britain and family",
+   "caption": "ATE UP WITH MOTOR: FRED BUSHELL (EX-LOTUS MD) ARRESTED JUNE 1989, LATER PLEADED GUILTY TO FRAUD \u00b7 BRITISH CROWN CHARGED DELOREAN \u2014 EXTRADITION RESISTED \u00b7 CHRISTINA FERRARE FILED FOR DIVORCE AFTER THE 1984 TRIAL",
+   "cuts": 3
+  },
+  {
+   "text": "EBSCO sums up the losses: the British government and investors, including Johnny Carson and Sammy Davis Junior, lost about two hundred fifty million dollars when the company failed. By our arithmetic, that is more than the two hundred million Wikipedia says DeLorean raised, so the two numbers measure different things. Neither source itemises them.",
+   "query": "The losses",
+   "caption": "EBSCO: UK GOVERNMENT + INVESTORS (INCL. JOHNNY CARSON, SAMMY DAVIS JR.) LOST ~$250 MILLION \u00b7 WIKIPEDIA: ~$200 MILLION RAISED \u00b7 250 vs 200 = DIFFERENT MEASURES; NEITHER ITEMISED (OUR NOTE)",
+   "cuts": 3
+  },
+  {
+   "text": "Later, his life became a series of attempts. Wikipedia says in nineteen ninety-four he filed a patent for a raised monorail, never built, sold watches online as DeLorean Time, and planned a new car called the DMC2. In nineteen ninety-nine he declared personal bankruptcy amid about forty legal cases, and in two thousand sold his four hundred thirty-four acre Bedminster estate, which Donald Trump later bought.",
+   "query": "Later life",
+   "caption": "WIKIPEDIA: 1994 MONORAIL PATENT (NEVER BUILT), 'DELOREAN TIME' WATCHES, PLANNED DMC2 \u00b7 1999 PERSONAL BANKRUPTCY, ~40 LEGAL CASES \u00b7 2000 SOLD 434-ACRE BEDMINSTER ESTATE, LATER BOUGHT BY TRUMP",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says he reportedly became a born-again Christian after the entrapment controversy, married four times, had three children, and in two thousand two married Sally Baldwin, with whom he had a daughter that year. His ashes are interred at White Chapel Cemetery in Troy, Michigan. The tombstone shows a DeLorean with its gull-wing doors open.",
+   "query": "End of life",
+   "caption": "WIKIPEDIA: REPORTEDLY BORN-AGAIN CHRISTIAN \u00b7 MARRIED 4 TIMES \u00b7 2002 DAUGHTER WITH SALLY BALDWIN \u00b7 ASHES AT WHITE CHAPEL CEMETERY, TROY, MI \u00b7 TOMBSTONE SHOWS A DELOREAN WITH GULL-WING DOORS OPEN",
+   "cuts": 3
+  },
+  {
+   "text": "Part of the story is the glamour. Wikipedia says he was a limited partner in the San Diego Chargers syndicate that bought a controlling interest for ten million dollars on the twenty-fifth of August nineteen sixty-six. He was one of fifteen investors in the New York Yankees, purchased from CBS for ten million on the third of January nineteen seventy-three.",
+   "query": "Sports investments",
+   "caption": "WIKIPEDIA: SAN DIEGO CHARGERS SYNDICATE, $10 M, 25 AUG 1966 (LIMITED PARTNER) \u00b7 NEW YORK YANKEES \u2014 ONE OF 15 INVESTORS, $10 M FROM CBS, 3 JAN 1973",
+   "cuts": 3,
+   "chapter": "Before the sting: the celebrity years"
+  },
+  {
+   "text": "Business Insider, in twenty nineteen, called John DeLorean the most flamboyant personality in the car business of his day, hands-on, on the celebrity circuit, including with Johnny Carson, who it says was a DeLorean owner and investor. That is a magazine's characterisation. The factual part is the investors' list, which Wikipedia and EBSCO both support.",
+   "query": "A flamboyant figure",
+   "caption": "BUSINESS INSIDER (DEC 2019): 'MOST FLAMBOYANT PERSONALITY IN THE CAR BUSINESS OF HIS DAY' \u00b7 CARSON = OWNER + INVESTOR (BI) \u00b7 WIKIPEDIA + EBSCO: CARSON AMONG INVESTORS \u00b7 CHARACTERISATION = OPINION",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more number from his personal history. Wikipedia says that during a period selling life insurance he sold about eight hundred fifty thousand dollars in policies in ten months. By our arithmetic, that is eighty-five thousand dollars a month. It is a small detail, but it fits the picture of a man who was good at selling, which is what the later company needed.",
+   "query": "A salesman",
+   "caption": "WIKIPEDIA: ~$850,000 IN LIFE INSURANCE POLICIES IN TEN MONTHS \u2192 $85,000/MONTH (OUR ARITHMETIC) \u00b7 'WHAT THE COMPANY NEEDED' = OUR COMMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Put the dates on a line. Left GM in nineteen seventy-three. First prototype in nineteen seventy-six. First production car announced in January nineteen eighty-one. Factory production stopped in May nineteen eighty-two. Acquitted in August nineteen eighty-four. Died in two thousand five. By our arithmetic, the car was in production for under two years, from the announcement to the final cars in December nineteen eighty-two.",
+   "query": "The timeline",
+   "caption": "1973 LEFT GM \u00b7 OCT 1976 PROTOTYPE \u00b7 21 JAN 1981 FIRST CAR ANNOUNCED \u00b7 MAY 1982 FACTORY STOPPED \u00b7 24 DEC 1982 FINAL CARS \u00b7 16 AUG 1984 ACQUITTED \u00b7 2005 DIED \u00b7 JAN 1981 \u2192 DEC 1982 \u2248 23 MONTHS (OUR ARITHMETIC; WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The numbers of a short life"
+  },
+  {
+   "text": "And the long tail. From the acquittal in nineteen eighty-four to his death in two thousand five is twenty-one years, by our arithmetic. In that time Wikipedia lists a patent, a watch brand, a planned car, a personal bankruptcy and the sale of an estate. From the day he left General Motors to the bankruptcy of his company was less than ten years.",
+   "query": "Twenty-one more years",
+   "caption": "16 AUG 1984 \u2192 19 MAR 2005 \u2248 20.6 YEARS (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 1994 PATENT, WATCHES, DMC2 PLAN, 1999 PERSONAL BANKRUPTCY, 2000 ESTATE SALE \u00b7 APR 1973 \u2192 OCT 1982 \u2248 9.5 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The prototypes were sold off in the bankruptcy. The car page says Prototype One sold at the nineteen eighty-four auction for thirty-seven thousand dollars, and the Visioneering show car for twenty-one thousand, which United Press International put at fifty-eight thousand combined. By our arithmetic, those two cars sold for less than the price of three production DeLoreans at the nineteen eighty-three price of thirty-four thousand.",
+   "query": "Selling the prototypes",
+   "caption": "WIKIPEDIA: PROTOTYPE 1 $37,000 + VISIONEERING CAR $21,000 = $58,000 (UPI) \u00b7 3 \u00d7 $34,000 (1983 PRICE) = $102,000 > $58,000 (OUR ARITHMETIC; 1984 BANKRUPTCY SALES)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with the cost of the show car. Wikipedia says Visioneering built the show car in nineteen seventy-nine at a cost of seven hundred fifty thousand dollars. It sold in the bankruptcy for twenty-one thousand. By our arithmetic, that is under three percent of its build cost. The whole story of the company, in miniature, is investment far above recovered value.",
+   "query": "A show car's fall",
+   "caption": "$750,000 BUILD (1979) \u2192 $21,000 SALE (1984) = 2.8% (OUR ARITHMETIC; BANKRUPTCY SALE; NOT INFLATION-ADJUSTED) \u00b7 'COMPANY IN MINIATURE' = OUR COMMENT",
+   "cuts": 3
+  },
+  {
+   "text": "The car lived on in the movies. Wikipedia and ThePricer both say the nineteen eighty-five film Back to the Future used the DMC-12, with six DeLoreans used in production plus a fibreglass one for flying scenes. John DeLorean's page lists two later screen portrayals: Lee Pace in the twenty eighteen film Driven, and Alec Baldwin in Framing John DeLorean, in twenty nineteen.",
+   "query": "On screen",
+   "caption": "WIKIPEDIA + THEPRICER: BACK TO THE FUTURE (1985) USED THE DMC-12 \u00b7 6 CARS + 1 FIBREGLASS \u00b7 JOHN DELOREAN PAGE: LEE PACE IN 'DRIVEN' (2018) \u00b7 ALEC BALDWIN IN 'FRAMING JOHN DELOREAN' (2019)",
+   "cuts": 3,
+   "chapter": "The legacy"
+  },
+  {
+   "text": "The cars themselves became valuable. ThePricer says a standard DMC-12 now costs fifty to seventy-five thousand dollars, and a Part Three film car sold for five hundred forty-one thousand, two hundred dollars in two thousand eleven. By our arithmetic, the standard car's range is two to three times the twenty-five thousand dollar launch price, though not adjusted for inflation.",
+   "query": "Value today",
+   "caption": "THEPRICER: STANDARD $50,000\u2013$75,000 (2026) \u00b7 PART III CAR $541,200 (DEC 2011) \u00b7 $50\u201375K \u00f7 $25,000 = 2\u20133\u00d7 NOMINAL (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the brand itself. Wikipedia says a Texas company, founded in nineteen ninety-five by Stephen Wynne, now supplies parts and restoration, with no direct connection to the original firm. It lists legal disputes through twenty twenty-six, including an Italdesign judgment of four point six million dollars, and says its Alpha5 electric car had not launched as of August twenty twenty-six.",
+   "query": "The brand continues",
+   "caption": "WIKIPEDIA (DMC TEXAS): FOUNDED 1995 BY STEPHEN WYNNE \u00b7 NO DIRECT CONNECTION TO ORIGINAL COMPANY \u00b7 ITALDESIGN JUDGMENT $4.6 M (EARLY 2026) \u00b7 ALPHA5 NOT LAUNCHED AS OF AUG 2026",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider tied the story to Tesla in twenty nineteen, noting that Elon Musk was something of the John DeLorean of this era, though it argued he had far exceeded DeLorean's achievements. The Cybertruck is the first stainless steel vehicle produced since the DeLorean, Business Insider said in twenty twenty-four. These are the writers' comparisons, and we mark them as opinion.",
+   "query": "The Tesla comparison",
+   "caption": "BUSINESS INSIDER (DEC 2019): MUSK 'SOMETHING OF THE JOHN DELOREAN OF THIS ERA' \u00b7 BUSINESS INSIDER (MAR 2024): CYBERTRUCK = FIRST STAINLESS VEHICLE PRODUCED SINCE THE DELOREAN (OPINION / FACT AS LABELLED)",
+   "cuts": 3
+  },
+  {
+   "text": "A list of disagreements. When the company was founded, nineteen seventy-three or seventy-five. Where the missing money went, Panama or Geneva. How much cocaine, twenty-seven kilos, thirty-four or a hundred. The bail, two hundred fifty thousand or two and a half million. And which gold quote was said when. We report each as found, because the record itself is inconsistent.",
+   "query": "Disagreements",
+   "caption": "FOUNDING 1973 (WIKIPEDIA) vs 1975 (EBSCO) \u00b7 MONEY: PANAMA (WIKIPEDIA) vs GENEVA GPD SERVICES (ATE UP WITH MOTOR) \u00b7 COCAINE 27 / 34 / 100 KG \u00b7 BAIL $250,000 (EBSCO) vs $2.5 M BOND (ATE UP WITH MOTOR) \u00b7 'GOOD AS GOLD' vs 'BETTER THAN GOLD'",
+   "cuts": 3,
+   "chapter": "What the sources do not agree on"
+  },
+  {
+   "text": "What our sources do not settle. Whether John DeLorean committed any crime in the Detroit and British matters. Where all of the missing money went. Who made the first approach in the sting, since Ate Up With Motor says DeLorean said Hoffman did. The courts acquitted him in the United States, and our sources do not say more than that. We do not offer a verdict of our own.",
+   "query": "What is unsettled",
+   "caption": "UNSETTLED IN OUR SOURCES: FULL TRAIL OF THE MISSING MONEY \u00b7 WHO MADE THE FIRST APPROACH (DELOREAN SAYS HOFFMAN) \u00b7 BRITISH PROCEEDINGS' OUTCOME \u00b7 COURT RESULTS: ACQUITTED 1984 (LA), ACQUITTED 1986 (DETROIT)",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. The exact sum of the government's incentives in dollars. Why the jury and the judge saw the informant as they did beyond the trial record. Any statement by John DeLorean himself in a primary source that we read. If you know a primary document, tell us in the comments and we will update the description.",
+   "query": "John DeLorean",
+   "caption": "NOT IN OUR SOURCES: GOVERNMENT INCENTIVES IN A SINGLE CONSISTENT CURRENCY \u00b7 PRIMARY DOCUMENTS (COURT RECORDS, INTERVIEWS) \u00b7 DELOREAN'S OWN ACCOUNT BEYOND THE QUOTES CITED",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "What do you think of the man who left the top of General Motors to build his own car and ended in a courtroom? Tell us in the comments. In the other videos of this series, we show two things you did not know about the DeLorean, compare it with the Cybertruck, and count what it costs to own one. Subscribe to Pickup Reality.",
+   "query": "John DeLorean",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

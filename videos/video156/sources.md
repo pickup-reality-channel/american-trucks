@@ -1,0 +1,8 @@
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Encyclopedia.com, John DeLorean Trial: 1984: https://encyclopedia.com/law/law-magazines/john-delorean-trial-1984
+- EBSCO Research Starters, Car manufacturer John De Lorean is arrested in a drug sting: https://www.ebsco.com/research-starters/law/car-manufacturer-john-de-lorean-arrested-drug-sting
+- Ate Up With Motor, The Harder They Fall: The Saga of the DeLorean Motor Company (part 4): https://ateupwithmotor.com/model-histories/delorean-dmc-12-history/4/
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/
