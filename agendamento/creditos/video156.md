@@ -1,0 +1,173 @@
+# Photo credits: The Insane Story Behind John DeLorean
+
+- 1983 DeLorean DMC-12, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, interior.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- Pontiac Banshee XP-833 (1964) (55308782866).jpg by Charles from Port Chester, New York, CC0
+- 1964 Pontiac Banshee (XP-833) Concept Car 2.jpg by artistmac, CC BY-SA 2.0
+- 1964 Pontiac Banshee (XP-833) Concept Car rear 2.jpg by artistmac, CC BY-SA 2.0
+- Gardenview Estates, Detroit, Michigan (14180657116).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14201297702).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14223937233).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 'To hell and back,' the BMG Saga 130404-F-WU507-001.jpg by Master Sgt. Kevin Wallace, Public domain
+- Early flight 02562u.jpg by Created/published: Paris : Romanet & Cie., imp. edit.,, Public domain
+- Four Scenes from the Early Life of Saint Zenobius.jpg by Sandro Botticelli, Public domain
+- Early-Life-Banner.jpg by Mikolife, CC BY 4.0
+- Interior - Flynt Center of Early New England Life - Deerfield, Massachusetts - DSC04021.jpg by Daderot, CC0
+- Interior - Flynt Center of Early New England Life - Deerfield, Massachusetts - DSC04023.jpg by Daderot, CC0
+- 1934 Pontiac 8 and Late-1930's Packard 110 (42233414225).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1934 Pontiac 8 and Late-1930's Packard 110 (42233412405).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1956 Packard Predictor (15097757551).jpg by artistmac, CC BY-SA 2.0
+- Gto hgyabc berlin 121208 gruppenfoto 3729 (8267321324).jpg by SuSanA Secretariat, CC BY 2.0
+- Gto hgyabc berlin 121208 img 3715 (8267312974).jpg by SuSanA Secretariat, CC BY 2.0
+- Gto hgyabc berlin 121208 img 3705 (8267318102).jpg by SuSanA Secretariat, CC BY 2.0
+- Pay phone in Munich 04.jpg by Kritzolina, CC BY-SA 4.0
+- Pay phone in Munich 03.jpg by Kritzolina, CC BY-SA 4.0
+- Pay phones in Bangkok.jpg by Vee Satayamas, CC BY 2.0
+- Community Transit historic GM New Look bus at Lynnwood City Center Station.jpg by SounderBruce, CC BY-SA 4.0
+- Beilstein - Schmidhausen - Hebelstraße - Holzzaun - Augen (1).jpg by Roman Eisele, CC BY-SA 4.0
+- Haigerloch - Altstadt - Ansicht aus Süden vom Römerturm (2).jpg by Roman Eisele, CC BY-SA 4.0
+- Miller Range, Antarctica - Meteorite (1).jpg by NASA/Cindy Evans, Public domain
+- Megathyrsus maximus 7th Brigade Park Chermside P1090455.jpg by John Robert McPherson, CC BY-SA 4.0
+- Megathyrsus maximus 7th Brigade Park Chermside P1090458.jpg by John Robert McPherson, CC BY-SA 4.0
+- Home made sour dough bread.jpg by Tomascastelazo, CC BY-SA 4.0
+- PICTURES OF INDONESIAN ANCIENT MONEY (Jalak Bali, Karajan Sapi, Komodo, Kepodang dll.).jpg by ZoreyZvara, CC BY-SA 4.0
+- "A sure horse for the first money" LCCN2002695764-restored.jpg by Popular Graphic Arts, Public domain
+- HMS Belfast with rainbow.jpg by Dmitry A. Mottl, CC BY-SA 3.0
+- Queen's University of Belfast, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- Belfast Harbor.jpg by P. Hughes, CC BY-SA 4.0
+- First ten years of Merseyrail plate on 507016 at Liverpool Central station.jpg by Rodhullandemu, CC BY-SA 4.0
+- Park of 300 Years Spb - Baltic Beach 03.jpg by A.Savin, CC BY-SA 3.0
+- 17 Years of Sekar Jepun 2014-11-01 05.jpg by Crisco 1492, CC BY-SA 4.0
+- Nelumno nucifera open flower - botanic garden adelaide2.jpg by Peripitus, CC BY-SA 4.0
+- Lotus flower (978659).jpg by Hong Zhang (jennyzhh2008), CC0
+- Juvenile Kaloula in a drop of water on a Sacred lotus leaf.jpg by Basile Morin, CC BY-SA 4.0
+- DSC 8297 A colorful market stall piled high with assorted sandals and slip-on shoes on display with a price sign reading 69 hanging above.jpg by PattayaPatrol, CC BY-SA 4.0
+- Theropod footprint with heel slip mark price.jpg by Jens Lallensack, CC BY-SA 4.0
+- Colton's Railroad And Military Map Of The United States, Mexico, The West Indies etc. Published By G.W. & C.B. Colton (IA dr coltons-railroad-and-military-map-of-the-united-states-mexico-the-west-i-00184045).jpg by Colton, G.W & C.B., Public domain
+- 2010-2014 Nissan Micra (K13) ST hatchback (16071619796).jpg by TuRbO_J from Adelaide, Australia, CC BY 2.0
+- Buiobuione-Skyline of Seattle Washington State USA-01.jpg by Buiobuione, CC BY-SA 4.0
+- RA-82042 Antonov AN-124-100 VolgaDnepr Stansted 3.95 (54908612503).jpg by Colin Cooke Photo, CC BY-SA 4.0
+- Flickr - ronsaunders47 - THE SCOTT FLYING SQUIRREL. UK 1926-1940..jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- Flickr - ronsaunders47 - SCOTT FLYING SQUIRREL . UK 1937..jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- Milang. The Anglican Gothic style toilet. The Anglican Church opened in 1911 and the toilet was probably built around the same time. (29934442517).jpg by denisbin from Adelaide, Australia, CC0
+- The Borough of Waltham Forest complies with the law.jpg by Alan Stanton, CC BY-SA 2.0
+- The City Champion, or the Guildhall Merry uproar (BM 1868,0808.5455).jpg by Print made by: William Dent
+
+Published by: J Nunn, Public domain
+- Miaoli-County Taiwan Quanhua-Temple-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Taipei Taiwan Taipei-101-Tower-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Kaohsiung Taiwan Kaohsiung-Confucius-Temple-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Abandoned concrete factory mechanism.jpg by Diacritica, CC BY 3.0
+- Recor factory aerial.jpg by Lieven Smits, CC BY-SA 4.0
+- Sandakan Sabah Plywood-Factory-30a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Ci En Pagoda 01.jpg by Bernard Gagnon, CC BY-SA 3.0
+- Two page totally confidential, direct and immediate letter from the Minister of Finance to the Minister of Foreign Affairs about creating a foreign information network for controlling smuggling.jpg by nlai.ir, Public domain
+- Wallace-Ford-The-Informer-trailer.jpg by RKO Radio Pictures, Public domain
+- Simon Cooper banker 2023.jpg by Wikster2023, CC BY-SA 4.0
+- Anna Fitch Banker White SFFILM May 2026 03.jpg by Jesse Kornblum, CC BY-SA 4.0
+- City of London, The Banker P.H. - geograph.org.uk - 7907576.jpg by Michael Garlick, CC BY-SA 2.0
+- How much is that..... - geograph.org.uk - 2041830.jpg by Phillip Perry, CC BY-SA 2.0
+- How much lower^ - geograph.org.uk - 2727535.jpg by Ian Paterson, CC BY-SA 2.0
+- How much is that doggie.... - geograph.org.uk - 6089498.jpg by Eirian Evans, CC BY-SA 2.0
+- Model Rosie on a bed - In Black and White (14192377223).jpg by Lies Thru a Lens , CC BY 2.0
+- Black hole - Messier 87.jpg by Event Horizon Telescope, CC BY 4.0
+- 7 July 2012 Infrared HDR backyard test with my newly IR converted Canon 40D (7521846824).jpg by David from Colorado Springs, United States, CC BY 2.0
+- 1939 GM Electro-Motive Diesel Engine.jpg by artistmac, CC BY-SA 2.0
+- 1939 GM Electro-Motive Diesel Engine - 7355364756.jpg by artistmac, CC BY-SA 2.0
+- 1939 GM Electro-Motive Diesel Engine - 7355362628.jpg by artistmac, CC BY-SA 2.0
+- The arrest of the bomb attacker in Ronchi, 1882.jpg by Franz Kollarž, Public domain
+- 2009-04-06 Scotts Valley Chase 02.jpg by Dan Dawson, CC BY 2.0
+- Arrest Entrée.jpg by René Hourdry, CC BY-SA 4.0
+- Unidentified tower with surveillance camera system in Boulder Park, Imperial County, California.jpg by Dugan Meyer, CC BY 4.0
+- Tower with Surveillance Cameras in Boulder Park, Imperial County, California, September 2024.jpg by Dugan Meyer, CC BY 4.0
+- U.S. Customs and Border Protection (CBP) Autonomous Surveillance Tower (AST) and U.S. Border Patrol Vehicle on Mount Cristo Rey in Sunland Park, New Mexico.jpg by Dugan Meyer, CC BY 4.0
+- Steak Number Eight – Reload Festival 2016 17.jpg by Frank Schwichtenberg, CC BY-SA 3.0
+- Steak Number Eight – Reload Festival 2016 11.jpg by Frank Schwichtenberg, CC BY-SA 3.0
+- Steak Number Eight – Reload Festival 2016 15.jpg by Frank Schwichtenberg, CC BY-SA 3.0
+- Jan Polanc (2021 Slovenian National Time Trial championship).jpg by Petar Milošević, CC BY-SA 4.0
+- Primož Roglič (2020 Slovenian Time Trial championship).jpg by Petar Milošević, CC BY 4.0
+- Japanese battleship Yamato running trials off Bungo Strait, 20 October 1941.jpg by Hasuya Hirohata, Public domain
+- Entrapment 20111120.jpg by Flamelai, CC BY-SA 3.0
+- Hemerocallis Entrapment 2020-07-30 2237.jpg by Salicyna, CC BY-SA 4.0
+- Rykmentin motti, SA-kuva 4776.jpg by http://sa-kuva.fi/, CC BY 4.0
+- Personnages virtuels sur le stand du CNES au salon du Bourget 2011.jpg by Thomas-Bonnecarrere, CC BY-SA 3.0
+- Flickr - Bucajack - The director, producers and cast of The Informant.jpg by Mark Dunne from Toronto, Canada, CC BY-SA 2.0
+- Protest in front of the tabloid "Informer", 02.jpg by Bojan Cvetanović, CC BY-SA 4.0
+- Target is boarded up in downtown Minneapolis, Minnesota as closing arguments take place in the Derek Chauvin trial (51126361213).jpg by Lorie Shaull from St Paul, United States, CC BY-SA 2.0
+- Plaidoyer de Louis XVI à la Convention nationale.jpg by Reinier Vinkeles, Public domain
+- A worker boards up a business in downtown Minneapolis, Minnesota as closing arguments take place in the Derek Chauvin trial (51126361103).jpg by Lorie Shaull from St Paul, United States, CC BY-SA 2.0
+- Catedral de Salzburgo, Salzburgo, Austria, 2019-05-19, DD 30-32 HDR.jpg by Diego Delso, CC BY-SA 4.0
+- Frikjent- Vårens Store TV2-drama - NMD 2015 (17425600345).jpg by Charlotte Magnussen  /  Nordiske Mediedager, CC BY-SA 2.0
+- Frikjent- Vårens Store TV2-drama - NMD 2015 (17425617725).jpg by Charlotte Magnussen  /  Nordiske Mediedager, CC BY-SA 2.0
+- NYC Trump court trial 2024-05-29 128.jpg by SWinxy, CC BY 4.0
+- Medieval, Enamelled Heraldic Harness Pendant (FindID 1013752).jpg by Birmingham Museums Trust, Peter Reavill, 2020-10-20 12:35:11, CC BY 2.0
+- STRAP FITTING (FindID 1013752).jpg by West Yorkshire Archaeology Advisory Service, Ian Whitehead, 2018-05-17 13:41:28, CC BY 2.0
+- Second cigarette case - Cartier (39763213361).jpg by Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0
+- The cavalier case No. 2 4946.jpg by AlixSaz, CC BY-SA 4.0
+- Senator-Judges taking their oath for the Second impeachment of VP Duterte.jpg by Senate of the Philippines, Public domain
+- View of the Long Walk towards Copper Horse Statue of King George III. Windsor, UK.jpg by Ввласенко, CC BY-SA 3.0
+- George III and Charlotte coronation portraits 1762.jpg by Allan Ramsay, Public domain
+- Family Group by Henry Moore at Tate Britain 04.jpg by 14GTR, CC0
+- Bleeding finger.jpg by Crystal (Crystl) from Bloomington, USA, CC BY 2.0
+- Toompea loss 2014.jpg by Abrget47j, CC BY-SA 3.0
+- The latest losses - geograph.org.uk - 7383821.jpg by Neil Owen, CC BY-SA 2.0
+- End of life - geograph.org.uk - 7992480.jpg by Andrew Abbott, CC BY-SA 2.0
+- Eu Dialogue on End of Life Recreational Craft-140 (53645570692).jpg by Belgian Presidency of the Council of the EU 2024 from Belgium, CC BY 2.0
+- Eu Dialogue on End of Life Recreational Craft-72 (53646789514).jpg by Belgian Presidency of the Council of the EU 2024 from Belgium, CC BY 2.0
+- Investing in Sports for SDGs (43702008540).jpg by UNCTAD, CC BY-SA 2.0
+- Investing in Sports for SDGs (30577590977).jpg by UNCTAD, CC BY-SA 2.0
+- Investing in Sports for SDGs (45519105221).jpg by UNCTAD, CC BY-SA 2.0
+- The master of ceremonies (4230184663).jpg by Ernst Vikne from Skien, Norway, CC BY-SA 2.0
+- Master of ceremonies (7926570).jpg by U.S. Army photo by Bryan Gatchell, Public domain
+- Flickr - Official U.S. Navy Imagery - The Master of ceremonies start the seventh annual Walk Out of Darkness. (1).jpg by Official Navy Page from United States of America, Public domain
+- A bad sales day.jpg by Wilfredor, CC BY-SA 4.0
+- MG 6765 (9479976846).jpg by SarahSierszyn from Chatham, MA, USA, CC BY 2.0
+- Tanzanian salesman on bike.jpg by Ethan Muehlstein, CC BY-SA 4.0
+- A timeline of the academic degrowth discourse.jpg by Authors of the study: Martin Weiss, Claudio Cattaneo, CC BY 4.0
+- A timeline of Lothian Buses - geograph.org.uk - 6281069.jpg by M J Richardson, CC BY-SA 2.0
+- Timeline of Breg journey.jpg by Kirill Korneev, CC BY 4.0
+- Jubilee Medal "Twenty Years of Victory" Certificate. Georgiy Pavlovich Osipov. 1967.jpg by David Osipov, Public domain
+- 1958 Triumph Twenty One 01.jpg by Mike Schinkel, CC BY 2.0
+- Twenty One Pilots - Southside Festival 2026 - DSC4504.jpg by Moiyeah, CC BY 4.0
+- 1965 Ford GT40 Roadster Prototype.jpg by Sicnag, CC BY 2.0
+- Bultaco Pursang MK15 250cc 1980 prototype.jpg by Peprovira, CC BY 3.0
+- Bultaco Pursang MK15 250cc 1980 prototype c.jpg by Peprovira, CC BY 3.0
+- Clinton Fall Festival Car Show 2012 (8037270521).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
+- Clinton Fall Festival Car Show 2012 (8037263156).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
+- Clinton Fall Festival Car Show 2012 (8037268239).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
+- Nintendo DS booth PAX EAST 2006.jpg by Benjamin Hollis, CC BY 2.0
+- Nintendo DS e Nintendo DS Lite.jpg by Mark Gasoline, CC BY 4.0
+- Nintendo DS & GBA SP.jpg by Mark Gasoline, CC BY 4.0
+- Originally the Houston Light Guard Armory -- Today the Buffalo Soldiers National Museum.jpg by Jim Evans, Public domain
+- Dark blue tiger (Tirumala septentrionis dravidarum) male underside.jpg by Charles J. Sharp, CC BY-SA 4.0
+- Rear NW Basilica Francesco Assisi Sep23 A7C 07913.jpg by This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
+
+
+
+Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0
+- Olle Brand Grodan.JPG by Bengt Oberger, CC BY-SA 3.0
+- Olle Brand Korvhunden.JPG by Bengt Oberger, CC BY-SA 3.0
+- Charlotte Brand, Alderman of Nijmegen, Lays a Wreath at the Operation Market Garden Aaron Julian Cook Building Ceremony 2026 (9952326).jpg by U.S. Army 21TSC by Maj. Nicholas Chopp, Public domain
+- TO-3 vs TO-66.jpg by Drahtlos, CC BY-SA 4.0
+- TO-3 vs TO-66 cm.jpg by Drahtlos, CC BY-SA 4.0
+- Volume means and standard deviations for long COVID and healthy controls for the brainstem subregions and the whole brainstem.jpg by Authors of the study: Kiran Thapaliya, Sonya Marshall-Gradisnik, Markus Barth, Natalie Eaton-Fitch and Leighton Barnden, CC BY 4.0
+- TS 2015-01-15-2448 (15664444213).jpg by teteria sonnna from Obukhiv, Ukraine, CC BY 2.0
+- Disagreement in the scientific literature by field.jpg by Authors of the study: Wout S Lamers, Kevin Boyack, Vincent Larivière, Cassidy R Sugimoto, Nees Jan van Eck, Ludo Waltman, Dakota Murray, CC BY 4.0
+- Little difference in disagreement between men and women.jpg by Authors of the study: Wout S Lamers, Kevin Boyack, Vincent Larivière, Cassidy R Sugimoto, Nees Jan van Eck, Ludo Waltman, Dakota Murray, CC BY 4.0
+- A Series of Rare Disturbances in the Stratosphere (153258 - stratosphericwarming mra2 20240805 lrg).jpg by NASA Earth Observatory images by Wanmei Liang, using GEOS-FP data courtesy of Lawrence Coy and the Global Modeling and Assimilation Office at NASA GSFC. Story by Emily Cassidy., Public domain
+- Floods and Dust in Iran (MODIS 2026-01-01).jpg by MODIS Land Rapid Response Team, NASA GSFC, Public domain
+- Road from Kingairloch (47458082851).jpg by caroline legg, CC BY 2.0
+
+## Sources
+
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Encyclopedia.com, John DeLorean Trial: 1984: https://encyclopedia.com/law/law-magazines/john-delorean-trial-1984
+- EBSCO Research Starters, Car manufacturer John De Lorean is arrested in a drug sting: https://www.ebsco.com/research-starters/law/car-manufacturer-john-de-lorean-arrested-drug-sting
+- Ate Up With Motor, The Harder They Fall: The Saga of the DeLorean Motor Company (part 4): https://ateupwithmotor.com/model-histories/delorean-dmc-12-history/4/
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/

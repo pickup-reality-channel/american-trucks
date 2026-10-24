@@ -1,0 +1,147 @@
+# Photo credits: DeLorean vs Cybertruck: Two Stainless Steel Bets
+
+- Model X vs. DeLorean.jpg by Steve Jurvetson, CC BY 2.0
+- Two stainless steel shelf supports 2017.jpg by Fructibus, CC0
+- Installing supports for stainless steel plates between the escalator and the wall at escalator Wellway Two. 07-03-2019 (48266285587).jpg by MTA Capital Construction Mega Projects, CC BY 2.0
+- Mated colander pot two views RJP.jpg by Rickjpelleg, CC BY-SA 4.0
+- Two Man Bolo Knife.jpg by RoyKabanlit, CC BY-SA 4.0
+- Socket set with two ratchets in box (photographed on snow).jpeg by Pittigrilli~commonswiki, CC BY-SA 4.0
+- Socket set with two ratchets in box.jpeg by Pittigrilli~commonswiki, CC BY-SA 4.0
+- Socket set with two ratchets in metal box.jpeg by Pittigrilli~commonswiki, CC BY-SA 4.0
+- Socket set with two ratchets in metal box, industrial grade quality, on white background.jpg by Pittigrilli~commonswiki, CC BY-SA 4.0
+- DeLorean DMC-12 Interior.jpg by Michael Price, CC BY 2.0
+- 1983 DeLorean DMC-12, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 1964 Pontiac Banshee (XP-833) Concept Car 2.jpg by artistmac, CC BY-SA 2.0
+- 1964 Pontiac Banshee (XP-833) Concept Car rear 2.jpg by artistmac, CC BY-SA 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Cable Homestead in Cades Cove.JPG by unknown, CC BY-SA 3.0
+- Mill, reportedly built in eighteenth century - NARA - 279886.jpg by Tennessee Valley Authority, Public domain
+- Tscherniheim Waldglas Werkzeuge 2012 f.JPG by Joadl, CC BY-SA 3.0 at
+- Helmsley, Borogate, The Cut-price Bookshop - geograph.org.uk - 6287790.jpg by Michael Garlick, CC BY-SA 2.0
+- Cut Price Carpets, Market Square, Shipley - geograph.org.uk - 7100755.jpg by habiloid, CC BY-SA 2.0
+- Cut Price Tools, Paint, Ironmongery, Etc.jpg by Ewan-M, CC BY-SA 2.0
+- Tail of carving-ski with technical specifications mod noBG.jpg by https://commons.wikimedia.org/wiki/User:Pittigrilli~commonswiki, CC BY-SA 4.0
+- Tail of carving-ski with technical specifications bearbeitet.jpg by Pittigrilli~commonswiki, CC BY-SA 4.0
+- Specifications description board of Sengulam Dam- Kerala.jpg by Harvinder Chandigarh, CC BY-SA 4.0
+- Douglas SBD-6 Dauntless - DPLA - 71028774a9a6be0f49ca47ea7eb15f28 (page 7).jpg by Douglas Aircraft Company, CC0
+- Douglas SBD-6 Dauntless - DPLA - 71028774a9a6be0f49ca47ea7eb15f28 (page 15).jpg by Douglas Aircraft Company, CC0
+- Douglas SBD-6 Dauntless - DPLA - 71028774a9a6be0f49ca47ea7eb15f28 (page 5).jpg by Douglas Aircraft Company, CC0
+- Carbon dioxide clouds over Mont Mercou, Curiosity Sol 3063 (53100058892).jpg by semeion.photo Credit: NASA/JPL-Caltech/MSSS/Simeon Schmauß, CC BY 2.0
+- Early war-time ID issued to Paul Blobel by the "Volkswohlfahrt", Nazi Germany's welfare organization.jpg by The government of the Greater German Realm., Public domain
+- SB I-275; Travel Time to Downtown Tampa.jpg by DanTD, CC0
+- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-10-09.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-08-14.jpg by Berthold Werner, CC BY-SA 4.0
+- Stainless steel Cybertruck car at Stockholm, Sweden 2024.jpg by Editorq35, CC0
+- Pitches Store 664.JPG by Schwede66, CC BY-SA 4.0
+- Floating Pitch, Frankfurt am Main (1X7A5564).jpg by Matti Blume, CC BY-SA 4.0
+- Five-a-side pitch at Plantation Park Football Ground - geograph.org.uk - 5832811.jpg by Geographer, CC BY-SA 2.0
+- 2023-08-30 - Fujinon GF 120mm F4 LM OIS WR Macro Lens - DSG6179 - (HiRes focus stack).jpg by Franz van Duns, CC BY-SA 4.0
+- NASA's Webb Telescope Wrapped in a Mobile Clean Room - 46648870635.jpg by Chris Gunn, CC BY 2.0
+- NASA's Webb Telescope Wrapped in a Mobile Clean Room - 45483120115.jpg by Chris Gunn, CC BY 2.0
+- Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg by Pieter Brueghel the Elder, Public domain
+- Chile-03903 - Keeping the Peace.... (49039378872).jpg by Dennis G. Jarvis, CC BY-SA 2.0
+- Keeping watch- Wildlife biologist surveys Peterson AFB for animals (4665021).jpg by U.S. Air Force photo by  Audrey Jensen, Public domain
+- Dent de Vaulion - 360 degree panorama.jpg by Alexandre Duret-Lutz from Paris, France, CC BY-SA 2.0
+- DentMN-mainstreetbusinesses.jpg by Skvader, CC BY-SA 4.0
+- Dent County Missouri Courthouse-20150101-083-pano.jpg by Kbh3rd, CC BY 4.0
+- Marantz SD-60 power supply board 03.jpg by Retired electrician, CC0
+- Marantz SD-60 power supply board 02.jpg by Retired electrician, CC0
+- 2008-08-30 Battersea Power Station 60.jpg by Sarah G..., CC BY 2.0
+- CEP arithmetic part close up.jpg by Daniele Napolitano, CC BY-SA 2.0
+- Marchant F80.jpg by Mister rf, CC BY-SA 4.0
+- APF MARK 60.jpg by Mister rf, CC BY-SA 4.0
+- Figure 4 Federal Vehicle Size and Weight Standards (16784873385).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Weight and Size doesn't matter for Sherpa People near Dingboche.jpg by Goutam1962, CC BY-SA 4.0
+- Battery Park City New York January 2018 002.jpg by King of Hearts, CC BY-SA 4.0
+- Lithium-Ionen-Accumulator.jpg by Claus Ableiter, CC BY-SA 4.0
+- 18650 and 21700 lithium ion battery cell.jpg by Sevenethics, CC0
+- Range anxiety (29305637467).jpg by Robert Couse-Baker from Sacramento, California, CC BY 2.0
+- Learjet of GFD in flight to Todendorf range, 1996.jpg by Maverikkk, CC0
+- At home on the range- SC Army National Guard Troops blast targets with TOW missiles (Image 8 of 11) (8267618148).jpg by DVIDSHUB, CC BY 2.0
+- Palazzo Sales in Erice.jpg by Kned Wiki, CC0
+- Cosplay sales corner in Akihabara (December 2025)1000002125.jpg by Bject, CC BY 4.0
+- Christchurch Botanic Garden plant sales May 2025.jpg by Heidi Meudt, CC BY 4.0
+- Slow trend.jpg by Yellow-Red7, CC BY-SA 4.0
+- Upper Terraces of Mammoth Hot Springs.jpg by Brocken Inaglory, CC BY-SA 3.0
+- Dead trees at Mammoth Hot Springs.jpg by Brocken Inaglory, CC BY-SA 3.0
+- Dario Franchitti - Winner 2009 Honda Indy Toronto.jpg by TorontoGuy79, CC BY-SA 4.0
+- Toronto Indy Start Finish Line and Turn 1 at Princes Gates.jpg by TorontoGuy79, CC BY-SA 4.0
+- 2018 Honda Indy Toronto at Exhibition Place.jpg by TorontoGuy79, CC BY-SA 4.0
+- Enemy Activities - Officials - Count Franz von Paper, the military attache of the Imperial German Embassy at Washington, D.C., whose recall for pernicious activity has been demanded by Secretary of State Lansing,(...) - NARA - 31479998.jpg by Unknown authorUnknown author or not provided, Public domain
+- Wolf Pack dominates second day of exercise BEVSENT 26-2 (9520827).jpg by U.S. Air Force photo by Senior Airman Tabatha Chapman, Public domain
+- An apache's song... (36141172270).jpg by lensnmatter, CC0
+- Pictorial Representation of the Illustrious City of Venice Dedicated to the Reign of the Most Serene Dominion of Venice.jpg by Ughi, Lodovico, Public domain
+- Joustra-Toyota-Land-Cruiser-J40-Radio-Control.jpg by Rundvald, CC BY-SA 4.0
+- Light Shed (29310216676).jpg by Kristina D.C. Hoeppner from Wellington, New Zealand, CC BY-SA 2.0
+- My opinions and Betsy Bobbet's. Designed as a beacon light, to guide women to life, liberty and the pursuit of happiness, but which may be read by members of the sterner sect, without injury to (14798617973).jpg by Internet Archive Book Images, Public domain
+- Hong Kong Design Institute 200806.jpg by Baycrest, CC BY-SA 2.5
+- Hong Kong Design Institute 200905.jpg by Baycrest, CC BY-SA 2.5
+- Bruno Wang.jpg by PankajTh, CC0
+- Henry Curzon Allport - c9944d98ba.jpg by Henry Curzon Allport, Public domain
+- 2022 - Centre Stage BE6 3167 (52473529337).jpg by Web Summit, CC BY 2.0
+- Leib-Company-Thalkirchen.jpg by VonLangsdorff, CC BY-SA 4.0
+- Anex company.jpg by Anex brand, Public domain
+- 2024 Przedsiębiorstwo Doral w Kłodzku (3).jpg by Jacek Halicki, CC BY-SA 4.0
+- A DeLorean in the middle of Belfast today (22161633235).jpg by Conall from Downpatrick, Northern Ireland, CC BY 2.0
+- De Lorean DMC12 - Flickr - foshie (2).jpg by foshie from Watford, UK, CC BY 2.0
+- Happy Back to the Future Day (21715878604).jpg by NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain
+- Happy Back to the Future Day (22151795839).jpg by NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain
+- Happy Back to the Future Day (22312601736).jpg by NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain
+- Happy Back to the Future Day (22150617080).jpg by NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain
+- The Solemn Mock Procession of the Pope (1829).jpg by Francis Barlow, Public domain
+- The Posts (BM 1868,0808.4206).jpg by Print made by: John Jones
+
+After: Jefferyes Hamett O'Neale (in part)
+Published by: John Williams, Public domain
+- Rob-Thief; or the Pilferers in Masquerade (BM 1855,0609.1960).jpg by unknown, Public domain
+- Driving school boat on the Danube.jpg by High Contrast, CC BY 3.0 de
+- 2015 Road works and a tram driving over the bridge Hortusbrug in Amsterdam city - free download photo by Fons Heijnsbroek.jpg by Fons Heijnsbroek, CC0
+- MVG B Führerstand.JPG by High Contrast, CC BY 3.0 de
+- Oberheim TVS Pro Special Edition.jpg by Alison Cassidy, CC BY-SA 4.0
+- Oberheim TVS Pro Special Edition back panel.jpg by Alison Cassidy, CC BY-SA 4.0
+- LAMBORGHINI AVENTADOR LP700-4 PIRELLI EDITION at GIMS 2015,Geneva, Switzerland 03.jpg by Ank Kumar, CC BY-SA 4.0
+- SFMM- Full Throttle 4.JPG by METRO96, CC BY-SA 3.0
+- SFMM- Full Throttle 1.JPG by METRO96, CC BY-SA 3.0
+- SFMM- Full Throttle 2.JPG by METRO96, CC BY-SA 3.0
+- Relay Computer 2 (RC-2, 2007) by Jon Stanley - top view.jpg by Jeff Keyzer from Austin, TX, USA, CC BY-SA 2.0
+- SFMM- Full Throttle 3.JPG by METRO96, CC BY-SA 3.0
+- Full Throttle 2022 1.jpg by Jeremy Thompson, CC BY 2.0
+- Car2Go Charging Station Stuttgart 2013 01.jpg by Julian Herzog (Website), CC BY 4.0
+- Charging station Smålandsstenar.jpg by Modular science, CC BY-SA 4.0
+- Aire de Saverne Eckartswiller, station de recharge électrique.jpg by Cayambe, CC BY-SA 4.0
+- This celestial image reveals Comet C-2025 R3 (PANSTARRS) and its faint vertical tail (iss074e0480485).jpg by NASA Johnson Space Center, Public domain
+- Eurasian blackbird.jpg by Murugavel.T, CC BY-SA 4.0
+- Vernal Hanging Parrot (Loriculus vernalis).jpg by Murugavel.T, CC BY-SA 4.0
+- Crowd watches a horse race (12519683534).jpg by simpleinsomnia, CC BY 2.0
+- Woods Hole spritsail boat race circa 1900.jpg by Boatbuilder55, CC BY-SA 4.0
+- The European Race Heat IIId Anno Dom MDCCXXXIX (BM 1868,0808.3616).jpg by Print made by: Charles Mosley
+
+After: Gravelot, Public domain
+- Shabunda water supply, Sud Kivu PHOTO DU JOUR DU JEUDI 31 MARS 2022.jpg by MONUSCO Photos, CC BY-SA 2.0
+- Celebrating the opening of a water supply project in Isabel Province (12783790423).jpg by Edward Suinao/DFAT, CC BY 2.0
+- Solomon Water volunteer and his counterpart Josh Torenn use the AusAID funded PH tester at the Kongulai water source. (10721858923).jpg by Department of Foreign Affairs and Trade, CC BY 2.0
+- Qom city Photos, Iran country Wallpaper, Shia Muslim religion, Mostafa Meraji- Urban landscapes - City Design 14.jpg by Mostafameraji, CC BY-SA 3.0
+- Münster, Hiltrup, ehemalige Bahngleise -- 2020 -- 9690.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Münster, Hiltrup, ehemalige Bahngleise -- 2020 -- 9692.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Afterlife , by Dionisis Christofilogiannis.jpg by Dio2nd, CC BY-SA 4.0
+- 20201021 Second Life Ottmar Hörl.jpg by Flocci Nivis, CC BY 4.0
+- Second Life Landscape 16.jpg by Slick, CC0
+- Ocean course scorecard 2020.jpg by N75746, CC BY-SA 4.0
+- Avinor receives the Balanced Scorecard Hall of Fame™.jpg by Davidpmcmillan, CC BY-SA 4.0
+- Philippine Navy receives the Balanced Scorecard Hall of Fame™.jpg by Davidpmcmillan, CC BY-SA 4.0
+- Dülmen, Viktorkirmes auf dem Overbergplatz -- 2014 -- 3738 (2).jpg by Dietmar Rabich, CC BY-SA 4.0
+- Kavant Fair 07.jpg by Snehrashmi, CC BY-SA 4.0
+- Dülmen, Münsterstraße, Viktorkirmes, Riesenrad -- 2023 -- 9053 (kreativ).jpg by Dietmar Rabich, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, Tesla Cybertruck: https://en.wikipedia.org/wiki/Tesla_Cybertruck
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- Yahoo Autos (Business Insider), Forget rust spots: handprints are the bigger headache for Tesla Cybertruck drivers, 10 Mar 2024: https://autos.yahoo.com/forget-rust-spots-mdash-handprints-103702512.html
+- InsideEVs (Iulian Dnistran), Tesla wanted $3,000 to fix a dented Cybertruck. The owner fixed it for $25, 21 Dec 2024: https://insideevs.com/news/744851/tesla-cybertruck-diy-dent-removal-video/
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/
