@@ -1,0 +1,6 @@
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- Auto123, Porsche releases 918 Spyder details (March 2012): https://www.auto123.com/en/news/porsche-releases-918-spyder-details/11807
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most

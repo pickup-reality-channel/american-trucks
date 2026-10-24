@@ -1,0 +1,292 @@
+{
+ "id": "video137",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Secrets Hidden Inside the Porsche 918 Spyder",
+ "scenes": [
+  {
+   "text": "The Porsche nine eighteen Spyder hides two secrets that you cannot see from the outside, and one you can. The exhaust pipes come out of the top of the car, above the engine, and Porsche says no other production vehicle does that. The rear wheels steer. And a button on the steering wheel called Hot Lap spends the battery's last reserves for a few fast laps. These are the facts, with every figure sourced.",
+   "query": "Porsche 918 Spyder",
+   "caption": "2 SECRETS HIDDEN INSIDE THE PORSCHE 918 SPYDER",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We use Porsche's own twenty thirteen press release as published by 911uk, a March twenty twelve report from Auto one two three, and Wikipedia, Car and Driver's figures as quoted there, evo, and the duPont Registry. Where Porsche's own figures changed over time, we show how. Where sources disagree, we show both. And all arithmetic is ours, and labelled.",
+   "query": "Porsche 918 Spyder research",
+   "caption": "SOURCES: PORSCHE PRESS RELEASE (COMPANY SOURCE) \u00b7 AUTO123 \u00b7 WIKIPEDIA \u00b7 EVO \u00b7 DUPONT REGISTRY \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Secret one. Porsche's press release says the exhaust has what it calls top pipes, ending in the upper rear body just above the engine. The release says this layout reduces back pressure and keeps the engine bay cooler, which helps the battery. And Porsche states that no other production vehicle uses this solution. That is Porsche's claim, not an independent finding, but it is a striking one.",
+   "query": "Porsche 918 top pipes",
+   "caption": "'TOP PIPES' ABOVE THE ENGINE: LESS BACK PRESSURE, COOLER ENGINE BAY, HELPS THE BATTERY \u00b7 'NO OTHER PRODUCTION VEHICLE USES THIS SOLUTION' (PORSCHE \u2014 COMPANY CLAIM)",
+   "cuts": 5,
+   "chapter": "Secret one: the pipes on top"
+  },
+  {
+   "text": "The March twenty twelve report from Auto one two three describes the same feature as an upward-venting top pipes system. So it was in the car from the early stages, and not a late styling choice. The reason the exhaust matters is the battery. A lithium-ion pack works best in a narrow temperature window, and Porsche says optimum performance is at twenty to forty degrees Celsius.",
+   "query": "Porsche 918 battery temperature",
+   "caption": "TOP-PIPES EXHAUST SHOWN IN MARCH 2012 (AUTO123) \u00b7 BATTERY OPTIMUM 20\u201340 \u00b0C (PORSCHE PRESS RELEASE)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, a twenty-degree window is a narrow one for a car that can make eight hundred eighty-seven metric horsepower in the engine bay of a mid-engined coup\u00e9. The press release says the battery is liquid-cooled and has three hundred twelve cells and about seven kilowatt-hours of energy. Moving the exhaust to the top frees the engine bay from some of the heat, and that is the stated reason.",
+   "query": "Porsche 918 battery",
+   "caption": "312 CELLS \u00b7 ~7 KWH \u00b7 LIQUID-COOLED \u00b7 887 PS SYSTEM OUTPUT (PORSCHE; WIKIPEDIA) \u00b7 20\u201340 \u00b0C = A 20-DEGREE WINDOW (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The engine behind the pipes has a pedigree. Porsche's release says the four point six litre V8 is derived from the RS Spyder race car's power unit, makes six hundred eight horsepower, and can run to nine thousand one hundred fifty rpm. It adds that the output of about one hundred thirty-two horsepower per litre is the highest of any naturally aspirated Porsche engine, against the Carrera GT's one hundred six.",
+   "query": "Porsche 918 V8",
+   "caption": "4.6 L V8 FROM THE RS SPYDER RACE CAR \u00b7 608 HP \u00b7 UP TO 9,150 RPM \u00b7 ~132 HP/L vs CARRERA GT 106 HP/L (PORSCHE)",
+   "cuts": 3
+  },
+  {
+   "text": "Check that arithmetic. Six hundred eight horsepower divided by four point five nine three litres is about one hundred thirty-two, so Porsche's per-litre number is right. By our arithmetic, that is twenty-four percent better than the Carrera GT's one hundred six. Wikipedia lists the same engine's peak power at eighty-seven hundred rpm, which is below the nine thousand one hundred fifty maximum engine speed Porsche quotes, so the two numbers describe different things.",
+   "query": "Porsche 918 engine output",
+   "caption": "608 \u00f7 4.593 L \u2248 132 HP/L \u00b7 +24.5% vs CARRERA GT'S 106 \u00b7 PEAK POWER AT 8,700 RPM (WIKIPEDIA) vs MAX 9,150 RPM (PORSCHE) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "More engine details from the release. Dry-sump lubrication and carbon fibre parts, including the oil tank, air filter box and air induction, save weight. Titanium connecting rods are used. The seven-speed PDK gearbox is rotated one hundred eighty degrees to lower the centre of gravity. So the pipes are only one of several unusual choices in the engine bay, and each is described by Porsche as a weight or heat decision.",
+   "query": "Porsche 918 engine details",
+   "caption": "DRY SUMP \u00b7 CARBON OIL TANK, AIR BOX, INDUCTION \u00b7 TITANIUM CONNECTING RODS \u00b7 PDK ROTATED 180\u00b0 TO LOWER THE CENTRE OF GRAVITY (PORSCHE)",
+   "cuts": 3
+  },
+  {
+   "text": "Secret two is at the other end. Porsche's release says each rear wheel steers up to three degrees in either direction. At low speeds the rear wheels turn opposite the fronts, which tightens the turning circle. At higher speeds they turn in the same direction as the fronts, which improves stability during quick lane changes. By our arithmetic, three degrees is a small angle, but at the rear axle it changes how the car turns.",
+   "query": "Porsche 918 rear steering",
+   "caption": "REAR WHEELS STEER UP TO 3\u00b0 EACH WAY \u00b7 OPPOSITE AT LOW SPEED, SAME DIRECTION AT HIGH SPEED (PORSCHE)",
+   "cuts": 3,
+   "chapter": "Secret two: the wheels that steer"
+  },
+  {
+   "text": "The Auto one two three report from March twenty twelve calls it adaptive real-axle steering, which looks like a typo for rear-axle. We mention the typo because it shows how early the feature was announced. The sources do not give the speed at which the rear wheels change from opposite to same direction. So we can describe the principle, but not the threshold.",
+   "query": "Porsche 918 steering threshold",
+   "caption": "SPEED AT WHICH REAR STEER SWITCHES DIRECTION: NOT STATED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The car is also adaptive in its air. Porsche Active Aerodynamics has three modes, from maximum efficiency to maximum downforce. In Race mode, Porsche says, the rear wing sits at a steep angle, the spoiler extends, and underfloor flaps open to create ground effect at the front axle. In the efficient modes, the air inlets under the headlights close after pull-away, and reopen at about one hundred thirty kilometres per hour or when cooling demand rises.",
+   "query": "Porsche 918 active aerodynamics",
+   "caption": "PAA: 3 MODES \u00b7 RACE: STEEP WING, EXTENDED SPOILER, UNDERFLOOR FLAPS \u00b7 HEADLIGHT AIR INLETS CLOSE AFTER PULL-AWAY, REOPEN AT ~130 KM/H (PORSCHE)",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a conversion. One hundred thirty kilometres per hour is about eighty-one miles per hour, by our arithmetic. So below highway speed, the inlets are closed in the efficient modes, and above it they open. The car adapts its shape to the speed and the mode, which makes it a moving aerodynamic device and not a fixed shape.",
+   "query": "Porsche 918 air inlets",
+   "caption": "130 KM/H \u2248 80.8 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the button. Porsche's release says there are five drive modes selected by a map switch on the steering wheel. E-Power is the default when the battery is sufficiently charged, with the combustion engine running only when needed. Hybrid focuses on efficiency. Sport Hybrid keeps the engine running as the main source, with electric boost. Race Hybrid uses the engine for high loads and charges the battery. And Hot Lap is a button inside Race Hybrid.",
+   "query": "Porsche 918 drive modes",
+   "caption": "E-POWER \u00b7 HYBRID \u00b7 SPORT HYBRID \u00b7 RACE HYBRID \u00b7 HOT LAP (BUTTON WITHIN RACE HYBRID) (PORSCHE)",
+   "cuts": 3
+  },
+  {
+   "text": "Hot Lap, Porsche says, pushes the battery to its maximum power output for a few fast laps and uses all available battery energy. That is the sentence. By our arithmetic, with a seven kilowatt-hour battery, there is not much energy to spend: a car using two hundred ten kilowatts of electric power would drain seven kilowatt-hours in about two minutes.",
+   "query": "Porsche 918 Hot Lap",
+   "caption": "HOT LAP = MAX BATTERY OUTPUT, USES ALL AVAILABLE BATTERY ENERGY (PORSCHE) \u00b7 7 KWH \u00f7 210 KW \u2248 2.0 MINUTES (OUR ARITHMETIC; NOT A PORSCHE FIGURE)",
+   "cuts": 3
+  },
+  {
+   "text": "We should be clear about that sum. It assumes the full two hundred ten kilowatts from both electric motors, one hundred fifteen at the rear and ninety-five at the front, as Wikipedia lists, and that all of the battery's seven kilowatt-hours is usable. Neither assumption is in our sources. It is only a sense of scale: the Hot Lap button is a few minutes of help, not a long one.",
+   "query": "Porsche 918 Hot Lap maths",
+   "caption": "115 kW + 95 kW = 210 kW (WIKIPEDIA) \u00b7 FULL-POWER USE AND USABLE CAPACITY ARE OUR ASSUMPTIONS, NOT SOURCED",
+   "cuts": 3
+  },
+  {
+   "text": "Porsche's figures for the nine eighteen changed during development, and the sources let us follow them. In March twenty twelve, Auto one two three reports Porsche saying more than seven hundred seventy horsepower. By the twenty thirteen press release it was over eight hundred eighty. And Wikipedia lists the production system output at eight hundred eighty-seven metric horsepower, or eight hundred seventy-five horsepower.",
+   "query": "Porsche 918 power figures",
+   "caption": "MARCH 2012: 'MORE THAN 770 HP' (AUTO123) \u2192 2013: 'OVER 880 HP' (PORSCHE) \u2192 PRODUCTION 887 PS / 875 HP (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "How the numbers moved"
+  },
+  {
+   "text": "By our arithmetic, the production figure is about fourteen percent more than the first announcement. The March twenty twelve article also lists a five hundred seventy horsepower V8, which does not obviously add up to seven hundred seventy with two electric motors, and the article itself seems inconsistent. The production V8 is rated at six hundred eight. So the engine grew by thirty-eight horsepower between the early report and the final car.",
+   "query": "Porsche 918 figure growth",
+   "caption": "875 vs 770 HP = +13.6% \u00b7 V8 570 \u2192 608 HP = +38 HP (OUR ARITHMETIC FROM AUTO123, WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The lap time moved even more. The March twenty twelve report says Porsche expected a Nordschleife lap of seven twenty-two, against seven thirty-two for the Carrera GT. The twenty thirteen release says a lap of seven fourteen was set in September twenty twelve during prototype testing, about twenty seconds quicker than the Carrera GT. And Wikipedia says a production car with the Weissach Package ran six fifty-seven in September twenty thirteen.",
+   "query": "Porsche 918 N\u00fcrburgring progress",
+   "caption": "MARCH 2012 TARGET 7:22 \u2192 SEPT 2012 PROTOTYPE 7:14 \u2192 SEPT 2013 PRODUCTION (WEISSACH) 6:57 (AUTO123, PORSCHE, WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, six fifty-seven is twenty-five seconds quicker than the first target of seven twenty-two, and seventeen seconds quicker than the prototype. Wikipedia describes it as the first street-legal production car to break seven minutes. We note that the Mustang GTD's N\u00fcrburgring record, in the series, used the same threshold as its target, and that the nine eighteen got there eleven years earlier.",
+   "query": "Porsche 918 N\u00fcrburgring maths",
+   "caption": "7:22 \u2212 6:57 = 25 s \u00b7 7:14 \u2212 6:57 = 17 s \u00b7 'FIRST STREET-LEGAL PRODUCTION CAR UNDER 7 MINUTES' (WIKIPEDIA) \u00b7 GTD'S LAP: AUG 2024 (OUR ARITHMETIC: ~11 YEARS LATER)",
+   "cuts": 3
+  },
+  {
+   "text": "Electric range also shifted. The March twenty twelve report says twenty-five kilometres. Porsche's twenty thirteen release says over thirty kilometres in ideal conditions. Wikipedia lists the EPA all-electric range as nineteen kilometres, twelve miles. By our arithmetic, the EPA figure is about thirty-seven percent lower than Porsche's thirty-kilometre claim. The difference between a manufacturer's ideal conditions and a regulator's test is large.",
+   "query": "Porsche 918 electric range",
+   "caption": "25 KM (2012 REPORT) \u2192 >30 KM (PORSCHE, IDEAL CONDITIONS) vs 19 KM / 12 MI (EPA, WIKIPEDIA) \u2192 19 \u00f7 30 = 63%, I.E. \u221237% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Porsche's electric-only performance claims are modest. The release says that in E-Power mode, zero to one hundred takes under seven seconds, with a top speed of one hundred fifty kilometres per hour. By our arithmetic, that is ninety-three miles per hour. And the charging figures: about four hours from a ten-amp 230-volt socket, about two hours with the Charging Dock, and twenty-five minutes with the optional DC Speed Charging Station.",
+   "query": "Porsche 918 electric performance and charging",
+   "caption": "E-POWER: 0\u2013100 KM/H UNDER 7 s, TOP SPEED 150 KM/H (\u2248 93 MPH) \u00b7 CHARGING ~4 H (10 A, 230 V) \u00b7 ~2 H (DOCK) \u00b7 25 MIN (DC) (PORSCHE; OUR CONVERSION)",
+   "cuts": 3
+  },
+  {
+   "text": "Weight. Wikipedia lists the nine eighteen's curb weight as sixteen hundred thirty-four to seventeen hundred twenty kilograms. Porsche's release says about sixteen hundred forty in the Weissach package, with the package reducing gross weight by about thirty-five kilograms. The duPont Registry says the Weissach package reduced weight by ninety pounds. By our arithmetic, thirty-five kilograms is seventy-seven pounds, so the sources differ by thirteen.",
+   "query": "Porsche 918 weight and Weissach package",
+   "caption": "CURB 1,634\u20131,720 KG (WIKIPEDIA) \u00b7 ~1,640 KG WITH WEISSACH, \u221235 KG (PORSCHE) vs \u221290 LB (DUPONT REGISTRY) \u00b7 35 KG \u2248 77 LB \u2192 13 LB APART (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Weight, speed and the Weissach package"
+  },
+  {
+   "text": "The Weissach package was a factory option. Wikipedia says it cost eighty-four thousand dollars in the United States and added magnesium wheels, an extended rear diffuser, Alcantara interior parts and carbon fibre trim. The duPont Registry also puts the factory premium at eighty-four thousand. By our arithmetic, that is ten percent of the nine eighteen's starting price of eight hundred forty-five thousand dollars.",
+   "query": "Porsche 918 Weissach package",
+   "caption": "WEISSACH PACKAGE $84,000: MAGNESIUM WHEELS, EXTENDED DIFFUSER, ALCANTARA, CARBON TRIM (WIKIPEDIA, DUPONT) \u00b7 $84,000 \u00f7 $845,000 = 9.9% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration. Wikipedia says Porsche's official zero to sixty is two point six seconds, while Car and Driver measured two point two and Motor Trend two point four. Top speed: Porsche lists three hundred forty-five kilometres per hour, two hundred fourteen miles per hour, and an independent test reached three hundred fifty-two, two hundred eighteen point seven. So the car beat its own official figures in independent testing.",
+   "query": "Porsche 918 performance",
+   "caption": "0\u201360: PORSCHE 2.6 s \u00b7 CAR AND DRIVER 2.2 s \u00b7 MOTOR TREND 2.4 s \u00b7 TOP SPEED: 345 KM/H (214 MPH) OFFICIAL vs 352 KM/H (218.7 MPH) INDEPENDENT (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, Car and Driver's two point two is fifteen percent quicker than Porsche's official two point six, and the independent top speed is seven kilometres per hour, two percent, above Porsche's. Manufacturers often publish conservative numbers, but our sources do not say why Porsche did here. What they do show is a car that underpromised on straight-line numbers while the lap time claim was kept.",
+   "query": "Porsche 918 official vs measured",
+   "caption": "2.2 vs 2.6 s = \u221215.4% \u00b7 352 vs 345 KM/H = +2.0% (OUR ARITHMETIC) \u00b7 REASON FOR CONSERVATIVE FIGURES: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel and emissions. Wikipedia lists carbon dioxide at seventy-nine grams per kilometre and fuel use of three litres per hundred kilometres under the European NEDC test. The EPA rated gasoline-only combined economy at twenty-two miles per gallon and all-electric consumption at fifty kilowatt-hours per hundred miles. By our arithmetic, the NEDC figure converts to about seventy-eight miles per gallon, which is far from the EPA's twenty-two, because the tests differ.",
+   "query": "Porsche 918 fuel economy",
+   "caption": "NEDC: 79 G/KM CO\u2082, 3 L/100 KM (\u2248 78 MPG) \u00b7 EPA GAS-ONLY COMBINED 22 MPG \u00b7 ELECTRIC 50 KWH/100 MI (WIKIPEDIA; OUR CONVERSION)",
+   "cuts": 3
+  },
+  {
+   "text": "The nine eighteen was the successor to the Carrera GT, Porsche said in March twenty twelve. Auto one two three quotes Porsche's comparisons: zero to one hundred in under three seconds against three point nine for the Carrera GT, and a Nordschleife lap, then forecast at seven twenty-two, against seven thirty-two. By our arithmetic, the nine eighteen's acceleration claim was at least twenty-three percent quicker than its predecessor's.",
+   "query": "Porsche Carrera GT successor",
+   "caption": "'LEGITIMATE SUCCESSOR TO THE CARRERA GT' \u00b7 0\u2013100 UNDER 3 s vs 3.9 s (\u2265 23% QUICKER) \u00b7 LAP FORECAST 7:22 vs 7:32 (AUTO123, MARCH 2012; OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "More numbers worth knowing"
+  },
+  {
+   "text": "The electric motors. Wikipedia lists a one hundred fifteen kilowatt rear motor and a ninety-five kilowatt front motor, adding two hundred ten kilowatts, or two hundred eighty-six metric horsepower, in total. The V8 is four hundred forty-seven kilowatts. By our arithmetic, the two add up to six hundred fifty-seven kilowatts, five more than the listed system output of six hundred fifty-two, because the engine and the motors do not peak together.",
+   "query": "Porsche 918 power sum",
+   "caption": "V8 447 KW + MOTORS 210 KW = 657 KW vs SYSTEM 652 KW \u2192 PEAKS DON'T COINCIDE (\u22125 KW, \u22120.8%) (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Torque. Wikipedia lists the V8 at five hundred forty newton-metres and the system at twelve hundred eighty. By our arithmetic, the combined torque is two point three seven times the engine's alone. The electric motors, which deliver their torque from standstill, make up the difference, and that is part of why a car with a fairly ordinary V8 torque figure accelerates so fast.",
+   "query": "Porsche 918 torque",
+   "caption": "V8 540 N\u00b7M \u00b7 SYSTEM 1,280 N\u00b7M \u2192 2.37\u00d7 THE ENGINE ALONE (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Balance. Porsche's release says the axle load split is fifty-seven percent rear and forty-three percent front, with the centre of gravity at about wheel hub height. By our arithmetic, at about sixteen hundred forty kilograms, that is roughly nine hundred thirty-five kilograms on the rear axle and seven hundred five on the front. The release does not say how the split changes with the battery's charge.",
+   "query": "Porsche 918 weight distribution",
+   "caption": "57% REAR / 43% FRONT \u00b7 CG AT ~WHEEL-HUB HEIGHT (PORSCHE) \u00b7 1,640 KG \u2192 ~935 KG REAR / ~705 KG FRONT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Evo's Harry Metcalfe names the nine eighteen, the McLaren P1 and the Ferrari LaFerrari the first plug-in hybrid supercars, known as the Holy Trinity. He calls the Porsche the cleverest and technically the most impressive. He says the three arrived in late twenty thirteen, within months of each other, and that they were fantastic machines to drive despite their complexity.",
+   "query": "Holy Trinity",
+   "caption": "METCALFE (EVO): 'PLUG-IN HYBRID SUPERCARS DIDN'T EXIST BEFORE' \u00b7 918 'THE CLEVEREST AND TECHNICALLY THE MOST IMPRESSIVE' \u00b7 ALL THREE LATE 2013",
+   "cuts": 3
+  },
+  {
+   "text": "A word on reliability. Wikipedia says the nine eighteen has been the subject of half a dozen different recalls, including issues with control arms and seat belts. It gives no count of affected cars. Porsche's release also gives a seven-year global warranty for the traction battery. By our arithmetic, a car delivered in twenty fifteen would have passed that seven-year mark in twenty twenty-two.",
+   "query": "Porsche 918 recalls and warranty",
+   "caption": "~6 RECALLS INCL. CONTROL ARMS, SEAT BELTS (WIKIPEDIA) \u00b7 7-YEAR BATTERY WARRANTY (PORSCHE) \u00b7 2015 + 7 = 2022 (OUR ARITHMETIC; START DATE ASSUMED)",
+   "cuts": 3
+  },
+  {
+   "text": "What that means for an owner today is not in our sources. We do not know the battery's replacement cost, its real-world degradation, or whether Porsche extended the warranty. We note only that the seven-year clock for early cars has run out, and that the LaFerrari we cover next had a new high-voltage battery fitted, with a recent invoice above two hundred thousand euros, according to Motorious.",
+   "query": "Hybrid battery cost question",
+   "caption": "918 BATTERY REPLACEMENT COST / DEGRADATION: NOT IN OUR SOURCES \u00b7 LAFERRARI NEW HV BATTERY + SERVICE: INVOICE >\u20ac200,000 (MOTORIOUS)",
+   "cuts": 3
+  },
+  {
+   "text": "Where they were driven. The duPont Registry says two hundred ninety-four of the nine hundred eighteen cars were delivered in the United States. By our arithmetic, the other six hundred twenty-four, sixty-eight percent, went elsewhere. Wikipedia gives three prices: about seven hundred eighty-one thousand euros in Europe, eight hundred forty-five thousand dollars in the United States, and seven hundred eleven thousand pounds in Britain.",
+   "query": "Porsche 918 markets",
+   "caption": "294 US \u00b7 624 REST OF WORLD (68%) \u00b7 PRICES \u2248 \u20ac781,000 / $845,000 / \u00a3711,000 (DUPONT REGISTRY, WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Start to finish. Wikipedia says the nine eighteen was first shown as a concept at the eightieth Geneva Motor Show in March twenty ten, and the supervisory board approved series development on the twenty-eighth of July that year. By our arithmetic, production began three years and six months after the concept. The car sold out in December twenty fourteen, fifteen months into a production run that lasted twenty-one.",
+   "query": "Porsche 918 timeline",
+   "caption": "CONCEPT MARCH 2010 \u2192 PRODUCTION SEPT 2013 \u2248 3.5 YEARS \u00b7 SOLD OUT DEC 2014 = 15 MONTHS INTO A 21-MONTH RUN (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Put the price in context, using the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, the nine eighteen's starting price of eight hundred forty-five thousand dollars is ten point one years of median household income, and with the eighty-four thousand dollar Weissach package, nine hundred twenty-nine thousand, it is eleven point one years.",
+   "query": "Porsche 918 price vs income",
+   "caption": "$845,000 \u2248 10.1 YEARS \u00b7 $929,000 (WITH WEISSACH) \u2248 11.1 YEARS OF MEDIAN HOUSEHOLD INCOME ($83,730) (CENSUS; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare its N\u00fcrburgring lap with the Mustang GTD's, which we cover elsewhere in this series. Wikipedia gives the nine eighteen with the Weissach package at six fifty-seven, with no hundredths, in September twenty thirteen, and the GTD's first lap at six fifty-seven point six eight five in August twenty twenty-four. By our arithmetic, the GTD was within seven tenths of a second, if the nine eighteen's time was exactly six fifty-seven.",
+   "query": "Porsche 918 vs Mustang GTD lap",
+   "caption": "918 WEISSACH 6:57 (SEPT 2013, NO HUNDREDTHS) vs MUSTANG GTD 6:57.685 (AUG 2024) \u2192 \u2264 0.685 s APART IF THE 918 WAS EXACTLY 6:57.00 (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the nine eighteen's value growth, by our arithmetic. From eight hundred forty-five thousand new to the two point nine six million standard car sold in June twenty twenty-six is three point five times, about twelve percent a year over eleven years. The duPont Registry says its index grew ten percent a year for the standard variant since June twenty fifteen. The two figures are close but not identical, because one is a single sale and the other an index.",
+   "query": "Porsche 918 value growth",
+   "caption": "$845,000 \u2192 $2.96M = 3.50\u00d7 \u2248 12.1%/YEAR OVER 11 YEARS (OUR ARITHMETIC) \u00b7 duPONT REGISTRY INDEX: ~10%/YEAR (STANDARD) \u2014 SINGLE SALE vs INDEX",
+   "cuts": 3
+  },
+  {
+   "text": "For the Weissach, the gap is wider. From nine hundred twenty-nine thousand with the package to the four point six eight million dollar Riviera Blue sale is five point oh four times, about sixteen percent a year over nearly eleven years, by our arithmetic. The duPont Registry says six percent a year for the Weissach variant. The sale was a paint-to-sample car with low mileage, so it is not a typical Weissach.",
+   "query": "Porsche 918 Weissach value growth",
+   "caption": "$929,000 \u2192 $4.68M = 5.04\u00d7 \u2248 16%/YEAR (OUR ARITHMETIC) \u00b7 duPONT INDEX ~6%/YEAR (WEISSACH) \u00b7 PAINT-TO-SAMPLE, LOW MILEAGE \u2192 NOT TYPICAL",
+   "cuts": 3
+  },
+  {
+   "text": "Production. Wikipedia says the supervisory board approved series development on the twenty-eighth of July, twenty ten, production began on the eighteenth of September, twenty thirteen, ran until June twenty fifteen, and the car sold out in December twenty fourteen. The duPont Registry says nine hundred eighteen cars were built, with two hundred ninety-four delivered in the United States, about thirty-two percent.",
+   "query": "Porsche 918 production",
+   "caption": "BOARD APPROVAL JULY 28, 2010 \u00b7 PRODUCTION SEPT 18, 2013 \u2013 JUNE 2015 \u00b7 SOLD OUT DEC 2014 \u00b7 918 CARS \u00b7 294 US (\u2248 32%) (WIKIPEDIA, DUPONT REGISTRY)",
+   "cuts": 3,
+   "chapter": "Production and what it is worth"
+  },
+  {
+   "text": "By our arithmetic, that is just under three years from board approval to the start of production, and about twenty-one months of building. The car sold out about six months before production ended. And the number nine hundred eighteen is the name: the car was limited to the same number as its model. Wikipedia says the starting price was eight hundred forty-five thousand dollars in the United States.",
+   "query": "Porsche 918 timeline",
+   "caption": "JULY 2010 \u2192 SEPT 2013 \u2248 3 YEARS 2 MONTHS \u00b7 SEPT 2013 \u2192 JUNE 2015 \u2248 21 MONTHS \u00b7 SOLD OUT DEC 2014 \u2248 6 MONTHS BEFORE THE END \u00b7 $845,000 NEW (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now what it is worth. The duPont Registry reports a standard 2015 nine eighteen with four hundred twenty miles sold for two point nine six million dollars in June twenty twenty-six. A Riviera Blue Weissach with one thousand two hundred sixty-seven miles sold at Broad Arrow's Air Water Auction on the twenty-fifth of April, twenty twenty-six for four million, six hundred eighty thousand dollars, including premium.",
+   "query": "Porsche 918 values",
+   "caption": "STANDARD 2015 918 (420 MI): $2.96M, JUNE 2026 \u00b7 WEISSACH 'RIVIERA BLUE' (1,267 MI): $4,680,000 INCL. PREMIUM, APRIL 25, 2026 (DUPONT REGISTRY, BROAD ARROW)",
+   "cuts": 3
+  },
+  {
+   "text": "And the record, per the duPont Registry: six million, fifty thousand dollars at Mecum Kissimmee in January twenty twenty-six, for a one-of-one Pure Orange paint-to-sample example. By our arithmetic, that is seven point one six times the nine eighteen's new price of eight hundred forty-five thousand dollars. The standard car's median across forty-eight price points is two million, one hundred sixty-eight thousand, eight hundred thirty-six, about two and a half times the new price. These are one-way reports, with premiums included.",
+   "query": "Porsche 918 record",
+   "caption": "RECORD $6,050,000 (MECUM KISSIMMEE, JAN 2026, 1-OF-1 PURE ORANGE) = 7.16\u00d7 $845,000 NEW \u00b7 STANDARD MEDIAN $2,168,836 = 2.57\u00d7 (DUPONT REGISTRY; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What we could not find. The speed at which the rear wheels change direction. How much of the battery's seven kilowatt-hours Hot Lap can actually use. Independent confirmation that no other production vehicle has top-exit pipes. And the cost of running a nine eighteen, which we cover in a separate video. If you have a reliable source, share it in the comments.",
+   "query": "Porsche 918 Spyder",
+   "caption": "NOT IN OUR SOURCES: REAR-STEER SWITCH SPEED \u00b7 USABLE HOT LAP ENERGY \u00b7 INDEPENDENT CHECK OF 'NO OTHER PRODUCTION VEHICLE' CLAIM",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "So the two secrets stand. The exhaust exits from the top, and the rear wheels steer, and behind both is a hybrid system that Porsche kept refining. Porsche's own claims about the pipes are exactly that, claims. The lap time and the independent measurements are the part you can lean on. Which secret surprised you more? Tell us in the comments.",
+   "query": "Porsche 918 Spyder",
+   "caption": "SECRET 1: TOP PIPES \u00b7 SECRET 2: REAR-AXLE STEERING + HOT LAP \u00b7 INDEPENDENT FACTS: 6:57 LAP, 2.2 s 0\u201360, 352 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "In the other videos of this series, we compare the nine eighteen with the Ferrari LaFerrari, count what it really costs to own one, and tell the story of the hypercar holy trinity. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Porsche 918 Spyder",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
