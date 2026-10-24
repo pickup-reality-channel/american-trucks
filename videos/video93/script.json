@@ -1,0 +1,333 @@
+{
+ "id": "video93",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Dodge Viper",
+ "scenes": [
+  {
+   "text": "The Dodge Viper, one of the loudest and most brutal American sports cars ever made, started with no door handles, no airbags, no traction control and no A B S. Its V ten engine was partly cast by Lamborghini. And in the end, the car that began with no safety equipment at all was killed by a safety rule. There are two things about the Viper that you probably did not know, and both are in published sources.",
+   "query": "Dodge Viper",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE DODGE VIPER",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The first is about who really helped build that engine, and how small the team was. The second is about what the Viper did not have for twenty-one years, and the date when it finally got it. Every fact in this video comes from published sources, listed in the description. Where sources disagree, we will say so.",
+   "query": "Dodge Viper V10",
+   "caption": "THE ENGINE \u00b7 THE MISSING SAFETY KIT",
+   "cuts": 8
+  },
+  {
+   "text": "Wikipedia says the Dodge Viper was built from nineteen ninety-one to twenty seventeen, about twenty-six years. In that time, thirty-one thousand, nine hundred eighty-nine cars were made. By our own arithmetic, that is about twelve hundred thirty a year on average, which is small for a car company and enormous for a sports car with this kind of reputation.",
+   "query": "Dodge Viper",
+   "caption": "31,989 BUILT \u00b7 1991\u20132017",
+   "cuts": 5,
+   "chapter": "What the Viper was"
+  },
+  {
+   "text": "It started with a simple brief. Chrysler president Bob Lutz asked designer Tom Gale to consider a modern Cobra, Wikipedia says. A clay model followed, and a concept was shown at the nineteen eighty-nine North American International Auto Show. The public reaction was so strong that the project was approved for production.",
+   "query": "Dodge Viper concept 1989",
+   "caption": "A MODERN COBRA",
+   "cuts": 3
+  },
+  {
+   "text": "The approval was slow, though. Wikipedia says chairman Lee Iacocca delayed the seventy million dollars needed until May nineteen ninety. Production cars reached reviewers in November nineteen ninety-one, and retail shipments began in January nineteen ninety-two, as the R T ten roadster, at fifty-two thousand dollars.",
+   "query": "Dodge Viper RT/10",
+   "caption": "JANUARY 1992: THE RT/10 AT $52,000",
+   "cuts": 3
+  },
+  {
+   "text": "The numbers of the first car were big. Wikipedia lists an eight litre V ten with four hundred horsepower and four hundred sixty-five pound-feet of torque, a curb weight of one thousand four hundred ninety kilograms, zero to a hundred kilometres per hour in four point two seconds, and a quarter mile in twelve point six.",
+   "query": "Dodge Viper 1992",
+   "caption": "400 HP \u00b7 0\u2013100 IN 4.2 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "The concept itself was made by hand. Wikipedia says Metalcrafters built the show car in sheet metal, and that the project was developed by a company that had never built a car like it. Then Carroll Shelby, who made the original Cobra, drove a pre-production car as the Indianapolis five hundred pace car in nineteen ninety-one, replacing the Dodge Stealth after complaints from the United Auto Workers.",
+   "query": "Carroll Shelby",
+   "caption": "BUILT BY HAND IN SHEET METAL",
+   "cuts": 3
+  },
+  {
+   "text": "Production began at the New Mack Assembly plant, from nineteen ninety-one to nineteen ninety-five, according to Wikipedia. Then it moved to Conner Avenue Assembly in Detroit, from October nineteen ninety-five. So, by our arithmetic, the Viper had two homes in twenty-six years, and the second home lasted twenty-two years.",
+   "query": "New Mack Assembly",
+   "caption": "NEW MACK 1991\u201395 \u00b7 CONNER AVENUE 1995\u20132017",
+   "cuts": 3
+  },
+  {
+   "text": "Now the first thing most people do not know. At the time, Chrysler owned Lamborghini. Wikipedia says Lamborghini cast a prototype aluminium engine block for the Viper, and helped design the V ten. An American muscle car, with a heart developed with the help of an Italian supercar maker.",
+   "query": "Lamborghini engine",
+   "caption": "CHRYSLER OWNED LAMBORGHINI",
+   "cuts": 3,
+   "chapter": "Thing one: Lamborghini helped build the engine"
+  },
+  {
+   "text": "Wikipedia says the development group was called Team Viper. Chief engineer Roy Sjoberg chose eighty-five engineers, and development began in March nineteen eighty-nine. Dick Winkles, the chief power engineer, was a major contributor. By modern standards, eighty-five engineers is a small team for an entire car.",
+   "query": "Team Viper",
+   "caption": "85 ENGINEERS \u00b7 MARCH 1989",
+   "cuts": 3
+  },
+  {
+   "text": "Think about the scale. The page says the project needed seventy million dollars. By our own arithmetic, that is about eight hundred twenty thousand dollars for each of the eighty-five engineers. That is not a precise measure of anything, but it gives a sense of how little money the Viper had compared with a normal new car programme.",
+   "query": "Dodge Viper engineering",
+   "caption": "$70M \u00f7 85 ENGINEERS \u2248 $820K EACH",
+   "cuts": 3
+  },
+  {
+   "text": "The engine was massive. Wikipedia lists the first V ten's weight at three hundred twenty-three kilograms, which is about twenty-two percent of the car's curb weight of one thousand four hundred ninety, by our arithmetic. The engine was almost a quarter of the whole car. And it made four hundred horsepower at only four thousand six hundred r p m.",
+   "query": "Dodge Viper V10",
+   "caption": "THE ENGINE = 22% OF THE CAR'S WEIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "That low r p m is the clue to its character. The first Viper's peak torque, four hundred sixty-five pound-feet, arrived at three thousand six hundred r p m. This was a big, slow-revving engine, built for push rather than screaming speed. The Corvette Z R one's supercharged V eight, by comparison, made its power at six thousand five hundred.",
+   "query": "Dodge Viper engine",
+   "caption": "PEAK POWER AT JUST 4,600 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "Over the years the engine grew. Wikipedia lists eight litres at launch, seven thousand nine hundred ninety cubic centimetres in the GTS, eight point three litres in the third generation, and eight point four litres in the last two. By our arithmetic, the fifth generation's six hundred forty horsepower is about seventy-six horsepower per litre, against fifty per litre in the first car.",
+   "query": "Dodge Viper V10 evolution",
+   "caption": "50 HP/L \u2192 76 HP/L",
+   "cuts": 3
+  },
+  {
+   "text": "The engine also got lighter. Wikipedia says the third generation's V ten weighed about five hundred pounds, or two hundred thirty kilograms, against three hundred twenty-three for the first. By our arithmetic, that is about twenty-nine percent less weight while producing twenty-five percent more power, five hundred horsepower against four hundred.",
+   "query": "Dodge Viper engine weight",
+   "caption": "\u221229% WEIGHT, +25% POWER",
+   "cuts": 3
+  },
+  {
+   "text": "The last Viper's V ten was all aluminium. Wikipedia says the fifth generation used an all-aluminium eight point four litre engine with six hundred forty horsepower at six thousand one hundred fifty r p m, and six hundred pound-feet of torque. In twenty fifteen it rose to six hundred forty-five. The engine that began with Lamborghini's help ended as one of the biggest in the world.",
+   "query": "Dodge Viper 8.4 V10",
+   "caption": "THE FINAL V10: 8.4 L \u00b7 640\u2013645 HP",
+   "cuts": 3
+  },
+  {
+   "text": "The Viper's V ten even lived on in a different way. The Drive says the Conner Avenue plant had built the Viper's V ten engine since two thousand one, and that all Vipers had been hand-built there since nineteen ninety-five. So a few dozen people in Detroit built both the car and its engine, one at a time.",
+   "query": "Conner Avenue Assembly",
+   "caption": "HAND-BUILT IN DETROIT",
+   "cuts": 3
+  },
+  {
+   "text": "Compare the Viper's engine with its great rival's. The Corvette Z R one had a supercharged six point two litre V eight with six hundred thirty-eight horsepower, according to Wikipedia. By our arithmetic, that is about one hundred three horsepower per litre, about thirty-five percent more than the last Viper's seventy-six. The Viper made its power the old way: with size.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "ZR1: 103 HP/L \u00b7 VIPER: 76 HP/L",
+   "cuts": 3
+  },
+  {
+   "text": "The generations after the first added power in steps. Wikipedia lists the GTS coup\u00e9 of nineteen ninety-six with four hundred fifty horsepower from a seven thousand nine hundred ninety cubic centimetre engine, nicknamed the double bubble for its roof, inspired by the Shelby Daytona. It was chosen as the nineteen ninety-six Indianapolis five hundred pace car.",
+   "query": "Dodge Viper GTS",
+   "caption": "GTS: 450 HP \u00b7 DOUBLE-BUBBLE ROOF",
+   "cuts": 3
+  },
+  {
+   "text": "The third generation, from two thousand three, had an eight point three litre engine, five hundred horsepower and five hundred twenty-five pound-feet, according to Wikipedia. The page says the chassis was about eighty pounds lighter. The coup\u00e9 of two thousand six was rated at five hundred ten horsepower and five hundred thirty-five pound-feet.",
+   "query": "Dodge Viper SRT-10",
+   "caption": "2003: 8.3 L \u00b7 500 HP",
+   "cuts": 3
+  },
+  {
+   "text": "The fourth generation, from two thousand eight, gave six hundred horsepower at six thousand one hundred r p m, and five hundred sixty pound-feet at five thousand. Wikipedia lists a new Tremec six-speed gearbox, an improved valvetrain and dual electronic throttle bodies. A vented engine cover is the easiest way to tell it from the one before.",
+   "query": "Dodge Viper ZB II",
+   "caption": "2008: 600 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Now the second thing, and this one is hard to believe. Wikipedia says the first Viper had no exterior door handles, no airbags, no traction control and no A B S. It had canvas roofs and vinyl windows that zipped. Air conditioning was only an option, from nineteen ninety-four or ninety-five. It was a very pure, very raw car.",
+   "query": "Dodge Viper cockpit",
+   "caption": "NO DOOR HANDLES \u00b7 NO AIRBAGS \u00b7 NO ABS",
+   "cuts": 3,
+   "chapter": "Thing two: the safety kit it didn't have"
+  },
+  {
+   "text": "The page quotes how the car was seen: an intimidating car to drive. It had four hundred horsepower, rear-wheel drive, and nothing electronic to catch a mistake. For a buyer in nineteen ninety-two, that was the appeal. For a driver in the rain, it was a risk. The Viper's reputation as a car that bites came from this.",
+   "query": "Dodge Viper in the rain",
+   "caption": "\"AN INTIMIDATING CAR TO DRIVE\"",
+   "cuts": 3
+  },
+  {
+   "text": "Safety equipment arrived slowly. Wikipedia says the GTS coup\u00e9 of nineteen ninety-six was the first Viper with airbags, and also the first with standard air conditioning and power windows. By our own arithmetic, four years separated the first Viper and the first Viper with airbags.",
+   "query": "Dodge Viper GTS 1996",
+   "caption": "1996: FIRST AIRBAGS (4 YEARS LATE)",
+   "cuts": 3
+  },
+  {
+   "text": "Stability control, traction control and four-channel A B S took longer. Wikipedia says all three arrived with the fifth generation, which was revealed at the twenty twelve New York Auto Show and sold from twenty thirteen. They were firsts for the Viper. By our arithmetic, that is twenty-one years after the car began, in nineteen ninety-two.",
+   "query": "Dodge Viper 2013",
+   "caption": "ESC, TRACTION CONTROL, ABS: FIRST IN 2013",
+   "cuts": 3
+  },
+  {
+   "text": "We do not claim the Viper was dangerous, and the sources we read do not say so. They say what it lacked, and when it was added. The Viper was designed as a raw machine, and its makers chose to add equipment slowly. Owners and critics who loved it often loved it for exactly that reason, in our reading.",
+   "query": "Dodge Viper",
+   "caption": "A CAR THAT RESISTED ELECTRONICS",
+   "cuts": 3
+  },
+  {
+   "text": "Yet the irony is complete. According to Motor Authority and The Drive, the Viper was killed by a safety regulation, federal standard two twenty-six, which requires side curtain airbags. In twenty twenty-six, the head of S R T said the airbags would be right over the driver's ear. A car that began with no airbags was ended by airbags.",
+   "query": "Side curtain airbag",
+   "caption": "BORN WITHOUT AIRBAGS, KILLED BY AIRBAGS",
+   "cuts": 3
+  },
+  {
+   "text": "Tim Kuniskis told The Drive that the car reached the end of its life cycle, and that to stay competitive it would have needed to become an automatic or a dual-clutch. He called it analogue, with a manual transmission, and said it had downsides. That is the Viper in one sentence: a car with strong opinions.",
+   "query": "Tim Kuniskis",
+   "caption": "\"ANALOG\" AND MANUAL",
+   "cuts": 3
+  },
+  {
+   "text": "There is a final twist in the safety story. Wikipedia says the fifth generation Viper's body was carbon fibre and aluminium, and that it had a drag coefficient of point three six four. A modern body, stability control, traction control and four-channel A B S. The 2013 Viper had finally caught up with the rest of the car world, only for the airbag rule to catch up with it.",
+   "query": "Dodge Viper VX",
+   "caption": "FINALLY MODERN, THEN OUTLAWED",
+   "cuts": 3
+  },
+  {
+   "text": "In motorsport, the Viper was a giant. Wikipedia says the first race appearance at Le Mans came in nineteen ninety-four, when two R T tens ran for the French team Rent-A-Car Racing. The number forty car, driven by Ren\u00e9 Arnoux, Bertrand Balas and Justin Bell, finished twelfth overall and third in its class.",
+   "query": "Le Mans 1994 Viper",
+   "caption": "LE MANS 1994: 12TH OVERALL",
+   "cuts": 3,
+   "chapter": "What the Viper did on the track"
+  },
+  {
+   "text": "Chrysler then built the first G T S-R race car in nineteen ninety-six, with support from Oreca, Reynard and Riley and Scott. It debuted at the nineteen ninety-six twenty-four hours of Daytona. Three straight Le Mans class wins followed, in nineteen ninety-eight, nineteen ninety-nine and two thousand.",
+   "query": "Dodge Viper GTS-R",
+   "caption": "3 LE MANS CLASS WINS IN A ROW",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the Viper also won the twenty-four hours of Daytona overall in two thousand, and the Spa twenty-four hours in two thousand one and two thousand two. Career totals: four hundred forty-five races, forty-seven championships, and one hundred sixty-two wins. A road car with no airbags had become a champion.",
+   "query": "Dodge Viper racing",
+   "caption": "162 WINS \u00b7 47 CHAMPIONSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "The road-going racer was the ACR, short for American Club Racer. Wikipedia says the first ACR was a package for the nineteen ninety-nine G T S, using G T two intake parts and BBS wheels. Over the years the ACR grew into a full aero-focused car, and the last one produced as much as two thousand pounds of downforce.",
+   "query": "Dodge Viper ACR",
+   "caption": "ACR: AMERICAN CLUB RACER",
+   "cuts": 3
+  },
+  {
+   "text": "The records came in the end. Wikipedia says a two thousand ten ACR lapped the N\u00fcrburgring in seven twelve point one three in September twenty eleven. An ACR-X did seven oh three in twenty twelve, and the final ACR with the extreme aero package did an unofficial seven oh one point six seven in October twenty fifteen.",
+   "query": "N\u00fcrburgring Viper ACR",
+   "caption": "7:12 \u2192 7:03 \u2192 7:01.67",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, from seven twelve point one three to seven oh one point six seven is about ten and a half seconds quicker. In four years, the ACR improved by that much on the most famous test track in the world. And it did it without a hybrid motor, without a dual-clutch, and with a manual gearbox.",
+   "query": "Dodge Viper ACR N\u00fcrburgring",
+   "caption": "10.5 SECONDS FASTER IN 4 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also says a street-legal two thousand ten ACR, driven by Kuno Wittmer, lapped Miller Motorsports Park in one fifty-nine point nine nine five, the first production car under two minutes there. That is a lap that the page calls a first. Another reminder that the Viper was not just a straight-line car.",
+   "query": "Miller Motorsports Park",
+   "caption": "FIRST PRODUCTION CAR UNDER 2:00",
+   "cuts": 3
+  },
+  {
+   "text": "There was also a racing offshoot for customers. Wikipedia lists the Viper G T three R of twenty thirteen, estimated at four hundred fifty-nine thousand dollars, with six hundred eighty horsepower. It won G T three class races in twenty fourteen and twenty fifteen. In twenty fourteen the Viper also took the drivers' and teams' titles in the United SportsCar Championship, with Kuno Wittmer.",
+   "query": "Dodge Viper GT3-R",
+   "caption": "GT3-R: 680 HP \u00b7 EST. $459,000",
+   "cuts": 3
+  },
+  {
+   "text": "The track-only ACR-X, introduced in twenty ten, cost one hundred ten thousand dollars according to Wikipedia, weighed three thousand three hundred pounds and added about forty horsepower. It lapped the N\u00fcrburgring in seven oh three point oh five eight in February twenty twelve. It was a car for a track day, not for the street, and a very serious one.",
+   "query": "Dodge Viper ACR-X",
+   "caption": "ACR-X: $110,000 \u00b7 3,300 LB",
+   "cuts": 3
+  },
+  {
+   "text": "The last big attempt was funded by fans. Wikipedia says a crowdfunded attempt in twenty seventeen, organised by Russ Oasis through GoFundMe, brought Dominik and Mario Farnbacher and Lance David Arnold to the N\u00fcrburgring to beat the Lamborghini Hurac\u00e1n Performante's six fifty-two oh one. One car crashed, and the record stood.",
+   "query": "N\u00fcrburgring Viper crowdfunded attempt",
+   "caption": "A FAN-FUNDED RECORD ATTEMPT, 2017",
+   "cuts": 3
+  },
+  {
+   "text": "Even so, Wikipedia says the attempt made the Viper ACR the fastest American, rear-wheel-drive, manual-transmission car on that track at the time. The qualifiers are many. But they describe the Viper well: American, rear-wheel drive, manual. Everything about the car was a kind of choice, and the choices were deliberately old-fashioned.",
+   "query": "Dodge Viper ACR",
+   "caption": "AMERICAN \u00b7 RWD \u00b7 MANUAL",
+   "cuts": 3
+  },
+  {
+   "text": "The Viper also reached television. Wikipedia says the nineteen ninety-four to nineteen ninety-eight series Viper starred a modified R T ten called The Defender, and only fourteen were built. In the United Kingdom, the third generation was sold as the Dodge S R T ten, because Viper is a trademark there.",
+   "query": "Dodge Viper TV series",
+   "caption": "THE DEFENDER: 14 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "The last Viper was impressive. Wikipedia lists zero to sixty-two miles per hour in three and a half seconds, a top speed of two hundred six miles per hour, and a drag coefficient of point three six four. It was built of carbon fibre and aluminium, with a Tremec six-speed manual and a final drive of three fifty-five.",
+   "query": "Dodge Viper 2017",
+   "caption": "0\u201362 IN 3.5 S \u00b7 206 MPH \u00b7 Cd 0.364",
+   "cuts": 3,
+   "chapter": "The last Viper"
+  },
+  {
+   "text": "Five years earlier the same car might not have existed. Wikipedia says production of the fourth generation ended on the first of July, twenty ten, with a gold car with orange stripes. Sergio Marchionne previewed a twenty twelve prototype only two months later, in September twenty ten. The Viper was never quite dead.",
+   "query": "Dodge Viper 2010",
+   "caption": "THE VIPER DIED IN 2010, THEN CAME BACK",
+   "cuts": 3
+  },
+  {
+   "text": "Then the final end came. The Drive says the Conner Avenue plant would close on the thirty-first of August, twenty seventeen, and that it employed just over eighty people. It was F C A's smallest plant in North America, according to the article. A tiny factory made one of America's most extreme cars.",
+   "query": "Conner Avenue plant",
+   "caption": "AUGUST 31, 2017: THE PLANT CLOSES",
+   "cuts": 3
+  },
+  {
+   "text": "The Viper's numbers at the end were not terrible. Good Car Bad Car lists five hundred eighty-five sales in twenty seventeen and six hundred twenty-six in twenty sixteen. And the used market has been kind. Classic dot com shows Viper ACRs selling for between one hundred eighty-seven thousand and four hundred six thousand five hundred dollars in twenty twenty-five.",
+   "query": "Dodge Viper ACR 2025",
+   "caption": "ACR SALES 2025: $187K TO $406K",
+   "cuts": 3
+  },
+  {
+   "text": "Dodge's concept cars showed where the Viper might have gone. Wikipedia lists the S R T ten Carbon Concept at the two thousand three SEMA show with six hundred twenty-five horsepower, and the Viper Mopar Concept of two thousand seven with six hundred seventy-five. It also lists the Dodge Copperhead, a V six concept, and the Chrysler Firepower, with a Hemi V eight and an automatic.",
+   "query": "Dodge Viper concepts",
+   "caption": "CONCEPTS: 625 HP \u00b7 675 HP \u00b7 COPPERHEAD",
+   "cuts": 3
+  },
+  {
+   "text": "Compare that with the Viper in the end. In twenty fifteen, Wikipedia says, it was renamed S R T Viper, and power rose to six hundred forty-five horsepower. The page says highway economy was twenty miles per gallon. That is the same highway figure as the first Viper in nineteen ninety-two, despite more than fifty percent more power, by our arithmetic.",
+   "query": "SRT Viper 2015",
+   "caption": "20 MPG HIGHWAY IN 1992 AND IN 2015",
+   "cuts": 3
+  },
+  {
+   "text": "The racing story ended quietly. Wikipedia says the Viper finished eighth in its class at Le Mans in twenty thirteen, and withdrew in twenty fourteen. Earlier, the page lists the G T two Champion Edition of nineteen ninety-eight, with four hundred sixty horsepower and only one hundred built, as a road-going celebration of the racing success.",
+   "query": "Dodge Viper GT2 Champion Edition",
+   "caption": "2013: 8TH IN CLASS AT LE MANS",
+   "cuts": 3
+  },
+  {
+   "text": "Add the numbers up, by our own arithmetic. A car that began with four hundred horsepower reached six hundred forty-five, a gain of about sixty-one percent. It won three Le Mans class races, took a Daytona overall win, and set N\u00fcrburgring times near seven minutes. And it did all of that while being built by about eighty people.",
+   "query": "Dodge Viper",
+   "caption": "+61% POWER \u00b7 162 RACE WINS \u00b7 ~80 BUILDERS",
+   "cuts": 3
+  },
+  {
+   "text": "So here are the two things again. The Viper's engine was developed with help from Lamborghini, by a team of just eighty-five engineers. And the Viper went twenty-one years without stability control, traction control or A B S, and ended because of an airbag rule. Both facts come from published sources, and both make the Viper more surprising, not less.",
+   "query": "Dodge Viper",
+   "caption": "THE TWO THINGS, AGAIN",
+   "cuts": 3,
+   "chapter": "Why it matters"
+  },
+  {
+   "text": "The Viper survives as a symbol of an era. A manual gearbox, a huge naturally aspirated engine, and a driver who had to be paying attention. Whether you call that thrilling or dangerous is a matter of taste. The record shows it won at Le Mans and set times at the N\u00fcrburgring. It did what it was made for.",
+   "query": "Dodge Viper ACR",
+   "caption": "A CAR THAT DEMANDED ATTENTION",
+   "cuts": 3
+  },
+  {
+   "text": "Which of the two things surprised you more, the Lamborghini connection or the missing safety equipment? Tell us in the comments. In the other videos of this series, we compare the Viper ACR with the Corvette Z R one, work out what it really costs to own a Viper today, and tell why the Viper was killed twice.",
+   "query": "Dodge Viper",
+   "caption": "WHICH SURPRISED YOU MORE?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you want to spend your money on something you can actually drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
