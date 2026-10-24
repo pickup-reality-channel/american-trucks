@@ -1,0 +1,2315 @@
+1
+00:00:00,000 --> 00:00:02,856
+Two hypercars, one famous racetrack,
+
+2
+00:00:02,856 --> 00:00:05,712
+and a lap record that changed hands.
+
+3
+00:00:05,892 --> 00:00:08,631
+The McLaren Senna was a hundred percent
+
+4
+00:00:08,631 --> 00:00:11,019
+combustion, hand-built in England,
+
+5
+00:00:11,019 --> 00:00:13,688
+and sold out before the first customer
+
+6
+00:00:13,688 --> 00:00:14,390
+drove one.
+
+7
+00:00:14,570 --> 00:00:17,376
+The Czinger 21C is a hybrid with
+
+8
+00:00:17,376 --> 00:00:19,567
+the driver in the middle,
+
+9
+00:00:19,567 --> 00:00:21,408
+built in Los Angeles.
+
+10
+00:00:21,588 --> 00:00:23,179
+Which one is really better?
+
+11
+00:00:23,359 --> 00:00:25,754
+The honest answer needs more than the
+
+12
+00:00:25,754 --> 00:00:26,401
+lap times.
+
+13
+00:00:26,751 --> 00:00:30,770
+Our sources are Wikipedia's pages on both
+
+14
+00:00:30,770 --> 00:00:32,926
+cars, Autocar, GoAuto,
+
+15
+00:00:32,926 --> 00:00:37,043
+a McLaren press release reported by duPont
+
+16
+00:00:37,043 --> 00:00:39,984
+Registry, and for the Czinger,
+
+17
+00:00:39,984 --> 00:00:41,944
+ASME, Backfire News,
+
+18
+00:00:41,944 --> 00:00:44,003
+GTPlanet and FastCar.
+
+19
+00:00:44,183 --> 00:00:46,046
+Where sources disagree,
+
+20
+00:00:46,046 --> 00:00:47,747
+we show both numbers.
+
+21
+00:00:47,927 --> 00:00:50,622
+Our own arithmetic is labelled,
+
+22
+00:00:50,622 --> 00:00:53,838
+and claims by the makers are labelled
+
+23
+00:00:53,838 --> 00:00:54,707
+as claims.
+
+24
+00:00:55,058 --> 00:00:57,217
+Start with what each car is.
+
+25
+00:00:57,397 --> 00:01:00,145
+Wikipedia says the Senna is built in
+
+26
+00:01:00,145 --> 00:01:03,733
+Woking, England, limited to five hundred units,
+
+27
+00:01:03,733 --> 00:01:05,489
+and that all were sold.
+
+28
+00:01:05,669 --> 00:01:08,675
+GoAuto, on the day of the announcement
+
+29
+00:01:08,675 --> 00:01:10,970
+in December twenty seventeen,
+
+30
+00:01:10,970 --> 00:01:12,394
+reported the same:
+
+31
+00:01:12,394 --> 00:01:13,818
+five hundred cars,
+
+32
+00:01:13,818 --> 00:01:16,745
+hand-assembled, and already sold out.
+
+33
+00:01:16,925 --> 00:01:20,202
+It belongs to McLaren's Ultimate Series,
+
+34
+00:01:20,202 --> 00:01:21,267
+after the P1.
+
+35
+00:01:21,618 --> 00:01:24,657
+Wikipedia says the Czinger 21C is made
+
+36
+00:01:24,657 --> 00:01:27,457
+by Czinger Vehicles in Los Angeles,
+
+37
+00:01:27,457 --> 00:01:29,456
+with eighty planned cars,
+
+38
+00:01:29,456 --> 00:01:31,776
+in a road version and a track
+
+39
+00:01:31,776 --> 00:01:34,415
+version called Lightweight Track,
+
+40
+00:01:34,415 --> 00:01:36,095
+plus four Blackbirds.
+
+41
+00:01:36,275 --> 00:01:38,720
+So the Senna has more than six
+
+42
+00:01:38,720 --> 00:01:40,269
+times as many cars.
+
+43
+00:01:40,449 --> 00:01:41,567
+By our arithmetic,
+
+44
+00:01:41,567 --> 00:01:44,176
+eighty is sixteen percent of five hundred.
+
+45
+00:01:44,525 --> 00:01:47,033
+The two reveals were separated by time.
+
+46
+00:01:47,213 --> 00:01:49,917
+The Senna was shown online on the
+
+47
+00:01:49,917 --> 00:01:52,785
+tenth of December twenty seventeen,
+
+48
+00:01:52,785 --> 00:01:56,062
+then at the twenty eighteen Geneva show,
+
+49
+00:01:56,062 --> 00:01:57,291
+Wikipedia says.
+
+50
+00:01:57,471 --> 00:02:00,436
+The 21C was unveiled in London on
+
+51
+00:02:00,436 --> 00:02:03,670
+the eleventh of March twenty twenty.
+
+52
+00:02:03,850 --> 00:02:05,128
+By our arithmetic,
+
+53
+00:02:05,128 --> 00:02:07,542
+that is twenty-seven months later.
+
+54
+00:02:07,722 --> 00:02:11,004
+The Czinger was designed knowing exactly what
+
+55
+00:02:11,004 --> 00:02:12,390
+the Senna had done.
+
+56
+00:02:12,740 --> 00:02:13,878
+Under the skin,
+
+57
+00:02:13,878 --> 00:02:16,536
+the Senna is a pure combustion car.
+
+58
+00:02:16,716 --> 00:02:20,386
+Wikipedia lists a four litre twin-turbo V8,
+
+59
+00:02:20,386 --> 00:02:22,264
+the M eight forty T R,
+
+60
+00:02:22,264 --> 00:02:25,934
+with about eight hundred metric horsepower.
+
+61
+00:02:26,114 --> 00:02:28,364
+GoAuto adds that it drives the rear
+
+62
+00:02:28,364 --> 00:02:31,513
+wheels through a seven-speed dual-clutch gearbox.
+
+63
+00:02:31,693 --> 00:02:33,249
+No electric motor,
+
+64
+00:02:33,249 --> 00:02:34,201
+no battery.
+
+65
+00:02:34,381 --> 00:02:36,920
+McLaren says it is the most powerful
+
+66
+00:02:36,920 --> 00:02:39,601
+combustion engine it had built to that
+
+67
+00:02:39,601 --> 00:02:39,953
+date.
+
+68
+00:02:40,303 --> 00:02:43,043
+The 21C is a hybrid.
+
+69
+00:02:43,223 --> 00:02:46,290
+Wikipedia lists a two point eight eight
+
+70
+00:02:46,290 --> 00:02:47,862
+litre twin-turbo V8,
+
+71
+00:02:47,862 --> 00:02:50,850
+with a seven-speed sequential gearbox,
+
+72
+00:02:50,850 --> 00:02:54,231
+an axial-flux motor generator and two front
+
+73
+00:02:54,231 --> 00:02:57,376
+motors, and a two kilowatt-hour battery.
+
+74
+00:02:57,556 --> 00:02:59,790
+FastCar calls it all-wheel drive,
+
+75
+00:02:59,790 --> 00:03:02,295
+with the electric motors on the front
+
+76
+00:03:02,295 --> 00:03:02,769
+wheels.
+
+77
+00:03:02,949 --> 00:03:05,953
+GTPlanet says the V8 is mid-mounted,
+
+78
+00:03:05,953 --> 00:03:07,372
+driving the rear.
+
+79
+00:03:07,722 --> 00:03:08,974
+By our arithmetic,
+
+80
+00:03:08,974 --> 00:03:11,408
+the Senna's engine is a bigger one:
+
+81
+00:03:11,408 --> 00:03:15,371
+three thousand nine hundred ninety-four cubic centimetres
+
+82
+00:03:15,371 --> 00:03:18,709
+against about two thousand eight hundred eighty,
+
+83
+00:03:18,709 --> 00:03:20,447
+thirty-nine percent more.
+
+84
+00:03:20,627 --> 00:03:22,838
+The Czinger gets its edge from the
+
+85
+00:03:22,838 --> 00:03:25,503
+electric motors, and from revving higher.
+
+86
+00:03:25,683 --> 00:03:29,778
+GTPlanet and FastCar both say eleven thousand
+
+87
+00:03:29,778 --> 00:03:30,141
+rpm.
+
+88
+00:03:30,321 --> 00:03:32,837
+The Senna's redline is not given in
+
+89
+00:03:32,837 --> 00:03:33,700
+our sources.
+
+90
+00:03:34,049 --> 00:03:34,978
+Now power.
+
+91
+00:03:35,158 --> 00:03:36,278
+For the Senna,
+
+92
+00:03:36,278 --> 00:03:40,437
+Wikipedia says seven hundred eighty-nine horsepower,
+
+93
+00:03:40,437 --> 00:03:42,356
+or eight hundred metric.
+
+94
+00:03:42,536 --> 00:03:47,030
+Autocar agrees: seven eighty-nine brake horsepower.
+
+95
+00:03:47,210 --> 00:03:48,463
+For the Czinger,
+
+96
+00:03:48,463 --> 00:03:51,285
+Wikipedia says twelve hundred fifty.
+
+97
+00:03:51,465 --> 00:03:52,767
+By our arithmetic,
+
+98
+00:03:52,767 --> 00:03:56,167
+that is four hundred sixty-one horsepower more,
+
+99
+00:03:56,167 --> 00:03:58,047
+about fifty-eight percent.
+
+100
+00:03:58,227 --> 00:04:00,956
+Other sources put the Czinger at twelve
+
+101
+00:04:00,956 --> 00:04:03,475
+thirty-three or thirteen thirty-one.
+
+102
+00:04:03,825 --> 00:04:05,902
+Weight is where it gets difficult,
+
+103
+00:04:05,902 --> 00:04:08,528
+because the two makers measure differently.
+
+104
+00:04:08,708 --> 00:04:11,587
+McLaren's headline is a dry weight of
+
+105
+00:04:11,587 --> 00:04:14,544
+eleven hundred ninety-eight kilograms,
+
+106
+00:04:14,544 --> 00:04:17,346
+said to be the lightest McLaren road
+
+107
+00:04:17,346 --> 00:04:18,669
+car since the F1.
+
+108
+00:04:18,849 --> 00:04:22,391
+Wikipedia's infobox gives a kerb weight of
+
+109
+00:04:22,391 --> 00:04:24,921
+thirteen hundred seventy-four.
+
+110
+00:04:25,101 --> 00:04:27,091
+Dry and kerb are not the same
+
+111
+00:04:27,091 --> 00:04:29,836
+measure, so you cannot subtract one from
+
+112
+00:04:29,836 --> 00:04:30,523
+the other.
+
+113
+00:04:30,872 --> 00:04:32,159
+For the Czinger,
+
+114
+00:04:32,159 --> 00:04:35,375
+Wikipedia gives a curb weight of sixteen
+
+115
+00:04:35,375 --> 00:04:37,386
+hundred twenty kilograms.
+
+116
+00:04:37,566 --> 00:04:39,769
+GTPlanet, in twenty twenty,
+
+117
+00:04:39,769 --> 00:04:42,379
+said about twelve hundred fifty,
+
+118
+00:04:42,379 --> 00:04:43,522
+a curb figure.
+
+119
+00:04:43,702 --> 00:04:47,370
+FastCar said Czinger claimed twelve hundred forty.
+
+120
+00:04:47,550 --> 00:04:48,793
+By our arithmetic,
+
+121
+00:04:48,793 --> 00:04:51,899
+the Wikipedia figure is two hundred forty-six
+
+122
+00:04:51,899 --> 00:04:55,143
+kilograms heavier than the Senna's kerb weight,
+
+123
+00:04:55,143 --> 00:04:57,490
+but the early claims are a hundred
+
+124
+00:04:57,490 --> 00:04:58,870
+twenty-four lighter.
+
+125
+00:04:59,220 --> 00:05:00,680
+That is a huge spread,
+
+126
+00:05:00,680 --> 00:05:02,936
+and the sources do not explain it.
+
+127
+00:05:03,116 --> 00:05:05,263
+Our reading is that the early figures
+
+128
+00:05:05,263 --> 00:05:07,237
+were targets for a car still being
+
+129
+00:05:07,237 --> 00:05:09,791
+finished, and the heavier figure may reflect
+
+130
+00:05:09,791 --> 00:05:10,894
+the production car.
+
+131
+00:05:11,074 --> 00:05:12,711
+But no source says so.
+
+132
+00:05:12,891 --> 00:05:15,502
+A buyer or viewer should treat any
+
+133
+00:05:15,502 --> 00:05:18,957
+Czinger weight as unverified until a measured
+
+134
+00:05:18,957 --> 00:05:22,028
+number from an independent test appears.
+
+135
+00:05:22,378 --> 00:05:23,598
+Now combine them.
+
+136
+00:05:23,778 --> 00:05:25,060
+By our arithmetic,
+
+137
+00:05:25,060 --> 00:05:27,911
+using Wikipedia's figures for both cars,
+
+138
+00:05:27,911 --> 00:05:31,403
+the Czinger makes about seven hundred seventy-two
+
+139
+00:05:31,403 --> 00:05:34,254
+horsepower per tonne and the Senna about
+
+140
+00:05:34,254 --> 00:05:36,107
+five hundred seventy-four.
+
+141
+00:05:36,287 --> 00:05:39,016
+That is a thirty-four percent advantage.
+
+142
+00:05:39,196 --> 00:05:42,745
+Using the Czinger's early claimed weight instead,
+
+143
+00:05:42,745 --> 00:05:45,425
+it would be a thousand horsepower per
+
+144
+00:05:45,425 --> 00:05:45,860
+tonne.
+
+145
+00:05:46,040 --> 00:05:47,555
+Both are calculations,
+
+146
+00:05:47,555 --> 00:05:50,034
+and they depend on the weights used.
+
+147
+00:05:50,383 --> 00:05:51,365
+For the Senna,
+
+148
+00:05:51,365 --> 00:05:55,220
+Wikipedia quotes six hundred sixty-eight horsepower per
+
+149
+00:05:55,220 --> 00:05:57,743
+tonne, which uses the dry weight and
+
+150
+00:05:57,743 --> 00:05:59,776
+the metric horsepower figure.
+
+151
+00:05:59,956 --> 00:06:02,525
+That is the number McLaren fans usually
+
+152
+00:06:02,525 --> 00:06:02,789
+see.
+
+153
+00:06:02,969 --> 00:06:04,098
+By our arithmetic,
+
+154
+00:06:04,098 --> 00:06:06,796
+seven eighty-nine divided by the dry eleven
+
+155
+00:06:06,796 --> 00:06:09,807
+ninety-eight gives about six hundred fifty-nine.
+
+156
+00:06:09,987 --> 00:06:12,240
+Same car, different basis,
+
+157
+00:06:12,240 --> 00:06:13,714
+different answer.
+
+158
+00:06:14,063 --> 00:06:16,888
+Acceleration is where the two cars are
+
+159
+00:06:16,888 --> 00:06:18,673
+furthest apart on paper.
+
+160
+00:06:18,853 --> 00:06:21,563
+Wikipedia gives the Senna zero to one
+
+161
+00:06:21,563 --> 00:06:24,421
+hundred kilometres an hour in two point
+
+162
+00:06:24,421 --> 00:06:27,131
+eight seconds, zero to two hundred in
+
+163
+00:06:27,131 --> 00:06:28,304
+six point eight,
+
+164
+00:06:28,304 --> 00:06:31,234
+zero to three hundred in seventeen point
+
+165
+00:06:31,234 --> 00:06:31,600
+five.
+
+166
+00:06:31,780 --> 00:06:35,055
+Autocar's figures are the same in miles:
+
+167
+00:06:35,055 --> 00:06:37,101
+sixty in two point seven,
+
+168
+00:06:37,101 --> 00:06:39,966
+one twenty-four in six point eight,
+
+169
+00:06:39,966 --> 00:06:43,158
+one eighty-six in seventeen point five.
+
+170
+00:06:43,508 --> 00:06:46,004
+FastCar quotes Czinger claims:
+
+171
+00:06:46,004 --> 00:06:48,916
+zero to sixty-two in one point nine
+
+172
+00:06:48,916 --> 00:06:52,078
+seconds, a quarter mile in eight point
+
+173
+00:06:52,078 --> 00:06:55,073
+one, zero to one eighty-six miles an
+
+174
+00:06:55,073 --> 00:06:57,153
+hour in eight point five,
+
+175
+00:06:57,153 --> 00:07:00,730
+and zero to two forty-eight in twenty-seven
+
+176
+00:07:00,730 --> 00:07:01,562
+point one.
+
+177
+00:07:01,742 --> 00:07:02,996
+By our arithmetic,
+
+178
+00:07:02,996 --> 00:07:06,270
+the claimed one-eighty-six time is nine seconds
+
+179
+00:07:06,270 --> 00:07:08,011
+quicker than the Senna's,
+
+180
+00:07:08,011 --> 00:07:09,683
+less than half the time.
+
+181
+00:07:10,033 --> 00:07:11,355
+At the low end,
+
+182
+00:07:11,355 --> 00:07:13,029
+the gap is smaller.
+
+183
+00:07:13,209 --> 00:07:15,536
+Sixty-two miles an hour is about a
+
+184
+00:07:15,536 --> 00:07:17,385
+hundred kilometres an hour,
+
+185
+00:07:17,385 --> 00:07:19,575
+so the claimed one point nine is
+
+186
+00:07:19,575 --> 00:07:22,450
+comparable to the Senna's two point eight.
+
+187
+00:07:22,630 --> 00:07:23,836
+By our arithmetic,
+
+188
+00:07:23,836 --> 00:07:25,913
+that is nine tenths of a second
+
+189
+00:07:25,913 --> 00:07:28,192
+quicker, about thirty-two percent.
+
+190
+00:07:28,372 --> 00:07:31,061
+The Senna's figure came from McLaren and
+
+191
+00:07:31,061 --> 00:07:31,599
+Autocar.
+
+192
+00:07:31,779 --> 00:07:34,310
+The Czinger's came from Czinger.
+
+193
+00:07:34,660 --> 00:07:37,586
+Quarter-mile times are less certain still.
+
+194
+00:07:37,766 --> 00:07:40,752
+Wikipedia lists nine point nine seconds for
+
+195
+00:07:40,752 --> 00:07:41,446
+the Senna.
+
+196
+00:07:41,626 --> 00:07:45,058
+The McLaren press release reported by duPont
+
+197
+00:07:45,058 --> 00:07:48,568
+Registry says a stock twenty twenty-one Senna
+
+198
+00:07:48,568 --> 00:07:51,142
+ran ten point oh eight seconds in
+
+199
+00:07:51,142 --> 00:07:52,077
+a drag race,
+
+200
+00:07:52,077 --> 00:07:55,197
+at over one hundred seventy-one miles an
+
+201
+00:07:55,197 --> 00:07:57,381
+hour, but does not call it a
+
+202
+00:07:57,381 --> 00:07:57,927
+record.
+
+203
+00:07:58,107 --> 00:08:00,023
+Both are real numbers.
+
+204
+00:08:00,203 --> 00:08:01,677
+They are not the same measurement.
+
+205
+00:08:02,027 --> 00:08:03,014
+Top speed.
+
+206
+00:08:03,194 --> 00:08:06,998
+Wikipedia gives three hundred thirty-five kilometres an
+
+207
+00:08:06,998 --> 00:08:08,311
+hour for the Senna,
+
+208
+00:08:08,311 --> 00:08:10,732
+which is two hundred eight miles an
+
+209
+00:08:10,732 --> 00:08:11,077
+hour.
+
+210
+00:08:11,257 --> 00:08:13,463
+Autocar says two hundred eleven.
+
+211
+00:08:13,643 --> 00:08:14,875
+For the Czinger,
+
+212
+00:08:14,875 --> 00:08:18,415
+GTPlanet and ASME say two hundred sixty-eight.
+
+213
+00:08:18,595 --> 00:08:22,600
+FastCar says Czinger claims two hundred eighty-one.
+
+214
+00:08:22,780 --> 00:08:24,126
+By our arithmetic,
+
+215
+00:08:24,126 --> 00:08:26,593
+the lower claim is sixty miles an
+
+216
+00:08:26,593 --> 00:08:28,611
+hour faster than the Senna,
+
+217
+00:08:28,611 --> 00:08:30,106
+twenty-nine percent.
+
+218
+00:08:30,456 --> 00:08:33,928
+Has anyone verified the Czinger's top speed?
+
+219
+00:08:34,108 --> 00:08:35,629
+Not in our sources.
+
+220
+00:08:35,809 --> 00:08:38,601
+ASME calls its two sixty-eight a figure
+
+221
+00:08:38,601 --> 00:08:40,104
+from a video caption.
+
+222
+00:08:40,284 --> 00:08:43,733
+No source reports an independent high-speed run.
+
+223
+00:08:43,913 --> 00:08:46,487
+The Senna's figure is a maker's number
+
+224
+00:08:46,487 --> 00:08:48,858
+too, but several outlets repeat it.
+
+225
+00:08:49,038 --> 00:08:50,397
+So both are claims,
+
+226
+00:08:50,397 --> 00:08:53,113
+and the Czinger's is the less checked.
+
+227
+00:08:53,463 --> 00:08:56,071
+Aerodynamics decides lap times,
+
+228
+00:08:56,071 --> 00:08:58,595
+and here the sources conflict.
+
+229
+00:08:58,775 --> 00:09:01,916
+Autocar says the Senna makes eight hundred
+
+230
+00:09:01,916 --> 00:09:05,507
+kilograms of downforce at one hundred fifty-five
+
+231
+00:09:05,507 --> 00:09:06,554
+miles an hour.
+
+232
+00:09:06,734 --> 00:09:08,534
+For the Czinger road car,
+
+233
+00:09:08,534 --> 00:09:11,630
+GTPlanet in twenty twenty said five hundred
+
+234
+00:09:11,630 --> 00:09:13,862
+fifty pounds at the same speed.
+
+235
+00:09:14,042 --> 00:09:15,385
+By our arithmetic,
+
+236
+00:09:15,385 --> 00:09:18,517
+that is about two hundred fifty kilograms,
+
+237
+00:09:18,517 --> 00:09:21,352
+so the Senna makes roughly three times
+
+238
+00:09:21,352 --> 00:09:21,949
+as much.
+
+239
+00:09:22,298 --> 00:09:24,841
+But the 21C has a track version.
+
+240
+00:09:25,021 --> 00:09:28,326
+GTPlanet gives seventeen hundred forty pounds for
+
+241
+00:09:28,326 --> 00:09:31,092
+it, about seven hundred ninety kilograms,
+
+242
+00:09:31,092 --> 00:09:32,846
+without stating the speed.
+
+243
+00:09:33,026 --> 00:09:37,556
+FastCar says Czinger claims twenty-five hundred kilograms
+
+244
+00:09:37,556 --> 00:09:40,019
+at two hundred miles an hour in
+
+245
+00:09:40,019 --> 00:09:42,244
+the most aggressive setting.
+
+246
+00:09:42,424 --> 00:09:43,646
+The Senna GTR,
+
+247
+00:09:43,646 --> 00:09:47,833
+Wikipedia says, makes about a thousand kilograms
+
+248
+00:09:47,833 --> 00:09:48,880
+by estimate.
+
+249
+00:09:49,060 --> 00:09:51,598
+The speeds are not given consistently,
+
+250
+00:09:51,598 --> 00:09:53,135
+so we do not rank them.
+
+251
+00:09:53,484 --> 00:09:55,621
+The Senna's aero is active.
+
+252
+00:09:55,801 --> 00:10:00,764
+Wikipedia describes an electronically adjustable double-element rear
+
+253
+00:10:00,764 --> 00:10:03,173
+wing that doubles as an airbrake,
+
+254
+00:10:03,173 --> 00:10:05,071
+a double-element diffuser,
+
+255
+00:10:05,071 --> 00:10:07,699
+mini canards and a Formula One style
+
+256
+00:10:07,699 --> 00:10:08,502
+roof scoop.
+
+257
+00:10:08,682 --> 00:10:11,413
+Autocar called the styling challenging,
+
+258
+00:10:11,413 --> 00:10:13,233
+tying it to the downforce.
+
+259
+00:10:13,413 --> 00:10:14,609
+For the Czinger,
+
+260
+00:10:14,609 --> 00:10:17,673
+our sources describe aero numbers but not
+
+261
+00:10:17,673 --> 00:10:21,110
+the hardware, so we cannot compare mechanisms.
+
+262
+00:10:21,460 --> 00:10:24,040
+Both cars use a carbon structure,
+
+263
+00:10:24,040 --> 00:10:26,151
+but built very differently.
+
+264
+00:10:26,331 --> 00:10:28,812
+The Senna has a carbon tub called
+
+265
+00:10:28,812 --> 00:10:31,594
+the Monocage Three and carbon panels,
+
+266
+00:10:31,594 --> 00:10:34,075
+according to a launch-day report.
+
+267
+00:10:34,255 --> 00:10:36,341
+The Czinger, ASME says,
+
+268
+00:10:36,341 --> 00:10:38,972
+uses printed aluminium parts,
+
+269
+00:10:38,972 --> 00:10:42,691
+a printed gearbox case and a robot-bonded
+
+270
+00:10:42,691 --> 00:10:43,508
+subframe.
+
+271
+00:10:43,688 --> 00:10:46,556
+Our sources do not say whether the
+
+272
+00:10:46,556 --> 00:10:48,750
+21C also has a carbon tub,
+
+273
+00:10:48,750 --> 00:10:51,787
+so we cannot compare the two chassis
+
+274
+00:10:51,787 --> 00:10:52,546
+directly.
+
+275
+00:10:52,896 --> 00:10:55,404
+Now the contest everyone remembers.
+
+276
+00:10:55,584 --> 00:10:57,400
+McLaren's press release,
+
+277
+00:10:57,400 --> 00:10:59,898
+reported in August twenty twenty,
+
+278
+00:10:59,898 --> 00:11:03,152
+said a stock twenty twenty-one Senna lapped
+
+279
+00:11:03,152 --> 00:11:06,482
+Laguna Seca in one minute twenty-seven point
+
+280
+00:11:06,482 --> 00:11:07,693
+six two seconds,
+
+281
+00:11:07,693 --> 00:11:10,871
+beating a one twenty-eight record that had
+
+282
+00:11:10,871 --> 00:11:12,082
+stood for years.
+
+283
+00:11:12,262 --> 00:11:15,706
+The same release lists a Virginia International
+
+284
+00:11:15,706 --> 00:11:18,784
+Raceway lap of two thirty-four point nine,
+
+285
+00:11:18,784 --> 00:11:22,155
+which it called the fastest production-car lap
+
+286
+00:11:22,155 --> 00:11:22,595
+there.
+
+287
+00:11:22,944 --> 00:11:25,868
+The same release says Andy Pilgrim drove
+
+288
+00:11:25,868 --> 00:11:28,718
+the Corvette Museum Grand Course in two
+
+289
+00:11:28,718 --> 00:11:30,764
+minutes two point eight six,
+
+290
+00:11:30,764 --> 00:11:33,980
+calling it the fastest production-car lap at
+
+291
+00:11:33,980 --> 00:11:35,588
+Corvette's home track.
+
+292
+00:11:35,768 --> 00:11:38,288
+The Senna therefore held several records of
+
+293
+00:11:38,288 --> 00:11:39,460
+its own at the time.
+
+294
+00:11:39,640 --> 00:11:41,953
+The article's headline says four,
+
+295
+00:11:41,953 --> 00:11:45,108
+but only three were explicitly named records.
+
+296
+00:11:45,288 --> 00:11:47,315
+The fourth was a drag run,
+
+297
+00:11:47,315 --> 00:11:49,108
+with no record claimed.
+
+298
+00:11:49,457 --> 00:11:51,361
+Then the Czinger arrived.
+
+299
+00:11:51,541 --> 00:11:55,320
+Wikipedia lists one twenty-five forty-four in August
+
+300
+00:11:55,320 --> 00:11:58,298
+twenty twenty-one, driven by Joel Miller.
+
+301
+00:11:58,478 --> 00:12:01,162
+FastCar says that beat the Senna by
+
+302
+00:12:01,162 --> 00:12:02,542
+about two seconds.
+
+303
+00:12:02,722 --> 00:12:04,062
+By our arithmetic,
+
+304
+00:12:04,062 --> 00:12:06,594
+it is two point one eight seconds,
+
+305
+00:12:06,594 --> 00:12:08,306
+two and a half percent.
+
+306
+00:12:08,486 --> 00:12:11,449
+Backfire's report says the Senna's mark was
+
+307
+00:12:11,449 --> 00:12:12,827
+the previous record,
+
+308
+00:12:12,827 --> 00:12:13,792
+which matches.
+
+309
+00:12:14,142 --> 00:12:15,458
+And it kept going:
+
+310
+00:12:15,458 --> 00:12:19,696
+one twenty-four seventy-five in August twenty twenty-four,
+
+311
+00:12:19,696 --> 00:12:22,693
+one twenty-two thirty on the fifteenth of
+
+312
+00:12:22,693 --> 00:12:24,739
+December twenty twenty-five,
+
+313
+00:12:24,739 --> 00:12:26,200
+both by Joel Miller,
+
+314
+00:12:26,200 --> 00:12:27,296
+Wikipedia says.
+
+315
+00:12:27,476 --> 00:12:28,858
+By our arithmetic,
+
+316
+00:12:28,858 --> 00:12:31,391
+the final lap is five point three
+
+317
+00:12:31,391 --> 00:12:34,231
+two seconds quicker than the Senna's,
+
+318
+00:12:34,231 --> 00:12:35,383
+or six percent.
+
+319
+00:12:35,563 --> 00:12:37,735
+That is a bigger margin than the
+
+320
+00:12:37,735 --> 00:12:39,092
+first record by far.
+
+321
+00:12:39,442 --> 00:12:40,801
+A fair caution.
+
+322
+00:12:40,981 --> 00:12:43,667
+The Senna's time came from a release
+
+323
+00:12:43,667 --> 00:12:45,009
+by McLaren itself.
+
+324
+00:12:45,189 --> 00:12:48,311
+The Czinger's times come from Wikipedia and
+
+325
+00:12:48,311 --> 00:12:49,618
+from news reports,
+
+326
+00:12:49,618 --> 00:12:52,086
+not from a published timing sheet.
+
+327
+00:12:52,266 --> 00:12:54,906
+Neither source set tells us the weather,
+
+328
+00:12:54,906 --> 00:12:56,358
+the track temperature,
+
+329
+00:12:56,358 --> 00:12:58,338
+or the tyres for each attempt.
+
+330
+00:12:58,518 --> 00:13:02,346
+Wikipedia names Michelin Pilot Sport Cup two
+
+331
+00:13:02,346 --> 00:13:05,217
+R tyres for the first two Czinger
+
+332
+00:13:05,217 --> 00:13:06,087
+laps only.
+
+333
+00:13:06,437 --> 00:13:08,490
+One thing the two cars do not
+
+334
+00:13:08,490 --> 00:13:10,118
+share is another track.
+
+335
+00:13:10,298 --> 00:13:12,721
+The Senna has Virginia and the Corvette
+
+336
+00:13:12,721 --> 00:13:13,653
+museum circuit.
+
+337
+00:13:13,833 --> 00:13:16,815
+The Czinger has Circuit of the Americas,
+
+338
+00:13:16,815 --> 00:13:19,947
+two ten point seven in twenty twenty-four,
+
+339
+00:13:19,947 --> 00:13:22,035
+and the Goodwood hill climb,
+
+340
+00:13:22,035 --> 00:13:25,315
+forty-eight point eight two with Chris Ward.
+
+341
+00:13:25,495 --> 00:13:28,091
+We found no common track other than
+
+342
+00:13:28,091 --> 00:13:30,613
+Laguna Seca, so Laguna Seca is the
+
+343
+00:13:30,613 --> 00:13:32,171
+only fair comparison.
+
+344
+00:13:32,521 --> 00:13:33,369
+The price.
+
+345
+00:13:33,549 --> 00:13:36,543
+The Senna was announced at seven hundred
+
+346
+00:13:36,543 --> 00:13:38,190
+fifty thousand pounds,
+
+347
+00:13:38,190 --> 00:13:39,912
+according to Wikipedia,
+
+348
+00:13:39,912 --> 00:13:41,335
+Autocar and GoAuto,
+
+349
+00:13:41,335 --> 00:13:44,105
+which converted it to about one point
+
+350
+00:13:44,105 --> 00:13:46,575
+three million Australian dollars.
+
+351
+00:13:46,755 --> 00:13:47,973
+The final Senna,
+
+352
+00:13:47,973 --> 00:13:50,941
+Wikipedia says, sold at auction for one
+
+353
+00:13:50,941 --> 00:13:54,823
+million nine hundred sixteen thousand seven hundred
+
+354
+00:13:54,823 --> 00:13:56,345
+ninety-three pounds.
+
+355
+00:13:56,525 --> 00:13:57,981
+By our arithmetic,
+
+356
+00:13:57,981 --> 00:14:00,246
+that is two and a half times
+
+357
+00:14:00,246 --> 00:14:01,459
+the list price.
+
+358
+00:14:01,809 --> 00:14:04,514
+The Czinger's price is less clear.
+
+359
+00:14:04,694 --> 00:14:07,164
+GTPlanet in twenty twenty said not to
+
+360
+00:14:07,164 --> 00:14:09,900
+expect a change from two million dollars,
+
+361
+00:14:09,900 --> 00:14:12,102
+and called the price unconfirmed.
+
+362
+00:14:12,282 --> 00:14:15,471
+The Backfire report of March twenty twenty-four
+
+363
+00:14:15,471 --> 00:14:17,982
+says one point seven million dollars.
+
+364
+00:14:18,162 --> 00:14:20,696
+We could not find a manufacturer's price
+
+365
+00:14:20,696 --> 00:14:21,963
+list in our sources,
+
+366
+00:14:21,963 --> 00:14:23,926
+so we show both figures and the
+
+367
+00:14:23,926 --> 00:14:26,777
+difference of three hundred thousand dollars.
+
+368
+00:14:27,126 --> 00:14:29,820
+We cannot compare those two prices directly.
+
+369
+00:14:30,000 --> 00:14:31,474
+One is in pounds,
+
+370
+00:14:31,474 --> 00:14:34,075
+announced in twenty seventeen.
+
+371
+00:14:34,255 --> 00:14:35,922
+The other is in dollars,
+
+372
+00:14:35,922 --> 00:14:38,075
+reported in twenty twenty-four.
+
+373
+00:14:38,255 --> 00:14:40,920
+Our sources give no exchange rate for
+
+374
+00:14:40,920 --> 00:14:44,161
+either date, and inflation matters over seven
+
+375
+00:14:44,161 --> 00:14:44,594
+years.
+
+376
+00:14:44,774 --> 00:14:46,902
+So the only safe statement is:
+
+377
+00:14:46,902 --> 00:14:49,527
+the Czinger was reported to cost more
+
+378
+00:14:49,527 --> 00:14:51,514
+than the Senna's list price,
+
+379
+00:14:51,514 --> 00:14:53,997
+in a different currency and a later
+
+380
+00:14:53,997 --> 00:14:54,352
+year.
+
+381
+00:14:54,701 --> 00:14:56,722
+There is also a way to compare
+
+382
+00:14:56,722 --> 00:14:59,013
+in a single currency from the same
+
+383
+00:14:59,013 --> 00:14:59,485
+source.
+
+384
+00:14:59,665 --> 00:15:02,445
+Backfire says the Czinger takes three to
+
+385
+00:15:02,445 --> 00:15:04,878
+four thousand labour hours per car.
+
+386
+00:15:05,058 --> 00:15:07,874
+We have no labour-hour figure for the
+
+387
+00:15:07,874 --> 00:15:09,396
+Senna in any source,
+
+388
+00:15:09,396 --> 00:15:12,592
+so even this useful comparison is missing.
+
+389
+00:15:12,772 --> 00:15:15,452
+A hand-built Senna and a toolless Czinger
+
+390
+00:15:15,452 --> 00:15:17,739
+cost their makers different things,
+
+391
+00:15:17,739 --> 00:15:19,634
+and we only know one of them.
+
+392
+00:15:19,983 --> 00:15:21,458
+Variants matter too.
+
+393
+00:15:21,638 --> 00:15:25,224
+Wikipedia lists a Senna GTR limited to
+
+394
+00:15:25,224 --> 00:15:29,470
+seventy-five cars, a Senna LM of thirty-five,
+
+395
+00:15:29,470 --> 00:15:31,546
+a GTR LM of five and a
+
+396
+00:15:31,546 --> 00:15:34,188
+Sabre of fifteen for the US.
+
+397
+00:15:34,368 --> 00:15:37,474
+The Czinger's variants are the Lightweight Track
+
+398
+00:15:37,474 --> 00:15:38,768
+and four Blackbirds.
+
+399
+00:15:38,948 --> 00:15:41,464
+So both makers sold the same idea
+
+400
+00:15:41,464 --> 00:15:42,989
+in several packages,
+
+401
+00:15:42,989 --> 00:15:45,734
+which keeps the total rarity of each
+
+402
+00:15:45,734 --> 00:15:48,631
+name higher than the headline numbers.
+
+403
+00:15:48,981 --> 00:15:51,079
+Torque is a good example of a
+
+404
+00:15:51,079 --> 00:15:52,453
+missing comparison.
+
+405
+00:15:52,633 --> 00:15:56,021
+Wikipedia gives the Senna eight hundred newton-metres,
+
+406
+00:15:56,021 --> 00:15:58,531
+which is five hundred ninety pound-feet.
+
+407
+00:15:58,711 --> 00:15:59,919
+For the Czinger,
+
+408
+00:15:59,919 --> 00:16:02,712
+the only torque figure in our sources
+
+409
+00:16:02,712 --> 00:16:05,505
+is a Wikipedia infobox entry of three
+
+410
+00:16:05,505 --> 00:16:09,129
+hundred ninety-seven pound-feet with no context,
+
+411
+00:16:09,129 --> 00:16:12,149
+next to a seven hundred fifty horsepower
+
+412
+00:16:12,149 --> 00:16:12,677
+figure.
+
+413
+00:16:12,857 --> 00:16:13,928
+We do not use it,
+
+414
+00:16:13,928 --> 00:16:16,131
+because it cannot be the whole car.
+
+415
+00:16:16,481 --> 00:16:20,080
+Both makers also sold track-focused cars.
+
+416
+00:16:20,260 --> 00:16:23,077
+Wikipedia says the Senna GTR makes at
+
+417
+00:16:23,077 --> 00:16:27,112
+least eight hundred twenty-five metric horsepower and
+
+418
+00:16:27,112 --> 00:16:29,548
+is limited to seventy-five cars.
+
+419
+00:16:29,728 --> 00:16:33,115
+A GTR LM makes eight hundred thirty-three
+
+420
+00:16:33,115 --> 00:16:34,024
+horsepower.
+
+421
+00:16:34,204 --> 00:16:36,306
+The Sabre, built for the US,
+
+422
+00:16:36,306 --> 00:16:39,758
+has eight hundred twenty-four horsepower and a
+
+423
+00:16:39,758 --> 00:16:42,685
+top speed of two hundred eighteen miles
+
+424
+00:16:42,685 --> 00:16:44,711
+an hour, with fifteen cars.
+
+425
+00:16:44,891 --> 00:16:47,132
+These are all Senna derivatives.
+
+426
+00:16:47,481 --> 00:16:50,954
+The Czinger's counterpart is the Lightweight Track
+
+427
+00:16:50,954 --> 00:16:51,510
+variant.
+
+428
+00:16:51,690 --> 00:16:54,982
+Wikipedia names it but gives no separate
+
+429
+00:16:54,982 --> 00:16:56,299
+power or weight.
+
+430
+00:16:56,479 --> 00:16:59,371
+GTPlanet says it weighs only seventy pounds
+
+431
+00:16:59,371 --> 00:17:01,388
+less than the road car and has
+
+432
+00:17:01,388 --> 00:17:03,271
+the bigger downforce figure.
+
+433
+00:17:03,451 --> 00:17:07,096
+FastCar's top-speed claim of two eighty-one was
+
+434
+00:17:07,096 --> 00:17:09,500
+not tied to a specific version.
+
+435
+00:17:09,680 --> 00:17:11,659
+So we cannot do a clean GTR
+
+436
+00:17:11,659 --> 00:17:14,370
+against Lightweight Track comparison.
+
+437
+00:17:14,720 --> 00:17:16,903
+Goodwood is one place both cars have
+
+438
+00:17:16,903 --> 00:17:17,449
+appeared.
+
+439
+00:17:17,629 --> 00:17:20,262
+Wikipedia says a Senna GTR was a
+
+440
+00:17:20,262 --> 00:17:23,965
+competitor at the twenty nineteen Festival of
+
+441
+00:17:23,965 --> 00:17:26,023
+Speed, but gives no time.
+
+442
+00:17:26,203 --> 00:17:28,766
+For the Czinger it lists forty-eight point
+
+443
+00:17:28,766 --> 00:17:30,719
+eight two seconds up the hill in
+
+444
+00:17:30,719 --> 00:17:32,855
+twenty twenty-four with Chris Ward.
+
+445
+00:17:33,035 --> 00:17:35,323
+Without a Senna time at the same
+
+446
+00:17:35,323 --> 00:17:37,968
+event, there is no result to compare,
+
+447
+00:17:37,968 --> 00:17:39,827
+and we will not guess one.
+
+448
+00:17:40,177 --> 00:17:42,676
+Where the cars are built shapes both
+
+449
+00:17:42,676 --> 00:17:43,231
+stories.
+
+450
+00:17:43,411 --> 00:17:46,111
+A launch-day report says the Senna is
+
+451
+00:17:46,111 --> 00:17:49,395
+assembled at the McLaren Production Centre in
+
+452
+00:17:49,395 --> 00:17:53,117
+Surrey, with a quarter-three twenty eighteen start.
+
+453
+00:17:53,297 --> 00:17:56,164
+The Czinger is built in Los Angeles
+
+454
+00:17:56,164 --> 00:17:57,639
+by a company that,
+
+455
+00:17:57,639 --> 00:17:59,360
+in twenty twenty-two,
+
+456
+00:17:59,360 --> 00:18:01,900
+had fewer than fifty employees,
+
+457
+00:18:01,900 --> 00:18:03,293
+according to CSQ.
+
+458
+00:18:03,473 --> 00:18:06,313
+One is an established carmaker's line,
+
+459
+00:18:06,313 --> 00:18:08,779
+the other a young company's cell.
+
+460
+00:18:09,128 --> 00:18:11,837
+Nothing in our sources says what either
+
+461
+00:18:11,837 --> 00:18:13,018
+car costs to own.
+
+462
+00:18:13,198 --> 00:18:15,143
+No insurance figure,
+
+463
+00:18:15,143 --> 00:18:17,088
+no service interval,
+
+464
+00:18:17,088 --> 00:18:18,352
+no tyre cost,
+
+465
+00:18:18,352 --> 00:18:19,908
+no fuel economy.
+
+466
+00:18:20,088 --> 00:18:21,890
+For two cars this extreme,
+
+467
+00:18:21,890 --> 00:18:23,691
+that is a real hole in the
+
+468
+00:18:23,691 --> 00:18:24,454
+comparison.
+
+469
+00:18:24,634 --> 00:18:26,510
+If you are asking which one is
+
+470
+00:18:26,510 --> 00:18:27,824
+cheaper to live with,
+
+471
+00:18:27,824 --> 00:18:29,950
+our honest answer is that we found
+
+472
+00:18:29,950 --> 00:18:31,764
+no source that compares them,
+
+473
+00:18:31,764 --> 00:18:33,515
+and we will not make one up.
+
+474
+00:18:33,865 --> 00:18:36,977
+Finally, the word better needs a definition.
+
+475
+00:18:37,157 --> 00:18:40,548
+Faster around Laguna Seca is one definition,
+
+476
+00:18:40,548 --> 00:18:42,706
+and the Czinger leads there.
+
+477
+00:18:42,886 --> 00:18:45,273
+More powerful on paper is another,
+
+478
+00:18:45,273 --> 00:18:47,519
+and the Czinger leads there too.
+
+479
+00:18:47,699 --> 00:18:49,726
+More proven, more delivered,
+
+480
+00:18:49,726 --> 00:18:52,114
+and better documented is a third,
+
+481
+00:18:52,114 --> 00:18:53,562
+and the Senna leads.
+
+482
+00:18:53,742 --> 00:18:55,402
+Pick the definition first,
+
+483
+00:18:55,402 --> 00:18:56,998
+then look at the numbers,
+
+484
+00:18:56,998 --> 00:18:59,233
+and check the date beside each one.
+
+485
+00:18:59,583 --> 00:19:01,552
+It would be easy to declare the
+
+486
+00:19:01,552 --> 00:19:03,647
+newer car the winner and move on.
+
+487
+00:19:03,827 --> 00:19:06,214
+But the Senna has things the Czinger
+
+488
+00:19:06,214 --> 00:19:07,275
+cannot show yet.
+
+489
+00:19:07,455 --> 00:19:10,218
+Five hundred cars were delivered from the
+
+490
+00:19:10,218 --> 00:19:12,442
+third quarter of twenty eighteen,
+
+491
+00:19:12,442 --> 00:19:13,991
+according to Wikipedia.
+
+492
+00:19:14,171 --> 00:19:17,133
+The Czinger planned deliveries for late twenty
+
+493
+00:19:17,133 --> 00:19:19,902
+twenty-three, and we found no source giving
+
+494
+00:19:19,902 --> 00:19:21,254
+how many exist today.
+
+495
+00:19:21,603 --> 00:19:24,932
+The Senna's performance figures were also echoed
+
+496
+00:19:24,932 --> 00:19:26,665
+by an independent outlet.
+
+497
+00:19:26,845 --> 00:19:28,991
+Autocar's page lists price,
+
+498
+00:19:28,991 --> 00:19:32,330
+power, weight and acceleration for the car
+
+499
+00:19:32,330 --> 00:19:33,045
+as built.
+
+500
+00:19:33,225 --> 00:19:34,423
+For the Czinger,
+
+501
+00:19:34,423 --> 00:19:37,794
+the independent sources we read mostly repeat
+
+502
+00:19:37,794 --> 00:19:40,790
+the company's own claims or describe the
+
+503
+00:19:40,790 --> 00:19:41,689
+record laps.
+
+504
+00:19:41,869 --> 00:19:45,116
+No instrumented test result appears in our
+
+505
+00:19:45,116 --> 00:19:45,735
+sources.
+
+506
+00:19:45,915 --> 00:19:47,791
+That is a gap in the evidence,
+
+507
+00:19:47,791 --> 00:19:49,479
+not necessarily in the car.
+
+508
+00:19:49,829 --> 00:19:52,105
+The Senna also carries a name.
+
+509
+00:19:52,285 --> 00:19:54,822
+McLaren says it honours Ayrton Senna,
+
+510
+00:19:54,822 --> 00:19:58,044
+who won three world championships with McLaren,
+
+511
+00:19:58,044 --> 00:19:59,758
+in nineteen eighty-eight,
+
+512
+00:19:59,758 --> 00:20:01,266
+ninety and ninety-one,
+
+513
+00:20:01,266 --> 00:20:03,048
+and died in a crash at the
+
+514
+00:20:03,048 --> 00:20:05,996
+nineteen ninety-four San Marino Grand Prix.
+
+515
+00:20:06,176 --> 00:20:08,665
+His nephew Bruno said the family was
+
+516
+00:20:08,665 --> 00:20:11,499
+extremely proud, and that the car honours
+
+517
+00:20:11,499 --> 00:20:12,190
+his uncle.
+
+518
+00:20:12,540 --> 00:20:15,065
+And the Czinger has its own story,
+
+519
+00:20:15,065 --> 00:20:17,887
+which is the subject of another video:
+
+520
+00:20:17,887 --> 00:20:20,411
+a founder who started a company to
+
+521
+00:20:20,411 --> 00:20:22,267
+change how cars are made,
+
+522
+00:20:22,267 --> 00:20:24,049
+a printed-metal factory,
+
+523
+00:20:24,049 --> 00:20:25,683
+and a family business.
+
+524
+00:20:25,863 --> 00:20:27,400
+For this comparison,
+
+525
+00:20:27,400 --> 00:20:29,935
+what matters is that the Senna is
+
+526
+00:20:29,935 --> 00:20:31,319
+a finished, known,
+
+527
+00:20:31,319 --> 00:20:34,392
+delivered quantity, and the Czinger is a
+
+528
+00:20:34,392 --> 00:20:37,466
+fast-moving claim that has so far backed
+
+529
+00:20:37,466 --> 00:20:39,156
+itself with lap times.
+
+530
+00:20:39,506 --> 00:20:41,120
+So which is better?
+
+531
+00:20:41,300 --> 00:20:43,529
+On track, in the single place we
+
+532
+00:20:43,529 --> 00:20:44,714
+can compare them,
+
+533
+00:20:44,714 --> 00:20:45,549
+the Czinger.
+
+534
+00:20:45,729 --> 00:20:48,617
+On the numbers each maker claims,
+
+535
+00:20:48,617 --> 00:20:50,980
+the Czinger leads on power,
+
+536
+00:20:50,980 --> 00:20:53,342
+acceleration and top speed,
+
+537
+00:20:53,342 --> 00:20:56,230
+but those figures are unverified,
+
+538
+00:20:56,230 --> 00:20:59,730
+and its weight and aero numbers conflict
+
+539
+00:20:59,730 --> 00:21:01,043
+across sources.
+
+540
+00:21:01,223 --> 00:21:04,007
+The Senna's figures are better checked,
+
+541
+00:21:04,007 --> 00:21:06,291
+and its Laguna Seca time was the
+
+542
+00:21:06,291 --> 00:21:09,361
+mark the Czinger beat in twenty twenty-one,
+
+543
+00:21:09,361 --> 00:21:11,788
+according to Backfire and FastCar.
+
+544
+00:21:12,138 --> 00:21:14,254
+What we could not confirm:
+
+545
+00:21:14,254 --> 00:21:16,370
+the Czinger's true weight,
+
+546
+00:21:16,370 --> 00:21:18,730
+price list, delivered number,
+
+547
+00:21:18,730 --> 00:21:21,008
+and independent performance.
+
+548
+00:21:21,188 --> 00:21:24,004
+The Senna's redline and its Laguna Seca
+
+549
+00:21:24,004 --> 00:21:24,509
+driver.
+
+550
+00:21:24,689 --> 00:21:26,523
+The tyres on every lap.
+
+551
+00:21:26,703 --> 00:21:30,017
+Whether the 21C also has a carbon
+
+552
+00:21:30,017 --> 00:21:30,418
+tub.
+
+553
+00:21:30,598 --> 00:21:33,653
+And the exact conditions behind either car's
+
+554
+00:21:33,653 --> 00:21:34,139
+record.
+
+555
+00:21:34,319 --> 00:21:36,321
+Each of those would change how much
+
+556
+00:21:36,321 --> 00:21:38,151
+weight to put on the comparison.
+
+557
+00:21:38,500 --> 00:21:40,969
+The takeaway: this is not a story
+
+558
+00:21:40,969 --> 00:21:42,839
+of an old car losing to a
+
+559
+00:21:42,839 --> 00:21:45,083
+new one, but of two answers to
+
+560
+00:21:45,083 --> 00:21:46,430
+the same question.
+
+561
+00:21:46,610 --> 00:21:49,848
+McLaren answered with a pure combustion engine
+
+562
+00:21:49,848 --> 00:21:51,045
+and a carbon tub.
+
+563
+00:21:51,225 --> 00:21:53,541
+Czinger answered with a hybrid,
+
+564
+00:21:53,541 --> 00:21:55,259
+a driver in the middle,
+
+565
+00:21:55,259 --> 00:21:57,425
+and printed structural parts.
+
+566
+00:21:57,605 --> 00:22:00,110
+Both answers produced lap times that the
+
+567
+00:22:00,110 --> 00:22:02,051
+earlier answer could not match.
+
+568
+00:22:02,231 --> 00:22:04,008
+Check the date on every number.
+
+569
+00:22:04,357 --> 00:22:06,901
+If you enjoyed this comparison,
+
+570
+00:22:06,901 --> 00:22:09,199
+subscribe to Pickup Reality.
+
+571
+00:22:09,379 --> 00:22:11,543
+Tell us in the comments which exotic
+
+572
+00:22:11,543 --> 00:22:13,107
+car you want checked next,
+
+573
+00:22:13,107 --> 00:22:15,211
+and which numbers you would like us
+
+574
+00:22:15,211 --> 00:22:15,753
+to chase.
+
+575
+00:22:15,933 --> 00:22:18,565
+Every source is in the description,
+
+576
+00:22:18,565 --> 00:22:21,272
+including the McLaren press release,
+
+577
+00:22:21,272 --> 00:22:24,129
+the Autocar page and the ASME article.
+
+578
+00:22:24,309 --> 00:22:25,846
+We will see you in the next
+
+579
+00:22:25,846 --> 00:22:26,074
+one.
