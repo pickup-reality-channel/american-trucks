@@ -1,0 +1,2251 @@
+1
+00:00:00,000 --> 00:00:03,007
+The Koenigsegg Gemera was revealed in March
+
+2
+00:00:03,007 --> 00:00:06,295
+twenty twenty with a tiny three-cylinder engine
+
+3
+00:00:06,295 --> 00:00:08,394
+making six hundred horsepower.
+
+4
+00:00:08,574 --> 00:00:09,810
+Six years later,
+
+5
+00:00:09,810 --> 00:00:11,973
+as production finally began,
+
+6
+00:00:11,973 --> 00:00:14,677
+that engine was gone from the order
+
+7
+00:00:14,677 --> 00:00:15,063
+book.
+
+8
+00:00:15,243 --> 00:00:17,413
+Two things most people do not know
+
+9
+00:00:17,413 --> 00:00:18,498
+about the Gemera:
+
+10
+00:00:18,498 --> 00:00:19,965
+how that engine worked,
+
+11
+00:00:19,965 --> 00:00:21,943
+and how much the car changed on
+
+12
+00:00:21,943 --> 00:00:23,347
+the way to production.
+
+13
+00:00:23,527 --> 00:00:25,571
+Every figure here is sourced.
+
+14
+00:00:25,920 --> 00:00:29,552
+We used Wikipedia's pages on the Gemera,
+
+15
+00:00:29,552 --> 00:00:31,912
+the Regera and Koenigsegg,
+
+16
+00:00:31,912 --> 00:00:35,543
+a March twenty twenty-six report on AOL,
+
+17
+00:00:35,543 --> 00:00:39,446
+Motor1, InsideHook, SlashGear and Jalopnik.
+
+18
+00:00:39,626 --> 00:00:41,876
+The sources disagree on power,
+
+19
+00:00:41,876 --> 00:00:45,025
+weight and motor counts in several places.
+
+20
+00:00:45,205 --> 00:00:47,074
+We show the disagreements.
+
+21
+00:00:47,254 --> 00:00:49,843
+Our own arithmetic is labelled.
+
+22
+00:00:50,193 --> 00:00:50,831
+Thing one.
+
+23
+00:00:51,011 --> 00:00:54,715
+Wikipedia says the original Gemera engine was
+
+24
+00:00:54,715 --> 00:00:57,677
+a two-litre twin-turbo inline three,
+
+25
+00:00:57,677 --> 00:01:01,216
+called TFG, with Freevalve and no camshaft.
+
+26
+00:01:01,396 --> 00:01:04,403
+It made six hundred horsepower at seventy-five
+
+27
+00:01:04,403 --> 00:01:07,213
+hundred revs and six hundred newton-metres.
+
+28
+00:01:07,393 --> 00:01:08,528
+By our arithmetic,
+
+29
+00:01:08,528 --> 00:01:11,240
+that is three hundred horsepower per litre,
+
+30
+00:01:11,240 --> 00:01:13,952
+from a three-cylinder engine you could lift
+
+31
+00:01:13,952 --> 00:01:14,835
+out and carry.
+
+32
+00:01:15,185 --> 00:01:16,798
+A note on the nickname.
+
+33
+00:01:16,978 --> 00:01:19,837
+The Wikipedia page says only TFG and
+
+34
+00:01:19,837 --> 00:01:21,425
+never spells it out.
+
+35
+00:01:21,605 --> 00:01:24,771
+Motor1's headline called the twenty twenty car
+
+36
+00:01:24,771 --> 00:01:26,353
+a three-cylinder model.
+
+37
+00:01:26,533 --> 00:01:30,015
+InsideHook says it was nicknamed Tiny Friendly
+
+38
+00:01:30,015 --> 00:01:30,469
+Giant.
+
+39
+00:01:30,649 --> 00:01:31,905
+We use that name,
+
+40
+00:01:31,905 --> 00:01:33,603
+as one source gives it,
+
+41
+00:01:33,603 --> 00:01:36,335
+and we note the Wikipedia page itself
+
+42
+00:01:36,335 --> 00:01:37,000
+does not.
+
+43
+00:01:37,350 --> 00:01:40,772
+Freevalve means the valves are controlled without
+
+44
+00:01:40,772 --> 00:01:41,541
+a camshaft.
+
+45
+00:01:41,721 --> 00:01:44,335
+Wikipedia lists it for the engine and
+
+46
+00:01:44,335 --> 00:01:46,384
+gives no further explanation,
+
+47
+00:01:46,384 --> 00:01:49,069
+and none of our other sources describe
+
+48
+00:01:49,069 --> 00:01:49,987
+how it works.
+
+49
+00:01:50,167 --> 00:01:52,420
+So we say what the sources say:
+
+50
+00:01:52,420 --> 00:01:54,381
+the engine has no camshaft.
+
+51
+00:01:54,561 --> 00:01:56,703
+We will not explain a mechanism that
+
+52
+00:01:56,703 --> 00:01:58,370
+our sources do not describe.
+
+53
+00:01:58,720 --> 00:02:00,475
+With the electric side,
+
+54
+00:02:00,475 --> 00:02:04,061
+the combined system output was 1,400 horsepower
+
+55
+00:02:04,061 --> 00:02:06,427
+for the three-cylinder version,
+
+56
+00:02:06,427 --> 00:02:08,182
+according to Wikipedia.
+
+57
+00:02:08,362 --> 00:02:09,667
+By our arithmetic,
+
+58
+00:02:09,667 --> 00:02:12,857
+that means the electric motor supplies eight
+
+59
+00:02:12,857 --> 00:02:16,192
+hundred, which matches the 800 horsepower Dark
+
+60
+00:02:16,192 --> 00:02:18,439
+Matter motor on the front axle.
+
+61
+00:02:18,619 --> 00:02:21,674
+The three-cylinder car was claimed to reach
+
+62
+00:02:21,674 --> 00:02:24,374
+one hundred kilometres per hour in one
+
+63
+00:02:24,374 --> 00:02:25,724
+point nine seconds.
+
+64
+00:02:26,075 --> 00:02:29,677
+AOL's March twenty twenty-six report gives different
+
+65
+00:02:29,677 --> 00:02:32,864
+original numbers for the twenty twenty reveal:
+
+66
+00:02:32,864 --> 00:02:36,536
+one thousand six hundred seventy-seven horsepower and
+
+67
+00:02:36,536 --> 00:02:39,445
+twenty-five hundred eighty-one pound-feet,
+
+68
+00:02:39,445 --> 00:02:42,979
+with the three-cylinder plus three electric motors.
+
+69
+00:02:43,159 --> 00:02:46,844
+Wikipedia mentions one thousand seven hundred brake
+
+70
+00:02:46,844 --> 00:02:49,951
+horsepower in one citation and one thousand
+
+71
+00:02:49,951 --> 00:02:52,841
+six hundred seventy-seven in a headline.
+
+72
+00:02:53,021 --> 00:02:55,854
+So the original claim has two versions.
+
+73
+00:02:56,205 --> 00:02:58,376
+The geometry of the car is unusual.
+
+74
+00:02:58,556 --> 00:03:01,856
+Wikipedia lists a wheelbase of three thousand
+
+75
+00:03:01,856 --> 00:03:05,449
+millimetres, a length of forty-nine seventy-five,
+
+76
+00:03:05,449 --> 00:03:08,236
+a width of nineteen eighty-eight and a
+
+77
+00:03:08,236 --> 00:03:10,363
+height of twelve ninety-five.
+
+78
+00:03:10,543 --> 00:03:11,878
+By our arithmetic,
+
+79
+00:03:11,878 --> 00:03:14,326
+that is nearly sixteen and a half
+
+80
+00:03:14,326 --> 00:03:16,848
+feet long, and just over four feet
+
+81
+00:03:16,848 --> 00:03:17,219
+tall.
+
+82
+00:03:17,399 --> 00:03:19,799
+It is a four-seater with two doors
+
+83
+00:03:19,799 --> 00:03:20,928
+and no B-pillar.
+
+84
+00:03:21,278 --> 00:03:24,103
+The doors are dihedral synchro-helix,
+
+85
+00:03:24,103 --> 00:03:27,234
+Wikipedia says, and there are four seats.
+
+86
+00:03:27,414 --> 00:03:31,132
+It is the first four-seater from Koenigsegg,
+
+87
+00:03:31,132 --> 00:03:34,005
+and Wikipedia calls it a two-door,
+
+88
+00:03:34,005 --> 00:03:36,794
+four-seat coupé or sports saloon.
+
+89
+00:03:36,974 --> 00:03:39,967
+Top Gear's cited headline calls it a
+
+90
+00:03:39,967 --> 00:03:42,960
+Mega GT, and Wikipedia classes it as
+
+91
+00:03:42,960 --> 00:03:44,207
+a grand tourer.
+
+92
+00:03:44,387 --> 00:03:45,714
+Koenigsegg did not,
+
+93
+00:03:45,714 --> 00:03:46,762
+in our sources,
+
+94
+00:03:46,762 --> 00:03:49,206
+publish a rear-seat legroom number.
+
+95
+00:03:49,556 --> 00:03:52,744
+Features include four touchscreens,
+
+96
+00:03:52,744 --> 00:03:55,203
+three-zone climate control,
+
+97
+00:03:55,203 --> 00:03:59,393
+eleven speakers, all-wheel drive and steering,
+
+98
+00:03:59,393 --> 00:04:04,039
+torque vectoring and an Akrapovič titanium exhaust,
+
+99
+00:04:04,039 --> 00:04:05,496
+Wikipedia lists.
+
+100
+00:04:05,676 --> 00:04:08,279
+Wheels are twenty-one by ten and a
+
+101
+00:04:08,279 --> 00:04:11,265
+half inches at the front and twenty-two
+
+102
+00:04:11,265 --> 00:04:13,332
+by eleven and a half at the
+
+103
+00:04:13,332 --> 00:04:16,164
+rear, with Michelin Pilot Sport 4S as
+
+104
+00:04:16,164 --> 00:04:18,308
+standard or Michelin Cup 2R.
+
+105
+00:04:18,658 --> 00:04:20,039
+Then the cup holders.
+
+106
+00:04:20,219 --> 00:04:22,068
+Wikipedia lists eight,
+
+107
+00:04:22,068 --> 00:04:24,422
+four heated and four cooled.
+
+108
+00:04:24,602 --> 00:04:26,815
+The page does not claim a world
+
+109
+00:04:26,815 --> 00:04:29,314
+first, and our other sources do not
+
+110
+00:04:29,314 --> 00:04:30,813
+either, so we do not.
+
+111
+00:04:30,993 --> 00:04:32,740
+It is simply a number:
+
+112
+00:04:32,740 --> 00:04:35,200
+eight cup holders in a car with
+
+113
+00:04:35,200 --> 00:04:38,216
+four seats, which by our arithmetic is
+
+114
+00:04:38,216 --> 00:04:39,248
+two per seat.
+
+115
+00:04:39,598 --> 00:04:40,596
+Thing two.
+
+116
+00:04:40,776 --> 00:04:43,307
+The Gemera that is now in production
+
+117
+00:04:43,307 --> 00:04:45,416
+is not the one shown in twenty
+
+118
+00:04:45,416 --> 00:04:45,908
+twenty.
+
+119
+00:04:46,088 --> 00:04:48,893
+AOL says that in twenty twenty-three the
+
+120
+00:04:48,893 --> 00:04:51,698
+three electric motors were replaced by a
+
+121
+00:04:51,698 --> 00:04:54,363
+single eight-hundred-horsepower motor,
+
+122
+00:04:54,363 --> 00:04:56,467
+cutting weight and complexity.
+
+123
+00:04:56,647 --> 00:05:00,539
+Combined output dropped to fourteen hundred horsepower
+
+124
+00:05:00,539 --> 00:05:03,639
+and thirteen hundred sixty-four pound-feet,
+
+125
+00:05:03,639 --> 00:05:07,098
+down from the original sixteen seventy-seven and
+
+126
+00:05:07,098 --> 00:05:08,756
+twenty-five eighty-one.
+
+127
+00:05:09,107 --> 00:05:10,463
+By our arithmetic,
+
+128
+00:05:10,463 --> 00:05:13,403
+the change cuts peak power by seventeen
+
+129
+00:05:13,403 --> 00:05:16,870
+percent and peak torque by forty-seven percent
+
+130
+00:05:16,870 --> 00:05:18,905
+for the three-cylinder car.
+
+131
+00:05:19,085 --> 00:05:21,152
+Those are the sources' own numbers.
+
+132
+00:05:21,332 --> 00:05:23,709
+They do not say whether drivers would
+
+133
+00:05:23,709 --> 00:05:25,958
+notice, and the claimed zero to one
+
+134
+00:05:25,958 --> 00:05:28,271
+hundred of one point nine seconds is
+
+135
+00:05:28,271 --> 00:05:30,713
+listed for the three-cylinder version.
+
+136
+00:05:31,063 --> 00:05:33,930
+Wikipedia's weights tell another story.
+
+137
+00:05:34,110 --> 00:05:36,382
+It lists a kerb weight of nineteen
+
+138
+00:05:36,382 --> 00:05:39,990
+eighty-eight kilograms for the twenty twenty prototype
+
+139
+00:05:39,990 --> 00:05:43,197
+and twenty forty-two for the twenty twenty-three
+
+140
+00:05:43,197 --> 00:05:44,199
+production car.
+
+141
+00:05:44,379 --> 00:05:45,694
+By our arithmetic,
+
+142
+00:05:45,694 --> 00:05:49,420
+the production car is fifty-four kilograms heavier,
+
+143
+00:05:49,420 --> 00:05:51,173
+or nearly three percent,
+
+144
+00:05:51,173 --> 00:05:53,876
+even though AOL says the revision cut
+
+145
+00:05:53,876 --> 00:05:54,387
+weight.
+
+146
+00:05:54,567 --> 00:05:56,083
+The sources conflict,
+
+147
+00:05:56,083 --> 00:05:58,247
+and the page does not explain.
+
+148
+00:05:58,598 --> 00:06:01,129
+The spec table also conflicts.
+
+149
+00:06:01,309 --> 00:06:04,689
+Wikipedia's table lists a single Dark Matter
+
+150
+00:06:04,689 --> 00:06:06,533
+motor on the front axle,
+
+151
+00:06:06,533 --> 00:06:09,452
+while the text describes three motors,
+
+152
+00:06:09,452 --> 00:06:11,603
+one on the front and one per
+
+153
+00:06:11,603 --> 00:06:14,139
+rear wheel, with the rear ones at
+
+154
+00:06:14,139 --> 00:06:16,367
+five hundred horsepower each.
+
+155
+00:06:16,547 --> 00:06:17,763
+By our arithmetic,
+
+156
+00:06:17,763 --> 00:06:20,399
+eight hundred plus two five hundreds is
+
+157
+00:06:20,399 --> 00:06:23,576
+eighteen hundred, which does not match fourteen
+
+158
+00:06:23,576 --> 00:06:24,116
+hundred.
+
+159
+00:06:24,296 --> 00:06:27,478
+The page is describing two different versions.
+
+160
+00:06:27,828 --> 00:06:29,894
+Then the engine itself.
+
+161
+00:06:30,074 --> 00:06:33,803
+Wikipedia says the three-cylinder option was dropped
+
+162
+00:06:33,803 --> 00:06:36,313
+in July twenty twenty-four due to a
+
+163
+00:06:36,313 --> 00:06:37,388
+lack of demand.
+
+164
+00:06:37,568 --> 00:06:41,131
+AOL says that in twenty twenty-three Koenigsegg
+
+165
+00:06:41,131 --> 00:06:44,314
+stated nearly every customer chose the V8.
+
+166
+00:06:44,494 --> 00:06:47,716
+InsideHook, on the twenty-ninth of July twenty
+
+167
+00:06:47,716 --> 00:06:51,710
+twenty-four, quotes Christian von Koenigsegg saying there
+
+168
+00:06:51,710 --> 00:06:53,741
+were so few left asking for a
+
+169
+00:06:53,741 --> 00:06:54,792
+three-cylinder.
+
+170
+00:06:55,142 --> 00:06:58,316
+The V8 version is a twin-turbo five-litre
+
+171
+00:06:58,316 --> 00:06:59,477
+running on E85,
+
+172
+00:06:59,477 --> 00:07:03,736
+with combined output of twenty-three hundred horsepower
+
+173
+00:07:03,736 --> 00:07:06,600
+and twenty-seven fifty newton-metres,
+
+174
+00:07:06,600 --> 00:07:07,762
+Wikipedia says.
+
+175
+00:07:07,942 --> 00:07:08,878
+By our arithmetic,
+
+176
+00:07:08,878 --> 00:07:12,467
+subtracting the eight-hundred-horsepower motor leaves fifteen hundred
+
+177
+00:07:12,467 --> 00:07:13,247
+for the engine.
+
+178
+00:07:13,427 --> 00:07:15,634
+Car and Driver's headline,
+
+179
+00:07:15,634 --> 00:07:17,246
+cited on Wikipedia,
+
+180
+00:07:17,246 --> 00:07:19,537
+says twenty-two sixty-nine,
+
+181
+00:07:19,537 --> 00:07:22,762
+so the exact figure differs by source.
+
+182
+00:07:23,112 --> 00:07:24,492
+By our arithmetic,
+
+183
+00:07:24,492 --> 00:07:28,098
+the V8 car's twenty-three hundred horsepower is
+
+184
+00:07:28,098 --> 00:07:32,164
+sixty-four percent more than the three-cylinder car's
+
+185
+00:07:32,164 --> 00:07:33,468
+fourteen hundred.
+
+186
+00:07:33,648 --> 00:07:37,155
+It uses a nine-speed Light Speed Tourbillon
+
+187
+00:07:37,155 --> 00:07:40,990
+Transmission, a modified version of the Jesko's
+
+188
+00:07:40,990 --> 00:07:42,947
+gearbox, Wikipedia says.
+
+189
+00:07:43,127 --> 00:07:46,820
+InsideHook quotes Autoblog calling it smaller,
+
+190
+00:07:46,820 --> 00:07:49,710
+lighter and better than the Jesko's.
+
+191
+00:07:49,890 --> 00:07:51,678
+That is the outlet's opinion.
+
+192
+00:07:52,028 --> 00:07:53,497
+Battery and range:
+
+193
+00:07:53,497 --> 00:07:57,090
+Wikipedia lists an eight-hundred-fifty volt,
+
+194
+00:07:57,090 --> 00:07:59,621
+fourteen kilowatt-hour battery.
+
+195
+00:07:59,801 --> 00:08:04,103
+Total range is fourteen hundred sixty-three kilometres,
+
+196
+00:08:04,103 --> 00:08:06,215
+or nine hundred nine miles,
+
+197
+00:08:06,215 --> 00:08:09,266
+and electric range is fifty kilometres,
+
+198
+00:08:09,266 --> 00:08:10,830
+or thirty-one miles.
+
+199
+00:08:11,010 --> 00:08:13,482
+Top speed is claimed at four hundred
+
+200
+00:08:13,482 --> 00:08:16,710
+kilometres per hour for the three-cylinder car,
+
+201
+00:08:16,710 --> 00:08:19,114
+and three hundred in electric mode.
+
+202
+00:08:19,464 --> 00:08:21,820
+Timing is part of the story.
+
+203
+00:08:22,000 --> 00:08:24,867
+Wikipedia says the Gemera was unveiled on
+
+204
+00:08:24,867 --> 00:08:27,174
+the third of March twenty twenty,
+
+205
+00:08:27,174 --> 00:08:30,181
+online, at the cancelled Geneva Motor Show,
+
+206
+00:08:30,181 --> 00:08:33,397
+and was originally scheduled for production in
+
+207
+00:08:33,397 --> 00:08:34,655
+twenty twenty-two.
+
+208
+00:08:34,835 --> 00:08:37,493
+AOL reports on the thirtieth of March
+
+209
+00:08:37,493 --> 00:08:40,653
+twenty twenty-six that production has begun,
+
+210
+00:08:40,653 --> 00:08:42,951
+according to a post on Facebook.
+
+211
+00:08:43,301 --> 00:08:44,606
+By our arithmetic,
+
+212
+00:08:44,606 --> 00:08:47,725
+production began about four years after the
+
+213
+00:08:47,725 --> 00:08:50,990
+originally scheduled date and six years after
+
+214
+00:08:50,990 --> 00:08:51,788
+the reveal.
+
+215
+00:08:51,968 --> 00:08:54,973
+AOL says the Gemera is built alongside
+
+216
+00:08:54,973 --> 00:08:57,979
+the CC850, and that the Sadair's Spear
+
+217
+00:08:57,979 --> 00:08:59,560
+will soon join them.
+
+218
+00:08:59,740 --> 00:09:02,132
+It gives no delivery timeline.
+
+219
+00:09:02,482 --> 00:09:05,455
+AOL says production is limited to three
+
+220
+00:09:05,455 --> 00:09:08,351
+hundred cars and that every example is
+
+221
+00:09:08,351 --> 00:09:10,028
+already accounted for.
+
+222
+00:09:10,208 --> 00:09:13,203
+Wikipedia says production will be limited to
+
+223
+00:09:13,203 --> 00:09:14,156
+three hundred.
+
+224
+00:09:14,336 --> 00:09:15,938
+Neither names a customer.
+
+225
+00:09:16,118 --> 00:09:19,711
+Koenigsegg's own planning says the Gemera is
+
+226
+00:09:19,711 --> 00:09:22,651
+sold out, but we have no independent
+
+227
+00:09:22,651 --> 00:09:25,754
+count of signed orders or of deposits.
+
+228
+00:09:25,934 --> 00:09:27,304
+That is a company claim.
+
+229
+00:09:27,654 --> 00:09:29,643
+Even before production,
+
+230
+00:09:29,643 --> 00:09:32,065
+build slots were being sold.
+
+231
+00:09:32,245 --> 00:09:34,731
+Motor1, in April twenty twenty,
+
+232
+00:09:34,731 --> 00:09:38,260
+reported that a McLaren dealer in Charlotte,
+
+233
+00:09:38,260 --> 00:09:41,548
+North Carolina, was listing a gray Gemera
+
+234
+00:09:41,548 --> 00:09:44,435
+with an orange interior and VIN zero
+
+235
+00:09:44,435 --> 00:09:46,920
+zero one, selling a build slot.
+
+236
+00:09:47,100 --> 00:09:49,504
+The listing did not mention the price.
+
+237
+00:09:49,684 --> 00:09:52,984
+It was six years before production began,
+
+238
+00:09:52,984 --> 00:09:54,432
+by our arithmetic.
+
+239
+00:09:54,782 --> 00:09:57,968
+The same Motor1 report says Christian von
+
+240
+00:09:57,968 --> 00:10:00,378
+Koenigsegg told Top Gear the U.
+
+241
+00:10:00,558 --> 00:10:00,999
+S.
+
+242
+00:10:01,179 --> 00:10:04,324
+-spec Gemera starts at one point seven
+
+243
+00:10:04,324 --> 00:10:05,649
+million dollars.
+
+244
+00:10:05,829 --> 00:10:08,845
+InsideHook, in July twenty twenty-four,
+
+245
+00:10:08,845 --> 00:10:11,398
+repeats a base price of one point
+
+246
+00:10:11,398 --> 00:10:13,951
+seven million, from Auto Express,
+
+247
+00:10:13,951 --> 00:10:17,354
+and a rumoured four hundred thousand dollars
+
+248
+00:10:17,354 --> 00:10:18,669
+extra for the V8.
+
+249
+00:10:18,849 --> 00:10:21,288
+The author notes the total of two
+
+250
+00:10:21,288 --> 00:10:24,318
+point one million is his own calculation.
+
+251
+00:10:24,668 --> 00:10:25,952
+By our arithmetic,
+
+252
+00:10:25,952 --> 00:10:28,806
+four hundred thousand on one point seven
+
+253
+00:10:28,806 --> 00:10:31,018
+million is twenty-four percent.
+
+254
+00:10:31,198 --> 00:10:33,127
+That is if the rumour is right,
+
+255
+00:10:33,127 --> 00:10:35,366
+which InsideHook labels as rumoured.
+
+256
+00:10:35,546 --> 00:10:37,954
+We have no official price list for
+
+257
+00:10:37,954 --> 00:10:39,300
+the production car,
+
+258
+00:10:39,300 --> 00:10:42,204
+and Wikipedia's Gemera page does not give
+
+259
+00:10:42,204 --> 00:10:43,267
+a price at all,
+
+260
+00:10:43,267 --> 00:10:45,108
+so this is the best we can
+
+261
+00:10:45,108 --> 00:10:45,392
+say.
+
+262
+00:10:45,742 --> 00:10:47,516
+Where does the Gemera sit in the
+
+263
+00:10:47,516 --> 00:10:47,959
+line-up?
+
+264
+00:10:48,139 --> 00:10:52,395
+Wikipedia's Koenigsegg page lists the Jesko with
+
+265
+00:10:52,395 --> 00:10:56,828
+twelve hundred eighty-one horsepower on petrol and
+
+266
+00:10:56,828 --> 00:10:59,399
+sixteen hundred three on E85,
+
+267
+00:10:59,399 --> 00:11:02,325
+the CC850 with a new shift system
+
+268
+00:11:02,325 --> 00:11:05,517
+that won a Top Gear innovation award
+
+269
+00:11:05,517 --> 00:11:07,556
+in twenty twenty-three,
+
+270
+00:11:07,556 --> 00:11:08,886
+and the Gemera.
+
+271
+00:11:09,066 --> 00:11:11,221
+As of twenty twenty-six,
+
+272
+00:11:11,221 --> 00:11:12,928
+it names the Jesko,
+
+273
+00:11:12,928 --> 00:11:16,520
+Gemera and CC850 as the current line-up.
+
+274
+00:11:16,870 --> 00:11:18,843
+The company is small but growing.
+
+275
+00:11:19,023 --> 00:11:22,196
+Wikipedia says staff numbered forty-five in two
+
+276
+00:11:22,196 --> 00:11:25,099
+thousand eight and just under eight hundred
+
+277
+00:11:25,099 --> 00:11:27,394
+at the end of twenty twenty-three.
+
+278
+00:11:27,574 --> 00:11:30,633
+In July twenty twenty-three a new factory
+
+279
+00:11:30,633 --> 00:11:32,423
+opened near the old one,
+
+280
+00:11:32,423 --> 00:11:34,587
+doubling production capacity.
+
+281
+00:11:34,767 --> 00:11:36,086
+By our arithmetic,
+
+282
+00:11:36,086 --> 00:11:39,163
+that is a seventeen-fold increase in staff
+
+283
+00:11:39,163 --> 00:11:40,409
+in fifteen years.
+
+284
+00:11:40,759 --> 00:11:42,341
+In two thousand eight,
+
+285
+00:11:42,341 --> 00:11:45,864
+Wikipedia says the company produced eighteen cars
+
+286
+00:11:45,864 --> 00:11:48,165
+at an average price of about one
+
+287
+00:11:48,165 --> 00:11:49,675
+million dollars each.
+
+288
+00:11:49,855 --> 00:11:51,236
+By our arithmetic,
+
+289
+00:11:51,236 --> 00:11:54,382
+that is about eighteen million dollars of
+
+290
+00:11:54,382 --> 00:11:54,766
+cars.
+
+291
+00:11:54,946 --> 00:11:56,207
+The Gemera alone,
+
+292
+00:11:56,207 --> 00:11:58,951
+three hundred cars at one point seven
+
+293
+00:11:58,951 --> 00:12:02,066
+million, would be five hundred ten million
+
+294
+00:12:02,066 --> 00:12:03,698
+dollars of base price,
+
+295
+00:12:03,698 --> 00:12:05,774
+if every one is sold at that
+
+296
+00:12:05,774 --> 00:12:06,219
+price.
+
+297
+00:12:06,570 --> 00:12:07,622
+And the Regera,
+
+298
+00:12:07,622 --> 00:12:09,587
+the earlier hybrid hypercar,
+
+299
+00:12:09,587 --> 00:12:11,272
+is a point of reference.
+
+300
+00:12:11,452 --> 00:12:15,171
+Wikipedia says Koenigsegg planned eighty and built
+
+301
+00:12:15,171 --> 00:12:18,369
+eighty-five, and sold out on the thirteenth
+
+302
+00:12:18,369 --> 00:12:20,228
+of June twenty seventeen,
+
+303
+00:12:20,228 --> 00:12:22,980
+two years after its Geneva unveiling.
+
+304
+00:12:23,160 --> 00:12:25,481
+The Gemera has so far taken six
+
+305
+00:12:25,481 --> 00:12:28,101
+years from unveiling to production,
+
+306
+00:12:28,101 --> 00:12:30,871
+by our arithmetic three times as long
+
+307
+00:12:30,871 --> 00:12:33,191
+as the Regera took to sell out.
+
+308
+00:12:33,542 --> 00:12:35,530
+To judge the Gemera's numbers,
+
+309
+00:12:35,530 --> 00:12:37,849
+put them next to its older sibling.
+
+310
+00:12:38,029 --> 00:12:41,364
+Wikipedia says the Regera has a five-litre
+
+311
+00:12:41,364 --> 00:12:45,096
+twin-turbo V8 making eleven hundred horsepower,
+
+312
+00:12:45,096 --> 00:12:47,160
+or fifteen hundred on E85,
+
+313
+00:12:47,160 --> 00:12:50,415
+plus three electric motors of six hundred
+
+314
+00:12:50,415 --> 00:12:52,321
+ninety-seven horsepower.
+
+315
+00:12:52,501 --> 00:12:55,587
+Its combined output is fifteen hundred in
+
+316
+00:12:55,587 --> 00:12:58,974
+the infobox and seventeen ninety-seven in the
+
+317
+00:12:58,974 --> 00:12:59,351
+text.
+
+318
+00:12:59,531 --> 00:13:01,005
+Even for the Regera,
+
+319
+00:13:01,005 --> 00:13:02,921
+one page gives two totals.
+
+320
+00:13:03,271 --> 00:13:04,491
+By our arithmetic,
+
+321
+00:13:04,491 --> 00:13:07,678
+the Gemera's V8 version at twenty-three hundred
+
+322
+00:13:07,678 --> 00:13:11,203
+horsepower is fifty-three percent above the Regera's
+
+323
+00:13:11,203 --> 00:13:13,305
+fifteen hundred infobox figure,
+
+324
+00:13:13,305 --> 00:13:17,169
+and twenty-eight percent above the seventeen ninety-seven
+
+325
+00:13:17,169 --> 00:13:17,644
+figure.
+
+326
+00:13:17,824 --> 00:13:19,704
+Which one you pick depends on which
+
+327
+00:13:19,704 --> 00:13:20,993
+Regera number you trust.
+
+328
+00:13:21,173 --> 00:13:22,100
+We show both,
+
+329
+00:13:22,100 --> 00:13:24,238
+because our source shows both.
+
+330
+00:13:24,589 --> 00:13:26,612
+Weight is the other half of the
+
+331
+00:13:26,612 --> 00:13:27,004
+story.
+
+332
+00:13:27,184 --> 00:13:30,806
+Wikipedia lists the Regera at fourteen seventy
+
+333
+00:13:30,806 --> 00:13:34,034
+kilograms dry, fifteen ninety kerb in one
+
+334
+00:13:34,034 --> 00:13:36,948
+place and fifteen seventy in another.
+
+335
+00:13:37,128 --> 00:13:40,262
+The Gemera's kerb weight is twenty forty-two.
+
+336
+00:13:40,442 --> 00:13:41,743
+By our arithmetic,
+
+337
+00:13:41,743 --> 00:13:44,924
+the Gemera is between four hundred fifty-two
+
+338
+00:13:44,924 --> 00:13:48,322
+and four hundred seventy-two kilograms heavier,
+
+339
+00:13:48,322 --> 00:13:50,346
+roughly thirty percent more.
+
+340
+00:13:50,696 --> 00:13:51,987
+Power to weight,
+
+341
+00:13:51,987 --> 00:13:53,439
+by our arithmetic,
+
+342
+00:13:53,439 --> 00:13:57,392
+using kerb weights and Wikipedia's power numbers:
+
+343
+00:13:57,392 --> 00:14:00,054
+the Gemera V8 car gives about one
+
+344
+00:14:00,054 --> 00:14:03,282
+point one three horsepower per kilogram,
+
+345
+00:14:03,282 --> 00:14:04,492
+and the Regera,
+
+346
+00:14:04,492 --> 00:14:07,558
+at fifteen hundred and fifteen ninety,
+
+347
+00:14:07,558 --> 00:14:09,736
+about zero point nine four.
+
+348
+00:14:09,916 --> 00:14:12,441
+The figures are only as reliable as
+
+349
+00:14:12,441 --> 00:14:13,306
+the sources.
+
+350
+00:14:13,486 --> 00:14:16,460
+Neither company publishes a test of both
+
+351
+00:14:16,460 --> 00:14:17,799
+cars side by side,
+
+352
+00:14:17,799 --> 00:14:19,732
+as far as our sources say.
+
+353
+00:14:20,083 --> 00:14:23,791
+Acceleration claims: Wikipedia says the Regera does
+
+354
+00:14:23,791 --> 00:14:26,118
+zero to one hundred in two point
+
+355
+00:14:26,118 --> 00:14:28,881
+eight seconds and zero to four hundred
+
+356
+00:14:28,881 --> 00:14:31,644
+and back to zero in twenty-eight point
+
+357
+00:14:31,644 --> 00:14:32,953
+eight one seconds,
+
+358
+00:14:32,953 --> 00:14:35,280
+set in June twenty twenty-three.
+
+359
+00:14:35,460 --> 00:14:37,848
+The Gemera's claim is one point nine
+
+360
+00:14:37,848 --> 00:14:40,965
+seconds, for the three-cylinder version that is
+
+361
+00:14:40,965 --> 00:14:42,159
+no longer offered.
+
+362
+00:14:42,339 --> 00:14:43,425
+For the V8 car,
+
+363
+00:14:43,425 --> 00:14:45,670
+our sources give no zero to one
+
+364
+00:14:45,670 --> 00:14:46,612
+hundred time.
+
+365
+00:14:46,962 --> 00:14:50,407
+The company was founded in nineteen ninety-four
+
+366
+00:14:50,407 --> 00:14:52,459
+by Christian von Koenigsegg,
+
+367
+00:14:52,459 --> 00:14:53,852
+who was twenty-two,
+
+368
+00:14:53,852 --> 00:14:56,930
+and Wikipedia says he raised sixty million
+
+369
+00:14:56,930 --> 00:14:59,129
+Swedish kronor from investors.
+
+370
+00:14:59,309 --> 00:15:01,845
+It started in Olofström and moved to
+
+371
+00:15:01,845 --> 00:15:04,452
+Ängelholm in the early two-thousands.
+
+372
+00:15:04,632 --> 00:15:05,829
+By our arithmetic,
+
+373
+00:15:05,829 --> 00:15:08,753
+it took about twenty-six years from founding
+
+374
+00:15:08,753 --> 00:15:11,412
+to the Gemera's reveal in twenty twenty.
+
+375
+00:15:11,763 --> 00:15:13,423
+Not every year was smooth.
+
+376
+00:15:13,603 --> 00:15:16,442
+Wikipedia reports that in June two thousand
+
+377
+00:15:16,442 --> 00:15:19,149
+nine Koenigsegg signed a letter of intent
+
+378
+00:15:19,149 --> 00:15:19,942
+to buy Saab,
+
+379
+00:15:19,942 --> 00:15:22,913
+with six hundred million dollars backing from
+
+380
+00:15:22,913 --> 00:15:24,828
+the European Investment Bank,
+
+381
+00:15:24,828 --> 00:15:26,478
+and withdrew in November.
+
+382
+00:15:26,658 --> 00:15:28,005
+A Chinese company,
+
+383
+00:15:28,005 --> 00:15:30,549
+BAIC, took a minority stake in two
+
+384
+00:15:30,549 --> 00:15:33,991
+thousand nine, and in January twenty nineteen,
+
+385
+00:15:33,991 --> 00:15:36,610
+twenty percent was sold to NEVS for
+
+386
+00:15:36,610 --> 00:15:39,603
+one hundred seventy-one million dollars.
+
+387
+00:15:39,783 --> 00:15:41,877
+The company bought that stake back in
+
+388
+00:15:41,877 --> 00:15:42,895
+twenty twenty-one.
+
+389
+00:15:43,245 --> 00:15:44,548
+By our arithmetic,
+
+390
+00:15:44,548 --> 00:15:47,516
+the NEVS price of one hundred seventy-one
+
+391
+00:15:47,516 --> 00:15:50,702
+million dollars for twenty percent implies a
+
+392
+00:15:50,702 --> 00:15:54,250
+value of eight hundred fifty-five million dollars
+
+393
+00:15:54,250 --> 00:15:55,842
+for the whole company,
+
+394
+00:15:55,842 --> 00:15:58,449
+if the percentage and price are both
+
+395
+00:15:58,449 --> 00:15:58,883
+exact.
+
+396
+00:15:59,063 --> 00:16:02,164
+Wikipedia does not give a company valuation,
+
+397
+00:16:02,164 --> 00:16:04,559
+so that is our own multiplication,
+
+398
+00:16:04,559 --> 00:16:06,180
+not a published figure.
+
+399
+00:16:06,530 --> 00:16:08,817
+Records belong to the story too.
+
+400
+00:16:08,997 --> 00:16:11,613
+Wikipedia says the Agera RS reached a
+
+401
+00:16:11,613 --> 00:16:15,714
+four hundred forty-seven point one nine kilometre-per-hour
+
+402
+00:16:15,714 --> 00:16:19,037
+average and four hundred fifty-seven point nine
+
+403
+00:16:19,037 --> 00:16:22,572
+four instrumented, in November twenty seventeen at
+
+404
+00:16:22,572 --> 00:16:23,138
+Pahrump.
+
+405
+00:16:23,318 --> 00:16:24,499
+By our arithmetic,
+
+406
+00:16:24,499 --> 00:16:27,321
+the four hundred forty-seven average is two
+
+407
+00:16:27,321 --> 00:16:29,750
+hundred seventy-eight miles per hour.
+
+408
+00:16:29,930 --> 00:16:32,127
+The Gemera is not claimed to be
+
+409
+00:16:32,127 --> 00:16:33,048
+a record car,
+
+410
+00:16:33,048 --> 00:16:35,174
+and none of our sources say it
+
+411
+00:16:35,174 --> 00:16:35,386
+is.
+
+412
+00:16:35,737 --> 00:16:38,116
+Wikipedia adds one more record:
+
+413
+00:16:38,116 --> 00:16:40,572
+the Jesko Attack lap time of one
+
+414
+00:16:40,572 --> 00:16:44,026
+minute twenty-four point eight six seconds at
+
+415
+00:16:44,026 --> 00:16:47,096
+Laguna Seca, on the eighteenth of August
+
+416
+00:16:47,096 --> 00:16:48,554
+twenty twenty-four.
+
+417
+00:16:48,734 --> 00:16:52,148
+The Jesko shares the Gemera's gearbox lineage,
+
+418
+00:16:52,148 --> 00:16:56,007
+as the Gemera's nine-speed transmission is described
+
+419
+00:16:56,007 --> 00:16:58,753
+as a modified version of the Jesko's.
+
+420
+00:16:58,933 --> 00:17:01,750
+But the Jesko's record says nothing directly
+
+421
+00:17:01,750 --> 00:17:03,543
+about how the Gemera drives.
+
+422
+00:17:03,893 --> 00:17:06,404
+There is no Gemera running cost in
+
+423
+00:17:06,404 --> 00:17:08,915
+our sources, so we use the nearest
+
+424
+00:17:08,915 --> 00:17:10,023
+figure we have.
+
+425
+00:17:10,203 --> 00:17:13,019
+An RM Sotheby's catalogue for a twenty
+
+426
+00:17:13,019 --> 00:17:16,057
+twenty Regera, sold at Monterey in twenty
+
+427
+00:17:16,057 --> 00:17:20,058
+twenty-four, reports third-year service and updates in
+
+428
+00:17:20,058 --> 00:17:24,356
+spring twenty twenty-four costing nearly nineteen thousand
+
+429
+00:17:24,356 --> 00:17:27,691
+dollars, including a technician flown in from
+
+430
+00:17:27,691 --> 00:17:28,210
+Sweden.
+
+431
+00:17:28,390 --> 00:17:29,681
+That is the Regera,
+
+432
+00:17:29,681 --> 00:17:30,700
+not the Gemera.
+
+433
+00:17:31,050 --> 00:17:33,945
+The same catalogue lists options of about
+
+434
+00:17:33,945 --> 00:17:36,841
+five hundred one thousand dollars on that
+
+435
+00:17:36,841 --> 00:17:40,230
+Regera, including a one hundred seventy thousand
+
+436
+00:17:40,230 --> 00:17:42,137
+dollar clear carbon finish.
+
+437
+00:17:42,317 --> 00:17:44,991
+The estimate was two point seven five
+
+438
+00:17:44,991 --> 00:17:47,303
+to three point two five million,
+
+439
+00:17:47,303 --> 00:17:49,109
+and the car did not sell.
+
+440
+00:17:49,289 --> 00:17:50,615
+By our arithmetic,
+
+441
+00:17:50,615 --> 00:17:53,562
+that estimate is between one point eight
+
+442
+00:17:53,562 --> 00:17:56,288
+and one point nine times the Gemera's
+
+443
+00:17:56,288 --> 00:17:58,867
+one point seven million base price.
+
+444
+00:17:59,218 --> 00:18:02,219
+The catalogue also notes a detail about
+
+445
+00:18:02,219 --> 00:18:05,528
+buying: California rules require such a car
+
+446
+00:18:05,528 --> 00:18:07,452
+to be sold to a dealer or
+
+447
+00:18:07,452 --> 00:18:09,376
+an out-of-state resident.
+
+448
+00:18:09,556 --> 00:18:11,380
+That is a note about the Regera
+
+449
+00:18:11,380 --> 00:18:13,263
+sale, and we do not know whether
+
+450
+00:18:13,263 --> 00:18:14,734
+it applies to the Gemera.
+
+451
+00:18:14,914 --> 00:18:17,276
+We include it because it shows how
+
+452
+00:18:17,276 --> 00:18:20,194
+the paperwork around these cars can affect
+
+453
+00:18:20,194 --> 00:18:21,236
+the buyer pool,
+
+454
+00:18:21,236 --> 00:18:23,459
+not because it is a Gemera rule.
+
+455
+00:18:23,810 --> 00:18:26,097
+Fuel is a number we can compute.
+
+456
+00:18:26,277 --> 00:18:28,557
+The V8 runs on E85,
+
+457
+00:18:28,557 --> 00:18:32,518
+Wikipedia says, and the car has a
+
+458
+00:18:32,518 --> 00:18:35,878
+1,463-kilometre total range.
+
+459
+00:18:36,058 --> 00:18:37,975
+We do not have a published tank
+
+460
+00:18:37,975 --> 00:18:40,016
+size, so we cannot turn that into
+
+461
+00:18:40,016 --> 00:18:41,561
+a mile-per-gallon figure.
+
+462
+00:18:41,741 --> 00:18:43,766
+Our sources give a range,
+
+463
+00:18:43,766 --> 00:18:45,224
+not a consumption.
+
+464
+00:18:45,404 --> 00:18:47,180
+That is the honest limit:
+
+465
+00:18:47,180 --> 00:18:49,665
+we will not invent a tank capacity.
+
+466
+00:18:50,016 --> 00:18:52,927
+A few details from the Wikipedia page
+
+467
+00:18:52,927 --> 00:18:54,265
+are easy to miss.
+
+468
+00:18:54,445 --> 00:18:57,246
+The car has an optional Ghost package,
+
+469
+00:18:57,246 --> 00:19:00,563
+named after the ghost emblem Koenigsegg uses.
+
+470
+00:19:00,743 --> 00:19:03,658
+The page lists the package without describing
+
+471
+00:19:03,658 --> 00:19:05,925
+its contents, and none of our other
+
+472
+00:19:05,925 --> 00:19:07,674
+sources describe it either.
+
+473
+00:19:07,854 --> 00:19:09,526
+So we can say it exists,
+
+474
+00:19:09,526 --> 00:19:11,895
+and we cannot say what it changes.
+
+475
+00:19:12,245 --> 00:19:14,060
+The tyres are named:
+
+476
+00:19:14,060 --> 00:19:17,328
+Michelin Pilot Sport 4S as standard,
+
+477
+00:19:17,328 --> 00:19:20,232
+or Michelin Cup 2R as an option.
+
+478
+00:19:20,412 --> 00:19:22,727
+The Pilot Sport 4S is the road
+
+479
+00:19:22,727 --> 00:19:24,810
+tyre, and the Cup 2R is the
+
+480
+00:19:24,810 --> 00:19:26,275
+track-oriented one.
+
+481
+00:19:26,455 --> 00:19:28,967
+That description of the two tyres is
+
+482
+00:19:28,967 --> 00:19:31,758
+general knowledge, not from our sources,
+
+483
+00:19:31,758 --> 00:19:33,572
+which only list the names.
+
+484
+00:19:33,752 --> 00:19:36,608
+The page gives no tyre prices and
+
+485
+00:19:36,608 --> 00:19:38,512
+no expected tyre life.
+
+486
+00:19:38,863 --> 00:19:41,802
+The wheels are different sizes front and
+
+487
+00:19:41,802 --> 00:19:44,742
+rear: twenty-one inches at the front and
+
+488
+00:19:44,742 --> 00:19:46,432
+twenty-two at the rear.
+
+489
+00:19:46,612 --> 00:19:47,912
+By our arithmetic,
+
+490
+00:19:47,912 --> 00:19:50,944
+a one-inch difference in diameter is about
+
+491
+00:19:50,944 --> 00:19:53,327
+two and a half centimetres on the
+
+492
+00:19:53,327 --> 00:19:54,194
+wheel alone.
+
+493
+00:19:54,374 --> 00:19:57,102
+Wikipedia gives the widths as ten and
+
+494
+00:19:57,102 --> 00:19:59,167
+a half and eleven and a half
+
+495
+00:19:59,167 --> 00:20:01,379
+inches, so the rear wheel is a
+
+496
+00:20:01,379 --> 00:20:02,559
+full inch wider.
+
+497
+00:20:02,909 --> 00:20:04,731
+Back to the Freevalve engine.
+
+498
+00:20:04,911 --> 00:20:06,651
+In the three-cylinder car,
+
+499
+00:20:06,651 --> 00:20:09,596
+six hundred horsepower came from a two-litre
+
+500
+00:20:09,596 --> 00:20:12,206
+unit, and the system output of fourteen
+
+501
+00:20:12,206 --> 00:20:14,682
+hundred had to be delivered through a
+
+502
+00:20:14,682 --> 00:20:16,556
+gearbox and all-wheel drive.
+
+503
+00:20:16,736 --> 00:20:21,140
+Wikipedia describes all-wheel drive and all-wheel steering
+
+504
+00:20:21,140 --> 00:20:23,493
+together with torque vectoring.
+
+505
+00:20:23,673 --> 00:20:26,530
+How the power splits between axles is
+
+506
+00:20:26,530 --> 00:20:28,770
+not described in our sources.
+
+507
+00:20:29,120 --> 00:20:31,395
+Efficiency claims are another gap.
+
+508
+00:20:31,575 --> 00:20:34,414
+Wikipedia and AOL give a total range
+
+509
+00:20:34,414 --> 00:20:38,357
+of fourteen sixty-three kilometres and an electric
+
+510
+00:20:38,357 --> 00:20:39,540
+range of fifty.
+
+511
+00:20:39,720 --> 00:20:41,055
+By our arithmetic,
+
+512
+00:20:41,055 --> 00:20:43,800
+the electric part is only three point
+
+513
+00:20:43,800 --> 00:20:46,175
+four percent of the total range,
+
+514
+00:20:46,175 --> 00:20:48,029
+so the car is meant to be
+
+515
+00:20:48,029 --> 00:20:50,107
+driven mostly by its engine,
+
+516
+00:20:50,107 --> 00:20:53,001
+with electric power for short trips and
+
+517
+00:20:53,001 --> 00:20:53,965
+for boosting.
+
+518
+00:20:54,315 --> 00:20:55,554
+One more number:
+
+519
+00:20:55,554 --> 00:20:59,197
+the battery is fourteen kilowatt-hours at eight
+
+520
+00:20:59,197 --> 00:21:00,747
+hundred fifty volts.
+
+521
+00:21:00,927 --> 00:21:02,237
+By our arithmetic,
+
+522
+00:21:02,237 --> 00:21:06,022
+fifty kilometres on fourteen kilowatt-hours is about
+
+523
+00:21:06,022 --> 00:21:09,879
+zero point twenty-eight kilowatt-hours per kilometre,
+
+524
+00:21:09,879 --> 00:21:13,373
+or four-point-five kilowatt-hours per ten miles,
+
+525
+00:21:13,373 --> 00:21:16,139
+which is heavy compared with the small
+
+526
+00:21:16,139 --> 00:21:17,958
+hybrids most people know.
+
+527
+00:21:18,138 --> 00:21:19,870
+It is a performance car,
+
+528
+00:21:19,870 --> 00:21:22,179
+and the range is a side benefit.
+
+529
+00:21:22,529 --> 00:21:24,749
+So the two things to remember are
+
+530
+00:21:24,749 --> 00:21:25,152
+these.
+
+531
+00:21:25,332 --> 00:21:28,325
+First, the engine that defined the Gemera's
+
+532
+00:21:28,325 --> 00:21:32,360
+debut, a camshaft-free three-cylinder making three hundred
+
+533
+00:21:32,360 --> 00:21:33,822
+horsepower per litre,
+
+534
+00:21:33,822 --> 00:21:35,979
+is no longer on the order form.
+
+535
+00:21:36,159 --> 00:21:39,530
+Second, the car that reached production is
+
+536
+00:21:39,530 --> 00:21:41,777
+a different, simpler hybrid,
+
+537
+00:21:41,777 --> 00:21:44,024
+with one big electric motor,
+
+538
+00:21:44,024 --> 00:21:46,431
+a V8, and a price that sources
+
+539
+00:21:46,431 --> 00:21:49,642
+put near one point seven million dollars
+
+540
+00:21:49,642 --> 00:21:50,845
+before options.
+
+541
+00:21:51,196 --> 00:21:52,275
+What is missing.
+
+542
+00:21:52,455 --> 00:21:54,777
+An official production price.
+
+543
+00:21:54,957 --> 00:21:57,645
+The weight of the final production car,
+
+544
+00:21:57,645 --> 00:22:00,677
+which Wikipedia lists but AOL contradicts on
+
+545
+00:22:00,677 --> 00:22:01,366
+direction.
+
+546
+00:22:01,546 --> 00:22:05,493
+Independent performance tests of the production Gemera.
+
+547
+00:22:05,673 --> 00:22:07,908
+How many of the three hundred are
+
+548
+00:22:07,908 --> 00:22:10,277
+V8 and how many were converted from
+
+549
+00:22:10,277 --> 00:22:11,293
+three-cylinder.
+
+550
+00:22:11,473 --> 00:22:13,562
+If you have a primary source for
+
+551
+00:22:13,562 --> 00:22:14,410
+any of these,
+
+552
+00:22:14,410 --> 00:22:15,977
+tell us in the comments.
+
+553
+00:22:16,328 --> 00:22:19,742
+So: the three-cylinder that made three hundred
+
+554
+00:22:19,742 --> 00:22:21,895
+horsepower per litre is gone,
+
+555
+00:22:21,895 --> 00:22:24,419
+and the car shown in twenty twenty
+
+556
+00:22:24,419 --> 00:22:27,537
+has been rebuilt around one electric motor
+
+557
+00:22:27,537 --> 00:22:28,205
+and a V8.
+
+558
+00:22:28,385 --> 00:22:30,710
+In the other videos of this series,
+
+559
+00:22:30,710 --> 00:22:33,235
+we compare the Gemera with the Regera,
+
+560
+00:22:33,235 --> 00:22:35,760
+count what Koenigsegg ownership costs,
+
+561
+00:22:35,760 --> 00:22:37,819
+and tell why the cars are built
+
+562
+00:22:37,819 --> 00:22:39,414
+in a fighter-jet hangar.
+
+563
+00:22:39,594 --> 00:22:42,067
+Subscribe to Pickup Reality.
