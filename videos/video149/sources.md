@@ -1,0 +1,8 @@
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Gear Patrol (Amos Kwon), Mercedes-Benz G63 AMG 6x6, 1 Mar 2013: https://www.gearpatrol.com/?p=337999
+- The Drive (Mate Petrany), Our new favorite rich person put 47,000 miles on their G63 AMG 6x6, 10 Nov 2020: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- Motor Authority / Road & Track (Stephen Edelstein), Raid the 401k: 2014 Mercedes-Benz G63 AMG 6x6 for sale on Bring a Trailer, 3 Nov 2020: https://motorauthority.com/news/1130174_raid-the-401k-2014-mercedes-benz-g63-amg-6x6-for-sale-on-bring-a-trailer
+- CarAdvice (James Ward) via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- Carscoops (Brad Anderson), Someone is willing to pay over $1 million for this Mercedes G63 6x6 tuned by Brabus, 21 Dec 2021: https://www.carscoops.com/2021/12/someone-is-willing-to-pay-over-1-million-for-this-mercedes-g63-6x6-tuned-by-brabus/
+- MercedesBlog (Elena Luchian), Mercedes-Benz G63 AMG 6x6 sold, here it goes again and this time it was cheaper, 18 May 2022: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/

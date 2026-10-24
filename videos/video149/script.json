@@ -1,0 +1,337 @@
+{
+ "id": "video149",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Mercedes G63 6x6",
+ "scenes": [
+  {
+   "text": "A Mercedes G 63 AMG 6x6 weighs about nine thousand pounds, stands on thirty-seven inch tyres, and was priced at three hundred seventy-nine thousand euros when new. Roughly one hundred were built. In this video we explain two things you probably did not know about it: what it really is underneath, and where its hardware went afterwards. Every figure comes from a named source.",
+   "query": "Mercedes G63 AMG 6x6",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE MERCEDES G63 AMG 6x6",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We used Wikipedia's pages on the 6x6 and on the G-Class, Gear Patrol, The Drive, Road and Track via Motor Authority, CarAdvice via Driven Car Guide, MercedesBlog and Carscoops. They disagree in places, for example on power, price and dates. We show the disagreements. Our own maths is labelled as ours.",
+   "query": "G63 6x6",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 GEAR PATROL \u00b7 THE DRIVE \u00b7 ROAD & TRACK (VIA MOTOR AUTHORITY) \u00b7 CARADVICE \u00b7 MERCEDESBLOG \u00b7 CARSCOOPS \u00b7 DISAGREEMENTS ARE SHOWN \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Secret one. The G 63 AMG 6x6 was not designed as a luxury toy. Wikipedia says it is derived from a six-wheel-drive Gel\u00e4ndewagen developed for the Australian Army, with development from two thousand seven. Gear Patrol says it is built on the military version of the G 320 CDI, in partnership with Magna Steyr in Austria.",
+   "query": "Army origin",
+   "caption": "WIKIPEDIA: DERIVED FROM A 6x6 GEL\u00c4NDEWAGEN DEVELOPED FOR THE AUSTRALIAN ARMY FROM 2007 \u00b7 GEAR PATROL: BUILT ON THE MILITARY G 320 CDI, WITH MAGNA STEYR",
+   "cuts": 5,
+   "chapter": "Secret one: it started as an army truck"
+  },
+  {
+   "text": "The sources disagree on the year. Road and Track, quoted by Motor Authority in November twenty twenty, says the army vehicle was developed in twenty eleven and based on the G 320 CDI diesel. Wikipedia says two thousand seven. We cannot settle it from our sources. By our arithmetic, the two dates are four years apart.",
+   "query": "Two dates",
+   "caption": "WIKIPEDIA: ARMY VEHICLE DEVELOPED FROM 2007 \u00b7 ROAD & TRACK (VIA MOTOR AUTHORITY, 3 NOV 2020): DEVELOPED IN 2011 \u00b7 GAP: 4 YEARS (OUR ARITHMETIC) \u00b7 NOT RESOLVABLE FROM OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The military version did not end when the civilian one did. CarAdvice, in its report of the thirteenth of April twenty fifteen, says the Australian Army chassis is different from the AMG version and will continue to be produced. So the civilian 6x6 was a spin-off from a working vehicle, not the other way round.",
+   "query": "The army version continues",
+   "caption": "CARADVICE (13 APR 2015, VIA DRIVEN CAR GUIDE): ARMY SIX-WHEEL G-WAGEN CHASSIS 'IS DIFFERENT TO THE AMG VERSION AND WILL CONTINUE TO BE PRODUCED'",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the 6x6 was introduced for the thirtieth anniversary of G-Wagen production. It adds that at launch it was the company's largest off-road vehicle and its second most expensive street-legal model, after the SLS AMG Electric Drive. So an army-derived truck was priced above nearly everything else Mercedes sold.",
+   "query": "Launch position",
+   "caption": "WIKIPEDIA: INTRODUCED FOR 30TH ANNIVERSARY OF G-WAGEN PRODUCTION \u00b7 LARGEST MERCEDES OFF-ROADER \u00b7 2ND MOST EXPENSIVE STREET-LEGAL MODEL AFTER SLS AMG ELECTRIC DRIVE",
+   "cuts": 3
+  },
+  {
+   "text": "Where was it built? Wikipedia says Magna Steyr in Graz, Austria. Gear Patrol says the work was done in partnership with Magna Steyr. Wikipedia's G-Class page mentions Magna Steyr only as a general assembler of the G-Class. Neither page gives details of how many workers or hours each unit took.",
+   "query": "Built in Graz",
+   "caption": "WIKIPEDIA: BUILT BY MAGNA STEYR, GRAZ, AUSTRIA \u00b7 GEAR PATROL: 'IN PARTNERSHIP WITH MAGNA STEYR' \u00b7 HOURS / WORKERS PER UNIT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Start with the drivetrain, from Wikipedia. It has six-wheel drive with portal axles similar to those on Unimog vehicles. The transfer case has a high ratio of zero point eight seven to one and a low ratio of two point one six to one. Power is nominally split thirty, forty and thirty percent between the front, middle and rear axles.",
+   "query": "Portal axles and split",
+   "caption": "WIKIPEDIA: 6x6 PORTAL AXLES SIMILAR TO UNIMOG \u00b7 TRANSFER CASE 0.87:1 HIGH / 2.16:1 LOW \u00b7 NOMINAL 30:40:30 SPLIT FRONT:MIDDLE:REAR",
+   "cuts": 3,
+   "chapter": "What the army truck gives the owner"
+  },
+  {
+   "text": "By our arithmetic, a thirty, forty, thirty split of the five hundred sixty-one pound-feet of engine torque would be about one hundred sixty-eight, two hundred twenty-four and one hundred sixty-eight pound-feet at each axle. That ignores gearing and losses, so it only shows the idea of the split. Brabus, on its modified car, also lists a thirty, forty, thirty division.",
+   "query": "What 30:40:30 means",
+   "caption": "561 LB-FT \u00d7 30% = 168 \u00b7 \u00d7 40% = 224 \u00b7 \u00d7 30% = 168 (OUR ARITHMETIC; IGNORES GEARING AND LOSSES) \u00b7 CARSCOOPS: BRABUS CAR ALSO 30/40/30",
+   "cuts": 3
+  },
+  {
+   "text": "Five electronic differential locks can lock all six wheels, Wikipedia says. Gear Patrol puts it as up to one hundred percent lock-up across all six wheels, with low-range gearing. Road and Track repeats five differential locks and one hundred percent lockup on all axles. Three outlets give the same claim, which is consistent, although none measured it.",
+   "query": "Five locks",
+   "caption": "WIKIPEDIA \u00b7 GEAR PATROL \u00b7 ROAD & TRACK: FIVE DIFFERENTIAL LOCKS, UP TO 100% LOCK-UP ON ALL AXLES \u00b7 MANUFACTURER CLAIM, NOT INDEPENDENTLY MEASURED",
+   "cuts": 3
+  },
+  {
+   "text": "The tyre system is unusual. Wikipedia says an air compressor fills four twenty-litre tanks, allowing the driver to change tyre pressure in under twenty seconds. By our arithmetic, four twenty-litre tanks hold eighty litres in total, about twenty-one US gallons by volume. Road and Track also mentions a central tyre-pressure system.",
+   "query": "Tyre pressure system",
+   "caption": "WIKIPEDIA: COMPRESSOR + 4 \u00d7 20 L TANKS \u00b7 PRESSURE CHANGE IN UNDER 20 S \u00b7 4 \u00d7 20 = 80 L \u2248 21 US GAL (OUR ARITHMETIC) \u00b7 ROAD & TRACK: CENTRAL TYRE-PRESSURE SYSTEM",
+   "cuts": 3
+  },
+  {
+   "text": "Next, the wheels. Wikipedia lists thirty-seven inch tyres, which is nine hundred forty millimetres, on eighteen inch beadlock wheels. Gear Patrol says thirty-seven inch wheels, which is probably a loose use of the word. We follow Wikipedia and Road and Track, which both say tyres. The Brabus car in Carscoops wore Nitto Ridge Grappler tyres.",
+   "query": "Tyres and wheels",
+   "caption": "WIKIPEDIA: 37-IN (940 MM) TYRES ON 18-IN BEADLOCK WHEELS \u00b7 GEAR PATROL SAYS '37-INCH WHEELS' (LIKELY LOOSE WORDING \u2014 OUR READING) \u00b7 CARSCOOPS (BRABUS CAR): 18-IN HUTCHINSON BEADLOCKS, 37-IN NITTO RIDGE GRAPPLER",
+   "cuts": 3
+  },
+  {
+   "text": "Ground clearance is four hundred sixty millimetres, which is eighteen point one inches, according to Wikipedia. Road and Track also says eighteen point one inches. Wading depth is one thousand millimetres, or thirty-nine point four inches. Those are manufacturer-type numbers, and our sources do not describe any independent test of either.",
+   "query": "Clearance and wading",
+   "caption": "WIKIPEDIA: GROUND CLEARANCE 460 MM (18.1 IN) \u00b7 WADING 1,000 MM (39.4 IN) \u00b7 ROAD & TRACK: 18.1 IN \u00b7 INDEPENDENT TESTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The size. Wikipedia lists a length of fifty-eight seventy-five millimetres, a width of twenty-one ten, and a height of twenty-two ten. By our arithmetic, that is about nineteen point three feet long, six point nine feet wide, and seven point two feet tall. The wheelbase, front axle to rearmost axle, is forty-one ninety-six millimetres, or about thirteen point eight feet.",
+   "query": "Dimensions",
+   "caption": "WIKIPEDIA: 5,875 \u00d7 2,110 \u00d7 2,210 MM \u00b7 = 19.3 \u00d7 6.9 \u00d7 7.3 FT \u00b7 WHEELBASE 4,196 MM = 13.8 FT (OUR CONVERSIONS)",
+   "cuts": 3
+  },
+  {
+   "text": "Weight. Wikipedia lists a kerb weight of forty-eighty-three kilograms, which is nine thousand and one pounds. The Drive, describing a specific car in November twenty twenty, says nine thousand fifty pounds. CarAdvice says about four tonnes. These agree within about one percent, and they are all heavy.",
+   "query": "Weight",
+   "caption": "WIKIPEDIA: 4,083 KG = 9,001 LB \u00b7 THE DRIVE: 9,050 LB \u00b7 CARADVICE: 'ABOUT 4 TONNES' \u00b7 9,050 vs 9,001 = 0.5% DIFFERENCE (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The weight"
+  },
+  {
+   "text": "Put that against the engine. The 5.5-litre twin-turbo V8 makes five hundred thirty-six horsepower, per Wikipedia. By our arithmetic, that is about seven point six kilograms for every horsepower, or about sixteen point eight pounds. Our sources give no comparison car, so we leave it as a number.",
+   "query": "Weight per horsepower",
+   "caption": "4,083 KG \u00f7 536 HP = 7.6 KG/HP \u00b7 9,001 LB \u00f7 536 = 16.8 LB/HP (OUR ARITHMETIC; NO COMPARISON CAR IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "The performance numbers. Wikipedia lists zero to sixty miles per hour in seven point eight seconds, and a top speed limited to one hundred miles per hour, which is one hundred sixty-one kilometres per hour. Its text elsewhere says zero to one hundred kilometres per hour in six seconds, while its table lists seven point nine. The page contradicts itself.",
+   "query": "Performance claims",
+   "caption": "WIKIPEDIA: 0\u201360 MPH 7.8 S \u00b7 TOP SPEED LIMITED TO 100 MPH (161 KM/H) \u00b7 TEXT: 0\u2013100 KM/H IN 6 S vs TABLE 7.9 S \u2192 INTERNAL CONFLICT",
+   "cuts": 3
+  },
+  {
+   "text": "Power figures also vary by outlet. Wikipedia lists five hundred forty-three PS, which is five hundred thirty-six horsepower, and five hundred sixty-one pound-feet. Road and Track says five hundred forty-four horsepower and five hundred sixty. CarAdvice gives four hundred five kilowatts and seven hundred sixty newton-metres. The differences are mostly unit rounding.",
+   "query": "Power figures",
+   "caption": "WIKIPEDIA 543 PS / 536 HP / 561 LB-FT \u00b7 ROAD & TRACK 544 HP / 560 LB-FT \u00b7 CARADVICE 405 KW / 760 N\u00b7M (WIKIPEDIA'S G-CLASS PAGE: 400 KW) \u00b7 DIFFERENCES ARE MAINLY UNIT ROUNDING",
+   "cuts": 3
+  },
+  {
+   "text": "One number looks doubtful. Wikipedia's G-Class page lists fuel consumption of fifteen point six litres per hundred kilometres for the 6x6, but the cell is partly garbled in our copy. By our arithmetic, that is about fifteen miles per gallon. For a nine-thousand-pound truck with thirty-seven-inch tyres, we do not trust it without a better source.",
+   "query": "A doubtful fuel figure",
+   "caption": "WIKIPEDIA (G-CLASS PAGE): 15.6 L/100 KM, CELL PARTLY GARBLED \u00b7 = 15.1 MPG US (OUR CONVERSION) \u00b7 NOT CONFIRMED BY ANOTHER SOURCE \u00b7 NOT USED AS FACT",
+   "cuts": 3
+  },
+  {
+   "text": "How many were built? Wikipedia's 6x6 page says production exceeded one hundred vehicles. Its G-Class page says slightly more than one hundred, with the last customer delivery in May twenty fifteen. CarAdvice says roughly one hundred. The Drive says around one hundred. Road and Track says about one hundred. MercedesBlog calls it a never-known-for-sure number of one hundred.",
+   "query": "How many were built",
+   "caption": "WIKIPEDIA: 'EXCEEDING 100' / 'SLIGHTLY MORE THAN 100' \u00b7 CARADVICE: ROUGHLY 100 \u00b7 THE DRIVE: AROUND 100 \u00b7 R&T: ABOUT 100 \u00b7 MERCEDESBLOG: 'NEVER-KNOWN-FOR-SURE NUMBER OF 100' \u00b7 EXACT COUNT: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "The numbers behind the rarity"
+  },
+  {
+   "text": "When did it sell out? CarAdvice, in April twenty fifteen, says the limited run sold out in about twelve months. Wikipedia says Mercedes declared it sold out in early twenty fifteen, and that it sold more units than originally anticipated. By our arithmetic, a twelve month sell-out from a fall twenty thirteen sales start would be about autumn twenty fourteen.",
+   "query": "Sold out",
+   "caption": "CARADVICE (13 APR 2015): SOLD OUT IN 'ABOUT 12 MONTHS' \u00b7 WIKIPEDIA: SOLD OUT EARLY 2015, MORE THAN ANTICIPATED \u00b7 GEAR PATROL: SALE PLANNED FALL 2013 \u2192 +12 MONTHS \u2248 AUTUMN 2014 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Two customer groups are named by Wikipedia. In Malaysia, fifteen right-hand-drive units were bought by Naza World, priced at three point two million ringgit before tax. In South Africa, a businessman ordered ten units, converted to right-hand drive. The Malaysian price cites an article about a Brabus car, so we treat it with caution.",
+   "query": "Named buyers",
+   "caption": "WIKIPEDIA: MALAYSIA \u2014 15 RHD UNITS, NAZA WORLD, RM3.2 MILLION BEFORE TAX (CITED ARTICLE CONCERNS A BRABUS CAR \u2014 CAUTION) \u00b7 SOUTH AFRICA \u2014 10 UNITS ORDERED BY A BUSINESSMAN, CONVERTED TO RHD",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, fifteen plus ten is twenty-five units, which is roughly a quarter of a production of about one hundred. If the Wikipedia count is correct, then those two orders alone account for a large share of the world's 6x6s. Our sources do not tell us where the rest went, except for single cars in Japan and the United States.",
+   "query": "A quarter of production",
+   "caption": "15 + 10 = 25 \u2248 25% OF ~100 (OUR ARITHMETIC; WIKIPEDIA CUSTOMER FIGURES) \u00b7 OTHER MARKETS: ONLY JAPAN AND USA CARS MENTIONED (THE DRIVE, CARSCOOPS)",
+   "cuts": 3
+  },
+  {
+   "text": "What did it cost new? Carscoops says a sticker price of three hundred seventy-nine thousand euros, the equivalent of five hundred eleven thousand dollars in two thousand thirteen. CarAdvice also says three hundred seventy-nine thousand euros, and nearly five hundred fifty thousand in dollars. Gear Patrol, in March twenty thirteen, said about five hundred twenty-six thousand dollars.",
+   "query": "Price when new",
+   "caption": "\u20ac379,000 (CARSCOOPS, CARADVICE) \u00b7 CARSCOOPS: \u2248 $511,000 IN 2013 \u00b7 CARADVICE: 'NEARLY $550,000' \u00b7 GEAR PATROL (1 MAR 2013): ~$526,000 \u00b7 EXCHANGE RATES VARY BY OUTLET",
+   "cuts": 3,
+   "chapter": "The price"
+  },
+  {
+   "text": "By our arithmetic, the three dollar figures imply euro to dollar rates of about one point three five, one point four five and one point three nine. They differ because the outlets converted at different dates and rates, and CarAdvice's currency is not stated on the page. The only price we can state firmly is the euro one, repeated by two sources.",
+   "query": "Why prices differ",
+   "caption": "$511,000 \u00f7 \u20ac379,000 = 1.35 \u00b7 $550,000 \u00f7 \u20ac379,000 = 1.45 \u00b7 $526,000 \u00f7 \u20ac379,000 = 1.39 (OUR ARITHMETIC) \u00b7 THE EURO PRICE IS REPEATED BY TWO SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Used prices climbed. The Drive reports a twenty fourteen car sold for nine hundred one thousand, three hundred thirty-seven dollars on Bring a Trailer in November twenty twenty, close to twice the new price, it says. Motor Authority, a week earlier, reported a bid of five hundred sixty-seven thousand, and said secondhand listings ranged from nine hundred seventy-five thousand to one point six million.",
+   "query": "Used prices",
+   "caption": "THE DRIVE (10 NOV 2020): 2014 CAR SOLD $901,337 ON BRING A TRAILER, 'NEAR TWICE' NEW PRICE \u00b7 MOTOR AUTHORITY (3 NOV 2020): BID $567,000 AT PUBLICATION \u00b7 LISTINGS $975,000\u2013$1.6 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "A Brabus-tuned example shows the market moving. Carscoops, in December twenty twenty-one, said a Brabus car with eight thousand miles was set to sell for at least one point one million dollars. MercedesBlog, in May twenty twenty-two, said it sold for one million, one hundred seventy thousand, which was one hundred eighty thousand less than its previous price of one million, three hundred fifty thousand.",
+   "query": "A Brabus example",
+   "caption": "CARSCOOPS (21 DEC 2021): BRABUS B63S-700 6x6, 8,000 MI, 'AT LEAST $1.1 MILLION' \u00b7 MERCEDESBLOG (18 MAY 2022): SOLD $1,170,000 vs PREVIOUS $1,350,000 \u2192 \u2212$180,000 \u00b7 700 HP / 708 LB-FT",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the drop from one million, three hundred fifty to one million, one hundred seventy is thirteen point three percent. And one point one seven million is about two point three times the five hundred eleven thousand dollar figure. This is one car, resold twice, which is not a market index.",
+   "query": "Resale arithmetic",
+   "caption": "$180,000 \u00f7 $1,350,000 = 13.3% DROP \u00b7 $1,170,000 \u00f7 $511,000 = 2.29\u00d7 (OUR ARITHMETIC; ONE CAR, TWO SALES; BRABUS MODIFIED)",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, Gear Patrol says the 6x6 seats four, with diamond-quilted leather seats and carbon fibre trim, and bench seats in the pickup bed. The Drive describes a specific car with Designo black leather, red contrast stitching, porcelain accents and an Alcantara headliner. So the army truck's cabin is a luxury one.",
+   "query": "The cabin",
+   "caption": "GEAR PATROL: SEATS FOUR \u00b7 DIAMOND-QUILTED LEATHER \u00b7 CARBON FIBRE TRIM \u00b7 BENCH SEATS IN THE BED \u00b7 THE DRIVE (ONE CAR): DESIGNO BLACK LEATHER, RED STITCHING, PORCELAIN ACCENTS, ALCANTARA HEADLINER",
+   "cuts": 3,
+   "chapter": "Inside, and the Brabus version"
+  },
+  {
+   "text": "Gear Patrol is blunt about the idea, writing that the 6x6 is clearly the biggest kind of compensation for shortcomings. That is a joke from a magazine, not a fact, and we mark it as opinion. The same piece says it has enough torque to warp the earth's crust, which is also a joke. The measured torque is five hundred sixty-one pound-feet.",
+   "query": "Magazine humour",
+   "caption": "GEAR PATROL (2013): JOKES ABOUT COMPENSATION AND TORQUE \u2014 OPINION, NOT FACT \u00b7 MEASURED / CLAIMED TORQUE: 561 LB-FT (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Brabus took the same truck further. Carscoops describes a B63S-700 package with larger turbocharger compressor wheels, larger exhaust manifolds and an extra water-cooled intercooler, giving seven hundred horsepower and seven hundred eight pound-feet. By our arithmetic, that is thirty point six percent more power and twenty-six percent more torque than the five hundred thirty-six and five hundred sixty-one of the standard truck.",
+   "query": "Brabus numbers",
+   "caption": "CARSCOOPS: BRABUS B63S-700 \u2014 700 HP / 708 LB-FT \u00b7 +164 HP = +30.6% \u00b7 +147 LB-FT = +26.2% vs 536 HP / 561 LB-FT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Carscoops also lists Brembo brakes at all six wheels, Ohlins gas bypass shocks, stiffer springs and heavy-duty bump stops on that car. Our sources do not say what the Brabus package cost, how many cars were converted, or how its zero to sixty time compares. The only figure for it is the sale price we mentioned.",
+   "query": "Brabus chassis",
+   "caption": "CARSCOOPS: BREMBO BRAKES AT ALL SIX WHEELS \u00b7 OHLINS GAS BYPASS SHOCKS \u00b7 STIFFER SPRINGS \u00b7 HEAVY-DUTY BUMP STOPS \u00b7 BRABUS PACKAGE PRICE / COUNT / 0\u201360: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A note on the gearbox. Wikipedia lists a seven-speed 7G-tronic automatic, and Gear Patrol mentions a low-range transfer case. By our arithmetic, a low range of two point one six against a high range of zero point eight seven multiplies the gearing by about two point five. That is how a road engine crawls over rocks, though Mercedes has not published a crawl speed in our sources.",
+   "query": "Low range",
+   "caption": "WIKIPEDIA: 7G-TRONIC 7-SPEED \u00b7 TRANSFER CASE 0.87:1 HIGH, 2.16:1 LOW \u00b7 2.16 \u00f7 0.87 = 2.48\u00d7 (OUR ARITHMETIC) \u00b7 CRAWL SPEED: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Let us check the claim that used 6x6s sold for close to twice the new price. The Drive's sale was nine hundred one thousand, three hundred thirty-seven dollars. Against the five hundred eleven thousand dollar equivalent, by our arithmetic, that is one point seven six times. Against Gear Patrol's five hundred twenty-six thousand it is one point seven one. So nearly twice is generous.",
+   "query": "Near twice?",
+   "caption": "$901,337 \u00f7 $511,000 = 1.76\u00d7 \u00b7 \u00f7 $526,000 = 1.71\u00d7 \u00b7 \u00f7 $550,000 = 1.64\u00d7 (OUR ARITHMETIC) \u00b7 THE DRIVE: 'NEAR TWICE' \u2014 A LOOSE DESCRIPTION",
+   "cuts": 3,
+   "chapter": "The used market, checked"
+  },
+  {
+   "text": "Motor Authority's bid of five hundred sixty-seven thousand dollars was, by our arithmetic, eleven percent above the five hundred eleven thousand dollar figure. Its listings range, from nine hundred seventy-five thousand to one point six million, is one point nine to three point one times that same number. Asking prices and sale prices are different things, and these were asking prices.",
+   "query": "Bids and asks",
+   "caption": "$567,000 \u00f7 $511,000 = +11.0% \u00b7 $975,000 \u00f7 $511,000 = 1.91\u00d7 \u00b7 $1,600,000 \u00f7 $511,000 = 3.13\u00d7 (OUR ARITHMETIC) \u00b7 LISTINGS = ASKING PRICES, NOT SALES",
+   "cuts": 3
+  },
+  {
+   "text": "The Brabus car's mileage is the other signal. MercedesBlog says it covered eight thousand miles in eight years, and that its new owner may drive twenty-five hundred a year. By our arithmetic, eight thousand over eight is a thousand miles a year. That is the opposite of the Japanese car, which The Drive estimates averaged nearly nine thousand, five hundred.",
+   "query": "Two ways to own one",
+   "caption": "BRABUS CAR: 8,000 MI \u00f7 8 YEARS = 1,000 MI/YEAR (OUR ARITHMETIC; MERCEDESBLOG) \u00b7 JAPANESE CAR: ~9,500 MI/YEAR (THE DRIVE'S ESTIMATE)",
+   "cuts": 3
+  },
+  {
+   "text": "The Drive gives one memorable measure. It says the Japanese car's drive from Soya Bay to Cape Sata, seventeen hundred miles in thirty-nine hours, is a distance it could cover more than five times a year. By our arithmetic, seventeen hundred miles in thirty-nine hours is an average of about forty-four miles per hour. We cannot verify the trip itself.",
+   "query": "A long drive",
+   "caption": "THE DRIVE: SOYA BAY \u2192 CAPE SATA, 1,700 MI IN 39 HOURS \u00b7 1,700 \u00f7 39 = 43.6 MPH AVERAGE (OUR ARITHMETIC) \u00b7 TRIP NOT INDEPENDENTLY VERIFIED",
+   "cuts": 3
+  },
+  {
+   "text": "One more timing puzzle. Gear Patrol said the sale would start in fall twenty thirteen. CarAdvice says the run sold out in about twelve months. Wikipedia says sold out in early twenty fifteen. By our arithmetic, fall twenty thirteen to early twenty fifteen is about fifteen to eighteen months, not twelve. The sources may be counting from different starts.",
+   "query": "Sell-out timing",
+   "caption": "GEAR PATROL: SALE FROM FALL 2013 \u00b7 CARADVICE: SOLD OUT IN ~12 MONTHS \u00b7 WIKIPEDIA: SOLD OUT EARLY 2015 \u2192 ~15\u201318 MONTHS (OUR ARITHMETIC) \u00b7 START DATES MAY DIFFER",
+   "cuts": 3
+  },
+  {
+   "text": "Some proportions, from Wikipedia's numbers. Ground clearance of four hundred sixty millimetres against a tyre diameter of nine hundred forty is, by our arithmetic, forty-nine percent. The wading depth of a thousand millimetres is about two point two times the ground clearance. And the truck is taller than it is wide, by about five percent, twenty-two ten against twenty-one ten.",
+   "query": "Proportions",
+   "caption": "460 \u00f7 940 = 48.9% \u00b7 1,000 \u00f7 460 = 2.17\u00d7 \u00b7 2,210 \u00f7 2,110 = 1.047 \u2192 4.7% TALLER THAN WIDE (OUR ARITHMETIC; WIKIPEDIA FIGURES)",
+   "cuts": 3
+  },
+  {
+   "text": "The production window was short. Gear Patrol wrote about it on the first of March twenty thirteen. The last customer delivery left Graz in May twenty fifteen, according to Wikipedia. By our arithmetic, that is about twenty-six months from the first article to the last delivery, for a vehicle that appeared in two films in that time.",
+   "query": "A short window",
+   "caption": "GEAR PATROL: 1 MAR 2013 \u00b7 WIKIPEDIA: LAST DELIVERY MAY 2015 \u2192 26 MONTHS (OUR ARITHMETIC) \u00b7 FILMS: 2014 AND 2015 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "A simple check on the price ranking. Wikipedia calls the 6x6 the second most expensive street-legal Mercedes at launch, behind the SLS AMG Electric Drive. It does not give that car's price, and our other sources do not either. So the ranking is a claim we repeat, but cannot verify with a number of our own.",
+   "query": "Price ranking",
+   "caption": "WIKIPEDIA: 6x6 = 2ND MOST EXPENSIVE STREET-LEGAL MERCEDES AT LAUNCH, AFTER SLS AMG ELECTRIC DRIVE \u00b7 THE SLS PRICE: NOT IN OUR SOURCES \u2192 RANKING NOT VERIFIED",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, a point about naming. Wikipedia titles its page Mercedes-AMG G 63 6x6, but its infobox lists Mercedes-Benz as manufacturer. Sources call it G 63 AMG 6x6, G63 AMG 6x6 and 6x6 G-Wagen. We use the first. That is not a trivial point for anyone searching for parts or auction results, since listings use all of these forms.",
+   "query": "Names",
+   "caption": "WIKIPEDIA TITLE: MERCEDES-AMG G 63 6x6 (INFOBOX: MERCEDES-BENZ) \u00b7 OTHER OUTLETS: G 63 AMG 6x6 / G63 AMG 6x6 / 6x6 G-WAGEN",
+   "cuts": 3
+  },
+  {
+   "text": "Secret two. The hardware was reused. Wikipedia says the Mercedes G 500 4x4 squared used the body of the long-wheelbase five-door wagon on a shortened chassis from the G 63 AMG 6x6. Road and Track says some hardware, including the portal axles, was later used on the G 550 4x4 squared. So the 6x6 acted as a testbed for later cars.",
+   "query": "Parts reused",
+   "caption": "WIKIPEDIA: G 500 4x4\u00b2 = LONG-WHEELBASE 5-DOOR BODY ON A SHORTENED CHASSIS FROM THE G 63 AMG 6x6 \u00b7 ROAD & TRACK: PORTAL AXLES LATER USED ON G 550 4x4\u00b2",
+   "cuts": 3,
+   "chapter": "Secret two: its parts lived on"
+  },
+  {
+   "text": "The G 500 four by four squared used a four-litre twin-turbo V8 making four hundred sixteen horsepower, according to Wikipedia. Its table lists zero to one hundred kilometres per hour in seven point four seconds. By our arithmetic, that is one hundred twenty horsepower fewer than the 6x6, or twenty-two percent less, in a smaller package.",
+   "query": "The 4x4\u00b2 compared",
+   "caption": "WIKIPEDIA: G 500 4x4\u00b2 \u2014 4.0 L BITURBO V8, 416 HP, 0\u2013100 KM/H 7.4 S \u00b7 536 \u2212 416 = 120 HP = 22.4% LESS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Mercedes-Maybach G 650 Landaulet took the idea to luxury. Wikipedia says it was shown at Geneva in March twenty seventeen, uses the extended chassis with portal axles and raised suspension from the G 500 4x4 squared, has a V twelve making six hundred twenty-one horsepower, cost seven hundred forty-nine thousand, seven hundred euros, and was limited to ninety-nine units.",
+   "query": "Maybach Landaulet",
+   "caption": "WIKIPEDIA: GENEVA, MARCH 2017 \u00b7 PORTAL AXLES + RAISED SUSPENSION FROM 4x4\u00b2 \u00b7 V12 621 HP \u00b7 \u20ac749,700 \u00b7 LIMITED TO 99",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Maybach's price is one point nine eight times the 6x6's euro launch price, though they are different cars sold years apart. The pattern is what matters here. Hardware from a military-derived six-wheeler reached a luxury landaulet. Whether that was planned from the start is not in our sources.",
+   "query": "Maybach vs 6x6 price",
+   "caption": "\u20ac749,700 \u00f7 \u20ac379,000 = 1.98\u00d7 (OUR ARITHMETIC; DIFFERENT CARS AND YEARS) \u00b7 WHETHER REUSE WAS PLANNED: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The shortened chassis also tells us the 6x6's frame was not a one-off. Wikipedia says the G 500 4x4 squared came with raised portal axles and the suspension used for the Maybach. We do not know how many parts are shared in detail, only that Mercedes itself described the link in the way Wikipedia reports it.",
+   "query": "How much is shared",
+   "caption": "WIKIPEDIA: G 500 4x4\u00b2 HAS RAISED PORTAL AXLES AND SUSPENSION ALSO USED FOR THE MAYBACH \u00b7 PART-BY-PART SHARING: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The 6x6 became a film star. Wikipedia lists appearances in Beyond the Reach, in twenty fourteen, and Jurassic World, in twenty fifteen. CarAdvice also mentions the thriller Beyond the Reach, starring Michael Douglas. A film appearance is not evidence of sales, and our sources do not claim it drove any.",
+   "query": "On screen",
+   "caption": "WIKIPEDIA: 'BEYOND THE REACH' (2014), 'JURASSIC WORLD' (2015) \u00b7 CARADVICE: 'BEYOND THE REACH' STARRING MICHAEL DOUGLAS \u00b7 SALES EFFECT: NOT CLAIMED",
+   "cuts": 3,
+   "chapter": "The movie and the import loophole"
+  },
+  {
+   "text": "In the United States, the truck was never sold new. The Drive says a car came in from Japan and was made road legal by G and K Automotive Conversion in Santa Ana under the Show or Display rules. Carscoops and MercedesBlog also say Show or Display. Motor Authority says that exemption allows up to twenty-five hundred miles per year.",
+   "query": "US import",
+   "caption": "THE DRIVE: JAPAN-DELIVERED CAR, MADE ROAD LEGAL BY G&K AUTOMOTIVE CONVERSION (SANTA ANA) UNDER SHOW OR DISPLAY \u00b7 MOTOR AUTHORITY (R&T): LIMITED ON-ROAD USE, UP TO 2,500 MI/YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "MercedesBlog adds that an NHTSA inspection is required until the car is twenty-five years old. By our arithmetic, a twenty fourteen car reaches twenty-five in twenty thirty-nine. At twenty-five hundred miles a year for twenty-five years, that is sixty-two thousand, five hundred miles at most, a ceiling that most owners do not approach.",
+   "query": "Show or Display limits",
+   "caption": "MERCEDESBLOG: NHTSA INSPECTION REQUIRED UNTIL CAR IS 25 YEARS OLD \u00b7 2014 + 25 = 2039 \u00b7 2,500 \u00d7 25 = 62,500 MI MAX (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Drive notes that its car had covered about forty-eight thousand, nine hundred ninety miles, only around twenty-five hundred of them in America. The headline says forty-seven thousand, which conflicts with the body text. The Drive estimates the earlier Japanese owner averaged nearly nine thousand, five hundred miles a year. So a 6x6 can be driven a lot, outside the United States.",
+   "query": "A high-mileage 6x6",
+   "caption": "THE DRIVE: 48,990 MI IN BODY TEXT (HEADLINE SAYS 47,000 \u2014 CONFLICT) \u00b7 ~2,500 MI IN US \u00b7 AUTHOR'S ESTIMATE: ~9,500 MI/YEAR UNDER JAPANESE OWNER",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. An exact build count. A reliable fuel figure. A Mercedes statement on why the 6x6 ended. CarAdvice says no reason was given. We have no named customers beyond the two Wikipedia lists, and no maintenance bills. Everything here describes the car as it was reported, and none of it is a test by us.",
+   "query": "G63 6x6",
+   "caption": "NOT IN OUR SOURCES: EXACT BUILD COUNT \u00b7 RELIABLE FUEL CONSUMPTION \u00b7 MERCEDES' REASON FOR ENDING PRODUCTION (CARADVICE: NONE GIVEN) \u00b7 MAINTENANCE COSTS",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "If you have owned or driven one, tell us what we missed in the comments. In the other videos of this series we compare it with the Hennessey VelociRaptor 6x6, ask what a six-wheel truck really costs, and tell the story of how it began. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "G63 6x6",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
