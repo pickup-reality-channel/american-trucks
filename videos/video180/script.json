@@ -1,0 +1,321 @@
+{
+ "id": "video180",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind the Czinger 21C",
+ "scenes": [
+  {
+   "text": "A Yale-educated former Goldman Sachs executive, his son who joined as the first hire, a concept car that raised money to buy metal printers, and a hypercar that debuted online because the auto show was cancelled. That is the story behind the Czinger 21C. It is not a simple one, and our sources disagree on several details. Here is what they actually say.",
+   "query": "Czinger 21C",
+   "caption": "THE INSANE STORY BEHIND THE CZINGER 21C",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are an interview-based article from CSQ in September twenty twenty-two, an engineering article from the American Society of Mechanical Engineers dated March twenty twenty-five, a Facfox history, GTPlanet's February twenty twenty preview, a Backfire News report from March twenty twenty-four, and Wikipedia. Where they conflict, we show both versions. Our own arithmetic is labelled.",
+   "query": "Czinger 21C front",
+   "caption": "SOURCES: CSQ (SEP 2022) \u00b7 ASME (27 MAR 2025) \u00b7 FACFOX \u00b7 GTPLANET (21 FEB 2020) \u00b7 BACKFIRE NEWS (19 MAR 2024) \u00b7 WIKIPEDIA \u00b7 CONFLICTS SHOWN \u00b7 OUR ARITHMETIC LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with Kevin Czinger. CSQ describes him, in twenty twenty-two, as sixty-three years old, from Cleveland, Ohio, and based in Los Angeles. He went to Yale College and Yale Law School, and later studied engineering at Arizona State University. He played football at Yale in the late nineteen seventies and early eighties, and his first job was with the recreation department of Parma, Ohio.",
+   "query": "Yale University",
+   "caption": "CSQ (SEP 2022): AGE 63; CLEVELAND, OHIO; LOS ANGELES; YALE COLLEGE + YALE LAW; ARIZONA STATE IRA FULTON SCHOOL OF ENGINEERING; YALE FOOTBALL LATE 1970s\u2013EARLY 1980s; FIRST JOB: PARMA RECREATION DEPARTMENT",
+   "cuts": 5,
+   "chapter": "The founder"
+  },
+  {
+   "text": "His business career, according to CSQ, included a senior executive role at Goldman Sachs and multiple high-ranking positions at Coda Automotive. The article gives no dates or titles for either. It also says he was a founding funder and board member of Achievement First Schools. So by the time he turned to cars, he had lived in law, finance, education and the auto industry.",
+   "query": "Los Angeles",
+   "caption": "CSQ: 'SENIOR EXECUTIVE AT GOLDMAN SACHS' \u00b7 'MULTIPLE HIGH-RANKING POSITIONS AT CODA AUTOMOTIVE INC.' \u00b7 FOUNDING FUNDER + BOARD MEMBER, ACHIEVEMENT FIRST SCHOOLS \u00b7 DATES + TITLES: NOT STATED \u00b7 OUTCOME OF CODA: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "CSQ quotes his view of the car industry: the current manufacturing system is economically broken and environmentally broken, and a new digital system is needed rather than incremental change. That is the motive behind the company. It is a stated belief, and the article presents it as his reasoning, not as a measured result.",
+   "query": "Czinger 21C",
+   "caption": "CSQ: MANUFACTURING SYSTEM 'ECONOMICALLY BROKEN AND ENVIRONMENTALLY BROKEN' \u2014 NEEDS 'A NEW DIGITAL SYSTEM', NOT INCREMENTAL CHANGE \u00b7 A STATED BELIEF, NOT A MEASUREMENT",
+   "cuts": 3
+  },
+  {
+   "text": "The car came second. CSQ says Divergent 3D launched in twenty fourteen, making cars by three-D printing with reused metal. Facfox says it was founded as a small startup by Kevin Czinger, and that within its first three years it had grown into what it calls an over one hundred million dollar venture. ASME says Divergent has existed for eight to ten years.",
+   "query": "3D printer metal",
+   "caption": "CSQ: DIVERGENT 3D LAUNCHED 2014 \u00b7 FACFOX: 'OVER $100M VENTURE' WITHIN FIRST THREE YEARS \u00b7 ASME (2025): DIVERGENT HAS EXISTED 'EIGHT TO 10 YEARS' \u00b7 2014 \u2192 2025 = 11 YEARS (OUR ARITHMETIC; ASME'S 'EIGHT TO 10' IS AN APPROXIMATION)",
+   "cuts": 3,
+   "chapter": "Divergent: the company before the car"
+  },
+  {
+   "text": "What did Divergent do? ASME says its mission is toolless manufacturing for the primary structures of vehicles. That means the frame and the major structural parts, made without the molds and dies a normal factory uses. CSQ says the company holds about five hundred twenty patents, a figure given by Kevin Czinger. The sources do not list the patents.",
+   "query": "Czinger 21C",
+   "caption": "ASME: 'TOOLLESS MANUFACTURING FOR PRIMARY VEHICLE STRUCTURES' \u00b7 CSQ: ABOUT 520 PATENTS (PER KEVIN CZINGER) \u00b7 PATENT LIST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "There were early awards. CSQ says Divergent won the Frost and Sullivan twenty sixteen North American innovation technology award, and received moonshot status from Google's Solve for X program. It also says the company hired engineers from SpaceX, Apple and Tesla. These are the company's own claims as reported in the article. The article does not name the people.",
+   "query": "Los Angeles",
+   "caption": "CSQ: FROST & SULLIVAN 2016 NORTH AMERICAN INNOVATION TECHNOLOGY AWARD \u00b7 GOOGLE SOLVE FOR X 'MOONSHOT' \u00b7 ENGINEERS FROM SPACEX, APPLE, TESLA \u00b7 NAMES: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Money followed. CSQ quotes Kevin Czinger saying Divergent recently raised two hundred fifty million dollars, and that Czinger Vehicles and Divergent together have raised close to five hundred million. The article names investors John Thornton, formerly president of Goldman Sachs, and Tom Steyer, the founder of Farallon Capital. By our arithmetic, five hundred million over eight years is about sixty-two million dollars a year.",
+   "query": "Los Angeles",
+   "caption": "CSQ (SEP 2022): $250 M 'FRESH CAPITAL'; ~$500 M RAISED BY CZINGER VEHICLES + DIVERGENT; INVESTORS JOHN THORNTON, TOM STEYER \u00b7 $500 M \u00f7 8 YEARS (2014\u20132022) = $62.5 M/YEAR (OUR ARITHMETIC; RAISED UNEVENLY, NOT SPREAD EVENLY)",
+   "cuts": 3
+  },
+  {
+   "text": "Lukas Czinger enters the story as the founder's son. CSQ says he was twenty-eight in twenty twenty-two, a former Division One soccer player who studied electrical engineering at Yale. He worked at an investment bank in San Francisco before joining Divergent around age twenty-three. By our arithmetic, that places his arrival about five years before the article, so around twenty seventeen.",
+   "query": "Los Angeles",
+   "caption": "CSQ: LUKAS CZINGER AGE 28; DIVISION I SOCCER; YALE ELECTRICAL ENGINEERING; INVESTMENT BANK IN SAN FRANCISCO; JOINED DIVERGENT 'AROUND AGE 23' \u00b7 28 \u2212 23 = ~5 YEARS BEFORE 2022 \u2192 ~2017 (OUR ARITHMETIC; YEAR NOT STATED)",
+   "cuts": 3,
+   "chapter": "The son who joined first"
+  },
+  {
+   "text": "How did he join? CSQ says he asked to join after watching his father present to about a thousand people at a tech conference. He was Divergent's first hire after Kevin, who was then the only full-time employee. So when we say the company was a family business, the sources mean it quite literally: the second person on payroll was the founder's son.",
+   "query": "Czinger 21C front",
+   "caption": "CSQ: LUKAS 'ASKED TO JOIN' AFTER WATCHING KEVIN PRESENT TO ~1,000 PEOPLE AT A TECH CONFERENCE \u00b7 FIRST HIRE AFTER KEVIN, THEN THE ONLY FULL-TIME EMPLOYEE \u00b7 'SECOND PERSON ON PAYROLL' = OUR PARAPHRASE",
+   "cuts": 3
+  },
+  {
+   "text": "His role grew. CSQ says Lukas assembled and led Divergent's automation team and holds fifty of the company's patents, according to his father. By our arithmetic, fifty of five hundred twenty is about ten percent. ASME in twenty twenty-five lists him as Founder, President and CEO of the Los Angeles-based family businesses, with Kevin as Executive Chairman.",
+   "query": "Czinger 21C",
+   "caption": "CSQ: LUKAS LED AUTOMATION TEAM; 50 PATENTS (PER KEVIN) \u00b7 50 \u00f7 520 = 9.6% (OUR ARITHMETIC) \u00b7 ASME (2025): LUKAS = FOUNDER, PRESIDENT + CEO; KEVIN = FOUNDER + EXECUTIVE CHAIRMAN",
+   "cuts": 3
+  },
+  {
+   "text": "The sources disagree about his title in twenty twenty-two. CSQ's body text calls him senior vice president of operations at Divergent and a co-founder of Czinger Vehicles. Its bio box says SVP and CEO of Czinger Vehicles. We cannot resolve it. The simplest reading is that his role expanded between twenty twenty-two and twenty twenty-five, but that is our reading, not a statement.",
+   "query": "Czinger 21C rear",
+   "caption": "CSQ BODY: SVP OF OPERATIONS AT DIVERGENT 3D + CO-FOUNDER OF CZINGER VEHICLES \u00b7 CSQ BIO BOX: 'SVP AND CEO, CZINGER VEHICLES' \u00b7 ASME 2025: PRESIDENT + CEO \u00b7 ROLE EXPANSION = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "Now the car. Facfox says Divergent built a concept called the Blade, describing it as the first car with a fully three-D-printed frame. It says the Blade was used to raise funds and to acquire metal printers from SLM Solutions, and that Jay Leno once drove it. GTPlanet calls the Blade a proof of concept for the printing process, dated twenty fifteen.",
+   "query": "Czinger 21C front",
+   "caption": "FACFOX: DIVERGENT BLADE = 'FIRST FULLY 3D-PRINTED FRAME' CONCEPT; USED TO RAISE FUNDS + ACQUIRE METAL PRINTERS FROM SLM SOLUTIONS; JAY LENO DROVE IT \u00b7 GTPLANET: BLADE (2015) PROOF OF CONCEPT",
+   "cuts": 3,
+   "chapter": "The concept car that paid for the machines"
+  },
+  {
+   "text": "GTPlanet gives the Blade's engine as a two point four litre turbo from a Mitsubishi Lancer Evolution, making seven hundred twenty horsepower. Only GTPlanet says that. Facfox gives no Blade specifications at all, and the other sources do not describe the car. So the seven hundred twenty figure rests on a single article, and we mark it that way.",
+   "query": "Czinger 21C",
+   "caption": "GTPLANET: BLADE ENGINE 2.4 L TURBO FROM MITSUBISHI LANCER EVOLUTION, 720 HP \u00b7 FACFOX: NO BLADE SPECS \u00b7 OTHER SOURCES: NO BLADE SPECS \u00b7 SINGLE-SOURCE FIGURE",
+   "cuts": 3
+  },
+  {
+   "text": "The link to the 21C is that the Blade was the predecessor. Wikipedia's infobox lists the Divergent Blade as the 21C's predecessor. Facfox says the structure of the later car needs no tooling for part manufacture or assembly, which is the article's claim. What none of our sources explains is how the Blade's design evolved into the 21C in engineering terms.",
+   "query": "Czinger 21C rear",
+   "caption": "WIKIPEDIA INFOBOX: PREDECESSOR = DIVERGENT BLADE \u00b7 FACFOX: 21C STRUCTURE 'NEEDS NO TOOLING' (ARTICLE'S CLAIM) \u00b7 ENGINEERING EVOLUTION BLADE \u2192 21C: NOT STATED IN ANY SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "The machines matter in this story. Facfox says Divergent entered a joint development partnership with SLM Solutions in twenty seventeen, aimed at a next-generation multi-laser machine that became the twelve-laser NXG. In twenty nineteen, it says, Divergent bought five pre-production systems for factory integration. Parts for suspension and chassis were made on commercially available SLM eight hundred machines.",
+   "query": "3D printer metal",
+   "caption": "FACFOX: SLM SOLUTIONS JOINT DEVELOPMENT PARTNERSHIP SINCE 2017 \u2192 12-LASER NXG \u00b7 2019: 5 PRE-PRODUCTION SYSTEMS, 'FACTORY INTEGRATION + SYSTEM BULLETPROOFING' \u00b7 SUSPENSION + CHASSIS PARTS ON SLM 800 (BUILD VOLUME 500 \u00d7 280 \u00d7 850 MM)",
+   "cuts": 3,
+   "chapter": "Buying the machines"
+  },
+  {
+   "text": "In twenty twenty, Facfox says, Divergent began series production of safety-critical structures for carmakers in the United States and Europe, and planned to run twenty next-generation printing systems at its factory. It does not name the carmakers. ASME later says McLaren and Bugatti have begun working with Divergent. So the company was supplying parts to others while it built its own car.",
+   "query": "McLaren Senna",
+   "caption": "FACFOX: 2020 = SERIES PRODUCTION OF SAFETY-CRITICAL STRUCTURES FOR OEMS IN US + EUROPE (UNNAMED); PLAN FOR 20 NEXT-GEN SYSTEMS \u00b7 ASME (2025): McLAREN + BUGATTI 'HAVE BEGUN WORKING WITH DIVERGENT' \u00b7 OTHER CUSTOMERS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the chain of dates is: the partnership in twenty seventeen, the machine purchase in twenty nineteen, the series production in twenty twenty, and the car's unveiling in March twenty twenty. So the 21C was not the start of the effort. It came after about six years of company building, if we count from twenty fourteen.",
+   "query": "Czinger 21C",
+   "caption": "2014 LAUNCH \u2192 2017 SLM PARTNERSHIP \u2192 2019 5 MACHINES \u2192 2020 SERIES PRODUCTION + 21C UNVEILING (11 MAR 2020) \u00b7 2020 \u2212 2014 = ~6 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "When was Czinger Vehicles itself founded? Sources disagree. CSQ and ASME say twenty nineteen, with ASME saying Kevin founded it with his son, Lukas. Facfox says it was founded in twenty twenty in Los Angeles to build its first production vehicle, the 21C. Wikipedia's page gives no founding date. We therefore show twenty nineteen and twenty twenty.",
+   "query": "Los Angeles",
+   "caption": "CSQ + ASME: 2019 (ASME: KEVIN + LUKAS) \u00b7 FACFOX: 2020, LOS ANGELES \u00b7 WIKIPEDIA: NO FOUNDING DATE \u00b7 CONFLICT SHOWN, NOT RESOLVED",
+   "cuts": 3,
+   "chapter": "Founding Czinger Vehicles"
+  },
+  {
+   "text": "The design is credited on Wikipedia to David O'Connell. The page lists the car's designer in the infobox and does not elaborate. CSQ says Czinger Vehicles will stay in performance luxury, and had fewer than fifty employees. The Chief Engineer, per ASME, is Ewan Baldry. Those are the named people our sources give.",
+   "query": "Czinger 21C interior",
+   "caption": "WIKIPEDIA INFOBOX: DESIGNER DAVID O'CONNELL \u00b7 CSQ: CZINGER VEHICLES TO 'STAY IN PERFORMANCE-LUXURY', < 50 EMPLOYEES \u00b7 ASME: CHIEF ENGINEER EWAN BALDRY \u00b7 DESIGN PROCESS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The car's layout was a statement. Wikipedia says the driver sits in the centre with a passenger directly behind. FastCar says the layout is like the McLaren F1's and that Czinger gave weight distribution and performance as the reasons. The central seat is a nod to the most famous central-seat road car, but no source says that was the intention.",
+   "query": "McLaren F1",
+   "caption": "WIKIPEDIA: CENTRAL DRIVER'S SEAT + TANDEM PASSENGER \u00b7 FASTCAR: 'LIKE THE McLAREN F1'; CZINGER: 'OPTIMAL PERFORMANCE AND WEIGHT DISTRIBUTION' \u00b7 'A NOD TO THE F1' = OUR READING, NOT A SOURCE STATEMENT",
+   "cuts": 3
+  },
+  {
+   "text": "GTPlanet's February twenty twenty preview said the car would be revealed at the Geneva Motor Show on the third of March. That did not happen. Wikipedia says the Geneva show was cancelled because of the pandemic, and that the 21C was unveiled on the eleventh of March twenty twenty in London instead. By our arithmetic, that is eight days after the planned date.",
+   "query": "Geneva Motor Show",
+   "caption": "GTPLANET (21 FEB 2020): REVEAL AT GENEVA, 3 MARCH \u00b7 WIKIPEDIA: GENEVA CANCELLED (COVID-19); UNVEILED 11 MARCH 2020, LONDON \u00b7 11 \u2212 3 = 8 DAYS (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The unveiling that moved online"
+  },
+  {
+   "text": "Backfire News adds that the car's public unveiling had also been planned for the Goodwood Festival of Speed, and that both were postponed due to the pandemic. So the debut the company planned, at the world's biggest car shows in the spring and summer of twenty twenty, never happened as planned. The sources do not say how the London unveiling was held.",
+   "query": "Goodwood Festival of Speed",
+   "caption": "BACKFIRE (19 MAR 2024): PUBLIC UNVEILING PLANNED FOR GENEVA 2020 + GOODWOOD FESTIVAL OF SPEED, BOTH 'POSTPONED DUE TO COVID-19' \u00b7 FORMAT OF LONDON UNVEILING: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The early claims were bold. GTPlanet's preview said a top speed of two hundred sixty-eight miles an hour, zero to sixty in one point eight seconds, over nine hundred thirty horsepower from the V8, and a 1+1 tandem layout. It said the price was unconfirmed. FastCar later reported Czinger's own claim of two hundred eighty-one. Early promises often change, and these did.",
+   "query": "Czinger 21C rear",
+   "caption": "GTPLANET (2020): 268 MPH CLAIM, 0\u201360 IN 1.8 S (PROJECTED), V8 > 930 HP, PRICE UNCONFIRMED \u00b7 FASTCAR: 281 MPH (CZINGER CLAIM) \u00b7 UNDATED FASTCAR ARTICLE; CHANGE OVER TIME = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "The first production date slipped. The Backfire report says production was anticipated to start in twenty twenty-two, and that a chip shortage delayed it. Wikipedia says deliveries were planned for the fourth quarter of twenty twenty-three, with most expected in twenty twenty-four, per Kevin Czinger. By our arithmetic, that is about a year and a half after the earlier expectation.",
+   "query": "Czinger 21C",
+   "caption": "BACKFIRE: PRODUCTION 'ANTICIPATED' 2022; CHIP SHORTAGE DELAYED \u00b7 WIKIPEDIA: DELIVERIES Q4 2023, MOST 2024 (PER KEVIN CZINGER) \u00b7 2022 \u2192 Q4 2023 = ~1.5 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "While the deliveries slipped, the car proved itself on circuits. Wikipedia lists a production-car record at Laguna Seca in August twenty twenty-one: one minute twenty-five point four four, driven by Joel Miller. FastCar says that beat the McLaren Senna's one twenty-seven point six two by about two seconds. By our arithmetic, two point one eight, or two and a half percent.",
+   "query": "Laguna Seca",
+   "caption": "WIKIPEDIA: LAGUNA SECA AUG 2021, 1:25.44, JOEL MILLER \u00b7 FASTCAR: BEAT SENNA 1:27.62 BY ~2.2 S \u00b7 87.62 \u2212 85.44 = 2.18 S = 2.5% (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Proving it on the track"
+  },
+  {
+   "text": "Then came two more. One twenty-four seventy-five in August twenty twenty-four, and one twenty-two thirty on the fifteenth of December twenty twenty-five, both by Joel Miller. By our arithmetic, from the first record to the last is four years and four months, and three point one four seconds. A company founded only a few years earlier took the lap time down by almost four percent.",
+   "query": "Laguna Seca",
+   "caption": "WIKIPEDIA: 1:24.75 (AUG 2024) \u00b7 1:22.30 (15 DEC 2025) \u00b7 AUG 2021 \u2192 DEC 2025 = 4 YEARS 4 MONTHS; 1:25.44 \u2212 1:22.30 = 3.14 S = 3.7% (OUR ARITHMETIC) \u00b7 'FOUNDED ONLY A FEW YEARS EARLIER' = 2019/2020 (CSQ, ASME, FACFOX)",
+   "cuts": 3
+  },
+  {
+   "text": "The car also went to Goodwood after all. Wikipedia lists a hill climb time of forty-eight point eight two seconds, driven by Chris Ward in twenty twenty-four, and a Circuit of the Americas lap of two minutes ten point seven in twenty twenty-four. So the places where the debut had been cancelled in twenty twenty were eventually visited by the car itself.",
+   "query": "Goodwood Festival of Speed",
+   "caption": "WIKIPEDIA: GOODWOOD HILLCLIMB 2024 CHRIS WARD 48.82 S \u00b7 COTA 2024 2:10.70 (DRIVER NOT STATED) \u00b7 'VISITED BY THE CAR ITSELF' = OUR FRAMING",
+   "cuts": 3
+  },
+  {
+   "text": "The Backfire report adds a detail about the product itself: three additional models were planned, one of them lower priced. It gives no names, dates or specifications. That fits the company's stated ambition. CSQ quotes Lukas Czinger citing a five trillion dollar market opportunity and a two hundred fifty billion dollar market for manufacturing complex structures.",
+   "query": "Czinger 21C front",
+   "caption": "BACKFIRE: 3 MORE MODELS PLANNED, ONE LOWER-PRICED \u00b7 CSQ: LUKAS CITES $5 TRILLION MARKET OPPORTUNITY + $250 BILLION COMPLEX-STRUCTURE MANUFACTURING MARKET \u00b7 MARKET SIZES ARE COMPANY CLAIMS, NOT VERIFIED",
+   "cuts": 3
+  },
+  {
+   "text": "CSQ quotes Kevin Czinger envisioning a global network of digital adaptive production within about fifteen years. It says Divergent is beginning to explore aerospace and defense, while cars remain its primary focus. By our arithmetic, fifteen years from twenty twenty-two points to around twenty thirty-seven. This is a founder's forecast, not a commitment, and no source gives targets or milestones.",
+   "query": "3D printer metal",
+   "caption": "CSQ: 'GLOBAL NETWORK OF DIGITAL ADAPTIVE PRODUCTION' IN ~15 YEARS \u00b7 AEROSPACE + DEFENSE BEING EXPLORED \u00b7 2022 + 15 = ~2037 (OUR ARITHMETIC) \u00b7 TARGETS / MILESTONES: NOT STATED",
+   "cuts": 3,
+   "chapter": "The bigger plan"
+  },
+  {
+   "text": "ASME's twenty twenty-five article describes next steps: integrating cooling, electrical and fluid networks into structural parts, scaling production, reducing cost and possibly printing replacement parts on demand. It also says the gearbox case is the first of its kind to move beyond prototype. So the story the sources tell is of a method that began as a concept and is slowly entering production.",
+   "query": "Czinger 21C",
+   "caption": "ASME (2025): NEXT STEPS = INTEGRATE COOLING / ELECTRICAL / FLUID NETWORKS; SCALE; REDUCE COST; POSSIBLY ON-DEMAND PARTS \u00b7 GEARBOX CASE = 'FIRST \u2026 PRODUCTION GEARBOX CASE TO MOVE BEYOND PROTOTYPE' \u00b7 'SLOWLY ENTERING PRODUCTION' = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "There is also a sustainability claim. CSQ says the 21C is net-zero in emissions when run on carbon-recycled methanol, and describes Divergent as making cars by printing with reused metal. These are claims about fuel and material, and the article does not give lifecycle data. We list them as the company's story, as told by its founder, without independent verification.",
+   "query": "Czinger 21C",
+   "caption": "CSQ: 'NET-ZERO EMISSIONS WHEN RUN ON CARBON-RECYCLED METHANOL'; 'REUSED METAL' \u00b7 LIFECYCLE DATA, INDEPENDENT VERIFICATION: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "CSQ describes the 21C in its own words: engineered, printed and assembled computationally, with three-D-printed alloy suspension members, and capable of zero to sixty-two miles an hour in one point nine seconds. That sentence is the pitch in miniature. The car is not only a product, it is a demonstration that a computer can design the parts, a printer can make them and a robot can assemble them.",
+   "query": "Czinger 21C interior",
+   "caption": "CSQ (SEP 2022): 21C 'ENGINEERED, PRINTED, AND ASSEMBLED COMPUTATIONALLY' \u00b7 3D-PRINTED ALLOY SUSPENSION MEMBERS \u00b7 0\u201362 MPH IN 1.9 S (COMPANY CLAIM) \u00b7 'DEMONSTRATION' FRAMING = OUR READING",
+   "cuts": 3,
+   "chapter": "A few more threads in the story"
+  },
+  {
+   "text": "Facfox quotes Kevin Czinger in twenty twenty-one on the partnership with SLM Solutions: alignment between the two companies across machines, software and materials will drive a step change. It tells us how dependent the project is on its machine supplier. The quote is about technology development, and the article does not say whether the 21C itself was named in the partnership.",
+   "query": "3D printer metal",
+   "caption": "FACFOX: KEVIN CZINGER (2021): 'ALIGNMENT BETWEEN THE TWO COMPANIES ACROSS MACHINES, SOFTWARE AND MATERIALS WILL DRIVE A STEP CHANGE' \u00b7 21C NAMED IN PARTNERSHIP: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The engine is part of the story too. GTPlanet calls the V8 an in-house design of two point eight eight litres. Wikipedia lists it with a bore of eighty-four millimetres and a stroke of sixty-five, and says it is a flat-plane crank unit. Building your own engine as well as your own structure is a lot for a small company, and none of our sources explains who designed it.",
+   "query": "Czinger 21C engine",
+   "caption": "GTPLANET: 'IN-HOUSE' 2.88 L TWIN-TURBO V8 \u00b7 WIKIPEDIA: FLAT-PLANE CRANK, BORE 84 \u00d7 STROKE 65 MM \u00b7 ENGINE DESIGNER, BUILD LOCATION: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The ages are worth noting. CSQ gave Kevin as sixty-three and Lukas as twenty-eight in twenty twenty-two. By our arithmetic, that is a thirty-five year gap. A father with a long career in finance and automotive, and a son who left investment banking in his early twenties, led the company. Our sources do not say whether the age gap shaped any decision.",
+   "query": "Los Angeles",
+   "caption": "CSQ (SEP 2022): KEVIN 63, LUKAS 28 \u00b7 63 \u2212 28 = 35 YEARS (OUR ARITHMETIC) \u00b7 INFLUENCE ON DECISIONS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with how McLaren's competitor was born. GoAuto describes the Senna as part of McLaren's Ultimate Series, following the sold-out P1, from an established company that announced the car with all five hundred already sold. Czinger is the opposite case: a young company, a new method, and a car designed to prove it. Both reached the same racetrack from very different starting points.",
+   "query": "McLaren Senna",
+   "caption": "GOAUTO (11 DEC 2017): SENNA = ULTIMATE SERIES, AFTER SOLD-OUT P1; ALL 500 SOLD AT ANNOUNCEMENT \u00b7 CZINGER: STARTUP + NEW METHOD (CSQ, ASME, FACFOX) \u00b7 'OPPOSITE CASE' = OUR FRAMING",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, here is how long each step took. The Blade in twenty fifteen to the unveiling in March twenty twenty is about five years. The unveiling to the first Laguna Seca record in August twenty twenty-one is about seventeen months. And the unveiling to the latest record in December twenty twenty-five is five years and nine months. Pace is part of the story.",
+   "query": "Czinger 21C",
+   "caption": "BLADE 2015 \u2192 UNVEILING 11 MAR 2020 = ~5 YEARS \u00b7 UNVEILING \u2192 AUG 2021 = ~17 MONTHS \u00b7 UNVEILING \u2192 15 DEC 2025 = 5 YEARS 9 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The variants complete the picture. Wikipedia lists the standard road car, the Lightweight Track version, and the Blackbird, limited to four examples with thirteen hundred fifty horsepower. The Backfire report says three more models are planned. So the company is already working on a product range, not just a single halo car. The sources give no dates for any of it.",
+   "query": "Czinger 21C rear",
+   "caption": "WIKIPEDIA: ROAD CAR, 'LIGHTWEIGHT TRACK', BLACKBIRD (4 CARS, 1,350 HP) \u00b7 BACKFIRE: 3 MORE MODELS PLANNED \u00b7 DATES FOR NEW MODELS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "How reliable is this story? CSQ is an interview-based piece, so much of it is what the founder said, including patents, funding and ambitions. ASME is an engineering article, but also a friendly one, quoting the company's chief engineer. Facfox is a trade-press history with a byline inconsistency. GTPlanet is a preview. Wikipedia is the neutral one, but also the thinnest on background.",
+   "query": "Czinger 21C front",
+   "caption": "SOURCE NOTES: CSQ = INTERVIEW (FOUNDER'S STATEMENTS) \u00b7 ASME = ENGINEERING ARTICLE QUOTING COMPANY'S CHIEF ENGINEER \u00b7 FACFOX = TRADE-PRESS HISTORY (BYLINE INCONSISTENT) \u00b7 GTPLANET = PREVIEW \u00b7 WIKIPEDIA = NEUTRAL, THIN ON BACKGROUND",
+   "cuts": 3
+  },
+  {
+   "text": "None of these is an independent investigation. That is the honest limit. The story we told is the story the company and its coverage tell, checked for internal consistency and clearly flagged where it conflicts. A deeper account would need interviews with former employees, customers and suppliers, court or filing records, and delivery data. None of those is in our set.",
+   "query": "Czinger 21C",
+   "caption": "NO INDEPENDENT INVESTIGATION IN OUR SOURCES \u00b7 WOULD NEED: FORMER EMPLOYEES, CUSTOMERS, SUPPLIERS, FILINGS, DELIVERY DATA",
+   "cuts": 3
+  },
+  {
+   "text": "What is not in dispute is that a three-D-printed hypercar exists, that it has been driven around Laguna Seca, Circuit of the Americas and up the hill at Goodwood, and that a company founded only a few years before its first car built it with a printing method Divergent began developing in twenty fourteen. Everything else in the story, we have shown with its source and its uncertainty.",
+   "query": "Goodwood Festival of Speed",
+   "caption": "NOT IN DISPUTE (WIKIPEDIA): CAR EXISTS; LAPS AT LAGUNA SECA + COTA; GOODWOOD HILLCLIMB 2024 \u00b7 COMPANY FOUNDED 2019/2020 (CSQ, ASME, FACFOX) \u00b7 DIVERGENT LAUNCHED 2014 (CSQ)",
+   "cuts": 3
+  },
+  {
+   "text": "What the sources do not tell us is a long list. When exactly Lukas joined. The dates and titles of Kevin's roles at Goldman Sachs and Coda. The specifications of the Blade, apart from a single article. How many 21Cs have been delivered. The price list. Why the car is called twenty-one C. And who bought the first cars. Each of those would round out the story, and none is available.",
+   "query": "Czinger 21C rear",
+   "caption": "NOT IN OUR SOURCES: LUKAS'S JOIN YEAR \u00b7 KEVIN'S DATES + TITLES (GOLDMAN, CODA) \u00b7 BLADE SPECS (BEYOND GTPLANET) \u00b7 CARS DELIVERED \u00b7 PRICE LIST \u00b7 MEANING OF '21C' \u00b7 FIRST CUSTOMERS",
+   "cuts": 3,
+   "chapter": "What we could not confirm"
+  },
+  {
+   "text": "We also did not use anything that sounded dramatic but unsupported: tales of the first test drive, stories of near-failure, claims about rival carmakers. A hypercar's backstory attracts legends. We would rather give you a shorter story with sources than a longer one we cannot back up, and tell you where the gaps are.",
+   "query": "Czinger 21C front",
+   "caption": "LEFT OUT: ANY UNSOURCED ANECDOTE (FIRST DRIVE, NEAR-FAILURE, RIVAL-CARMAKER CLAIMS) \u00b7 POLICY: SHORT STORY WITH SOURCES OVER LONG STORY WITHOUT",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the story in order, with only what our sources support. Twenty fourteen: Divergent launches. Twenty fifteen: the Blade concept, per GTPlanet. Twenty seventeen: the SLM partnership, and around then Lukas joins. Twenty nineteen: Czinger Vehicles is founded, per CSQ and ASME, or twenty twenty per Facfox. March twenty twenty: the 21C is unveiled in London.",
+   "query": "Czinger 21C",
+   "caption": "TIMELINE: 2014 DIVERGENT \u00b7 2015 BLADE (GTPLANET) \u00b7 2017 SLM PARTNERSHIP (~LUKAS JOINS, OUR ARITHMETIC) \u00b7 2019 CZINGER VEHICLES (CSQ, ASME) / 2020 (FACFOX) \u00b7 11 MAR 2020 21C UNVEILED",
+   "cuts": 3,
+   "chapter": "Putting the story together"
+  },
+  {
+   "text": "Then: twenty twenty-one, the first Laguna Seca record. Twenty twenty-two, the CSQ interview, with Czinger Vehicles under fifty people and production anticipated. Twenty twenty-three and twenty twenty-four, deliveries planned. March twenty twenty-four, Backfire reports one point seven million dollars and eighty cars. August twenty twenty-four, another record. March twenty twenty-five, ASME. December twenty twenty-five, one twenty-two thirty.",
+   "query": "Laguna Seca",
+   "caption": "TIMELINE: 2021 FIRST LAGUNA RECORD \u00b7 SEP 2022 CSQ \u00b7 Q4 2023 DELIVERIES PLANNED \u00b7 MAR 2024 BACKFIRE ($1.7 M, 80 CARS) \u00b7 AUG 2024 RECORD \u00b7 MAR 2025 ASME \u00b7 15 DEC 2025 1:22.30",
+   "cuts": 3
+  },
+  {
+   "text": "What makes the story unusual is the order. Most carmakers build a car and then, if they succeed, build a method. Czinger, according to these sources, built a method, proved it on a concept, funded it, and then built a car to show it. Whether you call that clever or risky, it is why a company with fewer than fifty people could put a hypercar on a famous track.",
+   "query": "Czinger 21C",
+   "caption": "OUR SUMMARY (NOT A SOURCE STATEMENT): METHOD FIRST, CAR SECOND \u00b7 SOURCES: CSQ (DIVERGENT 2014, CZINGER VEHICLES 2019), FACFOX (BLADE FUNDED PRINTERS), CSQ (< 50 EMPLOYEES)",
+   "cuts": 3
+  },
+  {
+   "text": "And a family runs it. The founder is an executive chairman, his son is president and CEO, and the chief engineer is another named person. ASME describes them as Los Angeles-based family businesses. A family business is a story of trust and risk. The sources say little about their working relationship, so we offer only the fact, not a portrait.",
+   "query": "Los Angeles",
+   "caption": "ASME (2025): KEVIN = EXECUTIVE CHAIRMAN OF BOTH COMPANIES; LUKAS = PRESIDENT + CEO OF 'THE LOS ANGELES-BASED FAMILY BUSINESSES'; EWAN BALDRY = CHIEF ENGINEER \u00b7 WORKING RELATIONSHIP: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "If you enjoyed the story, subscribe to Pickup Reality. Tell us in the comments which car's origin you want checked next. Every source is in the description with its date, including CSQ, ASME, Facfox, GTPlanet, Backfire News and Wikipedia, so you can check each claim yourself. We will see you in the next one.",
+   "query": "Czinger 21C rear",
+   "caption": "SUBSCRIBE: PICKUP REALITY \u00b7 ALL SOURCES + DATES IN THE DESCRIPTION",
+   "cuts": 3
+  }
+ ]
+}

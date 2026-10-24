@@ -1,0 +1,8 @@
+- CSQ, How the Czingers, and Their 3D Printed Supercar, are Catalyzing a New Age of Product Development, Sep 2022: https://csq.com/2022/09/lukas-czinger-kevin-czinger-vehicles-supercar-divergent-3d-printing/
+- ASME, 3D Printing Meets High Performance in Czinger Hypercars, 27 Mar 2025: https://www.asme.org/topics-resources/content/3d-printing-meets-high-performance-in-czinger-hypercars
+- Facfox, How Divergent Blade Became Czinger 21C, a Hypercar Built without Tools: https://facfox.com/news/how-divergent-blade-became-czinger-21c-a-hypercar-built-without-tools
+- GTPlanet, Czinger's 21C is a 270mph, 3D-Printed, V8 Hybrid Hypercar, 21 Feb 2020: https://www.gtplanet.net/czingers-21c-is-a-270mph-3d-printed-v8-hybrid-hypercar/
+- Backfire News via Yahoo Autos, 3D Printed Car Sets New Lap Record at Laguna Seca, 19 Mar 2024: https://autos.yahoo.com/3d-printed-car-sets-lap-183000639.html
+- FastCar, Czinger 21C Laguna Seca lap record: https://www.fastcar.co.uk/?p=59698
+- Wikipedia, Czinger 21C: https://en.wikipedia.org/wiki/Czinger_21C
+- Wikipedia, McLaren Senna: https://en.wikipedia.org/wiki/McLaren_Senna

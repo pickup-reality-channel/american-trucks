@@ -1,0 +1,318 @@
+{
+ "id": "video178",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Czinger 21C vs McLaren Senna: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two hypercars, one famous racetrack, and a lap record that changed hands. The McLaren Senna was a hundred percent combustion, hand-built in England, and sold out before the first customer drove one. The Czinger 21C is a hybrid with the driver in the middle, built in Los Angeles. Which one is really better? The honest answer needs more than the lap times.",
+   "query": "Czinger 21C",
+   "caption": "CZINGER 21C vs McLAREN SENNA: THE DIFFERENCE NOBODY EXPLAINS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's pages on both cars, Autocar, GoAuto, a McLaren press release reported by duPont Registry, and for the Czinger, ASME, Backfire News, GTPlanet and FastCar. Where sources disagree, we show both numbers. Our own arithmetic is labelled, and claims by the makers are labelled as claims.",
+   "query": "McLaren Senna",
+   "caption": "SOURCES: WIKIPEDIA (BOTH CARS) \u00b7 AUTOCAR \u00b7 GOAUTO (11 DEC 2017) \u00b7 DUPONT REGISTRY (27 AUG 2020, McLAREN RELEASE) \u00b7 ASME \u00b7 BACKFIRE NEWS \u00b7 GTPLANET \u00b7 FASTCAR \u00b7 CONFLICTS SHOWN",
+   "cuts": 8
+  },
+  {
+   "text": "Start with what each car is. Wikipedia says the Senna is built in Woking, England, limited to five hundred units, and that all were sold. GoAuto, on the day of the announcement in December twenty seventeen, reported the same: five hundred cars, hand-assembled, and already sold out. It belongs to McLaren's Ultimate Series, after the P1.",
+   "query": "McLaren Senna",
+   "caption": "WIKIPEDIA (SENNA): 500 UNITS, WOKING, ALL SOLD \u00b7 GOAUTO (11 DEC 2017): 500 HAND-ASSEMBLED, ALL ALREADY SOLD; ULTIMATE SERIES AFTER THE P1",
+   "cuts": 5,
+   "chapter": "Two different ideas of a hypercar"
+  },
+  {
+   "text": "Wikipedia says the Czinger 21C is made by Czinger Vehicles in Los Angeles, with eighty planned cars, in a road version and a track version called Lightweight Track, plus four Blackbirds. So the Senna has more than six times as many cars. By our arithmetic, eighty is sixteen percent of five hundred.",
+   "query": "Czinger 21C",
+   "caption": "WIKIPEDIA (21C): LOS ANGELES; 80 PLANNED; ROAD + 'LIGHTWEIGHT TRACK'; BLACKBIRD 4 \u00b7 500 \u00f7 80 = 6.25\u00d7 \u00b7 80 \u00f7 500 = 16% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The two reveals were separated by time. The Senna was shown online on the tenth of December twenty seventeen, then at the twenty eighteen Geneva show, Wikipedia says. The 21C was unveiled in London on the eleventh of March twenty twenty. By our arithmetic, that is twenty-seven months later. The Czinger was designed knowing exactly what the Senna had done.",
+   "query": "Geneva Motor Show",
+   "caption": "WIKIPEDIA (SENNA): ONLINE REVEAL 10 DEC 2017, GENEVA 2018 \u00b7 WIKIPEDIA (21C): UNVEILED 11 MAR 2020, LONDON \u00b7 27 MONTHS APART (OUR ARITHMETIC) \u00b7 'DESIGNED KNOWING THE SENNA' = OUR READING, NOT A SOURCE STATEMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Under the skin, the Senna is a pure combustion car. Wikipedia lists a four litre twin-turbo V8, the M eight forty T R, with about eight hundred metric horsepower. GoAuto adds that it drives the rear wheels through a seven-speed dual-clutch gearbox. No electric motor, no battery. McLaren says it is the most powerful combustion engine it had built to that date.",
+   "query": "McLaren Senna engine",
+   "caption": "WIKIPEDIA (SENNA): 4.0 L (3,994 CC) M840TR TWIN-TURBO V8, 588 KW (799 PS; 789 HP), 800 N\u00b7M \u00b7 GOAUTO: REAR-WHEEL DRIVE, 7-SPEED DUAL-CLUTCH; 'MOST POWERFUL COMBUSTION ENGINE TO DATE'",
+   "cuts": 3
+  },
+  {
+   "text": "The 21C is a hybrid. Wikipedia lists a two point eight eight litre twin-turbo V8, with a seven-speed sequential gearbox, an axial-flux motor generator and two front motors, and a two kilowatt-hour battery. FastCar calls it all-wheel drive, with the electric motors on the front wheels. GTPlanet says the V8 is mid-mounted, driving the rear.",
+   "query": "Czinger 21C engine",
+   "caption": "WIKIPEDIA (21C): 2.88 L TWIN-TURBO V8 + AXIAL-FLUX MGU + 2 FRONT MOTORS, 2 kWh LITHIUM-TITANATE BATTERY \u00b7 FASTCAR: ALL-WHEEL DRIVE \u00b7 GTPLANET: MID-MOUNTED V8, REAR DRIVE",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Senna's engine is a bigger one: three thousand nine hundred ninety-four cubic centimetres against about two thousand eight hundred eighty, thirty-nine percent more. The Czinger gets its edge from the electric motors, and from revving higher. GTPlanet and FastCar both say eleven thousand rpm. The Senna's redline is not given in our sources.",
+   "query": "McLaren Senna engine",
+   "caption": "3,994 \u00f7 2,880 = 1.387 \u2192 +38.7% (OUR ARITHMETIC) \u00b7 21C REDLINE 11,000 RPM (GTPLANET, FASTCAR) \u00b7 SENNA ROAD-CAR REDLINE: NOT STATED (WIKIPEDIA: GTR LM REDLINE RAISED FROM 8,250 TO 9,000 RPM)",
+   "cuts": 3
+  },
+  {
+   "text": "Now power. For the Senna, Wikipedia says seven hundred eighty-nine horsepower, or eight hundred metric. Autocar agrees: seven eighty-nine brake horsepower. For the Czinger, Wikipedia says twelve hundred fifty. By our arithmetic, that is four hundred sixty-one horsepower more, about fifty-eight percent. Other sources put the Czinger at twelve thirty-three or thirteen thirty-one.",
+   "query": "Czinger 21C rear",
+   "caption": "SENNA: 789 HP (WIKIPEDIA, AUTOCAR) \u00b7 21C: 1,250 HP (WIKIPEDIA); 1,233 (GTPLANET, FASTCAR); 1,331 (BACKFIRE) \u00b7 1,250 \u2212 789 = 461 HP = +58.4% (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Power and weight"
+  },
+  {
+   "text": "Weight is where it gets difficult, because the two makers measure differently. McLaren's headline is a dry weight of eleven hundred ninety-eight kilograms, said to be the lightest McLaren road car since the F1. Wikipedia's infobox gives a kerb weight of thirteen hundred seventy-four. Dry and kerb are not the same measure, so you cannot subtract one from the other.",
+   "query": "McLaren Senna",
+   "caption": "SENNA: 1,198 KG DRY (WIKIPEDIA, AUTOCAR, GOAUTO); 1,374 KG KERB (WIKIPEDIA INFOBOX) \u00b7 GOAUTO: LIGHTEST MCLAREN ROAD CAR SINCE THE F1 (1,138 KG) \u00b7 DRY \u2260 KERB: DO NOT COMPARE DIRECTLY",
+   "cuts": 3
+  },
+  {
+   "text": "For the Czinger, Wikipedia gives a curb weight of sixteen hundred twenty kilograms. GTPlanet, in twenty twenty, said about twelve hundred fifty, a curb figure. FastCar said Czinger claimed twelve hundred forty. By our arithmetic, the Wikipedia figure is two hundred forty-six kilograms heavier than the Senna's kerb weight, but the early claims are a hundred twenty-four lighter.",
+   "query": "Czinger 21C front",
+   "caption": "21C: 1,620 KG CURB (WIKIPEDIA) \u00b7 ~1,250 KG CURB (GTPLANET 2020) \u00b7 1,240 KG (FASTCAR, CZINGER CLAIM) \u00b7 1,620 \u2212 1,374 = 246 KG = +17.9% \u00b7 1,374 \u2212 1,250 = 124 KG = 9.0% LIGHTER (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "That is a huge spread, and the sources do not explain it. Our reading is that the early figures were targets for a car still being finished, and the heavier figure may reflect the production car. But no source says so. A buyer or viewer should treat any Czinger weight as unverified until a measured number from an independent test appears.",
+   "query": "Czinger 21C",
+   "caption": "OUR READING (NOT A SOURCE STATEMENT): EARLY WEIGHTS = TARGETS \u00b7 INDEPENDENT MEASURED WEIGHT OF THE 21C: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Now combine them. By our arithmetic, using Wikipedia's figures for both cars, the Czinger makes about seven hundred seventy-two horsepower per tonne and the Senna about five hundred seventy-four. That is a thirty-four percent advantage. Using the Czinger's early claimed weight instead, it would be a thousand horsepower per tonne. Both are calculations, and they depend on the weights used.",
+   "query": "Czinger 21C rear",
+   "caption": "1,250 \u00f7 1.620 = 772 HP/T \u00b7 789 \u00f7 1.374 = 574 HP/T \u00b7 772 \u00f7 574 = 1.345 \u2192 +34% \u00b7 1,250 \u00f7 1.250 = 1,000 HP/T (CLAIMED WEIGHT) (ALL OUR ARITHMETIC; KERB/CURB BASIS FOR BOTH)",
+   "cuts": 3
+  },
+  {
+   "text": "For the Senna, Wikipedia quotes six hundred sixty-eight horsepower per tonne, which uses the dry weight and the metric horsepower figure. That is the number McLaren fans usually see. By our arithmetic, seven eighty-nine divided by the dry eleven ninety-eight gives about six hundred fifty-nine. Same car, different basis, different answer.",
+   "query": "McLaren Senna",
+   "caption": "WIKIPEDIA: 668 HP/TONNE \u00b7 800 PS \u00f7 1.198 T = 668 PS/T \u00b7 789 HP \u00f7 1.198 = 659 HP/T (OUR ARITHMETIC) \u00b7 BASIS: DRY WEIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration is where the two cars are furthest apart on paper. Wikipedia gives the Senna zero to one hundred kilometres an hour in two point eight seconds, zero to two hundred in six point eight, zero to three hundred in seventeen point five. Autocar's figures are the same in miles: sixty in two point seven, one twenty-four in six point eight, one eighty-six in seventeen point five.",
+   "query": "McLaren Senna",
+   "caption": "SENNA (WIKIPEDIA): 0\u2013100 KM/H 2.8 S, 0\u2013200 6.8 S, 0\u2013300 17.5 S \u00b7 AUTOCAR: 0\u201360 MPH 2.7 S, 0\u2013124 6.8 S, 0\u2013186 17.5 S \u00b7 300 KM/H = 186 MPH",
+   "cuts": 3,
+   "chapter": "Acceleration and speed"
+  },
+  {
+   "text": "FastCar quotes Czinger claims: zero to sixty-two in one point nine seconds, a quarter mile in eight point one, zero to one eighty-six miles an hour in eight point five, and zero to two forty-eight in twenty-seven point one. By our arithmetic, the claimed one-eighty-six time is nine seconds quicker than the Senna's, less than half the time.",
+   "query": "Czinger 21C",
+   "caption": "21C CLAIMS (FASTCAR): 0\u201362 MPH 1.9 S \u00b7 QUARTER-MILE 8.1 S \u00b7 0\u2013186 MPH 8.5 S \u00b7 0\u2013248 MPH 27.1 S \u00b7 17.5 \u2212 8.5 = 9.0 S; 8.5 \u00f7 17.5 = 48.6% (OUR ARITHMETIC) \u00b7 INDEPENDENT TEST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "At the low end, the gap is smaller. Sixty-two miles an hour is about a hundred kilometres an hour, so the claimed one point nine is comparable to the Senna's two point eight. By our arithmetic, that is nine tenths of a second quicker, about thirty-two percent. The Senna's figure came from McLaren and Autocar. The Czinger's came from Czinger.",
+   "query": "Czinger 21C front",
+   "caption": "62 MPH = 99.8 KM/H \u00b7 2.8 \u2212 1.9 = 0.9 S = 32% OF 2.8 (OUR ARITHMETIC) \u00b7 SENNA: MAKER + AUTOCAR FIGURES \u00b7 21C: MAKER CLAIM (FASTCAR, BACKFIRE, CSQ)",
+   "cuts": 3
+  },
+  {
+   "text": "Quarter-mile times are less certain still. Wikipedia lists nine point nine seconds for the Senna. The McLaren press release reported by duPont Registry says a stock twenty twenty-one Senna ran ten point oh eight seconds in a drag race, at over one hundred seventy-one miles an hour, but does not call it a record. Both are real numbers. They are not the same measurement.",
+   "query": "McLaren Senna rear",
+   "caption": "WIKIPEDIA: QUARTER MILE 9.9 S \u00b7 DUPONT REGISTRY (McLAREN RELEASE, 27 AUG 2020): 10.08 S, CROSSING SPEED > 171 MPH, RECORD CLAIM NOT MADE \u00b7 9.9 vs 8.1 = 1.8 S = 18.2% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed. Wikipedia gives three hundred thirty-five kilometres an hour for the Senna, which is two hundred eight miles an hour. Autocar says two hundred eleven. For the Czinger, GTPlanet and ASME say two hundred sixty-eight. FastCar says Czinger claims two hundred eighty-one. By our arithmetic, the lower claim is sixty miles an hour faster than the Senna, twenty-nine percent.",
+   "query": "Czinger 21C rear",
+   "caption": "SENNA: 335 KM/H = 208 MPH (WIKIPEDIA); 211 MPH (AUTOCAR) \u00b7 21C: 268 MPH (GTPLANET, ASME), 281 MPH (FASTCAR, CZINGER CLAIM) \u00b7 268 \u2212 208 = 60 MPH = +28.8%; 281 \u2212 208 = 73 MPH = +35% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Has anyone verified the Czinger's top speed? Not in our sources. ASME calls its two sixty-eight a figure from a video caption. No source reports an independent high-speed run. The Senna's figure is a maker's number too, but several outlets repeat it. So both are claims, and the Czinger's is the less checked.",
+   "query": "Czinger 21C",
+   "caption": "ASME: 268 MPH 'PER A VIDEO CAPTION' \u00b7 INDEPENDENT TOP-SPEED RUN FOR EITHER CAR: NOT IN OUR SOURCES \u00b7 SENNA FIGURE REPEATED BY WIKIPEDIA + AUTOCAR (BOTH FROM MAKER DATA)",
+   "cuts": 3
+  },
+  {
+   "text": "Aerodynamics decides lap times, and here the sources conflict. Autocar says the Senna makes eight hundred kilograms of downforce at one hundred fifty-five miles an hour. For the Czinger road car, GTPlanet in twenty twenty said five hundred fifty pounds at the same speed. By our arithmetic, that is about two hundred fifty kilograms, so the Senna makes roughly three times as much.",
+   "query": "McLaren Senna rear",
+   "caption": "SENNA: 800 KG @ 155 MPH (AUTOCAR) \u00b7 21C ROAD: 550 LB @ 155 MPH (GTPLANET, 2020) = 249 KG \u00b7 800 \u00f7 249.5 = 3.2\u00d7 (OUR ARITHMETIC) \u00b7 21C FIGURE FROM A 2020 PREVIEW \u2014 MAY NOT MATCH THE FINAL CAR",
+   "cuts": 3,
+   "chapter": "Grip and aerodynamics"
+  },
+  {
+   "text": "But the 21C has a track version. GTPlanet gives seventeen hundred forty pounds for it, about seven hundred ninety kilograms, without stating the speed. FastCar says Czinger claims twenty-five hundred kilograms at two hundred miles an hour in the most aggressive setting. The Senna GTR, Wikipedia says, makes about a thousand kilograms by estimate. The speeds are not given consistently, so we do not rank them.",
+   "query": "Czinger 21C rear",
+   "caption": "21C TRACK: 1,740 LB = 789 KG, SPEED NOT STATED (GTPLANET) \u00b7 2,500 KG @ 200 MPH, MOST AGGRESSIVE SETTING (FASTCAR) \u00b7 SENNA GTR: ~1,000 KG, 'ESTIMATED' (WIKIPEDIA) \u00b7 NOT COMPARABLE: DIFFERENT SPEEDS / VERSIONS",
+   "cuts": 3
+  },
+  {
+   "text": "The Senna's aero is active. Wikipedia describes an electronically adjustable double-element rear wing that doubles as an airbrake, a double-element diffuser, mini canards and a Formula One style roof scoop. Autocar called the styling challenging, tying it to the downforce. For the Czinger, our sources describe aero numbers but not the hardware, so we cannot compare mechanisms.",
+   "query": "McLaren Senna",
+   "caption": "WIKIPEDIA (SENNA): ADJUSTABLE DOUBLE-ELEMENT REAR WING + AIRBRAKE, DOUBLE-ELEMENT DIFFUSER, ROOF SCOOP, MINI CANARDS \u00b7 AUTOCAR: STYLING 'CHALLENGING' \u00b7 21C AERO HARDWARE: NOT DESCRIBED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars use a carbon structure, but built very differently. The Senna has a carbon tub called the Monocage Three and carbon panels, according to a launch-day report. The Czinger, ASME says, uses printed aluminium parts, a printed gearbox case and a robot-bonded subframe. Our sources do not say whether the 21C also has a carbon tub, so we cannot compare the two chassis directly.",
+   "query": "Czinger 21C",
+   "caption": "SENNA: CARBON-FIBRE MONOCAGE III + ALL-CARBON PANELS (SUPERYACHTS.COM, 13 DEC 2017) \u00b7 21C: PRINTED ALUMINIUM GEARBOX CASE, SECTIONED PRINTED REAR SUBFRAME, ROBOT ADHESIVES (ASME) \u00b7 21C CARBON TUB: NOT STATED \u00b7 FASTCAR SAYS 'CARBON-FIBRE CONSTRUCTION'",
+   "cuts": 3
+  },
+  {
+   "text": "Now the contest everyone remembers. McLaren's press release, reported in August twenty twenty, said a stock twenty twenty-one Senna lapped Laguna Seca in one minute twenty-seven point six two seconds, beating a one twenty-eight record that had stood for years. The same release lists a Virginia International Raceway lap of two thirty-four point nine, which it called the fastest production-car lap there.",
+   "query": "Laguna Seca",
+   "caption": "DUPONT REGISTRY (27 AUG 2020, McLAREN RELEASE): SENNA LAGUNA SECA 1:27.62, BEAT A '1:28' RECORD; VIR FULL COURSE 2:34.9 \u00b7 DRIVERS AT LAGUNA + VIR: NOT NAMED",
+   "cuts": 3,
+   "chapter": "The lap record"
+  },
+  {
+   "text": "The same release says Andy Pilgrim drove the Corvette Museum Grand Course in two minutes two point eight six, calling it the fastest production-car lap at Corvette's home track. The Senna therefore held several records of its own at the time. The article's headline says four, but only three were explicitly named records. The fourth was a drag run, with no record claimed.",
+   "query": "McLaren Senna",
+   "caption": "DUPONT REGISTRY: CORVETTE MUSEUM GRAND COURSE 2:02.86 (ANDY PILGRIM), 1.64 G GRIP IN TURN FOUR \u00b7 HEADLINE 'FOUR' vs 3 NAMED RECORDS + 1 DRAG RUN (10.08 S QUARTER, 15.65 S HALF-MILE)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the Czinger arrived. Wikipedia lists one twenty-five forty-four in August twenty twenty-one, driven by Joel Miller. FastCar says that beat the Senna by about two seconds. By our arithmetic, it is two point one eight seconds, two and a half percent. Backfire's report says the Senna's mark was the previous record, which matches.",
+   "query": "Czinger 21C",
+   "caption": "WIKIPEDIA: 1:25.44, AUG 2021, JOEL MILLER \u00b7 FASTCAR: BEAT SENNA'S 1:27.62 BY ~2.2 S \u00b7 BACKFIRE: PREVIOUS RECORD HELD BY SENNA \u00b7 87.62 \u2212 85.44 = 2.18 S = 2.5% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And it kept going: one twenty-four seventy-five in August twenty twenty-four, one twenty-two thirty on the fifteenth of December twenty twenty-five, both by Joel Miller, Wikipedia says. By our arithmetic, the final lap is five point three two seconds quicker than the Senna's, or six percent. That is a bigger margin than the first record by far.",
+   "query": "Laguna Seca",
+   "caption": "WIKIPEDIA: 1:24.75 (AUG 2024) \u00b7 1:22.30 (15 DEC 2025), JOEL MILLER \u00b7 87.62 \u2212 82.30 = 5.32 S = 6.1% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A fair caution. The Senna's time came from a release by McLaren itself. The Czinger's times come from Wikipedia and from news reports, not from a published timing sheet. Neither source set tells us the weather, the track temperature, or the tyres for each attempt. Wikipedia names Michelin Pilot Sport Cup two R tyres for the first two Czinger laps only.",
+   "query": "Laguna Seca",
+   "caption": "SENNA TIME: MAKER'S PRESS RELEASE \u00b7 CZINGER TIMES: WIKIPEDIA + NEWS \u00b7 WEATHER / TRACK TEMP: NOT STATED FOR EITHER \u00b7 TYRES: WIKIPEDIA NAMES MICHELIN PS CUP2 R FOR 2021 + 2024 CZINGER LAPS; SENNA TYRES NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "One thing the two cars do not share is another track. The Senna has Virginia and the Corvette museum circuit. The Czinger has Circuit of the Americas, two ten point seven in twenty twenty-four, and the Goodwood hill climb, forty-eight point eight two with Chris Ward. We found no common track other than Laguna Seca, so Laguna Seca is the only fair comparison.",
+   "query": "Circuit of the Americas",
+   "caption": "21C: COTA 2:10.70 (2024), GOODWOOD HILLCLIMB 48.82 S (CHRIS WARD, 2024) \u00b7 SENNA: VIR 2:34.9, CORVETTE MUSEUM 2:02.86 \u00b7 COMMON TRACK IN OUR SOURCES: LAGUNA SECA ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "The price. The Senna was announced at seven hundred fifty thousand pounds, according to Wikipedia, Autocar and GoAuto, which converted it to about one point three million Australian dollars. The final Senna, Wikipedia says, sold at auction for one million nine hundred sixteen thousand seven hundred ninety-three pounds. By our arithmetic, that is two and a half times the list price.",
+   "query": "McLaren Senna",
+   "caption": "SENNA LIST \u00a3750,000 (WIKIPEDIA, AUTOCAR, GOAUTO; A$1.3 M) \u00b7 FINAL CAR AT AUCTION \u00a31,916,793 (WIKIPEDIA) \u00b7 1,916,793 \u00f7 750,000 = 2.56\u00d7 (OUR ARITHMETIC) \u00b7 DATE + AUCTION HOUSE: NOT STATED",
+   "cuts": 3,
+   "chapter": "Price and rarity"
+  },
+  {
+   "text": "The Czinger's price is less clear. GTPlanet in twenty twenty said not to expect a change from two million dollars, and called the price unconfirmed. The Backfire report of March twenty twenty-four says one point seven million dollars. We could not find a manufacturer's price list in our sources, so we show both figures and the difference of three hundred thousand dollars.",
+   "query": "Czinger 21C",
+   "caption": "GTPLANET (2020): UNCONFIRMED, ~$2 M \u00b7 BACKFIRE (19 MAR 2024): $1.7 M \u00b7 $2.0 M \u2212 $1.7 M = $0.3 M (OUR ARITHMETIC) \u00b7 OFFICIAL PRICE LIST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "We cannot compare those two prices directly. One is in pounds, announced in twenty seventeen. The other is in dollars, reported in twenty twenty-four. Our sources give no exchange rate for either date, and inflation matters over seven years. So the only safe statement is: the Czinger was reported to cost more than the Senna's list price, in a different currency and a later year.",
+   "query": "McLaren Senna",
+   "caption": "CURRENCY + YEAR MISMATCH: \u00a3750,000 (2017) vs $1.7\u20132.0 M (2020\u20132024) \u00b7 EXCHANGE RATES + INFLATION: NOT IN OUR SOURCES \u00b7 A$1.3 M (GOAUTO) IS THE ONLY CONVERSION WE HAVE",
+   "cuts": 3
+  },
+  {
+   "text": "There is also a way to compare in a single currency from the same source. Backfire says the Czinger takes three to four thousand labour hours per car. We have no labour-hour figure for the Senna in any source, so even this useful comparison is missing. A hand-built Senna and a toolless Czinger cost their makers different things, and we only know one of them.",
+   "query": "Czinger 21C",
+   "caption": "BACKFIRE: 21C = 3,000\u20134,000 LABOR HOURS PER CAR \u00b7 SENNA LABOR HOURS: NOT IN OUR SOURCES \u00b7 WHAT EACH CAR COSTS TO BUILD: NOT STATED FOR EITHER",
+   "cuts": 3
+  },
+  {
+   "text": "Variants matter too. Wikipedia lists a Senna GTR limited to seventy-five cars, a Senna LM of thirty-five, a GTR LM of five and a Sabre of fifteen for the US. The Czinger's variants are the Lightweight Track and four Blackbirds. So both makers sold the same idea in several packages, which keeps the total rarity of each name higher than the headline numbers.",
+   "query": "McLaren Senna GTR",
+   "caption": "WIKIPEDIA (SENNA): GTR 75, LM 35, GTR LM 5, SABRE 15 \u00b7 WIKIPEDIA (21C): BLACKBIRD 4, 'LIGHTWEIGHT TRACK' \u00b7 WHETHER VARIANTS ARE INSIDE THE 500 / 80: NOT STATED FOR ALL",
+   "cuts": 3
+  },
+  {
+   "text": "Torque is a good example of a missing comparison. Wikipedia gives the Senna eight hundred newton-metres, which is five hundred ninety pound-feet. For the Czinger, the only torque figure in our sources is a Wikipedia infobox entry of three hundred ninety-seven pound-feet with no context, next to a seven hundred fifty horsepower figure. We do not use it, because it cannot be the whole car.",
+   "query": "McLaren Senna engine",
+   "caption": "SENNA: 800 N\u00b7M (590 LB-FT) (WIKIPEDIA) \u00b7 21C: INFOBOX '750 HP \u2026 397 LB-FT' WITHOUT CONTEXT; NO OTHER SOURCE GIVES 21C TORQUE \u00b7 590 vs 397 NOT A VALID COMPARISON",
+   "cuts": 3,
+   "chapter": "Details that rarely get compared"
+  },
+  {
+   "text": "Both makers also sold track-focused cars. Wikipedia says the Senna GTR makes at least eight hundred twenty-five metric horsepower and is limited to seventy-five cars. A GTR LM makes eight hundred thirty-three horsepower. The Sabre, built for the US, has eight hundred twenty-four horsepower and a top speed of two hundred eighteen miles an hour, with fifteen cars. These are all Senna derivatives.",
+   "query": "McLaren Senna GTR",
+   "caption": "WIKIPEDIA: GTR \u2265 825 PS, 75 CARS \u00b7 GTR LM 833 HP (845 PS), REDLINE 8,250 \u2192 9,000 RPM, 5 CARS \u00b7 SABRE 824 HP, 218 MPH, 15 CARS (MCLAREN SPECIAL OPERATIONS, US)",
+   "cuts": 3
+  },
+  {
+   "text": "The Czinger's counterpart is the Lightweight Track variant. Wikipedia names it but gives no separate power or weight. GTPlanet says it weighs only seventy pounds less than the road car and has the bigger downforce figure. FastCar's top-speed claim of two eighty-one was not tied to a specific version. So we cannot do a clean GTR against Lightweight Track comparison.",
+   "query": "Czinger 21C front",
+   "caption": "WIKIPEDIA: 'LIGHTWEIGHT TRACK' VARIANT, NO SEPARATE SPECS \u00b7 GTPLANET: TRACK MODEL 70 LB LIGHTER, 1,740 LB DOWNFORCE \u00b7 FASTCAR 281 MPH: VERSION NOT STATED \u00b7 CLEAN GTR vs LIGHTWEIGHT TRACK COMPARISON: NOT POSSIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Goodwood is one place both cars have appeared. Wikipedia says a Senna GTR was a competitor at the twenty nineteen Festival of Speed, but gives no time. For the Czinger it lists forty-eight point eight two seconds up the hill in twenty twenty-four with Chris Ward. Without a Senna time at the same event, there is no result to compare, and we will not guess one.",
+   "query": "Goodwood Festival of Speed",
+   "caption": "WIKIPEDIA (SENNA): GTR 'A COMPETITOR AT THE 2019 GOODWOOD FESTIVAL OF SPEED' \u2014 NO TIME GIVEN \u00b7 WIKIPEDIA (21C): 2024, CHRIS WARD, 48.82 S \u00b7 SENNA HILLCLIMB TIME: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Where the cars are built shapes both stories. A launch-day report says the Senna is assembled at the McLaren Production Centre in Surrey, with a quarter-three twenty eighteen start. The Czinger is built in Los Angeles by a company that, in twenty twenty-two, had fewer than fifty employees, according to CSQ. One is an established carmaker's line, the other a young company's cell.",
+   "query": "McLaren Senna",
+   "caption": "SUPERYACHTS.COM (13 DEC 2017): ASSEMBLED AT McLAREN PRODUCTION CENTRE, SURREY, Q3 2018 \u00b7 CSQ (SEP 2022): CZINGER VEHICLES < 50 EMPLOYEES, LOS ANGELES \u00b7 WIKIPEDIA: WOKING (WHICH IS IN SURREY)",
+   "cuts": 3
+  },
+  {
+   "text": "Nothing in our sources says what either car costs to own. No insurance figure, no service interval, no tyre cost, no fuel economy. For two cars this extreme, that is a real hole in the comparison. If you are asking which one is cheaper to live with, our honest answer is that we found no source that compares them, and we will not make one up.",
+   "query": "McLaren Senna rear",
+   "caption": "NOT IN OUR SOURCES (EITHER CAR): INSURANCE \u00b7 SERVICE COSTS \u00b7 TYRE COSTS \u00b7 FUEL ECONOMY \u00b7 RELIABILITY RECORDS",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, the word better needs a definition. Faster around Laguna Seca is one definition, and the Czinger leads there. More powerful on paper is another, and the Czinger leads there too. More proven, more delivered, and better documented is a third, and the Senna leads. Pick the definition first, then look at the numbers, and check the date beside each one.",
+   "query": "Czinger 21C",
+   "caption": "DEFINITIONS OF 'BETTER' = OUR FRAMING \u00b7 LAGUNA SECA: 21C \u00b7 CLAIMED POWER: 21C \u00b7 PROVEN / DELIVERED / DOCUMENTED: SENNA (OUR READING OF THE SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "It would be easy to declare the newer car the winner and move on. But the Senna has things the Czinger cannot show yet. Five hundred cars were delivered from the third quarter of twenty eighteen, according to Wikipedia. The Czinger planned deliveries for late twenty twenty-three, and we found no source giving how many exist today.",
+   "query": "McLaren Senna",
+   "caption": "WIKIPEDIA (SENNA): DELIVERIES BEGAN Q3 2018 \u00b7 WIKIPEDIA (21C): DELIVERIES PLANNED Q4 2023, MOST IN 2024 \u00b7 21C CARS DELIVERED TO DATE: NOT IN OUR SOURCES \u00b7 Q3 2018 \u2192 Q4 2023 = 5 YEARS 1 QUARTER (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What the Senna still does better"
+  },
+  {
+   "text": "The Senna's performance figures were also echoed by an independent outlet. Autocar's page lists price, power, weight and acceleration for the car as built. For the Czinger, the independent sources we read mostly repeat the company's own claims or describe the record laps. No instrumented test result appears in our sources. That is a gap in the evidence, not necessarily in the car.",
+   "query": "McLaren Senna",
+   "caption": "AUTOCAR: SENNA PRICE, POWER, WEIGHT, ACCELERATION, TOP SPEED, DOWNFORCE \u00b7 21C: NO INSTRUMENTED INDEPENDENT TEST IN OUR SOURCES \u00b7 'GAP IN EVIDENCE, NOT NECESSARILY IN THE CAR' = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "The Senna also carries a name. McLaren says it honours Ayrton Senna, who won three world championships with McLaren, in nineteen eighty-eight, ninety and ninety-one, and died in a crash at the nineteen ninety-four San Marino Grand Prix. His nephew Bruno said the family was extremely proud, and that the car honours his uncle.",
+   "query": "Ayrton Senna",
+   "caption": "GOAUTO (11 DEC 2017): TITLES 1988, 1990, 1991 WITH McLAREN; DIED 1994 SAN MARINO GRAND PRIX \u00b7 BRUNO SENNA: 'EXTREMELY PROUD' / 'HONOURS MY UNCLE' \u00b7 NAME RIGHTS: McLAREN AUTOMOTIVE + INSTITUTO AYRTON SENNA (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "And the Czinger has its own story, which is the subject of another video: a founder who started a company to change how cars are made, a printed-metal factory, and a family business. For this comparison, what matters is that the Senna is a finished, known, delivered quantity, and the Czinger is a fast-moving claim that has so far backed itself with lap times.",
+   "query": "Czinger 21C",
+   "caption": "CZINGER STORY = SEPARATE VIDEO \u00b7 'FINISHED, KNOWN, DELIVERED' vs 'FAST-MOVING CLAIM' = OUR FRAMING, NOT A SOURCE STATEMENT",
+   "cuts": 3
+  },
+  {
+   "text": "So which is better? On track, in the single place we can compare them, the Czinger. On the numbers each maker claims, the Czinger leads on power, acceleration and top speed, but those figures are unverified, and its weight and aero numbers conflict across sources. The Senna's figures are better checked, and its Laguna Seca time was the mark the Czinger beat in twenty twenty-one, according to Backfire and FastCar.",
+   "query": "Laguna Seca",
+   "caption": "ON TRACK AT LAGUNA SECA: 21C QUICKER BY 2.18 S (2021) TO 5.32 S (2025) \u00b7 CLAIMED SPECS: 21C AHEAD, UNVERIFIED \u00b7 SENNA TIME = THE MARK THE 21C BEAT (BACKFIRE, FASTCAR); FIRST 21C LAP AUG 2021 (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The verdict, and what we do not know"
+  },
+  {
+   "text": "What we could not confirm: the Czinger's true weight, price list, delivered number, and independent performance. The Senna's redline and its Laguna Seca driver. The tyres on every lap. Whether the 21C also has a carbon tub. And the exact conditions behind either car's record. Each of those would change how much weight to put on the comparison.",
+   "query": "Czinger 21C",
+   "caption": "NOT IN OUR SOURCES: 21C TRUE WEIGHT \u00b7 PRICE LIST \u00b7 CARS DELIVERED \u00b7 INDEPENDENT PERFORMANCE \u00b7 SENNA REDLINE + LAGUNA DRIVER \u00b7 TYRES PER LAP \u00b7 21C CARBON TUB \u00b7 CONDITIONS",
+   "cuts": 3
+  },
+  {
+   "text": "The takeaway: this is not a story of an old car losing to a new one, but of two answers to the same question. McLaren answered with a pure combustion engine and a carbon tub. Czinger answered with a hybrid, a driver in the middle, and printed structural parts. Both answers produced lap times that the earlier answer could not match. Check the date on every number.",
+   "query": "McLaren Senna",
+   "caption": "OUR SUMMARY (NOT A SOURCE STATEMENT): TWO ANSWERS TO THE SAME QUESTION \u00b7 CHECK THE DATE ON EVERY NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "If you enjoyed this comparison, subscribe to Pickup Reality. Tell us in the comments which exotic car you want checked next, and which numbers you would like us to chase. Every source is in the description, including the McLaren press release, the Autocar page and the ASME article. We will see you in the next one.",
+   "query": "Czinger 21C rear",
+   "caption": "SUBSCRIBE: PICKUP REALITY \u00b7 ALL SOURCES IN THE DESCRIPTION",
+   "cuts": 3
+  }
+ ]
+}

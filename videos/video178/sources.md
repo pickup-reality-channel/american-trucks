@@ -1,0 +1,10 @@
+- Wikipedia, Czinger 21C: https://en.wikipedia.org/wiki/Czinger_21C
+- Wikipedia, McLaren Senna: https://en.wikipedia.org/wiki/McLaren_Senna
+- Autocar, McLaren Senna: https://autocar.co.uk/node/87569
+- GoAuto (Tim Nicholson), McLaren hypercar takes Senna name, 11 Dec 2017: https://goauto.com.au/amp/68161/mclaren-hypercar-takes-senna-name.html
+- Superyachts.com, The McLaren Senna: The Ultimate Road-Legal Track Car: https://www.superyachts.com/lifestyle/story/the-mclaren-senna-the-ultimate-road-legal-track-car-5590
+- duPont Registry (Andrew Nabors), 2021 McLaren Senna Breaks Four Consecutive U.S. Track Records, 27 Aug 2020: https://news.dupontregistry.com/news/2021-mclaren-senna-breaks-four-consecutive-u-s-track-records
+- ASME, 3D Printing Meets High Performance in Czinger Hypercars, 27 Mar 2025: https://www.asme.org/topics-resources/content/3d-printing-meets-high-performance-in-czinger-hypercars
+- Backfire News via Yahoo Autos, 3D Printed Car Sets New Lap Record at Laguna Seca, 19 Mar 2024: https://autos.yahoo.com/3d-printed-car-sets-lap-183000639.html
+- GTPlanet, Czinger's 21C is a 270mph, 3D-Printed, V8 Hybrid Hypercar, 21 Feb 2020: https://www.gtplanet.net/czingers-21c-is-a-270mph-3d-printed-v8-hybrid-hypercar/
+- FastCar, Czinger 21C Laguna Seca lap record: https://www.fastcar.co.uk/?p=59698

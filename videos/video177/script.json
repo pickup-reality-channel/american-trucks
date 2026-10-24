@@ -1,0 +1,322 @@
+{
+ "id": "video177",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Czinger 21C",
+ "scenes": [
+  {
+   "text": "Two things about the Czinger 21C that most car fans do not know. First, much of this hypercar was designed to be made without the molds, dies and fixtures that normally shape a car. Second, the same car has taken the Laguna Seca production-car lap record three times, by a bigger margin each time. We checked both claims against the sources.",
+   "query": "Czinger 21C",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE CZINGER 21C",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's page on the 21C, an engineering article from the American Society of Mechanical Engineers, a Backfire News report, GTPlanet, FastCar, Facfox and a Caltech-linked business magazine called CSQ. Where they disagree, and they disagree a lot, we show both numbers. Our own arithmetic is always labelled.",
+   "query": "Czinger 21C front",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 ASME (27 MAR 2025) \u00b7 BACKFIRE NEWS VIA YAHOO (19 MAR 2024) \u00b7 GTPLANET (21 FEB 2020) \u00b7 FASTCAR \u00b7 FACFOX \u00b7 CSQ (SEP 2022) \u00b7 CONFLICTS SHOWN \u00b7 OUR ARITHMETIC LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with what the car is. Wikipedia says the 21C is made by Czinger Vehicles in Los Angeles, with a planned run of eighty cars. It has a two point eight eight litre twin-turbo V8, two electric motors driving the front wheels, and a combined output of twelve hundred fifty horsepower. That is the headline. The unusual part is how it is built.",
+   "query": "Czinger 21C rear",
+   "caption": "WIKIPEDIA: LOS ANGELES; 80 UNITS PLANNED; 2.88 L TWIN-TURBO V8 + ELECTRIC MOTORS; 1,250 HP COMBINED",
+   "cuts": 5,
+   "chapter": "Thing one: a hypercar built without tooling"
+  },
+  {
+   "text": "The American Society of Mechanical Engineers described the approach in March twenty twenty-five. Its article says Czinger's parts are designed by a computer process called topology optimization, which decides where material should be, based on the stresses a part will see. The article says this frees engineers from limits such as draft angles, minimum wall thickness and tool access.",
+   "query": "Czinger 21C interior",
+   "caption": "ASME (27 MAR 2025): TOPOLOGY OPTIMIZATION \u2014 'IDEAL MATERIAL DISTRIBUTION' FROM REAL STRESS AND LOAD \u00b7 NO DRAFT-ANGLE, MINIMUM-WALL OR TOOL-ACCESS LIMITS",
+   "cuts": 3
+  },
+  {
+   "text": "In a normal factory, a cast part needs a mold, and a stamped panel needs a die. Those cost money and time before the first part exists. The ASME article says that with printed parts, a one-off can be made, instrumented, tested and improved without waiting for tooling. Field data can then feed back into the optimizer. That is the claim in the article, not a measurement we could check.",
+   "query": "Czinger 21C front",
+   "caption": "ASME: ONE-OFF PARTS CAN BE INSTRUMENTED AND TESTED 'WITHOUT WAITING FOR TOOLING'; FIELD DATA FED BACK INTO THE OPTIMIZER \u00b7 CLAIM, NOT INDEPENDENTLY VERIFIED",
+   "cuts": 3
+  },
+  {
+   "text": "Three parts show it best. The first is the gearbox case. ASME calls it the first topology-optimized, additively manufactured production gearbox case to move beyond the prototype stage, made from a proprietary aluminium alloy. The article says the design went through multiple iterations, and that heat exchanger elements are built into the structure.",
+   "query": "Czinger 21C engine",
+   "caption": "ASME: GEARBOX CASE = 'FIRST TOPOLOGY-OPTIMIZED, ADDITIVELY MANUFACTURED PRODUCTION GEARBOX CASE TO MOVE BEYOND PROTOTYPE'; PROPRIETARY ALUMINIUM ALLOY; HEAT EXCHANGER ELEMENTS INTEGRATED",
+   "cuts": 3
+  },
+  {
+   "text": "The second is the rear subframe, which ASME says is the largest single component. It is printed in sections, then laser-metal printed, then assembled in a robotic cell using in-house adhesives. The article describes the cell as fixtureless: robots place parts using laser-tracked positioning instead of clamping them in a jig. The article does not give the number of sections.",
+   "query": "Czinger 21C rear",
+   "caption": "ASME: REAR SUBFRAME = LARGEST COMPONENT; PRINTED IN SECTIONS, LASER-METAL PRINTED, ROBOT CELL, IN-HOUSE ADHESIVES, LASER-TRACKED POSITIONING, 'NO TOOLING' \u00b7 NUMBER OF SECTIONS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The third is a part called the BrakeNode. Wikipedia says it combines the brake caliper and the upright into one unit. ASME adds that it also carries the brake fluid, lowers part count, simplifies assembly and improves rigidity. In an ordinary car, a caliper bolts to a separate hub carrier. Here they are a single printed structure.",
+   "query": "Czinger 21C wheel",
+   "caption": "WIKIPEDIA: BRAKENODE = CALIPER + UPRIGHT IN ONE UNIT \u00b7 ASME: ALSO CARRIES BRAKE FLUID; FEWER PARTS, SIMPLER ASSEMBLY, MORE RIGIDITY",
+   "cuts": 3
+  },
+  {
+   "text": "Printing metal at this scale is hard, and the sources admit it. ASME says early challenges included porosity, meaning tiny voids inside the metal, and print-orientation effects, where strength depends on which way a part was built. The article quotes Chief Engineer Ewan Baldry saying these have since been resolved through process refinement. We could not find test data in any source.",
+   "query": "Czinger 21C",
+   "caption": "ASME: EARLY CHALLENGES = POROSITY + PRINT-ORIENTATION VARIABILITY; 'RESOLVED' PER CHIEF ENGINEER EWAN BALDRY \u00b7 TEST DATA: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The printers matter too. Facfox reports that Czinger's sister company Divergent bought five pre-production metal printers from SLM Solutions in twenty nineteen. It says the suspension and chassis parts were made on commercially available SLM eight hundred machines, with a build volume of five hundred by two hundred eighty by eight hundred fifty millimetres, and that Divergent planned twenty next-generation systems.",
+   "query": "3D printer metal",
+   "caption": "FACFOX: DIVERGENT BOUGHT 5 PRE-PRODUCTION SLM SOLUTIONS SYSTEMS IN 2019 \u00b7 SLM 800 BUILD VOLUME 500 \u00d7 280 \u00d7 850 MM \u00b7 PLAN: 20 NEXT-GEN SYSTEMS",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, a part that fits that build volume could be at most about eight hundred fifty millimetres tall, which is under three feet. That is why the biggest parts, like the subframe, are printed in sections and joined. That is our inference from the stated size, not a statement from Czinger.",
+   "query": "Czinger 21C chassis",
+   "caption": "850 MM = 33.5 IN (OUR ARITHMETIC) \u00b7 SECTIONED PRINTING OF LARGE PARTS = OUR INFERENCE FROM BUILD VOLUME + ASME ('PRINTED IN SECTIONS')",
+   "cuts": 3
+  },
+  {
+   "text": "The Backfire News report adds a number about labour. It says each 21C takes three thousand to four thousand hours of work. By our arithmetic, at forty hours a week, that is seventy-five to one hundred weeks for one person, so roughly a year and a half to nearly two years per car. A toolless car, then, is not a fast car to build.",
+   "query": "Czinger 21C",
+   "caption": "BACKFIRE NEWS (19 MAR 2024): 3,000\u20134,000 LABOR HOURS PER CAR \u00b7 \u00f7 40 H/WEEK = 75\u2013100 WEEKS (OUR ARITHMETIC; HOURS ARE ACROSS MANY WORKERS, NOT ONE) \u00b7 BREAKDOWN BY TASK: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "One more claim needs care. GTPlanet, in February twenty twenty, says the car is made from three-D-printed carbon nanotubes. No other source we read says that. ASME describes aluminium alloy printed parts and adhesive-bonded structure, and Wikipedia does not mention nanotubes. We think the GTPlanet line is an error, and we do not repeat it as fact.",
+   "query": "Czinger 21C front",
+   "caption": "GTPLANET (21 FEB 2020): '3D-PRINTED CARBON NANOTUBES' \u00b7 ASME: ALUMINIUM ALLOY PRINTED PARTS \u00b7 WIKIPEDIA: NO NANOTUBES \u00b7 UNCONFIRMED \u2014 NOT USED AS FACT",
+   "cuts": 3
+  },
+  {
+   "text": "The company also makes an environmental claim. The CSQ article says the 21C is net-zero in emissions when run on carbon-recycled methanol. That is a claim about a fuel, not about the car as delivered, and the article does not explain who supplies that methanol or how the carbon is accounted for. We list it as a claim.",
+   "query": "Czinger 21C",
+   "caption": "CSQ (SEP 2022): 'NET-ZERO EMISSIONS WHEN RUN ON CARBON-RECYCLED METHANOL' \u00b7 FUEL SUPPLY / ACCOUNTING: NOT STATED \u00b7 CLAIM ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "Even the factory is part of the argument. CSQ says Czinger Vehicles had fewer than fifty employees in twenty twenty-two. The ASME article says McLaren and Bugatti have begun working with Divergent on printed structural parts. So the toolless method is being offered to other carmakers. How many parts they use, and on which cars, is not stated.",
+   "query": "McLaren Senna",
+   "caption": "CSQ (SEP 2022): CZINGER VEHICLES < 50 EMPLOYEES \u00b7 ASME (2025): 'MCLAREN AND BUGATTI HAVE BEGUN WORKING WITH DIVERGENT ON 3D-PRINTED STRUCTURAL COMPONENTS' \u00b7 PARTS / CARS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Before the second thing, a small one that is easy to verify. Wikipedia says the 21C seats the driver in the centre, with a passenger seat directly behind. FastCar says the driver sits centrally like in the McLaren F1, and quotes Czinger that this gives optimal performance and weight distribution. Czinger says it, we cannot test it.",
+   "query": "McLaren F1",
+   "caption": "WIKIPEDIA: CENTRAL DRIVER'S SEAT + TANDEM PASSENGER SEAT BEHIND \u00b7 FASTCAR: 'LIKE THE McLAREN F1'; CZINGER: 'OPTIMAL PERFORMANCE AND WEIGHT DISTRIBUTION'",
+   "cuts": 3,
+   "chapter": "The cockpit: driver in the middle"
+  },
+  {
+   "text": "Wikipedia adds a practical reason: the layout minimises cockpit width. The car's overall width is two thousand fifty millimetres, which is eighty point seven inches. By our arithmetic, that is about six feet nine inches across, wide for a car with one seat in front. The sources do not give the cabin width, so we cannot say how much narrower it is.",
+   "query": "Czinger 21C interior",
+   "caption": "WIKIPEDIA: TANDEM LAYOUT 'MINIMIZES COCKPIT WIDTH' \u00b7 CAR WIDTH 2,050 MM = 80.7 IN = 6 FT 8.7 IN (OUR ARITHMETIC) \u00b7 CABIN WIDTH: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Now the second thing. Wikipedia lists three Laguna Seca lap records for the 21C, all set by American driver Joel Miller. August twenty twenty-one, one minute twenty-five point four four. August twenty twenty-four, one minute twenty-four point seven five. And the fifteenth of December twenty twenty-five, one minute twenty-two point three zero.",
+   "query": "Laguna Seca",
+   "caption": "WIKIPEDIA (LAGUNA SECA, DRIVER JOEL MILLER): AUG 2021 1:25.44 \u00b7 AUG 2024 1:24.75 \u00b7 15 DEC 2025 1:22.30 \u00b7 PRODUCTION-CAR RECORDS PER WIKIPEDIA",
+   "cuts": 3,
+   "chapter": "Thing two: the lap record that keeps falling"
+  },
+  {
+   "text": "Wikipedia says the first two used road-legal Michelin Pilot Sport Cup two R tyres on a high-downforce track version of the car. It does not name the tyres for the December twenty twenty-five lap. So we cannot say how much of that last improvement came from the car, the tyres, the driver or the conditions. We flag that gap.",
+   "query": "Laguna Seca corkscrew",
+   "caption": "WIKIPEDIA: 2021 + 2024 LAPS ON ROAD-LEGAL MICHELIN PILOT SPORT CUP2 R TYRES, HIGH-DOWNFORCE TRACK VERSION \u00b7 TYRES FOR DEC 2025: NOT STATED \u00b7 WEATHER / TRACK TEMP: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the August twenty twenty-four lap was point six nine seconds quicker than the twenty twenty-one one. The December twenty twenty-five lap was another two point four five seconds quicker than that. In total, from first to last, the car found three point one four seconds, which is about three point seven percent of the original lap.",
+   "query": "Laguna Seca",
+   "caption": "1:25.44 \u2212 1:24.75 = 0.69 S \u00b7 1:24.75 \u2212 1:22.30 = 2.45 S \u00b7 1:25.44 \u2212 1:22.30 = 3.14 S = 3.7% OF 85.44 S (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Who held the record before? Both Backfire News and FastCar say the McLaren Senna, at one minute twenty-seven point six two. A McLaren press release, reported by duPont Registry in August twenty twenty, says a stock twenty twenty-one Senna set that time and beat a one twenty-eight record that had stood for years. So the 21C's first lap beat the Senna by about two seconds.",
+   "query": "McLaren Senna",
+   "caption": "BACKFIRE (19 MAR 2024) + FASTCAR: PREVIOUS RECORD McLAREN SENNA 1:27.62 \u00b7 DUPONT REGISTRY (27 AUG 2020, McLAREN RELEASE): STOCK 2021 SENNA 1:27.62, BEAT A '1:28' RECORD \u00b7 87.62 \u2212 85.44 = 2.18 S (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the December twenty twenty-five lap is five point three two seconds quicker than the Senna's, about six point one percent. Those are different cars and different years, and the sources do not say whether the conditions matched. But as a ladder of records at one famous track, it is hard to miss.",
+   "query": "Laguna Seca",
+   "caption": "87.62 \u2212 82.30 = 5.32 S = 6.1% OF 87.62 S (OUR ARITHMETIC) \u00b7 SAME TRACK, DIFFERENT YEARS; CONDITIONS NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The track is not the only place the car has been timed. Wikipedia lists a Goodwood Festival of Speed hillclimb time of forty-eight point eight two seconds, driven by Chris Ward in twenty twenty-four, and a Circuit of the Americas lap of two minutes ten point seven in twenty twenty-four. It does not name the driver for the Texas lap.",
+   "query": "Goodwood Festival of Speed",
+   "caption": "WIKIPEDIA: GOODWOOD FESTIVAL OF SPEED HILLCLIMB 2024, CHRIS WARD, 48.82 S \u00b7 CIRCUIT OF THE AMERICAS 2024, 2:10.70, DRIVER NOT STATED \u00b7 YEAR OF GOODWOOD RUN: FROM TEXT, NOT TABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia calls these production-car records. That wording matters. A production-car record is not an absolute lap record for any vehicle, and the rules behind these claims are not given in our sources. Backfire's article, for example, does not say who timed the lap or whether it was officially sanctioned. So we call them reported records.",
+   "query": "Laguna Seca",
+   "caption": "WIKIPEDIA: 'PRODUCTION-CAR' RECORDS \u00b7 BACKFIRE (2024): TIMING AUTHORITY / SANCTION: NOT STATED \u00b7 FASTCAR: 'WHETHER IT IS AN OFFICIAL RECORD': NOT STATED \u00b7 WE SAY 'REPORTED RECORDS'",
+   "cuts": 3
+  },
+  {
+   "text": "We promised two things, but there is a third. The car's own numbers do not agree between sources. Take power. Wikipedia says twelve hundred fifty horsepower. GTPlanet and FastCar say twelve thirty-three. Backfire News says thirteen thirty-one. Czinger's special Blackbird edition is listed at thirteen fifty. Four figures for one family of cars.",
+   "query": "Czinger 21C",
+   "caption": "WIKIPEDIA: 1,250 HP (BLACKBIRD 1,350) \u00b7 GTPLANET + FASTCAR: 1,233 HP \u00b7 BACKFIRE (2024): 1,331 HP \u00b7 ARE THEY DIFFERENT MODEL YEARS OR VARIANTS? NOT STATED",
+   "cuts": 3,
+   "chapter": "Thing three, by accident: the numbers disagree"
+  },
+  {
+   "text": "Weight is worse. Wikipedia gives a curb weight of sixteen hundred twenty kilograms. GTPlanet in twenty twenty says about twelve hundred fifty. FastCar says twelve hundred forty, claimed by Czinger. Backfire says under twenty-eight hundred pounds. By our arithmetic, that is a three hundred seventy kilogram gap between the first two, about thirty percent.",
+   "query": "Czinger 21C front",
+   "caption": "WIKIPEDIA: 1,620 KG CURB \u00b7 GTPLANET: ~1,250 KG (2,750 LB, CURB) \u00b7 FASTCAR: 1,240 KG (CZINGER CLAIM) \u00b7 BACKFIRE: < 2,800 LB (= 1,270 KG) \u00b7 1,620 \u2212 1,250 = 370 KG = 29.6% OF 1,250 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed too. GTPlanet's body text says a claimed two hundred sixty-eight miles an hour, and the headline says two seventy. ASME's video caption says two sixty-eight. FastCar says Czinger claims two hundred eighty-one. Even the acceleration claims differ: a zero to sixty time of one point eight seconds in one source and one point nine to sixty-two in another.",
+   "query": "Czinger 21C rear",
+   "caption": "GTPLANET: 268 MPH BODY / 270 HEADLINE \u00b7 ASME: 268 MPH \u00b7 FASTCAR: 281 MPH (CZINGER CLAIM) \u00b7 0\u201360: 1.8 S PROJECTED (GTPLANET) vs 0\u201362 MPH 1.9 S (BACKFIRE, CSQ) \u00b7 NO INDEPENDENT TEST IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Why do the numbers move? The sources do not say. The earlier ones are from twenty twenty, when the car was still a promise. The later ones come after development. Our reading, and it is only a reading, is that early figures were targets and later ones are closer to production. No source states that, so we show every number and trust none of them blindly.",
+   "query": "Czinger 21C",
+   "caption": "OUR READING (NOT A SOURCE STATEMENT): EARLY FIGURES = TARGETS, LATER = CLOSER TO PRODUCTION \u00b7 NO SOURCE EXPLAINS THE DIFFERENCES",
+   "cuts": 3
+  },
+  {
+   "text": "The most useful reading for a viewer is this: treat the lap times and the printed-parts claims as the better-documented facts, because they come with a driver, a track and a named article. Treat top speed, weight and power as claims. Wikipedia itself has two conflicts inside its own page, on the peak-power rev limit and on how many electric motors there are.",
+   "query": "Czinger 21C",
+   "caption": "WIKIPEDIA INTERNAL CONFLICTS: PEAK POWER AT 11,500 RPM (INFOBOX) vs 10,500 RPM (TEXT) \u00b7 ELECTRIC MOTORS: 3 (INFOBOX) vs 2 ON THE FRONT (TEXT)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a good reason to care about those motors. Wikipedia says the car has one axial-flux motor generator unit plus two high-output motors with torque vectoring. The text says two motors on the front. The battery is a two kilowatt-hour lithium-titanate pack. GTPlanet says that chemistry charges and discharges faster than lithium-ion but stores less energy.",
+   "query": "Czinger 21C engine",
+   "caption": "WIKIPEDIA: 2 kWh LITHIUM-TITANATE BATTERY; PARALLEL + THROUGH-THE-ROAD HYBRID \u00b7 GTPLANET: LITHIUM-TITANATE 'CHARGES AND DISCHARGES FASTER THAN LITHIUM-ION BUT LESS ENERGY-DENSE'",
+   "cuts": 3
+  },
+  {
+   "text": "Put together: a two point eight eight litre V8 that Wikipedia lists with a bore of eighty-four millimetres and a stroke of sixty-five, a seven-speed sequential gearbox, and electric motors that fill in while the turbos spool. By our arithmetic, those bore and stroke figures give about two thousand eight hundred eighty cubic centimetres, which matches the stated two point eight eight litres.",
+   "query": "Czinger 21C engine",
+   "caption": "WIKIPEDIA: BORE 84 MM \u00d7 STROKE 65 MM, 7-SPEED SEQUENTIAL \u00b7 \u03c0/4 \u00d7 8.4\u00b2 \u00d7 6.5 \u00d7 8 CYLINDERS = 2,881 CC (OUR ARITHMETIC; 8-CYLINDER COUNT FROM 'V8') \u00b7 ELECTRIC FILL DURING TURBO SPOOL: OUR READING, NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "A word on timing, because it shapes the numbers. Wikipedia says the 21C was unveiled on the eleventh of March twenty twenty in London, after the Geneva Motor Show was cancelled because of the pandemic. Deliveries were planned for the fourth quarter of twenty twenty-three, with most in twenty twenty-four, according to the founder, Kevin Czinger.",
+   "query": "Geneva Motor Show",
+   "caption": "WIKIPEDIA: UNVEILED 11 MARCH 2020, LONDON (GENEVA CANCELLED, COVID-19) \u00b7 DELIVERIES PLANNED Q4 2023, MOST 2024 (KEVIN CZINGER)",
+   "cuts": 3,
+   "chapter": "How the car arrived"
+  },
+  {
+   "text": "The Backfire article of March twenty twenty-four says production was expected to start in twenty twenty-two, and that a chip shortage delayed it. It also says three more models were planned, one of them cheaper. We found no source in this set confirming how many cars have actually been delivered, so we cannot say how many of the eighty exist.",
+   "query": "Czinger 21C",
+   "caption": "BACKFIRE (19 MAR 2024): PRODUCTION 'ANTICIPATED' 2022; CHIP SHORTAGE DELAYED; 3 MORE MODELS PLANNED INCL. LOWER-PRICED \u00b7 DELIVERIES SO FAR: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The Blackbird is the rarest variant. Wikipedia says it is limited to four examples with thirteen hundred fifty horsepower, against the standard eighty. By our arithmetic, that is five percent of the planned run. The sources give no price and no performance figures for the Blackbird beyond the power number.",
+   "query": "Czinger 21C rear",
+   "caption": "WIKIPEDIA: 21C BLACKBIRD = 4 EXAMPLES, 1,350 HP \u00b7 4 \u00f7 80 = 5% (OUR ARITHMETIC; WHETHER THE 4 ARE INSIDE OR ON TOP OF THE 80: NOT STATED) \u00b7 BLACKBIRD PRICE: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Start with how the power is split. Facfox says the twelve hundred fifty total is about nine hundred fifty from the twin-turbo V8 and three hundred from the electric system. GTPlanet says the V8 makes over nine hundred thirty and each of two front motors adds one hundred sixty-five. By our arithmetic, nine thirty plus two times one sixty-five is twelve sixty, not twelve thirty-three.",
+   "query": "Czinger 21C engine",
+   "caption": "FACFOX: ~950 HP V8 + ~300 HP EV = 1,250 \u00b7 GTPLANET: V8 > 930 HP, 2 \u00d7 165 HP FRONT MOTORS, COMBINED 1,233 HP \u00b7 930 + 2 \u00d7 165 = 1,260 HP; DIFFERENCE 27 HP (OUR ARITHMETIC) \u00b7 WHY PEAKS DO NOT ADD: NOT STATED",
+   "cuts": 3,
+   "chapter": "More numbers worth checking"
+  },
+  {
+   "text": "The sources do not explain that twenty-seven horsepower gap. Our reading is that the engine and motors do not both reach their peak at the same moment, so the quoted total is lower than the simple sum. That is a common pattern in hybrids, but none of our sources says it about this car, so treat it as our hypothesis.",
+   "query": "Czinger 21C",
+   "caption": "OUR HYPOTHESIS (NOT A SOURCE STATEMENT): PEAKS DO NOT COINCIDE \u00b7 NO SOURCE EXPLAINS THE 27 HP GAP",
+   "cuts": 3
+  },
+  {
+   "text": "The engine's speed is remarkable on paper. GTPlanet and FastCar both give an eleven thousand rpm redline. With the stroke of sixty-five millimetres that Wikipedia lists, our arithmetic gives a mean piston speed of about twenty-four metres per second at the redline. We have no comparison engine in our sources, so we offer the number without a verdict.",
+   "query": "Czinger 21C engine",
+   "caption": "GTPLANET + FASTCAR: 11,000 RPM \u00b7 STROKE 65 MM (WIKIPEDIA) \u00b7 2 \u00d7 0.065 M \u00d7 11,000 \u00f7 60 = 23.8 M/S MEAN PISTON SPEED (OUR ARITHMETIC) \u00b7 COMPARISON ENGINES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Aerodynamics is another conflict. GTPlanet says the road car makes five hundred fifty pounds of downforce at one hundred fifty-five miles an hour, and the track model seventeen hundred forty. FastCar says twenty-five hundred kilograms at two hundred miles an hour in the most aggressive setting. By our arithmetic, five hundred fifty pounds is about two hundred fifty kilograms.",
+   "query": "Czinger 21C rear",
+   "caption": "GTPLANET: 550 LB @ 155 MPH (ROAD) = 249 KG; 1,740 LB (TRACK, SPEED NOT STATED) = 789 KG \u00b7 FASTCAR: 2,500 KG @ 200 MPH, MOST AGGRESSIVE SETTING (CZINGER CLAIM) \u00b7 POUNDS \u2192 KG: OUR ARITHMETIC \u00b7 DIFFERENT SPEEDS AND SETTINGS, SO NOT DIRECTLY COMPARABLE",
+   "cuts": 3
+  },
+  {
+   "text": "The track version is not very different in weight, according to GTPlanet, which says it is only seventy pounds lighter. By our arithmetic, that is about thirty-two kilograms, roughly two and a half percent of a twelve hundred fifty kilogram car. If that figure is right, the track model's advantage comes mostly from aerodynamics and setup, not from shedding mass.",
+   "query": "Czinger 21C front",
+   "caption": "GTPLANET (2020): TRACK MODEL 'ONLY 70 LB LIGHTER' = 31.8 KG = 2.5% OF 1,250 KG (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 'LIGHTWEIGHT TRACK' VARIANT, WEIGHT NOT STATED \u00b7 CONCLUSION IS OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration claims also come with different distances. FastCar quotes Czinger claims of an eight point one second quarter mile, zero to one hundred eighty-six miles an hour in eight point five seconds, and zero to two hundred forty-eight in twenty-seven point one. GTPlanet says zero to two forty-nine in twenty-nine seconds. By our arithmetic, that is one point nine seconds apart.",
+   "query": "Czinger 21C",
+   "caption": "FASTCAR (CZINGER CLAIMS): QUARTER MILE 8.1 S; 0\u2013186 MPH 8.5 S; 0\u2013248 MPH 27.1 S \u00b7 GTPLANET: 0\u2013249 MPH IN 29 S \u00b7 29 \u2212 27.1 = 1.9 S (OUR ARITHMETIC) \u00b7 INDEPENDENT TEST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's infobox has two more figures with no context: seven hundred fifty horsepower and three hundred ninety-seven pound-feet of torque. The page does not say whether those describe the engine alone, one motor, or something else. Seven fifty is not twelve fifty, so it clearly is not the combined number. We could not match it to any other source.",
+   "query": "Czinger 21C engine",
+   "caption": "WIKIPEDIA INFOBOX: '750 HP (559 KW; 760 PS) AND 397 LB-FT (538 N\u00b7M)' \u2014 NO CONTEXT GIVEN \u00b7 NOT MATCHED IN ANY OTHER SOURCE \u00b7 WE DO NOT USE IT",
+   "cuts": 3
+  },
+  {
+   "text": "Even the gearbox has two descriptions. Wikipedia says a seven-speed sequential transaxle with a hydraulic multi-plate clutch. ASME says an automated seven-speed semi-sequential unit. Those may be the same hardware described in different words, or they may differ in detail. The sources do not settle it, but both agree on seven speeds, and on the fact that the case itself is printed.",
+   "query": "Czinger 21C engine",
+   "caption": "WIKIPEDIA: 7-SPEED SEQUENTIAL TRANSAXLE, HYDRAULIC MULTI-PLATE CLUTCH \u00b7 ASME: AUTOMATED 7-SPEED SEMI-SEQUENTIAL \u00b7 SAME HARDWARE? NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "One more number from ASME is about the future. The article says Divergent has existed for eight to ten years, with a mission of toolless manufacturing for primary vehicle structures. It lists next steps: integrating cooling, electrical and fluid networks into structural parts, scaling production, reducing cost and possibly printing replacement parts on demand. Those are plans, not delivered features.",
+   "query": "Czinger 21C",
+   "caption": "ASME (2025): DIVERGENT 'EIGHT TO 10 YEARS'; FUTURE = INTEGRATE COOLING / ELECTRICAL / FLUID NETWORKS INTO STRUCTURE; SCALE; REDUCE COST; POSSIBLY ON-DEMAND PARTS \u00b7 PLANS, NOT DELIVERED FEATURES",
+   "cuts": 3
+  },
+  {
+   "text": "We left out things that sound plausible but that no source in this set supports. How many printed parts the car has. How much weight the printing saves. What each part costs. Whether the car handles better than a conventionally built one. Every one of those is a fair question, and none is answered in what we read.",
+   "query": "Czinger 21C",
+   "caption": "NOT STATED IN ASME: PART COUNT, QUANTIFIED WEIGHT SAVING, PRINT TIMES, FUNDING, PRICE \u00b7 FACFOX: NUMBER OF PRINTED PARTS 'NOT STATED' \u00b7 NO HANDLING COMPARISON IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "What we left out on purpose"
+  },
+  {
+   "text": "There is also the name. We found no source here that explains what twenty-one C stands for. Many people assume it refers to the twenty-first century, but that is a guess, not a fact from these sources. When a name has no stated meaning, we would rather say so than invent a tidy story.",
+   "query": "Czinger 21C front",
+   "caption": "MEANING OF '21C': NOT IN OUR SOURCES \u00b7 '21ST CENTURY' = COMMON ASSUMPTION, UNCONFIRMED",
+   "cuts": 3
+  },
+  {
+   "text": "So here is the honest summary of thing one. The strongest documented fact is the toolless construction approach, with three named parts: the gearbox case, the rear subframe and the BrakeNode. The strongest quantity is the three to four thousand labour hours per car. Everything else about the build, such as savings and part counts, is either a claim or missing.",
+   "query": "Czinger 21C interior",
+   "caption": "STRONGEST DOCUMENTED: GEARBOX CASE, REAR SUBFRAME, BRAKENODE (ASME, WIKIPEDIA) \u00b7 3,000\u20134,000 LABOR HOURS (BACKFIRE) \u00b7 SAVINGS, PART COUNT: MISSING",
+   "cuts": 3
+  },
+  {
+   "text": "And the summary of thing two. The strongest documented fact is the sequence of Laguna Seca times: one twenty-five forty-four, one twenty-four seventy-five, one twenty-two thirty, with the Senna's one twenty-seven sixty-two before them. The weakest part is who certified the times, and what the conditions were. Those details would make the claim airtight, and we do not have them.",
+   "query": "Laguna Seca",
+   "caption": "STRONGEST: LAP SEQUENCE 1:25.44 \u2192 1:24.75 \u2192 1:22.30 (WIKIPEDIA) AFTER SENNA 1:27.62 (McLAREN RELEASE VIA DUPONT REGISTRY) \u00b7 WEAKEST: TIMING AUTHORITY + CONDITIONS NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Why do these two things belong together? Our reading is that the lap times are the proof the printed structure is not a gimmick. If a car built this way can lap a famous circuit faster than the best McLaren hypercar before it, then the method deserves attention. But that is our argument, not Czinger's, and the sources do not make it for us.",
+   "query": "Czinger 21C",
+   "caption": "OUR ARGUMENT (NOT A SOURCE STATEMENT): LAP TIMES AS EVIDENCE THE METHOD WORKS \u00b7 NO SOURCE LINKS THE PRINTING METHOD TO LAP-TIME GAINS",
+   "cuts": 3
+  },
+  {
+   "text": "If you want to check any of this yourself, the links are in the description: the Wikipedia page, the ASME article, the Backfire News report, GTPlanet, FastCar, Facfox and CSQ. Read the weight and speed numbers with the conflicts in mind, and look for the date of each article before you trust a figure.",
+   "query": "Czinger 21C front",
+   "caption": "ALL LINKS IN THE DESCRIPTION \u00b7 CHECK ARTICLE DATES: 2020 FIGURES WERE TARGETS \u00b7 SEE THE CONFLICTS ON SCREEN",
+   "cuts": 3
+  },
+  {
+   "text": "That is the Czinger twenty-one C: a hypercar built mostly without tooling, and a record holder at Laguna Seca whose lap time fell three times. If you enjoyed it, subscribe to Pickup Reality. The next video puts the car against the McLaren Senna, head to head, with every number sourced.",
+   "query": "Czinger 21C",
+   "caption": "SUBSCRIBE: PICKUP REALITY \u00b7 NEXT: CZINGER 21C vs McLAREN SENNA",
+   "cuts": 3
+  },
+  {
+   "text": "One last reminder on method. Every number in this video came from a named source. Where we calculated something ourselves, it was labelled. Where two sources disagreed, we showed both. Where nothing was available, we said so. That is how we try to treat every car on this channel, and it is why we show the gaps on screen.",
+   "query": "Czinger 21C rear",
+   "caption": "METHOD: NAMED SOURCES \u00b7 OUR ARITHMETIC LABELLED \u00b7 CONFLICTS SHOWN \u00b7 GAPS FLAGGED",
+   "cuts": 3
+  }
+ ]
+}
