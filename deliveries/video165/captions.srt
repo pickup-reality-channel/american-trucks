@@ -1,0 +1,2195 @@
+1
+00:00:00,000 --> 00:00:03,111
+The Lamborghini Aventador SVJ has a rear
+
+2
+00:00:03,111 --> 00:00:05,679
+wing that is designed to stall on
+
+3
+00:00:05,679 --> 00:00:08,790
+purpose, and a production count that two
+
+4
+00:00:08,790 --> 00:00:10,657
+sources cannot agree on.
+
+5
+00:00:10,837 --> 00:00:13,381
+It also set a Nürburgring record that
+
+6
+00:00:13,381 --> 00:00:16,132
+is quoted three slightly different ways.
+
+7
+00:00:16,312 --> 00:00:18,849
+Two things most people do not know
+
+8
+00:00:18,849 --> 00:00:20,640
+about the Aventador SVJ,
+
+9
+00:00:20,640 --> 00:00:24,223
+with every figure sourced and every disagreement
+
+10
+00:00:24,223 --> 00:00:24,671
+shown.
+
+11
+00:00:25,020 --> 00:00:29,214
+Our sources are Wikipedia's Aventador and Huracán
+
+12
+00:00:29,214 --> 00:00:31,867
+pages, an IEEE Spectrum review,
+
+13
+00:00:31,867 --> 00:00:35,462
+an Autocar road test republished by Yahoo,
+
+14
+00:00:35,462 --> 00:00:38,971
+Auto Bild from September twenty eighteen,
+
+15
+00:00:38,971 --> 00:00:41,453
+and the cost pages we flag as
+
+16
+00:00:41,453 --> 00:00:42,052
+weaker.
+
+17
+00:00:42,232 --> 00:00:44,188
+They disagree on weight,
+
+18
+00:00:44,188 --> 00:00:46,470
+price, power and production.
+
+19
+00:00:46,650 --> 00:00:48,635
+We show each version.
+
+20
+00:00:48,815 --> 00:00:51,184
+Our own arithmetic is labelled.
+
+21
+00:00:51,534 --> 00:00:52,253
+Thing one.
+
+22
+00:00:52,433 --> 00:00:55,466
+The SVJ's active aerodynamics,
+
+23
+00:00:55,466 --> 00:00:58,296
+which Lamborghini calls ALA.
+
+24
+00:00:58,476 --> 00:01:01,716
+Wikipedia says the SVJ is the first
+
+25
+00:01:01,716 --> 00:01:05,233
+production V12 Lamborghini to have it.
+
+26
+00:01:05,413 --> 00:01:08,675
+It includes a disconnected front splitter,
+
+27
+00:01:08,675 --> 00:01:10,227
+a bonnet air outlet,
+
+28
+00:01:10,227 --> 00:01:12,634
+a large carbon rear wing with a
+
+29
+00:01:12,634 --> 00:01:16,206
+central fin, underbody vortex generators and a
+
+30
+00:01:16,206 --> 00:01:17,604
+big rear diffuser.
+
+31
+00:01:17,954 --> 00:01:20,403
+IEEE Spectrum explains the trick.
+
+32
+00:01:20,583 --> 00:01:22,651
+The wing is made of a polymer
+
+33
+00:01:22,651 --> 00:01:24,647
+stiffened with carbon fibre,
+
+34
+00:01:24,647 --> 00:01:27,642
+which allows hollow internal air channels.
+
+35
+00:01:27,822 --> 00:01:29,381
+When ALA is active,
+
+36
+00:01:29,381 --> 00:01:31,924
+the wing stalls and drag drops,
+
+37
+00:01:31,924 --> 00:01:33,975
+which helps acceleration.
+
+38
+00:01:34,155 --> 00:01:36,015
+That is the sense in which the
+
+39
+00:01:36,015 --> 00:01:37,441
+wing stalls on purpose:
+
+40
+00:01:37,441 --> 00:01:39,486
+it gives up downforce to cut drag
+
+41
+00:01:39,486 --> 00:01:41,470
+when the car does not need grip.
+
+42
+00:01:41,819 --> 00:01:45,005
+Auto Bild, in September twenty eighteen,
+
+43
+00:01:45,005 --> 00:01:48,031
+describes the same system more simply.
+
+44
+00:01:48,211 --> 00:01:51,287
+Front flaps closed give maximum downforce.
+
+45
+00:01:51,467 --> 00:01:54,085
+Front flaps open give lower drag,
+
+46
+00:01:54,085 --> 00:01:57,098
+for higher top speed and acceleration.
+
+47
+00:01:57,278 --> 00:01:59,504
+The enlarged rear wing is part of
+
+48
+00:01:59,504 --> 00:02:02,202
+the system, and the roadster would later
+
+49
+00:02:02,202 --> 00:02:04,495
+get an update called ALA two point
+
+50
+00:02:04,495 --> 00:02:04,697
+oh.
+
+51
+00:02:05,047 --> 00:02:08,070
+Wikipedia says the system works with a
+
+52
+00:02:08,070 --> 00:02:10,536
+second-generation control unit,
+
+53
+00:02:10,536 --> 00:02:12,524
+called LDVA two point oh,
+
+54
+00:02:12,524 --> 00:02:15,149
+that adjusts the car every half a
+
+55
+00:02:15,149 --> 00:02:15,705
+second.
+
+56
+00:02:15,885 --> 00:02:19,768
+IEEE Spectrum adds that above seventy-one kilometres
+
+57
+00:02:19,768 --> 00:02:22,232
+per hour, the rear flaps open and
+
+58
+00:02:22,232 --> 00:02:24,697
+close independently when turning,
+
+59
+00:02:24,697 --> 00:02:27,385
+to adjust downforce on each side and
+
+60
+00:02:27,385 --> 00:02:30,073
+help the car rotate through corners.
+
+61
+00:02:30,253 --> 00:02:32,447
+Adjustments take under half a second.
+
+62
+00:02:32,798 --> 00:02:35,537
+Both numbers are the same speed,
+
+63
+00:02:35,537 --> 00:02:37,077
+by our arithmetic:
+
+64
+00:02:37,077 --> 00:02:41,443
+seventy-one kilometres per hour is forty-four miles
+
+65
+00:02:41,443 --> 00:02:42,213
+per hour.
+
+66
+00:02:42,393 --> 00:02:43,322
+IEEE gives both.
+
+67
+00:02:43,502 --> 00:02:45,488
+The key idea is that the wing
+
+68
+00:02:45,488 --> 00:02:47,405
+acts on each side of the car
+
+69
+00:02:47,405 --> 00:02:50,554
+separately, a form of torque vectoring through
+
+70
+00:02:50,554 --> 00:02:50,828
+air.
+
+71
+00:02:51,008 --> 00:02:53,112
+Auto Bild notes the car has no
+
+72
+00:02:53,112 --> 00:02:55,217
+conventional torque vectoring,
+
+73
+00:02:55,217 --> 00:02:58,514
+because the engineer cited brake overheating as
+
+74
+00:02:58,514 --> 00:02:59,286
+the reason.
+
+75
+00:02:59,636 --> 00:03:01,493
+How much extra downforce?
+
+76
+00:03:01,673 --> 00:03:03,531
+Here the sources disagree.
+
+77
+00:03:03,711 --> 00:03:07,384
+Wikipedia says forty percent more downforce than
+
+78
+00:03:07,384 --> 00:03:10,293
+the Aventador SV and one percent lower
+
+79
+00:03:10,293 --> 00:03:11,594
+drag coefficient.
+
+80
+00:03:11,774 --> 00:03:14,953
+IEEE Spectrum says a thirty percent gain
+
+81
+00:03:14,953 --> 00:03:16,940
+in downforce over the SV,
+
+82
+00:03:16,940 --> 00:03:19,244
+much of it from ALA two point
+
+83
+00:03:19,244 --> 00:03:19,483
+oh.
+
+84
+00:03:19,663 --> 00:03:21,093
+By our arithmetic,
+
+85
+00:03:21,093 --> 00:03:24,192
+the two claims differ by ten percentage
+
+86
+00:03:24,192 --> 00:03:24,748
+points.
+
+87
+00:03:24,928 --> 00:03:26,983
+Neither source explains why.
+
+88
+00:03:27,333 --> 00:03:29,840
+The rest of the chassis supports the
+
+89
+00:03:29,840 --> 00:03:30,189
+aero.
+
+90
+00:03:30,369 --> 00:03:33,512
+IEEE Spectrum lists rear-wheel steering,
+
+91
+00:03:33,512 --> 00:03:36,970
+an all-wheel-drive system that can switch to
+
+92
+00:03:36,970 --> 00:03:41,607
+rear-wheel-only mode, and magnetorheological dampers at all
+
+93
+00:03:41,607 --> 00:03:42,629
+four corners.
+
+94
+00:03:42,809 --> 00:03:45,182
+Auto Bild says that in Sport mode,
+
+95
+00:03:45,182 --> 00:03:47,625
+eighty percent of the power goes to
+
+96
+00:03:47,625 --> 00:03:48,602
+the rear axle.
+
+97
+00:03:48,782 --> 00:03:51,539
+These details describe a car designed to
+
+98
+00:03:51,539 --> 00:03:53,124
+be driven at its limit.
+
+99
+00:03:53,475 --> 00:03:56,902
+Pirelli developed an exclusive tyre compound,
+
+100
+00:03:56,902 --> 00:04:00,787
+IEEE says, in twenty-inch front and twenty-one-inch
+
+101
+00:04:00,787 --> 00:04:01,625
+rear sizes.
+
+102
+00:04:01,805 --> 00:04:04,495
+Auto Bild says the record lap used
+
+103
+00:04:04,495 --> 00:04:07,344
+the optional Pirelli P Zero Trofeo R
+
+104
+00:04:07,344 --> 00:04:07,819
+tyres.
+
+105
+00:04:07,999 --> 00:04:10,316
+So the standard car's tyres and the
+
+106
+00:04:10,316 --> 00:04:12,501
+record car's tyres may not be the
+
+107
+00:04:12,501 --> 00:04:15,215
+same, though neither source says what the
+
+108
+00:04:15,215 --> 00:04:17,798
+standard fitment was in the record run.
+
+109
+00:04:18,148 --> 00:04:19,483
+The Nürburgring lap.
+
+110
+00:04:19,663 --> 00:04:24,194
+Wikipedia: six minutes forty-four point nine seven,
+
+111
+00:04:24,194 --> 00:04:26,326
+in July twenty eighteen,
+
+112
+00:04:26,326 --> 00:04:28,458
+driven by Marco Mapelli,
+
+113
+00:04:28,458 --> 00:04:31,923
+beating the Porsche nine eleven GT2 RS.
+
+114
+00:04:32,103 --> 00:04:34,957
+Auto Bild gives the same time and
+
+115
+00:04:34,957 --> 00:04:38,417
+says Lamborghini calls it the record for
+
+116
+00:04:38,417 --> 00:04:40,752
+road-legal production cars,
+
+117
+00:04:40,752 --> 00:04:44,385
+beating the GT2 RS's six forty-seven point
+
+118
+00:04:44,385 --> 00:04:46,720
+three by about two seconds.
+
+119
+00:04:46,900 --> 00:04:48,653
+Autocar repeats the time.
+
+120
+00:04:49,003 --> 00:04:50,387
+By our arithmetic,
+
+121
+00:04:50,387 --> 00:04:54,080
+six forty-seven point three minus six forty-four
+
+122
+00:04:54,080 --> 00:04:56,772
+point nine seven is two point three
+
+123
+00:04:56,772 --> 00:04:57,849
+three seconds.
+
+124
+00:04:58,029 --> 00:05:00,626
+That is about zero point six percent
+
+125
+00:05:00,626 --> 00:05:01,419
+of the lap.
+
+126
+00:05:01,599 --> 00:05:05,727
+Autocar compares it with the Huracán Performante's
+
+127
+00:05:05,727 --> 00:05:07,957
+six fifty-two point oh one,
+
+128
+00:05:07,957 --> 00:05:10,681
+which the SVJ beat by seven point
+
+129
+00:05:10,681 --> 00:05:12,002
+oh four seconds,
+
+130
+00:05:12,002 --> 00:05:14,231
+or one point eight percent.
+
+131
+00:05:14,581 --> 00:05:16,334
+IEEE Spectrum goes further.
+
+132
+00:05:16,514 --> 00:05:18,807
+It says the SVJ's lap was about
+
+133
+00:05:18,807 --> 00:05:21,767
+a minute faster than its predecessor and
+
+134
+00:05:21,767 --> 00:05:24,727
+calls it the fastest production car ever
+
+135
+00:05:24,727 --> 00:05:26,429
+tested on that circuit.
+
+136
+00:05:26,609 --> 00:05:28,443
+Those are the outlet's wording.
+
+137
+00:05:28,623 --> 00:05:32,443
+Wikipedia's note about the Huracán says only
+
+138
+00:05:32,443 --> 00:05:36,610
+that the Performante prototype did six fifty-two
+
+139
+00:05:36,610 --> 00:05:38,954
+point oh one and the GT2 RS
+
+140
+00:05:38,954 --> 00:05:42,253
+later did six forty-seven point three.
+
+141
+00:05:42,603 --> 00:05:44,553
+A caution about records.
+
+142
+00:05:44,733 --> 00:05:48,256
+Lamborghini calls this a record for road-legal
+
+143
+00:05:48,256 --> 00:05:51,319
+production cars, in Auto Bild's account,
+
+144
+00:05:51,319 --> 00:05:53,922
+and the record is tied to specific
+
+145
+00:05:53,922 --> 00:05:55,530
+tyres and conditions.
+
+146
+00:05:55,710 --> 00:05:58,047
+Our sources do not list whether the
+
+147
+00:05:58,047 --> 00:05:59,449
+lap was later beaten.
+
+148
+00:05:59,629 --> 00:06:02,422
+We have no information about later laps
+
+149
+00:06:02,422 --> 00:06:03,425
+by other cars,
+
+150
+00:06:03,425 --> 00:06:05,431
+and we do not claim the time
+
+151
+00:06:05,431 --> 00:06:06,792
+still stands today.
+
+152
+00:06:07,142 --> 00:06:09,902
+The IEEE Spectrum author drove the car
+
+153
+00:06:09,902 --> 00:06:12,663
+at Circuito do Estoril and reached two
+
+154
+00:06:12,663 --> 00:06:15,206
+hundred eighty kilometres per hour,
+
+155
+00:06:15,206 --> 00:06:18,330
+which is one hundred seventy-four miles per
+
+156
+00:06:18,330 --> 00:06:18,693
+hour.
+
+157
+00:06:18,873 --> 00:06:21,375
+The author did not reach the claimed
+
+158
+00:06:21,375 --> 00:06:23,460
+three hundred fifty top speed,
+
+159
+00:06:23,460 --> 00:06:26,240
+which is two hundred seventeen miles per
+
+160
+00:06:26,240 --> 00:06:28,603
+hour, and the article does not say
+
+161
+00:06:28,603 --> 00:06:28,881
+why.
+
+162
+00:06:29,061 --> 00:06:31,259
+It is a reminder that claims and
+
+163
+00:06:31,259 --> 00:06:33,183
+drives are different things.
+
+164
+00:06:33,533 --> 00:06:34,473
+Thing two.
+
+165
+00:06:34,653 --> 00:06:38,101
+The SVJ's own figures differ between sources.
+
+166
+00:06:38,281 --> 00:06:39,547
+Start with the weight.
+
+167
+00:06:39,727 --> 00:06:43,354
+Wikipedia says one thousand five hundred twenty-five
+
+168
+00:06:43,354 --> 00:06:46,633
+kilograms dry and seventeen seventy with fluids
+
+169
+00:06:46,633 --> 00:06:48,097
+in the United States.
+
+170
+00:06:48,277 --> 00:06:51,176
+Autocar says a claimed kerb weight of
+
+171
+00:06:51,176 --> 00:06:55,563
+fifteen twenty-five without fluids and seventeen seventy
+
+172
+00:06:55,563 --> 00:06:56,346
+as tested.
+
+173
+00:06:56,526 --> 00:06:59,330
+Auto Bild says fifteen twenty-five,
+
+174
+00:06:59,330 --> 00:07:02,935
+fifteen thirty-five and over sixteen hundred.
+
+175
+00:07:03,285 --> 00:07:04,784
+By our arithmetic,
+
+176
+00:07:04,784 --> 00:07:07,951
+the gap between dry and tested weights
+
+177
+00:07:07,951 --> 00:07:10,950
+is two hundred forty-five kilograms,
+
+178
+00:07:10,950 --> 00:07:12,700
+sixteen percent more.
+
+179
+00:07:12,880 --> 00:07:14,937
+That is a large difference for the
+
+180
+00:07:14,937 --> 00:07:15,481
+same car.
+
+181
+00:07:15,661 --> 00:07:18,242
+Auto Bild's own description of the dry
+
+182
+00:07:18,242 --> 00:07:21,094
+figure as flattering is one outlet's view.
+
+183
+00:07:21,274 --> 00:07:23,609
+Power to weight depends on which you
+
+184
+00:07:23,609 --> 00:07:25,489
+use, as the next scene shows.
+
+185
+00:07:25,839 --> 00:07:27,030
+Power to weight,
+
+186
+00:07:27,030 --> 00:07:28,370
+by our arithmetic.
+
+187
+00:07:28,550 --> 00:07:32,387
+With seven hundred fifty-nine horsepower and fifteen
+
+188
+00:07:32,387 --> 00:07:35,634
+twenty-five kilograms, it is zero point four
+
+189
+00:07:35,634 --> 00:07:38,216
+nine eight horsepower per kilogram,
+
+190
+00:07:38,216 --> 00:07:41,906
+which matches Autocar's claim of four ninety-eight
+
+191
+00:07:41,906 --> 00:07:42,644
+per tonne.
+
+192
+00:07:42,824 --> 00:07:45,138
+With the tested seventeen seventy,
+
+193
+00:07:45,138 --> 00:07:47,247
+it is zero point four two nine.
+
+194
+00:07:47,427 --> 00:07:49,709
+The difference is fourteen percent,
+
+195
+00:07:49,709 --> 00:07:51,143
+from the weight alone.
+
+196
+00:07:51,493 --> 00:07:53,292
+Next, power itself.
+
+197
+00:07:53,472 --> 00:07:56,589
+Wikipedia and Auto Bild give seven hundred
+
+198
+00:07:56,589 --> 00:07:58,519
+seventy metric horsepower,
+
+199
+00:07:58,519 --> 00:08:02,379
+which Wikipedia converts to seven hundred fifty-nine
+
+200
+00:08:02,379 --> 00:08:05,941
+horsepower and five hundred sixty-six kilowatts.
+
+201
+00:08:06,121 --> 00:08:09,673
+Autocar uses seven fifty-nine brake horsepower at
+
+202
+00:08:09,673 --> 00:08:11,485
+eighty-five hundred revs.
+
+203
+00:08:11,665 --> 00:08:14,749
+Torque is seven hundred twenty newton-metres,
+
+204
+00:08:14,749 --> 00:08:17,354
+or five hundred thirty-one pound-feet.
+
+205
+00:08:17,534 --> 00:08:20,308
+These agree, as the metric and imperial
+
+206
+00:08:20,308 --> 00:08:22,584
+units differ only by conversion.
+
+207
+00:08:22,935 --> 00:08:25,558
+The 0–100 time differs slightly.
+
+208
+00:08:25,738 --> 00:08:28,683
+Wikipedia and Auto Bild give two point
+
+209
+00:08:28,683 --> 00:08:32,015
+eight seconds to one hundred kilometres per
+
+210
+00:08:32,015 --> 00:08:32,403
+hour.
+
+211
+00:08:32,583 --> 00:08:35,264
+IEEE Spectrum says two point nine.
+
+212
+00:08:35,444 --> 00:08:38,625
+Autocar's measured zero to sixty miles per
+
+213
+00:08:38,625 --> 00:08:40,367
+hour is two point nine.
+
+214
+00:08:40,547 --> 00:08:43,773
+Wikipedia adds zero to two hundred in
+
+215
+00:08:43,773 --> 00:08:45,168
+eight point six.
+
+216
+00:08:45,348 --> 00:08:46,493
+By our arithmetic,
+
+217
+00:08:46,493 --> 00:08:48,656
+two point eight and two point nine
+
+218
+00:08:48,656 --> 00:08:50,628
+are a difference of three and a
+
+219
+00:08:50,628 --> 00:08:51,455
+half percent.
+
+220
+00:08:51,805 --> 00:08:55,276
+Top speed: Wikipedia lists three hundred fifty
+
+221
+00:08:55,276 --> 00:08:57,691
+kilometres per hour as official,
+
+222
+00:08:57,691 --> 00:09:00,483
+two hundred seventeen miles per hour,
+
+223
+00:09:00,483 --> 00:09:03,653
+and says Sport Auto measured three hundred
+
+224
+00:09:03,653 --> 00:09:06,596
+fifty-four on the Aventador in general.
+
+225
+00:09:06,776 --> 00:09:09,760
+Auto Bild says over three hundred fifty.
+
+226
+00:09:09,940 --> 00:09:12,494
+Autocar does not give a top speed.
+
+227
+00:09:12,674 --> 00:09:15,827
+The measured figure in Wikipedia refers to
+
+228
+00:09:15,827 --> 00:09:17,403
+the Aventador family,
+
+229
+00:09:17,403 --> 00:09:19,880
+and we cannot tell whether it was
+
+230
+00:09:19,880 --> 00:09:20,406
+an SVJ.
+
+231
+00:09:20,756 --> 00:09:23,902
+Braking is another place with competing numbers.
+
+232
+00:09:24,082 --> 00:09:26,680
+Wikipedia and Auto Bild do not give
+
+233
+00:09:26,680 --> 00:09:29,203
+a stopping distance for the SVJ in
+
+234
+00:09:29,203 --> 00:09:30,762
+the passages we used,
+
+235
+00:09:30,762 --> 00:09:33,805
+though Auto Bild says about thirty metres
+
+236
+00:09:33,805 --> 00:09:36,551
+from one hundred kilometres per hour.
+
+237
+00:09:36,731 --> 00:09:39,659
+Autocar measured seventy to zero miles per
+
+238
+00:09:39,659 --> 00:09:41,960
+hour in forty point eight metres,
+
+239
+00:09:41,960 --> 00:09:45,586
+compared with the McLaren Senna's thirty-seven point
+
+240
+00:09:45,586 --> 00:09:48,723
+four and the Ferrari eight twelve Superfast's
+
+241
+00:09:48,723 --> 00:09:50,117
+forty-two point one.
+
+242
+00:09:50,468 --> 00:09:52,395
+Prices vary by market.
+
+243
+00:09:52,575 --> 00:09:54,886
+IEEE Spectrum gives a base price of
+
+244
+00:09:54,886 --> 00:09:58,386
+five hundred seventeen thousand seven hundred seventy
+
+245
+00:09:58,386 --> 00:09:58,914
+dollars.
+
+246
+00:09:59,094 --> 00:10:02,125
+Auto Bild gives three hundred forty-nine thousand
+
+247
+00:10:02,125 --> 00:10:04,537
+one hundred sixteen euros for the coupe
+
+248
+00:10:04,537 --> 00:10:07,258
+and four hundred sixty thousand five hundred
+
+249
+00:10:07,258 --> 00:10:09,485
+thirty-eight euros for the roadster.
+
+250
+00:10:09,665 --> 00:10:12,098
+Autocar says the car starts at three
+
+251
+00:10:12,098 --> 00:10:15,071
+hundred sixty thousand pounds and can easily
+
+252
+00:10:15,071 --> 00:10:16,828
+top four hundred thousand.
+
+253
+00:10:17,179 --> 00:10:20,386
+We cannot convert those figures honestly because
+
+254
+00:10:20,386 --> 00:10:22,926
+our sources give no exchange rates and
+
+255
+00:10:22,926 --> 00:10:25,399
+different taxes apply in each market.
+
+256
+00:10:25,579 --> 00:10:26,769
+What we can say,
+
+257
+00:10:26,769 --> 00:10:28,108
+by our arithmetic,
+
+258
+00:10:28,108 --> 00:10:31,455
+is that Auto Bild's roadster costs thirty-two
+
+259
+00:10:31,455 --> 00:10:33,538
+percent more than its coupé,
+
+260
+00:10:33,538 --> 00:10:36,142
+and that Autocar's test car cost at
+
+261
+00:10:36,142 --> 00:10:39,341
+least eleven percent more than the starting
+
+262
+00:10:39,341 --> 00:10:41,647
+price, once options were added.
+
+263
+00:10:41,997 --> 00:10:44,603
+Production is the third thing that does
+
+264
+00:10:44,603 --> 00:10:45,271
+not agree.
+
+265
+00:10:45,451 --> 00:10:50,054
+Wikipedia lists nine hundred coupés and eight
+
+266
+00:10:50,054 --> 00:10:55,067
+hundred roadsters, plus sixty-three SVJ 63 coupés
+
+267
+00:10:55,067 --> 00:10:58,442
+and sixty-three SVJ 63 roadsters.
+
+268
+00:10:58,622 --> 00:11:01,514
+The nine hundred figure is flagged as
+
+269
+00:11:01,514 --> 00:11:02,999
+needing a citation.
+
+270
+00:11:03,179 --> 00:11:07,003
+Auto Bild says nine hundred units plus
+
+271
+00:11:07,003 --> 00:11:09,518
+a sixty-three-car SVJ 63.
+
+272
+00:11:09,698 --> 00:11:12,078
+Autocar says nine hundred planned.
+
+273
+00:11:12,429 --> 00:11:13,885
+By our arithmetic,
+
+274
+00:11:13,885 --> 00:11:17,767
+nine hundred plus eight hundred plus sixty-three
+
+275
+00:11:17,767 --> 00:11:22,053
+plus sixty-three is eighteen hundred twenty-six cars.
+
+276
+00:11:22,233 --> 00:11:25,338
+The weaker Automonitor page gives that same
+
+277
+00:11:25,338 --> 00:11:27,938
+sum, but also quotes a related blurb
+
+278
+00:11:27,938 --> 00:11:31,765
+saying only seventeen hundred sixty-three were built.
+
+279
+00:11:31,945 --> 00:11:35,479
+The difference is sixty-three cars,
+
+280
+00:11:35,479 --> 00:11:38,507
+exactly the size of one SVJ 63
+
+281
+00:11:38,507 --> 00:11:38,911
+run.
+
+282
+00:11:39,091 --> 00:11:40,740
+We cannot tell which is right.
+
+283
+00:11:41,090 --> 00:11:43,672
+In the context of the whole model,
+
+284
+00:11:43,672 --> 00:11:47,620
+Wikipedia says total Aventador production was eleven
+
+285
+00:11:47,620 --> 00:11:50,582
+thousand eight hundred thirty-one cars,
+
+286
+00:11:50,582 --> 00:11:53,619
+with a peak of twelve hundred eighty-six
+
+287
+00:11:53,619 --> 00:11:55,138
+in twenty seventeen.
+
+288
+00:11:55,318 --> 00:11:56,470
+By our arithmetic,
+
+289
+00:11:56,470 --> 00:11:58,838
+the SVJ family would be about fifteen
+
+290
+00:11:58,838 --> 00:12:00,182
+percent of the total,
+
+291
+00:12:00,182 --> 00:12:02,934
+if the eighteen twenty-six figure is right.
+
+292
+00:12:03,114 --> 00:12:06,040
+The Aventador was originally planned for four
+
+293
+00:12:06,040 --> 00:12:07,015
+thousand units.
+
+294
+00:12:07,365 --> 00:12:09,612
+The SVJ is not the only extreme
+
+295
+00:12:09,612 --> 00:12:10,337
+Aventador.
+
+296
+00:12:10,517 --> 00:12:12,345
+Wikipedia lists the SV,
+
+297
+00:12:12,345 --> 00:12:16,002
+with seven hundred fifty metric horsepower and
+
+298
+00:12:16,002 --> 00:12:19,103
+one horsepower for every two kilograms,
+
+299
+00:12:19,103 --> 00:12:21,965
+built as six hundred coupés and five
+
+300
+00:12:21,965 --> 00:12:25,621
+hundred roadsters until July twenty seventeen.
+
+301
+00:12:25,801 --> 00:12:28,675
+The SVJ followed in twenty eighteen,
+
+302
+00:12:28,675 --> 00:12:32,106
+and the final Ultimae in twenty twenty-one,
+
+303
+00:12:32,106 --> 00:12:35,618
+with seven hundred eighty metric horsepower,
+
+304
+00:12:35,618 --> 00:12:37,853
+limited to six hundred cars.
+
+305
+00:12:38,203 --> 00:12:39,406
+By our arithmetic,
+
+306
+00:12:39,406 --> 00:12:42,079
+the power rose from seven hundred metric
+
+307
+00:12:42,079 --> 00:12:44,886
+horsepower in the original to seven eighty
+
+308
+00:12:44,886 --> 00:12:45,888
+in the Ultimae,
+
+309
+00:12:45,888 --> 00:12:48,427
+an increase of eleven percent over the
+
+310
+00:12:48,427 --> 00:12:49,163
+car's life.
+
+311
+00:12:49,343 --> 00:12:52,426
+The SVJ's seven seventy was ten percent
+
+312
+00:12:52,426 --> 00:12:53,928
+above the original.
+
+313
+00:12:54,108 --> 00:12:55,096
+In that sense,
+
+314
+00:12:55,096 --> 00:12:57,564
+the SVJ delivered nearly all of the
+
+315
+00:12:57,564 --> 00:12:59,328
+Aventador's power growth,
+
+316
+00:12:59,328 --> 00:13:01,796
+and the Ultimae added only ten more
+
+317
+00:13:01,796 --> 00:13:02,572
+horsepower.
+
+318
+00:13:02,922 --> 00:13:04,941
+The engine behind it is the same
+
+319
+00:13:04,941 --> 00:13:05,383
+family.
+
+320
+00:13:05,563 --> 00:13:08,944
+Wikipedia describes a six point five litre
+
+321
+00:13:08,944 --> 00:13:13,371
+sixty-degree V12 weighing about two hundred thirty-five
+
+322
+00:13:13,371 --> 00:13:18,201
+kilograms, with a seven-speed single-clutch automated manual
+
+323
+00:13:18,201 --> 00:13:18,845
+gearbox.
+
+324
+00:13:19,025 --> 00:13:22,025
+Autocar's review criticised that gearbox,
+
+325
+00:13:22,025 --> 00:13:25,318
+and the interior ergonomics and ride comfort,
+
+326
+00:13:25,318 --> 00:13:28,611
+while praising the engine's character and the
+
+327
+00:13:28,611 --> 00:13:30,368
+car's dynamic precision.
+
+328
+00:13:30,718 --> 00:13:33,273
+Efficiency numbers from Autocar:
+
+329
+00:13:33,273 --> 00:13:36,307
+eleven point nine miles per gallon and
+
+330
+00:13:36,307 --> 00:13:39,979
+four hundred fifty-two grams of carbon dioxide
+
+331
+00:13:39,979 --> 00:13:41,097
+per kilometre.
+
+332
+00:13:41,277 --> 00:13:46,245
+Wikipedia gives the original Aventador at seventeen
+
+333
+00:13:46,245 --> 00:13:50,044
+point two litres per 100 kilometres and
+
+334
+00:13:50,044 --> 00:13:51,018
+398 grams.
+
+335
+00:13:51,198 --> 00:13:52,563
+By our arithmetic,
+
+336
+00:13:52,563 --> 00:13:55,977
+seventeen point two litres per 100 kilometres
+
+337
+00:13:55,977 --> 00:13:58,936
+is about thirteen point seven miles per
+
+338
+00:13:58,936 --> 00:14:01,515
+gallon, so the two figures are for
+
+339
+00:14:01,515 --> 00:14:03,412
+different cars and tests.
+
+340
+00:14:03,762 --> 00:14:06,891
+Cabin noise was measured by Autocar at
+
+341
+00:14:06,891 --> 00:14:10,349
+ninety-six decibels at 8,500 revs in third
+
+342
+00:14:10,349 --> 00:14:13,561
+gear, second only to the McLaren Senna.
+
+343
+00:14:13,741 --> 00:14:17,911
+The roofline is sixty millimetres lower than
+
+344
+00:14:17,911 --> 00:14:19,333
+a McLaren 720S,
+
+345
+00:14:19,333 --> 00:14:20,091
+it says.
+
+346
+00:14:20,271 --> 00:14:23,504
+Heated seats cost three thousand pounds and
+
+347
+00:14:23,504 --> 00:14:26,813
+the Sensonum sound system three thousand one
+
+348
+00:14:26,813 --> 00:14:28,166
+hundred fifty-six.
+
+349
+00:14:28,346 --> 00:14:29,924
+By our arithmetic,
+
+350
+00:14:29,924 --> 00:14:33,868
+those two options alone are sixty-one hundred
+
+351
+00:14:33,868 --> 00:14:35,358
+fifty-six pounds.
+
+352
+00:14:35,709 --> 00:14:36,846
+What came next?
+
+353
+00:14:37,026 --> 00:14:39,428
+Wikipedia describes the Ultimae,
+
+354
+00:14:39,428 --> 00:14:41,530
+the final Aventador variant,
+
+355
+00:14:41,530 --> 00:14:44,608
+introduced in twenty twenty-one as the LP
+
+356
+00:14:44,608 --> 00:14:48,436
+seven eighty-four, with seven hundred eighty metric
+
+357
+00:14:48,436 --> 00:14:52,189
+horsepower and seven hundred twenty newton-metres.
+
+358
+00:14:52,369 --> 00:14:55,203
+It weighs fifteen hundred fifty kilograms,
+
+359
+00:14:55,203 --> 00:14:57,295
+does zero to one hundred in two
+
+360
+00:14:57,295 --> 00:14:58,982
+point eight four seconds,
+
+361
+00:14:58,982 --> 00:15:02,424
+and reaches three hundred fifty-four kilometres per
+
+362
+00:15:02,424 --> 00:15:05,055
+hour, which is two hundred twenty miles
+
+363
+00:15:05,055 --> 00:15:05,663
+per hour.
+
+364
+00:15:06,013 --> 00:15:08,627
+It was limited to six hundred units,
+
+365
+00:15:08,627 --> 00:15:11,677
+three hundred fifty coupés and two hundred
+
+366
+00:15:11,677 --> 00:15:12,839
+fifty roadsters.
+
+367
+00:15:13,019 --> 00:15:16,509
+But Wikipedia's delivery table shows seven hundred
+
+368
+00:15:16,509 --> 00:15:20,068
+ninety-eight in twenty twenty-one and seven hundred
+
+369
+00:15:20,068 --> 00:15:23,487
+fifty-three in twenty twenty-two across the whole
+
+370
+00:15:23,487 --> 00:15:25,721
+Aventador line, without a split.
+
+371
+00:15:25,901 --> 00:15:27,172
+By our arithmetic,
+
+372
+00:15:27,172 --> 00:15:29,502
+those two years add up to fifteen
+
+373
+00:15:29,502 --> 00:15:32,327
+hundred fifty-one, and the page does not
+
+374
+00:15:32,327 --> 00:15:35,293
+explain how that squares with six hundred.
+
+375
+00:15:35,643 --> 00:15:37,459
+The end of the line has a
+
+376
+00:15:37,459 --> 00:15:37,895
+twist.
+
+377
+00:15:38,075 --> 00:15:41,998
+Wikipedia says that in February twenty twenty-two,
+
+378
+00:15:41,998 --> 00:15:45,137
+a fire aboard the Felicity Ace destroyed
+
+379
+00:15:45,137 --> 00:15:49,766
+fifteen cars, and Lamborghini restarted Ultimae production.
+
+380
+00:15:49,946 --> 00:15:50,986
+The last car,
+
+381
+00:15:50,986 --> 00:15:53,544
+built in July twenty twenty-two,
+
+382
+00:15:53,544 --> 00:15:55,702
+was styled as a homage to a
+
+383
+00:15:55,702 --> 00:15:59,060
+nineteen sixty-eight Miura P four hundred.
+
+384
+00:15:59,240 --> 00:16:00,738
+The page's infobox,
+
+385
+00:16:00,738 --> 00:16:03,734
+though, gives the end of production as
+
+386
+00:16:03,734 --> 00:16:04,523
+September.
+
+387
+00:16:04,873 --> 00:16:07,812
+The last Ultimae coupé sold for over
+
+388
+00:16:07,812 --> 00:16:10,669
+one point six million dollars at RM
+
+389
+00:16:10,669 --> 00:16:13,690
+Sotheby's in April twenty twenty-two,
+
+390
+00:16:13,690 --> 00:16:16,303
+with a one-of-one digital token,
+
+391
+00:16:16,303 --> 00:16:17,528
+Wikipedia says.
+
+392
+00:16:17,708 --> 00:16:18,986
+By our arithmetic,
+
+393
+00:16:18,986 --> 00:16:21,685
+that is three times the SVJ's original
+
+394
+00:16:21,685 --> 00:16:25,450
+five hundred seventeen thousand seven hundred seventy
+
+395
+00:16:25,450 --> 00:16:26,728
+dollar base price,
+
+396
+00:16:26,728 --> 00:16:29,356
+though the two cars are different and
+
+397
+00:16:29,356 --> 00:16:31,558
+the auction included the token.
+
+398
+00:16:31,908 --> 00:16:34,892
+Used SVJs are another data point.
+
+399
+00:16:35,072 --> 00:16:37,297
+A Lamborghini enthusiast site,
+
+400
+00:16:37,297 --> 00:16:39,151
+in May twenty twenty-two,
+
+401
+00:16:39,151 --> 00:16:42,637
+listed used Aventador prices from three hundred
+
+402
+00:16:42,637 --> 00:16:45,974
+fifteen thousand dollars for a twenty sixteen
+
+403
+00:16:45,974 --> 00:16:49,238
+car up to nine hundred seventy-five thousand
+
+404
+00:16:49,238 --> 00:16:51,685
+for a twenty twenty SVJ Roadster.
+
+405
+00:16:51,865 --> 00:16:53,178
+By our arithmetic,
+
+406
+00:16:53,178 --> 00:16:55,657
+the SVJ Roadster at that price was
+
+407
+00:16:55,657 --> 00:16:58,720
+seventy percent above its original base of
+
+408
+00:16:58,720 --> 00:17:03,023
+five hundred seventy-three thousand nine hundred sixty-six.
+
+409
+00:17:03,373 --> 00:17:06,755
+Automonitor's page, which cites no sources,
+
+410
+00:17:06,755 --> 00:17:09,745
+estimates the SVJ coupé market at five
+
+411
+00:17:09,745 --> 00:17:13,284
+hundred fifty to seven hundred fifty thousand
+
+412
+00:17:13,284 --> 00:17:15,802
+dollars, and the SVJ 63 at eight
+
+413
+00:17:15,802 --> 00:17:18,870
+hundred fifty thousand to one point two
+
+414
+00:17:18,870 --> 00:17:19,499
+million.
+
+415
+00:17:19,679 --> 00:17:22,349
+We use these only as flagged estimates.
+
+416
+00:17:22,529 --> 00:17:24,751
+Its own table shows a coupé average
+
+417
+00:17:24,751 --> 00:17:27,353
+of five hundred thirty thousand in twenty
+
+418
+00:17:27,353 --> 00:17:30,083
+twenty rising to six hundred sixty thousand
+
+419
+00:17:30,083 --> 00:17:32,177
+in a twenty twenty-five estimate.
+
+420
+00:17:32,527 --> 00:17:33,874
+The wider story is the end of
+
+421
+00:17:33,874 --> 00:17:34,199
+an era.
+
+422
+00:17:34,379 --> 00:17:38,001
+IEEE Spectrum, writing in twenty nineteen,
+
+423
+00:17:38,001 --> 00:17:42,313
+says Lamborghini was developing a gas-electric V12
+
+424
+00:17:42,313 --> 00:17:45,246
+hybrid successor to the Aventador.
+
+425
+00:17:45,426 --> 00:17:48,687
+Wikipedia names that successor as the Revuelto,
+
+426
+00:17:48,687 --> 00:17:51,254
+which arrived in twenty twenty-three.
+
+427
+00:17:51,434 --> 00:17:53,875
+So the SVJ sits among the last
+
+428
+00:17:53,875 --> 00:17:56,886
+naturally aspirated V12 Lamborghinis,
+
+429
+00:17:56,886 --> 00:17:59,815
+though our sources do not state that
+
+430
+00:17:59,815 --> 00:18:00,873
+as a ranking.
+
+431
+00:18:01,223 --> 00:18:03,926
+A few last numbers on the SVJ
+
+432
+00:18:03,926 --> 00:18:07,562
+roadster, from Wikipedia and Auto Bild.
+
+433
+00:18:07,742 --> 00:18:10,448
+The roadster version of the base car
+
+434
+00:18:10,448 --> 00:18:13,230
+weighs sixteen twenty-five kilograms,
+
+435
+00:18:13,230 --> 00:18:15,185
+fifty more than the coupé,
+
+436
+00:18:15,185 --> 00:18:18,117
+and its roof panels weigh six kilograms
+
+437
+00:18:18,117 --> 00:18:18,493
+each.
+
+438
+00:18:18,673 --> 00:18:20,392
+For the SVJ Roadster,
+
+439
+00:18:20,392 --> 00:18:23,832
+Auto Bild says around eight hundred units,
+
+440
+00:18:23,832 --> 00:18:26,453
+zero to one hundred in two point
+
+441
+00:18:26,453 --> 00:18:30,138
+nine seconds, launching in late summer twenty
+
+442
+00:18:30,138 --> 00:18:30,875
+nineteen.
+
+443
+00:18:31,225 --> 00:18:32,558
+By our arithmetic,
+
+444
+00:18:32,558 --> 00:18:35,520
+the roadster's two point nine seconds is
+
+445
+00:18:35,520 --> 00:18:38,334
+only point one slower than the coupé's
+
+446
+00:18:38,334 --> 00:18:39,519
+two point eight,
+
+447
+00:18:39,519 --> 00:18:41,592
+or three and a half percent.
+
+448
+00:18:41,772 --> 00:18:43,545
+That is tiny for a car that
+
+449
+00:18:43,545 --> 00:18:44,990
+gives up a fixed roof,
+
+450
+00:18:44,990 --> 00:18:47,419
+and shows how much of the performance
+
+451
+00:18:47,419 --> 00:18:50,373
+comes from the engine and aerodynamics rather
+
+452
+00:18:50,373 --> 00:18:51,293
+than the body.
+
+453
+00:18:51,473 --> 00:18:53,779
+The sources do not give the SVJ
+
+454
+00:18:53,779 --> 00:18:55,118
+Roadster's weight.
+
+455
+00:18:55,468 --> 00:18:58,345
+IEEE Spectrum says the engine uses titanium
+
+456
+00:18:58,345 --> 00:19:01,424
+connecting rods and reduced internal friction.
+
+457
+00:19:01,604 --> 00:19:05,763
+Wikipedia says it displaces sixty-four ninety-eight cubic
+
+458
+00:19:05,763 --> 00:19:09,558
+centimetres and weighs about two hundred thirty-five
+
+459
+00:19:09,558 --> 00:19:10,288
+kilograms.
+
+460
+00:19:10,468 --> 00:19:11,807
+By our arithmetic,
+
+461
+00:19:11,807 --> 00:19:15,526
+seven hundred fifty-nine horsepower from six point
+
+462
+00:19:15,526 --> 00:19:18,502
+five litres is one hundred sixteen point
+
+463
+00:19:18,502 --> 00:19:20,510
+eight horsepower per litre,
+
+464
+00:19:20,510 --> 00:19:23,486
+and about three point two horsepower per
+
+465
+00:19:23,486 --> 00:19:24,899
+kilogram of engine.
+
+466
+00:19:25,249 --> 00:19:27,644
+The SVJ makes its peak power at
+
+467
+00:19:27,644 --> 00:19:31,045
+eighty-five hundred revs and its peak torque
+
+468
+00:19:31,045 --> 00:19:32,668
+at sixty-seven fifty.
+
+469
+00:19:32,848 --> 00:19:34,202
+By our arithmetic,
+
+470
+00:19:34,202 --> 00:19:36,837
+that means the engine must rev well
+
+471
+00:19:36,837 --> 00:19:39,170
+past six and a half thousand to
+
+472
+00:19:39,170 --> 00:19:40,449
+deliver its best,
+
+473
+00:19:40,449 --> 00:19:43,309
+which Autocar's note on cabin noise at
+
+474
+00:19:43,309 --> 00:19:45,868
+eighty-five hundred in third gear,
+
+475
+00:19:45,868 --> 00:19:48,126
+ninety-six decibels, supports.
+
+476
+00:19:48,306 --> 00:19:51,926
+Naturally aspirated engines make power by revving,
+
+477
+00:19:51,926 --> 00:19:53,229
+and this one does.
+
+478
+00:19:53,579 --> 00:19:56,692
+Autocar's own acceleration times give a feel
+
+479
+00:19:56,692 --> 00:19:58,107
+for the car's reach.
+
+480
+00:19:58,287 --> 00:20:00,865
+Zero to sixty in two point nine
+
+481
+00:20:00,865 --> 00:20:03,859
+seconds, zero to a hundred miles per
+
+482
+00:20:03,859 --> 00:20:05,689
+hour in six point one,
+
+483
+00:20:05,689 --> 00:20:08,600
+zero to one fifty in thirteen point
+
+484
+00:20:08,600 --> 00:20:08,933
+two.
+
+485
+00:20:09,113 --> 00:20:10,437
+By our arithmetic,
+
+486
+00:20:10,437 --> 00:20:12,938
+the step from sixty to one hundred
+
+487
+00:20:12,938 --> 00:20:15,145
+takes three point two seconds,
+
+488
+00:20:15,145 --> 00:20:17,572
+and from one hundred to one fifty
+
+489
+00:20:17,572 --> 00:20:19,190
+takes seven point one.
+
+490
+00:20:19,541 --> 00:20:22,485
+Wikipedia's metric figures are two point eight
+
+491
+00:20:22,485 --> 00:20:24,661
+to one hundred and eight point six
+
+492
+00:20:24,661 --> 00:20:26,901
+to two hundred kilometres per hour.
+
+493
+00:20:27,081 --> 00:20:28,361
+By our arithmetic,
+
+494
+00:20:28,361 --> 00:20:30,636
+the step from one hundred to two
+
+495
+00:20:30,636 --> 00:20:33,409
+hundred takes five point eight seconds.
+
+496
+00:20:33,589 --> 00:20:35,618
+That is a longer time than the
+
+497
+00:20:35,618 --> 00:20:38,255
+first hundred, which is typical for any
+
+498
+00:20:38,255 --> 00:20:40,351
+car, but it is still very short
+
+499
+00:20:40,351 --> 00:20:42,785
+for a hundred kilometres per hour of
+
+500
+00:20:42,785 --> 00:20:43,597
+extra speed.
+
+501
+00:20:43,947 --> 00:20:46,777
+IEEE Spectrum says the author's drive reached
+
+502
+00:20:46,777 --> 00:20:49,229
+two hundred eighty kilometres per hour.
+
+503
+00:20:49,409 --> 00:20:52,568
+Using Autocar's tested zero to one hundred
+
+504
+00:20:52,568 --> 00:20:55,425
+fifty miles per hour of thirteen point
+
+505
+00:20:55,425 --> 00:20:58,584
+two seconds, that is two hundred forty-one
+
+506
+00:20:58,584 --> 00:21:00,088
+kilometres per hour,
+
+507
+00:21:00,088 --> 00:21:02,645
+so the Estoril run went beyond it.
+
+508
+00:21:02,825 --> 00:21:04,305
+We do not know how long it
+
+509
+00:21:04,305 --> 00:21:06,185
+took the IEEE author to reach two
+
+510
+00:21:06,185 --> 00:21:08,235
+eighty, as the article does not say.
+
+511
+00:21:08,585 --> 00:21:10,036
+Tyres, again.
+
+512
+00:21:10,216 --> 00:21:13,433
+Those exclusive Pirelli tyres are twenty inches
+
+513
+00:21:13,433 --> 00:21:15,760
+at the front and twenty-one at the
+
+514
+00:21:15,760 --> 00:21:16,102
+rear.
+
+515
+00:21:16,282 --> 00:21:19,909
+Lambocars says Lamborghini tyres in general cost
+
+516
+00:21:19,909 --> 00:21:23,007
+fifteen hundred to two thousand dollars a
+
+517
+00:21:23,007 --> 00:21:26,104
+set, though not specifically for the SVJ.
+
+518
+00:21:26,284 --> 00:21:29,726
+The weaker Automonitor page claims three thousand
+
+519
+00:21:29,726 --> 00:21:31,834
+five hundred to five thousand.
+
+520
+00:21:32,014 --> 00:21:35,288
+Those two ranges overlap not at all,
+
+521
+00:21:35,288 --> 00:21:38,562
+and neither is a measured SVJ price.
+
+522
+00:21:38,912 --> 00:21:39,817
+What is missing.
+
+523
+00:21:39,997 --> 00:21:42,293
+Which downforce figure is right,
+
+524
+00:21:42,293 --> 00:21:44,014
+thirty or forty percent.
+
+525
+00:21:44,194 --> 00:21:46,691
+The SVJ's true production count.
+
+526
+00:21:46,871 --> 00:21:49,982
+A dated source saying whether the Nürburgring
+
+527
+00:21:49,982 --> 00:21:51,503
+time was later beaten.
+
+528
+00:21:51,683 --> 00:21:54,315
+The standard tyre fitment on the record
+
+529
+00:21:54,315 --> 00:21:54,585
+run.
+
+530
+00:21:54,765 --> 00:21:56,231
+A reconciled weight,
+
+531
+00:21:56,231 --> 00:21:58,063
+on a like-for-like basis.
+
+532
+00:21:58,243 --> 00:22:00,983
+And an official price list across markets.
+
+533
+00:22:01,163 --> 00:22:03,339
+If you have a primary document for
+
+534
+00:22:03,339 --> 00:22:04,172
+any of these,
+
+535
+00:22:04,172 --> 00:22:05,644
+put it in the comments.
+
+536
+00:22:05,994 --> 00:22:07,909
+So the two things are these.
+
+537
+00:22:08,089 --> 00:22:11,099
+The SVJ's wing deliberately gives up grip
+
+538
+00:22:11,099 --> 00:22:11,980
+to cut drag,
+
+539
+00:22:11,980 --> 00:22:14,549
+then takes it back through corners,
+
+540
+00:22:14,549 --> 00:22:17,412
+and its record lap used optional tyres.
+
+541
+00:22:17,592 --> 00:22:18,654
+And its figures,
+
+542
+00:22:18,654 --> 00:22:20,380
+from weight to production,
+
+543
+00:22:20,380 --> 00:22:22,503
+differ depending on who you ask.
+
+544
+00:22:22,683 --> 00:22:25,049
+In the other videos this week,
+
+545
+00:22:25,049 --> 00:22:27,809
+we compare the SVJ with the Huracán
+
+546
+00:22:27,809 --> 00:22:29,780
+STO, count what it costs,
+
+547
+00:22:29,780 --> 00:22:31,989
+and tell why it was the last
+
+548
+00:22:31,989 --> 00:22:32,935
+of its kind.
+
+549
+00:22:33,115 --> 00:22:35,692
+Subscribe to Pickup Reality.
