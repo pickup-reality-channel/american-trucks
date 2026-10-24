@@ -1,0 +1,16 @@
+- Hagerty valuation tools, 1965 Aston Martin DB5 (Apr 2025): https://hagerty.com/apps/valuationtools/1965-aston_martin-db5
+- RM Sotheby's London 2022, lot 146, 1964 Aston Martin DB5: https://rmsothebys.com/auctions/lf22/lots/r0016-1964-aston-martin-db5/
+- Supercars.net, Concours Ready Aston Martin DB5 Gets Top Lot At Bonhams Sale, 8 Dec 2021: https://www.supercars.net/blog/?p=499546
+- Classic & Sports Car, Barn-find Astons go bonkers at Bonhams, 24 May 2011: https://www.classicandsportscar.com/news/classic-car-auctions/barnfind-astons-go-bonkers-at-bonhams
+- Top Gear (Jason Barlow), Best Bond cars ever, part 1: Aston Martin DB5, 27 Sep 2021: https://www.topgear.com/car-news/big-reads/best-bond-cars-ever-part-1-aston-martin-db5
+- auto123, James Bond's Aston Martin DB5, 27 Dec 2011: https://www.auto123.com/en/news/james-bonds-aston-martin-db5/28209/
+- Wikipedia, Aston Martin DB5: https://en.wikipedia.org/wiki/Aston_Martin_DB5
+- Old Cars Weekly, RM Sotheby's sells James Bond Aston Martin DB5 for $6.4 million, 16 Aug 2019: https://www.oldcarsweekly.com/news/rm-sothebys-sells-james-bond-aston-martin-db5-for-6-4-million
+- NBC News, Bond's Aston Martin sells for $4.1 million: https://www.nbcnews.com/id/wbna39868609
+- Private Fleet, Classic cars: Aston Martin DB5: https://www.privatefleet.com.au/blog/car-sales/classic-cars-aston-martin-db5/
+- Ecurie, The Most Famous Car in the World, 12 Jun 2019: https://www.ecurie.co.uk/blog/2019/6/12/1965-aston-martin-db5-bond-car
+- 007Travelers, Aston Martin DB5 / Goldfinger: https://www.007travelers.com/items/007-vehicle-aston-martin-db5-goldfinger/
+- CNN, James Bond Aston Martin DB5 auction: https://amp.cnn.com/cnn/style/article/aston-martin-db5-auction-scli-intl/index.html
+- U.S. Energy Information Administration, weekly retail gasoline prices, week of 2026-10-19
+- U.S. Census Bureau, median household income 2024
+- Kelley Blue Book, average new vehicle price, Aug 2026; 2025 Aston Martin DB12: https://www.kbb.com/aston-martin/db12/2025/
