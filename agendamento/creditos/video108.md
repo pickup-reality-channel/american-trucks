@@ -1,0 +1,140 @@
+# Photo credits: The Insane Story Behind the Lexus LFA
+
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- 2012 Lexus LFA Spider rear.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept rear.jpg by TTTNIS, CC0
+- 2011 Lexus LFA Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA White.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Front.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA intake closeup.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA Matte Black 12 wheel.jpg by robpoetsch, CC BY 2.0
+- 2011 Lexus LFA Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA 14.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 2.jpg by Calreyn88, CC BY-SA 4.0
+- Silver Lexus LFA.jpg by ilikewaffles11, CC BY 2.0
+- White Lexus LFA side.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA-02.jpg by Shane K, CC BY-SA 2.0
+- White Lexus LFA front.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- 2011 Lexus LFA.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA (26925).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (98906).jpg by Calreyn88, CC BY-SA 4.0
+- 140829 Ichiko of Shiretoko Goko Lakes Hokkaido Japan04s3.jpg by 663highland, CC BY 2.5
+- 131013 Rokka-no-Mori Nakasatsunai Hokkaido Japan01bs5.jpg by 663highland, CC BY 2.5
+- 140724 Asahi-dake and Sugatami-no-ike Hokkaido Japan01bs3.jpg by 663highland, CC BY 2.5
+- Calendar 2.jpg by পাপৰি বৰা, CC BY-SA 4.0
+- Close-up of calendar in Spanish - Calendario en español.jpg by Maximopi, CC BY-SA 4.0
+- Calendar of Wurmprecht, February and March.jpg by Wurmprecht, Public domain
+- Akio Toyoda.jpg by Bertel Schmitt, CC BY-SA 3.0
+- Toyota CEO Akio Toyoda cruising in a three-wheel concept car (12978784963).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- MORIZO in Daikanyama Morning Cruise with LEXUS 2015.jpg by President aruyo, CC BY-SA 4.0
+- 2009 Lexus LFA prototype 02.jpg by Ghostofakina, CC BY-SA 4.0
+- Lexus CBA-LFA10 LFA prototype (24010610260).jpg by 先従隗始, CC0
+- Lexus CBA-LFA10 LFA prototype (22022010333).jpg by 先従隗始, CC0
+- DESNZ Minister Grant Shapps visits Japan (52816625274).jpg by UK Government, CC BY 2.0
+- DESNZ Minister Grant Shapps visits Japan (52816625449).jpg by UK Government, CC BY 2.0
+- Toyota Prius PHV on-board charger. Spielvogel.jpg by Spielvogel
+
+For a gallery of some more of my uploaded pictures see: here., CC BY-SA 4.0
+- Production Lexus LFA White Yoko.jpg by BsBsBs, CC BY-SA 3.0
+- Production Lexus LFA Black Yoko.jpg by BsBsBs, CC BY-SA 3.0
+- Lexus LFA (2012) (52571825489).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Headquarters of TOYOTA Auto Body.JPG by アラツク, CC BY-SA 4.0
+- Headquarters of TOYOTA WOODYOU HOME CORPORATION.jpg by Miyuki Meinaka, CC BY-SA 4.0
+- Toyota Boshoku Headquarters ac (1).jpg by Asturio Cantabrio, CC BY-SA 4.0
+- 2008 Ford Mustang with Glass Roof Option North American International Auto Show Detroit 2008 216 N (2225261702).jpg by Joe Ross from Lansing, Michigan, CC BY-SA 2.0
+- Porsche RS Spyder (2303451917).jpg by NAParish from Oakland, CA, CC BY-SA 2.0
+- Ransom Gillis House, Alfred Street and John R Street, Brush Park, Midtown, Detroit, MI.jpg by w_lemay, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Lexus LFA (4058106643).jpg by kosabe, CC BY-SA 2.0
+- Lexus LFA (54251).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (49944546063).jpg by Rutger van der Maar, CC BY 2.0
+- US Army 51299 UAHuntsville All-American serving her country and its Warfighters.jpg by Mervin Brokke (AMRDEC), Public domain
+- RF testing of antenna coatings (28142351903).jpg by European Space Agency, CC BY-SA 2.0
+- F1 Carbon Fibre Halo at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Solar sail material.jpg by NASA/Marshall Space Flight Center, Public domain
+- National Composites Centre, from north-east.jpg by Rwendland, CC BY-SA 4.0
+- SpaceX Fairing test.jpg by SpaceX, CC0
+- Lexus LF-NX IAA 2013.jpg by Alexander Migl, CC BY-SA 4.0
+- Lexus LF-NX Back IAA 2013.jpg by Alexander Migl, CC BY-SA 4.0
+- Lexus LF-A concept headlight.jpg by Mark Fosh from Watford, UK, CC BY 2.0
+- Lexus LFA (55691).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (62499).jpg by Calreyn88, CC BY-SA 4.0
+- Largest Autoclave in the World.jpg by ASC Process Systems, Public domain
+- Autoclave con recipiente.jpg by Antonio Mette, CC BY-SA 4.0
+- Autoclave edificio.jpg by Air fans, CC BY-SA 4.0
+- Lexus LFA Black And White Group Shot.jpg by BsBsBs, CC BY-SA 3.0
+- Lexus LFA 24 hr Nurburgring Livery.jpg by BsBsBs, CC BY-SA 3.0
+- Chiharu Tamura explains Lexus LFA.jpg by BsBsBs, CC BY-SA 3.0
+- KIMG0105.jpg by SF-R, CC BY-SA 4.0
+- Osaka Auto Messe 2025 (23) - Suzuki Jimny (3BA-JB64W) owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2025 (24) - Suzuki Jimny (3BA-JB64W) owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Toyota CROWN 3.5HYBRID RS Advance (6AA-GWS224-AEXAB) front (cropped).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota Crown S180 Sanming 02 2022-02-15.jpg by JamesYoung8167, CC BY-SA 4.0
+- Toyota Crown S180 Sanming 01 2022-02-15.jpg by JamesYoung8167, CC BY-SA 4.0
+- Lexus LFA white Geneva.jpg by [https://www.flickr.com/people/34698467@N03 David Villarreal Fern�ndez], CC BY-SA 2.0
+- A Meat Stall with the Holy Family Giving Alms - Pieter Aertsen - Google Cultural Institute.jpg by Pieter Aertsen, Public domain
+- Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg by Pieter Brueghel the Elder, Public domain
+- Lexus LF-A Roadster Geneva 2008.jpg by Alexandru Dumitrescu from Bordeaux, France, CC BY-SA 2.0
+- Lexus LF-A Roadster NAIAS.jpg by https://www.flickr.com/photos/adakkak/, CC BY 2.0
+- Lexus LF-A Roadster NAIAS turntable.jpg by https://www.flickr.com/photos/adakkak/, CC BY 2.0
+- 2025 Lexus LFA Concept interior.jpg by TTTNIS, CC0
+- Toyota GR Supra Racing Concept - Toyota Gazoo Racing Lexus LFA (21112717461).jpg by 先従隗始, CC0
+- Lexus LFA (5220373328).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Paris Motor Show 2018, Paris (1Y7A1553).jpg by Matti Blume, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1517).jpg by Matti Blume, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1667).jpg by Matti Blume, CC BY-SA 4.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 10.jpg by Coyau, CC BY-SA 3.0
+- Toyota Yaris Sedan, Tunisie.jpg by Habib M'henni, CC BY-SA 4.0
+- Toyota Sienna (NYC Taxi) (15283757172).jpg by Jason Lawrence from Boston, CC BY 2.0
+- TRA Hsinchu Electrical Engineer Division and Hsinchu Bus 288-U7 20210321.jpg by Solomon203, CC BY-SA 4.0
+- Ise Ise-jingu Kagura-den 07.jpg by Zairon, CC BY 4.0
+- Ise Ise-jingu Kagura-den 09.jpg by Zairon, CC BY 4.0
+- Ise Ise-jingu Kagura-den 10.jpg by Zairon, CC BY 4.0
+- Bandini-1 1965 1000-km-Rennen Nürburgring - Foto Spurzem.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Boxenstopp 24-Stunden-Rennen 2008.jpg by Sam-4u, CC BY-SA 4.0
+- 2019 24 Hours of Nürburgring Toyota GR Supra.jpg by TTTNIS, CC0
+- GAZOO Racing GR 86x.jpg by President Aruyo, CC BY-SA 4.0
+- Osaka Auto Messe 2025 (146) - Daihatsu TAFT II owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2025 (144) - Daihatsu TAFT II owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Gazoo Racing LFA 2011 Goodwood Festival (6005415391).jpg by Louis Rix from UK, CC BY 2.0
+- Gazoo Racing LFA 2011 Goodwood Festival (6005415013).jpg by Louis Rix from UK, CC BY 2.0
+- Cokpit of Lexus LFA 24hr Nürburgring racing model.jpg by Raiko, CC BY-SA 3.0
+- Tokyo Motor Show 2009 (4075235896).jpg by kosabe, CC BY-SA 2.0
+- Tokyo Motor Show 2009 (4075241970).jpg by kosabe, CC BY-SA 2.0
+- Tokyo Motor Show 2009 (4075242810).jpg by kosabe, CC BY-SA 2.0
+- Toyota Auris, GIMS 2018, Le Grand-Saconnex (1X7A1634).jpg by Matti Blume, CC BY-SA 4.0
+- Toyota Highlander Hybrid (XU70) 1X7A6359.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Rav4 2020 Advance Plus 4x4.jpg by Europacoche, CC BY-SA 4.0
+- 中区配水池（2018年4月）.jpg by Iso10970, CC BY-SA 4.0
+- Toyota-Motomachi-Plant-1.jpg by Evelyn-rose, CC0
+- Fountain in Hakodate Motomachi water supply facility.jpg by 掬茶, CC BY-SA 4.0
+- Lexus LFA Nürburgring Package at the 2011 Geneva Motor Show.jpg by Autoviva from Portugal, CC BY 2.0
+- 2012 Lexus LFA Nurburgring Edition in Emerald T Green.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA Nürburgring Edition (49595380907).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lexus GS 450h, IAA 2011, Frankfurt am Main (DSC03314).jpg by Matti Blume, CC BY-SA 4.0
+- Lexus LF-LC - Mondial de l'Automobile de Paris 2012 - 303.jpg by Thesupermat, CC BY-SA 3.0
+- Lexus LF-LC - Mondial de l'Automobile de Paris 2012 - 307.jpg by Thesupermat, CC BY-SA 3.0
+- Ise Ise-jingu Kagura-den 01.jpg by Zairon, CC BY 4.0
+- Ise Ise-jingu Kagura-den 05.jpg by Zairon, CC BY 4.0
+- Ise Ise-jingu Kagura-den 08.jpg by Zairon, CC BY 4.0
+- Lexus RC, IAA 2017, (1Y7A3392).jpg by Matti Blume, CC BY-SA 4.0
+- Lexus LBX Auto Zuerich 2024 DSC 6491.jpg by Alexander-93, CC BY-SA 4.0
+- Lexus LC Convertible Concept, GIMS 2019, Le Grand-Saconnex (GIMS1336).jpg by Matti Blume, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Lexus UK Magazine, Untold history of the Lexus LFA: https://mag.lexus.co.uk/untold-history-of-the-lexus-lfa
+- Lexus UK Magazine, Lexus LFA timeline: redefining the Japanese supercar: https://mag.lexus.co.uk/lexus-lfa-timeline/
+- The Truth About Cars, The making of the Lexus LFA supercar, chapter 1 (9 July 2012): https://thetruthaboutcars.com/2012/07/the-making-of-the-lexus-lfa-supercar-who-what-where-and-most-of-all-why-an-inside-report-chapter-1-from-a-bar-to-bar-none/
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom
