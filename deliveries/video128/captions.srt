@@ -1,0 +1,2271 @@
+1
+00:00:00,000 --> 00:00:02,282
+Why did Ford build a Mustang to
+
+2
+00:00:02,282 --> 00:00:03,239
+beat Porsche?
+
+3
+00:00:03,419 --> 00:00:04,954
+Here is the honest answer,
+
+4
+00:00:04,954 --> 00:00:06,844
+and it starts with a correction.
+
+5
+00:00:07,024 --> 00:00:09,268
+None of the sources we read says
+
+6
+00:00:09,268 --> 00:00:11,652
+Ford built the Mustang GTD to beat
+
+7
+00:00:11,652 --> 00:00:12,213
+Porsche.
+
+8
+00:00:12,393 --> 00:00:14,819
+What they do say is stranger and
+
+9
+00:00:14,819 --> 00:00:17,396
+more specific: a Le Mans race car,
+
+10
+00:00:17,396 --> 00:00:19,745
+a chief executive who liked it,
+
+11
+00:00:19,745 --> 00:00:22,626
+a seven-minute lap of the Nürburgring,
+
+12
+00:00:22,626 --> 00:00:25,733
+and a Canadian company called Multimatic.
+
+13
+00:00:25,913 --> 00:00:27,089
+This is the story,
+
+14
+00:00:27,089 --> 00:00:28,723
+with every claim sourced.
+
+15
+00:00:29,073 --> 00:00:30,894
+We read Torque Café,
+
+16
+00:00:30,894 --> 00:00:32,990
+Design News, Motor One,
+
+17
+00:00:32,990 --> 00:00:36,178
+The Drive, AutoGuide and Wikipedia.
+
+18
+00:00:36,358 --> 00:00:38,856
+We will tell you what Ford's executives
+
+19
+00:00:38,856 --> 00:00:40,393
+said in their own words,
+
+20
+00:00:40,393 --> 00:00:41,930
+what the lap times were,
+
+21
+00:00:41,930 --> 00:00:43,916
+and where the sources disagree.
+
+22
+00:00:44,096 --> 00:00:46,276
+We will also tell you what nobody
+
+23
+00:00:46,276 --> 00:00:46,871
+has said.
+
+24
+00:00:47,051 --> 00:00:49,160
+And we will show you why Porsche
+
+25
+00:00:49,160 --> 00:00:50,544
+belongs in the story,
+
+26
+00:00:50,544 --> 00:00:52,850
+even though no source puts it there
+
+27
+00:00:52,850 --> 00:00:53,773
+as the target.
+
+28
+00:00:54,123 --> 00:00:56,669
+The story begins with a race car,
+
+29
+00:00:56,669 --> 00:00:57,826
+not a road car.
+
+30
+00:00:58,006 --> 00:01:00,383
+Wikipedia says the Mustang GT3,
+
+31
+00:01:00,383 --> 00:01:04,064
+developed by Ford Performance and Multimatic and
+
+32
+00:01:04,064 --> 00:01:05,904
+based on the Dark Horse,
+
+33
+00:01:05,904 --> 00:01:08,664
+was revealed in twenty twenty-three.
+
+34
+00:01:08,844 --> 00:01:12,630
+It races in the IMSA SportsCar Championship
+
+35
+00:01:12,630 --> 00:01:16,240
+and the FIA World Endurance Championship.
+
+36
+00:01:16,420 --> 00:01:19,556
+Torque Café says the Mustang Dark Horse
+
+37
+00:01:19,556 --> 00:01:22,532
+is the homologation model for the GT3
+
+38
+00:01:22,532 --> 00:01:23,014
+entry.
+
+39
+00:01:23,364 --> 00:01:25,600
+The race car took the Mustang back
+
+40
+00:01:25,600 --> 00:01:26,324
+to Le Mans.
+
+41
+00:01:26,504 --> 00:01:29,007
+Wikipedia says it raced there for the
+
+42
+00:01:29,007 --> 00:01:31,646
+first time since nineteen ninety-seven,
+
+43
+00:01:31,646 --> 00:01:33,540
+a gap of twenty-seven years.
+
+44
+00:01:33,720 --> 00:01:37,120
+Proton Competition became the first customer team
+
+45
+00:01:37,120 --> 00:01:39,618
+in the World Endurance Championship.
+
+46
+00:01:39,798 --> 00:01:42,210
+Design News says Larry Holt,
+
+47
+00:01:42,210 --> 00:01:45,483
+Multimatic's chief technology officer,
+
+48
+00:01:45,483 --> 00:01:47,981
+supervised the GT3 programme,
+
+49
+00:01:47,981 --> 00:01:51,168
+which finished third in the GT3 class
+
+50
+00:01:51,168 --> 00:01:52,116
+at Le Mans.
+
+51
+00:01:52,466 --> 00:01:55,499
+Torque Café quotes Ford's chief executive,
+
+52
+00:01:55,499 --> 00:01:57,810
+Jim Farley, at the launch of the
+
+53
+00:01:57,810 --> 00:02:01,998
+seventh-generation Mustang in September twenty twenty-two:
+
+54
+00:02:01,998 --> 00:02:03,804
+to go to Le Mans you need
+
+55
+00:02:03,804 --> 00:02:04,598
+a road car.
+
+56
+00:02:04,778 --> 00:02:06,668
+That is a single sentence,
+
+57
+00:02:06,668 --> 00:02:08,850
+but it is the closest thing in
+
+58
+00:02:08,850 --> 00:02:10,595
+our sources to a reason.
+
+59
+00:02:10,775 --> 00:02:14,560
+The racing programme needed a road-going version,
+
+60
+00:02:14,560 --> 00:02:16,800
+and the road car was the GTD.
+
+61
+00:02:16,980 --> 00:02:19,559
+That is Farley's logic as quoted,
+
+62
+00:02:19,559 --> 00:02:21,357
+not our interpretation.
+
+63
+00:02:21,707 --> 00:02:24,960
+Torque Café also quotes Mark Rushbrook,
+
+64
+00:02:24,960 --> 00:02:27,128
+who runs Ford Performance.
+
+65
+00:02:27,308 --> 00:02:29,215
+He says: we don't want to make
+
+66
+00:02:29,215 --> 00:02:31,694
+boring cars, and to have something like
+
+67
+00:02:31,694 --> 00:02:33,601
+this, it is a passion product.
+
+68
+00:02:33,781 --> 00:02:35,890
+And he says that as soon as
+
+69
+00:02:35,890 --> 00:02:38,077
+Jim saw the GT3 there was no
+
+70
+00:02:38,077 --> 00:02:38,936
+hesitation.
+
+71
+00:02:39,116 --> 00:02:41,018
+So by Rushbrook's account,
+
+72
+00:02:41,018 --> 00:02:42,628
+the decision was fast,
+
+73
+00:02:42,628 --> 00:02:45,116
+and it was driven by enthusiasm as
+
+74
+00:02:45,116 --> 00:02:47,092
+much as by any spreadsheet.
+
+75
+00:02:47,442 --> 00:02:49,687
+Executive chairman Bill Ford,
+
+76
+00:02:49,687 --> 00:02:51,777
+quoted in the same article,
+
+77
+00:02:51,777 --> 00:02:54,487
+says: we want to take everything to
+
+78
+00:02:54,487 --> 00:02:56,965
+the apex and just do whatever is
+
+79
+00:02:56,965 --> 00:02:59,133
+possible with that platform.
+
+80
+00:02:59,313 --> 00:03:01,318
+He adds that the GTD is an
+
+81
+00:03:01,318 --> 00:03:02,784
+expression of that.
+
+82
+00:03:02,964 --> 00:03:05,620
+Notice what is missing from all three
+
+83
+00:03:05,620 --> 00:03:06,122
+quotes.
+
+84
+00:03:06,302 --> 00:03:08,440
+There is no rival named,
+
+85
+00:03:08,440 --> 00:03:10,488
+no Porsche, no Ferrari,
+
+86
+00:03:10,488 --> 00:03:12,270
+and no sales target.
+
+87
+00:03:12,450 --> 00:03:14,598
+The stated motives are Le Mans,
+
+88
+00:03:14,598 --> 00:03:16,954
+passion and the platform's limits.
+
+89
+00:03:17,305 --> 00:03:20,341
+Torque Café says Farley first hinted at
+
+90
+00:03:20,341 --> 00:03:23,377
+the GTD in September twenty twenty-two.
+
+91
+00:03:23,557 --> 00:03:26,630
+Its article is dated the twenty-sixth of
+
+92
+00:03:26,630 --> 00:03:28,551
+June, twenty twenty-four,
+
+93
+00:03:28,551 --> 00:03:31,778
+and quotes Rushbrook speaking at the GTD's
+
+94
+00:03:31,778 --> 00:03:35,005
+public display at the twenty-four Hours of
+
+95
+00:03:35,005 --> 00:03:35,619
+Le Mans.
+
+96
+00:03:35,799 --> 00:03:37,095
+By our arithmetic,
+
+97
+00:03:37,095 --> 00:03:40,046
+that is about twenty-one months from hint
+
+98
+00:03:40,046 --> 00:03:40,838
+to article.
+
+99
+00:03:41,018 --> 00:03:43,202
+Ford was using the race as its
+
+100
+00:03:43,202 --> 00:03:45,604
+stage, which fits Farley's logic.
+
+101
+00:03:45,954 --> 00:03:48,322
+Behind the badge is Multimatic.
+
+102
+00:03:48,502 --> 00:03:51,563
+Torque Café describes it as a Canadian
+
+103
+00:03:51,563 --> 00:03:54,704
+company that builds the Mustang GT3 and
+
+104
+00:03:54,704 --> 00:03:58,006
+supplies the chassis for the Porsche nine
+
+105
+00:03:58,006 --> 00:04:00,100
+sixty-three LMDh race car.
+
+106
+00:04:00,280 --> 00:04:02,442
+It will also assemble the GTD,
+
+107
+00:04:02,442 --> 00:04:05,180
+rather than Ford building it directly.
+
+108
+00:04:05,360 --> 00:04:08,360
+This is the first place Porsche appears,
+
+109
+00:04:08,360 --> 00:04:09,935
+and it is a surprise:
+
+110
+00:04:09,935 --> 00:04:13,311
+the Mustang's builder also supplies a Porsche
+
+111
+00:04:13,311 --> 00:04:13,986
+race car.
+
+112
+00:04:14,336 --> 00:04:16,431
+That does not mean Porsche helped build
+
+113
+00:04:16,431 --> 00:04:17,075
+the Mustang.
+
+114
+00:04:17,255 --> 00:04:19,357
+Nothing in our sources says so.
+
+115
+00:04:19,537 --> 00:04:22,216
+It means the company that makes the
+
+116
+00:04:22,216 --> 00:04:24,972
+Mustang GTD also works for a Porsche
+
+117
+00:04:24,972 --> 00:04:28,569
+racing programme, which is a normal arrangement
+
+118
+00:04:28,569 --> 00:04:29,794
+in motor racing,
+
+119
+00:04:29,794 --> 00:04:33,086
+where specialist firms serve several teams.
+
+120
+00:04:33,266 --> 00:04:35,272
+We mention it because it shows how
+
+121
+00:04:35,272 --> 00:04:36,865
+connected these rivals are.
+
+122
+00:04:37,045 --> 00:04:39,754
+The sources stop at the fact; the
+
+123
+00:04:39,754 --> 00:04:41,642
+interpretation is ours.
+
+124
+00:04:41,993 --> 00:04:45,535
+Design News adds that Multimatic built the
+
+125
+00:04:45,535 --> 00:04:48,909
+GT3 and GTD and supplied the spool-valve
+
+126
+00:04:48,909 --> 00:04:50,259
+shock absorbers.
+
+127
+00:04:50,439 --> 00:04:53,248
+Larry Holt says the GTD has inboard
+
+128
+00:04:53,248 --> 00:04:56,137
+suspension like prototype race cars,
+
+129
+00:04:56,137 --> 00:04:59,267
+a dual-element rear wing with an active
+
+130
+00:04:59,267 --> 00:05:01,433
+flap, and two ride heights.
+
+131
+00:05:01,613 --> 00:05:04,557
+Torque Café says Ford claims the transaxle
+
+132
+00:05:04,557 --> 00:05:08,202
+and carbon driveshaft give almost fifty-fifty weight
+
+133
+00:05:08,202 --> 00:05:09,114
+distribution.
+
+134
+00:05:09,464 --> 00:05:11,484
+The Drive puts it more bluntly:
+
+135
+00:05:11,484 --> 00:05:14,546
+Multimatic massaged the chassis and suspension,
+
+136
+00:05:14,546 --> 00:05:16,827
+and the car shares very little with
+
+137
+00:05:16,827 --> 00:05:18,717
+a regular Mustang underneath.
+
+138
+00:05:18,897 --> 00:05:20,754
+That is the outlet's description.
+
+139
+00:05:20,934 --> 00:05:22,647
+It means the GTD is not a
+
+140
+00:05:22,647 --> 00:05:25,456
+hot-rodded Mustang, it is a different car
+
+141
+00:05:25,456 --> 00:05:27,169
+wearing the Mustang name.
+
+142
+00:05:27,349 --> 00:05:29,226
+That helps explain the price,
+
+143
+00:05:29,226 --> 00:05:31,685
+which The Drive gives as three hundred
+
+144
+00:05:31,685 --> 00:05:33,885
+twenty-five thousand dollars plus.
+
+145
+00:05:34,236 --> 00:05:35,582
+Now the promise.
+
+146
+00:05:35,762 --> 00:05:38,353
+AutoGuide reported that at the debut in
+
+147
+00:05:38,353 --> 00:05:40,146
+August twenty twenty-three,
+
+148
+00:05:40,146 --> 00:05:42,936
+Farley promised a Nürburgring lap in under
+
+149
+00:05:42,936 --> 00:05:43,866
+seven minutes.
+
+150
+00:05:44,046 --> 00:05:47,161
+Design News quotes chief engineer Greg Goodall
+
+151
+00:05:47,161 --> 00:05:49,733
+tying the engineering to the quest for
+
+152
+00:05:49,733 --> 00:05:51,291
+a sub-seven-minute lap.
+
+153
+00:05:51,471 --> 00:05:54,222
+We could only confirm the target from
+
+154
+00:05:54,222 --> 00:05:55,561
+those two reports,
+
+155
+00:05:55,561 --> 00:05:57,717
+not read the original speech,
+
+156
+00:05:57,717 --> 00:05:59,725
+so we attribute it to them.
+
+157
+00:06:00,076 --> 00:06:02,429
+The Nordschleife is the point of the
+
+158
+00:06:02,429 --> 00:06:05,043
+whole project, and Ford chose it because
+
+159
+00:06:05,043 --> 00:06:07,134
+it is the lap everyone compares.
+
+160
+00:06:07,314 --> 00:06:10,252
+Seven minutes is four hundred twenty seconds.
+
+161
+00:06:10,432 --> 00:06:11,764
+By our arithmetic,
+
+162
+00:06:11,764 --> 00:06:14,577
+that is the line every GTD engineering
+
+163
+00:06:14,577 --> 00:06:16,354
+decision was pointed at,
+
+164
+00:06:16,354 --> 00:06:17,909
+according to Goodall.
+
+165
+00:06:18,089 --> 00:06:20,956
+Anything slower would have been a failure
+
+166
+00:06:20,956 --> 00:06:22,004
+of the promise,
+
+167
+00:06:22,004 --> 00:06:24,172
+and anything faster a headline.
+
+168
+00:06:24,523 --> 00:06:26,380
+The power figure moved too.
+
+169
+00:06:26,560 --> 00:06:29,566
+Design News and Torque Café describe an
+
+170
+00:06:29,566 --> 00:06:32,726
+engine of about eight hundred horsepower,
+
+171
+00:06:32,726 --> 00:06:35,732
+a five point two litre supercharged V8.
+
+172
+00:06:35,912 --> 00:06:37,777
+Ford's stated final output,
+
+173
+00:06:37,777 --> 00:06:40,333
+according to Motor One and The Drive,
+
+174
+00:06:40,333 --> 00:06:42,059
+is eight hundred fifteen,
+
+175
+00:06:42,059 --> 00:06:45,444
+with six hundred sixty-four pound-feet of torque.
+
+176
+00:06:45,624 --> 00:06:48,203
+So eight hundred was the earlier report,
+
+177
+00:06:48,203 --> 00:06:50,396
+fifteen more was the final figure.
+
+178
+00:06:50,746 --> 00:06:53,389
+Design News makes one more point:
+
+179
+00:06:53,389 --> 00:06:55,953
+the GTD can make more power than
+
+180
+00:06:55,953 --> 00:06:57,315
+the GT3 race car,
+
+181
+00:06:57,315 --> 00:06:59,959
+because it is not bound by racing
+
+182
+00:06:59,959 --> 00:07:00,440
+rules.
+
+183
+00:07:00,620 --> 00:07:02,354
+That is the key to the whole
+
+184
+00:07:02,354 --> 00:07:02,849
+project.
+
+185
+00:07:03,029 --> 00:07:05,201
+The race car must obey a class
+
+186
+00:07:05,201 --> 00:07:05,781
+formula.
+
+187
+00:07:05,961 --> 00:07:07,563
+The road car does not.
+
+188
+00:07:07,743 --> 00:07:10,217
+So Ford could build a road car
+
+189
+00:07:10,217 --> 00:07:12,773
+faster than its own race car on
+
+190
+00:07:12,773 --> 00:07:14,752
+power, which is unusual,
+
+191
+00:07:14,752 --> 00:07:17,556
+and it explains why the GTD exists
+
+192
+00:07:17,556 --> 00:07:18,134
+at all.
+
+193
+00:07:18,484 --> 00:07:19,366
+Then the lap.
+
+194
+00:07:19,546 --> 00:07:22,333
+Motor One reports that Dirk Müller of
+
+195
+00:07:22,333 --> 00:07:26,251
+Multimatic Motorsports lapped the Nürburgring in six
+
+196
+00:07:26,251 --> 00:07:29,942
+minutes, fifty-seven point six eight five seconds
+
+197
+00:07:29,942 --> 00:07:31,826
+on the seventh of August,
+
+198
+00:07:31,826 --> 00:07:33,257
+twenty twenty-four.
+
+199
+00:07:33,437 --> 00:07:35,362
+Ford announced it on the tenth of
+
+200
+00:07:35,362 --> 00:07:35,887
+December.
+
+201
+00:07:36,067 --> 00:07:37,427
+By our arithmetic,
+
+202
+00:07:37,427 --> 00:07:40,676
+that is one hundred twenty-five days later.
+
+203
+00:07:40,856 --> 00:07:42,882
+The Drive agrees on the time and
+
+204
+00:07:42,882 --> 00:07:44,780
+calls Müller a Le Mans winner.
+
+205
+00:07:45,131 --> 00:07:46,619
+By our arithmetic,
+
+206
+00:07:46,619 --> 00:07:49,843
+six fifty-seven point six eight five is
+
+207
+00:07:49,843 --> 00:07:53,397
+four hundred seventeen point six eight five
+
+208
+00:07:53,397 --> 00:07:54,059
+seconds.
+
+209
+00:07:54,239 --> 00:07:56,249
+That is two point three one five
+
+210
+00:07:56,249 --> 00:07:58,511
+seconds under the seven-minute line.
+
+211
+00:07:58,691 --> 00:08:00,362
+It is not a large margin,
+
+212
+00:08:00,362 --> 00:08:02,633
+which is why every tenth mattered,
+
+213
+00:08:02,633 --> 00:08:04,972
+and why Farley's promise was risky.
+
+214
+00:08:05,152 --> 00:08:06,957
+Two seconds on a lap of that
+
+215
+00:08:06,957 --> 00:08:08,890
+length is a very thin cushion.
+
+216
+00:08:09,241 --> 00:08:11,842
+Motor One says the lap was the
+
+217
+00:08:11,842 --> 00:08:15,484
+fastest by a North American production car
+
+218
+00:08:15,484 --> 00:08:18,172
+and beat the Dodge Viper ACR by
+
+219
+00:08:18,172 --> 00:08:20,340
+four point three seconds.
+
+220
+00:08:20,520 --> 00:08:23,765
+The Drive says the previous American record
+
+221
+00:08:23,765 --> 00:08:25,953
+was the Viper ACR at seven oh
+
+222
+00:08:25,953 --> 00:08:27,387
+one point three oh,
+
+223
+00:08:27,387 --> 00:08:28,972
+held for seven years,
+
+224
+00:08:28,972 --> 00:08:31,839
+and calls the GTD roughly five seconds
+
+225
+00:08:31,839 --> 00:08:32,443
+quicker.
+
+226
+00:08:32,623 --> 00:08:34,964
+Our notes also list a Viper time
+
+227
+00:08:34,964 --> 00:08:37,232
+of seven oh one point oh three.
+
+228
+00:08:37,412 --> 00:08:39,421
+These do not agree with each other.
+
+229
+00:08:39,771 --> 00:08:41,071
+Let us do the sums.
+
+230
+00:08:41,251 --> 00:08:44,196
+Against seven oh one point three oh,
+
+231
+00:08:44,196 --> 00:08:46,650
+the GTD is three point six one
+
+232
+00:08:46,650 --> 00:08:48,287
+five seconds faster.
+
+233
+00:08:48,467 --> 00:08:50,958
+Against seven oh one point oh three,
+
+234
+00:08:50,958 --> 00:08:53,241
+it is three point three four five
+
+235
+00:08:53,241 --> 00:08:53,726
+faster.
+
+236
+00:08:53,906 --> 00:08:56,855
+Neither is four point three or five.
+
+237
+00:08:57,035 --> 00:08:59,480
+So the three sources give three different
+
+238
+00:08:59,480 --> 00:09:01,688
+margins, and we cannot tell you which
+
+239
+00:09:01,688 --> 00:09:02,224
+is right.
+
+240
+00:09:02,404 --> 00:09:04,785
+All agree on the direction:
+
+241
+00:09:04,785 --> 00:09:08,048
+the GTD was quicker than any American
+
+242
+00:09:08,048 --> 00:09:10,253
+production car before it.
+
+243
+00:09:10,603 --> 00:09:12,692
+Motor One adds context.
+
+244
+00:09:12,872 --> 00:09:14,967
+It says the GTD was one of
+
+245
+00:09:14,967 --> 00:09:18,350
+six production sports cars worldwide to go
+
+246
+00:09:18,350 --> 00:09:19,961
+under seven minutes,
+
+247
+00:09:19,961 --> 00:09:22,056
+and the only American one.
+
+248
+00:09:22,236 --> 00:09:25,520
+The Drive says only five production cars
+
+249
+00:09:25,520 --> 00:09:26,833
+had gone faster.
+
+250
+00:09:27,013 --> 00:09:29,935
+These agree, once you count the GTD
+
+251
+00:09:29,935 --> 00:09:30,520
+itself.
+
+252
+00:09:30,700 --> 00:09:34,261
+Motor One names the Mercedes-AMG One at
+
+253
+00:09:34,261 --> 00:09:37,548
+six twenty-nine point oh nine as the
+
+254
+00:09:37,548 --> 00:09:39,923
+overall production record,
+
+255
+00:09:39,923 --> 00:09:42,662
+and the AMG GT Black Series at
+
+256
+00:09:42,662 --> 00:09:45,949
+six forty-three point six one as the
+
+257
+00:09:45,949 --> 00:09:48,324
+fastest front-engined car.
+
+258
+00:09:48,674 --> 00:09:51,272
+Farley's quote, in both Motor One and
+
+259
+00:09:51,272 --> 00:09:52,256
+The Drive, is:
+
+260
+00:09:52,256 --> 00:09:54,223
+we are proud to be the first
+
+261
+00:09:54,223 --> 00:09:56,892
+American automaker with a car that can
+
+262
+00:09:56,892 --> 00:09:59,912
+lap the Nürburgring in under seven minutes.
+
+263
+00:10:00,092 --> 00:10:02,429
+He adds: we know there is much
+
+264
+00:10:02,429 --> 00:10:05,155
+more time to find with Mustang GTD,
+
+265
+00:10:05,155 --> 00:10:06,245
+we'll be back.
+
+266
+00:10:06,425 --> 00:10:08,485
+Even at the moment of success,
+
+267
+00:10:08,485 --> 00:10:11,162
+the chief executive was promising more.
+
+268
+00:10:11,342 --> 00:10:14,103
+That is the clearest statement of intent
+
+269
+00:10:14,103 --> 00:10:15,139
+in the sources.
+
+270
+00:10:15,489 --> 00:10:16,626
+Now Porsche.
+
+271
+00:10:16,806 --> 00:10:18,987
+The Drive's report on the lap does
+
+272
+00:10:18,987 --> 00:10:20,719
+not mention Porsche at all.
+
+273
+00:10:20,899 --> 00:10:24,085
+Motor One says the GTD's lap beat
+
+274
+00:10:24,085 --> 00:10:29,202
+the Lamborghini Aventador SuperVeloce and the Ferrari
+
+275
+00:10:29,202 --> 00:10:32,581
+296 GTB and matched the Porsche 918
+
+276
+00:10:32,581 --> 00:10:35,284
+Spyder, with no times given.
+
+277
+00:10:35,464 --> 00:10:38,245
+So at the moment of the record,
+
+278
+00:10:38,245 --> 00:10:42,103
+the sources compare the GTD to Lamborghini,
+
+279
+00:10:42,103 --> 00:10:44,884
+Ferrari and Porsche's hypercar,
+
+280
+00:10:44,884 --> 00:10:47,306
+not to the Porsche 911 GT3.
+
+281
+00:10:47,656 --> 00:10:50,202
+The Porsche nine eleven G T three
+
+282
+00:10:50,202 --> 00:10:52,439
+enters in our own comparison.
+
+283
+00:10:52,619 --> 00:10:56,343
+Wikipedia's Porsche page lists a Nürburgring time
+
+284
+00:10:56,343 --> 00:10:59,232
+of six fifty-five point three four for
+
+285
+00:10:59,232 --> 00:11:01,512
+the nine ninety-two G T three.
+
+286
+00:11:01,692 --> 00:11:02,951
+By our arithmetic,
+
+287
+00:11:02,951 --> 00:11:05,258
+that is two point three four five
+
+288
+00:11:05,258 --> 00:11:08,404
+seconds quicker than the Mustang's record lap
+
+289
+00:11:08,404 --> 00:11:11,201
+of six fifty-seven point six eight five.
+
+290
+00:11:11,381 --> 00:11:13,414
+So on those listed numbers,
+
+291
+00:11:13,414 --> 00:11:15,673
+the first GTD lap did not beat
+
+292
+00:11:15,673 --> 00:11:16,652
+that Porsche.
+
+293
+00:11:17,002 --> 00:11:18,383
+We need to be careful.
+
+294
+00:11:18,563 --> 00:11:20,914
+We do not know whether those two
+
+295
+00:11:20,914 --> 00:11:23,927
+times were set under the same conditions,
+
+296
+00:11:23,927 --> 00:11:25,102
+tyres, or rules,
+
+297
+00:11:25,102 --> 00:11:27,454
+and Wikipedia is not the same as
+
+298
+00:11:27,454 --> 00:11:28,850
+an official timing.
+
+299
+00:11:29,030 --> 00:11:31,340
+We are comparing listed numbers.
+
+300
+00:11:31,520 --> 00:11:33,384
+But it is a useful correction to
+
+301
+00:11:33,384 --> 00:11:34,782
+the title of this video.
+
+302
+00:11:34,962 --> 00:11:37,418
+The GTD did not beat the Porsche
+
+303
+00:11:37,418 --> 00:11:39,567
+nine eleven G T three on its
+
+304
+00:11:39,567 --> 00:11:42,253
+first lap, on the numbers we found.
+
+305
+00:11:42,433 --> 00:11:43,792
+It beat the Viper.
+
+306
+00:11:44,142 --> 00:11:46,619
+The later GTD laps are a different
+
+307
+00:11:46,619 --> 00:11:47,056
+story.
+
+308
+00:11:47,236 --> 00:11:49,979
+Wikipedia lists a GTD lap of six
+
+309
+00:11:49,979 --> 00:11:52,979
+fifty-two point oh seven two in May
+
+310
+00:11:52,979 --> 00:11:54,608
+twenty twenty-five.
+
+311
+00:11:54,788 --> 00:11:56,169
+By our arithmetic,
+
+312
+00:11:56,169 --> 00:11:58,625
+that is five point six one three
+
+313
+00:11:58,625 --> 00:12:01,234
+seconds faster than the first lap,
+
+314
+00:12:01,234 --> 00:12:04,073
+and three point two six eight seconds
+
+315
+00:12:04,073 --> 00:12:06,682
+faster than the G T three's listed
+
+316
+00:12:06,682 --> 00:12:09,138
+six fifty-five point three four.
+
+317
+00:12:09,318 --> 00:12:11,918
+So by May twenty twenty-five,
+
+318
+00:12:11,918 --> 00:12:13,532
+on listed numbers,
+
+319
+00:12:13,532 --> 00:12:15,146
+the GTD was ahead.
+
+320
+00:12:15,496 --> 00:12:17,806
+And the G T three R S?
+
+321
+00:12:17,986 --> 00:12:21,012
+Wikipedia's Mustang page lists it at six
+
+322
+00:12:21,012 --> 00:12:23,509
+forty-nine point three two eight,
+
+323
+00:12:23,509 --> 00:12:27,368
+while Wikipedia's Porsche page lists six forty-four
+
+324
+00:12:27,368 --> 00:12:29,108
+point eight four eight.
+
+325
+00:12:29,288 --> 00:12:31,283
+Those are the same car and two
+
+326
+00:12:31,283 --> 00:12:33,942
+different numbers, about four and a half
+
+327
+00:12:33,942 --> 00:12:34,873
+seconds apart.
+
+328
+00:12:35,053 --> 00:12:36,448
+By our arithmetic,
+
+329
+00:12:36,448 --> 00:12:38,153
+four point four eight.
+
+330
+00:12:38,333 --> 00:12:40,086
+We cannot tell you which is right.
+
+331
+00:12:40,266 --> 00:12:42,776
+Either way, the R S is faster
+
+332
+00:12:42,776 --> 00:12:45,026
+than the GTD's lap in May.
+
+333
+00:12:45,376 --> 00:12:47,779
+The rival that the sources do treat
+
+334
+00:12:47,779 --> 00:12:49,427
+as a threat is American.
+
+335
+00:12:49,607 --> 00:12:52,343
+The Drive says the Corvette ZR1 was
+
+336
+00:12:52,343 --> 00:12:55,626
+the only American car that could challenge
+
+337
+00:12:55,626 --> 00:12:56,798
+the GTD's time,
+
+338
+00:12:56,798 --> 00:13:00,394
+with one thousand sixty-four horsepower from a
+
+339
+00:13:00,394 --> 00:13:03,208
+twin-turbo five point five litre V8,
+
+340
+00:13:03,208 --> 00:13:05,084
+and likely much cheaper.
+
+341
+00:13:05,264 --> 00:13:08,529
+It calls the comparison apples-to-oranges,
+
+342
+00:13:08,529 --> 00:13:10,940
+because the GTD has no power or
+
+343
+00:13:10,940 --> 00:13:13,739
+active aero limitations on its side.
+
+344
+00:13:14,089 --> 00:13:16,353
+Wikipedia lists the answer.
+
+345
+00:13:16,533 --> 00:13:18,846
+In July twenty twenty-five,
+
+346
+00:13:18,846 --> 00:13:22,446
+the Corvette ZR1 lapped the Nürburgring in
+
+347
+00:13:22,446 --> 00:13:25,188
+six fifty point seven six three,
+
+348
+00:13:25,188 --> 00:13:28,273
+and the ZR1X in six forty-nine point
+
+349
+00:13:28,273 --> 00:13:29,559
+two seven five.
+
+350
+00:13:29,739 --> 00:13:31,324
+By our arithmetic,
+
+351
+00:13:31,324 --> 00:13:33,966
+the ZR1 was one point three oh
+
+352
+00:13:33,966 --> 00:13:37,312
+nine seconds faster than the GTD's May
+
+353
+00:13:37,312 --> 00:13:40,218
+lap, and the ZR1X two point seven
+
+354
+00:13:40,218 --> 00:13:41,186
+nine seven.
+
+355
+00:13:41,366 --> 00:13:43,941
+So the Mustang held the American record
+
+356
+00:13:43,941 --> 00:13:45,790
+for only a matter of months.
+
+357
+00:13:46,140 --> 00:13:49,176
+Ford's reply, in Wikipedia's account,
+
+358
+00:13:49,176 --> 00:13:51,884
+came on the seventeenth of April,
+
+359
+00:13:51,884 --> 00:13:55,084
+twenty twenty-six: the GTD Competition,
+
+360
+00:13:55,084 --> 00:13:58,613
+a pre-production car with magnesium wheels,
+
+361
+00:13:58,613 --> 00:14:01,485
+dive planes, wheel aero discs and a
+
+362
+00:14:01,485 --> 00:14:04,767
+modified wing, which lapped in six forty
+
+363
+00:14:04,767 --> 00:14:06,654
+point eight three five.
+
+364
+00:14:06,834 --> 00:14:08,285
+By our arithmetic,
+
+365
+00:14:08,285 --> 00:14:11,265
+that is eight point four four seconds
+
+366
+00:14:11,265 --> 00:14:14,326
+faster than the ZR1X's listed time and
+
+367
+00:14:14,326 --> 00:14:17,549
+sixteen point eight five faster than the
+
+368
+00:14:17,549 --> 00:14:18,677
+first GTD lap.
+
+369
+00:14:19,027 --> 00:14:21,198
+Farley said, we will be back.
+
+370
+00:14:21,378 --> 00:14:23,270
+The sources show he was.
+
+371
+00:14:23,450 --> 00:14:25,701
+Six minutes fifty-seven,
+
+372
+00:14:25,701 --> 00:14:28,233
+then fifty-two, then forty.
+
+373
+00:14:28,413 --> 00:14:29,798
+By our arithmetic,
+
+374
+00:14:29,798 --> 00:14:32,643
+the lap time dropped by sixteen point
+
+375
+00:14:32,643 --> 00:14:35,872
+eight five seconds in about twenty months,
+
+376
+00:14:35,872 --> 00:14:39,410
+from August twenty twenty-four to April twenty
+
+377
+00:14:39,410 --> 00:14:40,256
+twenty-six.
+
+378
+00:14:40,436 --> 00:14:42,103
+Whatever Ford's motive,
+
+379
+00:14:42,103 --> 00:14:44,931
+the race for the American record became
+
+380
+00:14:44,931 --> 00:14:48,121
+a public contest between Ford and Chevrolet.
+
+381
+00:14:48,472 --> 00:14:50,821
+The GTD is not sold like a
+
+382
+00:14:50,821 --> 00:14:51,815
+normal car.
+
+383
+00:14:51,995 --> 00:14:54,980
+Torque Café says buyers must complete an
+
+384
+00:14:54,980 --> 00:14:58,188
+application form stating their credentials,
+
+385
+00:14:58,188 --> 00:15:00,651
+and that Ford uses the process to
+
+386
+00:15:00,651 --> 00:15:04,232
+deter speculators from flipping cars for profit.
+
+387
+00:15:04,412 --> 00:15:06,909
+It says the process opened in Europe
+
+388
+00:15:06,909 --> 00:15:09,405
+after starting in the United States,
+
+389
+00:15:09,405 --> 00:15:12,664
+and that Australian buyers can reportedly apply
+
+390
+00:15:12,664 --> 00:15:14,675
+through the European process.
+
+391
+00:15:15,026 --> 00:15:17,023
+This is part of the story of
+
+392
+00:15:17,023 --> 00:15:18,021
+why it exists.
+
+393
+00:15:18,201 --> 00:15:20,672
+A halo car is not built for
+
+394
+00:15:20,672 --> 00:15:21,312
+volume.
+
+395
+00:15:21,492 --> 00:15:25,063
+Torque Café's description of a passion product,
+
+396
+00:15:25,063 --> 00:15:27,190
+and the application process,
+
+397
+00:15:27,190 --> 00:15:29,317
+fit a car meant to carry the
+
+398
+00:15:29,317 --> 00:15:32,127
+brand rather than to sell in numbers.
+
+399
+00:15:32,307 --> 00:15:34,787
+We have no production figure to confirm
+
+400
+00:15:34,787 --> 00:15:35,105
+that.
+
+401
+00:15:35,285 --> 00:15:38,063
+No source we found states how many
+
+402
+00:15:38,063 --> 00:15:39,778
+GTDs Ford will build.
+
+403
+00:15:39,958 --> 00:15:40,852
+That is a gap,
+
+404
+00:15:40,852 --> 00:15:42,385
+and we will not fill it.
+
+405
+00:15:42,735 --> 00:15:44,859
+The price shows the same logic.
+
+406
+00:15:45,039 --> 00:15:48,105
+Motor One says the GTD officially starts
+
+407
+00:15:48,105 --> 00:15:51,094
+at three hundred twenty-seven thousand,
+
+408
+00:15:51,094 --> 00:15:54,160
+nine hundred sixty dollars with fees and
+
+409
+00:15:54,160 --> 00:15:56,382
+tax, the most of any Mustang,
+
+410
+00:15:56,382 --> 00:15:56,765
+ever.
+
+411
+00:15:56,945 --> 00:15:59,398
+Wikipedia lists a top speed of two
+
+412
+00:15:59,398 --> 00:16:01,345
+hundred two miles per hour.
+
+413
+00:16:01,525 --> 00:16:03,778
+The Drive says the car shares very
+
+414
+00:16:03,778 --> 00:16:06,495
+little with a regular Mustang underneath.
+
+415
+00:16:06,675 --> 00:16:09,880
+Together those facts describe a flagship,
+
+416
+00:16:09,880 --> 00:16:11,365
+not a sports coupe.
+
+417
+00:16:11,715 --> 00:16:13,916
+There is also the question of what
+
+418
+00:16:13,916 --> 00:16:14,629
+came after.
+
+419
+00:16:14,809 --> 00:16:18,680
+Wikipedia says that in January twenty twenty-six,
+
+420
+00:16:18,680 --> 00:16:21,366
+Ford produced a Dark Horse SC with
+
+421
+00:16:21,366 --> 00:16:24,527
+the supercharged five point two litre V8
+
+422
+00:16:24,527 --> 00:16:28,240
+at seven hundred ninety-five horsepower and six
+
+423
+00:16:28,240 --> 00:16:30,215
+hundred sixty pound-feet.
+
+424
+00:16:30,395 --> 00:16:31,583
+By our arithmetic,
+
+425
+00:16:31,583 --> 00:16:34,224
+that is twenty horsepower fewer than the
+
+426
+00:16:34,224 --> 00:16:36,072
+GTD's eight hundred fifteen.
+
+427
+00:16:36,252 --> 00:16:39,166
+The GTD's engine appears to have spread
+
+428
+00:16:39,166 --> 00:16:40,885
+into the regular range.
+
+429
+00:16:41,235 --> 00:16:43,011
+Let us line the laps up in
+
+430
+00:16:43,011 --> 00:16:45,403
+seconds, so the pace of the contest
+
+431
+00:16:45,403 --> 00:16:46,018
+is clear.
+
+432
+00:16:46,198 --> 00:16:47,679
+By our arithmetic,
+
+433
+00:16:47,679 --> 00:16:50,393
+the first GTD lap is four hundred
+
+434
+00:16:50,393 --> 00:16:52,943
+seventeen point six eight five.
+
+435
+00:16:53,123 --> 00:16:55,395
+The May lap is four hundred twelve
+
+436
+00:16:55,395 --> 00:16:56,664
+point oh seven two.
+
+437
+00:16:56,844 --> 00:16:59,674
+The ZR1 is four hundred ten point
+
+438
+00:16:59,674 --> 00:17:01,045
+seven six three,
+
+439
+00:17:01,045 --> 00:17:04,132
+the ZR1X four hundred nine point two
+
+440
+00:17:04,132 --> 00:17:07,561
+seven five, and the GTD Competition four
+
+441
+00:17:07,561 --> 00:17:10,219
+hundred point eight three five.
+
+442
+00:17:10,569 --> 00:17:13,879
+Measured against the seven-minute line of four
+
+443
+00:17:13,879 --> 00:17:15,534
+hundred twenty seconds,
+
+444
+00:17:15,534 --> 00:17:16,830
+by our arithmetic,
+
+445
+00:17:16,830 --> 00:17:18,845
+the first lap beat it by two
+
+446
+00:17:18,845 --> 00:17:20,356
+point three one five.
+
+447
+00:17:20,536 --> 00:17:22,367
+The May lap beat it by seven
+
+448
+00:17:22,367 --> 00:17:23,740
+point nine two eight.
+
+449
+00:17:23,920 --> 00:17:26,784
+The ZR1 beat it by nine point
+
+450
+00:17:26,784 --> 00:17:28,364
+two three seven,
+
+451
+00:17:28,364 --> 00:17:31,425
+and the ZR1X by ten point seven
+
+452
+00:17:31,425 --> 00:17:32,314
+two five.
+
+453
+00:17:32,494 --> 00:17:35,320
+The Competition car beat it by nineteen
+
+454
+00:17:35,320 --> 00:17:36,697
+point one six five.
+
+455
+00:17:36,877 --> 00:17:39,517
+A promise kept by two seconds became
+
+456
+00:17:39,517 --> 00:17:41,498
+a promise kept by nineteen.
+
+457
+00:17:41,848 --> 00:17:44,286
+Horsepower tells a second story.
+
+458
+00:17:44,466 --> 00:17:47,199
+The Drive gives the ZR1 one thousand
+
+459
+00:17:47,199 --> 00:17:50,844
+sixty-four horsepower, and Ford's figure for the
+
+460
+00:17:50,844 --> 00:17:53,045
+GTD is eight hundred fifteen.
+
+461
+00:17:53,225 --> 00:17:54,556
+By our arithmetic,
+
+462
+00:17:54,556 --> 00:17:57,882
+the Corvette has two hundred forty-nine more,
+
+463
+00:17:57,882 --> 00:18:00,912
+or about thirty-one percent more than the
+
+464
+00:18:00,912 --> 00:18:01,503
+Mustang.
+
+465
+00:18:01,683 --> 00:18:04,557
+Yet in May twenty twenty-five the GTD
+
+466
+00:18:04,557 --> 00:18:07,508
+was only about one point three seconds
+
+467
+00:18:07,508 --> 00:18:08,906
+slower on the lap,
+
+468
+00:18:08,906 --> 00:18:11,391
+so power is clearly not the only
+
+469
+00:18:11,391 --> 00:18:11,935
+factor.
+
+470
+00:18:12,285 --> 00:18:15,616
+The Drive offers its own explanation of
+
+471
+00:18:15,616 --> 00:18:18,178
+why the comparison is awkward:
+
+472
+00:18:18,178 --> 00:18:19,630
+the GTD, it says,
+
+473
+00:18:19,630 --> 00:18:23,047
+has no power or active aero limitations.
+
+474
+00:18:23,227 --> 00:18:26,837
+Design News says the Performance package adds
+
+475
+00:18:26,837 --> 00:18:31,008
+active aerodynamics, and that in drag-reduction mode
+
+476
+00:18:31,008 --> 00:18:33,815
+the rear flap flattens to cut drag.
+
+477
+00:18:33,995 --> 00:18:36,670
+Holt says the front underwing opens two
+
+478
+00:18:36,670 --> 00:18:38,454
+flaps to reduce downforce.
+
+479
+00:18:38,634 --> 00:18:40,942
+So the GTD can change its shape,
+
+480
+00:18:40,942 --> 00:18:44,404
+which a simple horsepower figure cannot capture.
+
+481
+00:18:44,754 --> 00:18:48,068
+There is a final disagreement worth showing,
+
+482
+00:18:48,068 --> 00:18:50,628
+about when the GTD was introduced.
+
+483
+00:18:50,808 --> 00:18:53,488
+Torque Café says Farley first hinted at
+
+484
+00:18:53,488 --> 00:18:55,824
+it in September twenty twenty-two.
+
+485
+00:18:56,004 --> 00:18:57,907
+AutoGuide, as we cited,
+
+486
+00:18:57,907 --> 00:19:01,797
+places the debut in August twenty twenty-three.
+
+487
+00:19:01,977 --> 00:19:04,237
+Wikipedia's text, as we read it,
+
+488
+00:19:04,237 --> 00:19:07,203
+gives a different unveiling date in twenty
+
+489
+00:19:07,203 --> 00:19:07,980
+twenty-two.
+
+490
+00:19:08,160 --> 00:19:10,125
+We cannot reconcile these,
+
+491
+00:19:10,125 --> 00:19:12,545
+so we use only the earliest hint
+
+492
+00:19:12,545 --> 00:19:14,057
+and the later debut,
+
+493
+00:19:14,057 --> 00:19:16,174
+and we do not claim a single
+
+494
+00:19:16,174 --> 00:19:17,308
+unveiling date.
+
+495
+00:19:17,658 --> 00:19:18,958
+One more voice.
+
+496
+00:19:19,138 --> 00:19:22,113
+Torque Café says the GTD's rear dampers
+
+497
+00:19:22,113 --> 00:19:24,325
+were developed by Multimatic,
+
+498
+00:19:24,325 --> 00:19:27,300
+and Design News quotes Holt calling the
+
+499
+00:19:27,300 --> 00:19:30,504
+transaxle a standard feature of race cars.
+
+500
+00:19:30,684 --> 00:19:33,599
+Torque Café says the suspension lowers by
+
+501
+00:19:33,599 --> 00:19:35,802
+forty millimetres at the track,
+
+502
+00:19:35,802 --> 00:19:38,219
+and Holt gives the rear as thirty.
+
+503
+00:19:38,399 --> 00:19:40,132
+These are small details,
+
+504
+00:19:40,132 --> 00:19:43,094
+but they all come from race-car practice,
+
+505
+00:19:43,094 --> 00:19:44,610
+as Holt describes it.
+
+506
+00:19:44,961 --> 00:19:47,724
+The sources describe the GTD's parts.
+
+507
+00:19:47,904 --> 00:19:50,500
+They do not say how Porsche's engineers
+
+508
+00:19:50,500 --> 00:19:53,162
+regard them, or whether Porsche was ever
+
+509
+00:19:53,162 --> 00:19:53,895
+the target.
+
+510
+00:19:54,075 --> 00:19:56,199
+What we can say is that the
+
+511
+00:19:56,199 --> 00:19:58,245
+car's builder, Multimatic,
+
+512
+00:19:58,245 --> 00:20:01,077
+supplies a Porsche race car chassis,
+
+513
+00:20:01,077 --> 00:20:03,910
+and that the lap-time rivalry in the
+
+514
+00:20:03,910 --> 00:20:06,113
+sources is with Lamborghini,
+
+515
+00:20:06,113 --> 00:20:07,844
+Ferrari and Chevrolet.
+
+516
+00:20:08,024 --> 00:20:10,839
+The Porsche comparison is the viewer's,
+
+517
+00:20:10,839 --> 00:20:12,354
+and ours, not Ford's.
+
+518
+00:20:12,705 --> 00:20:14,272
+Now what we cannot tell you.
+
+519
+00:20:14,452 --> 00:20:17,114
+No source we read says Ford built
+
+520
+00:20:17,114 --> 00:20:19,049
+the GTD to beat Porsche.
+
+521
+00:20:19,229 --> 00:20:21,967
+No source says what Ford's internal target
+
+522
+00:20:21,967 --> 00:20:24,117
+was, beyond the seven-minute lap.
+
+523
+00:20:24,297 --> 00:20:26,933
+No source gives production numbers.
+
+524
+00:20:27,113 --> 00:20:29,859
+No source explains why a company known
+
+525
+00:20:29,859 --> 00:20:32,677
+for trucks and affordable cars wanted a
+
+526
+00:20:32,677 --> 00:20:35,495
+three hundred thousand dollar flagship.
+
+527
+00:20:35,675 --> 00:20:38,185
+We have quotes about passion and Le
+
+528
+00:20:38,185 --> 00:20:39,762
+Mans, and that is all.
+
+529
+00:20:40,112 --> 00:20:42,295
+So the title of this video is
+
+530
+00:20:42,295 --> 00:20:45,007
+a question, and the honest answer is
+
+531
+00:20:45,007 --> 00:20:45,684
+in parts.
+
+532
+00:20:45,864 --> 00:20:47,988
+Ford says it wanted a road car
+
+533
+00:20:47,988 --> 00:20:49,900
+to go with its Le Mans race
+
+534
+00:20:49,900 --> 00:20:50,183
+car.
+
+535
+00:20:50,363 --> 00:20:52,838
+Its executives say they wanted to make
+
+536
+00:20:52,838 --> 00:20:56,095
+something special, and they set a sub-seven-minute
+
+537
+00:20:56,095 --> 00:20:58,049
+Nürburgring target and hit it.
+
+538
+00:20:58,229 --> 00:21:00,191
+The Porsche in the title is our
+
+539
+00:21:00,191 --> 00:21:01,521
+framing of a rivalry,
+
+540
+00:21:01,521 --> 00:21:02,850
+not a Ford statement.
+
+541
+00:21:03,200 --> 00:21:05,138
+What does the evidence support?
+
+542
+00:21:05,318 --> 00:21:07,920
+That a race programme created a road
+
+543
+00:21:07,920 --> 00:21:08,209
+car.
+
+544
+00:21:08,389 --> 00:21:10,595
+That a Canadian specialist built it.
+
+545
+00:21:10,775 --> 00:21:11,907
+That its engine,
+
+546
+00:21:11,907 --> 00:21:14,525
+aero and suspension came from racing.
+
+547
+00:21:14,705 --> 00:21:16,701
+That the lap time was a public
+
+548
+00:21:16,701 --> 00:21:18,629
+promise, kept by two seconds.
+
+549
+00:21:18,809 --> 00:21:21,155
+That rivals answered within months.
+
+550
+00:21:21,335 --> 00:21:22,797
+Those are all sourced.
+
+551
+00:21:22,977 --> 00:21:25,952
+The rest, including any claim about Porsche
+
+552
+00:21:25,952 --> 00:21:26,782
+as a target,
+
+553
+00:21:26,782 --> 00:21:28,235
+would be speculation,
+
+554
+00:21:28,235 --> 00:21:29,618
+and we leave it out.
+
+555
+00:21:29,969 --> 00:21:32,596
+Was the GTD a Porsche beater or
+
+556
+00:21:32,596 --> 00:21:34,206
+a Le Mans souvenir?
+
+557
+00:21:34,386 --> 00:21:36,009
+Tell us in the comments,
+
+558
+00:21:36,009 --> 00:21:38,512
+and if you have a sourced Nürburgring
+
+559
+00:21:38,512 --> 00:21:41,420
+time that resolves any of the disagreements
+
+560
+00:21:41,420 --> 00:21:43,314
+we showed, include the link.
+
+561
+00:21:43,494 --> 00:21:46,307
+In the other videos of this series,
+
+562
+00:21:46,307 --> 00:21:48,959
+we look at two secrets inside the
+
+563
+00:21:48,959 --> 00:21:51,932
+Mustang GTD, compare it with the nine
+
+564
+00:21:51,932 --> 00:21:53,298
+eleven G T three,
+
+565
+00:21:53,298 --> 00:21:55,789
+and count what it costs to own.
+
+566
+00:21:55,969 --> 00:21:59,246
+Our twenty twenty-seven Truck Buyer's Guide is
+
+567
+00:21:59,246 --> 00:22:00,172
+linked below.
+
+568
+00:22:00,352 --> 00:22:02,999
+Subscribe to Pickup Reality.
