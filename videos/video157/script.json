@@ -1,0 +1,330 @@
+{
+ "id": "video157",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Koenigsegg Gemera",
+ "scenes": [
+  {
+   "text": "The Koenigsegg Gemera was revealed in March twenty twenty with a tiny three-cylinder engine making six hundred horsepower. Six years later, as production finally began, that engine was gone from the order book. Two things most people do not know about the Gemera: how that engine worked, and how much the car changed on the way to production. Every figure here is sourced.",
+   "query": "Koenigsegg Gemera",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE KOENIGSEGG GEMERA",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We used Wikipedia's pages on the Gemera, the Regera and Koenigsegg, a March twenty twenty-six report on AOL, Motor1, InsideHook, SlashGear and Jalopnik. The sources disagree on power, weight and motor counts in several places. We show the disagreements. Our own arithmetic is labelled.",
+   "query": "Gemera",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 AOL (30 MAR 2026) \u00b7 MOTOR1 \u00b7 INSIDEHOOK \u00b7 SLASHGEAR \u00b7 JALOPNIK \u00b7 DISAGREEMENTS ARE SHOWN \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Thing one. Wikipedia says the original Gemera engine was a two-litre twin-turbo inline three, called TFG, with Freevalve and no camshaft. It made six hundred horsepower at seventy-five hundred revs and six hundred newton-metres. By our arithmetic, that is three hundred horsepower per litre, from a three-cylinder engine you could lift out and carry.",
+   "query": "The tiny engine",
+   "caption": "WIKIPEDIA: 2.0 L TWIN-TURBO INLINE-3 'TFG' WITH FREEVALVE (NO CAMSHAFT) \u00b7 600 HP @ 7,500 RPM \u00b7 600 N\u00b7M (443 LB-FT) \u00b7 600 \u00f7 2.0 = 300 HP/L (OUR ARITHMETIC) \u00b7 'COULD CARRY' = OUR FIGURE OF SPEECH, NO WEIGHT GIVEN",
+   "cuts": 5,
+   "chapter": "Thing one: the engine with no camshaft"
+  },
+  {
+   "text": "A note on the nickname. The Wikipedia page says only TFG and never spells it out. Motor1's headline called the twenty twenty car a three-cylinder model. InsideHook says it was nicknamed Tiny Friendly Giant. We use that name, as one source gives it, and we note the Wikipedia page itself does not.",
+   "query": "The nickname",
+   "caption": "WIKIPEDIA: 'TFG' (NOT SPELLED OUT) \u00b7 INSIDEHOOK (29 JULY 2024): 'TINY FRIENDLY GIANT (TFG)' \u00b7 MOTOR1 HEADLINE: 'THREE-CYLINDER MODEL'",
+   "cuts": 3
+  },
+  {
+   "text": "Freevalve means the valves are controlled without a camshaft. Wikipedia lists it for the engine and gives no further explanation, and none of our other sources describe how it works. So we say what the sources say: the engine has no camshaft. We will not explain a mechanism that our sources do not describe.",
+   "query": "Freevalve",
+   "caption": "WIKIPEDIA: 'FREEVALVE (NO CAMSHAFT)' \u00b7 HOW IT WORKS: NOT DESCRIBED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "With the electric side, the combined system output was 1,400 horsepower for the three-cylinder version, according to Wikipedia. By our arithmetic, that means the electric motor supplies eight hundred, which matches the 800 horsepower Dark Matter motor on the front axle. The three-cylinder car was claimed to reach one hundred kilometres per hour in one point nine seconds.",
+   "query": "System output",
+   "caption": "WIKIPEDIA: I3 VERSION COMBINED 1,400 HP \u00b7 1,400 \u2212 600 = 800 HP ELECTRIC (OUR ARITHMETIC) = 'DARK MATTER' FRONT MOTOR 600 KW (800 HP) \u00b7 0\u2013100 KM/H 1.9 S (CLAIMED)",
+   "cuts": 3
+  },
+  {
+   "text": "AOL's March twenty twenty-six report gives different original numbers for the twenty twenty reveal: one thousand six hundred seventy-seven horsepower and twenty-five hundred eighty-one pound-feet, with the three-cylinder plus three electric motors. Wikipedia mentions one thousand seven hundred brake horsepower in one citation and one thousand six hundred seventy-seven in a headline. So the original claim has two versions.",
+   "query": "The 2020 claim",
+   "caption": "AOL (30 MAR 2026): 2020 REVEAL \u2014 2.0 L I3 + 3 ELECTRIC MOTORS = 1,677 HP / 2,581 LB-FT \u00b7 WIKIPEDIA CITATIONS: 1,700 BHP IN ONE SOURCE, 1,677 HP IN ANOTHER HEADLINE",
+   "cuts": 3
+  },
+  {
+   "text": "The geometry of the car is unusual. Wikipedia lists a wheelbase of three thousand millimetres, a length of forty-nine seventy-five, a width of nineteen eighty-eight and a height of twelve ninety-five. By our arithmetic, that is nearly sixteen and a half feet long, and just over four feet tall. It is a four-seater with two doors and no B-pillar.",
+   "query": "Dimensions",
+   "caption": "WIKIPEDIA: WB 3,000 \u00b7 L 4,975 \u00b7 W 1,988 \u00b7 H 1,295 MM = 16.3 FT LONG, 4.25 FT TALL (OUR CONVERSIONS) \u00b7 2 DOORS, 4 SEATS, NO B-PILLAR, DIHEDRAL SYNCHRO-HELIX DOORS",
+   "cuts": 3
+  },
+  {
+   "text": "The doors are dihedral synchro-helix, Wikipedia says, and there are four seats. It is the first four-seater from Koenigsegg, and Wikipedia calls it a two-door, four-seat coup\u00e9 or sports saloon. Top Gear's cited headline calls it a Mega GT, and Wikipedia classes it as a grand tourer. Koenigsegg did not, in our sources, publish a rear-seat legroom number.",
+   "query": "A four-seater",
+   "caption": "WIKIPEDIA: FIRST KOENIGSEGG FOUR-SEATER \u00b7 2-DOOR, 4-SEAT COUP\u00c9 / 'SPORTS SALOON' \u00b7 TOP GEAR CITED HEADLINE: 'MEGA GT' \u00b7 REAR LEGROOM: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Features include four touchscreens, three-zone climate control, eleven speakers, all-wheel drive and steering, torque vectoring and an Akrapovi\u010d titanium exhaust, Wikipedia lists. Wheels are twenty-one by ten and a half inches at the front and twenty-two by eleven and a half at the rear, with Michelin Pilot Sport 4S as standard or Michelin Cup 2R.",
+   "query": "Features and wheels",
+   "caption": "WIKIPEDIA: 4 TOUCHSCREENS \u00b7 3-ZONE CLIMATE \u00b7 11 SPEAKERS \u00b7 AWD + AWS \u00b7 TORQUE VECTORING \u00b7 AKRAPOVI\u010c TITANIUM EXHAUST \u00b7 21\u00d710.5 FRONT, 22\u00d711.5 REAR \u00b7 MICHELIN PILOT SPORT 4S OR CUP 2R",
+   "cuts": 3
+  },
+  {
+   "text": "Then the cup holders. Wikipedia lists eight, four heated and four cooled. The page does not claim a world first, and our other sources do not either, so we do not. It is simply a number: eight cup holders in a car with four seats, which by our arithmetic is two per seat.",
+   "query": "Eight cup holders",
+   "caption": "WIKIPEDIA: 8 CUP HOLDERS (4 HEATED, 4 COOLED) \u00b7 NO 'WORLD FIRST' CLAIM IN OUR SOURCES \u00b7 8 \u00f7 4 SEATS = 2 PER SEAT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Thing two. The Gemera that is now in production is not the one shown in twenty twenty. AOL says that in twenty twenty-three the three electric motors were replaced by a single eight-hundred-horsepower motor, cutting weight and complexity. Combined output dropped to fourteen hundred horsepower and thirteen hundred sixty-four pound-feet, down from the original sixteen seventy-seven and twenty-five eighty-one.",
+   "query": "The 2023 revision",
+   "caption": "AOL (30 MAR 2026): 2023 \u2014 3 MOTORS \u2192 1 \u00d7 800 HP; 'CUTTING WEIGHT AND COMPLEXITY' \u00b7 COMBINED 1,400 HP / 1,364 LB-FT vs ORIGINAL 1,677 / 2,581",
+   "cuts": 3,
+   "chapter": "Thing two: the car that changed"
+  },
+  {
+   "text": "By our arithmetic, the change cuts peak power by seventeen percent and peak torque by forty-seven percent for the three-cylinder car. Those are the sources' own numbers. They do not say whether drivers would notice, and the claimed zero to one hundred of one point nine seconds is listed for the three-cylinder version.",
+   "query": "How big a cut",
+   "caption": "1,677 \u2192 1,400 HP = \u221216.5% \u00b7 2,581 \u2192 1,364 LB-FT = \u221247.2% (OUR ARITHMETIC; AOL + WIKIPEDIA FIGURES) \u00b7 0\u2013100 KM/H 1.9 S LISTED FOR THE I3",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's weights tell another story. It lists a kerb weight of nineteen eighty-eight kilograms for the twenty twenty prototype and twenty forty-two for the twenty twenty-three production car. By our arithmetic, the production car is fifty-four kilograms heavier, or nearly three percent, even though AOL says the revision cut weight. The sources conflict, and the page does not explain.",
+   "query": "Weight conflict",
+   "caption": "WIKIPEDIA: 1,988 KG (2020 PROTOTYPE) vs 2,042 KG (2023 PRODUCTION) = +54 KG = +2.7% (OUR ARITHMETIC) \u00b7 AOL SAYS THE REVISION CUT WEIGHT \u2192 SOURCES CONFLICT; EXPLANATION NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "The spec table also conflicts. Wikipedia's table lists a single Dark Matter motor on the front axle, while the text describes three motors, one on the front and one per rear wheel, with the rear ones at five hundred horsepower each. By our arithmetic, eight hundred plus two five hundreds is eighteen hundred, which does not match fourteen hundred. The page is describing two different versions.",
+   "query": "Motor count",
+   "caption": "WIKIPEDIA TABLE: ONE DARK MATTER MOTOR (FRONT, 600 KW / 800 HP) \u00b7 TEXT: THREE MOTORS (FRONT + 2 REAR AT 373 KW / 500 HP EACH) \u00b7 800 + 500 + 500 = 1,800 HP (OUR ARITHMETIC) \u2260 1,400 \u2192 TWO VERSIONS ON ONE PAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Then the engine itself. Wikipedia says the three-cylinder option was dropped in July twenty twenty-four due to a lack of demand. AOL says that in twenty twenty-three Koenigsegg stated nearly every customer chose the V8. InsideHook, on the twenty-ninth of July twenty twenty-four, quotes Christian von Koenigsegg saying there were so few left asking for a three-cylinder.",
+   "query": "The engine dropped",
+   "caption": "WIKIPEDIA: I3 DROPPED JULY 2024, 'A LACK OF DEMAND' \u00b7 AOL: 2023 \u2014 NEARLY EVERY CUSTOMER CHOSE THE V8 \u00b7 INSIDEHOOK: von KOENIGSEGG \u2014 'THERE WERE SO FEW LEFT THAT ASKED FOR A THREE-CYLINDER' (COMPANY HAD PERSUADED THE HOLDOUTS)",
+   "cuts": 3
+  },
+  {
+   "text": "The V8 version is a twin-turbo five-litre running on E85, with combined output of twenty-three hundred horsepower and twenty-seven fifty newton-metres, Wikipedia says. By our arithmetic, subtracting the eight-hundred-horsepower motor leaves fifteen hundred for the engine. Car and Driver's headline, cited on Wikipedia, says twenty-two sixty-nine, so the exact figure differs by source.",
+   "query": "The V8 version",
+   "caption": "WIKIPEDIA: 5.0 L TWIN-TURBO V8 ON E85 \u00b7 2,300 HP \u00b7 2,750 N\u00b7M (2,028 LB-FT) \u00b7 2,300 \u2212 800 = 1,500 HP FROM THE V8 (OUR ARITHMETIC) \u00b7 CAR AND DRIVER HEADLINE: 2,269 HP",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the V8 car's twenty-three hundred horsepower is sixty-four percent more than the three-cylinder car's fourteen hundred. It uses a nine-speed Light Speed Tourbillon Transmission, a modified version of the Jesko's gearbox, Wikipedia says. InsideHook quotes Autoblog calling it smaller, lighter and better than the Jesko's. That is the outlet's opinion.",
+   "query": "V8 vs I3",
+   "caption": "2,300 \u00f7 1,400 = +64.3% (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 9-SPEED LIGHT SPEED TOURBILLON TRANSMISSION (LSTT), MODIFIED JESKO GEARBOX \u00b7 INSIDEHOOK / AUTOBLOG: 'SMALLER, LIGHTER, BETTER' (OPINION)",
+   "cuts": 3
+  },
+  {
+   "text": "Battery and range: Wikipedia lists an eight-hundred-fifty volt, fourteen kilowatt-hour battery. Total range is fourteen hundred sixty-three kilometres, or nine hundred nine miles, and electric range is fifty kilometres, or thirty-one miles. Top speed is claimed at four hundred kilometres per hour for the three-cylinder car, and three hundred in electric mode.",
+   "query": "Battery and range",
+   "caption": "WIKIPEDIA: 850 V, 14 KWH \u00b7 TOTAL RANGE 1,463 KM (909 MI) \u00b7 ELECTRIC 50 KM (31 MI) \u00b7 TOP SPEED 400 KM/H (I3 CLAIM) \u00b7 300 KM/H (186 MPH) ELECTRIC MODE",
+   "cuts": 3
+  },
+  {
+   "text": "Timing is part of the story. Wikipedia says the Gemera was unveiled on the third of March twenty twenty, online, at the cancelled Geneva Motor Show, and was originally scheduled for production in twenty twenty-two. AOL reports on the thirtieth of March twenty twenty-six that production has begun, according to a post on Facebook.",
+   "query": "The long wait",
+   "caption": "WIKIPEDIA: UNVEILED 3 MARCH 2020 (ONLINE, CANCELLED GENEVA SHOW) \u00b7 ORIGINALLY SCHEDULED FOR 2022 \u00b7 AOL (30 MAR 2026): PRODUCTION BEGUN, PER A FACEBOOK POST BY KOENIGSEGG",
+   "cuts": 3,
+   "chapter": "Six years from reveal to production"
+  },
+  {
+   "text": "By our arithmetic, production began about four years after the originally scheduled date and six years after the reveal. AOL says the Gemera is built alongside the CC850, and that the Sadair's Spear will soon join them. It gives no delivery timeline.",
+   "query": "Four years late",
+   "caption": "2022 \u2192 2026 = ~4 YEARS LATE \u00b7 3 MAR 2020 \u2192 30 MAR 2026 \u2248 6 YEARS (OUR ARITHMETIC) \u00b7 AOL: BUILT ALONGSIDE CC850; 'SADAIR'S SPEAR' TO JOIN \u00b7 DELIVERY TIMELINE: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "AOL says production is limited to three hundred cars and that every example is already accounted for. Wikipedia says production will be limited to three hundred. Neither names a customer. Koenigsegg's own planning says the Gemera is sold out, but we have no independent count of signed orders or of deposits. That is a company claim.",
+   "query": "300 cars",
+   "caption": "AOL: LIMITED TO 300 \u00b7 'EVERY EXAMPLE ALREADY ACCOUNTED FOR' \u00b7 WIKIPEDIA: LIMITED TO 300 \u00b7 CUSTOMER NAMES / INDEPENDENT ORDER COUNT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Even before production, build slots were being sold. Motor1, in April twenty twenty, reported that a McLaren dealer in Charlotte, North Carolina, was listing a gray Gemera with an orange interior and VIN zero zero one, selling a build slot. The listing did not mention the price. It was six years before production began, by our arithmetic.",
+   "query": "A build slot for sale",
+   "caption": "MOTOR1 (13 APR 2020): McLAREN CHARLOTTE LISTED A BUILD SLOT \u2014 GRAY, ORANGE INTERIOR, VIN 001 \u00b7 PRICE NOT MENTIONED \u00b7 ~6 YEARS BEFORE PRODUCTION (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The same Motor1 report says Christian von Koenigsegg told Top Gear the U.S.-spec Gemera starts at one point seven million dollars. InsideHook, in July twenty twenty-four, repeats a base price of one point seven million, from Auto Express, and a rumoured four hundred thousand dollars extra for the V8. The author notes the total of two point one million is his own calculation.",
+   "query": "The price",
+   "caption": "MOTOR1: von KOENIGSEGG TO TOP GEAR \u2014 U.S.-SPEC FROM $1.7 M \u00b7 INSIDEHOOK (29 JULY 2024): BASE $1.7 M (AUTO EXPRESS) + RUMOURED $400,000 FOR V8 = ~$2.1 M (AUTHOR'S SUM, ASSUMES THE EXTRA APPLIES TO THE BASE)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, four hundred thousand on one point seven million is twenty-four percent. That is if the rumour is right, which InsideHook labels as rumoured. We have no official price list for the production car, and Wikipedia's Gemera page does not give a price at all, so this is the best we can say.",
+   "query": "V8 premium",
+   "caption": "$400,000 \u00f7 $1,700,000 = 23.5% (OUR ARITHMETIC; RUMOURED) \u00b7 OFFICIAL PRODUCTION PRICE LIST: NOT IN OUR SOURCES \u00b7 WIKIPEDIA GEMERA PAGE: NO PRICE",
+   "cuts": 3
+  },
+  {
+   "text": "Where does the Gemera sit in the line-up? Wikipedia's Koenigsegg page lists the Jesko with twelve hundred eighty-one horsepower on petrol and sixteen hundred three on E85, the CC850 with a new shift system that won a Top Gear innovation award in twenty twenty-three, and the Gemera. As of twenty twenty-six, it names the Jesko, Gemera and CC850 as the current line-up.",
+   "query": "The line-up",
+   "caption": "WIKIPEDIA (KOENIGSEGG): JESKO 1,281 HP PETROL / 1,603 HP E85, 1,500 N\u00b7M, 9-SPEED LSTT \u00b7 CC850 (2022\u2013) \u2014 TOP GEAR INNOVATION AWARD 2023 FOR ITS ESS SHIFT SYSTEM \u00b7 2026 LINE-UP: JESKO, GEMERA, CC850",
+   "cuts": 3,
+   "chapter": "The family it belongs to"
+  },
+  {
+   "text": "The company is small but growing. Wikipedia says staff numbered forty-five in two thousand eight and just under eight hundred at the end of twenty twenty-three. In July twenty twenty-three a new factory opened near the old one, doubling production capacity. By our arithmetic, that is a seventeen-fold increase in staff in fifteen years.",
+   "query": "A growing company",
+   "caption": "WIKIPEDIA: 2008 STAFF 45 \u00b7 END-2023 JUST UNDER 800 \u00b7 JULY 2023 NEW FACTORY, DOUBLING CAPACITY \u00b7 800 \u00f7 45 \u2248 17.8\u00d7 IN 15 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In two thousand eight, Wikipedia says the company produced eighteen cars at an average price of about one million dollars each. By our arithmetic, that is about eighteen million dollars of cars. The Gemera alone, three hundred cars at one point seven million, would be five hundred ten million dollars of base price, if every one is sold at that price.",
+   "query": "Then and now",
+   "caption": "WIKIPEDIA: 2008 \u2014 18 CARS, AVG ~$1 M = ~$18 M \u00b7 300 \u00d7 $1.7 M = $510 M (OUR ARITHMETIC; BASE PRICE, ASSUMES ALL AT $1.7 M; OPTIONS EXCLUDED) \u00b7 510 \u00f7 18 = 28\u00d7",
+   "cuts": 3
+  },
+  {
+   "text": "And the Regera, the earlier hybrid hypercar, is a point of reference. Wikipedia says Koenigsegg planned eighty and built eighty-five, and sold out on the thirteenth of June twenty seventeen, two years after its Geneva unveiling. The Gemera has so far taken six years from unveiling to production, by our arithmetic three times as long as the Regera took to sell out.",
+   "query": "Compared with the Regera",
+   "caption": "WIKIPEDIA (REGERA): PLANNED 80, BUILT 85 (PAGE ALSO SAYS 80 IN THE INFOBOX) \u00b7 SOLD OUT 13 JUNE 2017 \u00b7 UNVEILED MARCH 2015 \u2192 ~2 YEARS \u00b7 GEMERA 6 YEARS TO PRODUCTION = 3\u00d7 (OUR ARITHMETIC; DIFFERENT MILESTONES)",
+   "cuts": 3
+  },
+  {
+   "text": "To judge the Gemera's numbers, put them next to its older sibling. Wikipedia says the Regera has a five-litre twin-turbo V8 making eleven hundred horsepower, or fifteen hundred on E85, plus three electric motors of six hundred ninety-seven horsepower. Its combined output is fifteen hundred in the infobox and seventeen ninety-seven in the text. Even for the Regera, one page gives two totals.",
+   "query": "Regera numbers",
+   "caption": "WIKIPEDIA (REGERA): 5.0 L TWIN-TURBO V8 1,100 HP (1,500 HP ON E85) \u00b7 3 YASA MOTORS 697 HP \u00b7 COMBINED 1,500 HP (INFOBOX) vs 1,797 HP (TEXT) \u2192 PAGE CONFLICTS WITH ITSELF",
+   "cuts": 3,
+   "chapter": "How the numbers compare with the Regera"
+  },
+  {
+   "text": "By our arithmetic, the Gemera's V8 version at twenty-three hundred horsepower is fifty-three percent above the Regera's fifteen hundred infobox figure, and twenty-eight percent above the seventeen ninety-seven figure. Which one you pick depends on which Regera number you trust. We show both, because our source shows both.",
+   "query": "Gemera vs Regera power",
+   "caption": "2,300 \u00f7 1,500 = +53.3% \u00b7 2,300 \u00f7 1,797 = +28.0% (OUR ARITHMETIC; BOTH REGERA FIGURES FROM WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Weight is the other half of the story. Wikipedia lists the Regera at fourteen seventy kilograms dry, fifteen ninety kerb in one place and fifteen seventy in another. The Gemera's kerb weight is twenty forty-two. By our arithmetic, the Gemera is between four hundred fifty-two and four hundred seventy-two kilograms heavier, roughly thirty percent more.",
+   "query": "Weight comparison",
+   "caption": "WIKIPEDIA: REGERA 1,470 KG DRY \u00b7 1,590 KG / 1,570 KG KERB \u00b7 GEMERA 2,042 KG KERB (2023) \u00b7 2,042 \u2212 1,590 = 452 KG; 2,042 \u2212 1,570 = 472 KG; \u2248 +28\u201330% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power to weight, by our arithmetic, using kerb weights and Wikipedia's power numbers: the Gemera V8 car gives about one point one three horsepower per kilogram, and the Regera, at fifteen hundred and fifteen ninety, about zero point nine four. The figures are only as reliable as the sources. Neither company publishes a test of both cars side by side, as far as our sources say.",
+   "query": "Power to weight",
+   "caption": "GEMERA V8: 2,300 \u00f7 2,042 = 1.13 HP/KG \u00b7 REGERA: 1,500 \u00f7 1,590 = 0.94 HP/KG (OUR ARITHMETIC; MIXED SOURCES) \u00b7 SIDE-BY-SIDE TEST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration claims: Wikipedia says the Regera does zero to one hundred in two point eight seconds and zero to four hundred and back to zero in twenty-eight point eight one seconds, set in June twenty twenty-three. The Gemera's claim is one point nine seconds, for the three-cylinder version that is no longer offered. For the V8 car, our sources give no zero to one hundred time.",
+   "query": "Acceleration",
+   "caption": "WIKIPEDIA: REGERA 0\u2013100 KM/H 2.8 S \u00b7 0\u2013400\u20130 KM/H 28.81 S (16 JUNE 2023, \u00d6REBRO) \u00b7 GEMERA 0\u2013100 1.9 S (I3, NO LONGER OFFERED) \u00b7 V8 0\u2013100: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The company was founded in nineteen ninety-four by Christian von Koenigsegg, who was twenty-two, and Wikipedia says he raised sixty million Swedish kronor from investors. It started in Olofstr\u00f6m and moved to \u00c4ngelholm in the early two-thousands. By our arithmetic, it took about twenty-six years from founding to the Gemera's reveal in twenty twenty.",
+   "query": "The founder",
+   "caption": "WIKIPEDIA: FOUNDED 1994 BY CHRISTIAN von KOENIGSEGG, AGE 22 \u00b7 KR 60,000,000 FROM INVESTORS \u00b7 OLOFSTR\u00d6M \u2192 \u00c4NGELHOLM EARLY 2000s \u00b7 1994 \u2192 2020 = 26 YEARS (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The people and the company behind it"
+  },
+  {
+   "text": "Not every year was smooth. Wikipedia reports that in June two thousand nine Koenigsegg signed a letter of intent to buy Saab, with six hundred million dollars backing from the European Investment Bank, and withdrew in November. A Chinese company, BAIC, took a minority stake in two thousand nine, and in January twenty nineteen, twenty percent was sold to NEVS for one hundred seventy-one million dollars. The company bought that stake back in twenty twenty-one.",
+   "query": "Money and ownership",
+   "caption": "WIKIPEDIA: SAAB LETTER OF INTENT JUNE 2009 ($600 M FROM THE EUROPEAN INVESTMENT BANK), WITHDRAWN NOV 2009 \u00b7 BAIC MINORITY STAKE 2009 \u00b7 20% TO NEVS FOR $171 M (JAN 2019) \u00b7 STAKE BOUGHT BACK 2021",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the NEVS price of one hundred seventy-one million dollars for twenty percent implies a value of eight hundred fifty-five million dollars for the whole company, if the percentage and price are both exact. Wikipedia does not give a company valuation, so that is our own multiplication, not a published figure.",
+   "query": "Implied value",
+   "caption": "$171 M \u00f7 0.20 = $855 M (OUR ARITHMETIC; ASSUMES ROUNDED 20% AND $171 M ARE EXACT) \u00b7 COMPANY VALUATION: NOT STATED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Records belong to the story too. Wikipedia says the Agera RS reached a four hundred forty-seven point one nine kilometre-per-hour average and four hundred fifty-seven point nine four instrumented, in November twenty seventeen at Pahrump. By our arithmetic, the four hundred forty-seven average is two hundred seventy-eight miles per hour. The Gemera is not claimed to be a record car, and none of our sources say it is.",
+   "query": "Records",
+   "caption": "WIKIPEDIA: AGERA RS 447.19 KM/H AVG (278 MPH, OUR CONVERSION) \u00b7 457.94 KM/H INSTRUMENTED \u00b7 4 NOV 2017, PAHRUMP \u00b7 GEMERA RECORD CLAIM: NONE IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia adds one more record: the Jesko Attack lap time of one minute twenty-four point eight six seconds at Laguna Seca, on the eighteenth of August twenty twenty-four. The Jesko shares the Gemera's gearbox lineage, as the Gemera's nine-speed transmission is described as a modified version of the Jesko's. But the Jesko's record says nothing directly about how the Gemera drives.",
+   "query": "Jesko record",
+   "caption": "WIKIPEDIA: JESKO ATTACK \u2014 LAGUNA SECA 1:24.86 (18 AUG 2024) \u00b7 GEMERA 9-SPEED LSTT DESCRIBED AS A MODIFIED JESKO GEARBOX \u00b7 GEMERA LAP TIME: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "There is no Gemera running cost in our sources, so we use the nearest figure we have. An RM Sotheby's catalogue for a twenty twenty Regera, sold at Monterey in twenty twenty-four, reports third-year service and updates in spring twenty twenty-four costing nearly nineteen thousand dollars, including a technician flown in from Sweden. That is the Regera, not the Gemera.",
+   "query": "A service bill",
+   "caption": "RM SOTHEBY'S (MONTEREY 2024, LOT 240, 2020 REGERA): THIRD-YEAR SERVICE + UPDATES, SPRING 2024, 'NEARLY $19,000', INCLUDING A TECHNICIAN FLOWN FROM SWEDEN \u00b7 THIS IS A REGERA, NOT A GEMERA \u00b7 GEMERA SERVICE COST: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "What an owner would actually face"
+  },
+  {
+   "text": "The same catalogue lists options of about five hundred one thousand dollars on that Regera, including a one hundred seventy thousand dollar clear carbon finish. The estimate was two point seven five to three point two five million, and the car did not sell. By our arithmetic, that estimate is between one point eight and one point nine times the Gemera's one point seven million base price.",
+   "query": "Options and the unsold car",
+   "caption": "RM SOTHEBY'S LOT 240: OPTIONS \u2248 $501,330 (CLEAR CARBON $170,000) \u00b7 ESTIMATE $2.75\u20133.25 M \u00b7 RESULT: NOT SOLD \u00b7 $2.75 M \u00f7 $1.7 M = 1.6; $3.25 M \u00f7 $1.7 M = 1.9 (OUR ARITHMETIC; DIFFERENT CARS)",
+   "cuts": 3
+  },
+  {
+   "text": "The catalogue also notes a detail about buying: California rules require such a car to be sold to a dealer or an out-of-state resident. That is a note about the Regera sale, and we do not know whether it applies to the Gemera. We include it because it shows how the paperwork around these cars can affect the buyer pool, not because it is a Gemera rule.",
+   "query": "Paperwork",
+   "caption": "RM SOTHEBY'S (REGERA LOT): CALIFORNIA REQUIRES SALE TO A DEALER OR OUT-OF-STATE RESIDENT \u00b7 APPLIES TO GEMERA: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel is a number we can compute. The V8 runs on E85, Wikipedia says, and the car has a 1,463-kilometre total range. We do not have a published tank size, so we cannot turn that into a mile-per-gallon figure. Our sources give a range, not a consumption. That is the honest limit: we will not invent a tank capacity.",
+   "query": "Fuel",
+   "caption": "WIKIPEDIA: V8 ON E85 \u00b7 TOTAL RANGE 1,463 KM (909 MI) \u00b7 TANK SIZE / MPG: NOT IN OUR SOURCES \u2192 NO CONSUMPTION FIGURE COMPUTED",
+   "cuts": 3
+  },
+  {
+   "text": "A few details from the Wikipedia page are easy to miss. The car has an optional Ghost package, named after the ghost emblem Koenigsegg uses. The page lists the package without describing its contents, and none of our other sources describe it either. So we can say it exists, and we cannot say what it changes.",
+   "query": "Ghost package",
+   "caption": "WIKIPEDIA: OPTIONAL 'GHOST' PACKAGE LISTED \u00b7 CONTENTS: NOT DESCRIBED IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Small details that add up"
+  },
+  {
+   "text": "The tyres are named: Michelin Pilot Sport 4S as standard, or Michelin Cup 2R as an option. The Pilot Sport 4S is the road tyre, and the Cup 2R is the track-oriented one. That description of the two tyres is general knowledge, not from our sources, which only list the names. The page gives no tyre prices and no expected tyre life.",
+   "query": "Tyres",
+   "caption": "WIKIPEDIA: MICHELIN PILOT SPORT 4S (STD) / CUP 2R (OPTION) \u00b7 ROAD vs TRACK DESCRIPTION = GENERAL KNOWLEDGE, NOT FROM OUR SOURCES \u00b7 TYRE PRICE / LIFE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The wheels are different sizes front and rear: twenty-one inches at the front and twenty-two at the rear. By our arithmetic, a one-inch difference in diameter is about two and a half centimetres on the wheel alone. Wikipedia gives the widths as ten and a half and eleven and a half inches, so the rear wheel is a full inch wider.",
+   "query": "Staggered wheels",
+   "caption": "WIKIPEDIA: 21\u00d710.5 IN FRONT, 22\u00d711.5 IN REAR \u00b7 1 IN = 2.54 CM (OUR CONVERSION) \u00b7 REAR IS 1 IN LARGER IN DIAMETER AND 1 IN WIDER",
+   "cuts": 3
+  },
+  {
+   "text": "Back to the Freevalve engine. In the three-cylinder car, six hundred horsepower came from a two-litre unit, and the system output of fourteen hundred had to be delivered through a gearbox and all-wheel drive. Wikipedia describes all-wheel drive and all-wheel steering together with torque vectoring. How the power splits between axles is not described in our sources.",
+   "query": "Power delivery",
+   "caption": "WIKIPEDIA: AWD + ALL-WHEEL STEERING + TORQUE VECTORING \u00b7 FRONT/REAR POWER SPLIT: NOT DESCRIBED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Efficiency claims are another gap. Wikipedia and AOL give a total range of fourteen sixty-three kilometres and an electric range of fifty. By our arithmetic, the electric part is only three point four percent of the total range, so the car is meant to be driven mostly by its engine, with electric power for short trips and for boosting.",
+   "query": "Electric share",
+   "caption": "50 \u00f7 1,463 = 3.4% (OUR ARITHMETIC; WIKIPEDIA FIGURES) \u00b7 INTERPRETATION 'MOSTLY ENGINE-DRIVEN' = OUR READING OF THE FIGURES",
+   "cuts": 3
+  },
+  {
+   "text": "One more number: the battery is fourteen kilowatt-hours at eight hundred fifty volts. By our arithmetic, fifty kilometres on fourteen kilowatt-hours is about zero point twenty-eight kilowatt-hours per kilometre, or four-point-five kilowatt-hours per ten miles, which is heavy compared with the small hybrids most people know. It is a performance car, and the range is a side benefit.",
+   "query": "Battery maths",
+   "caption": "14 KWH \u00f7 50 KM = 0.28 KWH/KM (OUR ARITHMETIC; ASSUMES FULL USABLE CAPACITY) \u00b7 'HEAVY COMPARED WITH SMALL HYBRIDS' = GENERAL OBSERVATION, NO COMPARISON FIGURE IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "So the two things to remember are these. First, the engine that defined the Gemera's debut, a camshaft-free three-cylinder making three hundred horsepower per litre, is no longer on the order form. Second, the car that reached production is a different, simpler hybrid, with one big electric motor, a V8, and a price that sources put near one point seven million dollars before options.",
+   "query": "The two things",
+   "caption": "RECAP: (1) I3 TFG ENGINE DROPPED JULY 2024 \u00b7 (2) 2023 REVISION: 3 MOTORS \u2192 1 \u00d7 800 HP; V8 NOW THE ENGINE \u00b7 BASE \u2248 $1.7 M (MOTOR1; INSIDEHOOK) \u00b7 OPTIONS EXTRA",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. An official production price. The weight of the final production car, which Wikipedia lists but AOL contradicts on direction. Independent performance tests of the production Gemera. How many of the three hundred are V8 and how many were converted from three-cylinder. If you have a primary source for any of these, tell us in the comments.",
+   "query": "Gemera",
+   "caption": "NOT IN OUR SOURCES: OFFICIAL PRODUCTION PRICE \u00b7 RECONCILED PRODUCTION WEIGHT \u00b7 INDEPENDENT TESTS OF THE PRODUCTION CAR \u00b7 V8 / I3 SPLIT OF THE 300 \u00b7 DELIVERY DATES",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "So: the three-cylinder that made three hundred horsepower per litre is gone, and the car shown in twenty twenty has been rebuilt around one electric motor and a V8. In the other videos of this series, we compare the Gemera with the Regera, count what Koenigsegg ownership costs, and tell why the cars are built in a fighter-jet hangar. Subscribe to Pickup Reality.",
+   "query": "Gemera",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
