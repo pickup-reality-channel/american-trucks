@@ -1,0 +1,9 @@
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Wikipedia, LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most
+- Top Gear Magazine India, History of the Holy Trinity of cars: https://www.topgearmag.in/features/blogs/history-of-the-holy-trinity-of-cars
+- Carwow, The holy trinity: McLaren P1 vs Porsche 918 Spyder vs Ferrari LaFerrari: https://www.carwow.co.uk/editorial/youtube-and-videos/drag-races/holy-trinity-drag-race-mclaren-p1-vs-ferrari-laferrari-vs-porsche-918-spyder
+- The Grand Tour Wiki (community-maintained), The Holy Trinity: https://thegrandtour.fandom.com/wiki/The_Holy_Trinity
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Sotheby's, The seven most expensive Ferrari LaFerraris: https://www.sothebys.com/en/articles/the-seven-most-expensive-ferrari-laferraris
