@@ -1,183 +1,137 @@
 # Photo credits: 2 Things You Didn't Know About the DeLorean
 
+- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
 - DeLorean DMC-12 BW 2017-07-16 15-10-09.jpg by Berthold Werner, CC BY-SA 4.0
 - DeLorean DMC-12 BW 2017-07-16 15-08-14.jpg by Berthold Werner, CC BY-SA 4.0
-- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
+- 1981 Delorean DMC-12.jpg by Sicnag, CC BY 2.0
+- 1981 Delorean DMC (29043312252).jpg by Sicnag, CC BY 2.0
+- DMC Delorean (17267714495).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (5102713156).jpg by Spanish Coches, CC BY 2.0
+- DMC Delorean (17241749796).jpg by ilikewaffles11, CC BY 2.0
+- 1983 DeLorean DMC-12, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, interior.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- Pontiac Banshee XP-833 (1964) (55308782866).jpg by Charles from Port Chester, New York, CC0
+- 1964 Pontiac Banshee (XP-833) Concept Car 2.jpg by artistmac, CC BY-SA 2.0
+- 1964 Pontiac Banshee (XP-833) Concept Car rear 2.jpg by artistmac, CC BY-SA 2.0
+- Gardenview Estates, Detroit, Michigan (14180657116).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14223937233).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14201297702).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- 'To hell and back,' the BMG Saga 130404-F-WU507-001.jpg by Master Sgt. Kevin Wallace, Public domain
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 1981 DeLorean DMC-12 interior Petersen.jpg by Patrick Pelletier, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 14.jpg by Frank Schwichtenberg, CC BY 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-charging-port-closed.jpg by u/mrlewaynee, CC BY-SA 4.0
+- DMC Delorean (17267205971).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (17267195161).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (16645278754).jpg by ilikewaffles11, CC BY 2.0
 - DeLorean DMC-12 Classic-Days 2022 IMG 7217.jpg by Alexander Migl, CC BY-SA 4.0
-- DeLorean DMC-12 Classic-Days 2022 IMG 7220.jpg by Alexander Migl, CC BY-SA 4.0
 - DeLorean DMC-12 Classic-Days 2022 DSC 0050.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7220.jpg by Alexander Migl, CC BY-SA 4.0
+- Lotus Esprit Turbo S3, Heck (2018-04-29 Sp r).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1985 Lotus Esprit Turbo 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1987 Lotus Esprit hc.jpg by Calreyn88, CC BY-SA 4.0
+- HMS Belfast with rainbow.jpg by Dmitry A. Mottl, CC BY-SA 3.0
+- Belfast Metropolitan College.jpg by William Murphy
+uploaded and derivative work: MrPanyGoff, CC BY-SA 2.0
+- Queen's University of Belfast, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 16.jpg by Frank Schwichtenberg, CC BY 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 17.jpg by Frank Schwichtenberg, CC BY 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 19.jpg by Frank Schwichtenberg, CC BY 4.0
+- 2024 Tesla Cybertruck, rear left, 07-27-2024.jpg by Cutlass, CC0
+- Tesla Cybertruck Cyberbeast Satin Stealth Black - rear.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series, rear left (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0
+- DMC Delorean (5102119703).jpg by Spanish Coches, CC BY 2.0
+- Dmc delorean 3.jpg by Thilo Parg, CC BY-SA 3.0
+- DMC Delorean (17241743436).jpg by ilikewaffles11, CC BY 2.0
+- 1980 DMC Delorean.jpg by Calreyn88, CC BY 4.0
+- DeLorean DMC-12 (16298553996).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1981 Delorean DMC-12 Time Machine (43754890175).jpg by Sicnag, CC BY 2.0
+- 1987 Lotus Esprit Turbo 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1982 Lotus Esprit 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Lotus Esprit Turbo SE 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1982 Delorean DMC 12.jpg by Calreyn88, CC BY-SA 4.0
+- 1981 Delorean DMC-12 Time Machine (43754890175) (cropped).jpg by Sicnag, CC BY 2.0
+- DeLorean DMC-12 (16322724811).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 15.jpg by Frank Schwichtenberg, CC BY 4.0
+- DeLorean DMC-12 Time Machine's time circuits.JPG by Ed g2s, CC BY-SA 3.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 13.jpg by Frank Schwichtenberg, CC BY 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- DeLorean DMC-12 (16324486855).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 (16137112360).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- De Lorean DMC-12 2014-05.jpg by Duke of W4, CC BY-SA 3.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7215.jpg by Alexander Migl, CC BY-SA 4.0
 - DeLorean DMC-12, ADAC Deutschland Klassik 2025, Heidelberg (P1048747).jpg by Matti Blume, CC BY-SA 4.0
 - DeLorean DMC-12 Classic-Days 2022 IMG 7218.jpg by Alexander Migl, CC BY-SA 4.0
-- TeamTimeCar.com-BTTF DeLorean Time Machine-OtoGodfrey.com-JMortonPhoto.com-07.jpg by Oto Godfrey and Justin Morton, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0576.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0629.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0622.jpg by Alexander-93, CC BY-SA 4.0
+- 1983 DeLorean DMC-12, rear right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- DeLorean DMC-12 (rear).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 18.jpg by Frank Schwichtenberg, CC BY 4.0
+- 1981 DeLorean DMC-12 - 15966562856.jpg by CapCase, CC BY 2.0
+- DeLorean DMC-12 (15702068624).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0620.jpg by Alexander-93, CC BY-SA 4.0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- 2024 Tesla Cybertruck, Moab 02.jpg by A1C6, CC0
+- DeLorean DMC-12 (16138282849).jpg by Jeremy from Sydney, Australia, CC BY 2.0
 - DeLorean DMC-12 (15704582713).jpg by Jeremy from Sydney, Australia, CC BY 2.0
 - 1981 DeLorean DMC 12 -- Virginia Museum (cropped).jpg by Corvair Owner on Flickr. EXIF data says 2019 Joseph Ross/Joetography LLC., CC BY-SA 2.0
-- De Lorean DMC-12 at Wollaton Park, Nottingham, England.jpg by Lee Haywood, CC BY-SA 2.0
-- DeLorean DMC12 2849cc manufactured 1981 one wing up.jpg by Charles01, CC BY-SA 4.0
-- DeLorean DMC-12 (16138282849).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- DeLorean DMC-12 (16322724811).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- DeLorean DMC-12 (16298563416).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- Coming up with business names.jpg by Claireneon, CC BY-SA 4.0
-- Santa Maria of Loreto church and Holy Name of Mary church in Rome.jpg by Krzysztof Golik, CC BY-SA 4.0
-- Restaurant name ideas.jpg by Claireneon, CC BY-SA 4.0
-- 1895 E. M. Matthias aus Rethen, Intarsien am Webstuhl.jpg by Bernd Schwabe in Hannover, CC BY-SA 4.0
-- No Name pub Harwood - The House Without a Name - geograph.org.uk - 1863295.jpg by David Dixon, CC BY-SA 2.0
-- US Navy 040711-N-4308O-039 An S3-B Viking assigned to the Checkmates of Sea Control Squadron Two Two (VS-22) prepares to launch from the flight deck aboard USS Harry S. Truman (CVN-75).jpg by U.S. Navy photo by Photographer's Mate Airman Ryan O'Connor, Public domain
-- US Navy 040615-N-4953E-005 An S-3B Viking assigned to the Checkmates of Sea Control Squadron Two Two (VS-22) prepares to launch from one of four steam-powered catapults on the flight deck aboard USS Harry S. Truman (CVN 75).jpg by U.S. Navy photo by Photographer's Mate 2nd Class Danny Ewing Jr., Public domain
-- US Navy 041018-N-6213R-021 Aviation Ordnancemen assigned to Sea Control Squadron Three Five (VS-35), load an ADM-141 A-B37U-1 Tactical Air Launched Decoy (TALD).jpg by U.S. Navy photo by Photographer's Mate 3rd Class Mark J. Rebilas, Public domain
-- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0
-- Price Utah.jpg by unknown, Public domain
-- Price County Courthouse.JPG by Billertl, CC BY-SA 3.0
-- PNG Shell Money QM-r.jpg by Queensland Museum, CC BY-SA 3.0
-- Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg by Pieter Brueghel the Elder, Public domain
-- Originally the Houston Light Guard Armory -- Today the Buffalo Soldiers National Museum.jpg by Jim Evans, Public domain
-- “The Gold Car”- Lincoln Town Car (Cartier Edition).jpg by Afrazwarsi, CC BY-SA 4.0
-- Lincoln Town Car Cartier Edition with 24 Carat Gold Plated.jpg by Afrazwarsi, CC BY-SA 4.0
-- 1970 Pontiac GTO The Judge, gold, 15th Annual All Pontiac Car Show 2026-09-20.jpg by Xnatedawgx, CC BY-SA 4.0
-- Loch Lubnaig from the path to Ben Ledi, Scotland.jpg by Michal Klajban, CC BY-SA 4.0
-- Path to Whites Beach, Marlborough Region, New Zealand.jpg by Michal Klajban, CC BY-SA 4.0
-- Path to Sumner Beach, Sumner, Christchurch, New Zealand.jpg by Michal Klajban, CC BY-SA 4.0
-- HMS Belfast with rainbow.jpg by Dmitry A. Mottl, CC BY-SA 3.0
-- Queen's University of Belfast, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
-- Belfast Harbor.jpg by P. Hughes, CC BY-SA 4.0
-- Bahnhof Bad Aussee - Park and Ride Anlage.jpg by pow64, CC0
-- Monks Cross Park and Ride York Feb26 01.jpg by Malcolmxl5, CC0
-- Monks Cross Park and Ride York Feb26 02.jpg by Malcolmxl5, CC0
-- Fire engine - Magirus - 1920.JPG by H. Zell, CC BY-SA 3.0
-- Fire engine - Grether - 1922.jpg by H. Zell, CC BY-SA 3.0
-- Portable engine - SFMAI - 1927.jpg by H. Zell, CC BY-SA 3.0
-- Marantz SD-60 power supply board 02.jpg by Retired electrician, CC0
-- Marantz SD-60 power supply board 03.jpg by Retired electrician, CC0
-- 2008-08-30 Battersea Power Station 60.jpg by Sarah G..., CC BY 2.0
-- The collection of Tiger's skeleton and skin.jpg by Nahian shuvo, CC BY-SA 4.0
-- Lascar This piece of skin was laying just by the skeleton of the previous picture (4525012268).jpg by Jorge Láscar from Australia, CC BY 2.0
-- Cmglee Horniman dolphin skin skeleton.jpg by Cmglee, CC BY-SA 3.0
-- Chapman, Nebraska 9th St 2.JPG by unknown, Public domain
-- Business District Chapman Kansas 6-3-2014.jpg by The All Nite Images, CC BY-SA 2.0
-- Chapman, Nebraska 9th from Prairie.JPG by unknown, Public domain
-- PSA stainless barrel carbine on Daytona Defense lower (17882725293).jpg by Mitch Barrie from Reno, NV, USA, CC BY-SA 2.0
-- Kuechengeraet 001 2022 05 16.jpg by Friedrich Haag, CC BY-SA 4.0
-- Film - The Romance of Iron and Steel (1938) - ARMCO logo.jpg by sponsor: ARMCO studio: Tri-State Motion Pictures, Public domain
-- 2021 Cadillac Escalade stretch limousine with a gull-wing door configuration.jpg by Oleg Yunakov, CC BY-SA 4.0
-- 2017-03-07 Geneva Motor Show 0879.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
-- 2016-03-01 Geneva Motor Show 0808.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
-- Rear lights layout of the Honda Mobilio.jpg by MisterOtnas, CC BY-SA 4.0
-- Volkswagen Arteon R Shooting Brake (2022) (53473818594).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Volkswagen Arteon Shooting Brake (2020 - 2022) (52058098325).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Trent Bridge MMB 10 England vs New Zealand.jpg by mattbuck (category), CC BY-SA 3.0
-- Trent Bridge MMB 02 England vs New Zealand.jpg by mattbuck (category), CC BY-SA 3.0
-- Trent Bridge MMB 05 England vs New Zealand.jpg by mattbuck (category), CC BY-SA 3.0
-- Marines give victory to Army rivals in wheelchair basketball 110517-M-XZ164-260.jpg by Sgt. Michael Cifuentes, Public domain
-- Marines give victory to Army rivals in wheelchair basketball 110517-M-XZ164-319.jpg by Sgt. Michael Cifuentes, Public domain
-- Rival Protests Portsmouth SUTR Unity Ralley,Let's Take Our City Back 1.jpg by Tim Sheerman-Chase, CC BY 2.0
-- Se mai turbo il tuo riposo - Duetto - Nell'Alessandro nell'Indie - Musica - Del Sigr- Giovanni Bach - btv1b10072908h (19 of 34).jpg by Bach, Johann Christian (1735-1782). Compositeur, Public domain
-- Se mai turbo il tuo riposo - Duetto - Nell'Alessandro nell'Indie - Musica - Del Sigr- Giovanni Bach - btv1b10072908h (03 of 34).jpg by Bach, Johann Christian (1735-1782). Compositeur, Public domain
-- Se mai turbo il tuo riposo - Duetto - Nell'Alessandro nell'Indie - Musica - Del Sigr- Giovanni Bach - btv1b10072908h (32 of 34).jpg by Bach, Johann Christian (1735-1782). Compositeur, Public domain
-- Ninh Hòa salt production - alt.JPG by Original: [Tycho]  talk , http://shansov.net
-derivative work: Ximonic (talk), Simo Räsänen, CC BY-SA 3.0
-- Cinecraft Production Photo - U.S. Navy - A Very Special Man (1968).jpg by 75Portlewes, CC0
-- 1 - Tokyo Shaking - Filmmaking (2020).jpg by Roussels, CC BY-SA 4.0
-- Fokker CVD ‘349’ (SE-ALS) (49239985306).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0
-- Fokker CVD ‘349’ (SE-ALS) (49239509033).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0
-- Fokker CVD ‘349’ (SE-ALS) (49239509913).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0
-- Telegram from the GDR around 1977.jpg by Lupus in Saxonia, CC BY-SA 4.0
-- Congratulatory telegram - Radio station Communist International.jpg by photography Dmitry Makeev, shooting date - 2006 year., Public domain
-- Morton telegram book no. 02 - from September 5th 1861 to February 4th 1862 (PDF). - DPLA - e6533bf9a5cfbdbc093ed08e959865d7 (page 31).jpg by unknown, Public domain
-- 8-Damen-Problem -- 2022 -- 0288.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Close wing Basking of Athyma perius (Linnaeus, 1758) - Common Sergeant (4) WLB.jpg by Anitava Roy, CC BY-SA 4.0
-- Mallnitz Stappitzer See Wasseroberfläche 02.jpg by Uoaei1, CC BY-SA 4.0
-- 50 - Flickr - fionasaunders21.jpg by fiona saunders, CC BY 2.0
-- A Black Green and White talk with Shamako Noble of the Hip Hop Congress (7987245285).jpg by MaximizeLoveOnEarth.org, CC BY 2.0
-- WEB SUMMIT 2015 - LIAM CUNNINGHAM MEETS THE PRESS -ACTOR--109591 (22131942614).jpg by William Murphy from Dublin, Ireland, CC BY-SA 2.0
-- Drews Lane, Ward End, Birmingham - factory front 2011.jpg by DeFacto, CC BY-SA 4.0
-- SET male staff and Infinity Multimedia Production cameras at Walk of Fame end 20181006b.jpg by 玄史生, CC0
-- SET male staff and Infinity Multimedia Production cameras at Walk of Fame end 20181006c.jpg by Solomon203, CC BY-SA 4.0
-- USSArizonaSurvivor.jpg by Mass Communication Specialist 1st Class James E. Foehl, Public domain
-- Seven Survivors of Whitman Massacre.jpg by Sons of Oregon, Native, Oregon Pioneer Association, and Indian War Veterans and Historical Society, Public domain
-- Dixie Arrow survivors.jpg by Unknown authorUnknown author, Public domain
-- Alaska Disney CARS FLL JTPI 8x12 N570AS 591 (25388914284).jpg by JTOcchialini, CC BY-SA 2.0
-- Rodz & Bodz Movie Car Museum auction 2025-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
-- Rodz & Bodz Movie Car Museum auction, Movie Used 1994 The Flintstones Rubble Racer 2025-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
-- There is Magic Underneath it All.jpg by Kidfly182, CC BY-SA 4.0
-- Damien O'Kane, Underneath The Stars Festival (19804014089).jpg by Bryan Ledgard, CC BY 2.0
-- Dervish, Underneath the Stars festival 2016 (27921489683).jpg by Bryan Ledgard, CC BY 2.0
-- Electronic Parts Outlet.jpg by EvanCarroll, CC BY-SA 4.0
-- Electronic Parts Outlet (56412).jpg by EvanCarroll, CC BY-SA 4.0
-- Electronic Parts Outlet (35704).jpg by EvanCarroll, CC BY-SA 4.0
-- 1983 DMC De Lorean, front right, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
-- 1983 DMC De Lorean, rear left, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
-- The 1981 DeLorean DMC-12.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
-- Rollier’s price sticker.jpg by WikiGrower1, CC BY 4.0
-- Dual Price Labels - Leva and Euro 01.jpg by DemieK07, CC BY 4.0
-- Dual Price Labels - Leva and Euro 03.jpg by DemieK07, CC BY 4.0
-- Disagreement in the scientific literature by field.jpg by Authors of the study: Wout S Lamers, Kevin Boyack, Vincent Larivière, Cassidy R Sugimoto, Nees Jan van Eck, Ludo Waltman, Dakota Murray, CC BY 4.0
-- Publi S.F. 58.jpg by Unknown authorUnknown author, Public domain
-- Packaging for Marzine anti-nausea drug Wellcome L0037305.jpg by unknown, CC BY 4.0
-- Silhouette of two conifers having a disagreement - geograph.org.uk - 2885245.jpg by Dave Spicer, CC BY-SA 2.0
-- Contradictory signs at Jarvis and Lakeshore.jpg by booledozer, CC BY-SA 2.0
-- Contradictory Arrows (6782107562).jpg by Andrew Bowden from London, United Kingdon, CC BY-SA 2.0
-- Variance in statistical results and substantive conclusions between and within teams analyzing the same data is mostly unexplained by conditions, research design, and researcher characteristics.jpg by Authors of the study: Nate Breznau https://orcid.org/0000-0003-4983-3137 breznau.nate@gmail.com, Eike Mark Rinke https://orcid.org/0000-0002-5330-7634, Alexander Wuttke https://orcid.org/0000-0002-9579-5357, Hung H. V. Nguyen https://orcid.org/0000-0001-9496-6217, Muna Adem, Jule Adriaans https://orcid.org/0000-0001-7782-505X, Amalia Alvarez-Benjumea https://orcid.org/0000-0002-5829-2099, Henrik K. Andersen https://orcid.org/0000-0001-6842-5337, Daniel Auer https://orcid.org/0000-0003-4454-2365, Flavio Azevedo https://orcid.org/0000-0001-9000-8513, Oke Bahnsen https://orcid.org/0000-0003-3198-2804, Dave Balzer https://orcid.org/0000-0001-8345-7169, Gerrit Bauer https://orcid.org/0000-0002-3682-8323, Paul C. Bauer https://orcid.org/0000-0002-8382-9724, Markus Baumann, Sharon Baute, Verena Benoit https://orcid.org/0000-0002-8596-9202, Julian Bernauer https://orcid.org/0000-0001-5699-5543, Carl Berning, Anna Berthold https://orcid.org/0000-0002-1017-5731, Felix S. Bethke https://orcid.org/0000-0002-4259-6071, Thomas Biegert https://orcid.org/0000-0001-5437-2561, Katharina Blinzler, Johannes N. Blumenberg, Licia Bobzien, Andrea Bohman https://orcid.org/0000-0001-8335-9235, Thijs Bol https://orcid.org/0000-0001-9509-8423, Amie Bostic https://orcid.org/0000-0002-9809-5014, Zuzanna Brzozowska, Katharina Burgdorf, Kaspar Burger https://orcid.org/0000-0001-5582-7062, Kathrin B. Busch https://orcid.org/0000-0002-6951-0776, Juan Carlos-Castillo https://orcid.org/0000-0003-1265-7854, Nathan Chan, Pablo Christmann https://orcid.org/0000-0003-0458-9572, Roxanne Connelly https://orcid.org/0000-0002-3886-1506, Christian S. Czymara https://orcid.org/0000-0002-9535-3559, Elena Damian https://orcid.org/0000-0002-3776-6988, Alejandro Ecker, Achim Edelmann https://orcid.org/0000-0001-8293-674X, Maureen A. Eger https://orcid.org/0000-0001-9023-7316, Simon Ellerbrock https://orcid.org/0000-0002-9099-1420, Anna Forke, Andrea Forster https://orcid.org/0000-0002-5201-1452, Chris Gaasendam, Konstantin Gavras https://orcid.org/0000-0002-9222-0101, Vernon Gayle https://orcid.org/0000-0002-1929-5983, Theresa Gessler https://orcid.org/0000-0003-2339-6266, Timo Gnambs https://orcid.org/0000-0002-6984-1276, Amélie Godefroidt https://orcid.org/0000-0002-5010-2860, Max Grömping https://orcid.org/0000-0003-1488-4436, Martin Groß, Stefan Gruber https://orcid.org/0000-0002-3459-421X, Tobias Gummer https://orcid.org/0000-0001-6469-7802, Andreas Hadjar https://orcid.org/0000-0002-2641-010X, Jan Paul Heisig https://orcid.org/0000-0001-8228-1907, Sebastian Hellmeier https://orcid.org/0000-0002-9423-7150, Stefanie Heyne https://orcid.org/0000-0002-1546-9421, Magdalena Hirsch https://orcid.org/0000-0002-9709-9259, Mikael Hjerm, Oshrat Hochman https://orcid.org/0000-0002-4941-0815, Andreas Hövermann https://orcid.org/0000-0002-6774-6128, Sophia Hunger https://orcid.org/0000-0002-3859-5674, Christian Hunkler https://orcid.org/0000-0002-1632-9834, Nora Huth https://orcid.org/0000-0002-1651-9101, Zsófia S. Ignácz https://orcid.org/0000-0002-2288-5757, Laura Jacobs https://orcid.org/0000-0001-5094-3531, Jannes Jacobsen https://orcid.org/0000-0003-4358-0458, Bastian Jaeger https://orcid.org/0000-0002-4398-9731, Sebastian Jungkunz https://orcid.org/0000-0003-1040-8635, Nils Jungmann https://orcid.org/0000-0001-8849-8373, Mathias Kauff https://orcid.org/0000-0003-3803-3521, Manuel Kleinert, Julia Klinger https://orcid.org/0000-0001-8120-5785, Jan-Philipp Kolb https://orcid.org/0000-0001-6982-2115, Marta Kołczyńska https://orcid.org/0000-0003-4981-0437, John Kuk, Katharina Kunißen https://orcid.org/0000-0002-8330-6392, Dafina Kurti Sinatra https://orcid.org/0000-0001-7268-661X, Alexander Langenkamp https://orcid.org/0000-0002-3359-7179, Philipp M. Lersch https://orcid.org/0000-0003-3863-8301, Lea-Maria Löbel https://orcid.org/0000-0002-1541-6514, Philipp Lutscher https://orcid.org/0000-0001-6176-7297, Matthias Mader https://orcid.org/0000-0002-4593-2392, Joan E. Madia https://orcid.org/0000-0001-8398-8859, Natalia Malancu, Luis Maldonado https://orcid.org/0000-0002-0028-4766, Helge Marahrens https://orcid.org/0000-0002-1729-9104, Nicole Martin, Paul Martinez https://orcid.org/0000-0002-7041-4466, Jochen Mayerl https://orcid.org/0000-0002-4599-9976, Oscar J. Mayorga https://orcid.org/0000-0002-5299-8955, Patricia McManus https://orcid.org/0000-0003-0954-4517, Kyle McWagner, Cecil Meeusen, Daniel Meierrieks https://orcid.org/0000-0003-2058-8385, Jonathan Mellon https://orcid.org/0000-0001-6754-203X, Friedolin Merhout https://orcid.org/0000-0003-3703-7651, Samuel Merk https://orcid.org/0000-0003-2594-5337, Daniel Meyer https://orcid.org/0000-0002-1057-6498, Leticia Micheli https://orcid.org/0000-0003-0066-8222, Jonathan Mijs https://orcid.org/0000-0002-7895-0028, Cristóbal Moya https://orcid.org/0000-0002-7176-4775, Marcel Neunhoeffer, Daniel Nüst https://orcid.org/0000-0002-0024-5046, Olav Nygård https://orcid.org/0000-0003-2272-8150, Fabian Ochsenfeld, Gunnar Otte https://orcid.org/0000-0001-7025-2543, Anna O. Pechenkina https://orcid.org/0000-0002-7934-9832, Christopher Prosser https://orcid.org/0000-0002-2992-8190, Louis Raes https://orcid.org/0000-0003-2640-7493, Kevin Ralston https://orcid.org/0000-0003-4344-7120, Miguel R. Ramos, Arne Roets https://orcid.org/0000-0001-5814-1189, Jonathan Rogers https://orcid.org/0000-0002-0039-608X, Guido Ropers https://orcid.org/0000-0001-5069-2699, Robin Samuel https://orcid.org/0000-0002-7598-197X, Gregor Sand https://orcid.org/0000-0002-4475-0757, Ariela Schachter https://orcid.org/0000-0002-7404-4140, Merlin Schaeffer https://orcid.org/0000-0003-1969-8974, David Schieferdecker https://orcid.org/0000-0003-2376-0929, Elmar Schlueter https://orcid.org/0000-0003-3880-4111, Regine Schmidt, Katja M. Schmidt https://orcid.org/0000-0003-3695-1054, Alexander Schmidt-Catran https://orcid.org/0000-0002-9485-6314, Claudia Schmiedeberg https://orcid.org/0000-0002-6015-0460, Jürgen Schneider https://orcid.org/0000-0002-3772-4198, Martijn Schoonvelde https://orcid.org/0000-0003-4370-2654, Julia Schulte-Cloos, Sandy Schumann https://orcid.org/0000-0002-0900-5356, Reinhard Schunck https://orcid.org/0000-0002-8185-8919, Jürgen Schupp https://orcid.org/0000-0001-5273-643X, Julian Seuring https://orcid.org/0000-0001-5567-596X, Henning Silber https://orcid.org/0000-0002-3568-3257, Willem Sleegers https://orcid.org/0000-0001-9058-3817, Nico Sonntag https://orcid.org/0000-0001-9951-9117, Alexander Staudt, Nadia Steiber https://orcid.org/0000-0002-9425-8840, Nils Steiner https://orcid.org/0000-0003-3433-4079, Sebastian Sternberg, Dieter Stiers https://orcid.org/0000-0001-7242-8477, Dragana Stojmenovska https://orcid.org/0000-0002-9805-7229, Nora Storz https://orcid.org/0000-0001-5262-4024, Erich Striessnig https://orcid.org/0000-0001-5419-9498, Anne-Kathrin Stroppe https://orcid.org/0000-0002-1251-9235, Janna Teltemann https://orcid.org/0000-0003-0329-3104, Andrey Tibajev https://orcid.org/0000-0001-7348-1632, Brian Tung https://orcid.org/0000-0003-2630-6115, Giacomo Vagni, Jasper Van Assche https://orcid.org/0000-0002-2570-2928, Meta van der Linden, Jolanda van der Noll https://orcid.org/0000-0001-7929-466X, Arno Van Hootegem https://orcid.org/0000-0002-9559-8038, Stefan Vogtenhuber https://orcid.org/0000-0003-0839-4481, Bogdan Voicu https://orcid.org/0000-0002-2221-2499, Fieke Wagemans, Nadja Wehl, Hannah Werner, Brenton M. Wiernik, Fabian Winter https://orcid.org/0000-0002-4838-4504, Christof Wolf https://orcid.org/0000-0002-9364-9524, Yuki Yamada https://orcid.org/0000-0003-1431-568X, Nan Zhang, Conrad Ziller https://orcid.org/0000-0002-2282-636X, Stefan Zins, and Tomasz Żółtak, CC BY 4.0
-- Dülmen, Coesfelder Straße, COVID-19-Hinweis -- 2021 -- 5314.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Wooden and tortoiseshell snuff box, France, 1801-1830 Wellcome L0058687.jpg by unknown, CC BY 4.0
-- Carly Fiorina at New Hampshire Education Summit The Seventy-Four August 19th, 2015 by Michael Vadon 06.jpg by Michael Vadon, CC BY-SA 4.0
-- Carly Fiorina at New Hampshire Education Summit The Seventy-Four August 19th, 2015 by Michael Vadon... 04.jpg by Michael Vadon, CC BY-SA 4.0
-- Carly Fiorina at New Hampshire Education Summit The Seventy-Four August 19th, 2015 by Michael Vadon 11.jpg by Michael Vadon, CC BY-SA 4.0
-- Odofa at Ijakadi Festival 2025 08.jpg by Royalesignature, CC BY-SA 4.0
-- Odofa at Ijakadi Festival 2025 14.jpg by Royalesignature, CC BY-SA 4.0
-- Odofa at Ijakadi Festival 2025 05.jpg by Royalesignature, CC BY-SA 4.0
-- A right hand driving on the right hand side of the road in France.jpg by EuroTripPhotos, CC BY-SA 3.0
-- 1966 Rambler Rebel hardtop right-hand-drive 2021 AMO at Rambler Ranch 2of5.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
-- 1966 Rambler Rebel hardtop right-hand-drive 2021 AMO at Rambler Ranch 4of5.jpg by CZmarlin  — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also include the location of the image: the Rambler Ranch collection in Elizabeth, Colorado. See: https://www.ramblerranch.com, CC BY-SA 4.0
-- A Rare Capture.jpg by Peter Trimming, CC BY 2.0
-- Rare-ish centipede?.jpg by Jaker2112, CC BY 4.0
-- Rara Avis - Rare Birds by Diddo Velema.jpg by Diddo Velema, CC BY-SA 4.0
-- View of a Ford Pilot in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243449.jpg by Robert Lamb, CC BY-SA 2.0
-- View of a Ford Pilot V8 in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6243177.jpg by Robert Lamb, CC BY-SA 2.0
-- View of a Ford V8 Pilot Sedan in the Hedingham Castle Classic and Vintage Car Show - geograph.org.uk - 6242487.jpg by Robert Lamb, CC BY-SA 2.0
-- WTM-Museumsdepot-TdD2016 7772.JPG by Karl Gruber, CC BY-SA 4.0
-- Rover 90 cabriolet prototype mfd 1953 regd UK May 1993 2638cc.jpg by Charles01, CC BY-SA 4.0
-- 1971 Stutz Bearcat (Supercharged) 2013 Racv Motorclassica (10491959634).jpg by Chris Phutully from Australia, CC BY 2.0
-- Clinton Fall Festival Car Show 2012 (8037270521).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
-- Clinton Fall Festival Car Show 2012 (8037263156).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
-- Clinton Fall Festival Car Show 2012 (8037268239).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
-- Price Farwell House Palacios Texas.jpg by Larry D. Moore, CC BY 4.0
-- McClendon Price House Austin Texas 2022.jpg by Larry D. Moore, CC BY 4.0
-- Teatro Circo Price - 01.jpg by Carlos Delgado, CC BY-SA 3.0
-- Lilith original vs. AI “upscale”.jpg by John Collier and some clanker, Public domain
-- Knockout Safety Razor - 7.jpg by GwenofGwened, CC BY-SA 4.0
-- Knockout Safety Razor - 3.jpg by GwenofGwened, CC BY-SA 4.0
-- Reebok Royal Glide Ripple Clip shoe.jpg by Petar Milošević, CC BY-SA 4.0
-- 2023 Adidas Yeezy 350 V2 EF2905 (1).jpg by Jacek Halicki, CC BY-SA 4.0
-- FILA FLOAT MAXXI and FILA AXILUS ACE in Brazil.jpg by Laiyenbr, CC BY-SA 4.0
-- Sarkarapraja Timeline – Report Preparation (1).jpg by Sekar Kinanthi Kidung Wening, CC BY-SA 3.0
-- Sarkarapraja Timeline – Metadata Creation (1).jpg by Sekar Kinanthi Kidung Wening, CC BY-SA 3.0
-- Sarkarapraja Timeline – Metadata Creation (2).jpg by Sekar Kinanthi Kidung Wening, CC BY-SA 3.0
-- 18th Separate Company Armory-1.jpg by Kenneth C. Zirkel, CC BY-SA 4.0
-- 18th Separate Company Armory-2.jpg by Kenneth C. Zirkel, CC BY-SA 4.0
-- 18th Separate Company Armory door detail.jpg by Kenneth C. Zirkel, CC BY-SA 4.0
-- Vienne two benchmarks.jpg by Palauenc05, CC BY-SA 4.0
-- One of a pair of benchmarks - geograph.org.uk - 4210787.jpg by Neil Owen, CC BY-SA 2.0
-- Benchmark at St. Mary's Church Maynooth.jpg by A.-K. D., CC BY-SA 4.0
-- Global Attaché Policy Consultations 2026 (55392754896).jpg by USDAgov, Public domain
-- Global Attaché Policy Consultations 2026 (55392884703).jpg by USDAgov, Public domain
-- Global Attaché Policy Consultations 2026 (55392755536).jpg by USDAgov, Public domain
-- F-105D.jpg by Spoongap, Public domain
-- THE CURRENT STRUCTURE IS EXCELLENT BUT THE CLAIMS REGARDING HISTORIC RELEVANCE ARE INACCURATE (THE MOY AND THE BUILDING NEXT DOOR)-272150.jpg by William Murphy, CC BY-SA 4.0
-- THE NORTH BANK OF THE GRAND CANAL AT WILTON PLACE (PHOTOGRAPHED 17 JUNE 2026)-269139 (55343817814).jpg by William Murphy from Dublin, Ireland, CC BY-SA 4.0
-- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
-- Daily Subway Ridership Tops Two Million for First Time Since Beginning of COVID-19 Pandemic (51106351030).jpg by Metropolitan Transportation Authority of the State of New York from United States of America, CC BY 2.0
-- Daily Subway Ridership Tops Two Million for First Time Since Beginning of COVID-19 Pandemic (51105475668).jpg by Metropolitan Transportation Authority of the State of New York from United States of America, CC BY 2.0
-- Butterfly Effect Fremantle 2018-03-02 set.jpg by Orderinchaos, CC BY-SA 4.0
-- Butterfly Effect Fremantle 2018-03-02 show 1.jpg by Orderinchaos, CC BY-SA 4.0
-- Butterfly Effect Fremantle 2018-03-02 show 2.jpg by Orderinchaos, CC BY-SA 4.0
-- 2021-08-16 - Peacock butterfly (Aglais io) - eyespot on forewing - colourful scales - DSG3404-1 (magnif. ratio 2.2x, HiRes focus stack).jpg by Franz van Duns, CC BY-SA 4.0
-- Meghadri gedda water level indicator scale.jpg by Saiphani02, CC BY 4.0
-- 2014 Subaru Impreza WRC 2001 a.jpg by Jacek Halicki, CC BY-SA 3.0
-- 1983 DeLorean DMC-12, rear right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
-- 1981 DeLorean DMC-12.jpg by IChurakv, CC BY-SA 4.0
 - 1983 DeLorean DMC-12, front right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
-- DeLorean DMC-12 (16324486855).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 (16298563416).jpg by Jeremy from Sydney, Australia, CC BY 2.0
 - DeLorean DMC-12 (16324512095).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- DeLorean DMC-12 (16298553996).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 Interior.jpg by Michael Price, CC BY 2.0
+- DeLorean DMC-12 in BACK TO THE FUTURE PART II.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- The interior of 1981 De Lorean DMC-12.JPG by Tokumeigakarinoaoshima, CC0
+- Back to the Future Delorean (30839294363).jpg by zombieite, CC BY 2.0
+- Back to the Future Delorean (30839294873).jpg by zombieite, CC BY 2.0
+- Back to the Future Delorean (30839294613).jpg by zombieite, CC BY 2.0
+- 1981 DeLorean DMC-12.jpg by IChurakv, CC BY-SA 4.0
+- '81 DeLorean DMC-12 (MIAS).JPG by Bull-Doser, Public domain
+- DeLorean DMC-12 (47769840891).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0
+- 1981 DeLorean DMC-12 coupe (19993288815).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Tesla Cybertruck 003.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck dark gray 01.jpg by Wikideas1, CC0
+- Tesla Cybertruck dark gray 02.jpg by Wikideas1, CC0
+- 1982 DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (4).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1983 DMC De Lorean, rear left, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1982 DeLorean DMC-12 interior.JPG by BrokenSphere, CC BY 3.0
+- DeLorean DMC-12 (Fahrerseite).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- DeLorean DMC-12 (Beifahrerseite) (2).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- Tesla Cybertruck - 06.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck 004.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck SoHo 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck (grey) - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- King William's Corner, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- Ulster Bank Building, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- DeLorean DMC-12 (Beifahrerseite) (1).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- DeLorean DMC-21 Back to the Future Big Bumper Meet 2019 cockpit.jpg by Jacek Rużyczka, CC BY-SA 4.0
+- DeLorean black interior.jpg by Ejpacific, CC BY-SA 4.0
+- Tesla Cybertruck - 08.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck - 07.jpg by Oleg Yunakov, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (3).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1981 De Lorean DMC-12 (rear), Megaweb History Garage.jpg by Luis Villa del Campo from Madrid, Spain, CC BY 2.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (5).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1981 De Lorean DMC-12 - Back To The Future (5962678171).jpg by sv1ambo, CC BY 2.0
+- De Lorean DMC-12 in Morges 2012 - Interior 1.jpg by Akela NDE (talk), CC BY-SA 2.0 fr
+- De Lorean DMC-12 in Morges 2012 - Interior 3.jpg by Akela NDE (talk), CC BY-SA 2.0 fr
+- De Lorean DMC-12 2014-05 rear.jpg by Duke of W4, CC BY-SA 3.0
+- 1983 DMC De Lorean, front right, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- The rearview of 1981 De Lorean DMC-12.JPG by Tokumeigakarinoaoshima, CC0
+- Back to the Future Delorean (30839293723).jpg by zombieite, CC BY 2.0
+- DeLorean DMC-12 in Back to the Future Part II (2).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- DeLorean DMC-12 back (2).jpg by Geekstyle Living, Jean-Marc Trappler, GeekstyleLiving.com, CC BY-SA 4.0
 
 ## Sources
 

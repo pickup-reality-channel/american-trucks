@@ -5,124 +5,60 @@
 - Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1389).jpg by Matti Blume, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
-- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0
-- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
-- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
 - Hennessey Venom F5 (76964).jpg by Calreyn88, CC BY-SA 4.0
 - 2022 Hennessey Venom F5.jpg by MrWalkr, CC BY-SA 4.0
-- US81nRoad-HennesseyOK (39393076944).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
-- Hennessey, OK- Plat of the Town of Hennessey, Oklahoma Territory in the S.E. ¼ of the N.W. ¼ of Sec. 24, Twp. 19 N. R. 7 W. - DPLA - a450dd6398634db4ca6ff978fbad80fb.jpg by Department of the Interior. General Land Office. 1849-7/16/1946, Public domain
-- Tornado im Bereich Hennessey und Stillwater, Oklahoma, 19. Mai 2010 VII.jpg by GerritR, CC BY-SA 4.0
-- Hennessey Venom.jpg by Adam Russell, CC BY-SA 2.0
 - 2019 SSC Tuatara at Pebble Beach Press Conference.jpg by SSCNA, CC BY-SA 4.0
 - SSC Tuatara Striker (2024) (54869830611).jpg by Charles from Port Chester, New York, CC0
 - 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front right.jpg by Mr.choppers, CC BY-SA 4.0
-- SSC Ultimate Aero, London 01.jpg by Ank kumar, CC BY-SA 4.0
-- SSC Ultimate Aero, London 03.jpg by Ank kumar, CC BY-SA 4.0
-- SSC Ultimate Aero, London 02.jpg by Ank kumar, CC BY-SA 4.0
-- Second oath of office of Barack Obama.jpg by Pete Souza, Public domain
-- "Lucky Lucy" Arrives at Hastings, Sussex (1) - geograph.org.uk - 1767764.jpg by Peter Trimming, CC BY-SA 2.0
-- "Lucky Lucy" Arrives at Hastings, Sussex (4) - geograph.org.uk - 1767780.jpg by Peter Trimming, CC BY-SA 2.0
-- Cité du train, plaque du record de vitesse ferroviaire de 1955, 331km-h.jpg by TCY, CC BY-SA 4.0
-- Monument to a British Rail Speed Record - geograph.org.uk - 6032291.jpg by Marathon, CC BY-SA 2.0
-- UK Rail speed record commemorative plaque, Medway Bridge - geograph.org.uk - 3930201.jpg by Chris Whippet, CC BY-SA 2.0
-- SSC Ultimate Aero TT - 1.jpg by Nate Hawbaker, CC0
-- SSC Ultimate Aero - 14505962939.jpg by Jacob Frey 4A, CC BY 2.0
-- SSC Ultimate Aero - 7940460030.jpg by Shane K, CC BY-SA 2.0
-- SSC Ultimate Aero - 7940462386.jpg by Shane K, CC BY-SA 2.0
-- SSC Ultimate Aero.jpg by Jacob Frey 4A, CC BY 2.0
-- SSC Ultimate Aero - 7940474146.jpg by Shane's Stuff, CC BY-SA 2.0
-- Lunar planetary landscape and runway at KSC built to test Morpheus lander.jpg by Kim Shiflett, Public domain
-- STS-135 Atlantis' final tow back.jpg by Kim Shiflett, Public domain
-- Historic Cape Canaveral Space Force Station Skid Strip renovated for modern space mission needs (9634989).jpg by U.S. Space Force SLD45 by Amanda Inman, Public domain
-- Two activists with a placard highlighting soaring energy prices, Shell's profits and average global temperatures.jpg by Alisdare Hickson, CC BY-SA 4.0
-- Femea Cervo do Pantanal Perfil.jpg by Jonathan Wilkins, CC BY-SA 3.0
-- Average spectra of the blue and red population stars (eso0509c).jpg by ESO, CC BY 4.0
-- 3 km an h speed limit road signs.jpg by Pacopac, CC BY-SA 4.0
-- 60 km (ubt).JPG by Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com], CC BY 3.0
-- 002 Dangerous gravel rural road with 30 km-h speed limit in Tenerife, Spain.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
 - 2024 SSC Tuatara Striker in Dark Olive Green, engine.jpg by Mr.choppers, CC BY-SA 4.0
-- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, rear left.jpg by Mr.choppers, CC BY-SA 4.0
 - 2024 SSC Tuatara Striker interior at Waveny Park 2024.jpg by Mr.choppers, CC BY-SA 3.0
-- Renault 4cv engine 1961.jpg by Palauenc05, CC BY-SA 4.0
-- Union Pacific 844, Painted Rocks, NV, 2009 (crop).jpg by 04_15_09_162xp_-_Flickr_-_drewj1946.jpg: Drew  Jacksich from San Jose, CA, The Republic of California
-derivative work: Bruce1ee, CC BY-SA 2.0
-- 2007-06-15 34 Moto Guzzi PE, Fg.-Nr. SP7032.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, rear left.jpg by Mr.choppers, CC BY-SA 4.0
 - Argazkia auto.jpg by Gontzal Cepeda, CC BY-SA 4.0
 - 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front left.jpg by Mr.choppers, CC BY-SA 3.0
 - SSC Tuatara Striker (2024) (54096246544).jpg by Charles from Port Chester, New York, CC BY 2.0
-- De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3859).jpg by Trougnouf, CC BY 4.0
-- Comparison chart of Soviet and US SLBMs.JPEG by Unknown authorUnknown author, Public domain
-- Comparison Finder and Tonsillolith.jpg by Delpoman
-
-Student: Greyson Wilson, CC BY 3.0
-- Viewfinder-cutaway-comparison-dollar.jpg by Felipe La Rotta, CC BY-SA 3.0
-- Roman and Webb Comparison Graphics from Far and Wide (SVS14942 - FaW RomanWebb WideFarandPrecisely Still).jpg by NASA's Scientific Visualization Studio - NASA's Goddard Space Flight Center/CI Lab, Public domain
-- Sweetbay Magnolia Magnolia virginiana Comparison 4400px.jpg by Photo by and (c)2008 Derek Ramsey (Ram-Man).  Co-attribution must be given to the Chanticleer Garden., CC BY-SA 3.0
-- Münster, Send, Riesenrad -- 2024 -- 6503.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Rubble wall with Transmission Pole at the background.jpg by Godwin Borg, CC BY-SA 4.0
-- Palo Alto Baylands January 2013 001.jpg by King of Hearts, CC BY-SA 3.0
-- Weights for jumping 500 BC, NAMA 1926, 225611.jpg by Zde, CC BY-SA 4.0
-- Stone weights, 2700-2200 BC, AM of Nafplio, 202088.jpg by Zde, CC BY-SA 4.0
-- Weight Toy.jpg by Ameerahraheem, CC BY-SA 4.0
-- Corduroy comparison macro.jpg by Rocknrollmancer, CC BY-SA 4.0
-- Corduroy comparison wider angle.jpg by Rocknrollmancer, CC BY-SA 4.0
-- Medieval weight, Decorated weight (FindID 629410).jpg by Oxfordshire County Council, Anni Byard, 2014-07-24 15:08:22, CC BY-SA 2.0
-- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
-- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
-- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
-- Schlaggewicht Typ 161 HOFMANN POWER WEIGHT.jpg by Teresa Herbert, CC BY-SA 4.0
-- Leopard-shaped Stone Weight in Xuzhou Museum 2013-01.JPG by 猫猫的日记本, CC BY-SA 3.0
-- IMG3915 Ciężar Władzy The Weight of Power - Jacek Sasin - Anna Krupka.jpg by Wojciechgrzegorzdomagala, CC BY 4.0
-- Logitech G mouse weights (12188775695).jpg by Alper Çuğun, CC BY 2.0
-- Drop weight stringing machine DISCHO-Veritas OR.JPG by LordOider, CC0
-- US Navy 070808-N-0890S-021 Airman Sebastian Villegas displays the weight of an F-A-18C Hornet, assigned to the.jpg by U.S. Navy photo by Mass Communication Specialist David L. Smart, Public domain
-- Sole of foot of an infant held between the middle finger and the ring finger of an adult hand for size comparison.jpg by Basile Morin, CC BY-SA 4.0
-- Superreĝdimensia lito.jpg by Sophie Graubert, CC BY-SA 4.0
-- Star-sizes.jpg by Dave Jarvis (https://dave.autonoma.ca/), CC BY-SA 3.0
-- Coil magnetic field coefficient of drag and steering angle.jpg by Dmcdysan, CC BY-SA 4.0
-- 638366main E81-38091 full full.jpg by NASA, Public domain
-- 1993 McLaren F1 High Downforce (14988).jpg by Calreyn88, CC BY-SA 4.0
-- 1993 McLaren F1 High Downforce (96052).jpg by Calreyn88, CC BY-SA 4.0
-- Mercedes-McLaren SLR HDK (High Downforce Kit) (55114841954).jpg by Mustang Joe, CC0
-- Price Utah.jpg by unknown, Public domain
-- Overlooking Price, Utah from Wood Hill 20210805.jpg by Elli, CC0
-- Rollier’s price sticker.jpg by WikiGrower1, CC BY 4.0
-- SSC Hospital.jpg by LittleT889, CC BY 4.0
-- Thrust SSC Mini Test Vehicle.jpg by Freggs, CC BY-SA 2.0
-- HolidayTree Lighting (3990710).jpg by U.S. Space Force SSC by Joseph Juarez Sr., Public domain
+- SSC Tuatara Striker (2024) (53994306545).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54095915031).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
 - 2022 Hennessey Venom F5 SP 22.jpg by MrWalkr, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 Roadster.jpg by MrWalkr, CC BY-SA 4.0
 - Hennesey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
 - SSC Tuatara Striker (2024) (54000091809).jpg by Charles from Port Chester, New York, CC BY 2.0
 - SSC Tuatara Striker (2024) (54559022692).jpg by Charles from Port Chester, New York, CC BY 2.0
-- SSC Tuatara Striker (2024) (53994306545).jpg by Charles from Port Chester, New York, CC BY 2.0
-- SSC Tuatara Striker (2024) (54095915031).jpg by Charles from Port Chester, New York, CC BY 2.0
 - SSC Tuatara Striker (2024) (54870063828).jpg by Charles from Port Chester, New York, CC0
-- Relay Computer 2 (RC-2, 2007) by Jon Stanley - top view.jpg by Jeff Keyzer from Austin, TX, USA, CC BY-SA 2.0
-- Solar System to Scale to a Football Field.jpg by Tdadamemd, CC BY-SA 3.0
-- Solar Race Car Built by Cambridge University (3).jpg by Intel Free Press, CC BY-SA 2.0
+- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
+- Koenigsegg Agera RST 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom.jpg by Adam Russell, CC BY-SA 2.0
+- Hennessey Venom GT.JPG by Mystfire, CC BY 3.0
+- White Hennessey Venom Gt (15036028446).jpg by Axion23, CC BY 2.0
 - 2022 Hennessey Venom F5 3.jpg by Calreyn88, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 2.jpg by Calreyn88, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 1.jpg by Calreyn88, CC BY-SA 4.0
-- Porsche 911 GT2 RS 997 (5213910504).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
-- Mondial de l'Automobile 2010, Paris - France (5058799732).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Mondial de l'Automobile 2010, Paris - France (5058801784).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Koenigsegg Agera, GIMS 2018 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Morpheus Lander at Kennedy Space Center.jpg by NASA/Dimitri Gerondidakis, Public domain
+- Stephen Hawking at Kennedy Space Center KSC-07pd-0964.jpg by Kim Shiflett, Public domain
+- Kennedy Space Center at sunset, October 13, 2010.jpg by NASA/Dimitri Gerondidakis, Public domain
 - Hennessey Venom F5 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 Roadster 2.jpg by Calreyn88, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 Roadster 1.jpg by Calreyn88, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 Roadster 6.6 Front.jpg by Vauxford, CC BY-SA 4.0
 - 2022 Hennessey Venom F5 Roadster 6.6 Rear.jpg by Vauxford, CC BY-SA 4.0
-- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
-- Hennessey Venom GT.JPG by Mystfire, CC BY 3.0
-- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
-- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
 
 ## Sources
 

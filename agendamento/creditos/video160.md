@@ -1,0 +1,130 @@
+# Photo credits: Why Koenigsegg Builds Hypercars in a Fighter-Jet Hangar
+
+- AngelholmUFOMonumentPlaque.jpg by Read The Plaque by 99% Invisible ( http://99pi.org/ ), site edited by Kester Allen., CC BY 4.0
+- Ängelholm, the Storgatan.jpg by Dguendel, CC BY 4.0
+- Ängelholm, Storgatan.JPG by Dguendel, CC BY 4.0
+- Ängelholm, the street Storgatan.jpg by Dguendel, CC BY 4.0
+- Ängelholm, die Straße Storgatan .JPG by Dguendel, CC BY 4.0
+- Ängelholm, the town square.JPG by Dguendel, CC BY 4.0
+- Tullakrok, Ängelholm.jpg by Kigsz, CC BY-SA 4.0
+- Råbocka camping, busshållplats, Ängelholm - 20230608 - 07.jpg by AleWi, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0525).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Koenigsegg Regera HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera White.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 7197.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 7193.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 16.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 15.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 13.jpg by Calreyn88, CC BY-SA 4.0
+- ÄngelholmsKyrka21500001491968.jpg by Pär-Martin Hedberg, CC BY-SA 2.5
+- Ängelholm.jpg by Baumis, CC BY-SA 4.0
+- Ängelholm, Victoriaskolan.jpg by Kigsz, CC BY-SA 4.0
+- Ängelholm, Villanskolan.jpg by Kigsz, CC BY-SA 4.0
+- Ängelholm, Pyttor.jpg by Kigsz, CC BY-SA 4.0
+- Koenigsegg CCX, GIMS 2018, Le Grand-Saconnex (1X7A1713).jpg by Matti Blume, CC BY-SA 4.0
+- Purple Koenigsegg CCX fl.jpg by Trubble, CC BY-SA 2.0
+- Koenigsegg CCX 5.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg, Auto 2024, Zurich (PANA0940).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1377.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1375.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg CCX 3.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg CCX 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg CCX 4.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0949).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1381.jpg by Alexander-93, CC BY-SA 4.0
+- 2020 Koenigsegg Gemera 2.0.jpg by Liam Walker, CC BY-SA 4.0
+- 2021 Koenigsegg Regera LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Koenigsegg Regera LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera Front.jpg by MrWalkr, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 8.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ängelholm, Kungsgårdsskolan.jpg by Kigsz, CC BY-SA 4.0
+- Ängelholm, Nyhemsskolan.jpg by Kigsz, CC BY-SA 4.0
+- Ängelholm, Rönnegymnasiet.jpg by Kigsz, CC BY-SA 4.0
+- Öresundståg, Ängelholm - 20230608 - 04.jpg by AleWi, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52571939473).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571859105).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 23NTBC 37 - Koenigsegg.jpg by Herranderssvensson, CC BY-SA 3.0
+- 2019 Koenigsegg Regera Rear Side Detail.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera with 'Ghost' package at Geneva Auto Salon 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Regera ICE brightened cropped.jpg by Norbert Aepli, CC BY 4.0
+- Koenigsegg Gemera 3.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Gemera (52561129015).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Gemera (52561129050).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0950).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Regera 17.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Koenigsegg Regera LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera with 'Ghost' package at Geneva Auto Salon 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Regera with 'Ghost' package at Geneva Auto Salon 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Regera with 'Ghost' package at Geneva Auto Salon 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0948).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52570943097).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571408476).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Agera, GIMS 2018 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera RST 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52571858975).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571686589).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (52561200208).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A0924.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1398.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A0943.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Regera, GIMS 2019, Le Grand-Saconnex (GIMS0010).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Regera (2020) (52450178882).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Regera (2020) (52450701461).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS1047).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS1046).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko, GIMS 2019, Le Grand-Saconnex (GIMS0844).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2006 Koenigsegg CCX 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Zoomed HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Low LC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Agera N 4.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera N 5.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera N 8.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 7151.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Low HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 9.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera (45280).jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52571939423).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (53048129816).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1123.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1379.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko 17.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 10.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Jesko 18.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera N 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera R (56247).jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera R (12490).jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 7.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 10.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2024 DSC 6942.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2024 DSC 6940.jpg by Alexander Migl, CC BY-SA 4.0
+- Koenigsegg Regera (2021) (55210210307).jpg by Charles from Port Chester, New York, CC0
+- Koenigsegg Regera (2021) (55210210237).jpg by Charles from Port Chester, New York, CC0
+- 2015-03-03 Geneva Motor Show 3307.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Koenigsegg Regera 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 4.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Koenigsegg: https://en.wikipedia.org/wiki/Koenigsegg_Automotive
+- Wikipedia, Scania Wing (F 10): https://en.wikipedia.org/wiki/Scania_Wing
+- SlashGear, the story of the Koenigsegg ghost emblem
+- Jalopnik, Koenigsegg factory tour
+- Wikipedia, Koenigsegg Gemera: https://en.wikipedia.org/wiki/Koenigsegg_Gemera
+- AOL (Car and Driver), The Koenigsegg Gemera is finally starting production, 30 Mar 2026: https://www.aol.com/articles/koenigsegg-gemera-finally-starting-production-210300723.html

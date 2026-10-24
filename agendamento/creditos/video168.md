@@ -1,0 +1,165 @@
+# Photo credits: Why the Aventador Was the Last of Its Kind
+
+- 2022 Lamborghini Aventador Ultimae LP780-4.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae Roadster.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador LP780 Ultimae.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae 1.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae 2022 1.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae 4.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador LP780-4 Ultimae.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Huracan STO 1X7A0297.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Huracán STO IMG 9892.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Huracan STO 1X7A7216.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Huracan STO Auto Zuerich 2021 IMG 0266.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Huracan STO 20.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 23.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 24.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 22.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murciélago LP640 Roadster Auto Zuerich 2023 1X7A1436.jpg by Alexander-93, CC BY-SA 4.0
+- Blancpain Endurance Series - Lamborghini Murcielago 670 R-SV 14.jpg by Thesupermat, CC BY-SA 3.0
+- Motortreff Bella Italia 2024, Munich (P1190383).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Murcielago 10.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago LP640 Versace.jpg by Lennart Coopmans, CC BY-SA 2.0 be
+- Lamborghini Murciélago LP640 white.jpg by JaayJay, Public domain
+- 2007 Lamborghini Murcielago 8.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murciélago LP640 Coupé.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lamborghini Murcielago 11.jpg by Calreyn88, CC BY-SA 4.0
+- 2007 Lamborghini Murcielago 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2007 Lamborghini Murcielago 3.jpg by Calreyn88, CC BY-SA 4.0
+- Car carrier vessel LIBERTY PEACE, sailing in the Puget Sound (20240219).jpg by FPTI, CC0
+- Car carrier in Veracruz.jpg by Koffermejia, CC BY-SA 4.0
+- Car carrier ship 'Neptune Hellas' entering the port of Haifa, Israel - 2023-03-15 (DSC1328).jpg by DmitTrix, CC BY 4.0
+- Lamborghini Aventador Ultimae 2022.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae 3.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae.jpg by Mathious Ier, CC0
+- Lamborghini Aventador Ultimae 6 (black).jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae Roadster 1.jpg by Calreyn88, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1486).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador, Motortreff Bella Italia 2024, Munich (P1190389-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster Back IMG 0717.jpg by Alexander Migl, CC BY-SA 4.0
+- 2007 Lamborghini Murcielago 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago green.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murciélago LP640 Roadster Engine.jpg by Lemon3 at de.wikipedia, CC BY-SA 3.0 de
+- Lamborghini Murcielago 2004.jpg by Calreyn88, CC BY-SA 4.0
+- Tuned Lamborghini Murciélago LP640-4.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lamborghini Murciélago LP640 at River Walk Kitakyushu.jpg by Nissy-KITAQ, CC BY-SA 3.0
+- 2022 Lamborghini Aventador Ultimae (63828).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Lambo Aventador Ultimae Side FOS22.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae Roadster - 54848324028.jpg by Alexandre Prevot, CC BY-SA 4.0
+- Lamborghini Aventador SVJ Roadster IMG 9580.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Aventador SVJ Roadster, GIMS 2019, Le Grand-Saconnex (GIMS0761).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador SVJ 13.jpg by Calreyn88, CC BY-SA 4.0
+- Car carrier GLOVIS SIGMA à quai.jpg by Farid mernissi, CC BY-SA 4.0
+- Car carrier ELEKTRA au port.jpg by Farid mernissi, CC BY 4.0
+- Jupiter Spirit (car carrier ship) at Port of Auckland 20250722-131005.jpg by XiaYZ2023, CC BY-SA 4.0
+- 2023 Lamborghini Aventador Ultimae 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Lamborghini Aventador Ultimae 1.jpg by Calreyn88, CC BY 4.0
+- 2022 Lamborghini Aventador Ultimae 2.jpg by Calreyn88, CC BY 4.0
+- 6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG by Andrew Bossi, CC BY-SA 2.5
+- 1971 Lamborghini Miura P400 SV.jpg by Chelsea Jay, CC BY-SA 4.0
+- Lamborghini Miura P400 S GIMS 2024 1X7A2379.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae Roadster 2022 (2).jpg by Ethan Llamas, CC BY-SA 4.0
+- The rearview of Lamborghini Aventador LP780-4 Ultimae Roadster.jpg by Tokumeigakarinoaoshima, CC0
+- The frontview of Lamborghini Aventador LP780-4 Ultimae Roadster.jpg by Tokumeigakarinoaoshima, CC0
+- Lamborghini Revuelto DSC 6987.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae Roadster 2022 (1).jpg by Ethan Llamas, CC BY-SA 4.0
+- Aventador Ultimae.jpg by Mathious Ier, CC0
+- 2023 Lamborghini Aventador Ultimae.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6986.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 0562.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6984.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1103.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1101.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 8153.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto 002.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto Opera Unica 002.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 16.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador interior.JPG by JaayJay, CC BY 3.0
+- Lamborghini Aventador Interior with a Bugatti Veyron in the back (11142524245).jpg by Axion23, CC BY 2.0
+- Lamborghini Aventador S Roadster, IAA 2017, Frankfurt (1Y7A2844).jpg by Matti Blume, CC BY-SA 4.0
+- LAMBORGHINI HURACAN STO China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Lamborghini Huracan STO 18.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 16.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 17.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO 19.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Huracan STO 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 22.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 20.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador SVJ Gangnam 02.jpg by Tristan Surtel, CC BY-SA 4.0
+- 2020 Lamborghini Aventador SVJ Roadster in Oro Elios Metallic, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2021 Lamborghini Aventador LP770-4 SVJ in Nero Nemesis, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Revuelto Opera Unica 001.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Lamborghini Aventador Ultimae.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae (2022) (53619874710).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Aventador LP 780-4 Ultimae (2022) (53619637903).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Murcielago 2008 1.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago white.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago white 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Lamborghini Aventador SVJ 63 Edition Roadster.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador SVJ (Ank kumar, Infosys) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Lamborghini Aventador SVJ (Ank kumar, Infosys) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae (2022) (53619765429).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Aventador S Roadster, IAA 2017, Frankfurt (1Y7A2846).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador LP700-4 IMG 0004.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Aventador LP750-4 SV IMG 9103.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Aventador LP750-4 SV IMG 9103 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster, IAA 2017, Frankfurt (1Y7A2083).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador SVJ (Ank kumar, Infosys) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- 2019 Lamborghini Aventador SVJ 8.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Lamborghini Aventador SVJ 10.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 25.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 21.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 5.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 26.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 10.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 13.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 12.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador SVJ 2019.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador SVJ in Osaka.jpg by Aos.1905, CC BY-SA 4.0
+- Lamborghini Aventador SVJ Roadster 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 17.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 19.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Huracan STO 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO 21.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracan STO (56436).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO (80301).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Lamborghini Huracan STO (80273).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Huracan STO.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster, IAA 2017, Frankfurt (1Y7A2849).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1506).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini, IAA 2017, Frankfurt (1Y7A2084).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Aventador 13.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador 5.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Huracán Tecnica 1X7A7430.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Huracán Tecnica 1X7A7432.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Huracan, EMS 2024, Essen (P1032274).jpg by Matti Blume, CC BY-SA 4.0
+
+## Sources
+
+- Lamborghini, End of an era with the last Lamborghini Aventador, 26 Sep 2022: https://www.lamborghini.com/cn-en/%E6%96%B0%E9%97%BB/end-of-an-era-with-the-last-lamborghini-aventador
+- Motor Authority (Viknesh Vijayenthiran), Lamborghini ends Aventador production, 26 Sep 2022: https://www.motorauthority.com/news/1137269_lamborghini-ends-aventador-production-closes-chapter-on-pure-v-12-era
+- Motor1 (Christopher Smith), Lamborghini confirms Aventador Ultimae is its last pure V12 car, 7 Jul 2021: https://www.motor1.com/news/518745/lamborghini-confirms-end-of-v12/
+- Wikipedia, Lamborghini Aventador: https://en.wikipedia.org/wiki/Lamborghini_Aventador
+- Wikipedia, Lamborghini Murciélago: https://en.wikipedia.org/wiki/Lamborghini_Murci%C3%A9lago
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Wikipedia, Lamborghini Huracán: https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n
+- IEEE Spectrum, 2019's Top 10 Tech Cars: Lamborghini Aventador SVJ: https://spectrum.ieee.org/2019s-top-10-tech-cars-lamborghini-aventador-svj
+- TechCrunch, Lamborghini Huracán STO: a final celebration before electrification, 23 Sep 2021: https://techcrunch.com/2021/09/23/lamborghini-huracan-sto-a-final-celebration-before-electrification/
+- Lambocars, What does it cost to own and maintain a late-model Lamborghini?, 4 May 2022: https://www.lambocars.com/cost-to-own-and-maintain-modern-lamborghini/
+- Automonitor.io, What does an Aventador SVJ actually cost to own? (unsourced estimates): https://automonitor.io/blog/how-much-does-a-lamborghini-aventador-svj-cost/

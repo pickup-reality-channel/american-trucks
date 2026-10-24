@@ -3,144 +3,88 @@
 - Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
 - Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
 - Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
 - Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
 - Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
-- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
-- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
 - Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
-- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
-- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
-- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
-- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
-- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
-- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
-- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
-- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
-- Origins centre 2.jpg by @weblearning, CC BY 4.0
-- Piplup and Turtwig Cosplayers at Origins '08, in Columbus OH.jpg by Benny Mazur, CC BY 2.0
-- Origins Space Telescope 2016 concept.jpg by NASA, Public domain
-- Origins Center Tour End.JPG by Nebiyu.s, CC BY-SA 4.0
-- Origins Centre and M1 highway.jpg by Heather Elke, CC BY-SA 4.0
-- Honeycombs Wilderness Study Area (34486543211).jpg by BLM Oregon & Washington, Public domain
-- Honeycombs Wilderness Study Area (34486542831).jpg by BLM Oregon & Washington, Public domain
-- Honeycombs Wilderness Study Area (33773976104).jpg by BLM Oregon & Washington, Public domain
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
 - 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
-- Dolomedes raptor (43513206022).jpg by LiCheng Shih, CC BY 2.0
-- Dolomedes raptor (41751996600).jpg by LiCheng Shih, CC BY 2.0
-- 2009 Dodge Dakota TRX in Sunburst Orange Pearlcoat, rear left, 5-7-2022.jpg by Cutlass, CC0
-- 2009 Dodge Dakota TRX in Sunburst Orange Pearlcoat, front left, 5-7-2022.jpg by Cutlass, CC0
-- 1991 Nissan Pintara (U12) TR.X sedan (17164236919).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- Nissan Qashqai e-Power Automesse Ludwigsburg 2022 1X7A5884.jpg by Alexander Migl, CC BY-SA 4.0
-- Nissan Qashqai e-Power Automesse Ludwigsburg 2022 1X7A5924.jpg by Alexander Migl, CC BY-SA 4.0
-- Chorzów Muzeum Hutnictwa power plant exterior 2022 2.jpg by Adrian Tync, CC BY-SA 4.0
-- Night Lite (194808050).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
-- Mondial de l'Automobile 2012, Paris - France (8645280840).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Mondial de l'Automobile 2012, Paris - France (8644187019).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Dolomedes raptor (43513203622).jpg by LiCheng Shih, CC BY 2.0
-- Dolomedes raptor (41752073820).jpg by LiCheng Shih, CC BY 2.0
+- Ford F-150 Raptor 3.5T 2018 (45840639514).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
 - 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
-- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio.jpg by Mozhar, CC BY-SA 3.0
-- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio (1).jpg by Mozhar, CC BY-SA 3.0
-- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio (2).jpg by Mozhar, CC BY-SA 3.0
-- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA.jpg by w_lemay, CC BY-SA 2.0
-- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA - 53042913274.jpg by w_lemay, CC BY-SA 2.0
-- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA - 53042149457.jpg by w_lemay, CC BY-SA 2.0
-- SEMA Las Vegas 2013 (11316966664).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
-- SEMA Las Vegas 2013 (11286894733).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
-- SEMA Las Vegas 2013 (11282588374).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
-- Mrs. Ford reads President Ford's concession speech - NARA - 5730760.jpg by David Hume Kennerly, Public domain
-- Causeway and ford at Kit Bridge - geograph.org.uk - 7263200.jpg by Vieve Forward, CC BY-SA 2.0
-- Ford and Stepping Stones at Kit Brow - geograph.org.uk - 4289460.jpg by John Walton, CC BY-SA 2.0
-- Dive weights - Tubular and rectangular shot bags and cylindrical tank weights P8160083.jpg by Peter Southwood, CC0
-- Metal weights for traditional scale.jpg by Eden Aviv, CC0
-- Travel clip-on dive weight P6045451.JPG by Peter Southwood, CC BY-SA 3.0
-- Remarkable bike with a kid passenger seat, and extra robust front basket.jpg by Geo Swan (talk), Public domain
-- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
-- 330-PS-624 (USN 707934) (19529175409).jpg by National Museum of the U.S. Navy, Public domain
-- Baldwin Locomotive Works - 1200 diesel locomotive (S-12) 3 (26546488503).jpg by James St. John, CC BY 2.0
-- Baldwin Locomotive Works - 1200 diesel locomotive (S-12) 1 (27117851196).jpg by James St. John, CC BY 2.0
-- Weight Toy.jpg by Ameerahraheem, CC BY-SA 4.0
-- French weights with weight stamp (2).jpg by HelgeRieder, CC0
-- French weights with weight stamp (1).jpg by HelgeRieder, CC0
-- Ju IMG 1466.JPG by Lantuszka, CC BY-SA 3.0
-- Birmingham Proof House with Voyager.jpg by kitmasterbloke, CC BY 4.0
-- Medieval Coin, Catalogue Number 5 (FindID 878138-1067260).jpg by Birmingham Museums Trust, Peter Reavill, 2019-08-01 17:17:17, CC BY 2.0
-- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 2).jpg by General Atomics Aeronautical Systems, Inc, CC0
-- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 3).jpg by General Atomics Aeronautical Systems, Inc, CC0
-- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 13).jpg by General Atomics Aeronautical Systems, Inc, CC0
-- Ikea Fixa -torque limiter and motor - gears-1702.jpg by Raimond Spekking, CC BY-SA 4.0
-- Bisco L. Doxey's Patent Drawing for Machinery for Gearing and Engineering - DPLA - 89418a7ca90283617d90f7303994ef89.jpg by Department of State. Patent Office. (1836 - 1849), Public domain
-- USS Gearing (DD-710) in the Mediterranean Sea in 1960.jpg by Unknown authorUnknown author, Public domain
-- Railway wheels and tyres at Buckfastleigh, South Devon Railway - geograph.org.uk - 8396639.jpg by Gareth James, CC BY-SA 2.0
-- Porsche Cayman S with TD Pro Race 1.3 18" Wheels and Track Tyres (14511799851).jpg by Mark Seymour, CC BY 2.0
-- Old style wheels and tyres at Ilya Sorokin's Oldtimer-Gallery - IMGP2461.jpg by Alexander Plushev, CC BY 2.0
-- Bus with electronic controlled suspension, advanced emergency braking system (AEBS).jpg by Syced, CC0
-- McPherson posteriore.jpg by A7N8X, CC BY-SA 4.0
-- Suspension of transaction for Go To travel campaign coupon.jpg by Indiana jo, CC BY-SA 4.0
-- Dülmen, Kirchspiel, VW 1303 -- 2017 -- 2279.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Beroun, Arriva-buso sur Masaryk-ponto, 3.jpeg by Renardo la vulpo, CC BY-SA 4.0
-- Linz, nordmazedonischer Bus auf dem Bahnhofplatz, 1.jpeg by Renardo la vulpo, CC BY-SA 4.0
-- US Navy 060408-N-4014G-111 The guided-missile submarine USS Florida (SSGN 728) departs Norfolk Naval Shipyard and en-route her new homeport of Naval Submarine Base King's Bay, Ga.jpg by U.S. Navy photo by Photographer's Mate Airman Apprentice Patrick Gearhiser, Public domain
-- US Navy 060331-N-1464F-009 The guided-missile submarine USS Florida (SSGN 728) arrives at Naval Station Norfolk to make a brief stop for passengers during sea trials off the coast of Virginia.jpg by U.S. Navy photo by Chief Journalist Dave Fliesen, Public domain
-- US Navy 060331-N-1464F-007 The guided-missile submarine USS Florida (SSGN 728) arrives at Naval Station Norfolk to make a brief stop for passengers during sea trials off the coast of Virginia.jpg by U.S. Navy photo by Chief Journalist Dave Fliesen, Public domain
-- Gasoline prices in Massachusetts in June 2022.jpg by Sdkb, CC BY-SA 4.0
-- McClendon Price House Austin Texas 2022.jpg by Larry D. Moore, CC BY 4.0
-- 2022-06-29 18 33 24 View east along Maryland State Route 405 (Price Station Road) at Cedar Lane in Price, Queen Anne's County, Maryland.jpg by Famartin, CC BY-SA 4.0
-- Bowlus BA-100 Baby Albatross - DPLA - 7726e481325cdabf9c55dd58690d04bd (page 3).jpg by William H. Bowlus, CC0
-- Bulls-Gap-Hist.-District.jpg by Steven C. Price, CC BY-SA 3.0
-- Bulls-Gap-Gilley-Hotel.jpg by Steven C. Price, CC BY-SA 3.0
-- Gas prices Sonoma, California April 7 2026.jpg by Sarah Stierch, CC0
-- RaceTrac gas prices Jefferson Hwy Louisiana 17 Sept 2026.jpg by Infrogmation, CC BY-SA 4.0
-- Mobilization Against Oil Price Hike March 27, 2026 7688 05.jpg by Kej Andrés (Ryomaandres), CC BY-SA 4.0
-- 1952 Ford Prefect (16116031190).jpg by Charlie from United Kingdom, CC BY 2.0
-- Berjualan Masker Kain dimasa Pandemi.jpg by Herusutimbul, CC BY-SA 4.0
-- Bertahan di Masa Pandemi.jpg by Herusutimbul, CC BY-SA 4.0
-- 1981 Porsche 924 GTR (7387089932).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
-- Wright Flyer EX Vin Fiz - Smithsonian Air and Space Museum - 2012-05-15 (7271321312).jpg by Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0
-- Curtiss JN-4D Jenny - DPLA - c36e23802b98aeb9f5231ca9dcf6c9f1 (page 13).jpg by Curtiss Aeroplane Company, Springfield Aircraft Corporation, CC0
-- A Young Woman at Her Toilet with a Maid MET LC-17 190 10-2.jpg by Gerard ter Borch, CC0
-- Nehru Trophy Boat Race 2012 7791.JPG by Manoj Karingamadathil, CC BY-SA 3.0
-- Ardnacrushna Power Station, from the Head Race Canal.jpg by The Banner, CC BY-SA 4.0
-- 2024 Hy-Vee Milwaukee Mile 250s 171 (first race--Will Power).jpg by Michael Barera, CC BY-SA 4.0
-- Cabins Inks Lake State Park 2024.jpg by Larry D. Moore, CC BY 4.0
-- Log Cabins Lexington Texas 2025.jpg by Larry D. Moore, CC BY 4.0
-- Log Cabins 5522.jpg by Chris Light, CC BY-SA 4.0
-- Science, Technology and Engineering.jpg by Geralt, CC0
-- Technology show in Kyoto 6.jpg by Syced, CC0
-- Technology show in Kyoto 5.jpg by Syced, CC0
-- Table-banquette by Annie Tribel 1968 - Design Museum Brussels Belgium.jpg by Photographer: Basile Morin
-Product designer: Annie Tribel, CC BY-SA 4.0
-- Paeonia Detail SK.jpg by Simon Koopmann, CC BY-SA 2.0 de
-- Palacio de Golestán, Teherán, Irán, 2016-09-17, DD 27-36 HDR PAN.jpg by Diego Delso, CC BY-SA 4.0
-- TargetMPG.jpg by Jimad, Public domain
-- Fuel Administration - POSTER USED BY FUEL Administration to encourage economy of fuel - NARA - 31482610.jpg by Unknown authorUnknown author or not provided, Public domain
-- Bell telephone magazine (1922) (14569346040).jpg by Internet Archive Book Images, Public domain
-- Golden Eagle (Aquila chrysaetos) (31814073408).jpg by GlacierNPS, Public domain
-- Golden Eagle (Aquila chrysaetos) (44961803514).jpg by GlacierNPS, Public domain
-- At Geneva 2024 010.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
-- At Geneva 2024 014.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
-- At Geneva 2024 339.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
-- Edmund Fitzgerald model Sault Museum.jpg by Fungus Guy, CC BY 4.0
-- Southwold, St. Edmund's Church, Model of the Alfred Corry lifeboat - geograph.org.uk - 6074155.jpg by Michael Garlick, CC BY-SA 2.0
-- Bury St Edmunds Abbey precincts (15) - geograph.org.uk - 6641113.jpg by Michael Dibb, CC BY-SA 2.0
-- Bucks vs Raptors (373505792).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
-- Bucks vs Raptors (373505591).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
-- Bucks vs Raptors (429721800).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
-- North Fork Owyhee Wild & Scenic River (35167684686).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
-- North Fork Owyhee Wild & Scenic River (34821853420).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
-- North Fork Owyhee Wild & Scenic River (34399486783).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
-- Future link and entrance to Market Lane, The Exchange TRX (2023-12-11).jpg by LegendaryLim, CC0
-- SBK Line TRX Platform 5.jpg by Slleong, CC0
-- BMW 323i (5745179838).jpg by FotoSleuth, CC BY 2.0
-- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Raptor (49522651482).jpg by crash71100, CC0
+- Ford F-150 Raptor (49522651487).jpg by crash71100, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- White 2010-14 Ford F-150 SVT Raptor on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- 2015 Dodge Challenger SRT Hellcat (21607516352).jpg by Sicnag, CC BY 2.0
+- 2016 Dodge Challenger Hellcat.jpg by hugh llewelyn, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat supercharged V8 engine (16133643100).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
+- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Shelby, Paris Motor Show 2018, Paris (1Y7A1544).jpg by Matti Blume, CC BY-SA 4.0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Ford F-150 Shelby Super Snake.jpg by Calreyn88, CC BY-SA 4.0
+- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
 - 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
+- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
 - Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
 - Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
-- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
-- RAM pickup - Russia.jpg by GennadyL, CC0
 - 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 1991 Ford F-150.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 (P552) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- Red Eighth Gen Ford F-150.jpg by Noah Wulf, CC BY-SA 4.0
+- NHP Ford F-150 at Las Vegas Motor Speedway - Aviation Nation 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- 2025 Ford F-150 Supertruck.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
 - '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
+- RAM pickup - Russia.jpg by GennadyL, CC0
 - A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 01.jpg by Retired electrician, CC0
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 02.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 (14716).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 Limited.jpg by Calreyn88, CC BY 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- RAM 1500 at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ford F-150 Raptor (52018126368).jpg by crash71100, CC0
+- Ford F-150 SVT Raptor 2012 (53169362716).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Raptor 2011 (26427673837).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Nevada State Fire Marshal Ram Truck On Eastern Ave.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof 7. US-Car-Treffen Ram 1500 (DT)-20230909-RM-170332.jpg by Ermell, CC BY-SA 4.0
 
 ## Sources
 

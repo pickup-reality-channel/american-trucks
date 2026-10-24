@@ -16,104 +16,6 @@
 - 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
 - 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
 - 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
-- TRX training equipment at the beach in Soma Bay, Egypt (51223270683).jpg by dronepicr, CC BY 2.0
-- PikiWiki Israel 85174 nahal tzin in the arava.jpg by זאב שטיין, CC BY 2.5
-- AhmedMestiri-EnricoMattei-1959.jpg by Official Press Photographer - Tunisian Ministry of Information, Public domain
-- AhmedMestiri-SousseInternationalTradeFair-1959.jpg by Official Press Photographer - Tunisian Ministry of Information, Public domain
-- AhmedMestiri-CevdetSunay-1967-1.jpg by Official Press Photographer - Tunisian Ministry of Information, Public domain
-- Food Exchange at TRX (2023-12-09).jpg by LegendaryLim, CC0
-- The Exchange TRX and tower (231211) 01.jpg by angys*, CC BY-SA 4.0
-- Park Avenue (Ground Level) of The Exchange TRX, Kuala Lumpur 20231209 092443.jpg by Wiki Farazi, CC0
-- Sony Playstation 2 SCPH-5001 V9 - Caixa Original (traseira) Original box (back side) (18857543853).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0
-- Xbox 360 FF XIII Special Ed. bundle price tag at Target, Tanforan.JPG by BrokenSphere, CC BY-SA 3.0
-- A Map of the British Empire in America with the French and Spanish Settlements adjacent thereto. by Henry Popple. (Sheet (IA dr a-map-of-the-british-empire-in-america-with-the-french-and-spanish-settleme-5810038).jpg by Popple, Henry
-Baron, B.
-Lempriere, C.
-Toms, W.H., Public domain
-- Depreciation Lands Museum.jpg by Nyttend, Public domain
-- Eastern screech owl rehabilitated after eye injury (44333).jpg by Rhododendrites, CC BY-SA 4.0
-- Visual impairment in animals 28.jpg by RamaGaspar, CC BY-SA 4.0
-- The Exchange TRX CNY 2024 decoration (240204) 01.jpg by *angys*, CC BY-SA 4.0
-- The Exchange TRX CNY 2024 decoration (240204) 04.jpg by *angys*, CC BY-SA 4.0
-- The Exchange TRX CNY 2024 decoration (240204) 05.jpg by *angys*, CC BY-SA 4.0
-- Contrôles chômeurs vs contrôles fiscaux (40924076422).jpg by Jeanne Menjoulet from Paris, France, CC BY 2.0
-- Skillshare on Institutional & Private Markets.jpg by unknown, CC BY-SA 4.0
-- Privater Werksteg über die Vièze, Monthey VS – Massongex VS 20241013-jag9889.jpg by Jag9889, CC BY-SA 4.0
-- Renault 5 Turbo (15858954662).jpg by Dennis Elzinga, CC BY 2.0
-- Image from page 11 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 5036.jpg by Internet Archive Book Images, CC0
-- TRAIN S USA CHESAPEAKE AND OHIO RAILROAD CLASS M-1 & PENNSYLVANIA RAILROAD V1 STEAM TURBINE LOCOMOTIVES - (LH PIC) ARTIST'S CONCEPT IN POPULAR MECHANICS JUNE 1945.jpg by ausdew, Public domain
-- Sydney, NSW - Australia (16652710445).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Three unrelated problems - one cost effective, ecofriendly solution 150815-A-Du199-004.jpg by right, Public domain
-- Earth Day - Rural Development (20110419-RD-LSC-0420).jpg by USDAgov, Public domain
-- REAP-Brubaker Farms - Cow Powered (20110419-RD-LSC-0250).jpg by USDAgov, Public domain
-- Premiazione WikiEHL - San Michele all'Adige 2017 07.jpg by Niccolò Caranti, CC BY-SA 4.0
-- 2022-10-02 Eisbären Berlin gegen Düsseldorfer EG (Deutsche Eishockey-Liga 2022-23) by Sandro Halank–093.jpg by Sandro Halank, Wikimedia Commons, CC BY-SA 4.0
-- Jeremy Chardy vs Kyle Edmund RG19.jpg by DarDarCH, CC BY-SA 4.0
-- Audi 100 Coupé S (Generation C1).jpg by Rolf Kranz, CC BY-SA 4.0
-- US Navy 090327-N-6357K-023 Military Construction Project 401 (MILCON P-401) Stakeholders break ground on the five year $139 million fuel facility replacement at Defense Fuel Support Point (DFSP) Loma at Naval Base Point Loma.jpg by U.S. Navy photo by Chief Mass Communication Specialist Yan M. Kennon, Public domain
-- Derelict Fuel Storage Tank at the Da Yang Oil Depot Recreation Park, Taiwan. 05-03-2026 (55241253074).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 4.0
-- Repairs and maintenance at height on matagarup bridge.jpg by JarrahTree, CC BY 2.5 au
-- Low-end EF3 damage to a home in Virginia Beach, Virginia.jpg by National Weather Service, Public domain
-- 0118Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance 12.jpg by Judgefloro, CC0
-- SZ 深圳 Shenzhen 福田 Futian 益田路 Yitian Road 福華三路 Fuhua 3rd Road name card intro Value-added tax professional services types of business December 2023 R12S.jpg by SHAUBUEOMENAI, CC0
-- Income-tax-491626 1920 (1).jpg by stevepb, CC0
-- Slave Tax Document New Orleans - 01.jpg by City Treasury, New Orleans, Public domain
-- Vetusta Monumenta Plate 1.50 Elegantissimum Pavimentu Tessellatum apud Wellow.jpg by James Vertue, artistGeorge Vertue (1684–1756), engraver, Public domain
-- 51st FSS Change of Command (9128557).jpg by U.S. Air Force photo by Senior Airman Rome Bowermaster, Public domain
-- 51st FSS Change of Command (9128555).jpg by U.S. Air Force photo by Senior Airman Rome Bowermaster, Public domain
-- 1995 BMW 525i Sport, UK (rear) (22286662269).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- 1995 BMW 525i Sport, UK (front) (22484472771).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- BMW 323i (5745179838).jpg by FotoSleuth, CC BY 2.0
-- Pirelli Tyre Sets at Formula 1 Exhibition, London 03.jpg by Hullian111, CC BY-SA 4.0
-- Pirelli Tyre Sets at Formula 1 Exhibition, London 04.jpg by Hullian111, CC BY-SA 4.0
-- Pirelli Tyre Sets at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0
-- Schönbrunner Straße 297 Grünbergstraße, Meidling.jpg by Herzi Pinki, CC BY-SA 3.0
-- "Likha" (Exhibit) 03.jpg by Zarate123, CC BY-SA 4.0
-- "Likha" (Exhibit) 35.jpg by Zarate123, CC BY-SA 4.0
-- Tyre Cistern inscription.jpg by Clermont-Ganneau, Public domain
-- Pericles Prince of Tyre Lithograph.jpg by Unknown authorUnknown author, Public domain
-- Dunlop Pneumatic Tyre Company 1912.JPG by Unbekannte Autoren und Grafiker; Scan vom EDHAC e.V., Public domain
-- Sheet of nominal shares of the Bucharest Tramway Comunal Society (Societatea Comunală a Tramvaielor București) (06).jpg by Unknown authorUnknown author, Public domain
-- Sheet of nominal shares of the Bucharest Tramway Comunal Society (Societatea Comunală a Tramvaielor București) (02).jpg by Unknown authorUnknown author, Public domain
-- Sheet of nominal shares of the Bucharest Tramway Comunal Society (Societatea Comunală a Tramvaielor București) (04).jpg by Unknown authorUnknown author, Public domain
-- MPG-ESO 2 2-metre telescope (img-8585-cc).jpg by H. Stockebrand/ESO, CC BY 4.0
-- MPG-ESO 2 2-metre telescope (jfs-ls-2011 8218).jpg by ESO/José Francisco Salgado (josefrancisco.org), CC BY 4.0
-- MPG-ESO 2 2-metre telescope with open dome (jfs-ls-2011 9103).jpg by ESO/José Francisco Salgado (josefrancisco.org), CC BY 4.0
-- Mercedes-Benz G63 AMG V8 BITURBO SUV (50703492437).jpg by silver-novice ~ ne res adversae impediant from Birkenhead, ENGLAND, CC BY 2.0
-- Fuel Price Sign At A Filling Station.jpg by Collins Musonda, CC BY-SA 4.0
-- Health care tax.jpg by PMATAS, CC BY-SA 4.0
-- Congestion fee Stockholm-new.jpg by Photo taken by User:(WT-shared) Ypsilonatshared, Public domain
-- Congestion fee Stockholm.JPG by User: (WT-shared) Ypsilonatshared at  wts wikivoyage, Public domain
-- Tesla Model 3 charging on destination charger in Ceduna, South Australia.jpg by Chuq, CC BY-SA 4.0
-- Two Tesla Model 3s charging on destination chargers in Ceduna, South Australia.jpg by Chuq, CC BY-SA 4.0
-- Charging Stations.jpg by pasa47, CC BY 2.0
-- Client whose property has been optioned by the government - DPLA - dba6f46871bcb695f5bfa67d181de530.jpg by Jung, Theodor, Public domain
-- Trgatev v Jeruzalemu 1961 (9).jpg by Jože Gal, Public domain
-- Healthy Options - geograph.org.uk - 5439905.jpg by Anthony O'Neil, CC BY-SA 2.0
-- This is the house for cash built!! (BM 1868,0808.10349).jpg by Print made by: Isaac Cruikshank
-
-Published by: S W Fores, Public domain
-- Swiss trolley car - DPLA - 0fa72981105dc79515457cc24749b7c2.jpg by Edmund F. Arras, Public domain
-- Swiss trolley car - DPLA - 4edd1bd1e9555dbed2f8bcab2de5d7df.jpg by Edmund F. Arras, Public domain
-- Volkswagen Golf VIII R 333 Limited Edition IMG 9486.jpg by Alexander-93, CC BY-SA 4.0
-- Volkswagen Golf VIII R 333 Limited Edition IMG 9480.jpg by Alexander-93, CC BY-SA 4.0
-- Postage stamps presentation booklet for limited edition government gift use of Iran, official visit of the Chairman of the Presidium of the Supreme Soviet of the USSR Leonid Brezhnev in Iran, november 1963.jpg by scanned by User:Nickpo, Public domain
-- 'Total Recall'.JPG by Renee C. Fraser, CC BY-SA 4.0
-- Iris Total Recall 0zz.jpg by Photo by David J. Stang, CC BY-SA 4.0
-- SDCC 2011 - Total Recall - Flying Federal Police Car (5973574202).jpg by William Tung from USA, CC BY-SA 2.0
-- New Year address by President of Ukraine Volodymyr Zelenskyy (31-12-2023).jpg by President.gov.ua, CC0
-- The Arcadian, Birmingham - Chinese New Year (5401432392).jpg by Elliott Brown from Birmingham, United Kingdom, CC BY 2.0
-- The Arcadian, Birmingham - Chinese New Year (5400825063).jpg by Elliott Brown from Birmingham, United Kingdom, CC BY 2.0
-- 360-degree Panorama of the Southern Sky.jpg by ESO/H.H. Heyer, CC BY 4.0
-- The Day the Earth Smiled - PIA17172.jpg by NASA/JPL-Caltech/SSI, Public domain
-- To the Rats and Wolves - Bochum Total - 160715LEOKR048407050000.jpg by leokreissig.de for Wikimedia Commons, CC BY-SA 4.0
-- Winterslow Range, Canterbury, New Zealand.jpg by Michal Klajban, CC BY-SA 4.0
-- Sunrise over Benmore Range, New Zealand.jpg by Michal Klajban, CC BY-SA 4.0
-- Road Padum Zanskar Range Jun24 A7CR 00818.jpg by This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
-
-
-
-Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0
 - Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
 - Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
 - Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
@@ -122,7 +24,52 @@ Please do not upload an edited image here without consulting me.  I would like t
 - Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
 - '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
 - RAM pickup - Russia.jpg by GennadyL, CC0
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
+- Ford F-150 Raptor 3.5T 2018 (45840639514).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
 - A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 02.jpg by Retired electrician, CC0
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 01.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 (14716).jpg by Calreyn88, CC BY-SA 4.0
+- Moscow, Ram 1500 darkgrey, Aug 2026 04.jpg by Retired electrician, CC0
+- Moscow, Ram 1500 darkgrey, Aug 2026 05.jpg by Retired electrician, CC0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 Limited.jpg by Calreyn88, CC BY 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- RAM 1500 at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Leimershof 7. US-Car-Treffen Ram 1500 (DT)-20230909-RM-170332.jpg by Ermell, CC BY-SA 4.0
+- Nevada State Fire Marshal Ram Truck On Eastern Ave.jpg by Noah Wulf, CC BY-SA 3.0
+- BAS 24, Brussels (P1170526).jpg by Matti Blume, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford Ranger Raptor (48795013888).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- Ford F-150 Raptor (49522651487).jpg by crash71100, CC0
+- Ford F-150 Raptor (49522651482).jpg by crash71100, CC0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- Ford Ranger Raptor (2022) (52571404923).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford 2015 Raptor (15920426545).jpg by Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0
+- Ford Ranger Raptor 2020 (54396967632).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
 
 ## Sources
 

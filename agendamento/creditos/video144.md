@@ -4,134 +4,18 @@
 - Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
 - Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
 - Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
-- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
 - Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
 - Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
 - Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
 - 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
 - Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
 - 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
 - Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
-- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
 - 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
 - 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
 - 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
-- Mercedes-AMG S 65 Final Edition, Techno-Classica 2025, Essen (P1046061).jpg by Matti Blume, CC BY-SA 4.0
-- Toyota FJ Cruiser Final Edition Bahrain Rear.jpg by Mohammed Hamad, CC BY-SA 4.0
-- Toyota FJ Cruiser Final Edition Bahrain Front.jpg by Mohammed Hamad, CC BY-SA 4.0
-- Bury St Edmunds, The traverse - geograph.org.uk - 7398691.jpg by Michael Garlick, CC BY-SA 2.0
-- Bury St Edmunds - Angel Hill - geograph.org.uk - 6705006.jpg by Colin Smith, CC BY-SA 2.0
-- Bury St Edmunds, Angel Hill - geograph.org.uk - 7398964.jpg by Michael Garlick, CC BY-SA 2.0
-- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
-- 2019 Ram 1500 Hemi 5.7l.jpg by Calreyn88, CC BY-SA 4.0
-- Keikyu 1119 Hemi 19840608.jpg by Hahifuheho, CC0
-- Preliminary Edition of Works from the Dreamless Garden WDL4698.jpg by Chen, Renxi, 1581-1636, Public domain
-- Alpine A110 Premiere Edition.jpg by Rolf Kranz, CC BY-SA 4.0
-- Deutsche Uniformen (Ruhl) Tafel 21 Uniform und Dienstgradabzeichen des RLB Reichsluftschutzbund 22 der Politischen leiter der NSDAP 15 Edition Nazi Germany ca 1939 Booklet Insignia etc abebooks.com 30747846655 3 No known copyright.jpg by Author uncredited (name of illustrator/designer not provided). Descriptive chart illustrations of uniform details by unknown artist from a publication issued by a defunct company in the 1930s. No known copyright restrictions., CC BY-SA 4.0
-- Solvay conference 1927 Version2.jpg by Benjamin Couprie, Public domain
-- Solvay conference 1927.jpg by Benjamin Couprie, Public domain
-- Saami Family 1900.jpg by Unknown authorUnknown author, Public domain
-- Tim Kuniskis - Alfa Romeo Genf 2019 1Y7A5330.jpg by Alexander Migl, CC BY-SA 4.0
-- Falkowski, Janina - Poland - DPLA - 9ca5af697775e449bd9ffc27ea6e183d.jpg by U.S. District Court for the Eastern (Cleveland) Division of the Northern District of Ohio. 6/8/1878, Public domain
-- Efficiency Beurs 1972 in de RAI, kantoorcomputer van IBM, Bestanddeelnr 925-9538.jpg by Rob Mieremet / Anefo, CC0
-- Efficiency-congres in Indisch Instituut in Amsterdam. Toespraak mr. B.A. van Sch, Bestanddeelnr 902-4763.jpg by Harry Sagers / Anefo, CC0
-- Efficiency-congres in Indisch Instituut in Amsterdam, Bestanddeelnr 902-4761.jpg by Harry Sagers / Anefo, CC0
-- One of our teachers during the Reading Wikipedia in the classroom training.jpg by Zilzy, CC BY-SA 4.0
-- Executive director for Yoruba World Centre reading our MOU.jpg by Agbalagba, CC BY-SA 4.0
-- Woman reading in the Jardin botanique de Montréal.jpg by Wilfredor, CC0
-- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
-- 1982 Nissan 910 Bluebird Sedan Race Car (22770786830).jpg by Sicnag, CC BY 2.0
-- 1995 BMW 525i Sport, UK (rear) (22286662269).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Long Exposure at SpaceX LC-40 (19256701982).jpg by Michael Seeley from Melbourne, FL, United States, CC BY 2.0
-- GLOVER FULLING MILL, CAMDEN COUNTY.jpg by Jerrye & Roy Klotz, MD, CC BY-SA 3.0
-- Austin A55 Van (6973343299).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
-- Lancer Evo X Final Edition front.jpg by ChromeGames923, CC BY-SA 4.0
-- Lancer Evo X Final Edition right.jpg by ChromeGames923, CC BY-SA 4.0
-- Toyota FJ Cruiser Final Edition Bahrain Front 2.jpg by Mohammed Hamad, CC BY-SA 4.0
-- ADC TRX-2 TRX-1 cartridge on Micro Seiki DD-33 Turntable (5221040895).jpg by Piano Piano!, CC BY 2.0
-- 1995 BMW 525i Sport, UK (front) (22484472771).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Tabellone EC305 Zue-RFM Bellinzona 140615.jpg by NAC, CC BY-SA 4.0
-- Jeep M170 Ambulance er.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain
-- RH^DR Engine No. 8 "Hurricane" - geograph.org.uk - 2291853.jpg by Helmut Zozmann, CC BY-SA 2.0
-- The Hawker Hurricane Engine - geograph.org.uk - 7827982.jpg by Billy McCrorie, CC BY-SA 2.0
-- Fabio Borini v Arsenal 2014.jpg by John Jones from Rhos on Sea, (Colwyn Bay)., Wales, CC BY-SA 2.0
-- Jordan Henderson 20141221.jpg by John Jones from Rhos on Sea, (Colwyn Bay)., Wales, CC BY-SA 2.0
-- Adam Lallana v Arsenal 2014.jpg by John Jones from Rhos on Sea, (Colwyn Bay)., Wales, CC BY-SA 2.0
-- Monument to Sir Richard Green Price, Rhos-y-Meirch - geograph.org.uk - 7428875.jpg by Peter Evans, CC BY-SA 2.0
-- Ram 1500 RHO Crew Cab 4x4 (2026) (55213412319).jpg by Charles from Port Chester, New York, CC0
-- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, rear right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
-- 2026 Ram 1500 RHO in Diamond Black Crystal Pearl, front right, 2026-05-03.jpg by Elise240SX, CC BY-SA 4.0
-- British Airways Boeing 747-400.jpg by James Pryce (ClubClass), CC BY-SA 4.0
-- Riiulpilv - Shelf cloud (2) copy.jpg by Kristian Pikner, CC BY-SA 4.0
-- Antarctic Ice Shelf Loss Comes From Underneath (9036164848).jpg by NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain
-- .00 1128 Schelfeiskannte in der Antarktis.jpg by W. Bulach, CC BY-SA 4.0
-- Return of the Wild Horses 2011 4.jpg by Jana Ptačinská Jirátová, CC BY-SA 4.0
-- Lil' Kim - Return Of The Queen Tour Bus.jpg by Taylor Dahlin, CC BY 2.0
-- Return of the Wild Horses 2011 1.jpg by Miroslav Bobek, CC BY-SA 4.0
-- Thames Teaser - geograph.org.uk - 5424831.jpg by Peter Trimming, CC BY-SA 2.0
-- Teen Jesus and the Jean Teasers, performing at The Cube, Wodonga, October 2023.jpg by B 897, CC BY-SA 4.0
-- Border 2 Teaser Launch Day.jpg by Iamvansh27, CC0
-- Gender-reveal-cake.jpg by Mack Male, CC BY-SA 2.0
-- Washington Commanders Reveal Julie Donaldson (51858955078).jpg by All-Pro Reels from District of Columbia, USA, CC BY-SA 2.0
-- Washington Commanders Reveal Darren Haynes & Doug Williams.jpg by All-Pro Reels from District of Columbia, USA, CC BY-SA 2.0
-- Baumholder Castle Warrior Restaurant shift leader receives safety award (8353585).jpg by U.S. Army 405TH-AFSB by Cameron Porter, Public domain
-- Secretary Davey, Springfield, Mode Shift Announcement, October 9, 2012 (8070997564).jpg by MassDOT, Public domain
-- Blue Grass Chemical Agent-Destruction Pilot Plant Government Shift Representative (51247841979).jpg by PEO ACWA, CC BY 2.0
-- Schaufensterradio, Vorprogramm der Skulptur Projekte 2027.jpg by Hano, CC BY 4.0
-- Flo dans Juvsøyla à Rjukan, Norvège-rotated.jpg by Original version: Valentin Chapuis
-Derivative version: Subsidiary account (image rotated 90 degrees CCW), CC BY-SA 3.0
-- Recife, the Brazilian capital of social inequality.jpg by Wilfredor, CC0
-- July 4th fireworks, Washington, D.C. (LOC).jpg by Carol M. Highsmith, Public domain
-- George Washington CO Call (9914760).jpg by U.S. Navy USNF-5F by NAVCENT Public Affairs, Public domain
-- Pink Jew-Ish Deli - Call Your Mother 02.jpg by Amaury Laporte, CC BY 2.0
-- 1912 Opening ceremony - Canada.JPG by photographer of IOC, Public domain
-- Assembly-station-opening 5541023030 o.jpg by Eric Haynes for the Office of the Governor of Massachusetts, Public domain
-- Opening Ceremony of a railway bridge in Taichu City.jpg by 提供者：鍾金水, Public domain
-- The romance of the ship; the story of her origin and evolution (1911) (14756061516).jpg by Chatterton, E. Keble (Edward Keble), 1878-1944, Public domain
-- The romance of the ship; the story of her origin and evolution (1911) (14592440909).jpg by Chatterton, E. Keble (Edward Keble), 1878-1944, Public domain
-- The power of the peanut (7610349684).jpg by DFID - UK Department for International Development, CC BY-SA 2.0
-- Recueil d'actes de Louis XII, François Ier, Henri II, dauphin, etc. Copies dépourvues le plus souvent des noms et des dates donnés par les originaux, ce recueil ayant été formé par un secrétaire du... - btv1b90604982 (055 of 236).jpg by Savoie, Louise de (1476-1531). Auteur de lettres
-
-Louis XII (1462-1515 ; roi de France). Auteur de lettres, Public domain
-- Recueil d'actes de Louis XII, François Ier, Henri II, dauphin, etc. Copies dépourvues le plus souvent des noms et des dates donnés par les originaux, ce recueil ayant été formé par un secrétaire du... - btv1b90604982 (153 of 236).jpg by Savoie, Louise de (1476-1531). Auteur de lettres
-
-Louis XII (1462-1515 ; roi de France). Auteur de lettres, Public domain
-- Recueil d'actes de Louis XII, François Ier, Henri II, dauphin, etc. Copies dépourvues le plus souvent des noms et des dates donnés par les originaux, ce recueil ayant été formé par un secrétaire du... - btv1b90604982 (163 of 236).jpg by Savoie, Louise de (1476-1531). Auteur de lettres
-
-Louis XII (1462-1515 ; roi de France). Auteur de lettres, Public domain
-- Hyundai i10 N Line (48814816416).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
-- Hyundai i10 (48813787728).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
-- Hyundai i10 N Line (48814460828).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
-- Discipline à la Kenyon by James Gillray.jpg by James Gillray, Public domain
-- Discipline coat-of-arms, Pakenham.jpg by WestminsterWatch, CC BY-SA 3.0
-- Discipline a la Kenyon. (BM 1868,0808.6611).jpg by Print made by: James Gillray
-
-Published by: Hannah Humphrey, Public domain
-- What The Pitta, Brighton 2023-06-29.jpg by Andy Li, CC0
-- Döner Kebab Wrap - What The Pitta.jpg by Andy Li, CC0
-- Döner Chipbox - What The Pitta 2023-10-01.jpg by Andy Li, CC0
-- Odenthal Kochshof 01 trx.jpg by Taraxacumo, CC BY-SA 4.0
-- Odenthal Kochshof 02 trx.jpg by Taraxacumo, CC BY-SA 4.0
-- 1969 Dodge Charger Hellephant (53580669402).jpg by Mustang Joe, CC0
-- Timeline of Breg journey.jpg by Kirill Korneev, CC BY 4.0
-- Extensive Ice Fractures in the Beaufort Sea (GSFC 20171208 Archive e001525).jpg by NASA Goddard Space Flight Center, Public domain
-- Junkers Ju-87C Casar with folding system for aircraft carrier duties. (47923978102).jpg by tormentor4555, PDM-owner
-- Austin Healey 100 (47999693487) (cropped).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
-- Sporvejshistorisk Selskab 50 years - Model of overhead lines service vehicle.JPG by Leif Jørgensen, CC BY-SA 4.0
-- (Venice) Model for the monument to Titian by Canova Cat.S188 - Gallerie Accademia.jpg by Didier Descouens, Public domain
-- 17 Years of Sekar Jepun 2014-11-01 72.jpg by Crisco 1492, CC BY-SA 4.0
-- The International Glamour Project Season One Winners.jpg by Khadoosbaby, CC0
-- Open wing basking position of Gynandromorph of Athyma inara Westwood, 1850 - Colour Sergeant butterfly MG 0820 WLB.jpg by Sourabh.biswas003, CC BY-SA 4.0
-- Production Sports race start 2015 Bathurst Motor Festival.JPG by Kytabu, CC BY-SA 4.0
-- 18 Ram 1500 Sport.jpg by HJUdall, CC0
-- 2014 Ram 1500 interior.jpg by Deathpallie325, CC BY 4.0
-- Moscow, Ram 1500 black, Apr 2026 01.jpg by Retired electrician, CC0
-- Brug 721, leuning.jpg by Ceescamel, CC BY-SA 4.0
-- Brug 721, overzicht.jpg by Ceescamel, CC BY-SA 4.0
-- Brug 721, overspanning.jpg by Ceescamel, CC BY-SA 4.0
-- Summer night at Lyngspollen, Lyngen fjord, Troms, Norway, 2012 June.jpg by Ximonic (Simo Räsänen), CC BY-SA 3.0
-- At Lyngen fjord, Spåkenes in 2012 June.jpg by Ximonic (Simo Räsänen), CC BY-SA 3.0
-- Waxing half moon over Brofjorden 1.jpg by W.carter, CC0
 - Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
 - Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
 - Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
@@ -140,7 +24,43 @@ Published by: Hannah Humphrey, Public domain
 - Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
 - '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
 - RAM pickup - Russia.jpg by GennadyL, CC0
+- 2015 Dodge Challenger SRT Hellcat (21607516352).jpg by Sicnag, CC BY 2.0
+- 2016 Dodge Challenger Hellcat.jpg by hugh llewelyn, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat supercharged V8 engine (16133643100).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- BAS 24, Brussels (P1170526).jpg by Matti Blume, CC BY-SA 4.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
 - Moscow, Ram truck in grey-blue patterns, Apr 2026 02.jpg by Retired electrician, CC0
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 01.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 (14716).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 Limited.jpg by Calreyn88, CC BY 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- RAM 1500 at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2015 Dodge Charger SRT Hellcat (16443746199).jpg by artistmac, CC BY-SA 2.0
+- Dodge Challenger SRT8 (2015) Hirschaid-20220709-RM-120221.jpg by Ermell, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat 2015-20180909-RM-171853.jpg by Ermell, CC BY-SA 4.0
+- Nevada State Fire Marshal Ram Truck On Eastern Ave.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof 7. US-Car-Treffen Ram 1500 (DT)-20230909-RM-170332.jpg by Ermell, CC BY-SA 4.0
+- Moscow, Ram 1500 darkgrey, Aug 2026 04.jpg by Retired electrician, CC0
+- Moscow, Ram 1500 darkgrey, Aug 2026 05.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
 
 ## Sources
 

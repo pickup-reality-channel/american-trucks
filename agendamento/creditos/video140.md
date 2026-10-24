@@ -1,0 +1,117 @@
+# Photo credits: The Insane Story Behind the Hypercar Holy Trinity
+
+- Porsche 918 Spyder IAA 2013.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder concept 1X7A6623.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder 4.6.jpg by Chelsea Jay, CC BY-SA 4.0
+- Porsche 918 Spyder in the Porsche-Museum (2009) 1X7A0382.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 Spyder IAA 2013 (Zuschnitt).jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht links.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht rechts.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder Illinois.jpg by UltraTech66, CC BY-SA 4.0
+- Ferrari LaFerrari GIMS 2024 1X7A2272.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at the Ferrari museum.jpg by Matyáš Solařík, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 12.jpg by Ank Kumar, CC BY-SA 4.0
+- 2014 McLaren P1 3.8.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren P1 - Mondial de l'Automobile de Paris 2012 - 005.jpg by Thesupermat, CC BY-SA 3.0
+- McLaren P1 GTR of Mike Whiddett at the 2026 Adelaide Motorsport Festival (DSCF2539).jpg by Yu Chu Chin, CC BY-SA 4.0
+- 2013 McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- 2016 McLaren P1 LC.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder Rear Quarter LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder in Mexico Blue HCC 25 rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder, rear right, 06-08-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Porsche 918 Spyder Lenkrad Touchpad.JPG by Thilo Parg, CC BY-SA 3.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Rear LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 HDK LM25 rear LC25.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 McLaren P1 HDK Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 15.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 17.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 19.jpg by Ank Kumar, CC BY-SA 4.0
+- LaFerrari front.jpg by Yanko Malinov, CC BY-SA 4.0
+- Ferrari Laferrari Aperta black.jpg by Calreyn88, CC BY 4.0
+- 2017 Ferrari Laferrari Aperta 1.jpg by Calreyn88, CC BY 4.0
+- 2015 Track Silver McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder, rear left, 06-08-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Porsche 918 Spyder rear.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 Spyder (2015) (53627342815).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 18.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Purple Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Geneva MotorShow 2013 - McLaren P1 Rear.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Osaka Auto Messe 2016 (400) - McLaren P1 exhibited by S&COMPANY.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari Laferrari plate vc77.jpg by Calreyn88, CC BY 4.0
+- LaFerrari in Beverly Hills (14563979888).jpg by Axion23, CC BY 2.0
+- Ferrari LaFerrari (56105).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 McLaren P1 Track Silver.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 Purple MSO.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 17.jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (4411672670).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 Spyder - Flickr - David Villarreal Fernández (1).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 (7501983514).jpg by Ben from LONDON, United Kingdom, CC BY-SA 2.0
+- 2022 McLaren P1 Spider.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Track Silver McLaren P1 Low.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 McLaren P1 (Volcano Orange, rear left), leaving Greenwich 2018.jpg by Mr.choppers, CC BY-SA 3.0
+- McLaren P1 (2015) (52452418453).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren P1 (2014) (55218000086).jpg by Charles from Port Chester, New York, CC0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 14.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari Aperta (31698).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari (96075).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari (47866).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 McLaren P1 Track Silver Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 XP05.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 16.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Aperta.jpg by Cédric Fan de Peugeot, CC BY-SA 4.0
+- LaFerrari Budapest.jpg by Loco Steve, CC BY-SA 2.0
+- 2016 McLaren P1 LC Zoom.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 McLaren P1 HDK.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 18.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari - Rétromobile 2022.jpg by Y.Leclercq©, CC BY-SA 4.0
+- Ferrari Laferrari Aperta jm 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari Aperta barrage Saint-Malo (34114409332)-cropped.jpg by Rundvald, CC BY-SA 4.0
+- 2014 Laferrari 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari & F50 (Hockenheimer).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 2014 McLaren P1 HDK Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 HDK HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 XP05 Low.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 16.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- 2013 McLaren P1 MSO LC24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 Red Illinois.jpg by UltraTech66, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Purple LC23.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- 2014 McLaren P1 HDK Side.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 (2014) (55217104117).jpg by Charles from Port Chester, New York, CC0
+- McLaren P1 (2015) (52451897506).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren P1 (2015) (52452345080).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0140-2).jpg by Matti Blume, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Wikipedia, LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most
+- Top Gear Magazine India, History of the Holy Trinity of cars: https://www.topgearmag.in/features/blogs/history-of-the-holy-trinity-of-cars
+- Carwow, The holy trinity: McLaren P1 vs Porsche 918 Spyder vs Ferrari LaFerrari: https://www.carwow.co.uk/editorial/youtube-and-videos/drag-races/holy-trinity-drag-race-mclaren-p1-vs-ferrari-laferrari-vs-porsche-918-spyder
+- The Grand Tour Wiki (community-maintained), The Holy Trinity: https://thegrandtour.fandom.com/wiki/The_Holy_Trinity
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Sotheby's, The seven most expensive Ferrari LaFerraris: https://www.sothebys.com/en/articles/the-seven-most-expensive-ferrari-laferraris

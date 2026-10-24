@@ -1,0 +1,121 @@
+# Photo credits: Aston Martin DB5 vs DB12: The Difference Nobody Explains
+
+- Aston Martin DB12 1X7A1921.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1934.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 Volante IMG 9319.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 Volante IMG 9314.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1922.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1927.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1925.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1928.jpg by Alexander-93, CC BY-SA 4.0
+- Aston MArtin DB12, Auto 2025, Zurich (20251029-P1073709).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB12 Volante DSC 7248.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante DSC 7249.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante DSC 7250.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante DSC 7251.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante IMG 9321.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 Volante IMG 9323.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB12 Volante Retro Classics 2025 DSC 7534.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante MYLE Festival 2025 DSC 9440.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB12 Volante Classic-Gala 2025 DSC 0924.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Aston Martin DB12.jpg by MrWalkr, CC BY-SA 4.0
+- 2025 Aston Martin DB12 Volante.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Aston Martin DB12 V12 Auto 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Aston Martin DB12 (69902).jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Aston Martin DB12 Volante 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Aston Martin DB12 V12 Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Aston Martin DB12 (82705).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Aston Martin DB12 (54923).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Aston Martin DB12 Left.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin DB12 Volante at Osaka mobility show 2023.jpg by Aos.1905, CC BY-SA 4.0
+- 2023 Aston Martin DB12 Auto.jpg by Calreyn88, CC0
+- 2014 Aston Martin DB10 4.7.jpg by Vauxford, CC BY-SA 4.0
+- 2019 Aston Martin Vantage V8 Automatic 4.0 (1).jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin DB10 2015.jpg by DeFacto, CC BY-SA 4.0
+- Aston Martin Lagonda, GIMS 2018, Le Grand-Saconnex (1X7A1616).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Aston Martin Valkyrie AMR Pro 6.5 Front.jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin Lagonda, GIMS 2018, Le Grand-Saconnex (1X7A1619).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DBX707 1X7A0360.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DBR4, Bj. 1959 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Aston Martin DB10 2015 - rear.jpg by DeFacto, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1046.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB5 (Skyfall).jpg by DeFacto, CC BY-SA 4.0
+- Aston Martin, Techno-Classica 2018, Essen (IMG 9411).jpg by Matti Blume, CC BY-SA 4.0
+- Nottingham Autokarna MMB 22 Aston Martin DB5.jpg by mattbuck (category), CC BY-SA 3.0
+- 2019 Aston Martin DBS Superleggera Volante 5.2.jpg by Vauxford, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1111.jpg by Alexander Migl, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1111 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB5 Volante 4.jpg by Calreyn88, CC BY-SA 4.0
+- Aston Martin DB5 Volante.jpg by Calreyn88, CC BY-SA 4.0
+- Aston-Martin DB5 Volante (1965) (18587027990).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Aston-Martin DB5 Volante (1965) (18777079521).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Aston-Martin DB5 Volante (1965) (18586802268).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Aston Martin DB5 Volante (1965) (52856609756).jpg by Charles from Port Chester, New York, CC BY 2.0
+- DB5 Shooting Brake, TC 24, Essen (TCE42850).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB5, James Bond 01.jpg by Ank kumar, CC BY-SA 4.0
+- Aston Martin DB5, James Bond 04.jpg by Ank kumar, CC BY-SA 4.0
+- Aston Martin, Techno-Classica 2018, Essen (IMG 9788).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin V8 Vantage Roadster IMG 8846.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Valkyrie, BAS 24, Brussels (P1170224-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DBS Superleggera Volante IMG 4413.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin Vantage (2024) IMG 0015.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB7 Vantage Volante, Auto 2025, Zurich (20251029-P1073723).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB9 coupe 04.jpg by Maksim Sidorov, CC BY 3.0
+- Aston Martin Vantage (2024) IMG 0002.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Valkyrie, EMS 2023, Essen (P1160761-RR).jpg by MB-one, CC BY-SA 4.0
+- Aston Martin Vantage, Paris Motor Show 2018, Paris (1Y7A1615).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB 4, Bj. 1960, linkes Hinterrad(2008-06-28).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Aston Martin V8 Vantage, GIMS 2018, Le Grand-Saconnex (1X7A1588).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB5 Volante (1965) (52857047713).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1965 Aston Martin DB5 Volante.jpg by Calreyn88, CC BY-SA 4.0
+- 1967 Aston Martin DB6.jpg by Sicnag, CC BY 2.0
+- 1969 Aston Martin DB6 (16081634323).jpg by Sicnag, CC BY 2.0
+- 1967 Aston Martin DB6 (15717722523).jpg by Sicnag, CC BY 2.0
+- 1968 Aston Martin DB6 Coupe (26149600390).jpg by Sicnag, CC BY 2.0
+- Aston Martin Lagonda Corridor.jpg by Vauxford, CC BY-SA 4.0
+- 2003 Aston Martin AMV8 Concept Heritage Motor Centre, Gaydon (1).jpg by Mark Brown from Hampton, New Brunswick, Canada, CC BY-SA 2.0
+- 1952 Aston Martin DB2 Heritage Motor Centre, Gaydon (1).jpg by Mark Brown from Hampton, New Brunswick, Canada, CC BY-SA 2.0
+- Aston Martin DB5, James Bond 06.jpg by Ank kumar, CC BY-SA 4.0
+- Aston Martin DB5, James Bond 07.jpg by Ank kumar, CC BY-SA 4.0
+- Aston Martin DB5, James Bond 08.jpg by Ank kumar, CC BY-SA 4.0
+- Aston Martin DB5, James Bond 05.jpg by Ank kumar, CC BY-SA 4.0
+- 1964 Aston Martin DB5 James Bond Stunt Car.jpg by MrWalkr, CC BY-SA 4.0
+- 1963 Aston Martin DB5 (James Bond) rear.jpg by DestinationFearFan, CC BY-SA 4.0
+- 1968 Aston Martin DB6 (8414927284).jpg by Sicnag, CC BY 2.0
+- 1964 Aston Martin DB5 4.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- 1964 Aston Martin DB5 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1963 Aston Martin DB5 (James Bond) front.jpg by DestinationFearFan, CC BY-SA 4.0
+- James Bond Aston Martin DB5 (52712269187).jpg by Michael Gaylard from Horsham, UK, CC BY 2.0
+- James Bond Aston Martin DB5 (52713268268).jpg by Michael Gaylard from Horsham, UK, CC BY 2.0
+- Newport Pagnell , Newport Pagnell Town FC - geograph.org.uk - 5979888.jpg by Lewis Clarke, CC BY-SA 2.0
+- The centre of Newport Pagnell - geograph.org.uk - 5402241.jpg by David Howard, CC BY-SA 2.0
+- Newport Pagnell services - geograph.org.uk - 3998892.jpg by Christopher Hall, CC BY-SA 2.0
+- Aston Martin DB11 AMR, GIMS 2019, Le Grand-Saconnex (GIMS1139).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB11 AMR 1X7A0202.jpg by Alexander Migl, CC BY-SA 4.0
+- Brabus, GIMS 2018, Le Grand-Saconnex (1X7A1155).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB5 engine.jpg by Herranderssvensson, CC BY-SA 3.0
+- Aston Martin DB5 registered November 1965 engine size recorded as 4200cc.JPG by Charles01, CC BY-SA 3.0
+- Aston-Martin-DB5-Superleggera-Convertible-1963-1965-version-export-35exemplaires-volant-gauche-ArG-byRundvald.jpg by Rundvald, CC BY-SA 4.0
+- 1964 Aston Martin DB5 James Bond photo5.JPG by Alf van Beem, Public domain
+- 1964 Aston Martin DB5 James Bond photo3.JPG by Alf van Beem, Public domain
+- Aston Martin DB5 James Bond photo1.JPG by AlfvanBeem, CC0
+- 1964 Aston Martin DB5 (14326536924).jpg by Sicnag, CC BY 2.0
+- 1964 Aston Martin DB5.jpg by Sicnag, CC BY 2.0
+- Aston Martin DB5 Coupé (1964) (52856996245).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Aston Martin DB5 James Bond hotop2.JPG by AlfvanBeem, CC0
+- 1964 Aston Martin DB5 James Bond.jpg by Rutger van der Maar, CC BY 2.0
+- 1963 Aston Martin DB5 (16643031603).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+
+## Sources
+
+- Wikipedia, Aston Martin DB5: https://en.wikipedia.org/wiki/Aston_Martin_DB5
+- Wikipedia, Aston Martin DB12: https://en.wikipedia.org/wiki/Aston_Martin_DB12
+- Kelley Blue Book, 2025 Aston Martin DB12: https://www.kbb.com/aston-martin/db12/2025/
+- Hagerty valuation tools, 1965 Aston Martin DB5 (Apr 2025): https://hagerty.com/apps/valuationtools/1965-aston_martin-db5
+- RM Sotheby's London 2022, lot 146, 1964 Aston Martin DB5: https://rmsothebys.com/auctions/lf22/lots/r0016-1964-aston-martin-db5/
+- Top Gear (Jason Barlow), Best Bond cars ever, part 1: Aston Martin DB5, 27 Sep 2021: https://www.topgear.com/car-news/big-reads/best-bond-cars-ever-part-1-aston-martin-db5
+- Carole Nash, Legacy of the James Bond DB5, 26 Sep 2017: https://www.carolenash.com/insideclassics/classic-car-news/legacy-james-bond-db5/
+- 007Travelers, Aston Martin DB5 / Goldfinger: https://www.007travelers.com/items/007-vehicle-aston-martin-db5-goldfinger/
+- auto123, James Bond's Aston Martin DB5, 27 Dec 2011: https://www.auto123.com/en/news/james-bonds-aston-martin-db5/28209/
+- CNN, James Bond Aston Martin DB5 auction: https://amp.cnn.com/cnn/style/article/aston-martin-db5-auction-scli-intl/index.html
+- Old Cars Weekly, RM Sotheby's sells James Bond Aston Martin DB5 for $6.4 million, 16 Aug 2019: https://www.oldcarsweekly.com/news/rm-sothebys-sells-james-bond-aston-martin-db5-for-6-4-million

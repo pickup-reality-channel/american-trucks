@@ -1,158 +1,34 @@
 # Photo credits: Ferrari Purosangue vs Rolls-Royce Cullinan: The Real Difference
 
+- Rolls-Royce Cullinan 009.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 005.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 004.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 001.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 002.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 003.jpg by Jengtingchen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China.jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (5).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (85818).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (23975).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Rear.jpg by Harvey Bold, CC0
+- 2024 Rolls-Royce Cullinan (70701).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Side.jpg by Harvey Bold, CC0
+- ROLLS ROYCE CULLINAN & ISUZU ELF N SERIES.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2020 Rolls-Royce Cullinan cropped.jpg by Tristan Surtel, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (6).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Front.jpg by Harvey Bold, CC0
+- Rolls-Royce Cullinan Black Badge Mansory.jpg by Calreyn88, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (7).jpg by Dinkun Chen, CC BY-SA 4.0
+- Rolls Royce Cullinan Rear End.jpg by Kārlis Dambrāns, CC BY 2.0
 - Ferrari Purosangue IMG 9554.jpg by Alexander-93, CC BY-SA 4.0
 - Ferrari Purosangue IMG 9550.jpg by Alexander-93, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7008.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7007.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7003.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue IMG 9563.jpg by Alexander-93, CC BY-SA 4.0
-- Ferrari Purosangue IMG 2488.jpg by Alexander-93, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7002.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue at the 2025 Shannons Adelaide Rally (028A4470).jpg by Yu Chu Chin, CC BY 4.0
-- Ferrari Purosangue, Auto 2025, Zurich (20251029-P1074508).jpg by Matti Blume, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7776.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7775.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7778.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7783.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue DSC 7777.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue MYLE Festival 2025 DSC 9651.jpg by Alexander Migl, CC BY-SA 4.0
-- Rolls-Royce Cullinan (2022) (52230410253).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Rolls-Royce Cullinan (2022) (52230889845).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Rolls-Royce Cullinan (2023) (53322908073).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Hubble celebrates 35 years (heic2505a).jpg by NASA, ESA, STScI, CC BY 4.0
-- Four Seasons by Alfons Mucha, circa 1897.jpg by Alphonse Mucha, Public domain
-- Four Generals of Song.jpg by Liu Songnian, Public domain
-- VHHH baggage claim area.jpg by Base64, CC BY-SA 3.0
-- Protesters in central London demand an end to human rights violations in Kashmir.jpg by Alisdare Hickson, CC BY-SA 4.0
-- Claim Jumper restaurant in San Diego.jpg by Gary J. Wood, CC BY-SA 2.0
-- "Buy Liberty Bonds. Give them 2 1-2 million starving Armenians, Syrians, and Greeks. Every Penny for Relief, Expenses... - NARA - 512728.jpg by Unknown authorUnknown author or not provided, Public domain
-- "The old woman who lived in a shoe." Returns delighted from her purchase of shoes wit the A. S. T. Co., beautiful black tip upon them, assured that hereafter her shoe bills will be - DPLA - 309faee90a231bae3dbebaf53983a767 (page 1).jpg by unknown, Public domain
-- Who buys this stuff? (434151631).jpg by Bryan Ledgard, CC BY 2.0
-- San Francisco with two bridges and the low fog.jpg by Brocken Inaglory, CC BY-SA 3.0
-- Two Bacchantes and a Bull (Vatican Museums) September 2015.1a.jpg by Alvesgaspar, CC BY-SA 4.0
-- The Edge of Two Worlds (art002e009285).jpg by NASA Johnson Space Center / NASA, Public domain
-- Triumph Thunderbird 1600 black.jpg by Ronald Saunders, CC BY-SA 2.0
-- Caudron G.4 - DPLA - d32d6ede9eb91d24f6edafe9805023fa (page 8).jpg by Caudron S.A, CC0
-- Caudron G.4 - DPLA - d32d6ede9eb91d24f6edafe9805023fa (page 2).jpg by Caudron S.A, CC0
-- Black badge clip 01.jpg by Waldyrious, CC BY-SA 4.0
-- Black badge clip 02.jpg by Waldyrious, CC BY-SA 4.0
-- Rolls-Royce Ghost Black Badge I Series II Black (14).jpg by Damian B Oh, CC BY-SA 4.0
-- Spa Sliač - Mineral spring - Kúpeľný prameň (2).jpg by Ladislav Luppa, CC BY 4.0
-- Spa Sliač - Mineral spring - Kúpeľný prameň (3).jpg by Ladislav Luppa, CC BY 4.0
-- Spa Sliač - Mineral spring - Kúpeľný prameň (1).jpg by Ladislav Luppa, CC BY-SA 4.0
-- Nissan V-Drive — avant.jpg by Bull-Doser, Public domain
-- King George V Drive West - geograph.org.uk - 7462212.jpg by Mr Ignavy, CC BY-SA 2.0
-- King George V Drive, Cardiff - geograph.org.uk - 1847395.jpg by John Lord, CC BY-SA 2.0
-- Sole of foot of an infant held between the middle finger and the ring finger of an adult hand for size comparison.jpg by Basile Morin, CC BY-SA 4.0
-- Superreĝdimensia lito.jpg by Sophie Graubert, CC BY-SA 4.0
-- Star-sizes.jpg by Dave Jarvis (https://dave.autonoma.ca/), CC BY-SA 3.0
-- WikiGap Turkey 20220322.jpg by Sakhalinio, CC BY-SA 4.0
-- The Day the Earth Smiled - PIA17172.jpg by NASA/JPL-Caltech/SSI, Public domain
-- Low Gap Trail (55312610444).jpg by ShenandoahNPS, Public domain
-- Dive weights - Tubular and rectangular shot bags and cylindrical tank weights P8160083.jpg by Peter Southwood, CC0
-- Metal weights for traditional scale.jpg by Eden Aviv, CC0
-- Travel clip-on dive weight P6045451.JPG by Peter Southwood, CC BY-SA 3.0
-- Room 330 of the Louvre, display case 3 (753).jpg by Vania Teofilo, CC BY-SA 3.0
-- Early Medieval Weight (FindID 732551).jpg by North Lincolnshire Museum, Martin Foreman, 2015-07-16 12:33:53, CC BY 2.0
-- Undated Fishing Weight (FindID 799984).jpg by North Lincolnshire Museum, Martin Foreman, 2016-08-18 09:46:43, CC BY 2.0
-- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
-- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
-- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
-- Three teenagers on a jetski running at full speed on the Mekong.jpg by Basile Morin, CC BY-SA 4.0
-- Jim Costa introduces high speed rail legislation - 2.21.20.jpg by Jim Costa, Public domain
-- Roller Speed Skating 2018 YOG Women 1000m Sprint - Final 34.jpg by BugWarp, CC BY-SA 4.0
-- SSC Spring Speed Mentoring Event Broadens Knowledge Sharing and Bridges Generational Gaps (7104748).jpeg by U.S. Space Force image by Van Ha, Public domain
-- SSC Spring Speed Mentoring Event Broadens Knowledge Sharing and Bridges Generational Gaps (7104749).jpeg by U.S. Space Force image by Van Ha, Public domain
-- Cumberland Gap Tunnel P9040327.JPG by Chris Light, CC BY-SA 4.0
-- North side of Reading Minster Churchyard (geograph 8005625).jpg by Chris j wood, CC BY-SA 4.0
-- Directory, the Decatur County Independent Telephone Company - DPLA - db7c276c39eab0776dd18220250d062f (page 12).jpg by Directory (Decatur County Independent Telephone Company (Decatur County, Ind.)), Public domain
-- Directory, the Decatur County Independent Telephone Company - DPLA - db7c276c39eab0776dd18220250d062f (page 14).jpg by Directory (Decatur County Independent Telephone Company (Decatur County, Ind.)), Public domain
-- Rolls Royce Drive Your Dream.jpg by Yuliia dubai, CC0
-- Rolls-Royce Cullinan (2022) (52958711331).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Rolls-Royce Cullinan (2023) (53338592384).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Cincinnati-roebling-suspension-bridge.jpg by Derek Jensen (Tysto), Public domain
-- Bus with electronic controlled suspension, advanced emergency braking system (AEBS).jpg by Syced, CC0
-- Basic Construction of Single Wishbone Suspension System.jpg by Atharv Chandel, CC BY-SA 4.0
-- Rolling chassis inspection point.jpg by Brian Snelson, CC BY 2.0
-- Plano de chasis Rolls Royce 40-50 H.P. de 6 cilindros.jpg by Malopez 21, CC BY-SA 4.0
-- Bramwith rolling chassis - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
-- Meta Platforms Headquarters Menlo Park California.jpg by LPS.1, CC0
-- Star Shaped Platform - Chennakesava Temple.jpg by Jmadhu, CC BY-SA 4.0
-- Meta (Facebook) campus in Bellevue, Washington.jpg by Exilexi, CC BY 4.0
-- Stadium seating digital cinema.jpg by Author0612, CC BY-SA 4.0
-- Palatul Republicii seating during corona pandemic in november 2021.jpg by RFMONLINE.DE, CC BY-SA 4.0
-- Catedral Toledo coro 13.jpg by Miguel Hermoso Cuesta, CC BY-SA 4.0
-- Green Cargo Mb Björnsjö.jpg by Kabelleger / David Gubler, CC BY-SA 4.0
-- Cargo ship RUDAN-D, ENI - MMSI, 02324191. 15-07-2024. (actm.) 02.jpg by Agnes Monkelbaan, CC BY-SA 4.0
-- Cargo ship PONTIAC, ENI 02320416, MMSI 244660959. 15-07-2024. (actm.).jpg by Agnes Monkelbaan, CC BY-SA 4.0
-- Science, Technology and Engineering.jpg by Geralt, CC0
-- Technology show in Kyoto 6.jpg by Syced, CC0
-- Technology show in Kyoto 5.jpg by Syced, CC0
-- URN NBN no-nb digifoto 20171124 00130 NB HS 45 01005 Quislingsaken Vidkun Quisling Eidsivating lagmannsrett Oslo Norway 20.08-10.09.1945 Lagmann dommer E Solem Aktor A Schjødt Etterforsker Simon Østmoe (Henriksen og Steen Nasjonalbibl.jpg by Henriksen & Steen, CC BY-SA 4.0
-- URN NBN no-nb digifoto 20171025 00273 NB HS 45 01008 C Quislingsaken Vidkun Quisling Eidsivating lagmannsrett Oslo Norway 20.08-10.09.1945 Forsvarer Henrik Bergh assistent Eilif Fougner Trial after WWII (Henriksen og Steen Nasjonalbibli.jpg by Henriksen & Steen, CC BY-SA 4.0
-- URN NBN no-nb digifoto 20171124 00129 NB HS 45 01006 Quislingsaken Vidkun Quisling Eidsivating lagmannsrett Oslo Norway 20.08-10.09.1945 Forsvarer Henrik Bergh assistent Eilif Fougner Trial after WWII (Henriksen og Steen Nasjonalbibliot.jpg by Henriksen & Steen, CC BY-SA 4.0
-- Theatre Royal Drury Lane prices of admission, V&A - 2025-05-15.jpg by Matt Brown, CC BY 2.0
-- Jonathan Price in 2025.jpg by Elekes Andor, CC BY 4.0
-- Münster, Giebelhüüskesmarkt -- 2025 -- 2022.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Gas prices in Chula Vista, CA on 2026-09-29.jpg by Bnuuy, CC0
-- Gas Prices on Easter Sunday (2026).jpg by Rick Obst, CC BY 4.0
-- Gas prices on May 10, 2026 in Eugene, Oregon.jpg by Rick Obst, CC BY 4.0
-- Château Frontenac after a freezing rain day in Quebec city.jpg by Wilfredor, CC BY-SA 4.0
-- Agile Bison 23 First Aid Operations (7745446).jpg by U.S. Army photo by Pierre Courtejoie, Public domain
-- Cryptocurrency Cachet (38552330941).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
-- 1.1- UNU-WIDER Growth and Poverty Project GAAP (I) (10070544305).jpg by UNU-WIDER from Helsinki, Finland, CC BY 2.0
-- Moscow, Datsun On-do (Lada Granta) black, Sept 2025 01.jpg by Retired electrician, CC0
-- 2026 Jeep Grand Wagoneer 85th Anniversary Edition in High Gloss Black, rear left, 2026-06-06.jpg by Elise240SX, CC BY-SA 4.0
-- 2026 Jeep Grand Wagoneer 85th Anniversary Edition in High Gloss Black, front left, 2026-06-06.jpg by Elise240SX, CC BY-SA 4.0
-- UNC vs VT (Sep 2023) 128.jpg by Hameltion, CC BY-SA 4.0
-- UNC vs VT (Nov 2024) 02.jpg by Hameltion, CC BY-SA 4.0
-- UNC vs VT (Sep 2023) 138.jpg by Hameltion, CC BY-SA 4.0
-- Ferrari 458 Full Options (37911388286).jpg by Falcon® Photography from France, France, CC BY-SA 2.0
-- Ferrari 458 Fort Worth June 2016 56 (Ferrari) (cropped-2).jpg by Michael Barera, CC BY-SA 4.0
-- 2022 Downtown West Allis Classic Car Show 016 (1987 Ferrari Mondial).jpg by Michael Barera, CC BY-SA 4.0
-- TargetMPG.jpg by Jimad, Public domain
-- Fuel Administration - POSTER USED BY FUEL Administration to encourage economy of fuel - NARA - 31482610.jpg by Unknown authorUnknown author or not provided, Public domain
-- Lily Gap (28721235952).jpg by blmcalifornia, Public domain
-- Lily Gap (28826159715).jpg by blmcalifornia, Public domain
-- Lily Gap (28749891671).jpg by blmcalifornia, Public domain
-- Quikut warranty.jpg by Anachronist, Public domain
-- Synco Appliance warranty face 20170718.jpg by Solomon203, CC BY-SA 4.0
-- Pioneer computer optical products warranty of Taiwan Branch, Panview Company 20160305.jpg by Solomon203, CC BY-SA 4.0
-- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546963075).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- ITM436209 Dept No 429 (51763269001).jpg by Queensland State Archives from Runcorn, Queensland, Australia, CC BY 2.0
-- ITM436209 Dept No 396 (51763920669).jpg by Queensland State Archives from Runcorn, Queensland, Australia, CC BY 2.0
-- ITM436209 Dept No 431 (51763513183).jpg by Queensland State Archives from Runcorn, Queensland, Australia, CC BY 2.0
-- Ferrari 250 GT LWB Spyder California (15618381171).jpg by Marty B from United States of America, CC BY-SA 2.0
-- Ferrari 250 GT LWB Spyder California (15435051737).jpg by Marty B from United States of America, CC BY-SA 2.0
-- Ferrari wheel reflected in Ford sedan gas cap.jpg by poqua, CC BY-SA 2.0
-- Coroner's Inquest of Dorothy Carter (9071256804).jpg by Archives New Zealand from New Zealand, CC BY-SA 2.0
-- 0223 PBDY 5-19-03 (8189078916).jpg by Peabody Awards, CC BY 2.0
-- Peabody Awards (14716542494).jpg by Peabody Awards, CC BY 2.0
-- Ambigram tattoo Stay here written on feet.jpg by Basile Morin, CC BY-SA 4.0
-- Macaca sylvanus feet and hands.JPG by Grez, CC BY-SA 3.0
-- Sleeping infants rest together on a sofa, showcasing tiny feet in cozy pajamas.jpg by Shixart1985, CC BY 2.0
-- Lamborghini350GTV12-engine.jpg by dave_7, CC BY 2.0
-- 61.x. Iveco Stralis 560 (2013) 'Slice Of Heaven' Central Southland Freight.jpg by 70_musclecar_RT+6, CC BY-SA 2.0
-- (Toulouse) Torque de Lasgraisses - Musée Saint-Raymond, 25043.jpg by Didier Descouens, Public domain
-- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
-- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
-- Rolls-Royce Ghost II Black Badge (2024) (53624282115).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Vintage Crystal Cigarette Lighter (8679326754).jpg by Joe Haupt from USA, CC BY-SA 2.0
-- Vintage Decorative Cigarette Lighter - Unmarked (9734978882).jpg by Joe Haupt from USA, CC BY-SA 2.0
-- Nottuln, Oldtimermuseum, Sunbeam Rapier Series II -- 2021 -- 4520.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Odakyu 5000 series (II) Interiors.jpg by Kirin7739, CC BY-SA 4.0
-- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5841.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg by Jan Czeczotka, CC BY-SA 4.0
-- مانکن ها در مرکز خرید دبی مال the dubai mall Mannequins 06.jpg by Mostafameraji, CC BY-SA 4.0
-- مانکن ها در مرکز خرید دبی مال the dubai mall Mannequins 09.jpg by Mostafameraji, CC BY-SA 4.0
-- Coming up with business names.jpg by Claireneon, CC BY-SA 4.0
-- 1895 E. M. Matthias aus Rethen, Intarsien am Webstuhl.jpg by Bernd Schwabe in Hannover, CC BY-SA 4.0
-- Scheeresluis in Kamperveen. 21-03-2022. (actm.) 13.jpg by Agnes Monkelbaan, CC BY-SA 4.0
-- People waiting to cross in the red light of advertisements, W 46th Street, Times Square, New York, 2007.jpg by DimiTalen, CC0
-- Babbacombe, P ^ O Liner 'Ventura' anchored long term 'waiting for better times' - geograph.org.uk - 6638051.jpg by Michael Garlick, CC BY-SA 2.0
-- Babbacombe, Cunard Liner 'Queen Mary 2' anchored long term 'waiting for better times' - geograph.org.uk - 6638043.jpg by Michael Garlick, CC BY-SA 2.0
 
 ## Sources
 

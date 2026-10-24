@@ -1,0 +1,90 @@
+# Photo credits: What It Really Costs to Own a Ferrari Enzo
+
+- Ferrari-Monaco-4071021.jpg by ermell, CC BY-SA 4.0
+- 2004 Enzo Ferrari rear.jpg by TTTNIS, CC0
+- Orange Enzo Ferrari (7191948164).jpg by Axion23, CC BY 2.0
+- Ferrari Enzos at Silverstone in 2012.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari Enzo 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- 2003 Ferrari Enzo 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 1997 Ferrari F50 rear.jpg by TTTNIS, CC0
+- 1997 Ferrari F50 front.jpg by TTTNIS, CC0
+- A Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- 1999 Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari 1996 F50 GT (15621058965).jpg by Marty B from United States of America, CC BY-SA 2.0
+- Ferrari F50 Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1999 Ferrari F50 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Black Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Orange enzo ferrari (3373802436).jpg by Axion23, CC BY 2.0
+- 2004 Ferrari Enzo 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari Enzo - Flickr - Alexandre Prévot (1) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Ferrari 330P rear-left Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Ferrari 375 Indy rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Ferrari 246 F1 rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 12.jpg by Chris Olszewski, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 27.jpg by Kgbo, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 22.jpg by Chris Olszewski, CC BY-SA 4.0
+- Ferrari F50 rear Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ferrari F50 Rear (17115768058).jpg by Axion23, CC BY 2.0
+- Ferrari F50 Rear Grille -exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ferrari F50 SCD Meet 2023 Red.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 Ferrari F50 HCC22.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 Ferrari F50 Silver HCC21.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 (10377780453).jpg by CANNIK, CC BY 2.0
+- Ferrari F50 (1995) (52963521615).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F50 (1995) (52963284634).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Red Ferrari F50 Mechanics.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 et 360 Spider.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1999 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati 250F engine rear Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Maserati 450S engine rear Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Orange enzo ferrari supercar rear (2903602037).jpg by Axion23, CC BY 2.0
+- Ferrari F50 (1995) (52963522025).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F50 (1996) (52454954498).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F50 (1995) (52963595228).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Maserati MC12 Corse 6.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Maserati MC12 HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 18.jpg by Kgbo, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 20.jpg by Chris Olszewski, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 17.jpg by Chris Olszewski, CC BY-SA 4.0
+- Maserati 420M Eldorado rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Maserati 450S Prototype rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- 2003 Enzo Ferrari at Greenwich 2018, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Maserati.MC12.JPG by No machine-readable author provided. Jbattersby assumed (based on copyright claims)., Public domain
+- Maserati MC12 Corse 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Maserati MC12 Low HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 Ferrari F50 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1996 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1996 Ferrari F50 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Ferrari Enzo 6.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- San Marco-Maserati racing boat (1963) rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Enzo Ferrari - Flickr - exfordy (2).jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ferrari LaFerrari & F50 (Hockenheimer).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 1999 Ferrari F50 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1997 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 Corse 4.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 Corse 3.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 in underground parking, Monaco.jpg by Paul B 458, CC BY-SA 4.0
+- 1966 Ferrari 275 GTB 4 rear side.jpg by pelican-actor, CC BY 2.0
+- Enzo rear.JPG by Jagvar, Public domain
+- 1964 Ferrari 275 P rear side.jpg by pelican-actor, CC BY 2.0
+
+## Sources
+
+- Hagerty Valuation Tools, 2003 Ferrari Enzo: https://hagerty.com/apps/valuationtools/2003-Ferrari-Enzo
+- Hagerty Valuation Tools, 1995 Ferrari F50: https://hagerty.com/apps/valuationtools/1995-Ferrari-F50
+- Sports Car Market, 2003 Ferrari Enzo analysis, 17 Oct 2018: https://www.sportscarmarket.com/?p=709130
+- RM Sotheby's, 2004 Ferrari Enzo, California 2015: https://rmsothebys.com/auctions/ca15/lots/r0021-2004-ferrari-enzo/
+- RM Sotheby's, 1995 Ferrari F50, Monterey 2021: https://rmsothebys.com/auctions/mo21/lots/r0065-1995-ferrari-f50/
+- Wikipedia, Enzo Ferrari (automobile): https://en.wikipedia.org/wiki/Ferrari_Enzo
+- evo (John Barker), Great Ferrari hypercars driven, 23 Oct 2024: https://www.evo.co.uk/ferrari/204743/great-ferrari-hypercars-driven-288-gto-f40-f50-and-enzo-head-to-head
+- PistonHeads, Ferrari Enzo, one of 31 UK cars (listing): https://www.pistonheads.com/buy/listing/14692935
+- The Drive (Chris Chin), This is what it takes to do a clutch replacement on a million-dollar Ferrari F50, 26 Nov 2019: https://www.thedrive.com/news/31210/this-is-what-it-takes-to-do-a-clutch-replacement-on-a-million-dollar-ferrari-f50.md
+- Italpassion, Quatre icônes Ferrari (F40, F50, Enzo, LaFerrari): https://www.italpassion.fr/ferrari/quatre-icones-ferrari-f40-f50-enzo-et-laferrari-dans-une-meme-vente-aux-encheres-toutes-a-des-prix-records/
+- Gearshifters, How to own a Ferrari Enzo (UNSOURCED figures, shown for transparency): https://gearshifters.org/ferrari/how-to-own-a-ferrari-enzo/
+- US Energy Information Administration, regular gasoline weekly price, week of 19 Oct 2026: $4.284/gal
+- US Census Bureau, median household income 2024: $83,730

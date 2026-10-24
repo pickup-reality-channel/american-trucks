@@ -5,9 +5,18 @@
 - Ferrari Purosangue DSC 7008.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7007.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7003.jpg by Alexander Migl, CC BY-SA 4.0
-- Ferrari Purosangue IMG 2488.jpg by Alexander-93, CC BY-SA 4.0
 - Ferrari Purosangue IMG 9563.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 2488.jpg by Alexander-93, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7002.jpg by Alexander Migl, CC BY-SA 4.0
+- Rolls-Royce Cullinan 001.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 005.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 009.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 002.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 004.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 003.jpg by Jengtingchen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China.jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- Osaka Auto Messe 2025 (189) - Ferrari Purosangue & AERO OVER P639e.jpg by Tokumeigakarinoaoshima, CC0
 - Ferrari Purosangue at the 2025 Shannons Adelaide Rally (028A4470).jpg by Yu Chu Chin, CC BY 4.0
 - Ferrari Purosangue, Auto 2025, Zurich (20251029-P1074508).jpg by Matti Blume, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7776.jpg by Alexander Migl, CC BY-SA 4.0
@@ -15,132 +24,45 @@
 - Ferrari Purosangue DSC 7783.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7778.jpg by Alexander Migl, CC BY-SA 4.0
 - Ferrari Purosangue DSC 7777.jpg by Alexander Migl, CC BY-SA 4.0
+- Rolls Royce Cullinan Interior.jpg by Kārlis Dambrāns, CC BY 2.0
+- 2019 Rolls-Royce Cullinan in Arctic White, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2019 Rolls-Royce Cullinan in Arctic White, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Urus Performante 1X7A6805.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8524.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6798.jpg by Alexander-93, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (5).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (85818).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (23975).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Rear.jpg by Harvey Bold, CC0
 - Ferrari Purosangue MYLE Festival 2025 DSC 9651.jpg by Alexander Migl, CC BY-SA 4.0
-- Median Household Income in USA, by county (2013-2017).jpg by US Census Bureau, Public domain
-- US real median household income 1967 - 2010.jpg by U.S. Census Bureau, Public domain
-- Untreated Carpal Tunnel Syndrome.JPG by Dr. Harry Gouvas, MD, PhD, Public domain
-- RSI-symptoms.jpg by Olimane, CC BY-SA 4.0
-- Carpal Tunnel Syndrome, Operation.jpg by Dr.Harry Gouvas, MD, PhD, Public domain
-- State Street, Lower Price Hill, Cincinnati, OH (27227724467).jpg by Warren LeMay from Cincinnati, OH, United States, CC0
-- State Street, Lower Price Hill, Cincinnati, OH (27227744407).jpg by Warren LeMay from Cincinnati, OH, United States, CC0
-- State Street, Lower Price Hill, Cincinnati, OH (27227726177).jpg by Warren LeMay from Cincinnati, OH, United States, CC0
-- Chiesa Santa Filomena Ugento 01.jpg by Ylenia Comi (Imago Coop), CC0
-- Museo archeologico Ugento - Piatto a figure rosse - 01.jpg by Ylenia Comi (Imago Coop), CC0
-- Museo archeologico Ugento - Cratere a colonnette attico a figure rosse - 01.jpg by Ylenia Comi (Imago Coop), CC0
-- 1960 Cadillac Series 62 Convertible (25072546935).jpg by Sicnag, CC BY 2.0
-- 1960 Cadillac Series 62 2 door Hardtop (45241521214).jpg by Sicnag, CC BY 2.0
-- 1960 Cadillac Series 64 Eldorado Seville (26534368381).jpg by Sicnag, CC BY 2.0
-- Seating options abound. (7510820196).jpg by Oregon Department of Transportation, CC BY 2.0
-- Las Vegas (Nevada, USA), The Strip -- 2012 -- 6232.jpg by Dietmar Rabich, CC BY-SA 4.0
-- 1996 Ford Fairlane (NF II) Ghia sedan, with Tickford options (23842369881).jpg by Jeremy from Sydney, Australia, CC BY 2.0
-- Rising Petrol Prices in the UK.jpg by Icomparioimages, CC BY-SA 4.0
-- Burnt house and car from settlers attack in Turmus Ayya, June 23.jpg by Daphne Banai, CC BY-SA 4.0
-- Saving Money while Driving Your Car.jpg by Icomparioimages, CC BY-SA 4.0
-- 2025 Ferrari Daytona SP3 Tailor Made in Rubino Transitional, front left.jpg by Mr.choppers, CC BY-SA 4.0
-- 2025 Ferrari Daytona SP3 Tailor Made in Rubino Transitional, rear right.jpg by Mr.choppers, CC BY-SA 4.0
-- MVIMG 20200814 123740~2.jpg by CaptJayRuffins, CC BY-SA 4.0
-- Yakolev Yak-141 (Yak-41M) 75 white (really 77 white) (8457077020).jpg by Alan Wilson, CC BY-SA 2.0
-- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546963075).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
-- Press conference on student loan debt relief F-W3NgHWkAAOAuV.jpg by Office of Massachusetts Attorney General Andrea Campbell, Public domain
-- Press conference on student loan debt relief F-W3NndWQAAiOcG.jpg by Office of Massachusetts Attorney General Andrea Campbell, Public domain
-- Invest in the Victory Liberty Loan, World War I poster - DPLA - 0ddf1b8815b1068ce1b8345c335e3995.jpg by Shafer, L. A. (Leon Alaric), 1866-1940, artist, Public domain
-- (Text Page to) Explication des Tableaux X, XI & XII (3). (IA dr text-page-to-explication-des-tableaux-x-xi-xii-3-14319045).jpg by Playfair, William, 1759-1823, Public domain
-- Tableau de comparaison entre les emprunta perpetuels et les annuités de 15 années. Pillot Scrip. (IA dr tableau-de-comparaison-entre-les-emprunta-perpetuels-et-les-annuits-de-15-14319065).jpg by Playfair, William, 1759-1823
-Pillot, Public domain
-- Tableau del'interêt annuel des dettes de l'Angleterre, en les supposant faites par annuités de 15 années à raison de 10 p. (IA dr tableau-delintert-annuel-des-dettes-de-langleterre-en-les-supposant-fai-14319064).jpg by Playfair, William, 1759-1823, Public domain
-- Exit-income-taxes-coffin.jpg by George Yost Coffin, Public domain
-- President Trump Signs the Paycheck Protection Program and Health Care Enhancement Act (49814687736).jpg by The White House from Washington, DC, Public domain
-- President Trump Signs the Paycheck Protection Program and Health Care Enhancement Act (49814690356).jpg by The White House from Washington, DC, Public domain
-- Local de la asociación de pobladores de Sarita Colonia.jpg by Johnattan Rupire, CC BY-SA 4.0
-- Harmonious Gate of Interest, Victoria, British Columbia, Canada.jpg by Michal Klajban, CC BY-SA 4.0
-- Harmonious Gate of Interest, Victoria, British Columbia, Canada 02.jpg by Michal Klajban, CC BY-SA 4.0
-- Video conference between Ambassador of Australia and the Secretary-general of ASEAN on 15 September 2020 (AADCP. (2020).jpg by Ambassador of Australia to ASEAN, H.E. Will Nankervis, presented his Letter of Credence to the Secretary-General of ASEAN, H.E. Dato Lim Jock Hoi, through video conference on 15 September 2020., CC BY-SA 4.0
-- SEVEN TO TEN-YEAR-OLD DOUGLAS FIR TREES IN OLYMPIC NATIONAL TIMBERLAND, WASHINGTON. NEAR OLYMPIC NATIONAL PARK - NARA - 555097.jpg by Unknown authorUnknown author or not provided, Public domain
-- US Navy 041205-N-1113S-005 A seven-year-old gives an electronic toy game to a Marine Corps Gunnery Sgt. for the Toys for Tots campaign on board Naval Air Facility (NAF) Atsugi, Japan.jpg by U.S. Navy photo by Journalist 3rd Class Matthew Schwarz, Public domain
-- Breen, Adam van - Eissegeln in einer niederländischen Stadt.jpg by Adam van Breen, Public domain
-- Thomas van Apshoven - Figures by a Cottage.jpg by Thomas van Apshoven, Public domain
-- Landscape with Farmhouses and Figures, by Jan van Goyen (Getty 109G6K).jpg by Jan van Goyen, CC0
-- DDR Bicycle Shop, Harz DDR. May 1990 Halberstadt (3676421064).jpg by Sludge G, CC BY-SA 2.0
-- COVID-19 pandemic-related signs for sale at Staples, Middletown, NY.jpg by Daniel Case, CC BY-SA 4.0
-- Kaunas Landmarks 34.jpg by Scotch Mist, CC BY-SA 4.0
-- Image from page 394 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901).jpg by Internet Archive Book Images, CC0
-- Image from page 310 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 128.jpg by Internet Archive Book Images, CC0
-- Image from page 244 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 973.jpg by Internet Archive Book Images, CC0
-- IMPORTED GASOLINE WAS AVAILABLE IN OREGON DURING THE FUEL CRISIS OF 1973-74 AT DOUBLE THE COST OF THE DOMESTIC FUEL.... - NARA - 555502.jpg by David Falconer, Public domain
-- SIGN OF THE PAST IS THIS ABANDONED GASOLINE PUMP WITH A PRICE OF 29.9 CENTS PER GALLON. THE COST OF FUEL HAS MADE... - NARA - 555508.jpg by David Falconer, Public domain
-- Microbial fuel cells with small fan (on the right) powered by the electricity produced. (13358699875).jpg by SuSanA Secretariat, CC BY 2.0
-- Crop storage - geograph.org.uk - 3088052.jpg by Humphrey Bolton, CC BY-SA 2.0
-- Storage King, Chester - geograph.org.uk - 7706648.jpg by TCExplorer, CC BY-SA 2.0
-- Silver Jackets team tours the Raccoon Mountain Pumped-Storage Plant.jpg by Mark Rankin, Public domain
-- Porter County Infirmary, 1907 - Valparaiso, Indiana (19014932298).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
-- Porter County Asylum and Poor Farm, 1912 - Valparaiso, Indiana (4181359872).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
-- American Red Cross - "Second Aid" - American Red Cross "Dollar Exchange" at Liverpool Docks, England. Here homeward bound soldiers can change French, Italian, and English money into real American money at normal (...) - NARA - 20805084.jpg by Unknown authorUnknown author or not provided, Public domain
-- LA Galaxy vs Houston Dynamo- Western Conference Finals panorama.jpg by YoTuT, CC BY 2.0
-- U.S. Air Force Staff Sgt. Joshua Correa, an air transportation specialist assigned to the 374th Logistics Readiness Squadron's combat mobility flight, wraps a low-cost, low-altitude airdrop bundle at Andersen 131209-F-RG147-047.jpg by 2d Lt Jacob Bailey, Public domain
-- A U.S. Airman assigned to the 374th Logistics Readiness Squadron's combat mobility flight, rigs a low-cost, low-altitude airdrop bundle at Andersen Air Force Base, Guam, during the 62nd annual Operation 131209-F-RG147-008.jpg by 2d Lt Jacob Bailey, Public domain
-- MRAO 04.jpg by Mike Peel; Jodrell Bank Centre for Astrophysics, University of Manchester., CC BY-SA 4.0
-- MRAO 01.jpg by Mike Peel; Jodrell Bank Centre for Astrophysics, University of Manchester., CC BY-SA 4.0
-- MRAO 02.jpg by Mike Peel; Jodrell Bank Centre for Astrophysics, University of Manchester., CC BY-SA 4.0
-- Ferrari Purosangue monaco 2.jpg by Calreyn88, CC BY-SA 4.0
-- Ferrari Purosangue 1.jpg by Calreyn88, CC BY 4.0
-- Ferrari Purosangue 2025.jpg by Calreyn88, CC BY 4.0
-- ST vs LOU - 21.jpg by PierreSelim, CC BY-SA 3.0
-- NLA, Lausanne HC vs. Rapperswil-Jona Lakers, 11th November 2014 03.JPG by Fabien Perissinotto, CC BY-SA 4.0
-- ST vs Gloucester - Match - 23.JPG by PierreSelim, CC BY-SA 3.0
-- 2020 Aston Martin DBS Superleggera in Stratus White, rear right.jpg by Mr.choppers, CC BY-SA 3.0
-- 2023 BMW XM in Black Sapphire and NightGold, rear right.jpg by Mr.choppers, CC BY-SA 3.0
-- 2023 BMW XM in Black Sapphire and NightGold, front right.jpg by Mr.choppers, CC BY-SA 3.0
-- 67th FGS activates at Kadena and bids final farewell to F-15C (8936159).jpg by U.S. Air Force photo by Airman 1st Class Catherine Daniel, Public domain
-- 67th FGS activates at Kadena and bids final farewell to F-15C (8936155).jpg by U.S. Air Force photo by Airman 1st Class Amy Kelley, Public domain
-- 67th FGS activates at Kadena and bids final farewell to F-15C (8936158).jpg by U.S. Air Force photo by Airman 1st Class Catherine Daniel, Public domain
-- Grumman US-2A Tracker FAA Reg. Number N486GT - 51166796282.jpg by Eric Friedebach, CC BY 2.0
-- Grumman US-2A Tracker FAA Reg. Number N486GT - 51168224919.jpg by Eric Friedebach, CC BY 2.0
-- Grumman US-2A Tracker FAA Reg. Number N486GT - 51166795567.jpg by Eric Friedebach, CC BY 2.0
-- IndianGeneralElectionTrend.jpg by Vinay.bhat, CC BY-SA 4.0
-- State Street, Lower Price Hill, Cincinnati, OH (27227726947).jpg by Warren LeMay from Cincinnati, OH, United States, CC0
-- The prices!, the prices! about 6$ or £3 for a soft drink (but there's no income tax if you work here) - panoramio.jpg by Peter Gill / UK, CC BY 3.0
-- Josephine demonstrates how to make, price and market reusable sanitary pads.jpg by Katherine Stone for International Citizen Service, CC BY 2.0
-- Resource Allocation Working Group members.jpg by Ann Lukens, CC BY-SA 4.0
-- Mass devotion, Charak puja (DSC 2348).jpg by Basakpranab, CC BY-SA 4.0
-- Resource Allocation Working Group members cropped.jpg by Ann Lukens, CC BY-SA 4.0
-- These boys (and one other small one, who is not present) and their father, work in Monongah Glass Works. Father gets $1.75 a day - one boy 125 a day 4 get 80 cents a day. Total 6.20 a day. LOC nclc.01200.jpg by Hine, Lewis Wickes; National Child Labor Committee Collection, Public domain
-- No one gets between Momma sheep and her marshmallows - panoramio.jpg by Kira Picabo, CC BY 3.0
-- Francisco Lindor gets a base hit, July 23, 2025 - 2-00001.jpg by D. Benjamin Miller, CC0
-- Irrigation and Water (20150827-NRCS-LSC-0333).jpg by USDAgov, Public domain
-- Irrigation and Water (20150827-NRCS-LSC-0353).jpg by USDAgov, Public domain
-- Irrigation and Water (20150827-NRCS-LSC-0346).jpg by USDAgov, Public domain
-- SW Hullathy Gram Panchayat Villages Nilgiris Nov24 A7CR 05293.jpg by Timothy A. Gonsalves, CC BY-SA 4.0
-- DSC01731 MEDIAN Klinik Wied - Haus Mühlental.jpg by X-angel, CC BY-SA 4.0
-- Installation of the Golden Gate Bridge Moveable Median Barrier System on January 10, 2015 -03.jpg by Frank Schulenburg, CC BY-SA 4.0
-- New front brakes - 49020391443.jpg by simonov, CC BY-SA 2.0
-- New front brakes - 49020917061.jpg by simonov, CC BY-SA 2.0
-- New front brakes.jpg by simonov, CC BY-SA 2.0
-- Ferrari 488 Spider yellow.jpg by Mathious Ier, CC0
-- Ferrari 488 GTB Atelier.jpg by Mathious Ier, CC0
-- Ferrari 296 GTS (1) kl.jpg by Mathious Ier, CC0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 39).jpg by Wright Brothers, Dayton, Ohio, CC0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 49).jpg by Wright Brothers, Dayton, Ohio, CC0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 32).jpg by Wright Brothers, Dayton, Ohio, CC0
-- NSU Spartans football (7422623) (cropped).jpg by U.S. Coast Guard photo by Petty Officer 2nd Class Brandon Hillard, Public domain
-- Potomac Gas & Fuel Co. LCCN2016822053.jpg by National Photo Company Collection, Public domain
-- Potomac Gas & Fuel Co. LCCN2016822052.jpg by National Photo Company Collection, Public domain
-- "Cobwebs" in underwater spent nuclear fuel basin? (6554866961).jpg by Savannah River Site, Public domain
-- Weights for jumping 500 BC, NAMA 1926, 225611.jpg by Zde, CC BY-SA 4.0
-- Stone weights, 2700-2200 BC, AM of Nafplio, 202088.jpg by Zde, CC BY-SA 4.0
-- Weight Toy.jpg by Ameerahraheem, CC BY-SA 4.0
-- Engine and Gearbox cutaway-001.jpg by NJR ZA, CC BY-SA 3.0
-- Toyota TS040 V8 Petrol Engine and Gearbox Assembly.jpg by Nstpierre, CC BY-SA 4.0
-- RNAS Culdrose - Sea King engine and gearbox used for training - geograph.org.uk - 8187209.jpg by Chris Gorringe, CC BY-SA 2.0
 - Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 6.jpg by Calreyn88, CC BY-SA 4.0
 - 2023 Ferrari Purosangue 3.jpg by Calreyn88, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 4.jpg by Calreyn88, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (70701).jpg by Calreyn88, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN & ISUZU ELF N SERIES.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Side.jpg by Harvey Bold, CC0
+- 2020 Rolls-Royce Cullinan cropped.jpg by Tristan Surtel, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Front.jpg by Harvey Bold, CC0
+- ROLLS ROYCE CULLINAN China (6).jpg by Dinkun Chen, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 7.jpg by Calreyn88, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 8.jpg by Calreyn88, CC BY-SA 4.0
 - 2024 Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (7).jpg by Dinkun Chen, CC BY-SA 4.0
+- Rolls-Royce Cullinan Black Badge Mansory.jpg by Calreyn88, CC BY-SA 4.0
+- Rolls Royce Cullinan Rear End.jpg by Kārlis Dambrāns, CC BY 2.0
+- Lamborghini Urus S 1X7A6796.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8521.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus rear view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus front view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus oblique view dllu 01.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus 19.09.20 JM (2).jpg by Johannes Maximilian, CC BY-SA 4.0
+- Lamborghini Urus at IAA 2019 IMG 0175.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus, BAS 24, Brussels (P1170506).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus 1X7A1637.jpg by Alexander-93, CC BY-SA 4.0
 
 ## Sources
 
