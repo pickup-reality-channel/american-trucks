@@ -1,0 +1,2307 @@
+1
+00:00:00,000 --> 00:00:02,306
+The Ferrari Enzo and the Ferrari F50
+
+2
+00:00:02,306 --> 00:00:04,613
+are separated by seven years and one
+
+3
+00:00:04,613 --> 00:00:05,189
+big idea.
+
+4
+00:00:05,369 --> 00:00:08,253
+One is a six-litre machine with a
+
+5
+00:00:08,253 --> 00:00:11,662
+paddle gearbox and active aerodynamics.
+
+6
+00:00:11,842 --> 00:00:15,174
+The other is a four-point-seven litre car
+
+7
+00:00:15,174 --> 00:00:17,124
+with a manual gearshift,
+
+8
+00:00:17,124 --> 00:00:20,538
+no power steering and no anti-lock brakes.
+
+9
+00:00:20,718 --> 00:00:23,388
+A magazine ranked the older one higher.
+
+10
+00:00:23,568 --> 00:00:25,368
+This is the real difference,
+
+11
+00:00:25,368 --> 00:00:27,039
+with every number sourced.
+
+12
+00:00:27,390 --> 00:00:31,303
+Our sources are Wikipedia's pages on both
+
+13
+00:00:31,303 --> 00:00:34,643
+cars, RM Sotheby's catalogue pages,
+
+14
+00:00:34,643 --> 00:00:36,362
+Sports Car Market,
+
+15
+00:00:36,362 --> 00:00:38,843
+Hagerty's valuation pages,
+
+16
+00:00:38,843 --> 00:00:40,466
+the magazine evo,
+
+17
+00:00:40,466 --> 00:00:44,761
+Jalopnik, the DuPont Registry and the Italian
+
+18
+00:00:44,761 --> 00:00:46,383
+site Italpassion.
+
+19
+00:00:46,563 --> 00:00:48,232
+They disagree on prices,
+
+20
+00:00:48,232 --> 00:00:50,178
+dates and production counts,
+
+21
+00:00:50,178 --> 00:00:51,916
+and we show each version.
+
+22
+00:00:52,096 --> 00:00:54,418
+Our own arithmetic is labelled.
+
+23
+00:00:54,768 --> 00:00:57,716
+They are neighbours in Ferrari's hypercar line.
+
+24
+00:00:57,896 --> 00:01:00,517
+Wikipedia lists the F40 as the F50's
+
+25
+00:01:00,517 --> 00:01:03,574
+predecessor and the Enzo as its successor.
+
+26
+00:01:03,754 --> 00:01:06,772
+The F50 was built from nineteen ninety-five
+
+27
+00:01:06,772 --> 00:01:08,526
+to nineteen ninety-seven,
+
+28
+00:01:08,526 --> 00:01:10,913
+with the last car leaving the line
+
+29
+00:01:10,913 --> 00:01:13,019
+in July nineteen ninety-seven.
+
+30
+00:01:13,199 --> 00:01:15,875
+The Enzo, announced at the Paris Motor
+
+31
+00:01:15,875 --> 00:01:17,636
+Show in two thousand two,
+
+32
+00:01:17,636 --> 00:01:19,468
+followed five years later.
+
+33
+00:01:19,818 --> 00:01:23,087
+The F50 was designed at Pininfarina by
+
+34
+00:01:23,087 --> 00:01:26,615
+Pietro Camardella and Lorenzo Ramaciotti,
+
+35
+00:01:26,615 --> 00:01:28,594
+according to Wikipedia,
+
+36
+00:01:28,594 --> 00:01:33,154
+evolving from the nineteen eighty-nine Ferrari Mythos
+
+37
+00:01:33,154 --> 00:01:33,842
+concept.
+
+38
+00:01:34,022 --> 00:01:36,763
+The Enzo was designed by Ken Okuyama,
+
+39
+00:01:36,763 --> 00:01:39,282
+then Pininfarina's head of design.
+
+40
+00:01:39,462 --> 00:01:41,450
+Both came from the same studio,
+
+41
+00:01:41,450 --> 00:01:44,271
+but from different designers and a different
+
+42
+00:01:44,271 --> 00:01:44,976
+generation.
+
+43
+00:01:45,327 --> 00:01:48,082
+The F50 debut date is a small
+
+44
+00:01:48,082 --> 00:01:48,937
+conflict.
+
+45
+00:01:49,117 --> 00:01:52,086
+Wikipedia says the car was introduced in
+
+46
+00:01:52,086 --> 00:01:53,645
+nineteen ninety-five.
+
+47
+00:01:53,825 --> 00:01:56,888
+RM Sotheby's catalogue says it debuted at
+
+48
+00:01:56,888 --> 00:02:00,025
+the nineteen ninety-six Geneva Motor Show.
+
+49
+00:02:00,205 --> 00:02:03,733
+A pre-production show appearance and a formal
+
+50
+00:02:03,733 --> 00:02:06,007
+launch might explain the gap,
+
+51
+00:02:06,007 --> 00:02:08,125
+but neither source says so,
+
+52
+00:02:08,125 --> 00:02:10,085
+so we simply report both.
+
+53
+00:02:10,435 --> 00:02:12,983
+Ferrari's chairman had a line about the
+
+54
+00:02:12,983 --> 00:02:13,244
+F50.
+
+55
+00:02:13,424 --> 00:02:16,923
+RM Sotheby's quotes Luca di Montezemolo telling
+
+56
+00:02:16,923 --> 00:02:19,379
+Motor Trend it would be the first
+
+57
+00:02:19,379 --> 00:02:21,836
+and last Formula One car with two
+
+58
+00:02:21,836 --> 00:02:22,283
+seats.
+
+59
+00:02:22,463 --> 00:02:26,040
+Wikipedia says the F50's engine was developed
+
+60
+00:02:26,040 --> 00:02:28,505
+from the three and a half litre
+
+61
+00:02:28,505 --> 00:02:31,526
+V12 of the nineteen ninety Ferrari six
+
+62
+00:02:31,526 --> 00:02:33,593
+forty-one Formula One car,
+
+63
+00:02:33,593 --> 00:02:36,137
+which dates the F1 link to about
+
+64
+00:02:36,137 --> 00:02:38,124
+five years before launch.
+
+65
+00:02:38,475 --> 00:02:41,145
+The engine's ancestry is disputed.
+
+66
+00:02:41,325 --> 00:02:44,162
+RM Sotheby's says it was closely related
+
+67
+00:02:44,162 --> 00:02:46,858
+to a Formula One engine blueprint that
+
+68
+00:02:46,858 --> 00:02:50,476
+Scuderia Ferrari used until the nineteen ninety-one
+
+69
+00:02:50,476 --> 00:02:50,973
+season.
+
+70
+00:02:51,153 --> 00:02:53,683
+Evo's table says it derives from the
+
+71
+00:02:53,683 --> 00:02:55,229
+four twelve T two car,
+
+72
+00:02:55,229 --> 00:02:57,759
+which raced in nineteen ninety-four.
+
+73
+00:02:57,939 --> 00:03:00,946
+Wikipedia names the six forty-one.
+
+74
+00:03:01,126 --> 00:03:03,468
+We cannot tell which is right,
+
+75
+00:03:03,468 --> 00:03:05,108
+so we show all three.
+
+76
+00:03:05,458 --> 00:03:08,734
+The F50's engine was a four point
+
+77
+00:03:08,734 --> 00:03:10,323
+seven litre V12,
+
+78
+00:03:10,323 --> 00:03:11,415
+the F130 B,
+
+79
+00:03:11,415 --> 00:03:13,202
+with sixty valves,
+
+80
+00:03:13,202 --> 00:03:14,989
+five per cylinder.
+
+81
+00:03:15,169 --> 00:03:18,737
+Wikipedia lists five hundred twenty metric horsepower,
+
+82
+00:03:18,737 --> 00:03:20,388
+or five hundred thirteen,
+
+83
+00:03:20,388 --> 00:03:23,295
+at eighty-five hundred revs and four hundred
+
+84
+00:03:23,295 --> 00:03:26,466
+seventy-one newton-metres at sixty-five hundred.
+
+85
+00:03:26,646 --> 00:03:29,004
+The redline was eighty-five hundred,
+
+86
+00:03:29,004 --> 00:03:31,492
+with fuel cut-off at eighty-six forty,
+
+87
+00:03:31,492 --> 00:03:34,571
+and the engine weighed one hundred ninety-eight
+
+88
+00:03:34,571 --> 00:03:35,226
+kilograms.
+
+89
+00:03:35,576 --> 00:03:38,166
+The Enzo's engine was a six litre
+
+90
+00:03:38,166 --> 00:03:39,422
+V12, the F140 B,
+
+91
+00:03:39,422 --> 00:03:42,954
+making six hundred sixty metric horsepower at
+
+92
+00:03:42,954 --> 00:03:47,193
+seventy-eight hundred revs and six hundred fifty-seven
+
+93
+00:03:47,193 --> 00:03:50,018
+newton-metres at fifty-five hundred.
+
+94
+00:03:50,198 --> 00:03:52,590
+Redline is eighty-two hundred.
+
+95
+00:03:52,770 --> 00:03:55,638
+The two engines are a different generation
+
+96
+00:03:55,638 --> 00:03:56,525
+in every way,
+
+97
+00:03:56,525 --> 00:03:59,052
+and the Enzo's peak power comes seven
+
+98
+00:03:59,052 --> 00:04:01,373
+hundred revs lower than the F50's.
+
+99
+00:04:01,722 --> 00:04:02,962
+By our arithmetic,
+
+100
+00:04:02,962 --> 00:04:06,336
+the Enzo's engine is twenty-eight percent bigger,
+
+101
+00:04:06,336 --> 00:04:09,435
+its power twenty-seven percent higher and its
+
+102
+00:04:09,435 --> 00:04:11,777
+torque thirty-nine percent higher.
+
+103
+00:04:11,957 --> 00:04:14,094
+Evo's journalists said the Enzo has about
+
+104
+00:04:14,094 --> 00:04:16,543
+a hundred thirty-eight horsepower more than the
+
+105
+00:04:16,543 --> 00:04:16,752
+F50.
+
+106
+00:04:16,932 --> 00:04:19,116
+The F50 compensates with revs:
+
+107
+00:04:19,116 --> 00:04:21,009
+it is a car that makes its
+
+108
+00:04:21,009 --> 00:04:22,539
+power at the top end,
+
+109
+00:04:22,539 --> 00:04:25,233
+while the Enzo has torque lower down.
+
+110
+00:04:25,582 --> 00:04:28,894
+Evo describes the F50's engine as thunderous,
+
+111
+00:04:28,894 --> 00:04:32,427
+never-ending power that is tractable at tickover
+
+112
+00:04:32,427 --> 00:04:34,487
+and bonkers at the red line.
+
+113
+00:04:34,667 --> 00:04:37,076
+The quotes come from Hayman in the
+
+114
+00:04:37,076 --> 00:04:39,485
+magazine's two thousand four test.
+
+115
+00:04:39,665 --> 00:04:42,386
+The F50 was praised for its gearshift,
+
+116
+00:04:42,386 --> 00:04:44,819
+which the author called one of the
+
+117
+00:04:44,819 --> 00:04:46,752
+finest shifts he had tried,
+
+118
+00:04:46,752 --> 00:04:49,186
+and for an engine magnified by the
+
+119
+00:04:49,186 --> 00:04:50,474
+car's light build.
+
+120
+00:04:50,824 --> 00:04:54,006
+The biggest everyday difference is the gearbox.
+
+121
+00:04:54,186 --> 00:04:56,910
+The F50 has a six-speed manual with
+
+122
+00:04:56,910 --> 00:05:00,179
+a dry twin-plate clutch and a limited-slip
+
+123
+00:05:00,179 --> 00:05:02,359
+differential, per Wikipedia.
+
+124
+00:05:02,539 --> 00:05:05,492
+The Enzo has an automated manual with
+
+125
+00:05:05,492 --> 00:05:08,445
+paddle shifters and LED shift lights,
+
+126
+00:05:08,445 --> 00:05:09,881
+built by Graziano,
+
+127
+00:05:09,881 --> 00:05:12,435
+with a shift time of one hundred
+
+128
+00:05:12,435 --> 00:05:13,952
+fifty milliseconds.
+
+129
+00:05:14,132 --> 00:05:15,950
+One is something you operate,
+
+130
+00:05:15,950 --> 00:05:18,207
+and the other something you command.
+
+131
+00:05:18,557 --> 00:05:20,960
+Evo's Enzo notes show the cost.
+
+132
+00:05:21,140 --> 00:05:24,138
+Bovingdon criticised the lack of feedback,
+
+133
+00:05:24,138 --> 00:05:25,494
+with steering feel,
+
+134
+00:05:25,494 --> 00:05:27,421
+of which the Enzo has none.
+
+135
+00:05:27,601 --> 00:05:30,008
+Meaden said there is just not enough
+
+136
+00:05:30,008 --> 00:05:32,014
+to do other than hang on tight
+
+137
+00:05:32,014 --> 00:05:34,288
+and concentrate on braking points.
+
+138
+00:05:34,468 --> 00:05:36,406
+The F50, by contrast,
+
+139
+00:05:36,406 --> 00:05:38,435
+has no power steering,
+
+140
+00:05:38,435 --> 00:05:42,495
+no traction control and no anti-lock brakes,
+
+141
+00:05:42,495 --> 00:05:46,554
+evo reported, so the driver does everything.
+
+142
+00:05:46,904 --> 00:05:50,294
+Wikipedia agrees about the F50's steering,
+
+143
+00:05:50,294 --> 00:05:54,248
+calling it an unassisted TRW rack-and-pinion with
+
+144
+00:05:54,248 --> 00:05:57,234
+three point three turns lock to lock,
+
+145
+00:05:57,234 --> 00:05:58,928
+and about the brakes:
+
+146
+00:05:58,928 --> 00:06:02,883
+Brembo four-piston calipers and ventilated discs,
+
+147
+00:06:02,883 --> 00:06:04,900
+with no anti-lock system.
+
+148
+00:06:05,080 --> 00:06:07,755
+The Enzo's page does not mention power
+
+149
+00:06:07,755 --> 00:06:08,389
+steering.
+
+150
+00:06:08,569 --> 00:06:10,980
+Our sources do not say whether the
+
+151
+00:06:10,980 --> 00:06:12,965
+Enzo's steering is assisted,
+
+152
+00:06:12,965 --> 00:06:14,525
+so we leave that open.
+
+153
+00:06:14,875 --> 00:06:17,829
+The Enzo's brakes are carbon-ceramic,
+
+154
+00:06:17,829 --> 00:06:20,305
+with fifteen-inch Brembo discs,
+
+155
+00:06:20,305 --> 00:06:21,423
+per Wikipedia.
+
+156
+00:06:21,603 --> 00:06:24,418
+The two cars' braking figures are not
+
+157
+00:06:24,418 --> 00:06:29,136
+directly comparable: Wikipedia lists the F50's seventy-to-zero
+
+158
+00:06:29,136 --> 00:06:32,256
+distance as one hundred seventy-six feet,
+
+159
+00:06:32,256 --> 00:06:35,147
+and RM Sotheby's quotes Road and Track
+
+160
+00:06:35,147 --> 00:06:37,658
+for the Enzo from eighty miles an
+
+161
+00:06:37,658 --> 00:06:40,550
+hour as one hundred eighty-eight feet.
+
+162
+00:06:40,730 --> 00:06:44,271
+Different start speeds make the numbers incomparable.
+
+163
+00:06:44,620 --> 00:06:46,548
+Zero to sixty first.
+
+164
+00:06:46,728 --> 00:06:49,929
+Wikipedia lists three point eight seconds for
+
+165
+00:06:49,929 --> 00:06:52,205
+the F50 and three point one four
+
+166
+00:06:52,205 --> 00:06:53,129
+for the Enzo,
+
+167
+00:06:53,129 --> 00:06:56,046
+but the Enzo's was measured downhill with
+
+168
+00:06:56,046 --> 00:06:57,397
+a one-foot rollout.
+
+169
+00:06:57,577 --> 00:07:00,412
+Motor Trend recorded three point three for
+
+170
+00:07:00,412 --> 00:07:02,303
+the Enzo without those aids.
+
+171
+00:07:02,483 --> 00:07:03,878
+By our arithmetic,
+
+172
+00:07:03,878 --> 00:07:05,893
+the Enzo is half a second,
+
+173
+00:07:05,893 --> 00:07:07,443
+or thirteen percent,
+
+174
+00:07:07,443 --> 00:07:10,389
+quicker on the fairer pair of numbers.
+
+175
+00:07:10,739 --> 00:07:13,679
+Evo's table gives zero to sixty-two as
+
+176
+00:07:13,679 --> 00:07:16,464
+three point nine seconds for the F50
+
+177
+00:07:16,464 --> 00:07:19,172
+and three point seven for the Enzo,
+
+178
+00:07:19,172 --> 00:07:21,106
+a gap of only two tenths.
+
+179
+00:07:21,286 --> 00:07:23,767
+The magazine tests are from the same
+
+180
+00:07:23,767 --> 00:07:24,525
+group test.
+
+181
+00:07:24,705 --> 00:07:27,528
+So depending on whose numbers you use,
+
+182
+00:07:27,528 --> 00:07:30,870
+the Enzo's acceleration advantage up to sixty
+
+183
+00:07:30,870 --> 00:07:33,543
+is between two tenths and two thirds
+
+184
+00:07:33,543 --> 00:07:34,435
+of a second.
+
+185
+00:07:34,784 --> 00:07:36,758
+The gap widens with speed.
+
+186
+00:07:36,938 --> 00:07:40,447
+Wikipedia lists zero to one hundred sixty-one
+
+187
+00:07:40,447 --> 00:07:41,929
+kilometres an hour,
+
+188
+00:07:41,929 --> 00:07:44,503
+which is a hundred miles an hour,
+
+189
+00:07:44,503 --> 00:07:47,232
+in eight point five seconds for the
+
+190
+00:07:47,232 --> 00:07:49,493
+F50 and six point six for the
+
+191
+00:07:49,493 --> 00:07:49,883
+Enzo.
+
+192
+00:07:50,063 --> 00:07:51,428
+By our arithmetic,
+
+193
+00:07:51,428 --> 00:07:54,081
+the Enzo is one point nine seconds,
+
+194
+00:07:54,081 --> 00:07:55,749
+or twenty-two percent,
+
+195
+00:07:55,749 --> 00:07:56,356
+quicker.
+
+196
+00:07:56,705 --> 00:07:59,132
+The quarter mile makes the same point.
+
+197
+00:07:59,312 --> 00:08:02,144
+Wikipedia gives the F50 twelve point one
+
+198
+00:08:02,144 --> 00:08:05,612
+seconds at one hundred ninety-eight kilometres an
+
+199
+00:08:05,612 --> 00:08:08,302
+hour, which it converts to one hundred
+
+200
+00:08:08,302 --> 00:08:10,214
+twenty-three miles an hour.
+
+201
+00:08:10,394 --> 00:08:13,425
+Road and Track's Enzo ran eleven point
+
+202
+00:08:13,425 --> 00:08:15,978
+one at one hundred thirty-three.
+
+203
+00:08:16,158 --> 00:08:17,395
+By our arithmetic,
+
+204
+00:08:17,395 --> 00:08:19,663
+that is a full second quicker and
+
+205
+00:08:19,663 --> 00:08:21,794
+ten miles an hour faster at the
+
+206
+00:08:21,794 --> 00:08:22,137
+line.
+
+207
+00:08:22,487 --> 00:08:26,628
+Top speed: Wikipedia says three hundred twenty-five
+
+208
+00:08:26,628 --> 00:08:29,631
+kilometres an hour is claimed for the
+
+209
+00:08:29,631 --> 00:08:32,473
+F50, about two hundred two miles an
+
+210
+00:08:32,473 --> 00:08:32,878
+hour.
+
+211
+00:08:33,058 --> 00:08:35,911
+RM Sotheby's and Evo agree on two
+
+212
+00:08:35,911 --> 00:08:36,948
+hundred two.
+
+213
+00:08:37,128 --> 00:08:39,669
+The Enzo's recorded speed is up to
+
+214
+00:08:39,669 --> 00:08:43,107
+three hundred fifty-five kilometres an hour on
+
+215
+00:08:43,107 --> 00:08:46,171
+Wikipedia, while RM and Sports Car Market
+
+216
+00:08:46,171 --> 00:08:49,086
+say two hundred eighteen miles an hour.
+
+217
+00:08:49,266 --> 00:08:50,826
+By our arithmetic,
+
+218
+00:08:50,826 --> 00:08:53,426
+that is a gap of sixteen miles
+
+219
+00:08:53,426 --> 00:08:54,119
+an hour.
+
+220
+00:08:54,468 --> 00:08:55,920
+Grip is closer.
+
+221
+00:08:56,100 --> 00:08:59,723
+Wikipedia lists the F50's skidpad at point
+
+222
+00:08:59,723 --> 00:09:00,759
+nine five g,
+
+223
+00:09:00,759 --> 00:09:03,347
+and the Enzo's at one point oh
+
+224
+00:09:03,347 --> 00:09:06,712
+five, while Road and Track's figure for
+
+225
+00:09:06,712 --> 00:09:09,300
+the Enzo was one point oh one.
+
+226
+00:09:09,480 --> 00:09:10,786
+By our arithmetic,
+
+227
+00:09:10,786 --> 00:09:13,254
+the Enzo holds between six and ten
+
+228
+00:09:13,254 --> 00:09:15,140
+percent more lateral grip,
+
+229
+00:09:15,140 --> 00:09:17,535
+which may be linked to the Enzo's
+
+230
+00:09:17,535 --> 00:09:20,510
+downforce, though our sources do not say.
+
+231
+00:09:20,690 --> 00:09:23,163
+They give no F50 downforce figure.
+
+232
+00:09:23,512 --> 00:09:26,997
+On track, the F50's recorded Fiorano lap
+
+233
+00:09:26,997 --> 00:09:30,307
+is one minute twenty-seven point oh oh
+
+234
+00:09:30,307 --> 00:09:32,310
+seconds, per Wikipedia,
+
+235
+00:09:32,310 --> 00:09:35,185
+and RM Sotheby's says the F50 was
+
+236
+00:09:35,185 --> 00:09:38,582
+four seconds faster than the F40 there.
+
+237
+00:09:38,762 --> 00:09:41,292
+Our sources give no Fiorano time for
+
+238
+00:09:41,292 --> 00:09:43,751
+the Enzo, so we cannot compare them
+
+239
+00:09:43,751 --> 00:09:45,508
+on Ferrari's own circuit.
+
+240
+00:09:45,688 --> 00:09:48,573
+We do have the Enzo's Nordschleife time
+
+241
+00:09:48,573 --> 00:09:50,126
+of seven twenty-five,
+
+242
+00:09:50,126 --> 00:09:51,458
+but not the F50's.
+
+243
+00:09:51,807 --> 00:09:54,446
+Weight is awkward because the sources use
+
+244
+00:09:54,446 --> 00:09:55,476
+different bases.
+
+245
+00:09:55,656 --> 00:09:58,393
+Wikipedia gives the F50 a curb weight
+
+246
+00:09:58,393 --> 00:10:01,500
+of twelve hundred thirty kilograms and the
+
+247
+00:10:01,500 --> 00:10:04,385
+Enzo a dry weight of twelve fifty-five,
+
+248
+00:10:04,385 --> 00:10:07,197
+with a curb weight of fourteen eighty.
+
+249
+00:10:07,377 --> 00:10:09,750
+Evo gives both cars as dry,
+
+250
+00:10:09,750 --> 00:10:12,915
+twelve thirty and twelve fifty-five.
+
+251
+00:10:13,095 --> 00:10:14,290
+By our arithmetic,
+
+252
+00:10:14,290 --> 00:10:16,480
+on Evo's numbers the Enzo is just
+
+253
+00:10:16,480 --> 00:10:17,808
+two percent heavier.
+
+254
+00:10:18,159 --> 00:10:19,668
+Power-to-weight follows.
+
+255
+00:10:19,848 --> 00:10:22,751
+By our arithmetic from Evo's weights,
+
+256
+00:10:22,751 --> 00:10:26,361
+the F50 makes four hundred twenty-three metric
+
+257
+00:10:26,361 --> 00:10:28,009
+horsepower per tonne,
+
+258
+00:10:28,009 --> 00:10:30,912
+and the Enzo five hundred twenty-six,
+
+259
+00:10:30,912 --> 00:10:33,188
+a gap of twenty-four percent.
+
+260
+00:10:33,368 --> 00:10:36,202
+Evo's own table gives four twenty-four and
+
+261
+00:10:36,202 --> 00:10:39,103
+five twenty-seven brake horsepower per ton.
+
+262
+00:10:39,283 --> 00:10:42,065
+The Wikipedia page for the F50 gives
+
+263
+00:10:42,065 --> 00:10:45,465
+two point six nine kilograms per horsepower,
+
+264
+00:10:45,465 --> 00:10:48,170
+which does not match its own weight
+
+265
+00:10:48,170 --> 00:10:48,942
+and power.
+
+266
+00:10:49,293 --> 00:10:52,799
+Structurally, both are carbon-fibre cars.
+
+267
+00:10:52,979 --> 00:10:56,072
+Wikipedia describes the F50's central tub as
+
+268
+00:10:56,072 --> 00:10:59,166
+carbon-fibre with a Nomex honeycomb core and
+
+269
+00:10:59,166 --> 00:11:02,681
+a torsional stiffness of thirty-four thousand five
+
+270
+00:11:02,681 --> 00:11:05,564
+hundred seventy newton-metres per degree.
+
+271
+00:11:05,744 --> 00:11:09,513
+It uses push-rod double-wishbone suspension at both
+
+272
+00:11:09,513 --> 00:11:12,617
+ends with electronically adaptive dampers.
+
+273
+00:11:12,797 --> 00:11:15,594
+The Enzo uses a carbon-fibre body and
+
+274
+00:11:15,594 --> 00:11:18,618
+chassis, but its page gives no stiffness
+
+275
+00:11:18,618 --> 00:11:19,148
+figure.
+
+276
+00:11:19,498 --> 00:11:21,599
+The Enzo is the bigger car.
+
+277
+00:11:21,779 --> 00:11:24,663
+Wikipedia lists the F50 at four thousand
+
+278
+00:11:24,663 --> 00:11:27,332
+four hundred eighty millimetres long,
+
+279
+00:11:27,332 --> 00:11:30,721
+nineteen eighty-six wide and eleven twenty high
+
+280
+00:11:30,721 --> 00:11:33,389
+on a wheelbase of twenty-five eighty.
+
+281
+00:11:33,569 --> 00:11:36,573
+The Enzo is four thousand seven hundred
+
+282
+00:11:36,573 --> 00:11:39,192
+two long, twenty thirty-five wide,
+
+283
+00:11:39,192 --> 00:11:41,040
+eleven forty-seven high,
+
+284
+00:11:41,040 --> 00:11:43,890
+with a wheelbase of twenty-six fifty.
+
+285
+00:11:44,070 --> 00:11:45,408
+By our arithmetic,
+
+286
+00:11:45,408 --> 00:11:47,785
+the Enzo is five percent longer.
+
+287
+00:11:48,136 --> 00:11:50,458
+The aerodynamics differ in kind.
+
+288
+00:11:50,638 --> 00:11:53,307
+Wikipedia lists the Enzo's downforce,
+
+289
+00:11:53,307 --> 00:11:56,914
+three hundred forty-three kilograms at two hundred
+
+290
+00:11:56,914 --> 00:12:00,449
+kilometres an hour and seven hundred seventy-five
+
+291
+00:12:00,449 --> 00:12:01,675
+at three hundred,
+
+292
+00:12:01,675 --> 00:12:04,633
+and says it used active aerodynamics that
+
+293
+00:12:04,633 --> 00:12:06,508
+Formula One did not allow.
+
+294
+00:12:06,688 --> 00:12:09,524
+The F50 page gives no downforce figure
+
+295
+00:12:09,524 --> 00:12:11,762
+and mentions no active system.
+
+296
+00:12:11,942 --> 00:12:14,574
+That is a reported difference in the
+
+297
+00:12:14,574 --> 00:12:17,060
+pages, not a proven absence on the
+
+298
+00:12:17,060 --> 00:12:17,352
+F50.
+
+299
+00:12:17,702 --> 00:12:19,431
+The F50 is the rarer car on
+
+300
+00:12:19,431 --> 00:12:19,816
+paper.
+
+301
+00:12:19,996 --> 00:12:21,965
+Wikipedia, RM Sotheby's,
+
+302
+00:12:21,965 --> 00:12:25,247
+the DuPont Registry and Hagerty all give
+
+303
+00:12:25,247 --> 00:12:27,298
+three hundred forty-nine.
+
+304
+00:12:27,478 --> 00:12:30,119
+The Enzo is four hundred by Hagerty
+
+305
+00:12:30,119 --> 00:12:31,780
+and Sports Car Market,
+
+306
+00:12:31,780 --> 00:12:34,421
+and four ninety-eight by Wikipedia.
+
+307
+00:12:34,601 --> 00:12:35,802
+By our arithmetic,
+
+308
+00:12:35,802 --> 00:12:38,405
+the F50 run is thirteen percent smaller
+
+309
+00:12:38,405 --> 00:12:40,274
+than the four hundred Enzos,
+
+310
+00:12:40,274 --> 00:12:43,610
+and thirty percent smaller than four ninety-eight.
+
+311
+00:12:43,961 --> 00:12:46,737
+Sports Car Market says the F50's run
+
+312
+00:12:46,737 --> 00:12:49,668
+was one less than the market demanded,
+
+313
+00:12:49,668 --> 00:12:52,599
+meaning that demand fell just short of
+
+314
+00:12:52,599 --> 00:12:53,910
+the number built.
+
+315
+00:12:54,090 --> 00:12:56,560
+It adds that the first owners leased
+
+316
+00:12:56,560 --> 00:12:58,618
+rather than bought their cars,
+
+317
+00:12:58,618 --> 00:13:02,391
+which limited speculation but also dampened enthusiasm.
+
+318
+00:13:02,571 --> 00:13:05,047
+Its summary: the F40 hit a hot
+
+319
+00:13:05,047 --> 00:13:07,935
+button which the F50 simply missed.
+
+320
+00:13:08,285 --> 00:13:09,950
+The Enzo was the opposite,
+
+321
+00:13:09,950 --> 00:13:10,526
+at first.
+
+322
+00:13:10,706 --> 00:13:14,009
+RM Sotheby's says its three hundred forty-nine
+
+323
+00:13:14,009 --> 00:13:17,168
+planned cars were all sold before production
+
+324
+00:13:17,168 --> 00:13:19,681
+began, with fifty more later built.
+
+325
+00:13:19,861 --> 00:13:21,619
+Buyers had to be invited,
+
+326
+00:13:21,619 --> 00:13:24,291
+generally from among owners of the F40
+
+327
+00:13:24,291 --> 00:13:24,853
+and F50.
+
+328
+00:13:25,033 --> 00:13:26,752
+So the F50 was a car you
+
+329
+00:13:26,752 --> 00:13:28,830
+could buy, and the Enzo was a
+
+330
+00:13:28,830 --> 00:13:30,908
+car you had to be chosen for.
+
+331
+00:13:31,258 --> 00:13:34,635
+US allocation: RM says fifty-five of the
+
+332
+00:13:34,635 --> 00:13:38,351
+F50s were earmarked for the American market.
+
+333
+00:13:38,531 --> 00:13:39,975
+By our arithmetic,
+
+334
+00:13:39,975 --> 00:13:43,024
+that is sixteen percent of production.
+
+335
+00:13:43,204 --> 00:13:46,605
+Hagerty says eighty of four hundred Enzos,
+
+336
+00:13:46,605 --> 00:13:48,062
+or twenty percent,
+
+337
+00:13:48,062 --> 00:13:49,358
+went to America.
+
+338
+00:13:49,538 --> 00:13:52,809
+Italpassion says one hundred eleven of four
+
+339
+00:13:52,809 --> 00:13:55,319
+ninety-eight, twenty-two percent.
+
+340
+00:13:55,499 --> 00:13:58,478
+So the Enzo's American share was larger
+
+341
+00:13:58,478 --> 00:14:00,387
+on either set of numbers.
+
+342
+00:14:00,738 --> 00:14:04,405
+Colours: Wikipedia gives the F50 totals by
+
+343
+00:14:04,405 --> 00:14:04,929
+paint.
+
+344
+00:14:05,109 --> 00:14:08,288
+Rosso Corsa on three hundred two cars,
+
+345
+00:14:08,288 --> 00:14:11,217
+yellow Giallo Modena on thirty-one,
+
+346
+00:14:11,217 --> 00:14:13,308
+Rosso Barchetta on eight,
+
+347
+00:14:13,308 --> 00:14:16,990
+Argento Nürburgring on four and Nero Daytona
+
+348
+00:14:16,990 --> 00:14:17,659
+on four.
+
+349
+00:14:17,839 --> 00:14:19,143
+By our arithmetic,
+
+350
+00:14:19,143 --> 00:14:22,402
+nearly eighty-seven percent of F50s were red.
+
+351
+00:14:22,582 --> 00:14:25,331
+The Enzo page lists five colours but
+
+352
+00:14:25,331 --> 00:14:26,552
+gives no counts.
+
+353
+00:14:26,902 --> 00:14:29,654
+The F50 also had a racing sibling.
+
+354
+00:14:29,834 --> 00:14:31,917
+Wikipedia says the F50 GT,
+
+355
+00:14:31,917 --> 00:14:35,523
+developed with Dallara and Michelotto for the
+
+356
+00:14:35,523 --> 00:14:38,889
+BPR series, made about seven hundred fifty
+
+357
+00:14:38,889 --> 00:14:42,495
+brake horsepower at ten thousand five hundred
+
+358
+00:14:42,495 --> 00:14:42,895
+revs.
+
+359
+00:14:43,075 --> 00:14:44,962
+Six chassis were planned,
+
+360
+00:14:44,962 --> 00:14:46,547
+three cars were sold,
+
+361
+00:14:46,547 --> 00:14:49,867
+and the remaining three tubs were reportedly
+
+362
+00:14:49,867 --> 00:14:50,622
+destroyed.
+
+363
+00:14:50,802 --> 00:14:53,107
+The Enzo's racing relative,
+
+364
+00:14:53,107 --> 00:14:56,096
+the FXX, was track-only and sold to
+
+365
+00:14:56,096 --> 00:14:57,547
+selected clients.
+
+366
+00:14:57,898 --> 00:15:00,788
+The F50's original price is contested.
+
+367
+00:15:00,968 --> 00:15:04,292
+The DuPont Registry says the manufacturer's price
+
+368
+00:15:04,292 --> 00:15:07,006
+was four hundred fifty thousand dollars.
+
+369
+00:15:07,186 --> 00:15:10,970
+Hagerty's page lists four hundred eighty-seven thousand.
+
+370
+00:15:11,150 --> 00:15:14,236
+Evo gives three hundred forty-two thousand seven
+
+371
+00:15:14,236 --> 00:15:16,743
+hundred pounds for the British price in
+
+372
+00:15:16,743 --> 00:15:18,093
+nineteen ninety-five.
+
+373
+00:15:18,273 --> 00:15:21,856
+Sports Car Market's profile shows four hundred
+
+374
+00:15:21,856 --> 00:15:25,439
+seventy-five thousand, but in a table labelled
+
+375
+00:15:25,439 --> 00:15:26,296
+for an F40,
+
+376
+00:15:26,296 --> 00:15:28,165
+so we do not rely on it.
+
+377
+00:15:28,515 --> 00:15:29,392
+For the Enzo,
+
+378
+00:15:29,392 --> 00:15:31,822
+Sports Car Market gives a list price
+
+379
+00:15:31,822 --> 00:15:35,129
+of six hundred forty-three thousand three hundred
+
+380
+00:15:35,129 --> 00:15:37,829
+thirty dollars, and Evo gives about four
+
+381
+00:15:37,829 --> 00:15:40,934
+hundred twenty thousand pounds in two thousand
+
+382
+00:15:40,934 --> 00:15:41,204
+two.
+
+383
+00:15:41,384 --> 00:15:42,697
+By our arithmetic,
+
+384
+00:15:42,697 --> 00:15:46,199
+the Enzo cost between thirty-two and forty-three
+
+385
+00:15:46,199 --> 00:15:48,534
+percent more than the F50 in the
+
+386
+00:15:48,534 --> 00:15:52,182
+American figures, and twenty-three percent more in
+
+387
+00:15:52,182 --> 00:15:52,692
+pounds.
+
+388
+00:15:53,042 --> 00:15:56,383
+Hagerty's valuation pages now show almost the
+
+389
+00:15:56,383 --> 00:15:57,942
+same number for both.
+
+390
+00:15:58,122 --> 00:16:00,556
+The F50 is three million six hundred
+
+391
+00:16:00,556 --> 00:16:02,111
+fifty thousand dollars,
+
+392
+00:16:02,111 --> 00:16:04,545
+with a plus four point three percent
+
+393
+00:16:04,545 --> 00:16:07,114
+change, though the page does not label
+
+394
+00:16:07,114 --> 00:16:08,060
+either figure.
+
+395
+00:16:08,240 --> 00:16:11,438
+The Enzo's typical value is three million
+
+396
+00:16:11,438 --> 00:16:13,076
+six hundred thousand,
+
+397
+00:16:13,076 --> 00:16:15,728
+with no change over twelve months.
+
+398
+00:16:15,908 --> 00:16:17,247
+By our arithmetic,
+
+399
+00:16:17,247 --> 00:16:20,297
+the difference is one point four percent.
+
+400
+00:16:20,646 --> 00:16:23,119
+Auction results tell a different story.
+
+401
+00:16:23,299 --> 00:16:26,462
+A nineteen ninety-five F50 sold for three
+
+402
+00:16:26,462 --> 00:16:30,010
+million nine hundred sixty-five thousand at RM
+
+403
+00:16:30,010 --> 00:16:32,324
+Monterey in twenty twenty-one,
+
+404
+00:16:32,324 --> 00:16:35,641
+a car with about eighty-four hundred miles.
+
+405
+00:16:35,821 --> 00:16:38,640
+A low-mileage one made five million five
+
+406
+00:16:38,640 --> 00:16:42,093
+hundred thirty-two thousand five hundred in Miami
+
+407
+00:16:42,093 --> 00:16:44,066
+in March twenty twenty-five,
+
+408
+00:16:44,066 --> 00:16:45,546
+a record at the time,
+
+409
+00:16:45,546 --> 00:16:47,872
+according to the DuPont Registry.
+
+410
+00:16:48,221 --> 00:16:50,439
+The record has gone higher since.
+
+411
+00:16:50,619 --> 00:16:54,788
+Italpassion, describing the RM Sotheby's Phoenix sale
+
+412
+00:16:54,788 --> 00:16:57,070
+in January twenty twenty-six,
+
+413
+00:16:57,070 --> 00:16:59,665
+says an F50 set an absolute model
+
+414
+00:16:59,665 --> 00:17:02,340
+record of nine point two four five
+
+415
+00:17:02,340 --> 00:17:05,801
+million dollars at Monterey in August twenty
+
+416
+00:17:05,801 --> 00:17:06,745
+twenty-five.
+
+417
+00:17:06,925 --> 00:17:09,154
+It lists an estimate of seven to
+
+418
+00:17:09,154 --> 00:17:11,523
+nine million for the F50 on offer.
+
+419
+00:17:11,703 --> 00:17:13,862
+We do not have the Phoenix result.
+
+420
+00:17:14,213 --> 00:17:15,501
+By our arithmetic,
+
+421
+00:17:15,501 --> 00:17:18,793
+that record is one hundred fifty-three percent
+
+422
+00:17:18,793 --> 00:17:21,728
+above the Enzo's highest recorded sale of
+
+423
+00:17:21,728 --> 00:17:23,589
+six point oh five million,
+
+424
+00:17:23,589 --> 00:17:26,452
+per Italpassion, and two point one times
+
+425
+00:17:26,452 --> 00:17:29,672
+Hagerty's highest Enzo auction in three years
+
+426
+00:17:29,672 --> 00:17:33,323
+of four million four hundred twenty-seven thousand.
+
+427
+00:17:33,503 --> 00:17:36,725
+Against Hagerty's typical F50 value,
+
+428
+00:17:36,725 --> 00:17:39,410
+the record car sold at two and
+
+429
+00:17:39,410 --> 00:17:40,573
+a half times.
+
+430
+00:17:40,923 --> 00:17:43,156
+Look at how far the F50 has
+
+431
+00:17:43,156 --> 00:17:43,570
+come.
+
+432
+00:17:43,750 --> 00:17:46,891
+Sports Car Market recorded an F50 selling
+
+433
+00:17:46,891 --> 00:17:50,261
+for five hundred eleven thousand six hundred
+
+434
+00:17:50,261 --> 00:17:53,556
+seventy-six dollars at RM London in October
+
+435
+00:17:53,556 --> 00:17:55,011
+two thousand eight.
+
+436
+00:17:55,191 --> 00:17:56,632
+By our arithmetic,
+
+437
+00:17:56,632 --> 00:18:00,474
+the August twenty twenty-five record is eighteen
+
+438
+00:18:00,474 --> 00:18:03,596
+times that, or about nineteen percent a
+
+439
+00:18:03,596 --> 00:18:05,838
+year across seventeen years.
+
+440
+00:18:06,018 --> 00:18:08,645
+Different cars, different mileages,
+
+441
+00:18:08,645 --> 00:18:10,522
+so this is a market move,
+
+442
+00:18:10,522 --> 00:18:11,498
+not a return.
+
+443
+00:18:11,848 --> 00:18:12,927
+And the Enzo.
+
+444
+00:18:13,107 --> 00:18:16,481
+Hagerty's three point six million is five
+
+445
+00:18:16,481 --> 00:18:19,609
+point six times the Enzo's list price.
+
+446
+00:18:19,789 --> 00:18:22,558
+The F50's three point six five million
+
+447
+00:18:22,558 --> 00:18:25,109
+is eight point one times the DuPont
+
+448
+00:18:25,109 --> 00:18:27,951
+Registry's four hundred fifty thousand.
+
+449
+00:18:28,131 --> 00:18:29,504
+By our arithmetic,
+
+450
+00:18:29,504 --> 00:18:32,709
+the F50 has appreciated faster against its
+
+451
+00:18:32,709 --> 00:18:35,685
+original price, though the F50 price is
+
+452
+00:18:35,685 --> 00:18:38,966
+itself uncertain, and the Enzo's list price
+
+453
+00:18:38,966 --> 00:18:40,263
+excludes options.
+
+454
+00:18:40,613 --> 00:18:43,136
+Evo ranked the cars in February two
+
+455
+00:18:43,136 --> 00:18:46,525
+thousand four: the Ferrari two eighty-eight GTO
+
+456
+00:18:46,525 --> 00:18:48,111
+first, the F50 second,
+
+457
+00:18:48,111 --> 00:18:50,562
+the Enzo third and the F40 fourth.
+
+458
+00:18:50,742 --> 00:18:54,060
+Bovingdon called the F50 the most engaging
+
+459
+00:18:54,060 --> 00:18:57,141
+physically and emotionally of the four,
+
+460
+00:18:57,141 --> 00:19:00,300
+and said Ferrari perfected what we think
+
+461
+00:19:00,300 --> 00:19:02,591
+of as a supercar when it made
+
+462
+00:19:02,591 --> 00:19:03,223
+the F50.
+
+463
+00:19:03,403 --> 00:19:04,872
+The Enzo was faster,
+
+464
+00:19:04,872 --> 00:19:06,120
+but ranked lower.
+
+465
+00:19:06,470 --> 00:19:08,800
+Jalopnik, in July twenty ten,
+
+466
+00:19:08,800 --> 00:19:11,934
+called the F50 the unloved middle child
+
+467
+00:19:11,934 --> 00:19:14,103
+of Ferrari's hypercar line,
+
+468
+00:19:14,103 --> 00:19:17,077
+said some found it less hardcore than
+
+469
+00:19:17,077 --> 00:19:19,809
+the F40 and less advanced than the
+
+470
+00:19:19,809 --> 00:19:23,184
+Enzo, and concluded that nothing was wrong
+
+471
+00:19:23,184 --> 00:19:23,826
+with it.
+
+472
+00:19:24,006 --> 00:19:26,879
+It said the F50's design contained Ferrari's
+
+473
+00:19:26,879 --> 00:19:28,511
+early-nineties knowledge.
+
+474
+00:19:28,691 --> 00:19:30,709
+Opinion has shifted since,
+
+475
+00:19:30,709 --> 00:19:32,650
+as the prices above show.
+
+476
+00:19:33,001 --> 00:19:35,279
+The Enzo's own reviews were mixed on
+
+477
+00:19:35,279 --> 00:19:35,659
+looks.
+
+478
+00:19:35,839 --> 00:19:39,648
+Wikipedia lists Bloomberg Businessweek putting it among
+
+479
+00:19:39,648 --> 00:19:41,241
+its fifty ugliest cars,
+
+480
+00:19:41,241 --> 00:19:44,426
+while Sports Car International ranked it third
+
+481
+00:19:44,426 --> 00:19:46,642
+among the top sports cars of the
+
+482
+00:19:46,642 --> 00:19:47,612
+two thousands.
+
+483
+00:19:47,792 --> 00:19:50,450
+Jalopnik said the Enzo had aged well.
+
+484
+00:19:50,630 --> 00:19:53,627
+RM Sotheby's says an alarming number of
+
+485
+00:19:53,627 --> 00:19:55,778
+Enzos have been written off,
+
+486
+00:19:55,778 --> 00:19:57,084
+which, it argues,
+
+487
+00:19:57,084 --> 00:19:59,466
+makes survivors more desirable.
+
+488
+00:19:59,816 --> 00:20:02,743
+Cost of ownership is where the F50
+
+489
+00:20:02,743 --> 00:20:03,949
+shows its age.
+
+490
+00:20:04,129 --> 00:20:06,993
+The Drive reported that a clutch job
+
+491
+00:20:06,993 --> 00:20:10,016
+on an F50 requires removing the entire
+
+492
+00:20:10,016 --> 00:20:12,244
+rear subframe and transaxle.
+
+493
+00:20:12,424 --> 00:20:15,266
+Parts were about five thousand dollars from
+
+494
+00:20:15,266 --> 00:20:17,381
+a two thousand eight forum post,
+
+495
+00:20:17,381 --> 00:20:19,298
+and the labour rate at one UK
+
+496
+00:20:19,298 --> 00:20:22,206
+shop starts around fourteen hundred dollars,
+
+497
+00:20:22,206 --> 00:20:24,915
+so the article's own minimum estimate was
+
+498
+00:20:24,915 --> 00:20:26,832
+about seven thousand dollars.
+
+499
+00:20:27,182 --> 00:20:29,580
+The Drive also says a major F50
+
+500
+00:20:29,580 --> 00:20:32,288
+service replaces the fuel bladders,
+
+501
+00:20:32,288 --> 00:20:34,996
+at about eighteen thousand dollars,
+
+502
+00:20:34,996 --> 00:20:37,317
+per a twenty ten forum thread.
+
+503
+00:20:37,497 --> 00:20:40,287
+And the RM Sotheby's catalogue for a
+
+504
+00:20:40,287 --> 00:20:43,541
+twenty twenty-one F50 lists work in August
+
+505
+00:20:43,541 --> 00:20:46,408
+twenty seventeen, a new fuel bladder,
+
+506
+00:20:46,408 --> 00:20:48,113
+tyres and brake lines,
+
+507
+00:20:48,113 --> 00:20:51,058
+for nearly fifty-one thousand dollars.
+
+508
+00:20:51,238 --> 00:20:53,329
+Forum numbers are unverified,
+
+509
+00:20:53,329 --> 00:20:55,782
+but the catalogue one comes from a
+
+510
+00:20:55,782 --> 00:20:57,008
+seller's records.
+
+511
+00:20:57,358 --> 00:20:58,257
+For the Enzo,
+
+512
+00:20:58,257 --> 00:21:00,817
+the best-sourced figures are limited.
+
+513
+00:21:00,997 --> 00:21:03,691
+Sports Car Market says a tune-up starts
+
+514
+00:21:03,691 --> 00:21:05,486
+at three thousand dollars,
+
+515
+00:21:05,486 --> 00:21:07,558
+and that one car had a sixteen
+
+516
+00:21:07,558 --> 00:21:10,320
+thousand dollar service before its sale.
+
+517
+00:21:10,500 --> 00:21:13,011
+A UK Enzo's records show a clutch
+
+518
+00:21:13,011 --> 00:21:16,892
+replacement at seventeen thousand kilometres in two
+
+519
+00:21:16,892 --> 00:21:19,556
+thousand eighteen, without a price.
+
+520
+00:21:19,736 --> 00:21:22,136
+Websites list bigger numbers,
+
+521
+00:21:22,136 --> 00:21:23,791
+but without sources,
+
+522
+00:21:23,791 --> 00:21:25,529
+so we leave them out.
+
+523
+00:21:25,880 --> 00:21:27,660
+Putting the two together,
+
+524
+00:21:27,660 --> 00:21:30,225
+our sources show the F50 needing its
+
+525
+00:21:30,225 --> 00:21:32,362
+fuel bladders and clutch work,
+
+526
+00:21:32,362 --> 00:21:34,713
+and the Enzo needing a clutch and
+
+527
+00:21:34,713 --> 00:21:35,853
+gearbox service.
+
+528
+00:21:36,033 --> 00:21:38,571
+But no source here compares the two
+
+529
+00:21:38,571 --> 00:21:40,965
+cars' running costs head to head,
+
+530
+00:21:40,965 --> 00:21:43,359
+so we cannot say which is cheaper
+
+531
+00:21:43,359 --> 00:21:43,939
+to keep.
+
+532
+00:21:44,119 --> 00:21:47,013
+Anyone who tells you otherwise is guessing,
+
+533
+00:21:47,013 --> 00:21:49,302
+or relying on figures we could not
+
+534
+00:21:49,302 --> 00:21:49,773
+verify.
+
+535
+00:21:50,123 --> 00:21:51,725
+So which is better?
+
+536
+00:21:51,905 --> 00:21:53,274
+Round by round:
+
+537
+00:21:53,274 --> 00:21:55,373
+the Enzo wins on power,
+
+538
+00:21:55,373 --> 00:21:59,115
+torque, acceleration, top speed and grip.
+
+539
+00:21:59,295 --> 00:22:01,535
+The F50 wins on involvement,
+
+540
+00:22:01,535 --> 00:22:02,895
+according to evo,
+
+541
+00:22:02,895 --> 00:22:04,816
+on the magazine ranking,
+
+542
+00:22:04,816 --> 00:22:05,936
+and on rarity,
+
+543
+00:22:05,936 --> 00:22:07,456
+by a modest margin.
+
+544
+00:22:07,636 --> 00:22:10,115
+Prices today are almost the same,
+
+545
+00:22:10,115 --> 00:22:12,443
+and the F50's record is higher.
+
+546
+00:22:12,623 --> 00:22:15,389
+The answer depends on whether you want
+
+547
+00:22:15,389 --> 00:22:16,408
+speed or feel.
+
+548
+00:22:16,758 --> 00:22:18,435
+The real difference,
+
+549
+00:22:18,435 --> 00:22:20,113
+then, is philosophy.
+
+550
+00:22:20,293 --> 00:22:23,049
+The F50 was a supercar you operated
+
+551
+00:22:23,049 --> 00:22:25,963
+with a manual lever and no electronic
+
+552
+00:22:25,963 --> 00:22:26,829
+safety net.
+
+553
+00:22:27,009 --> 00:22:29,814
+The Enzo replaced it with automation,
+
+554
+00:22:29,814 --> 00:22:32,164
+ceramic brakes and active aero.
+
+555
+00:22:32,344 --> 00:22:34,337
+That's our reading of the sources,
+
+556
+00:22:34,337 --> 00:22:36,036
+not a statement from Ferrari.
+
+557
+00:22:36,216 --> 00:22:38,601
+Each choice made the car faster in
+
+558
+00:22:38,601 --> 00:22:41,197
+one way and less engaging in another.
+
+559
+00:22:41,547 --> 00:22:43,627
+What we could not confirm:
+
+560
+00:22:43,627 --> 00:22:46,027
+the F50's real original price,
+
+561
+00:22:46,027 --> 00:22:48,187
+with figures of four fifty,
+
+562
+00:22:48,187 --> 00:22:52,507
+four eighty-seven and three hundred forty-two thousand
+
+563
+00:22:52,507 --> 00:22:56,267
+pounds; the Enzo's true production total; which
+
+564
+00:22:56,267 --> 00:22:59,227
+Formula One engine the F50 came from;
+
+565
+00:22:59,227 --> 00:23:02,748
+the Enzo's Fiorano time; the Enzo's steering
+
+566
+00:23:02,748 --> 00:23:07,228
+assistance; and a like-for-like running-cost comparison.
+
+567
+00:23:07,408 --> 00:23:09,289
+We flagged each as it came up.
+
+568
+00:23:09,639 --> 00:23:11,504
+That is the difference between the Ferrari
+
+569
+00:23:11,504 --> 00:23:12,659
+Enzo and the F50 as far as
+
+570
+00:23:12,659 --> 00:23:13,458
+the evidence goes.
+
+571
+00:23:13,638 --> 00:23:14,707
+One is quicker,
+
+572
+00:23:14,707 --> 00:23:16,773
+and the other more involving.
+
+573
+00:23:16,953 --> 00:23:18,110
+If this helped,
+
+574
+00:23:18,110 --> 00:23:20,271
+subscribe to Pickup Reality,
+
+575
+00:23:20,271 --> 00:23:22,817
+and tell us which two exotic cars
+
+576
+00:23:22,817 --> 00:23:24,592
+you want compared next.
+
+577
+00:23:24,772 --> 00:23:26,932
+Every source is in the description.
