@@ -1,0 +1,122 @@
+# Photo credits: Rimac Nevera vs Bugatti Tourbillon: Electric vs V16
+
+- Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0596).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0593).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0618).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0623).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0608).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac (101).jpg by El monty, CC BY-SA 4.0
+- Green Monster Seats.jpg by Aidan Siegel, CC BY-SA 3.0
+- Green Monster (10374170485).jpg by Kelly from Parsons, Kansas, CC BY-SA 2.0
+- Green Monster business end.jpg by Bri ham, Public domain
+- The Green Monster (3687997697).jpg by Shaun C. Williams from USA, CC BY 2.0
+- Green Monster Nose.JPG by Bri ham, Public domain
+- Green Monster Sign (4242190978).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Green Monster at Fenway Park, 2013.JPG by Zoke, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0
+- Rimac - Nevera 01.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 10.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 06.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 03.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 04.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac Nevera (2024) (53622122405).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac Nevera (2024) (53621883578).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac - Nevera 05.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 14.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Tourbillon (53863936597).jpg by Francisco Antunes from Manchester, United Kingdom, CC BY 2.0
+- Bugatti Tourbillon (53863936597) (cropped).jpg by Francisco Antunes from Manchester, United Kingdom, CC BY 2.0
+- Bugatti Tourbillon - 02.jpg by Y.Leclercq, CC BY-SA 4.0
+- Rimac - Nevera 09.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 02.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 07.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 08.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac Nevera Time Attack at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Rimac Nevera, Auto 2024, Zurich (PANA0908).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 4.jpg by Calreyn88, CC BY-SA 4.0
+- Rimac Nevera (61051).jpg by Calreyn88, CC BY-SA 4.0
+- Rimac Nevera (91671).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Rimac Nevera 1.jpg by Calreyn88, CC0
+- 2024 Bugatti Tourbillon 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 13.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon.jpg by Calreyn88, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6949.jpg by Alexander-93, CC BY-SA 4.0
+- Goodwood Festival of Speed 2021 (51306742742).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Rimac Nevera, IAA Open Space 2023, Munich (P1120126).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera in Bridgehampton, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera in Bridgehampton, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Tourbillon - 01.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Tourbillon - 03.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Tourbillon (53865256200).jpg by Francisco Antunes from Manchester, United Kingdom, CC BY 2.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Electric Car Display.jpg by AkiliDaniels, CC BY-SA 4.0
+- Jolliet Street Electric Car Dash Zap.JPG by Infrogmation of New Orleans, CC BY-SA 3.0
+- General Electric Centennial Electric GE-100, interior.jpg by Mr.choppers, CC BY-SA 3.0
+- Cologne Germany Electric-Car-Charging-Point-at-TUV-Rheinland-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Electric car charging station in Begumpet, Hyderabad.jpg by iMahesh, CC BY-SA 4.0
+- Close-up of an electric car charging. Traffic lights in a blurry background.jpg by Ivan Radic, CC BY 2.0
+- Winslow Homer - In Charge of Baby.jpg by Winslow Homer, Public domain
+- Home charging 110v BMW i3 CRI 8148.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Home charging 110v BMW i3 CRI 8134.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- India - Kolkata electricity meters - 3832.jpg by Jorge Royan, CC BY-SA 3.0
+- Kos-Kos city-Electricity meter-01ASD.jpg by Asurnipal, CC BY-SA 4.0
+- Aclara I-210+ single phase smart electricity meter.jpg by 277volts, CC BY-SA 4.0
+- 2025 Rimac Nevera - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Goodwood Festival of Speed 2022 (52172809131).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Ettore Bugatti 001.jpg by Arnaud 25, CC BY-SA 4.0
+- Ettore Bugatti et son fils Jean Bugatti.jpg by Arnaud 25, CC BY-SA 4.0
+- Auto Red Bug, with Ettore Bugatti and king Léopold III of Belgium.jpg by Arnaud 25, CC BY-SA 4.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", interior.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-7015.jpg by Raimond Spekking, CC BY-SA 4.0
+- Nico Rosberg 2006 Indianapolis.jpg by Ryosuke Yagi, CC BY 2.0
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-6961.jpg by Raimond Spekking, CC BY-SA 4.0
+- Fiat 131 Abarth Rally Car (1976) (53772346811).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Fiat 131 Abarth Rally Car (1976) (53772346821).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1966 Porsche 910-001, front left (Greenwich 2024).jpg by Mr.choppers, CC BY-SA 3.0
+- Green Monster IV Agritechnica 2025 (DSC08314).jpg by MarcelX42, CC BY-SA 4.0
+- Wally the Green Monster sand sculpture.jpg by Eric Kilby, CC BY-SA 2.0
+- Wally the Green Monster - Rubenstein - Crowd.jpg by Rubenstein, CC BY 2.0
+- Green Monster w- Flags (4241250989).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Green Monster Left Field - panoramio.jpg by Baseball Panoramic, CC BY 3.0
+- Rich Davey and Wally the Green Monster at Kenmore station, April 2010.jpg by MassDOT, Public domain
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- 24 Heures du Mans 2026 Hypercar No. 94 Peugeot 9X8 (left side).jpg by T GOUREAU, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Wikipedia, Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon
+- Wikipedia, Mate Rimac: https://en.wikipedia.org/wiki/Mate_Rimac
+- Wikipedia, Bugatti Rimac: https://en.wikipedia.org/wiki/Bugatti_Rimac
+- Automoblog, Bugatti Tourbillon: https://www.automoblog.com/bugatti-tourbillon/
+- TechRadar, Meet Bugatti's new Tourbillon: https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/meet-bugattis-new-tourbillon-a-luxury-watch-inspired-hybrid-that-hits-1775bhp-and-rips-up-the-performance-car-rulebook
+- Yahoo / Business Insider, Bugatti's $4 million hypercar: https://ca.news.yahoo.com/bugattis-4-million-hypercar-1-122818250.html
+- Top Gear, Rimac Nevera review
+- Indigo Auto Group, Rimac Nevera warranty extension (23 January 2024)
+- CNBC, Rimac Nevera price coverage
+- Motor1, Rimac Nevera pricing and Bring a Trailer sale (March 2025)
+- This Old House, average electricity cost per kWh by state (EIA, March 2025)

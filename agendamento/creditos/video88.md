@@ -1,0 +1,175 @@
+# Photo credits: How a Kid From Croatia Ended Up Running Bugatti
+
+- Rimac (101).jpg by El monty, CC BY-SA 4.0
+- Green Monster Seats.jpg by Aidan Siegel, CC BY-SA 3.0
+- Green Monster (10374170485).jpg by Kelly from Parsons, Kansas, CC BY-SA 2.0
+- Green Monster business end.jpg by Bri ham, Public domain
+- The Green Monster (3687997697).jpg by Shaun C. Williams from USA, CC BY 2.0
+- Green Monster Nose.JPG by Bri ham, Public domain
+- Green Monster Sign (4242190978).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Green Monster at Fenway Park, 2013.JPG by Zoke, CC BY-SA 4.0
+- Rimac Concept One - Salon Privé London 2012 (7956529248).jpg by The Car Spy, CC BY 2.0
+- Rimac Concept One - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show G140.JPG by Ghoster, CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show 0977 (cropped).JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0975.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0932.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0977.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0976.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Green Monster IV Agritechnica 2025 (DSC08314).jpg by MarcelX42, CC BY-SA 4.0
+- Wally the Green Monster sand sculpture.jpg by Eric Kilby, CC BY-SA 2.0
+- Wally the Green Monster - Rubenstein - Crowd.jpg by Rubenstein, CC BY 2.0
+- Green Monster w- Flags (4241250989).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Green Monster Left Field - panoramio.jpg by Baseball Panoramic, CC BY 3.0
+- Buško Blato 2022-08-31 - Livno - Canton 10 - Federation of Bosnia and Herzegovina - Bosnia and Herzegovina.jpg by Lexerati, CC BY-SA 4.0
+- Gornji Grad - Livno (6635531971).jpg by Brian Eager from Livno, Bosnia and Herzegovina, CC BY 2.0
+- Livno (38263993931).jpg by Brian Eager from Livno, Bosnia and Herzegovina, CC BY 2.0
+- SWH Bus Frankfurt Oder 1991 08 17.jpg by S. Jähne, CC BY-SA 3.0
+- 218 365 mit E 3075 in Frankfurt am Main Hbf, 15. Januar 1992.jpg by Joachim Seyferth, CC BY 4.0
+- Frankfurt am Main - Marina Westhafen.jpg by Fred Romero from Paris, France, CC BY 2.0
+- At King Tomislav Square 5, Samobor.jpg by Danijela Stefanac, CC BY-SA 4.0
+- Samobor kremsnita.jpg by Hibasi, CC BY-SA 4.0
+- Samobor-E-5945.JPG by NASA, Public domain
+- Croatian School Museum Zagreb 2026.JPG by Mike is Michi, CC BY-SA 4.0
+- Školski muzej - Zagreb.jpg by Marko Jukić -Majkl, CC BY-SA 4.0
+- Trogir BW 2024-10-02 14-55-33.jpg by Berthold Werner, CC BY-SA 4.0
+- DTM esports, EMS 2024, Essen (P1031995).jpg by Matti Blume, CC BY-SA 4.0
+- Snake Esports vs Oh My God, 19 July 2015 Shanghai (115500173).jpg by Bruce Liu, CC BY-SA 3.0
+- Dallas Fuel Fans at Esports Stadium Arlington.jpg by stingrayschuller, CC BY 2.0
+- Danny Glover 2005.jpg by Olivier Barlet, CC BY-SA 4.0
+- Danny Glover (14200214650).jpg by Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0
+- Danny Glover (14200172678).jpg by Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0
+- ELT active segmented mirror (img 5800).jpg by ESO, CC BY 4.0
+- ELT Active Segmented Mirror (img 5798).jpg by ESO, CC BY 4.0
+- ELT active segmented mirror (img 5642).jpg by ESO, CC BY 4.0
+- Theatrum Orbis Terrarum, by Abraham Ortelius, World, 1572.jpg by Abraham Ortelius, Public domain
+- World map equal earth no hybrid.jpg by Fry1114, CC BY-SA 3.0
+- 1944 map of the world showing events of World War II.jpg by Stanley Francis Turner, Public domain
+- BMW 323i E30 in BMW-Museum in Munich, Bayern.JPG by Jiří Sedláček, CC BY-SA 4.0
+- 1985 BMW 323i (E30) (51237584137).jpg by Rutger van der Maar, CC BY 2.0
+- BMW 323i E30 JPS (16193238769).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- M20 BMW e30 PL.JPG by Beemwej, CC BY-SA 3.0
+- BMW E30 -.jpg by Elekes Andor, CC BY-SA 4.0
+- BMW M21D24 engine PL.JPG by Beemwej, CC BY-SA 3.0
+- BMW M3 (E30) of Peter Brock at the 2025 Adelaide Grand Final.jpg by Yu Chu Chin, CC BY-SA 4.0
+- BMW, TC 24, Essen (TCE42982).jpg by Matti Blume, CC BY-SA 4.0
+- EMS 2023, Essen (P1160984).jpg by MB-one, CC BY-SA 4.0
+- Rockingham Motor Speedway aerial.jpg by John Fielding from Norwich, UK, CC BY 2.0
+- RockfordSpeedwayTicketBooth.jpg by Royal Broil, CC BY-SA 2.0
+- The racetrack - geograph.org.uk - 6177293.jpg by Andrew Abbott, CC BY-SA 2.0
+- Rich Davey and Wally the Green Monster at Kenmore station, April 2010.jpg by MassDOT, Public domain
+- Green Monster.jpg by Aidan Siegel, CC BY-SA 3.0
+- Boston, I-90 Allston-Brighton Tolls, Red Sox, Wally the Green Monster, November 29, 2012 (8232680004).jpg by MassDOT, Public domain
+- BMW i3 und Opel Ampera an einer Ladestation in Den Burg.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Dülmen, Kirchspiel, Visbeck, BMW i3 -- 2016 -- 1581-7.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Hausdülmen, Sandstraße, BMW i3 -- 2016 -- 1748-54.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Sveta Nedelja.jpg by rom@nski photo, CC BY 2.0
+- RC Church of the Most Holy Trinity, Otford.JPG by The Voice of Hassocks, CC0
+- Church of the Most Holy Trinity, Bermondsey (North Face - 01).jpg by Doyle of London, CC BY-SA 4.0
+- Zagreb University Music Academy.jpg by Bernard Gagnon, CC BY-SA 4.0
+- University of Zagreb.jpg by Suradnik13, CC BY-SA 3.0
+- University of Zagreb (cropped).jpg by Suradnik13, CC BY-SA 3.0
+- Petersen Museum (52043647586).jpg by zombieite, CC BY 2.0
+- Salon Privé London 2012 (7956535784).jpg by The Car Spy, CC BY 2.0
+- Salon Privé London 2012 (7956532438).jpg by The Car Spy, CC BY 2.0
+- Hotel Esplanade, Zagreb, Croacia, 2014-04-20, DD 03.JPG by Diego Delso, CC BY-SA 3.0
+- Museo de Arte y Artesanías, Zagreb, Croacia, 2014-04-20, DD 02.JPG by Diego Delso, CC BY-SA 3.0
+- Estatua de Tomislav de Croacia, Zagreb, Croacia, 2014-04-20, DD 05.JPG by Diego Delso, CC BY-SA 3.0
+- USO brings a ‘Royal’ tour to Middle East (Image 5 of 5).jpg by U.S. Air Force photo by Tech. Sgt. Caleb Pierce, Public domain
+- Bowl with incantation to protect Anush Busai and his family against bad luck, Mandean in Mandaic language and script, southern Mesopotamia, c. 200-600 AD - Royal Ontario Museum - DSC09712.JPG by Daderot, CC0
+- PikiWiki Israel 80477 royal family in ein hod.jpg by israel zellerישראל זלר, CC BY 2.5
+- Rimac Concept S (35681488786).jpg by Neil, CC BY 2.0
+- Rimac C Two 20180929 DSC 8816.jpg by Branko Radovanović, CC BY-SA 4.0
+- Rimac Concept S.jpg by MrWalkr, CC BY-SA 4.0
+- Lithium-Ionen-Accumulator.jpg by Claus Ableiter, CC BY-SA 4.0
+- 18650 Li-ion & Panasonic CR123A 20121116.jpg by Mk2010, CC BY-SA 3.0
+- Fruit battery, apple, closeup.jpg by Marcin Sochacki (Wanted), CC BY 3.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0525).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Koenigsegg Regera HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera White.jpg by MrWalkr, CC BY-SA 4.0
+- Rimconc1.jpg by Croq, CC BY-SA 3.0
+- Director race car 2.jpg by Diegogarciam1, CC BY-SA 4.0
+- RKR 7349 (52029357291).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7351 (52029611214).jpg by Robert Rouse from United States, CC BY 2.0
+- Director race car 1.jpg by Diegogarciam1, CC BY-SA 4.0
+- RKR 7346 (52028314092).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7348 (52029356956).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7347 (52028314177).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7350 (52029872215).jpg by Robert Rouse from United States, CC BY 2.0
+- Unser Pikes Peak 56.jpg by Dick Thompson from Albuquerque NM, USA, CC BY-SA 2.0
+- View From The Top Of Pikes Peak (131084173).jpeg by Yinan Chen, CC BY 3.0
+- Pikes Peak, Colorado (14203642374).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1696).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1695).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1692).jpg by Matti Blume, CC BY-SA 4.0
+- RKR 7355 (52031643823).jpg by Robert Rouse from United States, CC BY 2.0
+- 2017-03-07 Geneva Motor Show 0949.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Geneva 2016 (25410361356).jpg by The Car Spy, CC BY 2.0
+- 2016-03-01 Geneva Motor Show 1167.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0934.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0936.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Hyundai Kia Technical Center Entrance Superior Township Michigan.JPG by Dwight Burdette, CC BY 3.0
+- Kia Sportage and Hyundai Sonata Taxis.jpg by Damian B Oh, CC BY-SA 4.0
+- Kia EV9, IAA Summit 2023, Munich (P1110905).jpg by Matti Blume, CC BY-SA 4.0
+- The camel corps at Beersheba2.jpg by American Colony Jerusalem, Public domain
+- Camel herder in Kuwait.jpg by Vootpq, CC BY-SA 4.0
+- Camel headlining Saturday night at Ramblin Man 2015 - 19475294134.jpg by kitmasterbloke, CC BY 2.0
+- 2019 Rimac C Two Front.jpg by Vauxford, CC BY-SA 4.0
+- 2019 Rimac C Two Rear.jpg by Vauxford, CC BY-SA 4.0
+- Rimac C Two NYIAS 2018.jpg by Aab254, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0593).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0623).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0618).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0608).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Mistral W16 "La Perle Rare" (55110274678).jpg by Mustang Joe, CC0
+- Bugatti Mistral at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Bugatti Mistral 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 14.jpg by Calreyn88, CC BY-SA 4.0
+- Ettore Bugatti 001.jpg by Arnaud 25, CC BY-SA 4.0
+- Ettore Bugatti et son fils Jean Bugatti.jpg by Arnaud 25, CC BY-SA 4.0
+- Auto Red Bug, with Ettore Bugatti and king Léopold III of Belgium.jpg by Arnaud 25, CC BY-SA 4.0
+- Pininfarina Battista Auto Zuerich 2023 1X7A1447.jpg by Alexander-93, CC BY-SA 4.0
+- Pininfarina Battista, GIMS 2019, Le Grand-Saconnex (GIMS9970).jpg by Matti Blume, CC BY-SA 4.0
+- Pininfarina Battista Auto Zuerich 2024 DSC 6566.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac - Nevera 01.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 10.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 06.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- National Academy of Engineering Class of 2007.jpg by Ssl-wiki2021, CC BY-SA 4.0
+- Zhukovsky Air Force Engineering Academy. 1970 year.jpg by Scanning Dmitry Makeev, scan date - 2020 year., Public domain
+- John L. Anderson, National Academy of Engineering (49586137652).jpg by Christopher Michel from San Francisco, USA, CC BY 2.0
+- Zagreb Centar.JPG by Zeitblick, CC BY-SA 3.0
+- Zagreb Altstadt.JPG by Zeitblick, CC BY-SA 3.0
+- Zagreb hl001.jpg by MyName (Hrga (talk)), CC BY-SA 3.0
+- Frankfurter Hof Nord.JPG by User:Mattes, CC BY 2.0 de
+- Perlmooser-Hof, Mannersdorf am Leithagebirge 03 - capital.jpg by Wikinelda, CC BY-SA 4.0
+- Hof ter Musschen farm.03.jpg by Nenea hartia, CC BY-SA 4.0
+- Rimac C Two 20180929 DSC 8827.jpg by Branko Radovanović, CC BY-SA 4.0
+- Rimac C Two 20180929 DSC 8815.jpg by Branko Radovanović, CC BY-SA 4.0
+- Rimac C Two 20180929 DSC 8813.jpg by Branko Radovanović, CC BY-SA 4.0
+- Rimac - Nevera 03.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 04.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 05.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Mate Rimac: https://en.wikipedia.org/wiki/Mate_Rimac
+- Wikipedia, Rimac Automobili: https://en.wikipedia.org/wiki/Rimac_Automobili
+- Wikipedia, Bugatti Rimac: https://en.wikipedia.org/wiki/Bugatti_Rimac
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Wikipedia, Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon
+- Automoblog, Bugatti Tourbillon: https://www.automoblog.com/bugatti-tourbillon/
+- TechCrunch, Hyundai and Kia invest in Rimac (cited by Wikipedia)
+- Nedeljnik, net worth estimate (cited by Wikipedia, December 2025)

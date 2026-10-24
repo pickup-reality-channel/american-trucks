@@ -1,0 +1,113 @@
+# Photo credits: 2 Things You Didn't Know About the Rimac Nevera
+
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0
+- Rimac - Nevera 01.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 10.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 06.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 03.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 04.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", interior.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac - Nevera 05.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 09.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 02.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 07.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 08.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac Nevera in Bridgehampton, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera, Auto 2024, Zurich (PANA0908).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera in Bridgehampton, front right driving.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera Time Attack at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Rimac Nevera (91671).jpg by Calreyn88, CC BY-SA 4.0
+- Rimac Nevera (61051).jpg by Calreyn88, CC BY-SA 4.0
+- Elli Hemberg Virvelvind.JPG by Bengt Oberger, CC BY-SA 3.0
+- Elli Hemberg Segel.JPG by Boberger, CC BY 3.0
+- Elli Hemberg Virvelvind Riksarkivet.JPG by Bengt Oberger, CC BY-SA 3.0
+- Zepper-BK 117-C2-(EC145)-SchweizerischeRettungsflugwacht.jpg by Matthias Zepper, CC BY-SA 3.0
+- DRF Eurocopter EC135 Christoph 44 D-HDRK Göttingen 2017 03.jpg by Julian Herzog (Website), CC BY 4.0
+- Air Ambulance Christoph 11 D-HDST.jpg by Olga Ernst, CC BY-SA 4.0
+- Clarkson, Hammond and May doing their thing at the NEC, Top Gear Live (4105575619).jpg by IDS.photos from Tiverton, UK, CC BY-SA 2.0
+- Jeremy Clarkson Hawkstone.jpg by HawkstoneOfficial, CC BY-SA 4.0
+- The Grand Tour opening scene shoot (31077806105).jpg by desertdingo, CC0
+- Rimac Concept One - Salon Privé London 2012 (7956529248).jpg by The Car Spy, CC BY 2.0
+- Rimac Concept One - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show G140.JPG by Ghoster, CC BY-SA 4.0
+- Rimconc1.jpg by Croq, CC BY-SA 3.0
+- 2016-03-01 Geneva Motor Show 0977 (cropped).JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0975.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0976.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0932.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show 0977.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Petersen Museum (52043647586).jpg by zombieite, CC BY 2.0
+- Salon Privé London 2012 (7956535784).jpg by The Car Spy, CC BY 2.0
+- Salon Privé London 2012 (7956532438).jpg by The Car Spy, CC BY 2.0
+- Rimac Nevera in Bridgehampton, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera in Bridgehampton, rear right 1.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera in Bridgehampton, rear right 2 (traffic).jpg by Mr.choppers, CC BY-SA 3.0
+- 2023 Rimac Nevera 1.jpg by Calreyn88, CC0
+- Rimac Nevera, IAA Open Space 2023, Munich (P1120126).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera (2024) (53621883578).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac Nevera (2024) (53622122405).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac C Two 2018 Geneva Motor Show.jpg by Smnt, CC BY-SA 4.0
+- Rimac C Two, GIMS 2018, Le Grand-Saconnex (1X7A1828).jpg by Matti Blume, CC BY-SA 4.0
+- 2018-03-06 Geneva Motor Show 2452.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Hispano Suiza Carmen (33552532248).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Aion Hyper SSR 006.jpg by Zoerides, CC BY-SA 4.0
+- Aion Hyper SSR 002.jpg by JustAnotherCarDesigner, CC BY-SA 4.0
+- The NHRA Las Vegas Nationals 091031-F-3431H-133.jpg by Tech Sgt. Michael R. Holzworth, Public domain
+- AMC Spirit drag strip race car Cecil County Raceway-a.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- AMC Spirit drag strip race car Cecil County Raceway-b.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- Voltron near the observation tower (2024).jpg by ThibautRe, CC BY-SA 4.0
+- Voltron Nevera Europa-Park.jpg by Olivier Bruchez, CC BY-SA 2.0
+- VoltronNeveraEntrance.jpg by Imzadi, CC BY 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0596).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0623).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0618).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0608).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0593).jpg by Matti Blume, CC BY-SA 4.0
+- Transrapid von oben.jpg by Flying marvin, CC BY-SA 4.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1927.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- Teststrecke Papenburg Luftbild.jpg by Krd, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6949.jpg by Alexander-93, CC BY-SA 4.0
+- Goodwood Festival of Speed 2021 (51306742742).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-7015.jpg by Raimond Spekking, CC BY-SA 4.0
+- Nico Rosberg 2006 Indianapolis.jpg by Ryosuke Yagi, CC BY 2.0
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-6961.jpg by Raimond Spekking, CC BY-SA 4.0
+- Rimac Technology, IAA Summit 2025, Munich (20250908-P1049540).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Technology, IAA Summit 2025, Munich (P1049539).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Technology, IAA Summit 2025, Munich (20250908-P1049536).jpg by Matti Blume, CC BY-SA 4.0
+- 2025 Rimac Nevera - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- CODA All Electric Car (5215651348).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- San Francisco (CA, USA), Point Lobos Avenue, Autonomes Auto -- 2022 -- 3049.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Berlin, Flughafen Tempelhof, Berlin E-Prix 2019, Audi Vision GT -- 2019 -- 4563.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Old factory at Rimac.jpg by HighVoltage 5576, CC BY-SA 4.0
+- North Campus Field at RIMAC and LionTree Arena, UCSD.jpg by Tktktk, CC BY 3.0
+- UCSD Panorama, campus and Recreation, Intramural, and Athletic Complex (RIMAC).jpg by Alejandro Mallea from Seattle, United States, CC BY 2.0
+- Campus UNI foto aérea.jpg by Ministerio de Defensa del Perú, CC BY 2.0
+- Rimac (101).jpg by El monty, CC BY-SA 4.0
+- Green Monster Seats.jpg by Aidan Siegel, CC BY-SA 3.0
+- Green Monster (10374170485).jpg by Kelly from Parsons, Kansas, CC BY-SA 2.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 14.jpg by Calreyn88, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Electrek, Richard Hammond crash, Rimac Concept One (June 2017): https://electrek.co/2017/06/10/richard-hammond-crash-rimac-concept_one-all-electric-supercar/
+- CNBC, Rimac Nevera review (Sept 2023): https://www.cnbc.com/2023/09/16/rimac-nevera-ev-review-powerful-easy-to-drive.html
+- Popular Science, Driving the Rimac Nevera: https://www.popsci.com/technology/rimac-nevera-ev-first-drive/
+- Top Gear Malaysia, Rimac Nevera review: https://topgear.com.my/reviews/rimac-nevera-review-a-hypercar-sensation
+- Indigo Auto Group, Rimac extends Nevera battery warranty to 8 years (Jan 2024): https://news.indigoautogroup.com/blog-posts/rimac-has-enhanced-the-neveras-battery-warranty-to-8-years
