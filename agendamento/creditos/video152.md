@@ -1,0 +1,202 @@
+# Photo credits: The Insane Story Behind the Mercedes 6x6
+
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Wheel of Mercedes-Benz G63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk (cropped).jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
+- Brabus G63 AMG 6x6.jpg by Marvin Ladage, CC BY-SA 4.0
+- Brabus G63 AMG 6x6 und Bugatti Veyron bei der GSR (2016).jpg by Marvin Ladage, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 (53397824372).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- G63 AMG (13842152284).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6x6.JPG by Milhouse35, CC BY-SA 3.0
+- White Mercedes-Benz G 63 AMG 6x6 rr London14.jpg by MB-one, CC BY-SA 4.0
+- Le Bar, Hôtel George-V, Paris 25 July 2015.jpg by Ben, CC BY-SA 2.0
+- Amsterdam Motor Show 2023 - 63.jpg by René Cortin, CC BY-SA 4.0
+- Markham-suburbs aerial-edit2.jpg by IDuke (this edited version: Sting), CC BY-SA 2.5
+- Subdivision development.jpg by Wikideas1, CC0
+- Inauguration of Fushidhiggaru Land Reclamation Project (121).jpg by The President's Office, Maldives, CC BY 4.0
+- Bridgewater Point subdivision construction in Morristown, Tennessee.jpg by AppalachianCentrist, CC BY-SA 4.0
+- Noraduz Khachkar-land (121).jpg by Soghomon Matevosyan, CC BY-SA 4.0
+- First order Fresnel lens at Point Reyes lighthouse.jpg by Frank Schulenburg, CC BY-SA 4.0
+- Order of The Golden Ruler (Order of Taejo) (Order of the Gold Cheok).jpg by RajhaSlavari123, CC BY-SA 4.0
+- Vehicle Interior of OC Streetcar Car.jpg by OCTA, Public domain
+- Launch Vehicle Stage Adapter for Artemis II Moved, Prepped for Shipment (MSFC 20240821 CS2 LVSArollout UAS25).jpg by NASA Marshall Space Flight Center / Michael DeMocker, Public domain
+- Launch Vehicle Stage Adapter for Artemis II Moved, Prepped for Shipment (MSFC 20240821 CS2 LVSArollout UAS17).jpg by NASA Marshall Space Flight Center / Michael DeMocker, Public domain
+- Red squirrel (Sciurus vulgaris fuscoater) black variant Meidling 2.jpg by Charles J. Sharp, CC BY-SA 4.0
+- Volkswagen Golf VIII R Variant 1X7A0415.jpg by Alexander Migl, CC BY-SA 4.0
+- Volkswagen Golf VIII R Variant 1X7A0413.jpg by Alexander Migl, CC BY-SA 4.0
+- Class schedule.jpg by lenarc, CC BY-SA 3.0
+- Camp Mather Arts and Crafts schedule 2019.jpg by MikeVdP, CC BY-SA 4.0
+- 1940 Census Population Schedules - Florida - Sumter County - ED 60-4 - DPLA - d2b873312e5700b4c48cc6e11ec98941 (page 4).jpg by Department of Commerce. Bureau of the Census. 1913-1/1/1972, Public domain
+- Rajagopal speaking to 25,000 people, Janadesh 2007, India.jpg by Ekta Parishad, CC BY-SA 3.0
+- Upernavik cemetery 2007-08-06 original stitch.jpg by Photographed and stitched by Slaunger, edited by Paolo Costa, CC BY 3.0
+- USA 10638 Bryce Canyon Luca Galuzzi 2007.jpg by Luca Galuzzi (Lucag), CC BY-SA 2.5
+- 2017 06 13 National Reconciliation Conference-4.jpg by UNSOM, Public domain
+- 105505 reconciliation ceremony with the neighbors PikiWiki Israel.jpg by Unknown authorUnknown author, Public domain
+- 2017 06 13 National Reconciliation Conference-1.jpg by UNSOM, Public domain
+- Afghan National Army trainees load two Russain Recoiless Rifles (SPG-9) into the bed of a truck (4706053776).jpg by NATO Training Mission-Afghanistan
+
+MC2 (SW) Christopher Hall/NPASE East/NTM-A PAO, Public domain
+- DEFENDER-Europe 20 continues with initial APS draw (6117285).jpg by U.S. Army photo by Sgt. Alleea Oliver, Public domain
+- 51st Composite Truck Company supports Trident Juncture 18 (4863296).jpg by U.S. Army photo by Pfc. Matthew Marcellus, Public domain
+- Gender-reveal-cake.jpg by Mack Male, CC BY-SA 2.0
+- Washington Commanders Reveal Julie Donaldson (51858955078).jpg by All-Pro Reels from District of Columbia, USA, CC BY-SA 2.0
+- Washington Commanders Reveal Darren Haynes & Doug Williams.jpg by All-Pro Reels from District of Columbia, USA, CC BY-SA 2.0
+- Alien Property Custodian - Property Seized - Production Planning Department, Bosch Magneto Co - NARA - 17342495.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Rubber Goods - Boiler room, Traun Rubber Company plan - NARA - 45489275.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Metals - Miscellaneous - Plan and foundations of houses erected by U.S. Housing Corporation for housing of men in Ordinance Department of Standard Steel Car Company at Hammond, Indiana - NARA - 45488284.jpg by Unknown authorUnknown author or not provided, Public domain
+- Medion MD8910 - Capstan motor-8589.jpg by Raimond Spekking, CC BY-SA 4.0
+- DKW RM 350, Bj. 1953 - Motor li. (museum mobile 2013-09-03).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- DKW RM 350, Bj. 1953 - Motor re. v. (museum mobile 2013-09-03).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Stroop Report - Warsaw Ghetto Uprising 06b.jpg by Unknown authorUnknown author (Franz Konrad confessed to taking some of the photographs, the rest was probably taken by photographers from Propaganda Kompanie nr 689.[1][2]), Public domain
+- The romance of the ship; the story of her origin and evolution (1911) (14756064766).jpg by Chatterton, E. Keble (Edward Keble), 1878-1944, Public domain
+- Two-story residential building in Augstkalne.jpg by Андрей Романенко, CC BY-SA 4.0
+- Car Show at Regal Westchester Commons.jpg by jjmusgrove, CC BY 2.0
+- Paris Motor Show 2018, Paris (1Y7A1304).jpg by Matti Blume, CC BY-SA 4.0
+- Grey Bentley at Car Show August 2015.jpg by jjmusgrove, CC BY 2.0
+- Corbridge Classic Car Show 2010 (4760350749).jpg by Draco2008 from UK, CC BY 2.0
+- Clean builds Will VS and Toyota AE90,Bangladesh (25599244613).jpg by Shadman Samee from Dhaka, Bangladesh, CC BY-SA 2.0
+- FC Admira Wacker Mödling vs. FC Red Bull Salzburg (Cup) 2017-04-26 (048).jpg by Steindy (talk) 14:33, 22 May 2017 (UTC), CC BY-SA 4.0
+- Mir Docking Module in Atlantis's payload bay.jpg by NASA, Public domain
+- Measurement of the clearance between two thrusters and a solar panel (SAC-D).jpg by Photo credit: NASA/VAFB, Public domain
+- Long Range Soviet Airliner Tu-114.jpg by Peer.Gynt, CC BY-SA 2.0
+- Meals To You - (UPS) Delivery (20200814-FNS-LSC-0042).jpg by USDAgov, Public domain
+- UPS employee Jocelin Zuniga unloads food boxes at the more than 1 million-square-foot UPS Lone Star distribution center (hub), in Arlington, TX, on August 14, 2020 (20200814-FNS-LSC-0160).jpg by USDAgov, Public domain
+- Meals To You - (UPS) Delivery (20200814-FNS-LSC-0284).jpg by USDAgov, Public domain
+- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0
+- Vista - Teatro Circo Price - Ronda de Atocha 35 - Madrid 01.jpg by Javier Perez Montes, CC BY-SA 4.0
+- Gasoline price displays 01.jpg by RamaGaspar, CC BY-SA 4.0
+- Senior Advisor Ned Price Gives Remarks at a Virtual Ministerial Meeting to Launch the Global Coalition to Address Synthetic Drug Threats (53028526532).jpg by U.S. Department of State from United States, Public domain
+- Mayor Garcetti at the Launch of the Clean Streets Initiative (17224337408).jpg by Eric Garcetti, CC BY 2.0
+- Windows 7 package price list in Japan 20090626.jpg by Masaru Kamikura, CC BY 2.0
+- Coach-boxes by William Felton.jpg by William Felton, Public domain
+- Boating on the North West Arm in front of the Waegwoltic Club, Halifax, Nova Scotia, Canada, ca. 1910.jpg by Harry O. Dodge (Gauvin & Gentzel), Public domain
+- Volkswagen Golf GTI VI -Crossing the Tagus River in a ferry boat- (47168591562).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Restaurants, Place du Tertre, Paris 30 September 2019.jpg by Pierre Blaché from Paris, France, CC0
+- ComputerHotline - Lepidoptera sp. (by) (30).jpg by Thomas Bresson, CC BY 2.0
+- France 1791-A 30 Sols (Louis16).jpg by National Museum of American History, Public domain
+- Air-to-air photo of a Sukhoi Superjet 100 (97004) over Italy.jpg by Katsuhiko Tokunaga/SuperJet  International, CC BY-SA 2.0
+- Confederate 100 Dollars.jpg by Confederate States of America., Public domain
+- Sukhoi SuperJet 100 (5114478300).jpg by SuperJet International, CC BY-SA 2.0
+- THE CURRENT STRUCTURE IS EXCELLENT BUT THE CLAIMS REGARDING HISTORIC RELEVANCE ARE INACCURATE (THE MOY AND THE BUILDING NEXT DOOR)-272150.jpg by William Murphy, CC BY-SA 4.0
+- SLT vs Plan V, Utrecht Centraal.jpg by Alfenaar, CC BY-SA 2.0
+- Ireland vs Georgia, Rugby World Cup 2007 What's the Plan Boss.jpg by Woesinger, CC BY-SA 2.0
+- Low-end EF3 damage to a home in Virginia Beach, Virginia.jpg by National Weather Service, Public domain
+- East End of Rundle and Whitemans Pond.jpg by The Cosmonaut, CC BY-SA 2.5 ca
+- Paul Gauguin (French - Arii Matamoe (The Royal End) - Google Art Project.jpg by Paul Gauguin (French, 1848 - 1903) (1848 - 1903) – artist (French) Details on Google Art Project, Public domain
+- Mother Coyote Sitting, Watching Over Den, Photo 1 of 2 (47924154788).jpg by nature80020, CC BY 2.0
+- They Came in Peace, A community remembers fallen during Beirut Memorial Ceremony 141023-M-BZ918-009.jpg by Cpl. James Smith, Public domain
+- They Came in Peace, A community remembers fallen during Beirut Memorial Ceremony 141023-M-BZ918-158.jpg by Cpl. James Smith, Public domain
+- Northern South Australia (MODIS 2015-11-03).jpg by Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC, Public domain
+- North Carolina native, U S Marine deploys to Australia (6283217).jpg by U.S. Marine Corps photo by Cpl. Harrison Rakhshani, Public domain
+- One stands out 002 2025 01 01.jpg by Friedrich Haag, CC BY-SA 4.0
+- Dülmen, Dernekamp, Mini Hatch Cooper -- 2018 -- 1545-51.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Kirchspiel, BMW Mini -- 2016 -- 5129-35.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Kirchspiel, BMW Mini -- 2016 -- 5065-71.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Saikyō-ji the border of the sanmon without a threshold 9-4 Kami-gofukumachi Hakata-ku Fukuoka 20240206.jpg by Hirho, CC BY-SA 4.0
+- Shop threshold "Crossbar" in Callan.jpg by A.-K. D., CC0
+- Threshold-2017.jpg by Threshold-band, CC BY-SA 4.0
+- 036 South American tapir in Encontro das Águas State Park Photo by Giles Laurent.jpg by Giles Laurent, CC BY-SA 4.0
+- 026 American pygmy kingfisher in Encontro das Águas State Park Photo by Giles Laurent.jpg by Giles Laurent, CC BY-SA 4.0
+- Ezzrett Anderson reaching for pass 1944.jpg by Unknown authorUnknown author, Public domain
+- Figure 1- Results of the Bureau of Land Management's July 2014 Auction of Helium to Be Delivered in Fiscal Year 2015 (18353873816).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Willem van de Velde II - Dutch men-o'-war and other shipping in a calm.jpg by Willem van de Velde the Younger, Public domain
+- Supreme Court Justices make their way to the Capitol Rotunda to attend the 60th Presidential Inauguration at the U.S. Capitol.jpg by (DoD photo by Mass Communication Specialist 1st Class Vanessa White), Public domain
+- Expedition 71 Postflight NASA Headquarters Presentation (NHQ202503030020).jpg by NASA Headquarters / NASA/Bill Ingalls, Public domain
+- Expedition 71 Postflight NASA Headquarters Presentation (NHQ202503030014).jpg by NASA Headquarters / NASA/Bill Ingalls, Public domain
+- Norderney, Marienhöhe -- 2025 -- 9295-9.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Fanal (Madeira, Portugal), Lorbeerwald -- 2025 -- 1546.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg by Dietmar Rabich, CC BY-SA 4.0
+- DZ3 0961 Dancing fountain jets light up a calm night at the open-air market in Nong Pla Lai Pattaya.jpg by PattayaPatrol, CC BY-SA 4.0
+- Quincy Market in Black and White.jpg by TanRo, CC BY-SA 4.0
+- Toledo Port, Waterfront Market Promenade.jpg by QueenCityCebu, CC BY-SA 4.0
+- Afterlife , by Dionisis Christofilogiannis.jpg by Dio2nd, CC BY-SA 4.0
+- 20201021 Second Life Ottmar Hörl.jpg by Flocci Nivis, CC BY 4.0
+- Second Life Landscape 03.jpg by Slick, CC0
+- 003 Cheetah hissing after a meal in Kalahari Desert Photo by Giles Laurent.jpg by Giles Laurent, CC BY-SA 4.0
+- The rival chancellors. (BM 1857,1222.69).jpg by Print made by: John Doyle (HB)
+
+Printed by: A Ducôte
+Published by: Thomas McLean, Public domain
+- Hotell Rival 2009.jpg by Holger.Ellgaard, CC BY-SA 3.0
+- Maybach 62 S Landaulet 1X7A0315.jpg by Alexander Migl, CC BY-SA 4.0
+- Maybach Quierschieder Straße 01.JPG by atreyu, CC BY-SA 3.0
+- Mercedes-Maybach-G-650-Landaulet-1.jpg by Andrey Motorov, CC BY-SA 4.0
+- News Corporation Headquarters (5903813640).jpg by Alex Proimos from Sydney, Australia, CC BY 2.0
+- Associate Fellow Ali Ansari speaking to Fox News about Iran (7131591573).jpg by Chatham House, CC BY 2.0
+- Vice Chief of Staff of the U.S. Army Gen. John F. Campbell meets with Roger Ailes, president of Fox News and chairman of the Fox Television Stations Group, at the Fox News Headquarters in Times Square, New York 130507-A-EL344-433.jpg by Sgt. Christopher Tobey, Public domain
+- U.S. Marines assigned to Georgian Liaison Team 8, attached to the Georgian Land Forces 42nd Light Infantry Battalion unload weapons and gear after returning from a mounted patrol at Forward Operating Base Shir 130507-M-YH552-200.jpg by Cpl Alejandro Pena, Public domain
+- U.S. Marines assigned to Georgian Liaison Team 8, attached to the Georgian Land Forces 42nd Light Infantry Battalion unload weapons and gear after returning from a mounted patrol at Forward Operating Base Shir 130507-M-YH552-201.jpg by Cpl Alejandro Pena, Public domain
+- 755th ESFS airman checks gear.JPG by Senior Airman Chris Willis, Public domain
+- 1926 Autocar model 27HPDS, gear drive dump hoist 4975768358.jpg by Jim Duell, CC BY-SA 2.0
+- Autocars Sabra ca 1960 Schaffen-Diest 2012.jpg by Charles01, CC BY-SA 3.0
+- Self-Loading Dump Truck.jpg by Douglaswth, CC BY-SA 4.0
+- Cluster of galaxies in Virgo (noao-virgo).jpg by NOIRLab/NSF/AURA, CC BY 4.0
+- HMS Hermione, muster roll, 7 April to 7 July 1797, p. 1 "Widows Man", numbers 12 -15.jpg by Unknown authorUnknown author, Public domain
+- Japanese car accident.jpg by Shuets Udono, CC BY-SA 2.0
+- Fuji (Japanese sleeper train) B-class Car Deck.jpg by Doricono, CC BY-SA 4.0
+- Fuji (Japanese sleeper train) B-class Car Toilet.jpg by Doricono, CC BY-SA 4.0
+- House in Tucson Arizona.jpg by Raquel Baranow from Tucson, Arizona, U$A, CC BY 2.0
+- Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 16 June 1841 (ba35ed3b-66d4-4f34-908c-35b3e1cd9784).jpg by Fanny (Appleton) Longfellow (1817-1861), Public domain
+- Frances (Appleton) Longfellow to Emmeline (Austin) Wadsworth, 16 June 1841 (29d32732-6e73-4d21-82ab-ea3cdcaca223).jpg by Fanny (Appleton) Longfellow (1817-1861), Public domain
+- XS91585 (12.05.21) Balancer (28773157148).jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- XS91585 (12.08.10) Balancer (27777987467).jpg by Lav Ulv from Viby J, Denmark, CC BY 2.0
+- Sierra Western Rail Corp's Big Dome in Oakland - 3 Photos (30341048223).jpg by railfan 44, Public domain
+- Ramdei, a resident of Nadli, Kangra district, making leaf plates 03.jpg by Satdeep Gill, CC BY-SA 4.0
+- Sausage making-H-1.jpg by László Szalai (Beyond silence), Public domain
+- Making wiki better.jpg by Fabrice Florin for the Wikimedia Foundation, CC BY-SA 3.0
+- Tuned '53 Chevrolet (Rigaud).jpg by Bull-Doser, Public domain
+- Tuned Toyota Soarer Z30 (Orange Julep '08).jpg by Bull-Doser, Public domain
+- Tuned Mazda Atenza (GG) front.JPG by Tokumeigakarinoaoshima, CC0
+- Taipei 101 Tuned Mass Damper 2010.jpg by Armand du Plessis, CC BY 3.0
+- Tuning The Cans.jpg by Sterling Coffey, CC BY 2.0
+- VW Polo II Cabrio (Lexmaul).jpg by Jacek Rużyczka, CC BY-SA 4.0
+- A YOUNG BLACK CHILD, ONE OF THE NEARLY 1.2 MILLION PEOPLE OF HER RACE WHO MAKE UP OVER ONE THIRD OF CHICAGO'S... - NARA - 556139.jpg by John H. White, Public domain
+- Carriers of the New Black Plague.jpg by William Cotton, Public domain
+- PASSENGERS ON A NEARLY EMPTY DIAL A RIDE RADIO DISPATCHED DOOR-TO-DOOR BUS SERVICE IN HADDONFIELD, NEW JERSEY. IT... - NARA - 556745.jpg by Jim Pickerell, Public domain
+- Duo Yun Xuan Auction House 2.jpg by Slleong, CC0
+- Duo Yun Xuan Auction House 3.jpg by Slleong, CC0
+- Adriaen Isenbrant - Triptych Adoration of the Magi 208N09363 84FBC.jpg by Adriaen Isenbrandt, Public domain
+- A timeline of the academic degrowth discourse.jpg by Authors of the study: Martin Weiss, Claudio Cattaneo, CC BY 4.0
+- A timeline of Lothian Buses - geograph.org.uk - 6281069.jpg by M J Richardson, CC BY-SA 2.0
+- Timeline of Breg journey.jpg by Kirill Korneev, CC BY 4.0
+- Acer TravelMate TimeLine 8371 laptop.jpg by Alexander van Loon, CC BY-SA 2.0
+- (Contents to) A Complete Genealogical, Historical, Chronological, And Geographical Atlas; Being A General Guide To History (IA dr contents-to-a-complete-genealogical-historical-chronological-and-geogr-1642h).jpg by Carey, Mathew
+Lavoisne, M.
+T.H. Palmer, Public domain
+- 2746Isdang-ispada 18.jpg by Judgefloro, CC0
+- Jeanne d'Arc Joan of Arc at San Francisco's Palace of the Legion of Honor and crepuscular rays.jpg by Brocken Inaglory, CC BY-SA 3.0
+- Arc de Triomphe de l'Étoile at night vertical fix.jpg by Wilfredor, CC0
+- Arc de triomphe du carrousel in Paris France.jpg by Tim Adams, CC BY 3.0
+- AZ Why Ortsschild.jpg by Michael Fiegle, CC BY-SA 3.0
+- Why, Arizona.jpg by Ken Lund, CC BY-SA 2.0
+- Robert Gant at the series premiere of Netflix’s “13 Reasons Why”.jpg by Robert Gant, CC BY-SA 4.0
+- G63 AMG (13841787453).jpg by [https://www.flickr.com/people/89918055@N05 Manhattan Research Inc from Manhattan, CC BY-SA 2.0
+- The rearview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G 63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- G63 AMG (13842146304).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- The frontview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+
+## Sources
+
+- GoAuto (3 Nov 2009), Australian Defence Force's new G-Class era begins: https://goauto.com.au/news/mercedes-benz/g-class/australian-defence-force-rsquo-s-new-g-class-era-begins/2009-11-03/15163.html
+- GoAuto (Tim Nicholson, 18 Mar 2013), Mercedes shows off six-wheeled AMG: https://web2.goauto.com.au/future-models/mercedes-benz/g-class/mercedes-shows-off-six-wheeled-amg/2013-03-18/12509.html
+- GoAuto (Tim Nicholson, 27 Sept 2013), Benz's bush-bashing beast ruled out for Oz: https://goauto.com.au/amp/17031/benz-rsquo-s-bush-bashing-beast-ruled-out-for-oz.html
+- Motor Authority (Viknesh Vijayenthiran, 1 Mar 2013), Six-wheeled Mercedes G63 AMG 6x6: https://www.motorauthority.com/news/1082633_six-wheeled-mercedes-g63-amg-6x6-unleashed-on-the-public-video
+- Motor Authority (Jeff Glucker, 20 Feb 2015), Mercedes-Benz sells out all of its G63 AMG 6x6 beasties: https://www.motorauthority.com/news/1096910_mercedes-benz-sells-out-all-of-its-g63-amg-6x6-beasties
+- Fox News, 6x6 is the new 4x4 at Mercedes-Benz, 4 Mar 2013: https://www.foxnews.com/auto/6x6-is-the-new-4x4-at-mercedes-benz.amp
+- CarAdvice via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- Autocar (Greg Kable), Mercedes-AMG G 63 6x6 review, 23 Feb 2014: https://images.cdn.autocar.co.uk/car-review/mercedes-amg/g-63-6x6-2013-2015
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Barrett-Jackson (26 Dec 2024), The ultimate off-road icon: Mercedes-Benz G63 AMG 6x6: https://barrett-jackson.com/media/articles/the-ultimate-off-road-icon-mercedes-benz-g63-amg-66
+- The Classic Valuer, Barrett-Jackson 26 Jan 2025, Mercedes-Benz G-Wagon G 63 AMG 6x6: https://www.theclassicvaluer.com/vehicle-details/barrett-jackson-2025-01-26-mercedes-benz-g-wagon-g-63-amg-6x6-006ee1
+- MBWorld, AMG G63 6x6 G-Wagen finds a new home for $1.4 million: https://mbworld.org/articles/g63-6x6-finds-new-home-1-4-million
+- The Drive (Mate Petrany, 10 Nov 2020), G63 AMG 6x6 sold for $900K: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- MercedesBlog (18 May 2022), G63 AMG 6x6 sold again: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
+- Motor Authority (R&T), Digital Trends and The Drive coverage of the Hennessey VelociRaptor 6x6 (2016-2017)
