@@ -1,0 +1,150 @@
+# Photo credits: What It Really Costs to Own a Corvette Z06
+
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Blancpain Endurance Series - Audi R8 LMS et Corvette Z06 - 002.jpg by Thesupermat, CC BY-SA 3.0
+- Chevrolet Corvette Z06 2006 Ulva.jpg by Staffan Andersson, CC BY-SA 4.0
+- ChevroletCorvetteZ06.jpg by Jason Lawrence, CC BY 2.0
+- 2007 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Chevrolet Corvette Z06 - Flickr - Alexandre Prévot (7) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- GC record-corvette z06.jpg by geigercars.de GmbH, CC BY-SA 4.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 9.jpg by Tuner tom, CC BY-SA 3.0
+- 2010 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 front.JPG by M 93, CC BY-SA 3.0
+- Chevrolet Corvette Z06 rear.JPG by M 93, CC BY-SA 3.0
+- 2002 Chevrolet Corvette C5 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- '07 Chevrolet Corvette Z06.jpg by Bull-Doser, Public domain
+- 2006 Chevrolet Corvette Z06 LS7 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- Chevrolet Corvette Z06 (C7, 2019) (52339134374).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52337874897).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339258895).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2024) (53797860797).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2008 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 25 Chevrolet Corvette Z06.jpg by HJUdall, CC0
+- 2011 Chevrolet C6 Corvette Coupe (15999586018).jpg by Sicnag, CC BY 2.0
+- 1999 Chevrolet C5 Corvette Convertible (30572198050).jpg by Sicnag, CC BY 2.0
+- 2009 Chevrolet C6 Corvette ZR1 Coupe (22834732513).jpg by Sicnag, CC BY 2.0
+- Black Chevrolet Corvette Z06 (C7) on W Ann Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- 2016 Chevrolet Corvette C7.jpg by Dave Hamster, CC BY 2.0
+- DSC01887 (27815746752).jpg by Richmond AACA, CC BY 2.0
+- Chevrolet Corvette C3 Stingray IMG 3199.jpg by Alexander Migl, CC BY-SA 4.0
+- Corvette Stingray Hirschaid-20220709-RM-112228.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette Stingray Convertible (C3) 6301990.jpg by Ermell, CC BY-SA 4.0
+- 2015 Chevy Stingray Corvette Z06 Debut at Detroit Auto Show 2.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 10.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 8.jpg by Tuner tom, CC BY-SA 3.0
+- 2016 Chevrolet Corvette Z06 convertible, front right, 09-28-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Corvette Z06 Convertible 70th Anniversary Edition.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- 2003 Chevrolet Corvette Z06, front left, 09-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 1999 Chevrolet Corvette C5 Z06 Convertible (11370999825).jpg by Sicnag, CC BY 2.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 7.jpg by Tuner tom, CC BY-SA 3.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Various plastic sales tax tokens from the United States.jpg by $1LENCE D00600D, CC BY-SA 3.0
+- Colorado One Fifth Cent Tax Tokens.jpg by $1LENCE D00600D, CC BY-SA 3.0
+- Street sales in Quito. Ecuador, at an elevation of 2,850 metres (9,350 ft) above sea level.non taxed street sales cigarettes.jpg by David Adam Kess, CC BY-SA 4.0
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- 2005 Dodge Magnum RT (19026310711).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2025 Corvette - June 2025 - Sarah Stierch.jpg by Missvain, CC0
+- 1963 Pininfarina Corvette Rondine, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Indy500pacecars2008.JPG by Doctorindy (talk), CC BY-SA 3.0
+- Two Chevrolet Corvette (C8) rear view.jpg by Chris Yarzab, CC BY 2.0
+- Chevrolet Corvette SS XP-64 (1957).jpg by Charles, CC BY 2.0
+- Corvette Z06 GT3.R.jpg by Bzimmer260, CC BY-SA 4.0
+- 2024 Corvette Z06 GT3.R.jpg by Bzimmer260, CC BY-SA 4.0
+- 2024 6 Hours of Spa-Francorchamps TF Sport Chevrolet Corvette Z06 GT3.R No.82 (DSC05979).jpg by MarcelX42, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- 2024 Chevrolet Corvette Z06 convertible, 2026 Hot Wheels Legends Tour - Albuquerque, NM 2026-08-22.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2015–2019 Chevrolet Corvette Z06 & 1965-1966 Chevrolet Corvette convertible, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Corvette Z06 C7.jpg by בר, CC BY-SA 3.0
+- 2006 Chevrolet Corvette C6 Z06 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Chevrolet Corvette C6 Z06 BS O24.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette C6.R Z06 in its pit garage at the 2005 Le Mans (54320159967).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 2009 Pep Boys Auto 500 Sept 6 (36) (3895835759).jpg by Hans J E from Lawrenceville, US, CC BY-SA 2.0
+- 2009 Pep Boys Auto 500 Sept 6 (37) (3896623452).jpg by Hans J E from Lawrenceville, US, CC BY-SA 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339134309).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52337874827).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339066593).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette C7 Z06 Convertible.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Chevrolet Corvette C8 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Chevrolet Corvette C5 Z06 Le Mans LC24.jpg by MrWalkr, CC BY-SA 4.0
+- US Navy 080719-N-5487R-003 Pit crew members service the No. 88 Navy Chevrolet during a caution flag stop at the Dodge Dealers 250.jpg by U.S. Navy photo by Lt. j.g. Andrea Ross, Public domain
+- Latvia, Riga, Riga, Krasta Street, 66 - Amserv Krasta car dealer (Riga) WMID4170247.jpg by AinarsM, CC BY-SA 3.0
+- Knighton's Auto Services Inc. in Colonie, New York.jpg by Tyler A. McNeil, CC BY-SA 4.0
+- Chevrolet dealership florida oeste.jpg by Fernando Martello, CC BY-SA 4.0
+- Hobson Chevrolet Buick Dealership, Cairo.JPG by Michael Rivera, CC BY-SA 3.0
+- Felix Chevrolet sign at night, Los Angeles.jpg by Dreamyshade, CC BY-SA 4.0
+- Chevrolet Corvettes C7 & C8, white, Golden Super Cruise 2026-06-06.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Corvette Z06 (C7, 2016) (52456205627).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette C7 Z06 (54871081734).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Shell Gas Station Prices @ West Palm Beach Service Plaza.jpg by DanTD, CC BY 4.0
+- Shell Gas Station Prices @ Fort Pierce Service Plaza-01.jpg by DanTD, CC BY 4.0
+- Shell Gas Station Prices @ Fort Pierce Service Plaza-02.jpg by DanTD, CC BY 4.0
+- 2015 Chevrolet C7 Corvette Convertible (21271961529).jpg by Sicnag, CC BY 2.0
+- 2001 Chevrolet Corvette Z06, rear right (2022 Back to the 50's Weekend).jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Corvette Z06 rear-1.JPG by M 93, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 11.jpg by Tuner tom, CC BY-SA 3.0
+- Chevrolet Corvette (C7) Z06 Brembo ceramic brakes (24572832762).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- (Agen) Corvette russe dans le port du Havre 1887 - Eugène Boudin - Musée des Beaux-Arts d'Agen.jpg by Didier Descouens, Public domain
+- GTRS Circuit Mérignac Bordeaux 22-06-2014 - Chevrolet Corvette - Image Picture Photography (14296278239).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0
+- Loutherbourg-La Capture de la corvette française la Chevrette, dans la baie de Camaret.jpg by Ji-Elle, Public domain
+- 1995 Ed Roth Beatnik Bandit II (21645487836).jpg by Sicnag, CC BY 2.0
+- 1920 Ford T Bucket Tweedy Pie (21483673130).jpg by Sicnag, CC BY 2.0
+- 2025-05-01 Muensingen Corvette C4 engine-compartment.jpg by Wikisympathisant, CC BY-SA 4.0
+- CHEVROLET CORVETTE Z06 (C6) at night front.JPG by Tokumeigakarinoaoshima, CC0
+- CHEVROLET CORVETTE Z06 (C6) at night rear.JPG by Tokumeigakarinoaoshima, CC0
+- Team AAI - Chevrolet Corvette C7-Z06 -57 (27726961561).jpg by Kevin Decherf from Nantes, France, CC BY-SA 2.0
+- Chevrolet Corvette C5 (25271326244).jpg by Niels de Wit from Ede, The Netherlands, CC BY 2.0
+- American Red Cross - Groups - American Red Cross home for Nurses at Putney, a London suburb. Rest and quiet for strained nerves - NARA - 20806654.jpg by Unknown authorUnknown author or not provided, Public domain
+- American Red Cross - Warehouses - American Red Cross Prisoners' Relief. American Red Cross storehouses at Bumpliz, a suburb of Berne, used for storage of food - NARA - 20805450.jpg by Unknown authorUnknown author or not provided, Public domain
+- American Red Cross - Warehouses - American Red Cross. Storehouses of the American Red Cross at Kehrsatz, a suburb of Berne, used for the storage of clothing for Prisoners' Relief - NARA - 20805458.jpg by Unknown authorUnknown author or not provided, Public domain
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 GT3 RS (2022) 1X7A7164.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Porsche 911 GT3RS, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- Porsche 911 GT3 RS (997, 2007) (55308445873).jpg by Charles from Port Chester, New York, CC0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Corvette no 1711 ORPCA Autocross 20170423 134856.jpg by Josh Baumgartner, CC BY-SA 4.0
+- 2021 Arlington Independence Day Parade 021 (Porsche 996 and Chevrolet Corvette).jpg by Michael Barera, CC BY-SA 4.0
+- Chevrolet Corvette C4 Coupé & Porsche 944. (54991996666).jpg by Txemari. (Navarra). from Navarra, España, CC BY-SA 4.0
+- Black Chevrolet Corvette C7 Z06 on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Chevrolet Corvette C7 Z06 (25878368634).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 2017 Chevrolet Corvette C7 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Chevrolet Corvette C5 Z06 Le Mans Edition.jpg by Calreyn88, CC BY-SA 4.0
+- Corvette C5 Z06 3.jpg by Gabriele Lanzilotti, CC BY-SA 4.0
+- Corvette C5 Z06.jpg by APNiem, CC BY-SA 4.0
+- Chevrolet Corvette C5 5.7 '04 (14460520236).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Chevrolet Corvette C5 5.7 '04 (14275559519).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Chevrolet Corvette C5 5.7 '04 (14287689177).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52338834041).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52338832976).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52337875977).jpg by Charles from Port Chester, New York, CC BY 2.0
+- '16 Chevrolet Corvette Z06 Convertible (Gibeau Orange Julep 2018).jpg by Bull-Doser, Public domain
+- 23 Chevrolet Corvette Convertible Z06 (1).jpg by HJUdall, CC0
+- 23 Chevrolet Corvette Convertible Z06 (2).jpg by HJUdall, CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+
+## Sources
+
+- The Drive, 2023 Chevy Corvette Z06: 670 hp from a naturally aspirated flat-plane V8: https://www.thedrive.com/news/42882/2023-chevy-corvette-z06-670-hp-from-a-naturally-aspirated-flat-plane-v8
+- Hagerty, How the Corvette Z06 went from '60s racing package to modern monster: https://hagerty.com/media/?p=257365
+- Hagerty, 2023 Corvette Z06 arrives: https://www.hagerty.com/media/?p=179871
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- GM Authority, 2025 Corvette Z06 gets revised fuel economy ratings (Sept 2024): https://gmauthority.com/blog/2024/09/2025-corvette-z06-gets-revised-fuel-economy-ratings/
+- AutoMonitor, How much does a Corvette Z06 actually cost? (estimates): https://automonitor.io/blog/how-much-does-a-chevrolet-corvette-z06-cost/
+- CarEdge, Corvette Z06 cost to own (estimates): https://caredge.com/chevrolet/corvette-z06/costs
+- Motorious, Over 1,700 Corvette Z06s sit unsold (Aug 2025): https://www.motorious.com/articles/news/dealers-offer-deep-discounts-as-over-1-700-chevrolet-corvette-z06s-sit-unsold
+- CarScoops, Corvette Z06 prices crashing on the used market (Aug 2025): https://www.carscoops.com/2025/08/corvette-z06-prices-crashing-used-market-losses/
+- CarScoops, Corvette Z06 flippers learn what happens when the hype fades (Oct 2025): https://www.carscoops.com/2025/10/corvette-z06-flippers-are-learning-the-hard-way-what-happens-when-the-hype-fades/
+- Autoblog, 2023 Chevy Corvette Z06: the 9 coolest things: https://www.autoblog.com/2022/02/18/2023-chevy-corvette-z06-coolest-9-things/
+- Auto123, Corvette Z06 and ZR1 recall (Aug 2025): https://www.auto123.com/en/news/chevrolet-corvette-recall-z06-zr1/73126
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census
+- The Drive, 2023 Porsche 911 GT3 RS specs and price: https://www.thedrive.com/news/2023-porsche-911-gt3rs-specs-debut-reveal-price.md
+- CarScoops, Porsche 911 GT3 RS sold for $40k profit (May 2025): https://www.carscoops.com/2025/05/this-porsche-911-gt3-rs-was-sold-for-40k-profit-after-1-4k-miles/

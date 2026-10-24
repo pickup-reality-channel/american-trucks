@@ -1,0 +1,189 @@
+# Photo credits: Why the Corvette Z06 Beats the 911 GT3 RS (And Where It Loses)
+
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Blancpain Endurance Series - Audi R8 LMS et Corvette Z06 - 002.jpg by Thesupermat, CC BY-SA 3.0
+- Chevrolet Corvette Z06 2006 Ulva.jpg by Staffan Andersson, CC BY-SA 4.0
+- ChevroletCorvetteZ06.jpg by Jason Lawrence, CC BY 2.0
+- 2007 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 GT3 RS (2022) 1X7A7164.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 GT3, EMS 2024, Essen (P1031698).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0087).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0073).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0077).jpg by Matti Blume, CC BY-SA 4.0
+- 911 GT3 RS ^ Corvette C6 - Flickr - Alexandre Prévot.jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Porsche 997 GT3 RS (2006) IMG 2546.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 GT3 RS, Auto 2025, Zurich (20251029-P1073692).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0098).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0084).jpg by Matti Blume, CC BY-SA 4.0
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Nordschleife Brünnchen 201204061.JPG by BedaNo1, CC BY-SA 3.0
+- Chevrolet Corvette Z06 - Flickr - Alexandre Prévot (7) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- GC record-corvette z06.jpg by geigercars.de GmbH, CC BY-SA 4.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 9.jpg by Tuner tom, CC BY-SA 3.0
+- 2020 Corvette C8.R at Amelia Island Concours d’Elegance.jpg by MN, CC BY-SA 4.0
+- Chevrolet Corvette C8.R at the 2021 Road Race Showcase.jpg by Arturo Hurtado, CC BY 2.0
+- Chevrolet Corvette C8.R and Acura ARX-05 at the 2020 Road Race Showcase.jpg by Arturo Hurtado, CC BY 2.0
+- Porsche 992 GT3 RS DSC 9055.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9586.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Carrera RS, Bj. 1972-73 (2016-07-02 01 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 Carrera RS 2.7 (1972) Solitude Revival 2022 1X7A0355.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Carrera RS P5190434.jpg by Ermell, CC BY-SA 4.0
+- 2010 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 rear.JPG by M 93, CC BY-SA 3.0
+- Chevrolet Corvette Z06 front.JPG by M 93, CC BY-SA 3.0
+- 1963 Chevrolet Corvette Z06.jpg by JaseMan, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24356943329).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24698407446).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Corvette Racing Chevrolet Corvette C8.R pit sign during the pitwalk at the 2023 Le Mans (53468235884).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone at Dunlop Chicane at the 2023 Le Mans (53368499761).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone in the Esses at the 2023 Le Mans (53378106489).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette Z06 (C7, 2019) (52339134374).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339066593).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339134309).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 (997) GT3 RS 3.6 - capot arrière ouvert.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Porsche 911 GT3 RS (991, 2016) (52574909350).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 GT3 RS (991.2, 2018) (52574909305).jpg by Charles from Port Chester, New York, CC BY 2.0
+- NOX 2019 Tree and Track.jpg by Auge=mit, CC BY-SA 4.0
+- Hockenheimring drag strip 2019 DTM Hockenheim (May).jpg by Morio, CC BY-SA 4.0
+- Drag Strip - Werner Rennen 2018 01.jpg by Frank Schwichtenberg, CC BY-SA 4.0
+- 2010 Porsche 911 Carrera 4S PDK 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Porsche 911 Carrera 4S PDK 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2011 Porsche 911 Carrera 4S PDK.jpg by Calreyn88, CC BY-SA 4.0
+- 2011 Chevrolet C6 Corvette Coupe (15999586018).jpg by Sicnag, CC BY 2.0
+- 1999 Chevrolet C5 Corvette Convertible (30572198050).jpg by Sicnag, CC BY 2.0
+- 2009 Chevrolet C6 Corvette ZR1 Coupe (22834732513).jpg by Sicnag, CC BY 2.0
+- Porsche Dealership, Lakeside North Harbour.jpg by Tim Sheerman-Chase, CC BY 2.0
+- Clouds Tacoma Porsche Dealership (27864771059).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
+- Porsche dealership in Hauxton - geograph.org.uk - 8220367.jpg by Mr Ignavy, CC BY-SA 2.0
+- Porsche 991.2 GT3 RS Weissach-Paket IMG 7683.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Porsche 911 GT3 RS Weissach BS O24.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Porsche 911 GT3 RS Weissach LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Chevrolet C7 Corvette Convertible (21271961529).jpg by Sicnag, CC BY 2.0
+- 2016 Chevrolet Corvette Z06 convertible, front right, 09-28-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 2023 Chevrolet Corvette Z06 Convertible 70th Anniversary Edition.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 8837.jpg by Alexander-93, CC BY-SA 4.0
+- 04366 Orange Corvette C8 convertible right back V-P.jpg by Virtual-Pano, CC BY-SA 4.0
+- Porsche 911 (997) GT3 RS 3.6 - détail capot avant.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0078).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0052).jpg by Matti Blume, CC BY-SA 4.0
+- Chevrolet Corvette Z06 Cabriolet (C8, 2023) (55219623239).jpg by Charles from Port Chester, New York, CC0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Chevrolet Corvette Z06 Cabriolet (C8, 2022) (52339135139).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2007 Chevrolet Corvette Z06 Special Signature Limited Edition Fox Island Car Show 2016 05.jpg by Thorsten Lindner, CC BY-SA 4.0
+- Chevrolet Corvette (C7) Z06 interior (24062520754).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- 2023 Porsche 911 GT3 RS Rear HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 White Porsche 911 GT3 RS Rear SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 911 GT3 RS (992) rear view at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9585.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9584.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9584 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Chevy Stingray Corvette Z06 Debut at Detroit Auto Show 2.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 10.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 8.jpg by Tuner tom, CC BY-SA 3.0
+- Porsche 992 GT3 RS Tribute to Jo Siffert Auto Zuerich 2024 DSC 6518.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 997 GT3 RS (68893).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 911 (997) GT3 RS 3.6 - avant.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Caterham DRS Testing Bench at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes F1 W03 front DRS pipes 2012 Japan.jpg by Morio, CC BY-SA 3.0
+- Porsche 911 (997) GT3 RS 3.6 - profil.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Orange Porsche 911 GT3 RS Type 997 (side).jpg by Gaspa / Francesco Gasparetti, CC BY 2.0
+- Accelerating 911 GT3 RS Goodwood FoS 2010.jpg by ian mcwilliams from CHAFFORD HUNDRED, England, CC BY 2.0
+- Cars battling in the GT & Prototype Challenge (35579697633).jpg by Bobo Boom, CC BY 2.0
+- Porsche 911 (997) GT3 RS 3.6 - arrière.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- 2007 Porsche 911 997 GT3 RS (79609).jpg by Calreyn88, CC BY-SA 4.0
+- 2007 Porsche 911 997 GT3 RS (85042).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 911 (997) GT3 RS 3.6 - détail baguette de porte.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Porsche 911 (997) GT3 RS 3.6 - 3 quart arrière.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Chevrolet Corvette (C7) Z06 Brembo ceramic brakes (24572832762).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- Chevrolet Corvette Z06 C7.jpg by בר, CC BY-SA 3.0
+- 2002 Chevrolet Corvette C5 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- 2001 Chevrolet Corvette Z06, rear right (2022 Back to the 50's Weekend).jpg by MercurySable99, CC BY-SA 4.0
+- Historisches Fahrerlager Nürburgring Classic 2017.jpg by Cannoneer Photography / https://cannoneer.de Offizielle Webseite von Cannoneer Photography, CC BY-SA 4.0
+- File op de Nürburgring Nordschleife (7638844772).jpg by Niels Broekzitter from Piershil, The Netherlands, CC BY 2.0
+- Nürburgring, Vogelschauansicht, Eugen Felle, 1927.jpg by Eugen Felle, Public domain
+- GT Masters Corvette Z06 Frenzen.jpg by Patrick Ch. Apfeld, CC BY 3.0
+- GT Masters Corvette Z06 Alessi (cropped).jpg by Patrick Ch. Apfeld, CC BY 3.0
+- GT Masters Corvette Z06 Alessi.jpg by Patrick Ch. Apfeld, CC BY 3.0
+- Porsche 992 GT3 with touring package 1X7A6511.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 991 GT3 with touring package 1X7A0365.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7421.jpg by Alexander-93, CC BY-SA 4.0
+- Motosacoche, Bj. 1918, 1000 ccm, 50 PS am 15.08.1981 Bild 03.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- British Motor Museum 09-2016 (30117494085).jpg by Karen Roe, CC BY 2.0
+- Mercedes Benz 300 SL Gullwing (8649257974).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 2026 Chevrolet Corvette ZR1X (55105784670).jpg by Mustang Joe, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208414124).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565430).jpg by Charles from Port Chester, New York, CC0
+- Callaway Corvette ZR-1 Twin Turbo (1994) (53769048864).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Callaway Corvette ZR-1 Twin Turbo (1994) (53769142130).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Callaway Corvette ZR-1 Twin Turbo (1994) (53769048974).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2023 Porsche 911 GT3RS, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- Porsche 911 GT3 RS (997, 2007) (55308445873).jpg by Charles from Port Chester, New York, CC0
+- Porsche 992 GT3 1X7A0323.jpg by Alexander Migl, CC BY-SA 4.0
+- Corvette at a dealer.jpg by 1994McLarenF1, CC BY-SA 4.0
+- Columbus Ford Dealers 500 Auto Race - DPLA - 2508161cc6625dbdd2e71bb43697016d (page 2).jpg by unknown, Public domain
+- Knighton's Auto Services Inc. in Colonie, New York.jpg by Tyler A. McNeil, CC BY-SA 4.0
+- Porsche 911 GT3 RS, EMS 2024, Essen (P1031699).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS (992) front view at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- Porsche 911 GT3 RS, TC 24, Essen (TCE42627).jpg by Matti Blume, CC BY-SA 4.0
+- 2006 Chevrolet Corvette C6 Z06 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Chevrolet Corvette C6 Z06 BS O24.jpg by MrWalkr, CC BY-SA 4.0
+- 2003 Chevrolet Corvette Z06, front left, 09-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 7.jpg by Tuner tom, CC BY-SA 3.0
+- 2007 Porsche 911 997 GT3 RS (68819).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2770).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche FARA race Miami Speedway 8358.jpg by Dori, CC BY-SA 3.0
+- Chevrolet Corvette C8 convertibles IAA 2021 1X7A0184.jpg by Alexander Migl, CC BY-SA 4.0
+- Corvette C8 interior.jpg by MN, CC BY-SA 4.0
+- Chevrolet Corvette C8 4.jpg by Calreyn88, CC BY-SA 4.0
+- Flat-six-atmo-aircooled-padded-box-Porsche911ClassicSinger.jpg by steve lyon from yosemite, ca, usa, CC BY-SA 2.0
+- 1971 Porsche 911ST 2.5 MFI engine at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- A black and white photograph Porsche, Cayman S, rear lettering, The Cayman S draws its agility from a 3.4-litre flat-six engine with direct fuel injection Photography by David Adam Kess.jpg by David Adam Kess, CC BY-SA 4.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12438904564).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12439467413).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12436308413).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- One scene at 2012 Pokka 1000km (185).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lots and lots of cars (21922910551).jpg by William J Sisti from Morristown, NJ, USA, CC BY-SA 2.0
+- ADAC GT Masters (8009765862).jpg by Juriën Minke, CC BY 2.0
+- ADAC GT Sachsenring.jpg by Thilo L. from Germany, CC BY-SA 2.0
+- Corvette Z06 GT3.R.jpg by Bzimmer260, CC BY-SA 4.0
+- 2024 Corvette Z06 GT3.R.jpg by Bzimmer260, CC BY-SA 4.0
+- Porsche 911 GT3 RS (6280074152).jpg by photosteve101 from Spacetown, lost in Space, CC BY 2.0
+- Porsche 996 GT3 RS (RHD, R13 MEW) Silverstone track day 2008.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Porsche 911 GT3 RS - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Rear wing and spoiler (6531629879).jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Porsche 911 GT3 4.0 (992) 1X7A7256.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche race car Verschuur amk.jpg by user:AngMoKio, CC BY-SA 2.5
+- 1999 Chevrolet Corvette C5 Z06 Convertible (11370999825).jpg by Sicnag, CC BY 2.0
+
+## Sources
+
+- The Drive, 2023 Chevy Corvette Z06: 670 hp from a naturally aspirated flat-plane V8 (Oct 2021): https://www.thedrive.com/news/42882/2023-chevy-corvette-z06-670-hp-from-a-naturally-aspirated-flat-plane-v8
+- The Drive, 2023 Porsche 911 GT3 RS specs, debut and price (Aug 2022): https://www.thedrive.com/news/2023-porsche-911-gt3rs-specs-debut-reveal-price.md
+- Hagerty, 2023 Corvette Z06 arrives with world's most powerful naturally aspirated V-8: https://www.hagerty.com/media/?p=179871
+- Autoblog, 2023 Chevy Corvette Z06: the 9 coolest things: https://www.autoblog.com/2022/02/18/2023-chevy-corvette-z06-coolest-9-things/
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- AP via WFYI, Corvette goes mid-engine for first time (July 2019): https://www.wfyi.org/news/articles/corvette-goes-mid-engine-for-first-time-to-raise-performance
+- Motor Authority, The 2023 Corvette Z06 exists because of Zora Arkus-Duntov: https://www.motorauthority.com/news/1136291_the-2023-chevrolet-corvette-z06-exists-because-of-zora-arkus-duntov
+- Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/
+- Auto123, Corvette Z06 and ZR1 recall (Aug 2025): https://www.auto123.com/en/news/chevrolet-corvette-recall-z06-zr1/73126
+- Motor1, 2023 Porsche 911 GT3 RS laps the Nürburgring in 6:49.328: https://www.motor1.com/news/616069/porsche-911-gt3-rs-nurburgring-lap-record/
+- Top Gear, Corvette ZR1X fastest American car around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring
+- CarScoops, This Porsche 911 GT3 RS sold for $40k profit after 1.4k miles (May 2025): https://www.carscoops.com/2025/05/this-porsche-911-gt3-rs-was-sold-for-40k-profit-after-1-4k-miles/
+- CarScoops, Corvette Z06 prices crashing on the used market (Aug 2025): https://www.carscoops.com/2025/08/corvette-z06-prices-crashing-used-market-losses/
+- CarScoops, Corvette Z06 flippers learn what happens when the hype fades (Oct 2025): https://www.carscoops.com/2025/10/corvette-z06-flippers-are-learning-the-hard-way-what-happens-when-the-hype-fades/
+- Motorious, Over 1,700 Corvette Z06s sit unsold (Aug 2025): https://www.motorious.com/articles/news/dealers-offer-deep-discounts-as-over-1-700-chevrolet-corvette-z06s-sit-unsold
+- CLASSIC.COM, Porsche 992.1 GT3 RS market benchmark: https://www.classic.com/m/porsche/911/992/9921/gt3-rs/standard/

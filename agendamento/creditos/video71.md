@@ -1,0 +1,172 @@
+# Photo credits: Can a Normal Person Afford a Ferrari SF90?
+
+- Ferrari SF90, BAS 24, Brussels (P1170502-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90, BAS 24, Brussels (P1170486-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Ferrari SF90 XX Spider 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Stradale 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale Mayfair.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 XX Stradale 2.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Stradale Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Stradale sf25.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Stradale in Böblingen 02.jpg by Giftzwerg 88, CC BY-SA 3.0
+- 2025 Ferrari SF90XX Stradale, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2025 Ferrari SF90XX Stradale, right rear view.jpg by Mr.choppers, CC BY-SA 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.3).jpg by OWS Photography, CC BY 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.4).jpg by OWS Photography, CC BY 4.0
+- 2025 Ferrari SF90 Stradale - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2025 Ferrari SF90 Stradale - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ferrari SF90 XX Stradale 1.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Spider IMG 9568.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8856.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8852.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6998.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Spider, EMS 2024, Essen (P1032226).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Stradale (2023) (52864606180).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2023) (52864220861).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2022) (52864220871).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale red.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Stradale, red - front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 Stradale (7LA-173H).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9559.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9574.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6993.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano (49833).jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari dealership in Egham - geograph.org.uk - 5871327.jpg by Richard Humphrey, CC BY-SA 2.0
+- Ferrari New Delhi dealership, October 2013.jpg by Shobhit Gosain, CC BY-SA 3.0
+- Ferrari (18661248153).jpg by Axion23, CC BY 2.0
+- 2023 Ferrari SF90 Spider 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Spider (83753).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale on Regent Street 2023-09-16.jpg by Cityswift, CC BY 2.0
+- Ferrari SF90 Stradale – h 02052026.jpg by © M 93, CC BY-SA 3.0 de
+- Ferrari SF90 Stradale – f 02052026.jpg by © M 93, CC BY-SA 3.0 de
+- Various plastic sales tax tokens from the United States.jpg by $1LENCE D00600D, CC BY-SA 3.0
+- Colorado One Fifth Cent Tax Tokens.jpg by $1LENCE D00600D, CC BY-SA 3.0
+- Street sales in Quito. Ecuador, at an elevation of 2,850 metres (9,350 ft) above sea level.non taxed street sales cigarettes.jpg by David Adam Kess, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9547.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9250.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 XX Spider.jpg by Calreyn88, CC BY 4.0
+- RENO SUBURB - NARA - 553129.jpg by Jonas Dovydenas, Public domain
+- American Red Cross - Child Welfare Exhibition - American Red Cross official photograph. This center in Bethnal Green, a suburb of London, is fitted up in a building which used to a "Public house" or saloon - NARA - 20803856.jpg by Unknown authorUnknown author or not provided, Public domain
+- Market Street-Suburb Ste. Mary Historic District-573.JPG by Elisa.rolle, CC BY-SA 3.0
+- Loughner family home.JPG by Steve Karp, CC BY 3.0
+- US Navy 040324-N-3228G-003 A contractor prepares to steam clean the driveway at new Navy housing on Ford Island.jpg by U.S. Navy photo, Public domain
+- US Navy 040324-N-3228G-004 A contractor steam cleans a driveway at one of new Navy housing units on Ford Island.jpg by U.S. Navy photo, Public domain
+- Negro Family Budget of Canned Fruits and Vegetables - NARA - 5729293 (page 2).jpg by Unknown authorUnknown author or not provided, Public domain
+- Negro Family Budget of Canned Fruits and Vegetables - NARA - 5729293 (page 1).jpg by Unknown authorUnknown author or not provided, Public domain
+- Mo' money, no problem; A&FRC helps Airmen budget (6011568).jpg by U.S. Air Force 86AW by Staff Sgt. Kirby Turbak, Public domain
+- 1974 Dodge Charger Rallye (49604619852).jpg by George, CC BY-SA 2.0
+- 1974 Dodge Charger Rallye (49603858073).jpg by George, CC BY-SA 2.0
+- Loan car (843414351).jpg by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0
+- Ferrari SF90 Stradale (front).jpg by More Cars, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52570668361).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52570203442).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2022 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 XX.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Asseto Fiorano Spider.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- W C Lewis Insurance Agency - DPLA - 9ecfd5e81cb912b5bae60a0c2271fa10.jpg by unknown, Public domain
+- Formula One Test Days 2019 - Ferrari SF90 - Sebastian Vettel.jpeg by Artes Max, CC BY-SA 2.0
+- Ferrari SF90 XX Spider Ferrari Lyon.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.7).jpg by OWS Photography, CC BY 4.0
+- 2023 Ferrari SF90 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Ispirazioni.jpg by Calreyn88, CC BY-SA 4.0
+- Ferraris Vestager.jpg by European Commission, CC BY 4.0
+- Luigi Ferraris 2022.jpg by European Commission, CC BY 4.0
+- NJNG breaks ground on regional training institute 140826-Z-AL508-022.jpg by Master Sgt. Mark Olsen, Public domain
+- Ferrari SF90 Stradale (2021) (52863637352).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52864385084).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale - 53080399147.jpg by More Cars, CC BY 2.0
+- 1947-08-01 Ferrari 125 sn01C Enzo Righetti.jpg by Unknown photographer, Public domain
+- Ferrari SF90 Spider (2021) (52864606280).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Spider (2021) (52864220976).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Spider (2021) (52863637412).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Spider (52576345019).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- Ferrari SF90 Spider (52576066276).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- Ferrari SF90 Spider (88149).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Spider (67778).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 carbon wheels.jpg by pelican-actor, CC BY 2.0
+- Ferrari SF90 Spider, EMS 2024, Essen (P1032227).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Stradale (2021) (52571115360).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52571198763).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2022) (52864606200).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2023) (52864606215).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2021 Ferrari SF90 Stradale.jpg by Calreyn88, CC BY-SA 4.0
+- Skoda EV charger.jpg by Ivan Radic, CC BY 2.0
+- Tesla Wall Connector EV charging station installed outdoors in Newton MA 1.jpg by 4300streetcar, CC BY 4.0
+- Tesla Wall Connector EV charging station installed outdoors in Newton MA 2.jpg by 4300streetcar, CC BY 4.0
+- Shell Gas Station Prices @ Fort Pierce Service Plaza-01.jpg by DanTD, CC BY 4.0
+- Shell Gas Station Prices @ Fort Pierce Service Plaza-02.jpg by DanTD, CC BY 4.0
+- Shell Gas Station Prices @ West Palm Beach Service Plaza.jpg by DanTD, CC BY 4.0
+- No Ethanol Added - Premium Recreational Gasoline - 91 Octane Gas (46484945855).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- Killam Alberta Grain Elevator (9617719632).jpg by Wilson Hui from Calgary, Canada, CC BY 2.0
+- Dieselpump Preem Avesta.jpg by Calle Eklund/V-wolf, CC BY 3.0
+- 2024 Ferrari SF90 XX Stradale in Bianco Artico, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Ferrari SF90 XX Stradale in Bianco Artico, front left (cropped).jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 Stradale 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale in Böblingen 04.jpg by Giftzwerg 88, CC BY-SA 3.0
+- Ferrari SF90 XX Stradale Giallo Modena.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ferrari SF90XX.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 XX Stradale (2025) (55081361766).jpg by Charles from Port Chester, New York, CC0
+- Ferrari Factory (Maranello, Modena) in 2018.08.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.11.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.10.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari SF90 Stradale in Bridgehampton, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90, BAS 24, Brussels (P1170503-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Motortreff Bella Italia 2024, Munich (P1190392).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Spider 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Spider Assetto Fiorano.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Spider 1.jpg by Calreyn88, CC BY-SA 4.0
+- Mansion Resort and Spa in Bali - 5.jpg by Kate Branch, CC BY-SA 4.0
+- Former Mansion Night Club, Station Road, Castleford, West Yorkshire (22nd April 2023).jpg by Mtaylor848, CC BY-SA 4.0
+- Mansion Resort and Spa in Bali - 34.jpg by Kate Branch, CC BY-SA 4.0
+- Ferrari SF90 XX Stradale (2026) (55081560838).jpg by Charles from Port Chester, New York, CC0
+- Ferrari SF90 XX Stradale (2026) (55081727970).jpg by Charles from Port Chester, New York, CC0
+- Ferrari SF90 XX Stradale (2025) (55081727950).jpg by Charles from Port Chester, New York, CC0
+- Ferrari 296 GTB 1X7A6377.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6379.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7011.jpg by Alexander Migl, CC BY-SA 4.0
+- FERRARI DEALER NEAR THE PARK PLAZA HOTEL BEIJING CHINA OCT 2012 (8157365187).jpg by calflier001, CC BY-SA 2.0
+- FERRARI DEALER NEAR THE PARK PLAZA HOTEL BEIJING CHINA OCT 2012 (8181853300).jpg by calflier001, CC BY-SA 2.0
+- FERRARI DEALER PARK PLAZA HOTEL BEIJING CHINA OCT 2012 (8237752976).jpg by calflier001, CC BY-SA 2.0
+- 2026 Ferrari 849 Testarossa Assetto Fiorano in Blu Corsa.jpg by Andrew Bone from Weymouth, England, UK., CC BY 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4137).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4138).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Red 2019 Ferrari SF90 Stradale (48264238897) (cropped).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Red 2019 Ferrari SF90 Stradale (48264238897).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- FERRARI SF90 STRADALE.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 2023 Ferrari SF90 Stradale 1.jpg by Calreyn88, CC BY 4.0
+- 2023 Ferrari SF90 Spider blue.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Spider Assetto Fiorano.jpg by Calreyn88, CC BY-SA 4.0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 1of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 2of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+- 1941 Hudson “Big Boy” pickup truck at 2017 AMO meet 3of3.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0
+
+## Sources
+
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Kelley Blue Book, 2024 Ferrari SF90 (MSRP, fair price, resale value, warranty, EV range): https://www.kbb.com/ferrari/sf90/2024/
+- AutoMonitor, How much does a Ferrari SF90 Stradale cost? (estimates, no sources listed): https://automonitor.io/blog/how-much-does-a-ferrari-sf90-stradale-cost/
+- CarGurus, 2023 Ferrari SF90 review and pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- U.S. Census Bureau, Income in the United States: 2023: https://www.census.gov/library/publications/2024/demo/p60-282.html
+- KTVU / Fox, How much the typical American household earned in 2023 (Census data): https://ktvu.com/news/how-much-american-household-earned-2023-census
+- ClubAlfa, A Ferrari SF90 Stradale crash has become one of the most costly ever (Mar 2024): https://www.clubalfa.it/en/a-ferrari-sf90-stradale-crash-has-become-one-of-the-most-costly-ever-2625
+- Ferrari, Warranty and maintenance (Genuine Maintenance, Power16): https://www.ferrari.com/en-US/auto/car-part-services-warranty-maintenance
+- Bloomberg, Ferrari plans $7,500 hybrid, EV battery service subscription (June 2024): https://www.bloomberg.com/news/articles/2024-06-26/ferrari-plans-7-500-hybrid-ev-battery-service-subscription
+- ClubAlfa, Ferrari offers up to 16 years of warranty for its hybrids (July 2024): https://www.clubalfa.it/en/ferrari-offers-up-to-16-years-of-warranty-for-its-hybrids-and-8-for-electric-cars-6380
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Carwow Spain, Ferrari 296 GTB vs McLaren Artura (June 2021): https://www.carwow.es/blog/comparativa-ferrari-296-gtb-vs-mclaren-artura
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
