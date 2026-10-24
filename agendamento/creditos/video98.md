@@ -1,0 +1,145 @@
+# Photo credits: Lamborghini Urus vs Ferrari Purosangue: The Difference Nobody Explains
+
+- Lamborghini Urus Novitec Esteso Ferrari 812 Superfast Lamborghini Huracán EVO (52074864881).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lamborghini Urus Performante 1X7A6805.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6798.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8524.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6796.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8521.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus rear view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus front view dllu.jpg by Dllu, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9554.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9550.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7008.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7007.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7003.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue IMG 2488.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9563.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7002.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus oblique view dllu 01.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus 19.09.20 JM (2).jpg by Johannes Maximilian, CC BY-SA 4.0
+- Lamborghini Urus at IAA 2019 IMG 0175.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus, BAS 24, Brussels (P1170506).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus 1X7A1637.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Mansory IMG 9587.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6804.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6803.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue at the 2025 Shannons Adelaide Rally (028A4470).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari Purosangue, Auto 2025, Zurich (20251029-P1074508).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7776.jpg by Alexander Migl, CC BY-SA 4.0
+- Horseracing Churchill Downs.jpg by Flickr user Jeff Kubina, CC BY-SA 2.0
+- Prix Charles Philippe 2019 01.jpg by Tsaag Valren, CC BY-SA 4.0
+- Chestnut Thoroughbred.jpg by Opittman, CC0
+- Osaka Auto Messe 2025 (189) - Ferrari Purosangue & AERO OVER P639e.jpg by Tokumeigakarinoaoshima, CC0
+- Ferrari Purosangue DSC 7775.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7778.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini & Ferrari (8439652732).jpg by Axion23, CC BY 2.0
+- 1988 Ferrari Testarossa and Lamborghini Gallardo.jpg by Ssu, CC BY-SA 4.0
+- Ferrari + Lamborghini (12514246784).jpg by Axion23, CC BY 2.0
+- Ferrari Tipo F140C V12 engine display.jpg by Mr.choppers, CC BY-SA 3.0
+- 1948 Ferrari 166MM barchetta 0002M engine.jpg by Prova MO, CC BY-SA 4.0
+- 1950 Ferrari 195S Inter by Vignale - V12 engine side.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Urus 08.jpg by Y.Leclercq, CC BY-SA 4.0
+- Lamborghini Urus (2019) (52571953520).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621749741).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Detailed view of a car's RPM gauge displaying current engine speed during a test drive on a sunny day.jpg by Shixart1985, CC BY 2.0
+- Dauphine - Car Engine - 4 Stroke 4 Cylinder 30 bhp 4250 rpm - Birla Industrial & Technological Museum - Kolkata 2014-01-23 7101.JPG by Biswarup Ganguly, CC BY 3.0
+- Dauphine - Car Engine - 4 Stroke 4 Cylinder 30 bhp 4250 rpm - Birla Industrial & Technological Museum - Kolkata 2014-01-23 7102.JPG by Biswarup Ganguly, CC BY 3.0
+- Turbo crassus 01.jpg by H. Zell, CC BY-SA 3.0
+- Turbocharger 3.jpg by Tiia Monto, CC BY 4.0
+- Turbo imperialis 01.jpg by H. Zell, CC BY-SA 3.0
+- Ferrari Roma IMG 9620.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Roma Spider IMG 9546.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Roma IMG 9620 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini x3 (16691728755).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Ferrari Purosangue DSC 7783.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7777.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue MYLE Festival 2025 DSC 9651.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari Purosangue 3.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A7434.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A7426.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante Verde Gea Lucido (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9099.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9097.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9100.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 7.jpg by Calreyn88, CC BY-SA 4.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- 2024 Ferrari Purosangue 8.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
+- Dieselpump Preem Avesta.jpg by Calle Eklund/V-wolf, CC BY 3.0
+- Bosch Fuel Pump 0 580 254 957 - opened-7456.jpg by Raimond Spekking, CC BY-SA 4.0
+- Bosch Fuel Pump 0 580 254 957 - opened-7460.jpg by Raimond Spekking, CC BY-SA 4.0
+- Lamborghini Urus SE 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Urus SE 002.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Urus SE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus SE (53878104939).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Lamborghini Urus S 1X7A1655.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A7433.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A7428.jpg by Alexander-93, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1505).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0035).jpg by Matti Blume, CC BY-SA 4.0
+- Rolls-Royce Cullinan 001.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 009.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 005.jpg by Jengtingchen, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.08.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.11.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.07.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Urus Performante (2024) (53621749681).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus (2022) (52866218721).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus (2022) (52866606590).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE in the Ferruccio Lamborghini Museum.jpg by TKOIII, CC BY 4.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE in the Ferruccio Lamborghini Museum (rear).jpg by TKOIII, CC BY 4.0
+- Ferrari f50 x 2 and Lamborghini Countach (6729410593).jpg by Axion23, CC BY 2.0
+- CES 2017 - Finkbeiner and Vigna.jpg by ETC-USC, CC BY 2.0
+- Ferrari Purosangue monaco 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari Purosangue gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Purosangue monaco 1.jpg by Calreyn88, CC BY-SA 4.0
+- 20XX Lamborghini Urus.jpg by Alexandre Prevot, CC BY-SA 2.0
+- Lamborghini Urus 002.jpg by Jengtingchen, CC BY-SA 4.0
+- Lamborghini Urus 004.jpg by Callum Gill, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1485).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus 20180306 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Diablo SV-R side.jpg by Ed Callow;Cropped and minor alterations by uploader Mr.choppers, CC BY 2.0
+- Lamborghini Diablo SV-R rear.jpg by Ed Callow, CC BY 2.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Lamborghini Grand Prix 75 Target - Flickr - Joost J. Bakker IJmuiden.jpg by Joost J. Bakker, CC BY 2.0
+- 1986 Lamborghini Jalpa in Nero Tenebre, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Urus (2022) (52866218736).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621960053).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53622082989).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2011 Good Sam Pocono Nascar (6031154390).jpg by likeaduck, CC BY 2.0
+- 2011 Good Sam Pocono Nascar (6030594357).jpg by likeaduck, CC BY 2.0
+- -Aufstehn action at Vienna Insurance Group (51503040363).jpg by Insure Our Future, Public domain
+- Gas pump in Lannion.jpg by Syced, CC0
+- Race Trac gas pump Louisiana 14 May 2025.jpg by Infrogmation, CC BY-SA 4.0
+- Dead Gas Station Jeff Hwy Louisiana Pump Counter.jpg by Bart Everson, CC BY 2.0
+- "14 - Italian SUVs Panda Cross by Fiat - yellow urban suv.jpg by Noebu, CC BY-SA 3.0 it
+- Porsche 356 A Speedster 1600 Super, Bj. 1956, Heck (2016-07-02 Sp).jpg by Lothar Spurzem
+
+Die Bilder bitte nicht ohne Einwilligung des Autors verändern., CC BY-SA 2.0 de
+- Porsche 718 Cayman GT4 Solitude Revival 2022 1X7A0107.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Wikipedia, Ferrari Purosangue: https://en.wikipedia.org/wiki/Ferrari_Purosangue
+- Motor1, 2024 Ferrari Purosangue is predictably expensive: https://www.motor1.com/news/652734/2024-ferrari-purosangue-suv-price/
+- InsideHook, Ferrari Purosangue SUV bet has paid off: https://www.insidehook.com/autos/ferrari-purosangue-suv-bet-paid
+- Marque Cars, Buying a Ferrari Purosangue: https://marquecars.com/journal/ferrari-purosangue-buying-guide
+- CARFAX, 2026 Lamborghini Urus: https://www.carfax.com/Research-Lamborghini-Urus_w9540
+- Premier Auto Miami, How much is a Lamborghini Urus: https://www.premierautomiami.com/how-much-is-a-lamborghini-urus/
+- VinAssessment, Lamborghini Urus prices by year: https://vinassessment.com/prices/lamborghini/urus
+- Carscoops, Lamborghini sold nearly 5,000 Urus SUVs last year (January 2020): https://www.carscoops.com/2020/01/lamborghini-sales-soar-43-percent-in-2019-thanks-to-urus-suv/
+- Yahoo Autos, We're not selling mobility: how Stephan Winkelmann transformed Lamborghini: https://autos.yahoo.com/people-and-culture/articles/were-not-selling-mobility-stephan-083648052.html
