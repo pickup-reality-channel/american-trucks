@@ -1,0 +1,313 @@
+{
+ "id": "video122",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Corvette ZR1 vs Ferrari 296 GTB: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two rear-engine supercars, both with twin turbochargers, both with eight-speed dual-clutch gearboxes, both rear-wheel drive. One has a five point five litre V eight and one thousand, sixty-four horsepower. The other has a three litre V six, an electric motor, and a prancing horse on the nose. In a drag race filmed in December, the cheaper one won both runs. This is the real difference between the Corvette ZR1 and the Ferrari two ninety-six G T B.",
+   "query": "Chevrolet Corvette ZR1 and Ferrari 296 GTB",
+   "caption": "CORVETTE ZR1 VS FERRARI 296 GTB: THE DIFFERENCE NOBODY EXPLAINS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. In the drag race, the Corvette won by about four tenths of a second. But the race was a single video with no stated conditions, the Ferrari makes a very different kind of car, and the price gap, on the figures we found, is much larger than the headlines suggest. We will go through the numbers, and say where the sources disagree.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "THE ZR1 WON BOTH RUNS \u00b7 BUT READ THE FINE PRINT",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure comes from a published source, listed in the description. Where sources disagree, we tell you. Where we do the maths ourselves, we say so. And where a number is a manufacturer's claim rather than a measurement, we label it as one.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Start with what each car is. Wikipedia says the Corvette ZR1 is the top variant of the C8 range, with a five point five litre L T seven twin-turbocharged flat-plane crank V eight. Production and ordering began in spring twenty twenty-five. The C8 itself is GM's first rear mid-engine sports car since the Pontiac Fiero, and the first mid-engine Corvette.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "ZR1: 5.5 L TWIN-TURBO FLAT-PLANE V8 \u00b7 ORDERS FROM SPRING 2025",
+   "cuts": 3,
+   "chapter": "Two different ideas of a mid-engine car"
+  },
+  {
+   "text": "The Ferrari two ninety-six G T B was unveiled on the twenty-fourth of June, twenty twenty-one, with sales starting in twenty twenty-two, Wikipedia says. It uses a three litre, one hundred twenty degree twin-turbo V six, the F one sixty-three B C, plus an electric motor and a seven point four five kilowatt-hour battery. The page calls it the first real Ferrari with just six cylinders.",
+   "query": "Ferrari 296 GTB",
+   "caption": "296 GTB: UNVEILED JUNE 24, 2021 \u00b7 3.0 L TWIN-TURBO V6 + ELECTRIC MOTOR \u00b7 7.45 KWH BATTERY",
+   "cuts": 3
+  },
+  {
+   "text": "The name tells you the recipe. Wikipedia says the two nine six follows the original Dino scheme, which indicates displacement and cylinder count: two point nine litres, six cylinders. It also notes the page itself gives the engine as two thousand, nine hundred ninety-two cubic centimetres, three point oh litres, in one place, and two point nine in the Speciale section. A small discrepancy, but a real one.",
+   "query": "Ferrari Dino 246",
+   "caption": "'296' = 2.9 L, 6 CYLINDERS (DINO SCHEME) \u00b7 PAGE ALSO GIVES 2,992 CC / 3.0 L",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Corvette's engine is about eighty-four percent larger, five point five litres against two thousand, nine hundred ninety-two cubic centimetres. The Corvette has eight cylinders, the Ferrari six. The Corvette is purely petrol, the Ferrari is a plug-in hybrid. They are aimed at the same kind of buyer, but built on completely different ideas of how to get there.",
+   "query": "Chevrolet and Ferrari engines",
+   "caption": "ZR1 ENGINE \u2248 84% LARGER \u00b7 V8 PETROL vs V6 PLUG-IN HYBRID (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Corvette ZR1 is rated at one thousand, sixty-four horsepower at seven thousand r p m and eight hundred twenty-eight pound-feet at six thousand, according to Wikipedia. The Ferrari's combined output is eight hundred thirty metric horsepower, which the page converts to eight hundred nineteen horsepower, with seven hundred forty newton-metres, or five hundred forty-six pound-feet, at six thousand, two hundred fifty r p m.",
+   "query": "Corvette ZR1 and Ferrari 296 GTB",
+   "caption": "ZR1: 1,064 HP / 828 LB-FT \u00b7 296 GTB: 830 PS (819 HP) / 546 LB-FT (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Round one: power"
+  },
+  {
+   "text": "By our arithmetic, the Corvette has about thirty percent more power, one thousand, sixty-four over eight hundred nineteen, and about fifty-two percent more torque, eight hundred twenty-eight over five hundred forty-six. Motor One lists the Ferrari at eight hundred twenty horsepower, so the sources differ by one. That is rounding, not a contradiction. The size of the gap is not in doubt.",
+   "query": "Corvette ZR1 and Ferrari 296 GTB",
+   "caption": "ZR1 HAS ~30% MORE POWER AND ~52% MORE TORQUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Where does the Ferrari's power come from? Wikipedia says the V six makes six hundred sixty-three metric horsepower at eight thousand r p m on its own, and the electric motor adds one hundred sixty-seven, with three hundred fifteen newton-metres. By our arithmetic, the engine alone makes about two hundred twenty-two metric horsepower per litre, against about one hundred ninety-three horsepower per litre for the Corvette.",
+   "query": "Ferrari F163 BC engine",
+   "caption": "V6 ALONE: 663 PS AT 8,000 RPM \u00b7 +167 PS ELECTRIC \u00b7 ~222 PS/L vs ZR1 ~193 HP/L (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Note the units, though: we compared metric horsepower for the Ferrari with horsepower for the Corvette, which are not identical, and the difference is about one and a half percent. We keep the figure because the gap in specific output is larger than that, but treat it as approximate. The Ferrari is the high-revving small engine, the Corvette the big boosted one.",
+   "query": "Engine comparison",
+   "caption": "METRIC VS MECHANICAL HP DIFFER BY ~1.5% \u2014 TREAT AS APPROXIMATE",
+   "cuts": 3
+  },
+  {
+   "text": "Weight is where our sources run thin. Wikipedia gives the ZR1 a curb weight of three thousand, eight hundred thirty-one pounds in its infobox, and a dry weight of three thousand, six hundred seventy pounds, one thousand, six hundred sixty kilograms, in the text. The convertible's dry weight is three thousand, seven hundred fifty-eight. By our arithmetic, the curb weight is about one thousand, seven hundred thirty-eight kilograms.",
+   "query": "Corvette ZR1 weight",
+   "caption": "ZR1: 3,831 LB CURB (1,738 KG, OUR CONVERSION) \u00b7 3,670 LB DRY \u00b7 CONVERTIBLE 3,758 LB DRY",
+   "cuts": 3,
+   "chapter": "Round two: weight and the numbers we do not have"
+  },
+  {
+   "text": "For the Ferrari two ninety-six G T B, the Wikipedia page we used gives no weight. It gives a power-to-weight figure of five hundred sixty horsepower per ton. If that is a metric tonne, a guess about the units, the implied weight is about one thousand, four hundred sixty-three kilograms. The Speciale is listed at one thousand, four hundred ten kilograms dry. Without a sourced figure, we do not claim a weight for the standard car.",
+   "query": "Ferrari 296 GTB weight",
+   "caption": "296 GTB WEIGHT: NOT GIVEN \u00b7 560 HP/TON IMPLIES ~1,463 KG IF METRIC (OUR GUESS) \u00b7 SPECIALE 1,410 KG DRY",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One says the Ferrari is lighter than the Corvette but does not quantify it. That matches our reading: the Corvette makes much more power, but the Ferrari is the lighter car. By our arithmetic, the ZR1's power to weight at its infobox figure is about six hundred twelve horsepower per metric tonne. The Ferrari's is five hundred sixty by the page's own figure. So the Corvette still leads on that measure.",
+   "query": "Power to weight",
+   "caption": "ZR1 ~612 HP/TONNE (OUR ARITHMETIC) vs 296 GTB 560 HP/TON (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars have a dual-clutch gearbox with eight speeds and rear-wheel drive, according to Motor One. Wikipedia describes the Ferrari's electric motor as part of a plug-in hybrid system, and quotes an electric range of twenty-five kilometres, sixteen miles. Kelley Blue Book, by contrast, estimates an electric range of seven miles. That is a large gap between sources, and we do not know which basis each uses.",
+   "query": "Ferrari 296 GTB hybrid system",
+   "caption": "ELECTRIC RANGE: 25 KM / 16 MI (WIKIPEDIA) VS 7 MI (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "The Ferrari's electric motor changes how it behaves, and what it needs. Kelley Blue Book lists a charge time of two and a half hours on a two hundred forty volt supply, and a combined fuel economy of eighteen miles per gallon. The Corvette's economy is not in our sources. We include these figures because buyers of cars like these rarely ask, but a plug-in hybrid comes with a charging cable.",
+   "query": "Ferrari 296 GTB charging",
+   "caption": "296 GTB: 240 V CHARGE ~2.5 H \u00b7 18 MPG COMBINED (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "The Ferrari first. Wikipedia says zero to a hundred kilometres per hour in two point nine seconds, and a top speed over three hundred thirty kilometres per hour, two hundred five miles per hour. Both are manufacturer claims. The page gives no Fiorano lap time, and no zero to two hundred figure. Kelley Blue Book also gives two hundred five miles per hour for the top speed.",
+   "query": "Ferrari 296 GTB performance",
+   "caption": "296 GTB (CLAIMED): 0\u2013100 KM/H 2.9 S \u00b7 OVER 330 KM/H (205 MPH)",
+   "cuts": 3,
+   "chapter": "Round three: speed, in claims and measurements"
+  },
+  {
+   "text": "Now the Corvette. Wikipedia says Chevrolet claims zero to sixty in two point five seconds, or two point three with the ZTK package, a quarter mile of nine point seven, and a top speed of two hundred thirty-three miles per hour, tested by GM president Mark Reuss. Car and Driver, via The Drive, measured two point two seconds and nine point five at one hundred forty-nine miles per hour.",
+   "query": "Corvette ZR1 performance",
+   "caption": "ZR1: CLAIMED 2.5 S / 2.3 S ZTK \u00b7 9.7 S \u00b7 233 MPH (REUSS) \u00b7 C&D 2.2 S, 9.5 S AT 149 MPH",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Ferrari's two point nine seconds to a hundred kilometres per hour is a little different from zero to sixty, since sixty miles per hour is about ninety-seven kilometres per hour. A time to sixty would be marginally shorter. Even so, it is clear that the Corvette's measured two point two and the Ferrari's claimed two point nine are a long way apart, though one is measured and one is a claim.",
+   "query": "Acceleration claims",
+   "caption": "CORVETTE MEASURED 2.2 S TO 60 MPH vs FERRARI CLAIMED 2.9 S TO 100 KM/H (DIFFERENT UNITS, CLAIM VS TEST)",
+   "cuts": 3
+  },
+  {
+   "text": "The top speeds are the other way round in terms of caution. The Ferrari's two hundred five miles per hour is a claim, with no test cited. The Corvette's two hundred thirty-three is stated as tested, but by the head of the company that makes it. By our arithmetic, that is about fourteen percent faster on paper. We would want an independent test of both before drawing conclusions.",
+   "query": "Top speed comparison",
+   "caption": "ZR1 233 MPH (TESTED BY GM'S PRESIDENT) vs 296 GTB 205 MPH (CLAIMED) \u2248 +14% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The race that went viral. Motor One reports, on the twenty-eighth of December, twenty twenty-five, a quarter-mile drag race between a Corvette ZR1 and a Ferrari two ninety-six G T B, filmed by the YouTube channel DragTimes. The article does not state the track, the weather, the surface or the drivers. It is a single video, and the times are not independently verified.",
+   "query": "DragTimes",
+   "caption": "DEC 28, 2025: ZR1 vs 296 GTB QUARTER-MILE (DRAGTIMES VIDEO, REPORTED BY MOTOR1) \u00b7 CONDITIONS NOT STATED",
+   "cuts": 3,
+   "chapter": "The drag race"
+  },
+  {
+   "text": "The results. Run one: the Corvette ran nine point two nine one seconds at one hundred fifty-three point two oh miles per hour, the Ferrari nine point seven three seven seconds at one hundred forty-six point oh eight. Run two: the Corvette nine point three one five at one hundred fifty-one point seven, the Ferrari nine point seven four five at one hundred forty-five point six six. The Corvette won both.",
+   "query": "Drag race results",
+   "caption": "RUN 1: ZR1 9.291 S / 153.20 MPH \u00b7 296 9.737 S / 146.08 \u00b7 RUN 2: ZR1 9.315 / 151.70 \u00b7 296 9.745 / 145.66",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the gap was four hundred forty-six milliseconds on the first run and four hundred thirty on the second, about four and a half percent of the Ferrari's time. In trap speed, the Corvette was about seven miles per hour faster at the end of the quarter mile, around five percent. Those are consistent results across two runs, which is a point in their favour.",
+   "query": "Quarter mile gap",
+   "caption": "GAP: 0.446 S AND 0.430 S (~4.5%) \u00b7 TRAP SPEED +7.1 AND +6.0 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A drag race from a standing start suits a car with a lot of power, a lot of torque, and rear tyres sized for traction. The Drive says the ZR1's wide rear tyres were a factor in its launch. The Ferrari has a lot of low-end punch too, thanks to its electric motor, but a smaller engine and less total output. This race is not a measure of everything a car does.",
+   "query": "Corvette ZR1 launch",
+   "caption": "A DRAG RACE FAVOURS POWER AND TRACTION \u00b7 IT IS NOT A LAP TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Which brings us to a gap in the record. Our sources give a N\u00fcrburgring time for the Corvette, six minutes, fifty point seven six three seconds, according to Wikipedia. They give none for the Ferrari two ninety-six G T B, and no Fiorano time either. So we cannot compare the two on a circuit, which is a better test of a mid-engine car than a straight line. We will not guess.",
+   "query": "N\u00fcrburgring",
+   "caption": "ZR1: 6:50.763 AT THE N\u00dcRBURGRING \u00b7 296 GTB: NO LAP TIME IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Now the money. Wikipedia lists the ZR1 at one hundred seventy-three thousand, three hundred dollars for the 1LZ coupe and one hundred eighty-four thousand, three hundred for the 3LZ. Car and Driver, quoted by The Drive and AOL, gives a starting price of about one hundred seventy-five thousand. Motor One says one hundred eighty-five thousand, which it says can reach the low two hundred thousands with options.",
+   "query": "Corvette ZR1 price",
+   "caption": "ZR1: $173,300 (1LZ) \u00b7 $184,300 (3LZ) \u00b7 ~$175K (C&D) \u00b7 $185K (MOTOR1)",
+   "cuts": 3,
+   "chapter": "Round four: price"
+  },
+  {
+   "text": "For the Ferrari, Motor One says three hundred fifty thousand dollars. Kelley Blue Book lists an original M S R P of three hundred thirty-eight thousand, two hundred fifty-five dollars for a twenty twenty-four model, and a fair purchase price of three hundred one thousand dollars. Again, three sources, three numbers. Ferraris are rarely sold at a single price, because options and dealer allocations vary.",
+   "query": "Ferrari 296 GTB price",
+   "caption": "296 GTB: $350,000 (MOTOR1) \u00b7 $338,255 ORIGINAL MSRP (KBB, 2024) \u00b7 $301,000 FAIR PURCHASE (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, with the lowest ZR1 figure and the lowest Ferrari figure, the Ferrari's original M S R P of three hundred thirty-eight thousand is about one point nine times the Corvette's one hundred seventy-five thousand. With Motor One's prices, one hundred eighty-five thousand against three hundred fifty thousand, the Ferrari costs about eighty-nine percent more. So the Ferrari costs nearly double.",
+   "query": "Price comparison",
+   "caption": "296 GTB \u2248 1.9\u00d7 THE ZR1 (KBB vs C&D) \u00b7 +89% (MOTOR1 PRICES) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One's own wording is inconsistent. It says the ZR1 is about one hundred seventy-five thousand dollars cheaper, but the two prices it states differ by one hundred sixty-five thousand. We use the stated prices, not the wording. It is a small error, but it shows how easily a number drifts in repetition, and why we keep showing where ours comes from.",
+   "query": "Motor1 article",
+   "caption": "MOTOR1: '$175K CHEAPER' vs STATED PRICES $185K / $350K = $165K",
+   "cuts": 3
+  },
+  {
+   "text": "Sticker prices are not what everyone pays. GM Authority reported, in June twenty twenty-five, a Monterey, California, dealership listing a ZR1 3LZ with a window sticker of two hundred six thousand, eighty dollars and a one hundred thousand dollar markup. It also reported fifty thousand dollar markups on other allocations. The source for these was a Facebook post, and the article did not verify them.",
+   "query": "Chevrolet dealership",
+   "caption": "JUNE 2025: ZR1 3LZ STICKER $206,080 + $100K MARKUP \u00b7 OTHERS +$50K (GM AUTHORITY, UNVERIFIED)",
+   "cuts": 3,
+   "chapter": "Round five: markups and availability"
+  },
+  {
+   "text": "A Reddit user quoted by the same article said he contacted every Chevrolet dealer within three hundred miles of Chicago, and only one agreed to list him at no markup; the biggest he saw was one hundred fifty thousand dollars over sticker. In December, GM Authority reported that some dealers were not marking up, listing two thousand twenty-six ZR1s from one hundred ninety-nine thousand, eighty-five dollars.",
+   "query": "GM Authority",
+   "caption": "DEC 2025: SOME DEALERS AT STICKER (EL PASO $199,085) \u00b7 OTHERS ASKING $320K\u2013$340K",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, a ZR1 with a one hundred thousand dollar markup on a two hundred six thousand dollar sticker would cost about three hundred six thousand dollars, which GM Authority does not state. That would be close to the three hundred one thousand dollar fair purchase price Kelley Blue Book lists for the Ferrari. The price advantage depends heavily on whether you pay sticker, and our sources show that varied by dealer.",
+   "query": "Corvette ZR1 markup",
+   "caption": "$206,080 + $100,000 = $306,080 (OUR ARITHMETIC) vs 296 GTB KBB FAIR PRICE $301,000",
+   "cuts": 3
+  },
+  {
+   "text": "The Ferrari also has a smaller advantage in warranty than you might expect. Kelley Blue Book lists a basic and powertrain warranty of three years and unlimited miles. We did not find a sourced Corvette warranty figure for the ZR1, so we do not compare. We mention the Ferrari figure because buyers of expensive cars often ask, and because it is the kind of detail a spec sheet leaves out.",
+   "query": "Ferrari 296 GTB warranty",
+   "caption": "296 GTB WARRANTY: 3 YEARS / UNLIMITED MILES (KBB) \u00b7 ZR1: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars already have faster siblings. Wikipedia says the Ferrari two ninety-six Speciale, announced in April twenty twenty-five, has a V six tuned to seven hundred metric horsepower, a system output of eight hundred eighty, a dry weight of one thousand, four hundred ten kilograms for the coupe, and a claimed twenty percent more downforce than the base model. Those are all claims.",
+   "query": "Ferrari 296 Speciale",
+   "caption": "296 SPECIALE (APR 2025): 700 PS ENGINE \u00b7 880 PS SYSTEM \u00b7 1,410 KG DRY \u00b7 +20% DOWNFORCE (CLAIMED)",
+   "cuts": 3,
+   "chapter": "The Speciale and the ZR1X: the next round"
+  },
+  {
+   "text": "The Corvette answer is the ZR1X, with the same twin-turbo V eight plus an upgraded E-Ray electric motor on the front axle, for one thousand, two hundred fifty horsepower and all-wheel drive. Wikipedia lists a N\u00fcrburgring time of six forty-nine point two seven five, and says Chevrolet claims under two seconds to sixty and a quarter mile under nine seconds. Those are claims, not tests.",
+   "query": "Chevrolet Corvette ZR1X",
+   "caption": "ZR1X: 1,250 HP \u00b7 AWD \u00b7 N\u00dcRBURGRING 6:49.275 \u00b7 CLAIMED <2 S TO 60, <9 S QUARTER",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the ZR1X's system output is about forty-four percent above the Speciale's eight hundred sixty-eight horsepower, converted from eight hundred eighty metric. Even among the faster cars, the Corvette keeps a big power lead. The Ferrari's answer is lower weight and more downforce. Whether that wins on a circuit depends on data we do not have, so we stay away from predictions.",
+   "query": "Corvette ZR1X and Ferrari 296 Speciale",
+   "caption": "ZR1X 1,250 vs SPECIALE 868 HP = +44% (OUR ARITHMETIC) \u00b7 NO LAP DATA FOR THE FERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "Price per horsepower is a crude measure, but it makes the gap concrete. By our arithmetic, at one hundred seventy-three thousand, three hundred dollars, the ZR1 costs about one hundred sixty-three dollars per horsepower. At three hundred thirty-eight thousand, two hundred fifty-five dollars, the Ferrari costs about four hundred thirteen dollars per horsepower, using Wikipedia's eight hundred nineteen. That is about two and a half times as much.",
+   "query": "Price per horsepower",
+   "caption": "ZR1 \u2248 $163/HP \u00b7 296 GTB \u2248 $413/HP \u2248 2.5\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What the spec sheets leave out"
+  },
+  {
+   "text": "With Motor One's prices, the numbers shift but the picture does not. One hundred eighty-five thousand over one thousand, sixty-four horsepower is about one hundred seventy-four dollars per horsepower for the Corvette. Three hundred fifty thousand over eight hundred twenty is about four hundred twenty-seven for the Ferrari. Different prices, same conclusion. Power per dollar is not what the Ferrari is selling.",
+   "query": "Price per horsepower",
+   "caption": "MOTOR1 PRICES: ZR1 \u2248 $174/HP \u00b7 296 GTB \u2248 $427/HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What is the Ferrari selling? Partly an engine that revs to eight thousand r p m, partly the badge, partly a hybrid system that Wikipedia says includes a seven point four five kilowatt-hour battery. Compare that with the Corvette E-Ray, a different Corvette, whose battery the page gives as one point nine kilowatt-hours. By our arithmetic, the Ferrari's battery is nearly four times as large, and the ZR1 has no battery at all.",
+   "query": "Ferrari 296 GTB battery",
+   "caption": "296 GTB BATTERY 7.45 KWH vs E-RAY 1.9 KWH (\u22483.9\u00d7) \u00b7 ZR1: NONE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Size. Kelley Blue Book lists the Ferrari two ninety-six at one hundred seventy-nine point seven inches long, with a wheelbase of one hundred two point four and a width with mirrors of seventy-seven point one, and a fuel tank of seventeen point two gallons. We did not find sourced dimensions for the ZR1, so we leave the comparison there. Spec sheets are rarely complete, and ours are no exception.",
+   "query": "Ferrari 296 GTB dimensions",
+   "caption": "296 GTB: 179.7 IN LONG \u00b7 102.4 IN WHEELBASE \u00b7 77.1 IN WIDE \u00b7 17.2 GAL TANK (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "Open-top versions. Wikipedia says the Ferrari two ninety-six G T S has a folding hardtop that takes fourteen seconds to operate and works up to forty-five kilometres per hour. It weighs seventy kilograms more than the G T B, with equal claimed performance. The Corvette ZR1 convertible has a dry weight of three thousand, seven hundred fifty-eight pounds, eighty-eight pounds more than the coupe, by our arithmetic.",
+   "query": "Ferrari 296 GTS",
+   "caption": "296 GTS: HARDTOP IN 14 S \u00b7 +70 KG \u00b7 ZR1 CONVERTIBLE: +88 LB DRY (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Track versions. Wikipedia says the Ferrari offers an Assetto Fiorano pack with upgraded suspension, carbon-fibre bodywork and a polycarbonate rear window, but gives no figures. The Corvette's track-focused version is the ZR1X, with a carbon-fibre splitter, dive planes and a high-downforce rear wing, and Alcon carbon-ceramic brakes with ten-piston front calipers, which Chevrolet claims give one point nine g of deceleration from one-eighty to one-twenty.",
+   "query": "Ferrari Assetto Fiorano and Corvette ZR1X",
+   "caption": "ASSETTO FIORANO PACK (NO FIGURES) \u00b7 ZR1X: SPLITTER, DIVE PLANES, WING, ALCON 10-PISTON BRAKES (1.9 G CLAIMED)",
+   "cuts": 3
+  },
+  {
+   "text": "There is also a difference in heritage. Wikipedia says the C8 is the first mid-engine Corvette, and that development began around twenty sixteen for a car originally planned for the twenty eighteen model year. The two ninety-six, by contrast, is described as the first real Ferrari with just six cylinders. In both cases, the company broke with its own tradition to build the car. That is the common thread.",
+   "query": "Corvette and Ferrari tradition",
+   "caption": "BOTH BROKE WITH TRADITION: FIRST MID-ENGINE CORVETTE \u00b7 FIRST REAL SIX-CYLINDER FERRARI",
+   "cuts": 3
+  },
+  {
+   "text": "And a note on the headlines. Many articles about this race said the Corvette humiliated a Ferrari. The source we found is more careful: two runs, one video, no stated conditions, and a note that the one thousand, two hundred fifty horsepower ZR1X was not tested. We think the fair reading is that a ZR1 is faster in a straight line, and costs a lot less, which the numbers support.",
+   "query": "Motor1 report",
+   "caption": "THE SOURCE: TWO RUNS \u00b7 ONE VIDEO \u00b7 NO STATED CONDITIONS",
+   "cuts": 3
+  },
+  {
+   "text": "What we could not find: a sourced curb weight for the standard two ninety-six, a Fiorano lap time, a verified Corvette warranty, the ZR1's dimensions, or a N\u00fcrburgring time for the Ferrari. Without those, a full comparison is not possible. We prefer to say so than to fill the gaps with guesses. If you have a source for any of them, tell us in the comments.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "WHAT OUR SOURCES DO NOT SAY",
+   "cuts": 3
+  },
+  {
+   "text": "So, which wins? On power and torque, the Corvette. On measured drag racing, the Corvette, on the one video we have. On price, the Corvette, by a wide margin, unless you pay a large markup. On engine efficiency per litre, the Ferrari. On electric driving, the Ferrari, since the Corvette has none. On lap times, we have no Ferrari data, so we decline to say.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "SCORECARD",
+   "cuts": 3,
+   "chapter": "The verdict"
+  },
+  {
+   "text": "The real difference is the philosophy. Chevrolet used a big engine, two turbochargers and lots of tyre to deliver the most power it could for the money. Ferrari used a small, high-revving V six with an electric motor to deliver a different kind of speed, at a different price. Both reached similar speeds by very different routes. That is our reading of the numbers above.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "BIG ENGINE AND TYRES vs SMALL ENGINE AND ELECTRIC MOTOR (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "A caution. We have not driven either car. The drag race is a single video, the Ferrari's weight is not in our sources, several prices disagree, and some comparisons are our own arithmetic. We have tried to say so each time. If you have a verified figure, put it in the comments, with where it comes from.",
+   "query": "Corvette ZR1 vs Ferrari 296 GTB",
+   "caption": "NUMBERS, NOT A DRIVING VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you rather have in your garage, the Corvette or the Ferrari? Tell us in the comments. In the other videos of this series, we reveal two things you may not know about the ZR1, ask whether a normal person can afford one, and tell the story of America's fastest Corvette. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

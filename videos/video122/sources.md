@@ -1,0 +1,8 @@
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Wikipedia, Ferrari 296 GTB: https://en.wikipedia.org/wiki/Ferrari_296_GTB
+- Motor1, Corvette ZR1 stuns Ferrari 296 GTB in a drag race: https://www.motor1.com/news/782847/corvette-zr1-ferrari-296-hybrid-drag-race/
+- The Drive, A stock 2025 Corvette ZR1 has already beaten Chevy's official 0-60 time: https://www.thedrive.com/news/a-stock-2025-corvette-zr1-has-already-beaten-chevys-official-0-to-60-time.md
+- Kelley Blue Book, 2024 Ferrari 296 GTB: https://www.kbb.com/ferrari/296-gtb/2024/
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- GM Authority, Not all dealers are marking up the C8 Corvette ZR1: https://gmauthority.com/blog/2025/12/not-all-dealers-are-marking-up-the-c8-corvette-zr1/
+- AOL / Car and Driver data, American performance cars that beat Ferraris and Porsches for half the price: https://www.aol.com/american-performance-cars-beat-ferraris-133047428.html
