@@ -36,14 +36,14 @@
   },
   {
    "text": "Wikipedia gives Toyota's reasoning. It says Toyota saw that top sports or grand touring coup\u00e9s drew customers into showrooms, and felt the engine of its Sports 800 was too small for a world-class sports car. Yamaha would later offer a design that Toyota accepted, Wikipedia says, to improve its conservative image.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): TOP SPORTS / GT COUP\u00c9S DREW CUSTOMERS INTO SHOWROOMS \u00b7 SPORTS 800 ENGINE 'TOO SMALL' FOR A WORLD-CLASS SPORTS CAR \u00b7 YAMAHA'S DESIGN ACCEPTED 'TO IMPROVE ITS CONSERVATIVE IMAGE'",
    "cuts": 3,
    "orig_query": "Toyota's motive"
   },
   {
    "text": "The car did not begin at Toyota. Wikipedia says the motorcycle and engine maker Yamaha set up a Technical Research Institute in nineteen fifty-nine and built a sports car called the YX30, a sixteen hundred cubic centimetre four-cylinder inspired by an MG engine. It closed the institute in nineteen sixty-two.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): YAMAHA TECHNICAL RESEARCH INSTITUTE 1959 \u00b7 YX30, 1,600 CC 4-CYL, 'INSPIRED BY THE MG B-SERIES DOHC' \u00b7 INSTITUTE CLOSED 1962",
    "cuts": 3,
    "chapter": "The false start at Nissan",
@@ -51,7 +51,7 @@
   },
   {
    "text": "Then came a prototype called the A550X. Wikipedia's page on the Toyota says Nissan cancelled that project and launched its Silvia coup\u00e9 in nineteen sixty-five. The Nissan Z page tells it differently: Nissan and Yamaha made a prototype in nineteen sixty-one, and Nissan scrapped it by nineteen sixty-four because Yamaha's twin-cam engine did not meet its expectations.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): A550X BUILT; NISSAN CANCELLED; NISSAN LAUNCHED SILVIA COUP\u00c9 1965 \u00b7 WIKIPEDIA (NISSAN Z): YX-30 PROTOTYPE 1961; SCRAPPED BY 1964; YAMAHA DOHC 2.0 L 'DID NOT MEET EXPECTATIONS' \u2192 DATES AND NAMES DIFFER BETWEEN PAGES",
    "cuts": 3,
    "orig_query": "Two accounts"
@@ -80,7 +80,7 @@
   },
   {
    "text": "The designers are named differently. MotorPress credits Toyota designers Jiro Kawano and Satoru Nozaki, who developed the Yamaha prototype into the 280 A1. Wikipedia's infobox lists Jiro Kono as product manager and Satoru Nozaki as designer. The two spellings, Kawano and Kono, may be the same person, but neither source says so.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "MOTORPRESS: JIRO KAWANO + SATORU NOZAKI \u00b7 WIKIPEDIA INFOBOX: JIRO KONO (SHUSA / PRODUCT MANAGER) + SATORU NOZAKI (DESIGNER) \u00b7 KAWANO = KONO? NOT STATED",
    "cuts": 3,
    "orig_query": "Who designed it?"
@@ -101,14 +101,14 @@
   },
   {
    "text": "The car was shown at the nineteen sixty-five Tokyo Motor Show, as the 280 A1 according to MotorPress, about a year after Saito commissioned it. Wikipedia says production vehicles took about two years more to appear, with production running from May nineteen sixty-seven to August nineteen seventy at Yamaha's Iwata factory in Shizuoka.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "MOTORPRESS: 280 A1 AT 1965 TOKYO MOTOR SHOW \u00b7 WIKIPEDIA: PRODUCTION CARS ~2 YEARS LATER; PRODUCTION MAY 1967 \u2013 AUG 1970 AT YAMAHA'S IWATA, SHIZUOKA FACTORY",
    "cuts": 3,
    "orig_query": "Tokyo and Iwata"
   },
   {
    "text": "A quick timeline, from our sources. Yamaha opened its research institute in nineteen fifty-nine. Japan held its first Grand Prix in nineteen sixty-three. Toyota's project began around nineteen sixty-four, the prototype was built in August nineteen sixty-five, and production began in May nineteen sixty-seven. By our arithmetic, that is eight years from the institute to the first production car.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "1959 YAMAHA INSTITUTE \u00b7 1963 JAPAN'S FIRST GP (MOTORPRESS) \u00b7 ~1964 TOYOTA PROJECT \u00b7 AUG 1965 PROTOTYPE \u00b7 MAY 1967 PRODUCTION (WIKIPEDIA) \u00b7 1959 \u2192 1967 = 8 YEARS (OUR ARITHMETIC)",
    "cuts": 3,
    "orig_query": "Timeline"
@@ -260,7 +260,7 @@
   },
   {
    "text": "What replaced it? Wikipedia says Toyota and Yamaha later built the sixteen hundred GT, based on the Corona hardtop coup\u00e9 with a Yamaha-developed twin-cam head. The Celica replaced the 2000GT as the top model at Toyota Corolla Store dealerships. MotorPress says the car influenced later Toyota sports cars including the Supra, the GT86 and the Lexus LFA.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA: 1600GT (COROLLA-BASED COUP\u00c9, YAMAHA DOHC HEAD) \u00b7 CELICA REPLACED 2000GT AS TOP MODEL AT COROLLA STORE \u00b7 MOTORPRESS: INFLUENCED SUPRA, GT86, LEXUS LFA (ARTICLE'S CLAIM; NO DETAIL)",
    "cuts": 3,
    "chapter": "After the end",

@@ -21,7 +21,7 @@
   },
   {
    "text": "The first thing you probably did not know is that Toyota was not the first company offered this car. Wikipedia's page on the Nissan Z says Nissan partnered with Yamaha, which produced a prototype called the YX-30 in nineteen sixty-one. By nineteen sixty-four, the page says, Nissan had scrapped the project.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (NISSAN Z-CAR): NISSAN + YAMAHA \u2192 YX-30 PROTOTYPE, 1961 \u00b7 BY 1964 NISSAN HAD SCRAPPED THE PROJECT",
    "cuts": 5,
    "chapter": "Thing one: Toyota was Nissan's second choice",
@@ -29,7 +29,7 @@
   },
   {
    "text": "The reason, according to that same page, was that Yamaha's twin-cam two litre engine did not meet Nissan's expectations. Yamaha then took the design to Toyota. The result, says Wikipedia, was the Toyota 2000GT. So the car that became Japan's first supercar began as a design that another Japanese carmaker had walked away from.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (NISSAN Z-CAR): YAMAHA'S DOHC 2.0 L ENGINE 'DID NOT MEET NISSAN'S EXPECTATIONS' \u00b7 YAMAHA TOOK THE DESIGN TO TOYOTA \u2192 TOYOTA 2000GT",
    "cuts": 3,
    "orig_query": "The reason"
@@ -43,14 +43,14 @@
   },
   {
    "text": "Our sources do not tell this story the same way. The Hagerty article says Yamaha's A550X concept was rejected by Nissan, and that Toyota also passed on it at first, but saw Yamaha as a possible partner, which led to the 2000GT. The Wikipedia page on the Toyota 2000GT does not mention Goertz at all in the passages we read.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "HAGERTY: YAMAHA'S A550X REJECTED BY NISSAN; TOYOTA 'ALSO PASSED' BUT SAW YAMAHA AS A PARTNER \u2192 2000GT \u00b7 SHANNONS: GOERTZ MOVED TO TOYOTA \u00b7 WIKIPEDIA (2000GT): NO GOERTZ MENTION IN WHAT WE READ",
    "cuts": 3,
    "orig_query": "Sources differ"
   },
   {
    "text": "So there are three versions of the handover. In one, Nissan scrapped Yamaha's project, and Yamaha went to Toyota. In another, Goertz himself moved. In a third, Toyota first said no, then came back. They are not necessarily contradictory, but none of our sources explains how they fit together, and we will not guess at the order.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "VERSION 1: NISSAN SCRAPPED, YAMAHA \u2192 TOYOTA \u00b7 VERSION 2: GOERTZ MOVED TO TOYOTA \u00b7 VERSION 3: TOYOTA FIRST PASSED, THEN PARTNERED \u00b7 HOW THEY FIT: NOT IN OUR SOURCES",
    "cuts": 3,
    "orig_query": "Three versions"
@@ -71,7 +71,7 @@
   },
   {
    "text": "There is one more detail. Wikipedia says Yamaha, the motorcycle and engine maker, built the 2000GT cars at its factory at Iwata, in Shizuoka prefecture. So the car sold under a Toyota badge was assembled by a company better known for motorcycles, using a design that Nissan had dropped. That is the first thing most people do not know.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): YAMAHA BUILT THE CARS AT IWATA, SHIZUOKA \u00b7 TOYOTA-BADGED \u00b7 NISSAN HAD DROPPED THE DESIGN (WIKIPEDIA, NISSAN Z)",
    "cuts": 3,
    "orig_query": "Built by Yamaha"
@@ -150,7 +150,7 @@
   },
   {
    "text": "The engine was a one thousand nine hundred eighty-eight cubic centimetre inline six, called the 3M. Wikipedia says it started from the block of the Toyota Crown's engine, with a twin-cam head developed by Yamaha and three two-barrel Mikuni-Solex carburettors. So even the engine was a collaboration, a Toyota block with a Yamaha head.",
-   "query": "Yamaha Iwata",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): 1,988 CC 3M INLINE-SIX \u00b7 CROWN S50 BLOCK \u00b7 YAMAHA DOHC HEAD \u00b7 THREE 2-BARREL MIKUNI-SOLEX CARBURETTORS",
    "cuts": 3,
    "orig_query": "The 3M engine"
