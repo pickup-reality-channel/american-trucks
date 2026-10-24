@@ -1,0 +1,2355 @@
+1
+00:00:00,000 --> 00:00:02,854
+One car is a graceful British roadster
+
+2
+00:00:02,854 --> 00:00:05,559
+with a six-cylinder engine and a top
+
+3
+00:00:05,559 --> 00:00:08,414
+speed of about a hundred sixteen miles
+
+4
+00:00:08,414 --> 00:00:09,090
+per hour.
+
+5
+00:00:09,270 --> 00:00:11,607
+The other is the same body with
+
+6
+00:00:11,607 --> 00:00:13,417
+a Ford V eight and a top
+
+7
+00:00:13,417 --> 00:00:15,679
+speed of a hundred sixty-four.
+
+8
+00:00:15,859 --> 00:00:17,891
+One was sold in the hundreds.
+
+9
+00:00:18,071 --> 00:00:20,371
+The other is among the most famous
+
+10
+00:00:20,371 --> 00:00:21,995
+American cars ever made.
+
+11
+00:00:22,175 --> 00:00:24,579
+This is the real difference between the
+
+12
+00:00:24,579 --> 00:00:26,366
+Shelby Cobra and the A C Ace.
+
+13
+00:00:26,716 --> 00:00:28,074
+Here is the twist.
+
+14
+00:00:28,254 --> 00:00:29,879
+The Cobra is an Ace.
+
+15
+00:00:30,059 --> 00:00:32,836
+The chassis, the body and the factory
+
+16
+00:00:32,836 --> 00:00:33,812
+are the same,
+
+17
+00:00:33,812 --> 00:00:36,664
+and the Cobra's low nose was developed
+
+18
+00:00:36,664 --> 00:00:37,490
+for an Ace.
+
+19
+00:00:37,670 --> 00:00:39,841
+Yet in the sales we can find,
+
+20
+00:00:39,841 --> 00:00:42,910
+the two cars sell in completely different
+
+21
+00:00:42,910 --> 00:00:45,381
+price bands, by a factor of about
+
+22
+00:00:45,381 --> 00:00:45,681
+ten.
+
+23
+00:00:45,861 --> 00:00:47,612
+Let us go through the numbers,
+
+24
+00:00:47,612 --> 00:00:50,063
+and the places where the sources disagree.
+
+25
+00:00:50,414 --> 00:00:53,210
+Every figure comes from published sources,
+
+26
+00:00:53,210 --> 00:00:54,941
+listed in the description.
+
+27
+00:00:55,121 --> 00:00:56,904
+Where sources disagree,
+
+28
+00:00:56,904 --> 00:00:58,221
+we will tell you.
+
+29
+00:00:58,401 --> 00:01:00,401
+Where we do the maths ourselves,
+
+30
+00:01:00,401 --> 00:01:01,339
+we will say so.
+
+31
+00:01:01,689 --> 00:01:04,234
+Wikipedia says the A C Ace was
+
+32
+00:01:04,234 --> 00:01:07,372
+designed by John Tojeiro and built by
+
+33
+00:01:07,372 --> 00:01:09,578
+A C Cars at Thames Ditton,
+
+34
+00:01:09,578 --> 00:01:10,257
+England.
+
+35
+00:01:10,437 --> 00:01:13,429
+It was launched in nineteen fifty-three and
+
+36
+00:01:13,429 --> 00:01:15,934
+produced until nineteen sixty-three,
+
+37
+00:01:15,934 --> 00:01:18,578
+though other sources list the range as
+
+38
+00:01:18,578 --> 00:01:20,735
+running to nineteen sixty-four.
+
+39
+00:01:20,915 --> 00:01:24,091
+The Aceca hardtop coupé followed in nineteen
+
+40
+00:01:24,091 --> 00:01:24,885
+fifty-four.
+
+41
+00:01:25,065 --> 00:01:26,137
+It was a light,
+
+42
+00:01:26,137 --> 00:01:29,280
+open two-seater with a steel ladder chassis.
+
+43
+00:01:29,630 --> 00:01:32,458
+The Cobra page describes the chassis as
+
+44
+00:01:32,458 --> 00:01:35,504
+a steel ladder with three-inch main rails.
+
+45
+00:01:35,684 --> 00:01:38,471
+The Ace page gives engines in three
+
+46
+00:01:38,471 --> 00:01:39,028
+groups.
+
+47
+00:01:39,208 --> 00:01:40,762
+The A C two litre six,
+
+48
+00:01:40,762 --> 00:01:43,516
+with eighty-five to a hundred two brake
+
+49
+00:01:43,516 --> 00:01:44,293
+horsepower.
+
+50
+00:01:44,473 --> 00:01:46,370
+The Bristol two litre six,
+
+51
+00:01:46,370 --> 00:01:48,121
+from nineteen fifty-six,
+
+52
+00:01:48,121 --> 00:01:50,456
+with a hundred five to a hundred
+
+53
+00:01:50,456 --> 00:01:51,404
+twenty-eight.
+
+54
+00:01:51,584 --> 00:01:54,073
+And the Ford Zephyr two point six,
+
+55
+00:01:54,073 --> 00:01:55,830
+from nineteen sixty-one,
+
+56
+00:01:55,830 --> 00:01:58,905
+with ninety to a hundred seventy depending
+
+57
+00:01:58,905 --> 00:01:59,491
+on tune.
+
+58
+00:01:59,841 --> 00:02:01,504
+In nineteen sixty-one,
+
+59
+00:02:01,504 --> 00:02:02,866
+the Ace page says,
+
+60
+00:02:02,866 --> 00:02:05,891
+Carroll Shelby proposed fitting a Ford V
+
+61
+00:02:05,891 --> 00:02:07,782
+eight to the Ace chassis.
+
+62
+00:02:07,962 --> 00:02:10,057
+A C built a prototype,
+
+63
+00:02:10,057 --> 00:02:12,629
+chassis C S X two thousand.
+
+64
+00:02:12,809 --> 00:02:15,890
+Shelby's team installed the engine in the
+
+65
+00:02:15,890 --> 00:02:16,942
+United States.
+
+66
+00:02:17,122 --> 00:02:19,711
+The page considers it the first A
+
+67
+00:02:19,711 --> 00:02:20,338
+C Cobra.
+
+68
+00:02:20,518 --> 00:02:23,120
+And Ace production ended a year after
+
+69
+00:02:23,120 --> 00:02:24,386
+the Cobra debuted,
+
+70
+00:02:24,386 --> 00:02:26,848
+which tells you how quickly the new
+
+71
+00:02:26,848 --> 00:02:27,832
+car took over.
+
+72
+00:02:28,183 --> 00:02:31,097
+So the two cars share a lot.
+
+73
+00:02:31,277 --> 00:02:34,186
+Wikipedia's Cobra page says the Ace was
+
+74
+00:02:34,186 --> 00:02:37,543
+built since nineteen fifty-three with a steel
+
+75
+00:02:37,543 --> 00:02:40,378
+ladder chassis, and the Cobra was made
+
+76
+00:02:40,378 --> 00:02:41,795
+on that foundation.
+
+77
+00:02:41,975 --> 00:02:44,616
+The Cobra page also notes that the
+
+78
+00:02:44,616 --> 00:02:47,490
+prototype was an Ace three point six.
+
+79
+00:02:47,670 --> 00:02:48,825
+For the first cars,
+
+80
+00:02:48,825 --> 00:02:51,135
+then, the difference was mainly in the
+
+81
+00:02:51,135 --> 00:02:51,803
+engine bay.
+
+82
+00:02:52,154 --> 00:02:54,165
+Take the Ace's best engine,
+
+83
+00:02:54,165 --> 00:02:55,729
+the Ruddspeed Zephyr.
+
+84
+00:02:55,909 --> 00:02:59,050
+Wikipedia lists ninety to a hundred seventy
+
+85
+00:02:59,050 --> 00:03:01,680
+brake horsepower, depending on tune.
+
+86
+00:03:01,860 --> 00:03:03,845
+Only thirty-seven were made.
+
+87
+00:03:04,025 --> 00:03:06,130
+The Bristol six had a hundred five
+
+88
+00:03:06,130 --> 00:03:07,740
+to a hundred twenty-eight.
+
+89
+00:03:07,920 --> 00:03:10,412
+The standard A C six had eighty-five
+
+90
+00:03:10,412 --> 00:03:11,589
+to a hundred two.
+
+91
+00:03:11,769 --> 00:03:14,312
+These are modest numbers by the standards
+
+92
+00:03:14,312 --> 00:03:16,482
+of the Cobra that replaced the Ace.
+
+93
+00:03:16,833 --> 00:03:19,472
+The Cobra's first engine was the two
+
+94
+00:03:19,472 --> 00:03:22,257
+hundred sixty cubic inch Ford V eight,
+
+95
+00:03:22,257 --> 00:03:25,189
+which Wikipedia says is four point three
+
+96
+00:03:25,189 --> 00:03:25,703
+litres.
+
+97
+00:03:25,883 --> 00:03:28,665
+The next was the two hundred eighty-nine,
+
+98
+00:03:28,665 --> 00:03:30,294
+four point seven litres.
+
+99
+00:03:30,474 --> 00:03:32,994
+Then the four hundred twenty-seven,
+
+100
+00:03:32,994 --> 00:03:36,377
+seven litres, rated at four hundred twenty-five
+
+101
+00:03:36,377 --> 00:03:39,616
+horsepower, and four hundred eighty-five in S
+
+102
+00:03:39,616 --> 00:03:40,552
+slash C tune.
+
+103
+00:03:40,732 --> 00:03:43,638
+Du Pont Registry lists three hundred sixty
+
+104
+00:03:43,638 --> 00:03:44,883
+for its spec list,
+
+105
+00:03:44,883 --> 00:03:45,852
+a discrepancy.
+
+106
+00:03:46,202 --> 00:03:47,833
+By our own arithmetic,
+
+107
+00:03:47,833 --> 00:03:51,541
+the Cobra's four hundred twenty-five horsepower is
+
+108
+00:03:51,541 --> 00:03:54,433
+more than three times the Ace Bristol's
+
+109
+00:03:54,433 --> 00:03:57,177
+top figure of a hundred twenty-eight,
+
+110
+00:03:57,177 --> 00:03:59,402
+about three point three times.
+
+111
+00:03:59,582 --> 00:04:02,033
+Against the best Ruddspeed Ace,
+
+112
+00:04:02,033 --> 00:04:03,693
+at a hundred seventy,
+
+113
+00:04:03,693 --> 00:04:05,828
+it is two and a half times.
+
+114
+00:04:06,008 --> 00:04:08,164
+Even the lowest Cobra rating,
+
+115
+00:04:08,164 --> 00:04:09,650
+three hundred sixty,
+
+116
+00:04:09,650 --> 00:04:12,475
+is more than double the strongest Ace.
+
+117
+00:04:12,825 --> 00:04:14,369
+And the S slash C.
+
+118
+00:04:14,549 --> 00:04:18,019
+Four hundred eighty-five horsepower is nearly four
+
+119
+00:04:18,019 --> 00:04:19,894
+times the Bristol's figure,
+
+120
+00:04:19,894 --> 00:04:21,143
+by our arithmetic.
+
+121
+00:04:21,323 --> 00:04:23,062
+The same chassis family,
+
+122
+00:04:23,062 --> 00:04:24,294
+the same company,
+
+123
+00:04:24,294 --> 00:04:26,395
+a decade apart in the way the
+
+124
+00:04:26,395 --> 00:04:27,337
+numbers read.
+
+125
+00:04:27,517 --> 00:04:30,133
+That jump explains much of why the
+
+126
+00:04:30,133 --> 00:04:33,057
+Cobra became famous and the Ace became
+
+127
+00:04:33,057 --> 00:04:34,750
+a collector's classic.
+
+128
+00:04:35,100 --> 00:04:38,670
+Here is a surprising piece of arithmetic,
+
+129
+00:04:38,670 --> 00:04:39,453
+all ours.
+
+130
+00:04:39,633 --> 00:04:41,676
+Per litre, the engines are closer than
+
+131
+00:04:41,676 --> 00:04:42,536
+you would think.
+
+132
+00:04:42,716 --> 00:04:44,940
+The Bristol two litre at a hundred
+
+133
+00:04:44,940 --> 00:04:48,929
+twenty-eight horsepower makes about sixty-four horsepower per
+
+134
+00:04:48,929 --> 00:04:49,322
+litre.
+
+135
+00:04:49,502 --> 00:04:51,726
+The Ruddspeed two point six at a
+
+136
+00:04:51,726 --> 00:04:54,436
+hundred seventy makes about sixty-five.
+
+137
+00:04:54,616 --> 00:04:57,449
+The four hundred twenty-seven at four hundred
+
+138
+00:04:57,449 --> 00:05:00,282
+twenty-five horsepower makes about sixty-one.
+
+139
+00:05:00,462 --> 00:05:01,560
+The S slash C,
+
+140
+00:05:01,560 --> 00:05:03,128
+at four eighty-five,
+
+141
+00:05:03,128 --> 00:05:04,932
+makes about sixty-nine.
+
+142
+00:05:05,282 --> 00:05:07,679
+So the Cobra was not made faster
+
+143
+00:05:07,679 --> 00:05:09,252
+by a cleverer engine.
+
+144
+00:05:09,432 --> 00:05:11,717
+It was made faster by a bigger
+
+145
+00:05:11,717 --> 00:05:12,021
+one.
+
+146
+00:05:12,201 --> 00:05:14,628
+The seven litre V eight has three
+
+147
+00:05:14,628 --> 00:05:17,275
+and a half times the displacement of
+
+148
+00:05:17,275 --> 00:05:19,039
+the Ace's two litre six,
+
+149
+00:05:19,039 --> 00:05:20,363
+by our arithmetic.
+
+150
+00:05:20,543 --> 00:05:22,958
+Output per litre is about the same.
+
+151
+00:05:23,138 --> 00:05:26,290
+Cubic inches, as American hot rodders say,
+
+152
+00:05:26,290 --> 00:05:28,918
+are the cheapest way to make power,
+
+153
+00:05:28,918 --> 00:05:30,719
+and the Cobra proves it.
+
+154
+00:05:31,070 --> 00:05:33,730
+The same logic applies to the first
+
+155
+00:05:33,730 --> 00:05:35,934
+Cobra, the two hundred sixty.
+
+156
+00:05:36,114 --> 00:05:37,995
+At four point three litres,
+
+157
+00:05:37,995 --> 00:05:40,712
+it has just over twice the displacement
+
+158
+00:05:40,712 --> 00:05:42,175
+of the Bristol's two.
+
+159
+00:05:42,355 --> 00:05:45,783
+Wikipedia lists the prototype engine as four
+
+160
+00:05:45,783 --> 00:05:47,263
+point three litres,
+
+161
+00:05:47,263 --> 00:05:50,068
+and another reference on the page as
+
+162
+00:05:50,068 --> 00:05:51,236
+four point two.
+
+163
+00:05:51,416 --> 00:05:54,222
+Road and Track's four point two second
+
+164
+00:05:54,222 --> 00:05:56,806
+sprint to sixty came from an engine
+
+165
+00:05:56,806 --> 00:05:58,873
+barely twice the Ace's size,
+
+166
+00:05:58,873 --> 00:06:00,867
+in a car of similar weight.
+
+167
+00:06:01,217 --> 00:06:03,899
+Weight is where the Ace page disagrees
+
+168
+00:06:03,899 --> 00:06:04,746
+with itself.
+
+169
+00:06:04,926 --> 00:06:07,778
+Its infobox gives a kerb weight of
+
+170
+00:06:07,778 --> 00:06:11,217
+one thousand, nine hundred twenty pounds,
+
+171
+00:06:11,217 --> 00:06:14,237
+eight hundred seventy-one kilograms.
+
+172
+00:06:14,417 --> 00:06:17,925
+Its specification table gives seven hundred sixty-two
+
+173
+00:06:17,925 --> 00:06:20,638
+to seven hundred eighty kilograms for the
+
+174
+00:06:20,638 --> 00:06:23,550
+standard Ace, and seven hundred sixty-two to
+
+175
+00:06:23,550 --> 00:06:26,329
+eight hundred ninety-four for the Bristol.
+
+176
+00:06:26,509 --> 00:06:28,043
+These figures conflict,
+
+177
+00:06:28,043 --> 00:06:29,377
+so we use the range.
+
+178
+00:06:29,727 --> 00:06:32,613
+The four hundred twenty-seven Cobra,
+
+179
+00:06:32,613 --> 00:06:34,297
+per Du Pont Registry,
+
+180
+00:06:34,297 --> 00:06:35,901
+weighs two thousand,
+
+181
+00:06:35,901 --> 00:06:38,467
+three hundred fifty-five pounds,
+
+182
+00:06:38,467 --> 00:06:39,990
+about one thousand,
+
+183
+00:06:39,990 --> 00:06:41,754
+sixty-eight kilograms.
+
+184
+00:06:41,934 --> 00:06:43,043
+By our arithmetic,
+
+185
+00:06:43,043 --> 00:06:45,446
+that is about a hundred seventy-five to
+
+186
+00:06:45,446 --> 00:06:48,033
+three hundred five kilograms more than the
+
+187
+00:06:48,033 --> 00:06:49,881
+Ace, or roughly a fifth to two
+
+188
+00:06:49,881 --> 00:06:50,804
+fifths heavier.
+
+189
+00:06:50,984 --> 00:06:53,507
+The Cobra gained power much faster than
+
+190
+00:06:53,507 --> 00:06:54,607
+it gained weight.
+
+191
+00:06:54,957 --> 00:06:57,035
+Put them together as power to weight.
+
+192
+00:06:57,215 --> 00:06:59,517
+A Bristol Ace at about a hundred
+
+193
+00:06:59,517 --> 00:07:02,827
+twenty horsepower and an assumed eight hundred
+
+194
+00:07:02,827 --> 00:07:06,136
+kilograms is roughly point one five horsepower
+
+195
+00:07:06,136 --> 00:07:07,072
+per kilogram.
+
+196
+00:07:07,252 --> 00:07:10,671
+The four hundred twenty-five horsepower Cobra at
+
+197
+00:07:10,671 --> 00:07:14,233
+one thousand, sixty-eight kilograms is about point
+
+198
+00:07:14,233 --> 00:07:14,589
+four.
+
+199
+00:07:14,769 --> 00:07:16,717
+The Cobra has about two and a
+
+200
+00:07:16,717 --> 00:07:19,134
+half times the power for its weight.
+
+201
+00:07:19,314 --> 00:07:22,206
+The eight hundred kilogram figure is our
+
+202
+00:07:22,206 --> 00:07:23,146
+own midpoint.
+
+203
+00:07:23,496 --> 00:07:27,327
+Wikipedia lists the Ace's performance by engine.
+
+204
+00:07:27,507 --> 00:07:28,468
+The A C six:
+
+205
+00:07:28,468 --> 00:07:31,352
+about a hundred three miles per hour
+
+206
+00:07:31,352 --> 00:07:34,237
+in a nineteen fifty-four Motor test,
+
+207
+00:07:34,237 --> 00:07:36,961
+with zero to sixty in eleven point
+
+208
+00:07:36,961 --> 00:07:38,002
+four seconds.
+
+209
+00:07:38,182 --> 00:07:39,462
+The Bristol six:
+
+210
+00:07:39,462 --> 00:07:41,383
+about a hundred sixteen,
+
+211
+00:07:41,383 --> 00:07:44,343
+with zero to sixty in the nine-second
+
+212
+00:07:44,343 --> 00:07:44,823
+range.
+
+213
+00:07:45,003 --> 00:07:46,542
+The tuned Ruddspeed:
+
+214
+00:07:46,542 --> 00:07:48,311
+about a hundred thirty,
+
+215
+00:07:48,311 --> 00:07:50,773
+zero to sixty in eight point one
+
+216
+00:07:50,773 --> 00:07:51,389
+seconds.
+
+217
+00:07:51,739 --> 00:07:52,830
+For the Cobra,
+
+218
+00:07:52,830 --> 00:07:55,715
+EVO reports that Road and Track timed
+
+219
+00:07:55,715 --> 00:07:57,196
+the very first car,
+
+220
+00:07:57,196 --> 00:07:59,846
+with the two hundred sixty engine,
+
+221
+00:07:59,846 --> 00:08:02,497
+at four point two seconds to sixty
+
+222
+00:08:02,497 --> 00:08:05,616
+and a hundred fifty-three miles per hour
+
+223
+00:08:05,616 --> 00:08:07,331
+in nineteen sixty-two.
+
+224
+00:08:07,511 --> 00:08:10,538
+Wikipedia lists a hundred sixty-four for the
+
+225
+00:08:10,538 --> 00:08:12,946
+standard four hundred twenty-seven,
+
+226
+00:08:12,946 --> 00:08:15,354
+and a hundred eighty-five for the S
+
+227
+00:08:15,354 --> 00:08:15,905
+slash C.
+
+228
+00:08:16,085 --> 00:08:18,831
+Du Pont Registry lists zero to sixty
+
+229
+00:08:18,831 --> 00:08:20,357
+in three point four.
+
+230
+00:08:20,708 --> 00:08:21,991
+By our arithmetic,
+
+231
+00:08:21,991 --> 00:08:23,489
+the very first Cobra,
+
+232
+00:08:23,489 --> 00:08:25,272
+with the smallest engine,
+
+233
+00:08:25,272 --> 00:08:27,839
+was already more than twice as quick
+
+234
+00:08:27,839 --> 00:08:29,694
+to sixty as the plain Ace,
+
+235
+00:08:29,694 --> 00:08:32,760
+four point two seconds against eleven point
+
+236
+00:08:32,760 --> 00:08:35,114
+four, and about twice as quick as
+
+237
+00:08:35,114 --> 00:08:37,681
+the Bristol, which took around nine.
+
+238
+00:08:37,861 --> 00:08:39,503
+At the top end it was a
+
+239
+00:08:39,503 --> 00:08:42,786
+hundred fifty-three against a hundred sixteen,
+
+240
+00:08:42,786 --> 00:08:44,642
+thirty-two percent faster.
+
+241
+00:08:44,992 --> 00:08:46,796
+And the 427 S slash C,
+
+242
+00:08:46,796 --> 00:08:50,077
+at a hundred eighty-five miles per hour,
+
+243
+00:08:50,077 --> 00:08:53,605
+is about fifty-nine percent faster than the
+
+244
+00:08:53,605 --> 00:08:56,558
+Bristol Ace's top speed of a hundred
+
+245
+00:08:56,558 --> 00:08:58,773
+sixteen, by our arithmetic.
+
+246
+00:08:58,953 --> 00:09:01,095
+Add the fact that the Cobra weighs
+
+247
+00:09:01,095 --> 00:09:02,795
+a fifth to two fifths more.
+
+248
+00:09:02,975 --> 00:09:04,887
+Whatever the exact figures,
+
+249
+00:09:04,887 --> 00:09:06,586
+the pattern is the same.
+
+250
+00:09:06,766 --> 00:09:09,193
+The engine transformed the car.
+
+251
+00:09:09,543 --> 00:09:12,132
+The Ace was made in small numbers.
+
+252
+00:09:12,312 --> 00:09:15,591
+Wikipedia says about two hundred twenty A
+
+253
+00:09:15,591 --> 00:09:19,191
+C-engined Aces and four hundred sixty-six Ace
+
+254
+00:09:19,191 --> 00:09:20,791
+Bristols were built,
+
+255
+00:09:20,791 --> 00:09:23,991
+plus thirty-seven of the Ruddspeed cars.
+
+256
+00:09:24,171 --> 00:09:25,467
+By our arithmetic,
+
+257
+00:09:25,467 --> 00:09:28,777
+two hundred twenty plus four hundred sixty-six
+
+258
+00:09:28,777 --> 00:09:32,232
+plus thirty-seven is seven hundred twenty-three,
+
+259
+00:09:32,232 --> 00:09:34,535
+though the page does not state a
+
+260
+00:09:34,535 --> 00:09:36,910
+combined total, so treat it as an
+
+261
+00:09:36,910 --> 00:09:37,558
+estimate.
+
+262
+00:09:37,908 --> 00:09:38,955
+For the Cobra,
+
+263
+00:09:38,955 --> 00:09:42,171
+Du Pont Registry says Shelby American built
+
+264
+00:09:42,171 --> 00:09:44,639
+nine hundred ninety-eight Cobras,
+
+265
+00:09:44,639 --> 00:09:48,828
+with six hundred fifty-five small-block leaf-spring cars
+
+266
+00:09:48,828 --> 00:09:49,576
+delivered.
+
+267
+00:09:49,756 --> 00:09:53,250
+Wikipedia lists a hundred twenty-six Mark One
+
+268
+00:09:53,250 --> 00:09:56,822
+cars, about five hundred twenty-eight Mark Two
+
+269
+00:09:56,822 --> 00:10:00,472
+cars, and fifty-six four hundred twenty-sevens.
+
+270
+00:10:00,652 --> 00:10:03,011
+The sources do not add up neatly,
+
+271
+00:10:03,011 --> 00:10:05,586
+as the Wikipedia page itself admits.
+
+272
+00:10:05,936 --> 00:10:07,144
+By our arithmetic,
+
+273
+00:10:07,144 --> 00:10:10,231
+Wikipedia's three figures sum to seven hundred
+
+274
+00:10:10,231 --> 00:10:12,312
+ten, which is quite far from Du
+
+275
+00:10:12,312 --> 00:10:14,527
+Pont's nine hundred ninety-eight.
+
+276
+00:10:14,707 --> 00:10:16,648
+We do not know whether the difference
+
+277
+00:10:16,648 --> 00:10:18,170
+is in the counting or in what
+
+278
+00:10:18,170 --> 00:10:18,747
+is counted.
+
+279
+00:10:18,927 --> 00:10:20,875
+What we can say is that both
+
+280
+00:10:20,875 --> 00:10:23,101
+cars were built in the hundreds,
+
+281
+00:10:23,101 --> 00:10:26,093
+not thousands, and that Shelby's output was
+
+282
+00:10:26,093 --> 00:10:27,832
+not many times the Ace's.
+
+283
+00:10:28,181 --> 00:10:29,377
+Look under the skin.
+
+284
+00:10:29,557 --> 00:10:32,204
+Wikipedia says the Ace and early Cobra
+
+285
+00:10:32,204 --> 00:10:35,339
+shared a steel ladder chassis with three-inch
+
+286
+00:10:35,339 --> 00:10:37,290
+main rails and leaf springs.
+
+287
+00:10:37,470 --> 00:10:39,938
+The big change came with the Mark
+
+288
+00:10:39,938 --> 00:10:43,304
+Three, whose chassis used four-inch tubes and
+
+289
+00:10:43,304 --> 00:10:45,024
+coil springs all round,
+
+290
+00:10:45,024 --> 00:10:47,268
+designed with Ford in Detroit.
+
+291
+00:10:47,448 --> 00:10:48,520
+In other words,
+
+292
+00:10:48,520 --> 00:10:51,234
+the Cobra needed a new foundation once
+
+293
+00:10:51,234 --> 00:10:53,520
+the engine reached seven litres.
+
+294
+00:10:53,870 --> 00:10:54,923
+The Mark Two,
+
+295
+00:10:54,923 --> 00:10:57,027
+redesigned by Alan Turner,
+
+296
+00:10:57,027 --> 00:10:59,699
+brought rack-and-pinion steering.
+
+297
+00:10:59,879 --> 00:11:01,882
+The rack came from the M G
+
+298
+00:11:01,882 --> 00:11:04,655
+B and the column from the Volkswagen
+
+299
+00:11:04,655 --> 00:11:06,427
+Beetle, Wikipedia says.
+
+300
+00:11:06,607 --> 00:11:07,925
+By our reading,
+
+301
+00:11:07,925 --> 00:11:11,090
+that is the Cobra's character in one
+
+302
+00:11:11,090 --> 00:11:13,463
+detail: world-class engine,
+
+303
+00:11:13,463 --> 00:11:15,837
+borrowed parts, built fast.
+
+304
+00:11:16,017 --> 00:11:19,301
+About five hundred twenty-eight were built from
+
+305
+00:11:19,301 --> 00:11:22,516
+nineteen sixty-three to the summer of nineteen
+
+306
+00:11:22,516 --> 00:11:23,284
+sixty-five.
+
+307
+00:11:23,634 --> 00:11:25,399
+The body changed as well.
+
+308
+00:11:25,579 --> 00:11:28,233
+EVO notes that the prototype kept its
+
+309
+00:11:28,233 --> 00:11:29,380
+early A C shell,
+
+310
+00:11:29,380 --> 00:11:32,249
+and that later Cobras had wider bodywork
+
+311
+00:11:32,249 --> 00:11:33,683
+to fit larger tyres.
+
+312
+00:11:33,863 --> 00:11:36,159
+The Ace page adds that the Cobra's
+
+313
+00:11:36,159 --> 00:11:39,266
+lower bonnet and smaller grille were developed
+
+314
+00:11:39,266 --> 00:11:41,022
+for the Ace two point six,
+
+315
+00:11:41,022 --> 00:11:43,859
+though Shelby is often credited with them.
+
+316
+00:11:44,039 --> 00:11:46,880
+So the Cobra's shape is more Ace
+
+317
+00:11:46,880 --> 00:11:48,567
+than legend admits.
+
+318
+00:11:48,916 --> 00:11:50,344
+Costs mattered too.
+
+319
+00:11:50,524 --> 00:11:53,048
+The Cobra page says the inboard brakes
+
+320
+00:11:53,048 --> 00:11:54,841
+moved outboard to cut cost,
+
+321
+00:11:54,841 --> 00:11:57,099
+and the fuel filler moved from the
+
+322
+00:11:57,099 --> 00:11:58,361
+fender to the boot.
+
+323
+00:11:58,541 --> 00:12:01,059
+Shelby's cars were sold at a price,
+
+324
+00:12:01,059 --> 00:12:03,649
+and the changes show a product being
+
+325
+00:12:03,649 --> 00:12:05,519
+engineered for production.
+
+326
+00:12:05,699 --> 00:12:08,187
+The Ace had been a hand-built British
+
+327
+00:12:08,187 --> 00:12:08,926
+sports car.
+
+328
+00:12:09,106 --> 00:12:11,746
+The Cobra became a hybrid of British
+
+329
+00:12:11,746 --> 00:12:14,679
+hand-building and American practicality.
+
+330
+00:12:15,029 --> 00:12:17,969
+The Ace page says production ended in
+
+331
+00:12:17,969 --> 00:12:21,464
+nineteen sixty-three, a year after the Cobra
+
+332
+00:12:21,464 --> 00:12:22,100
+debuted.
+
+333
+00:12:22,280 --> 00:12:25,380
+A C itself continued with Cobras.
+
+334
+00:12:25,560 --> 00:12:28,554
+Wikipedia says A C built the coil-spring
+
+335
+00:12:28,554 --> 00:12:31,923
+roadster with a two hundred eighty-nine until
+
+336
+00:12:31,923 --> 00:12:33,794
+late nineteen sixty-nine,
+
+337
+00:12:33,794 --> 00:12:36,415
+and the A C four twenty-eight Frua,
+
+338
+00:12:36,415 --> 00:12:39,933
+built on a stretched four twenty-seven chassis,
+
+339
+00:12:39,933 --> 00:12:42,104
+until nineteen seventy-three.
+
+340
+00:12:42,453 --> 00:12:45,867
+For Shelby, the Cobra story ended sooner.
+
+341
+00:12:46,047 --> 00:12:49,482
+Wikipedia says Ford and Shelby ended imports
+
+342
+00:12:49,482 --> 00:12:53,074
+from England in nineteen sixty-seven and calls
+
+343
+00:12:53,074 --> 00:12:55,416
+the Cobra a financial failure.
+
+344
+00:12:55,596 --> 00:12:57,985
+So the car that gave the American
+
+345
+00:12:57,985 --> 00:13:00,084
+muscle era its icon was not a
+
+346
+00:13:00,084 --> 00:13:01,459
+profitable product.
+
+347
+00:13:01,639 --> 00:13:03,878
+The sources do not give the loss,
+
+348
+00:13:03,878 --> 00:13:05,575
+so we will not guess one.
+
+349
+00:13:05,755 --> 00:13:07,934
+The page says only that it failed
+
+350
+00:13:07,934 --> 00:13:08,727
+financially.
+
+351
+00:13:09,076 --> 00:13:10,797
+In nineteen eighty-six,
+
+352
+00:13:10,797 --> 00:13:11,844
+the page says,
+
+353
+00:13:11,844 --> 00:13:14,388
+Autokraft bought A C and built the
+
+354
+00:13:14,388 --> 00:13:16,782
+Mark Four with a four point nine
+
+355
+00:13:16,782 --> 00:13:19,774
+five litre, three hundred two cubic inch
+
+356
+00:13:19,774 --> 00:13:20,373
+V eight.
+
+357
+00:13:20,553 --> 00:13:23,069
+Ford joined as a partner in nineteen
+
+358
+00:13:23,069 --> 00:13:23,978
+eighty-seven.
+
+359
+00:13:24,158 --> 00:13:26,508
+The Mark Four had two hundred fifty
+
+360
+00:13:26,508 --> 00:13:28,925
+horsepower and weighed two thousand,
+
+361
+00:13:28,925 --> 00:13:30,671
+six hundred twenty pounds.
+
+362
+00:13:30,851 --> 00:13:32,411
+So the A C name had its
+
+363
+00:13:32,411 --> 00:13:34,106
+second life on the Cobra,
+
+364
+00:13:34,106 --> 00:13:35,124
+not on the Ace.
+
+365
+00:13:35,473 --> 00:13:38,016
+A sum on the Ace Bristol sales.
+
+366
+00:13:38,196 --> 00:13:40,672
+A nineteen fifty-nine car sold for a
+
+367
+00:13:40,672 --> 00:13:42,392
+hundred sixteen thousand,
+
+368
+00:13:42,392 --> 00:13:45,556
+five hundred sixty-two dollars in December two
+
+369
+00:13:45,556 --> 00:13:48,583
+thousand three, and a nineteen fifty-six car
+
+370
+00:13:48,583 --> 00:13:51,197
+for two hundred twenty-three thousand,
+
+371
+00:13:51,197 --> 00:13:54,705
+one hundred twenty-four in September twenty eleven.
+
+372
+00:13:54,885 --> 00:13:56,167
+By our arithmetic,
+
+373
+00:13:56,167 --> 00:13:59,228
+the later price is about ninety-one percent
+
+374
+00:13:59,228 --> 00:13:59,727
+higher.
+
+375
+00:13:59,907 --> 00:14:02,261
+Hagerty's note on the first sale says
+
+376
+00:14:02,261 --> 00:14:04,488
+the price was distorted by the weak
+
+377
+00:14:04,488 --> 00:14:04,934
+dollar.
+
+378
+00:14:05,283 --> 00:14:07,917
+A caution: those are two different cars
+
+379
+00:14:07,917 --> 00:14:09,537
+in different conditions,
+
+380
+00:14:09,537 --> 00:14:11,495
+so we cannot call it a trend.
+
+381
+00:14:11,675 --> 00:14:13,660
+The same applies to the Cobra.
+
+382
+00:14:13,840 --> 00:14:17,291
+A nineteen sixty-five four hundred twenty-seven S
+
+383
+00:14:17,291 --> 00:14:20,038
+slash C sold for four hundred fifty-one
+
+384
+00:14:20,038 --> 00:14:22,644
+thousand dollars in two thousand one,
+
+385
+00:14:22,644 --> 00:14:26,165
+and a nineteen sixty-six four hundred twenty-seven
+
+386
+00:14:26,165 --> 00:14:28,559
+for one point zero five million in
+
+387
+00:14:28,559 --> 00:14:29,827
+twenty twenty-two.
+
+388
+00:14:30,007 --> 00:14:31,482
+Different cars again.
+
+389
+00:14:31,662 --> 00:14:32,558
+We note them,
+
+390
+00:14:32,558 --> 00:14:34,076
+we do not draw a line.
+
+391
+00:14:34,426 --> 00:14:36,274
+What we can say is that both
+
+392
+00:14:36,274 --> 00:14:39,111
+cars have appreciated over their histories,
+
+393
+00:14:39,111 --> 00:14:41,223
+and that the Cobra's price is in
+
+394
+00:14:41,223 --> 00:14:42,344
+a different band.
+
+395
+00:14:42,524 --> 00:14:43,341
+For the Ace,
+
+396
+00:14:43,341 --> 00:14:45,313
+the top sales we found are in
+
+397
+00:14:45,313 --> 00:14:47,354
+the low hundreds of thousands.
+
+398
+00:14:47,534 --> 00:14:48,470
+For the Cobra,
+
+399
+00:14:48,470 --> 00:14:50,809
+the bottom of the original range is
+
+400
+00:14:50,809 --> 00:14:51,878
+about a million,
+
+401
+00:14:51,878 --> 00:14:53,883
+according to Du Pont Registry,
+
+402
+00:14:53,883 --> 00:14:56,021
+and the Hagerty guide is higher.
+
+403
+00:14:56,201 --> 00:14:58,149
+Whatever else changes,
+
+404
+00:14:58,149 --> 00:14:59,742
+that gap is large.
+
+405
+00:15:00,092 --> 00:15:01,660
+Both cars raced.
+
+406
+00:15:01,840 --> 00:15:04,241
+Wikipedia says A C Aces raced at
+
+407
+00:15:04,241 --> 00:15:07,842
+Le Mans in nineteen fifty-seven and fifty-eight.
+
+408
+00:15:08,022 --> 00:15:10,650
+The class win it describes came in
+
+409
+00:15:10,650 --> 00:15:14,359
+nineteen fifty-nine, when Ted Whiteaway and John
+
+410
+00:15:14,359 --> 00:15:17,373
+Turner's Ace Bristol took the two litre
+
+411
+00:15:17,373 --> 00:15:20,387
+G T class and finished seventh overall.
+
+412
+00:15:20,567 --> 00:15:23,470
+That is a very respectable result for
+
+413
+00:15:23,470 --> 00:15:26,687
+a small, light British sports car against
+
+414
+00:15:26,687 --> 00:15:28,020
+much larger cars.
+
+415
+00:15:28,370 --> 00:15:30,634
+The Cobra's record is bigger.
+
+416
+00:15:30,814 --> 00:15:34,952
+Carroll Shelby's page says the Daytona Coupe
+
+417
+00:15:34,952 --> 00:15:37,491
+won three G T class wins in
+
+418
+00:15:37,491 --> 00:15:42,381
+nineteen sixty-four, including Le Mans and Goodwood,
+
+419
+00:15:42,381 --> 00:15:44,074
+plus the S C C A U
+
+420
+00:15:44,074 --> 00:15:45,861
+S G T Championship.
+
+421
+00:15:46,041 --> 00:15:47,853
+In nineteen sixty-five,
+
+422
+00:15:47,853 --> 00:15:51,635
+the Cobra won the International Championship for
+
+423
+00:15:51,635 --> 00:15:53,053
+G T Manufacturers.
+
+424
+00:15:53,233 --> 00:15:55,793
+And Wikipedia notes that the four hundred
+
+425
+00:15:55,793 --> 00:15:58,853
+twenty-seven was not homologated for that season.
+
+426
+00:15:59,202 --> 00:16:01,113
+So the Ace won a class at
+
+427
+00:16:01,113 --> 00:16:03,483
+Le Mans in nineteen fifty-nine,
+
+428
+00:16:03,483 --> 00:16:05,853
+and the Cobra won classes and a
+
+429
+00:16:05,853 --> 00:16:08,758
+championship five and six years later.
+
+430
+00:16:08,938 --> 00:16:11,271
+The difference was again the engine.
+
+431
+00:16:11,451 --> 00:16:14,023
+A larger V eight could be developed
+
+432
+00:16:14,023 --> 00:16:15,272
+and reliably run,
+
+433
+00:16:15,272 --> 00:16:17,770
+and the Daytona Coupe was rated at
+
+434
+00:16:17,770 --> 00:16:20,489
+three hundred eighty-five horsepower,
+
+435
+00:16:20,489 --> 00:16:22,179
+according to Wikipedia.
+
+436
+00:16:22,359 --> 00:16:24,660
+The chassis was the same family,
+
+437
+00:16:24,660 --> 00:16:26,457
+but the results were not.
+
+438
+00:16:26,806 --> 00:16:29,229
+Du Pont Registry says the Cobra four
+
+439
+00:16:29,229 --> 00:16:32,998
+hundred twenty-seven's release price was seven thousand,
+
+440
+00:16:32,998 --> 00:16:34,411
+five hundred dollars.
+
+441
+00:16:34,591 --> 00:16:37,319
+The Ace's original price is not given
+
+442
+00:16:37,319 --> 00:16:39,014
+in the sources we used.
+
+443
+00:16:39,194 --> 00:16:41,563
+So we cannot compare new prices.
+
+444
+00:16:41,743 --> 00:16:44,242
+What we can compare are values today,
+
+445
+00:16:44,242 --> 00:16:47,078
+from sales reported by Hagerty and others,
+
+446
+00:16:47,078 --> 00:16:48,767
+and these show a big gap.
+
+447
+00:16:49,117 --> 00:16:53,409
+Hagerty's past-sales database lists a nineteen fifty-nine
+
+448
+00:16:53,409 --> 00:16:55,969
+Ace Bristol sold at Coys in London
+
+449
+00:16:55,969 --> 00:16:58,680
+in December two thousand three for a
+
+450
+00:16:58,680 --> 00:17:00,563
+hundred sixteen thousand,
+
+451
+00:17:00,563 --> 00:17:02,898
+five hundred sixty-two dollars.
+
+452
+00:17:03,078 --> 00:17:05,851
+A nineteen fifty-six Ace Bristol sold at
+
+453
+00:17:05,851 --> 00:17:08,763
+Bonhams in September twenty eleven for two
+
+454
+00:17:08,763 --> 00:17:10,843
+hundred twenty-three thousand,
+
+455
+00:17:10,843 --> 00:17:13,062
+one hundred twenty-four dollars.
+
+456
+00:17:13,242 --> 00:17:16,127
+Hagerty called the second price high for
+
+457
+00:17:16,127 --> 00:17:18,362
+a standard Bristol-engined Ace.
+
+458
+00:17:18,713 --> 00:17:19,785
+For the Cobra,
+
+459
+00:17:19,785 --> 00:17:23,463
+Hagerty lists a nineteen sixty-five four hundred
+
+460
+00:17:23,463 --> 00:17:26,298
+twenty-seven S slash C sold in August
+
+461
+00:17:26,298 --> 00:17:28,751
+two thousand one by R M Auctions
+
+462
+00:17:28,751 --> 00:17:32,122
+for four hundred fifty-one thousand dollars.
+
+463
+00:17:32,302 --> 00:17:35,346
+A Hagerty price guide dated April twenty
+
+464
+00:17:35,346 --> 00:17:38,924
+twenty-five lists a number three good condition
+
+465
+00:17:38,924 --> 00:17:40,902
+S slash C at two point two
+
+466
+00:17:40,902 --> 00:17:41,892
+five million.
+
+467
+00:17:42,072 --> 00:17:45,215
+Du Pont Registry says a nineteen sixty-six
+
+468
+00:17:45,215 --> 00:17:48,509
+four hundred twenty-seven sold for one point
+
+469
+00:17:48,509 --> 00:17:51,278
+zero five million at Amelia Island in
+
+470
+00:17:51,278 --> 00:17:52,625
+twenty twenty-two.
+
+471
+00:17:52,976 --> 00:17:54,250
+By our arithmetic,
+
+472
+00:17:54,250 --> 00:17:56,940
+the Cobra's two point two five million
+
+473
+00:17:56,940 --> 00:17:59,347
+guide value is about ten times the
+
+474
+00:17:59,347 --> 00:18:03,099
+Ace Bristol's two hundred twenty-three thousand sale.
+
+475
+00:18:03,279 --> 00:18:06,228
+Against the two thousand three Ace sale,
+
+476
+00:18:06,228 --> 00:18:08,144
+it is nearly twenty times.
+
+477
+00:18:08,324 --> 00:18:11,698
+These dates differ by fourteen to twenty-two
+
+478
+00:18:11,698 --> 00:18:14,306
+years, so the comparison is rough,
+
+479
+00:18:14,306 --> 00:18:17,066
+but the order of magnitude is clear.
+
+480
+00:18:17,417 --> 00:18:20,186
+The Cobra's price has its own ceiling
+
+481
+00:18:20,186 --> 00:18:20,934
+and floor.
+
+482
+00:18:21,114 --> 00:18:24,026
+Du Pont Registry says original four hundred
+
+483
+00:18:24,026 --> 00:18:26,939
+twenty-seven Cobras start at over a million
+
+484
+00:18:26,939 --> 00:18:29,851
+dollars, and the two hundred eighty-nine is
+
+485
+00:18:29,851 --> 00:18:31,273
+just under a million.
+
+486
+00:18:31,453 --> 00:18:33,547
+It adds that A C Cobra prices
+
+487
+00:18:33,547 --> 00:18:36,869
+have stayed under seven figures partly because
+
+488
+00:18:36,869 --> 00:18:38,674
+of the continuation cars.
+
+489
+00:18:38,854 --> 00:18:40,162
+So the original,
+
+490
+00:18:40,162 --> 00:18:43,676
+the continuation and the replica form three
+
+491
+00:18:43,676 --> 00:18:45,066
+separate markets.
+
+492
+00:18:45,416 --> 00:18:46,693
+And one more number.
+
+493
+00:18:46,873 --> 00:18:49,540
+The prototype, chassis C S X two
+
+494
+00:18:49,540 --> 00:18:53,207
+thousand, sold for thirteen point seven five
+
+495
+00:18:53,207 --> 00:18:56,125
+million dollars at R M Sotheby's in
+
+496
+00:18:56,125 --> 00:18:58,459
+August two thousand sixteen,
+
+497
+00:18:58,459 --> 00:18:59,876
+according to EVO.
+
+498
+00:19:00,056 --> 00:19:01,895
+That is a unique car with a
+
+499
+00:19:01,895 --> 00:19:04,212
+unique story, not a typical Cobra.
+
+500
+00:19:04,392 --> 00:19:06,642
+But it shows what the right chassis
+
+501
+00:19:06,642 --> 00:19:07,671
+number can mean,
+
+502
+00:19:07,671 --> 00:19:09,921
+and nothing like it has happened to
+
+503
+00:19:09,921 --> 00:19:10,371
+an Ace.
+
+504
+00:19:10,721 --> 00:19:12,864
+A word for anyone who dreams of
+
+505
+00:19:12,864 --> 00:19:13,624
+owning one.
+
+506
+00:19:13,804 --> 00:19:14,660
+For the Ace,
+
+507
+00:19:14,660 --> 00:19:18,154
+the Hagerty entries describe cars with right-hand
+
+508
+00:19:18,154 --> 00:19:21,078
+drive, Bristol engines of about a hundred
+
+509
+00:19:21,078 --> 00:19:24,572
+twenty horsepower, wire wheels and side exhausts,
+
+510
+00:19:24,572 --> 00:19:27,781
+in conditions from very good to exceptionally
+
+511
+00:19:27,781 --> 00:19:28,851
+clean original.
+
+512
+00:19:29,031 --> 00:19:31,075
+The condition and history,
+
+513
+00:19:31,075 --> 00:19:32,648
+the commentary says,
+
+514
+00:19:32,648 --> 00:19:33,907
+drove the price.
+
+515
+00:19:34,087 --> 00:19:36,422
+A long ownership by two owners from
+
+516
+00:19:36,422 --> 00:19:38,824
+new was cited for the higher result.
+
+517
+00:19:39,174 --> 00:19:40,143
+For the Cobra,
+
+518
+00:19:40,143 --> 00:19:43,051
+the question before price is authenticity.
+
+519
+00:19:43,231 --> 00:19:46,587
+Original, continuation, or replica.
+
+520
+00:19:46,767 --> 00:19:51,406
+Wikipedia describes continuation series numbered four thousand
+
+521
+00:19:51,406 --> 00:19:52,678
+to nine thousand,
+
+522
+00:19:52,678 --> 00:19:57,094
+a nineteen ninety-three controversy about duplicate titles,
+
+523
+00:19:57,094 --> 00:20:00,162
+and mostly fibreglass bodies on the later
+
+524
+00:20:00,162 --> 00:20:00,536
+cars.
+
+525
+00:20:00,716 --> 00:20:03,135
+A buyer needs the chassis number and
+
+526
+00:20:03,135 --> 00:20:06,226
+its documentation checked by someone who knows
+
+527
+00:20:06,226 --> 00:20:07,032
+the history.
+
+528
+00:20:07,212 --> 00:20:09,636
+The sources agree on nothing else as
+
+529
+00:20:09,636 --> 00:20:10,242
+strongly.
+
+530
+00:20:10,592 --> 00:20:11,753
+For both cars,
+
+531
+00:20:11,753 --> 00:20:15,072
+we found no reliable figures for running
+
+532
+00:20:15,072 --> 00:20:17,395
+costs, insurance or repairs.
+
+533
+00:20:17,575 --> 00:20:20,146
+Anyone quoting a precise number for them
+
+534
+00:20:20,146 --> 00:20:22,010
+has a source we did not find.
+
+535
+00:20:22,190 --> 00:20:24,947
+The honest summary is that both are
+
+536
+00:20:24,947 --> 00:20:27,310
+rare, old, hand-finished cars.
+
+537
+00:20:27,490 --> 00:20:29,296
+Their prices, as we showed,
+
+538
+00:20:29,296 --> 00:20:31,237
+are in very different ranges,
+
+539
+00:20:31,237 --> 00:20:34,314
+and their maintenance needs are different too,
+
+540
+00:20:34,314 --> 00:20:36,790
+though we cannot put numbers on that.
+
+541
+00:20:37,139 --> 00:20:38,835
+So, which wins?
+
+542
+00:20:39,015 --> 00:20:40,684
+On power, the Cobra,
+
+543
+00:20:40,684 --> 00:20:42,687
+by a factor of two and a
+
+544
+00:20:42,687 --> 00:20:43,856
+half to three.
+
+545
+00:20:44,036 --> 00:20:45,750
+On weight, the Ace,
+
+546
+00:20:45,750 --> 00:20:48,007
+by a fifth to two fifths.
+
+547
+00:20:48,187 --> 00:20:49,967
+On speed, the Cobra,
+
+548
+00:20:49,967 --> 00:20:51,925
+by roughly half again.
+
+549
+00:20:52,105 --> 00:20:53,736
+On racing, the Cobra,
+
+550
+00:20:53,736 --> 00:20:56,842
+with a championship against a class win.
+
+551
+00:20:57,022 --> 00:20:59,680
+On production, about the same order.
+
+552
+00:20:59,860 --> 00:21:01,307
+On price today,
+
+553
+00:21:01,307 --> 00:21:04,104
+the Cobra, by a factor of ten
+
+554
+00:21:04,104 --> 00:21:04,876
+or more.
+
+555
+00:21:05,225 --> 00:21:07,083
+The real difference is the engine.
+
+556
+00:21:07,263 --> 00:21:08,993
+The Ace is a delicate,
+
+557
+00:21:08,993 --> 00:21:12,376
+beautiful British car whose power came from
+
+558
+00:21:12,376 --> 00:21:12,847
+a six.
+
+559
+00:21:13,027 --> 00:21:14,931
+The Cobra is the same car with
+
+560
+00:21:14,931 --> 00:21:17,151
+the biggest Ford V eight that would
+
+561
+00:21:17,151 --> 00:21:17,404
+fit.
+
+562
+00:21:17,584 --> 00:21:19,654
+That is not a criticism of the
+
+563
+00:21:19,654 --> 00:21:19,930
+Ace.
+
+564
+00:21:20,110 --> 00:21:22,852
+It is the simplest explanation of why
+
+565
+00:21:22,852 --> 00:21:25,076
+one is a classic and the other
+
+566
+00:21:25,076 --> 00:21:25,891
+is an icon.
+
+567
+00:21:26,241 --> 00:21:27,414
+One caution.
+
+568
+00:21:27,594 --> 00:21:29,661
+We have not driven either car.
+
+569
+00:21:29,841 --> 00:21:32,183
+The Ace page's weights conflict,
+
+570
+00:21:32,183 --> 00:21:35,771
+the Cobra's power ratings differ between sources,
+
+571
+00:21:35,771 --> 00:21:38,479
+and the production numbers do not add
+
+572
+00:21:38,479 --> 00:21:38,699
+up.
+
+573
+00:21:38,879 --> 00:21:40,280
+We told you where,
+
+574
+00:21:40,280 --> 00:21:42,850
+and where the arithmetic is ours.
+
+575
+00:21:43,030 --> 00:21:44,903
+If you have a verified detail,
+
+576
+00:21:44,903 --> 00:21:46,402
+tell us in the comments,
+
+577
+00:21:46,402 --> 00:21:47,964
+with where it comes from.
+
+578
+00:21:48,314 --> 00:21:50,410
+Which would you rather own,
+
+579
+00:21:50,410 --> 00:21:52,040
+the Ace or the Cobra?
+
+580
+00:21:52,220 --> 00:21:53,648
+Tell us in the comments.
+
+581
+00:21:53,828 --> 00:21:56,091
+In the other videos of this series,
+
+582
+00:21:56,091 --> 00:21:58,160
+we reveal two things you did not
+
+583
+00:21:58,160 --> 00:21:59,518
+know about the Cobra,
+
+584
+00:21:59,518 --> 00:22:01,458
+work out what a real one costs
+
+585
+00:22:01,458 --> 00:22:03,526
+today, and tell the story of the
+
+586
+00:22:03,526 --> 00:22:04,626
+man who built it.
+
+587
+00:22:04,806 --> 00:22:07,721
+Our twenty twenty-seven Truck Buyer's Guide is
+
+588
+00:22:07,721 --> 00:22:09,368
+linked in the description.
+
+589
+00:22:09,548 --> 00:22:11,986
+Subscribe to Pickup Reality.
