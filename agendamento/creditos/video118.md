@@ -1,0 +1,162 @@
+# Photo credits: Countach vs Miura: The Real Difference
+
+- 1974 Lamborghini Countach LP400 and 1968 Lamborghini Miura P400(featured in 'The Italian Job') 04.jpg by Ank Kumar, CC BY-SA 4.0
+- 1974 Lamborghini Countach LP400 and 1968 Lamborghini Miura P400(featured in 'The Italian Job') 02.jpg by Ank Kumar, CC BY-SA 4.0
+- 1974 Lamborghini Countach LP400 and 1968 Lamborghini Miura P400(featured in 'The Italian Job') 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 1969 Lamborghini MIURA S (51755622891).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Lamborghini classics (2276637736).jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- Bertone111 (41916650762).jpg by Andrea Volpato from pv Novara, Italia, CC BY-SA 2.0
+- Lancia Stratos (49817653007).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Lamborghini Countach LP 5000S 1983.jpg by Palauenc05, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8019.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach, BAS 24, Brussels (P1170237-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8034.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach LP500S IMG 4464.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8009.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach LP500S IMG 4466.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Countach 25th Anniversary IMG 2994.jpg by Alexander Migl, CC BY-SA 4.0
+- 1990 Lamborghini Countach Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 1984 Lamborghini Countach LP5000S.jpg by MrWalkr, CC BY-SA 4.0
+- 1990 Lamborghini Countach Low.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Countach 17.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach 16.jpg by Calreyn88, CC BY-SA 4.0
+- 1985 Lamborghini Countach 3.jpg by Calreyn88, CC BY-SA 4.0
+- 6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG by Andrew Bossi, CC BY-SA 2.5
+- 1971 Lamborghini Miura P400 SV.jpg by Chelsea Jay, CC BY-SA 4.0
+- Lamborghini Miura P400 S GIMS 2024 1X7A2379.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach S (14477199435).jpg by ilikewaffles11, CC BY 2.0
+- Lamborghini Countach 4.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach 6.jpg by Calreyn88, CC BY-SA 4.0
+- VW I.D. Buggy Genf 2019 1Y7A5934.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1287).jpg by Matti Blume, CC BY-SA 4.0
+- Hyundai Santa Fe, GIMS 2018, Le Grand-Saconnex (1X7A1735).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Miura P400 S in Red over Gold, engine overall.jpg by Mr.choppers, CC BY-SA 3.0
+- Moteur de lamborghini Miura.jpg by Loadsas, CC BY-SA 4.0
+- Lamborghini Miura P400 S in Red over Gold, engine right side.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Countach 5000QV US engine.jpg by Prova MO, CC BY-SA 4.0
+- Lamborghini Countach Engine (40781884243).jpg by Thomas Vogt from Paderborn, Deutschland, CC0
+- Lamborghini Countach Engine (47748356951).jpg by Thomas Vogt from Paderborn, Deutschland, CC0
+- 1984 Lamborghini Countach 5000 S Chassis ZA9C0005003LA12681.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach (7874143660).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Lamborghini Countach LP400 S (30608348783).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Lamborghini Countach LP 500 S (1982) (52865640777).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus (2022) (52866218721).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus (2019) (52571953520).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Murcielago V12.JPG by User Nrbelex on en.wikipedia, CC BY 2.5
+- Lamborghini V12 engine (5488111293).jpg by Autoviva, CC BY 2.0
+- Lamborghini V12 (16009879816).jpg by Maurizio Cefariello, CC BY 2.0
+- Lamborghini Miura SV 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Miura SV jm.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Miura SV 1.jpg by Calreyn88, CC BY-SA 4.0
+- LAMBORGHINI DIABLO (13647672023).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from SEATTLE, SEATTLE, CC BY-SA 2.0
+- Lamborghini Aventador Engine.JPG by Aiace90, CC0
+- Lamborghini Urraco engine.jpg by Herranderssvensson, CC BY-SA 4.0
+- 1988 Lamborghini Countach 5000 QV federal.jpg by Mr.choppers, CC BY-SA 3.0
+- 1988 Lamborghini Countach LP 5000 QV (5975517601).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1988 Lamborghini Countach LP 5000 QV (5975519603).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 1988 Lamborghini Countach 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Lamborghini Countach 25th Anniversary.jpg by Calreyn88, CC BY-SA 4.0
+- 1988 Lamborghini Countach 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1987 Lamborghini Countach LP5000 QV LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 1988 Lamborghini Countach 5.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach ORGINS.jpg by Dani Yumey, CC BY-SA 4.0
+- Lamborghini tractor - orange.jpg by Cjp24, CC BY-SA 4.0
+- Lamborghini Urus SE (53878104939).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Lamborghini Huracán LP 610 (17913080973).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- -63 - Lamborghini Huracán GT3 Evo - Emil Frey Racing (52190454701).jpg by More Cars, CC BY 2.0
+- Lutzhorn treckertreck gewicht.JPG by Dirk Ingo Franke, CC BY-SA 2.0
+- Lamborghini350GTV12-engine.jpg by dave_7, CC BY 2.0
+- 1986 Lamborghini Countach 5000 QV, Bianco Polo Park white, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1988 Lamborghini Countach LP 5000 QV rear (5976078836).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Lamborghini Countach LP5000 Quattrovalvole (1985) (54559374115).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Miura P400 S Classic-Days 2022 DSC 0086.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Miura P400 (1967) Classic-Gala 2022 1X7A0082.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Miura P400 S Classic-Days 2022 DSC 0089.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Countach 25th Anniversary Edition (1989) (55218160865).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Countach 25th Anniversary Edition (1989) (55217919843).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Countach 25th Anniversary Edition (1989) (55217919828).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Aventador 6.5 '13 (9405754698).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Lamborghini Aventador 6.5 '13 (9390099475).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Lamborghini Aventador 6.5 '13 (9405749874).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058801784).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058799732).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058793432).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- 1981 Lamborghini Countach LP400 S.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Countach 4.0 '75 (9389893343).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 1982 Lamborghini Countach LP400 S (54226219190).jpg by Rutger van der Maar, CC BY 2.0
+- Marcello gandini per gruppo bertone e lancia spa., stratos hf zero, 1970.jpg by Sailko, CC BY 3.0
+- Ferrari 308 GT4 (1977) (54559368738).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari 308 GT4 (1977) (54559311414).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Alfa Romeo Carabo Bertone (4350268426).jpg by nakhon100, CC BY 2.0
+- Arese Museo Storico Alfa Romeo 1968 Carabo 2.jpg by Zairon, CC BY-SA 4.0
+- Alfa Romeo Carabo Bertone (4345325783).jpg by nakhon100, CC BY 2.0
+- Lamborghini Countach 5000QV interior right.jpg by Prova MO, CC BY-SA 4.0
+- Lamborghini Countach 5000QV interior left.jpg by Prova MO, CC BY-SA 4.0
+- Lamborghini Countach Interior (40781883903).jpg by Thomas Vogt from Paderborn, Deutschland, CC0
+- Geneva MotorShow 2013 - Lamborghini Veneno 1.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Lamborghini Veneno, Car Zero (profile).jpg by 2013-03-05_Geneva_Motor_Show_7894.JPG: Norbert Aepli, Switzerland (User:Noebu)
+derivative work: Keraunoscopia, CC BY-SA 3.0
+- Lamborghini Veneno - 30463668186.jpg by Bryan S, CC BY-SA 2.0
+- Lamborghini Veneno left side.jpg by Bryan S, CC BY-SA 2.0
+- Lamborghini Veneno (11225271396).jpg by Damian Morys from New York City, United States, CC BY 2.0
+- Lamborghini Veneno Roadster (51817307235).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Blancpain Endurance Series - Lamborghini Murcielago 670 R-SV 14.jpg by Thesupermat, CC BY-SA 3.0
+- Lamborghini Murcielago SV 2010.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago SV (50894).jpg by Calreyn88, CC BY-SA 4.0
+- Ducati Diavel 1260 Lamborghini.jpg by Earthshaker13, CC BY-SA 4.0
+- Ducati Diavel 1260 Lamborghini (53651680752).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Ducati Diavel 1260 Lamborghini (54473876592).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Lamborghini Miura SV J.jpg by MrWalkr, CC BY-SA 4.0
+- 1973 Lamborghini Miura P400 SVJ.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Miura P400 S Jota Specification (1969) (52866606105).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1995 Lamborghini Diablo Jota GT1 LM SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini-Jota-Modellauto-1-18.jpg by Manfred Carsten at de.wikipedia, CC BY-SA 3.0 de
+- 1995 Lamborghini Diablo SE30 Jota LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini WOLF Countach (8014530312) (cropped).jpg by contri from Yonezawa-Shi, Yamagata, Japan, CC BY-SA 2.0
+- Lamborghini WOLF Countach (8014528897) (cropped).jpg by contri from Yonezawa-Shi, Yamagata, Japan, CC BY-SA 2.0
+- Lamborghini WOLF Countach (8014528335).jpg by contri from Yonezawa-Shi, Yamagata, Japan, CC BY-SA 2.0
+- 1970 Lamborghini Miura P400 S.jpg by Calreyn88, CC BY-SA 4.0
+- 1967 Lamborghini Miura P400.jpg by Calreyn88, CC BY-SA 4.0
+- 1970 Lamborghini Miura P400 S 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Miura SV.jpg by MrWalkr, CC BY-SA 4.0
+- 1972 Lamborghini Miura P400 SV LCCS.jpg by MrWalkr, CC BY-SA 4.0
+- 1971 Lamborghini Miura P400 SV Speciale.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Miura P400 SV Speciale (51125118834).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- 1971 Lamborghini Miura P400 SV HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 1971 Lamborghini Miura P400 SV Low HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Countach, EMS 2024, Essen (P1032222).jpg by Matti Blume, CC BY-SA 4.0
+- 1985 Lamborghini Countach 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1985 Lamborghini Countach replica (25724).jpg by Calreyn88, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach 25th Anniversary - 1989 - 005.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach LP400S - 1980 - 010.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach LP400S - 1980 - 013.jpg by Thesupermat, CC BY-SA 4.0
+- 1990 Lamborghini Countach.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Countach 1981.jpg by Calreyn88, CC BY-SA 4.0
+- 1975 Lamborghini Countach LP400 Periscopo 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1971 Lamborghini Miura SV.jpg by MrWalkr, CC BY-SA 4.0
+- 1972 Lamborghini Miura P400 SV.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Miura SV in Yellow, rear right.jpg by PeterHoch, CC BY-SA 4.0
+- Lamborghini Countach LP400 Periscopio (1976) Auto Zuerich 2021 IMG 0460.jpg by Alexander Migl, CC BY-SA 4.0
+- 1975 Lamborghini Countach LP400 Periscopo.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 Lamborghini Aventador Miura Homage SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Aventador Miura Homage.jpg by MrWalkr, CC BY-SA 4.0
+- 2016 Lamborghini Aventador Miura Homage.jpg by Ryan  Daniel, Public domain
+- One scene at 2010 Pokka GT Summer Special (33).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2011 Pokka GT Summer Special (184).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Starting grid at 2010 Pokka GT Summer Special (5).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lamborghini Islero, Techno Classica 2018, Essen (IMG 9696).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Super Trofeo 99 2010 amk.JPG by AngMoKio, CC BY-SA 3.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lamborghini Countach: https://en.wikipedia.org/wiki/Lamborghini_Countach
+- Wikipedia, Lamborghini Miura: https://en.wikipedia.org/wiki/Lamborghini_Miura
+- RM Sotheby's, 1971 Lamborghini Miura SV (Paris 2026, lot 150): https://rmsothebys.com/auctions/pa26/lots/r0090-1971-lamborghini-miura-sv
+- RM Sotheby's, 1977 Lamborghini Countach LP400 Periscopio (Arizona 2026): https://rmsothebys.com/auctions/az26/lots/r0060-1977-lamborghini-countach-lp400-periscopio-by-bertone
+- Goodwood, This ultimate Miura SV Speciale just sold for £3.2 million: https://www.goodwood.com/grr/road/news/this-ultimate-miura-sv-speciale-just-sold-for-3.2-million
+- The Jalopy, Record prices for Lamborghini Miura SV and Countach LP 400 Periscopo at RM Sotheby's Paris: https://thejalopy.com/record-prices-lamborghini-miura-sv-countach-lp-400-sotheby/
+- Hagerty valuation tools, 1975 Lamborghini Countach LP400: https://hagerty.com/apps/valuationtools/1975-lamborghini-countach-lp400
