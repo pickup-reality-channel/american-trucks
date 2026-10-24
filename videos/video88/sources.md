@@ -1,0 +1,8 @@
+- Wikipedia, Mate Rimac: https://en.wikipedia.org/wiki/Mate_Rimac
+- Wikipedia, Rimac Automobili: https://en.wikipedia.org/wiki/Rimac_Automobili
+- Wikipedia, Bugatti Rimac: https://en.wikipedia.org/wiki/Bugatti_Rimac
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Wikipedia, Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon
+- Automoblog, Bugatti Tourbillon: https://www.automoblog.com/bugatti-tourbillon/
+- TechCrunch, Hyundai and Kia invest in Rimac (cited by Wikipedia)
+- Nedeljnik, net worth estimate (cited by Wikipedia, December 2025)

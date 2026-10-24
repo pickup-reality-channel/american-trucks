@@ -1,0 +1,391 @@
+{
+ "id": "video86",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Rimac Nevera vs Bugatti Tourbillon: Electric vs V16",
+ "scenes": [
+  {
+   "text": "One of these cars has a battery that weighs seven hundred kilograms. The other has an engine with sixteen cylinders that weighs two hundred fifty-two. One costs about two million euros. The other costs three point eight million. And, by our own arithmetic, the one with less power is the one with more power for every kilogram it carries. This is the Rimac Nevera against the Bugatti Tourbillon.",
+   "query": "Rimac Nevera and Bugatti Tourbillon",
+   "caption": "ELECTRIC VS V16",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist that most comparisons miss. Both cars come from the same company family. Mate Rimac, who built the Nevera, is also the chief executive of Bugatti Rimac, the company behind the Tourbillon. So one man is behind both answers to the same question: what is the future of the hypercar?",
+   "query": "Mate Rimac",
+   "caption": "ONE MAN BEHIND BOTH CARS",
+   "cuts": 8
+  },
+  {
+   "text": "Every number in this video comes from published sources, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so. Let us start with the cars.",
+   "query": "Rimac Nevera",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Wikipedia says the Rimac Nevera was first shown as the C Two at the Geneva Motor Show in twenty eighteen, and was later renamed Nevera. The name refers to sudden short storms that hit the Adriatic Sea. Rimac plans to build one hundred fifty of them.",
+   "query": "Rimac Nevera",
+   "caption": "RIMAC NEVERA: 150 CARS",
+   "cuts": 3,
+   "chapter": "Two answers to one question"
+  },
+  {
+   "text": "It has four electric motors, one for each wheel. Wikipedia lists a total of one thousand eight hundred eighty-eight horsepower, or one thousand nine hundred fourteen metric horsepower, and two thousand three hundred sixty newton-metres of torque. The power comes from a one hundred twenty kilowatt-hour battery.",
+   "query": "Rimac Nevera motors",
+   "caption": "4 MOTORS \u00b7 1,888 HP",
+   "cuts": 3
+  },
+  {
+   "text": "The Bugatti Tourbillon is the opposite idea. Wikipedia says it was unveiled on the twentieth of June, twenty twenty-four, for three point eight million euros, about four point one million dollars. Bugatti plans to build two hundred fifty, in Molsheim, France, with production starting in twenty twenty-six.",
+   "query": "Bugatti Tourbillon",
+   "caption": "BUGATTI TOURBILLON: 250 CARS",
+   "cuts": 3
+  },
+  {
+   "text": "Its heart is a naturally aspirated sixteen-cylinder engine of eight thousand three hundred fifty-five cubic centimetres, developed with Cosworth. It revs to nine thousand r p m and makes about one thousand metric horsepower. Three electric motors add eight hundred more.",
+   "query": "Bugatti Tourbillon V16",
+   "caption": "V16 + 3 ELECTRIC MOTORS",
+   "cuts": 3
+  },
+  {
+   "text": "So here is the setup. One car says the future is a battery and four motors. The other says the future still has a sixteen-cylinder engine in it, helped by electricity. Both claim to be the ultimate hypercar. Let us see which numbers back them up, starting with the one everybody asks about first: power.",
+   "query": "Rimac Nevera vs Bugatti Tourbillon",
+   "caption": "SAME QUESTION, OPPOSITE ANSWERS",
+   "cuts": 3
+  },
+  {
+   "text": "The Nevera has one thousand nine hundred fourteen metric horsepower on Wikipedia's page. The Tourbillon has one thousand eight hundred. By our own arithmetic, that makes the Nevera about six point three percent stronger on paper. Not a huge gap, but a gap.",
+   "query": "Rimac Nevera",
+   "caption": "1,914 PS VS 1,800 PS",
+   "cuts": 3,
+   "chapter": "Round one: power"
+  },
+  {
+   "text": "Where the power comes from is very different. Wikipedia says the Tourbillon's engine makes about one thousand metric horsepower, and the three motors add eight hundred. So more than half of the Tourbillon's power comes from the engine you can hear. In the Nevera, all of it comes from electricity.",
+   "query": "Bugatti Tourbillon engine",
+   "caption": "55% FROM THE ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "Torque tells another story. Wikipedia lists two thousand three hundred sixty newton-metres for the Nevera and two thousand three hundred for the Tourbillon. These are close, in our reading, but they are delivered very differently. Electric motors give torque instantly. An engine that revs to nine thousand has to climb there.",
+   "query": "Rimac Nevera",
+   "caption": "2,360 NM VS 2,300 NM",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars use all four wheels. The Nevera has a motor at each wheel, with a single-speed gearbox on each. The Tourbillon sends its power through a new eight-speed dual-clutch gearbox. Two engineering answers, and neither one is simple.",
+   "query": "Bugatti Tourbillon gearbox",
+   "caption": "1 SPEED PER WHEEL VS 8-SPEED DCT",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more thing on power. Wikipedia says that in August twenty twenty-four, Rimac unveiled the Nevera R, with two thousand one hundred seven metric horsepower. So the Nevera family has already moved on from the number we just compared. The Tourbillon, for now, has not.",
+   "query": "Rimac Nevera R",
+   "caption": "NEVERA R: 2,107 PS",
+   "cuts": 3
+  },
+  {
+   "text": "Now the twist. Sources give two different weights for the Nevera. Wikipedia lists two thousand three hundred kilograms. Top Gear lists two thousand one hundred fifty. The Tourbillon, according to Wikipedia and Automoblog, weighs one thousand nine hundred ninety-five kilograms. So the Tourbillon is lighter either way.",
+   "query": "Rimac Nevera",
+   "caption": "NEVERA: 2,150\u20132,300 KG",
+   "cuts": 3,
+   "chapter": "Round two: weight"
+  },
+  {
+   "text": "Automoblog says the Tourbillon weighs less than the Veyron and the Chiron, which is remarkable for a car with a sixteen-cylinder engine, three electric motors and a battery. Bugatti used a carbon and aluminium structure, with a carbon composite called T eight hundred.",
+   "query": "Bugatti Tourbillon carbon",
+   "caption": "LIGHTER THAN THE CHIRON",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the maths. Take Wikipedia's figures. The Nevera has one thousand eight hundred eighty-eight horsepower and weighs two thousand three hundred kilograms. That is about point eight two horsepower per kilogram. The Tourbillon has one thousand seven hundred seventy-five horsepower and weighs one thousand nine hundred ninety-five. That is about point eight nine.",
+   "query": "Rimac Nevera vs Bugatti Tourbillon",
+   "caption": "OUR OWN ARITHMETIC: 0.82 VS 0.89 HP/KG",
+   "cuts": 3
+  },
+  {
+   "text": "And if you use Top Gear's lighter figure for the Nevera, two thousand one hundred fifty kilograms, its number rises to about point eight eight. The Tourbillon still comes out slightly ahead. So the less powerful car has the better power-to-weight ratio. On paper, this is the Tourbillon's first win.",
+   "query": "Bugatti Tourbillon",
+   "caption": "THE WEAKER CAR IS THE LIGHTER ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Why is the Tourbillon so light? Part of the answer is in the suspension. TechRadar says parts of the suspension and chassis are three-D printed in aluminium, using Divergent, a sister company of the American hypercar maker Czinger. Automoblog says this saves forty-five percent of unsprung weight compared with the Chiron.",
+   "query": "Bugatti Tourbillon suspension",
+   "caption": "3D-PRINTED SUSPENSION",
+   "cuts": 3
+  },
+  {
+   "text": "Now compare the heavy parts. Top Gear says the Nevera's battery pack holds six thousand nine hundred sixty cells and weighs seven hundred kilograms. Automoblog says the Tourbillon's entire sixteen-cylinder engine weighs two hundred fifty-two. By our own arithmetic, the Nevera's battery alone weighs almost three times as much as the Bugatti's V sixteen.",
+   "query": "Rimac Nevera battery",
+   "caption": "THE BATTERY WEIGHS 2.8\u00d7 THE V16",
+   "cuts": 3
+  },
+  {
+   "text": "Put another way, seven hundred kilograms is about thirty-five percent of the Tourbillon's entire weight. A battery bigger than a third of a whole car. That is the price of going fully electric, and it is the reason the Nevera needs so much power to be this fast.",
+   "query": "Rimac Nevera chassis",
+   "caption": "700 KG = 35% OF A TOURBILLON",
+   "cuts": 3
+  },
+  {
+   "text": "Quickness off the line is another place to look. TechRadar says the Tourbillon's zero to sixty-two miles per hour in less than two seconds is faster than the Chiron, which takes two point four. And it says the car reaches one hundred eighty-six miles per hour in under ten seconds, against thirteen point one for its predecessor.",
+   "query": "Bugatti Chiron",
+   "caption": "FASTER THAN THE CHIRON",
+   "cuts": 3
+  },
+  {
+   "text": "How the hybrid part works matters here too. TechRadar says two electric motors sit on the front axle and one on the rear. Automoblog says the battery is an eight hundred volt, oil-cooled pack, and the motors use silicon carbide inverters. In electric mode, TechRadar says, the Tourbillon has about seven hundred eighty-nine brake horsepower to play with.",
+   "query": "Bugatti Tourbillon hybrid system",
+   "caption": "800 V \u00b7 OIL-COOLED \u00b7 789 BHP IN EV MODE",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia lists the Nevera's battery at one hundred twenty kilowatt-hours. The Tourbillon's is a twenty-five kilowatt-hour pack, which Wikipedia puts at twenty-four point eight. By our arithmetic, the Nevera's battery is almost five times larger.",
+   "query": "Rimac Nevera battery pack",
+   "caption": "120 KWH VS 24.8 KWH",
+   "cuts": 3,
+   "chapter": "Round three: batteries, range and charging"
+  },
+  {
+   "text": "Range follows. Wikipedia gives the Nevera four hundred ninety kilometres on the W L T P test, which is about three hundred four miles. For the Tourbillon, Automoblog and Wikipedia say up to sixty kilometres, about thirty-seven miles, in electric mode only.",
+   "query": "Rimac Nevera range",
+   "caption": "490 KM VS 60 KM ON ELECTRICITY",
+   "cuts": 3
+  },
+  {
+   "text": "There is a caveat. Wikipedia lists the Nevera's range as four hundred ninety kilometres on the W L T P cycle, and six hundred forty-seven on the older N E D C. Different tests give different numbers, and real driving at very high speed would use the battery far faster. We quote the official figures, and nothing more.",
+   "query": "Electric car dashboard",
+   "caption": "OFFICIAL TESTS, NOT REAL DRIVING",
+   "cuts": 3
+  },
+  {
+   "text": "Those two numbers show the philosophy. The Nevera is a car you can actually drive on electricity. The Tourbillon uses its battery as a power boost and for quiet short trips. When the battery runs out, the sixteen-cylinder engine is waiting.",
+   "query": "Bugatti Tourbillon",
+   "caption": "BATTERY AS A BOOSTER",
+   "cuts": 3
+  },
+  {
+   "text": "Charging is the other side. Wikipedia says the Nevera can fast-charge to eighty percent in under thirty minutes. The Tourbillon is a plug-in hybrid, so it can charge too, but we found no published fast-charging time for it, and we will not guess.",
+   "query": "Electric car charging",
+   "caption": "NEVERA: 80% IN UNDER 30 MIN",
+   "cuts": 3
+  },
+  {
+   "text": "What does a full charge cost? The American Energy Information Administration average, reported in March twenty twenty-five by This Old House, was seventeen point oh one cents per kilowatt-hour. By our own arithmetic, filling a hundred twenty kilowatt-hour battery at that price costs about twenty dollars and forty cents. Filling the Tourbillon's costs about four dollars twenty.",
+   "query": "Home charging price",
+   "caption": "OUR ARITHMETIC: ~$20 VS ~$4",
+   "cuts": 3
+  },
+  {
+   "text": "That is an estimate, using the national average. In Hawaii, the same source gives forty-one point one one cents, and in Nebraska ten point eight nine. But the point stands. Nobody buys a two million euro hypercar to save on fuel. They buy it for what the two cars can do.",
+   "query": "Electric meter",
+   "caption": "ENERGY PRICE VARIES BY STATE",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the warranty, which is a hint of how Rimac sees its own battery. According to Indigo Auto Group, in January twenty twenty-four Rimac extended the Nevera's warranty to eight years with unlimited miles, with the battery guaranteed to keep at least seventy-five percent of its capacity.",
+   "query": "Rimac Nevera warranty",
+   "caption": "8 YEARS, UNLIMITED MILES",
+   "cuts": 3
+  },
+  {
+   "text": "Now the question everyone wants answered. Wikipedia says the Nevera reached four hundred twelve kilometres per hour, about two hundred fifty-six miles per hour, in videos published in November twenty twenty-two. And in August twenty twenty-four, Rimac said the Nevera R reached four hundred thirty-one point six.",
+   "query": "Rimac Nevera top speed",
+   "caption": "412 KM/H \u00b7 NEVERA R: 431.6",
+   "cuts": 3,
+   "chapter": "Round four: speed and records"
+  },
+  {
+   "text": "The Tourbillon is different. Automoblog and Wikipedia say its top speed is electronically limited to three hundred eighty kilometres per hour, about two hundred thirty-six miles per hour. With a special speed key, the limit rises to four hundred forty-five kilometres per hour, about two hundred seventy-six miles per hour.",
+   "query": "Bugatti Tourbillon top speed",
+   "caption": "380 KM/H, OR 445 WITH THE KEY",
+   "cuts": 3
+  },
+  {
+   "text": "Read that carefully. Bugatti's number is a limit. The Nevera's four hundred twelve was a measured run. And TechRadar says that Bugatti is being coy about potential top speeds, and that the car has plenty left to chase the production car record. So nobody has yet shown what the Tourbillon can do.",
+   "query": "Bugatti Tourbillon",
+   "caption": "A LIMIT IS NOT A RECORD",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration is where the Nevera has already proved itself. Wikipedia says that on the seventeenth of May, twenty twenty-three, the Nevera set twenty-three records. It went from zero to one hundred kilometres per hour in one point eight two seconds, and ran the quarter mile in eight point two five.",
+   "query": "Rimac Nevera acceleration",
+   "caption": "0\u2013100 KM/H IN 1.82 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "The Tourbillon is expected to be as quick. Wikipedia says Bugatti expects zero to one hundred in under two seconds, zero to two hundred in under five, zero to three hundred in under ten, and zero to four hundred in under twenty-five. Notice the words: expects. These are targets, not measurements.",
+   "query": "Bugatti Tourbillon acceleration",
+   "caption": "TARGETS, NOT RESULTS",
+   "cuts": 3
+  },
+  {
+   "text": "And here is a trap. The Nevera's famous zero to four hundred and back to zero record, set at twenty-nine point nine three seconds, includes the braking. The Tourbillon's under twenty-five seconds is only the way up. They measure different things. Comparing them directly would be unfair, and we will not do it.",
+   "query": "Rimac Nevera 0-400-0",
+   "caption": "DIFFERENT TESTS, DIFFERENT RESULTS",
+   "cuts": 3
+  },
+  {
+   "text": "For the record, Wikipedia says the Nevera R then took twenty-four records on the tenth of July, twenty twenty-five, including zero to four hundred and back to zero in twenty-five point seven nine seconds. It says the previous holder, the Koenigsegg Jesko Absolut, took twenty-seven point nine three.",
+   "query": "Rimac Nevera R record",
+   "caption": "NEVERA R: 25.79 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "On the track, the Nevera also has results. Wikipedia lists forty-nine point three two seconds at the Goodwood hillclimb, and seven minutes five point two nine eight seconds at the N\u00fcrburgring, set in August twenty twenty-three by Kodri\u0107. We did not find a published lap time for the Tourbillon.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "N\u00dcRBURGRING: 7:05.298",
+   "cuts": 3
+  },
+  {
+   "text": "So why would Bugatti build a sixteen-cylinder engine in the age of electric cars? Wikipedia says the Tourbillon shares no parts with the Chiron, and its engine is all new, the first all-new Bugatti petrol engine since the Veyron and Chiron.",
+   "query": "Bugatti Tourbillon V16",
+   "caption": "AN ALL-NEW V16",
+   "cuts": 3,
+   "chapter": "Why Bugatti kept the sixteen cylinders"
+  },
+  {
+   "text": "Automoblog says it has no turbochargers, unlike the Chiron. The Chiron's sixteen-cylinder engine was turbocharged. This one breathes naturally, and Automoblog notes that this means one thousand horsepower without any help from turbos, and a redline of nine thousand r p m.",
+   "query": "Bugatti V16 engine bay",
+   "caption": "NO TURBOS, 9,000 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "Automoblog quotes Mate Rimac saying that beauty, performance and luxury formed the blueprint for the Tourbillon, a car more elegant, more emotive and more luxurious than anything before it. He also quotes Ettore Bugatti's mantras: if comparable, it is no longer Bugatti. And, nothing is too beautiful.",
+   "query": "Ettore Bugatti",
+   "caption": "\"IF COMPARABLE, IT IS NO LONGER BUGATTI\"",
+   "cuts": 3
+  },
+  {
+   "text": "Look at it from the Nevera's side. A car that makes eighteen hundred eighty-eight horsepower from batteries has no engine noise to give. Rimac's argument is that electricity delivers more. Bugatti's argument is that some things cannot be replaced. Neither company says it is wrong, and both can point to numbers.",
+   "query": "Rimac Nevera",
+   "caption": "TWO PHILOSOPHIES",
+   "cuts": 3
+  },
+  {
+   "text": "Inside the Tourbillon, the first thing you notice is a watch. The name comes from a mechanism found in expensive mechanical watches. Automoblog says the instruments were designed and built with Swiss watchmakers and have more than six hundred parts, in titanium, sapphire and ruby.",
+   "query": "Bugatti Tourbillon interior",
+   "caption": "600+ PARTS \u00b7 TITANIUM, SAPPHIRE, RUBY",
+   "cuts": 3,
+   "chapter": "Round five: what you touch and see"
+  },
+  {
+   "text": "TechRadar says the driver wakes the V sixteen by pulling an organ stop lever, like an old choke, and the start button in the centre console is cut from crystal glass. The steering wheel turns around a fixed centre, so the gauges stay in view no matter how you steer.",
+   "query": "Bugatti Tourbillon steering wheel",
+   "caption": "THE WHEEL TURNS, THE GAUGES DON'T",
+   "cuts": 3
+  },
+  {
+   "text": "Automoblog adds that the stereo has no conventional speakers or subwoofers, and that a screen rises from the centre console only when wanted. TechRadar says the doors open upward, as dihedral doors, driven by electric motors. An old craft, and new technology, in one cabin.",
+   "query": "Bugatti Tourbillon doors",
+   "caption": "A SCREEN THAT HIDES",
+   "cuts": 3
+  },
+  {
+   "text": "The Nevera takes the opposite route. Rimac pushes technology to the front. We covered the Nevera's driver coach and sensors in another video of this series, and we will not repeat the details here. The point is that one cabin celebrates a mechanical past, and the other a digital future.",
+   "query": "Rimac Nevera interior",
+   "caption": "MECHANICAL PAST VS DIGITAL FUTURE",
+   "cuts": 3
+  },
+  {
+   "text": "Now money. CNBC puts the Nevera at about two million euros, or two point one million dollars. Motor1 reports a sticker price of two million one hundred thirty-six thousand euros in twenty twenty-three, with extras like a carbon package at eighty thousand. Top Gear gave the price as one point seven million pounds. Sources differ.",
+   "query": "Rimac Nevera price",
+   "caption": "NEVERA: ~\u20ac2M",
+   "cuts": 3,
+   "chapter": "Round six: price and rarity"
+  },
+  {
+   "text": "The Tourbillon starts at three point eight million euros, according to Wikipedia and Automoblog, which is about four point one million dollars. By our own arithmetic, that is between about one point eight and one point nine times the Nevera's price. A gap of roughly one point six million euros, using Motor1's figure.",
+   "query": "Bugatti Tourbillon price",
+   "caption": "TOURBILLON: \u20ac3.8M",
+   "cuts": 3
+  },
+  {
+   "text": "Rarity points the other way. Rimac plans one hundred fifty Neveras. Bugatti plans two hundred fifty Tourbillons. So the more expensive car is also the more common one. TechRadar says around eighty would be built per year. By our arithmetic, that is about three years of production.",
+   "query": "Bugatti Molsheim",
+   "caption": "150 NEVERAS \u00b7 250 TOURBILLONS",
+   "cuts": 3
+  },
+  {
+   "text": "Timing is not settled either. One source says first customer deliveries were expected in twenty twenty-six. TechRadar says some customers may get theirs as late as twenty thirty. We will not choose between them. The two sources disagree, and the car was still in testing when they wrote.",
+   "query": "Bugatti Tourbillon testing",
+   "caption": "WHEN DO DELIVERIES START?",
+   "cuts": 3
+  },
+  {
+   "text": "And the Nevera is already in customers' hands. Wikipedia says the first car went to Nico Rosberg in August twenty twenty-two, with deliveries in the United States starting in June twenty twenty-three. Motor1 reports a used one with just one thousand three hundred forty-one miles reaching a bid of over one million dollars on Bring a Trailer in March twenty twenty-five.",
+   "query": "Nico Rosberg Rimac Nevera",
+   "caption": "DELIVERED SINCE AUGUST 2022",
+   "cuts": 3
+  },
+  {
+   "text": "That bid is not a final price, and we do not claim it is. But it is a sign that a used Nevera, at that moment, was attracting serious money. For the Tourbillon, with deliveries only starting, there is no used market yet to compare.",
+   "query": "Bring a Trailer auction",
+   "caption": "USED NEVERA: $1M+ BID",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the part that makes this comparison unusual. Wikipedia says Bugatti Rimac was formed in November twenty twenty-one. Rimac Group held fifty-five percent, and Porsche forty-five. Mate Rimac became its chief executive. So the same person is responsible for the electric hypercar and the one with a sixteen-cylinder engine.",
+   "query": "Mate Rimac Bugatti",
+   "caption": "BUGATTI RIMAC, NOVEMBER 2021",
+   "cuts": 3,
+   "chapter": "The twist: one man behind both"
+  },
+  {
+   "text": "Wikipedia says Rimac's story began with an old BMW E thirty, which he converted to electric power after its petrol engine blew up. Rivals called it a washing machine. Today the same man is chief executive of the company that built a sixteen-cylinder Bugatti. That is an unusual place for an electric pioneer.",
+   "query": "Mate Rimac BMW E30",
+   "caption": "FROM A GARAGE TO BUGATTI",
+   "cuts": 3
+  },
+  {
+   "text": "One caution about ownership. Wikipedia says that in April twenty twenty-six, Porsche sold its stake to H O F Capital. Ownership of the company may keep changing, so we will not state the current split as fact. What stays fixed is the point: these two cars are not rivals from two companies. They are siblings.",
+   "query": "Bugatti Rimac Molsheim",
+   "caption": "SIBLINGS, NOT RIVALS",
+   "cuts": 3
+  },
+  {
+   "text": "That helps explain the numbers. The Tourbillon is lighter and more refined. The Nevera is quicker off the line and has records. Neither car was designed to beat the other. They were designed to show two different roads to the same destination, by the same people.",
+   "query": "Rimac Nevera and Bugatti Tourbillon",
+   "caption": "TWO ROADS, ONE DESTINATION",
+   "cuts": 3
+  },
+  {
+   "text": "Think about what each car asks of its owner. The Nevera asks for a charger, and a warranty that covers the battery for eight years. The Tourbillon asks for petrol and a plug, and its sixteen-cylinder engine has to be serviced like any engine. We found no published service prices for either car, so we cannot compare running costs.",
+   "query": "Hypercar garage",
+   "caption": "RUNNING COSTS: NO PUBLISHED FIGURES",
+   "cuts": 3
+  },
+  {
+   "text": "So who wins? On power, the Nevera, by about six percent. On weight and power-to-weight, the Tourbillon. On battery and range, the Nevera, by far. On measured records, the Nevera, as the Tourbillon has none we could find. On price, the Nevera is cheaper. On cabin craft, the Tourbillon.",
+   "query": "Rimac Nevera vs Bugatti Tourbillon",
+   "caption": "SCORECARD",
+   "cuts": 3,
+   "chapter": "The verdict"
+  },
+  {
+   "text": "But these numbers are only the start. A hypercar is not bought for a lap time. The Nevera is a showcase for what batteries and motors can do. The Tourbillon is a showcase for what a naturally aspirated engine can still do. Each one will matter to its fans for a different reason.",
+   "query": "Hypercar side by side",
+   "caption": "DIFFERENT REASONS TO WANT EACH",
+   "cuts": 3
+  },
+  {
+   "text": "We also want to be clear about what this video cannot tell you. The Tourbillon had not yet reached customers in the sources we read, so its real-world results are still to come. When owners and testers publish measured numbers, the scorecard may change. We will update our figures when they do.",
+   "query": "Bugatti Tourbillon",
+   "caption": "THE SCORECARD MAY CHANGE",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you choose, the electric storm or the sixteen-cylinder watch? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Nevera, work out what an electric hypercar really costs, and tell the story of the kid from Croatia who ended up running Bugatti.",
+   "query": "Rimac Nevera",
+   "caption": "WHICH WOULD YOU CHOOSE?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you want to spend your money on something you can actually drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more comparisons between the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

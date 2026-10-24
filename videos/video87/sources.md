@@ -1,0 +1,11 @@
+- Autoblog, A rare 1-of-150 $2.2M Rimac Nevera just landed on Bring a Trailer: https://www.autoblog.com/news/a-rare-1-of-150-2-2m-rimac-nevera-just-lander-on-bring-a-trailer
+- Carscoops, We're about to find out what Rimac's Nevera is worth on the open market (1 April 2025): https://www.carscoops.com/2025/04/were-about-to-see-what-a-rimac-nevera-is-worth-on-the-open-market/
+- autoevolution, 2023 Rimac Nevera fails to sell (8 April 2025): https://www.autoevolution.com/news/2023-rimac-nevera-fails-to-sell-127-million-bid-falls-way-short-of-233-million-msrp-249664.html
+- Motor1, For sale: Rimac Nevera, barely driven: https://www.motor1.com/news/755011/used-rimac-never-for-sale-bring-a-trailer/
+- The Classic Valuer, Price guide: Rimac Nevera: https://www.theclassicvaluer.com/cars/rimac/nevera
+- TechCrunch, Rimac Nevera R (16 August 2024): https://techcrunch.com/2024/08/16/rimac-squeezes-more-power-into-its-new-all-electric-hypercar-nevera-r-and-it-only-starts-at-2-5-million
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Top Gear, Rimac Nevera (battery pack)
+- Indigo Auto Group, Rimac Nevera warranty extension (23 January 2024)
+- CNBC, Rimac Nevera price coverage
+- This Old House, average electricity cost per kWh by state (EIA, March 2025)

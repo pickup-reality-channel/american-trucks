@@ -1,0 +1,12 @@
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Wikipedia, Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon
+- Wikipedia, Mate Rimac: https://en.wikipedia.org/wiki/Mate_Rimac
+- Wikipedia, Bugatti Rimac: https://en.wikipedia.org/wiki/Bugatti_Rimac
+- Automoblog, Bugatti Tourbillon: https://www.automoblog.com/bugatti-tourbillon/
+- TechRadar, Meet Bugatti's new Tourbillon: https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/meet-bugattis-new-tourbillon-a-luxury-watch-inspired-hybrid-that-hits-1775bhp-and-rips-up-the-performance-car-rulebook
+- Yahoo / Business Insider, Bugatti's $4 million hypercar: https://ca.news.yahoo.com/bugattis-4-million-hypercar-1-122818250.html
+- Top Gear, Rimac Nevera review
+- Indigo Auto Group, Rimac Nevera warranty extension (23 January 2024)
+- CNBC, Rimac Nevera price coverage
+- Motor1, Rimac Nevera pricing and Bring a Trailer sale (March 2025)
+- This Old House, average electricity cost per kWh by state (EIA, March 2025)
