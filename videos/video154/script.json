@@ -1,0 +1,351 @@
+{
+ "id": "video154",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "DeLorean vs Cybertruck: Two Stainless Steel Bets",
+ "scenes": [
+  {
+   "text": "Two vehicles, forty years apart, both with unpainted stainless steel bodies and big promises. The DeLorean DMC-12 targeted twelve thousand dollars and launched at twenty-five thousand. The Tesla Cybertruck was shown at thirty-nine thousand, nine hundred ninety and launched at sixty thousand, nine hundred ninety. This video compares the two bets using published numbers, and shows where they are not comparable.",
+   "query": "DeLorean vs Cybertruck",
+   "caption": "DELOREAN vs CYBERTRUCK: TWO STAINLESS STEEL BETS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia pages on the DeLorean DMC-12, the Cybertruck, John DeLorean and the Texas DeLorean company, plus Business Insider, Yahoo Autos, InsideEVs and ThePricer. The pages sometimes disagree with each other, and the two vehicles were sold in very different eras. Our own arithmetic is labelled.",
+   "query": "Two stainless steel bets",
+   "caption": "SOURCES: WIKIPEDIA (DMC-12 \u00b7 CYBERTRUCK \u00b7 JOHN DELOREAN \u00b7 DMC TEXAS) \u00b7 BUSINESS INSIDER \u00b7 YAHOO AUTOS \u00b7 INSIDEEVS \u00b7 THEPRICER \u00b7 OUR ARITHMETIC IS LABELLED \u00b7 DIFFERENT ERAS, NOT LIKE-FOR-LIKE",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the price promise. For the DeLorean, Wikipedia says the name DMC-12 came from a target price of twelve thousand dollars, and the production car launched in nineteen eighty-one at twenty-five thousand. By our arithmetic, that is a hundred and eight percent above the target. The car's final price in nineteen eighty-three was thirty-four thousand.",
+   "query": "DeLorean price",
+   "caption": "WIKIPEDIA: '12' FROM A $12,000 TARGET \u00b7 1981 LAUNCH $25,000 = +108% \u00b7 1983 $34,000 (OUR ARITHMETIC)",
+   "cuts": 5,
+   "chapter": "The first promise: price"
+  },
+  {
+   "text": "For the Cybertruck, Wikipedia says the twenty nineteen reveal promised a base price of thirty-nine thousand, nine hundred dollars, targeted for late twenty twenty-one. At the delivery event on the thirtieth of November twenty twenty-three, Tesla priced the rear-drive at sixty thousand, nine hundred ninety, the all-wheel-drive at seventy-nine thousand, nine hundred ninety, and the Cyberbeast at ninety-nine thousand, nine hundred ninety.",
+   "query": "Cybertruck price",
+   "caption": "WIKIPEDIA: 2019 REVEAL \u2014 BASE $39,900 (LATE 2021 TARGET) \u00b7 30 NOV 2023 \u2014 RWD $60,990 \u00b7 AWD $79,990 \u00b7 CYBERBEAST $99,990",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the rear-drive price is fifty-three percent above the twenty nineteen base price. The Wikipedia page quotes a range of fifty-three to sixty-four percent for the increases, but we can only reproduce the fifty-three percent from our notes. The higher trims were not in the twenty nineteen price list we have, so a like-for-like comparison is not possible.",
+   "query": "Cybertruck price rise",
+   "caption": "$60,990 \u00f7 $39,900 = +52.9% (OUR ARITHMETIC) \u00b7 WIKIPEDIA RANGE 53\u201364% \u2014 UPPER END NOT REPRODUCIBLE FROM OUR NOTES",
+   "cuts": 3
+  },
+  {
+   "text": "So both vehicles launched above the number first said out loud. The DeLorean overshoot was bigger in percentage terms, a hundred and eight percent against fifty-three. But the Cybertruck then changed again. In April twenty twenty-five, Wikipedia says, a Long Range model came at sixty-nine thousand, nine hundred ninety, nine thousand dollars above the original rear-drive price.",
+   "query": "Which overshot more?",
+   "caption": "DELOREAN +108% vs CYBERTRUCK RWD +53% (OUR ARITHMETIC) \u00b7 WIKIPEDIA: LONG RANGE (APR 2025) $69,990 = +$9,000 vs ORIGINAL $60,990 (+14.8%, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Later, the price moved down. Wikipedia says that in February twenty twenty-six the all-wheel-drive was cut to fifty-nine thousand, nine hundred ninety, with delivery beginning in April twenty twenty-seven. By our arithmetic, that is twenty-five percent below the original seventy-nine thousand, nine hundred ninety. The page also says the Long Range was discontinued in September twenty twenty-five.",
+   "query": "A price cut",
+   "caption": "WIKIPEDIA: AWD CUT TO $59,990 (FEB 2026), DELIVERY FROM APR 2027 \u00b7 $59,990 \u00f7 $79,990 = \u221225.0% (OUR ARITHMETIC) \u00b7 LONG RANGE DISCONTINUED SEPT 2025",
+   "cuts": 3
+  },
+  {
+   "text": "Now time. The DeLorean's first prototype appeared in October nineteen seventy-six, according to Wikipedia, and production began in December nineteen eighty. By our arithmetic, that is four years and two months. The first production car was announced on the twenty-first of January nineteen eighty-one, in a factory at Dunmurry, near Belfast.",
+   "query": "DeLorean timeline",
+   "caption": "WIKIPEDIA: PROTOTYPE 1 OCT 1976 \u2192 PRODUCTION DEC 1980 \u2248 4 YR 2 MO (OUR ARITHMETIC) \u00b7 FIRST PRODUCTION CAR ANNOUNCED 21 JAN 1981 \u00b7 DUNMURRY, NEAR BELFAST",
+   "cuts": 3,
+   "chapter": "The second promise: time"
+  },
+  {
+   "text": "The Cybertruck concept was unveiled on the twenty-first of November twenty nineteen. Customer deliveries began on the thirtieth of November twenty twenty-three. By our arithmetic, that is four years and nine days. Tesla had targeted production for late twenty twenty-one, so, by the same arithmetic, deliveries were about two years late.",
+   "query": "Cybertruck timeline",
+   "caption": "WIKIPEDIA: UNVEILED 21 NOV 2019 \u2192 DELIVERIES 30 NOV 2023 = 4 YEARS 9 DAYS \u00b7 TARGET LATE 2021 \u2192 ~2 YEARS LATE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Wikipedia page adds the stages: first unit assembled at Gigafactory Texas in July twenty twenty-three, which Tesla later called pilot production, and a delivery event with final pricing and specifications. The reveal promised up to five hundred miles of range. The production truck was rated at three hundred forty, according to the same page.",
+   "query": "Specifications changed",
+   "caption": "WIKIPEDIA: FIRST UNIT JULY 2023 (PILOT PRODUCTION) \u00b7 2019 PROMISE: UP TO 500 MI \u00b7 PRODUCTION RATING: 340 MI \u2192 \u221232% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The DeLorean's promises changed too. Wikipedia lists a claimed zero to sixty of eight point eight seconds against a measured ten point five, and a claimed top speed of a hundred thirty against a hundred ten tested. So both vehicles had gaps between the first claim and the delivered figure, though the Cybertruck's gap was in range and the DeLorean's in speed.",
+   "query": "Claims vs delivered",
+   "caption": "DELOREAN: 0\u201360 8.8 CLAIMED vs 10.5 MEASURED \u00b7 TOP SPEED 130 vs 110 (WIKIPEDIA) \u00b7 CYBERTRUCK: 500 MI PROMISED vs 340 RATED (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider's December twenty nineteen piece quotes Tesla's own claims for the then-unreleased truck: tri-motor trim, five hundred miles of range, zero to sixty in two point nine seconds, and towing over fourteen thousand pounds. Wikipedia later lists the Cyberbeast at two point six seconds, and towing of eleven thousand pounds for the all-wheel-drive. The numbers moved in both directions.",
+   "query": "Claims over time",
+   "caption": "BUSINESS INSIDER (DEC 2019, TESLA CLAIMS): 500 MI \u00b7 0\u201360 2.9 S \u00b7 TOWING >14,000 LB \u00b7 WIKIPEDIA (PRODUCTION): CYBERBEAST 0\u201360 2.6 S \u00b7 AWD TOWING 11,000 LB",
+   "cuts": 3
+  },
+  {
+   "text": "Both vehicles are known for stainless steel, and Business Insider noted in December twenty nineteen that apart from a few one-off promotional cars, automakers have not used it for production vehicles. The DeLorean's body is brushed SAE three-oh-four stainless steel over a fibreglass underbody, per Wikipedia, and left unpainted. The chassis is a steel backbone derived from the Lotus Esprit.",
+   "query": "DeLorean's steel",
+   "caption": "BUSINESS INSIDER (DEC 2019): STAINLESS RARELY USED IN PRODUCTION CARS \u00b7 WIKIPEDIA: DELOREAN = BRUSHED SAE 304 OVER FIBREGLASS UNDERBODY; STEEL BACKBONE CHASSIS FROM LOTUS ESPRIT",
+   "cuts": 3,
+   "chapter": "The steel"
+  },
+  {
+   "text": "The Cybertruck is different in structure. Wikipedia says its stainless panels are three-hundred-series steel, one point eight millimetres on the doors and one point four on the body, which is zero point zero seven one and zero point zero five five inches. The panels are laser-cut and bent rather than stamped, using a method Tesla calls air bending.",
+   "query": "Cybertruck's steel",
+   "caption": "WIKIPEDIA: 300-SERIES STAINLESS \u00b7 DOORS 1.8 MM (0.071 IN) \u00b7 BODY 1.4 MM (0.055 IN) \u00b7 LASER-CUT AND BENT, NOT STAMPED ('AIR BENDING')",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider reported that Tesla calls the material ultra-hard thirty-X cold-rolled stainless steel, which it says is superior to three-oh-four. The Wikipedia page we read does not mention thirty-X. That is a discrepancy between two sources for the same truck, and it is Tesla's own marketing name, not a measured result we can verify.",
+   "query": "30X claim",
+   "caption": "BUSINESS INSIDER (DEC 2019): TESLA CALLS IT 'ULTRA-HARD 30X COLD-ROLLED STAINLESS STEEL', 'SUPERIOR TO 304' \u00b7 WIKIPEDIA PAGE DOES NOT MENTION '30X' \u00b7 COMPANY MARKETING NAME, NOT INDEPENDENTLY VERIFIED",
+   "cuts": 3
+  },
+  {
+   "text": "The DeLorean's steel pitch was modest. Business Insider says it was that scratches could be buffed out, and called the shimmering skin mostly marketing. The Cybertruck's pitch, per InsideEVs, is that Tesla markets it as dent-proof, rust-proof and even bulletproof, which the article says are not exactly accurate. We are quoting those as claims and critiques, not testing them.",
+   "query": "The pitches",
+   "caption": "BUSINESS INSIDER: DELOREAN PITCH \u2014 SCRATCHES CAN BE BUFFED OUT; 'MOSTLY MARKETING' \u00b7 INSIDEEVS (21 DEC 2024): TESLA MARKETS CYBERTRUCK AS DENT-PROOF, RUST-PROOF, BULLETPROOF \u2014 'NOT EXACTLY ACCURATE' (ARTICLE'S VIEW)",
+   "cuts": 3
+  },
+  {
+   "text": "Owners reported problems. Business Insider, republished on Yahoo Autos in March twenty twenty-four, said fingerprints were the most common complaint, along with orange specks. Tesla engineer Wes Morrill said on X that the specks were surface contamination from the factory or rail transport, not rust, and that they could be cleaned off easily. Elon Musk replied yeah.",
+   "query": "Specks and fingerprints",
+   "caption": "BUSINESS INSIDER / YAHOO AUTOS (10 MAR 2024): FINGERPRINTS = MOST COMMON COMPLAINT \u00b7 WES MORRILL (TESLA ENGINEER, ON X): ORANGE SPECKS = SURFACE CONTAMINATION, NOT RUSTING METAL \u00b7 MUSK REPLIED 'YEAH'",
+   "cuts": 3
+  },
+  {
+   "text": "The fixes cost money. The same article says four of six owners had wrapped their trucks or were in the process, and wraps cost upwards of five thousand dollars. One owner chose a clear protection film of about five thousand to prevent fingerprints. Barkeepers Friend was the most recommended cleaner. We have no equivalent cost record for DeLorean owners in these sources.",
+   "query": "Cost of keeping it clean",
+   "caption": "BUSINESS INSIDER / YAHOO: 4 OF 6 OWNERS WRAPPED OR WRAPPING \u00b7 WRAPS 'UPWARDS OF $5,000' \u00b7 CLEAR PPF \u2248 $5,000 \u00b7 BARKEEPERS FRIEND MOST RECOMMENDED \u00b7 DELOREAN EQUIVALENT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A repair example. InsideEVs, in December twenty twenty-four, reported that a Tesla collision centre quoted three thousand dollars to fix a dented Cybertruck door, with eight hundred twenty-eight of it for a new door panel. The owner fixed the dent with a friend for about twenty-five dollars, using a suction cup on a warmed panel. It is one owner's experience, as the article notes.",
+   "query": "A dent",
+   "caption": "INSIDEEVS (21 DEC 2024): TESLA QUOTE $3,000 ($828 DOOR PANEL) \u00b7 OWNER FIX \u2248 $25 \u00b7 ONE OWNER, ONE DENT \u00b7 $3,000 \u00f7 $25 = 120\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power and speed show the biggest gap. The DeLorean's V6 made one hundred thirty horsepower, and Business Insider quotes ten point five seconds to sixty. Wikipedia lists the Cybertruck at three hundred fifteen horsepower for the Long Range, six hundred for the all-wheel-drive, and eight hundred forty-five for the Cyberbeast, with zero-to-sixty times of six point two, four point one and two point six seconds.",
+   "query": "Power and 0\u201360",
+   "caption": "DELOREAN 130 HP \u00b7 10.5 S \u00b7 CYBERTRUCK LONG RANGE 315 HP / 6.2 S \u00b7 AWD 600 HP / 4.1 S \u00b7 CYBERBEAST 845 HP / 2.6 S (WIKIPEDIA; BUSINESS INSIDER)",
+   "cuts": 3,
+   "chapter": "The numbers"
+  },
+  {
+   "text": "By our arithmetic, the Cyberbeast has six and a half times the DeLorean's horsepower and gets to sixty in a quarter of the time. Even the slowest Cybertruck, the Long Range at six point two seconds, is forty-one percent quicker than the DeLorean's ten point five. Of course, forty years of progress separate them, so this is a measure of eras.",
+   "query": "Power arithmetic",
+   "caption": "845 \u00f7 130 = 6.5\u00d7 \u00b7 2.6 \u00f7 10.5 = 24.8% OF THE TIME \u00b7 6.2 vs 10.5 S = \u221241.0% (OUR ARITHMETIC; 1981 vs 2023)",
+   "cuts": 3
+  },
+  {
+   "text": "Size and weight. The Cybertruck is two hundred twenty-three point seven inches long, nearly eighty inches wide and seventy point seven tall, per Wikipedia, and weighs sixty-six hundred sixty pounds in all-wheel-drive form. The DeLorean's page lists a thirty-five foot turning circle and brake sizes, but no weight or length in our copy, so a size comparison is impossible from our sources.",
+   "query": "Size and weight",
+   "caption": "CYBERTRUCK: 223.74 IN L \u00b7 79.99 IN W \u00b7 70.7 IN H \u00b7 AWD 6,660 LB (WIKIPEDIA) \u00b7 DELOREAN: LENGTH / WEIGHT NOT IN OUR COPY \u2192 NO SIZE COMPARISON",
+   "cuts": 3
+  },
+  {
+   "text": "Battery weight alone is notable. Wikipedia lists the Cybertruck's pack at fifteen hundred ninety pounds. By our arithmetic, that is twenty-four percent of the truck's sixty-six hundred sixty pounds. The pack stores one hundred twenty-three kilowatt-hours and can charge at up to three hundred fifty kilowatts, according to the same page.",
+   "query": "The battery",
+   "caption": "WIKIPEDIA: PACK 1,590 LB \u00b7 123 KWH \u00b7 UP TO 350 KW CHARGING \u00b7 1,590 \u00f7 6,660 = 23.9% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Range and towing vary by trim. Wikipedia lists EPA range of three hundred thirty-one to three hundred sixty-two miles for the Long Range, three hundred fourteen to three hundred forty for all-wheel-drive, and three hundred one to three hundred twenty for the Cyberbeast. Towing is seventy-five hundred pounds for the Long Range and eleven thousand for all-wheel-drive. The DeLorean was not designed to tow, says Business Insider.",
+   "query": "Range and towing",
+   "caption": "WIKIPEDIA: LONG RANGE 331\u2013362 MI / 7,500 LB TOW \u00b7 AWD 314\u2013340 MI / 11,000 LB \u00b7 CYBERBEAST 301\u2013320 MI \u00b7 BUSINESS INSIDER: DELOREAN 'NOT MEANT TO TOW'",
+   "cuts": 3
+  },
+  {
+   "text": "Now what actually sold. Wikipedia estimates eighty-nine hundred seventy-five DeLoreans were built across three model years. About three thousand had been sold by the end of nineteen eighty-one, against seventy-five hundred built. By our arithmetic, a forty percent sell-through. The company was in receivership by February nineteen eighty-two.",
+   "query": "DeLorean sales",
+   "caption": "WIKIPEDIA: 8,975 BUILT (1981\u201383 BY VIN) \u00b7 END-1981: ~7,500 BUILT vs ~3,000 SOLD = 40% (OUR ARITHMETIC) \u00b7 RECEIVERSHIP FEB 1982",
+   "cuts": 3,
+   "chapter": "The sales"
+  },
+  {
+   "text": "The Cybertruck sold eleven thousand, six hundred eighty-eight by June twenty twenty-four, and thirty-eight thousand, nine hundred sixty-five in all of twenty twenty-four, per Kelley Blue Book as cited on Wikipedia. By our arithmetic, that single year is four and a third times the total DeLorean production. It was the best-selling electric pickup in the United States that year.",
+   "query": "Cybertruck sales",
+   "caption": "WIKIPEDIA: 11,688 BY JUNE 2024 \u00b7 38,965 IN 2024 (KBB) \u2192 4.34\u00d7 8,975 (OUR ARITHMETIC) \u00b7 BEST-SELLING US EV PICKUP IN 2024",
+   "cuts": 3
+  },
+  {
+   "text": "But the trend turned. Wikipedia says just over sixteen thousand were sold in the first three quarters of twenty twenty-five. Forbes reported sales were about ten percent of production capacity in April twenty twenty-five. The page also says forty-six thousand, ninety-six vehicles had been produced before the twenty-seventh of February twenty twenty-five, per a recall filing.",
+   "query": "Sales in 2025",
+   "caption": "WIKIPEDIA: ~16,000+ SOLD IN FIRST 3 QUARTERS OF 2025 \u00b7 FORBES (APR 2025): SALES \u2248 10% OF PRODUCTION CAPACITY \u00b7 46,096 PRODUCED BEFORE 27 FEB 2025 (RECALL FIGURE)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, sixteen thousand in three quarters averages about five thousand three hundred a quarter, down from about ten thousand a quarter in twenty twenty-four. That is a fall of roughly forty-five percent, based on rounded numbers. And the Foundation Series, capped at twenty-five thousand and sold at a twenty thousand dollar premium, ended in January twenty twenty-five.",
+   "query": "A slowing trend",
+   "caption": "16,000 \u00f7 3 \u2248 5,333/QUARTER vs 38,965 \u00f7 4 \u2248 9,741/QUARTER \u2192 \u221245% (OUR ARITHMETIC; ROUNDED) \u00b7 FOUNDATION SERIES: +$20,000, CAP 25,000, ENDED JAN 2025 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the preorders. Wikipedia says Elon Musk claimed two hundred fifty thousand preorders in the five days after the twenty nineteen unveiling, with a refundable hundred-dollar deposit, later raised to two hundred fifty. By our arithmetic, forty-six thousand produced is eighteen percent of two hundred fifty thousand, though deposits and sales are different things.",
+   "query": "Preorders vs production",
+   "caption": "WIKIPEDIA: 250,000 PREORDERS IN 5 DAYS (MUSK'S CLAIM) \u00b7 $100 REFUNDABLE DEPOSIT \u2192 $250 AFTER 30 NOV 2023 \u00b7 46,096 \u00f7 250,000 = 18.4% (OUR ARITHMETIC; DEPOSITS \u2260 SALES)",
+   "cuts": 3
+  },
+  {
+   "text": "The DeLorean's distribution was different. Wikipedia says that in March nineteen eighty-two telegrams asked all three hundred forty-three dealers to buy six cars each, and none responded with an order. By our arithmetic, that is a request for two thousand fifty-eight cars. It is a sign of how unsold the nineteen eighty-two stock was.",
+   "query": "Dealer telegram",
+   "caption": "WIKIPEDIA: MARCH 1982 \u2014 343 DEALERS ASKED TO BUY 6 CARS EACH \u00b7 NO ORDERS \u00b7 343 \u00d7 6 = 2,058 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Quality issues sit on both sides. Wikipedia says early DeLoreans needed up to two hundred hours of work at quality centres, and four recalls were issued. For the Cybertruck, the same site lists recalls for the accelerator pedal in April twenty twenty-four, the wiper in June, a trim panel in March twenty twenty-five, and wheel-rotor nuts in May twenty twenty-six.",
+   "query": "Recalls",
+   "caption": "WIKIPEDIA: DELOREAN \u2014 UP TO 200 HOURS OF QUALITY-CENTRE WORK \u00b7 4 RECALLS \u00b7 CYBERTRUCK \u2014 PEDAL (16 APR 2024) \u00b7 WIPER (18 JUN 2024) \u00b7 TRIM PANEL (20 MAR 2025) \u00b7 WHEEL-ROTOR NUTS (8 MAY 2026, 173 RWD TRUCKS)",
+   "cuts": 3,
+   "chapter": "Quality and recalls"
+  },
+  {
+   "text": "The page says ten recalls as of October twenty twenty-five, but its table lists eleven including May twenty twenty-six. That is a discrepancy inside the source. By our arithmetic, ten or eleven recalls over about two and a half years of deliveries is four to five a year, against four DeLorean recalls over about two years of production.",
+   "query": "Recall counts",
+   "caption": "WIKIPEDIA TEXT: 10 RECALLS (OCT 2025) vs TABLE: 11 (INCL. MAY 2026) \u00b7 10\u201311 \u00f7 ~2.4 YEARS \u2248 4\u20135/YEAR vs DELOREAN 4 IN ~2 YEARS (OUR ARITHMETIC; COUNTS NOT NORMALISED BY VOLUME)",
+   "cuts": 3
+  },
+  {
+   "text": "The recalls differ in scale. A recall counts every vehicle affected, and the Cybertruck's numbers are larger because far more were sold. The sources we read give vehicle counts for only one Cybertruck recall, 173 rear-drive trucks for the May twenty twenty-six wheel-rotor nut issue. We have no counts for the DeLorean recalls.",
+   "query": "Recall scale",
+   "caption": "WIKIPEDIA: MAY 2026 RECALL = 173 RWD TRUCKS \u00b7 OTHER CYBERTRUCK RECALL COUNTS AND DELOREAN RECALL COUNTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A design thread connects them. Wikipedia says Giorgetto Giugiaro, who designed the DeLorean, is credited with the origami design trend, and that he said in twenty twenty-three the Cybertruck would find admirers. Elon Musk, it adds, cited Blade Runner and Wet Nellie, the Lotus Esprit from The Spy Who Loved Me, as inspirations. Giugiaro also designed that Esprit.",
+   "query": "Giugiaro's thread",
+   "caption": "WIKIPEDIA: GIUGIARO (DELOREAN, LOTUS ESPRIT, BMW M1) SAID IN 2023 THE CYBERTRUCK WOULD FIND ADMIRERS \u00b7 MUSK CITED BLADE RUNNER AND 'WET NELLIE' (LOTUS ESPRIT, THE SPY WHO LOVED ME) \u00b7 GIUGIARO DESIGNED THE ESPRIT (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The designers and the founders"
+  },
+  {
+   "text": "Other designers disagreed. Wikipedia quotes Frank Stephenson calling the Cybertruck almost repulsive but saying it has the potential to be extremely beautiful, and Adrian Clarke calling it a low polygon joke. Those are opinions. The Cybertruck's design chief is Franz von Holzhausen, Business Insider says, with some input from Elon Musk.",
+   "query": "Opinions on the design",
+   "caption": "WIKIPEDIA: FRANK STEPHENSON \u2014 'ALMOST REPULSIVE\u2026 POTENTIAL TO BE EXTREMELY BEAUTIFUL' \u00b7 ADRIAN CLARKE \u2014 'LOW POLYGON JOKE' (OPINIONS) \u00b7 BUSINESS INSIDER: DESIGNED BY FRANZ VON HOLZHAUSEN WITH INPUT FROM MUSK",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider, in December twenty nineteen, called John DeLorean the most flamboyant personality in the car business of his day, and described Elon Musk as something of the John DeLorean of this era, though it says Musk had far exceeded DeLorean's achievements. That is the writer's comparison in twenty nineteen, not a fact we can test.",
+   "query": "Founders compared",
+   "caption": "BUSINESS INSIDER (DEC 2019): DELOREAN = 'MOST FLAMBOYANT PERSONALITY IN THE CAR BUSINESS OF HIS DAY' \u00b7 MUSK = 'SOMETHING OF THE JOHN DELOREAN OF THIS ERA' BUT FAR EXCEEDING HIS ACHIEVEMENTS (WRITER'S OPINION)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a big difference in what happened to the companies. Wikipedia says the DeLorean company filed for bankruptcy on the twenty-sixth of October nineteen eighty-two, days after John DeLorean's arrest on the nineteenth. Tesla is not in that position in any of our sources, and we do not speculate. The comparison is of two products, not two balance sheets.",
+   "query": "Companies",
+   "caption": "WIKIPEDIA: DELOREAN ARRESTED 19\u201320 OCT 1982 \u00b7 DMC BANKRUPT 26 OCT 1982 \u00b7 TESLA'S FINANCIAL POSITION: NOT IN OUR SOURCES \u2192 NO BALANCE-SHEET COMPARISON",
+   "cuts": 3
+  },
+  {
+   "text": "Resale. ThePricer says a standard DeLorean now costs roughly fifty to seventy-five thousand dollars in twenty twenty-six, with a manual premium of about ten percent. By our arithmetic, that is two to three times the original twenty-five thousand, unadjusted. Wikipedia adds that the original price equals about eighty-nine thousand dollars in twenty twenty-five money, so a used DeLorean sells below that.",
+   "query": "DeLorean today",
+   "caption": "THEPRICER (2026): $50,000\u2013$75,000 \u00b7 WIKIPEDIA: $25,000 (1981) \u2248 $89,000 IN 2025 DOLLARS \u2192 $50\u201375K = 56%\u201384% OF THAT (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Value today"
+  },
+  {
+   "text": "The Cybertruck's secondhand prices are not in our sources, so we cannot compare the two on resale. What we do have are new-price changes: from sixty thousand, nine hundred ninety to fifty-nine thousand, nine hundred ninety on the all-wheel-drive at one point. We will not invent a depreciation figure. A later video can revisit this when sources exist.",
+   "query": "Cybertruck resale",
+   "caption": "CYBERTRUCK USED PRICES / DEPRECIATION: NOT IN OUR SOURCES \u00b7 NEW PRICE: AWD $79,990 \u2192 $59,990 (FEB 2026, WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Prices from different eras need adjusting. Wikipedia converts the DeLorean's nineteen eighty-one price of twenty-five thousand dollars to about eighty-nine thousand in twenty twenty-five dollars. By our arithmetic, that is forty-six percent more than the Cybertruck's rear-drive launch price of sixty thousand, nine hundred ninety, and eleven percent more than the all-wheel-drive at seventy-nine thousand, nine hundred ninety.",
+   "query": "DeLorean in today's money",
+   "caption": "WIKIPEDIA: $25,000 (1981) \u2248 $89,000 (2025) \u00b7 $89,000 \u00f7 $60,990 = 1.46\u00d7 \u00b7 \u00f7 $79,990 = 1.11\u00d7 (OUR ARITHMETIC; DIFFERENT YEARS, TRIMS, EQUIPMENT)",
+   "cuts": 3,
+   "chapter": "In today's money"
+  },
+  {
+   "text": "The Cyberbeast at ninety-nine thousand, nine hundred ninety is about twelve percent above that inflation-adjusted DeLorean price, by our arithmetic. So in real terms, the DeLorean sat between the Cybertruck's all-wheel-drive and its top trim. That is a surprising place for a car with one hundred thirty horsepower and a measured zero to sixty of ten point five seconds.",
+   "query": "Against the top trim",
+   "caption": "$99,990 \u00f7 $89,000 = +12.3% (OUR ARITHMETIC) \u00b7 DELOREAN 130 HP / 10.5 S vs CYBERBEAST 845 HP / 2.6 S (WIKIPEDIA; BUSINESS INSIDER)",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider, in twenty nineteen, noted a different contrast: the DeLorean cost twenty-five thousand dollars and could not drive itself, while Tesla's top-spec Cybertruck was about seventy thousand plus seven thousand for full self-driving. Those were Tesla's announced figures at the time, not final prices, and the production prices were later set differently.",
+   "query": "Self-driving contrast",
+   "caption": "BUSINESS INSIDER (DEC 2019): DELOREAN $25,000, 'COULD NOT DRIVE ITSELF' \u00b7 CYBERTRUCK TOP SPEC ~$70,000 + $7,000 FSD (TESLA'S THEN-ANNOUNCED FIGURES) \u00b7 PRODUCTION PRICES LATER DIFFERED (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The Foundation Series shows the same habit of premium editions. Wikipedia says it carried a twenty thousand dollar premium and was capped at twenty-five thousand units. The DeLorean's equivalent was the gold-plated American Express car at eighty-five thousand dollars, planned for a hundred and sold twice. By our arithmetic, the Foundation cap was two hundred fifty times larger.",
+   "query": "Special editions",
+   "caption": "CYBERTRUCK FOUNDATION SERIES: +$20,000, CAP 25,000 \u00b7 DELOREAN GOLD CAR: $85,000, PLANNED 100, SOLD 2 (WIKIPEDIA) \u00b7 25,000 \u00f7 100 = 250\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed is one place they overlap. Wikipedia lists a hundred twelve miles per hour for the Long Range Cybertruck and a hundred thirty for the all-wheel-drive, though its table places the hundred thirty under the Cyberbeast and the text under the all-wheel-drive. The DeLorean was claimed at a hundred thirty and tested at a hundred ten.",
+   "query": "Top speeds",
+   "caption": "CYBERTRUCK: 112 MPH (LONG RANGE) \u00b7 130 MPH (AWD PER TEXT; CYBERBEAST PER TABLE \u2014 CONFLICT) \u00b7 DELOREAN: 130 CLAIMED, 110 TESTED (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Speed, charging and showmanship"
+  },
+  {
+   "text": "By our arithmetic, the slowest Cybertruck's hundred twelve is two percent above the DeLorean's tested hundred ten. After forty years, top speed barely moved for the base truck, while acceleration improved massively. That is partly because the Cybertruck is a work-oriented pickup with a rated tow capacity, and the DeLorean was a sports-car-shaped coupe that could not tow.",
+   "query": "Top speed arithmetic",
+   "caption": "112 vs 110 MPH = +1.8% (OUR ARITHMETIC) \u00b7 CYBERTRUCK LONG RANGE TOW 7,500 LB (WIKIPEDIA) \u00b7 DELOREAN 'NOT MEANT TO TOW' (BUSINESS INSIDER)",
+   "cuts": 3
+  },
+  {
+   "text": "Charging is something the DeLorean never needed. Wikipedia says the Cybertruck can add one hundred twenty-eight or one hundred thirty-six miles in fifteen minutes at four hundred volts, and charge at up to three hundred fifty kilowatts at eight hundred. By our arithmetic, one hundred thirty-six miles in fifteen minutes is about five hundred forty miles of range per hour of charging.",
+   "query": "Charging",
+   "caption": "WIKIPEDIA: +128 / +136 MI IN 15 MIN AT 400 V \u00b7 UP TO 350 KW AT 800 V \u00b7 136 MI \u00d7 4 = 544 MI PER HOUR (OUR ARITHMETIC; BEST-CASE FIGURE)",
+   "cuts": 3
+  },
+  {
+   "text": "Showmanship connects them. At the twenty nineteen reveal, Wikipedia says two Armor Glass windows shattered when metal balls were thrown at them, and Musk later blamed an earlier sledgehammer strike. For the DeLorean, the showmanship was the gold car, the celebrity circuit, and the show car at the National Automobile Dealers show in nineteen eighty.",
+   "query": "Reveal moments",
+   "caption": "WIKIPEDIA: CYBERTRUCK REVEAL 21 NOV 2019 \u2014 TWO 'ARMOR GLASS' WINDOWS SHATTERED; MUSK LATER BLAMED AN EARLIER SLEDGEHAMMER STRIKE \u00b7 DELOREAN: NADA SHOW CAR 1980 (VISIONEERING), GOLD CAR PROMOTION",
+   "cuts": 3
+  },
+  {
+   "text": "A drag race is a further example. Wikipedia says Musk described a race as a quarter mile, but footage analysis suggested an eighth of a mile. We report that as a disputed point on the page, not a conclusion of ours. It shows that performance claims, for Tesla as for DeLorean, were checked against evidence afterwards.",
+   "query": "A disputed race",
+   "caption": "WIKIPEDIA: MUSK SAID THE DRAG RACE WAS A QUARTER-MILE; FOOTAGE ANALYSIS SUGGESTED AN EIGHTH \u00b7 DISPUTED POINT, NOT RESOLVED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "One more difference is the supply chain. Business Insider, in twenty nineteen, argued that because no automaker builds cars from stainless steel today, there is no meaningful supply chain for it. For the DeLorean, the factory in Northern Ireland had funding of about a hundred million pounds, according to John DeLorean's Wikipedia page. The Cybertruck's funding is not in our sources.",
+   "query": "Supply and funding",
+   "caption": "BUSINESS INSIDER (DEC 2019): NO MEANINGFUL STAINLESS SUPPLY CHAIN IN CARS \u00b7 WIKIPEDIA: DELOREAN FACTORY ~\u00a3100 MILLION INCENTIVES \u00b7 CYBERTRUCK FUNDING: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the workforce. John DeLorean's page says the Dunmurry plant employed over two thousand workers at its peak, and produced around nine thousand cars. By our arithmetic, that is about four and a half cars per worker over the car's life, which is not a productivity figure, since the workforce changed over time and our sources give no yearly staffing.",
+   "query": "Workers per car",
+   "caption": "2,000+ WORKERS AT PEAK \u00b7 ~9,000 CARS \u2192 ~4.5 CARS PER PEAK WORKER (OUR ARITHMETIC; NOT A PRODUCTIVITY FIGURE; STAFFING BY YEAR NOT IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "And the rights to the name. The Texas DeLorean company, per Wikipedia, has no direct connection with the original firm and has faced lawsuits, including an Italdesign judgment of four point six million dollars in early twenty twenty-six. Tesla's trademark and design position is not covered in our sources. This is a story about two vehicles, and the DeLorean has an unusually messy afterlife.",
+   "query": "Afterlife",
+   "caption": "WIKIPEDIA (DMC TEXAS): NO DIRECT CONNECTION TO ORIGINAL COMPANY \u00b7 ITALDESIGN JUDGMENT $4.6 M (EARLY 2026) \u00b7 TESLA'S TRADEMARK / DESIGN POSITION: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "So which bet was better? On sales, the Cybertruck, with thirty-eight thousand in a year against a lifetime total of about nine thousand for the DeLorean. On time to market, they were similar, four years or so each. On price overshoot, the DeLorean was worse. On steel, both had issues, but the Cybertruck is a structural exoskeleton and the DeLorean a skin.",
+   "query": "Scorecard",
+   "caption": "SALES: CYBERTRUCK 38,965 (2024) vs DELOREAN ~8,975 LIFETIME \u00b7 TIME: ~4 YEARS EACH \u00b7 PRICE OVERSHOOT: +108% vs +53% \u00b7 STEEL: STRUCTURAL PANELS vs SKIN (OUR SUMMARY OF CITED FIGURES)",
+   "cuts": 3,
+   "chapter": "So which was the better bet?"
+  },
+  {
+   "text": "The honest answer is that they were bets in different times. The DeLorean was a small company with a government-backed factory, and its sales collapsed within two years. The Cybertruck came from a large manufacturer, and its sales were strong in year one and weaker later. Our sources do not allow a final verdict on the second.",
+   "query": "A fair verdict",
+   "caption": "DELOREAN: COLLAPSE WITHIN ~2 YEARS OF LAUNCH (WIKIPEDIA) \u00b7 CYBERTRUCK: STRONG 2024, WEAKER 2025 (WIKIPEDIA/FORBES) \u00b7 FINAL VERDICT ON CYBERTRUCK: NOT SUPPORTED BY OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. The DeLorean's weight and length. The Cybertruck's used prices. Dealer data for both. A consistent recall count for the Cybertruck. A test comparing both bodies for corrosion or dents under identical conditions. If you have a documented number, share it in the comments and we will update the description.",
+   "query": "DeLorean vs Cybertruck",
+   "caption": "NOT IN OUR SOURCES: DELOREAN WEIGHT/LENGTH \u00b7 CYBERTRUCK USED PRICES \u00b7 DEALER DATA \u00b7 CONSISTENT RECALL COUNT \u00b7 A CONTROLLED CORROSION / DENT TEST",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "Which stainless steel bet would you have taken, the gull-wing dream or the exoskeleton truck? Tell us in the comments. In the other videos of this series, we show two things you did not know about the DeLorean, count what it costs to own one, and tell the story of John DeLorean. Subscribe to Pickup Reality. The twenty twenty-seven Truck Buyer's Guide is linked in the description.",
+   "query": "DeLorean vs Cybertruck",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

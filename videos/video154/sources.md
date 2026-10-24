@@ -1,0 +1,8 @@
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, Tesla Cybertruck: https://en.wikipedia.org/wiki/Tesla_Cybertruck
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- Yahoo Autos (Business Insider), Forget rust spots: handprints are the bigger headache for Tesla Cybertruck drivers, 10 Mar 2024: https://autos.yahoo.com/forget-rust-spots-mdash-handprints-103702512.html
+- InsideEVs (Iulian Dnistran), Tesla wanted $3,000 to fix a dented Cybertruck. The owner fixed it for $25, 21 Dec 2024: https://insideevs.com/news/744851/tesla-cybertruck-diy-dent-removal-video/
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/
