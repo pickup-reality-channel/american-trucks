@@ -1,0 +1,2303 @@
+1
+00:00:00,000 --> 00:00:03,806
+The DeLorean DMC-12 launched at twenty-five thousand
+
+2
+00:00:03,806 --> 00:00:06,515
+dollars, and its name was supposed to
+
+3
+00:00:06,515 --> 00:00:07,906
+tell you the price.
+
+4
+00:00:08,086 --> 00:00:10,445
+Its shiny stainless steel body is not
+
+5
+00:00:10,445 --> 00:00:12,231
+what holds the car together.
+
+6
+00:00:12,411 --> 00:00:14,650
+Those are the two things we explain
+
+7
+00:00:14,650 --> 00:00:15,545
+in this video.
+
+8
+00:00:15,725 --> 00:00:18,114
+Roughly nine thousand were built,
+
+9
+00:00:18,114 --> 00:00:20,504
+and about six and a half thousand
+
+10
+00:00:20,504 --> 00:00:22,820
+were still on the road in twenty
+
+11
+00:00:22,820 --> 00:00:23,400
+fifteen.
+
+12
+00:00:23,580 --> 00:00:25,980
+Every figure here comes from a named
+
+13
+00:00:25,980 --> 00:00:26,447
+source.
+
+14
+00:00:26,798 --> 00:00:29,987
+We used Wikipedia's pages on the DMC
+
+15
+00:00:29,987 --> 00:00:33,708
+DeLorean, on John DeLorean and on DeLorean
+
+16
+00:00:33,708 --> 00:00:35,746
+Motor Company of Texas,
+
+17
+00:00:35,746 --> 00:00:37,695
+plus Business Insider,
+
+18
+00:00:37,695 --> 00:00:39,998
+Yahoo Autos and ThePricer.
+
+19
+00:00:40,178 --> 00:00:43,745
+Wikipedia's own figures sometimes disagree with each
+
+20
+00:00:43,745 --> 00:00:45,461
+other, and we show where.
+
+21
+00:00:45,641 --> 00:00:48,926
+Our own arithmetic is labelled as ours.
+
+22
+00:00:49,277 --> 00:00:49,996
+Thing one.
+
+23
+00:00:50,176 --> 00:00:52,938
+The twelve in DMC-12 was not a
+
+24
+00:00:52,938 --> 00:00:54,135
+model number.
+
+25
+00:00:54,315 --> 00:00:56,598
+According to Wikipedia,
+
+26
+00:00:56,598 --> 00:01:00,768
+the prototype's name changed from DSV-1 to
+
+27
+00:01:00,768 --> 00:01:03,348
+DSV-12 and then to DMC-12,
+
+28
+00:01:03,348 --> 00:01:06,922
+with the twelve coming from a target
+
+29
+00:01:06,922 --> 00:01:10,198
+price of twelve thousand dollars.
+
+30
+00:01:10,378 --> 00:01:13,951
+The company was formed in nineteen seventy-three,
+
+31
+00:01:13,951 --> 00:01:16,868
+after John DeLorean left General Motors.
+
+32
+00:01:17,218 --> 00:01:20,410
+The production car launched in nineteen eighty-one
+
+33
+00:01:20,410 --> 00:01:22,454
+at twenty-five thousand dollars.
+
+34
+00:01:22,634 --> 00:01:23,871
+By our arithmetic,
+
+35
+00:01:23,871 --> 00:01:26,346
+that is more than double the target,
+
+36
+00:01:26,346 --> 00:01:28,614
+one hundred eight percent higher,
+
+37
+00:01:28,614 --> 00:01:30,470
+and the name never changed.
+
+38
+00:01:30,650 --> 00:01:33,974
+Wikipedia gives the nineteen eighty-one price as
+
+39
+00:01:33,974 --> 00:01:37,851
+about eighty-nine thousand dollars in twenty twenty-five
+
+40
+00:01:37,851 --> 00:01:38,266
+money.
+
+41
+00:01:38,617 --> 00:01:40,393
+Prices kept rising.
+
+42
+00:01:40,573 --> 00:01:42,848
+Wikipedia lists twenty-nine thousand,
+
+43
+00:01:42,848 --> 00:01:46,353
+eight hundred twenty-five dollars for nineteen eighty-two
+
+44
+00:01:46,353 --> 00:01:49,489
+and thirty-four thousand for nineteen eighty-three.
+
+45
+00:01:49,669 --> 00:01:51,171
+By our arithmetic,
+
+46
+00:01:51,171 --> 00:01:54,009
+that is a rise of nineteen percent
+
+47
+00:01:54,009 --> 00:01:56,178
+and then fourteen percent,
+
+48
+00:01:56,178 --> 00:01:59,266
+or thirty-six percent in all from the
+
+49
+00:01:59,266 --> 00:02:00,350
+launch price.
+
+50
+00:02:00,530 --> 00:02:03,894
+A three-speed automatic added six hundred fifty
+
+51
+00:02:03,894 --> 00:02:04,466
+dollars.
+
+52
+00:02:04,817 --> 00:02:08,286
+Wikipedia converts those prices to twenty twenty-five
+
+53
+00:02:08,286 --> 00:02:11,428
+dollars: about one hundred thousand for nineteen
+
+54
+00:02:11,428 --> 00:02:14,243
+eighty-two and one hundred ten thousand for
+
+55
+00:02:14,243 --> 00:02:15,683
+nineteen eighty-three.
+
+56
+00:02:15,863 --> 00:02:18,111
+By that conversion the car at the
+
+57
+00:02:18,111 --> 00:02:20,154
+end of its life cost more than
+
+58
+00:02:20,154 --> 00:02:23,286
+four times the original twelve thousand dollar
+
+59
+00:02:23,286 --> 00:02:24,920
+target in today's money,
+
+60
+00:02:24,920 --> 00:02:26,146
+by our arithmetic,
+
+61
+00:02:26,146 --> 00:02:29,074
+though the target itself was never adjusted
+
+62
+00:02:29,074 --> 00:02:30,028
+in the source.
+
+63
+00:02:30,378 --> 00:02:31,991
+There was a gold car too.
+
+64
+00:02:32,171 --> 00:02:36,025
+Wikipedia says an American Express promotion offered
+
+65
+00:02:36,025 --> 00:02:40,102
+a gold-plated DeLorean for eighty-five thousand dollars
+
+66
+00:02:40,102 --> 00:02:40,472
+each.
+
+67
+00:02:40,652 --> 00:02:42,301
+The plan was for a hundred.
+
+68
+00:02:42,481 --> 00:02:44,048
+Only two were sold.
+
+69
+00:02:44,228 --> 00:02:45,595
+By our arithmetic,
+
+70
+00:02:45,595 --> 00:02:48,025
+that is two percent of the plan,
+
+71
+00:02:48,025 --> 00:02:50,530
+and the page also says three cars
+
+72
+00:02:50,530 --> 00:02:53,416
+were plated in twenty-four karat gold,
+
+73
+00:02:53,416 --> 00:02:56,605
+with the third assembled from spare parts.
+
+74
+00:02:56,955 --> 00:02:58,371
+Why did the price double?
+
+75
+00:02:58,551 --> 00:03:00,350
+The sources give pieces.
+
+76
+00:03:00,530 --> 00:03:02,714
+The company needed a factory,
+
+77
+00:03:02,714 --> 00:03:04,522
+a chassis and an engine,
+
+78
+00:03:04,522 --> 00:03:05,952
+and none was cheap.
+
+79
+00:03:06,132 --> 00:03:09,617
+Wikipedia lists a prototype in October nineteen
+
+80
+00:03:09,617 --> 00:03:13,917
+seventy-six, a Lotus evaluation in nineteen seventy-eight,
+
+81
+00:03:13,917 --> 00:03:16,585
+a show car built by Visioneering for
+
+82
+00:03:16,585 --> 00:03:20,144
+seven hundred fifty thousand dollars in nineteen
+
+83
+00:03:20,144 --> 00:03:23,480
+seventy-nine, and the first production car in
+
+84
+00:03:23,480 --> 00:03:25,556
+January nineteen eighty-one.
+
+85
+00:03:25,906 --> 00:03:28,076
+The factory was in Dunmurry,
+
+86
+00:03:28,076 --> 00:03:30,480
+near Belfast, Northern Ireland.
+
+87
+00:03:30,660 --> 00:03:34,144
+John DeLorean's Wikipedia page says the Northern
+
+88
+00:03:34,144 --> 00:03:37,701
+Ireland Development Agency gave about one hundred
+
+89
+00:03:37,701 --> 00:03:39,807
+million pounds in incentives,
+
+90
+00:03:39,807 --> 00:03:42,710
+and the plant employed over two thousand
+
+91
+00:03:42,710 --> 00:03:44,162
+workers at its peak.
+
+92
+00:03:44,342 --> 00:03:45,910
+We take those as reported.
+
+93
+00:03:46,090 --> 00:03:48,982
+Wikipedia does not give a per-car price
+
+94
+00:03:48,982 --> 00:03:49,724
+breakdown.
+
+95
+00:03:50,074 --> 00:03:51,283
+By our arithmetic,
+
+96
+00:03:51,283 --> 00:03:54,104
+one hundred million pounds spread over the
+
+97
+00:03:54,104 --> 00:03:56,857
+roughly nine thousand cars built is about
+
+98
+00:03:56,857 --> 00:03:58,939
+eleven thousand pounds per car,
+
+99
+00:03:58,939 --> 00:04:00,081
+in nominal money.
+
+100
+00:04:00,261 --> 00:04:02,120
+That is only an illustration,
+
+101
+00:04:02,120 --> 00:04:04,877
+because the funding covered the factory and
+
+102
+00:04:04,877 --> 00:04:06,736
+was not tied to a unit price,
+
+103
+00:04:06,736 --> 00:04:09,108
+and our sources do not convert pounds
+
+104
+00:04:09,108 --> 00:04:10,710
+to dollars for that year.
+
+105
+00:04:11,060 --> 00:04:14,346
+Engine and platform choices also mattered.
+
+106
+00:04:14,526 --> 00:04:17,869
+Wikipedia says early plans included a Wankel
+
+107
+00:04:17,869 --> 00:04:21,059
+rotary engine and a Citroën four-cylinder,
+
+108
+00:04:21,059 --> 00:04:23,338
+which was judged underpowered.
+
+109
+00:04:23,518 --> 00:04:26,469
+The car ended up with the Peugeot-Renault-Volvo
+
+110
+00:04:26,469 --> 00:04:26,595
+2.
+
+111
+00:04:26,775 --> 00:04:28,946
+85-litre V6.
+
+112
+00:04:29,126 --> 00:04:31,728
+That engine was derated to one hundred
+
+113
+00:04:31,728 --> 00:04:34,604
+thirty horsepower, and a few European cars
+
+114
+00:04:34,604 --> 00:04:36,521
+kept one hundred fifty-four.
+
+115
+00:04:36,872 --> 00:04:38,258
+By our arithmetic,
+
+116
+00:04:38,258 --> 00:04:41,109
+one hundred thirty horsepower from 2.
+
+117
+00:04:41,289 --> 00:04:45,100
+85 litres is about forty-six horsepower per
+
+118
+00:04:45,100 --> 00:04:45,631
+litre.
+
+119
+00:04:45,811 --> 00:04:48,940
+Wikipedia describes the engine as derated,
+
+120
+00:04:48,940 --> 00:04:51,175
+so it made less than it could.
+
+121
+00:04:51,355 --> 00:04:53,634
+It also lists a claimed zero to
+
+122
+00:04:53,634 --> 00:04:56,206
+sixty of eight point eight seconds,
+
+123
+00:04:56,206 --> 00:04:59,073
+while Road and Track measured ten point
+
+124
+00:04:59,073 --> 00:05:01,131
+five seconds for the manual.
+
+125
+00:05:01,480 --> 00:05:02,595
+Thing two.
+
+126
+00:05:02,775 --> 00:05:05,775
+The DeLorean is famous for its unpainted
+
+127
+00:05:05,775 --> 00:05:07,349
+stainless steel body.
+
+128
+00:05:07,529 --> 00:05:10,012
+But Wikipedia says the body is brushed
+
+129
+00:05:10,012 --> 00:05:13,343
+SAE three-oh-four stainless steel over a fibreglass
+
+130
+00:05:13,343 --> 00:05:13,996
+underbody.
+
+131
+00:05:14,176 --> 00:05:17,199
+The structure is a steel backbone chassis
+
+132
+00:05:17,199 --> 00:05:20,444
+with Y-frames, derived from the Lotus Esprit
+
+133
+00:05:20,444 --> 00:05:21,107
+platform.
+
+134
+00:05:21,287 --> 00:05:23,693
+So the shiny part is a skin,
+
+135
+00:05:23,693 --> 00:05:25,153
+not the skeleton.
+
+136
+00:05:25,503 --> 00:05:28,909
+Colin Chapman of Lotus re-engineered the car,
+
+137
+00:05:28,909 --> 00:05:32,390
+Wikipedia says, after the first prototype went
+
+138
+00:05:32,390 --> 00:05:36,173
+to Lotus for evaluation in nineteen seventy-eight.
+
+139
+00:05:36,353 --> 00:05:40,017
+Giorgetto Giugiaro of Italdesign drew the shape,
+
+140
+00:05:40,017 --> 00:05:43,451
+drawing on his earlier Porsche Tapiro concept
+
+141
+00:05:43,451 --> 00:05:45,130
+from nineteen seventy.
+
+142
+00:05:45,310 --> 00:05:48,146
+The company signed with Giugiaro in March
+
+143
+00:05:48,146 --> 00:05:51,467
+nineteen seventy-five, and a styling mock-up was
+
+144
+00:05:51,467 --> 00:05:53,542
+shipped to Michigan that July.
+
+145
+00:05:53,891 --> 00:05:55,238
+Why stainless?
+
+146
+00:05:55,418 --> 00:05:58,435
+Business Insider, in December twenty nineteen,
+
+147
+00:05:58,435 --> 00:06:01,256
+said the stainless pitch was that scratches
+
+148
+00:06:01,256 --> 00:06:02,568
+could be buffed out,
+
+149
+00:06:02,568 --> 00:06:05,716
+and called the shimmering skin mostly marketing.
+
+150
+00:06:05,896 --> 00:06:09,023
+The steel is a relatively common grade,
+
+151
+00:06:09,023 --> 00:06:10,146
+three-oh-four.
+
+152
+00:06:10,326 --> 00:06:13,170
+And Wikipedia says the car was left
+
+153
+00:06:13,170 --> 00:06:13,983
+unpainted.
+
+154
+00:06:14,163 --> 00:06:16,444
+We have no source stating a cost
+
+155
+00:06:16,444 --> 00:06:19,225
+saving or weight figure for the choice.
+
+156
+00:06:19,574 --> 00:06:21,896
+The doors were also unusual.
+
+157
+00:06:22,076 --> 00:06:25,934
+Wikipedia says the gull-wing doors used cryogenically
+
+158
+00:06:25,934 --> 00:06:29,499
+preset torsion bars and nitrogen struts developed
+
+159
+00:06:29,499 --> 00:06:31,028
+by Grumman Aerospace.
+
+160
+00:06:31,208 --> 00:06:33,569
+So a car with a Northern Irish
+
+161
+00:06:33,569 --> 00:06:37,977
+factory used an American aerospace company's engineering
+
+162
+00:06:37,977 --> 00:06:39,079
+for its doors.
+
+163
+00:06:39,259 --> 00:06:41,244
+Our sources do not give the cost
+
+164
+00:06:41,244 --> 00:06:43,416
+or the failure rate of those parts.
+
+165
+00:06:43,765 --> 00:06:46,441
+Weight distribution, per Wikipedia,
+
+166
+00:06:46,441 --> 00:06:50,417
+was thirty-five percent front and sixty-five percent
+
+167
+00:06:50,417 --> 00:06:53,628
+rear, with a turning circle of thirty-five
+
+168
+00:06:53,628 --> 00:06:55,004
+feet kerb to kerb.
+
+169
+00:06:55,184 --> 00:06:57,443
+Brakes were power-assisted discs,
+
+170
+00:06:57,443 --> 00:06:59,565
+ten inches at the front and ten
+
+171
+00:06:59,565 --> 00:07:01,140
+and a half at the rear.
+
+172
+00:07:01,320 --> 00:07:03,656
+The page gives no kerb weight for
+
+173
+00:07:03,656 --> 00:07:04,222
+the car.
+
+174
+00:07:04,402 --> 00:07:06,405
+So we cannot give you a weight
+
+175
+00:07:06,405 --> 00:07:07,073
+in pounds.
+
+176
+00:07:07,422 --> 00:07:09,907
+Performance claims did not hold up.
+
+177
+00:07:10,087 --> 00:07:13,051
+Wikipedia lists a claimed top speed of
+
+178
+00:07:13,051 --> 00:07:15,703
+one hundred thirty miles per hour,
+
+179
+00:07:15,703 --> 00:07:18,121
+against one hundred ten tested.
+
+180
+00:07:18,301 --> 00:07:19,568
+By our arithmetic,
+
+181
+00:07:19,568 --> 00:07:21,680
+that is fifteen percent lower.
+
+182
+00:07:21,860 --> 00:07:24,197
+The claimed zero to sixty of eight
+
+183
+00:07:24,197 --> 00:07:27,222
+point eight seconds compares with a measured
+
+184
+00:07:27,222 --> 00:07:28,253
+ten point five,
+
+185
+00:07:28,253 --> 00:07:31,072
+which is nineteen percent slower than the
+
+186
+00:07:31,072 --> 00:07:31,484
+claim.
+
+187
+00:07:31,835 --> 00:07:35,477
+Wikipedia adds that competitors typically ran zero
+
+188
+00:07:35,477 --> 00:07:37,517
+to sixty in seven and a half
+
+189
+00:07:37,517 --> 00:07:39,557
+to eight and a half seconds,
+
+190
+00:07:39,557 --> 00:07:42,326
+while tested DeLoreans took nine and a
+
+191
+00:07:42,326 --> 00:07:44,002
+half to ten and a half.
+
+192
+00:07:44,182 --> 00:07:47,310
+Business Insider, writing about it in twenty
+
+193
+00:07:47,310 --> 00:07:50,012
+nineteen, gave the same ten point five
+
+194
+00:07:50,012 --> 00:07:52,500
+seconds and noted the car could not
+
+195
+00:07:52,500 --> 00:07:52,785
+tow.
+
+196
+00:07:52,965 --> 00:07:54,312
+It was not built to.
+
+197
+00:07:54,661 --> 00:07:57,970
+A turbocharged version existed on paper.
+
+198
+00:07:58,150 --> 00:08:01,708
+Wikipedia says a Legend Industries twin-turbo car
+
+199
+00:08:01,708 --> 00:08:03,959
+did zero to sixty in five point
+
+200
+00:08:03,959 --> 00:08:06,645
+eight seconds and the quarter mile in
+
+201
+00:08:06,645 --> 00:08:08,170
+fourteen point seven,
+
+202
+00:08:08,170 --> 00:08:11,292
+and that DeLorean Motor Company had ordered
+
+203
+00:08:11,292 --> 00:08:14,269
+five thousand engines and planned a seven
+
+204
+00:08:14,269 --> 00:08:17,318
+thousand five hundred dollar turbo option.
+
+205
+00:08:17,498 --> 00:08:19,240
+Bankruptcy ended it.
+
+206
+00:08:19,589 --> 00:08:20,813
+By our arithmetic,
+
+207
+00:08:20,813 --> 00:08:24,006
+five point eight seconds is thirty-four percent
+
+208
+00:08:24,006 --> 00:08:26,860
+quicker than the claimed eight point eight
+
+209
+00:08:26,860 --> 00:08:30,122
+and forty-five percent quicker than the measured
+
+210
+00:08:30,122 --> 00:08:31,141
+ten point five.
+
+211
+00:08:31,321 --> 00:08:33,872
+The page contains a timing oddity,
+
+212
+00:08:33,872 --> 00:08:36,348
+too: it says the turbo option was
+
+213
+00:08:36,348 --> 00:08:38,824
+planned for nineteen eighty-four,
+
+214
+00:08:38,824 --> 00:08:42,200
+while bankruptcy came in nineteen eighty-two.
+
+215
+00:08:42,380 --> 00:08:44,319
+We flag that as a discrepancy.
+
+216
+00:08:44,668 --> 00:08:45,957
+How many were built?
+
+217
+00:08:46,137 --> 00:08:48,263
+Wikipedia estimates by VIN:
+
+218
+00:08:48,263 --> 00:08:52,200
+six thousand seven hundred in nineteen eighty-one,
+
+219
+00:08:52,200 --> 00:08:55,664
+nineteen ninety-nine in nineteen eighty-two,
+
+220
+00:08:55,664 --> 00:08:59,837
+and two hundred seventy-six in nineteen eighty-three.
+
+221
+00:09:00,017 --> 00:09:01,330
+By our arithmetic,
+
+222
+00:09:01,330 --> 00:09:05,195
+that totals eight thousand nine hundred seventy-five.
+
+223
+00:09:05,375 --> 00:09:08,684
+The page's introduction says an estimated nine
+
+224
+00:09:08,684 --> 00:09:11,705
+thousand, so the two are consistent within
+
+225
+00:09:11,705 --> 00:09:12,353
+rounding.
+
+226
+00:09:12,702 --> 00:09:14,630
+But building is not selling.
+
+227
+00:09:14,810 --> 00:09:17,179
+Wikipedia says that by the end of
+
+228
+00:09:17,179 --> 00:09:21,272
+nineteen eighty-one about seventy-five hundred were built
+
+229
+00:09:21,272 --> 00:09:22,995
+and three thousand sold.
+
+230
+00:09:23,175 --> 00:09:24,577
+By our arithmetic,
+
+231
+00:09:24,577 --> 00:09:26,681
+that is forty percent sold.
+
+232
+00:09:26,861 --> 00:09:30,283
+October nineteen eighty-one was the best month
+
+233
+00:09:30,283 --> 00:09:32,590
+with seven hundred twenty sold,
+
+234
+00:09:32,590 --> 00:09:36,310
+and January nineteen eighty-two only three hundred
+
+235
+00:09:36,310 --> 00:09:37,798
+fifty, half as many.
+
+236
+00:09:38,147 --> 00:09:40,478
+In March nineteen eighty-two,
+
+237
+00:09:40,478 --> 00:09:44,738
+telegrams asked all three hundred forty-three dealers
+
+238
+00:09:44,738 --> 00:09:46,425
+to buy six cars each.
+
+239
+00:09:46,605 --> 00:09:49,108
+None responded with an order,
+
+240
+00:09:49,108 --> 00:09:50,402
+Wikipedia says.
+
+241
+00:09:50,582 --> 00:09:51,782
+By our arithmetic,
+
+242
+00:09:51,782 --> 00:09:54,182
+six cars from each dealer would have
+
+243
+00:09:54,182 --> 00:09:56,782
+been two thousand and fifty-eight cars.
+
+244
+00:09:56,962 --> 00:10:00,453
+DeLorean Motor Company had entered receivership the
+
+245
+00:10:00,453 --> 00:10:03,602
+month before, in February nineteen eighty-two.
+
+246
+00:10:03,952 --> 00:10:06,251
+Quality is part of the story.
+
+247
+00:10:06,431 --> 00:10:09,094
+Wikipedia says early cars needed up to
+
+248
+00:10:09,094 --> 00:10:11,617
+two hundred hours of work at quality
+
+249
+00:10:11,617 --> 00:10:14,700
+centres, and the company sent thirty factory
+
+250
+00:10:14,700 --> 00:10:16,242
+workers to US centres.
+
+251
+00:10:16,422 --> 00:10:18,419
+Four recalls were issued.
+
+252
+00:10:18,599 --> 00:10:22,073
+The original eighty-amp Ducellier alternator was replaced
+
+253
+00:10:22,073 --> 00:10:24,816
+from late nineteen eighty-one by a ninety-amp
+
+254
+00:10:24,816 --> 00:10:25,669
+Motorola unit.
+
+255
+00:10:26,019 --> 00:10:29,410
+Wikipedia quotes Bruce McWilliams saying the car
+
+256
+00:10:29,410 --> 00:10:31,812
+could never be sold in the numbers
+
+257
+00:10:31,812 --> 00:10:33,508
+John DeLorean predicted.
+
+258
+00:10:33,688 --> 00:10:36,318
+It also records that Top Gear writer
+
+259
+00:10:36,318 --> 00:10:39,386
+Richard Porter described the car as dismal
+
+260
+00:10:39,386 --> 00:10:42,454
+and Tony Davis described the build quality
+
+261
+00:10:42,454 --> 00:10:43,185
+as woeful.
+
+262
+00:10:43,365 --> 00:10:44,639
+Those are opinions,
+
+263
+00:10:44,639 --> 00:10:46,047
+quoted from the page,
+
+264
+00:10:46,047 --> 00:10:47,254
+not our judgement.
+
+265
+00:10:47,604 --> 00:10:50,019
+Production did not stop at once.
+
+266
+00:10:50,199 --> 00:10:54,237
+Factory production stopped in May nineteen eighty-two,
+
+267
+00:10:54,237 --> 00:10:57,078
+John DeLorean was arrested in October,
+
+268
+00:10:57,078 --> 00:10:59,994
+and the company filed for bankruptcy on
+
+269
+00:10:59,994 --> 00:11:02,088
+the twenty-sixth of October.
+
+270
+00:11:02,268 --> 00:11:06,374
+Consolidated International then bought the unsold cars
+
+271
+00:11:06,374 --> 00:11:09,491
+and assembled about a hundred more before
+
+272
+00:11:09,491 --> 00:11:13,216
+final production on the twenty-fourth of December
+
+273
+00:11:13,216 --> 00:11:14,737
+nineteen eighty-two.
+
+274
+00:11:15,087 --> 00:11:16,632
+How many survive?
+
+275
+00:11:16,812 --> 00:11:20,949
+Wikipedia says owners estimated about sixty-five hundred
+
+276
+00:11:20,949 --> 00:11:23,018
+were still on the road as of
+
+277
+00:11:23,018 --> 00:11:24,126
+twenty fifteen.
+
+278
+00:11:24,306 --> 00:11:25,461
+By our arithmetic,
+
+279
+00:11:25,461 --> 00:11:28,026
+that is seventy-two percent of the eight
+
+280
+00:11:28,026 --> 00:11:30,657
+thousand nine hundred seventy-five built.
+
+281
+00:11:30,837 --> 00:11:32,649
+We do not know how that estimate
+
+282
+00:11:32,649 --> 00:11:33,159
+was made.
+
+283
+00:11:33,339 --> 00:11:35,220
+It is an owners' estimate,
+
+284
+00:11:35,220 --> 00:11:36,740
+not a registry count.
+
+285
+00:11:37,090 --> 00:11:39,055
+The cars from Back to the Future
+
+286
+00:11:39,055 --> 00:11:40,283
+are a separate case.
+
+287
+00:11:40,463 --> 00:11:43,741
+Wikipedia says six DeLoreans were used in
+
+288
+00:11:43,741 --> 00:11:47,180
+production plus a fibreglass car for flying
+
+289
+00:11:47,180 --> 00:11:49,658
+scenes, and that three survive.
+
+290
+00:11:49,838 --> 00:11:51,816
+A Part Three car sold for five
+
+291
+00:11:51,816 --> 00:11:53,597
+hundred forty-one thousand,
+
+292
+00:11:53,597 --> 00:11:56,630
+two hundred dollars in December twenty eleven.
+
+293
+00:11:56,810 --> 00:11:58,822
+ThePricer says the same figure,
+
+294
+00:11:58,822 --> 00:12:01,028
+and that seven cars were built for
+
+295
+00:12:01,028 --> 00:12:01,547
+filming.
+
+296
+00:12:01,896 --> 00:12:04,937
+Wikipedia adds that the Part Three cars
+
+297
+00:12:04,937 --> 00:12:08,524
+had Volkswagen engines and dune buggy chassis,
+
+298
+00:12:08,524 --> 00:12:11,565
+and the fibreglass replica used in Part
+
+299
+00:12:11,565 --> 00:12:12,891
+Two was scrapped.
+
+300
+00:12:13,071 --> 00:12:15,855
+So the famous time machine on screen
+
+301
+00:12:15,855 --> 00:12:17,015
+was, in places,
+
+302
+00:12:17,015 --> 00:12:19,722
+not a standard DeLorean underneath,
+
+303
+00:12:19,722 --> 00:12:22,429
+which fits the theme of this video:
+
+304
+00:12:22,429 --> 00:12:25,445
+the car's image and its engineering did
+
+305
+00:12:25,445 --> 00:12:26,759
+not always match.
+
+306
+00:12:27,109 --> 00:12:28,863
+A company in Humble,
+
+307
+00:12:28,863 --> 00:12:31,405
+Texas, now supports the cars.
+
+308
+00:12:31,585 --> 00:12:34,444
+Wikipedia says DeLorean Motor Company,
+
+309
+00:12:34,444 --> 00:12:37,378
+founded by Stephen Wynne on the twelfth
+
+310
+00:12:37,378 --> 00:12:39,484
+of May nineteen ninety-five,
+
+311
+00:12:39,484 --> 00:12:43,697
+acquired the original manufacturer's remaining parts and
+
+312
+00:12:43,697 --> 00:12:47,609
+sells new-old-stock, original and aftermarket parts,
+
+313
+00:12:47,609 --> 00:12:50,091
+plus maintenance and restoration.
+
+314
+00:12:50,271 --> 00:12:52,570
+It has no direct connection with the
+
+315
+00:12:52,570 --> 00:12:53,464
+original firm.
+
+316
+00:12:53,814 --> 00:12:56,790
+The Texas company has talked about new
+
+317
+00:12:56,790 --> 00:12:57,181
+cars.
+
+318
+00:12:57,361 --> 00:13:00,396
+Wikipedia says that in twenty seventeen it
+
+319
+00:13:00,396 --> 00:13:03,358
+announced three hundred new cars at about
+
+320
+00:13:03,358 --> 00:13:04,297
+fifty a year,
+
+321
+00:13:04,297 --> 00:13:07,620
+at an estimated hundred thousand dollars each,
+
+322
+00:13:07,620 --> 00:13:10,582
+and in October twenty twenty-two put that
+
+323
+00:13:10,582 --> 00:13:11,955
+on indefinite hold.
+
+324
+00:13:12,135 --> 00:13:14,933
+It announced the Alpha5 electric car in
+
+325
+00:13:14,933 --> 00:13:16,512
+May twenty twenty-two.
+
+326
+00:13:16,692 --> 00:13:19,028
+As of August twenty twenty-six,
+
+327
+00:13:19,028 --> 00:13:21,139
+the Alpha5 had not launched.
+
+328
+00:13:21,488 --> 00:13:23,033
+And used prices today.
+
+329
+00:13:23,213 --> 00:13:26,350
+ThePricer says a standard DeLorean now costs
+
+330
+00:13:26,350 --> 00:13:29,843
+roughly fifty to seventy-five thousand dollars in
+
+331
+00:13:29,843 --> 00:13:32,624
+the twenty twenty-six collector market,
+
+332
+00:13:32,624 --> 00:13:35,333
+with project cars in the low thirties.
+
+333
+00:13:35,513 --> 00:13:36,943
+By our arithmetic,
+
+334
+00:13:36,943 --> 00:13:40,517
+a fifty to seventy-five thousand dollar price
+
+335
+00:13:40,517 --> 00:13:42,899
+is two to three times the 1981
+
+336
+00:13:42,899 --> 00:13:45,917
+sticker price of twenty-five thousand,
+
+337
+00:13:45,917 --> 00:13:48,459
+without adjusting for inflation.
+
+338
+00:13:48,808 --> 00:13:51,948
+The sources disagree with themselves in places,
+
+339
+00:13:51,948 --> 00:13:53,685
+and that is worth showing.
+
+340
+00:13:53,865 --> 00:13:55,661
+First, total production:
+
+341
+00:13:55,661 --> 00:13:59,926
+Wikipedia's introduction says an estimated nine thousand,
+
+342
+00:13:59,926 --> 00:14:02,995
+while the model-year figures add to eight
+
+343
+00:14:02,995 --> 00:14:05,614
+thousand nine hundred seventy-five.
+
+344
+00:14:05,794 --> 00:14:07,167
+By our arithmetic,
+
+345
+00:14:07,167 --> 00:14:09,837
+the difference is twenty-five cars,
+
+346
+00:14:09,837 --> 00:14:12,277
+or less than three tenths of one
+
+347
+00:14:12,277 --> 00:14:12,888
+percent.
+
+348
+00:14:13,068 --> 00:14:14,351
+That is rounding,
+
+349
+00:14:14,351 --> 00:14:15,482
+not a conflict.
+
+350
+00:14:15,832 --> 00:14:18,340
+Second, built versus sold.
+
+351
+00:14:18,520 --> 00:14:22,033
+Wikipedia gives about seventy-five hundred built by
+
+352
+00:14:22,033 --> 00:14:24,168
+the end of nineteen eighty-one,
+
+353
+00:14:24,168 --> 00:14:27,130
+but its model-year table gives six thousand
+
+354
+00:14:27,130 --> 00:14:29,747
+seven hundred for nineteen eighty-one.
+
+355
+00:14:29,927 --> 00:14:32,488
+The two figures count different things,
+
+356
+00:14:32,488 --> 00:14:35,114
+possibly cars built in the calendar year
+
+357
+00:14:35,114 --> 00:14:37,741
+against cars assigned to the model year.
+
+358
+00:14:37,921 --> 00:14:39,949
+The page does not explain,
+
+359
+00:14:39,949 --> 00:14:41,276
+so neither do we.
+
+360
+00:14:41,625 --> 00:14:44,342
+Third, when production ended.
+
+361
+00:14:44,522 --> 00:14:47,871
+Wikipedia says factory production stopped in May
+
+362
+00:14:47,871 --> 00:14:51,430
+nineteen eighty-two, yet it gives the twenty-fourth
+
+363
+00:14:51,430 --> 00:14:54,291
+of December as the final production date,
+
+364
+00:14:54,291 --> 00:14:58,686
+because Consolidated International finished the remaining cars.
+
+365
+00:14:58,866 --> 00:15:02,071
+John DeLorean's page says by February nineteen
+
+366
+00:15:02,071 --> 00:15:04,857
+eighty-two more than half of about seven
+
+367
+00:15:04,857 --> 00:15:07,295
+thousand cars produced were unsold.
+
+368
+00:15:07,645 --> 00:15:09,689
+Fourth, the gold cars.
+
+369
+00:15:09,869 --> 00:15:13,752
+Wikipedia lists five vehicle numbers for gold-plated
+
+370
+00:15:13,752 --> 00:15:16,740
+cars, but says only two American Express
+
+371
+00:15:16,740 --> 00:15:17,860
+cars were sold,
+
+372
+00:15:17,860 --> 00:15:20,400
+and that three cars were plated in
+
+373
+00:15:20,400 --> 00:15:22,117
+twenty-four karat gold.
+
+374
+00:15:22,297 --> 00:15:23,776
+By our arithmetic,
+
+375
+00:15:23,776 --> 00:15:26,732
+five numbers against three cars is a
+
+376
+00:15:26,732 --> 00:15:28,950
+mismatch we cannot resolve.
+
+377
+00:15:29,130 --> 00:15:31,225
+It may be that other cars were
+
+378
+00:15:31,225 --> 00:15:33,669
+plated later, but the page does not
+
+379
+00:15:33,669 --> 00:15:33,948
+say.
+
+380
+00:15:34,297 --> 00:15:35,656
+Fifth, power.
+
+381
+00:15:35,836 --> 00:15:37,886
+The US car is listed at one
+
+382
+00:15:37,886 --> 00:15:39,860
+hundred thirty horsepower,
+
+383
+00:15:39,860 --> 00:15:42,593
+while a few European cars are listed
+
+384
+00:15:42,593 --> 00:15:44,567
+at one hundred fifty-four.
+
+385
+00:15:44,747 --> 00:15:46,018
+By our arithmetic,
+
+386
+00:15:46,018 --> 00:15:48,137
+that is nineteen percent more.
+
+387
+00:15:48,317 --> 00:15:51,741
+Wikipedia explains the lower number as a
+
+388
+00:15:51,741 --> 00:15:53,367
+derating of the V6.
+
+389
+00:15:53,547 --> 00:15:55,260
+It does not say why a few
+
+390
+00:15:55,260 --> 00:15:57,796
+European cars kept the higher rating.
+
+391
+00:15:58,146 --> 00:16:01,641
+A smaller story is the right-hand-drive cars.
+
+392
+00:16:01,821 --> 00:16:04,824
+Wikipedia says about thirty early cars were
+
+393
+00:16:04,824 --> 00:16:06,291
+sent to Wooler-Hodec,
+
+394
+00:16:06,291 --> 00:16:10,621
+and only thirteen right-hand-drive conversions were completed.
+
+395
+00:16:10,801 --> 00:16:13,333
+Three factory-authorised cars,
+
+396
+00:16:13,333 --> 00:16:17,384
+called AXI, were registered in Northern Ireland.
+
+397
+00:16:17,564 --> 00:16:20,548
+Eight post-factory conversions are known.
+
+398
+00:16:20,728 --> 00:16:22,985
+So a car built in Belfast was
+
+399
+00:16:22,985 --> 00:16:25,554
+mostly built for the left side of
+
+400
+00:16:25,554 --> 00:16:26,254
+the road.
+
+401
+00:16:26,604 --> 00:16:27,847
+By our arithmetic,
+
+402
+00:16:27,847 --> 00:16:30,816
+thirteen conversions are about a seventh of
+
+403
+00:16:30,816 --> 00:16:33,439
+one percent of the eight thousand nine
+
+404
+00:16:33,439 --> 00:16:35,649
+hundred seventy-five cars built.
+
+405
+00:16:35,829 --> 00:16:39,850
+Eight post-factory conversions are another nine hundredths
+
+406
+00:16:39,850 --> 00:16:40,751
+of a percent.
+
+407
+00:16:40,931 --> 00:16:43,683
+Together, with the three AXI cars,
+
+408
+00:16:43,683 --> 00:16:47,568
+that is twenty-four right-hand-drive cars known,
+
+409
+00:16:47,568 --> 00:16:49,753
+if no car is counted twice,
+
+410
+00:16:49,753 --> 00:16:52,019
+which the page does not say.
+
+411
+00:16:52,368 --> 00:16:55,695
+Wikipedia also says about twenty-eight pilot cars
+
+412
+00:16:55,695 --> 00:16:58,139
+were built before series production,
+
+413
+00:16:58,139 --> 00:17:00,447
+and that the company sent them out
+
+414
+00:17:00,447 --> 00:17:01,262
+for testing.
+
+415
+00:17:01,442 --> 00:17:03,915
+It does not say how many survive.
+
+416
+00:17:04,095 --> 00:17:06,356
+We note it because pilot cars are
+
+417
+00:17:06,356 --> 00:17:08,344
+the ones collectors look for.
+
+418
+00:17:08,524 --> 00:17:10,521
+For the first two prototypes,
+
+419
+00:17:10,521 --> 00:17:13,000
+the sources give a different kind of
+
+420
+00:17:13,000 --> 00:17:14,584
+record: auction prices.
+
+421
+00:17:14,934 --> 00:17:17,659
+Wikipedia says Prototype One sold at the
+
+422
+00:17:17,659 --> 00:17:22,086
+nineteen eighty-four bankruptcy auction for thirty-seven thousand
+
+423
+00:17:22,086 --> 00:17:24,811
+dollars and was restored in two thousand
+
+424
+00:17:24,811 --> 00:17:25,151
+five.
+
+425
+00:17:25,331 --> 00:17:27,730
+The Visioneering show car sold at an
+
+426
+00:17:27,730 --> 00:17:31,129
+auction late in nineteen eighty-four for twenty-one
+
+427
+00:17:31,129 --> 00:17:31,728
+thousand.
+
+428
+00:17:31,908 --> 00:17:35,134
+United Press International put the two together
+
+429
+00:17:35,134 --> 00:17:36,780
+at fifty-eight thousand,
+
+430
+00:17:36,780 --> 00:17:39,594
+which matches our sum of thirty-seven and
+
+431
+00:17:39,594 --> 00:17:40,349
+twenty-one.
+
+432
+00:17:40,698 --> 00:17:43,172
+Compare that with the show car's build
+
+433
+00:17:43,172 --> 00:17:46,037
+cost of seven hundred fifty thousand dollars
+
+434
+00:17:46,037 --> 00:17:47,664
+in nineteen seventy-nine.
+
+435
+00:17:47,844 --> 00:17:49,131
+By our arithmetic,
+
+436
+00:17:49,131 --> 00:17:52,419
+selling for twenty-one thousand is under three
+
+437
+00:17:52,419 --> 00:17:54,706
+percent of what it cost to make.
+
+438
+00:17:54,886 --> 00:17:57,565
+Both were pre-production cars sold in a
+
+439
+00:17:57,565 --> 00:18:00,587
+bankruptcy, so the comparison tells us about
+
+440
+00:18:00,587 --> 00:18:03,609
+distressed sales, not what a collector would
+
+441
+00:18:03,609 --> 00:18:03,884
+pay.
+
+442
+00:18:04,233 --> 00:18:08,050
+Wikipedia's page on DeLorean Motor Company of
+
+443
+00:18:08,050 --> 00:18:11,188
+Texas lists prices for restored cars.
+
+444
+00:18:11,368 --> 00:18:14,401
+In two thousand seven the company announced
+
+445
+00:18:14,401 --> 00:18:16,729
+a refurbished car built from new,
+
+446
+00:18:16,729 --> 00:18:19,834
+original and reproduction parts plus a donor
+
+447
+00:18:19,834 --> 00:18:21,879
+car for fifty-seven thousand,
+
+448
+00:18:21,879 --> 00:18:23,361
+five hundred dollars.
+
+449
+00:18:23,541 --> 00:18:24,912
+In twenty nineteen,
+
+450
+00:18:24,912 --> 00:18:28,159
+restored cars were valued from fifty thousand
+
+451
+00:18:28,159 --> 00:18:29,241
+dollars and up.
+
+452
+00:18:29,421 --> 00:18:32,684
+Unrestored cars were about thirty-five thousand.
+
+453
+00:18:33,033 --> 00:18:34,207
+By our arithmetic,
+
+454
+00:18:34,207 --> 00:18:37,009
+the two thousand seven refurbished price of
+
+455
+00:18:37,009 --> 00:18:40,203
+fifty-seven thousand, five hundred dollars is two
+
+456
+00:18:40,203 --> 00:18:43,526
+point three times the original twenty-five thousand
+
+457
+00:18:43,526 --> 00:18:44,504
+dollar sticker.
+
+458
+00:18:44,684 --> 00:18:47,794
+Fifty thousand in twenty nineteen is two
+
+459
+00:18:47,794 --> 00:18:48,260
+times.
+
+460
+00:18:48,440 --> 00:18:50,251
+These are nominal dollars,
+
+461
+00:18:50,251 --> 00:18:52,341
+and we did not adjust them for
+
+462
+00:18:52,341 --> 00:18:55,197
+inflation, so they overstate real growth.
+
+463
+00:18:55,546 --> 00:18:58,310
+The company also licensed a sneaker.
+
+464
+00:18:58,490 --> 00:19:01,318
+Wikipedia says the Nike DeLorean Dunk of
+
+465
+00:19:01,318 --> 00:19:04,429
+two thousand ten had an estimated production
+
+466
+00:19:04,429 --> 00:19:05,843
+of a thousand pairs,
+
+467
+00:19:05,843 --> 00:19:07,116
+at ninety dollars.
+
+468
+00:19:07,296 --> 00:19:08,874
+It is a small detail,
+
+469
+00:19:08,874 --> 00:19:11,280
+but it shows how the brand moved
+
+470
+00:19:11,280 --> 00:19:13,159
+from cars to merchandise.
+
+471
+00:19:13,339 --> 00:19:14,613
+By our arithmetic,
+
+472
+00:19:14,613 --> 00:19:17,231
+a thousand pairs at ninety dollars is
+
+473
+00:19:17,231 --> 00:19:20,061
+ninety thousand dollars of retail value.
+
+474
+00:19:20,411 --> 00:19:23,745
+Wikipedia also notes legal disputes of the
+
+475
+00:19:23,745 --> 00:19:27,397
+Texas company: a settlement with Sally Baldwin
+
+476
+00:19:27,397 --> 00:19:29,460
+in October twenty fifteen,
+
+477
+00:19:29,460 --> 00:19:32,635
+an appeals court upholding its rights in
+
+478
+00:19:32,635 --> 00:19:34,620
+December twenty nineteen,
+
+479
+00:19:34,620 --> 00:19:38,033
+an NBCUniversal royalty lawsuit and a Karma
+
+480
+00:19:38,033 --> 00:19:41,208
+Automotive lawsuit in twenty twenty-two,
+
+481
+00:19:41,208 --> 00:19:44,383
+and an Italdesign judgment of four point
+
+482
+00:19:44,383 --> 00:19:47,717
+six million dollars against the company in
+
+483
+00:19:47,717 --> 00:19:49,622
+early twenty twenty-six.
+
+484
+00:19:49,972 --> 00:19:52,127
+We report those as facts on the
+
+485
+00:19:52,127 --> 00:19:54,767
+page, without comment on who is right.
+
+486
+00:19:54,947 --> 00:19:57,399
+The point for this video is simple:
+
+487
+00:19:57,399 --> 00:20:00,200
+the DeLorean's afterlife has been run by
+
+488
+00:20:00,200 --> 00:20:02,721
+a separate Texas firm with no direct
+
+489
+00:20:02,721 --> 00:20:05,173
+connection to the original company,
+
+490
+00:20:05,173 --> 00:20:07,694
+and some of the disputes concern the
+
+491
+00:20:07,694 --> 00:20:10,075
+rights to the name and the design.
+
+492
+00:20:10,425 --> 00:20:13,490
+Where do prices stand in twenty twenty-six?
+
+493
+00:20:13,670 --> 00:20:17,398
+ThePricer, citing Classic dot com benchmarks,
+
+494
+00:20:17,398 --> 00:20:20,711
+gives an average of fifty-nine thousand,
+
+495
+00:20:20,711 --> 00:20:25,515
+forty-nine dollars for automatics and sixty-four thousand,
+
+496
+00:20:25,515 --> 00:20:28,496
+eight hundred sixty-six for manuals.
+
+497
+00:20:28,676 --> 00:20:29,998
+By our arithmetic,
+
+498
+00:20:29,998 --> 00:20:33,742
+the manual premium is fifty-eight hundred seventeen
+
+499
+00:20:33,742 --> 00:20:35,944
+dollars, or about ten percent.
+
+500
+00:20:36,124 --> 00:20:38,327
+The page calls the older range of
+
+501
+00:20:38,327 --> 00:20:40,931
+twenty-five to fifty thousand outdated.
+
+502
+00:20:41,280 --> 00:20:44,415
+ThePricer lists three auction results.
+
+503
+00:20:44,595 --> 00:20:48,625
+A non-running nineteen eighty-two five-speed project car,
+
+504
+00:20:48,625 --> 00:20:50,604
+off the road nineteen years,
+
+505
+00:20:50,604 --> 00:20:52,654
+sold for thirty-one thousand,
+
+506
+00:20:52,654 --> 00:20:55,623
+six hundred ninety-nine dollars on Bring a
+
+507
+00:20:55,623 --> 00:20:58,098
+Trailer on the fourth of May twenty
+
+508
+00:20:58,098 --> 00:20:58,875
+twenty-six.
+
+509
+00:20:59,055 --> 00:21:01,807
+A two hundred ninety-six mile car sold
+
+510
+00:21:01,807 --> 00:21:03,763
+for seventy-seven thousand,
+
+511
+00:21:03,763 --> 00:21:06,370
+five hundred on the sixth of August.
+
+512
+00:21:06,719 --> 00:21:08,003
+By our arithmetic,
+
+513
+00:21:08,003 --> 00:21:10,714
+the low-mileage car sold for two point
+
+514
+00:21:10,714 --> 00:21:12,640
+four times the project car,
+
+515
+00:21:12,640 --> 00:21:15,992
+a difference of about forty-five thousand eight
+
+516
+00:21:15,992 --> 00:21:17,134
+hundred dollars.
+
+517
+00:21:17,314 --> 00:21:19,269
+The first needed recommissioning,
+
+518
+00:21:19,269 --> 00:21:21,284
+the second had barely been driven.
+
+519
+00:21:21,464 --> 00:21:23,572
+Two sales do not make a market,
+
+520
+00:21:23,572 --> 00:21:25,611
+but they show the width of the
+
+521
+00:21:25,611 --> 00:21:27,991
+range between a car that needs work
+
+522
+00:21:27,991 --> 00:21:29,487
+and one that does not.
+
+523
+00:21:29,836 --> 00:21:33,567
+Business Insider's March twenty twenty-four piece says
+
+524
+00:21:33,567 --> 00:21:36,537
+the Cybertruck is the first stainless steel
+
+525
+00:21:36,537 --> 00:21:39,024
+vehicle produced since the DeLorean,
+
+526
+00:21:39,024 --> 00:21:42,201
+whose production ended in nineteen eighty-two.
+
+527
+00:21:42,381 --> 00:21:43,727
+That is a neat link,
+
+528
+00:21:43,727 --> 00:21:45,612
+and it is why the two trucks
+
+529
+00:21:45,612 --> 00:21:47,698
+and cars are compared so often.
+
+530
+00:21:47,878 --> 00:21:50,213
+In the next video we compare them
+
+531
+00:21:50,213 --> 00:21:53,115
+properly, with the sources on both sides.
+
+532
+00:21:53,464 --> 00:21:54,300
+And the film.
+
+533
+00:21:54,480 --> 00:21:57,367
+ThePricer says the DeLorean was revived by
+
+534
+00:21:57,367 --> 00:22:00,186
+the nineteen eighty-five film Back to the
+
+535
+00:22:00,186 --> 00:22:02,935
+Future, in which its engine was modified
+
+536
+00:22:02,935 --> 00:22:04,860
+to run on fusion technology.
+
+537
+00:22:05,040 --> 00:22:08,209
+John DeLorean's page lists the film too.
+
+538
+00:22:08,389 --> 00:22:10,721
+The car that failed in the showroom
+
+539
+00:22:10,721 --> 00:22:13,720
+became more famous afterwards than almost any
+
+540
+00:22:13,720 --> 00:22:15,319
+car sold in those years,
+
+541
+00:22:15,319 --> 00:22:17,584
+though our sources do not rank it.
+
+542
+00:22:17,934 --> 00:22:20,013
+There is one more number for scale.
+
+543
+00:22:20,193 --> 00:22:23,446
+Business Insider says fewer than ten thousand
+
+544
+00:22:23,446 --> 00:22:27,784
+DeLoreans were built before the drug-trafficking allegations
+
+545
+00:22:27,784 --> 00:22:31,109
+against John DeLorean and shaky finances ended
+
+546
+00:22:31,109 --> 00:22:31,977
+the company.
+
+547
+00:22:32,157 --> 00:22:36,302
+Wikipedia's figure is eighty-nine hundred seventy-five.
+
+548
+00:22:36,482 --> 00:22:38,614
+The Cybertruck, in comparison,
+
+549
+00:22:38,614 --> 00:22:40,462
+had thirty-eight thousand,
+
+550
+00:22:40,462 --> 00:22:44,086
+nine hundred sixty-five sales in twenty twenty-four
+
+551
+00:22:44,086 --> 00:22:47,000
+alone, per Kelley Blue Book on Wikipedia.
+
+552
+00:22:47,350 --> 00:22:48,349
+What is missing.
+
+553
+00:22:48,529 --> 00:22:50,387
+The kerb weight of the car.
+
+554
+00:22:50,567 --> 00:22:52,934
+A cost breakdown behind the price rise
+
+555
+00:22:52,934 --> 00:22:55,675
+from twelve to twenty-five thousand dollars.
+
+556
+00:22:55,855 --> 00:22:58,418
+The exact number of cars still on
+
+557
+00:22:58,418 --> 00:22:59,117
+the road.
+
+558
+00:22:59,297 --> 00:23:01,805
+Why the sources give different counts of
+
+559
+00:23:01,805 --> 00:23:02,432
+film cars.
+
+560
+00:23:02,612 --> 00:23:04,593
+If you own a DeLorean and have
+
+561
+00:23:04,593 --> 00:23:05,914
+a documented number,
+
+562
+00:23:05,914 --> 00:23:07,961
+share it in the comments and we
+
+563
+00:23:07,961 --> 00:23:09,810
+will update the description.
+
+564
+00:23:10,160 --> 00:23:12,053
+So, two things.
+
+565
+00:23:12,233 --> 00:23:14,084
+The twelve was a target price,
+
+566
+00:23:14,084 --> 00:23:16,121
+and the car launched at more than
+
+567
+00:23:16,121 --> 00:23:16,738
+double it.
+
+568
+00:23:16,918 --> 00:23:19,768
+The stainless steel was a skin over
+
+569
+00:23:19,768 --> 00:23:22,943
+fibreglass and a Lotus-derived chassis.
+
+570
+00:23:23,123 --> 00:23:25,441
+In the other videos of this series
+
+571
+00:23:25,441 --> 00:23:27,759
+we compare it with the Cybertruck,
+
+572
+00:23:27,759 --> 00:23:29,736
+count the cost of owning one,
+
+573
+00:23:29,736 --> 00:23:32,191
+and tell the story of John DeLorean.
+
+574
+00:23:32,371 --> 00:23:35,018
+Subscribe to Pickup Reality.
+
+575
+00:23:35,198 --> 00:23:38,053
+The twenty twenty-seven Truck Buyer's Guide is
+
+576
+00:23:38,053 --> 00:23:39,667
+linked in the description.
