@@ -1,0 +1,2359 @@
+1
+00:00:00,000 --> 00:00:04,113
+A DeLorean DMC-12 launched at twenty-five thousand
+
+2
+00:00:04,113 --> 00:00:04,771
+dollars.
+
+3
+00:00:04,951 --> 00:00:06,538
+In twenty twenty-six,
+
+4
+00:00:06,538 --> 00:00:09,410
+one source puts the benchmark price of
+
+5
+00:00:09,410 --> 00:00:12,130
+an automatic at fifty-nine thousand,
+
+6
+00:00:12,130 --> 00:00:13,566
+forty-nine dollars.
+
+7
+00:00:13,746 --> 00:00:15,619
+But what does it really cost to
+
+8
+00:00:15,619 --> 00:00:16,103
+own one?
+
+9
+00:00:16,283 --> 00:00:18,721
+The purchase is only the first bill.
+
+10
+00:00:18,901 --> 00:00:21,100
+In this video we add up fuel,
+
+11
+00:00:21,100 --> 00:00:24,966
+parts, repairs and storage using published numbers,
+
+12
+00:00:24,966 --> 00:00:27,469
+and we flag every place where the
+
+13
+00:00:27,469 --> 00:00:28,758
+sources go quiet.
+
+14
+00:00:29,107 --> 00:00:31,424
+Our sources are ThePricer,
+
+15
+00:00:31,424 --> 00:00:33,473
+Classic and Sports Car,
+
+16
+00:00:33,473 --> 00:00:36,057
+Classics World, Petrolicious,
+
+17
+00:00:36,057 --> 00:00:38,996
+Wikipedia pages on the car and on
+
+18
+00:00:38,996 --> 00:00:40,600
+the Texas company,
+
+19
+00:00:40,600 --> 00:00:42,560
+the Classic DMC store,
+
+20
+00:00:42,560 --> 00:00:46,302
+and the Energy Information Administration.
+
+21
+00:00:46,482 --> 00:00:48,272
+Some figures are in pounds,
+
+22
+00:00:48,272 --> 00:00:49,334
+some in dollars,
+
+23
+00:00:49,334 --> 00:00:50,859
+and some are years old.
+
+24
+00:00:51,039 --> 00:00:52,502
+We keep currencies separate.
+
+25
+00:00:52,682 --> 00:00:55,085
+Our own arithmetic is labelled.
+
+26
+00:00:55,434 --> 00:00:57,350
+Start with the price of the car.
+
+27
+00:00:57,530 --> 00:01:00,580
+ThePricer says a standard DeLorean now costs
+
+28
+00:01:00,580 --> 00:01:03,976
+roughly fifty to seventy-five thousand dollars in
+
+29
+00:01:03,976 --> 00:01:06,679
+the twenty twenty-six collector market.
+
+30
+00:01:06,859 --> 00:01:09,746
+Project cars sell in the low thirties,
+
+31
+00:01:09,746 --> 00:01:14,000
+and exceptional low-mileage cars can exceed seventy-five
+
+32
+00:01:14,000 --> 00:01:14,684
+thousand.
+
+33
+00:01:14,864 --> 00:01:17,464
+It calls the older range of twenty-five
+
+34
+00:01:17,464 --> 00:01:19,264
+to fifty thousand outdated.
+
+35
+00:01:19,614 --> 00:01:22,981
+ThePricer cites Classic dot com benchmarks of
+
+36
+00:01:22,981 --> 00:01:27,320
+fifty-nine thousand, forty-nine dollars for automatics and
+
+37
+00:01:27,320 --> 00:01:31,584
+sixty-four thousand, eight hundred sixty-six for manuals.
+
+38
+00:01:31,764 --> 00:01:33,083
+By our arithmetic,
+
+39
+00:01:33,083 --> 00:01:36,819
+the manual premium is fifty-eight hundred seventeen
+
+40
+00:01:36,819 --> 00:01:39,090
+dollars, or nearly ten percent.
+
+41
+00:01:39,270 --> 00:01:41,952
+We use the automatic benchmark as our
+
+42
+00:01:41,952 --> 00:01:43,763
+reference purchase price.
+
+43
+00:01:44,113 --> 00:01:46,447
+Two recent sales show the spread.
+
+44
+00:01:46,627 --> 00:01:49,408
+On the fourth of May twenty twenty-six,
+
+45
+00:01:49,408 --> 00:01:53,473
+a non-running nineteen eighty-two five-speed project car,
+
+46
+00:01:53,473 --> 00:01:55,470
+off the road nineteen years,
+
+47
+00:01:55,470 --> 00:01:58,179
+sold on Bring a Trailer for thirty-one
+
+48
+00:01:58,179 --> 00:02:01,174
+thousand, six hundred ninety-nine dollars.
+
+49
+00:02:01,354 --> 00:02:03,111
+On the sixth of August,
+
+50
+00:02:03,111 --> 00:02:06,853
+a two hundred ninety-six mile nineteen eighty-two
+
+51
+00:02:06,853 --> 00:02:09,603
+car sold for seventy-seven thousand,
+
+52
+00:02:09,603 --> 00:02:10,596
+five hundred.
+
+53
+00:02:10,945 --> 00:02:12,355
+By our arithmetic,
+
+54
+00:02:12,355 --> 00:02:15,332
+the low-mileage car sold for two point
+
+55
+00:02:15,332 --> 00:02:17,447
+four times the project car.
+
+56
+00:02:17,627 --> 00:02:20,074
+The difference is forty-five thousand,
+
+57
+00:02:20,074 --> 00:02:21,749
+eight hundred one dollars.
+
+58
+00:02:21,929 --> 00:02:24,128
+A buyer of the project car would
+
+59
+00:02:24,128 --> 00:02:26,189
+still need to recommission it.
+
+60
+00:02:26,369 --> 00:02:30,308
+ThePricer says a fifteen thousand dollar recommissioning
+
+61
+00:02:30,308 --> 00:02:32,066
+figure is a hypothetical,
+
+62
+00:02:32,066 --> 00:02:32,910
+not a quote,
+
+63
+00:02:32,910 --> 00:02:34,457
+so we do not use it as
+
+64
+00:02:34,457 --> 00:02:34,949
+a cost.
+
+65
+00:02:35,300 --> 00:02:38,504
+Dealers and builders quote different numbers.
+
+66
+00:02:38,684 --> 00:02:42,020
+Wikipedia's page on the Texas company says
+
+67
+00:02:42,020 --> 00:02:45,118
+that in two thousand seven it announced
+
+68
+00:02:45,118 --> 00:02:46,548
+a refurbished car,
+
+69
+00:02:46,548 --> 00:02:47,740
+built from new,
+
+70
+00:02:47,740 --> 00:02:51,235
+original and reproduction parts plus a donor
+
+71
+00:02:51,235 --> 00:02:53,618
+car, for fifty-seven thousand,
+
+72
+00:02:53,618 --> 00:02:55,286
+five hundred dollars.
+
+73
+00:02:55,466 --> 00:02:56,903
+In twenty nineteen,
+
+74
+00:02:56,903 --> 00:03:00,305
+restored cars were valued from fifty thousand
+
+75
+00:03:00,305 --> 00:03:03,178
+and up, and unrestored cars were about
+
+76
+00:03:03,178 --> 00:03:04,766
+thirty-five thousand.
+
+77
+00:03:05,116 --> 00:03:07,739
+Compare with the original price.
+
+78
+00:03:07,919 --> 00:03:09,354
+By our arithmetic,
+
+79
+00:03:09,354 --> 00:03:13,340
+fifty-nine thousand, forty-nine is two point three
+
+80
+00:03:13,340 --> 00:03:17,167
+six times the twenty-five thousand dollar launch
+
+81
+00:03:17,167 --> 00:03:18,681
+price on Wikipedia,
+
+82
+00:03:18,681 --> 00:03:21,073
+or two point two six times the
+
+83
+00:03:21,073 --> 00:03:25,936
+twenty-six thousand, one hundred seventy-five dollars Classic
+
+84
+00:03:25,936 --> 00:03:27,610
+and Sports Car gives.
+
+85
+00:03:27,790 --> 00:03:31,734
+Wikipedia converts the original to about eighty-nine
+
+86
+00:03:31,734 --> 00:03:34,692
+thousand in twenty twenty-five dollars,
+
+87
+00:03:34,692 --> 00:03:36,968
+so in real terms the car costs
+
+88
+00:03:36,968 --> 00:03:38,030
+less than new.
+
+89
+00:03:38,380 --> 00:03:40,585
+British prices are in pounds.
+
+90
+00:03:40,765 --> 00:03:43,884
+Classics World puts project cars at roughly
+
+91
+00:03:43,884 --> 00:03:46,422
+double the old ten thousand pounds,
+
+92
+00:03:46,422 --> 00:03:49,757
+reasonable cars needing work at twenty-five to
+
+93
+00:03:49,757 --> 00:03:52,876
+thirty thousand, and good examples a little
+
+94
+00:03:52,876 --> 00:03:54,326
+over forty thousand.
+
+95
+00:03:54,506 --> 00:03:57,549
+A rare right-hand-drive car sold at Iconic
+
+96
+00:03:57,549 --> 00:04:01,752
+Auctioneers in twenty twenty-two for eighty-five thousand,
+
+97
+00:04:01,752 --> 00:04:03,202
+five hundred pounds.
+
+98
+00:04:03,382 --> 00:04:05,576
+We do not convert these to dollars.
+
+99
+00:04:05,925 --> 00:04:09,088
+Classic and Sports Car in November twenty
+
+100
+00:04:09,088 --> 00:04:12,097
+nineteen listed show or rebuilt cars at
+
+101
+00:04:12,097 --> 00:04:14,797
+thirty-five thousand pounds and up,
+
+102
+00:04:14,797 --> 00:04:17,497
+an average at twenty-five thousand,
+
+103
+00:04:17,497 --> 00:04:21,123
+and a restoration project at eighteen thousand.
+
+104
+00:04:21,303 --> 00:04:23,466
+Petrolicious, an older guide,
+
+105
+00:04:23,466 --> 00:04:26,301
+gave seven to nine thousand pounds for
+
+106
+00:04:26,301 --> 00:04:29,658
+a project and fifteen to twenty-five thousand
+
+107
+00:04:29,658 --> 00:04:30,777
+for a good one.
+
+108
+00:04:30,957 --> 00:04:32,303
+By our arithmetic,
+
+109
+00:04:32,303 --> 00:04:34,921
+that older project price is about a
+
+110
+00:04:34,921 --> 00:04:36,193
+third of today's.
+
+111
+00:04:36,542 --> 00:04:37,564
+Fuel next.
+
+112
+00:04:37,744 --> 00:04:40,696
+Classic and Sports Car lists fuel economy
+
+113
+00:04:40,696 --> 00:04:43,289
+of twenty to thirty miles per gallon
+
+114
+00:04:43,289 --> 00:04:44,513
+for the DeLorean.
+
+115
+00:04:44,693 --> 00:04:47,029
+It gives no source for that range,
+
+116
+00:04:47,029 --> 00:04:49,708
+and says nothing about city or highway.
+
+117
+00:04:49,888 --> 00:04:53,348
+The Texas company's page and ThePricer give
+
+118
+00:04:53,348 --> 00:04:54,474
+no mpg at all.
+
+119
+00:04:54,654 --> 00:04:57,025
+So we treat twenty to thirty as
+
+120
+00:04:57,025 --> 00:04:59,472
+an estimate and model both ends.
+
+121
+00:04:59,822 --> 00:05:03,563
+For price, the Energy Information Administration says
+
+122
+00:05:03,563 --> 00:05:06,315
+regular gasoline averaged four dollars,
+
+123
+00:05:06,315 --> 00:05:09,068
+twenty-eight cents a gallon in the week
+
+124
+00:05:09,068 --> 00:05:12,384
+of the nineteenth of October twenty twenty-six.
+
+125
+00:05:12,564 --> 00:05:13,862
+By our arithmetic,
+
+126
+00:05:13,862 --> 00:05:16,528
+that is about twenty-one cents a mile
+
+127
+00:05:16,528 --> 00:05:18,474
+at twenty miles per gallon,
+
+128
+00:05:18,474 --> 00:05:20,564
+and fourteen cents at thirty.
+
+129
+00:05:20,744 --> 00:05:22,922
+We do not know the car's recommended
+
+130
+00:05:22,922 --> 00:05:23,588
+fuel grade.
+
+131
+00:05:23,939 --> 00:05:26,458
+How far does a DeLorean actually go
+
+132
+00:05:26,458 --> 00:05:27,178
+in a year?
+
+133
+00:05:27,358 --> 00:05:29,169
+Our sources do not say.
+
+134
+00:05:29,349 --> 00:05:33,701
+Classic and Sports Car notes that sub-thirty-thousand-mile
+
+135
+00:05:33,701 --> 00:05:36,477
+cars are common in the United States,
+
+136
+00:05:36,477 --> 00:05:39,553
+and the August twenty twenty-six sale car
+
+137
+00:05:39,553 --> 00:05:43,005
+had two hundred ninety-six miles in forty-four
+
+138
+00:05:43,005 --> 00:05:43,455
+years.
+
+139
+00:05:43,635 --> 00:05:44,999
+By our arithmetic,
+
+140
+00:05:44,999 --> 00:05:47,501
+that is under seven miles a year.
+
+141
+00:05:47,681 --> 00:05:50,049
+We therefore model two thousand miles a
+
+142
+00:05:50,049 --> 00:05:51,385
+year as an assumption.
+
+143
+00:05:51,735 --> 00:05:53,923
+At two thousand miles a year,
+
+144
+00:05:53,923 --> 00:05:55,281
+by our arithmetic,
+
+145
+00:05:55,281 --> 00:05:57,696
+a car at twenty miles per gallon
+
+146
+00:05:57,696 --> 00:06:00,639
+burns a hundred gallons and costs about
+
+147
+00:06:00,639 --> 00:06:03,205
+four hundred twenty-eight dollars.
+
+148
+00:06:03,385 --> 00:06:06,546
+At thirty it burns about sixty-seven gallons,
+
+149
+00:06:06,546 --> 00:06:08,935
+or two hundred eighty-six dollars.
+
+150
+00:06:09,115 --> 00:06:11,105
+Even at five thousand miles,
+
+151
+00:06:11,105 --> 00:06:13,877
+fuel would be seven hundred fourteen to
+
+152
+00:06:13,877 --> 00:06:16,081
+eleven hundred seventy dollars.
+
+153
+00:06:16,261 --> 00:06:18,263
+Fuel is a small cost for a
+
+154
+00:06:18,263 --> 00:06:20,034
+car driven this little.
+
+155
+00:06:20,383 --> 00:06:21,571
+By our arithmetic,
+
+156
+00:06:21,571 --> 00:06:23,285
+even the larger fuel bill,
+
+157
+00:06:23,285 --> 00:06:25,528
+four hundred twenty-eight dollars,
+
+158
+00:06:25,528 --> 00:06:28,298
+is less than three-quarters of one percent
+
+159
+00:06:28,298 --> 00:06:31,529
+of the fifty-nine thousand dollar purchase price.
+
+160
+00:06:31,709 --> 00:06:34,395
+Over five years at two thousand miles,
+
+161
+00:06:34,395 --> 00:06:37,999
+that is fourteen hundred twenty-eight to twenty-one
+
+162
+00:06:37,999 --> 00:06:39,836
+hundred forty-two dollars,
+
+163
+00:06:39,836 --> 00:06:42,239
+if prices and use stay as modeled.
+
+164
+00:06:42,419 --> 00:06:44,264
+Those are assumptions,
+
+165
+00:06:44,264 --> 00:06:45,438
+not forecasts.
+
+166
+00:06:45,787 --> 00:06:47,088
+Parts are the good news.
+
+167
+00:06:47,268 --> 00:06:49,447
+The Classic DMC store in Humble,
+
+168
+00:06:49,447 --> 00:06:51,898
+Texas, says it holds more than three
+
+169
+00:06:51,898 --> 00:06:53,872
+and a half million items in a
+
+170
+00:06:53,872 --> 00:06:56,391
+forty thousand square foot warehouse,
+
+171
+00:06:56,391 --> 00:06:58,842
+and that about eighty percent of the
+
+172
+00:06:58,842 --> 00:07:02,179
+car's four thousand different parts are available
+
+173
+00:07:02,179 --> 00:07:03,336
+as new old stock.
+
+174
+00:07:03,516 --> 00:07:05,559
+That is the company's own claim.
+
+175
+00:07:05,739 --> 00:07:09,464
+Classic and Sports Car calls parts supply
+
+176
+00:07:09,464 --> 00:07:11,463
+and support excellent.
+
+177
+00:07:11,813 --> 00:07:13,059
+By our arithmetic,
+
+178
+00:07:13,059 --> 00:07:15,827
+eighty percent of four thousand parts is
+
+179
+00:07:15,827 --> 00:07:18,663
+at least thirty-two hundred part numbers.
+
+180
+00:07:18,843 --> 00:07:21,544
+The store also lists more than eight
+
+181
+00:07:21,544 --> 00:07:23,570
+hundred reproduction parts,
+
+182
+00:07:23,570 --> 00:07:25,070
+such as windscreens,
+
+183
+00:07:25,070 --> 00:07:27,771
+window regulators and interior trim.
+
+184
+00:07:27,951 --> 00:07:31,038
+It does not publish individual prices on
+
+185
+00:07:31,038 --> 00:07:32,196
+the about page,
+
+186
+00:07:32,196 --> 00:07:34,742
+so we need other sources for what
+
+187
+00:07:34,742 --> 00:07:35,591
+parts cost.
+
+188
+00:07:35,940 --> 00:07:37,517
+ThePricer gives one:
+
+189
+00:07:37,517 --> 00:07:40,591
+a complete brake kit costs nine hundred
+
+190
+00:07:40,591 --> 00:07:43,823
+fifty-five dollars and sixty cents at the
+
+191
+00:07:43,823 --> 00:07:45,951
+official Classic DMC store,
+
+192
+00:07:45,951 --> 00:07:47,527
+before installation.
+
+193
+00:07:47,707 --> 00:07:49,029
+By our arithmetic,
+
+194
+00:07:49,029 --> 00:07:51,378
+that is one point six percent of
+
+195
+00:07:51,378 --> 00:07:54,754
+the fifty-nine thousand dollar purchase price.
+
+196
+00:07:54,934 --> 00:07:58,163
+Classic and Sports Car notes brake parts
+
+197
+00:07:58,163 --> 00:08:00,423
+are a mix of Ford and Jaguar
+
+198
+00:08:00,423 --> 00:08:03,410
+components and are readily available.
+
+199
+00:08:03,759 --> 00:08:06,512
+Classics World, a British guide,
+
+200
+00:08:06,512 --> 00:08:09,007
+gives repair costs in pounds.
+
+201
+00:08:09,187 --> 00:08:11,782
+A full re-brush of the body surface
+
+202
+00:08:11,782 --> 00:08:14,005
+costs about a thousand pounds.
+
+203
+00:08:14,185 --> 00:08:16,235
+A front wing is six hundred to
+
+204
+00:08:16,235 --> 00:08:17,123
+nine hundred.
+
+205
+00:08:17,303 --> 00:08:19,710
+A complete rear quarter panel is a
+
+206
+00:08:19,710 --> 00:08:22,330
+hundred fifteen pounds plus shipping.
+
+207
+00:08:22,510 --> 00:08:24,482
+A new steering rack is two to
+
+208
+00:08:24,482 --> 00:08:27,271
+three hundred, and seat covers about five
+
+209
+00:08:27,271 --> 00:08:28,292
+hundred eighty.
+
+210
+00:08:28,641 --> 00:08:31,327
+Bigger items: a front chassis frame is
+
+211
+00:08:31,327 --> 00:08:34,366
+about thirteen hundred pounds for the part,
+
+212
+00:08:34,366 --> 00:08:36,062
+plus substantial labour,
+
+213
+00:08:36,062 --> 00:08:38,464
+and a rebuild part for the control
+
+214
+00:08:38,464 --> 00:08:41,857
+computer was three hundred thirty-five pounds at
+
+215
+00:08:41,857 --> 00:08:43,270
+the time of writing.
+
+216
+00:08:43,450 --> 00:08:44,734
+By our arithmetic,
+
+217
+00:08:44,734 --> 00:08:46,659
+a new front wing and a full
+
+218
+00:08:46,659 --> 00:08:49,869
+re-brush together would be sixteen hundred to
+
+219
+00:08:49,869 --> 00:08:51,580
+nineteen hundred pounds,
+
+220
+00:08:51,580 --> 00:08:53,435
+before labour or shipping.
+
+221
+00:08:53,784 --> 00:08:57,801
+Petrolicious explains why stainless repairs are special.
+
+222
+00:08:57,981 --> 00:08:59,814
+Panels cannot be filled,
+
+223
+00:08:59,814 --> 00:09:02,410
+so accident repairs are difficult,
+
+224
+00:09:02,410 --> 00:09:06,228
+and replacement panels are generally available but
+
+225
+00:09:06,228 --> 00:09:07,908
+mostly very expensive.
+
+226
+00:09:08,088 --> 00:09:11,014
+Tarnished panels can be sanded by experts,
+
+227
+00:09:11,014 --> 00:09:13,173
+which it says is cheaper than a
+
+228
+00:09:13,173 --> 00:09:14,636
+conventional respray.
+
+229
+00:09:14,816 --> 00:09:18,312
+Painted cars should be priced significantly lower,
+
+230
+00:09:18,312 --> 00:09:21,248
+and painting stainless is specialist work.
+
+231
+00:09:21,597 --> 00:09:23,548
+The recurring problems are listed.
+
+232
+00:09:23,728 --> 00:09:28,033
+Petrolicious names sediment clogging the fuel metering
+
+233
+00:09:28,033 --> 00:09:30,505
+unit, a fuel pump boot that can
+
+234
+00:09:30,505 --> 00:09:34,013
+disintegrate, unreliable cooling fan wiring,
+
+235
+00:09:34,013 --> 00:09:36,645
+failing exhaust manifold gaskets,
+
+236
+00:09:36,645 --> 00:09:39,037
+and a worn roll pin that makes
+
+237
+00:09:39,037 --> 00:09:41,189
+second gear hard to engage.
+
+238
+00:09:41,369 --> 00:09:43,095
+The roll pin is cheap,
+
+239
+00:09:43,095 --> 00:09:46,077
+it says, but fitting it means removing
+
+240
+00:09:46,077 --> 00:09:48,823
+and partly dismantling the gearbox.
+
+241
+00:09:49,172 --> 00:09:52,270
+Classics World adds that the rear engine
+
+242
+00:09:52,270 --> 00:09:53,432
+cradle can rot,
+
+243
+00:09:53,432 --> 00:09:57,304
+with repairs almost always needing engine removal,
+
+244
+00:09:57,304 --> 00:10:00,247
+and that replacing the rear crank seal
+
+245
+00:10:00,247 --> 00:10:02,570
+requires removing the gearbox.
+
+246
+00:10:02,750 --> 00:10:04,856
+It warns to check fuse seven,
+
+247
+00:10:04,856 --> 00:10:07,470
+which commonly melts and is a safety
+
+248
+00:10:07,470 --> 00:10:07,905
+issue.
+
+249
+00:10:08,085 --> 00:10:10,720
+These jobs imply labour hours,
+
+250
+00:10:10,720 --> 00:10:13,881
+but our sources give no hourly rates
+
+251
+00:10:13,881 --> 00:10:14,935
+or invoices.
+
+252
+00:10:15,285 --> 00:10:17,782
+The chassis is the big risk.
+
+253
+00:10:17,962 --> 00:10:21,766
+Petrolicious says the welded box-section chassis made
+
+254
+00:10:21,766 --> 00:10:23,489
+by GKN was epoxy-dipped,
+
+255
+00:10:23,489 --> 00:10:26,360
+and the resin cracks rather than flexes,
+
+256
+00:10:26,360 --> 00:10:29,877
+allowing corrosion, with the metal thinnest ahead
+
+257
+00:10:29,877 --> 00:10:31,313
+of the front wheels.
+
+258
+00:10:31,493 --> 00:10:34,903
+Lowered cars often show chassis damage from
+
+259
+00:10:34,903 --> 00:10:35,696
+grounding.
+
+260
+00:10:35,876 --> 00:10:39,737
+Classics World says the glass-reinforced plastic tub
+
+261
+00:10:39,737 --> 00:10:42,633
+matters only if damaged in an accident.
+
+262
+00:10:42,982 --> 00:10:45,611
+Engine reliability, per sources,
+
+263
+00:10:45,611 --> 00:10:46,268
+is good.
+
+264
+00:10:46,448 --> 00:10:50,540
+Petrolicious says well-maintained engines should last well
+
+265
+00:10:50,540 --> 00:10:53,080
+beyond three hundred thousand miles,
+
+266
+00:10:53,080 --> 00:10:55,620
+though many now have perished seals.
+
+267
+00:10:55,800 --> 00:10:58,766
+Classic and Sports Car says the Douvrin
+
+268
+00:10:58,766 --> 00:11:01,732
+V6 is capable of three hundred thousand
+
+269
+00:11:01,732 --> 00:11:03,785
+miles with basic servicing,
+
+270
+00:11:03,785 --> 00:11:06,067
+but most cars are low mileage,
+
+271
+00:11:06,067 --> 00:11:08,728
+and problems come more from lack of
+
+272
+00:11:08,728 --> 00:11:10,173
+use than from wear.
+
+273
+00:11:10,523 --> 00:11:12,729
+Disuse has its own costs.
+
+274
+00:11:12,909 --> 00:11:16,304
+Petrolicious says rarely used cars often run
+
+275
+00:11:16,304 --> 00:11:19,159
+poorly, and idle cars can have seized
+
+276
+00:11:19,159 --> 00:11:20,317
+brake calipers.
+
+277
+00:11:20,497 --> 00:11:24,287
+Classic and Sports Car lists fuel blockages,
+
+278
+00:11:24,287 --> 00:11:26,958
+brittle plastic injector pipes,
+
+279
+00:11:26,958 --> 00:11:31,352
+corroded sensors and oxidised electrical terminals.
+
+280
+00:11:31,532 --> 00:11:34,912
+ThePricer's project car sold after nineteen years
+
+281
+00:11:34,912 --> 00:11:37,671
+off the road and needed recommissioning,
+
+282
+00:11:37,671 --> 00:11:39,810
+which our sources do not price.
+
+283
+00:11:40,159 --> 00:11:41,158
+Who does the work?
+
+284
+00:11:41,338 --> 00:11:43,458
+The Texas company says it has a
+
+285
+00:11:43,458 --> 00:11:46,673
+seven thousand five hundred square foot service
+
+286
+00:11:46,673 --> 00:11:50,367
+and restoration centre with six full-time technicians,
+
+287
+00:11:50,367 --> 00:11:52,693
+and it can repair stainless steel.
+
+288
+00:11:52,873 --> 00:11:56,070
+Indoor secured storage holds up to eighty
+
+289
+00:11:56,070 --> 00:11:56,460
+cars.
+
+290
+00:11:56,640 --> 00:11:58,521
+It says it has sold more than
+
+291
+00:11:58,521 --> 00:12:01,634
+two hundred fifty certified pre-owned cars since
+
+292
+00:12:01,634 --> 00:12:03,385
+the late nineteen nineties.
+
+293
+00:12:03,565 --> 00:12:06,108
+The page lists no labour rates.
+
+294
+00:12:06,458 --> 00:12:07,644
+By our arithmetic,
+
+295
+00:12:07,644 --> 00:12:10,743
+two hundred fifty cars over roughly twenty-nine
+
+296
+00:12:10,743 --> 00:12:13,248
+years since the late nineties is about
+
+297
+00:12:13,248 --> 00:12:14,039
+nine a year.
+
+298
+00:12:14,219 --> 00:12:16,145
+That is only an average from a
+
+299
+00:12:16,145 --> 00:12:18,199
+company claim, so we treat it as
+
+300
+00:12:18,199 --> 00:12:18,584
+scale.
+
+301
+00:12:18,764 --> 00:12:21,285
+Storage for eighty cars at one site
+
+302
+00:12:21,285 --> 00:12:24,237
+shows how many owners rely on specialists
+
+303
+00:12:24,237 --> 00:12:26,038
+rather than home garages,
+
+304
+00:12:26,038 --> 00:12:28,414
+though the page does not say that
+
+305
+00:12:28,414 --> 00:12:29,062
+directly.
+
+306
+00:12:29,413 --> 00:12:32,029
+The British owners' club gives a human
+
+307
+00:12:32,029 --> 00:12:32,373
+view.
+
+308
+00:12:32,553 --> 00:12:35,812
+Classic and Sports Car quotes the club's
+
+309
+00:12:35,812 --> 00:12:37,930
+secretary, Chris Williams,
+
+310
+00:12:37,930 --> 00:12:40,782
+who upgraded his first car to Volvo
+
+311
+00:12:40,782 --> 00:12:43,715
+one hundred seventy horsepower spec,
+
+312
+00:12:43,715 --> 00:12:46,974
+then kept his second standard apart from
+
+313
+00:12:46,974 --> 00:12:48,685
+upgraded brake lines,
+
+314
+00:12:48,685 --> 00:12:50,885
+mirrors, radiator and fans.
+
+315
+00:12:51,065 --> 00:12:54,213
+He cleans fingerprints with Windolene and a
+
+316
+00:12:54,213 --> 00:12:55,384
+Scotchbrite pad.
+
+317
+00:12:55,564 --> 00:12:56,708
+That is a tip,
+
+318
+00:12:56,708 --> 00:12:57,607
+not a cost.
+
+319
+00:12:57,958 --> 00:13:00,548
+The parts supply has a history,
+
+320
+00:13:00,548 --> 00:13:03,472
+and the Classic DMC store tells it.
+
+321
+00:13:03,652 --> 00:13:06,875
+After the nineteen eighty-two bankruptcy,
+
+322
+00:13:06,875 --> 00:13:10,490
+the Northern Ireland factory was liquidated in
+
+323
+00:13:10,490 --> 00:13:14,341
+nineteen eighty-three, and a company in Columbus,
+
+324
+00:13:14,341 --> 00:13:17,092
+Ohio, acquired the remaining parts,
+
+325
+00:13:17,092 --> 00:13:19,686
+tooling and engineering drawings.
+
+326
+00:13:19,866 --> 00:13:21,688
+In nineteen eighty-five,
+
+327
+00:13:21,688 --> 00:13:24,953
+Stephen Wynne and a partner formed DeLorean
+
+328
+00:13:24,953 --> 00:13:28,294
+One, a mail-order parts and service company.
+
+329
+00:13:28,644 --> 00:13:31,641
+In nineteen eighty-eight DeLorean One opened in
+
+330
+00:13:31,641 --> 00:13:32,151
+Houston.
+
+331
+00:13:32,331 --> 00:13:35,658
+The partnership dissolved in nineteen ninety-five,
+
+332
+00:13:35,658 --> 00:13:38,253
+and Wynne kept the Houston business and
+
+333
+00:13:38,253 --> 00:13:40,516
+renamed it DeLorean Motor Company.
+
+334
+00:13:40,696 --> 00:13:44,788
+In nineteen ninety-seven he acquired the remaining
+
+335
+00:13:44,788 --> 00:13:48,144
+inventory, exclusive distribution rights,
+
+336
+00:13:48,144 --> 00:13:50,599
+tooling, drawings and records.
+
+337
+00:13:50,779 --> 00:13:52,043
+By our arithmetic,
+
+338
+00:13:52,043 --> 00:13:54,782
+that is fourteen years from the factory
+
+339
+00:13:54,782 --> 00:13:57,380
+closing to the owner of today's parts
+
+340
+00:13:57,380 --> 00:13:58,012
+business.
+
+341
+00:13:58,361 --> 00:14:00,283
+The move to the present site was
+
+342
+00:14:00,283 --> 00:14:00,823
+physical.
+
+343
+00:14:01,003 --> 00:14:03,841
+The store says the Ohio warehouse closed
+
+344
+00:14:03,841 --> 00:14:06,395
+in two thousand one and two thousand
+
+345
+00:14:06,395 --> 00:14:09,730
+two, with more than sixty tractor-trailer loads
+
+346
+00:14:09,730 --> 00:14:11,717
+moved to a new facility on a
+
+347
+00:14:11,717 --> 00:14:13,491
+two and a half acre site,
+
+348
+00:14:13,491 --> 00:14:15,620
+completed in two thousand two.
+
+349
+00:14:15,800 --> 00:14:18,896
+Wikipedia lists the company's founding date as
+
+350
+00:14:18,896 --> 00:14:21,587
+the twelfth of May nineteen ninety-five,
+
+351
+00:14:21,587 --> 00:14:23,741
+which matches the renaming year.
+
+352
+00:14:24,090 --> 00:14:26,104
+There is a wrinkle in the company
+
+353
+00:14:26,104 --> 00:14:26,714
+histories.
+
+354
+00:14:26,894 --> 00:14:29,634
+Wikipedia says the Texas company has no
+
+355
+00:14:29,634 --> 00:14:32,514
+direct connection with the original firm,
+
+356
+00:14:32,514 --> 00:14:34,902
+while its own store says its roots
+
+357
+00:14:34,902 --> 00:14:37,993
+trace to the nineteen eighty-two bankruptcy,
+
+358
+00:14:37,993 --> 00:14:40,873
+through the parts and rights it acquired.
+
+359
+00:14:41,053 --> 00:14:42,225
+Both can be true,
+
+360
+00:14:42,225 --> 00:14:44,775
+because buying assets is not the same
+
+361
+00:14:44,775 --> 00:14:46,567
+as being the same company.
+
+362
+00:14:46,747 --> 00:14:48,338
+The rights have been litigated.
+
+363
+00:14:48,687 --> 00:14:49,556
+For an owner,
+
+364
+00:14:49,556 --> 00:14:52,094
+the practical meaning is that one firm
+
+365
+00:14:52,094 --> 00:14:53,696
+holds much of the stock,
+
+366
+00:14:53,696 --> 00:14:55,700
+the drawings and the know-how.
+
+367
+00:14:55,880 --> 00:14:59,191
+Classic and Sports Car and Classics World
+
+368
+00:14:59,191 --> 00:15:01,614
+both say support is excellent,
+
+369
+00:15:01,614 --> 00:15:04,844
+and both point to clubs and specialists,
+
+370
+00:15:04,844 --> 00:15:06,944
+not just this one company.
+
+371
+00:15:07,124 --> 00:15:10,194
+Whether a single supplier affects prices is
+
+372
+00:15:10,194 --> 00:15:12,836
+something our sources do not examine.
+
+373
+00:15:13,186 --> 00:15:16,826
+Classic and Sports Car gives dimensions the
+
+374
+00:15:16,826 --> 00:15:18,858
+Wikipedia page does not:
+
+375
+00:15:18,858 --> 00:15:20,467
+fourteen feet long,
+
+376
+00:15:20,467 --> 00:15:23,260
+six feet six and a quarter inches
+
+377
+00:15:23,260 --> 00:15:26,138
+wide, three feet nine inches tall,
+
+378
+00:15:26,138 --> 00:15:29,016
+with a wheelbase of seven feet ten
+
+379
+00:15:29,016 --> 00:15:30,625
+and three quarters.
+
+380
+00:15:30,805 --> 00:15:33,804
+The weight is twenty-eight hundred forty pounds,
+
+381
+00:15:33,804 --> 00:15:36,366
+or twelve hundred eighty-eight kilograms.
+
+382
+00:15:36,546 --> 00:15:37,730
+By our arithmetic,
+
+383
+00:15:37,730 --> 00:15:40,625
+that is about one hundred sixty-eight inches
+
+384
+00:15:40,625 --> 00:15:41,283
+of length.
+
+385
+00:15:41,632 --> 00:15:42,865
+By our arithmetic,
+
+386
+00:15:42,865 --> 00:15:46,493
+one hundred thirty horsepower on twenty-eight hundred
+
+387
+00:15:46,493 --> 00:15:49,436
+forty pounds is about twenty-two pounds per
+
+388
+00:15:49,436 --> 00:15:50,189
+horsepower.
+
+389
+00:15:50,369 --> 00:15:53,179
+Classic and Sports Car lists zero to
+
+390
+00:15:53,179 --> 00:15:55,833
+sixty from ten point five to eight
+
+391
+00:15:55,833 --> 00:15:58,175
+seconds, depending on the car,
+
+392
+00:15:58,175 --> 00:16:00,907
+and top speed from one hundred nine
+
+393
+00:16:00,907 --> 00:16:04,185
+to one hundred thirty-five miles per hour.
+
+394
+00:16:04,365 --> 00:16:06,763
+It says the engine can be uprated
+
+395
+00:16:06,763 --> 00:16:07,999
+to European spec.
+
+396
+00:16:08,348 --> 00:16:10,961
+A US detail matters for owners.
+
+397
+00:16:11,141 --> 00:16:14,232
+Classic and Sports Car says American cars
+
+398
+00:16:14,232 --> 00:16:17,624
+had an eighty-five mile per hour speedometer,
+
+399
+00:16:17,624 --> 00:16:20,413
+though a one hundred seventy mile per
+
+400
+00:16:20,413 --> 00:16:22,147
+hour item is available.
+
+401
+00:16:22,327 --> 00:16:25,133
+It also says US regulations raised the
+
+402
+00:16:25,133 --> 00:16:27,201
+front of the car by an inch,
+
+403
+00:16:27,201 --> 00:16:30,524
+and lowering it improves handling and stance.
+
+404
+00:16:30,704 --> 00:16:32,269
+Those are small costs,
+
+405
+00:16:32,269 --> 00:16:34,260
+but they are part of what an
+
+406
+00:16:34,260 --> 00:16:35,185
+owner may do.
+
+407
+00:16:35,535 --> 00:16:37,120
+Tyres are two sizes:
+
+408
+00:16:37,120 --> 00:16:41,159
+one hundred ninety-five over sixty on fourteen-inch
+
+409
+00:16:41,159 --> 00:16:42,743
+wheels at the front,
+
+410
+00:16:42,743 --> 00:16:46,703
+two hundred thirty-five over sixty on fifteen-inch
+
+411
+00:16:46,703 --> 00:16:47,654
+at the rear,
+
+412
+00:16:47,654 --> 00:16:49,793
+per Classic and Sports Car.
+
+413
+00:16:49,973 --> 00:16:52,131
+It says to check that the space-saver
+
+414
+00:16:52,131 --> 00:16:54,114
+spare and toolkit are in the front
+
+415
+00:16:54,114 --> 00:16:54,814
+compartment.
+
+416
+00:16:54,994 --> 00:16:57,991
+Compared with the six-wheel trucks in our
+
+417
+00:16:57,991 --> 00:17:00,695
+other videos, tyres are a small item,
+
+418
+00:17:00,695 --> 00:17:02,961
+but we found no price for these
+
+419
+00:17:02,961 --> 00:17:03,399
+sizes.
+
+420
+00:17:03,749 --> 00:17:05,209
+What does the buyer get for the
+
+421
+00:17:05,209 --> 00:17:05,491
+money?
+
+422
+00:17:05,671 --> 00:17:09,369
+Classic and Sports Car says timeless Giugiaro
+
+423
+00:17:09,369 --> 00:17:11,835
+styling, attention everywhere,
+
+424
+00:17:11,835 --> 00:17:14,958
+a bulletproof engine and transmission,
+
+425
+00:17:14,958 --> 00:17:17,095
+and a usable grand tourer.
+
+426
+00:17:17,275 --> 00:17:19,814
+Against that: strictly a two-seater,
+
+427
+00:17:19,814 --> 00:17:22,777
+performance that does not match the looks,
+
+428
+00:17:22,777 --> 00:17:25,739
+and attention that will not suit everyone.
+
+429
+00:17:25,919 --> 00:17:27,190
+Car and Driver,
+
+430
+00:17:27,190 --> 00:17:29,563
+in late nineteen eighty-one,
+
+431
+00:17:29,563 --> 00:17:33,291
+found unpredictable handling on bumpy roads.
+
+432
+00:17:33,641 --> 00:17:37,937
+Classic and Sports Car offers two alternatives.
+
+433
+00:17:38,117 --> 00:17:40,149
+The Lotus Esprit S2.
+
+434
+00:17:40,329 --> 00:17:40,935
+2 or S3,
+
+435
+00:17:40,935 --> 00:17:44,116
+sold from nineteen eighty to eighty-seven,
+
+436
+00:17:44,116 --> 00:17:46,842
+with eight hundred fifty-five built,
+
+437
+00:17:46,842 --> 00:17:49,417
+is now priced at eight thousand to
+
+438
+00:17:49,417 --> 00:17:51,765
+twenty thousand pounds or more.
+
+439
+00:17:51,945 --> 00:17:53,246
+The Pontiac Fiero,
+
+440
+00:17:53,246 --> 00:17:56,716
+sold from nineteen eighty-three to eighty-eight,
+
+441
+00:17:56,716 --> 00:17:59,319
+with three hundred seventy thousand,
+
+442
+00:17:59,319 --> 00:18:01,487
+one hundred sixty-eight built,
+
+443
+00:18:01,487 --> 00:18:04,379
+is one thousand to five thousand pounds.
+
+444
+00:18:04,728 --> 00:18:06,044
+By our arithmetic,
+
+445
+00:18:06,044 --> 00:18:09,114
+the same guide's average DeLorean price of
+
+446
+00:18:09,114 --> 00:18:12,330
+twenty-five thousand pounds is more than the
+
+447
+00:18:12,330 --> 00:18:14,669
+top of the Esprit range it lists
+
+448
+00:18:14,669 --> 00:18:17,592
+and five to twenty-five times the Fiero.
+
+449
+00:18:17,772 --> 00:18:20,682
+The Fiero was built in numbers forty-one
+
+450
+00:18:20,682 --> 00:18:22,210
+times the DeLorean's,
+
+451
+00:18:22,210 --> 00:18:23,519
+by our arithmetic.
+
+452
+00:18:23,699 --> 00:18:26,247
+Rarity and film fame show up in
+
+453
+00:18:26,247 --> 00:18:29,945
+the price, not in horsepower or practicality.
+
+454
+00:18:30,295 --> 00:18:32,269
+The Esprit link is interesting.
+
+455
+00:18:32,449 --> 00:18:35,847
+Wikipedia says the DeLorean's chassis is derived
+
+456
+00:18:35,847 --> 00:18:38,041
+from the Lotus Esprit platform,
+
+457
+00:18:38,041 --> 00:18:41,226
+and that Colin Chapman re-engineered the car.
+
+458
+00:18:41,406 --> 00:18:44,449
+So the Esprit is also a mechanical
+
+459
+00:18:44,449 --> 00:18:45,075
+cousin.
+
+460
+00:18:45,255 --> 00:18:47,691
+The guide lists it as an alternative
+
+461
+00:18:47,691 --> 00:18:49,586
+that is cheaper and quicker,
+
+462
+00:18:49,586 --> 00:18:51,480
+at six and a half seconds to
+
+463
+00:18:51,480 --> 00:18:53,104
+sixty, though less rare,
+
+464
+00:18:53,104 --> 00:18:55,878
+with only eight hundred fifty-five built.
+
+465
+00:18:56,228 --> 00:18:58,028
+Now the costs we could not find.
+
+466
+00:18:58,208 --> 00:19:01,373
+We found no published insurance quotes for
+
+467
+00:19:01,373 --> 00:19:02,202
+a DeLorean.
+
+468
+00:19:02,382 --> 00:19:04,411
+We found no storage prices,
+
+469
+00:19:04,411 --> 00:19:06,966
+apart from the fact that the Texas
+
+470
+00:19:06,966 --> 00:19:09,220
+company offers indoor storage.
+
+471
+00:19:09,400 --> 00:19:11,688
+We found no registration,
+
+472
+00:19:11,688 --> 00:19:14,067
+inspection or import fees.
+
+473
+00:19:14,247 --> 00:19:16,871
+A Hagerty page we opened gave sale
+
+474
+00:19:16,871 --> 00:19:19,186
+data that looked inconsistent,
+
+475
+00:19:19,186 --> 00:19:20,807
+so we did not use it.
+
+476
+00:19:21,156 --> 00:19:23,998
+Classics World does mention imports:
+
+477
+00:19:23,998 --> 00:19:27,312
+shipping and import costs must be factored
+
+478
+00:19:27,312 --> 00:19:29,522
+in when buying from America,
+
+479
+00:19:29,522 --> 00:19:32,205
+though a decent number of cars are
+
+480
+00:19:32,205 --> 00:19:33,626
+already in the UK.
+
+481
+00:19:33,806 --> 00:19:37,345
+Petrolicious says to confirm import taxes were
+
+482
+00:19:37,345 --> 00:19:37,730
+paid.
+
+483
+00:19:37,910 --> 00:19:41,164
+Classic and Sports Car says virtually all
+
+484
+00:19:41,164 --> 00:19:43,704
+cars were sold new to the United
+
+485
+00:19:43,704 --> 00:19:46,799
+States, and about two hundred fifty are
+
+486
+00:19:46,799 --> 00:19:47,592
+in the UK.
+
+487
+00:19:47,942 --> 00:19:49,848
+If you want the movie look,
+
+488
+00:19:49,848 --> 00:19:54,506
+ThePricer describes a professionally converted nineteen eighty-one
+
+489
+00:19:54,506 --> 00:19:57,047
+Back to the Future replica that sold
+
+490
+00:19:57,047 --> 00:20:00,788
+for seventy-six thousand pounds after twenty-one bids
+
+491
+00:20:00,788 --> 00:20:03,964
+on the twentieth of August twenty twenty-six.
+
+492
+00:20:04,144 --> 00:20:06,377
+The seller said he spent more than
+
+493
+00:20:06,377 --> 00:20:09,399
+sixty thousand pounds on the conversion alone,
+
+494
+00:20:09,399 --> 00:20:11,238
+separate from the donor car.
+
+495
+00:20:11,587 --> 00:20:12,992
+By our arithmetic,
+
+496
+00:20:12,992 --> 00:20:16,738
+sixty thousand of seventy-six thousand pounds is
+
+497
+00:20:16,738 --> 00:20:19,938
+at least seventy-nine percent of the sale
+
+498
+00:20:19,938 --> 00:20:22,826
+price, spent on the conversion alone.
+
+499
+00:20:23,006 --> 00:20:25,319
+The owner did not recover the donor
+
+500
+00:20:25,319 --> 00:20:27,830
+car's cost, which the article does not
+
+501
+00:20:27,830 --> 00:20:28,161
+give.
+
+502
+00:20:28,341 --> 00:20:30,945
+It shows that modifying a DeLorean to
+
+503
+00:20:30,945 --> 00:20:33,057
+a film look is a separate bill
+
+504
+00:20:33,057 --> 00:20:35,028
+from buying and keeping one.
+
+505
+00:20:35,378 --> 00:20:36,493
+And the real thing.
+
+506
+00:20:36,673 --> 00:20:39,090
+A genuine Back to the Future Part
+
+507
+00:20:39,090 --> 00:20:42,167
+Three production car sold for five hundred
+
+508
+00:20:42,167 --> 00:20:45,902
+forty-one thousand, two hundred dollars in December
+
+509
+00:20:45,902 --> 00:20:49,711
+twenty eleven, according to ThePricer and Wikipedia.
+
+510
+00:20:49,891 --> 00:20:51,154
+By our arithmetic,
+
+511
+00:20:51,154 --> 00:20:53,822
+that is about nine times the benchmark
+
+512
+00:20:53,822 --> 00:20:55,857
+price of a regular car today,
+
+513
+00:20:55,857 --> 00:20:58,454
+though it was sold fifteen years ago,
+
+514
+00:20:58,454 --> 00:21:00,630
+and was one of three survivors.
+
+515
+00:21:00,980 --> 00:21:02,536
+Let us build a simple sheet.
+
+516
+00:21:02,716 --> 00:21:05,044
+Purchase, fifty-nine thousand,
+
+517
+00:21:05,044 --> 00:21:08,614
+forty-nine dollars as the automatic benchmark.
+
+518
+00:21:08,794 --> 00:21:11,960
+Fuel, two hundred eighty-six to four hundred
+
+519
+00:21:11,960 --> 00:21:14,982
+twenty-eight a year at two thousand miles.
+
+520
+00:21:15,162 --> 00:21:16,161
+A brake kit,
+
+521
+00:21:16,161 --> 00:21:18,158
+nine hundred fifty-five.
+
+522
+00:21:18,338 --> 00:21:20,600
+Everything else is unknown:
+
+523
+00:21:20,600 --> 00:21:22,862
+insurance, storage, labour,
+
+524
+00:21:22,862 --> 00:21:26,047
+and repairs beyond the examples above.
+
+525
+00:21:26,227 --> 00:21:28,883
+The known running costs are small beside
+
+526
+00:21:28,883 --> 00:21:29,547
+the price.
+
+527
+00:21:29,896 --> 00:21:31,034
+Over five years,
+
+528
+00:21:31,034 --> 00:21:32,313
+by our arithmetic,
+
+529
+00:21:32,313 --> 00:21:34,587
+fuel and a brake kit total about
+
+530
+00:21:34,587 --> 00:21:38,070
+twenty-four hundred to three thousand one hundred
+
+531
+00:21:38,070 --> 00:21:38,639
+dollars.
+
+532
+00:21:38,819 --> 00:21:40,957
+That is four to five percent of
+
+533
+00:21:40,957 --> 00:21:42,267
+the purchase price.
+
+534
+00:21:42,447 --> 00:21:45,060
+But a single chassis or engine cradle
+
+535
+00:21:45,060 --> 00:21:46,825
+repair could exceed that,
+
+536
+00:21:46,825 --> 00:21:49,368
+and our sources give only pounds for
+
+537
+00:21:49,368 --> 00:21:50,144
+some parts.
+
+538
+00:21:50,324 --> 00:21:51,477
+This is a floor,
+
+539
+00:21:51,477 --> 00:21:52,414
+not a budget.
+
+540
+00:21:52,764 --> 00:21:54,378
+The upside is value.
+
+541
+00:21:54,558 --> 00:21:57,906
+ThePricer calls the older range outdated,
+
+542
+00:21:57,906 --> 00:22:01,009
+and Classic and Sports Car says prices
+
+543
+00:22:01,009 --> 00:22:03,541
+are rising and cars are a sound
+
+544
+00:22:03,541 --> 00:22:04,276
+purchase.
+
+545
+00:22:04,456 --> 00:22:07,765
+Petrolicious expects prices not to fall back.
+
+546
+00:22:07,945 --> 00:22:10,225
+Those are opinions from guides,
+
+547
+00:22:10,225 --> 00:22:12,138
+not forecasts we can test,
+
+548
+00:22:12,138 --> 00:22:14,566
+and the Hagerty page we could not
+
+549
+00:22:14,566 --> 00:22:15,154
+rely on.
+
+550
+00:22:15,334 --> 00:22:17,268
+We state them as views,
+
+551
+00:22:17,268 --> 00:22:18,109
+not facts.
+
+552
+00:22:18,459 --> 00:22:20,005
+And the alternative,
+
+553
+00:22:20,005 --> 00:22:21,165
+a new DeLorean.
+
+554
+00:22:21,345 --> 00:22:24,779
+Wikipedia says the Texas company's Alpha5 electric
+
+555
+00:22:24,779 --> 00:22:27,664
+car was announced in May twenty twenty-two
+
+556
+00:22:27,664 --> 00:22:29,930
+but had not launched as of August
+
+557
+00:22:29,930 --> 00:22:31,167
+twenty twenty-six.
+
+558
+00:22:31,347 --> 00:22:33,904
+ThePricer says no retail price had been
+
+559
+00:22:33,904 --> 00:22:36,854
+published, and older estimates of one hundred
+
+560
+00:22:36,854 --> 00:22:39,542
+to one hundred fifty thousand dollars are
+
+561
+00:22:39,542 --> 00:22:42,492
+third-party projections, not official prices.
+
+562
+00:22:42,672 --> 00:22:44,837
+The earlier plan was about a hundred
+
+563
+00:22:44,837 --> 00:22:45,679
+thousand each.
+
+564
+00:22:46,029 --> 00:22:47,005
+What is missing.
+
+565
+00:22:47,185 --> 00:22:48,682
+Insurance quotes.
+
+566
+00:22:48,862 --> 00:22:50,314
+Storage prices.
+
+567
+00:22:50,494 --> 00:22:53,176
+Labour rates for the stainless repairs.
+
+568
+00:22:53,356 --> 00:22:56,213
+A measured fuel economy rather than a
+
+569
+00:22:56,213 --> 00:22:56,676
+range.
+
+570
+00:22:56,856 --> 00:22:59,422
+The mileage owners actually drive.
+
+571
+00:22:59,602 --> 00:23:03,958
+A depreciation or appreciation curve instead of
+
+572
+00:23:03,958 --> 00:23:05,070
+a few sales.
+
+573
+00:23:05,250 --> 00:23:07,233
+If you own a DeLorean and can
+
+574
+00:23:07,233 --> 00:23:08,669
+share a real invoice,
+
+575
+00:23:08,669 --> 00:23:10,720
+tell us in the comments and we
+
+576
+00:23:10,720 --> 00:23:12,634
+will update the description.
+
+577
+00:23:12,983 --> 00:23:14,739
+So what does it really cost to
+
+578
+00:23:14,739 --> 00:23:15,967
+own a DeLorean today?
+
+579
+00:23:16,147 --> 00:23:19,305
+About fifty-nine thousand dollars to buy an
+
+580
+00:23:19,305 --> 00:23:21,288
+automatic by one benchmark,
+
+581
+00:23:21,288 --> 00:23:23,565
+a few hundred dollars a year in
+
+582
+00:23:23,565 --> 00:23:24,887
+fuel at light use,
+
+583
+00:23:24,887 --> 00:23:27,604
+and an open-ended bill for the things
+
+584
+00:23:27,604 --> 00:23:28,779
+that sit unused.
+
+585
+00:23:28,959 --> 00:23:31,409
+In the other videos of this series
+
+586
+00:23:31,409 --> 00:23:33,571
+we show two things you did not
+
+587
+00:23:33,571 --> 00:23:34,580
+know about it,
+
+588
+00:23:34,580 --> 00:23:36,814
+compare it with the Cybertruck,
+
+589
+00:23:36,814 --> 00:23:39,408
+and tell the story of John DeLorean.
+
+590
+00:23:39,588 --> 00:23:42,084
+Subscribe to Pickup Reality.
