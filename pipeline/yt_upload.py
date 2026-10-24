@@ -64,6 +64,8 @@ def upload(tok, path, title, desc, tags, at):
     r = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
                       headers=h, json=body, timeout=60)
     if r.status_code == 403 and "quota" in r.text.lower(): return "QUOTA"
+    if r.status_code == 400 and "uploadLimitExceeded" in r.text: print("daily upload limit reached:", r.text[:300]); return "QUOTA"
+    if not r.ok: print("insert failed", r.status_code, r.text[:500])
     r.raise_for_status()
     with open(path, "rb") as f:
         u = requests.put(r.headers["Location"], data=f, headers={"Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"}, timeout=3600)
