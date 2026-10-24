@@ -1,0 +1,334 @@
+{
+ "id": "video117",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Lamborghini Countach",
+ "scenes": [
+  {
+   "text": "Most Lamborghinis are named after fighting bulls. The Miura, the Espada, the Diablo. The Countach is not. Its name is a word of astonishment, and the story of where it came from is only half documented. And the car that wears it was designed with a periscope, because the driver could not see out of the back. These are two things you may not know about the Lamborghini Countach.",
+   "query": "Lamborghini Countach",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE LAMBORGHINI COUNTACH",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We will take them one at a time: the name, and the periscope. Along the way we will also look at what the sources say about the prototype that was destroyed on purpose, the scissor doors, and the numbers. Every fact comes from a published source, listed in the description. Where sources disagree, we tell you. Where we do the maths, we say so.",
+   "query": "Lamborghini Countach",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 8
+  },
+  {
+   "text": "Ferruccio Lamborghini named his cars after bulls. Wikipedia says the Miura was named after a family of Spanish fighting bulls, and that he visited their ranch near Seville in nineteen sixty-two. The list continues: Islero, Espada, Jarama, Urraco, Jalpa and Diablo. The page says the Countach broke that tradition completely.",
+   "query": "Lamborghini Miura",
+   "caption": "MIURA, ISLERO, ESPADA, JARAMA, URRACO, JALPA, DIABLO \u2014 BULL NAMES",
+   "cuts": 5,
+   "chapter": "Thing one: the name is not a bull"
+  },
+  {
+   "text": "The name comes from a Piedmontese exclamation of astonishment, Wikipedia says. The page spells it contacc. The designer, Marcello Gandini, spells it countach, and says the word was first used as a joke by a worker, and then adopted. He calls it, in the page's quotation, the only true story behind the word. The name was coined in late nineteen seventy or nineteen seventy-one.",
+   "query": "Marcello Gandini",
+   "caption": "'CONTACC': A PIEDMONTESE EXCLAMATION OF ASTONISHMENT (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the part that is not settled. Gandini says the word, as he spells it, literally means plague or contagion, but is used to express amazement. The Wikipedia article itself describes it only as an exclamation of astonishment. So two descriptions of the same word, in the same article, do not match exactly. We report both rather than choosing.",
+   "query": "Lamborghini Countach",
+   "caption": "GANDINI: 'LITERALLY' PLAGUE OR CONTAGION \u00b7 ARTICLE: AN EXCLAMATION",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the popular story that Nuccio Bertone saw the prototype and exclaimed the word. Wikipedia marks that story as needing a citation. In other words, the page does not support it. It is a good story and it may be true, but we have no source for it, so we do not tell it as fact. Gandini's version is the one the page quotes.",
+   "query": "Nuccio Bertone",
+   "caption": "THE BERTONE-EXCLAIMED STORY: 'CITATION NEEDED' (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Why does this matter? Because retellings of the Countach story are full of confident claims. A name that sounds like a story attracts one. The honest version is short: the word is a Piedmontese expression of amazement, a worker's joke was adopted, it was coined around nineteen seventy or seventy-one, and that is what our sources can support.",
+   "query": "Lamborghini Countach",
+   "caption": "THE HONEST VERSION IS SHORT (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Why was the car built at all? Wikipedia says Ferruccio Lamborghini wanted a successor to the Miura, which by nineteen seventy had lost ground to rivals such as the Ferrari Daytona. The chief engineer, Paolo Stanzani, started work in nineteen seventy under the project name L P one twelve. Test driver Bob Wallace, assistant engineer Massimo Parenti and Marcello Gandini of Bertone also worked on it.",
+   "query": "Paolo Stanzani",
+   "caption": "1970: PROJECT LP112 \u00b7 STANZANI, WALLACE, PARENTI, GANDINI",
+   "cuts": 3,
+   "chapter": "A car meant to replace the Miura"
+  },
+  {
+   "text": "The first prototype, the L P five hundred, appeared at the Geneva Motor Show in nineteen seventy-one. The production L P four hundred followed in nineteen seventy-four. By our arithmetic, that is three years between the prototype and the car customers could buy. The prototype's bodywork came from Bertone, and its chassis from Marchesi, which also built the production chassis.",
+   "query": "Geneva Motor Show",
+   "caption": "LP500 PROTOTYPE: GENEVA 1971 \u00b7 LP400 PRODUCTION: 1974 (3 YEARS LATER)",
+   "cuts": 3
+  },
+  {
+   "text": "The Miura, which the Countach was meant to replace, is a car with its own story. Wikipedia says the engineers Giampaolo Dallara, Paolo Stanzani and Bob Wallace built the Miura prototype in their spare time, largely at night, in nineteen sixty-five. Ferruccio Lamborghini approved it after seeing the development car, and gave the engineers a free hand.",
+   "query": "Lamborghini Miura",
+   "caption": "MIURA: BUILT IN SPARE TIME IN 1965 \u00b7 FERRUCCIO GAVE A FREE HAND",
+   "cuts": 3
+  },
+  {
+   "text": "The Miura was the first high-performance production road car with a mid-engine, rear-wheel-drive layout, according to the page. Its three thousand, nine hundred twenty-nine cubic centimetre V twelve sat sideways behind the driver. The Countach kept the mid-engine idea, but turned the engine around. We will come back to that in the comparison video.",
+   "query": "Lamborghini Miura",
+   "caption": "MIURA: FIRST HIGH-PERFORMANCE MID-ENGINE RWD ROAD CAR (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the second thing. The Countach prototype had a periscope. Wikipedia says that because rear visibility was poor, the prototype used a periscope supplied by Donnelly Mirrors. It had originally been developed for an E S V project, an experimental safety vehicle programme. The production L P four hundred kept it. Later models used conventional mirrors.",
+   "query": "Lamborghini Countach LP400",
+   "caption": "THE LP400 HAD A ROOF PERISCOPE FROM DONNELLY MIRRORS (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Thing two: a periscope for the driver"
+  },
+  {
+   "text": "That is where the name Periscopio comes from. The RM Sotheby's catalogue calls the first-series cars the L P four hundred Periscopio, and says about one hundred fifty were built, according to the Countach Register. By our arithmetic, that is about ninety-five percent of the one hundred fifty-seven L P four hundred cars Wikipedia lists. The two sources are close, not identical.",
+   "query": "Countach LP400 Periscopio",
+   "caption": "~150 PERISCOPIO (COUNTACH REGISTER) VS 157 LP400 (WIKIPEDIA) \u2248 95% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The page also describes another trick for reversing. Many drivers park by sitting on the wide sill with the door raised, and reversing while looking over the back of the car from outside. That is not a sales brochure. It is a practical workaround, and it appears in the encyclopaedia entry because owners actually do it.",
+   "query": "Countach scissor doors",
+   "caption": "REVERSING WHILE SITTING ON THE SILL (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Rear visibility is the price of the shape. Wikipedia gives the dimensions of the production L P four hundred as four hundred fourteen centimetres long, one hundred eighty-nine wide and one hundred seven tall. By our arithmetic, it is eighty-two centimetres wider than it is tall. With the engine behind the driver, a low, wide car with a high rear deck is hard to see out of.",
+   "query": "Lamborghini Countach",
+   "caption": "LP400: 414 \u00d7 189 \u00d7 107 CM (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The scissor doors are the most famous feature of the Countach, yet they did not start here. Wikipedia says they first appeared on Marcello Gandini's nineteen sixty-eight Alfa Romeo Carabo concept. The doors hinge horizontally at the front, lift up and tilt forward, supported by gas struts. The Countach made the idea famous, but it was not the first car to show it.",
+   "query": "Alfa Romeo Carabo",
+   "caption": "SCISSOR DOORS FIRST SEEN ON GANDINI'S 1968 ALFA ROMEO CARABO",
+   "cuts": 3,
+   "chapter": "The doors that go up"
+  },
+  {
+   "text": "There was a safety question. Wikipedia says engineers studied a removable kick-out windscreen and explosive bolts so that occupants could escape after a rollover. Neither idea was used on production cars. So the dramatic doors came without a documented emergency solution, a detail that is easy to forget when looking at a poster.",
+   "query": "Lamborghini Countach",
+   "caption": "KICK-OUT WINDSCREEN AND EXPLOSIVE BOLTS: STUDIED, NOT USED",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also says the Countach prototype was destroyed on purpose. The L P five hundred was crash-tested at MIRA in England on the twenty-first of March, nineteen seventy-four, to obtain European type approval. The show car that introduced the world to the Countach, in other words, was not preserved. It was used up so that the production car could be sold.",
+   "query": "MIRA test facility",
+   "caption": "THE LP500 PROTOTYPE WAS CRASH-TESTED AT MIRA ON MARCH 21, 1974 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The prototype was shown in nineteen seventy-one and crashed on the twenty-first of March, nineteen seventy-four, so by our arithmetic about three years passed between the two. The page does not give the exact date of the show, so this is approximate. The point stands: the car that made the name famous was destroyed in the process of making production possible.",
+   "query": "Lamborghini Countach prototype",
+   "caption": "ABOUT THREE YEARS FROM DEBUT TO DESTRUCTION (OUR APPROXIMATION)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the figures, from the Wikipedia table. The L P four hundred has a three thousand, nine hundred twenty-nine cubic centimetre V twelve rated at three hundred seventy-five metric horsepower at eight thousand r p m, and three hundred sixty-one newton-metres. Dry weight is one thousand, sixty-five kilograms. Zero to a hundred in five point four seconds. One hundred fifty-seven were built.",
+   "query": "Lamborghini Countach LP400",
+   "caption": "LP400: 3.9 L V12 \u00b7 375 PS \u00b7 361 NM \u00b7 1,065 KG DRY \u00b7 0\u2013100 IN 5.4 S \u00b7 157 BUILT",
+   "cuts": 3,
+   "chapter": "The numbers"
+  },
+  {
+   "text": "Top speed is where things get interesting. The table gives two hundred eighty-eight kilometres per hour measured, with three hundred fifteen claimed. By our arithmetic, the claim is nine percent above the measurement, or twenty-seven kilometres per hour. Wikipedia also lists a Walter Wolf special at three hundred fifteen or three hundred twenty-four claimed. Claims and measurements are different things.",
+   "query": "Lamborghini Countach",
+   "caption": "LP400 TOP SPEED: 288 KM/H MEASURED VS 315 CLAIMED (+9%, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The L P four hundred S followed. Wikipedia lists three hundred forty-nine or three hundred fifty metric horsepower, depending on whether you read the table or the text, with two hundred fifty-four kilometres per hour measured and two hundred seventy-nine point six claimed. Two hundred thirty-seven were built, in three series of fifty, one hundred five and eighty-two. It was slower than the car it replaced.",
+   "query": "Lamborghini Countach LP400 S",
+   "caption": "LP400 S: 349/350 PS \u00b7 254 KM/H MEASURED \u00b7 237 BUILT (50 + 105 + 82)",
+   "cuts": 3
+  },
+  {
+   "text": "Our arithmetic: fifty plus one hundred five plus eighty-two is two hundred thirty-seven, which matches the page. The S measured about thirty-four kilometres per hour slower than the L P four hundred, about twelve percent. The page explains part of this: the optional rear wing improved high-speed stability, but cut top speed by at least sixteen kilometres per hour.",
+   "query": "Countach rear wing",
+   "caption": "LP400 S \u2248 12% SLOWER THAN LP400 \u00b7 WING COST AT LEAST 16 KM/H (OUR ARITHMETIC + WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the engine grew. The L P five hundred S has a four thousand, seven hundred fifty-four cubic centimetre V twelve, the page says, with three hundred seventy-five metric horsepower and two hundred ninety-three kilometres per hour. Three hundred twenty-one were built. The five thousand Quattrovalvole has five thousand, one hundred sixty-seven cubic centimetres and four hundred fifty-five metric horsepower, and six hundred ten were built.",
+   "query": "Lamborghini Countach 5000 QV",
+   "caption": "LP500 S: 4.75 L \u00b7 375 PS \u00b7 321 BUILT \u00b7 5000 QV: 5.17 L \u00b7 455 PS \u00b7 610 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "The last version was the twenty-fifth Anniversary, restyled by Horacio Pagani, with six hundred fifty-seven built and a listed top speed of two hundred ninety-eight kilometres per hour. Add them up, by our arithmetic: one, plus one fifty-seven, plus two thirty-seven, plus three twenty-one, plus six ten, plus six fifty-seven. The total is one thousand, nine hundred eighty-three, which matches the page.",
+   "query": "Countach 25th Anniversary",
+   "caption": "TOTAL 1,983 (INCLUDING THE PROTOTYPE) \u00b7 25TH ANNIVERSARY: 657 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "Notice the shape of that production curve. Wikipedia says substantially more than half the cars were built in the final five years. By our arithmetic, the Quattrovalvole and the anniversary car together account for one thousand, two hundred sixty-seven cars, about sixty-four percent of the total. The car became more popular as it aged.",
+   "query": "Lamborghini Countach production",
+   "caption": "5000 QV + 25TH ANNIVERSARY = 1,267 CARS \u2248 64% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "How long was the Countach made? Wikipedia says nineteen seventy-four to nineteen ninety, which is sixteen years. But the same article also refers to a nineteen-year lifespan, which, by our reading, counts from the nineteen seventy-one prototype. Two numbers for one car, because it depends on whether you start the clock at the show or at the showroom.",
+   "query": "Lamborghini Countach",
+   "caption": "16 YEARS (1974\u20131990) OR 19 YEARS (FROM THE 1971 PROTOTYPE)",
+   "cuts": 3,
+   "chapter": "The sixteen-year question"
+  },
+  {
+   "text": "Here is why the long production matters. The Countach started as a Bertone show car, passed through the Wolf special era, a series of engine growths, a grey-market period in the United States and a Pagani facelift. It was effectively several cars with one name. Treating it as a single model, as many lists do, hides how much changed under the same silhouette.",
+   "query": "Lamborghini Countach",
+   "caption": "SEVERAL CARS WITH ONE NAME (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The page also notes that the V twelve itself dates from nineteen sixty-three, and was designed by Giotto Bizzarrini. By our arithmetic, the engine in the last Countach, built in nineteen ninety, was twenty-seven years old in design. That is not a flaw; the engine grew from three point nine to five point two litres. It is a reminder that the car's shape was new, but its heart was not.",
+   "query": "Lamborghini V12",
+   "caption": "V12 DESIGNED 1963 BY GIOTTO BIZZARRINI \u00b7 27 YEARS OLD IN 1990 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The United States was Lamborghini's largest market, Wikipedia says, yet the Countach was not built to U S or Canadian standards. Owners paid to modify cars during the grey-market era, which the page dates from nineteen seventy-six to nineteen eighty-eight. The first U S-specification factory model was the nineteen eighty-five five thousand Quattrovalvole, with larger bumpers and Bosch K-Jetronic fuel injection.",
+   "query": "Lamborghini Countach in America",
+   "caption": "GREY MARKET 1976\u20131988 \u00b7 FIRST US-SPEC MODEL: 1985 5000 QV",
+   "cuts": 3,
+   "chapter": "The American connection"
+  },
+  {
+   "text": "A Countach was also used as the Monaco Grand Prix safety car from nineteen eighty to nineteen eighty-three, the page says. And cars older than twenty-five years are exempt from U S federal design, safety and emissions rules. For a car that was never officially sold in the United States for its first decade, that exemption is an important part of its American story.",
+   "query": "Monaco Grand Prix",
+   "caption": "MONACO GP SAFETY CAR 1980\u201383 \u00b7 25-YEAR-OLD CARS EXEMPT FROM US RULES",
+   "cuts": 3
+  },
+  {
+   "text": "The Cannonball Run is mentioned too, but only as using a nineteen seventy-nine U S-model L P four hundred S. The page says the upper front spoiler on that car is unique to grey-market cars. That is all it says. The film associations that fans remember are not documented in our sources, so we leave them out.",
+   "query": "Lamborghini Countach LP400 S",
+   "caption": "CANNONBALL RUN: ONLY A 1979 US-MODEL LP400 S IS MENTIONED",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia lists several Countach projects that went no further. The L one fifty, from nineteen eighty-four to nineteen eighty-seven, was an update that Patrick Mimran rejected on cost grounds. The Q V X, in nineteen eighty-five, was a Group C racing car using a five point seven litre Countach-derived engine, not built by the factory. And a one-off, the Evoluzione, was destroyed in crash testing.",
+   "query": "Lamborghini Countach Evoluzione",
+   "caption": "UNBUILT: L150 (1984\u201387) \u00b7 QVX GROUP C CAR (1985) \u00b7 EVOLUZIONE DESTROYED",
+   "cuts": 3,
+   "chapter": "The cars that were never built"
+  },
+  {
+   "text": "The Evoluzione has disputed numbers. The text says about five hundred metric horsepower, a top speed of about three hundred twenty kilometres per hour and three hundred ninety-seven kilograms lighter than the Quattrovalvole. The table says four hundred fifty-five horsepower, three hundred thirty, and one thousand, fifty kilograms. We cannot reconcile them, so we say so.",
+   "query": "Lamborghini Countach Evoluzione",
+   "caption": "EVOLUZIONE: ~500 PS / 320 KM/H (TEXT) VS 455 PS / 330 KM/H (TABLE)",
+   "cuts": 3
+  },
+  {
+   "text": "And there were turbo Countachs. Max Bobnar, Lamborghini's Swiss distributor, commissioned two between nineteen eighty and nineteen eighty-two. The L P five hundred S Turbo, shown at Geneva in nineteen eighty-four, weighed one thousand, five hundred fifteen kilograms, with a claimed seven hundred fifty-nine metric horsepower in the text and seven hundred forty-six in the table, and a claimed top speed of three hundred thirty-five.",
+   "query": "Max Bobnar",
+   "caption": "LP500 S TURBO (1984): 1,515 KG \u00b7 759 PS (TEXT) / 746 PS (TABLE) \u00b7 335 KM/H CLAIMED",
+   "cuts": 3
+  },
+  {
+   "text": "Who was the man behind the name on the nose? Wikipedia says Ferruccio Lamborghini was born on the twenty-eighth of April, nineteen sixteen in Renazzo di Cento, to a family of wine growers. He was drawn more to farm machinery than to farming. He was drafted into the Italian air force in nineteen forty and served as a mechanic on the island of Rhodes.",
+   "query": "Ferruccio Lamborghini",
+   "caption": "BORN APRIL 28, 1916 \u00b7 AIR FORCE MECHANIC ON RHODES FROM 1940",
+   "cuts": 3,
+   "chapter": "The tractor maker"
+  },
+  {
+   "text": "After the war he returned to Italy in nineteen forty-six. The page says he bought surplus military vehicles and converted them into agricultural machines. His first tractors, around nineteen forty-seven, used engines from Morris trucks and a fuel atomiser that let them start on petrol and run on cheaper diesel. He founded Lamborghini Trattori in nineteen forty-eight.",
+   "query": "Lamborghini tractor",
+   "caption": "SURPLUS VEHICLES \u2192 TRACTORS \u00b7 LAMBORGHINI TRATTORI 1948 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The tractor money paid for the dream. Wikipedia says his income let him buy fast cars, among them Alfa Romeos, Lancias, a Mercedes three hundred S L, a Jaguar E-Type, two Maserati thirty-five hundred G Ts and several Ferrari two fifty G Ts. He opened Automobili Lamborghini in nineteen sixty-three at Sant'Agata Bolognese. A heating business followed in nineteen fifty-nine and a hydraulics firm in nineteen sixty-nine.",
+   "query": "Ferruccio Lamborghini's cars",
+   "caption": "AUTOMOBILI LAMBORGHINI FOUNDED 1963 AT SANT'AGATA BOLOGNESE",
+   "cuts": 3
+  },
+  {
+   "text": "The famous story says he started making cars after Enzo Ferrari insulted him about a clutch. Wikipedia describes that tale as being as much the stuff of legend as of fact. In a nineteen ninety-one interview, the page says, he recalled being told he could drive a tractor but never handle a Ferrari. The page also says his motives are unclear, and notes an author who argues economic motives were stronger.",
+   "query": "Enzo Ferrari and Ferruccio Lamborghini",
+   "caption": "THE FERRARI CLUTCH STORY: 'AS MUCH LEGEND AS FACT' (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "We tell you that not to spoil a good story, but because the story is the first thing people repeat about the Countach's maker. The sources support the clutch complaint and the quotation from the nineteen ninety-one interview. They do not settle why he really entered the car business. So the safest version is that both the legend and the economics may be part of it.",
+   "query": "Lamborghini Trattori",
+   "caption": "THE SOURCES DO NOT SETTLE WHY HE ENTERED THE CAR BUSINESS",
+   "cuts": 3
+  },
+  {
+   "text": "One more Countach story is better documented. Wikipedia says Walter Wolf bought an L P four hundred in nineteen seventy-five. The page says Dallara built a special version of chassis one one two zero one four eight with the five litre engine from the L P five hundred prototype, rated at four hundred fifty-three metric horsepower at seven thousand, nine hundred r p m.",
+   "query": "Walter Wolf Countach",
+   "caption": "WOLF SPECIAL (1975): 5.0 L ENGINE \u00b7 453 PS AT 7,900 RPM",
+   "cuts": 3,
+   "chapter": "The Wolf special"
+  },
+  {
+   "text": "It had a rear wing, which the page calls a precursor of the optional wing on the L P four hundred S. Its claimed top speed was three hundred fifteen or three hundred twenty-four kilometres per hour, depending on the source. The wing improved stability but cost at least sixteen kilometres per hour. Two more Wolf specials were built, one shown at Geneva in nineteen seventy-eight.",
+   "query": "Countach rear wing",
+   "caption": "WOLF SPECIAL: CLAIMED 315 OR 324 KM/H \u00b7 3 CARS BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "There is a small contradiction on that page. The Geneva car, chassis one one two one two one zero, is called the very first L P four hundred S, but its number falls in the second series, after chassis one one two one one zero zero. We cannot resolve it. We flag it, because it shows how even a well-documented car has loose ends.",
+   "query": "Geneva Motor Show 1978",
+   "caption": "CHASSIS 1121210: 'VERY FIRST' LP400 S, YET IN THE SECOND SERIES (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Now what the early cars sell for. RM Sotheby's Arizona sale of twenty twenty-six offered a nineteen seventy-seven L P four hundred Periscopio, chassis one one two zero two six two. It sold for eight hundred eighty-five thousand dollars. The page does not say whether that includes the buyer's premium. It was built right-hand drive for Australia and bought new by the singer Rod Stewart.",
+   "query": "Countach LP400 Periscopio",
+   "caption": "RM SOTHEBY'S ARIZONA 2026: LP400 PERISCOPIO $885,000 (ROD STEWART'S CAR)",
+   "cuts": 3,
+   "chapter": "What these cars sell for"
+  },
+  {
+   "text": "The same chassis had sold before. The Jalopy reports that it made seven hundred seventy-five thousand euros at RM Sotheby's Paris in February twenty twenty-one, after failing to reach its reserve at Artcurial's Retromobile sale in twenty twenty, where the estimate was eight hundred thousand to one point two million euros. We do not convert currencies, so we cannot say how much it rose.",
+   "query": "Rod Stewart's Countach",
+   "caption": "SAME CAR: \u20ac775,000 (PARIS, FEB 2021) \u00b7 NO SALE AT RETROMOBILE 2020",
+   "cuts": 3
+  },
+  {
+   "text": "Hagerty's valuation page, from April twenty twenty-five, shows one million dollars for a nineteen seventy-five L P four hundred in good condition with average specification. It does not list the other condition levels. Together with the auction result, that suggests the early cars trade around the high six figures to a million. That is our reading of two data points, not an index.",
+   "query": "Hagerty valuation",
+   "caption": "HAGERTY (APR 2025): 1975 LP400 'GOOD' = $1,000,000",
+   "cuts": 3
+  },
+  {
+   "text": "RM Sotheby's also sold a nineteen eighty-nine twenty-fifth Anniversary car in Arizona in twenty twenty-four for four hundred seventy-eight thousand dollars. It had 15,430 kilometres and had been with one owner since nineteen ninety-nine. The page says invoices since two thousand one total over sixty-eight thousand dollars. By our arithmetic, that is about fourteen percent of the sale price spent on service over roughly twenty-three years.",
+   "query": "Countach 25th Anniversary",
+   "caption": "25TH ANNIVERSARY SOLD $478,000 \u00b7 SERVICE INVOICES SINCE 2001 > $68,000 (\u224814%)",
+   "cuts": 3
+  },
+  {
+   "text": "Back to the car the Countach replaced. Wikipedia says the Miura rolling chassis appeared at the nineteen sixty-five Turin show and showgoers placed orders before there was a body. Bertone finished the body just days before the nineteen sixty-six Geneva Motor Show. The engineers had not checked whether the engine fitted the engine bay properly.",
+   "query": "Lamborghini Miura at Geneva",
+   "caption": "MIURA: ORDERS TAKEN AT TURIN 1965 BEFORE THERE WAS A BODY",
+   "cuts": 3,
+   "chapter": "The Miura it replaced"
+  },
+  {
+   "text": "So the page says they filled it with ballast and kept the bonnet locked at Geneva. Sales head Ubaldo Sgarzi turned away journalists who wanted to see the engine. Marcello Gandini's styling and the mid-engine layout made the Miura the highlight of the show. The Countach would be designed by the same stylist, five years later.",
+   "query": "Ubaldo Sgarzi",
+   "caption": "MIURA AT GENEVA 1966: BALLAST UNDER A LOCKED BONNET",
+   "cuts": 3
+  },
+  {
+   "text": "So, two things you may not have known. First, the name is not a bull. It is a Piedmontese exclamation of astonishment, a worker's joke that was adopted, and the story about Bertone exclaiming it is unsupported in our source. Second, the original production car had a periscope, because the driver could not see out of the back, and the prototype was crash-tested to destruction.",
+   "query": "Lamborghini Countach",
+   "caption": "1. THE NAME IS AN EXCLAMATION, NOT A BULL \u00b7 2. THE PERISCOPE",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "The numbers add up to a car that changed constantly. One thousand, nine hundred eighty-three units, six variants, a sixteen-year production run, and measured top speeds well below the claimed ones. Where the sources disagreed, we said so. If you know a figure we missed, put it in the comments with the source.",
+   "query": "Lamborghini Countach",
+   "caption": "1,983 UNITS \u00b7 16 YEARS \u00b7 CLAIMED SPEEDS ABOVE MEASURED",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you have wanted, the Periscopio or the Quattrovalvole? Tell us in the comments. In the other videos of this series, we compare the Countach with the Miura, work out what it really costs to own a classic Lamborghini, and tell how a tractor maker ended up building the Countach. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
