@@ -1,0 +1,2311 @@
+1
+00:00:00,000 --> 00:00:03,590
+A Yale-educated former Goldman Sachs executive,
+
+2
+00:00:03,590 --> 00:00:05,958
+his son who joined as the first
+
+3
+00:00:05,958 --> 00:00:08,784
+hire, a concept car that raised money
+
+4
+00:00:08,784 --> 00:00:10,465
+to buy metal printers,
+
+5
+00:00:10,465 --> 00:00:13,673
+and a hypercar that debuted online because
+
+6
+00:00:13,673 --> 00:00:15,812
+the auto show was cancelled.
+
+7
+00:00:15,992 --> 00:00:19,012
+That is the story behind the Czinger
+
+8
+00:00:19,012 --> 00:00:19,348
+21C.
+
+9
+00:00:19,528 --> 00:00:21,253
+It is not a simple one,
+
+10
+00:00:21,253 --> 00:00:24,555
+and our sources disagree on several details.
+
+11
+00:00:24,735 --> 00:00:26,511
+Here is what they actually say.
+
+12
+00:00:26,860 --> 00:00:30,584
+Our sources are an interview-based article from
+
+13
+00:00:30,584 --> 00:00:33,356
+CSQ in September twenty twenty-two,
+
+14
+00:00:33,356 --> 00:00:37,159
+an engineering article from the American Society
+
+15
+00:00:37,159 --> 00:00:41,516
+of Mechanical Engineers dated March twenty twenty-five,
+
+16
+00:00:41,516 --> 00:00:42,862
+a Facfox history,
+
+17
+00:00:42,862 --> 00:00:46,189
+GTPlanet's February twenty twenty preview,
+
+18
+00:00:46,189 --> 00:00:49,358
+a Backfire News report from March twenty
+
+19
+00:00:49,358 --> 00:00:51,497
+twenty-four, and Wikipedia.
+
+20
+00:00:51,677 --> 00:00:53,153
+Where they conflict,
+
+21
+00:00:53,153 --> 00:00:54,777
+we show both versions.
+
+22
+00:00:54,957 --> 00:00:57,267
+Our own arithmetic is labelled.
+
+23
+00:00:57,618 --> 00:00:59,638
+Start with Kevin Czinger.
+
+24
+00:00:59,818 --> 00:01:01,353
+CSQ describes him,
+
+25
+00:01:01,353 --> 00:01:03,144
+in twenty twenty-two,
+
+26
+00:01:03,144 --> 00:01:05,276
+as sixty-three years old,
+
+27
+00:01:05,276 --> 00:01:07,066
+from Cleveland, Ohio,
+
+28
+00:01:07,066 --> 00:01:09,199
+and based in Los Angeles.
+
+29
+00:01:09,379 --> 00:01:11,725
+He went to Yale College and Yale
+
+30
+00:01:11,725 --> 00:01:14,952
+Law School, and later studied engineering at
+
+31
+00:01:14,952 --> 00:01:16,786
+Arizona State University.
+
+32
+00:01:16,966 --> 00:01:19,389
+He played football at Yale in the
+
+33
+00:01:19,389 --> 00:01:22,546
+late nineteen seventies and early eighties,
+
+34
+00:01:22,546 --> 00:01:24,748
+and his first job was with the
+
+35
+00:01:24,748 --> 00:01:27,024
+recreation department of Parma,
+
+36
+00:01:27,024 --> 00:01:27,391
+Ohio.
+
+37
+00:01:27,741 --> 00:01:29,347
+His business career,
+
+38
+00:01:29,347 --> 00:01:30,712
+according to CSQ,
+
+39
+00:01:30,712 --> 00:01:34,163
+included a senior executive role at Goldman
+
+40
+00:01:34,163 --> 00:01:38,097
+Sachs and multiple high-ranking positions at Coda
+
+41
+00:01:38,097 --> 00:01:38,980
+Automotive.
+
+42
+00:01:39,160 --> 00:01:41,677
+The article gives no dates or titles
+
+43
+00:01:41,677 --> 00:01:42,446
+for either.
+
+44
+00:01:42,626 --> 00:01:44,741
+It also says he was a founding
+
+45
+00:01:44,741 --> 00:01:47,843
+funder and board member of Achievement First
+
+46
+00:01:47,843 --> 00:01:48,407
+Schools.
+
+47
+00:01:48,587 --> 00:01:50,685
+So by the time he turned to
+
+48
+00:01:50,685 --> 00:01:52,705
+cars, he had lived in law,
+
+49
+00:01:52,705 --> 00:01:55,890
+finance, education and the auto industry.
+
+50
+00:01:56,240 --> 00:01:58,462
+CSQ quotes his view of the car
+
+51
+00:01:58,462 --> 00:02:02,757
+industry: the current manufacturing system is economically
+
+52
+00:02:02,757 --> 00:02:05,276
+broken and environmentally broken,
+
+53
+00:02:05,276 --> 00:02:07,794
+and a new digital system is needed
+
+54
+00:02:07,794 --> 00:02:10,090
+rather than incremental change.
+
+55
+00:02:10,270 --> 00:02:11,977
+That is the motive behind the company.
+
+56
+00:02:12,157 --> 00:02:13,617
+It is a stated belief,
+
+57
+00:02:13,617 --> 00:02:15,874
+and the article presents it as his
+
+58
+00:02:15,874 --> 00:02:18,264
+reasoning, not as a measured result.
+
+59
+00:02:18,614 --> 00:02:19,937
+The car came second.
+
+60
+00:02:20,117 --> 00:02:23,330
+CSQ says Divergent 3D launched in twenty
+
+61
+00:02:23,330 --> 00:02:27,026
+fourteen, making cars by three-D printing with
+
+62
+00:02:27,026 --> 00:02:28,070
+reused metal.
+
+63
+00:02:28,250 --> 00:02:30,372
+Facfox says it was founded as a
+
+64
+00:02:30,372 --> 00:02:32,494
+small startup by Kevin Czinger,
+
+65
+00:02:32,494 --> 00:02:35,027
+and that within its first three years
+
+66
+00:02:35,027 --> 00:02:37,149
+it had grown into what it calls
+
+67
+00:02:37,149 --> 00:02:40,092
+an over one hundred million dollar venture.
+
+68
+00:02:40,272 --> 00:02:43,560
+ASME says Divergent has existed for eight
+
+69
+00:02:43,560 --> 00:02:44,603
+to ten years.
+
+70
+00:02:44,953 --> 00:02:46,392
+What did Divergent do?
+
+71
+00:02:46,572 --> 00:02:49,979
+ASME says its mission is toolless manufacturing
+
+72
+00:02:49,979 --> 00:02:52,807
+for the primary structures of vehicles.
+
+73
+00:02:52,987 --> 00:02:55,566
+That means the frame and the major
+
+74
+00:02:55,566 --> 00:02:58,903
+structural parts, made without the molds and
+
+75
+00:02:58,903 --> 00:03:00,951
+dies a normal factory uses.
+
+76
+00:03:01,131 --> 00:03:04,049
+CSQ says the company holds about five
+
+77
+00:03:04,049 --> 00:03:05,863
+hundred twenty patents,
+
+78
+00:03:05,863 --> 00:03:08,387
+a figure given by Kevin Czinger.
+
+79
+00:03:08,567 --> 00:03:10,971
+The sources do not list the patents.
+
+80
+00:03:11,320 --> 00:03:13,108
+There were early awards.
+
+81
+00:03:13,288 --> 00:03:16,270
+CSQ says Divergent won the Frost and
+
+82
+00:03:16,270 --> 00:03:21,239
+Sullivan twenty sixteen North American innovation technology
+
+83
+00:03:21,239 --> 00:03:25,297
+award, and received moonshot status from Google's
+
+84
+00:03:25,297 --> 00:03:26,953
+Solve for X program.
+
+85
+00:03:27,133 --> 00:03:30,579
+It also says the company hired engineers
+
+86
+00:03:30,579 --> 00:03:33,078
+from SpaceX, Apple and Tesla.
+
+87
+00:03:33,258 --> 00:03:35,617
+These are the company's own claims as
+
+88
+00:03:35,617 --> 00:03:37,147
+reported in the article.
+
+89
+00:03:37,327 --> 00:03:39,370
+The article does not name the people.
+
+90
+00:03:39,720 --> 00:03:41,102
+Money followed.
+
+91
+00:03:41,282 --> 00:03:44,752
+CSQ quotes Kevin Czinger saying Divergent recently
+
+92
+00:03:44,752 --> 00:03:47,598
+raised two hundred fifty million dollars,
+
+93
+00:03:47,598 --> 00:03:50,929
+and that Czinger Vehicles and Divergent together
+
+94
+00:03:50,929 --> 00:03:53,844
+have raised close to five hundred million.
+
+95
+00:03:54,024 --> 00:03:57,262
+The article names investors John Thornton,
+
+96
+00:03:57,262 --> 00:04:00,037
+formerly president of Goldman Sachs,
+
+97
+00:04:00,037 --> 00:04:01,193
+and Tom Steyer,
+
+98
+00:04:01,193 --> 00:04:03,660
+the founder of Farallon Capital.
+
+99
+00:04:03,840 --> 00:04:05,159
+By our arithmetic,
+
+100
+00:04:05,159 --> 00:04:08,089
+five hundred million over eight years is
+
+101
+00:04:08,089 --> 00:04:10,946
+about sixty-two million dollars a year.
+
+102
+00:04:11,296 --> 00:04:14,134
+Lukas Czinger enters the story as the
+
+103
+00:04:14,134 --> 00:04:15,208
+founder's son.
+
+104
+00:04:15,388 --> 00:04:18,221
+CSQ says he was twenty-eight in twenty
+
+105
+00:04:18,221 --> 00:04:21,725
+twenty-two, a former Division One soccer player
+
+106
+00:04:21,725 --> 00:04:24,931
+who studied electrical engineering at Yale.
+
+107
+00:04:25,111 --> 00:04:27,472
+He worked at an investment bank in
+
+108
+00:04:27,472 --> 00:04:30,873
+San Francisco before joining Divergent around age
+
+109
+00:04:30,873 --> 00:04:31,776
+twenty-three.
+
+110
+00:04:31,956 --> 00:04:33,280
+By our arithmetic,
+
+111
+00:04:33,280 --> 00:04:36,222
+that places his arrival about five years
+
+112
+00:04:36,222 --> 00:04:37,620
+before the article,
+
+113
+00:04:37,620 --> 00:04:39,607
+so around twenty seventeen.
+
+114
+00:04:39,957 --> 00:04:40,978
+How did he join?
+
+115
+00:04:41,158 --> 00:04:43,345
+CSQ says he asked to join after
+
+116
+00:04:43,345 --> 00:04:46,025
+watching his father present to about a
+
+117
+00:04:46,025 --> 00:04:48,635
+thousand people at a tech conference.
+
+118
+00:04:48,815 --> 00:04:51,952
+He was Divergent's first hire after Kevin,
+
+119
+00:04:51,952 --> 00:04:55,015
+who was then the only full-time employee.
+
+120
+00:04:55,195 --> 00:04:57,316
+So when we say the company was
+
+121
+00:04:57,316 --> 00:04:58,588
+a family business,
+
+122
+00:04:58,588 --> 00:05:01,134
+the sources mean it quite literally:
+
+123
+00:05:01,134 --> 00:05:03,679
+the second person on payroll was the
+
+124
+00:05:03,679 --> 00:05:04,668
+founder's son.
+
+125
+00:05:05,019 --> 00:05:06,261
+His role grew.
+
+126
+00:05:06,441 --> 00:05:09,878
+CSQ says Lukas assembled and led Divergent's
+
+127
+00:05:09,878 --> 00:05:12,846
+automation team and holds fifty of the
+
+128
+00:05:12,846 --> 00:05:16,205
+company's patents, according to his father.
+
+129
+00:05:16,385 --> 00:05:17,483
+By our arithmetic,
+
+130
+00:05:17,483 --> 00:05:19,740
+fifty of five hundred twenty is about
+
+131
+00:05:19,740 --> 00:05:20,471
+ten percent.
+
+132
+00:05:20,651 --> 00:05:23,738
+ASME in twenty twenty-five lists him as
+
+133
+00:05:23,738 --> 00:05:26,665
+Founder, President and CEO of the Los
+
+134
+00:05:26,665 --> 00:05:29,197
+Angeles-based family businesses,
+
+135
+00:05:29,197 --> 00:05:31,809
+with Kevin as Executive Chairman.
+
+136
+00:05:32,159 --> 00:05:35,121
+The sources disagree about his title in
+
+137
+00:05:35,121 --> 00:05:36,489
+twenty twenty-two.
+
+138
+00:05:36,669 --> 00:05:39,813
+CSQ's body text calls him senior vice
+
+139
+00:05:39,813 --> 00:05:43,381
+president of operations at Divergent and a
+
+140
+00:05:43,381 --> 00:05:46,015
+co-founder of Czinger Vehicles.
+
+141
+00:05:46,195 --> 00:05:49,100
+Its bio box says SVP and CEO
+
+142
+00:05:49,100 --> 00:05:51,176
+of Czinger Vehicles.
+
+143
+00:05:51,356 --> 00:05:52,679
+We cannot resolve it.
+
+144
+00:05:52,859 --> 00:05:55,278
+The simplest reading is that his role
+
+145
+00:05:55,278 --> 00:05:59,068
+expanded between twenty twenty-two and twenty twenty-five,
+
+146
+00:05:59,068 --> 00:06:00,637
+but that is our reading,
+
+147
+00:06:00,637 --> 00:06:01,683
+not a statement.
+
+148
+00:06:02,033 --> 00:06:02,985
+Now the car.
+
+149
+00:06:03,165 --> 00:06:06,506
+Facfox says Divergent built a concept called
+
+150
+00:06:06,506 --> 00:06:09,316
+the Blade, describing it as the first
+
+151
+00:06:09,316 --> 00:06:12,278
+car with a fully three-D-printed frame.
+
+152
+00:06:12,458 --> 00:06:14,498
+It says the Blade was used to
+
+153
+00:06:14,498 --> 00:06:17,382
+raise funds and to acquire metal printers
+
+154
+00:06:17,382 --> 00:06:18,718
+from SLM Solutions,
+
+155
+00:06:18,718 --> 00:06:20,968
+and that Jay Leno once drove it.
+
+156
+00:06:21,148 --> 00:06:23,883
+GTPlanet calls the Blade a proof of
+
+157
+00:06:23,883 --> 00:06:26,462
+concept for the printing process,
+
+158
+00:06:26,462 --> 00:06:28,103
+dated twenty fifteen.
+
+159
+00:06:28,453 --> 00:06:31,227
+GTPlanet gives the Blade's engine as a
+
+160
+00:06:31,227 --> 00:06:33,637
+two point four litre turbo from a
+
+161
+00:06:33,637 --> 00:06:35,682
+Mitsubishi Lancer Evolution,
+
+162
+00:06:35,682 --> 00:06:38,530
+making seven hundred twenty horsepower.
+
+163
+00:06:38,710 --> 00:06:40,835
+Only GTPlanet says that.
+
+164
+00:06:41,015 --> 00:06:44,384
+Facfox gives no Blade specifications at all,
+
+165
+00:06:44,384 --> 00:06:47,217
+and the other sources do not describe
+
+166
+00:06:47,217 --> 00:06:47,830
+the car.
+
+167
+00:06:48,010 --> 00:06:50,536
+So the seven hundred twenty figure rests
+
+168
+00:06:50,536 --> 00:06:51,799
+on a single article,
+
+169
+00:06:51,799 --> 00:06:53,315
+and we mark it that way.
+
+170
+00:06:53,666 --> 00:06:55,601
+The link to the 21C is that
+
+171
+00:06:55,601 --> 00:06:57,752
+the Blade was the predecessor.
+
+172
+00:06:57,932 --> 00:07:02,032
+Wikipedia's infobox lists the Divergent Blade as
+
+173
+00:07:02,032 --> 00:07:03,911
+the 21C's predecessor.
+
+174
+00:07:04,091 --> 00:07:06,928
+Facfox says the structure of the later
+
+175
+00:07:06,928 --> 00:07:09,989
+car needs no tooling for part manufacture
+
+176
+00:07:09,989 --> 00:07:13,124
+or assembly, which is the article's claim.
+
+177
+00:07:13,304 --> 00:07:16,334
+What none of our sources explains is
+
+178
+00:07:16,334 --> 00:07:19,617
+how the Blade's design evolved into the
+
+179
+00:07:19,617 --> 00:07:21,721
+21C in engineering terms.
+
+180
+00:07:22,072 --> 00:07:24,428
+The machines matter in this story.
+
+181
+00:07:24,608 --> 00:07:28,559
+Facfox says Divergent entered a joint development
+
+182
+00:07:28,559 --> 00:07:32,670
+partnership with SLM Solutions in twenty seventeen,
+
+183
+00:07:32,670 --> 00:07:36,782
+aimed at a next-generation multi-laser machine that
+
+184
+00:07:36,782 --> 00:07:39,040
+became the twelve-laser NXG.
+
+185
+00:07:39,220 --> 00:07:40,722
+In twenty nineteen,
+
+186
+00:07:40,722 --> 00:07:44,914
+it says, Divergent bought five pre-production systems
+
+187
+00:07:44,914 --> 00:07:46,812
+for factory integration.
+
+188
+00:07:46,992 --> 00:07:50,231
+Parts for suspension and chassis were made
+
+189
+00:07:50,231 --> 00:07:54,318
+on commercially available SLM eight hundred machines.
+
+190
+00:07:54,669 --> 00:07:55,969
+In twenty twenty,
+
+191
+00:07:55,969 --> 00:07:59,716
+Facfox says, Divergent began series production of
+
+192
+00:07:59,716 --> 00:08:03,846
+safety-critical structures for carmakers in the United
+
+193
+00:08:03,846 --> 00:08:05,223
+States and Europe,
+
+194
+00:08:05,223 --> 00:08:09,047
+and planned to run twenty next-generation printing
+
+195
+00:08:09,047 --> 00:08:10,806
+systems at its factory.
+
+196
+00:08:10,986 --> 00:08:12,821
+It does not name the carmakers.
+
+197
+00:08:13,001 --> 00:08:15,841
+ASME later says McLaren and Bugatti have
+
+198
+00:08:15,841 --> 00:08:17,900
+begun working with Divergent.
+
+199
+00:08:18,080 --> 00:08:20,549
+So the company was supplying parts to
+
+200
+00:08:20,549 --> 00:08:22,817
+others while it built its own car.
+
+201
+00:08:23,167 --> 00:08:24,496
+By our arithmetic,
+
+202
+00:08:24,496 --> 00:08:26,122
+the chain of dates is:
+
+203
+00:08:26,122 --> 00:08:28,781
+the partnership in twenty seventeen,
+
+204
+00:08:28,781 --> 00:08:31,736
+the machine purchase in twenty nineteen,
+
+205
+00:08:31,736 --> 00:08:34,617
+the series production in twenty twenty,
+
+206
+00:08:34,617 --> 00:08:37,499
+and the car's unveiling in March twenty
+
+207
+00:08:37,499 --> 00:08:38,016
+twenty.
+
+208
+00:08:38,196 --> 00:08:40,479
+So the 21C was not the start
+
+209
+00:08:40,479 --> 00:08:41,621
+of the effort.
+
+210
+00:08:41,801 --> 00:08:44,039
+It came after about six years of
+
+211
+00:08:44,039 --> 00:08:46,906
+company building, if we count from twenty
+
+212
+00:08:46,906 --> 00:08:47,536
+fourteen.
+
+213
+00:08:47,886 --> 00:08:51,009
+When was Czinger Vehicles itself founded?
+
+214
+00:08:51,189 --> 00:08:52,768
+Sources disagree.
+
+215
+00:08:52,948 --> 00:08:55,759
+CSQ and ASME say twenty nineteen,
+
+216
+00:08:55,759 --> 00:08:58,996
+with ASME saying Kevin founded it with
+
+217
+00:08:58,996 --> 00:09:00,273
+his son, Lukas.
+
+218
+00:09:00,453 --> 00:09:03,546
+Facfox says it was founded in twenty
+
+219
+00:09:03,546 --> 00:09:06,466
+twenty in Los Angeles to build its
+
+220
+00:09:06,466 --> 00:09:08,613
+first production vehicle,
+
+221
+00:09:08,613 --> 00:09:09,300
+the 21C.
+
+222
+00:09:09,480 --> 00:09:12,545
+Wikipedia's page gives no founding date.
+
+223
+00:09:12,725 --> 00:09:15,600
+We therefore show twenty nineteen and twenty
+
+224
+00:09:15,600 --> 00:09:16,057
+twenty.
+
+225
+00:09:16,408 --> 00:09:19,373
+The design is credited on Wikipedia to
+
+226
+00:09:19,373 --> 00:09:20,622
+David O'Connell.
+
+227
+00:09:20,802 --> 00:09:23,469
+The page lists the car's designer in
+
+228
+00:09:23,469 --> 00:09:26,061
+the infobox and does not elaborate.
+
+229
+00:09:26,241 --> 00:09:29,349
+CSQ says Czinger Vehicles will stay in
+
+230
+00:09:29,349 --> 00:09:32,947
+performance luxury, and had fewer than fifty
+
+231
+00:09:32,947 --> 00:09:33,765
+employees.
+
+232
+00:09:33,945 --> 00:09:35,609
+The Chief Engineer,
+
+233
+00:09:35,609 --> 00:09:37,799
+per ASME, is Ewan Baldry.
+
+234
+00:09:37,979 --> 00:09:40,359
+Those are the named people our sources
+
+235
+00:09:40,359 --> 00:09:40,673
+give.
+
+236
+00:09:41,023 --> 00:09:43,170
+The car's layout was a statement.
+
+237
+00:09:43,350 --> 00:09:45,939
+Wikipedia says the driver sits in the
+
+238
+00:09:45,939 --> 00:09:48,737
+centre with a passenger directly behind.
+
+239
+00:09:48,917 --> 00:09:51,525
+FastCar says the layout is like the
+
+240
+00:09:51,525 --> 00:09:54,579
+McLaren F1's and that Czinger gave weight
+
+241
+00:09:54,579 --> 00:09:57,857
+distribution and performance as the reasons.
+
+242
+00:09:58,037 --> 00:10:00,042
+The central seat is a nod to
+
+243
+00:10:00,042 --> 00:10:02,764
+the most famous central-seat road car,
+
+244
+00:10:02,764 --> 00:10:04,984
+but no source says that was the
+
+245
+00:10:04,984 --> 00:10:05,700
+intention.
+
+246
+00:10:06,050 --> 00:10:09,336
+GTPlanet's February twenty twenty preview said the
+
+247
+00:10:09,336 --> 00:10:11,636
+car would be revealed at the Geneva
+
+248
+00:10:11,636 --> 00:10:13,805
+Motor Show on the third of March.
+
+249
+00:10:13,985 --> 00:10:15,169
+That did not happen.
+
+250
+00:10:15,349 --> 00:10:18,875
+Wikipedia says the Geneva show was cancelled
+
+251
+00:10:18,875 --> 00:10:20,798
+because of the pandemic,
+
+252
+00:10:20,798 --> 00:10:23,362
+and that the 21C was unveiled on
+
+253
+00:10:23,362 --> 00:10:26,407
+the eleventh of March twenty twenty in
+
+254
+00:10:26,407 --> 00:10:27,609
+London instead.
+
+255
+00:10:27,789 --> 00:10:29,011
+By our arithmetic,
+
+256
+00:10:29,011 --> 00:10:31,455
+that is eight days after the planned
+
+257
+00:10:31,455 --> 00:10:31,795
+date.
+
+258
+00:10:32,145 --> 00:10:35,205
+Backfire News adds that the car's public
+
+259
+00:10:35,205 --> 00:10:38,190
+unveiling had also been planned for the
+
+260
+00:10:38,190 --> 00:10:40,256
+Goodwood Festival of Speed,
+
+261
+00:10:40,256 --> 00:10:42,934
+and that both were postponed due to
+
+262
+00:10:42,934 --> 00:10:43,929
+the pandemic.
+
+263
+00:10:44,109 --> 00:10:46,407
+So the debut the company planned,
+
+264
+00:10:46,407 --> 00:10:48,846
+at the world's biggest car shows in
+
+265
+00:10:48,846 --> 00:10:51,562
+the spring and summer of twenty twenty,
+
+266
+00:10:51,562 --> 00:10:53,373
+never happened as planned.
+
+267
+00:10:53,553 --> 00:10:55,500
+The sources do not say how the
+
+268
+00:10:55,500 --> 00:10:57,187
+London unveiling was held.
+
+269
+00:10:57,538 --> 00:10:59,337
+The early claims were bold.
+
+270
+00:10:59,517 --> 00:11:02,675
+GTPlanet's preview said a top speed of
+
+271
+00:11:02,675 --> 00:11:05,834
+two hundred sixty-eight miles an hour,
+
+272
+00:11:05,834 --> 00:11:08,493
+zero to sixty in one point eight
+
+273
+00:11:08,493 --> 00:11:12,566
+seconds, over nine hundred thirty horsepower from
+
+274
+00:11:12,566 --> 00:11:15,225
+the V8, and a 1+1 tandem layout.
+
+275
+00:11:15,405 --> 00:11:17,426
+It said the price was unconfirmed.
+
+276
+00:11:17,606 --> 00:11:21,024
+FastCar later reported Czinger's own claim of
+
+277
+00:11:21,024 --> 00:11:22,772
+two hundred eighty-one.
+
+278
+00:11:22,952 --> 00:11:25,189
+Early promises often change,
+
+279
+00:11:25,189 --> 00:11:26,307
+and these did.
+
+280
+00:11:26,658 --> 00:11:28,782
+The first production date slipped.
+
+281
+00:11:28,962 --> 00:11:32,586
+The Backfire report says production was anticipated
+
+282
+00:11:32,586 --> 00:11:34,717
+to start in twenty twenty-two,
+
+283
+00:11:34,717 --> 00:11:37,275
+and that a chip shortage delayed it.
+
+284
+00:11:37,455 --> 00:11:40,678
+Wikipedia says deliveries were planned for the
+
+285
+00:11:40,678 --> 00:11:43,340
+fourth quarter of twenty twenty-three,
+
+286
+00:11:43,340 --> 00:11:46,213
+with most expected in twenty twenty-four,
+
+287
+00:11:46,213 --> 00:11:47,474
+per Kevin Czinger.
+
+288
+00:11:47,654 --> 00:11:48,837
+By our arithmetic,
+
+289
+00:11:48,837 --> 00:11:50,545
+that is about a year and a
+
+290
+00:11:50,545 --> 00:11:52,844
+half after the earlier expectation.
+
+291
+00:11:53,194 --> 00:11:55,454
+While the deliveries slipped,
+
+292
+00:11:55,454 --> 00:11:58,105
+the car proved itself on circuits.
+
+293
+00:11:58,285 --> 00:12:02,120
+Wikipedia lists a production-car record at Laguna
+
+294
+00:12:02,120 --> 00:12:04,702
+Seca in August twenty twenty-one:
+
+295
+00:12:04,702 --> 00:12:07,755
+one minute twenty-five point four four,
+
+296
+00:12:07,755 --> 00:12:09,477
+driven by Joel Miller.
+
+297
+00:12:09,657 --> 00:12:12,661
+FastCar says that beat the McLaren Senna's
+
+298
+00:12:12,661 --> 00:12:15,451
+one twenty-seven point six two by about
+
+299
+00:12:15,451 --> 00:12:16,309
+two seconds.
+
+300
+00:12:16,489 --> 00:12:17,906
+By our arithmetic,
+
+301
+00:12:17,906 --> 00:12:19,481
+two point one eight,
+
+302
+00:12:19,481 --> 00:12:21,528
+or two and a half percent.
+
+303
+00:12:21,878 --> 00:12:23,306
+Then came two more.
+
+304
+00:12:23,486 --> 00:12:27,624
+One twenty-four seventy-five in August twenty twenty-four,
+
+305
+00:12:27,624 --> 00:12:30,621
+and one twenty-two thirty on the fifteenth
+
+306
+00:12:30,621 --> 00:12:32,833
+of December twenty twenty-five,
+
+307
+00:12:32,833 --> 00:12:34,260
+both by Joel Miller.
+
+308
+00:12:34,440 --> 00:12:35,833
+By our arithmetic,
+
+309
+00:12:35,833 --> 00:12:38,387
+from the first record to the last
+
+310
+00:12:38,387 --> 00:12:40,709
+is four years and four months,
+
+311
+00:12:40,709 --> 00:12:43,263
+and three point one four seconds.
+
+312
+00:12:43,443 --> 00:12:46,229
+A company founded only a few years
+
+313
+00:12:46,229 --> 00:12:48,933
+earlier took the lap time down by
+
+314
+00:12:48,933 --> 00:12:50,572
+almost four percent.
+
+315
+00:12:50,922 --> 00:12:53,245
+The car also went to Goodwood after
+
+316
+00:12:53,245 --> 00:12:53,511
+all.
+
+317
+00:12:53,691 --> 00:12:56,418
+Wikipedia lists a hill climb time of
+
+318
+00:12:56,418 --> 00:12:59,145
+forty-eight point eight two seconds,
+
+319
+00:12:59,145 --> 00:13:02,402
+driven by Chris Ward in twenty twenty-four,
+
+320
+00:13:02,402 --> 00:13:04,902
+and a Circuit of the Americas lap
+
+321
+00:13:04,902 --> 00:13:07,402
+of two minutes ten point seven in
+
+322
+00:13:07,402 --> 00:13:08,842
+twenty twenty-four.
+
+323
+00:13:09,022 --> 00:13:10,977
+So the places where the debut had
+
+324
+00:13:10,977 --> 00:13:13,762
+been cancelled in twenty twenty were eventually
+
+325
+00:13:13,762 --> 00:13:15,303
+visited by the car itself.
+
+326
+00:13:15,653 --> 00:13:18,520
+The Backfire report adds a detail about
+
+327
+00:13:18,520 --> 00:13:19,917
+the product itself:
+
+328
+00:13:19,917 --> 00:13:22,638
+three additional models were planned,
+
+329
+00:13:22,638 --> 00:13:24,476
+one of them lower priced.
+
+330
+00:13:24,656 --> 00:13:26,199
+It gives no names,
+
+331
+00:13:26,199 --> 00:13:28,255
+dates or specifications.
+
+332
+00:13:28,435 --> 00:13:31,001
+That fits the company's stated ambition.
+
+333
+00:13:31,181 --> 00:13:34,112
+CSQ quotes Lukas Czinger citing a five
+
+334
+00:13:34,112 --> 00:13:37,505
+trillion dollar market opportunity and a two
+
+335
+00:13:37,505 --> 00:13:41,593
+hundred fifty billion dollar market for manufacturing
+
+336
+00:13:41,593 --> 00:13:43,058
+complex structures.
+
+337
+00:13:43,408 --> 00:13:47,031
+CSQ quotes Kevin Czinger envisioning a global
+
+338
+00:13:47,031 --> 00:13:51,139
+network of digital adaptive production within about
+
+339
+00:13:51,139 --> 00:13:52,266
+fifteen years.
+
+340
+00:13:52,446 --> 00:13:55,807
+It says Divergent is beginning to explore
+
+341
+00:13:55,807 --> 00:13:57,610
+aerospace and defense,
+
+342
+00:13:57,610 --> 00:14:00,561
+while cars remain its primary focus.
+
+343
+00:14:00,741 --> 00:14:01,972
+By our arithmetic,
+
+344
+00:14:01,972 --> 00:14:05,118
+fifteen years from twenty twenty-two points to
+
+345
+00:14:05,118 --> 00:14:06,964
+around twenty thirty-seven.
+
+346
+00:14:07,144 --> 00:14:09,348
+This is a founder's forecast,
+
+347
+00:14:09,348 --> 00:14:10,640
+not a commitment,
+
+348
+00:14:10,640 --> 00:14:13,832
+and no source gives targets or milestones.
+
+349
+00:14:14,182 --> 00:14:18,697
+ASME's twenty twenty-five article describes next steps:
+
+350
+00:14:18,697 --> 00:14:23,212
+integrating cooling, electrical and fluid networks into
+
+351
+00:14:23,212 --> 00:14:26,250
+structural parts, scaling production,
+
+352
+00:14:26,250 --> 00:14:30,601
+reducing cost and possibly printing replacement parts
+
+353
+00:14:30,601 --> 00:14:31,422
+on demand.
+
+354
+00:14:31,602 --> 00:14:34,093
+It also says the gearbox case is
+
+355
+00:14:34,093 --> 00:14:36,351
+the first of its kind to move
+
+356
+00:14:36,351 --> 00:14:37,674
+beyond prototype.
+
+357
+00:14:37,854 --> 00:14:40,510
+So the story the sources tell is
+
+358
+00:14:40,510 --> 00:14:42,751
+of a method that began as a
+
+359
+00:14:42,751 --> 00:14:46,237
+concept and is slowly entering production.
+
+360
+00:14:46,587 --> 00:14:49,419
+There is also a sustainability claim.
+
+361
+00:14:49,599 --> 00:14:52,321
+CSQ says the 21C is net-zero in
+
+362
+00:14:52,321 --> 00:14:56,447
+emissions when run on carbon-recycled methanol,
+
+363
+00:14:56,447 --> 00:15:00,046
+and describes Divergent as making cars by
+
+364
+00:15:00,046 --> 00:15:02,417
+printing with reused metal.
+
+365
+00:15:02,597 --> 00:15:05,542
+These are claims about fuel and material,
+
+366
+00:15:05,542 --> 00:15:08,344
+and the article does not give lifecycle
+
+367
+00:15:08,344 --> 00:15:08,704
+data.
+
+368
+00:15:08,884 --> 00:15:11,260
+We list them as the company's story,
+
+369
+00:15:11,260 --> 00:15:12,778
+as told by its founder,
+
+370
+00:15:12,778 --> 00:15:14,956
+without independent verification.
+
+371
+00:15:15,306 --> 00:15:18,080
+CSQ describes the 21C in its own
+
+372
+00:15:18,080 --> 00:15:23,023
+words: engineered, printed and assembled computationally,
+
+373
+00:15:23,023 --> 00:15:27,011
+with three-D-printed alloy suspension members,
+
+374
+00:15:27,011 --> 00:15:30,306
+and capable of zero to sixty-two miles
+
+375
+00:15:30,306 --> 00:15:33,255
+an hour in one point nine seconds.
+
+376
+00:15:33,435 --> 00:15:36,000
+That sentence is the pitch in miniature.
+
+377
+00:15:36,180 --> 00:15:38,260
+The car is not only a product,
+
+378
+00:15:38,260 --> 00:15:40,826
+it is a demonstration that a computer
+
+379
+00:15:40,826 --> 00:15:42,281
+can design the parts,
+
+380
+00:15:42,281 --> 00:15:44,292
+a printer can make them and a
+
+381
+00:15:44,292 --> 00:15:45,956
+robot can assemble them.
+
+382
+00:15:46,306 --> 00:15:50,276
+Facfox quotes Kevin Czinger in twenty twenty-one
+
+383
+00:15:50,276 --> 00:15:53,419
+on the partnership with SLM Solutions:
+
+384
+00:15:53,419 --> 00:15:57,720
+alignment between the two companies across machines,
+
+385
+00:15:57,720 --> 00:16:01,029
+software and materials will drive a step
+
+386
+00:16:01,029 --> 00:16:01,608
+change.
+
+387
+00:16:01,788 --> 00:16:04,177
+It tells us how dependent the project
+
+388
+00:16:04,177 --> 00:16:05,921
+is on its machine supplier.
+
+389
+00:16:06,101 --> 00:16:09,361
+The quote is about technology development,
+
+390
+00:16:09,361 --> 00:16:12,155
+and the article does not say whether
+
+391
+00:16:12,155 --> 00:16:14,562
+the 21C itself was named in the
+
+392
+00:16:14,562 --> 00:16:15,493
+partnership.
+
+393
+00:16:15,843 --> 00:16:18,043
+The engine is part of the story
+
+394
+00:16:18,043 --> 00:16:18,327
+too.
+
+395
+00:16:18,507 --> 00:16:21,906
+GTPlanet calls the V8 an in-house design
+
+396
+00:16:21,906 --> 00:16:24,626
+of two point eight eight litres.
+
+397
+00:16:24,806 --> 00:16:27,308
+Wikipedia lists it with a bore of
+
+398
+00:16:27,308 --> 00:16:31,177
+eighty-four millimetres and a stroke of sixty-five,
+
+399
+00:16:31,177 --> 00:16:33,680
+and says it is a flat-plane crank
+
+400
+00:16:33,680 --> 00:16:34,059
+unit.
+
+401
+00:16:34,239 --> 00:16:36,599
+Building your own engine as well as
+
+402
+00:16:36,599 --> 00:16:38,689
+your own structure is a lot for
+
+403
+00:16:38,689 --> 00:16:39,768
+a small company,
+
+404
+00:16:39,768 --> 00:16:42,195
+and none of our sources explains who
+
+405
+00:16:42,195 --> 00:16:43,004
+designed it.
+
+406
+00:16:43,355 --> 00:16:44,957
+The ages are worth noting.
+
+407
+00:16:45,137 --> 00:16:48,414
+CSQ gave Kevin as sixty-three and Lukas
+
+408
+00:16:48,414 --> 00:16:51,522
+as twenty-eight in twenty twenty-two.
+
+409
+00:16:51,702 --> 00:16:52,935
+By our arithmetic,
+
+410
+00:16:52,935 --> 00:16:55,058
+that is a thirty-five year gap.
+
+411
+00:16:55,238 --> 00:16:57,534
+A father with a long career in
+
+412
+00:16:57,534 --> 00:16:59,295
+finance and automotive,
+
+413
+00:16:59,295 --> 00:17:02,127
+and a son who left investment banking
+
+414
+00:17:02,127 --> 00:17:03,812
+in his early twenties,
+
+415
+00:17:03,812 --> 00:17:05,036
+led the company.
+
+416
+00:17:05,216 --> 00:17:07,738
+Our sources do not say whether the
+
+417
+00:17:07,738 --> 00:17:09,814
+age gap shaped any decision.
+
+418
+00:17:10,164 --> 00:17:13,461
+Compare with how McLaren's competitor was born.
+
+419
+00:17:13,641 --> 00:17:16,317
+GoAuto describes the Senna as part of
+
+420
+00:17:16,317 --> 00:17:18,198
+McLaren's Ultimate Series,
+
+421
+00:17:18,198 --> 00:17:20,078
+following the sold-out P1,
+
+422
+00:17:20,078 --> 00:17:23,405
+from an established company that announced the
+
+423
+00:17:23,405 --> 00:17:26,226
+car with all five hundred already sold.
+
+424
+00:17:26,406 --> 00:17:28,808
+Czinger is the opposite case:
+
+425
+00:17:28,808 --> 00:17:30,134
+a young company,
+
+426
+00:17:30,134 --> 00:17:31,210
+a new method,
+
+427
+00:17:31,210 --> 00:17:33,778
+and a car designed to prove it.
+
+428
+00:17:33,958 --> 00:17:36,530
+Both reached the same racetrack from very
+
+429
+00:17:36,530 --> 00:17:38,161
+different starting points.
+
+430
+00:17:38,512 --> 00:17:39,912
+By our arithmetic,
+
+431
+00:17:39,912 --> 00:17:42,401
+here is how long each step took.
+
+432
+00:17:42,581 --> 00:17:44,926
+The Blade in twenty fifteen to the
+
+433
+00:17:44,926 --> 00:17:47,755
+unveiling in March twenty twenty is about
+
+434
+00:17:47,755 --> 00:17:48,514
+five years.
+
+435
+00:17:48,694 --> 00:17:51,453
+The unveiling to the first Laguna Seca
+
+436
+00:17:51,453 --> 00:17:54,576
+record in August twenty twenty-one is about
+
+437
+00:17:54,576 --> 00:17:55,811
+seventeen months.
+
+438
+00:17:55,991 --> 00:17:58,602
+And the unveiling to the latest record
+
+439
+00:17:58,602 --> 00:18:01,625
+in December twenty twenty-five is five years
+
+440
+00:18:01,625 --> 00:18:02,724
+and nine months.
+
+441
+00:18:02,904 --> 00:18:04,878
+Pace is part of the story.
+
+442
+00:18:05,228 --> 00:18:07,341
+The variants complete the picture.
+
+443
+00:18:07,521 --> 00:18:10,233
+Wikipedia lists the standard road car,
+
+444
+00:18:10,233 --> 00:18:12,374
+the Lightweight Track version,
+
+445
+00:18:12,374 --> 00:18:13,659
+and the Blackbird,
+
+446
+00:18:13,659 --> 00:18:16,942
+limited to four examples with thirteen hundred
+
+447
+00:18:16,942 --> 00:18:18,155
+fifty horsepower.
+
+448
+00:18:18,335 --> 00:18:21,153
+The Backfire report says three more models
+
+449
+00:18:21,153 --> 00:18:21,958
+are planned.
+
+450
+00:18:22,138 --> 00:18:25,000
+So the company is already working on
+
+451
+00:18:25,000 --> 00:18:26,272
+a product range,
+
+452
+00:18:26,272 --> 00:18:28,419
+not just a single halo car.
+
+453
+00:18:28,599 --> 00:18:30,848
+The sources give no dates for any
+
+454
+00:18:30,848 --> 00:18:31,257
+of it.
+
+455
+00:18:31,608 --> 00:18:33,697
+How reliable is this story?
+
+456
+00:18:33,877 --> 00:18:36,461
+CSQ is an interview-based piece,
+
+457
+00:18:36,461 --> 00:18:38,480
+so much of it is what the
+
+458
+00:18:38,480 --> 00:18:41,064
+founder said, including patents,
+
+459
+00:18:41,064 --> 00:18:42,840
+funding and ambitions.
+
+460
+00:18:43,020 --> 00:18:45,497
+ASME is an engineering article,
+
+461
+00:18:45,497 --> 00:18:47,414
+but also a friendly one,
+
+462
+00:18:47,414 --> 00:18:50,369
+quoting the company's chief engineer.
+
+463
+00:18:50,549 --> 00:18:53,847
+Facfox is a trade-press history with a
+
+464
+00:18:53,847 --> 00:18:55,669
+byline inconsistency.
+
+465
+00:18:55,849 --> 00:18:57,893
+GTPlanet is a preview.
+
+466
+00:18:58,073 --> 00:19:00,419
+Wikipedia is the neutral one,
+
+467
+00:19:00,419 --> 00:19:03,332
+but also the thinnest on background.
+
+468
+00:19:03,682 --> 00:19:07,025
+None of these is an independent investigation.
+
+469
+00:19:07,205 --> 00:19:08,715
+That is the honest limit.
+
+470
+00:19:08,895 --> 00:19:11,077
+The story we told is the story
+
+471
+00:19:11,077 --> 00:19:13,551
+the company and its coverage tell,
+
+472
+00:19:13,551 --> 00:19:17,334
+checked for internal consistency and clearly flagged
+
+473
+00:19:17,334 --> 00:19:18,717
+where it conflicts.
+
+474
+00:19:18,897 --> 00:19:22,124
+A deeper account would need interviews with
+
+475
+00:19:22,124 --> 00:19:25,276
+former employees, customers and suppliers,
+
+476
+00:19:25,276 --> 00:19:27,077
+court or filing records,
+
+477
+00:19:27,077 --> 00:19:28,428
+and delivery data.
+
+478
+00:19:28,608 --> 00:19:30,652
+None of those is in our set.
+
+479
+00:19:31,002 --> 00:19:33,036
+What is not in dispute is that
+
+480
+00:19:33,036 --> 00:19:35,343
+a three-D-printed hypercar exists,
+
+481
+00:19:35,343 --> 00:19:37,852
+that it has been driven around Laguna
+
+482
+00:19:37,852 --> 00:19:40,294
+Seca, Circuit of the Americas and up
+
+483
+00:19:40,294 --> 00:19:41,719
+the hill at Goodwood,
+
+484
+00:19:41,719 --> 00:19:43,957
+and that a company founded only a
+
+485
+00:19:43,957 --> 00:19:46,399
+few years before its first car built
+
+486
+00:19:46,399 --> 00:19:49,180
+it with a printing method Divergent began
+
+487
+00:19:49,180 --> 00:19:51,215
+developing in twenty fourteen.
+
+488
+00:19:51,395 --> 00:19:53,052
+Everything else in the story,
+
+489
+00:19:53,052 --> 00:19:54,938
+we have shown with its source and
+
+490
+00:19:54,938 --> 00:19:55,853
+its uncertainty.
+
+491
+00:19:56,203 --> 00:19:58,448
+What the sources do not tell us
+
+492
+00:19:58,448 --> 00:19:59,535
+is a long list.
+
+493
+00:19:59,715 --> 00:20:01,770
+When exactly Lukas joined.
+
+494
+00:20:01,950 --> 00:20:04,943
+The dates and titles of Kevin's roles
+
+495
+00:20:04,943 --> 00:20:07,046
+at Goldman Sachs and Coda.
+
+496
+00:20:07,226 --> 00:20:09,555
+The specifications of the Blade,
+
+497
+00:20:09,555 --> 00:20:11,592
+apart from a single article.
+
+498
+00:20:11,772 --> 00:20:15,046
+How many 21Cs have been delivered.
+
+499
+00:20:15,226 --> 00:20:16,468
+The price list.
+
+500
+00:20:16,648 --> 00:20:19,876
+Why the car is called twenty-one C.
+
+501
+00:20:20,056 --> 00:20:21,902
+And who bought the first cars.
+
+502
+00:20:22,082 --> 00:20:24,232
+Each of those would round out the
+
+503
+00:20:24,232 --> 00:20:26,122
+story, and none is available.
+
+504
+00:20:26,472 --> 00:20:29,058
+We also did not use anything that
+
+505
+00:20:29,058 --> 00:20:31,645
+sounded dramatic but unsupported:
+
+506
+00:20:31,645 --> 00:20:33,997
+tales of the first test drive,
+
+507
+00:20:33,997 --> 00:20:35,878
+stories of near-failure,
+
+508
+00:20:35,878 --> 00:20:38,151
+claims about rival carmakers.
+
+509
+00:20:38,331 --> 00:20:42,000
+A hypercar's backstory attracts legends.
+
+510
+00:20:42,180 --> 00:20:44,338
+We would rather give you a shorter
+
+511
+00:20:44,338 --> 00:20:46,623
+story with sources than a longer one
+
+512
+00:20:46,623 --> 00:20:47,765
+we cannot back up,
+
+513
+00:20:47,765 --> 00:20:49,796
+and tell you where the gaps are.
+
+514
+00:20:50,146 --> 00:20:51,996
+Here is the story in order,
+
+515
+00:20:51,996 --> 00:20:54,395
+with only what our sources support.
+
+516
+00:20:54,575 --> 00:20:57,524
+Twenty fourteen: Divergent launches.
+
+517
+00:20:57,704 --> 00:21:01,072
+Twenty fifteen: the Blade concept,
+
+518
+00:21:01,072 --> 00:21:02,359
+per GTPlanet.
+
+519
+00:21:02,539 --> 00:21:06,069
+Twenty seventeen: the SLM partnership,
+
+520
+00:21:06,069 --> 00:21:08,669
+and around then Lukas joins.
+
+521
+00:21:08,849 --> 00:21:13,255
+Twenty nineteen: Czinger Vehicles is founded,
+
+522
+00:21:13,255 --> 00:21:14,920
+per CSQ and ASME,
+
+523
+00:21:14,920 --> 00:21:17,661
+or twenty twenty per Facfox.
+
+524
+00:21:17,841 --> 00:21:19,755
+March twenty twenty:
+
+525
+00:21:19,755 --> 00:21:22,625
+the 21C is unveiled in London.
+
+526
+00:21:22,975 --> 00:21:24,888
+Then: twenty twenty-one,
+
+527
+00:21:24,888 --> 00:21:27,201
+the first Laguna Seca record.
+
+528
+00:21:27,381 --> 00:21:30,264
+Twenty twenty-two, the CSQ interview,
+
+529
+00:21:30,264 --> 00:21:33,692
+with Czinger Vehicles under fifty people and
+
+530
+00:21:33,692 --> 00:21:35,484
+production anticipated.
+
+531
+00:21:35,664 --> 00:21:38,829
+Twenty twenty-three and twenty twenty-four,
+
+532
+00:21:38,829 --> 00:21:40,227
+deliveries planned.
+
+533
+00:21:40,407 --> 00:21:42,338
+March twenty twenty-four,
+
+534
+00:21:42,338 --> 00:21:46,045
+Backfire reports one point seven million dollars
+
+535
+00:21:46,045 --> 00:21:47,280
+and eighty cars.
+
+536
+00:21:47,460 --> 00:21:49,190
+August twenty twenty-four,
+
+537
+00:21:49,190 --> 00:21:50,189
+another record.
+
+538
+00:21:50,369 --> 00:21:52,274
+March twenty twenty-five,
+
+539
+00:21:52,274 --> 00:21:52,656
+ASME.
+
+540
+00:21:52,836 --> 00:21:54,643
+December twenty twenty-five,
+
+541
+00:21:54,643 --> 00:21:56,063
+one twenty-two thirty.
+
+542
+00:21:56,414 --> 00:21:58,604
+What makes the story unusual is the
+
+543
+00:21:58,604 --> 00:21:58,979
+order.
+
+544
+00:21:59,159 --> 00:22:02,085
+Most carmakers build a car and then,
+
+545
+00:22:02,085 --> 00:22:03,385
+if they succeed,
+
+546
+00:22:03,385 --> 00:22:04,604
+build a method.
+
+547
+00:22:04,784 --> 00:22:07,728
+Czinger, according to these sources,
+
+548
+00:22:07,728 --> 00:22:08,955
+built a method,
+
+549
+00:22:08,955 --> 00:22:10,835
+proved it on a concept,
+
+550
+00:22:10,835 --> 00:22:13,370
+funded it, and then built a car
+
+551
+00:22:13,370 --> 00:22:14,270
+to show it.
+
+552
+00:22:14,450 --> 00:22:16,915
+Whether you call that clever or risky,
+
+553
+00:22:16,915 --> 00:22:18,862
+it is why a company with fewer
+
+554
+00:22:18,862 --> 00:22:21,328
+than fifty people could put a hypercar
+
+555
+00:22:21,328 --> 00:22:22,496
+on a famous track.
+
+556
+00:22:22,846 --> 00:22:24,413
+And a family runs it.
+
+557
+00:22:24,593 --> 00:22:27,228
+The founder is an executive chairman,
+
+558
+00:22:27,228 --> 00:22:29,293
+his son is president and CEO,
+
+559
+00:22:29,293 --> 00:22:32,070
+and the chief engineer is another named
+
+560
+00:22:32,070 --> 00:22:32,569
+person.
+
+561
+00:22:32,749 --> 00:22:36,540
+ASME describes them as Los Angeles-based family
+
+562
+00:22:36,540 --> 00:22:37,428
+businesses.
+
+563
+00:22:37,608 --> 00:22:40,166
+A family business is a story of
+
+564
+00:22:40,166 --> 00:22:41,404
+trust and risk.
+
+565
+00:22:41,584 --> 00:22:44,540
+The sources say little about their working
+
+566
+00:22:44,540 --> 00:22:47,355
+relationship, so we offer only the fact,
+
+567
+00:22:47,355 --> 00:22:48,411
+not a portrait.
+
+568
+00:22:48,761 --> 00:22:50,716
+If you enjoyed the story,
+
+569
+00:22:50,716 --> 00:22:52,905
+subscribe to Pickup Reality.
+
+570
+00:22:53,085 --> 00:22:55,390
+Tell us in the comments which car's
+
+571
+00:22:55,390 --> 00:22:57,300
+origin you want checked next.
+
+572
+00:22:57,480 --> 00:23:01,120
+Every source is in the description with
+
+573
+00:23:01,120 --> 00:23:03,360
+its date, including CSQ,
+
+574
+00:23:03,360 --> 00:23:05,507
+ASME, Facfox, GTPlanet,
+
+575
+00:23:05,507 --> 00:23:08,121
+Backfire News and Wikipedia,
+
+576
+00:23:08,121 --> 00:23:11,574
+so you can check each claim yourself.
+
+577
+00:23:11,754 --> 00:23:13,210
+We will see you in the next
+
+578
+00:23:13,210 --> 00:23:13,426
+one.
