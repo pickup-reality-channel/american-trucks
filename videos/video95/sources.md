@@ -1,0 +1,6 @@
+- Classic.com, Dodge Viper ACR VX I market: https://www.classic.com/m/dodge/viper/5th-gen/acr/
+- Automonitor, How much does a Dodge Viper cost? Complete pricing guide 2026: https://automonitor.io/blog/how-much-does-a-dodge-viper-cost/
+- Wikipedia, Dodge Viper: https://en.wikipedia.org/wiki/Dodge_Viper
+- Autoblog, 2009 Corvette ZR1 starts at $103,300: https://www.autoblog.com/2008/06/17/2009-corvette-zr1-pricing-and-performance-numbers-released/
+- Vette Vues, C6 Corvette ZR1 History (2009–2013): https://vette-vues.com/c6-corvette-zr1-history/
+- Yahoo / The Drive, The Dodge Viper era is dead, head of SRT says (29 May 2026): https://autos.yahoo.com/people-and-culture/articles/dodge-viper-era-dead-head-164100036.html
