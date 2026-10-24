@@ -1,0 +1,2223 @@
+1
+00:00:00,000 --> 00:00:01,908
+Two Koenigsegg hybrids,
+
+2
+00:00:01,908 --> 00:00:03,900
+one very different idea.
+
+3
+00:00:04,080 --> 00:00:06,506
+The Regera has no gearbox in the
+
+4
+00:00:06,506 --> 00:00:08,931
+usual sense, and sold out in two
+
+5
+00:00:08,931 --> 00:00:09,386
+years.
+
+6
+00:00:09,566 --> 00:00:11,405
+The Gemera has four seats,
+
+7
+00:00:11,405 --> 00:00:14,164
+and took six years to reach production.
+
+8
+00:00:14,344 --> 00:00:15,793
+They look like cousins,
+
+9
+00:00:15,793 --> 00:00:17,999
+but the numbers say they were built
+
+10
+00:00:17,999 --> 00:00:19,197
+for different jobs.
+
+11
+00:00:19,377 --> 00:00:21,402
+We compare them side by side,
+
+12
+00:00:21,402 --> 00:00:23,845
+and every figure comes from a named
+
+13
+00:00:23,845 --> 00:00:24,334
+source.
+
+14
+00:00:24,684 --> 00:00:27,960
+Our sources are Wikipedia's pages on the
+
+15
+00:00:27,960 --> 00:00:30,744
+Gemera, the Regera and Koenigsegg,
+
+16
+00:00:30,744 --> 00:00:34,019
+a March twenty twenty-six report on AOL,
+
+17
+00:00:34,019 --> 00:00:38,031
+Motor1, InsideHook and the RM Sotheby's catalogue
+
+18
+00:00:38,031 --> 00:00:40,242
+for a twenty twenty Regera.
+
+19
+00:00:40,422 --> 00:00:41,781
+Where they disagree,
+
+20
+00:00:41,781 --> 00:00:43,208
+we show both figures.
+
+21
+00:00:43,388 --> 00:00:45,859
+Our own maths is labelled as our
+
+22
+00:00:45,859 --> 00:00:46,709
+arithmetic.
+
+23
+00:00:46,889 --> 00:00:49,257
+Anything we could not find is flagged.
+
+24
+00:00:49,607 --> 00:00:51,839
+Start with the biggest difference you can
+
+25
+00:00:51,839 --> 00:00:52,057
+see.
+
+26
+00:00:52,237 --> 00:00:54,118
+The Regera is a two-seater.
+
+27
+00:00:54,298 --> 00:00:57,897
+Wikipedia lists its dimensions as four thousand
+
+28
+00:00:57,897 --> 00:01:00,653
+five hundred sixty millimetres long,
+
+29
+00:01:00,653 --> 00:01:03,870
+two thousand fifty wide and eleven hundred
+
+30
+00:01:03,870 --> 00:01:06,779
+ten tall, on a wheelbase of twenty-six
+
+31
+00:01:06,779 --> 00:01:07,545
+sixty-two.
+
+32
+00:01:07,725 --> 00:01:10,478
+The Gemera is four thousand nine hundred
+
+33
+00:01:10,478 --> 00:01:14,333
+seventy-five long, nineteen eighty-eight wide and twelve
+
+34
+00:01:14,333 --> 00:01:17,637
+ninety-five tall, on a three thousand millimetre
+
+35
+00:01:17,637 --> 00:01:18,325
+wheelbase.
+
+36
+00:01:18,674 --> 00:01:19,951
+By our arithmetic,
+
+37
+00:01:19,951 --> 00:01:23,215
+the Gemera is four hundred fifteen millimetres
+
+38
+00:01:23,215 --> 00:01:27,188
+longer, three hundred thirty-eight millimetres longer in
+
+39
+00:01:27,188 --> 00:01:31,019
+the wheelbase, and one hundred eighty-five millimetres
+
+40
+00:01:31,019 --> 00:01:31,515
+taller.
+
+41
+00:01:31,695 --> 00:01:34,005
+But it is sixty-two millimetres narrower.
+
+42
+00:01:34,185 --> 00:01:37,004
+In inches, that is about sixteen point
+
+43
+00:01:37,004 --> 00:01:40,118
+three longer and seven point three taller.
+
+44
+00:01:40,298 --> 00:01:41,604
+It is a longer,
+
+45
+00:01:41,604 --> 00:01:43,346
+taller, slimmer car,
+
+46
+00:01:43,346 --> 00:01:45,523
+built to fit four people.
+
+47
+00:01:45,872 --> 00:01:49,629
+Wikipedia calls the Gemera the first four-seat
+
+48
+00:01:49,629 --> 00:01:51,834
+Koenigsegg, with two doors,
+
+49
+00:01:51,834 --> 00:01:55,509
+no B-pillar and dihedral synchro-helix doors.
+
+50
+00:01:55,689 --> 00:01:59,221
+The Regera, according to the same encyclopedia,
+
+51
+00:01:59,221 --> 00:02:01,250
+is a two-seat grand tourer.
+
+52
+00:02:01,430 --> 00:02:04,890
+The Gemera's grand-touring idea was a cited
+
+53
+00:02:04,890 --> 00:02:07,305
+headline calling it a Mega GT.
+
+54
+00:02:07,485 --> 00:02:10,740
+The Regera's door design is not described
+
+55
+00:02:10,740 --> 00:02:12,804
+in the paragraphs we used,
+
+56
+00:02:12,804 --> 00:02:14,393
+so we make no claim.
+
+57
+00:02:14,742 --> 00:02:17,889
+Both cars have a five-litre twin-turbo V8
+
+58
+00:02:17,889 --> 00:02:19,271
+in their top form,
+
+59
+00:02:19,271 --> 00:02:20,652
+at least on paper.
+
+60
+00:02:20,832 --> 00:02:24,240
+Wikipedia says the Regera's V8 makes eleven
+
+61
+00:02:24,240 --> 00:02:27,886
+hundred horsepower on regular fuel and fifteen
+
+62
+00:02:27,886 --> 00:02:29,075
+hundred on E85.
+
+63
+00:02:29,255 --> 00:02:31,808
+The Gemera's V8 version is also a
+
+64
+00:02:31,808 --> 00:02:34,052
+five-litre twin-turbo on E85,
+
+65
+00:02:34,052 --> 00:02:37,379
+and Wikipedia gives its total system output
+
+66
+00:02:37,379 --> 00:02:40,087
+as twenty-three hundred horsepower.
+
+67
+00:02:40,438 --> 00:02:41,726
+There is a catch.
+
+68
+00:02:41,906 --> 00:02:45,020
+The Regera's fifteen hundred horsepower is,
+
+69
+00:02:45,020 --> 00:02:46,685
+in Wikipedia's infobox,
+
+70
+00:02:46,685 --> 00:02:49,871
+the combined total with the electric motors.
+
+71
+00:02:50,051 --> 00:02:52,155
+The text on the same page says
+
+72
+00:02:52,155 --> 00:02:54,962
+one thousand seven hundred ninety-seven.
+
+73
+00:02:55,142 --> 00:02:57,468
+And the eleven hundred and fifteen hundred
+
+74
+00:02:57,468 --> 00:02:59,297
+figures for the V8 are quoted for
+
+75
+00:02:59,297 --> 00:03:00,238
+the engine alone.
+
+76
+00:03:00,418 --> 00:03:03,370
+So the Regera page contains three different
+
+77
+00:03:03,370 --> 00:03:04,331
+power numbers.
+
+78
+00:03:04,680 --> 00:03:06,561
+The Gemera had its own version.
+
+79
+00:03:06,741 --> 00:03:10,076
+The original three-cylinder car had a two-litre
+
+80
+00:03:10,076 --> 00:03:13,907
+twin-turbo inline three making six hundred horsepower,
+
+81
+00:03:13,907 --> 00:03:16,461
+and Wikipedia says it was dropped in
+
+82
+00:03:16,461 --> 00:03:19,512
+July twenty twenty-four for lack of demand.
+
+83
+00:03:19,692 --> 00:03:22,747
+So today, the real comparison is the
+
+84
+00:03:22,747 --> 00:03:25,463
+V8 Gemera against the V8 Regera,
+
+85
+00:03:25,463 --> 00:03:27,924
+and both run on E85 for their
+
+86
+00:03:27,924 --> 00:03:29,282
+biggest numbers.
+
+87
+00:03:29,633 --> 00:03:30,773
+By our arithmetic,
+
+88
+00:03:30,773 --> 00:03:34,322
+the Gemera's twenty-three hundred is fifty-three percent
+
+89
+00:03:34,322 --> 00:03:37,553
+above the Regera's fifteen hundred and twenty-eight
+
+90
+00:03:37,553 --> 00:03:40,151
+percent above the seventeen ninety-seven.
+
+91
+00:03:40,331 --> 00:03:44,657
+If you subtract the Gemera's eight-hundred-horsepower electric
+
+92
+00:03:44,657 --> 00:03:47,378
+motor, you get fifteen hundred from the
+
+93
+00:03:47,378 --> 00:03:47,587
+V8.
+
+94
+00:03:47,767 --> 00:03:50,856
+That matches the Regera's engine on E85.
+
+95
+00:03:51,036 --> 00:03:52,211
+In our reading,
+
+96
+00:03:52,211 --> 00:03:54,327
+the two V8s are in the same
+
+97
+00:03:54,327 --> 00:03:54,797
+class.
+
+98
+00:03:55,148 --> 00:03:57,516
+The electric side is where the two
+
+99
+00:03:57,516 --> 00:03:58,561
+cars part ways.
+
+100
+00:03:58,741 --> 00:04:01,691
+Wikipedia says the Regera has three YASA
+
+101
+00:04:01,691 --> 00:04:04,862
+electric motors with a combined six hundred
+
+102
+00:04:04,862 --> 00:04:08,771
+ninety-seven horsepower, a direct-drive system with a
+
+103
+00:04:08,771 --> 00:04:11,352
+single two point seven three to one
+
+104
+00:04:11,352 --> 00:04:15,408
+ratio, and a four-and-a-half kilowatt-hour battery from
+
+105
+00:04:15,408 --> 00:04:18,211
+Rimac weighing seventy-five kilograms.
+
+106
+00:04:18,561 --> 00:04:21,639
+The Gemera has an eight-hundred-fifty-volt,
+
+107
+00:04:21,639 --> 00:04:25,577
+fourteen-kilowatt-hour battery, and a Dark Matter front
+
+108
+00:04:25,577 --> 00:04:28,011
+motor of eight hundred horsepower.
+
+109
+00:04:28,191 --> 00:04:29,473
+By our arithmetic,
+
+110
+00:04:29,473 --> 00:04:32,037
+its battery is three point one times
+
+111
+00:04:32,037 --> 00:04:33,817
+bigger than the Regera's,
+
+112
+00:04:33,817 --> 00:04:36,951
+and its electric power eight hundred against
+
+113
+00:04:36,951 --> 00:04:39,871
+six ninety-seven, fifteen percent higher.
+
+114
+00:04:40,051 --> 00:04:42,121
+That is why the Gemera can drive
+
+115
+00:04:42,121 --> 00:04:44,579
+fifty kilometres on electricity alone.
+
+116
+00:04:44,929 --> 00:04:47,483
+Rear motors are a point of confusion.
+
+117
+00:04:47,663 --> 00:04:51,394
+Wikipedia's Gemera text describes two rear motors
+
+118
+00:04:51,394 --> 00:04:54,440
+of five hundred horsepower each plus the
+
+119
+00:04:54,440 --> 00:04:57,105
+front one, but its table lists only
+
+120
+00:04:57,105 --> 00:04:58,857
+the single front motor,
+
+121
+00:04:58,857 --> 00:05:01,446
+and AOL says the three motors were
+
+122
+00:05:01,446 --> 00:05:04,416
+replaced by one in twenty twenty-three.
+
+123
+00:05:04,596 --> 00:05:07,563
+So the production Gemera most likely has
+
+124
+00:05:07,563 --> 00:05:10,900
+one motor, though the encyclopedia page keeps
+
+125
+00:05:10,900 --> 00:05:12,235
+both descriptions.
+
+126
+00:05:12,586 --> 00:05:14,466
+Battery range matters here.
+
+127
+00:05:14,646 --> 00:05:18,864
+The Gemera claims fourteen hundred sixty-three kilometres
+
+128
+00:05:18,864 --> 00:05:21,380
+in total, nine hundred nine miles,
+
+129
+00:05:21,380 --> 00:05:24,561
+with fifty kilometres on electricity alone.
+
+130
+00:05:24,741 --> 00:05:27,697
+The Regera has no electric-only range in
+
+131
+00:05:27,697 --> 00:05:29,174
+the sources we have:
+
+132
+00:05:29,174 --> 00:05:31,391
+its battery is only four and a
+
+133
+00:05:31,391 --> 00:05:32,868
+half kilowatt-hours.
+
+134
+00:05:33,048 --> 00:05:35,185
+We have not found a published electric
+
+135
+00:05:35,185 --> 00:05:35,916
+range for it.
+
+136
+00:05:36,266 --> 00:05:38,481
+The Regera is the car with no
+
+137
+00:05:38,481 --> 00:05:40,085
+conventional gearbox.
+
+138
+00:05:40,265 --> 00:05:43,954
+Wikipedia describes a direct-drive system with a
+
+139
+00:05:43,954 --> 00:05:46,798
+single fixed ratio of two point seven
+
+140
+00:05:46,798 --> 00:05:47,797
+three to one,
+
+141
+00:05:47,797 --> 00:05:50,948
+linking the engine and electric motors to
+
+142
+00:05:50,948 --> 00:05:51,794
+the wheels.
+
+143
+00:05:51,974 --> 00:05:54,511
+We use that description as the page
+
+144
+00:05:54,511 --> 00:05:57,627
+gives it; the encyclopedia does not explain
+
+145
+00:05:57,627 --> 00:05:59,149
+how the clutch works,
+
+146
+00:05:59,149 --> 00:06:01,541
+and neither do our other sources.
+
+147
+00:06:01,891 --> 00:06:03,969
+The Gemera does have a gearbox.
+
+148
+00:06:04,149 --> 00:06:07,078
+Wikipedia says the V8 version uses a
+
+149
+00:06:07,078 --> 00:06:10,902
+nine-speed Light Speed Tourbillon Transmission,
+
+150
+00:06:10,902 --> 00:06:13,587
+a modified version of the unit in
+
+151
+00:06:13,587 --> 00:06:14,400
+the Jesko.
+
+152
+00:06:14,580 --> 00:06:18,958
+InsideHook quotes Autoblog calling the Gemera's version
+
+153
+00:06:18,958 --> 00:06:21,186
+smaller, lighter and better.
+
+154
+00:06:21,366 --> 00:06:23,097
+That is the outlet's opinion,
+
+155
+00:06:23,097 --> 00:06:24,947
+and we have no measured data on
+
+156
+00:06:24,947 --> 00:06:25,604
+its weight.
+
+157
+00:06:25,954 --> 00:06:27,903
+So one car relies on a single
+
+158
+00:06:27,903 --> 00:06:29,785
+ratio and the other on nine.
+
+159
+00:06:29,965 --> 00:06:31,530
+By our arithmetic,
+
+160
+00:06:31,530 --> 00:06:33,703
+that is eight more gears.
+
+161
+00:06:33,883 --> 00:06:36,403
+The sources do not say which approach
+
+162
+00:06:36,403 --> 00:06:38,447
+is quicker, and we do not know
+
+163
+00:06:38,447 --> 00:06:40,013
+of a head-to-head test.
+
+164
+00:06:40,193 --> 00:06:42,559
+What they do say is the Regera's
+
+165
+00:06:42,559 --> 00:06:44,334
+own acceleration claims,
+
+166
+00:06:44,334 --> 00:06:45,813
+which we cover next.
+
+167
+00:06:46,162 --> 00:06:48,868
+Acceleration numbers from Wikipedia.
+
+168
+00:06:49,048 --> 00:06:52,361
+The Regera: zero to one hundred kilometres
+
+169
+00:06:52,361 --> 00:06:55,201
+per hour in two point eight seconds,
+
+170
+00:06:55,201 --> 00:06:57,725
+zero to two hundred in six point
+
+171
+00:06:57,725 --> 00:07:00,328
+six, zero to three hundred in ten
+
+172
+00:07:00,328 --> 00:07:03,089
+point nine, zero to four hundred in
+
+173
+00:07:03,089 --> 00:07:03,641
+twenty.
+
+174
+00:07:03,821 --> 00:07:06,278
+The Gemera's claim is one point nine
+
+175
+00:07:06,278 --> 00:07:07,848
+seconds to one hundred,
+
+176
+00:07:07,848 --> 00:07:10,441
+but for the three-cylinder car that is
+
+177
+00:07:10,441 --> 00:07:11,670
+no longer offered.
+
+178
+00:07:12,020 --> 00:07:14,260
+The Regera also has a record.
+
+179
+00:07:14,440 --> 00:07:17,047
+Wikipedia says that on the sixteenth of
+
+180
+00:07:17,047 --> 00:07:19,386
+June twenty twenty-three at Örebro,
+
+181
+00:07:19,386 --> 00:07:21,592
+it went from zero to four hundred
+
+182
+00:07:21,592 --> 00:07:24,132
+and back to zero in twenty-eight point
+
+183
+00:07:24,132 --> 00:07:25,335
+eight one seconds,
+
+184
+00:07:25,335 --> 00:07:28,142
+regaining the record from the Rimac Nevera
+
+185
+00:07:28,142 --> 00:07:30,949
+at twenty-nine point nine three seconds in
+
+186
+00:07:30,949 --> 00:07:31,217
+May.
+
+187
+00:07:31,397 --> 00:07:34,141
+In September twenty nineteen it had done
+
+188
+00:07:34,141 --> 00:07:35,994
+thirty-one point four nine.
+
+189
+00:07:36,344 --> 00:07:37,685
+By our arithmetic,
+
+190
+00:07:37,685 --> 00:07:40,439
+the Regera improved its own record by
+
+191
+00:07:40,439 --> 00:07:43,566
+two point six eight seconds between twenty
+
+192
+00:07:43,566 --> 00:07:46,023
+nineteen and twenty twenty-three,
+
+193
+00:07:46,023 --> 00:07:48,108
+or eight and a half percent,
+
+194
+00:07:48,108 --> 00:07:50,490
+and beat the Nevera by one point
+
+195
+00:07:50,490 --> 00:07:51,681
+one two seconds.
+
+196
+00:07:51,861 --> 00:07:54,455
+The Gemera has no record claimed in
+
+197
+00:07:54,455 --> 00:07:55,863
+any of our sources,
+
+198
+00:07:55,863 --> 00:07:58,604
+so on that scoreboard the Regera wins
+
+199
+00:07:58,604 --> 00:07:59,419
+by default.
+
+200
+00:07:59,769 --> 00:08:00,919
+Top speeds.
+
+201
+00:08:01,099 --> 00:08:04,221
+Wikipedia lists a claimed four hundred kilometres
+
+202
+00:08:04,221 --> 00:08:06,706
+per hour for the three-cylinder Gemera,
+
+203
+00:08:06,706 --> 00:08:08,936
+and three hundred in electric mode.
+
+204
+00:08:09,116 --> 00:08:10,177
+For the Regera,
+
+205
+00:08:10,177 --> 00:08:13,220
+the sources we fetched list acceleration to
+
+206
+00:08:13,220 --> 00:08:16,546
+four hundred, but no separate top-speed figure.
+
+207
+00:08:16,726 --> 00:08:19,020
+That means we cannot say which is
+
+208
+00:08:19,020 --> 00:08:20,133
+faster flat out,
+
+209
+00:08:20,133 --> 00:08:22,705
+only which has more published claims.
+
+210
+00:08:23,055 --> 00:08:25,835
+Weight is awkward because both pages give
+
+211
+00:08:25,835 --> 00:08:27,258
+more than one figure.
+
+212
+00:08:27,438 --> 00:08:28,614
+For the Regera,
+
+213
+00:08:28,614 --> 00:08:32,297
+Wikipedia lists fourteen seventy kilograms dry,
+
+214
+00:08:32,297 --> 00:08:36,215
+fifteen ninety kerb and fifteen seventy elsewhere.
+
+215
+00:08:36,395 --> 00:08:37,289
+For the Gemera,
+
+216
+00:08:37,289 --> 00:08:40,445
+nineteen eighty-eight for the twenty twenty prototype
+
+217
+00:08:40,445 --> 00:08:43,779
+and twenty forty-two for twenty twenty-three production.
+
+218
+00:08:44,129 --> 00:08:45,317
+By our arithmetic,
+
+219
+00:08:45,317 --> 00:08:47,625
+the Gemera is at least four hundred
+
+220
+00:08:47,625 --> 00:08:50,527
+fifty-two kilograms heavier than the Regera.
+
+221
+00:08:50,707 --> 00:08:53,255
+The Gemera carries two extra seats,
+
+222
+00:08:53,255 --> 00:08:55,803
+a bigger battery and a longer body.
+
+223
+00:08:55,983 --> 00:08:58,273
+Our reading is that the weight difference
+
+224
+00:08:58,273 --> 00:08:59,501
+is the price of space.
+
+225
+00:08:59,681 --> 00:09:01,562
+No source states that reason.
+
+226
+00:09:01,911 --> 00:09:03,180
+Power to weight,
+
+227
+00:09:03,180 --> 00:09:06,271
+by our arithmetic and with the caveats,
+
+228
+00:09:06,271 --> 00:09:07,856
+comes out like this.
+
+229
+00:09:08,036 --> 00:09:12,244
+Gemera V8: twenty-three hundred over twenty forty-two
+
+230
+00:09:12,244 --> 00:09:15,181
+is one point one three horsepower per
+
+231
+00:09:15,181 --> 00:09:15,896
+kilogram.
+
+232
+00:09:16,076 --> 00:09:19,718
+Regera: fifteen hundred over fifteen ninety is
+
+233
+00:09:19,718 --> 00:09:21,381
+zero point nine four.
+
+234
+00:09:21,561 --> 00:09:23,981
+By that measure the Gemera wins on
+
+235
+00:09:23,981 --> 00:09:27,111
+paper, thanks to its bigger electric system.
+
+236
+00:09:27,461 --> 00:09:28,448
+How many were made?
+
+237
+00:09:28,628 --> 00:09:33,063
+Wikipedia's Regera infobox says eighty were built.
+
+238
+00:09:33,243 --> 00:09:35,368
+The body of the article says eighty-five.
+
+239
+00:09:35,548 --> 00:09:38,577
+RM Sotheby's, selling a twenty twenty car
+
+240
+00:09:38,577 --> 00:09:40,202
+in twenty twenty-four,
+
+241
+00:09:40,202 --> 00:09:41,457
+says eighty-five.
+
+242
+00:09:41,637 --> 00:09:44,307
+The Regera was unveiled in Geneva in
+
+243
+00:09:44,307 --> 00:09:45,864
+March twenty fifteen,
+
+244
+00:09:45,864 --> 00:09:49,127
+produced from March twenty sixteen to twenty
+
+245
+00:09:49,127 --> 00:09:52,241
+twenty-two, and sold out on the thirteenth
+
+246
+00:09:52,241 --> 00:09:54,095
+of June twenty seventeen.
+
+247
+00:09:54,444 --> 00:09:57,451
+The Gemera is limited to three hundred,
+
+248
+00:09:57,451 --> 00:10:00,226
+according to both Wikipedia and AOL.
+
+249
+00:10:00,406 --> 00:10:02,741
+AOL says all of them are spoken
+
+250
+00:10:02,741 --> 00:10:03,042
+for.
+
+251
+00:10:03,222 --> 00:10:04,471
+By our arithmetic,
+
+252
+00:10:04,471 --> 00:10:06,760
+that is three point five times as
+
+253
+00:10:06,760 --> 00:10:08,980
+many as the eighty-five Regeras.
+
+254
+00:10:09,160 --> 00:10:11,978
+Koenigsegg's total output per year is not
+
+255
+00:10:11,978 --> 00:10:14,726
+given, and neither are the deliveries to
+
+256
+00:10:14,726 --> 00:10:15,070
+date.
+
+257
+00:10:15,420 --> 00:10:17,904
+Timing is the sharpest contrast.
+
+258
+00:10:18,084 --> 00:10:19,290
+By our arithmetic,
+
+259
+00:10:19,290 --> 00:10:21,635
+the Regera sold out about two years
+
+260
+00:10:21,635 --> 00:10:23,912
+and three months after its reveal.
+
+261
+00:10:24,092 --> 00:10:26,785
+The Gemera was revealed on the third
+
+262
+00:10:26,785 --> 00:10:28,505
+of March twenty twenty,
+
+263
+00:10:28,505 --> 00:10:32,170
+was originally scheduled for production in twenty
+
+264
+00:10:32,170 --> 00:10:35,759
+twenty-two, and began production in March twenty
+
+265
+00:10:35,759 --> 00:10:37,854
+twenty-six, six years later,
+
+266
+00:10:37,854 --> 00:10:40,172
+according to AOL and Wikipedia.
+
+267
+00:10:40,521 --> 00:10:41,265
+Prices.
+
+268
+00:10:41,445 --> 00:10:42,599
+For the Gemera,
+
+269
+00:10:42,599 --> 00:10:45,907
+Motor1 reported in April twenty twenty that
+
+270
+00:10:45,907 --> 00:10:49,139
+Christian von Koenigsegg told Top Gear the
+
+271
+00:10:49,139 --> 00:10:49,293
+U.
+
+272
+00:10:49,473 --> 00:10:49,914
+S.
+
+273
+00:10:50,094 --> 00:10:52,803
+-spec car starts at one point seven
+
+274
+00:10:52,803 --> 00:10:54,041
+million dollars.
+
+275
+00:10:54,221 --> 00:10:57,866
+InsideHook reports a rumoured four hundred thousand
+
+276
+00:10:57,866 --> 00:10:59,725
+dollar premium for the V8.
+
+277
+00:10:59,905 --> 00:11:01,021
+For the Regera,
+
+278
+00:11:01,021 --> 00:11:05,412
+Wikipedia's citation titles carry nineteen hundred thousand
+
+279
+00:11:05,412 --> 00:11:08,612
+dollars, and one point five million pounds.
+
+280
+00:11:08,961 --> 00:11:10,347
+So on the face of it,
+
+281
+00:11:10,347 --> 00:11:12,788
+the Gemera's base price is lower than
+
+282
+00:11:12,788 --> 00:11:14,569
+the Regera's quoted figure.
+
+283
+00:11:14,749 --> 00:11:16,168
+By our arithmetic,
+
+284
+00:11:16,168 --> 00:11:19,244
+one point seven is eleven percent below
+
+285
+00:11:19,244 --> 00:11:20,426
+one point nine.
+
+286
+00:11:20,606 --> 00:11:23,541
+Add the rumoured four hundred thousand for
+
+287
+00:11:23,541 --> 00:11:25,706
+the V8 and it becomes two point
+
+288
+00:11:25,706 --> 00:11:28,710
+one million, which is eleven percent above.
+
+289
+00:11:28,890 --> 00:11:31,948
+Neither number is an official production price
+
+290
+00:11:31,948 --> 00:11:32,280
+list.
+
+291
+00:11:32,630 --> 00:11:34,890
+The used market gives a harder data
+
+292
+00:11:34,890 --> 00:11:35,278
+point.
+
+293
+00:11:35,458 --> 00:11:38,533
+RM Sotheby's offered a twenty twenty Regera
+
+294
+00:11:38,533 --> 00:11:41,751
+with fifteen hundred twelve miles at Monterey
+
+295
+00:11:41,751 --> 00:11:43,325
+in twenty twenty-four,
+
+296
+00:11:43,325 --> 00:11:46,186
+estimating two point seven five to three
+
+297
+00:11:46,186 --> 00:11:48,403
+point two five million dollars.
+
+298
+00:11:48,583 --> 00:11:49,732
+It was not sold.
+
+299
+00:11:49,912 --> 00:11:52,301
+There is no such auction record for
+
+300
+00:11:52,301 --> 00:11:54,075
+the Gemera in our sources,
+
+301
+00:11:54,075 --> 00:11:56,669
+since deliveries have only just begun.
+
+302
+00:11:57,019 --> 00:11:59,518
+The same lot lists about five hundred
+
+303
+00:11:59,518 --> 00:12:01,679
+one thousand dollars of options,
+
+304
+00:12:01,679 --> 00:12:04,852
+including a one hundred seventy thousand dollar
+
+305
+00:12:04,852 --> 00:12:08,296
+clear carbon finish and fifty-seven thousand dollar
+
+306
+00:12:08,296 --> 00:12:08,769
+wheels.
+
+307
+00:12:08,949 --> 00:12:12,197
+Wikipedia mentions upgrades of seven hundred ten
+
+308
+00:12:12,197 --> 00:12:15,241
+thousand dollars on another auctioned Regera.
+
+309
+00:12:15,421 --> 00:12:16,765
+By our arithmetic,
+
+310
+00:12:16,765 --> 00:12:19,230
+options of that scale are as much
+
+311
+00:12:19,230 --> 00:12:21,545
+as a third of the Gemera's base
+
+312
+00:12:21,545 --> 00:12:21,993
+price.
+
+313
+00:12:22,342 --> 00:12:23,329
+Put it together.
+
+314
+00:12:23,509 --> 00:12:26,564
+The Regera is a two-seat hypercar built
+
+315
+00:12:26,564 --> 00:12:29,070
+around direct drive and records.
+
+316
+00:12:29,250 --> 00:12:32,004
+The Gemera is a four-seat grand tourer
+
+317
+00:12:32,004 --> 00:12:33,090
+with a gearbox,
+
+318
+00:12:33,090 --> 00:12:35,554
+a bigger battery and a limited run
+
+319
+00:12:35,554 --> 00:12:36,785
+of three hundred.
+
+320
+00:12:36,965 --> 00:12:40,297
+Wikipedia and the Car and Driver headline
+
+321
+00:12:40,297 --> 00:12:42,979
+describe the Gemera as a Mega GT.
+
+322
+00:12:43,159 --> 00:12:45,649
+The word GT is the encyclopedia's,
+
+323
+00:12:45,649 --> 00:12:48,724
+not ours, and the company's own definition
+
+324
+00:12:48,724 --> 00:12:50,334
+is not in our sources.
+
+325
+00:12:50,684 --> 00:12:52,670
+Where would you win a drag race?
+
+326
+00:12:52,850 --> 00:12:54,507
+On the evidence we have,
+
+327
+00:12:54,507 --> 00:12:55,474
+we cannot say.
+
+328
+00:12:55,654 --> 00:12:58,172
+The Gemera has more power on paper
+
+329
+00:12:58,172 --> 00:12:59,357
+and more weight.
+
+330
+00:12:59,537 --> 00:13:01,544
+The Regera has a record and a
+
+331
+00:13:01,544 --> 00:13:02,927
+direct-drive layout.
+
+332
+00:13:03,107 --> 00:13:05,343
+No source we found puts the two
+
+333
+00:13:05,343 --> 00:13:06,785
+on a track together,
+
+334
+00:13:06,785 --> 00:13:09,165
+so any declared winner would be a
+
+335
+00:13:09,165 --> 00:13:09,597
+guess.
+
+336
+00:13:09,777 --> 00:13:11,839
+We prefer to leave that to a
+
+337
+00:13:11,839 --> 00:13:12,575
+real test.
+
+338
+00:13:12,925 --> 00:13:17,050
+The Regera's reputation includes one more detail,
+
+339
+00:13:17,050 --> 00:13:18,649
+its sell-out speed.
+
+340
+00:13:18,829 --> 00:13:21,467
+Wikipedia says it sold out on the
+
+341
+00:13:21,467 --> 00:13:24,344
+thirteenth of June twenty seventeen.
+
+342
+00:13:24,524 --> 00:13:25,812
+By our arithmetic,
+
+343
+00:13:25,812 --> 00:13:29,603
+selling eighty-five cars in about twenty-seven months
+
+344
+00:13:29,603 --> 00:13:31,606
+is about three cars a month.
+
+345
+00:13:31,786 --> 00:13:34,071
+The Gemera's three hundred cars,
+
+346
+00:13:34,071 --> 00:13:35,856
+over its first six years,
+
+347
+00:13:35,856 --> 00:13:37,784
+is about four cars a month,
+
+348
+00:13:37,784 --> 00:13:40,354
+if you count orders from the reveal.
+
+349
+00:13:40,704 --> 00:13:43,410
+Both cars come from the same company.
+
+350
+00:13:43,590 --> 00:13:47,327
+Wikipedia says Koenigsegg was founded in nineteen
+
+351
+00:13:47,327 --> 00:13:50,379
+ninety-four by Christian von Koenigsegg,
+
+352
+00:13:50,379 --> 00:13:51,828
+who was twenty-two,
+
+353
+00:13:51,828 --> 00:13:54,956
+with sixty million kronor from investors.
+
+354
+00:13:55,136 --> 00:13:57,665
+By end of twenty twenty-three it had
+
+355
+00:13:57,665 --> 00:13:59,842
+just under eight hundred staff,
+
+356
+00:13:59,842 --> 00:14:02,442
+and in July twenty twenty-three a new
+
+357
+00:14:02,442 --> 00:14:04,830
+factory opened, doubling capacity.
+
+358
+00:14:05,180 --> 00:14:09,335
+The company's lineup as of twenty twenty-six,
+
+359
+00:14:09,335 --> 00:14:11,459
+in Wikipedia's account,
+
+360
+00:14:11,459 --> 00:14:12,659
+is the Jesko,
+
+361
+00:14:12,659 --> 00:14:14,968
+the Gemera and the CC850.
+
+362
+00:14:15,148 --> 00:14:17,380
+The Regera has been out of production
+
+363
+00:14:17,380 --> 00:14:18,828
+since twenty twenty-two.
+
+364
+00:14:19,008 --> 00:14:21,638
+The Jesko Attack holds a Laguna Seca
+
+365
+00:14:21,638 --> 00:14:24,705
+lap record of one minute twenty-four point
+
+366
+00:14:24,705 --> 00:14:26,020
+eight six seconds,
+
+367
+00:14:26,020 --> 00:14:28,284
+from August twenty twenty-four.
+
+368
+00:14:28,464 --> 00:14:30,939
+The Gemera is not claimed to have
+
+369
+00:14:30,939 --> 00:14:31,239
+one.
+
+370
+00:14:31,589 --> 00:14:32,901
+Use matters too.
+
+371
+00:14:33,081 --> 00:14:36,206
+The Gemera is described by Wikipedia as
+
+372
+00:14:36,206 --> 00:14:39,331
+a four-seat car with eight cup holders,
+
+373
+00:14:39,331 --> 00:14:42,216
+four of them heated and four cooled,
+
+374
+00:14:42,216 --> 00:14:45,260
+four touchscreens and eleven speakers.
+
+375
+00:14:45,440 --> 00:14:48,611
+Nothing in our sources describes the Regera's
+
+376
+00:14:48,611 --> 00:14:50,514
+cabin in comparable detail.
+
+377
+00:14:50,694 --> 00:14:53,751
+So any comparison of comfort is one-sided:
+
+378
+00:14:53,751 --> 00:14:55,644
+we know the Gemera's list,
+
+379
+00:14:55,644 --> 00:14:57,973
+and we do not know the Regera's.
+
+380
+00:14:58,323 --> 00:15:01,291
+The wheels are listed for the Gemera:
+
+381
+00:15:01,291 --> 00:15:03,777
+twenty-one inches at the front,
+
+382
+00:15:03,777 --> 00:15:05,622
+twenty-two at the rear,
+
+383
+00:15:05,622 --> 00:15:08,669
+on Michelin Pilot Sport 4S as standard
+
+384
+00:15:08,669 --> 00:15:10,514
+or Cup 2R as an option.
+
+385
+00:15:10,694 --> 00:15:13,356
+The Regera's wheel sizes are not in
+
+386
+00:15:13,356 --> 00:15:15,181
+the passages we fetched,
+
+387
+00:15:15,181 --> 00:15:18,908
+though RM Sotheby's lists optional Tresex AirCore
+
+388
+00:15:18,908 --> 00:15:21,874
+wheels at fifty-seven thousand dollars.
+
+389
+00:15:22,054 --> 00:15:24,086
+Those are the only wheel numbers we
+
+390
+00:15:24,086 --> 00:15:25,479
+can cite for the Regera.
+
+391
+00:15:25,829 --> 00:15:29,107
+Service costs are a fair comparison only
+
+392
+00:15:29,107 --> 00:15:30,090
+on one side.
+
+393
+00:15:30,270 --> 00:15:32,953
+RM Sotheby's reports that the Regera in
+
+394
+00:15:32,953 --> 00:15:35,843
+lot two-forty had a third-year service and
+
+395
+00:15:35,843 --> 00:15:39,352
+updates in spring twenty twenty-four costing nearly
+
+396
+00:15:39,352 --> 00:15:41,140
+nineteen thousand dollars,
+
+397
+00:15:41,140 --> 00:15:44,167
+including a technician flown in from Sweden.
+
+398
+00:15:44,347 --> 00:15:45,429
+For the Gemera,
+
+399
+00:15:45,429 --> 00:15:47,954
+no service cost is published in our
+
+400
+00:15:47,954 --> 00:15:50,118
+sources, so we cannot compare.
+
+401
+00:15:50,467 --> 00:15:52,348
+One more point from the auction.
+
+402
+00:15:52,528 --> 00:15:55,232
+The Regera for sale had a protective
+
+403
+00:15:55,232 --> 00:15:58,462
+paint film applied in twenty twenty-one and
+
+404
+00:15:58,462 --> 00:16:00,115
+clear carbon bodywork,
+
+405
+00:16:00,115 --> 00:16:03,119
+which the catalogue lists at one hundred
+
+406
+00:16:03,119 --> 00:16:04,997
+seventy thousand dollars.
+
+407
+00:16:05,177 --> 00:16:07,846
+The Gemera has an optional Ghost package,
+
+408
+00:16:07,846 --> 00:16:10,123
+but our sources do not describe it.
+
+409
+00:16:10,303 --> 00:16:11,410
+So in finishes,
+
+410
+00:16:11,410 --> 00:16:13,624
+we can only list the Regera's.
+
+411
+00:16:13,973 --> 00:16:15,259
+By our arithmetic,
+
+412
+00:16:15,259 --> 00:16:18,189
+the three biggest options on that Regera,
+
+413
+00:16:18,189 --> 00:16:21,403
+clear carbon at one hundred seventy thousand,
+
+414
+00:16:21,403 --> 00:16:24,190
+dark carbon with gold dust at sixty-two
+
+415
+00:16:24,190 --> 00:16:27,619
+thousand and the wheels at fifty-seven thousand,
+
+416
+00:16:27,619 --> 00:16:30,619
+add up to two hundred eighty-nine thousand
+
+417
+00:16:30,619 --> 00:16:31,191
+dollars.
+
+418
+00:16:31,371 --> 00:16:34,047
+That is about fifty-eight percent of the
+
+419
+00:16:34,047 --> 00:16:37,258
+catalogue's total options figure of five hundred
+
+420
+00:16:37,258 --> 00:16:38,128
+one thousand.
+
+421
+00:16:38,478 --> 00:16:40,673
+Mileage is a quiet detail.
+
+422
+00:16:40,853 --> 00:16:43,890
+The auctioned Regera had fifteen hundred twelve
+
+423
+00:16:43,890 --> 00:16:44,278
+miles.
+
+424
+00:16:44,458 --> 00:16:45,632
+By our arithmetic,
+
+425
+00:16:45,632 --> 00:16:48,112
+over four years from its twenty twenty
+
+426
+00:16:48,112 --> 00:16:50,395
+model year to the auction in twenty
+
+427
+00:16:50,395 --> 00:16:53,919
+twenty-four, that is about three hundred seventy-eight
+
+428
+00:16:53,919 --> 00:16:54,767
+miles a year.
+
+429
+00:16:54,947 --> 00:16:57,364
+These cars are often kept more than
+
+430
+00:16:57,364 --> 00:16:59,988
+driven, but the catalogue does not say
+
+431
+00:16:59,988 --> 00:17:01,507
+how this one was used.
+
+432
+00:17:01,856 --> 00:17:04,654
+A summary of the disagreements we found.
+
+433
+00:17:04,834 --> 00:17:06,492
+Regera build count:
+
+434
+00:17:06,492 --> 00:17:08,410
+eighty or eighty-five.
+
+435
+00:17:08,590 --> 00:17:10,326
+Regera combined power:
+
+436
+00:17:10,326 --> 00:17:13,641
+fifteen hundred or seventeen ninety-seven.
+
+437
+00:17:13,821 --> 00:17:17,053
+Regera weight: fourteen seventy dry,
+
+438
+00:17:17,053 --> 00:17:20,554
+fifteen seventy or fifteen ninety kerb.
+
+439
+00:17:20,734 --> 00:17:24,891
+Gemera weight: nineteen eighty-eight or twenty forty-two.
+
+440
+00:17:25,071 --> 00:17:27,822
+Gemera motors: one or three.
+
+441
+00:17:28,002 --> 00:17:29,405
+Gemera V8 power:
+
+442
+00:17:29,405 --> 00:17:33,436
+twenty-three hundred or twenty-two sixty-nine.
+
+443
+00:17:33,785 --> 00:17:34,807
+Why so many?
+
+444
+00:17:34,987 --> 00:17:36,949
+Part of the answer is time.
+
+445
+00:17:37,129 --> 00:17:40,256
+The Gemera was revised between twenty twenty
+
+446
+00:17:40,256 --> 00:17:41,961
+and twenty twenty-three,
+
+447
+00:17:41,961 --> 00:17:44,661
+and the Wikipedia page keeps older and
+
+448
+00:17:44,661 --> 00:17:46,580
+newer figures side by side.
+
+449
+00:17:46,760 --> 00:17:49,729
+The Regera's differences look more like different
+
+450
+00:17:49,729 --> 00:17:50,637
+counting rules.
+
+451
+00:17:50,817 --> 00:17:52,790
+But our sources do not say why
+
+452
+00:17:52,790 --> 00:17:54,039
+the numbers differ,
+
+453
+00:17:54,039 --> 00:17:56,340
+so that explanation is our reading,
+
+454
+00:17:56,340 --> 00:17:57,064
+not a fact.
+
+455
+00:17:57,413 --> 00:17:58,510
+For the viewer,
+
+456
+00:17:58,510 --> 00:18:00,629
+the practical rule is simple.
+
+457
+00:18:00,809 --> 00:18:03,220
+When you see a hypercar number quoted
+
+458
+00:18:03,220 --> 00:18:05,044
+without a source and a date,
+
+459
+00:18:05,044 --> 00:18:06,347
+treat it as a claim.
+
+460
+00:18:06,527 --> 00:18:08,005
+A press release,
+
+461
+00:18:08,005 --> 00:18:11,793
+a catalogue, and an encyclopedia page can
+
+462
+00:18:11,793 --> 00:18:12,994
+all disagree.
+
+463
+00:18:13,174 --> 00:18:14,937
+In this video we gave you the
+
+464
+00:18:14,937 --> 00:18:17,307
+range of figures instead of picking the
+
+465
+00:18:17,307 --> 00:18:19,130
+one that makes the best story.
+
+466
+00:18:19,480 --> 00:18:21,379
+One last comparison,
+
+467
+00:18:21,379 --> 00:18:22,139
+our own.
+
+468
+00:18:22,319 --> 00:18:24,031
+Add the production counts:
+
+469
+00:18:24,031 --> 00:18:27,325
+eighty-five Regeras and three hundred Gemeras make
+
+470
+00:18:27,325 --> 00:18:29,366
+three hundred eighty-five cars.
+
+471
+00:18:29,546 --> 00:18:30,767
+By our arithmetic,
+
+472
+00:18:30,767 --> 00:18:33,684
+the Gemera is seventy-eight percent of that
+
+473
+00:18:33,684 --> 00:18:34,701
+combined total.
+
+474
+00:18:34,881 --> 00:18:37,024
+If every Gemera is delivered,
+
+475
+00:18:37,024 --> 00:18:40,128
+Koenigsegg will have built more than three
+
+476
+00:18:40,128 --> 00:18:42,714
+times as many of this hybrid family
+
+477
+00:18:42,714 --> 00:18:45,005
+in the Gemera as in the Regera.
+
+478
+00:18:45,355 --> 00:18:47,365
+One more way to compare is by
+
+479
+00:18:47,365 --> 00:18:49,651
+what each car chose to leave out.
+
+480
+00:18:49,831 --> 00:18:53,263
+The Regera left out a conventional multi-speed
+
+481
+00:18:53,263 --> 00:18:55,950
+gearbox, using a single fixed ratio.
+
+482
+00:18:56,130 --> 00:18:59,219
+The Gemera left out its original three-cylinder
+
+483
+00:18:59,219 --> 00:19:01,191
+and its three electric motors.
+
+484
+00:19:01,371 --> 00:19:03,664
+Both are cases of simplification,
+
+485
+00:19:03,664 --> 00:19:06,374
+though in the Gemera's case the sources
+
+486
+00:19:06,374 --> 00:19:09,083
+say it happened after the first reveal,
+
+487
+00:19:09,083 --> 00:19:10,056
+not before it.
+
+488
+00:19:10,405 --> 00:19:12,217
+A note on E85.
+
+489
+00:19:12,397 --> 00:19:15,870
+Both cars reach their headline power on
+
+490
+00:19:15,870 --> 00:19:17,830
+E85, an ethanol blend.
+
+491
+00:19:18,010 --> 00:19:20,609
+Wikipedia says so for the Regera's fifteen
+
+492
+00:19:20,609 --> 00:19:23,455
+hundred and the Gemera's twenty-three hundred.
+
+493
+00:19:23,635 --> 00:19:25,323
+On ordinary pump fuel,
+
+494
+00:19:25,323 --> 00:19:27,932
+the Regera's V8 is rated at eleven
+
+495
+00:19:27,932 --> 00:19:28,546
+hundred.
+
+496
+00:19:28,726 --> 00:19:31,715
+The Gemera's pump-fuel V8 figure is not
+
+497
+00:19:31,715 --> 00:19:32,864
+in our sources,
+
+498
+00:19:32,864 --> 00:19:35,239
+so we cannot say how much power
+
+499
+00:19:35,239 --> 00:19:37,538
+an owner loses on regular gas.
+
+500
+00:19:37,888 --> 00:19:39,400
+By our arithmetic,
+
+501
+00:19:39,400 --> 00:19:43,264
+the Regera loses about twenty-seven percent of
+
+502
+00:19:43,264 --> 00:19:46,120
+its V8 power on pump fuel compared
+
+503
+00:19:46,120 --> 00:19:50,236
+with E85: eleven hundred is seventy-three percent
+
+504
+00:19:50,236 --> 00:19:51,832
+of fifteen hundred.
+
+505
+00:19:52,012 --> 00:19:55,297
+That matters for buyers in places where
+
+506
+00:19:55,297 --> 00:19:56,644
+E85 is not sold.
+
+507
+00:19:56,824 --> 00:19:59,326
+Neither the Gemera nor the Regera page
+
+508
+00:19:59,326 --> 00:20:01,828
+says how many owners actually run E85.
+
+509
+00:20:02,178 --> 00:20:04,477
+There is also the question of where
+
+510
+00:20:04,477 --> 00:20:06,973
+each car sits in the Koenigsegg story.
+
+511
+00:20:07,153 --> 00:20:10,908
+Wikipedia's company page lists the Agera,
+
+512
+00:20:10,908 --> 00:20:14,663
+Regera, Jesko, Gemera and CC850 among the
+
+513
+00:20:14,663 --> 00:20:15,304
+models.
+
+514
+00:20:15,484 --> 00:20:18,153
+The Regera arrived in twenty fifteen,
+
+515
+00:20:18,153 --> 00:20:20,174
+the Gemera in twenty twenty.
+
+516
+00:20:20,354 --> 00:20:21,603
+By our arithmetic,
+
+517
+00:20:21,603 --> 00:20:24,032
+that is five years between reveals,
+
+518
+00:20:24,032 --> 00:20:27,154
+and the Gemera's production start came eleven
+
+519
+00:20:27,154 --> 00:20:29,375
+years after the Regera's reveal.
+
+520
+00:20:29,724 --> 00:20:31,019
+So if you are choosing,
+
+521
+00:20:31,019 --> 00:20:32,708
+ask what you want the car for.
+
+522
+00:20:32,888 --> 00:20:35,335
+Four seats and a gearbox point to
+
+523
+00:20:35,335 --> 00:20:36,151
+the Gemera.
+
+524
+00:20:36,331 --> 00:20:39,179
+A two-seat record holder with direct drive
+
+525
+00:20:39,179 --> 00:20:40,603
+points to the Regera.
+
+526
+00:20:40,783 --> 00:20:43,364
+The prices, in the sources we found,
+
+527
+00:20:43,364 --> 00:20:44,798
+are of similar size,
+
+528
+00:20:44,798 --> 00:20:47,165
+from about one point seven to two
+
+529
+00:20:47,165 --> 00:20:49,746
+point one million for the Gemera and
+
+530
+00:20:49,746 --> 00:20:52,184
+nearly two million for the Regera.
+
+531
+00:20:52,364 --> 00:20:55,293
+Our advice is to read the specifications,
+
+532
+00:20:55,293 --> 00:20:56,578
+not the headlines.
+
+533
+00:20:56,928 --> 00:20:57,822
+What is missing.
+
+534
+00:20:58,002 --> 00:21:00,081
+A measured head-to-head test.
+
+535
+00:21:00,261 --> 00:21:03,360
+A reconciled weight for the production Gemera.
+
+536
+00:21:03,540 --> 00:21:06,826
+An official production price for either car.
+
+537
+00:21:07,006 --> 00:21:08,678
+The Regera's top speed.
+
+538
+00:21:08,858 --> 00:21:11,398
+The V8 Gemera's zero to one hundred
+
+539
+00:21:11,398 --> 00:21:11,760
+time.
+
+540
+00:21:11,940 --> 00:21:14,490
+And the split of Gemeras between V8
+
+541
+00:21:14,490 --> 00:21:16,457
+and the old three-cylinder.
+
+542
+00:21:16,637 --> 00:21:18,631
+If you have a primary source for
+
+543
+00:21:18,631 --> 00:21:19,441
+any of these,
+
+544
+00:21:19,441 --> 00:21:20,874
+put it in the comments.
+
+545
+00:21:21,224 --> 00:21:23,654
+So the real difference is not speed,
+
+546
+00:21:23,654 --> 00:21:26,286
+because the sources do not settle that.
+
+547
+00:21:26,466 --> 00:21:27,569
+It is purpose.
+
+548
+00:21:27,749 --> 00:21:30,415
+The Regera is a two-seat record car
+
+549
+00:21:30,415 --> 00:21:33,461
+with direct drive and eighty-five units.
+
+550
+00:21:33,641 --> 00:21:36,145
+The Gemera is a four-seat grand tourer
+
+551
+00:21:36,145 --> 00:21:38,715
+with a gearbox and three hundred units.
+
+552
+00:21:38,895 --> 00:21:40,201
+In the other videos,
+
+553
+00:21:40,201 --> 00:21:42,095
+we count the cost of owning a
+
+554
+00:21:42,095 --> 00:21:44,642
+Koenigsegg and tell why they build cars
+
+555
+00:21:44,642 --> 00:21:46,209
+in a fighter-jet hangar.
+
+556
+00:21:46,389 --> 00:21:49,164
+Subscribe to Pickup Reality.
