@@ -1,0 +1,6 @@
+- Wikipedia, Dodge Viper: https://en.wikipedia.org/wiki/Dodge_Viper
+- Good Car Bad Car, Dodge Viper sales figures: https://www.goodcarbadcar.net/dodge-viper-sales-figures/
+- Motor Authority, Dodge Viper production ending due to airbag regulations: https://www.motorauthority.com/news/1101880_dodge-viper-production-ending-due-to-airbag-regulations
+- The Drive, Dodge Viper factory to close August 31: https://www.thedrive.com/article/12390/dodge-viper-factory-to-close-august-31
+- Yahoo / The Drive, The Dodge Viper era is dead, head of SRT says (29 May 2026): https://autos.yahoo.com/people-and-culture/articles/dodge-viper-era-dead-head-164100036.html
+- Classic.com, Dodge Viper ACR VX I market: https://www.classic.com/m/dodge/viper/5th-gen/acr/
