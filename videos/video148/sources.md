@@ -1,0 +1,15 @@
+- Wikipedia, Ferrari Purosangue: https://en.wikipedia.org/wiki/Ferrari_Purosangue
+- Wikipedia, Rolls-Royce Cullinan: https://en.wikipedia.org/wiki/Rolls-Royce_Cullinan
+- Autoevolution, Marchionne 2016 interview coverage (you have to shoot me first)
+- Autocar, 4 Aug 2017, Ferrari boss Sergio Marchionne on a Ferrari SUV
+- Autocar India, Ferrari executives on an SUV (Galliera quote)
+- Drive.com.au and NBC, Marchionne at the New York Stock Exchange press event (undated copies)
+- Bloomberg via Autoevolution, 17 Sept 2022, Vigna on the word SUV
+- Carscoops, 5 May 2023, Vigna: caught by a positive surprise
+- Robb Report, Ferrari stops taking Purosangue orders because of high demand: https://robbreport.com/motors/cars/ferrari-temporarily-closes-purosangue-order-book-1234778214/
+- Motor1, Ferrari says if you order a car today you won't get it until 2026: https://www.motor1.com/news/694830/ferrari-new-orders-fulfilled-2026/
+- Motor1 (Brian Silvestro), Ferrari Purosangue review: https://www.motor1.com/reviews/725148/2025-ferrari-purosangue-review/
+- AOL, 2024 Ferrari Purosangue will start at an eye-watering $398,350: https://www.aol.com/2024-ferrari-purosangue-start-eye-143900131.html
+- autoevolution (Sergiu Tudose), used Ferrari Purosangue on Bring a Trailer: https://www.autoevolution.com/news/maserati-dealer-tries-to-sell-used-ferrari-purosangue-and-fails-they-can-forget-about-msrp-272537.html
+- Autohled, Ferrari averaged 524 thousand euros in revenue for every car: https://www.autohled.cz/en/magazin/ferrari-utrzilo-v-prumeru-524-tisic-eur-za-kazde-auto-rekordni-rok-2025-ukazuje-silu-exkluzivity/9983
+- Autoblog, 2026 Rolls-Royce Cullinan specs and fuel economy

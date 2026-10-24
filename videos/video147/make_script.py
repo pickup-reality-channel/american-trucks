@@ -121,7 +121,7 @@ sc("""If you own a Purosangue, or have a published bill, share it in the comment
 
 save("video147", "Can a Normal Person Afford a Ferrari SUV?", [
     "Cars.com, Ferrari Purosangue vs. Rolls-Royce Cullinan: https://www.cars.com/research/compare/ferrari-purosangue-vs-rolls_royce-cullinan/",
-    "Motor1 (Brian Silvestro), Ferrari Purosangue: the most fun SUV ever: https://www.motor1.com/reviews/725148/2025-ferrari-purosangue-review/",
+    "Motor1 (Brian Silvestro), Ferrari Purosangue review: https://www.motor1.com/reviews/725148/2025-ferrari-purosangue-review/",
     "AOL, 2024 Ferrari Purosangue will start at an eye-watering $398,350: https://www.aol.com/2024-ferrari-purosangue-start-eye-143900131.html",
     "AOL (Olivia Richman), Owning a Ferrari could cost $50,000 a year before you even drive it: https://www.aol.com/articles/owning-ferrari-could-cost-50-201457000.html",
     "autoevolution (Sergiu Tudose), Maserati dealer tries to sell used Ferrari Purosangue and fails: https://www.autoevolution.com/news/maserati-dealer-tries-to-sell-used-ferrari-purosangue-and-fails-they-can-forget-about-msrp-272537.html",
