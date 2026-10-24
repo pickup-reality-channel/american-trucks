@@ -1,0 +1,2299 @@
+1
+00:00:00,000 --> 00:00:02,547
+The Hennessey Venom F5 is named after
+
+2
+00:00:02,547 --> 00:00:05,714
+a tornado, and its headline horsepower depends
+
+3
+00:00:05,714 --> 00:00:07,848
+on what you pour into the tank.
+
+4
+00:00:08,028 --> 00:00:10,451
+Those are two things most people do
+
+5
+00:00:10,451 --> 00:00:13,705
+not know about America's most extreme hypercar,
+
+6
+00:00:13,705 --> 00:00:16,058
+and a third thing sits behind both
+
+7
+00:00:16,058 --> 00:00:18,135
+of them: the car has never yet
+
+8
+00:00:18,135 --> 00:00:20,697
+shown the three hundred mile per hour
+
+9
+00:00:20,697 --> 00:00:22,912
+top speed it was built to chase.
+
+10
+00:00:23,092 --> 00:00:24,376
+Here are the facts,
+
+11
+00:00:24,376 --> 00:00:26,134
+with every figure sourced.
+
+12
+00:00:26,483 --> 00:00:28,887
+This is the first video in a
+
+13
+00:00:28,887 --> 00:00:31,463
+series on the Venom F5 and its
+
+14
+00:00:31,463 --> 00:00:33,438
+rival, the SSC Tuatara.
+
+15
+00:00:33,618 --> 00:00:35,564
+We will cover the name,
+
+16
+00:00:35,564 --> 00:00:37,088
+the power figures,
+
+17
+00:00:37,088 --> 00:00:38,696
+the production run,
+
+18
+00:00:38,696 --> 00:00:40,219
+the sticker price,
+
+19
+00:00:40,219 --> 00:00:41,658
+the test results,
+
+20
+00:00:41,658 --> 00:00:42,674
+and a crash.
+
+21
+00:00:42,854 --> 00:00:44,628
+We read Wikipedia,
+
+22
+00:00:44,628 --> 00:00:47,486
+evo, The Drive and Motor One.
+
+23
+00:00:47,666 --> 00:00:49,686
+When two numbers disagree,
+
+24
+00:00:49,686 --> 00:00:50,696
+we show both.
+
+25
+00:00:50,876 --> 00:00:53,009
+And where a number is our own
+
+26
+00:00:53,009 --> 00:00:54,626
+arithmetic, we say so.
+
+27
+00:00:54,977 --> 00:00:55,929
+Secret one.
+
+28
+00:00:56,109 --> 00:00:58,742
+Wikipedia says the F5 in the name
+
+29
+00:00:58,742 --> 00:01:01,215
+refers to the top rating on the
+
+30
+00:01:01,215 --> 00:01:04,886
+Fujita scale, the scale for tornado intensity.
+
+31
+00:01:05,066 --> 00:01:07,194
+An F5 tornado has winds of two
+
+32
+00:01:07,194 --> 00:01:10,670
+hundred sixty-one to three hundred eighteen miles
+
+33
+00:01:10,670 --> 00:01:13,153
+per hour, or four hundred twenty to
+
+34
+00:01:13,153 --> 00:01:15,991
+five hundred twelve kilometres per hour.
+
+35
+00:01:16,171 --> 00:01:18,033
+So the name is not a model
+
+36
+00:01:18,033 --> 00:01:19,967
+number, it is a wind speed.
+
+37
+00:01:20,318 --> 00:01:22,349
+Look at the numbers side by side.
+
+38
+00:01:22,529 --> 00:01:25,383
+The lowest F5 wind is two hundred
+
+39
+00:01:25,383 --> 00:01:27,545
+sixty-one miles per hour.
+
+40
+00:01:27,725 --> 00:01:30,349
+The highest is three hundred eighteen.
+
+41
+00:01:30,529 --> 00:01:32,214
+Hennessey's stated goal,
+
+42
+00:01:32,214 --> 00:01:33,829
+according to Wikipedia,
+
+43
+00:01:33,829 --> 00:01:36,216
+is a top speed above three hundred
+
+44
+00:01:36,216 --> 00:01:37,761
+eleven miles per hour,
+
+45
+00:01:37,761 --> 00:01:40,711
+which is five hundred kilometres per hour.
+
+46
+00:01:40,891 --> 00:01:42,438
+By our arithmetic,
+
+47
+00:01:42,438 --> 00:01:45,361
+that sits inside the F5 wind band,
+
+48
+00:01:45,361 --> 00:01:48,455
+about fifty miles per hour above its
+
+49
+00:01:48,455 --> 00:01:49,401
+lower edge.
+
+50
+00:01:49,751 --> 00:01:53,731
+Hennessey Special Vehicles was established in twenty
+
+51
+00:01:53,731 --> 00:01:55,721
+seventeen, Wikipedia says,
+
+52
+00:01:55,721 --> 00:01:57,865
+and builds the car in Sealy,
+
+53
+00:01:57,865 --> 00:02:01,233
+Texas, at Hennessey Performance Engineering.
+
+54
+00:02:01,413 --> 00:02:03,595
+The designer was Nathan Malinick.
+
+55
+00:02:03,775 --> 00:02:07,523
+Development was contracted to Delta Motorsport of
+
+56
+00:02:07,523 --> 00:02:11,424
+Silverstone, England, which also built the previous
+
+57
+00:02:11,424 --> 00:02:12,495
+Venom GT cars.
+
+58
+00:02:12,675 --> 00:02:14,699
+So the tornado name sits on a
+
+59
+00:02:14,699 --> 00:02:17,911
+Texas car with an English engineering partner.
+
+60
+00:02:18,261 --> 00:02:21,070
+The F5 replaced the Venom GT.
+
+61
+00:02:21,250 --> 00:02:24,199
+Wikipedia says the Venom GT was built
+
+62
+00:02:24,199 --> 00:02:27,227
+on the Lotus Elise and Exige platform,
+
+63
+00:02:27,227 --> 00:02:30,813
+though Hennessey is not associated with Lotus
+
+64
+00:02:30,813 --> 00:02:31,212
+Cars.
+
+65
+00:02:31,392 --> 00:02:34,276
+The Venom GT recorded two hundred seventy
+
+66
+00:02:34,276 --> 00:02:36,597
+point four nine miles per hour at
+
+67
+00:02:36,597 --> 00:02:39,552
+the Kennedy Space Center on the fourteenth
+
+68
+00:02:39,552 --> 00:02:41,592
+of February, twenty fourteen,
+
+69
+00:02:41,592 --> 00:02:44,476
+in one direction over a limited distance.
+
+70
+00:02:44,656 --> 00:02:47,981
+The successor was unveiled in November twenty
+
+71
+00:02:47,981 --> 00:02:48,719
+seventeen.
+
+72
+00:02:49,070 --> 00:02:50,860
+Why did that run not count as
+
+73
+00:02:50,860 --> 00:02:51,786
+a world record?
+
+74
+00:02:51,966 --> 00:02:53,946
+Wikipedia gives two reasons:
+
+75
+00:02:53,946 --> 00:02:55,785
+it was one direction only,
+
+76
+00:02:55,785 --> 00:02:58,542
+and only twenty-nine cars were built to
+
+77
+00:02:58,542 --> 00:02:59,815
+the Guinness rule,
+
+78
+00:02:59,815 --> 00:03:02,148
+which needs at least thirty for a
+
+79
+00:03:02,148 --> 00:03:03,704
+production car record.
+
+80
+00:03:03,884 --> 00:03:06,525
+So the F5's story starts with an
+
+81
+00:03:06,525 --> 00:03:07,680
+almost-record.
+
+82
+00:03:07,860 --> 00:03:10,430
+That history helps explain why the F5
+
+83
+00:03:10,430 --> 00:03:12,652
+is a clean-sheet car and why its
+
+84
+00:03:12,652 --> 00:03:15,500
+builders talk so much about verification.
+
+85
+00:03:15,850 --> 00:03:16,964
+Secret two.
+
+86
+00:03:17,144 --> 00:03:19,759
+The F5's famous power figure is not
+
+87
+00:03:19,759 --> 00:03:20,581
+one number.
+
+88
+00:03:20,761 --> 00:03:23,743
+Wikipedia lists the six point six litre
+
+89
+00:03:23,743 --> 00:03:26,803
+twin-turbo Fury V8 at one thousand eight
+
+90
+00:03:26,803 --> 00:03:31,391
+hundred seventeen horsepower and eleven hundred ninety-three
+
+91
+00:03:31,391 --> 00:03:32,998
+pound-feet of torque.
+
+92
+00:03:33,178 --> 00:03:35,958
+Then it adds that on ninety-one octane,
+
+93
+00:03:35,958 --> 00:03:38,739
+the rating is one thousand five hundred
+
+94
+00:03:38,739 --> 00:03:40,236
+forty-two horsepower.
+
+95
+00:03:40,416 --> 00:03:43,005
+The headline figure needs a different fuel.
+
+96
+00:03:43,356 --> 00:03:44,693
+By our arithmetic,
+
+97
+00:03:44,693 --> 00:03:48,184
+the gap is two hundred seventy-five horsepower,
+
+98
+00:03:48,184 --> 00:03:50,932
+which is about fifteen percent of the
+
+99
+00:03:50,932 --> 00:03:52,121
+headline number.
+
+100
+00:03:52,301 --> 00:03:54,192
+So a buyer who fills the car
+
+101
+00:03:54,192 --> 00:03:56,894
+with ordinary premium pump fuel does not
+
+102
+00:03:56,894 --> 00:03:58,582
+get what the poster says.
+
+103
+00:03:58,762 --> 00:04:00,908
+The page does not say which fuel
+
+104
+00:04:00,908 --> 00:04:02,651
+gives the headline figure.
+
+105
+00:04:02,831 --> 00:04:04,903
+We would rather tell you that than
+
+106
+00:04:04,903 --> 00:04:07,035
+guess, so check the exact fuel with
+
+107
+00:04:07,035 --> 00:04:08,741
+Hennessey before quoting it.
+
+108
+00:04:09,091 --> 00:04:12,236
+The Evolution package makes the fuel point
+
+109
+00:04:12,236 --> 00:04:12,910
+explicit.
+
+110
+00:04:13,090 --> 00:04:16,053
+Wikipedia says it was released in April
+
+111
+00:04:16,053 --> 00:04:19,548
+twenty twenty-five, costs an extra two hundred
+
+112
+00:04:19,548 --> 00:04:21,751
+eighty-five thousand dollars,
+
+113
+00:04:21,751 --> 00:04:24,562
+and raises output on E eighty-five to
+
+114
+00:04:24,562 --> 00:04:28,741
+two thousand thirty-one horsepower and fourteen hundred
+
+115
+00:04:28,741 --> 00:04:30,412
+forty-five pound-feet.
+
+116
+00:04:30,592 --> 00:04:33,276
+The claimed zero to two hundred miles
+
+117
+00:04:33,276 --> 00:04:35,596
+per hour time is ten point three
+
+118
+00:04:35,596 --> 00:04:36,177
+seconds.
+
+119
+00:04:36,357 --> 00:04:38,067
+Here the fuel is named,
+
+120
+00:04:38,067 --> 00:04:39,108
+E eighty-five.
+
+121
+00:04:39,459 --> 00:04:42,659
+The magazine evo reviewed the Evolution in
+
+122
+00:04:42,659 --> 00:04:46,165
+June twenty twenty-five and gives two thousand
+
+123
+00:04:46,165 --> 00:04:49,976
+thirty-one brake horsepower at eight thousand rpm,
+
+124
+00:04:49,976 --> 00:04:52,872
+up two hundred fourteen on the regular
+
+125
+00:04:52,872 --> 00:04:53,100
+F5.
+
+126
+00:04:53,280 --> 00:04:54,690
+By our arithmetic,
+
+127
+00:04:54,690 --> 00:04:58,215
+one thousand eight hundred seventeen plus two
+
+128
+00:04:58,215 --> 00:05:01,661
+hundred fourteen is two thousand thirty-one,
+
+129
+00:05:01,661 --> 00:05:03,776
+so evo and Wikipedia agree.
+
+130
+00:05:03,956 --> 00:05:06,737
+That is an eleven point eight percent
+
+131
+00:05:06,737 --> 00:05:09,293
+increase over the headline figure,
+
+132
+00:05:09,293 --> 00:05:12,525
+and thirty-one point seven percent over the
+
+133
+00:05:12,525 --> 00:05:14,405
+ninety-one octane figure.
+
+134
+00:05:14,755 --> 00:05:18,037
+Wikipedia also gives a power-to-weight number:
+
+135
+00:05:18,037 --> 00:05:21,818
+one thousand three hundred fifty-eight horsepower per
+
+136
+00:05:21,818 --> 00:05:22,104
+ton.
+
+137
+00:05:22,284 --> 00:05:24,188
+Check it by our arithmetic.
+
+138
+00:05:24,368 --> 00:05:27,466
+One thousand eight hundred seventeen divided by
+
+139
+00:05:27,466 --> 00:05:29,576
+the reported weight with fluids,
+
+140
+00:05:29,576 --> 00:05:32,872
+one thousand three hundred thirty-eight kilograms,
+
+141
+00:05:32,872 --> 00:05:36,169
+gives about one thousand three hundred fifty-eight
+
+142
+00:05:36,169 --> 00:05:37,290
+per metric tonne.
+
+143
+00:05:37,470 --> 00:05:39,958
+So the figure is per metric tonne,
+
+144
+00:05:39,958 --> 00:05:41,275
+not per short ton,
+
+145
+00:05:41,275 --> 00:05:43,983
+which a casual reader would not know.
+
+146
+00:05:44,333 --> 00:05:46,275
+There is a small oddity in the
+
+147
+00:05:46,275 --> 00:05:47,247
+weight figures.
+
+148
+00:05:47,427 --> 00:05:50,087
+Wikipedia lists a curb weight of three
+
+149
+00:05:50,087 --> 00:05:52,048
+thousand fifty-three pounds,
+
+150
+00:05:52,048 --> 00:05:55,689
+or one thousand three hundred eighty-five kilograms,
+
+151
+00:05:55,689 --> 00:05:58,210
+and a reported weight with fluids of
+
+152
+00:05:58,210 --> 00:06:00,941
+two thousand nine hundred fifty pounds.
+
+153
+00:06:01,121 --> 00:06:04,214
+Normally curb weight already includes fluids,
+
+154
+00:06:04,214 --> 00:06:06,483
+so the lower number should be the
+
+155
+00:06:06,483 --> 00:06:07,239
+dry weight.
+
+156
+00:06:07,419 --> 00:06:09,242
+The page does not explain it.
+
+157
+00:06:09,422 --> 00:06:10,447
+We show both,
+
+158
+00:06:10,447 --> 00:06:12,812
+and we note the inconsistency.
+
+159
+00:06:13,161 --> 00:06:15,938
+The Drive describes the car as weighing
+
+160
+00:06:15,938 --> 00:06:17,932
+under three thousand pounds,
+
+161
+00:06:17,932 --> 00:06:21,278
+reaching one hundred twenty-four miles per hour
+
+162
+00:06:21,278 --> 00:06:23,913
+from a standstill in four point seven
+
+163
+00:06:23,913 --> 00:06:26,761
+seconds, with a carbon fibre chassis and
+
+164
+00:06:26,761 --> 00:06:27,117
+body.
+
+165
+00:06:27,297 --> 00:06:30,284
+And evo says the F5 weighs twenty-five
+
+166
+00:06:30,284 --> 00:06:33,665
+percent less than the Lamborghini Revuelto,
+
+167
+00:06:33,665 --> 00:06:36,416
+which has about half the F5's power
+
+168
+00:06:36,416 --> 00:06:37,281
+and torque.
+
+169
+00:06:37,461 --> 00:06:39,305
+That is evo's comparison,
+
+170
+00:06:39,305 --> 00:06:41,591
+not ours, and it shows what the
+
+171
+00:06:41,591 --> 00:06:43,951
+weight savings mean in practice.
+
+172
+00:06:44,301 --> 00:06:45,997
+To understand the F5,
+
+173
+00:06:45,997 --> 00:06:47,935
+look at its predecessor.
+
+174
+00:06:48,115 --> 00:06:50,587
+Wikipedia lists the Venom GT with a
+
+175
+00:06:50,587 --> 00:06:53,623
+twin-turbo engine rated at one thousand two
+
+176
+00:06:53,623 --> 00:06:57,790
+hundred forty-four horsepower and eleven hundred fifty-five
+
+177
+00:06:57,790 --> 00:06:59,273
+pound-feet of torque,
+
+178
+00:06:59,273 --> 00:07:02,239
+with adjustable settings of eight hundred,
+
+179
+00:07:02,239 --> 00:07:05,275
+one thousand and twelve hundred horsepower.
+
+180
+00:07:05,455 --> 00:07:08,556
+The Spyder open-top version is listed at
+
+181
+00:07:08,556 --> 00:07:12,201
+one thousand four hundred fifty-one horsepower,
+
+182
+00:07:12,201 --> 00:07:14,139
+from the sixteen figures.
+
+183
+00:07:14,489 --> 00:07:15,847
+By our arithmetic,
+
+184
+00:07:15,847 --> 00:07:19,241
+the F5's headline eighteen seventeen is about
+
+185
+00:07:19,241 --> 00:07:22,408
+forty-six percent more than the Venom GT's
+
+186
+00:07:22,408 --> 00:07:23,766
+twelve forty-four.
+
+187
+00:07:23,946 --> 00:07:26,971
+The Venom GT's recorded speeds climbed as
+
+188
+00:07:26,971 --> 00:07:28,300
+the car developed:
+
+189
+00:07:28,300 --> 00:07:31,399
+Wikipedia lists a Guinness record for zero
+
+190
+00:07:31,399 --> 00:07:34,277
+to three hundred kilometres per hour of
+
+191
+00:07:34,277 --> 00:07:37,450
+thirteen point six three seconds in January
+
+192
+00:07:37,450 --> 00:07:41,066
+twenty thirteen, and two hundred sixty-five point
+
+193
+00:07:41,066 --> 00:07:43,649
+seven miles per hour over two miles
+
+194
+00:07:43,649 --> 00:07:45,494
+in April twenty thirteen.
+
+195
+00:07:45,843 --> 00:07:48,661
+Then the two hundred seventy point four
+
+196
+00:07:48,661 --> 00:07:51,407
+nine miles per hour in February twenty
+
+197
+00:07:51,407 --> 00:07:53,574
+fourteen, and, for the Spyder,
+
+198
+00:07:53,574 --> 00:07:56,826
+two hundred sixty-five point five seven miles
+
+199
+00:07:56,826 --> 00:07:59,499
+per hour at Naval Air Station Lemoore
+
+200
+00:07:59,499 --> 00:08:01,594
+on the twenty-fifth of March,
+
+201
+00:08:01,594 --> 00:08:02,678
+twenty sixteen.
+
+202
+00:08:02,858 --> 00:08:05,888
+These are Wikipedia's dates and speeds.
+
+203
+00:08:06,068 --> 00:08:07,322
+By our arithmetic,
+
+204
+00:08:07,322 --> 00:08:09,899
+the Spyder's run was about five miles
+
+205
+00:08:09,899 --> 00:08:12,547
+per hour slower than the coupé's best,
+
+206
+00:08:12,547 --> 00:08:14,776
+and the coupé's best was the one
+
+207
+00:08:14,776 --> 00:08:16,935
+the record body did not accept.
+
+208
+00:08:17,285 --> 00:08:21,064
+The Venom GT's production count is unclear,
+
+209
+00:08:21,064 --> 00:08:22,998
+and Wikipedia says so.
+
+210
+00:08:23,178 --> 00:08:25,548
+The overview lists eight units,
+
+211
+00:08:25,548 --> 00:08:28,530
+seven production cars plus a prototype.
+
+212
+00:08:28,710 --> 00:08:32,119
+Hennessey's earlier figure was thirteen vehicles,
+
+213
+00:08:32,119 --> 00:08:35,389
+and a twenty fourteen statement said production
+
+214
+00:08:35,389 --> 00:08:37,963
+would be limited to twenty-nine cars.
+
+215
+00:08:38,143 --> 00:08:40,849
+The page treats thirteen as a planning
+
+216
+00:08:40,849 --> 00:08:41,347
+figure.
+
+217
+00:08:41,527 --> 00:08:43,762
+So the same car has three different
+
+218
+00:08:43,762 --> 00:08:45,103
+counts in the record,
+
+219
+00:08:45,103 --> 00:08:47,849
+which is a warning about production numbers
+
+220
+00:08:47,849 --> 00:08:48,551
+in general.
+
+221
+00:08:48,901 --> 00:08:51,073
+The prices tell their own story.
+
+222
+00:08:51,253 --> 00:08:54,382
+Wikipedia says the Venom GT World's Fastest
+
+223
+00:08:54,382 --> 00:08:56,929
+Edition sold for one point two five
+
+224
+00:08:56,929 --> 00:08:59,986
+million dollars, and that the Steven Tyler
+
+225
+00:08:59,986 --> 00:09:02,751
+Spyder later sold at auction for eight
+
+226
+00:09:02,751 --> 00:09:03,989
+hundred thousand.
+
+227
+00:09:04,169 --> 00:09:05,558
+By our arithmetic,
+
+228
+00:09:05,558 --> 00:09:08,568
+the F5's first-batch price of one point
+
+229
+00:09:08,568 --> 00:09:12,351
+six million dollars is twenty-eight percent above
+
+230
+00:09:12,351 --> 00:09:14,898
+the GT's, and the second batch at
+
+231
+00:09:14,898 --> 00:09:18,217
+two point one is sixty-eight percent above.
+
+232
+00:09:18,566 --> 00:09:21,202
+Evo adds a surprise about timing.
+
+233
+00:09:21,382 --> 00:09:24,259
+It says development of the F5 began
+
+234
+00:09:24,259 --> 00:09:25,985
+in twenty twenty-one,
+
+235
+00:09:25,985 --> 00:09:29,356
+while Wikipedia says the car was unveiled
+
+236
+00:09:29,356 --> 00:09:32,315
+as a mock-up in twenty seventeen and
+
+237
+00:09:32,315 --> 00:09:35,685
+first revealed in August twenty fourteen.
+
+238
+00:09:35,865 --> 00:09:38,989
+These are not contradictions if you read
+
+239
+00:09:38,989 --> 00:09:40,941
+them as different stages,
+
+240
+00:09:40,941 --> 00:09:43,752
+concept, engineering and production,
+
+241
+00:09:43,752 --> 00:09:46,406
+but the sources do not explain the
+
+242
+00:09:46,406 --> 00:09:46,953
+stages.
+
+243
+00:09:47,133 --> 00:09:48,248
+We note the gap,
+
+244
+00:09:48,248 --> 00:09:49,501
+rather than guess.
+
+245
+00:09:49,851 --> 00:09:52,341
+Customers bought it before it had proved
+
+246
+00:09:52,341 --> 00:09:52,777
+itself.
+
+247
+00:09:52,957 --> 00:09:55,689
+Evo says customers ordered the car before
+
+248
+00:09:55,689 --> 00:09:58,220
+it had reached three hundred miles per
+
+249
+00:09:58,220 --> 00:09:58,553
+hour.
+
+250
+00:09:58,733 --> 00:10:02,372
+Wikipedia says all twenty-four were sold by
+
+251
+00:10:02,372 --> 00:10:04,488
+August twenty twenty-one,
+
+252
+00:10:04,488 --> 00:10:07,112
+which is before any of the test
+
+253
+00:10:07,112 --> 00:10:08,381
+runs we listed.
+
+254
+00:10:08,561 --> 00:10:09,854
+By our arithmetic,
+
+255
+00:10:09,854 --> 00:10:12,296
+that means the cars sold out about
+
+256
+00:10:12,296 --> 00:10:15,313
+three years before the half-mile record of
+
+257
+00:10:15,313 --> 00:10:17,036
+July twenty twenty-four.
+
+258
+00:10:17,216 --> 00:10:19,283
+The buyers bet on the promise.
+
+259
+00:10:19,632 --> 00:10:21,388
+Hennessey's stated aims,
+
+260
+00:10:21,388 --> 00:10:22,486
+in evo's words,
+
+261
+00:10:22,486 --> 00:10:25,412
+are topping three hundred miles per hour
+
+262
+00:10:25,412 --> 00:10:28,558
+and beating Bugatti with a two-way average,
+
+263
+00:10:28,558 --> 00:10:31,485
+with five hundred kilometres per hour as
+
+264
+00:10:31,485 --> 00:10:32,729
+a stretch target.
+
+265
+00:10:32,909 --> 00:10:34,190
+By our arithmetic,
+
+266
+00:10:34,190 --> 00:10:37,108
+five hundred kilometres per hour is three
+
+267
+00:10:37,108 --> 00:10:39,884
+hundred ten point seven miles per hour,
+
+268
+00:10:39,884 --> 00:10:42,944
+which matches the three hundred eleven that
+
+269
+00:10:42,944 --> 00:10:44,368
+Wikipedia rounds to.
+
+270
+00:10:44,548 --> 00:10:47,911
+A two-way average matters because it cancels
+
+271
+00:10:47,911 --> 00:10:48,599
+out wind.
+
+272
+00:10:48,949 --> 00:10:51,266
+The F5 is a rear mid-engine,
+
+273
+00:10:51,266 --> 00:10:54,740
+rear-wheel-drive car with butterfly doors,
+
+274
+00:10:54,740 --> 00:10:56,643
+according to Wikipedia,
+
+275
+00:10:56,643 --> 00:10:58,876
+in coupé and roadster form.
+
+276
+00:10:59,056 --> 00:11:02,473
+Its chassis and body are almost entirely
+
+277
+00:11:02,473 --> 00:11:03,584
+carbon fibre.
+
+278
+00:11:03,764 --> 00:11:06,339
+The dimensions are a wheelbase of one
+
+279
+00:11:06,339 --> 00:11:08,357
+hundred ten point two inches,
+
+280
+00:11:08,357 --> 00:11:11,419
+length one hundred eighty-three point seven,
+
+281
+00:11:11,419 --> 00:11:13,507
+width seventy-seven point one,
+
+282
+00:11:13,507 --> 00:11:15,803
+and height forty-four point five.
+
+283
+00:11:15,983 --> 00:11:17,310
+By our arithmetic,
+
+284
+00:11:17,310 --> 00:11:19,446
+that is a car under four feet
+
+285
+00:11:19,446 --> 00:11:19,815
+tall.
+
+286
+00:11:20,164 --> 00:11:24,054
+The transmission is a seven-speed CIMA single-clutch
+
+287
+00:11:24,054 --> 00:11:26,896
+automated manual with paddle shifters,
+
+288
+00:11:26,896 --> 00:11:28,617
+according to Wikipedia.
+
+289
+00:11:28,797 --> 00:11:31,948
+The F5-M Roadster and the Revolution LF
+
+290
+00:11:31,948 --> 00:11:34,938
+use a six-speed gated manual instead.
+
+291
+00:11:35,118 --> 00:11:38,238
+The Revolution LF is a one-of-one edition
+
+292
+00:11:38,238 --> 00:11:39,532
+made by Maverick,
+
+293
+00:11:39,532 --> 00:11:41,434
+Hennessey's own division.
+
+294
+00:11:41,614 --> 00:11:43,826
+So even among twenty-four cars,
+
+295
+00:11:43,826 --> 00:11:46,538
+the sources record a manual gearbox in
+
+296
+00:11:46,538 --> 00:11:49,606
+a hypercar that makes over eighteen hundred
+
+297
+00:11:49,606 --> 00:11:50,391
+horsepower.
+
+298
+00:11:50,741 --> 00:11:54,164
+The Revolution was led by Hennessey's chief
+
+299
+00:11:54,164 --> 00:11:56,074
+engineer, John Heinricy,
+
+300
+00:11:56,074 --> 00:11:59,019
+nicknamed Heinrocket, Wikipedia says.
+
+301
+00:11:59,199 --> 00:12:01,888
+It is limited to thirty-six units,
+
+302
+00:12:01,888 --> 00:12:05,051
+twenty-four coupés and twelve roadsters.
+
+303
+00:12:05,231 --> 00:12:06,628
+By our arithmetic,
+
+304
+00:12:06,628 --> 00:12:09,267
+that is one and a half Revolutions
+
+305
+00:12:09,267 --> 00:12:10,897
+for each original F5.
+
+306
+00:12:11,077 --> 00:12:12,915
+The wording is the page's,
+
+307
+00:12:12,915 --> 00:12:14,471
+but the maths is ours,
+
+308
+00:12:14,471 --> 00:12:16,734
+and it says the family has grown
+
+309
+00:12:16,734 --> 00:12:19,633
+past the original promise of twenty-four.
+
+310
+00:12:19,982 --> 00:12:22,579
+Evo also gives a revealing number about
+
+311
+00:12:22,579 --> 00:12:24,510
+the Evolution's acceleration.
+
+312
+00:12:24,690 --> 00:12:27,089
+One hundred to two hundred miles per
+
+313
+00:12:27,089 --> 00:12:29,555
+hour in six point four eight seconds.
+
+314
+00:12:29,735 --> 00:12:33,568
+Compare Wikipedia's claimed zero to two hundred
+
+315
+00:12:33,568 --> 00:12:36,179
+time of ten point three seconds.
+
+316
+00:12:36,359 --> 00:12:37,505
+By our arithmetic,
+
+317
+00:12:37,505 --> 00:12:40,052
+that would leave about three point eight
+
+318
+00:12:40,052 --> 00:12:42,344
+two seconds for zero to one hundred,
+
+319
+00:12:42,344 --> 00:12:44,764
+but the sources are different cars and
+
+320
+00:12:44,764 --> 00:12:47,311
+different claims, so please do not treat
+
+321
+00:12:47,311 --> 00:12:48,712
+that as a measurement.
+
+322
+00:12:49,061 --> 00:12:51,790
+Now the thing sitting behind both secrets.
+
+323
+00:12:51,970 --> 00:12:54,360
+The F5 was built to exceed three
+
+324
+00:12:54,360 --> 00:12:56,601
+hundred eleven miles per hour,
+
+325
+00:12:56,601 --> 00:12:58,843
+and as of the sources we read,
+
+326
+00:12:58,843 --> 00:13:00,860
+it has not been shown to do
+
+327
+00:13:00,860 --> 00:13:01,084
+it.
+
+328
+00:13:01,264 --> 00:13:03,580
+Evo, in June twenty twenty-five,
+
+329
+00:13:03,580 --> 00:13:05,896
+says the car had not yet reached
+
+330
+00:13:05,896 --> 00:13:08,936
+that speed, that everyone believes it will
+
+331
+00:13:08,936 --> 00:13:11,252
+get there, and that it cannot be
+
+332
+00:13:11,252 --> 00:13:11,759
+rushed.
+
+333
+00:13:11,939 --> 00:13:15,028
+It ends: just how fast is anyone's
+
+334
+00:13:15,028 --> 00:13:15,573
+guess.
+
+335
+00:13:15,922 --> 00:13:17,037
+What has been shown?
+
+336
+00:13:17,217 --> 00:13:20,411
+Motor One, in a twenty twenty-two article,
+
+337
+00:13:20,411 --> 00:13:23,225
+says the Venom F5 reached two hundred
+
+338
+00:13:23,225 --> 00:13:26,192
+seventy-one point six miles per hour at
+
+339
+00:13:26,192 --> 00:13:29,158
+the Kennedy Space Center in February of
+
+340
+00:13:29,158 --> 00:13:29,918
+that year.
+
+341
+00:13:30,098 --> 00:13:32,943
+Wikipedia lists a half mile in fourteen
+
+342
+00:13:32,943 --> 00:13:35,716
+point four four seconds at two hundred
+
+343
+00:13:35,716 --> 00:13:37,466
+nineteen miles per hour,
+
+344
+00:13:37,466 --> 00:13:39,217
+a production car record,
+
+345
+00:13:39,217 --> 00:13:42,208
+driven by John Hennessey on the thirtieth
+
+346
+00:13:42,208 --> 00:13:44,251
+of July, twenty twenty-four.
+
+347
+00:13:44,601 --> 00:13:47,936
+Evo gives different half-mile numbers from an
+
+348
+00:13:47,936 --> 00:13:50,456
+earlier run on Pilot Sport Cup Two
+
+349
+00:13:50,456 --> 00:13:53,494
+tyres: fourteen point five one seconds at
+
+350
+00:13:53,494 --> 00:13:56,681
+two hundred twenty-one point nine two miles
+
+351
+00:13:56,681 --> 00:13:57,348
+per hour.
+
+352
+00:13:57,528 --> 00:13:59,783
+So two sources list a half mile
+
+353
+00:13:59,783 --> 00:14:02,474
+at about two hundred nineteen and two
+
+354
+00:14:02,474 --> 00:14:03,856
+hundred twenty-two.
+
+355
+00:14:04,036 --> 00:14:05,649
+They may be different runs.
+
+356
+00:14:05,829 --> 00:14:07,151
+By our arithmetic,
+
+357
+00:14:07,151 --> 00:14:10,235
+the time difference is seven hundredths of
+
+358
+00:14:10,235 --> 00:14:12,952
+a second, so the cars are consistent,
+
+359
+00:14:12,952 --> 00:14:14,641
+but the speeds are not.
+
+360
+00:14:14,992 --> 00:14:17,714
+Evo also gives a standing quarter mile
+
+361
+00:14:17,714 --> 00:14:20,078
+in nine point five seconds at one
+
+362
+00:14:20,078 --> 00:14:23,302
+hundred seventy-three, and one hundred to two
+
+363
+00:14:23,302 --> 00:14:25,809
+hundred miles per hour in six point
+
+364
+00:14:25,809 --> 00:14:27,170
+four eight seconds.
+
+365
+00:14:27,350 --> 00:14:30,133
+Wikipedia lists a quarter mile of nine
+
+366
+00:14:30,133 --> 00:14:33,209
+point eight two at one hundred sixty-nine,
+
+367
+00:14:33,209 --> 00:14:35,919
+from the July twenty twenty-four run.
+
+368
+00:14:36,099 --> 00:14:37,898
+Again, different runs,
+
+369
+00:14:37,898 --> 00:14:39,616
+different conditions.
+
+370
+00:14:39,796 --> 00:14:41,805
+None of these is a top speed.
+
+371
+00:14:41,985 --> 00:14:43,940
+They are acceleration records,
+
+372
+00:14:43,940 --> 00:14:45,959
+and they matter for how the car
+
+373
+00:14:45,959 --> 00:14:46,350
+feels.
+
+374
+00:14:46,701 --> 00:14:47,827
+Then the crash.
+
+375
+00:14:48,007 --> 00:14:50,597
+The Drive reports that during a zero
+
+376
+00:14:50,597 --> 00:14:53,043
+to two hundred fifty mile per hour
+
+377
+00:14:53,043 --> 00:14:55,202
+test on a Monday in early July
+
+378
+00:14:55,202 --> 00:14:58,872
+twenty twenty-four, at the Shuttle Landing Facility
+
+379
+00:14:58,872 --> 00:15:01,102
+at NASA's Kennedy Space Center,
+
+380
+00:15:01,102 --> 00:15:03,980
+a downforce issue caused the test driver
+
+381
+00:15:03,980 --> 00:15:05,131
+to lose control.
+
+382
+00:15:05,311 --> 00:15:08,275
+Hennessey said the driver walked away without
+
+383
+00:15:08,275 --> 00:15:10,909
+injury, and that the team would evaluate
+
+384
+00:15:10,909 --> 00:15:13,345
+the aerodynamic data to find the root
+
+385
+00:15:13,345 --> 00:15:13,740
+cause.
+
+386
+00:15:14,091 --> 00:15:17,238
+Hennessey did not say which F5 model
+
+387
+00:15:17,238 --> 00:15:19,687
+was tested, The Drive notes.
+
+388
+00:15:19,867 --> 00:15:21,790
+And we do not know the car's
+
+389
+00:15:21,790 --> 00:15:23,988
+fate beyond what Hennessey said.
+
+390
+00:15:24,168 --> 00:15:26,070
+But the crash was on a new
+
+391
+00:15:26,070 --> 00:15:29,216
+aerodynamic setup, which fits what evo says
+
+392
+00:15:29,216 --> 00:15:31,922
+about the car being very sensitive on
+
+393
+00:15:31,922 --> 00:15:34,556
+the nose while the aero changes were
+
+394
+00:15:34,556 --> 00:15:36,531
+still being worked through,
+
+395
+00:15:36,531 --> 00:15:39,457
+a warning from test driver David Donohue
+
+396
+00:15:39,457 --> 00:15:40,701
+that evo reports.
+
+397
+00:15:41,051 --> 00:15:43,103
+Evo's Richard Meaden says:
+
+398
+00:15:43,103 --> 00:15:45,707
+it takes less than ten seconds to
+
+399
+00:15:45,707 --> 00:15:48,549
+conclude that the F5 Evolution is my
+
+400
+00:15:48,549 --> 00:15:49,654
+new benchmark.
+
+401
+00:15:49,834 --> 00:15:54,182
+He calls the acceleration brain-scramblingly explosive,
+
+402
+00:15:54,182 --> 00:15:56,317
+but not in the manner of an
+
+403
+00:15:56,317 --> 00:15:57,740
+electric hypercar.
+
+404
+00:15:57,920 --> 00:16:00,404
+Donohue says: this car ruins you for
+
+405
+00:16:00,404 --> 00:16:01,507
+everything else.
+
+406
+00:16:01,687 --> 00:16:02,873
+These are opinions,
+
+407
+00:16:02,873 --> 00:16:04,931
+but they come from two people who
+
+408
+00:16:04,931 --> 00:16:06,054
+actually drove it,
+
+409
+00:16:06,054 --> 00:16:08,549
+which makes them useful evidence of what
+
+410
+00:16:08,549 --> 00:16:09,547
+the car is like.
+
+411
+00:16:09,898 --> 00:16:10,664
+Production.
+
+412
+00:16:10,844 --> 00:16:14,072
+Wikipedia says the F5 is limited to
+
+413
+00:16:14,072 --> 00:16:15,732
+twenty-four units.
+
+414
+00:16:15,912 --> 00:16:18,781
+Twelve were sold by December twenty twenty
+
+415
+00:16:18,781 --> 00:16:20,967
+at an initial price of one point
+
+416
+00:16:20,967 --> 00:16:22,333
+six million dollars,
+
+417
+00:16:22,333 --> 00:16:24,997
+and the remaining twelve were priced at
+
+418
+00:16:24,997 --> 00:16:26,500
+two point one million.
+
+419
+00:16:26,680 --> 00:16:28,733
+In August twenty twenty-one,
+
+420
+00:16:28,733 --> 00:16:32,253
+the company announced all twenty-four were sold.
+
+421
+00:16:32,433 --> 00:16:33,734
+By our arithmetic,
+
+422
+00:16:33,734 --> 00:16:36,914
+the second twelve cost five hundred thousand
+
+423
+00:16:36,914 --> 00:16:38,214
+dollars more each.
+
+424
+00:16:38,564 --> 00:16:39,984
+By our arithmetic,
+
+425
+00:16:39,984 --> 00:16:42,822
+the full production run at those two
+
+426
+00:16:42,822 --> 00:16:45,660
+prices is twelve times one point six
+
+427
+00:16:45,660 --> 00:16:48,183
+plus twelve times two point one,
+
+428
+00:16:48,183 --> 00:16:51,889
+or forty-four point four million dollars before
+
+429
+00:16:51,889 --> 00:16:52,520
+options.
+
+430
+00:16:52,700 --> 00:16:55,079
+That is our sum from the Wikipedia
+
+431
+00:16:55,079 --> 00:16:57,879
+prices, not a figure any source reports,
+
+432
+00:16:57,879 --> 00:17:00,118
+and real sale prices may differ.
+
+433
+00:17:00,298 --> 00:17:02,439
+It does show the scale of the
+
+434
+00:17:02,439 --> 00:17:04,432
+business: a few dozen cars,
+
+435
+00:17:04,432 --> 00:17:06,278
+each priced like a house.
+
+436
+00:17:06,627 --> 00:17:09,901
+The F5 Revolution is a second family.
+
+437
+00:17:10,081 --> 00:17:13,326
+Wikipedia says it is limited to thirty-six
+
+438
+00:17:13,326 --> 00:17:16,958
+units, twenty-four coupés and twelve roadsters,
+
+439
+00:17:16,958 --> 00:17:19,894
+with the roadster allocation sold out,
+
+440
+00:17:19,894 --> 00:17:23,061
+at about two point seven million dollars.
+
+441
+00:17:23,241 --> 00:17:25,509
+The Drive says the Revolution is said
+
+442
+00:17:25,509 --> 00:17:28,021
+to produce more than eight hundred pounds
+
+443
+00:17:28,021 --> 00:17:30,718
+of downforce at one hundred eighty-six miles
+
+444
+00:17:30,718 --> 00:17:33,108
+per hour and more than fourteen hundred
+
+445
+00:17:33,108 --> 00:17:35,130
+pounds at two hundred forty-nine.
+
+446
+00:17:35,481 --> 00:17:37,753
+The design changed on the way to
+
+447
+00:17:37,753 --> 00:17:38,534
+production.
+
+448
+00:17:38,714 --> 00:17:42,254
+Wikipedia says an exterior mock-up shown at
+
+449
+00:17:42,254 --> 00:17:44,723
+SEMA on the first of November,
+
+450
+00:17:44,723 --> 00:17:48,592
+twenty seventeen, had three exhausts and active
+
+451
+00:17:48,592 --> 00:17:49,662
+aerodynamics.
+
+452
+00:17:49,842 --> 00:17:53,085
+Production cars have four exhausts and a
+
+453
+00:17:53,085 --> 00:17:54,869
+smaller fixed spoiler.
+
+454
+00:17:55,049 --> 00:17:57,676
+That matters for the crash story,
+
+455
+00:17:57,676 --> 00:18:00,542
+because active aero is a system that
+
+456
+00:18:00,542 --> 00:18:03,090
+can fail, and a fixed spoiler is
+
+457
+00:18:03,090 --> 00:18:03,408
+not.
+
+458
+00:18:03,588 --> 00:18:04,600
+We note this,
+
+459
+00:18:04,600 --> 00:18:06,700
+but no source ties the two.
+
+460
+00:18:07,049 --> 00:18:07,491
+Drag.
+
+461
+00:18:07,671 --> 00:18:11,258
+Wikipedia lists an estimated drag coefficient of
+
+462
+00:18:11,258 --> 00:18:14,173
+zero point three three for the concept,
+
+463
+00:18:14,173 --> 00:18:16,789
+and a claimed zero point three nine
+
+464
+00:18:16,789 --> 00:18:17,911
+for production.
+
+465
+00:18:18,091 --> 00:18:19,533
+By our arithmetic,
+
+466
+00:18:19,533 --> 00:18:23,299
+the production claim is eighteen percent higher
+
+467
+00:18:23,299 --> 00:18:25,382
+than the concept estimate.
+
+468
+00:18:25,562 --> 00:18:28,234
+A higher figure is the usual price
+
+469
+00:18:28,234 --> 00:18:29,648
+of more downforce.
+
+470
+00:18:29,828 --> 00:18:31,984
+It will matter in the next video,
+
+471
+00:18:31,984 --> 00:18:34,400
+when we compare it with the Tuatara's
+
+472
+00:18:34,400 --> 00:18:36,620
+claimed zero point two seven nine.
+
+473
+00:18:36,970 --> 00:18:38,352
+Is it road legal?
+
+474
+00:18:38,532 --> 00:18:41,262
+The Drive says the production car ships
+
+475
+00:18:41,262 --> 00:18:43,222
+without airbags, and that U.
+
+476
+00:18:43,402 --> 00:18:43,820
+S.
+
+477
+00:18:44,000 --> 00:18:47,182
+buyers get a show-and-display only title.
+
+478
+00:18:47,362 --> 00:18:50,043
+We could not confirm the legal details
+
+479
+00:18:50,043 --> 00:18:51,455
+beyond that article,
+
+480
+00:18:51,455 --> 00:18:53,643
+so we report only what it says.
+
+481
+00:18:53,823 --> 00:18:55,767
+What it means is that the car's
+
+482
+00:18:55,767 --> 00:18:58,463
+ownership rules are different from a normal
+
+483
+00:18:58,463 --> 00:19:00,784
+car's, which affects what a buyer can
+
+484
+00:19:00,784 --> 00:19:01,474
+do with it.
+
+485
+00:19:01,823 --> 00:19:04,985
+A note on the Revolution's downforce figures,
+
+486
+00:19:04,985 --> 00:19:06,741
+as reported by The Drive:
+
+487
+00:19:06,741 --> 00:19:09,340
+more than eight hundred pounds at one
+
+488
+00:19:09,340 --> 00:19:11,729
+hundred eighty-six miles per hour,
+
+489
+00:19:11,729 --> 00:19:14,328
+and more than fourteen hundred at two
+
+490
+00:19:14,328 --> 00:19:15,663
+hundred forty-nine.
+
+491
+00:19:15,843 --> 00:19:18,940
+Downforce normally grows with the square of
+
+492
+00:19:18,940 --> 00:19:19,372
+speed.
+
+493
+00:19:19,552 --> 00:19:20,804
+By our arithmetic,
+
+494
+00:19:20,804 --> 00:19:24,280
+two hundred forty-nine over one hundred eighty-six
+
+495
+00:19:24,280 --> 00:19:25,949
+is one point three four,
+
+496
+00:19:25,949 --> 00:19:28,174
+squared is one point seven nine,
+
+497
+00:19:28,174 --> 00:19:30,747
+and eight hundred times that is about
+
+498
+00:19:30,747 --> 00:19:32,416
+fourteen hundred thirty.
+
+499
+00:19:32,596 --> 00:19:34,001
+The two figures agree.
+
+500
+00:19:34,350 --> 00:19:36,707
+Speeds in kilometres per hour,
+
+501
+00:19:36,707 --> 00:19:39,691
+for viewers outside the United States.
+
+502
+00:19:39,871 --> 00:19:42,885
+Wikipedia gives the Venom GT's two hundred
+
+503
+00:19:42,885 --> 00:19:45,613
+seventy point four nine miles per hour
+
+504
+00:19:45,613 --> 00:19:48,699
+as four hundred thirty-five point three one
+
+505
+00:19:48,699 --> 00:19:50,134
+kilometres per hour.
+
+506
+00:19:50,314 --> 00:19:52,979
+Motor One gives the F5's two hundred
+
+507
+00:19:52,979 --> 00:19:56,679
+seventy-one point six as four hundred thirty-seven
+
+508
+00:19:56,679 --> 00:19:57,420
+point one.
+
+509
+00:19:57,600 --> 00:19:59,150
+By our arithmetic,
+
+510
+00:19:59,150 --> 00:20:02,252
+the F5's best published speed is one
+
+511
+00:20:02,252 --> 00:20:04,406
+point one miles per hour,
+
+512
+00:20:04,406 --> 00:20:07,766
+or about one point eight kilometres per
+
+513
+00:20:07,766 --> 00:20:10,092
+hour, above the Venom GT's.
+
+514
+00:20:10,441 --> 00:20:13,461
+So the F5's best published top speed
+
+515
+00:20:13,461 --> 00:20:16,480
+is barely above the car it replaced,
+
+516
+00:20:16,480 --> 00:20:19,834
+which ran its record in twenty fourteen.
+
+517
+00:20:20,014 --> 00:20:22,227
+That is not a criticism of the
+
+518
+00:20:22,227 --> 00:20:22,522
+car.
+
+519
+00:20:22,702 --> 00:20:25,722
+Different runs have different lengths of road,
+
+520
+00:20:25,722 --> 00:20:27,691
+and Motor One does not say how
+
+521
+00:20:27,691 --> 00:20:30,121
+long the February twenty-two run had.
+
+522
+00:20:30,301 --> 00:20:32,267
+It is a reminder that a top
+
+523
+00:20:32,267 --> 00:20:34,816
+speed depends on the runway as much
+
+524
+00:20:34,816 --> 00:20:36,054
+as on the engine,
+
+525
+00:20:36,054 --> 00:20:38,021
+a point we return to in the
+
+526
+00:20:38,021 --> 00:20:38,822
+next video.
+
+527
+00:20:39,173 --> 00:20:41,414
+If you read a hypercar claim,
+
+528
+00:20:41,414 --> 00:20:44,815
+here are four questions this video suggests.
+
+529
+00:20:44,995 --> 00:20:46,894
+Is it a measured speed or a
+
+530
+00:20:46,894 --> 00:20:47,387
+target?
+
+531
+00:20:47,567 --> 00:20:49,851
+Is it one direction or a two-way
+
+532
+00:20:49,851 --> 00:20:50,423
+average?
+
+533
+00:20:50,603 --> 00:20:52,158
+Which fuel was used?
+
+534
+00:20:52,338 --> 00:20:54,351
+And how many cars were built,
+
+535
+00:20:54,351 --> 00:20:55,392
+by whose count?
+
+536
+00:20:55,572 --> 00:20:58,176
+The Venom GT failed the record test
+
+537
+00:20:58,176 --> 00:20:59,367
+on two of those,
+
+538
+00:20:59,367 --> 00:21:01,227
+and the F5 so far has not
+
+539
+00:21:01,227 --> 00:21:03,757
+published the answer to the first.
+
+540
+00:21:03,937 --> 00:21:06,300
+They are fair questions for every car
+
+541
+00:21:06,300 --> 00:21:07,257
+in this series.
+
+542
+00:21:07,608 --> 00:21:08,769
+What we could not find.
+
+543
+00:21:08,949 --> 00:21:11,617
+A verified top speed above three hundred
+
+544
+00:21:11,617 --> 00:21:12,617
+miles per hour.
+
+545
+00:21:12,797 --> 00:21:15,916
+The number of F5s delivered to customers,
+
+546
+00:21:15,916 --> 00:21:18,577
+because evo says only that cars are
+
+547
+00:21:18,577 --> 00:21:20,555
+being built and delivered,
+
+548
+00:21:20,555 --> 00:21:21,772
+without a count.
+
+549
+00:21:21,952 --> 00:21:24,785
+The fuel behind the headline power figure.
+
+550
+00:21:24,965 --> 00:21:26,764
+The cost of ownership.
+
+551
+00:21:26,944 --> 00:21:29,498
+And whether the crashed car was repaired.
+
+552
+00:21:29,678 --> 00:21:31,838
+We will not guess any of them.
+
+553
+00:21:32,188 --> 00:21:34,370
+So the two secrets stand.
+
+554
+00:21:34,550 --> 00:21:36,711
+The name comes from the top of
+
+555
+00:21:36,711 --> 00:21:38,008
+the tornado scale,
+
+556
+00:21:38,008 --> 00:21:40,818
+and the headline horsepower is only one
+
+557
+00:21:40,818 --> 00:21:42,979
+of several, depending on fuel.
+
+558
+00:21:43,159 --> 00:21:44,476
+The third thing,
+
+559
+00:21:44,476 --> 00:21:46,944
+the speed, is still a promise.
+
+560
+00:21:47,124 --> 00:21:49,180
+If you are watching in the future
+
+561
+00:21:49,180 --> 00:21:51,236
+and a verified top speed has been
+
+562
+00:21:51,236 --> 00:21:53,480
+published, tell us the source in the
+
+563
+00:21:53,480 --> 00:21:56,221
+comments, and we will update the description
+
+564
+00:21:56,221 --> 00:21:56,969
+with a link.
+
+565
+00:21:57,320 --> 00:21:59,434
+Which would you rather own,
+
+566
+00:21:59,434 --> 00:22:01,940
+the F5 or its rival the Tuatara?
+
+567
+00:22:02,120 --> 00:22:03,583
+Tell us in the comments.
+
+568
+00:22:03,763 --> 00:22:06,640
+The next videos in this series compare
+
+569
+00:22:06,640 --> 00:22:07,624
+the two cars,
+
+570
+00:22:07,624 --> 00:22:11,031
+count what an American hypercar really costs,
+
+571
+00:22:11,031 --> 00:22:13,832
+and tell the story of America's speed
+
+572
+00:22:13,832 --> 00:22:14,665
+record war.
+
+573
+00:22:14,845 --> 00:22:17,782
+Our twenty twenty-seven Truck Buyer's Guide is
+
+574
+00:22:17,782 --> 00:22:19,442
+linked in the description.
+
+575
+00:22:19,622 --> 00:22:22,014
+Subscribe to Pickup Reality.
