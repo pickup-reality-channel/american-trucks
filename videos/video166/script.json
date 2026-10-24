@@ -1,0 +1,333 @@
+{
+ "id": "video166",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Aventador SVJ vs Hurac\u00e1n STO: The Real Difference",
+ "scenes": [
+  {
+   "text": "Two Lamborghinis built for the track, with a very different idea of what that means. The Aventador SVJ has a twelve-cylinder engine, all-wheel drive and a N\u00fcrburgring record. The Hurac\u00e1n STO has a ten-cylinder engine, rear-wheel drive and a price of about two thirds. Which one is quicker depends on what you measure. We compare them with sourced numbers and show every disagreement.",
+   "query": "SVJ vs STO",
+   "caption": "LAMBORGHINI AVENTADOR SVJ vs HURAC\u00c1N STO: THE REAL DIFFERENCE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's Aventador and Hurac\u00e1n pages, Motor1's report on the STO from November twenty twenty, TechCrunch from September twenty twenty-one, IEEE Spectrum, an Autocar road test, Auto Bild, and cost pages we flag as weaker. Where they disagree, we show both figures. Our own arithmetic is labelled.",
+   "query": "Sources",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 (18 NOV 2020) \u00b7 TECHCRUNCH (23 SEP 2021) \u00b7 IEEE SPECTRUM \u00b7 AUTOCAR (VIA YAHOO) \u00b7 AUTO BILD \u00b7 LAMBOCARS \u00b7 AUTOMONITOR (UNSOURCED, FLAGGED) \u00b7 DISAGREEMENTS SHOWN",
+   "cuts": 8
+  },
+  {
+   "text": "The SVJ has a six point five litre naturally aspirated V12, seven hundred seventy metric horsepower, seven fifty-nine in the usual unit. The STO has a five point two litre naturally aspirated V10 making six hundred forty metric horsepower, or six thirty-one horsepower, says Wikipedia. Motor1 says six thirty. Both cars rev to roughly eight thousand revs, according to Wikipedia.",
+   "query": "Engines",
+   "caption": "WIKIPEDIA: SVJ 6.5 L V12, 770 PS (759 HP) @ 8,500 \u00b7 STO 5.2 L V10, 640 PS (631 HP; 471 KW) @ 8,000 \u00b7 MOTOR1: STO 630 HP (470 KW), 565 N\u00b7M \u00b7 TECHCRUNCH: 631 HP",
+   "cuts": 5,
+   "chapter": "Round one: the engines"
+  },
+  {
+   "text": "By our arithmetic, the SVJ makes twenty-one percent more power from twenty-five percent more displacement. Per litre, that is one hundred sixteen point eight horsepower for the SVJ and one hundred twenty-one point four for the STO, so the smaller V10 is slightly more efficient at making power, on paper, by about four percent.",
+   "query": "Per litre",
+   "caption": "759 \u00f7 631 = +20.3% POWER \u00b7 6.5 \u00f7 5.2 = +25% DISPLACEMENT \u00b7 759 \u00f7 6.5 = 116.8 HP/L \u00b7 631 \u00f7 5.2 = 121.3 HP/L \u00b7 +3.9% (OUR ARITHMETIC; WIKIPEDIA FIGURES)",
+   "cuts": 3
+  },
+  {
+   "text": "Torque is where the STO is weaker, and the sources conflict about it. Wikipedia's table gives five hundred sixty-five newton-metres at sixty-five hundred revs for the STO, while its section on the Evo gives six hundred one. Motor1 notes that five sixty-five is less than the six hundred of the Evo and Performante. The SVJ's is seven hundred twenty.",
+   "query": "Torque",
+   "caption": "WIKIPEDIA: STO TABLE 565 N\u00b7M (417 LB-FT) @ 6,500; EVO SECTION 601 N\u00b7M (443 LB-FT) \u2014 CONFLICT \u00b7 MOTOR1: STO 565 N\u00b7M, LESS THAN EVO AWD AND PERFORMANTE 600 N\u00b7M (443 LB-FT) \u00b7 SVJ 720 N\u00b7M (531 LB-FT)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the SVJ's torque is twenty-seven percent above the STO's five sixty-five, a bigger gap than the power gap. That matches the difference in engine size. But torque at the engine is not the whole story, because the STO is lighter and the SVJ must put its power down through all four wheels. The next rounds look at that.",
+   "query": "Torque gap",
+   "caption": "720 \u00f7 565 = +27.4% (OUR ARITHMETIC) \u00b7 'MATCHES THE ENGINE SIZE DIFFERENCE' = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "Weight. Motor1 gives the STO a dry weight of thirteen hundred thirty-nine kilograms, forty-three kilograms less than the Performante. Wikipedia does not state a weight but its power-to-weight ratio implies about thirteen forty. The SVJ's claimed dry weight is fifteen twenty-five, and tested weight seventeen seventy according to Autocar and Wikipedia.",
+   "query": "Weights",
+   "caption": "MOTOR1: STO DRY 1,339 KG (2,951 LB), 43 KG LESS THAN PERFORMANTE \u00b7 WIKIPEDIA: STO WEIGHT NOT STATED; 2.09 KG/HP RATIO IMPLIES ~1,340 KG \u00b7 SVJ: 1,525 KG DRY (CLAIMED); 1,770 KG WITH FLUIDS (AUTOCAR, WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Round two: weight"
+  },
+  {
+   "text": "By our arithmetic, the SVJ is one hundred eighty-six kilograms heavier than the STO on dry weights, fourteen percent more. But the comparison is not like for like if the STO's figure excludes fluids and the SVJ's tested figure includes them. The STO's tested weight is not in our sources, so we compare only the dry numbers.",
+   "query": "Heavier by",
+   "caption": "1,525 \u2212 1,339 = 186 KG (+13.9%) (OUR ARITHMETIC; DRY vs DRY) \u00b7 STO TESTED / WET WEIGHT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Power to weight, by our arithmetic and on dry weights: the SVJ's seven hundred fifty-nine horsepower over fifteen twenty-five kilograms is zero point four nine eight horsepower per kilogram. The STO's six thirty-one over thirteen thirty-nine is zero point four seven one. The SVJ leads by about six percent. The STO is much closer than its power deficit suggests.",
+   "query": "Power to weight",
+   "caption": "759 \u00f7 1,525 = 0.498 \u00b7 631 \u00f7 1,339 = 0.471 HP/KG \u00b7 0.498 \u00f7 0.471 = +5.7% (OUR ARITHMETIC; DRY WEIGHTS)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's own figure for the STO is two point oh nine kilograms per horsepower, without fluids, and Auto Bild gives the SVJ one point nine eight kilograms per metric horsepower. By our arithmetic, thirteen thirty-nine divided by six hundred forty is two point oh nine, so Wikipedia's figure is in metric horsepower too. In the same unit, the SVJ leads by about six percent.",
+   "query": "Per metric horsepower",
+   "caption": "WIKIPEDIA: STO 2.09 KG/HP \u00b7 AUTO BILD: SVJ 1.98 KG/PS \u00b7 1,339 \u00f7 640 = 2.09 KG/PS (OUR ARITHMETIC \u2014 SO THE FIGURE IS PER METRIC HP) \u00b7 2.09 vs 1.98 = 5.6% GAP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The STO is rear-wheel drive only, Motor1 says, with rear-wheel steering. The SVJ is all-wheel drive, with an AWD system that can switch to rear-wheel-only mode, says IEEE Spectrum, plus rear-wheel steering and magnetorheological dampers. Auto Bild says that in Sport mode eighty percent of the SVJ's power goes to the rear axle.",
+   "query": "Drivetrain",
+   "caption": "MOTOR1 + WIKIPEDIA: STO RWD, REAR-WHEEL STEERING \u00b7 IEEE SPECTRUM: SVJ AWD WITH RWD-ONLY MODE, RWS, MAGNETORHEOLOGICAL DAMPERS \u00b7 AUTO BILD: SPORT MODE 80% TO THE REAR",
+   "cuts": 3,
+   "chapter": "Round three: drivetrain"
+  },
+  {
+   "text": "Both have clever aerodynamics. The STO has a rear wing with three manual positions, TechCrunch says, which can shift the centre of gravity by up to thirteen percent and add more than two hundred pounds of downforce. The SVJ's ALA system is active, adjusting every half a second, per Wikipedia. One is set by the driver, the other by the car.",
+   "query": "Aero",
+   "caption": "TECHCRUNCH: STO REAR WING 3 MANUAL POSITIONS (HIGH/MEDIUM/LOW); CAN SHIFT CENTRE OF GRAVITY UP TO 13%, ADD > 200 LB DOWNFORCE \u00b7 WIKIPEDIA: SVJ ALA ACTIVE, LDVA 2.0 ADJUSTS EVERY 0.5 S \u00b7 'DRIVER vs CAR' = OUR SUMMARY",
+   "cuts": 3
+  },
+  {
+   "text": "Aerodynamic claims, each against its own predecessor. Motor1 says the STO has thirty-seven percent higher aerodynamic efficiency and fifty-three percent more downforce than the Performante. For the SVJ, Wikipedia says forty percent more downforce than the SV, and IEEE says thirty. These are not comparable across cars, since each percentage is relative to a different base, as we cannot convert them.",
+   "query": "Aero claims",
+   "caption": "MOTOR1: STO +37% AERODYNAMIC EFFICIENCY, +53% DOWNFORCE vs PERFORMANTE \u00b7 WIKIPEDIA: SVJ +40% vs SV \u00b7 IEEE: +30% vs SV \u00b7 DIFFERENT BASES \u2192 NOT COMPARABLE; ABSOLUTE DOWNFORCE FIGURES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Materials: Motor1 and TechCrunch say more than seventy-five percent of the STO's bodywork is carbon fibre, and Motor1 adds that the windscreen is twenty percent lighter than the Performante's. The SVJ's wing is a polymer stiffened with carbon fibre, according to IEEE. Neither source gives the SVJ's carbon share, so we cannot compare it with the STO's seventy-five.",
+   "query": "Materials",
+   "caption": "MOTOR1 + TECHCRUNCH: STO > 75% CARBON-FIBRE BODYWORK; WINDSCREEN 20% LIGHTER THAN PERFORMANTE'S \u00b7 IEEE: SVJ WING = POLYMER STIFFENED WITH CARBON FIBRE \u00b7 SVJ CARBON SHARE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Brakes: both use carbon-ceramic. The STO has Brembo CCM-R, which TechCrunch calls derived from Formula One and the first such application on a consumer vehicle. The SVJ, per Autocar, has four-hundred-millimetre front and three-eighty rear discs. Both claim about thirty metres from one hundred kilometres per hour to rest, per Motor1 and Auto Bild.",
+   "query": "Brakes",
+   "caption": "TECHCRUNCH: STO BREMBO CCM-R, F1-DERIVED, 'FIRST SUCH APPLICATION ON A CONSUMER VEHICLE' \u00b7 AUTOCAR: SVJ 400 MM FRONT / 380 MM REAR CARBON-CERAMIC \u00b7 MOTOR1: STO 62\u20130 MPH 30 M \u00b7 AUTO BILD: SVJ 100\u20130 KM/H ~30 M",
+   "cuts": 3
+  },
+  {
+   "text": "A note on that last pair. Motor1's thirty metres is for sixty-two miles per hour, which is one hundred kilometres per hour, and Auto Bild's is for one hundred. So the two claims are directly comparable, and they are the same: about thirty metres. Autocar's measured seventy to zero miles per hour of forty point eight metres is a different measure.",
+   "query": "Braking claims",
+   "caption": "62 MPH = 99.8 KM/H (OUR CONVERSION) \u2192 MOTOR1 AND AUTO BILD CLAIMS ARE COMPARABLE: ~30 M EACH \u00b7 AUTOCAR 70\u20130 MPH 40.8 M = DIFFERENT MEASURE",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration. The STO: zero to one hundred in three seconds and zero to two hundred in nine, Wikipedia says; Motor1 the same. TechCrunch says under three seconds to sixty miles per hour. The SVJ: two point eight to one hundred and eight point six to two hundred, per Wikipedia. Autocar measured two point nine to sixty miles per hour.",
+   "query": "Acceleration",
+   "caption": "WIKIPEDIA + MOTOR1: STO 0\u2013100 3.0 S; 0\u2013200 9.0 S \u00b7 TECHCRUNCH: STO 0\u201360 'UNDER 3 S' \u00b7 WIKIPEDIA: SVJ 0\u2013100 2.8 S; 0\u2013200 8.6 S \u00b7 AUTOCAR: SVJ 0\u201360 MPH 2.9 S (TESTED)",
+   "cuts": 3,
+   "chapter": "Round four: acceleration and speed"
+  },
+  {
+   "text": "By our arithmetic, the SVJ is zero point two seconds quicker to one hundred, seven percent, and four tenths quicker to two hundred, four and a half percent. The STO's claimed three seconds to one hundred is a rounded manufacturer figure, and the SVJ's figures are too. Differences this small would be hard to see without timing equipment, and no independent test of the STO is in our sources.",
+   "query": "The gap",
+   "caption": "3.0 \u2212 2.8 = 0.2 S (6.7%) \u00b7 9.0 \u2212 8.6 = 0.4 S (4.4%) (OUR ARITHMETIC; CLAIMED FIGURES) \u00b7 INDEPENDENT STO TEST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed: the STO is listed at one hundred ninety-three miles per hour, which Motor1 gives as three hundred ten kilometres per hour and Wikipedia as three hundred eleven. The SVJ is three hundred fifty, two hundred seventeen miles per hour. By our arithmetic, the SVJ's claimed top speed is twelve and a half percent higher, or twenty-four miles per hour.",
+   "query": "Top speed",
+   "caption": "MOTOR1: STO 193 MPH (310 KM/H) \u00b7 WIKIPEDIA: STO 311 KM/H (193 MPH) \u00b7 SVJ 350 KM/H (217 MPH) \u00b7 217 \u00f7 193 = +12.4%; 217 \u2212 193 = 24 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "On the N\u00fcrburgring, the SVJ lapped in six forty-four point nine seven in July twenty eighteen, Wikipedia and Auto Bild say. The Hurac\u00e1n Performante, which the STO partly derives from, did six fifty-two point oh one. Wikipedia lists no STO lap time, and our other sources do not either. So there is no like-for-like lap between these two cars in our sources.",
+   "query": "The Ring",
+   "caption": "WIKIPEDIA + AUTO BILD: SVJ 6:44.97 (JULY 2018) \u00b7 AUTOCAR + WIKIPEDIA: HURAC\u00c1N PERFORMANTE 6:52.01 \u00b7 STO LAP TIME: NOT IN OUR SOURCES \u00b7 'PARTLY DERIVES FROM' = TECHCRUNCH ('PARTLY BASED ON')",
+   "cuts": 3
+  },
+  {
+   "text": "Now the price. Motor1 says the STO starts at three hundred twenty-seven thousand eight hundred thirty-eight dollars, against the Hurac\u00e1n Evo RWD at two hundred eight thousand five hundred seventy-one and the Performante at launch at two hundred seventy-four thousand three hundred ninety. TechCrunch repeats the three twenty-seven eight thirty-eight figure, before taxes and delivery.",
+   "query": "STO price",
+   "caption": "MOTOR1 (18 NOV 2020): STO $327,838 \u00b7 EVO RWD $208,571 \u00b7 EVO AWD LAUNCH $261,274 \u00b7 PERFORMANTE (2017) $274,390 BEFORE OPTIONS \u00b7 TECHCRUNCH: $327,838 BEFORE TAXES AND DELIVERY",
+   "cuts": 3,
+   "chapter": "Round five: price"
+  },
+  {
+   "text": "The SVJ's base price is five hundred seventeen thousand seven hundred seventy dollars, IEEE Spectrum says, and the roadster five seventy-three nine sixty-six, per the unsourced Automonitor page. By our arithmetic, the SVJ coup\u00e9 cost fifty-eight percent more than the STO at launch, a difference of one hundred eighty-nine thousand nine hundred thirty-two dollars. The STO is the cheaper car by about thirty-seven percent.",
+   "query": "The price gap",
+   "caption": "IEEE: SVJ $517,770 \u00b7 $517,770 \u2212 $327,838 = $189,932 \u00b7 +57.9% (STO \u2192 SVJ); \u221236.7% (SVJ \u2192 STO) (OUR ARITHMETIC; DIFFERENT LAUNCH DATES 2018 vs 2020, BASE PRICES)",
+   "cuts": 3
+  },
+  {
+   "text": "Lambocars, in May twenty twenty-two, lists the STO at three hundred thirty thousand dollars. Autocar says the SVJ starts at three hundred sixty thousand pounds and the test car cost over four hundred thousand. We have no exchange rate in our sources, so we leave the sterling figure alone. In dollars, the SVJ costs about one point five eight times the STO.",
+   "query": "Other prices",
+   "caption": "LAMBOCARS (4 MAY 2022): STO $330,000 \u00b7 AUTOCAR: SVJ FROM \u00a3360,000, TEST CAR > \u00a3400,000 \u00b7 $517,770 \u00f7 $327,838 = 1.58\u00d7 (OUR ARITHMETIC) \u00b7 EXCHANGE RATE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Dollars per horsepower, by our arithmetic: the SVJ at five hundred seventeen thousand seven hundred seventy over seven fifty-nine is six hundred eighty-two dollars per horsepower. The STO at three twenty-seven eight thirty-eight over six thirty-one is five hundred twenty. The STO gives you a horsepower for twenty-four percent less money, though the SVJ comes with a larger engine and a record.",
+   "query": "Per horsepower",
+   "caption": "$517,770 \u00f7 759 = $682/HP \u00b7 $327,838 \u00f7 631 = $520/HP \u00b7 \u221223.8% (OUR ARITHMETIC; LAUNCH BASE PRICES)",
+   "cuts": 3
+  },
+  {
+   "text": "Production. For the SVJ, Wikipedia lists nine hundred coup\u00e9s, though it asks for a citation, eight hundred roadsters, and sixty-three of each in the SVJ 63. For the STO, Wikipedia gives no specific count, only yearly totals for the whole Hurac\u00e1n line. TechCrunch says the line is limited to about twenty-five hundred cars per year and the STO was already sold out for the following year.",
+   "query": "Rarity",
+   "caption": "WIKIPEDIA: SVJ 900 COUP\u00c9S ([CITATION NEEDED]), 800 ROADSTERS, 63 + 63 SVJ 63 \u00b7 STO: NO COUNT \u00b7 TECHCRUNCH: HURAC\u00c1N ~2,500 CARS PER YEAR; STO SOLD OUT THROUGH THE FOLLOWING YEAR",
+   "cuts": 3,
+   "chapter": "Round six: production and rarity"
+  },
+  {
+   "text": "TechCrunch also says Hurac\u00e1n sales since the twenty fourteen launch total seventeen thousand five hundred worldwide. Wikipedia's yearly table sums to about twenty-nine thousand seven hundred ninety-five by our arithmetic for twenty fourteen to twenty twenty-four. The dates differ, so the numbers are not inconsistent, but the STO's share of either total is unknown.",
+   "query": "Hurac\u00e1n total",
+   "caption": "TECHCRUNCH (SEP 2021): 17,500 HURAC\u00c1NS SINCE 2014 \u00b7 WIKIPEDIA TABLE: ~29,795 (2014\u20132024) \u2014 SUMMED BY THE SOURCE-READER; LATER DATE \u00b7 STO SHARE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Hurac\u00e1n grew by about twelve thousand three hundred cars between September twenty twenty-one and the end of twenty twenty-four, roughly three and a quarter years. That is about thirty-eight hundred cars a year, higher than TechCrunch's twenty-five hundred. That could reflect production increases or different counting, and the sources do not say which.",
+   "query": "Pace",
+   "caption": "29,795 \u2212 17,500 = 12,295 (OUR ARITHMETIC; \u22483.25 YEARS SEP 2021 \u2192 END 2024) \u00b7 12,295 \u00f7 3.25 = ~3,800/YR vs TECHCRUNCH ~2,500/YR \u00b7 EXPLANATION: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The Aventador, for comparison, was planned at four thousand and ended up at eleven thousand eight hundred thirty-one, Wikipedia says. By our arithmetic, the SVJ family of eighteen twenty-six cars is about fifteen percent of that, while the STO's share of the Hurac\u00e1n is unknown. Rarity within the model is one of the SVJ's clearest advantages.",
+   "query": "Share of the line",
+   "caption": "WIKIPEDIA: AVENTADOR PLANNED 4,000; BUILT 11,831 \u00b7 1,826 \u00f7 11,831 = 15.4% (OUR ARITHMETIC; ASSUMES 1,826) \u00b7 STO SHARE: UNKNOWN",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel. Autocar measured eleven point nine miles per gallon for the SVJ, and four hundred fifty-two grams of carbon dioxide per kilometre. Lambocars says a twenty nineteen Aventador can use up to sixty-six hundred dollars of fuel a year. The STO's consumption is not in our sources. Wikipedia lists figures only for the Aventador and the earlier Hurac\u00e1n variants.",
+   "query": "Fuel",
+   "caption": "AUTOCAR: SVJ 11.9 MPG; 452 G/KM \u00b7 LAMBOCARS: 2019 AVENTADOR UP TO $6,600 FUEL/YEAR \u00b7 STO MPG: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Round seven: living with them"
+  },
+  {
+   "text": "Depreciation is a surprise. Lambocars, citing CarEdge, says an Aventador loses up to thirty-one percent over five years at twelve thousand miles a year, and a Hurac\u00e1n forty-six percent. By our arithmetic, a three-hundred-twenty-thousand-dollar Aventador would lose almost one hundred thousand dollars, as the article states. These are averages for the models, not the SVJ or STO specifically.",
+   "query": "Depreciation",
+   "caption": "LAMBOCARS (CITING CAREDGE): AVENTADOR UP TO \u221231% OVER 5 YEARS AT 12,000 MI/YR; HURAC\u00c1N \u221246% \u00b7 $320,000 \u00d7 31% = $99,200 (OUR ARITHMETIC) \u00b7 SVJ / STO SPECIFIC FIGURES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Autocar's SVJ review criticised the single-clutch gearbox, interior ergonomics and ride comfort, and praised the engine and precision. TechCrunch says the STO uses a seven-speed dual-clutch gearbox. Wikipedia mentions three modes, STO, Trofeo and Pioggia, and racing harnesses on the bucket seats. Neither source reviews the STO's comfort or its everyday usability.",
+   "query": "Daily life",
+   "caption": "AUTOCAR (SVJ): PRAISED ENGINE + PRECISION; CRITICISED 7-SPEED SINGLE-CLUTCH GEARBOX, ERGONOMICS, RIDE \u00b7 TECHCRUNCH: STO 7-SPEED DUAL-CLUTCH \u00b7 WIKIPEDIA: STO MODES STO / TROFEO / PIOGGIA; RACING HARNESSES \u00b7 STO COMFORT REVIEW: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Connected tech: TechCrunch says the STO has telemetry that records brake, throttle and steering data with video, viewable through Lamborghini's app. The SVJ's seven-inch infotainment screen is called outdated by Autocar. By our arithmetic, a car launched in twenty twenty had a connected data system, while the car launched in twenty eighteen had a screen the reviewer disliked.",
+   "query": "Technology",
+   "caption": "TECHCRUNCH: STO TELEMETRY (BRAKE, THROTTLE, STEERING + VIDEO) VIA UNICA APP \u00b7 AUTOCAR: SVJ 7-IN SCREEN 'OUTDATED' \u00b7 2018 vs 2020 LAUNCH DATES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "TechCrunch quotes Lamborghini's chief executive saying the Hurac\u00e1n STO is a celebration of the combustion engine, and that the Hurac\u00e1n would be hybridised by twenty twenty-four, with combustion versions discontinued. Wikipedia says the Hurac\u00e1n ran to twenty twenty-four, with the Temerario as successor. IEEE says a hybrid successor to the Aventador was being developed.",
+   "query": "End of an era",
+   "caption": "TECHCRUNCH: BALDI \u2014 'HURAC\u00c1N STO IS A CELEBRATION OF THE COMBUSTION ENGINE'; HURAC\u00c1N HYBRIDISED BY 2024 \u00b7 WIKIPEDIA: HURAC\u00c1N 2014\u20132024; TEMERARIO SUCCESSOR; AVENTADOR \u2192 REVUELTO (2023) \u00b7 IEEE: HYBRID V12 SUCCESSOR IN DEVELOPMENT",
+   "cuts": 3,
+   "chapter": "Round eight: the bigger picture"
+  },
+  {
+   "text": "Both cars are therefore among the last of their kind, in different ways. The SVJ is a naturally aspirated V12 flagship, the STO a naturally aspirated V10 homologation special. Neither source ranks them against each other. Our judgement is that they answer different questions: the SVJ is about maximum, the STO about focus. That judgement is ours, not a documented comparison.",
+   "query": "Different questions",
+   "caption": "SYNTHESIS: SVJ = V12 FLAGSHIP (WIKIPEDIA) \u00b7 STO = 'ROAD-LEGAL VERSION OF SQUADRA CORSE RACE CARS' (MOTOR1) \u00b7 'MAXIMUM vs FOCUS' = OUR JUDGEMENT, NOT A SOURCE COMPARISON",
+   "cuts": 3
+  },
+  {
+   "text": "If we had to give one number to sum up the difference, it is the gap in dry weight and in price: a hundred eighty-six kilograms and a hundred ninety thousand dollars. By our arithmetic, that is about one thousand twenty dollars for each kilogram the SVJ adds to the STO, which buys a bigger engine, all-wheel drive and a record lap.",
+   "query": "A last number",
+   "caption": "$189,932 \u00f7 186 KG = $1,021/KG (OUR ARITHMETIC; LAUNCH BASE PRICES; DRY WEIGHTS) \u00b7 'WHAT IT BUYS' = LIST OF SVJ FEATURES FROM OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The STO's name stands for Super Trofeo Omologata, Motor1 says: a road-legal version of Squadra Corse's race cars. It was announced on the eighteenth of November twenty twenty, as the successor to the Hurac\u00e1n Performante and above the Hurac\u00e1n Evo in the range. Wikipedia lists its production run as twenty twenty-one to twenty twenty-four.",
+   "query": "The name",
+   "caption": "MOTOR1 (18 NOV 2020): 'HURAC\u00c1N SUPER TROFEO OMOLOGATA'; ROAD-LEGAL VERSION OF SQUADRA CORSE RACE CARS; SUCCESSOR TO PERFORMANTE, ABOVE THE EVO \u00b7 WIKIPEDIA: STO PRODUCTION 2021\u20132024",
+   "cuts": 3,
+   "chapter": "Where the STO came from"
+  },
+  {
+   "text": "By our arithmetic, the STO was built for about four years, from twenty twenty-one to twenty twenty-four. The SVJ's run is less clear in our sources: it was unveiled at Pebble Beach in twenty eighteen, and the Aventador line ended in twenty twenty-two, so the SVJ's window was at most four years. Neither source gives exact start and end dates for the SVJ.",
+   "query": "Built for four years",
+   "caption": "WIKIPEDIA: STO 2021\u20132024; SVJ UNVEILED 2018 (PEBBLE BEACH), AVENTADOR ENDED 2022 \u00b7 2024 \u2212 2021 = ~4 YEARS; 2022 \u2212 2018 = ~4 YEARS (OUR ARITHMETIC) \u00b7 EXACT SVJ START / END: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia describes three driving modes for the STO: STO, Trofeo and Pioggia, the last meaning rain. TechCrunch calls the modes ANIMA settings, which adjust suspension and torque vectoring through the LDVI system, and also refers to rain mode. So the car has a dedicated wet setting, an unusual thing to highlight on a track-focused car.",
+   "query": "Modes",
+   "caption": "WIKIPEDIA: STO MODES \u2014 STO, TROFEO, PIOGGIA \u00b7 TECHCRUNCH: ANIMA SETTINGS ADJUST SUSPENSION AND TORQUE VECTORING VIA LDVI; INCLUDES A RAIN MODE \u00b7 'UNUSUAL TO HIGHLIGHT' = OUR OBSERVATION",
+   "cuts": 3
+  },
+  {
+   "text": "The STO has a body made from over seventy-five percent carbon fibre, in a design Wikipedia mentions alongside racing harnesses on the bucket seats. TechCrunch adds a shark fin and a Miura-inspired hood-and-fender piece it calls the cofango. These are visual signatures. The sources do not say how much weight each piece saves.",
+   "query": "Details",
+   "caption": "TECHCRUNCH: SHARK FIN; MIURA-INSPIRED 'COFANGO' HOOD-AND-FENDER \u00b7 WIKIPEDIA: ~75% CARBON BODY; RACING HARNESSES \u00b7 WEIGHT SAVED BY EACH PIECE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "What happened to the STO's engine afterwards? Wikipedia says the Hurac\u00e1n Tecnica, unveiled on the twelfth of April twenty twenty-two, uses the STO's naturally aspirated V10, and sits between the Evo RWD and the STO. It has a top speed of 325 kilometres per hour and zero to one hundred in three point two seconds. So the STO's engine lived on in a road car.",
+   "query": "Tecnica",
+   "caption": "WIKIPEDIA: TECNICA UNVEILED 12 APR 2022; STO'S V10; BETWEEN EVO RWD AND STO; 325 KM/H (202 MPH); 0\u2013100 KM/H 3.2 S",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Tecnica is two tenths slower to one hundred than the STO's three seconds, and its top speed is fourteen kilometres per hour higher than the STO's three hundred eleven. Wikipedia credits it with thirty-five percent more downforce and twenty percent less drag than the Evo. Those are different bases from the STO's claims, so none of them can be compared directly.",
+   "query": "Tecnica vs STO",
+   "caption": "3.2 \u2212 3.0 = 0.2 S SLOWER \u00b7 325 \u2212 311 = 14 KM/H FASTER (OUR ARITHMETIC) \u00b7 WIKIPEDIA: TECNICA +35% DOWNFORCE, \u221220% DRAG vs EVO \u00b7 DIFFERENT BASES \u2192 NOT COMPARABLE",
+   "cuts": 3
+  },
+  {
+   "text": "And the Sterrato, shown as a concept in June twenty nineteen and as a production car on the thirtieth of November twenty twenty-two. Wikipedia says one thousand four hundred ninety-nine were built across twenty twenty-three and twenty twenty-four, and it was described as the last non-hybrid model Lamborghini would launch. Its power is six hundred ten metric horsepower and its top speed two hundred sixty.",
+   "query": "Sterrato",
+   "caption": "WIKIPEDIA: STERRATO CONCEPT JUNE 2019; PRODUCTION VERSION 30 NOV 2022; 2023\u20132024, 1,499 BUILT; 610 PS; 260 KM/H; 'LAST NON-HYBRID MODEL LAMBORGHINI WOULD LAUNCH'",
+   "cuts": 3
+  },
+  {
+   "text": "The SVJ also has a lineage. Wikipedia lists the Aventador S in twenty seventeen with seven hundred forty metric horsepower and four-wheel steering, then the SV with seven fifty, then the SVJ at seven seventy, then the Ultimae at seven eighty. By our arithmetic, each step added between ten and thirty metric horsepower, and the whole run from the original seven hundred added eighty.",
+   "query": "Power ladder",
+   "caption": "WIKIPEDIA: LP 700-4 700 PS \u2192 S (2017) 740 \u2192 SV 750 \u2192 SVJ 770 \u2192 ULTIMAE 780 \u00b7 +80 PS TOTAL (+11.4%) (OUR ARITHMETIC) \u00b7 STEPS: +40, +10, +20, +10 (OUR ARITHMETIC; ORDER AS LISTED BY WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Where the SVJ came from"
+  },
+  {
+   "text": "The Roadster arrived earlier, announced on the twenty-seventh of December twenty twelve, with a claimed top speed of three hundred forty-nine and a weight of sixteen twenty-five kilograms, fifty more than the coup\u00e9. Its roof panels weigh six kilograms each. The SVJ Roadster, per Auto Bild, would follow in late summer twenty nineteen, around eight hundred units.",
+   "query": "Roadsters",
+   "caption": "WIKIPEDIA: ROADSTER ANNOUNCED 27 DEC 2012; 349 KM/H; 1,625 KG (+50 KG); ROOF PANELS 6 KG EACH \u00b7 AUTO BILD: SVJ ROADSTER LATE SUMMER 2019, ~800 UNITS",
+   "cuts": 3
+  },
+  {
+   "text": "Autocar compares the SVJ with two rivals in braking: McLaren's Senna stopped from seventy in thirty-seven point four metres and Ferrari's eight twelve Superfast in forty-two point one, against the SVJ's forty point eight. Autocar also ranks its cabin noise second only to the Senna. The outlet sets the car among hypercars rather than other Lamborghinis.",
+   "query": "Rivals",
+   "caption": "AUTOCAR: 70\u20130 MPH \u2014 SVJ 40.8 M; McLAREN SENNA 37.4 M; FERRARI 812 SUPERFAST 42.1 M \u00b7 CABIN NOISE 96 DB, 2ND ONLY TO THE SENNA \u00b7 'SETS IT AMONG HYPERCARS' = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the SVJ takes nine percent more distance than the Senna to stop from seventy, and three percent less than the 812. In short, it brakes better than a front-engined Ferrari GT, and worse than a lightweight McLaren hypercar, in that test. The STO's own measured stopping distance is not in our sources, only the claim of thirty metres.",
+   "query": "Stopping compared",
+   "caption": "40.8 \u00f7 37.4 = +9.1% \u00b7 40.8 \u00f7 42.1 = \u22123.1% (OUR ARITHMETIC; AUTOCAR) \u00b7 STO MEASURED STOPPING: NOT IN OUR SOURCES (CLAIM ONLY)",
+   "cuts": 3
+  },
+  {
+   "text": "One more SVJ detail from Autocar: it criticised the transmission and said the next-generation car needs major improvements. The review was republished in twenty twenty-five, per the page, though the original test date is not stated. The STO's seven-speed dual-clutch gearbox, per TechCrunch, is a different design from the SVJ's single-clutch automated manual.",
+   "query": "Gearboxes",
+   "caption": "AUTOCAR: SVJ 7-SPEED SINGLE-CLUTCH ISR CRITICISED; NEXT-GEN CAR 'NEEDS MAJOR IMPROVEMENTS' \u00b7 PAGE DATED 30 JUN 2025 (REPUBLICATION; TEST DATE NOT STATED) \u00b7 TECHCRUNCH: STO 7-SPEED DUAL-CLUTCH",
+   "cuts": 3
+  },
+  {
+   "text": "Within its own range, the STO's price is a step up. By our arithmetic from Motor1's figures, the STO at three twenty-seven eight thirty-eight is fifty-seven percent above the Evo RWD at two hundred eight thousand five hundred seventy-one, and nearly twenty percent above what the Performante cost at launch in twenty seventeen. The Evo AWD launched at two hundred sixty-one thousand two hundred seventy-four.",
+   "query": "Inside the range",
+   "caption": "MOTOR1: STO $327,838 \u00b7 EVO RWD $208,571 \u00b7 EVO AWD LAUNCH $261,274 \u00b7 PERFORMANTE (2017) $274,390 \u00b7 $327,838 \u00f7 $208,571 = +57.2% \u00b7 \u00f7 $274,390 = +19.5% (OUR ARITHMETIC; DIFFERENT YEARS)",
+   "cuts": 3,
+   "chapter": "Inside the Hurac\u00e1n range"
+  },
+  {
+   "text": "Weight again: the STO is forty-three kilograms lighter than the Performante, says Motor1, which by our arithmetic puts the Performante at about thirteen eighty-two kilograms dry, assuming both figures use the same basis. The sources do not state the Performante's weight, so that is our derived number, and we label it as such.",
+   "query": "Derived weight",
+   "caption": "MOTOR1: STO 1,339 KG DRY, 43 KG LESS THAN PERFORMANTE \u00b7 1,339 + 43 = 1,382 KG (OUR ARITHMETIC; DERIVED, NOT STATED)",
+   "cuts": 3
+  },
+  {
+   "text": "And the SVJ's relationship to its own range: the sources give no base-car tested weight. The roadster is fifty kilograms heavier than the coup\u00e9, Wikipedia says. The sources do not say how weight changed through the range, so we would rather compare dry weights directly than assume a trend.",
+   "query": "Weight through the range",
+   "caption": "WIKIPEDIA: AVENTADOR ROADSTER +50 KG vs COUP\u00c9; SV 1 HP PER 2 KG CLAIM \u00b7 BASE-CAR TESTED WEIGHT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. A like-for-like lap time for the STO. The STO's production count. Its tested weight. An independent acceleration test of either car side by side. The STO's fuel economy. And the two cars' prices on the same date and in the same currency. If you have primary documents for any of these, put them in the comments.",
+   "query": "SVJ vs STO",
+   "caption": "NOT IN OUR SOURCES: STO N\u00dcRBURGRING LAP \u00b7 STO PRODUCTION COUNT \u00b7 STO TESTED WEIGHT \u00b7 SIDE-BY-SIDE TEST \u00b7 STO FUEL ECONOMY \u00b7 SAME-DATE, SAME-CURRENCY PRICES",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "So the real difference is not just horsepower. It is a hundred eighty-six kilograms, two driven axles against one, a V12 against a V10, and an STO priced at roughly two thirds of the SVJ. In the other videos this week, we reveal the SVJ's two lesser-known facts, count the cost of owning an Aventador, and tell why it was the last of its kind. Subscribe to Pickup Reality.",
+   "query": "SVJ vs STO",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

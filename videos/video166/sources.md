@@ -1,0 +1,9 @@
+- Wikipedia, Lamborghini Aventador: https://en.wikipedia.org/wiki/Lamborghini_Aventador
+- Wikipedia, Lamborghini Huracán: https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n
+- Motor1, Lamborghini Huracán STO revealed as $328,000 race car for the road, 18 Nov 2020: https://www.motor1.com/news/455113/2021-lamborghini-huracan-sto-reveal/
+- TechCrunch (Abigail Bassett), Lamborghini Huracán STO: a final celebration before electrification, 23 Sep 2021: https://techcrunch.com/2021/09/23/lamborghini-huracan-sto-a-final-celebration-before-electrification/
+- IEEE Spectrum, 2019's Top 10 Tech Cars: Lamborghini Aventador SVJ: https://spectrum.ieee.org/2019s-top-10-tech-cars-lamborghini-aventador-svj
+- Autocar (Richard Lane), Lamborghini Aventador SVJ road test, via Yahoo Autos: https://autos.yahoo.com/lamborghini-aventador-svj-124100598.html
+- Auto Bild, Lamborghini Aventador SVJ 2018: alle Infos, 19 Sep 2018: https://www.autobild.de/artikel/lamborghini-aventador-svj-2018-alle-infos-13496177.html
+- Lambocars (Tolu Akinshete), What does it cost to own and maintain a late-model Lamborghini?, 4 May 2022: https://www.lambocars.com/cost-to-own-and-maintain-modern-lamborghini/
+- Automonitor.io, What does an Aventador SVJ actually cost to own? (unsourced estimates): https://automonitor.io/blog/how-much-does-a-lamborghini-aventador-svj-cost/
