@@ -1,0 +1,6 @@
+- Wikipedia, Lamborghini Aventador: https://en.wikipedia.org/wiki/Lamborghini_Aventador
+- Wikipedia, Lamborghini Huracán: https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n
+- IEEE Spectrum, 2019's Top 10 Tech Cars: Lamborghini Aventador SVJ: https://spectrum.ieee.org/2019s-top-10-tech-cars-lamborghini-aventador-svj
+- Autocar (Richard Lane), Lamborghini Aventador SVJ road test, via Yahoo Autos: https://autos.yahoo.com/lamborghini-aventador-svj-124100598.html
+- Auto Bild, Lamborghini Aventador SVJ 2018: alle Infos, 19 Sep 2018: https://www.autobild.de/artikel/lamborghini-aventador-svj-2018-alle-infos-13496177.html
+- Automonitor.io, What does an Aventador SVJ actually cost to own? (unsourced estimates): https://automonitor.io/blog/how-much-does-a-lamborghini-aventador-svj-cost/
