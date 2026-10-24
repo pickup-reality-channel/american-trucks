@@ -1,0 +1,309 @@
+{
+ "id": "video175",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "What It Really Costs to Own a Ferrari Enzo",
+ "scenes": [
+  {
+   "text": "A Ferrari Enzo costs about three point six million dollars to buy, according to Hagerty. But what does it really cost to own one? Not what the internet guesses, but what our sources can actually support. This video separates the numbers that come with a source from the ones that do not, builds a labelled scenario, and shows where nobody has the data.",
+   "query": "What an Enzo really costs",
+   "caption": "WHAT IT REALLY COSTS TO OWN A FERRARI ENZO",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Hagerty's valuation page, Sports Car Market, RM Sotheby's catalogue pages, Wikipedia, evo, The Drive, a PistonHeads listing and the Italian site Italpassion. We also quote one website, Gearshifters, whose figures have no sources, and we mark them as unverified. Our own arithmetic is always labelled.",
+   "query": "Sources",
+   "caption": "SOURCES: HAGERTY \u00b7 SPORTS CAR MARKET \u00b7 RM SOTHEBY'S \u00b7 WIKIPEDIA \u00b7 EVO \u00b7 THE DRIVE \u00b7 PISTONHEADS UK LISTING \u00b7 ITALPASSION \u00b7 GEARSHIFTERS (UNSOURCED, FLAGGED) \u00b7 EIA \u00b7 US CENSUS",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the purchase. Hagerty's valuation page for a two thousand three Enzo shows three million six hundred thousand dollars as the value of a good car, with no change over twelve months. It counts sixty-six sales of two thousand two to two thousand four Enzos on record, and six public auction sales of the two thousand three model in the last three years.",
+   "query": "Hagerty value",
+   "caption": "HAGERTY (2003 ENZO): #3 'GOOD' $3,600,000 \u00b7 12-MONTH 0% \u00b7 66 SALES (2002\u201304 ENZO) \u00b7 6 PUBLIC AUCTION SALES OF THE 2003 MODEL IN 3 YEARS \u00b7 #1, #2, #4 CONDITION VALUES NOT LISTED",
+   "cuts": 5,
+   "chapter": "The price of entry"
+  },
+  {
+   "text": "The range is wide. Hagerty's three-year auction results run from two million one hundred eighty-one thousand to four million four hundred twenty-seven thousand. Its all-time figures run from eight hundred thirty thousand five hundred to four million five hundred ten thousand. The most recent sale it lists is two million eight hundred sixty thousand at Mecum on the sixteenth of August twenty twenty-four.",
+   "query": "The range",
+   "caption": "HAGERTY: 3-YEAR AUCTION LOW $2,181,539 / HIGH $4,427,297 \u00b7 ALL-TIME (2002\u201304) LOW $830,500 / HIGH $4,510,000 \u00b7 MOST RECENT $2,860,000 MECUM 16 AUG 2024",
+   "cuts": 3
+  },
+  {
+   "text": "The Italian site Italpassion lists a higher figure: a record of six point oh five million dollars at Monterey in twenty fifteen, with recent sales of four to four and a half million. An RM Sotheby's page shows a two thousand four Enzo sold for one million eight hundred seventy thousand dollars in California in twenty fifteen. These sources conflict, and none explains why.",
+   "query": "Conflicting prices",
+   "caption": "ITALPASSION (RM PHOENIX, 23 JAN 2026): RECORD $6.05 M MONTEREY 2015; RECENT SALES $4\u20134.5 M \u00b7 RM SOTHEBY'S CALIFORNIA 2015: 2004 ENZO $1,870,000 \u00b7 HAGERTY MAX $4.51 M < $6.05 M \u2192 UNRESOLVED",
+   "cuts": 3
+  },
+  {
+   "text": "For scale: the United States Census Bureau's median household income for twenty twenty-four was eighty-three thousand seven hundred thirty dollars. By our arithmetic, Hagerty's typical Enzo value is about forty-three years of that income. The Enzo's original list price, six hundred forty-three thousand three hundred thirty dollars, per Sports Car Market, was about seven and two-thirds years of it.",
+   "query": "In years of income",
+   "caption": "CENSUS MEDIAN HOUSEHOLD INCOME 2024: $83,730 \u00b7 3,600,000 \u00f7 83,730 = 43.0 YEARS \u00b7 643,330 \u00f7 83,730 = 7.7 YEARS (OUR ARITHMETIC; ENZO'S LIST PRICE WAS IN 2003 MONEY)",
+   "cuts": 3
+  },
+  {
+   "text": "When new, the Enzo's list price was six hundred forty-three thousand three hundred thirty dollars, according to Sports Car Market. Evo gives about four hundred twenty thousand pounds for two thousand two. By our arithmetic, Hagerty's three point six million is five point six times the American price. On the sales in our sources, the car has so far sold for far more than its list price.",
+   "query": "From list to today",
+   "caption": "SCM: ENZO LIST $643,330 \u00b7 EVO: c.\u00a3420,000 (2002) \u00b7 3,600,000 \u00f7 643,330 = 5.6\u00d7 (OUR ARITHMETIC) \u00b7 SALES ABOVE LIST: AS SHOWN IN THIS VIDEO'S SOURCES \u00b7 OPTIONS INCLUDED IN LIST?: NOT STATED",
+   "cuts": 3,
+   "chapter": "What it cost new, and what it did"
+  },
+  {
+   "text": "In October twenty eighteen, Sports Car Market reported an Enzo selling at RM Sotheby's London for two million five hundred thirty thousand seven hundred seventy-four dollars, including the buyer's premium. It said the seller's gain was roughly one million dollars over the original purchase price, assuming he paid list. By our arithmetic, the gap between that sale and list is one point eight eight seven million.",
+   "query": "A 2018 sale",
+   "caption": "SCM (17 OCT 2018): $2,530,774 RM LONDON, 15 SEP 2018, INCL. BUYER'S PREMIUM \u00b7 'SELLER'S GAIN ROUGHLY $1,000,000' \u00b7 2,530,774 \u2212 643,330 = $1,887,444 (OUR ARITHMETIC) \u2192 SCM'S 'ROUGHLY $1 M' DOES NOT MATCH ITS OWN LIST PRICE; REASON NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "That mismatch matters for anyone counting returns. The two numbers cannot both describe a car bought at six hundred forty-three thousand three hundred thirty and sold for two point five three million. Possibly the owner paid more than list, or the sale price includes fees the seller did not receive. The article does not say. So we do not use its million-dollar gain figure.",
+   "query": "A puzzle in the numbers",
+   "caption": "SCM: GAIN ~$1 M vs ARITHMETIC GAP $1.89 M \u00b7 POSSIBLE REASONS (OWNER PAID ABOVE LIST; PREMIUM PAID BY BUYER) = OUR SPECULATION, NOT STATED \u00b7 FIGURE NOT USED",
+   "cuts": 3
+  },
+  {
+   "text": "Sports Car Market also said then that Enzo prices seldom sell under two million and top out just below three million, and that the new owner would not do nearly as well as the seller. The magazine gave the car an investment grade of B. By our arithmetic, Hagerty's typical value today is forty-two percent above that 2018 sale, so the magazine's caution has not yet proved right.",
+   "query": "A cautious 2018",
+   "caption": "SCM (2018): 'SELDOM SELL UNDER $2,000,000 AND TOP OUT JUST BELOW $3,000,000'; 'THE NEW OWNER WILL NOT DO NEARLY AS WELL'; INVESTMENT GRADE B \u00b7 3,600,000 \u00f7 2,530,774 = +42.2% (OUR ARITHMETIC; HAGERTY'S TYPICAL VALUE vs ONE SALE)",
+   "cuts": 3
+  },
+  {
+   "text": "Auction prices usually include a buyer's premium. The SCM sale price of two million five hundred thirty thousand seven hundred seventy-four dollars is stated to include it, while the RM Sotheby's catalogue pages we read give hammer-style results without saying. By our arithmetic, a one percent difference on a three point six million car is thirty-six thousand dollars, so the basis matters.",
+   "query": "Fees",
+   "caption": "SCM: $2,530,774 'INCLUDING BUYER'S PREMIUM' \u00b7 RM SOTHEBY'S CATALOGUE RESULTS: PREMIUM STATUS NOT STATED \u00b7 1% OF $3.6 M = $36,000 (OUR ARITHMETIC; THE ACTUAL PREMIUM RATE IS NOT IN OUR SOURCES)",
+   "cuts": 3,
+   "chapter": "Costs of buying"
+  },
+  {
+   "text": "Compliance can cost too. The RM Sotheby's page for a two thousand four Enzo describes a factory European-specification car converted in California to meet state emissions, federal transport and smog rules, and legal to register in all fifty states. It does not say what that conversion cost.",
+   "query": "Compliance",
+   "caption": "RM SOTHEBY'S (CA15): EUROPEAN-SPEC CAR CONVERTED IN CALIFORNIA (EPA, DOT, SMOG); 'LEGAL FOR REGISTRATION IN ALL 50 STATES' \u00b7 CONVERSION COST: NOT STATED \u00b7 US ALLOCATION: HAGERTY 80 vs ITALPASSION 111",
+   "cuts": 3
+  },
+  {
+   "text": "There is also provenance. A UK Enzo listed on PistonHeads, one of thirty-one in Britain, records a Ferrari Classiche inspection in September two thousand fifteen, followed by certification. Our sources do not price the inspection, and the listing's own asking price is on application only.",
+   "query": "Ferrari Classiche",
+   "caption": "PISTONHEADS LISTING (2003 ENZO): CLASSICHE INSPECTION SEP 2015, CERTIFIED SHORTLY AFTER \u00b7 COST OF INSPECTION: NOT IN OUR SOURCES \u00b7 ASKING PRICE: 'POA'",
+   "cuts": 3
+  },
+  {
+   "text": "Some context for the purchase price. The Manual listed the cheapest new Ferrari, the Roma, at two hundred forty-seven thousand three hundred eight dollars in October twenty twenty-four. By our arithmetic, a typical Enzo costs fourteen and a half Romas, or six point two of the most expensive standard Ferrari on that list, the SF90 Spider at five hundred eighty-three thousand nine hundred fifty.",
+   "query": "In Ferraris",
+   "caption": "THE MANUAL (9 OCT 2024): ROMA $247,308 \u00b7 SF90 SPIDER $583,950 \u00b7 3,600,000 \u00f7 247,308 = 14.6 \u00b7 \u00f7 583,950 = 6.2 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Putting the price in context"
+  },
+  {
+   "text": "And in ordinary cars: Kelley Blue Book put the average new vehicle price at fifty thousand eighty-nine dollars in August twenty twenty-six. By our arithmetic, a typical Enzo costs about seventy-two average new cars. The spread of Hagerty's three-year auction results, from two million one hundred eighty-one thousand to four million four hundred twenty-seven thousand, is itself two point two million dollars.",
+   "query": "In average cars",
+   "caption": "KBB AVERAGE NEW-VEHICLE PRICE AUG 2026: $50,089 \u00b7 3,600,000 \u00f7 50,089 = 71.9 \u00b7 HAGERTY 3-YEAR RANGE: 4,427,297 \u2212 2,181,539 = $2,245,758 (2.03\u00d7) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, per horsepower, a typical Enzo costs about fifty-four hundred dollars at Hagerty's value and its six hundred sixty metric horsepower. When new, it was nine hundred seventy-five dollars per horsepower at the list price. The F50 at Hagerty's three million six hundred fifty thousand and five hundred twenty horsepower is seven thousand nineteen dollars per horsepower.",
+   "query": "Per horsepower",
+   "caption": "3,600,000 \u00f7 660 PS = $5,455/PS \u00b7 643,330 \u00f7 660 = $975/PS \u00b7 3,650,000 \u00f7 520 = $7,019/PS (OUR ARITHMETIC; PS = METRIC HP; FIGURES FROM WIKIPEDIA, HAGERTY, SCM)",
+   "cuts": 3
+  },
+  {
+   "text": "How fast has the value grown? By our arithmetic, from the two thousand three list price of six hundred forty-three thousand to Hagerty's three point six million is a nominal rise of about seven point eight percent a year over twenty-three years. From the two thousand eighteen London sale to today, it is about four and a half percent a year over eight years.",
+   "query": "Annual growth",
+   "caption": "643,330 \u2192 3,600,000 = 5.6\u00d7 OVER ~23 YEARS (2003 \u2192 2026) = 7.8%/YR \u00b7 2,530,774 \u2192 3,600,000 = 1.42\u00d7 OVER 8 YEARS = 4.5%/YR (OUR ARITHMETIC, NOMINAL, BEFORE COSTS OR INFLATION) \u00b7 START POINT FOR 2003 = LIST, NOT A SALE",
+   "cuts": 3
+  },
+  {
+   "text": "Between list and the twenty eighteen sale, the same maths gives nine and a half percent a year, over fifteen years. So the pace has slowed, from nearly ten percent to four and a half. Sports Car Market said the Enzo was stable. Hagerty's current twelve-month change is zero. That is data, not a forecast, and it shows how little of the Enzo's gain remains for a new buyer.",
+   "query": "Slowing",
+   "caption": "643,330 \u2192 2,530,774 = 3.93\u00d7 OVER 15 YEARS = 9.6%/YR (OUR ARITHMETIC) \u00b7 SCM: 'PRICES HAVE BEEN STABLE' \u00b7 HAGERTY 12-MONTH 0% \u00b7 'LITTLE GAIN REMAINS' = OUR OPINION",
+   "cuts": 3
+  },
+  {
+   "text": "The market is also thin. Hagerty counts only six public auction sales of the two thousand three model in three years, and sixty-six sales of two thousand two to two thousand four Enzos on record. By our arithmetic, that is two public sales a year. A thin market means that selling takes patience and that a single result can move the average.",
+   "query": "A thin market",
+   "caption": "HAGERTY: 6 PUBLIC AUCTION SALES (2003 MODEL, 3 YEARS) = 2/YEAR (OUR ARITHMETIC) \u00b7 66 SALES ON RECORD (2002\u201304 ENZO) \u00b7 'SINGLE RESULT MOVES AVERAGE' = OUR INFERENCE",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the cost of time. Our sources do not give interest rates or the cost of money, so we cannot say what three point six million dollars would earn elsewhere. That is a real cost of owning an Enzo, and probably the largest one, but we cannot put a number on it from these sources. We prefer to say so than to pretend.",
+   "query": "Cost of money",
+   "caption": "COST OF CAPITAL / INTEREST RATES: NOT IN OUR SOURCES \u00b7 'PROBABLY THE LARGEST COST' = OUR OPINION, NOT A MEASURED FACT",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, a note on the mileage. The UK Enzo in our sources covered about four hundred sixty kilometres during its current ownership, per its listing, while the car in the RM Sotheby's Phoenix catalogue has seven hundred forty-six miles in total. Both cars have been driven very little. If that is typical, maintenance would come from age rather than miles, a point our sources hint at but do not state.",
+   "query": "Low use",
+   "caption": "PISTONHEADS LISTING: ~460 KM DURING CURRENT OWNERSHIP \u00b7 ITALPASSION: CHASSIS 128797, 746 MI \u00b7 'IF TYPICAL, AGE NOT MILES' = OUR INFERENCE, NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Now the costs that have a source. Sports Car Market says an Enzo tune-up starts at three thousand dollars. It also reports that the car it covered, the two thousand eighteen London sale, had a sixteen-thousand-dollar service. The sources do not say what the service included. By our arithmetic, that service cost five times the starting tune-up.",
+   "query": "Tune-up and service",
+   "caption": "SCM (2018): TUNE-UP STARTS AT $3,000 \u00b7 $16,000 SERVICE ON THE SALE CAR (SCOPE NOT STATED) \u00b7 16,000 \u00f7 3,000 = 5.3\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Sourced running costs"
+  },
+  {
+   "text": "A UK Enzo shows what a service history looks like. The listing says it had its first annual service in May two thousand four, at forty-nine hundred kilometres, and a service in July twenty eighteen at seventeen thousand fifty-four kilometres that included a clutch replacement, cam cover gaskets and four new Bridgestone tyres. The listing gives no prices for any of this work.",
+   "query": "A service log",
+   "caption": "PISTONHEADS LISTING: 1ST SERVICE MAY 2004 @ 4,900 KM \u00b7 JULY 2018 @ 17,054 KM \u2014 CLUTCH REPLACEMENT, CAM COVER GASKETS, 4 BRIDGESTONE POTENZA TYRES \u00b7 PRICES: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, that car covered about twelve thousand kilometres between those two services, over fourteen years. So its clutch was replaced at roughly seventeen thousand kilometres, or about ten thousand six hundred miles. That is the only clutch data point for the Enzo in our sources, and it comes from one car, so it cannot tell us how long a typical clutch lasts.",
+   "query": "One clutch",
+   "caption": "17,054 KM \u00d7 0.6214 = 10,597 MI \u00b7 17,054 \u2212 4,900 = 12,154 KM IN ~14 YEARS (OUR ARITHMETIC) \u00b7 SAMPLE SIZE = 1 CAR \u00b7 CLUTCH LIFE IN GENERAL: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The Enzo's gearbox is a first-generation automated manual, as Wikipedia's page notes, with complaints about abrupt shifting. The page does not discuss reliability or clutch wear. Evo's two thousand four test found the car remarkably tractable, comfortable and supple in town. Neither source gives a failure rate, so any claim of how often it needs a clutch has no support here.",
+   "query": "The gearbox",
+   "caption": "WIKIPEDIA: FIRST-GENERATION LATE-1990s CLUTCHLESS DESIGN; ABRUPT SHIFTING COMPLAINTS \u00b7 EVO (FEB 2004): 'REMARKABLY TRACTABLE, COMFORTABLE AND SUPPLE' IN TOWN \u00b7 FAILURE RATES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A website, Gearshifters, publishes a list. It says an oil change costs about fourteen hundred dollars, a scheduled service close to nine thousand, a clutch assembly six thousand and a complete brake overhaul forty thousand, with insurance upwards of six thousand dollars a year. It cites no sources and gives no dates. The same article also refers to nine-thousand-dollar oil changes, which contradicts itself.",
+   "query": "Unsourced list",
+   "caption": "GEARSHIFTERS (PUB. 2022-09-16): OIL CHANGE ~$1,400 \u00b7 SCHEDULED SERVICE ~$9,000 \u00b7 CLUTCH $6,000 \u00b7 BRAKE OVERHAUL $40,000 \u00b7 INSURANCE >$6,000/YR \u00b7 NO SOURCES, NO DATES \u00b7 ARTICLE ALSO REFERS TO '$9,000 OIL CHANGES' \u2192 INCONSISTENT \u00b7 ALSO PRICE $650,000 vs $659,330",
+   "cuts": 3,
+   "chapter": "Unsourced figures from the web"
+  },
+  {
+   "text": "Treat that list as a rumour, not data. We include it only because anyone searching for Enzo costs will find it. Some of its figures are plausible next to our sourced ones; the nine-thousand-dollar service is about half the sixteen thousand reported by Sports Car Market, and the three-thousand-dollar tune-up is a different kind of job. But plausible is not proven.",
+   "query": "Rumour, not data",
+   "caption": "GEARSHIFTERS $9,000 SERVICE vs SCM $16,000 SERVICE: 9,000 \u00f7 16,000 = 56% (OUR ARITHMETIC) \u00b7 SCOPES UNKNOWN \u00b7 'PLAUSIBLE \u2260 PROVEN'",
+   "cuts": 3
+  },
+  {
+   "text": "Let us build a scenario, labelled as ours. Imagine ten years of ownership, at one thousand miles a year, which is within the range of the low-use cars in our sources. Using only sourced figures, we assume one tune-up a year at the three thousand dollar starting price, and one sixteen thousand dollar service. This is an illustration, not a forecast.",
+   "query": "Scenario: sourced",
+   "caption": "OUR SCENARIO (NOT A FORECAST): 10 YEARS \u00b7 1,000 MI/YEAR \u00b7 10 TUNE-UPS AT THE $3,000 'STARTING' PRICE (SCM) = $30,000 \u00b7 1 SERVICE AT $16,000 (SCM) \u00b7 TUNE-UP PRICE IS A FLOOR (SCM: 'STARTS AT')",
+   "cuts": 3,
+   "chapter": "A labelled scenario"
+  },
+  {
+   "text": "Add fuel. At about eight point one miles per gallon combined, from Wikipedia's twenty-nine litres per hundred kilometres, and the government's regular gasoline price of four dollars twenty-eight cents a gallon, ten thousand miles costs about five thousand three hundred dollars. The car's required fuel grade is not stated in our sources, so premium would cost more.",
+   "query": "Scenario: fuel",
+   "caption": "WIKIPEDIA: 29 L/100 KM COMBINED = 235.215 \u00f7 29 = 8.11 MPG \u00b7 EIA REGULAR $4.284/GAL (19 OCT 2026) \u00b7 10,000 \u00f7 8.11 \u00d7 4.284 = $5,282 (OUR ARITHMETIC) \u00b7 FUEL GRADE: NOT STATED \u2192 PREMIUM WOULD COST MORE",
+   "cuts": 3
+  },
+  {
+   "text": "The total comes to about fifty-one thousand three hundred dollars over ten years, or roughly five thousand a year, by our arithmetic. Per mile, that is five dollars thirteen. It excludes insurance, storage, tyres, depreciation and the cost of money, none of which our sources price. Against a three point six million purchase, it is about one and a half percent.",
+   "query": "Scenario: total",
+   "caption": "30,000 + 16,000 + 5,282 = $51,282 \u00b7 \u00f7 10 YEARS = $5,128/YR \u00b7 \u00f7 10,000 MI = $5.13/MI \u00b7 51,282 \u00f7 3,600,000 = 1.4% (OUR ARITHMETIC) \u00b7 EXCLUDES INSURANCE, STORAGE, TYRES, DEPRECIATION, COST OF MONEY (NOT IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the pessimistic version, using the unverified website figures. Insurance of six thousand a year, a nine-thousand-dollar service each year, one six-thousand-dollar clutch, a forty-thousand-dollar brake overhaul and the same fuel gives about two hundred one thousand dollars over ten years, by our arithmetic, or twenty dollars a mile. That is almost four times the first scenario.",
+   "query": "Scenario: pessimistic",
+   "caption": "UNSOURCED FIGURES: 10 \u00d7 $6,000 INSURANCE + 10 \u00d7 $9,000 SERVICE + $6,000 CLUTCH + $40,000 BRAKES + $5,282 FUEL = $201,282 \u00b7 \u00f7 10,000 MI = $20.13/MI \u00b7 201,282 \u00f7 51,282 = 3.9\u00d7 (OUR ARITHMETIC; INPUTS UNVERIFIED)",
+   "cuts": 3
+  },
+  {
+   "text": "The truth lies somewhere in the range we cannot narrow. By our arithmetic, even the pessimistic scenario is less than six percent of the purchase price over ten years. The real cost of owning an Enzo is dominated by what happens to its value, and not by what it costs to run, as long as nothing breaks badly. That is also why the sourced numbers matter less than the price you pay.",
+   "query": "Running cost versus value",
+   "caption": "201,282 \u00f7 3,600,000 = 5.6% (OUR ARITHMETIC) \u00b7 'DOMINATED BY VALUE CHANGE' = OUR JUDGEMENT; 12-MONTH VALUE CHANGE 0% (HAGERTY) \u00b7 'AS LONG AS NOTHING BREAKS BADLY' = OUR CAVEAT",
+   "cuts": 3
+  },
+  {
+   "text": "What if you drive it more? A heavier-use scenario, again ours. Say fifty thousand miles over ten years. At eight point one miles per gallon, fuel is about twenty-six thousand four hundred dollars. If the single clutch data point repeated, one clutch every ten thousand six hundred miles, that is four clutches, and at the website's unverified six thousand dollars each, twenty-four thousand.",
+   "query": "Scenario: heavier use",
+   "caption": "OUR SCENARIO: 50,000 MI IN 10 YEARS \u00b7 50,000 \u00f7 8.11 \u00d7 4.284 = $26,413 FUEL \u00b7 CLUTCH EVERY 10,597 MI (ONE CAR) \u2192 50,000 \u00f7 10,597 = 4.7 \u2192 4 CLUTCHES \u00b7 4 \u00d7 $6,000 (UNSOURCED, GEARSHIFTERS) = $24,000 (OUR ARITHMETIC; ALL INPUTS WEAK)",
+   "cuts": 3
+  },
+  {
+   "text": "With the same thirty thousand in tune-ups and the sixteen thousand dollar service, the heavier-use total is about ninety-six thousand dollars, by our arithmetic, or one dollar ninety-three a mile. So driving the car five times as far lowers the cost per mile by almost two-thirds, but raises the total by about eighty-eight percent. Fixed costs dominate, as with most collector cars.",
+   "query": "Heavier use total",
+   "caption": "30,000 + 16,000 + 26,413 + 24,000 = $96,413 \u00b7 \u00f7 50,000 MI = $1.93/MI \u00b7 vs $5.13/MI (\u221262%) \u00b7 96,413 \u00f7 51,282 = +88% (OUR ARITHMETIC) \u00b7 'FIXED COSTS DOMINATE' = OUR JUDGEMENT FROM THIS SCENARIO ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "The biggest risk is a crash. RM Sotheby's says an alarming number of the four hundred Enzos have been written off by inexperienced or cavalier drivers. It gives no count and no repair costs. Our sources include no insurance claim data and no figure for repairing a carbon-fibre tub. So the cost of the worst case is simply not in our sources.",
+   "query": "Written off",
+   "caption": "RM SOTHEBY'S (CA15): 'AN ALARMING NUMBER' OF THE 400 'WRITTEN OFF' \u00b7 COUNT: NOT GIVEN \u00b7 REPAIR / INSURANCE-CLAIM COSTS: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "What can go wrong"
+  },
+  {
+   "text": "The next risk is rarity of parts and expertise. Wikipedia describes three development mules and the Maserati MC12, which shares the Enzo's engine, chassis and gearbox, with fifty cars built. Our sources do not say whether parts are shared with the MC12 in practice. So we cannot say whether owning an Enzo is easier or harder because of the sister car.",
+   "query": "Parts",
+   "caption": "WIKIPEDIA: MC12 SHARES ENGINE, CHASSIS, GEARBOX WITH ENZO \u00b7 50 MC12 BUILT \u00b7 PARTS SHARING IN PRACTICE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A third risk is specialist labour. The Drive's article about the Ferrari F50, the Enzo's predecessor, says a clutch job needs the entire rear subframe and transaxle removed, with parts around five thousand dollars from a two thousand eight forum post. The Enzo has a different layout, and our sources do not describe its clutch access, so we only use this as a reminder, not as an Enzo figure.",
+   "query": "F50 as a hint",
+   "caption": "THE DRIVE (26 NOV 2019): F50 CLUTCH JOB \u2014 REAR SUBFRAME + TRANSAXLE REMOVED; PARTS ~$5,000 (2008 FORUM); EST. MINIMUM ~$7,000 \u00b7 ENZO CLUTCH ACCESS: NOT IN OUR SOURCES \u2192 F50 DATA NOT AN ENZO FIGURE",
+   "cuts": 3
+  },
+  {
+   "text": "The F50 also shows how big a service can be. An RM Sotheby's catalogue for a twenty twenty-one F50 lists work in August twenty seventeen, a new fuel bladder, tyres and brake lines, costing nearly fifty-one thousand dollars. The Drive quotes about eighteen thousand for the bladders alone from a forum. For the Enzo, our sources show a sixteen thousand dollar service. The scale is similar.",
+   "query": "Big services",
+   "caption": "RM SOTHEBY'S (F50, MONTEREY 2021): AUG 2017 BLADDER + TYRES + BRAKE LINES \u2248 $51,000 \u00b7 THE DRIVE: BLADDERS ~$18,000 (2010 FORUM) \u00b7 SCM (ENZO): $16,000 SERVICE \u00b7 'SIMILAR SCALE' = OUR JUDGEMENT; SCOPES DIFFER",
+   "cuts": 3
+  },
+  {
+   "text": "Selling is the other end. Italpassion reports that RM Sotheby's estimated an Enzo with only seven hundred forty-six miles at five to six million dollars in January twenty twenty-six. By our arithmetic, that estimate is between thirty-nine and sixty-seven percent above Hagerty's typical value, which reflects mileage and condition. We do not know the result of that sale.",
+   "query": "Low miles",
+   "caption": "ITALPASSION (RM PHOENIX, 23 JAN 2026): ENZO CHASSIS 128797, 746 MI, ESTIMATE $5\u20136 M \u00b7 5 \u00f7 3.6 = +38.9% \u00b7 6 \u00f7 3.6 = +66.7% (OUR ARITHMETIC) \u00b7 SALE RESULT: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Selling"
+  },
+  {
+   "text": "Condition and mileage clearly matter. But Hagerty's own page lists only one condition price, the typical one at three point six million, and not the others. By our arithmetic, the gap between the auction estimate of the lowest-mileage car and the typical car is at least one point four million dollars, and our sources can't say how much of that is mileage, history or hype.",
+   "query": "What a low odometer is worth",
+   "caption": "HAGERTY: ONLY #3 'GOOD' PRICE SHOWN \u00b7 5,000,000 \u2212 3,600,000 = $1,400,000 MINIMUM GAP (OUR ARITHMETIC) \u00b7 BREAKDOWN OF GAP: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Also remember the mule. Wikipedia says the third development mule, dressed as a Ferrari three forty-eight, sold at auction in June two thousand five for one hundred ninety-five thousand five hundred euros, or two hundred thirty-six thousand three hundred dollars. By our arithmetic, that was thirty-seven percent of the Enzo's list price. Not every Enzo-related car has become a bargain at three million.",
+   "query": "The mule",
+   "caption": "WIKIPEDIA: MULE M3 SOLD JUNE 2005 FOR \u20ac195,500 (US$236,300) \u00b7 236,300 \u00f7 643,330 = 36.7% (OUR ARITHMETIC) \u00b7 'DRESSED AS A 348' PER WIKIPEDIA (M1\u2013M3 USED 348 BODYWORK)",
+   "cuts": 3
+  },
+  {
+   "text": "And the Pope's Enzo, the four hundredth car, sold at Sotheby's for one point one million dollars, per Wikipedia, which also says the donation went to the Vatican while its own cited sources mention St. Jude Children's Research Hospital. By our arithmetic, that is thirty-one percent of today's Hagerty value. The sale was in the mid-two-thousands, our sources suggest, so it is not a comparable price.",
+   "query": "The Pope's car",
+   "caption": "WIKIPEDIA: 400TH ENZO SOLD AT SOTHEBY'S $1.1 M \u00b7 CITED SOURCES: ST. JUDE; DATED DEC 2005 \u00b7 1,100,000 \u00f7 3,600,000 = 30.6% (OUR ARITHMETIC) \u00b7 'MID-2000s' = FROM THE DEC 2005 CITATION DATE; SALE DATE NOT STATED ON THE PAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Sports Car Market listed alternatives in twenty eighteen: the Bugatti Veyron, the Porsche nine eighteen and the McLaren P one. It gave no prices. Hagerty's Ferrari F50 page now shows three million six hundred fifty thousand dollars, only one point four percent more than the Enzo's, so for a buyer choosing between the two Ferraris, the purchase price gap is small.",
+   "query": "Alternatives",
+   "caption": "SCM (2018): ALTERNATIVES \u2014 BUGATTI VEYRON (2006\u201311), PORSCHE 918 (2013\u201315), MCLAREN P1 (2014\u201316) \u00b7 NO PRICES GIVEN \u00b7 HAGERTY F50 $3,650,000 (LABELS NOT SHOWN) vs ENZO $3,600,000 = +1.4% (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Alternatives"
+  },
+  {
+   "text": "There are track-only cousins. The Ferrari FXX cost one point three million euros initially, per Wikipedia, and Ferrari kept the cars for client use. The Maserati MC12 Versione Corse sold twelve cars at one million euros each. Neither can be registered for the road. By our arithmetic, a road Enzo at three point six million costs about two point eight times the FXX's launch price in nominal euros and dollars, though currencies differ.",
+   "query": "Track cousins",
+   "caption": "WIKIPEDIA: FXX \u20ac1.3 M INITIAL (2005), KEPT BY FERRARI FOR CLIENT USE \u00b7 MC12 VERSIONE CORSE \u20ac1 M EACH (12 SOLD) \u00b7 3.6 \u00f7 1.3 = 2.8 (OUR ARITHMETIC, MIXING $ AND \u20ac \u2192 ROUGH ONLY) \u00b7 CURRENT FXX / MC12 VALUES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "So what does an Enzo really cost? On our sources: about three point six million dollars to buy, a few thousand dollars a year to tune up, a service of around sixteen thousand dollars when needed, and fuel at about fifty-three dollars per hundred miles at the current price. The unsourced figures could be four times higher. Whether it really costs you money depends mostly on the price you pay and the price you sell for.",
+   "query": "Summary",
+   "caption": "BUY: ~$3.6 M (HAGERTY) \u00b7 TUNE-UP FROM $3,000 \u00b7 SERVICE $16,000 (SCM) \u00b7 FUEL ~$52.82/100 MI (8.11 MPG \u00d7 $4.284) (OUR ARITHMETIC) \u00b7 UNSOURCED WEB FIGURES UP TO 3.9\u00d7 OUR SOURCED SCENARIO",
+   "cuts": 3,
+   "chapter": "The honest answer"
+  },
+  {
+   "text": "And the cost nobody can price from our sources is risk. Insurance, storage, tyres, damage, and the chance that the market turns. Hagerty's twelve-month change is zero, and Sports Car Market's twenty eighteen caution did not come true. But past stability is not a promise. We can tell you what the car has cost so far, not what it will.",
+   "query": "What nobody can price",
+   "caption": "NOT IN OUR SOURCES: INSURANCE \u00b7 STORAGE \u00b7 TYRE PRICES \u00b7 DAMAGE / REPAIR COSTS \u00b7 COST OF MONEY \u00b7 FUTURE VALUE \u00b7 HAGERTY 12-MONTH 0% \u00b7 SCM 2018 CAUTION NOT YET BORNE OUT (OUR OBSERVATION)",
+   "cuts": 3
+  },
+  {
+   "text": "To recap what we could not confirm: insurance and storage costs, tyre prices, the buyer's premium rate on each sale, what the Classiche inspection costs, how long an Enzo clutch typically lasts, what a major repair costs, and why Hagerty's maximum is lower than Italpassion's record. Every one of those is flagged where it came up. If you own an Enzo and have real numbers, we would like to see them.",
+   "query": "Gaps",
+   "caption": "NOT IN OUR SOURCES: INSURANCE \u00b7 STORAGE \u00b7 TYRES \u00b7 BUYER'S PREMIUM RATES \u00b7 CLASSICHE COST \u00b7 TYPICAL CLUTCH LIFE \u00b7 MAJOR REPAIR COSTS \u00b7 $6.05 M vs $4.51 M CONFLICT \u00b7 RM CA15 $1.87 M CONTEXT",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "That is the cost of owning a Ferrari Enzo as far as the evidence goes. If this helped, subscribe to Pickup Reality, and tell us which exotic car's real cost you want us to check next. Every source is in the description, including the one we told you not to trust.",
+   "query": "Subscribe",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

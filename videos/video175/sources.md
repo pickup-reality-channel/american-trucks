@@ -1,0 +1,13 @@
+- Hagerty Valuation Tools, 2003 Ferrari Enzo: https://hagerty.com/apps/valuationtools/2003-Ferrari-Enzo
+- Hagerty Valuation Tools, 1995 Ferrari F50: https://hagerty.com/apps/valuationtools/1995-Ferrari-F50
+- Sports Car Market, 2003 Ferrari Enzo analysis, 17 Oct 2018: https://www.sportscarmarket.com/?p=709130
+- RM Sotheby's, 2004 Ferrari Enzo, California 2015: https://rmsothebys.com/auctions/ca15/lots/r0021-2004-ferrari-enzo/
+- RM Sotheby's, 1995 Ferrari F50, Monterey 2021: https://rmsothebys.com/auctions/mo21/lots/r0065-1995-ferrari-f50/
+- Wikipedia, Enzo Ferrari (automobile): https://en.wikipedia.org/wiki/Ferrari_Enzo
+- evo (John Barker), Great Ferrari hypercars driven, 23 Oct 2024: https://www.evo.co.uk/ferrari/204743/great-ferrari-hypercars-driven-288-gto-f40-f50-and-enzo-head-to-head
+- PistonHeads, Ferrari Enzo, one of 31 UK cars (listing): https://www.pistonheads.com/buy/listing/14692935
+- The Drive (Chris Chin), This is what it takes to do a clutch replacement on a million-dollar Ferrari F50, 26 Nov 2019: https://www.thedrive.com/news/31210/this-is-what-it-takes-to-do-a-clutch-replacement-on-a-million-dollar-ferrari-f50.md
+- Italpassion, Quatre icônes Ferrari (F40, F50, Enzo, LaFerrari): https://www.italpassion.fr/ferrari/quatre-icones-ferrari-f40-f50-enzo-et-laferrari-dans-une-meme-vente-aux-encheres-toutes-a-des-prix-records/
+- Gearshifters, How to own a Ferrari Enzo (UNSOURCED figures, shown for transparency): https://gearshifters.org/ferrari/how-to-own-a-ferrari-enzo/
+- US Energy Information Administration, regular gasoline weekly price, week of 19 Oct 2026: $4.284/gal
+- US Census Bureau, median household income 2024: $83,730
