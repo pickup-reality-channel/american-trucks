@@ -1,0 +1,911 @@
+[
+  {
+    "title": "File:2012 Lexus LFA Spider.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2012_Lexus_LFA_Spider.jpg/1920px-2012_Lexus_LFA_Spider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2012_Lexus_LFA_Spider.jpg",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:TTTNIS\" title=\"User:TTTNIS\">TTTNIS</a>",
+    "scene": 0,
+    "cut": 0
+  },
+  {
+    "title": "File:2025 Lexus LFA Concept.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2025_Lexus_LFA_Concept.jpg/1920px-2025_Lexus_LFA_Concept.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2025_Lexus_LFA_Concept.jpg",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:TTTNIS\" title=\"User:TTTNIS\">TTTNIS</a>",
+    "scene": 0,
+    "cut": 1
+  },
+  {
+    "title": "File:2012 Lexus LFA Spider rear.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2012_Lexus_LFA_Spider_rear.jpg/1920px-2012_Lexus_LFA_Spider_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2012_Lexus_LFA_Spider_rear.jpg",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:TTTNIS\" title=\"User:TTTNIS\">TTTNIS</a>",
+    "scene": 0,
+    "cut": 2
+  },
+  {
+    "title": "File:2025 Lexus LFA Concept rear.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2025_Lexus_LFA_Concept_rear.jpg/1920px-2025_Lexus_LFA_Concept_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2025_Lexus_LFA_Concept_rear.jpg",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:TTTNIS\" title=\"User:TTTNIS\">TTTNIS</a>",
+    "scene": 0,
+    "cut": 3
+  },
+  {
+    "title": "File:2011 Lexus LFA White.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2011_Lexus_LFA_White.jpg/1920px-2011_Lexus_LFA_White.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_White.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 0,
+    "cut": 4
+  },
+  {
+    "title": "File:2011 Lexus LFA Low.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2011_Lexus_LFA_Low.jpg/1920px-2011_Lexus_LFA_Low.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Low.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 0,
+    "cut": 5
+  },
+  {
+    "title": "File:2011 Lexus LFA Rear.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2011_Lexus_LFA_Rear.jpg/1920px-2011_Lexus_LFA_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Rear.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 0,
+    "cut": 6
+  },
+  {
+    "title": "File:2011 Lexus LFA Front.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2011_Lexus_LFA_Front.jpg/1920px-2011_Lexus_LFA_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Front.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 0,
+    "cut": 7
+  },
+  {
+    "title": "File:2011 Lexus LFA Low Rear.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2011_Lexus_LFA_Low_Rear.jpg/1920px-2011_Lexus_LFA_Low_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_Low_Rear.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 1,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA 14.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Lexus_LFA_14.jpg/1920px-Lexus_LFA_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_14.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 1,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA 15.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lexus_LFA_15.jpg/1920px-Lexus_LFA_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_15.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 1,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus LFA 2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Lexus_LFA_2.jpg/1920px-Lexus_LFA_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 1,
+    "cut": 3
+  },
+  {
+    "title": "File:Silver Lexus LFA.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Silver_Lexus_LFA.jpg/1920px-Silver_Lexus_LFA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Silver_Lexus_LFA.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72637915@N03\">ilikewaffles11</a>",
+    "scene": 1,
+    "cut": 4
+  },
+  {
+    "title": "File:Lexus LFA-02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lexus_LFA-02.jpg/1920px-Lexus_LFA-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA-02.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46754691@N05\">Shane K</a>",
+    "scene": 1,
+    "cut": 5
+  },
+  {
+    "title": "File:White Lexus LFA side.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/White_Lexus_LFA_side.jpg/1920px-White_Lexus_LFA_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/13907834@N00\">Michael Gil</a> from Calgary, AB, Canada",
+    "scene": 1,
+    "cut": 6
+  },
+  {
+    "title": "File:White Lexus LFA front.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/White_Lexus_LFA_front.jpg/1920px-White_Lexus_LFA_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_front.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/13907834@N00\">Michael Gil</a> from Calgary, AB, Canada",
+    "scene": 1,
+    "cut": 7
+  },
+  {
+    "title": "File:2011 Lexus LFA.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2011_Lexus_LFA.jpg/1920px-2011_Lexus_LFA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 2,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA (26925).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lexus_LFA_%2826925%29.jpg/1920px-Lexus_LFA_%2826925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(26925).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 2,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (98906).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lexus_LFA_%2898906%29.jpg/1920px-Lexus_LFA_%2898906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(98906).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 2,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus LFA (4058106643).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Lexus_LFA_%284058106643%29.jpg/1920px-Lexus_LFA_%284058106643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(4058106643).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/49503108469@N01\">kosabe</a>",
+    "scene": 2,
+    "cut": 3
+  },
+  {
+    "title": "File:Lexus LFA (54251).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lexus_LFA_%2854251%29.jpg/1920px-Lexus_LFA_%2854251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(54251).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 2,
+    "cut": 4
+  },
+  {
+    "title": "File:Lexus LFA (49944546063).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Lexus_LFA_%2849944546063%29.jpg/1920px-Lexus_LFA_%2849944546063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(49944546063).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Rutger van der Maar",
+    "scene": 3,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA (55691).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Lexus_LFA_%2855691%29.jpg/1920px-Lexus_LFA_%2855691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(55691).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 3,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (62499).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Lexus_LFA_%2862499%29.jpg/1920px-Lexus_LFA_%2862499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(62499).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Calreyn88&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Calreyn88 (page does not exist)\">Calreyn88</a>",
+    "scene": 3,
+    "cut": 2
+  },
+  {
+    "title": "File:Moscow Lexus dealership Kozhukhovo.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Moscow_Lexus_dealership_Kozhukhovo.jpg/1920px-Moscow_Lexus_dealership_Kozhukhovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow_Lexus_dealership_Kozhukhovo.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/94955764@N00\">Sergey Rodovnichenko</a>",
+    "scene": 5,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus Cape Town City Dealership.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lexus_Cape_Town_City_Dealership.jpg/1920px-Lexus_Cape_Town_City_Dealership.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_Cape_Town_City_Dealership.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Husskeyy\" title=\"User:Husskeyy\">Husskeyy</a>",
+    "scene": 5,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus RZ 450e (XEBM15) 1X7A0836.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lexus_RZ_450e_%28XEBM15%29_1X7A0836.jpg/1920px-Lexus_RZ_450e_%28XEBM15%29_1X7A0836.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_RZ_450e_(XEBM15)_1X7A0836.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Alexander-93\" title=\"User:Alexander-93\">Alexander-93</a>",
+    "scene": 5,
+    "cut": 2
+  },
+  {
+    "title": "File:2011-03-04 Autosalon Genf 1389.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2011-03-04_Autosalon_Genf_1389.JPG/1920px-2011-03-04_Autosalon_Genf_1389.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1389.JPG",
+    "license": "CC BY 3.0",
+    "artist": "Norbert Aepli, Switzerland (<a href=\"//commons.wikimedia.org/wiki/User:Noebu\" title=\"User:Noebu\">User:Noebu</a>)",
+    "scene": 7,
+    "cut": 0
+  },
+  {
+    "title": "File:2011-03-04 Autosalon Genf 1391.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2011-03-04_Autosalon_Genf_1391.JPG/1920px-2011-03-04_Autosalon_Genf_1391.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1391.JPG",
+    "license": "CC BY 3.0",
+    "artist": "Norbert Aepli, Switzerland (<a href=\"//commons.wikimedia.org/wiki/User:Noebu\" title=\"User:Noebu\">User:Noebu</a>)",
+    "scene": 7,
+    "cut": 1
+  },
+  {
+    "title": "File:2011-03-04 Autosalon Genf 1388.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2011-03-04_Autosalon_Genf_1388.JPG/1920px-2011-03-04_Autosalon_Genf_1388.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1388.JPG",
+    "license": "CC BY 3.0",
+    "artist": "Norbert Aepli, Switzerland (<a href=\"//commons.wikimedia.org/wiki/User:Noebu\" title=\"User:Noebu\">User:Noebu</a>)",
+    "scene": 7,
+    "cut": 2
+  },
+  {
+    "title": "File:OSAKA AUTO MESSE 2015 (181) - Lexus LFA ver.D1GP produced by OTG.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/OSAKA_AUTO_MESSE_2015_%28181%29_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG/1920px-OSAKA_AUTO_MESSE_2015_%28181%29_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:OSAKA_AUTO_MESSE_2015_(181)_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tokumeigakarinoaoshima\" title=\"User:Tokumeigakarinoaoshima\">Tokumeigakarinoaoshima</a>",
+    "scene": 9,
+    "cut": 0
+  },
+  {
+    "title": "File:OSAKA AUTO MESSE 2015 (182) - Lexus LFA ver.D1GP produced by OTG.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/OSAKA_AUTO_MESSE_2015_%28182%29_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG/1920px-OSAKA_AUTO_MESSE_2015_%28182%29_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:OSAKA_AUTO_MESSE_2015_(182)_-_Lexus_LFA_ver.D1GP_produced_by_OTG.JPG",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tokumeigakarinoaoshima\" title=\"User:Tokumeigakarinoaoshima\">Tokumeigakarinoaoshima</a>",
+    "scene": 9,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA Pearl Yellow SF Auto Show.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Lexus_LFA_Pearl_Yellow_SF_Auto_Show.jpg/1920px-Lexus_LFA_Pearl_Yellow_SF_Auto_Show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Pearl_Yellow_SF_Auto_Show.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/74254314@N00\">Carlos Almendarez</a> from San Francisco, USA",
+    "scene": 10,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA Pearl White.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lexus_LFA_Pearl_White.jpg/1920px-Lexus_LFA_Pearl_White.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Pearl_White.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ethan_Llamas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ethan Llamas (page does not exist)\">Ethan Llamas</a>",
+    "scene": 10,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA Pearl White 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Lexus_LFA_Pearl_White_01.jpg/1920px-Lexus_LFA_Pearl_White_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Pearl_White_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ethan_Llamas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ethan Llamas (page does not exist)\">Ethan Llamas</a>",
+    "scene": 10,
+    "cut": 2
+  },
+  {
+    "title": "File:Production Lexus LFA White Yoko.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Production_Lexus_LFA_White_Yoko.jpg/1920px-Production_Lexus_LFA_White_Yoko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Production_Lexus_LFA_White_Yoko.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:BsBsBs\" title=\"User:BsBsBs\">BsBsBs</a>",
+    "scene": 11,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA white Geneva.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Lexus_LFA_white_Geneva.jpg/1920px-Lexus_LFA_white_Geneva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_white_Geneva.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "[<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/people/34698467@N03\">https://www.flickr.com/people/34698467@N03</a> David Villarreal Fern\ufffdndez]",
+    "scene": 11,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA Pearl White 02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lexus_LFA_Pearl_White_02.jpg/1920px-Lexus_LFA_Pearl_White_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Pearl_White_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ethan_Llamas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ethan Llamas (page does not exist)\">Ethan Llamas</a>",
+    "scene": 11,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus LFA (7693862310).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lexus_LFA_%287693862310%29.jpg/1920px-Lexus_LFA_%287693862310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(7693862310).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46754691@N05\">Shane K</a> from Mississauga, Canada",
+    "scene": 12,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA (7693852604).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lexus_LFA_%287693852604%29.jpg/1920px-Lexus_LFA_%287693852604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(7693852604).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46754691@N05\">Shane K</a> from Mississauga, Canada",
+    "scene": 12,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (7693845038).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Lexus_LFA_%287693845038%29.jpg/1920px-Lexus_LFA_%287693845038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(7693845038).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46754691@N05\">Shane K</a> from Mississauga, Canada",
+    "scene": 12,
+    "cut": 2
+  },
+  {
+    "title": "File:Crosby Garrett Helmet on auction at Christies.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Crosby_Garrett_Helmet_on_auction_at_Christies.jpg/1920px-Crosby_Garrett_Helmet_on_auction_at_Christies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Crosby_Garrett_Helmet_on_auction_at_Christies.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10257668@N04\">Portable Antiquities Scheme</a> from London, England",
+    "scene": 15,
+    "cut": 0
+  },
+  {
+    "title": "File:Pass\u00eaye des moirts Annvoye 2023 calbasse al h\u00e5sse.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pass%C3%AAye_des_moirts_Annvoye_2023_calbasse_al_h%C3%A5sse.jpg/1920px-Pass%C3%AAye_des_moirts_Annvoye_2023_calbasse_al_h%C3%A5sse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pass%C3%AAye_des_moirts_Annvoye_2023_calbasse_al_h%C3%A5sse.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Lucyin\" title=\"User:Lucyin\">Lucyin</a>",
+    "scene": 15,
+    "cut": 1
+  },
+  {
+    "title": "File:Pass\u00eaye des moirts Annvoye 2023 paymint.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pass%C3%AAye_des_moirts_Annvoye_2023_paymint.jpg/1920px-Pass%C3%AAye_des_moirts_Annvoye_2023_paymint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pass%C3%AAye_des_moirts_Annvoye_2023_paymint.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Lucyin\" title=\"User:Lucyin\">Lucyin</a>",
+    "scene": 15,
+    "cut": 2
+  },
+  {
+    "title": "File:2012 Lexus LFA Nurburgring Edition in Emerald T Green.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2012_Lexus_LFA_Nurburgring_Edition_in_Emerald_T_Green.jpg/1920px-2012_Lexus_LFA_Nurburgring_Edition_in_Emerald_T_Green.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2012_Lexus_LFA_Nurburgring_Edition_in_Emerald_T_Green.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MrWalkr\" title=\"User:MrWalkr\">MrWalkr</a>",
+    "scene": 16,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA N\u00fcrburgring Edition (49595380907).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lexus_LFA_N%C3%BCrburgring_Edition_%2849595380907%29.jpg/1920px-Lexus_LFA_N%C3%BCrburgring_Edition_%2849595380907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_N%C3%BCrburgring_Edition_(49595380907).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32569229@N06\">Alexandre Prevot</a> from Nancy, France",
+    "scene": 16,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA N\u00fcrburgring Package at the 2011 Geneva Motor Show.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lexus_LFA_N%C3%BCrburgring_Package_at_the_2011_Geneva_Motor_Show.jpg/1920px-Lexus_LFA_N%C3%BCrburgring_Package_at_the_2011_Geneva_Motor_Show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_N%C3%BCrburgring_Package_at_the_2011_Geneva_Motor_Show.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/60162857@N08\">Autoviva</a> from Portugal",
+    "scene": 16,
+    "cut": 2
+  },
+  {
+    "title": "File:Ferrari 250 GTO 3413GT at RM Sothebys Auction Monterey 2018.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ferrari_250_GTO_3413GT_at_RM_Sothebys_Auction_Monterey_2018.jpg/1920px-Ferrari_250_GTO_3413GT_at_RM_Sothebys_Auction_Monterey_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO_3413GT_at_RM_Sothebys_Auction_Monterey_2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Prova_MO&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Prova MO (page does not exist)\">Prova MO</a>",
+    "scene": 17,
+    "cut": 0
+  },
+  {
+    "title": "File:1972 Nissan 240ZG at RM Sothebys Monterey 2018.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1972_Nissan_240ZG_at_RM_Sothebys_Monterey_2018.jpg/1920px-1972_Nissan_240ZG_at_RM_Sothebys_Monterey_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1972_Nissan_240ZG_at_RM_Sothebys_Monterey_2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Prova_MO&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Prova MO (page does not exist)\">Prova MO</a>",
+    "scene": 17,
+    "cut": 1
+  },
+  {
+    "title": "File:Ferrari Luce.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ferrari_Luce.jpg/1920px-Ferrari_Luce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ferrari_Luce.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lcaa9&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lcaa9 (page does not exist)\">Lcaa9</a>",
+    "scene": 17,
+    "cut": 2
+  },
+  {
+    "title": "File:Amy Coney Barrett and her family with President Donald Trump and First Lady Melania Trump.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Amy_Coney_Barrett_and_her_family_with_President_Donald_Trump_and_First_Lady_Melania_Trump.jpg/1920px-Amy_Coney_Barrett_and_her_family_with_President_Donald_Trump_and_First_Lady_Melania_Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Amy_Coney_Barrett_and_her_family_with_President_Donald_Trump_and_First_Lady_Melania_Trump.jpg",
+    "license": "Public domain",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Dan_Scavino\" class=\"extiw\" title=\"w:en:Dan Scavino\"><span title=\"American political adviser\">Dan Scavino</span></a></bdi>",
+    "scene": 18,
+    "cut": 0
+  },
+  {
+    "title": "File:Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 015.jpg) - DPLA - 4c518aff243fbc8b9e262aa89ee14a50.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Office_of_the_Administrator_%28Lisa_P._Jackson%29_-_Barrett_Elementary_%28412-APD-475-2009-04-16_BarrettElementary_015.jpg%29_-_DPLA_-_4c518aff243fbc8b9e262aa89ee14a50.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Administrator_(Lisa_P._Jackson)_-_Barrett_Elementary_(412-APD-475-2009-04-16_BarrettElementary_015.jpg)_-_DPLA_-_4c518aff243fbc8b9e262aa89ee14a50.jpg",
+    "license": "Public domain",
+    "artist": "Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014)",
+    "scene": 18,
+    "cut": 1
+  },
+  {
+    "title": "File:Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 051.jpg) - DPLA - 703473e3bcc927a600a286a38cc3327d.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Office_of_the_Administrator_%28Lisa_P._Jackson%29_-_Barrett_Elementary_%28412-APD-475-2009-04-16_BarrettElementary_051.jpg%29_-_DPLA_-_703473e3bcc927a600a286a38cc3327d.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Administrator_(Lisa_P._Jackson)_-_Barrett_Elementary_(412-APD-475-2009-04-16_BarrettElementary_051.jpg)_-_DPLA_-_703473e3bcc927a600a286a38cc3327d.jpg",
+    "license": "Public domain",
+    "artist": "Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014)",
+    "scene": 18,
+    "cut": 2
+  },
+  {
+    "title": "File:Monterey Car Week (20660177822).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Monterey_Car_Week_%2820660177822%29.jpg/1920px-Monterey_Car_Week_%2820660177822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Monterey_Car_Week_(20660177822).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66151780@N00\">Jay Cross</a> from Berkeley, California, US",
+    "scene": 20,
+    "cut": 0
+  },
+  {
+    "title": "File:Monterey Car Week (20048457433).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Monterey_Car_Week_%2820048457433%29.jpg/1920px-Monterey_Car_Week_%2820048457433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Monterey_Car_Week_(20048457433).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66151780@N00\">Jay Cross</a> from Berkeley, California, US",
+    "scene": 20,
+    "cut": 1
+  },
+  {
+    "title": "File:Monterey Car Week (20660183112).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Monterey_Car_Week_%2820660183112%29.jpg/1920px-Monterey_Car_Week_%2820660183112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Monterey_Car_Week_(20660183112).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66151780@N00\">Jay Cross</a> from Berkeley, California, US",
+    "scene": 20,
+    "cut": 2
+  },
+  {
+    "title": "File:Bugatti Veyron 16.4 \u2013 Heckansicht (4), 5. April 2012, D\u00fcsseldorf.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_%284%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_%284%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_(4),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:M_93\" title=\"User:M 93\">M 93</a>",
+    "scene": 21,
+    "cut": 0
+  },
+  {
+    "title": "File:Bugatti Veyron 16.4 \u2013 Frontansicht (2), 5. April 2012, D\u00fcsseldorf.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%282%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(2),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:M_93\" title=\"User:M 93\">M 93</a>",
+    "scene": 21,
+    "cut": 1
+  },
+  {
+    "title": "File:Bugatti Veyron 16.4 \u2013 Frontansicht (3), 5. April 2012, D\u00fcsseldorf.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%283%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/1920px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%283%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(3),_5._April_2012,_D%C3%BCsseldorf.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:M_93\" title=\"User:M 93\">M 93</a>",
+    "scene": 21,
+    "cut": 2
+  },
+  {
+    "title": "File:Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Scottsdale_2018_Lot_3010_-_2017_Ford_GT.jpg/1920px-Scottsdale_2018_Lot_3010_-_2017_Ford_GT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Scottsdale_2018_Lot_3010_-_2017_Ford_GT.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Rbdesimone&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rbdesimone (page does not exist)\">Rbdesimone</a>",
+    "scene": 22,
+    "cut": 0
+  },
+  {
+    "title": "File:21 Ford Bronco.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/21_Ford_Bronco.jpg/1920px-21_Ford_Bronco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:21_Ford_Bronco.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:HJUdall\" title=\"User:HJUdall\">HJUdall</a>",
+    "scene": 22,
+    "cut": 1
+  },
+  {
+    "title": "File:GMC Hummer EV.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/GMC_Hummer_EV.jpg/1920px-GMC_Hummer_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:GMC_Hummer_EV.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:HJUdall\" title=\"User:HJUdall\">HJUdall</a>",
+    "scene": 22,
+    "cut": 2
+  },
+  {
+    "title": "File:Honor\u00e9 Daumier - The Auction Room- The Town Crier - 1921.1484 - Cleveland Museum of Art.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Honor%C3%A9_Daumier_-_The_Auction_Room-_The_Town_Crier_-_1921.1484_-_Cleveland_Museum_of_Art.jpg/1920px-Honor%C3%A9_Daumier_-_The_Auction_Room-_The_Town_Crier_-_1921.1484_-_Cleveland_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honor%C3%A9_Daumier_-_The_Auction_Room-_The_Town_Crier_-_1921.1484_-_Cleveland_Museum_of_Art.jpg",
+    "license": "CC0",
+    "artist": "<div class=\"fn value\">\nHonor\u00e9 Daumier</div>",
+    "scene": 23,
+    "cut": 0
+  },
+  {
+    "title": "File:Auction Room Entrance (8482622558).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Auction_Room_Entrance_%288482622558%29.jpg/1920px-Auction_Room_Entrance_%288482622558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Auction_Room_Entrance_(8482622558).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8176740@N05\">Garry Knight</a> from London, England",
+    "scene": 23,
+    "cut": 1
+  },
+  {
+    "title": "File:Former auction hall and sale room once owned by Maxey and Son - geograph.org.uk - 6419655.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Former_auction_hall_and_sale_room_once_owned_by_Maxey_and_Son_-_geograph.org.uk_-_6419655.jpg/1920px-Former_auction_hall_and_sale_room_once_owned_by_Maxey_and_Son_-_geograph.org.uk_-_6419655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Former_auction_hall_and_sale_room_once_owned_by_Maxey_and_Son_-_geograph.org.uk_-_6419655.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/39484\">Richard Humphrey</a>\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Former_auction_hall_and_sale_room_once_owned_by_Maxey_and_Son_-_geograph.org.uk_-_6419655.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+    "scene": 23,
+    "cut": 2
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 08.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_electronic_calculator_DT210_08.jpg/1920px-Aurora_electronic_calculator_DT210_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_08.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 24,
+    "cut": 0
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 09.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Aurora_electronic_calculator_DT210_09.jpg/1920px-Aurora_electronic_calculator_DT210_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_09.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 24,
+    "cut": 1
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 10.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Aurora_electronic_calculator_DT210_10.jpg/1920px-Aurora_electronic_calculator_DT210_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_10.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 24,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus LFA Park Lane London 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lexus_LFA_Park_Lane_London_01.jpg/1920px-Lexus_LFA_Park_Lane_London_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Park_Lane_London_01.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43102195@N08\">uggboy</a>",
+    "scene": 27,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA Park Lane London 02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lexus_LFA_Park_Lane_London_02.jpg/1920px-Lexus_LFA_Park_Lane_London_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Park_Lane_London_02.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43102195@N08\">uggboy</a>",
+    "scene": 27,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA interior.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lexus_LFA_interior.jpg/1920px-Lexus_LFA_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_interior.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NJo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NJo (page does not exist)\">NJo</a>",
+    "scene": 28,
+    "cut": 0
+  },
+  {
+    "title": "File:Cokpit of Lexus LFA 24hr N\u00fcrburgring racing model.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Cokpit_of_Lexus_LFA_24hr_N%C3%BCrburgring_racing_model.jpg/1920px-Cokpit_of_Lexus_LFA_24hr_N%C3%BCrburgring_racing_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cokpit_of_Lexus_LFA_24hr_N%C3%BCrburgring_racing_model.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Raiko",
+    "scene": 28,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (8387495987).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lexus_LFA_%288387495987%29.jpg/1920px-Lexus_LFA_%288387495987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(8387495987).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46754691@N05\">Shane K</a> from Mississauga, Canada",
+    "scene": 28,
+    "cut": 2
+  },
+  {
+    "title": "File:1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 49).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_49%29.jpg/1920px-1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_49%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_(page_49).jpg",
+    "license": "CC0",
+    "artist": "Wright Brothers, Dayton, Ohio",
+    "scene": 31,
+    "cut": 0
+  },
+  {
+    "title": "File:1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 45).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_45%29.jpg/1920px-1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_45%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_(page_45).jpg",
+    "license": "CC0",
+    "artist": "Wright Brothers, Dayton, Ohio",
+    "scene": 31,
+    "cut": 1
+  },
+  {
+    "title": "File:1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 22).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_22%29.jpg/1920px-1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_%28page_22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1909_Wright_Military_Flyer_-_DPLA_-_399d43f0c2b7de2633d60e2e812ddf78_(page_22).jpg",
+    "license": "CC0",
+    "artist": "Wright Brothers, Dayton, Ohio",
+    "scene": 31,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus lfa - AIMS.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lexus_lfa_-_AIMS.JPG/1920px-Lexus_lfa_-_AIMS.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_lfa_-_AIMS.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Pineapple_fez\" title=\"User:Pineapple fez\">Pineapple fez</a>",
+    "scene": 32,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus lfa rear - AIMS.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Lexus_lfa_rear_-_AIMS.JPG/1920px-Lexus_lfa_rear_-_AIMS.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_lfa_rear_-_AIMS.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Pineapple_fez\" title=\"User:Pineapple fez\">Pineapple fez</a>",
+    "scene": 32,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (rear quarter).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lexus_LFA_%28rear_quarter%29.jpg/1920px-Lexus_LFA_%28rear_quarter%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(rear_quarter).jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Overlaet&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Overlaet (page does not exist)\">Overlaet</a>",
+    "scene": 32,
+    "cut": 2
+  },
+  {
+    "title": "File:Yamaha V10 engine in a Lexus LFA (52555420262).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yamaha_V10_engine_in_a_Lexus_LFA_%2852555420262%29.jpg/1920px-Yamaha_V10_engine_in_a_Lexus_LFA_%2852555420262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_V10_engine_in_a_Lexus_LFA_(52555420262).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66451944@N03\">Thomas Vogt</a> from Paderborn, Deutschland",
+    "scene": 38,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA (2012) (52571825489).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lexus_LFA_%282012%29_%2852571825489%29.jpg/1920px-Lexus_LFA_%282012%29_%2852571825489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(2012)_(52571825489).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43494963@N03\">Charles</a> from Port Chester, New York",
+    "scene": 38,
+    "cut": 1
+  },
+  {
+    "title": "File:Lexus LFA (2012) (52571547261).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Lexus_LFA_%282012%29_%2852571547261%29.jpg/1920px-Lexus_LFA_%282012%29_%2852571547261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_(2012)_(52571547261).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43494963@N03\">Charles</a> from Port Chester, New York",
+    "scene": 38,
+    "cut": 2
+  },
+  {
+    "title": "File:Lexus LFA intake closeup.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lexus_LFA_intake_closeup.jpg/1920px-Lexus_LFA_intake_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_intake_closeup.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NJo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NJo (page does not exist)\">NJo</a>",
+    "scene": 39,
+    "cut": 0
+  },
+  {
+    "title": "File:Lexus LFA Matte Black 12 wheel.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lexus_LFA_Matte_Black_12_wheel.jpg/1920px-Lexus_LFA_Matte_Black_12_wheel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lexus_LFA_Matte_Black_12_wheel.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16837170@N07\">robpoetsch</a>",
+    "scene": 39,
+    "cut": 1
+  },
+  {
+    "title": "File:Mechanical-calculator-Brunsviga-800-02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mechanical-calculator-Brunsviga-800-02.jpg/1920px-Mechanical-calculator-Brunsviga-800-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mechanical-calculator-Brunsviga-800-02.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Cccefalon\" title=\"User:Cccefalon\">CEphoto, Uwe Aranas</a>",
+    "scene": 43,
+    "cut": 0
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 05.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Aurora_electronic_calculator_DT210_05.jpg/1920px-Aurora_electronic_calculator_DT210_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_05.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 43,
+    "cut": 1
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 07.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Aurora_electronic_calculator_DT210_07.jpg/1920px-Aurora_electronic_calculator_DT210_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_07.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 43,
+    "cut": 2
+  },
+  {
+    "title": "File:Figure 1- Results of the Bureau of Land Management's July 2014 Auction of Helium to Be Delivered in Fiscal Year 2015 (18353873816).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Figure_1-_Results_of_the_Bureau_of_Land_Management%27s_July_2014_Auction_of_Helium_to_Be_Delivered_in_Fiscal_Year_2015_%2818353873816%29.jpg/1920px-Figure_1-_Results_of_the_Bureau_of_Land_Management%27s_July_2014_Auction_of_Helium_to_Be_Delivered_in_Fiscal_Year_2015_%2818353873816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Figure_1-_Results_of_the_Bureau_of_Land_Management%27s_July_2014_Auction_of_Helium_to_Be_Delivered_in_Fiscal_Year_2015_(18353873816).jpg",
+    "license": "Public domain",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58220939@N03\">U.S. Government Accountability Office</a> from Washington, DC, United States",
+    "scene": 44,
+    "cut": 0
+  },
+  {
+    "title": "File:Willem van de Velde II - Dutch men-o'-war and other shipping in a calm.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Willem_van_de_Velde_II_-_Dutch_men-o%27-war_and_other_shipping_in_a_calm.jpg/1920px-Willem_van_de_Velde_II_-_Dutch_men-o%27-war_and_other_shipping_in_a_calm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Willem_van_de_Velde_II_-_Dutch_men-o%27-war_and_other_shipping_in_a_calm.jpg",
+    "license": "Public domain",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Willem_van_de_Velde_the_Younger\" class=\"extiw\" title=\"w:en:Willem van de Velde the Younger\"><span title=\"Dutch painter (1633-1707)\">Willem van de Velde the Younger</span></a></bdi>",
+    "scene": 44,
+    "cut": 1
+  },
+  {
+    "title": "File:Suppressed - Human flesh at auction.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Suppressed_-_Human_flesh_at_auction.jpg/1920px-Suppressed_-_Human_flesh_at_auction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suppressed_-_Human_flesh_at_auction.jpg",
+    "license": "Public domain",
+    "artist": "Van Ingen Snyder",
+    "scene": 46,
+    "cut": 0
+  },
+  {
+    "title": "File:Auction Sale in Clinton Hall, New York, 1876 MET DT296243.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Auction_Sale_in_Clinton_Hall%2C_New_York%2C_1876_MET_DT296243.jpg/1920px-Auction_Sale_in_Clinton_Hall%2C_New_York%2C_1876_MET_DT296243.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Auction_Sale_in_Clinton_Hall,_New_York,_1876_MET_DT296243.jpg",
+    "license": "CC0",
+    "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18600114\" class=\"extiw\" title=\"d:Q18600114\"><span title=\"Spanish painter (1834\u20131901)\">Ignacio Le\u00f3n y Escosura</span></a></bdi>",
+    "scene": 46,
+    "cut": 1
+  },
+  {
+    "title": "File:Live stock auction saleyards, Miles City, Montana (84371).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Live_stock_auction_saleyards%2C_Miles_City%2C_Montana_%2884371%29.jpg/1920px-Live_stock_auction_saleyards%2C_Miles_City%2C_Montana_%2884371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Live_stock_auction_saleyards,_Miles_City,_Montana_(84371).jpg",
+    "license": "Public domain",
+    "artist": "The Hafstrom Co., Publishers, Belfield, N. Dak.",
+    "scene": 46,
+    "cut": 2
+  },
+  {
+    "title": "File:Aurora electronic calculator DT210 02.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Aurora_electronic_calculator_DT210_02.jpg/1920px-Aurora_electronic_calculator_DT210_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_02.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+    "scene": 47,
+    "cut": 0
+  },
+  {
+    "title": "File:Mechanical-calculator-Brunsviga-15-01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Mechanical-calculator-Brunsviga-15-01.jpg/1920px-Mechanical-calculator-Brunsviga-15-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mechanical-calculator-Brunsviga-15-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Cccefalon\" title=\"User:Cccefalon\">CEphoto, Uwe Aranas</a>",
+    "scene": 47,
+    "cut": 1
+  },
+  {
+    "title": "File:Calculator (2198497019).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Calculator_%282198497019%29.jpg/1920px-Calculator_%282198497019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Calculator_(2198497019).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/20037924@N02\">flamingo331</a>",
+    "scene": 47,
+    "cut": 2
+  },
+  {
+    "title": "File:The frontview of No.83 GAZOO Racing LFA.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_frontview_of_No.83_GAZOO_Racing_LFA.JPG/1920px-The_frontview_of_No.83_GAZOO_Racing_LFA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:The_frontview_of_No.83_GAZOO_Racing_LFA.JPG",
+    "license": "CC0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tokumeigakarinoaoshima\" title=\"User:Tokumeigakarinoaoshima\">Tokumeigakarinoaoshima</a>",
+    "scene": 48,
+    "cut": 0
+  },
+  {
+    "title": "File:Toyota Automobile Museum - Tokyo (18032054721).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Toyota_Automobile_Museum_-_Tokyo_%2818032054721%29.jpg/1920px-Toyota_Automobile_Museum_-_Tokyo_%2818032054721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Automobile_Museum_-_Tokyo_(18032054721).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46021126@N00\">IQRemix</a> from Canada",
+    "scene": 48,
+    "cut": 1
+  },
+  {
+    "title": "File:Toyota Automobile Museum - Tokyo (17408883914).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Toyota_Automobile_Museum_-_Tokyo_%2817408883914%29.jpg/1920px-Toyota_Automobile_Museum_-_Tokyo_%2817408883914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Automobile_Museum_-_Tokyo_(17408883914).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46021126@N00\">IQRemix</a> from Canada",
+    "scene": 48,
+    "cut": 2
+  },
+  {
+    "title": "File:Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Leimershof_US-Car-Treffen_Ford_F-150-20220911-RM-161830.jpg/1920px-Leimershof_US-Car-Treffen_Ford_F-150-20220911-RM-161830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_Ford_F-150-20220911-RM-161830.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+    "scene": 50,
+    "cut": 0
+  },
+  {
+    "title": "File:Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Leimershof_US-Car-Treffen_Ford_F-250-20220911-RM-161429.jpg/1920px-Leimershof_US-Car-Treffen_Ford_F-250-20220911-RM-161429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_Ford_F-250-20220911-RM-161429.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+    "scene": 50,
+    "cut": 1
+  },
+  {
+    "title": "File:Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ford_F-150_%28fourteenth_generation%29_Rutesheimer_Autoschau_2025_DSC_9231.jpg/1920px-Ford_F-150_%28fourteenth_generation%29_Rutesheimer_Autoschau_2025_DSC_9231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ford_F-150_(fourteenth_generation)_Rutesheimer_Autoschau_2025_DSC_9231.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Alexander-93\" title=\"User:Alexander-93\">Alexander Migl</a>",
+    "scene": 50,
+    "cut": 2
+  }
+]
