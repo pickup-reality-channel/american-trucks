@@ -1,0 +1,10 @@
+- Wikipedia, Goldfinger (film): https://en.wikipedia.org/wiki/Goldfinger_(film)
+- Wikipedia, Aston Martin DB5: https://en.wikipedia.org/wiki/Aston_Martin_DB5
+- Top Gear (Jason Barlow), Best Bond cars ever, part 1: Aston Martin DB5, 27 Sep 2021: https://www.topgear.com/car-news/big-reads/best-bond-cars-ever-part-1-aston-martin-db5
+- The James Bond Dossier, The gadgets of the DB5: https://www.thejamesbonddossier.com/lifestyle/cars/the-gadgets-of-the-db5.htm
+- Ecurie, The Most Famous Car in the World, 12 Jun 2019: https://www.ecurie.co.uk/blog/2019/6/12/1965-aston-martin-db5-bond-car
+- Carole Nash, Legacy of the James Bond DB5, 26 Sep 2017: https://www.carolenash.com/insideclassics/classic-car-news/legacy-james-bond-db5/
+- NBC News, Bond's Aston Martin sells for $4.1 million: https://www.nbcnews.com/id/wbna39868609
+- CNN, James Bond Aston Martin DB5 auction: https://amp.cnn.com/cnn/style/article/aston-martin-db5-auction-scli-intl/index.html
+- Old Cars Weekly, RM Sotheby's sells James Bond Aston Martin DB5 for $6.4 million, 16 Aug 2019: https://www.oldcarsweekly.com/news/rm-sothebys-sells-james-bond-aston-martin-db5-for-6-4-million
+- InsideHook, Pierce Brosnan's GoldenEye Aston Martin, 15 Jun 2018: https://www.insidehook.com/article/vehicles/pierce-brosnan-goldeneye-aston-martin

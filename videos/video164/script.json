@@ -1,0 +1,320 @@
+{
+ "id": "video164",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind James Bond's Aston Martin",
+ "scenes": [
+  {
+   "text": "In Ian Fleming's novel, James Bond does not drive a DB5. Aston Martin was reluctant to lend its cars. The first script gave the car only a smokescreen. And the film's last pick-up shots were filmed on the day Fleming died. This is the story behind James Bond's Aston Martin, told only from sources we name, with the conflicts between them left in.",
+   "query": "Bond's Aston Martin",
+   "caption": "THE INSANE STORY BEHIND JAMES BOND'S ASTON MARTIN",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's pages on Goldfinger and on the DB5, Top Gear, the James Bond Dossier, Ecurie, Carole Nash, NBC, CNN, Old Cars Weekly and InsideHook. They disagree in places, and we show both versions. Our own arithmetic is labelled.",
+   "query": "Sources",
+   "caption": "SOURCES: WIKIPEDIA (GOLDFINGER; DB5) \u00b7 TOP GEAR \u00b7 JAMES BOND DOSSIER \u00b7 ECURIE \u00b7 CAROLE NASH \u00b7 NBC \u00b7 CNN \u00b7 OLD CARS WEEKLY \u00b7 INSIDEHOOK \u00b7 DISAGREEMENTS SHOWN",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the novel. Wikipedia says the car in Fleming's book was a DB Mark III, which Bond considered England's most sophisticated car. The Top Gear piece says Fleming's novels mostly put Bond in a Bentley, and that a reference to an Aston in the Goldfinger novel inspired production designer Ken Adam. NBC says Fleming put Bond in his own Bentley.",
+   "query": "The book",
+   "caption": "WIKIPEDIA (GOLDFINGER): NOVEL CAR = DB MARK III \u00b7 TOP GEAR: NOVELS MOSTLY HAD A BENTLEY; AN ASTON REFERENCE IN GOLDFINGER INSPIRED ADAM \u00b7 NBC: FLEMING PUT BOND IN HIS OWN BENTLEY",
+   "cuts": 5,
+   "chapter": "The book and the film"
+  },
+  {
+   "text": "Carole Nash says Fleming gave Bond a DB Mark III in the novels, and that as the newest model in nineteen sixty-four, the DB5 was chosen. Wikipedia says Adam chose it because it was the latest version. The sources therefore agree on the reason for the DB5, the newest model, and differ on how consistently Bond drove an Aston in the books.",
+   "query": "Why the DB5",
+   "caption": "CAROLE NASH: DB MARK III IN THE NOVELS; DB5 CHOSEN AS THE NEWEST MODEL IN 1964 \u00b7 WIKIPEDIA: ADAM CHOSE THE LATEST VERSION \u00b7 SOURCES DIFFER ON BOND'S BOOK CARS (BENTLEY vs ASTON)",
+   "cuts": 3
+  },
+  {
+   "text": "The film was Goldfinger, directed by Guy Hamilton. Wikipedia gives the budget as three million dollars and the worldwide box office as one hundred twenty-four million nine hundred thousand dollars. By our arithmetic, that is about forty-two times the budget. The lead says over one hundred twenty million and the infobox one hundred twenty-five, so the total depends on where you look.",
+   "query": "The film",
+   "caption": "WIKIPEDIA (GOLDFINGER): DIRECTOR GUY HAMILTON \u00b7 BUDGET $3 M \u00b7 BOX OFFICE $124.9 M (BODY), 'OVER $120 M' (LEAD), $125 M (INFOBOX) \u00b7 $124.9 M \u00f7 $3 M = 41.6\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The release dates conflict as well. Wikipedia gives the London premiere as the seventeenth of September nineteen sixty-four and the general UK release as the eighteenth. For the United States, the infobox says the twenty-second of December and the body says the premiere was the twenty-first. We report both and do not pick one.",
+   "query": "Release dates",
+   "caption": "WIKIPEDIA (GOLDFINGER): LONDON PREMIERE 17 SEP 1964; UK RELEASE 18 SEP 1964 \u00b7 U.S.: INFOBOX 22 DEC 1964 vs BODY 21 DEC 1964 (PREMIERE) \u2014 CONFLICT",
+   "cuts": 3
+  },
+  {
+   "text": "Aston Martin was not eager. Top Gear says the company was initially reluctant, and that general manager Steve Heggie was told to do what he thought was right. Wikipedia says the company was eventually convinced to make a product placement deal. Ecurie says Eon Productions wanted the cars loaned, and David Brown insisted on an outright purchase.",
+   "query": "Reluctance",
+   "caption": "TOP GEAR: ASTON MARTIN INITIALLY RELUCTANT; GM STEVE HEGGIE TOLD TO DO WHAT HE THOUGHT RIGHT \u00b7 WIKIPEDIA: EVENTUALLY CONVINCED, PRODUCT PLACEMENT DEAL \u00b7 ECURIE: EON WANTED LOANS, DAVID BROWN INSISTED ON OUTRIGHT PURCHASE",
+   "cuts": 3,
+   "chapter": "Getting the car from Aston Martin"
+  },
+  {
+   "text": "Ecurie then says the two cars were loaned for filming and returned to Aston Martin. Top Gear says two cars were loaned, one of which was the original DB5 prototype. These accounts partly conflict on whether the cars were bought or loaned, and we cannot resolve it. Both agree there were two cars, and one was the prototype.",
+   "query": "Bought or loaned?",
+   "caption": "ECURIE: CARS LOANED FOR FILMING AND RETURNED \u00b7 TOP GEAR: TWO CARS LOANED, ONE THE DB5 PROTOTYPE \u00b7 ECURIE'S OWN ACCOUNT: PURCHASE INSISTED ON, THEN LOAN \u2014 INTERNALLY UNCLEAR \u00b7 BOTH AGREE: 2 CARS, ONE A PROTOTYPE",
+   "cuts": 3
+  },
+  {
+   "text": "Ken Adam and John Stears visited Aston Martin's Newport Pagnell plant in late nineteen sixty-three, Ecurie says, for producers Cubby Broccoli and Harry Saltzman. They wanted two near-identical cars: a lightweight, fast stunt car, and a car with Stears' gadgetry for interior shots and close-ups. The prototype, chassis prefix DP slash two sixteen slash one, became the gadget car.",
+   "query": "The visit",
+   "caption": "ECURIE: ADAM AND STEARS AT NEWPORT PAGNELL LATE 1963 FOR BROCCOLI AND SALTZMAN \u00b7 WANTED 2 NEAR-IDENTICAL CARS (STUNT + GADGET) \u00b7 PROTOTYPE DP/216/1 = GADGET CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The conversion took six weeks, Top Gear and Wikipedia both say, using pneumatics, hydraulics and tanks. Top Gear adds that a crew member had to squeeze into the boot to trigger the smoke screen. By our arithmetic, six weeks is forty-two days, which is about a quarter of the time between the start of night filming on the ninth of March and the last pick-ups on the twelfth of August.",
+   "query": "Six weeks",
+   "caption": "TOP GEAR + WIKIPEDIA: 6-WEEK CONVERSION \u00b7 6 WEEKS = 42 DAYS \u00b7 9 MAR \u2192 12 AUG 1964 = 156 DAYS \u00b7 42 \u00f7 156 = 27% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia credits the gadgets to several people. The script originally armed the car only with a smoke screen. Director Guy Hamilton conceived the revolving number plate after receiving many parking tickets. His stepson, Michael G. Wilson, suggested the ejector seat, which he had seen on television.",
+   "query": "Credits",
+   "caption": "WIKIPEDIA (GOLDFINGER): SCRIPT \u2014 SMOKE SCREEN ONLY \u00b7 HAMILTON \u2014 REVOLVING PLATE (PARKING TICKETS) \u00b7 HAMILTON'S STEPSON MICHAEL G. WILSON \u2014 EJECTOR SEAT, SEEN ON TELEVISION \u00b7 WILSON'S LATER ROLE: NOT IN THE PASSAGE WE USED",
+   "cuts": 3,
+   "chapter": "Who thought of what"
+  },
+  {
+   "text": "Top Gear says Adam sketched the car, and credits his frustration with parking damage to his own Jaguar for the rear guns and boxing-glove bumpers. Two sources therefore credit parking trouble for different gadgets: Wikipedia, for the plate, via Hamilton, and Top Gear, for the guns and bumpers, via Adam. Both could be true, or the stories may have blended.",
+   "query": "Parking",
+   "caption": "TOP GEAR: ADAM'S PARKING-DAMAGE FRUSTRATION \u2192 REAR GUNS, BOXING-GLOVE BUMPERS \u00b7 WIKIPEDIA: HAMILTON'S TICKETS \u2192 REVOLVING PLATE \u00b7 'BOTH TRUE OR BLENDED' = OUR SPECULATION",
+   "cuts": 3
+  },
+  {
+   "text": "A nail-dropping gadget was replaced with an oil dispenser, says Wikipedia, because producers feared viewers could copy it. The Bond Dossier tells the same story. The wheel-destroying spikes, inspired by the scythed chariots of Ben-Hur, were made entirely in the studio and not installed in the car, Wikipedia says. That conflicts with Ecurie, which lists tyre slashers in the wheel hubs.",
+   "query": "Spikes conflict",
+   "caption": "WIKIPEDIA: NAILS \u2192 OIL DISPENSER (COPYING FEAR); WHEEL SPIKES (BEN-HUR CHARIOTS) MADE IN THE STUDIO, NOT INSTALLED \u00b7 BOND DOSSIER: SAME NAILS STORY \u00b7 ECURIE: TYRE SLASHERS IN THE WHEEL HUBS OF THE FIRST CAR \u2192 CONFLICT",
+   "cuts": 3
+  },
+  {
+   "text": "The ejector seat used a seat thrown by compressed air, with a dummy sitting on it, says Wikipedia. The Bond Dossier quotes Adam saying the device came from a jet fighter and was fully functional. Those can be read together: a real mechanism existed, but the film used a stunt version. Our sources do not say whether the real mechanism was ever installed in the car.",
+   "query": "The seat",
+   "caption": "WIKIPEDIA: SEAT THROWN BY COMPRESSED AIR, A DUMMY ON IT \u00b7 BOND DOSSIER: ADAM \u2014 DEVICE FROM A JET FIGHTER, FULLY FUNCTIONAL; FILMING USED A COMPRESSED-AIR MOCK-UP \u00b7 WHETHER THE REAL DEVICE WAS INSTALLED: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the crash scene was filmed twice. The second take appears in the film, while the first, in which the car drives through the fake wall, appears in the trailer. That is a small detail, but it shows how much of the legend was made in the edit. We have no source for how many takes any other scene needed.",
+   "query": "Two takes",
+   "caption": "WIKIPEDIA: CRASH SCENE FILMED TWICE \u2014 2ND TAKE IN THE FILM; 1ST TAKE (THROUGH THE FAKE WALL) IN THE TRAILER \u00b7 TAKES FOR OTHER SCENES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Top Gear dates the night-time chase filming to the ninth of March nineteen sixty-four at Black Park, a five-hundred-acre wood next to Pinewood that stood in for the area around Goldfinger's Swiss headquarters. Connery's last scene, Tilly Masterson's death, was filmed in the same wood on the twenty-first of July. The last pick-up shots were on the twelfth of August.",
+   "query": "Black Park",
+   "caption": "TOP GEAR: CHASE FILMING BEGAN 9 MAR 1964, BLACK PARK (500 ACRES, NEXT TO PINEWOOD) \u00b7 CONNERY'S LAST SCENE 21 JULY \u00b7 LAST PICK-UPS 12 AUG 1964",
+   "cuts": 3,
+   "chapter": "Filming"
+  },
+  {
+   "text": "The twelfth of August was the day Ian Fleming died, says Top Gear. Wikipedia says only that he died in August nineteen sixty-four, a few months after visiting the set in April. By our arithmetic, he saw the film being made about four months before he died. The exact day comes from the Top Gear piece alone in our sources.",
+   "query": "Fleming",
+   "caption": "TOP GEAR: PICK-UPS 12 AUG 1964, THE DAY FLEMING DIED \u00b7 WIKIPEDIA: DIED AUG 1964; VISITED THE SET APRIL 1964 (NO EXACT DAY) \u00b7 APRIL \u2192 AUGUST \u2248 4 MONTHS (OUR ARITHMETIC) \u00b7 EXACT DAY: TOP GEAR ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "Switzerland also features. Carole Nash says the stunt car, labelled FMP seven B, had its German ZF gearbox fail during filming in Switzerland, making it useless for a high-speed chase. NBC mentions a signed photo of Connery with the car on location in Switzerland, sold with the 2010 car. The sources do not say how the failed car was repaired.",
+   "query": "Switzerland",
+   "caption": "CAROLE NASH: STUNT CAR FMP 7B \u2014 ZF GEARBOX FAILED IN SWITZERLAND \u00b7 NBC: SIGNED PHOTO OF CONNERY WITH THE CAR ON LOCATION IN SWITZERLAND \u00b7 REPAIR: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Connery himself had a story. Wikipedia says that after a back injury during filming, a pay dispute was settled with Eon agreeing to pay him five percent of the gross of each Bond film he starred in. The passage does not say which films that covered. We mention it only as part of the human story around the production.",
+   "query": "Connery",
+   "caption": "WIKIPEDIA (GOLDFINGER): BACK INJURY DURING FILMING; PAY DISPUTE SETTLED \u2014 5% OF THE GROSS OF EACH BOND FILM HE STARRED IN \u00b7 WHICH FILMS: NOT STATED IN THE PASSAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the DB5 became perhaps the most iconic Bond vehicle, and that The Times named it the best car in the films in two thousand eight. Two DB5s were displayed at the nineteen sixty-four New York World's Fair, which were called the most famous car in the world. Sales of the car rose, Wikipedia says, without giving figures.",
+   "query": "Fame",
+   "caption": "WIKIPEDIA: 'PERHAPS THE MOST ICONIC BOND VEHICLE'; THE TIMES (2008) NAMED IT BEST CAR IN THE FILMS \u00b7 2 DB5s AT THE 1964 NEW YORK WORLD'S FAIR \u00b7 SALES ROSE \u2014 NO FIGURES",
+   "cuts": 3,
+   "chapter": "After the premiere"
+  },
+  {
+   "text": "The Bond Dossier says Aston Martin sales reportedly rose almost fifty percent after the release. Carole Nash and Wikipedia say the Corgi toy DB5 became the biggest-selling toy of nineteen sixty-four. Neither the sales rise nor the toy sales come with a table in our sources, so we report them as claims.",
+   "query": "Sales claims",
+   "caption": "BOND DOSSIER: ASTON MARTIN SALES 'REPORTEDLY' UP ALMOST 50% \u00b7 CAROLE NASH + WIKIPEDIA: CORGI DB5 = BIGGEST-SELLING TOY OF 1964 \u00b7 UNDERLYING TABLES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Thunderball came next. Ecurie says Eon ordered two more DB5s, chassis two thousand eight slash R and two thousand seventeen slash R, built with Adam's modifications to work repeatedly. They toured the United States, one on each coast. 2017/R served as a pace car at Laguna Seca, driven by Jackie Stewart. The DB5 then vanished from the films for thirty years.",
+   "query": "Thunderball",
+   "caption": "ECURIE: DB5/2008/R AND DB5/2017/R BUILT FOR THUNDERBALL, TOURED THE U.S.; 2017/R PACE CAR AT LAGUNA SECA, DRIVEN BY JACKIE STEWART \u00b7 INSIDEHOOK + BOND DOSSIER: ABSENT FROM THE FILMS UNTIL GOLDENEYE (1995) \u2192 1965 \u2192 1995 = 30 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "It returned in GoldenEye, in nineteen ninety-five, driven by Pierce Brosnan in a chase against Xenia Onatopp's red Ferrari F355, says InsideHook. Wikipedia says the GoldenEye car had no gadgets, but a champagne cooler and a fax machine. Later appearances were Casino Royale in two thousand six, Skyfall in twenty twelve, Spectre in twenty fifteen and No Time to Die.",
+   "query": "The comeback",
+   "caption": "INSIDEHOOK: GOLDENEYE \u2014 BROSNAN CHASES XENIA ONATOPP'S RED FERRARI F355 GTS \u00b7 WIKIPEDIA: GOLDENEYE CAR HAD NO GADGETS, A CHAMPAGNE COOLER AND A FAX MACHINE \u00b7 LATER: CASINO ROYALE 2006, SKYFALL 2012, SPECTRE 2015, NO TIME TO DIE",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says that for No Time to Die, eight replica stunt cars were built, and one of them sold for two point nine two million pounds at a twenty twenty-two charity auction. By our arithmetic, a replica built for a film in the twenty-first century sold for about seven hundred times the original new price of four thousand one hundred seventy-five pounds.",
+   "query": "Replicas",
+   "caption": "WIKIPEDIA: NTTD \u2014 8 REPLICA STUNT CARS; ONE \u00a32.92 M (2022 CHARITY AUCTION) \u00b7 \u00a32.92 M \u00f7 \u00a34,175 = 699\u00d7 (OUR ARITHMETIC; NOT INFLATION-ADJUSTED)",
+   "cuts": 3
+  },
+  {
+   "text": "The first gadget car's later life is a mystery. Wikipedia says it was stripped of its gadgets, appeared in The Cannonball Run in nineteen eighty-one, was stolen in nineteen ninety-seven and was reported missing in twenty twenty-one. Carole Nash says it was stolen in Florida after later owners fitted non-original weaponry. NBC says many believe it was destroyed.",
+   "query": "The missing car",
+   "caption": "WIKIPEDIA: DP/216/1 \u2014 STRIPPED; THE CANNONBALL RUN 1981; STOLEN 1997; REPORTED MISSING 2021 \u00b7 CAROLE NASH: STOLEN IN FLORIDA; LATER OWNERS FITTED NON-ORIGINAL WEAPONRY \u00b7 NBC: 'MANY BELIEVE IT WAS DESTROYED'",
+   "cuts": 3,
+   "chapter": "What happened to the original cars"
+  },
+  {
+   "text": "The Thunderball promotional car, 2008/R, was offered for sale by Eon's Swiss financier Danjaq in nineteen sixty-nine, Ecurie says, and bought by Anthony Bamford. B. H. Atchley of Tennessee later displayed it for thirty-five years in a bolted wire-mesh cage. RM Sotheby's sold it in August twenty nineteen for six million three hundred eighty-five thousand dollars.",
+   "query": "The cage",
+   "caption": "ECURIE: DANJAQ OFFERED CARS 1969; BAMFORD BOUGHT BOTH; ATCHLEY MUSEUM \u2014 35 YEARS IN A BOLTED WIRE-MESH CAGE \u00b7 OLD CARS WEEKLY: $6,385,000, RM SOTHEBY'S, AUG 2019 \u00b7 ROOS ENGINEERING RESTORED IT",
+   "cuts": 3
+  },
+  {
+   "text": "And the car without gadgets in the film, 1486/R, was sold in twenty ten for four point six million dollars according to Wikipedia, or two point six million pounds according to NBC. The buyer was Harry Yeaggy. By our arithmetic, the nineteen sixty-five car's later price was thirty-nine percent higher in nominal dollars, in nine years.",
+   "query": "Two sales",
+   "caption": "WIKIPEDIA: 1486/R $4.6 M (2010) \u00b7 NBC: \u00a32.6 M ($4.1 M), HARRY YEAGGY \u00b7 $6.385 M \u00f7 $4.6 M = +38.8% (OUR ARITHMETIC; NOMINAL; 9 YEARS)",
+   "cuts": 3
+  },
+  {
+   "text": "In total, the car of the legend is several cars. By our arithmetic from Ecurie and Wikipedia: one prototype gadget car, now missing, one plain car later fitted with gadgets, and the Thunderball pair, of which one is sold and one is accounted for as a pace car. The sources do not agree on all details, so we say there were four to six Bond cars, depending on what you count.",
+   "query": "How many cars",
+   "caption": "WIKIPEDIA: 4 DB5s FOR GOLDFINGER \u00b7 ECURIE: + 2 FOR THUNDERBALL (2008/R, 2017/R) \u00b7 OLD CARS WEEKLY: 3 SURVIVE \u00b7 COUNT DEPENDS ON DEFINITION (OUR SUMMARY)",
+   "cuts": 3
+  },
+  {
+   "text": "Top Gear says Cary Grant and James Mason were approached for the first Bond film, Dr No in nineteen sixty-two, but neither was a fit. Producer Cubby Broccoli said Sean Connery had the balls for the part. Top Gear says Goldfinger made Bond a blockbuster. So the car arrived at the moment the franchise was becoming a phenomenon, which is part of why it became famous.",
+   "query": "Casting",
+   "caption": "TOP GEAR: CARY GRANT AND JAMES MASON APPROACHED FOR DR NO (1962), NEITHER A FIT \u00b7 CUBBY BROCCOLI ON CONNERY (QUOTED) \u00b7 GOLDFINGER MADE BOND A BLOCKBUSTER \u00b7 'WHY IT BECAME FAMOUS' = OUR READING",
+   "cuts": 3,
+   "chapter": "The people around the car"
+  },
+  {
+   "text": "The producers were Cubby Broccoli and Harry Saltzman, whose company was Eon Productions. Ecurie describes Goldfinger as Eon's third Ian Fleming adaptation. By our arithmetic, the DB5 arrived in the third film of the series, in nineteen sixty-four, and has had more than sixty years to become the most famous car in the world, a title the Ecurie article and Wikipedia both attach to it.",
+   "query": "Third film",
+   "caption": "ECURIE: GOLDFINGER = EON'S 3RD FLEMING ADAPTATION \u00b7 WIKIPEDIA: DB5s AT THE 1964 NEW YORK WORLD'S FAIR CALLED 'THE MOST FAMOUS CAR IN THE WORLD' \u00b7 2026 \u2212 1964 = 62 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Dave Worrall's nineteen ninety-three book about the cars was titled The Most Famous Car in the World, Ecurie says. The phrase had been used by the World's Fair displays in nineteen sixty-four, according to Wikipedia. So the claim is almost as old as the car's film career, and it was made first by promoters, not by independent critics.",
+   "query": "A famous phrase",
+   "caption": "ECURIE: DAVE WORRALL, 1993 BOOK 'THE MOST FAMOUS CAR IN THE WORLD' \u00b7 WIKIPEDIA: 1964 WORLD'S FAIR DISPLAY CALLED IT THAT \u00b7 'MADE FIRST BY PROMOTERS' = OUR READING OF THESE TWO ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Top Gear scored the DB5 forty-nine out of sixty in its Bond car ranking: ten for gadgets and ten for star status, nine for pulling power, eight for skids, six for speed and six for stunts. It calls the DB5 the first true Bond car and a fifty-six-year-old GT rather than a sports car. These are the magazine's opinions, from September twenty twenty-one.",
+   "query": "Top Gear's verdict",
+   "caption": "TOP GEAR (27 SEP 2021) SCORES \u2014 GADGETS 10 \u00b7 STAR STATUS 10 \u00b7 PULLING POWER 9 \u00b7 SKIDS 8 \u00b7 SPEED 6 \u00b7 STUNTS 6 = 49 (OPINION) \u00b7 'FIRST TRUE BOND CAR'; '56-YEAR-OLD GT'",
+   "cuts": 3
+  },
+  {
+   "text": "Top Gear also says the DB5's body was a Touring design, finessed by Federico Formenti. RM Sotheby's calls the construction Superleggera, licensed from Touring of Milan. So the bodywork behind the most British of film cars came from an Italian design house. That is a detail the Bond legend rarely mentions, and both sources are consistent on it.",
+   "query": "Italian bones",
+   "caption": "TOP GEAR: TOURING DESIGN, FINESSED BY FEDERICO FORMENTI \u00b7 RM SOTHEBY'S: SUPERLEGGERA CONSTRUCTION LICENSED FROM TOURING OF MILAN \u00b7 'RARELY MENTIONED' = OUR OBSERVATION",
+   "cuts": 3
+  },
+  {
+   "text": "How many gadgets did the car have? The Bond Dossier lists nine, including the extending bumpers that never appeared on screen. Ecurie lists the first car's kit as eleven items, from hydraulic rams to the passenger-seat ejection system, plus two fitted but not used. By our arithmetic, that is thirteen items in total on Ecurie's count, and the counts depend on what you group together.",
+   "query": "Counting",
+   "caption": "BOND DOSSIER: 9 ITEMS \u00b7 ECURIE: 11 ITEMS USED (RAMS, GUNS, SLASHERS, SCREEN, SCOPE, OIL, CALTROPS, SMOKE, PLATES, EJECTION \u2014 OUR COUNT) + 2 UNUSED (TELEPHONE, WEAPONS COMPARTMENT) = 13 (OUR ARITHMETIC; GROUPING VARIES)",
+   "cuts": 3,
+   "chapter": "The gadget list, compared"
+  },
+  {
+   "text": "The homer is on the Bond Dossier's list but not Ecurie's, and Ecurie's list has a radar-tracking scope in the dash. These may be the same device described in two ways. Ecurie also lists caltrops, which the Bond Dossier does not. Our sources do not let us reconcile the lists, so we show both and do not claim a definitive count.",
+   "query": "Two lists",
+   "caption": "BOND DOSSIER: HOMER (TRACKS ON A HIDDEN SCREEN) \u00b7 ECURIE: IN-DASH RADAR-TRACKING SCOPE; CALTROP DISPENSER \u00b7 SAME DEVICE OR NOT: NOT STATED \u2192 NO DEFINITIVE COUNT",
+   "cuts": 3
+  },
+  {
+   "text": "Even the screen time is disputed. Ecurie says the first car's gadgets were basic, built only to work for one take. The Thunderball cars, by contrast, had modifications installed by Aston Martin to work repeatedly. So the most famous gadgets in cinema were reliable only in the later promotional cars, not in the car from the film that made them famous.",
+   "query": "One take",
+   "caption": "ECURIE: FIRST CAR \u2014 GADGETS BASIC, ONE TAKE \u00b7 THUNDERBALL CARS \u2014 MODIFICATIONS BUILT TO WORK REPEATEDLY \u00b7 'RELIABLE ONLY IN THE LATER CARS' = OUR READING OF ECURIE",
+   "cuts": 3
+  },
+  {
+   "text": "The Bond Dossier says the initial script gave the car only a smokescreen, and Wikipedia agrees. Both say the gadgets grew from crew suggestions. By our arithmetic, going from one scripted gadget to nine or more is at least a nine-fold expansion, and all of it was settled in a period of weeks, since the conversion took six weeks.",
+   "query": "From one to nine",
+   "caption": "BOND DOSSIER + WIKIPEDIA: SCRIPT \u2014 SMOKESCREEN ONLY \u00b7 FINAL 9+ ITEMS \u00b7 9 \u00f7 1 = 9\u00d7 (OUR ARITHMETIC) \u00b7 CONVERSION 6 WEEKS (TOP GEAR; WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the first Bond DB5's gadgets were later removed and the car was sold. Carole Nash says the original prototype was stripped and sold, and later owners fitted non-original weaponry. That means that by the time it was stolen in nineteen ninety-seven, the car may not have carried the original equipment. The sources do not say what it carried on the day it vanished.",
+   "query": "Stripped",
+   "caption": "WIKIPEDIA + CAROLE NASH: PROTOTYPE STRIPPED OF GADGETS AND SOLD; LATER OWNERS FITTED NON-ORIGINAL WEAPONRY \u00b7 EQUIPMENT AT THE TIME OF THE THEFT: NOT STATED",
+   "cuts": 3,
+   "chapter": "After the cameras stopped"
+  },
+  {
+   "text": "By our arithmetic, the car was last seen in public records in nineteen ninety-seven and reported missing in twenty twenty-one, a gap of twenty-four years. Wikipedia gives both dates in the same passage. The sources do not say what was done in between to find it, or whether there were any sightings. Absence of that information is itself a gap in the story.",
+   "query": "24 years",
+   "caption": "WIKIPEDIA: STOLEN 1997; REPORTED MISSING 2021 \u00b7 2021 \u2212 1997 = 24 YEARS (OUR ARITHMETIC) \u00b7 SEARCH EFFORTS / SIGHTINGS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The car sold in 2010 in London, NBC says, had never been auctioned before. NBC calls it one of two factory-modified Aston Martins used in the early Bond films and the only surviving example, and says the other was reported stolen in nineteen ninety-seven and never recovered. Old Cars Weekly in twenty nineteen says three Bond-modified DB5s survive. The counts differ because they define survivors differently.",
+   "query": "Survivors",
+   "caption": "NBC (2010): 'ONLY SURVIVING' FACTORY-MODIFIED CAR USED IN THE EARLY FILMS; OTHER STOLEN 1997 \u00b7 OLD CARS WEEKLY + CNN (2019): ONE OF 3 SURVIVING BOND-MODIFIED DB5s \u00b7 'DIFFERENT DEFINITIONS' = OUR EXPLANATION, NOT STATED BY EITHER",
+   "cuts": 3
+  },
+  {
+   "text": "The Thunderball car 2008 slash R was shown for years in a museum. Ecurie says RM Auctions offered it in two thousand six, when some gadgets had been restored but most of the car was unrestored, and that it was later restored by Roos Engineering. CNN says it was shown at locations across North America before the sale. By our arithmetic, thirteen years separate the first offer and the sale.",
+   "query": "Museum to auction",
+   "caption": "ECURIE: RM AUCTIONS OFFERED 2008/R IN 2006 \u2014 SOME GADGETS RESTORED, MOST OF THE CAR UNRESTORED; ROOS ENGINEERING RESTORED IT \u00b7 CNN: SHOWN ACROSS NORTH AMERICA BEFORE THE SALE \u00b7 2019 \u2212 2006 = 13 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And what does Aston Martin do now? Wikipedia says the company built twenty-five Goldfinger-themed continuation cars, starting in July twenty twenty, at about two point seven five million pounds each. It also says the DB12, the current model, has no Goldfinger edition in our sources. So the company has returned to the story for a limited run, not for its current line.",
+   "query": "The company today",
+   "caption": "WIKIPEDIA: 25 GOLDFINGER CONTINUATION CARS FROM JULY 2020, ~\u00a32.75 M \u00b7 WIKIPEDIA (DB12): NO GOLDFINGER EDITION MENTIONED",
+   "cuts": 3
+  },
+  {
+   "text": "Taken together, the story shows how a car becomes a legend. A reluctant manufacturer, a designer with a parking problem, a director with parking tickets, a few weeks of workshop improvisation, and a film that made more than forty times its budget. The sources do not say any of this was planned. They describe a series of decisions that, together, produced the world's best-known car.",
+   "query": "How a legend forms",
+   "caption": "SYNTHESIS OF TOP GEAR, WIKIPEDIA, BOND DOSSIER \u00b7 FILM GROSS \u00f7 BUDGET = 41.6\u00d7 (OUR ARITHMETIC) \u00b7 'NOT PLANNED' = OUR READING; SOURCES DO NOT STATE INTENT",
+   "cuts": 3
+  },
+  {
+   "text": "Let us put the legend in numbers. Wikipedia: 1,059 road DB5s built, four made for Goldfinger, eight replica stunt cars for No Time to Die, twenty-five continuation cars. By our arithmetic, adding the film replicas and the continuation cars to the original film cars gives thirty-seven special cars, set against the 1,059 road cars from the nineteen sixties.",
+   "query": "Counting the specials",
+   "caption": "WIKIPEDIA: 1,059 ROAD CARS \u00b7 4 GOLDFINGER \u00b7 8 NTTD REPLICAS \u00b7 25 CONTINUATION \u00b7 4 + 8 + 25 = 37 (OUR ARITHMETIC; EXCLUDES THUNDERBALL PAIR AND OTHER FILM CARS) \u00b7 37 \u00f7 1,059 = 3.5%",
+   "cuts": 3,
+   "chapter": "The numbers around the legend"
+  },
+  {
+   "text": "Prices, from our sources: four thousand one hundred seventy-five pounds new, six hundred fifty-nine thousand dollars in the Hagerty guide, and six million three hundred eighty-five thousand dollars for the Thunderball promotional car in twenty nineteen, according to Old Cars Weekly.",
+   "query": "Prices",
+   "caption": "RM SOTHEBY'S: \u00a34,175 NEW \u00b7 HAGERTY APR 2025: $659,000 \u00b7 OLD CARS WEEKLY: $6,385,000 (2019)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Bond car sold for nine point seven times the Hagerty guide figure. The Hagerty page does not label its condition, and the dates differ by six years, so the ratio is a rough guide. What it shows is that the film connection, not the engine or the coachwork, is what separates the ordinary car from the extraordinary price.",
+   "query": "The multiple",
+   "caption": "$6.385 M \u00f7 $659,000 = 9.7\u00d7 (OUR ARITHMETIC; HAGERTY CONDITION UNLABELLED; 2019 vs 2025) \u00b7 'FILM CONNECTION IS THE DIFFERENCE' = OUR READING; NO SOURCE ISOLATES THE PREMIUM",
+   "cuts": 3
+  },
+  {
+   "text": "One more perspective is time. The film came out in September nineteen sixty-four. Top Gear called the DB5 a fifty-six-year-old GT in twenty twenty-one, which does not quite add up from nineteen sixty-four, and fits better with the car's nineteen sixty-five model year. By our arithmetic, nineteen sixty-four to twenty twenty-one is fifty-seven years. The difference is small, but we flag it.",
+   "query": "Counting years",
+   "caption": "TOP GEAR (2021): '56-YEAR-OLD GT' \u00b7 1964 \u2192 2021 = 57 YEARS; 1965 \u2192 2021 = 56 YEARS (OUR ARITHMETIC) \u00b7 WHICH YEAR TOP GEAR COUNTED FROM: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, a point about trust. Different sources told us the car was loaned, bought or both, painted grey or red, had spikes or did not, and sold for four point one or four point six million dollars. We have not tried to smooth these over. When a story has been repeated for sixty years, the differences are often where the real history is hiding.",
+   "query": "Trust",
+   "caption": "CONFLICTS SHOWN: LOAN vs PURCHASE (TOP GEAR / ECURIE / WIKIPEDIA) \u00b7 SNOW SHADOW GREY (ECURIE) vs DUBONNET RED (WIKIPEDIA) \u00b7 SPIKES INSTALLED (ECURIE) vs STUDIO-ONLY (WIKIPEDIA) \u00b7 2010 SALE $4.1 M (NBC) vs $4.6 M (WIKIPEDIA) \u00b7 'WHERE HISTORY HIDES' = OUR EDITORIAL VIEW",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. Who exactly paid for the cars, since the sources conflict on loan versus purchase. The cost of the gadgets. A reconciled colour for the first car. Where the missing car is. An exact tally of Bond DB5s. And a neutral, dated source for the sales rise after the film. If you have primary documents, add them in the comments.",
+   "query": "Bond's Aston Martin",
+   "caption": "NOT IN OUR SOURCES: LOAN vs PURCHASE RESOLUTION \u00b7 GADGET COST \u00b7 RECONCILED COLOUR OF DP/216/1 \u00b7 LOCATION OF THE MISSING CAR \u00b7 EXACT COUNT OF BOND DB5s \u00b7 DATED SOURCE FOR THE ~50% SALES RISE",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "So the insane story is mostly about people making choices: a designer who disliked parking damage, a director with parking tickets, a company that hesitated, a toy that sold out. The car itself was an ordinary grand tourer for its time. In the other videos we count what a real DB5 costs, compare it with the DB12, and reveal its secrets. Subscribe to Pickup Reality.",
+   "query": "Bond's Aston Martin",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
