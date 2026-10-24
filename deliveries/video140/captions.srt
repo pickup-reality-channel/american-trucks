@@ -1,0 +1,2335 @@
+1
+00:00:00,000 --> 00:00:02,315
+Three cars, three companies,
+
+2
+00:00:02,315 --> 00:00:03,390
+and one year.
+
+3
+00:00:03,570 --> 00:00:05,573
+In twenty thirteen Ferrari,
+
+4
+00:00:05,573 --> 00:00:08,540
+McLaren and Porsche each showed a hybrid
+
+5
+00:00:08,540 --> 00:00:11,136
+hypercar, and the world gave them a
+
+6
+00:00:11,136 --> 00:00:13,659
+single nickname: the Holy Trinity.
+
+7
+00:00:13,839 --> 00:00:16,372
+But nobody, in the sources we found,
+
+8
+00:00:16,372 --> 00:00:17,639
+says who named it,
+
+9
+00:00:17,639 --> 00:00:20,243
+or whether any of the three companies
+
+10
+00:00:20,243 --> 00:00:21,792
+was racing the others.
+
+11
+00:00:21,972 --> 00:00:24,051
+This is the story as the record
+
+12
+00:00:24,051 --> 00:00:25,258
+actually tells it,
+
+13
+00:00:25,258 --> 00:00:26,265
+with the dates,
+
+14
+00:00:26,265 --> 00:00:28,009
+the numbers, and the gaps.
+
+15
+00:00:28,359 --> 00:00:31,522
+We read Wikipedia's pages on all three
+
+16
+00:00:31,522 --> 00:00:34,936
+cars, evo, Top Gear magazine's history of
+
+17
+00:00:34,936 --> 00:00:36,684
+the nickname, Carwow,
+
+18
+00:00:36,684 --> 00:00:39,931
+and a fan-maintained wiki for the Grand
+
+19
+00:00:39,931 --> 00:00:41,013
+Tour episode.
+
+20
+00:00:41,193 --> 00:00:42,642
+We name each source,
+
+21
+00:00:42,642 --> 00:00:44,816
+we flag the ones that are only
+
+22
+00:00:44,816 --> 00:00:47,134
+community or marketing material,
+
+23
+00:00:47,134 --> 00:00:49,887
+and where two sources disagree we show
+
+24
+00:00:49,887 --> 00:00:50,249
+both.
+
+25
+00:00:50,429 --> 00:00:53,990
+Our own arithmetic is always labelled as
+
+26
+00:00:53,990 --> 00:00:54,435
+ours.
+
+27
+00:00:54,784 --> 00:00:57,311
+The nickname did not start in twenty
+
+28
+00:00:57,311 --> 00:00:57,942
+thirteen.
+
+29
+00:00:58,122 --> 00:01:00,843
+Top Gear magazine's Indian edition,
+
+30
+00:01:00,843 --> 00:01:03,951
+in a history published in January twenty
+
+31
+00:01:03,951 --> 00:01:07,526
+twenty-three, names a trinity for each decade.
+
+32
+00:01:07,706 --> 00:01:10,243
+For the nineteen eighties:
+
+33
+00:01:10,243 --> 00:01:11,804
+the Ferrari F40,
+
+34
+00:01:11,804 --> 00:01:13,365
+the Porsche 959,
+
+35
+00:01:13,365 --> 00:01:15,706
+and the Ferrari 288 GTO.
+
+36
+00:01:15,886 --> 00:01:18,314
+The article also says the choice has
+
+37
+00:01:18,314 --> 00:01:20,135
+always been very debatable.
+
+38
+00:01:20,484 --> 00:01:23,906
+For the nineteen nineties it names the
+
+39
+00:01:23,906 --> 00:01:27,058
+McLaren F1, the Ferrari F50 and the
+
+40
+00:01:27,058 --> 00:01:28,228
+Jaguar XJ220.
+
+41
+00:01:28,408 --> 00:01:30,284
+For the two thousands,
+
+42
+00:01:30,284 --> 00:01:31,734
+the Ferrari Enzo,
+
+43
+00:01:31,734 --> 00:01:33,695
+the Porsche Carrera GT,
+
+44
+00:01:33,695 --> 00:01:36,593
+and the Mercedes-Benz SLR McLaren.
+
+45
+00:01:36,773 --> 00:01:38,450
+And for the twenty tens,
+
+46
+00:01:38,450 --> 00:01:40,477
+the three cars of this video.
+
+47
+00:01:40,657 --> 00:01:41,669
+By our count,
+
+48
+00:01:41,669 --> 00:01:44,861
+that is five trinities across forty years
+
+49
+00:01:44,861 --> 00:01:46,573
+of cars, one a decade,
+
+50
+00:01:46,573 --> 00:01:48,053
+in this one source.
+
+51
+00:01:48,402 --> 00:01:50,630
+The article does not say when the
+
+52
+00:01:50,630 --> 00:01:51,980
+term was first used,
+
+53
+00:01:51,980 --> 00:01:53,128
+or who coined it.
+
+54
+00:01:53,308 --> 00:01:55,448
+We looked for the origin and did
+
+55
+00:01:55,448 --> 00:01:57,455
+not find one in the sources we
+
+56
+00:01:57,455 --> 00:01:57,789
+read.
+
+57
+00:01:57,969 --> 00:02:00,235
+So we cannot tell you that the
+
+58
+00:02:00,235 --> 00:02:03,029
+Holy Trinity was named by a magazine,
+
+59
+00:02:03,029 --> 00:02:05,144
+a manufacturer, or an owner.
+
+60
+00:02:05,324 --> 00:02:07,362
+What we can tell you is that
+
+61
+00:02:07,362 --> 00:02:08,453
+the same shape,
+
+62
+00:02:08,453 --> 00:02:10,854
+three rival cars of the same era,
+
+63
+00:02:10,854 --> 00:02:13,765
+had already been used many times before.
+
+64
+00:02:14,115 --> 00:02:17,055
+The earlier trinities also show a habit
+
+65
+00:02:17,055 --> 00:02:19,919
+worth noticing: limited editions grow.
+
+66
+00:02:20,099 --> 00:02:22,336
+The same article says the F40 was
+
+67
+00:02:22,336 --> 00:02:24,912
+planned at four hundred cars and about
+
+68
+00:02:24,912 --> 00:02:26,810
+thirteen hundred were built.
+
+69
+00:02:26,990 --> 00:02:29,372
+The Enzo was planned at three hundred
+
+70
+00:02:29,372 --> 00:02:31,561
+ninety-nine plus one for the Pope,
+
+71
+00:02:31,561 --> 00:02:34,200
+and four hundred ninety-three were built.
+
+72
+00:02:34,380 --> 00:02:35,554
+By our arithmetic,
+
+73
+00:02:35,554 --> 00:02:37,706
+that is more than three times the
+
+74
+00:02:37,706 --> 00:02:39,728
+plan for the F40 and nearly one
+
+75
+00:02:39,728 --> 00:02:41,880
+and a quarter times for the Enzo.
+
+76
+00:02:42,230 --> 00:02:44,633
+Porsche's story starts earliest.
+
+77
+00:02:44,813 --> 00:02:47,943
+Wikipedia says the nine eighteen was first
+
+78
+00:02:47,943 --> 00:02:50,328
+shown as a concept at the Geneva
+
+79
+00:02:50,328 --> 00:02:52,638
+Motor Show in March twenty ten.
+
+80
+00:02:52,818 --> 00:02:55,926
+On the twenty-eighth of July twenty ten,
+
+81
+00:02:55,926 --> 00:03:00,277
+Porsche's supervisory board approved series development,
+
+82
+00:03:00,277 --> 00:03:03,696
+after two thousand declarations of interest.
+
+83
+00:03:04,047 --> 00:03:07,304
+Two thousand declarations of interest for what
+
+84
+00:03:07,304 --> 00:03:09,712
+became nine hundred eighteen cars.
+
+85
+00:03:09,892 --> 00:03:11,172
+By our arithmetic,
+
+86
+00:03:11,172 --> 00:03:14,017
+that is about two point two declarations
+
+87
+00:03:14,017 --> 00:03:16,150
+for each car eventually built.
+
+88
+00:03:16,330 --> 00:03:19,280
+Wikipedia does not say these were orders,
+
+89
+00:03:19,280 --> 00:03:21,510
+or deposits, so it is a measure
+
+90
+00:03:21,510 --> 00:03:23,956
+of interest and not of demand that
+
+91
+00:03:23,956 --> 00:03:25,107
+was turned away.
+
+92
+00:03:25,458 --> 00:03:26,861
+In twenty eleven,
+
+93
+00:03:26,861 --> 00:03:30,988
+Wikipedia says, Porsche unveiled a racing variant,
+
+94
+00:03:30,988 --> 00:03:32,804
+the nine eighteen RSR,
+
+95
+00:03:32,804 --> 00:03:34,455
+at the Detroit show.
+
+96
+00:03:34,635 --> 00:03:38,018
+It used flywheel kinetic energy recovery rather
+
+97
+00:03:38,018 --> 00:03:39,674
+than a plug-in battery.
+
+98
+00:03:39,854 --> 00:03:41,925
+The road car that followed took a
+
+99
+00:03:41,925 --> 00:03:44,687
+different route, with a battery that charged
+
+100
+00:03:44,687 --> 00:03:45,566
+from a socket.
+
+101
+00:03:45,746 --> 00:03:48,188
+The page does not explain the reason
+
+102
+00:03:48,188 --> 00:03:49,206
+for the change.
+
+103
+00:03:49,556 --> 00:03:52,699
+The production version was unveiled at the
+
+104
+00:03:52,699 --> 00:03:56,440
+Frankfurt Motor Show in September twenty thirteen.
+
+105
+00:03:56,620 --> 00:04:00,382
+Production began on the eighteenth of September.
+
+106
+00:04:00,562 --> 00:04:00,933
+U.
+
+107
+00:04:01,113 --> 00:04:01,508
+S.
+
+108
+00:04:01,688 --> 00:04:04,504
+sales began in June twenty fourteen,
+
+109
+00:04:04,504 --> 00:04:07,008
+and the car sold out in December
+
+110
+00:04:07,008 --> 00:04:08,259
+twenty fourteen.
+
+111
+00:04:08,439 --> 00:04:11,620
+Production ended in June twenty fifteen,
+
+112
+00:04:11,620 --> 00:04:12,654
+as scheduled.
+
+113
+00:04:13,004 --> 00:04:14,397
+Work out the timeline.
+
+114
+00:04:14,577 --> 00:04:17,290
+From the concept in March twenty ten
+
+115
+00:04:17,290 --> 00:04:19,778
+to the start of production on the
+
+116
+00:04:19,778 --> 00:04:23,396
+eighteenth of September twenty thirteen is three
+
+117
+00:04:23,396 --> 00:04:24,979
+years and six months.
+
+118
+00:04:25,159 --> 00:04:28,510
+From the board's approval on the twenty-eighth
+
+119
+00:04:28,510 --> 00:04:29,894
+of July twenty ten,
+
+120
+00:04:29,894 --> 00:04:31,205
+it is three years,
+
+121
+00:04:31,205 --> 00:04:33,391
+one month and twenty-one days.
+
+122
+00:04:33,571 --> 00:04:34,757
+By our arithmetic,
+
+123
+00:04:34,757 --> 00:04:36,799
+that is the longest road of the
+
+124
+00:04:36,799 --> 00:04:39,434
+three, though our sources give the other
+
+125
+00:04:39,434 --> 00:04:41,872
+two cars' starts at different points.
+
+126
+00:04:42,222 --> 00:04:45,203
+Wikipedia names two people on the nine
+
+127
+00:04:45,203 --> 00:04:49,362
+eighteen's design: Michael Mauer and Hakan Saracoğlu.
+
+128
+00:04:49,542 --> 00:04:52,172
+It also gives order counts by country:
+
+129
+00:04:52,172 --> 00:04:55,219
+about two hundred ninety-seven in the United
+
+130
+00:04:55,219 --> 00:04:57,988
+States, about one hundred each for China
+
+131
+00:04:57,988 --> 00:05:00,757
+and Germany, and thirty-five for Canada.
+
+132
+00:05:00,937 --> 00:05:03,823
+Registrations reached two hundred two in the
+
+133
+00:05:03,823 --> 00:05:06,185
+United States by May twenty fifteen.
+
+134
+00:05:06,535 --> 00:05:09,298
+McLaren's road was shorter in public.
+
+135
+00:05:09,478 --> 00:05:12,484
+Wikipedia says the first teaser appeared in
+
+136
+00:05:12,484 --> 00:05:14,162
+September twenty twelve,
+
+137
+00:05:14,162 --> 00:05:17,028
+and a pre-production concept was shown at
+
+138
+00:05:17,028 --> 00:05:19,265
+the Paris Motor Show that month.
+
+139
+00:05:19,445 --> 00:05:23,429
+Quoted figures included six hundred kilograms of
+
+140
+00:05:23,429 --> 00:05:26,833
+downforce and a drag coefficient of point
+
+141
+00:05:26,833 --> 00:05:27,746
+three four.
+
+142
+00:05:27,926 --> 00:05:31,011
+The production version came at Geneva in
+
+143
+00:05:31,011 --> 00:05:32,245
+twenty thirteen.
+
+144
+00:05:32,595 --> 00:05:34,522
+Then the cars sold quickly.
+
+145
+00:05:34,702 --> 00:05:36,591
+In August twenty thirteen,
+
+146
+00:05:36,591 --> 00:05:38,988
+the allocations for the Americas,
+
+147
+00:05:38,988 --> 00:05:42,039
+Asia-Pacific and the Middle East were sold
+
+148
+00:05:42,039 --> 00:05:42,330
+out.
+
+149
+00:05:42,510 --> 00:05:45,690
+Production began in October twenty thirteen,
+
+150
+00:05:45,690 --> 00:05:48,653
+with the first retail delivery in Woking,
+
+151
+00:05:48,653 --> 00:05:49,232
+England.
+
+152
+00:05:49,412 --> 00:05:52,230
+By mid-November, Europe sold out too,
+
+153
+00:05:52,230 --> 00:05:54,973
+and only twelve cars had been built.
+
+154
+00:05:55,323 --> 00:05:56,901
+Twelve cars built,
+
+155
+00:05:56,901 --> 00:05:59,618
+and the whole run already sold.
+
+156
+00:05:59,798 --> 00:06:01,057
+By our arithmetic,
+
+157
+00:06:01,057 --> 00:06:04,205
+twelve of three hundred seventy-five is three
+
+158
+00:06:04,205 --> 00:06:05,464
+point two percent.
+
+159
+00:06:05,644 --> 00:06:08,427
+That means that when the last buyers
+
+160
+00:06:08,427 --> 00:06:11,829
+signed, ninety-seven percent of the cars did
+
+161
+00:06:11,829 --> 00:06:12,912
+not yet exist.
+
+162
+00:06:13,092 --> 00:06:15,999
+The first United States delivery came in
+
+163
+00:06:15,999 --> 00:06:17,452
+May twenty fourteen,
+
+164
+00:06:17,452 --> 00:06:20,940
+and production ended in December twenty fifteen.
+
+165
+00:06:21,290 --> 00:06:22,692
+By our arithmetic,
+
+166
+00:06:22,692 --> 00:06:25,730
+production ran about twenty-six months,
+
+167
+00:06:25,730 --> 00:06:28,534
+which is roughly fourteen and a half
+
+168
+00:06:28,534 --> 00:06:30,403
+cars a month on average.
+
+169
+00:06:30,583 --> 00:06:33,006
+That is a calculation from the start
+
+170
+00:06:33,006 --> 00:06:33,948
+and end dates,
+
+171
+00:06:33,948 --> 00:06:36,034
+not a figure McLaren published,
+
+172
+00:06:36,034 --> 00:06:37,851
+and the pace surely varied.
+
+173
+00:06:38,031 --> 00:06:41,394
+Wikipedia gives the regional shares as thirty-four
+
+174
+00:06:41,394 --> 00:06:43,883
+percent of cars for the United States
+
+175
+00:06:43,883 --> 00:06:46,170
+and twenty-six percent for Europe.
+
+176
+00:06:46,520 --> 00:06:50,140
+Wikipedia names Frank Stephenson as the P1's
+
+177
+00:06:50,140 --> 00:06:53,843
+exterior stylist and says he drew inspiration
+
+178
+00:06:53,843 --> 00:06:56,065
+for parts of the car from a
+
+179
+00:06:56,065 --> 00:06:56,806
+sailfish.
+
+180
+00:06:56,986 --> 00:07:00,159
+It calls the P1 the spiritual successor
+
+181
+00:07:00,159 --> 00:07:01,624
+of the McLaren F1,
+
+182
+00:07:01,624 --> 00:07:03,495
+sharing its mid-engine,
+
+183
+00:07:03,495 --> 00:07:07,156
+rear-wheel-drive layout and carbon monocoque.
+
+184
+00:07:07,336 --> 00:07:09,729
+And it says McLaren claimed the P1
+
+185
+00:07:09,729 --> 00:07:12,121
+was five and a half seconds faster
+
+186
+00:07:12,121 --> 00:07:14,865
+than the F1 to three hundred kilometres
+
+187
+00:07:14,865 --> 00:07:15,498
+per hour.
+
+188
+00:07:15,849 --> 00:07:18,711
+Ferrari's own project name was F one
+
+189
+00:07:18,711 --> 00:07:21,096
+fifty, according to Wikipedia.
+
+190
+00:07:21,276 --> 00:07:22,652
+In twenty eleven,
+
+191
+00:07:22,652 --> 00:07:26,454
+nine conceptual design studies were considered.
+
+192
+00:07:26,634 --> 00:07:29,303
+In April twenty eleven they were cut
+
+193
+00:07:29,303 --> 00:07:32,343
+to five: three from Ferrari's own Styling
+
+194
+00:07:32,343 --> 00:07:34,715
+Centre and two from Pininfarina.
+
+195
+00:07:34,895 --> 00:07:37,432
+Two full-size concepts were built,
+
+196
+00:07:37,432 --> 00:07:40,418
+called the Manta and the Tensostruttura,
+
+197
+00:07:40,418 --> 00:07:43,254
+and the final car resembles the Manta.
+
+198
+00:07:43,604 --> 00:07:46,245
+The page says the design came from
+
+199
+00:07:46,245 --> 00:07:49,975
+the Ferrari Styling Centre under Flavio Manzoni,
+
+200
+00:07:49,975 --> 00:07:53,239
+and that the carbon monocoque was designed
+
+201
+00:07:53,239 --> 00:07:54,326
+by Rory Byrne,
+
+202
+00:07:54,326 --> 00:07:57,512
+Ferrari's Formula One technical director.
+
+203
+00:07:57,692 --> 00:08:00,670
+It also says development drew on testing
+
+204
+00:08:00,670 --> 00:08:03,350
+of the FXX prototype and on research
+
+205
+00:08:03,350 --> 00:08:06,700
+from the Millechili Project at the University
+
+206
+00:08:06,700 --> 00:08:07,445
+of Modena.
+
+207
+00:08:07,795 --> 00:08:10,391
+The car was unveiled at the Geneva
+
+208
+00:08:10,391 --> 00:08:12,682
+Motor Show in twenty thirteen.
+
+209
+00:08:12,862 --> 00:08:15,661
+The name means the Ferrari in Italian,
+
+210
+00:08:15,661 --> 00:08:18,017
+meant as the definitive Ferrari.
+
+211
+00:08:18,197 --> 00:08:21,780
+Production was four hundred ninety-nine coupés,
+
+212
+00:08:21,780 --> 00:08:24,525
+at more than one million euros each.
+
+213
+00:08:24,705 --> 00:08:27,271
+The Aperta, an open-top version,
+
+214
+00:08:27,271 --> 00:08:30,721
+followed in twenty sixteen with two hundred
+
+215
+00:08:30,721 --> 00:08:32,646
+cars sold by invitation.
+
+216
+00:08:32,996 --> 00:08:35,119
+Here the sources give us a clean
+
+217
+00:08:35,119 --> 00:08:36,978
+comparison of reveal places.
+
+218
+00:08:37,158 --> 00:08:40,399
+The McLaren production car and the Ferrari
+
+219
+00:08:40,399 --> 00:08:43,332
+were both unveiled at Geneva in twenty
+
+220
+00:08:43,332 --> 00:08:46,959
+thirteen, while the Porsche production car came
+
+221
+00:08:46,959 --> 00:08:48,965
+at Frankfurt in September.
+
+222
+00:08:49,145 --> 00:08:52,427
+Evo's Harry Metcalfe says the three arrived
+
+223
+00:08:52,427 --> 00:08:55,099
+within months of each other in late
+
+224
+00:08:55,099 --> 00:08:56,320
+twenty thirteen.
+
+225
+00:08:56,500 --> 00:08:59,022
+Of the two production starts we could
+
+226
+00:08:59,022 --> 00:09:01,748
+date, the Porsche's on the eighteenth of
+
+227
+00:09:01,748 --> 00:09:04,405
+September and the McLaren's in October,
+
+228
+00:09:04,405 --> 00:09:06,450
+they fall about a month apart.
+
+229
+00:09:06,800 --> 00:09:09,438
+We could not find a production start
+
+230
+00:09:09,438 --> 00:09:12,003
+date for the LaFerrari in the pages
+
+231
+00:09:12,003 --> 00:09:14,202
+we read, only the model years:
+
+232
+00:09:14,202 --> 00:09:17,500
+two thousand thirteen to two thousand sixteen
+
+233
+00:09:17,500 --> 00:09:18,526
+for the coupé.
+
+234
+00:09:18,706 --> 00:09:21,523
+So we cannot say who actually delivered
+
+235
+00:09:21,523 --> 00:09:21,956
+first.
+
+236
+00:09:22,136 --> 00:09:25,171
+That matters, because the nickname implies a
+
+237
+00:09:25,171 --> 00:09:27,379
+race, and the sources we read do
+
+238
+00:09:27,379 --> 00:09:29,172
+not tell us there was one.
+
+239
+00:09:29,522 --> 00:09:31,119
+Evo's Harry Metcalfe,
+
+240
+00:09:31,119 --> 00:09:35,076
+writing for the magazine's twenty-fifth anniversary,
+
+241
+00:09:35,076 --> 00:09:38,728
+called these the first plug-in hybrid supercars.
+
+242
+00:09:38,908 --> 00:09:41,585
+He calls the nine eighteen the cleverest
+
+243
+00:09:41,585 --> 00:09:43,993
+and technically the most impressive.
+
+244
+00:09:44,173 --> 00:09:46,139
+The P1 he calls the maddest:
+
+245
+00:09:46,139 --> 00:09:49,016
+a heavily boosted three point eight litre
+
+246
+00:09:49,016 --> 00:09:51,473
+V8 hidden by an electric motor that
+
+247
+00:09:51,473 --> 00:09:53,438
+fills in while boost builds.
+
+248
+00:09:53,789 --> 00:09:55,147
+And the LaFerrari.
+
+249
+00:09:55,327 --> 00:09:58,673
+Metcalfe says its electric assistance is barely
+
+250
+00:09:58,673 --> 00:10:01,947
+noticeable, and jokes that the magnificent six
+
+251
+00:10:01,947 --> 00:10:04,225
+point three litre V12 felt as if
+
+252
+00:10:04,225 --> 00:10:06,716
+it had been enlarged to ten litres.
+
+253
+00:10:06,896 --> 00:10:08,409
+Notice what that says:
+
+254
+00:10:08,409 --> 00:10:10,953
+the Ferrari used its hybrid system to
+
+255
+00:10:10,953 --> 00:10:14,116
+make a naturally aspirated engine feel bigger,
+
+256
+00:10:14,116 --> 00:10:16,385
+where the others used theirs in a
+
+257
+00:10:16,385 --> 00:10:17,554
+more visible way.
+
+258
+00:10:17,905 --> 00:10:20,517
+The power figures sit close together.
+
+259
+00:10:20,697 --> 00:10:23,143
+Carwow lists the P1 at nine hundred
+
+260
+00:10:23,143 --> 00:10:26,358
+sixteen horsepower, the nine eighteen at eight
+
+261
+00:10:26,358 --> 00:10:29,643
+hundred eighty-seven, and the LaFerrari at nine
+
+262
+00:10:29,643 --> 00:10:31,041
+hundred sixty-three.
+
+263
+00:10:31,221 --> 00:10:32,637
+By our arithmetic,
+
+264
+00:10:32,637 --> 00:10:35,233
+the three add up to two thousand,
+
+265
+00:10:35,233 --> 00:10:37,121
+seven hundred sixty-six,
+
+266
+00:10:37,121 --> 00:10:40,504
+which is exactly the combined figure Carwow
+
+267
+00:10:40,504 --> 00:10:41,055
+prints.
+
+268
+00:10:41,235 --> 00:10:44,481
+The LaFerrari leads the P1 by forty-seven
+
+269
+00:10:44,481 --> 00:10:46,935
+and the Porsche by seventy-six.
+
+270
+00:10:47,286 --> 00:10:48,876
+The weights are further apart.
+
+271
+00:10:49,056 --> 00:10:51,062
+Carwow gives one thousand,
+
+272
+00:10:51,062 --> 00:10:54,224
+four hundred ninety kilograms for the P1,
+
+273
+00:10:54,224 --> 00:10:57,772
+one thousand, five hundred eighty-five for the
+
+274
+00:10:57,772 --> 00:10:59,932
+LaFerrari, and one thousand,
+
+275
+00:10:59,932 --> 00:11:03,557
+six hundred seventy-five for the nine eighteen.
+
+276
+00:11:03,737 --> 00:11:05,080
+By our arithmetic,
+
+277
+00:11:05,080 --> 00:11:08,663
+the Porsche is one hundred eighty-five kilograms
+
+278
+00:11:08,663 --> 00:11:10,529
+heavier than the McLaren,
+
+279
+00:11:10,529 --> 00:11:12,096
+about twelve percent.
+
+280
+00:11:12,276 --> 00:11:14,599
+It has the least power-to-weight of the
+
+281
+00:11:14,599 --> 00:11:15,969
+three on these numbers,
+
+282
+00:11:15,969 --> 00:11:17,696
+yet it won the track test you
+
+283
+00:11:17,696 --> 00:11:19,126
+are about to hear about.
+
+284
+00:11:19,476 --> 00:11:21,751
+The three cars met on television.
+
+285
+00:11:21,931 --> 00:11:24,627
+The first episode of The Grand Tour,
+
+286
+00:11:24,627 --> 00:11:27,998
+released on the eighteenth of November twenty
+
+287
+00:11:27,998 --> 00:11:29,795
+sixteen on Amazon Prime,
+
+288
+00:11:29,795 --> 00:11:31,892
+was titled The Holy Trinity.
+
+289
+00:11:32,072 --> 00:11:34,460
+A fan-maintained wiki records it,
+
+290
+00:11:34,460 --> 00:11:37,715
+so we treat the details as community-sourced.
+
+291
+00:11:37,895 --> 00:11:39,683
+Clarkson drove the P1,
+
+292
+00:11:39,683 --> 00:11:41,796
+Hammond the nine eighteen,
+
+293
+00:11:41,796 --> 00:11:43,584
+and May the LaFerrari.
+
+294
+00:11:43,934 --> 00:11:46,105
+The wiki says the first contest was
+
+295
+00:11:46,105 --> 00:11:48,959
+an electric-only drag race between the Porsche
+
+296
+00:11:48,959 --> 00:11:49,952
+and the McLaren,
+
+297
+00:11:49,952 --> 00:11:51,503
+and that the Porsche won.
+
+298
+00:11:51,683 --> 00:11:52,827
+May sat it out,
+
+299
+00:11:52,827 --> 00:11:55,724
+because the LaFerrari could not run on
+
+300
+00:11:55,724 --> 00:11:57,326
+electric power alone.
+
+301
+00:11:57,506 --> 00:12:00,887
+That detail is the same difference Metcalfe
+
+302
+00:12:00,887 --> 00:12:03,404
+described, seen on a drag strip.
+
+303
+00:12:03,754 --> 00:12:04,923
+The lap times,
+
+304
+00:12:04,923 --> 00:12:08,015
+as listed: the Porsche nine eighteen,
+
+305
+00:12:08,015 --> 00:12:10,104
+one fifty-four point two.
+
+306
+00:12:10,284 --> 00:12:11,822
+The Ferrari LaFerrari,
+
+307
+00:12:11,822 --> 00:12:13,640
+one fifty-four point four.
+
+308
+00:12:13,820 --> 00:12:15,332
+The McLaren P1,
+
+309
+00:12:15,332 --> 00:12:17,953
+one fifty-five point five.
+
+310
+00:12:18,133 --> 00:12:19,504
+By our arithmetic,
+
+311
+00:12:19,504 --> 00:12:21,867
+the gap from first to second is
+
+312
+00:12:21,867 --> 00:12:23,619
+two tenths of a second,
+
+313
+00:12:23,619 --> 00:12:26,210
+and from second to third one point
+
+314
+00:12:26,210 --> 00:12:26,515
+one.
+
+315
+00:12:26,695 --> 00:12:29,009
+First to last is one point three
+
+316
+00:12:29,009 --> 00:12:31,829
+seconds, about one point one percent of
+
+317
+00:12:31,829 --> 00:12:32,407
+the lap.
+
+318
+00:12:32,758 --> 00:12:35,196
+The speed traps tell a different story.
+
+319
+00:12:35,376 --> 00:12:37,773
+The wiki lists the P1 as fastest
+
+320
+00:12:37,773 --> 00:12:41,369
+at two hundred thirty-five point nine kilometres
+
+321
+00:12:41,369 --> 00:12:43,992
+per hour, then the nine eighteen at
+
+322
+00:12:43,992 --> 00:12:46,539
+two hundred thirty-one point nine,
+
+323
+00:12:46,539 --> 00:12:49,761
+and the LaFerrari at two hundred thirty-one
+
+324
+00:12:49,761 --> 00:12:50,585
+point four.
+
+325
+00:12:50,765 --> 00:12:52,196
+By our arithmetic,
+
+326
+00:12:52,196 --> 00:12:54,979
+the P1 was four kilometres per hour
+
+327
+00:12:54,979 --> 00:12:57,921
+faster than the Porsche in that zone,
+
+328
+00:12:57,921 --> 00:13:00,227
+yet finished last on the lap.
+
+329
+00:13:00,577 --> 00:13:03,537
+Carwow also describes an earlier track test
+
+330
+00:13:03,537 --> 00:13:05,810
+where the Porsche finished first,
+
+331
+00:13:05,810 --> 00:13:08,564
+the Ferrari second and the McLaren last.
+
+332
+00:13:08,744 --> 00:13:10,669
+It does not say which test it
+
+333
+00:13:10,669 --> 00:13:12,993
+means, and it is a separate article
+
+334
+00:13:12,993 --> 00:13:13,922
+from the wiki.
+
+335
+00:13:14,102 --> 00:13:16,514
+We therefore treat it as a second
+
+336
+00:13:16,514 --> 00:13:18,194
+sign of the same order,
+
+337
+00:13:18,194 --> 00:13:20,971
+but not as an independent measurement,
+
+338
+00:13:20,971 --> 00:13:22,944
+and not as a verdict on the
+
+339
+00:13:22,944 --> 00:13:23,309
+cars.
+
+340
+00:13:23,659 --> 00:13:25,655
+There was a wager on top.
+
+341
+00:13:25,835 --> 00:13:28,255
+The wiki says Clarkson had bet that
+
+342
+00:13:28,255 --> 00:13:30,674
+his house would be destroyed if the
+
+343
+00:13:30,674 --> 00:13:31,573
+P1 came last,
+
+344
+00:13:31,573 --> 00:13:32,748
+and since it did,
+
+345
+00:13:32,748 --> 00:13:34,822
+Hammond and May were to do it.
+
+346
+00:13:35,002 --> 00:13:37,281
+We include this because it is part
+
+347
+00:13:37,281 --> 00:13:39,828
+of the Holy Trinity's story in popular
+
+348
+00:13:39,828 --> 00:13:41,771
+memory, and we mark it as the
+
+349
+00:13:41,771 --> 00:13:43,179
+entertainment it was,
+
+350
+00:13:43,179 --> 00:13:45,056
+not as engineering evidence.
+
+351
+00:13:45,406 --> 00:13:47,414
+The Nürburgring is the other arena.
+
+352
+00:13:47,594 --> 00:13:51,145
+Wikipedia says that in September twenty thirteen
+
+353
+00:13:51,145 --> 00:13:54,178
+a nine eighteen with the Weissach package
+
+354
+00:13:54,178 --> 00:13:57,359
+lapped the twenty point six kilometre track
+
+355
+00:13:57,359 --> 00:13:58,765
+in six fifty-seven,
+
+356
+00:13:58,765 --> 00:14:02,316
+cutting the previous record by fourteen seconds.
+
+357
+00:14:02,496 --> 00:14:04,656
+It describes the car as the first
+
+358
+00:14:04,656 --> 00:14:08,125
+street-legal production car to break the seven-minute
+
+359
+00:14:08,125 --> 00:14:08,649
+barrier.
+
+360
+00:14:08,999 --> 00:14:10,313
+By our arithmetic,
+
+361
+00:14:10,313 --> 00:14:13,964
+six fifty-seven is four hundred seventeen seconds,
+
+362
+00:14:13,964 --> 00:14:16,447
+so the record it replaced was four
+
+363
+00:14:16,447 --> 00:14:19,076
+hundred thirty-one, or seven eleven.
+
+364
+00:14:19,256 --> 00:14:21,158
+McLaren, Wikipedia says,
+
+365
+00:14:21,158 --> 00:14:24,011
+announced that the P1 had gone under
+
+366
+00:14:24,011 --> 00:14:27,022
+seven minutes, but did not publish the
+
+367
+00:14:27,022 --> 00:14:27,894
+exact time.
+
+368
+00:14:28,074 --> 00:14:29,907
+So the road car's lap,
+
+369
+00:14:29,907 --> 00:14:31,989
+as far as our sources go,
+
+370
+00:14:31,989 --> 00:14:34,239
+was never officially given.
+
+371
+00:14:34,589 --> 00:14:37,583
+The famous number is six forty-three point
+
+372
+00:14:37,583 --> 00:14:38,153
+two two.
+
+373
+00:14:38,333 --> 00:14:41,161
+Wikipedia says the prototype P1 LM,
+
+374
+00:14:41,161 --> 00:14:42,938
+driven by Kenny Bräck,
+
+375
+00:14:42,938 --> 00:14:45,928
+set it on the twenty-seventh of April
+
+376
+00:14:45,928 --> 00:14:49,968
+twenty seventeen, announced on the twenty-sixth of
+
+377
+00:14:49,968 --> 00:14:50,291
+May.
+
+378
+00:14:50,471 --> 00:14:51,609
+But it is a prototype.
+
+379
+00:14:51,789 --> 00:14:54,986
+Wikipedia is inconsistent on whether it was
+
+380
+00:14:54,986 --> 00:14:57,811
+road-legal, saying in one place it was
+
+381
+00:14:57,811 --> 00:15:00,190
+not, and in another that it used
+
+382
+00:15:00,190 --> 00:15:03,313
+road-legal tyres but lacked a front number
+
+383
+00:15:03,313 --> 00:15:03,759
+plate.
+
+384
+00:15:04,109 --> 00:15:05,430
+By our arithmetic,
+
+385
+00:15:05,430 --> 00:15:08,439
+six forty-three point two two is thirteen
+
+386
+00:15:08,439 --> 00:15:11,521
+point seven eight seconds quicker than six
+
+387
+00:15:11,521 --> 00:15:14,383
+fifty-seven, three point three percent.
+
+388
+00:15:14,563 --> 00:15:16,575
+But the two laps were four years
+
+389
+00:15:16,575 --> 00:15:19,466
+apart, in different cars with different rules,
+
+390
+00:15:19,466 --> 00:15:21,540
+so the comparison is not like for
+
+391
+00:15:21,540 --> 00:15:21,854
+like.
+
+392
+00:15:22,034 --> 00:15:24,068
+We show it because the figures are
+
+393
+00:15:24,068 --> 00:15:25,384
+often quoted together,
+
+394
+00:15:25,384 --> 00:15:26,760
+and they should not be.
+
+395
+00:15:27,110 --> 00:15:28,921
+The sibling cars followed.
+
+396
+00:15:29,101 --> 00:15:32,436
+Ferrari's FXX-K, a track car based on
+
+397
+00:15:32,436 --> 00:15:36,132
+the LaFerrari, was unveiled at Yas Marina
+
+398
+00:15:36,132 --> 00:15:38,296
+in late twenty fourteen.
+
+399
+00:15:38,476 --> 00:15:39,816
+Forty were built,
+
+400
+00:15:39,816 --> 00:15:41,235
+with one thousand,
+
+401
+00:15:41,235 --> 00:15:45,335
+fifty combined horsepower in Ferrari's metric units,
+
+402
+00:15:45,335 --> 00:15:47,148
+by Wikipedia's account.
+
+403
+00:15:47,328 --> 00:15:49,785
+In October twenty seventeen,
+
+404
+00:15:49,785 --> 00:15:54,171
+Ferrari unveiled the FXX-K Evo aerodynamic package
+
+405
+00:15:54,171 --> 00:15:55,223
+in Florence.
+
+406
+00:15:55,574 --> 00:15:58,395
+McLaren built a P1 GTR as a
+
+407
+00:15:58,395 --> 00:16:00,589
+homage to the F1 GTR,
+
+408
+00:16:00,589 --> 00:16:03,933
+and the prototype P1 LM set that
+
+409
+00:16:03,933 --> 00:16:05,605
+Nürburgring lap.
+
+410
+00:16:05,785 --> 00:16:08,728
+The Aperta joined the LaFerrari line in
+
+411
+00:16:08,728 --> 00:16:09,860
+twenty sixteen.
+
+412
+00:16:10,040 --> 00:16:12,693
+And the Porsche nine eighteen's heir,
+
+413
+00:16:12,693 --> 00:16:14,271
+as Wikipedia lists it,
+
+414
+00:16:14,271 --> 00:16:16,064
+is the Mission X concept,
+
+415
+00:16:16,064 --> 00:16:18,790
+presented in June twenty twenty-three,
+
+416
+00:16:18,790 --> 00:16:22,160
+with production planned for twenty twenty-five.
+
+417
+00:16:22,340 --> 00:16:25,350
+Wikipedia names the Ferrari F eighty and
+
+418
+00:16:25,350 --> 00:16:27,608
+the McLaren W one as the other
+
+419
+00:16:27,608 --> 00:16:28,436
+successors.
+
+420
+00:16:28,786 --> 00:16:31,189
+Add the three production runs.
+
+421
+00:16:31,369 --> 00:16:33,668
+Three hundred seventy-five P1s,
+
+422
+00:16:33,668 --> 00:16:36,784
+four hundred ninety-nine LaFerrari coupés,
+
+423
+00:16:36,784 --> 00:16:39,380
+and nine hundred eighteen Porsches.
+
+424
+00:16:39,560 --> 00:16:40,986
+By our arithmetic,
+
+425
+00:16:40,986 --> 00:16:42,651
+that is one thousand,
+
+426
+00:16:42,651 --> 00:16:45,028
+seven hundred ninety-two cars.
+
+427
+00:16:45,208 --> 00:16:47,398
+Add the two hundred ten Apertas,
+
+428
+00:16:47,398 --> 00:16:49,794
+and you reach two thousand and two.
+
+429
+00:16:49,974 --> 00:16:53,291
+The Porsche alone is fifty-one percent of
+
+430
+00:16:53,291 --> 00:16:55,152
+the coupé-and-P1 total.
+
+431
+00:16:55,502 --> 00:16:57,469
+So the most numerous of the three
+
+432
+00:16:57,469 --> 00:16:59,258
+is the one that was least like
+
+433
+00:16:59,258 --> 00:17:00,331
+a limited edition.
+
+434
+00:17:00,511 --> 00:17:03,733
+Nine hundred eighteen is two point four
+
+435
+00:17:03,733 --> 00:17:04,807
+times the P1.
+
+436
+00:17:04,987 --> 00:17:07,656
+And the nine eighteen sold out later
+
+437
+00:17:07,656 --> 00:17:09,214
+in the public record:
+
+438
+00:17:09,214 --> 00:17:12,699
+its sell-out is dated December twenty fourteen,
+
+439
+00:17:12,699 --> 00:17:15,591
+while the P1's allocations were sold by
+
+440
+00:17:15,591 --> 00:17:17,445
+November twenty thirteen.
+
+441
+00:17:17,625 --> 00:17:20,197
+We therefore cannot rank them by scarcity
+
+442
+00:17:20,197 --> 00:17:20,573
+alone.
+
+443
+00:17:20,924 --> 00:17:24,023
+The Top Gear magazine article says that
+
+444
+00:17:24,023 --> 00:17:26,725
+all three used hybrid powertrains,
+
+445
+00:17:26,725 --> 00:17:29,029
+which it calls a major bet by
+
+446
+00:17:29,029 --> 00:17:30,142
+manufacturers.
+
+447
+00:17:30,322 --> 00:17:32,963
+It also calls the nine eighteen the
+
+448
+00:17:32,963 --> 00:17:35,982
+most practical, the P1 sold to preferred
+
+449
+00:17:35,982 --> 00:17:38,623
+customers before final prototyping,
+
+450
+00:17:38,623 --> 00:17:42,170
+and the LaFerrari Ferrari's first proper hybrid
+
+451
+00:17:42,170 --> 00:17:44,585
+and its most powerful car at the
+
+452
+00:17:44,585 --> 00:17:44,962
+time.
+
+453
+00:17:45,142 --> 00:17:47,069
+Those are the article's words.
+
+454
+00:17:47,420 --> 00:17:48,813
+Where are the cars now?
+
+455
+00:17:48,993 --> 00:17:50,724
+From our earlier video:
+
+456
+00:17:50,724 --> 00:17:53,509
+a standard nine eighteen sold for two
+
+457
+00:17:53,509 --> 00:17:57,047
+million, nine hundred sixty thousand dollars in
+
+458
+00:17:57,047 --> 00:17:58,778
+June twenty twenty-six,
+
+459
+00:17:58,778 --> 00:18:01,639
+and the Sotheby's list had a LaFerrari
+
+460
+00:18:01,639 --> 00:18:02,843
+at five million,
+
+461
+00:18:02,843 --> 00:18:05,553
+four hundred seventy-seven thousand,
+
+462
+00:18:05,553 --> 00:18:07,360
+five hundred in January.
+
+463
+00:18:07,540 --> 00:18:09,428
+Carwow gives lower numbers,
+
+464
+00:18:09,428 --> 00:18:12,154
+over one million pounds for the Porsche
+
+465
+00:18:12,154 --> 00:18:14,881
+and over three million for the Ferrari,
+
+466
+00:18:14,881 --> 00:18:16,979
+so we use the auction results.
+
+467
+00:18:17,329 --> 00:18:20,150
+Launch prices were set in three currencies.
+
+468
+00:18:20,330 --> 00:18:23,081
+Wikipedia gives the nine eighteen at eight
+
+469
+00:18:23,081 --> 00:18:26,291
+hundred forty-five thousand dollars in the United
+
+470
+00:18:26,291 --> 00:18:29,566
+States and seven hundred eighty-one thousand euros
+
+471
+00:18:29,566 --> 00:18:30,221
+in Europe.
+
+472
+00:18:30,401 --> 00:18:32,993
+It gives the LaFerrari at more than
+
+473
+00:18:32,993 --> 00:18:34,326
+one million euros.
+
+474
+00:18:34,506 --> 00:18:37,044
+Carwow says the P1 was around eight
+
+475
+00:18:37,044 --> 00:18:39,510
+hundred sixty thousand pounds new.
+
+476
+00:18:39,690 --> 00:18:41,153
+We do not convert them,
+
+477
+00:18:41,153 --> 00:18:43,697
+because the dates and exchange rates are
+
+478
+00:18:43,697 --> 00:18:44,334
+not given.
+
+479
+00:18:44,684 --> 00:18:45,946
+Power to weight,
+
+480
+00:18:45,946 --> 00:18:47,760
+using Carwow's figures.
+
+481
+00:18:47,940 --> 00:18:49,215
+By our arithmetic,
+
+482
+00:18:49,215 --> 00:18:51,765
+the P1 has about six hundred fifteen
+
+483
+00:18:51,765 --> 00:18:53,252
+horsepower per tonne,
+
+484
+00:18:53,252 --> 00:18:55,943
+the LaFerrari about six hundred eight,
+
+485
+00:18:55,943 --> 00:18:58,776
+and the nine eighteen about five hundred
+
+486
+00:18:58,776 --> 00:18:59,272
+thirty.
+
+487
+00:18:59,452 --> 00:19:01,576
+On paper that is an order of
+
+488
+00:19:01,576 --> 00:19:03,321
+P1, LaFerrari, Porsche,
+
+489
+00:19:03,321 --> 00:19:05,750
+and the lap times above came out
+
+490
+00:19:05,750 --> 00:19:07,950
+in exactly the reverse order.
+
+491
+00:19:08,130 --> 00:19:10,325
+Power to weight does not decide a
+
+492
+00:19:10,325 --> 00:19:10,591
+lap.
+
+493
+00:19:10,942 --> 00:19:12,660
+Torque tells a different tale.
+
+494
+00:19:12,840 --> 00:19:15,558
+Carwow lists the nine eighteen at twelve
+
+495
+00:19:15,558 --> 00:19:17,529
+hundred eighty newton-metres,
+
+496
+00:19:17,529 --> 00:19:19,976
+against nine hundred for both the P1
+
+497
+00:19:19,976 --> 00:19:21,199
+and the LaFerrari.
+
+498
+00:19:21,379 --> 00:19:22,805
+By our arithmetic,
+
+499
+00:19:22,805 --> 00:19:25,895
+the Porsche has forty-two percent more.
+
+500
+00:19:26,075 --> 00:19:28,544
+Our sources do not explain whether that
+
+501
+00:19:28,544 --> 00:19:29,684
+helped on the day,
+
+502
+00:19:29,684 --> 00:19:31,393
+so we leave it as a number.
+
+503
+00:19:31,743 --> 00:19:34,517
+Claims did not always match measurements.
+
+504
+00:19:34,697 --> 00:19:38,262
+Wikipedia says Ferrari claimed fifteen seconds to
+
+505
+00:19:38,262 --> 00:19:41,245
+three hundred kilometres per hour for the
+
+506
+00:19:41,245 --> 00:19:44,446
+LaFerrari, and that this was later debunked,
+
+507
+00:19:44,446 --> 00:19:47,356
+with a verified time of twenty-one point
+
+508
+00:19:47,356 --> 00:19:48,084
+nine nine.
+
+509
+00:19:48,264 --> 00:19:51,220
+McLaren's own figure for the P1 is
+
+510
+00:19:51,220 --> 00:19:52,873
+sixteen and a half.
+
+511
+00:19:53,053 --> 00:19:54,381
+By our arithmetic,
+
+512
+00:19:54,381 --> 00:19:57,111
+the verified Ferrari time is five and
+
+513
+00:19:57,111 --> 00:19:59,914
+a half seconds slower than the McLaren
+
+514
+00:19:59,914 --> 00:20:02,201
+claim, which is itself a claim.
+
+515
+00:20:02,552 --> 00:20:04,456
+And the cars were not trouble-free.
+
+516
+00:20:04,636 --> 00:20:09,259
+Wikipedia says eighty-five LaFerrari coupés were recalled
+
+517
+00:20:09,259 --> 00:20:12,342
+for headrest and tyre-pressure issues,
+
+518
+00:20:12,342 --> 00:20:15,424
+plus a two thousand fifteen recall for
+
+519
+00:20:15,424 --> 00:20:16,884
+a driver's airbag.
+
+520
+00:20:17,064 --> 00:20:18,431
+By our arithmetic,
+
+521
+00:20:18,431 --> 00:20:22,074
+eighty-five is seventeen percent of four hundred
+
+522
+00:20:22,074 --> 00:20:22,985
+ninety-nine.
+
+523
+00:20:23,165 --> 00:20:26,360
+It lists a January twenty sixteen recall
+
+524
+00:20:26,360 --> 00:20:28,755
+of one hundred twenty-two P1s,
+
+525
+00:20:28,755 --> 00:20:31,710
+over a faulty secondary bonnet latch.
+
+526
+00:20:32,061 --> 00:20:33,500
+The Porsche had its own.
+
+527
+00:20:33,680 --> 00:20:36,516
+Autoblog reported in May twenty fifteen a
+
+528
+00:20:36,516 --> 00:20:40,183
+precautionary recall of two hundred twenty-three nine
+
+529
+00:20:40,183 --> 00:20:42,327
+eighteens in the United States,
+
+530
+00:20:42,327 --> 00:20:45,163
+for a carbon-fibre part that could damage
+
+531
+00:20:45,163 --> 00:20:46,962
+the radiator fan's wiring.
+
+532
+00:20:47,142 --> 00:20:50,475
+Motor1 later reported three hundred six vehicles
+
+533
+00:20:50,475 --> 00:20:53,391
+recalled for front lower control arms that
+
+534
+00:20:53,391 --> 00:20:54,224
+might crack.
+
+535
+00:20:54,404 --> 00:20:56,985
+All three makers fixed these free of
+
+536
+00:20:56,985 --> 00:20:59,350
+charge, according to the reports.
+
+537
+00:20:59,700 --> 00:21:01,987
+Two charity sales close the story.
+
+538
+00:21:02,167 --> 00:21:05,602
+Wikipedia says the five hundredth LaFerrari was
+
+539
+00:21:05,602 --> 00:21:08,599
+auctioned on the third of December twenty
+
+540
+00:21:08,599 --> 00:21:11,596
+sixteen by RM Sotheby's for seven million
+
+541
+00:21:11,596 --> 00:21:15,544
+dollars, to the National Italian American Foundation's
+
+542
+00:21:15,544 --> 00:21:17,225
+earthquake relief fund.
+
+543
+00:21:17,405 --> 00:21:20,518
+The last Aperta sold in twenty seventeen
+
+544
+00:21:20,518 --> 00:21:22,386
+for ten million dollars,
+
+545
+00:21:22,386 --> 00:21:23,709
+also for charity.
+
+546
+00:21:23,889 --> 00:21:26,048
+Those are the highest prices in the
+
+547
+00:21:26,048 --> 00:21:27,035
+sources we read.
+
+548
+00:21:27,386 --> 00:21:28,326
+What is missing.
+
+549
+00:21:28,506 --> 00:21:30,947
+Who first called these cars the Holy
+
+550
+00:21:30,947 --> 00:21:31,490
+Trinity.
+
+551
+00:21:31,670 --> 00:21:34,352
+Whether any of the three companies built
+
+552
+00:21:34,352 --> 00:21:36,163
+its car to beat the others.
+
+553
+00:21:36,343 --> 00:21:38,971
+Which of the three finished its development
+
+554
+00:21:38,971 --> 00:21:39,338
+first.
+
+555
+00:21:39,518 --> 00:21:42,177
+The LaFerrari's production start date.
+
+556
+00:21:42,357 --> 00:21:45,707
+An official Nürburgring time for the road-going
+
+557
+00:21:45,707 --> 00:21:45,921
+P1.
+
+558
+00:21:46,101 --> 00:21:48,673
+And any independent test that put all
+
+559
+00:21:48,673 --> 00:21:50,758
+three on the same track on the
+
+560
+00:21:50,758 --> 00:21:51,384
+same day.
+
+561
+00:21:51,734 --> 00:21:54,027
+So the honest version of the story
+
+562
+00:21:54,027 --> 00:21:54,566
+is this.
+
+563
+00:21:54,746 --> 00:21:57,467
+Three companies, working separately,
+
+564
+00:21:57,467 --> 00:22:00,112
+reached the same idea at nearly the
+
+565
+00:22:00,112 --> 00:22:02,832
+same time: a hybrid hypercar for the
+
+566
+00:22:02,832 --> 00:22:03,210
+road.
+
+567
+00:22:03,390 --> 00:22:04,827
+The press grouped them,
+
+568
+00:22:04,827 --> 00:22:06,827
+as it had grouped others before.
+
+569
+00:22:07,007 --> 00:22:09,297
+The record shows a shared moment,
+
+570
+00:22:09,297 --> 00:22:10,060
+not a duel.
+
+571
+00:22:10,240 --> 00:22:12,233
+The legend of a rivalry is,
+
+572
+00:22:12,233 --> 00:22:14,079
+as far as our sources go,
+
+573
+00:22:14,079 --> 00:22:15,999
+a legend the public built.
+
+574
+00:22:16,349 --> 00:22:18,533
+Which of the three would you choose,
+
+575
+00:22:18,533 --> 00:22:19,019
+and why?
+
+576
+00:22:19,199 --> 00:22:20,650
+Tell us in the comments.
+
+577
+00:22:20,830 --> 00:22:23,417
+In the other videos of this series,
+
+578
+00:22:23,417 --> 00:22:26,374
+we reveal two secrets inside the Porsche
+
+579
+00:22:26,374 --> 00:22:29,701
+nine eighteen, compare it with the LaFerrari,
+
+580
+00:22:29,701 --> 00:22:31,992
+and add up what it really costs
+
+581
+00:22:31,992 --> 00:22:32,510
+to own.
+
+582
+00:22:32,690 --> 00:22:35,553
+Our twenty twenty-seven Truck Buyer's Guide is
+
+583
+00:22:35,553 --> 00:22:37,171
+linked in the description.
+
+584
+00:22:37,351 --> 00:22:40,010
+Subscribe to Pickup Reality.
