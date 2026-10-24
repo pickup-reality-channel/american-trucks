@@ -1,0 +1,109 @@
+# Photo credits: The Real Cost of an American Hypercar
+
+- RKR 7664 (51967287158).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7662 (51967227491).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7672 (51961007041).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7665 (51967225796).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7663 (51967227181).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7663 (51967227181) (cropped) (cropped).jpg by Robert Rouse from United States, CC BY 2.0
+- RKR 7663 (51967227181) (cropped).jpg by Robert Rouse from United States, CC BY 2.0
+- Hennessey Venom F5, GIMS 2018, Le Grand-Saconnex (1X7A1390).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 Back Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1389).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- 2019 SSC Tuatara at Pebble Beach Press Conference.jpg by SSCNA, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54869830611).jpg by Charles from Port Chester, New York, CC0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- Day-Use Parking at Price Canyon (55380548774).jpg by BLMUtah, Public domain
+- Price Canyon Recreation Area Face Lift (4) (21634880139).jpg by BLMUtah, Public domain
+- Price Canyon Recreation Area Campgroun (53827655847).jpg by BLMUtah, Public domain
+- SSC Hospital.jpg by LittleT889, CC BY 4.0
+- Thrust SSC Mini Test Vehicle.jpg by Freggs, CC BY-SA 2.0
+- HolidayTree Lighting (3990697).jpg by U.S. Space Force SSC by Joseph Juarez Sr., Public domain
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 39).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 49).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 32).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 48).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 38).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 41).jpg by Wright Brothers, Dayton, Ohio, CC0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 (76964).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 SP 22.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster.jpg by MrWalkr, CC BY-SA 4.0
+- Hennesey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 1.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54870063828).jpg by Charles from Port Chester, New York, CC0
+- 2024 SSC Tuatara Striker in Dark Olive Green, engine.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker interior at Waveny Park 2024.jpg by Mr.choppers, CC BY-SA 3.0
+- Moscow, Paveletskaya Plaza Feb.2025 - cheese 01.jpg by Retired electrician, CC0
+- Moscow, Paveletskaya Plaza Feb.2025 - cheese 02.jpg by Retired electrician, CC0
+- Münster, Domplatz, Wochenmarkt -- 2019 -- 2694.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Computer Memory Hard Drive Disk HDD Storage Technology.jpg by epSos.de, CC BY 2.0
+- Glowing Christmas Tree Lights in the Winter Night.jpg by epSos.de, CC BY 2.0
+- Masik Pass Ski Resort in North Korea (11945680134).jpg by Uri Tours, CC BY-SA 2.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 107 Donald Trump Claims Victory In Gas Price War Against Joe Biden (55212673434).jpg by The Fun Chronicles, CC0
+- Rosa What a Peach 6zz.jpg by Photo by David J. Stang, CC BY-SA 4.0
+- Rosa What a Peach 8zz.jpg by Photo by David J. Stang, CC BY-SA 4.0
+- Rosa What a Peach 7zz.jpg by Photo by David J. Stang, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 6.6 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Argazkia auto.jpg by Gontzal Cepeda, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54096246544).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54095915031).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (53994306545).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Snail Kite (15589908933).jpg by AmishRob, CC BY 2.0
+- Реле времени электронное РВЭ-1, завод Северная Заря (04).jpg by 155LA3, CC BY 4.0
+- Реле времени электронное РВЭ-1, завод Северная Заря (03).jpg by 155LA3, CC BY 4.0
+- Inner City, Apartment Living (4051721389).jpg by Alex Proimos from Sydney, Australia, CC BY 2.0
+- NHCPjf9310 17.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- NHCPjf9310 12.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- 2022 Hennessey Venom F5 Roadster 6.6 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Hennessey Venom.jpg by Adam Russell, CC BY-SA 2.0
+- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Hennessey Venom GT.JPG by Mystfire, CC BY 3.0
+- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
+- White Hennessey Venom Gt (15036028446).jpg by Axion23, CC BY 2.0
+- 2011 Hennessey Venom GT in Venom Red, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2011 Hennessey Venom GT in Venom Red, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2026 Ferrari 849 Testarossa Assetto Fiorano in Blu Corsa.jpg by Andrew Bone from Weymouth, England, UK., CC BY 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4137).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4138).jpg by Yu Chu Chin, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54000091809).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54559022692).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Kelley Blue Book Official Guide. Best Resale Value.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- PH-KBB 020912 (7913960824) (2).jpg by Jonathan Payne from Ayr, United Kingdom, CC BY-SA 2.0
+- SU-KBB (3983581070).jpg by Björn Strey, CC BY-SA 2.0
+
+## Sources
+
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, Hennessey Venom GT: https://en.wikipedia.org/wiki/Hennessey_Venom_GT
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- Motor Authority, Hennessey Venom F5 hypercar sells out following Monterey Car Week showing: https://motorauthority.com/news/1118149_hennessey-venom-f5-hypercar-sells-out-following-monterey-car-week-showing
+- Motor Authority, SSC Little Brother coming with second factory: https://www.motorauthority.com/news/1135975_ssc-little-brother-coming-with-second-factory
+- Carscoops, Skip the wait list and get this Hennessey Venom F5 at auction: https://www.carscoops.com/2025/04/skip-the-wait-list-and-get-this-hennessey-venom-f5-at-auction/
+- Hennessey Special Vehicles (company news), Venom F5 sold for $2.2 million at Broad Arrow Auctions: https://www.hennesseyspecialvehicles.com/news/hennessey-venom-f5-sold-for-2-2-million-at-broad-arrow-auctions/
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds
+- The Drive, Hennessey Venom F5 crashes at 250 mph: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html

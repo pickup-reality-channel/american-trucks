@@ -1,0 +1,108 @@
+# Photo credits: Why the Bugatti Veyron Almost Never Happened
+
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 9.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport Vitesse.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1993 Bugatti EB110 Prototype.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti EB110 Sport Competizione - Flickr - Alexandre Prevot.jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti EB110 at Chelsea Auto Legends 2012 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti EB110 (51904903384).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Bugatti EB110 at Chelsea Auto Legends 2012 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti EB110 Sport Competizione (52687218259).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti EB110 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti EB110 hcc25.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 Bugatti EB110 America.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 Bugatti EB110 America 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 Bugatti EB110 America 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti EB110 (51991686316).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Bugatti EB110 Prototype (51990689042).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- 1993 Bugatti EB110 GT.jpg by Lcaa9, CC BY-SA 4.0
+- 2006 Bugatti Veyron - 05.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2006 Bugatti Veyron - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Bugatti Type 40 tourer on display at the Városház Park, Budapest (2).jpg by Elekes Andor, CC BY-SA 4.0
+- Bugatti EB110 in 1-18 scale..jpg by Putevik, CC BY-SA 4.0
+- 1993 Bugatti EB110 GT Side.jpg by Lcaa9, CC BY-SA 4.0
+- Eb110 (7462449964).jpg by Ben, CC BY-SA 2.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- Pop Art Künstlerin Tanja Playner Ernst Piech Enkelsohn Ferdinand Porsche.jpg by Mamag modern art museum, CC BY-SA 4.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 10 (Piech) ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 09 ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Sakiko buys a delicious soup at Kitchen Grizzly. (53311001084).jpg by MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN, CC BY 2.0
+- 2007 Volkswagen Golf R32 MKV (Typ 1K) (3731732679).jpg by Spanish Coches, CC BY 2.0
+- 2007 Volkswagen Golf R32 MKV (Typ 1K) (3731734911).jpg by Spanish Coches, CC BY 2.0
+- Bugatti Chiron (8171).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8169).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8170).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Veyron 16.4 2.JPG by GerardM, CC BY-SA 3.0
+- Bugatti Veyron concept in 2003.jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Veyron 18 4 Concept (54737722934).jpg by More Cars, CC BY 4.0
+- Bugatti Veyron vs Bugatti Veyron Vitesse (10107122064).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron vs McLaren P1 (14402979385).jpg by Axion23, CC BY 2.0
+- DBSV vs. Veyron. (4285636911).jpg by Damian Morys from New York City, United States, CC BY 2.0
+- Logistics Readiness Squadron change of command 110705-F-AX764-007.jpg by Airman 1st Class Ericka Engblom, Public domain
+- Reichsführerschule der NSDAP Geschäftsstelle Schellingstraße 50 (?) München SS Schutzstaffel members c. 1932 Hitler Heinrich Himmler Kurt Kühme Adolf Egeberg jr etc National Archives NARA Unrestricted No known copyright 242-HF-.jpg by This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., Public domain
+- Reichsführerschule der NSDAP Geschäftsstelle Schellingstraße 50 (?) München SS Schutzstaffel members kepis c. 1932 Hitler Kurt Kühme Adolf Egeberg jr etc National Archives NARA Unrestricted No known copyright 242-HF-0072 001.jpg by This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., Public domain
+- Reichsführerschule der NSDAP Geschäftsstelle Schellingstraße 50 (?) München SS Schutzstaffel members c. 1932 Hitler Kurt Kühme Adolf Egeberg jr etc National Archives NARA Unrestricted No known copyright 242-HF-0073 001.jpg by This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., Public domain
+- Bugatti Veyron Engine 1X7A7930.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Bugatti Veyron 2008 - 005.JPG by Ammar shaker, Public domain
+- Bugatti F.K.P. Hommage (55088962018) (cropped).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Bugatti F.K.P. Hommage (55088962018).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Veyron-SS.jpg by MrWalkr, CC BY-SA 4.0
+- Veyron-SS0.jpg by MrWalkr, CC BY-SA 4.0
+- Veyron GS Vitesse WRC.jpg by MrWalkr, CC BY-SA 4.0
+- 2010 Bugatti Veyron Super Sport WRE Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2010 Bugatti Veyron Super Sport WRE SCD24.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron Super Sport Retro Classics 2020 IMG 0210.jpg by Alexander Migl, CC BY-SA 4.0
+- 11-09-04-iaa-by-RalfR-361.jpg by Ralf Roletschek, CC BY-SA 1.0
+- Bugatti Veyron EB 16.4 (2007) (55079223190).jpg by Charles from Port Chester, New York, CC0
+- Bugatti Veyron EB 16.4 (2008) (54868849009).jpg by Charles from Port Chester, New York, CC0
+- Bugatti Veyron EB 16.4 (2007) (55079062498).jpg by Charles from Port Chester, New York, CC0
+- 1925 Bugatti Type 35T.jpg by Calreyn88, CC BY-SA 4.0
+- 1925 Bugatti Type 35T 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1925 Bugatti Type 35T 3.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron EB 16.4 (2008) (52569946394).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Bugatti Veyron EB 16.4 (2008) (52570116555).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Bugatti Veyron 16.4 (2).jpg by Alexandre Prevot, CC BY-SA 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0623).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 7.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 16.4 gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Bugatti Veyron Centenaire Malcolm Campbell.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 3.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Bugatti EB110: https://en.wikipedia.org/wiki/Bugatti_EB110
+- Wikipedia, Bugatti Automobiles: https://en.wikipedia.org/wiki/Bugatti_Automobiles
+- Motor1, Bugatti Veyron: 20 years: https://www.motor1.com/features/774035/bugatti-veyron-20-years/
+- Top Gear, Here's the key that helped Bugatti do 407 km/h: https://topgear.com/car-news/supercars/heres-key-helped-bugatti-do-407kmh
+- Car magazine, Popping my Bugatti Veyron cherry: https://carmagazine.co.uk/features/car-culture/popping-my-bugatti-veyron-cherry-this-is-what-it-feels-like-to-drive-254mph-hypercar
+- Jalopnik, Volkswagen loses a staggering $6.25 million on each Bugatti they sell: https://jalopnik.com/volkswagen-loses-a-staggering-6-25-million-on-each-bug-1426504241
