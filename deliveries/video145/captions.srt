@@ -1,0 +1,2299 @@
+1
+00:00:00,000 --> 00:00:02,357
+Ferrari closed the order book on its
+
+2
+00:00:02,357 --> 00:00:05,174
+first four-door car before it had delivered
+
+3
+00:00:05,174 --> 00:00:06,025
+a single one.
+
+4
+00:00:06,205 --> 00:00:09,571
+The Ferrari Purosangue has no anti-roll bars
+
+5
+00:00:09,571 --> 00:00:10,106
+at all.
+
+6
+00:00:10,286 --> 00:00:13,129
+And its chief executive asked the world
+
+7
+00:00:13,129 --> 00:00:14,733
+not to call it an SUV.
+
+8
+00:00:14,913 --> 00:00:17,056
+These are two of the things you
+
+9
+00:00:17,056 --> 00:00:19,960
+may not know about the Ferrari Purosangue:
+
+10
+00:00:19,960 --> 00:00:21,689
+how its suspension works,
+
+11
+00:00:21,689 --> 00:00:24,317
+and why Ferrari stopped taking orders.
+
+12
+00:00:24,497 --> 00:00:26,389
+Everything here is sourced.
+
+13
+00:00:26,739 --> 00:00:28,479
+We read Wikipedia,
+
+14
+00:00:28,479 --> 00:00:30,413
+Motor1, Robb Report,
+
+15
+00:00:30,413 --> 00:00:33,699
+Carscoops, autoevolution, Autocar,
+
+16
+00:00:33,699 --> 00:00:37,469
+Autoblog and a Czech business site that
+
+17
+00:00:37,469 --> 00:00:40,079
+analysed Ferrari's results.
+
+18
+00:00:40,259 --> 00:00:43,481
+Ferrari's own performance figures are claims,
+
+19
+00:00:43,481 --> 00:00:45,414
+and we mark them as claims.
+
+20
+00:00:45,594 --> 00:00:47,947
+Prices conflict between sources,
+
+21
+00:00:47,947 --> 00:00:49,565
+and we show every one.
+
+22
+00:00:49,745 --> 00:00:53,077
+And our own arithmetic is always labelled
+
+23
+00:00:53,077 --> 00:00:53,727
+as ours.
+
+24
+00:00:54,077 --> 00:00:56,134
+Motor1's Brian Silvestro,
+
+25
+00:00:56,134 --> 00:01:00,414
+reviewing the Purosangue in July twenty twenty-four,
+
+26
+00:01:00,414 --> 00:01:03,295
+describes its suspension in detail.
+
+27
+00:01:03,475 --> 00:01:06,856
+The dampers are Multimatic's True Active Spool
+
+28
+00:01:06,856 --> 00:01:09,796
+Valve type, which use electric motors to
+
+29
+00:01:09,796 --> 00:01:12,147
+control damping and ride height.
+
+30
+00:01:12,327 --> 00:01:15,173
+The left and right sides work independently,
+
+31
+00:01:15,173 --> 00:01:17,242
+and the review says there are no
+
+32
+00:01:17,242 --> 00:01:17,889
+sway bars.
+
+33
+00:01:18,239 --> 00:01:20,637
+The review says that in soft mode
+
+34
+00:01:20,637 --> 00:01:22,744
+the car is composed but firm,
+
+35
+00:01:22,744 --> 00:01:25,578
+and that hard mode stiffens the dampers
+
+36
+00:01:25,578 --> 00:01:27,759
+and greatly reduces body roll.
+
+37
+00:01:27,939 --> 00:01:30,588
+Silvestro writes that it handles more like
+
+38
+00:01:30,588 --> 00:01:32,606
+a sports sedan than a crossover.
+
+39
+00:01:32,786 --> 00:01:34,998
+We cannot measure that ourselves,
+
+40
+00:01:34,998 --> 00:01:37,948
+and the review reports no cornering numbers,
+
+41
+00:01:37,948 --> 00:01:40,228
+so it is one reviewer's judgement.
+
+42
+00:01:40,578 --> 00:01:42,551
+The same review gives its verdict.
+
+43
+00:01:42,731 --> 00:01:45,866
+It calls the Purosangue the best SUV-shaped
+
+44
+00:01:45,866 --> 00:01:47,835
+vehicle he has ever driven,
+
+45
+00:01:47,835 --> 00:01:50,022
+and says it is not even close.
+
+46
+00:01:50,202 --> 00:01:52,836
+It names the Cadillac CT five V
+
+47
+00:01:52,836 --> 00:01:55,471
+Blackwing and the BMW M five CS
+
+48
+00:01:55,471 --> 00:01:57,340
+as the closest rivals,
+
+49
+00:01:57,340 --> 00:02:00,569
+and says the Ferrari is more enjoyable
+
+50
+00:02:00,569 --> 00:02:01,928
+on twisty roads.
+
+51
+00:02:02,108 --> 00:02:03,984
+The review does not compare it with
+
+52
+00:02:03,984 --> 00:02:05,324
+the Rolls-Royce Cullinan.
+
+53
+00:02:05,675 --> 00:02:08,101
+Wikipedia gives the base hardware.
+
+54
+00:02:08,281 --> 00:02:12,038
+A six point five litre naturally aspirated
+
+55
+00:02:12,038 --> 00:02:14,811
+V12, called the F one forty IA,
+
+56
+00:02:14,811 --> 00:02:18,210
+with seven hundred fifteen horsepower,
+
+57
+00:02:18,210 --> 00:02:21,161
+seven hundred twenty-five metric,
+
+58
+00:02:21,161 --> 00:02:23,576
+at seventy-seven fifty rpm,
+
+59
+00:02:23,576 --> 00:02:28,317
+and five hundred twenty-eight pound-feet at sixty-two
+
+60
+00:02:28,317 --> 00:02:28,854
+fifty.
+
+61
+00:02:29,034 --> 00:02:31,566
+It drives all four wheels through an
+
+62
+00:02:31,566 --> 00:02:33,817
+eight-speed dual-clutch gearbox,
+
+63
+00:02:33,817 --> 00:02:36,279
+with a redline of eighty-two fifty.
+
+64
+00:02:36,629 --> 00:02:37,962
+By our arithmetic,
+
+65
+00:02:37,962 --> 00:02:41,444
+seven hundred fifteen horsepower from six point
+
+66
+00:02:41,444 --> 00:02:44,482
+five litres is one hundred ten horsepower
+
+67
+00:02:44,482 --> 00:02:46,927
+per litre, with no turbochargers.
+
+68
+00:02:47,107 --> 00:02:49,557
+Ferrari's claims, per Wikipedia:
+
+69
+00:02:49,557 --> 00:02:52,544
+zero to one hundred kilometres per hour
+
+70
+00:02:52,544 --> 00:02:54,764
+in three point three seconds,
+
+71
+00:02:54,764 --> 00:02:57,215
+zero to two hundred in ten point
+
+72
+00:02:57,215 --> 00:02:59,359
+six, and a top speed of over
+
+73
+00:02:59,359 --> 00:03:02,269
+three hundred ten kilometres per hour.
+
+74
+00:03:02,449 --> 00:03:03,637
+By our arithmetic,
+
+75
+00:03:03,637 --> 00:03:05,684
+the gap from one hundred to two
+
+76
+00:03:05,684 --> 00:03:08,126
+hundred is seven point three seconds.
+
+77
+00:03:08,477 --> 00:03:11,194
+Motor1 lists zero to sixty at three
+
+78
+00:03:11,194 --> 00:03:12,592
+point two seconds,
+
+79
+00:03:12,592 --> 00:03:14,688
+but labels it as estimated,
+
+80
+00:03:14,688 --> 00:03:15,698
+not measured.
+
+81
+00:03:15,878 --> 00:03:18,015
+Its spec sheet gives a top speed
+
+82
+00:03:18,015 --> 00:03:20,753
+of one hundred ninety-two miles per hour,
+
+83
+00:03:20,753 --> 00:03:23,491
+which is three hundred nine kilometres an
+
+84
+00:03:23,491 --> 00:03:25,027
+hour by our arithmetic.
+
+85
+00:03:25,207 --> 00:03:28,353
+Wikipedia's figure is over three hundred ten.
+
+86
+00:03:28,533 --> 00:03:31,284
+The numbers are close but not identical,
+
+87
+00:03:31,284 --> 00:03:33,692
+and all of them come from Ferrari's
+
+88
+00:03:33,692 --> 00:03:34,036
+side.
+
+89
+00:03:34,385 --> 00:03:35,488
+The second thing.
+
+90
+00:03:35,668 --> 00:03:39,133
+Robb Report says Ferrari temporarily closed the
+
+91
+00:03:39,133 --> 00:03:42,008
+Purosangue's order book about two and a
+
+92
+00:03:42,008 --> 00:03:44,072
+half months after its debut,
+
+93
+00:03:44,072 --> 00:03:47,242
+because interest far outpaced what it could
+
+94
+00:03:47,242 --> 00:03:47,685
+build.
+
+95
+00:03:47,865 --> 00:03:50,663
+The waiting list was roughly two years.
+
+96
+00:03:50,843 --> 00:03:52,325
+And Enrico Galliera,
+
+97
+00:03:52,325 --> 00:03:54,846
+Ferrari's chief marketing officer,
+
+98
+00:03:54,846 --> 00:03:57,588
+said: We had such an interest without
+
+99
+00:03:57,588 --> 00:03:59,515
+delivering one single car.
+
+100
+00:03:59,865 --> 00:04:02,972
+Carscoops adds that on the earnings call
+
+101
+00:04:02,972 --> 00:04:05,070
+in May twenty twenty-three,
+
+102
+00:04:05,070 --> 00:04:08,798
+chief executive Benedetto Vigna said Ferrari was
+
+103
+00:04:08,798 --> 00:04:10,895
+preparing to reopen orders.
+
+104
+00:04:11,075 --> 00:04:13,261
+He said the company had been caught
+
+105
+00:04:13,261 --> 00:04:16,009
+by positive surprise by the strong interest.
+
+106
+00:04:16,189 --> 00:04:19,177
+Anyone who ordered then would wait until
+
+107
+00:04:19,177 --> 00:04:21,193
+at least twenty twenty-six.
+
+108
+00:04:21,373 --> 00:04:24,279
+Motor1 later reported that order books were
+
+109
+00:04:24,279 --> 00:04:25,901
+at their highest levels.
+
+110
+00:04:26,250 --> 00:04:27,946
+There was a promise attached.
+
+111
+00:04:28,126 --> 00:04:31,174
+Robb Report, Carscoops and Motor1 all say
+
+112
+00:04:31,174 --> 00:04:33,777
+the Purosangue will make up no more
+
+113
+00:04:33,777 --> 00:04:36,752
+than twenty percent of Ferrari's output.
+
+114
+00:04:36,932 --> 00:04:39,911
+Carscoops says Vigna also pledged not to
+
+115
+00:04:39,911 --> 00:04:42,146
+extend the model's life cycle,
+
+116
+00:04:42,146 --> 00:04:43,561
+despite the demand.
+
+117
+00:04:43,741 --> 00:04:46,139
+That means the promise is a ceiling
+
+118
+00:04:46,139 --> 00:04:48,195
+on volume and a limit on time,
+
+119
+00:04:48,195 --> 00:04:50,045
+both stated by the company.
+
+120
+00:04:50,395 --> 00:04:51,847
+Put numbers on that cap.
+
+121
+00:04:52,027 --> 00:04:55,105
+A Czech business site reports that Ferrari
+
+122
+00:04:55,105 --> 00:04:57,157
+delivered thirteen thousand,
+
+123
+00:04:57,157 --> 00:05:00,456
+six hundred forty cars in twenty twenty-five.
+
+124
+00:05:00,636 --> 00:05:01,902
+By our arithmetic,
+
+125
+00:05:01,902 --> 00:05:04,646
+twenty percent of that is two thousand,
+
+126
+00:05:04,646 --> 00:05:06,545
+seven hundred twenty-eight.
+
+127
+00:05:06,725 --> 00:05:07,886
+That is a ceiling,
+
+128
+00:05:07,886 --> 00:05:08,659
+not a count,
+
+129
+00:05:08,659 --> 00:05:10,722
+and the article does not say how
+
+130
+00:05:10,722 --> 00:05:12,785
+many Purosangues were delivered.
+
+131
+00:05:13,135 --> 00:05:15,794
+An analyst once guessed at the volume.
+
+132
+00:05:15,974 --> 00:05:17,920
+In August twenty seventeen,
+
+133
+00:05:17,920 --> 00:05:21,596
+Autocar quoted analyst Max Warburton estimating two
+
+134
+00:05:21,596 --> 00:05:24,407
+thousand to three thousand units a year
+
+135
+00:05:24,407 --> 00:05:26,713
+for the model he called the FUV.
+
+136
+00:05:26,893 --> 00:05:28,286
+By our arithmetic,
+
+137
+00:05:28,286 --> 00:05:31,381
+that is almost exactly the range implied
+
+138
+00:05:31,381 --> 00:05:34,088
+by the twenty percent cap on twenty
+
+139
+00:05:34,088 --> 00:05:35,868
+twenty-five deliveries.
+
+140
+00:05:36,048 --> 00:05:38,360
+It is an estimate made five years
+
+141
+00:05:38,360 --> 00:05:40,042
+before the car appeared.
+
+142
+00:05:40,391 --> 00:05:43,258
+Early shipments give a sense of Ferrari's
+
+143
+00:05:43,258 --> 00:05:43,677
+scale.
+
+144
+00:05:43,857 --> 00:05:46,247
+Carscoops reports three thousand,
+
+145
+00:05:46,247 --> 00:05:49,506
+five hundred sixty-seven units shipped in the
+
+146
+00:05:49,506 --> 00:05:52,185
+first quarter of twenty twenty-three,
+
+147
+00:05:52,185 --> 00:05:54,213
+up nine point seven percent.
+
+148
+00:05:54,393 --> 00:05:56,831
+If twenty percent of a quarter like
+
+149
+00:05:56,831 --> 00:05:58,364
+that were Purosangues,
+
+150
+00:05:58,364 --> 00:06:00,802
+by our arithmetic it would be about
+
+151
+00:06:00,802 --> 00:06:02,752
+seven hundred fourteen cars.
+
+152
+00:06:02,932 --> 00:06:05,152
+That is a hypothetical ceiling,
+
+153
+00:06:05,152 --> 00:06:07,658
+since the car was still ramping up.
+
+154
+00:06:08,007 --> 00:06:09,308
+Third, the name.
+
+155
+00:06:09,488 --> 00:06:13,277
+Wikipedia says Purosangue is Italian for the
+
+156
+00:06:13,277 --> 00:06:16,550
+horse breed, with a link to Purosangue
+
+157
+00:06:16,550 --> 00:06:18,962
+Orientale, the Arabian type.
+
+158
+00:06:19,142 --> 00:06:20,259
+In twenty twenty,
+
+159
+00:06:20,259 --> 00:06:22,624
+Ferrari tried to trademark the name,
+
+160
+00:06:22,624 --> 00:06:25,318
+but the Purosangue Foundation blocked it.
+
+161
+00:06:25,498 --> 00:06:27,647
+Ferrari sued, and the case went to
+
+162
+00:06:27,647 --> 00:06:29,795
+court on the fifth of March twenty
+
+163
+00:06:29,795 --> 00:06:30,490
+twenty-one.
+
+164
+00:06:30,840 --> 00:06:32,639
+The page does not tell us how
+
+165
+00:06:32,639 --> 00:06:33,569
+the case ended.
+
+166
+00:06:33,749 --> 00:06:35,862
+But Ferrari kept the name for the
+
+167
+00:06:35,862 --> 00:06:38,486
+car, which was revealed on the thirteenth
+
+168
+00:06:38,486 --> 00:06:40,471
+of September twenty twenty-two.
+
+169
+00:06:40,651 --> 00:06:44,231
+Wikipedia also says Ferrari does not call
+
+170
+00:06:44,231 --> 00:06:45,105
+it an SUV,
+
+171
+00:06:45,105 --> 00:06:46,065
+but an FUV,
+
+172
+00:06:46,065 --> 00:06:48,335
+a Ferrari Utility Vehicle,
+
+173
+00:06:48,335 --> 00:06:51,217
+and has denied building an SUV on
+
+174
+00:06:51,217 --> 00:06:52,876
+multiple occasions.
+
+175
+00:06:53,226 --> 00:06:55,920
+Wikipedia also records an award.
+
+176
+00:06:56,100 --> 00:06:59,612
+The Purosangue won the Compasso d'Oro industrial
+
+177
+00:06:59,612 --> 00:07:02,172
+design award in twenty twenty-four.
+
+178
+00:07:02,352 --> 00:07:04,986
+The page gives no jury statement or
+
+179
+00:07:04,986 --> 00:07:07,319
+reasons, so we do not know what
+
+180
+00:07:07,319 --> 00:07:08,749
+the judges praised.
+
+181
+00:07:08,929 --> 00:07:11,592
+The design itself came from the Ferrari
+
+182
+00:07:11,592 --> 00:07:14,049
+Styling Centre under Flavio Manzoni,
+
+183
+00:07:14,049 --> 00:07:15,756
+according to the infobox.
+
+184
+00:07:16,105 --> 00:07:18,695
+The rear doors are unusual.
+
+185
+00:07:18,875 --> 00:07:21,910
+Wikipedia says they open from the front,
+
+186
+00:07:21,910 --> 00:07:23,580
+with a fixed B-pillar,
+
+187
+00:07:23,580 --> 00:07:26,084
+to help access to the rear seats.
+
+188
+00:07:26,264 --> 00:07:29,055
+The infobox calls them coach doors,
+
+189
+00:07:29,055 --> 00:07:32,404
+while the text calls them front-opening or
+
+190
+00:07:32,404 --> 00:07:33,521
+suicide-style.
+
+191
+00:07:33,701 --> 00:07:36,682
+Autoevolution adds that the car has two
+
+192
+00:07:36,682 --> 00:07:40,045
+individual rear seats and two front displays
+
+193
+00:07:40,045 --> 00:07:42,338
+instead of one central screen.
+
+194
+00:07:42,688 --> 00:07:45,750
+Motor1 says the cabin has four seats,
+
+195
+00:07:45,750 --> 00:07:48,232
+there is no rear bench option,
+
+196
+00:07:48,232 --> 00:07:51,127
+and the cargo area is sixteen point
+
+197
+00:07:51,127 --> 00:07:52,534
+seven cubic feet.
+
+198
+00:07:52,714 --> 00:07:54,962
+The reviewer calls it a real trunk
+
+199
+00:07:54,962 --> 00:07:56,615
+that handled a road trip.
+
+200
+00:07:56,795 --> 00:07:58,683
+Cars dot com lists seventeen cubic feet
+
+201
+00:07:58,683 --> 00:08:00,088
+to the first row of seats and
+
+202
+00:08:00,088 --> 00:08:01,008
+nine to the second,
+
+203
+00:08:01,008 --> 00:08:02,170
+and four seats in total.
+
+204
+00:08:02,520 --> 00:08:03,751
+The criticisms.
+
+205
+00:08:03,931 --> 00:08:07,968
+Motor1 dislikes the touch-capacitive steering wheel and
+
+206
+00:08:07,968 --> 00:08:11,124
+climate controls, and says they should have
+
+207
+00:08:11,124 --> 00:08:12,372
+no place in cars.
+
+208
+00:08:12,552 --> 00:08:15,755
+It also notes that with Apple CarPlay
+
+209
+00:08:15,755 --> 00:08:19,478
+active, the gauge cluster shows only speed,
+
+210
+00:08:19,478 --> 00:08:21,210
+gear and fuel level,
+
+211
+00:08:21,210 --> 00:08:22,768
+and no tachometer.
+
+212
+00:08:22,948 --> 00:08:25,791
+For a car with an eighty-two fifty
+
+213
+00:08:25,791 --> 00:08:28,800
+rpm redline, that detail is awkward.
+
+214
+00:08:29,149 --> 00:08:31,266
+Dimensions, from Wikipedia:
+
+215
+00:08:31,266 --> 00:08:32,912
+length four thousand,
+
+216
+00:08:32,912 --> 00:08:35,969
+nine hundred seventy-three millimetres,
+
+217
+00:08:35,969 --> 00:08:37,458
+width two thousand,
+
+218
+00:08:37,458 --> 00:08:40,672
+twenty-eight, height fifteen eighty-nine,
+
+219
+00:08:40,672 --> 00:08:43,337
+wheelbase three thousand eighteen.
+
+220
+00:08:43,517 --> 00:08:45,301
+Kerb weight two thousand,
+
+221
+00:08:45,301 --> 00:08:47,443
+one hundred seventy kilograms,
+
+222
+00:08:47,443 --> 00:08:50,726
+which is forty-seven eighty-four pounds by our
+
+223
+00:08:50,726 --> 00:08:53,652
+arithmetic, matching Motor1's spec sheet.
+
+224
+00:08:53,832 --> 00:08:56,926
+Weight distribution, says Motor1,
+
+225
+00:08:56,926 --> 00:08:58,800
+is forty-nine front,
+
+226
+00:08:58,800 --> 00:09:00,206
+fifty-one rear.
+
+227
+00:09:00,556 --> 00:09:01,798
+By our arithmetic,
+
+228
+00:09:01,798 --> 00:09:05,176
+seven hundred fifteen horsepower on two thousand,
+
+229
+00:09:05,176 --> 00:09:08,210
+one hundred seventy kilograms is about three
+
+230
+00:09:08,210 --> 00:09:10,692
+hundred thirty horsepower per tonne.
+
+231
+00:09:10,872 --> 00:09:14,014
+Motor1 describes the car as handling more
+
+232
+00:09:14,014 --> 00:09:15,547
+like a sports sedan,
+
+233
+00:09:15,547 --> 00:09:17,463
+and the Ferrari's V12 is,
+
+234
+00:09:17,463 --> 00:09:19,303
+in the reviewer's words,
+
+235
+00:09:19,303 --> 00:09:19,916
+special.
+
+236
+00:09:20,096 --> 00:09:22,721
+We do not have a measured power-to-weight
+
+237
+00:09:22,721 --> 00:09:24,450
+comparison from any source.
+
+238
+00:09:24,799 --> 00:09:28,015
+Fuel economy is where the V12 shows.
+
+239
+00:09:28,195 --> 00:09:31,290
+Wikipedia lists the EPA rating as eleven
+
+240
+00:09:31,290 --> 00:09:33,533
+miles per gallon in the city,
+
+241
+00:09:33,533 --> 00:09:36,860
+fifteen on the highway and twelve combined,
+
+242
+00:09:36,860 --> 00:09:39,877
+which it converts to nineteen point six
+
+243
+00:09:39,877 --> 00:09:42,894
+litres per hundred kilometres combined.
+
+244
+00:09:43,074 --> 00:09:44,532
+By our arithmetic,
+
+245
+00:09:44,532 --> 00:09:46,719
+that conversion is correct.
+
+246
+00:09:46,899 --> 00:09:50,577
+The Cullinan's combined rating is fourteen miles
+
+247
+00:09:50,577 --> 00:09:52,953
+per gallon, in the Cars dot com
+
+248
+00:09:52,953 --> 00:09:53,796
+comparison.
+
+249
+00:09:54,145 --> 00:09:58,068
+Motor1's reviewer argues Ferrari could have used
+
+250
+00:09:58,068 --> 00:10:01,338
+its twin-turbo V8 instead and still sold
+
+251
+00:10:01,338 --> 00:10:02,400
+as many cars.
+
+252
+00:10:02,580 --> 00:10:03,969
+That is an opinion,
+
+253
+00:10:03,969 --> 00:10:06,017
+and Ferrari has not said so.
+
+254
+00:10:06,197 --> 00:10:08,582
+But it points at the heart of
+
+255
+00:10:08,582 --> 00:10:12,036
+the car: the naturally aspirated V12 peaks
+
+256
+00:10:12,036 --> 00:10:15,326
+late, at sixty-two fifty rpm for torque,
+
+257
+00:10:15,326 --> 00:10:17,546
+so you must rev it to build
+
+258
+00:10:17,546 --> 00:10:20,754
+speed, which the reviewer says makes it
+
+259
+00:10:20,754 --> 00:10:21,905
+more engaging.
+
+260
+00:10:22,254 --> 00:10:23,090
+And the sound.
+
+261
+00:10:23,270 --> 00:10:26,907
+Motor1 says the V12 has a high-pitched
+
+262
+00:10:26,907 --> 00:10:29,969
+exhaust note from its quad tips.
+
+263
+00:10:30,149 --> 00:10:33,215
+Ferrari's own redline is eighty-two fifty,
+
+264
+00:10:33,215 --> 00:10:36,573
+and Wikipedia's power peak is at seventy-seven
+
+265
+00:10:36,573 --> 00:10:37,011
+fifty.
+
+266
+00:10:37,191 --> 00:10:38,400
+By our arithmetic,
+
+267
+00:10:38,400 --> 00:10:41,088
+that leaves five hundred rpm between the
+
+268
+00:10:41,088 --> 00:10:42,903
+power peak and the redline.
+
+269
+00:10:43,252 --> 00:10:45,888
+Prices conflict, so we list them.
+
+270
+00:10:46,068 --> 00:10:49,444
+Robb Report: three hundred ninety thousand euros,
+
+271
+00:10:49,444 --> 00:10:52,337
+about four hundred three thousand dollars.
+
+272
+00:10:52,517 --> 00:10:55,707
+AOL: three hundred ninety-eight thousand,
+
+273
+00:10:55,707 --> 00:10:59,130
+three hundred fifty dollars including a five
+
+274
+00:10:59,130 --> 00:11:01,853
+thousand dollar destination charge,
+
+275
+00:11:01,853 --> 00:11:03,953
+before any gas guzzler tax.
+
+276
+00:11:04,133 --> 00:11:07,419
+Carscoops: four hundred thirty thousand dollars.
+
+277
+00:11:07,599 --> 00:11:10,704
+Motor1: four hundred twenty-three thousand,
+
+278
+00:11:10,704 --> 00:11:14,170
+six eighty-six for the twenty twenty-five model.
+
+279
+00:11:14,519 --> 00:11:15,858
+By our arithmetic,
+
+280
+00:11:15,858 --> 00:11:19,279
+the gap between AOL's twenty twenty-four price
+
+281
+00:11:19,279 --> 00:11:23,146
+and Motor1's twenty twenty-five price is twenty-five
+
+282
+00:11:23,146 --> 00:11:26,344
+thousand, three hundred thirty-six dollars,
+
+283
+00:11:26,344 --> 00:11:28,277
+or six point four percent.
+
+284
+00:11:28,457 --> 00:11:30,954
+It could reflect a model-year increase,
+
+285
+00:11:30,954 --> 00:11:32,939
+but none of the sources say so.
+
+286
+00:11:33,119 --> 00:11:36,275
+And Motor1's as-tested price for its review
+
+287
+00:11:36,275 --> 00:11:38,771
+car was five hundred six thousand,
+
+288
+00:11:38,771 --> 00:11:40,166
+three hundred five.
+
+289
+00:11:40,515 --> 00:11:43,052
+Put the starting price in context with
+
+290
+00:11:43,052 --> 00:11:46,190
+the Census Bureau's median household income for
+
+291
+00:11:46,190 --> 00:11:48,994
+twenty twenty-four, eighty-three thousand,
+
+292
+00:11:48,994 --> 00:11:50,930
+seven hundred thirty dollars.
+
+293
+00:11:51,110 --> 00:11:52,404
+By our arithmetic,
+
+294
+00:11:52,404 --> 00:11:54,992
+three hundred ninety-eight thousand,
+
+295
+00:11:54,992 --> 00:11:57,795
+three hundred fifty is four point eight
+
+296
+00:11:57,795 --> 00:11:59,305
+years of that income,
+
+297
+00:11:59,305 --> 00:12:00,096
+before tax.
+
+298
+00:12:00,276 --> 00:12:03,565
+And Kelley Blue Book's August twenty twenty-six
+
+299
+00:12:03,565 --> 00:12:06,645
+average new vehicle price of fifty thousand,
+
+300
+00:12:06,645 --> 00:12:09,584
+eighty-nine makes it about eight times the
+
+301
+00:12:09,584 --> 00:12:10,144
+average.
+
+302
+00:12:10,494 --> 00:12:13,154
+The car's internal code was F one
+
+303
+00:12:13,154 --> 00:12:16,137
+seventy-five, according to Wikipedia.
+
+304
+00:12:16,317 --> 00:12:19,022
+Development started in twenty seventeen.
+
+305
+00:12:19,202 --> 00:12:22,603
+The page says Ferrari officially confirmed the
+
+306
+00:12:22,603 --> 00:12:25,338
+project in September twenty eighteen,
+
+307
+00:12:25,338 --> 00:12:27,112
+after Sergio Marchionne,
+
+308
+00:12:27,112 --> 00:12:29,404
+then Ferrari's chief executive,
+
+309
+00:12:29,404 --> 00:12:30,661
+had hinted at it.
+
+310
+00:12:30,841 --> 00:12:33,715
+A test mule based on a GTC4Lusso
+
+311
+00:12:33,715 --> 00:12:37,937
+appeared online on the twenty-second of October
+
+312
+00:12:37,937 --> 00:12:39,374
+twenty eighteen.
+
+313
+00:12:39,724 --> 00:12:43,764
+Leaked images appeared in February twenty twenty-two,
+
+314
+00:12:43,764 --> 00:12:46,355
+and a month later Ferrari showed a
+
+315
+00:12:46,355 --> 00:12:47,422
+partial image.
+
+316
+00:12:47,602 --> 00:12:49,884
+The car was revealed in Maranello on
+
+317
+00:12:49,884 --> 00:12:52,800
+the thirteenth of September twenty twenty-two,
+
+318
+00:12:52,800 --> 00:12:54,765
+as a twenty twenty-three model.
+
+319
+00:12:54,945 --> 00:12:56,429
+By our arithmetic,
+
+320
+00:12:56,429 --> 00:12:59,149
+the span from the first spy photo
+
+321
+00:12:59,149 --> 00:13:01,539
+to the reveal is three years,
+
+322
+00:13:01,539 --> 00:13:04,094
+ten months and twenty-two days.
+
+323
+00:13:04,443 --> 00:13:07,196
+From the start of development in twenty
+
+324
+00:13:07,196 --> 00:13:10,231
+seventeen to the reveal in September twenty
+
+325
+00:13:10,231 --> 00:13:12,420
+twenty-two is about five years.
+
+326
+00:13:12,600 --> 00:13:15,271
+And from the interview in which Marchionne
+
+327
+00:13:15,271 --> 00:13:17,307
+said you would have to shoot him
+
+328
+00:13:17,307 --> 00:13:18,897
+first, in twenty sixteen,
+
+329
+00:13:18,897 --> 00:13:20,297
+it is about six years.
+
+330
+00:13:20,477 --> 00:13:24,060
+Marchionne died two years after that interview,
+
+331
+00:13:24,060 --> 00:13:27,033
+autoevolution says, so he never saw the
+
+332
+00:13:27,033 --> 00:13:27,338
+car.
+
+333
+00:13:27,688 --> 00:13:31,269
+Wikipedia says the Purosangue shares a platform
+
+334
+00:13:31,269 --> 00:13:32,946
+with the Ferrari Roma,
+
+335
+00:13:32,946 --> 00:13:36,146
+and autoevolution says the Roma is related
+
+336
+00:13:36,146 --> 00:13:37,441
+to the Portofino.
+
+337
+00:13:37,621 --> 00:13:40,962
+The transmission is a Magna eight-speed dual-clutch
+
+338
+00:13:40,962 --> 00:13:41,290
+unit.
+
+339
+00:13:41,470 --> 00:13:44,617
+Wikipedia describes the layout as a front
+
+340
+00:13:44,617 --> 00:13:47,074
+mid-engine, all-wheel-drive car,
+
+341
+00:13:47,074 --> 00:13:49,531
+so the V12 sits behind the front
+
+342
+00:13:49,531 --> 00:13:50,990
+axle, not above it.
+
+343
+00:13:51,339 --> 00:13:54,880
+Autocar's report from August twenty seventeen shows
+
+344
+00:13:54,880 --> 00:13:57,309
+how the story looked before the car
+
+345
+00:13:57,309 --> 00:13:57,864
+existed.
+
+346
+00:13:58,044 --> 00:14:01,778
+Marchionne said an SUV-like vehicle would probably
+
+347
+00:14:01,778 --> 00:14:03,720
+happen, but Ferrari style,
+
+348
+00:14:03,720 --> 00:14:06,334
+and that no decision had been made.
+
+349
+00:14:06,514 --> 00:14:09,518
+A Ferrari spokesman said Ferrari would not
+
+350
+00:14:09,518 --> 00:14:10,949
+be launching an SUV.
+
+351
+00:14:11,129 --> 00:14:13,560
+The same company was saying both things
+
+352
+00:14:13,560 --> 00:14:14,681
+in the same month.
+
+353
+00:14:15,031 --> 00:14:18,970
+Enrico Galliera, Ferrari's commercial chief,
+
+354
+00:14:18,970 --> 00:14:21,835
+told Autocar in the same period:
+
+355
+00:14:21,835 --> 00:14:24,341
+We are not producing an SUV,
+
+356
+00:14:24,341 --> 00:14:27,026
+because an SUV is not a sports
+
+357
+00:14:27,026 --> 00:14:27,384
+car.
+
+358
+00:14:27,564 --> 00:14:29,898
+He also ruled out a four-door model.
+
+359
+00:14:30,078 --> 00:14:33,246
+And in an Autocar India interview he
+
+360
+00:14:33,246 --> 00:14:36,150
+said the GTC4Lusso is our idea of
+
+361
+00:14:36,150 --> 00:14:36,765
+an SUV.
+
+362
+00:14:36,945 --> 00:14:39,579
+The Purosangue, five years later,
+
+363
+00:14:39,579 --> 00:14:40,777
+has four doors.
+
+364
+00:14:41,126 --> 00:14:43,193
+The business backdrop matters.
+
+365
+00:14:43,373 --> 00:14:47,411
+Carscoops reports Ferrari's core earnings rose twenty-seven
+
+366
+00:14:47,411 --> 00:14:50,012
+percent in the first quarter of twenty
+
+367
+00:14:50,012 --> 00:14:53,435
+twenty-three, with adjusted EBITDA of five hundred
+
+368
+00:14:53,435 --> 00:14:56,309
+thirty-seven million euros and a margin of
+
+369
+00:14:56,309 --> 00:14:58,431
+thirty-seven point six percent.
+
+370
+00:14:58,611 --> 00:14:59,857
+By our arithmetic,
+
+371
+00:14:59,857 --> 00:15:02,555
+that implies revenue of about one point
+
+372
+00:15:02,555 --> 00:15:05,391
+four three billion euros for the quarter.
+
+373
+00:15:05,741 --> 00:15:09,339
+The Czech business site Autohled reports Ferrari's
+
+374
+00:15:09,339 --> 00:15:12,577
+twenty twenty-five revenue at seven point one
+
+375
+00:15:12,577 --> 00:15:15,743
+four six billion euros on thirteen thousand,
+
+376
+00:15:15,743 --> 00:15:17,398
+six hundred forty cars.
+
+377
+00:15:17,578 --> 00:15:18,813
+By our arithmetic,
+
+378
+00:15:18,813 --> 00:15:22,039
+that is about five hundred twenty-four thousand
+
+379
+00:15:22,039 --> 00:15:23,000
+euros per car.
+
+380
+00:15:23,180 --> 00:15:25,657
+That figure includes Formula One,
+
+381
+00:15:25,657 --> 00:15:27,834
+sponsorship and brand income,
+
+382
+00:15:27,834 --> 00:15:30,086
+so it is not the average price
+
+383
+00:15:30,086 --> 00:15:30,761
+of a car.
+
+384
+00:15:31,112 --> 00:15:33,753
+Vigna, quoted by Motor1 in late twenty
+
+385
+00:15:33,753 --> 00:15:36,811
+twenty-three, said order books were at their
+
+386
+00:15:36,811 --> 00:15:40,286
+highest levels, and that internal combustion still
+
+387
+00:15:40,286 --> 00:15:41,398
+has a lot to do.
+
+388
+00:15:41,578 --> 00:15:44,246
+Motor1 notes the lineup then had seven
+
+389
+00:15:44,246 --> 00:15:46,703
+combustion models and four hybrids,
+
+390
+00:15:46,703 --> 00:15:49,091
+a new Maranello factory was set to
+
+391
+00:15:49,091 --> 00:15:51,338
+open in June twenty twenty-four,
+
+392
+00:15:51,338 --> 00:15:53,935
+and the first electric Ferrari was on
+
+393
+00:15:53,935 --> 00:15:56,323
+track for late twenty twenty-five.
+
+394
+00:15:56,673 --> 00:15:59,341
+Autohled lists the Luce as the brand's
+
+395
+00:15:59,341 --> 00:16:02,782
+first fully electric model in twenty twenty-five,
+
+396
+00:16:02,782 --> 00:16:05,029
+alongside the F eighty hypercar,
+
+397
+00:16:05,029 --> 00:16:08,190
+whose deliveries began in the fourth quarter.
+
+398
+00:16:08,370 --> 00:16:10,908
+The Purosangue is not mentioned as a
+
+399
+00:16:10,908 --> 00:16:12,247
+share of the total.
+
+400
+00:16:12,427 --> 00:16:13,885
+So we know the cap,
+
+401
+00:16:13,885 --> 00:16:16,262
+twenty percent, and the lineup,
+
+402
+00:16:16,262 --> 00:16:18,410
+but not how close the car is
+
+403
+00:16:18,410 --> 00:16:19,637
+to that ceiling.
+
+404
+00:16:19,988 --> 00:16:23,060
+The AOL article notes that Ferrari buyers
+
+405
+00:16:23,060 --> 00:16:25,458
+often add five or six figures in
+
+406
+00:16:25,458 --> 00:16:28,980
+options, and that the adaptive suspension comes
+
+407
+00:16:28,980 --> 00:16:29,879
+as standard.
+
+408
+00:16:30,059 --> 00:16:33,061
+Motor1's review car cost five hundred six
+
+409
+00:16:33,061 --> 00:16:36,503
+thousand, three hundred five dollars as tested.
+
+410
+00:16:36,683 --> 00:16:37,989
+By our arithmetic,
+
+411
+00:16:37,989 --> 00:16:41,327
+against the twenty twenty-four starting price,
+
+412
+00:16:41,327 --> 00:16:43,866
+that is one hundred seven thousand,
+
+413
+00:16:43,866 --> 00:16:47,204
+nine hundred fifty-five dollars of options and
+
+414
+00:16:47,204 --> 00:16:47,712
+extras.
+
+415
+00:16:48,063 --> 00:16:51,715
+Against Motor1's own twenty twenty-five base price
+
+416
+00:16:51,715 --> 00:16:54,492
+of four hundred twenty-three thousand,
+
+417
+00:16:54,492 --> 00:16:56,172
+six hundred eighty-six,
+
+418
+00:16:56,172 --> 00:16:59,168
+the same car carries eighty-two thousand,
+
+419
+00:16:59,168 --> 00:17:02,017
+six hundred nineteen dollars of extras,
+
+420
+00:17:02,017 --> 00:17:04,282
+or nineteen and a half percent.
+
+421
+00:17:04,462 --> 00:17:05,962
+The two bases differ,
+
+422
+00:17:05,962 --> 00:17:08,463
+so the range of options spending is
+
+423
+00:17:08,463 --> 00:17:10,821
+nineteen to twenty-seven percent,
+
+424
+00:17:10,821 --> 00:17:13,250
+depending on which base you trust.
+
+425
+00:17:13,601 --> 00:17:16,427
+AOL also says the price excludes any
+
+426
+00:17:16,427 --> 00:17:17,683
+gas guzzler tax,
+
+427
+00:17:17,683 --> 00:17:21,216
+because the government had not yet classified
+
+428
+00:17:21,216 --> 00:17:21,844
+the car.
+
+429
+00:17:22,024 --> 00:17:25,916
+Wikipedia's page on the Rolls-Royce Cullinan says
+
+430
+00:17:25,916 --> 00:17:28,378
+that car is not exempt from the
+
+431
+00:17:28,378 --> 00:17:30,919
+tax, since it is classified as a
+
+432
+00:17:30,919 --> 00:17:32,031
+station wagon.
+
+433
+00:17:32,211 --> 00:17:34,598
+We found no source stating the final
+
+434
+00:17:34,598 --> 00:17:36,123
+tax for the Purosangue,
+
+435
+00:17:36,123 --> 00:17:38,179
+so the real cost may be higher.
+
+436
+00:17:38,529 --> 00:17:40,672
+Sources disagree on weight,
+
+437
+00:17:40,672 --> 00:17:40,990
+too.
+
+438
+00:17:41,170 --> 00:17:44,160
+Wikipedia and Motor1 give four thousand,
+
+439
+00:17:44,160 --> 00:17:46,627
+seven hundred eighty-four pounds.
+
+440
+00:17:46,807 --> 00:17:49,010
+Cars dot com lists a base curb
+
+441
+00:17:49,010 --> 00:17:51,067
+weight of forty-eight fifty.
+
+442
+00:17:51,247 --> 00:17:52,832
+By our arithmetic,
+
+443
+00:17:52,832 --> 00:17:55,032
+that is sixty-six pounds,
+
+444
+00:17:55,032 --> 00:17:57,321
+or one point four percent,
+
+445
+00:17:57,321 --> 00:17:57,761
+more.
+
+446
+00:17:57,941 --> 00:17:58,762
+It is small,
+
+447
+00:17:58,762 --> 00:18:01,227
+but it is another reminder that even
+
+448
+00:18:01,227 --> 00:18:04,171
+a Ferrari's published numbers do not always
+
+449
+00:18:04,171 --> 00:18:04,581
+agree.
+
+450
+00:18:04,932 --> 00:18:06,222
+A last comparison,
+
+451
+00:18:06,222 --> 00:18:08,087
+to set up the rest of this
+
+452
+00:18:08,087 --> 00:18:08,589
+series.
+
+453
+00:18:08,769 --> 00:18:11,926
+The Rolls-Royce Cullinan is five thousand,
+
+454
+00:18:11,926 --> 00:18:15,760
+three hundred forty-one millimetres long and weighs
+
+455
+00:18:15,760 --> 00:18:18,917
+two thousand, six hundred sixty kilograms,
+
+456
+00:18:18,917 --> 00:18:20,646
+according to Wikipedia.
+
+457
+00:18:20,826 --> 00:18:22,063
+By our arithmetic,
+
+458
+00:18:22,063 --> 00:18:25,501
+it is three hundred sixty-eight millimetres longer
+
+459
+00:18:25,501 --> 00:18:26,876
+than the Purosangue,
+
+460
+00:18:26,876 --> 00:18:30,176
+seven percent, and four hundred ninety kilograms
+
+461
+00:18:30,176 --> 00:18:32,238
+heavier, twenty-three percent.
+
+462
+00:18:32,589 --> 00:18:36,003
+Autoevolution says the unveiling price was alleged
+
+463
+00:18:36,003 --> 00:18:38,939
+to be almost four hundred thousand dollars,
+
+464
+00:18:38,939 --> 00:18:41,397
+and quotes Vigna at the unveiling as
+
+465
+00:18:41,397 --> 00:18:42,968
+saying: It's a Ferrari.
+
+466
+00:18:43,148 --> 00:18:45,351
+Please don't call it an SUV,
+
+467
+00:18:45,351 --> 00:18:46,689
+because it isn't.
+
+468
+00:18:46,869 --> 00:18:48,968
+We have kept the word SUV in
+
+469
+00:18:48,968 --> 00:18:51,292
+this video's title for clarity.
+
+470
+00:18:51,472 --> 00:18:53,240
+Ferrari's word is FUV,
+
+471
+00:18:53,240 --> 00:18:56,534
+and Wikipedia says the company has denied
+
+472
+00:18:56,534 --> 00:18:59,588
+building an SUV on multiple occasions.
+
+473
+00:18:59,938 --> 00:19:02,632
+Marchionne's most direct statement came at a
+
+474
+00:19:02,632 --> 00:19:04,959
+press conference at the New York Stock
+
+475
+00:19:04,959 --> 00:19:05,510
+Exchange.
+
+476
+00:19:05,690 --> 00:19:07,636
+NBC reports he said:
+
+477
+00:19:07,636 --> 00:19:10,555
+We're dead serious about this.
+
+478
+00:19:10,735 --> 00:19:13,486
+He also said Ferrari needed to learn
+
+479
+00:19:13,486 --> 00:19:17,307
+how to master the relationship between exclusivity
+
+480
+00:19:17,307 --> 00:19:19,140
+and scarcity of product.
+
+481
+00:19:19,320 --> 00:19:21,629
+Drive dot com adds that it would
+
+482
+00:19:21,629 --> 00:19:23,793
+be the only four-door Ferrari,
+
+483
+00:19:23,793 --> 00:19:25,597
+built in limited numbers,
+
+484
+00:19:25,597 --> 00:19:28,988
+and that Bloomberg reported about thirty months
+
+485
+00:19:28,988 --> 00:19:31,801
+to settle the final production details.
+
+486
+00:19:32,152 --> 00:19:34,555
+NBC set the market context.
+
+487
+00:19:34,735 --> 00:19:36,282
+Light trucks, it says,
+
+488
+00:19:36,282 --> 00:19:38,885
+were nearly two thirds of new vehicle
+
+489
+00:19:38,885 --> 00:19:40,784
+sales in the United States.
+
+490
+00:19:40,964 --> 00:19:44,126
+Bentley's Bentayga was rapidly becoming its top
+
+491
+00:19:44,126 --> 00:19:44,598
+seller.
+
+492
+00:19:44,778 --> 00:19:47,722
+Aston Martin showed the DBX concept at
+
+493
+00:19:47,722 --> 00:19:49,660
+Geneva in twenty fifteen,
+
+494
+00:19:49,660 --> 00:19:52,915
+and believed it could virtually double the
+
+495
+00:19:52,915 --> 00:19:54,077
+company's size.
+
+496
+00:19:54,257 --> 00:19:58,322
+Lamborghini and Rolls-Royce were developing utility vehicles
+
+497
+00:19:58,322 --> 00:19:59,203
+of their own.
+
+498
+00:19:59,553 --> 00:20:02,324
+For the rest of the practical numbers,
+
+499
+00:20:02,324 --> 00:20:05,096
+Cars dot com lists the Purosangue with
+
+500
+00:20:05,096 --> 00:20:07,430
+a basic warranty of three years,
+
+501
+00:20:07,430 --> 00:20:10,567
+a wheelbase of one hundred nineteen inches,
+
+502
+00:20:10,567 --> 00:20:13,193
+and an overall length of one hundred
+
+503
+00:20:13,193 --> 00:20:13,995
+ninety-six.
+
+504
+00:20:14,175 --> 00:20:16,478
+The Cullinan on the same page has
+
+505
+00:20:16,478 --> 00:20:19,340
+four years, one hundred thirty inches and
+
+506
+00:20:19,340 --> 00:20:20,456
+two hundred ten.
+
+507
+00:20:20,636 --> 00:20:22,075
+By our arithmetic,
+
+508
+00:20:22,075 --> 00:20:24,953
+the Rolls is eleven inches longer in
+
+509
+00:20:24,953 --> 00:20:27,591
+wheelbase and fourteen in length.
+
+510
+00:20:27,940 --> 00:20:30,576
+Check Wikipedia's fuel conversions.
+
+511
+00:20:30,756 --> 00:20:33,334
+Eleven miles per gallon in the city
+
+512
+00:20:33,334 --> 00:20:36,501
+is twenty-one point four litres per hundred
+
+513
+00:20:36,501 --> 00:20:38,710
+kilometres, by our arithmetic,
+
+514
+00:20:38,710 --> 00:20:41,436
+and fifteen on the highway is fifteen
+
+515
+00:20:41,436 --> 00:20:42,320
+point seven.
+
+516
+00:20:42,500 --> 00:20:43,986
+Both match the page.
+
+517
+00:20:44,166 --> 00:20:46,986
+At the regular gasoline price of four
+
+518
+00:20:46,986 --> 00:20:50,416
+dollars, twenty-eight cents a gallon from the
+
+519
+00:20:50,416 --> 00:20:53,008
+Energy Information Administration,
+
+520
+00:20:53,008 --> 00:20:56,514
+twelve miles per gallon costs about thirty-six
+
+521
+00:20:56,514 --> 00:20:57,505
+cents a mile.
+
+522
+00:20:57,856 --> 00:21:00,469
+Specific output is another way to see
+
+523
+00:21:00,469 --> 00:21:01,246
+the engine.
+
+524
+00:21:01,426 --> 00:21:04,104
+The Purosangue makes about one hundred ten
+
+525
+00:21:04,104 --> 00:21:05,443
+horsepower per litre.
+
+526
+00:21:05,623 --> 00:21:07,070
+By our arithmetic,
+
+527
+00:21:07,070 --> 00:21:10,367
+the Cullinan's six point seven five litre
+
+528
+00:21:10,367 --> 00:21:14,468
+twin-turbo, at five hundred sixty-three horsepower,
+
+529
+00:21:14,468 --> 00:21:16,478
+makes about eighty-three.
+
+530
+00:21:16,658 --> 00:21:19,796
+Ferrari gets thirty-two percent more per litre,
+
+531
+00:21:19,796 --> 00:21:22,266
+and does it without forced induction,
+
+532
+00:21:22,266 --> 00:21:24,736
+though it needs to spin to eighty-two
+
+533
+00:21:24,736 --> 00:21:25,737
+fifty to do it.
+
+534
+00:21:26,087 --> 00:21:28,281
+Torque tells the opposite story.
+
+535
+00:21:28,461 --> 00:21:31,949
+Five hundred twenty-eight pound-feet from the Ferrari
+
+536
+00:21:31,949 --> 00:21:33,463
+at sixty-two fifty rpm,
+
+537
+00:21:33,463 --> 00:21:36,951
+against six hundred twenty-seven from the Rolls-Royce
+
+538
+00:21:36,951 --> 00:21:38,202
+at sixteen hundred.
+
+539
+00:21:38,382 --> 00:21:39,677
+By our arithmetic,
+
+540
+00:21:39,677 --> 00:21:42,986
+the Cullinan has nineteen percent more torque,
+
+541
+00:21:42,986 --> 00:21:45,360
+and reaches its peak at a quarter
+
+542
+00:21:45,360 --> 00:21:46,799
+of the engine speed.
+
+543
+00:21:46,979 --> 00:21:49,461
+The two engines are built for different
+
+544
+00:21:49,461 --> 00:21:50,543
+kinds of driving.
+
+545
+00:21:50,893 --> 00:21:51,833
+What is missing.
+
+546
+00:21:52,013 --> 00:21:54,056
+How the trademark case ended.
+
+547
+00:21:54,236 --> 00:21:56,849
+How many Purosangues have been delivered.
+
+548
+00:21:57,029 --> 00:21:59,606
+Why the price rose between sources.
+
+549
+00:21:59,786 --> 00:22:03,283
+A measured, independent zero to sixty or
+
+550
+00:22:03,283 --> 00:22:04,070
+lap time.
+
+551
+00:22:04,250 --> 00:22:07,636
+Ferrari's own explanation of why the car
+
+552
+00:22:07,636 --> 00:22:09,498
+has no anti-roll bars.
+
+553
+00:22:09,678 --> 00:22:11,886
+And how the cap of twenty percent
+
+554
+00:22:11,886 --> 00:22:13,358
+is audited, if at all.
+
+555
+00:22:13,708 --> 00:22:15,681
+So the two things stand.
+
+556
+00:22:15,861 --> 00:22:21,526
+The Purosangue's suspension has electric-motor-controlled dampers and,
+
+557
+00:22:21,526 --> 00:22:23,145
+in Motor1's account,
+
+558
+00:22:23,145 --> 00:22:24,197
+no sway bars.
+
+559
+00:22:24,377 --> 00:22:27,123
+And Ferrari closed its order book before
+
+560
+00:22:27,123 --> 00:22:28,427
+delivering one car,
+
+561
+00:22:28,427 --> 00:22:31,173
+then promised that the model would never
+
+562
+00:22:31,173 --> 00:22:33,027
+exceed one fifth of output.
+
+563
+00:22:33,207 --> 00:22:34,739
+Both are in our sources.
+
+564
+00:22:34,919 --> 00:22:36,823
+The reasons behind them are not.
+
+565
+00:22:37,174 --> 00:22:39,236
+Would you want a Ferrari with four
+
+566
+00:22:39,236 --> 00:22:39,600
+doors?
+
+567
+00:22:39,780 --> 00:22:41,289
+Tell us in the comments.
+
+568
+00:22:41,469 --> 00:22:43,987
+In the other videos of this series,
+
+569
+00:22:43,987 --> 00:22:47,297
+we compare the Purosangue with the Rolls-Royce
+
+570
+00:22:47,297 --> 00:22:50,247
+Cullinan, ask whether a normal person can
+
+571
+00:22:50,247 --> 00:22:52,980
+afford one, and tell why Ferrari swore
+
+572
+00:22:52,980 --> 00:22:54,995
+it would never build an SUV.
+
+573
+00:22:55,175 --> 00:22:58,075
+Our twenty twenty-seven Truck Buyer's Guide is
+
+574
+00:22:58,075 --> 00:22:59,714
+linked in the description.
+
+575
+00:22:59,894 --> 00:23:02,344
+Subscribe to Pickup Reality.
