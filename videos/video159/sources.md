@@ -1,0 +1,11 @@
+- Motor1, Koenigsegg Gemera build slot already available at McLaren dealer, 13 Apr 2020: https://www.motor1.com/news/409351/koenigsegg-gemera-build-slot-sale/
+- InsideHook (Tobias Carroll), V8 Koenigsegg supercar buyers pay an extra $400,000, 29 Jul 2024: https://www.insidehook.com/autos/v8-koenigsegg-supercar-buyers-extra-400000/amp
+- AOL (Car and Driver), The Koenigsegg Gemera is finally starting production, 30 Mar 2026: https://www.aol.com/articles/koenigsegg-gemera-finally-starting-production-210300723.html
+- Wikipedia, Koenigsegg Gemera: https://en.wikipedia.org/wiki/Koenigsegg_Gemera
+- Wikipedia, Koenigsegg Regera: https://en.wikipedia.org/wiki/Koenigsegg_Regera
+- RM Sotheby's, 2020 Koenigsegg Regera, Monterey 2024, lot 240
+- Jalopnik, Koenigsegg factory tour
+- U.S. Energy Information Administration, weekly retail gasoline prices, week of 2026-10-19
+- U.S. Census Bureau, median household income 2024
+- Kelley Blue Book, average new vehicle transaction price, August 2026
+- Automonitor.io, Koenigsegg Jesko ownership cost estimates (unsourced estimates)
