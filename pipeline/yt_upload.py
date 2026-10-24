@@ -34,6 +34,15 @@ def queue():
                 sm = next((x for x in m["shorts"] if x["file"] == f"short{s}.mp4"), None)
                 if not sm: continue
                 yield f"v{v:02d}-s{s}", v, sm["file"], at, sm["title"], sm["description"].replace("[LINK HERE]", ebook), False
+    if os.path.exists("agendamento/phase2-longs.json"): yield from queue_phase2()
+
+
+def queue_phase2():
+    """Phase 2 longs (video61+), 4 per day, publish times in agendamento/phase2-longs.json."""
+    ebook = os.environ.get("EBOOK_URL") or "[LINK HERE]"
+    for n, iso in json.load(open("agendamento/phase2-longs.json")).items():
+        v = int(n); m = json.load(open(f"agendamento/meta/video{n}.json"))
+        yield f"v{n}", v, f"video{n}.mp4", dt.datetime.fromisoformat(iso), m["title"], m["description"].replace("[LINK HERE]", ebook), True
 
 
 def queue_lote():

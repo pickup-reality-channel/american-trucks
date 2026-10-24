@@ -1,0 +1,97 @@
+# Photo credits: The Real Cost of a Lamborghini Revuelto (Options, Taxes, Insurance)
+
+- Lamborghini Revuelto DSC 6987.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 0562.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6986.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6984.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1103.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1101.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto IMG02.jpg by Maxhdtenda, CC BY-SA 4.0
+- 2023 Lamborghini Revuelto Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Rear view of Green Lamborghini Revuelto.jpg by Alexandre Prevot, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 8153.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto 002.jpg by JustAnotherCarDesigner, CC0
+- 2023 Lamborghini Revuelto LB744 Orange FOS23.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Revuelto IMG01.jpg by Maxhdtenda, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 002.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 16.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto (2024) (53622083054).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622083059).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621960053).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2024 Lamborghini Revuelto 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 25.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 18.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 001.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 21.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 4.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- 1998 Lamborghini Diablo VT Roadster, front right (Greenwich Concours 2018).jpg by Mr.choppers, CC BY-SA 3.0
+- 1998 Lamborghini Diablo VT Roadster, rear right (Greenwich Concours 2018).jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Revuelto (2024) (53621960033).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622199935).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621749716).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2024 Lamborghini Revuelto 26.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 10.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 6.jpg by Calreyn88, CC BY-SA 4.0
+- Museo Lamborghini (Sant'Agata Bolognese, Bologna, Italy) 004.jpg by Leonard J. DeFrancisci, CC BY-SA 4.0
+- Museo Lamborghini (Sant'Agata Bolognese, Bologna, Italy) 003.jpg by Leonard J. DeFrancisci, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.02.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 11.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (9).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (4).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Revuelto (53877996613).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Lamborghini Aventador S Ad Personam Blu Pilade2018.jpg by Calreyn88, CC BY-SA 4.0
+- Osaka Auto Messe 2022 (262) - Lamborghini HURACAN tuned by S.A.D. CUSTOM JAPAN.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Osaka Auto Messe 2022 (261) - Lamborghini HURACAN tuned by S.A.D. CUSTOM JAPAN.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 002 (cropped).jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto at the 2026 Adelaide Rally Street Party on King William Road (028A4116).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Lamborghini Revuelto at the 2026 Adelaide Rally Street Party on King William Road (028A4114).jpg by Yu Chu Chin, CC BY-SA 4.0
+- 2026 Adelaide Rally Street Party on King William Road (028A4106).jpg by Yu Chu Chin, CC BY-SA 4.0
+- 2010 Lamborghini Murcielago LP670-4 SV PH25.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Super Trofeo Europe 2024 Spa-Francorchamps Auto Sport Racing Service Lamborghini Huracán Super Trofeo EVO2 No.3 Andrzej Lewandowski Adrian Lewandowski (DSC08725).jpg by MarcelX42, CC BY-SA 4.0
+- Lamborghini Super Trofeo Europe 2024 Spa-Francorchamps Auto Sport Racing Service Lamborghini Huracán Super Trofeo EVO2 No.32 Petar Matić Paolo Biglieri (DSC00155).jpg by MarcelX42, CC BY-SA 4.0
+- Lamborghini Pangbourne Dealership.jpg by Coz4836, CC BY-SA 4.0
+- Lamborghini car, Automobili Lamborghini S.p.A., Bangkok, Thailand.jpg by Vyacheslav Argenberg, CC BY 4.0
+- Lamborghini car, Bangkok, Thailand.jpg by Vyacheslav Argenberg, CC BY 4.0
+- Lamborghini Revuelto (2024) (53620872937).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621749676).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621960073).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto monaco 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 27.jpg by Calreyn88, CC BY-SA 4.0
+- Black Lamborghini Revuelto LC25.jpg by MrWalkr, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1486).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador, Motortreff Bella Italia 2024, Munich (P1190389-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster Back IMG 0717.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto (2025) (55251837477).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Revuelto (2026) (55210455232).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Revuelto (2024) (53773779559).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari 12Cilindri at the 2025 Shannons Adelaide Rally (028A4546).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6393.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6809.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Jalopnik, Revuelto test car options and sticker (Oct 2026): https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/
+- Kelley Blue Book, Lamborghini Revuelto (price, mpg, warranty, charging): https://www.kbb.com/lamborghini/revuelto/
+- Motor Authority, Revuelto sold out for 2 years (July 2023): https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- Supercars.net, configuring a Revuelto gets expensive (2023): https://www.supercars.net/blog/configuring-a-lamborghini-revuelto-gets-expensive-very-quickly/
+- duPont Registry, Lamborghini 2024 deliveries: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- MoneyGeek, Lamborghini insurance costs (Aug 2026): https://www.moneygeek.com/insurance/auto/lamborghini-car-insurance/
+- MoneyGeek, Bugatti Chiron insurance (Apr 2026): https://www.moneygeek.com/insurance/auto/bugatti-chiron-insurance/
+- AutoGuide, Revuelto door recall (July 2025): https://www.autoguide.com/auto/manufacturers/lamborghini/why-these-lambo-doors-could-fall-on-your-head-or-hold-you-hostage-44623369
+- HR Owen, Lamborghini fixed price servicing: https://hrowen.co.uk/lamborghini/aftersales/servicing/fixed-price-servicing
+- autoevolution, used Revuelto values (Oct 2026): https://www.autoevolution.com/news/how-much-is-a-2024-lamborghini-revuelto-worth-today-after-6000-miles-276767.html
+- Auto123, Revuelto SV debut (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/
+- Motor1, Revuelto SV US price: https://www.motor1.com/news/805408/lamborghini-revuelto-sv-price-options/
+- Kelley Blue Book, Ferrari 12Cilindri: https://www.kbb.com/ferrari/12cilindri/

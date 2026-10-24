@@ -1,0 +1,146 @@
+# Photo credits: Why Lamborghini Built the Revuelto the Way It Did
+
+- Lamborghini Revuelto DSC 6987.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 0562.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6984.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6986.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1103.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1101.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto IMG02.jpg by Maxhdtenda, CC BY-SA 4.0
+- 2023 Lamborghini Revuelto Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Rear view of Green Lamborghini Revuelto.jpg by Alexandre Prevot, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 8153.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto 002.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Museo Lamborghini (Sant'Agata Bolognese, Bologna, Italy) 004.jpg by Leonard J. DeFrancisci, CC BY-SA 4.0
+- Museo Lamborghini (Sant'Agata Bolognese, Bologna, Italy) 003.jpg by Leonard J. DeFrancisci, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.08.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.02.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Sian at IAA 2019 IMG 0332.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Sián IAA 2019 JM 1094.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Lamborghini Sian at IAA 2019 IMG 0775.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferruccio Lamborghini Museum.jpg by TKOIII, CC BY-SA 4.0
+- Ferruccio Lamborghini autograph.jpg by Ferruccio Lamborghini, Public domain
+- Lamborghini Espada-Chassis.jpg by Countachinfo.de, CC BY-SA 4.0
+- Lamborghini 350 GT 1964.jpg by Simon Davison, CC BY 2.0
+- Lamborghini 350 GT 1964 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1965 Lamborghini 350 GT HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- 6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG by Andrew Bossi, CC BY-SA 2.5
+- 1971 Lamborghini Miura P400 SV.jpg by Chelsea Jay, CC BY-SA 4.0
+- Lamborghini Miura P400 S GIMS 2024 1X7A2379.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach LP 5000S 1983.jpg by Palauenc05, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8019.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach, BAS 24, Brussels (P1170237-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Countach LP400 Periscopio (1976) Auto Zuerich 2021 IMG 0460.jpg by Alexander Migl, CC BY-SA 4.0
+- 1975 Lamborghini Countach LP400 Periscopo.jpg by Calreyn88, CC BY-SA 4.0
+- 1975 Lamborghini Countach LP400 Periscopo 2.jpg by Calreyn88, CC BY-SA 4.0
+- Motikon, TC 24, Essen (TCE42876).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Diablo, Motortreff Bella Italia 2024, Munich (P1190396).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Diablo (14486997194).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- Blancpain Endurance Series - Lamborghini Murcielago 670 R-SV 14.jpg by Thesupermat, CC BY-SA 3.0
+- Lamborghini Murciélago LP640 Roadster Auto Zuerich 2023 1X7A1436.jpg by Alexander-93, CC BY-SA 4.0
+- Motortreff Bella Italia 2024, Munich (P1190383).jpg by Matti Blume, CC BY-SA 4.0
+- Pop Art Künstlerin Tanja Playner Ernst Piech Enkelsohn Ferdinand Porsche.jpg by Mamag modern art museum, CC BY-SA 4.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 10 (Piech) ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 09 ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1486).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster Back IMG 0717.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster, IAA 2017, Frankfurt (1Y7A2846).jpg by Matti Blume, CC BY-SA 4.0
+- 1992 Mazda Prototype V12 engine.jpg by TTTNIS, CC0
+- Example of a 3d model of a V12 engine by Quintin Cloud.jpg by Quintin.cloud, CC BY-SA 4.0
+- 1934 ALF Senior 400 V12 engine, Greenwich 2019.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Aventador SVJ Roadster IMG 9580.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Aventador SVJ Roadster, GIMS 2019, Le Grand-Saconnex (GIMS0761).jpg by Matti Blume, CC BY-SA 4.0
+- 2021 Lamborghini Aventador SVJ 63 Edition Roadster.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae Roadster 2022 (2).jpg by Ethan Llamas, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae Roadster 2022 (1).jpg by Ethan Llamas, CC BY-SA 4.0
+- Lamborghini Aventador LP 780-4 Ultimae (2022) (53619874710).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rear of Lamborghini Sian 2022 FKP 37.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Lamborghini Sian FKP 37.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Lamborghini FKP 37 Sian.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Sián FKP 37 Roadster.jpg by pelican-actor, CC BY 2.0
+- Lamborghini Sián FKP 37 wheel.jpg by pelican-actor, CC BY 2.0
+- Lamborghini Sián (FKP 37) en Lego® Échelle 1-1 (Arrière) - 0060.jpg by WikiGenesis, CC BY-SA 4.0
+- 2021 Lamborghini Sian Roadster TM26.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Sián FKP 37 Roadster (cropped).jpg by pelican-actor, CC BY 2.0
+- Lamborghini Sián Roadster (53084376089).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lamborghini Countach LPI 800-4 IMG 8034.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8009.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini x3 (16691728755).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1998 Lamborghini Diablo VT Roadster, front right (Greenwich Concours 2018).jpg by Mr.choppers, CC BY-SA 3.0
+- 1998 Lamborghini Diablo VT Roadster, rear right (Greenwich Concours 2018).jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.07.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- 2022 Lamborghini Aventador Ultimae LP780-4.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae Roadster.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Aventador Ultimae gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Murcielago V12.JPG by User Nrbelex on en.wikipedia, CC BY 2.5
+- Lamborghini V12 engine (5488111293).jpg by Autoviva, CC BY 2.0
+- Lamborghini V12 (16009879816).jpg by Maurizio Cefariello, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621960033).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (53877996613).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622083054).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622083059).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622199935).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53620872937).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto Opera Unica 002.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 16.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 001.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 9.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 21.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 25.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 10.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 26.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 13.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Temerario IMG 5367.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Temerario IMG 5361.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Temerario 2025 6.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6805.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8524.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6798.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.01.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Headquarters (Sant'Agata Bolognese, Bologna) in 2023.03.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 002 (cropped).jpg by JustAnotherCarDesigner, CC0
+- Ferrari 12Cilindri at the 2025 Shannons Adelaide Rally (028A4546).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6809.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6393.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto IMG01.jpg by Maxhdtenda, CC BY-SA 4.0
+- Lamborghini Countach LP400S ver.wolf of circuit with its door open.JPG by Tokumeigakarinoaoshima, CC0
+- Lamborghini Countach 5000 quattrovalvole (22091109052).jpg by 先従隗始, CC0
+- Lamborghini Countach 5000 quattrovalvole (22091109032).jpg by 先従隗始, CC0
+- 1965 Lamborghini 350 GT Interior.jpg by Prova MO, CC BY-SA 4.0
+- 1965 Lamborghini 350 GT HCC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 1965 Lamborghini 350 GT HCC24 Zoomed.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Lanzador at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- Lamborghini Urus Performante (2024) (53621960053).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari 12Cilindri at Maranello.jpg by Russell Bray's Ghost, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri 1.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lamborghini (history and ownership): https://en.wikipedia.org/wiki/Lamborghini
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Wikipedia, Lamborghini Sian FKP 37: https://en.wikipedia.org/wiki/Lamborghini_Si%C3%A1n_FKP_37
+- WardsAuto, Lamborghini Direzione Cor Tauri plan (May 2021): https://www.wardsauto.com/news/archive-wards-lamborghini-plans-all-phev-lineup-by-2025-bev-to-follow/795220/
+- Hagerty UK, Revuelto: Aventador heir is a 1001bhp V12 plug-in (Apr 2023): https://www.hagerty.co.uk/articles/lamborghini-revuelto-aventador-heir-is-a-1001bhp-v12-plug-in/
+- Car and Driver via Yahoo Autos, Revuelto (Mar 2023): https://autos.yahoo.com/revuelto-1001-hp-hybrid-v-131900739.html
+- TFLcar, Aventador production ends (Sept 2022): https://tflcar.com/2022/09/lamborghini-aventador-production-ends-news/
+- Motor Authority, Revuelto sold out for 2 years: https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- duPont Registry, Lamborghini 2024 deliveries: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- Top Gear, PCOTY 2025: https://www.topgear.com/car-news/pcoty-2025/v12-victory-aston-martin-vanquish-vs-ferrari-12cilindri-vs-lamborghini-revuelto
+- AutoGuide, Revuelto door recall (July 2025): https://www.autoguide.com/auto/manufacturers/lamborghini/why-these-lambo-doors-could-fall-on-your-head-or-hold-you-hostage-44623369
+- Auto123, Revuelto SV debut (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/

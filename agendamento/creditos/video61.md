@@ -1,0 +1,183 @@
+# Photo credits: 2 Things You Didn't Know About the Bugatti Chiron
+
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 2017.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Royal Blue.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 2019.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron With Lights.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Bugatti Chiron Pur Sport SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Chiron Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée rear (cropped).jpg by Pelicanactor, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée rear.jpg by Pelicanactor, CC BY-SA 4.0
+- Paris - RM Sotheby’s 2018 - Bugatti Chiron - 2017 - 011.jpg by Thesupermat, CC BY-SA 4.0
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Chiron Sport gfos25 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport Les Legendes du Ciel.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport Les Legendes Du Ciel.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Sport 110 Ans.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Pop Art Künstlerin Tanja Playner Ernst Piech Enkelsohn Ferdinand Porsche.jpg by Mamag modern art museum, CC BY-SA 4.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 10 (Piech) ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Bodman-Ludwigshafen - Ludwigshafen - Hafenstraße - Ludwigs Erbe r 09 ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Bugatti Chiron (8171).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8170).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- Bugatti Chiron (8169).jpg by Scuderi Ferrari™ at English Wikipedia, Public domain
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Streetcarl Bugatti veyron 16.4 (6442883015).jpg by Ben, CC BY-SA 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0132-2).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Veyron Super Sport (5491917622).jpg by Autoviva, CC BY 2.0
+- BugattiVeyronSuperSport.jpg by Autoviva, CC BY 2.0
+- 2016-03-01 Geneva Motor Show 0877.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2016-03-01 Geneva Motor Show G069.JPG by Ghoster, CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show G075.JPG by Ghoster, CC BY-SA 4.0
+- Bugatti W16, Berlin (1X7A3942).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron 2.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron BW.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron LC.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Bugatti Chiron in Exposed Blue Carbon, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2020 Bugatti Chiron Sport in Nocturne and Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0
+- Bugatti Chiron, Auto 2025, Zurich (20251029-P1074241).jpg by Matti Blume, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée.jpg by Pelicanactor, CC BY-SA 4.0
+- Wheel, IAA 2017, Frankfurt (1Y7A2858).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron (2018) (54868834683).jpg by Charles from Port Chester, New York, CC0
+- Bugatti Chiron (2018) (54868834608).jpg by Charles from Port Chester, New York, CC0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype.jpg by Liam Walker, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ehra-Lessien - Zunftbaum.jpg by Oxfordian Kissuth, CC BY-SA 3.0
+- Ehra.JPG by Vanellus Foto, CC BY-SA 3.0
+- Ehra-Lessien Kiebitzmühle NLD 33925267.jpg by Hubertus Gerhardt, CC BY 4.0
+- Bugatti Chiron Super Sport.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 1.jpg by Calreyn88, CC BY 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport110ans.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ (55155037021).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 6.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 4.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 5.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 2.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 300+ - Molsheim 3.jpg by Laurent Jerry, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0723.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0724.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0719.jpg by Alexander Migl, CC BY-SA 4.0
+- Juan pablo montoya.jpg by Zach Catanzareti Photo, CC BY-SA 2.0
+- Juan pablo montoya (51222252077).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Juan pablo montoya (51220712617).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2871).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron CH12 RON.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron SHZ 1.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2859).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2860).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0525).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Regera White.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010490.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010489.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010487.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron Black White.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron THJ.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9980).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti at IAA 2017 (05).jpg by NearEMPTiness, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1026).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron Milano 2.jpg by Saggittarius A, CC BY-SA 4.0
+- Bugatti Chiron 4.jpg by Calreyn88, CC BY-SA 4.0
+- A Bugatti Chiron.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2873).jpg by Matti Blume, CC BY-SA 4.0
+- Lego Bugatti Chiron, Paris Motor Show 2018, IMG 0348.jpg by Alexander Migl, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1025).jpg by Matti Blume, CC BY-SA 4.0
+- Mansory Centuria (53264717890).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Mansory Centuria (32415942937).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Bugatti Veyron Engine 1X7A7930.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Veyron 2008 - 005.JPG by Ammar shaker, Public domain
+- Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti (suivi de) Dreyfus sur Bugatti - btv1b53197913v.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti - btv1b531979149.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- (Grand Prix d'Antibes) Juan les Pins, 9-4-28, Chiron sur Bugatti - btv1b53197906s.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- Lego Bugatti Chiron, Paris Motor Show 2018, IMG 0346.jpg by Alexander Migl, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1020).jpg by Matti Blume, CC BY-SA 4.0
+- Miami Concours parking.jpg by Joseph Zadeh, CC BY-SA 4.0
+- Admiring sports cars parked in front of the Hôtel Hermitage Monte-Carlo, Monaco (53969261323).jpg by Charles from Port Chester, New York, CC BY 2.0
+- GIMS 2019, Le Grand-Saconnex (GIMS0960).jpg by Matti Blume, CC BY-SA 4.0
+- 2022 Bugatti Chiron Sport 110 Ans 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Bugatti Chiron Sport 110 Ans 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Bugatti Chiron Profilée (cropped).jpg by Pelicanactor, CC BY-SA 4.0
+- Bugatti Divo, GIMS 2019, Le Grand-Saconnex (GIMS0029).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Divo, GIMS 2019, Le Grand-Saconnex (GIMS0944).jpg by Matti Blume, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1636).jpg by Matti Blume, CC BY-SA 4.0
+- Blue Bugatti Chiron.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Super Sport in Dorlisheim.jpg by Alexandre Prevot, CC BY-SA 2.0
+- Bugatti Chiron Super Sport in Monaco.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Lego 04.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Chiron Lego 05.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Chiron Lego 02.jpg by Y.Leclercq, CC BY-SA 4.0
+- Lego Technic gears red,blue,yellow (42457828342).jpg by Brickset from UK, CC BY 2.0
+- Bugatti Chiron Lego 01.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Chiron Lego 03.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Tourbillon.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Bugatti Tourbillon 2.jpg by Calreyn88, CC BY-SA 4.0
+- Rimac (101).jpg by El monty, CC BY-SA 4.0
+- Green Monster Seats.jpg by Aidan Siegel, CC BY-SA 3.0
+- Green Monster (10374170485).jpg by Kelly from Parsons, Kansas, CC BY-SA 2.0
+- Bugatti Chiron Pur Sport (51720077913).jpg by Alexandre Prevot, CC BY-SA 2.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron 2016 Motor Nationales Automuseum.JPG by Wikiwal, CC BY-SA 4.0
+- W16 Engine Bugatti Chiron-P1010491.jpg by Heinz Reutersberg, CC BY-SA 4.0
+- Bugatti Chiron at Goodwood Festival of Speed - geograph.org.uk - 5008925.jpg by Oast House Archive, CC BY-SA 2.0
+- Koenigsegg, Auto 2024, Zurich (PANA0940).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1377.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1375.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport 300+, front left (Miller).jpg by Mr.choppers, CC BY-SA 3.0
+- 2018 Bugatti Chiron on the move, 2018 Greenwich Concours.jpg by Mr.choppers, CC BY-SA 3.0
+- 2018-03-06 Geneva Motor Show 2259.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+
+## Sources
+
+- Wikipedia, Bugatti Chiron (specs, variants, production, records, Lego): https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Bugatti newsroom, 0-400-0 km/h in 42 seconds (Sept 11, 2017): https://newsroom.bugatti.com/press-releases/0-400-0-km-h-in-42-seconds-bugatti-chiron-sets-world-record
+- Autocar, Bugatti Chiron goes 304mph: https://www.autocar.co.uk/car-news/new-cars/bugatti-chiron-goes-304mph-set-hypercar-record
+- Motor1, Bugatti retires from chasing speed records (2019): https://www.motor1.com/news/368539/bugatti-retires-chasing-speed-records/
+- Motor Authority, a close look at the Chiron W16 engine: https://www.motorauthority.com/news/1102657_a-close-look-at-the-bugatti-chiron-s-monster-w-16-engine
+- The Drive, what it cost to maintain a Chiron (Jan 2023): https://www.thedrive.com/news/heres-what-it-cost-to-maintain-a-bugatti-chiron-over-10-years
+- Motor1, Chiron tires won't cost $42,000: https://www.motor1.com/news/180923/bugatti-chiron-tires-cost/
+- evo, true cost of the Veyron revealed (Oct 2013): https://evo.co.uk/news/evonews/290953/true_cost_of_the_veyron_revealed.html
+- Top Gear, how the Veyron became a thing: https://www.topgear.com/car-news/supercars/heres-how-bugatti-veyron-became-thing
+- Hagerty UK, Chiron Profilee auction record: https://www.hagerty.co.uk/articles/bugatti-chiron-profilee-record-breaking/
+- evo, first used Chiron (Nov 2017): https://evo.co.uk/bugatti/chiron/20283/first-used-bugatti-chiron-aims-for-1m-profit
+- Top Gear, the 500th and final Chiron (May 2024): https://www.topgear.com/car-news/first-look/it-final-500th-definitely-last-ever-bugatti-chiron
+- Car Throttle, Bugatti Tourbillon (June 2024): https://www.carthrottle.com/news/bugatti-tourbillon-1775bhp-v16-salute-combustion
+- Carscoops, Rimac finalizes Bugatti takeover (Sept 2026): https://carscoops.com/2026/09/rimac-finalizes-bugatti-takeover-ending-all-vw-ownership
+- Wikipedia, Koenigsegg Jesko (0-400-0 records): https://en.wikipedia.org/wiki/Koenigsegg_Jesko

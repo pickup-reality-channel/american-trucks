@@ -1,0 +1,155 @@
+# Photo credits: Lamborghini Revuelto or Ferrari 12Cilindri? The Real Difference
+
+- Lamborghini Revuelto DSC 6987.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto IMG 0562.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6986.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6984.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1101.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto Auto Zuerich 2023 1X7A1103.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 12Cilindri at the 2025 Shannons Adelaide Rally (028A4546).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6393.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6809.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 12Cilindri at Maranello.jpg by Russell Bray's Ghost, CC BY-SA 4.0
+- Ferrari 12Cilindri gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri gfos25 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri in Rosso Imola, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- Ferrari 12Cilindri (2025) (54873484844).jpg by Charles from Port Chester, New York, CC0
+- Ferrari 12Cilindri (2025) (54873468608).jpg by Charles from Port Chester, New York, CC0
+- Ferrari 12Cilindri (2025) (54873485754).jpg by Charles from Port Chester, New York, CC0
+- Ferrari 12Cilindri Spider (2026) (55252929493).jpg by Charles from Port Chester, New York, CC0
+- Lamborghini Revuelto IMG02.jpg by Maxhdtenda, CC BY-SA 4.0
+- 2023 Lamborghini Revuelto Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Rear view of Green Lamborghini Revuelto.jpg by Alexandre Prevot, CC BY-SA 4.0
+- Ferrari 125 S fl.jpg by Herranderssvensson, CC BY-SA 4.0
+- Ferrari 125 S Engine.jpg by Aiace90, Public domain
+- Ferrari Finali Mondiali 2017, 125 S in the showroom.jpg by Naioli, CC BY-SA 4.0
+- Ferrari 250 GTO, CMC-Modell (Seite 2017-02-15).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Ferrari 250 GTO, CMC-Model 1-18 (vorn links 2017-03-23).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Ferrari 250 GTO, CMC-Modell (Tür offen 2017-02-14).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Lamborghini 350 GT 1964.jpg by Simon Davison, CC BY 2.0
+- Lamborghini 350 GT 1964 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1965 Lamborghini 350 GT Interior.jpg by Prova MO, CC BY-SA 4.0
+- 6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG by Andrew Bossi, CC BY-SA 2.5
+- 1971 Lamborghini Miura P400 SV.jpg by Chelsea Jay, CC BY-SA 4.0
+- Lamborghini Miura P400 S GIMS 2024 1X7A2379.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 812 Superfast IMG 8829.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 812 Superfast, GIMS 2019, Le Grand-Saconnex (GIMS1324).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari 812 Superfast, GIMS 2019, Le Grand-Saconnex (GIMS1323).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Revuelto (2024) (53621960033).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622083054).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53622199935).jpg by Charles from Port Chester, New York, CC BY 2.0
+- The engine room of Ferrari 12Cilindri (resized).jpeg by Oq10pass, CC0
+- The engine room of Ferrari 12Cilindri.jpeg by Oq10pass, CC0
+- 2025 Ferrari 12Cilindri 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri in Rosso Imola, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 Ferrari 12 Cilindri rear mod.jpg by TTTNIS, CC0
+- 2024 Ferrari 12 Cilindri rear.jpg by TTTNIS, CC0
+- 2025 Ferrari 12Cilindri gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ferrari 12Cilindri 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Tipo F140C V12 engine display.jpg by Mr.choppers, CC BY-SA 3.0
+- 1948 Ferrari 166MM barchetta 0002M engine.jpg by Prova MO, CC BY-SA 4.0
+- 1950 Ferrari 195S Inter by Vignale - V12 engine side.jpg by Mr.choppers, CC BY-SA 3.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1486).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador, Motortreff Bella Italia 2024, Munich (P1190389-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Aventador S Roadster Back IMG 0717.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 812 Superfast at the 2026 Adelaide Motorsport Festival (DSCF2566).jpg by Yu Chu Chin, CC BY-SA 4.0
+- 2019 Ferrari 812 Superfast 8.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 812 Superfast, Zurich 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari 12Cilindri.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 12Cilindri 2025.jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.5
+- 2025 Ferrari 12Cilindri.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Lamborghini Revuelto (2024) (53621749676).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621960073).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621960053).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (53877996613).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Lamborghini Revuelto IMG 8153.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6879.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 12 Cylindre.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 12 Cilindri.jpg by Calreyn88, CC BY 4.0
+- Ferrari 365 GTB 4 Daytona, Bj. 1970 (2007-07-22).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de
+- 1973 Ferrari 365 GTB4 Daytona rear.jpg by TTTNIS, CC0
+- 1973 Ferrari 365 GTB4 Daytona.jpg by TTTNIS, CC0
+- Ferrari ( REC ) 330P4 (1967) Solitude Revival 2022 1X7A0418.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 330 P4 (47980248496).jpg by Iain Cameron, CC BY 2.0
+- 1967 Ferrari 330 P4 rear.jpg by pelican-actor, CC BY 2.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Revuelto 002.jpg by JustAnotherCarDesigner, CC0
+- Ferrari 12Cilindri at the 2025 Shannons Adelaide Rally (028A4552).jpg by Yu Chu Chin, CC BY 4.0
+- 2025 Ferrari 12 Cylindre Cavalino.jpg by Calreyn88, CC BY 4.0
+- Ferrari 12Cilindri (54289022236).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lamborghini Revuelto Opera Unica 002.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 16.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 15.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 12Cilindri (2025) (54873468618).jpg by Charles from Port Chester, New York, CC0
+- Ferrari 12Cilindri (54454308785).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari 12Cilindri (2025) (54873235246).jpg by Charles from Port Chester, New York, CC0
+- 2024 Lamborghini Revuelto 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 25.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 18.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 12Cilindri (54471363599).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari 12Cilindri - 54659300300.jpg by Alexandre Prevot, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 21.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto Opera Unica 001.jpg by JustAnotherCarDesigner, CC0
+- 2024 Lamborghini Revuelto 5.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 10.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 26.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 13.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 12.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Revuelto IMG01.jpg by Maxhdtenda, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider (54329667478).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6810.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6884.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (9).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Revuelto LB744 Viola Bast (4).jpg by Damian B Oh, CC BY-SA 4.0
+- 2026 Adelaide Rally Street Party on King William Road (028A4106).jpg by Yu Chu Chin, CC BY-SA 4.0
+- 2024 Lamborghini Revuelto 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bonhams - The Paris Sale 2012 - FIAT 900T Ferrari Service Van - 1978 - 002.jpg by Thesupermat, CC BY-SA 3.0
+- Bonhams - The Paris Sale 2012 - FIAT 900T Ferrari Service Van - 1978 - 001.jpg by Thesupermat, CC BY-SA 3.0
+- Bonhams - The Paris Sale 2012 - FIAT 900T Ferrari Service Van - 1978 - 003.jpg by Thesupermat, CC BY-SA 3.0
+- Lamborghini Revuelto (2024) (53622083059).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53621749716).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Revuelto (2024) (53620872937).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lifeguard stand, Miami Beach.jpg by Radomianin, CC BY-SA 4.0
+- Boulevard Hotel (Neon sign), Miami Beach.jpg by Photograph:  Radomianin, Public domain
+- MiamiSouthBeachPanoramaEdit.jpg by This image or media was taken or created by Matt H. Wade. To see his entire portfolio, click here.@thatmattwade
+
+ This image is protected by copyright! If you would like to use it, please read this first., CC BY-SA 3.0
+- Aston Martin Vanquish (2024) DSC 7892.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin Vanquish (2024) DSC 7890.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin Vanquish (2024) Retro Classics 2025 DSC 7538.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin Vanquish Vision Concept, GIMS 2019, Le Grand-Saconnex (GIMS1088).jpg by Matti Blume, CC BY-SA 4.0
+- 2017 Aston Martin Vanquish Zagato Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2017 Aston Martin Vanquish Zagato Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 1992 Mazda Prototype V12 engine.jpg by TTTNIS, CC0
+- Example of a 3d model of a V12 engine by Quintin Cloud.jpg by Quintin.cloud, CC BY-SA 4.0
+- 1934 ALF Senior 400 V12 engine, Greenwich 2019.jpg by Mr.choppers, CC BY-SA 3.0
+
+## Sources
+
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Wikipedia, Ferrari 12Cilindri: https://en.wikipedia.org/wiki/Ferrari_12Cilindri
+- Wikipedia, Lamborghini (history): https://en.wikipedia.org/wiki/Lamborghini
+- Motor1, Ferrari 12Cilindri vs Lamborghini Revuelto (June 2024): https://www.motor1.com/news/723932/ferrari-12cilindri-versus-lamborghini-revuelto-comparison/
+- Top Gear, PCOTY 2025: Vanquish vs 12Cilindri vs Revuelto: https://www.topgear.com/car-news/pcoty-2025/v12-victory-aston-martin-vanquish-vs-ferrari-12cilindri-vs-lamborghini-revuelto
+- Ferrari magazine, Mythbusters: the first Ferrari V12: https://ferrari.com/en-CA/magazine/articles/mythbusters-the-first-ferrari-v12
+- Ferrari magazine, the race that inspired an icon (Daytona 1967): https://www.ferrari.com/magazine/articles/the-race-that-inspired-an-icon
+- Autocar, Ferrari 12Cilindri priced from £336,500: https://autocar.co.uk/car-news/new-cars/ferrari-12cilindri-priced-%C2%A3336500-spider-adds-%C2%A330k
+- Kelley Blue Book, Ferrari 12Cilindri: https://www.kbb.com/ferrari/12cilindri/
+- Kelley Blue Book, Lamborghini Revuelto: https://www.kbb.com/lamborghini/revuelto/
+- Jalopnik, Revuelto carbon options (Oct 2026): https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/
+- Car and Driver via Yahoo Autos, Revuelto: https://autos.yahoo.com/revuelto-1001-hp-hybrid-v-131900739.html
+- Auto123, Revuelto SV debut (Aug 2026): https://www.auto123.com/en/news/lamborghini-revuelto-sv-debut-monterey/74145/
+- Motor Authority, Revuelto sold out for 2 years: https://www.motorauthority.com/news/1140333_lamborghini-revuelto-already-sold-out-for-next-2-years
+- duPont Registry, Lamborghini 2024 deliveries: https://news.dupontregistry.com/blogs/lamborghini-news/lamborghini-celebrates-a-record-breaking-year-with-10687-new-car-deliveries
+- autoevolution, used Revuelto values (Oct 2026): https://www.autoevolution.com/news/how-much-is-a-2024-lamborghini-revuelto-worth-today-after-6000-miles-276767.html
