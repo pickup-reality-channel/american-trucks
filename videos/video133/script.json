@@ -1,0 +1,293 @@
+{
+ "id": "video133",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Bugatti Veyron",
+ "scenes": [
+  {
+   "text": "The Bugatti Veyron has two secrets that most people never hear. First, at full speed it drinks fuel so fast that its tank is empty in minutes. Second, it can only reach its top speed with a special key, and the car checks itself before it will let you use it. Behind both sits a third surprise: the sources disagree on some of the basic numbers. Here is what we found, with every claim sourced.",
+   "query": "Bugatti Veyron",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE BUGATTI VEYRON",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The series today is about exotic cars, not only American ones, and Wikipedia says the Veyron belongs to the Volkswagen Group. We use Wikipedia, Top Gear, Car magazine, Motor One and Jalopnik. Where two sources give different numbers, we show both. Where we do the arithmetic, we label it as ours. And where a figure is a claim, we call it a claim.",
+   "query": "Bugatti Veyron",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 TOP GEAR \u00b7 CAR MAGAZINE \u00b7 MOTOR1 \u00b7 JALOPNIK \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the origin. Wikipedia says Volkswagen acquired the Bugatti name in May nineteen ninety-eight, the EB eighteen four Veyron concept appeared at the Tokyo Motor Show in October nineteen ninety-nine, and the production engine, a W sixteen, was shown in the EB sixteen four in two thousand. Volkswagen Group decided to build the car in two thousand one.",
+   "query": "Bugatti Veyron history",
+   "caption": "VW BOUGHT BUGATTI NAME MAY 1998 \u00b7 EB 18/4 CONCEPT OCT 1999 \u00b7 EB 16/4 WITH W16 IN 2000 \u00b7 BUILD DECISION 2001 (WIKIPEDIA)",
+   "cuts": 5,
+   "chapter": "Where the Veyron came from"
+  },
+  {
+   "text": "Motor One adds the pitch. In nineteen ninety-seven, it says, Ferdinand Pi\u00ebch, then chairman of the Volkswagen Group, pitched an eighteen-cylinder W engine car of one thousand metric horsepower and four hundred kilometres per hour to Volkswagen's engine head on a Shinkansen train. At the two thousand Geneva Motor Show, Pi\u00ebch announced a target of one thousand one metric horsepower and four hundred.",
+   "query": "Ferdinand Pi\u00ebch's pitch",
+   "caption": "1997: PITCH FOR 1,000 PS / 400 KM/H ON A SHINKANSEN TRAIN \u00b7 GENEVA 2000: TARGET 1,001 PS / 400 KM/H (MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "The first roadworthy prototype was finished in August two thousand three, Wikipedia says, and production began in September two thousand five, after technical problems caused repeated delays. By our arithmetic, that is five years and eleven months from the Tokyo concept to the first production cars, or about six years, and four years from the build decision to the start of production.",
+   "query": "Bugatti Veyron development time",
+   "caption": "CONCEPT OCT 1999 \u2192 PRODUCTION SEPT 2005 = 5 YEARS 11 MONTHS \u00b7 BUILD DECISION 2001 \u2192 PRODUCTION 2005 \u2248 4 YEARS (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The name is a tribute. Wikipedia says the car is named after Pierre Veyron, who co-won the nineteen thirty-nine twenty-four Hours of Le Mans with Jean-Pierre Wimille. The EB stands for the founder, Ettore Bugatti, and sixteen four refers to sixteen cylinders and four turbochargers. So the name carries a race winner, a founder and an engine layout.",
+   "query": "Bugatti Veyron name",
+   "caption": "NAMED AFTER PIERRE VEYRON, 1939 LE MANS CO-WINNER \u00b7 EB = ETTORE BUGATTI \u00b7 16.4 = 16 CYLINDERS, 4 TURBOS (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Secret one. Wikipedia gives the Veyron's EPA fuel economy as eight miles per gallon in the city, fourteen on the highway, and three miles per gallon at top speed, or one point four U.S. gallons per minute. Take that last figure by our arithmetic: one point four gallons a minute is about eighty-four gallons an hour, which no road trip could ever use, because the car cannot keep that speed for an hour.",
+   "query": "Bugatti Veyron fuel consumption",
+   "caption": "EPA: 8 MPG CITY \u00b7 14 HIGHWAY \u00b7 3 MPG AT TOP SPEED = 1.4 US GAL/MIN (WIKIPEDIA) \u00b7 \u00d760 = 84 GAL/HOUR (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Secret one: the fuel"
+  },
+  {
+   "text": "Car magazine puts it more dramatically. It says that at full speed the car drains its one hundred litre fuel tank in just twelve minutes, covering sixty-three and a half miles. The magazine's narrator, Anthony ffrench-Constant, calls the car's top speed two hundred fifty-four miles per hour. So the fuel tank, in this telling, lasts about as long as a television programme.",
+   "query": "Bugatti Veyron fuel tank",
+   "caption": "CAR MAGAZINE: 100-LITRE TANK EMPTIED IN 12 MINUTES AT FULL SPEED \u00b7 63.5 MILES",
+   "cuts": 3
+  },
+  {
+   "text": "The two sources do not agree. Wikipedia's one point four gallons per minute is about five point three litres a minute, which over twelve minutes is about sixty-four litres, by our arithmetic, not a hundred. And a hundred litres in twelve minutes is eight point three litres a minute, or about two point two gallons. The tank size, the speed, or the rate differs between the two accounts, and neither source explains.",
+   "query": "Bugatti Veyron fuel discrepancy",
+   "caption": "1.4 GAL/MIN \u2248 5.3 L/MIN \u2192 12 MIN \u2248 64 L \u00b7 CAR: 100 L IN 12 MIN \u2248 8.3 L/MIN \u2248 2.2 GAL/MIN \u2014 SOURCES DISAGREE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a second inconsistency in Car's numbers. Sixty-three and a half miles in twelve minutes is three hundred seventeen miles per hour, by our arithmetic, which is faster than the car's maximum. At two hundred fifty-four miles per hour, twelve minutes covers about fifty miles. So the distance figure is also off. But the figure fits a different time: by our arithmetic, fifteen minutes at two hundred fifty-four miles per hour is exactly sixty-three and a half miles.",
+   "query": "Bugatti Veyron distance check",
+   "caption": "63.5 MI IN 12 MIN \u2248 317 MPH (IMPOSSIBLE) \u00b7 254 MPH \u00d7 0.25 H = 63.5 MI \u2192 FITS 15 MINUTES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Wikipedia numbers do agree with themselves. Three miles per gallon at one point four gallons per minute is four point two miles a minute, by our arithmetic, which is two hundred fifty-two miles per hour. That matches the car's roughly two hundred fifty-three. So the EPA-based figure is internally consistent, and we treat it as the more reliable pair, while noting that the Car magazine tank claim is only a magazine's statement.",
+   "query": "Bugatti Veyron fuel consistency",
+   "caption": "3 MPG \u00d7 1.4 GAL/MIN = 4.2 MILES/MIN = 252 MPH \u2014 CONSISTENT WITH A ~253 MPH TOP SPEED (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Even at normal speeds, the Veyron is thirsty. Eight miles per gallon in the city means that, by our arithmetic, ten thousand city miles would burn twelve hundred fifty gallons. At fourteen on the highway, it would be seven hundred fourteen. We do not know the price of fuel where you live, so we stop at gallons. Multiply by the pump price and you have the number.",
+   "query": "Bugatti Veyron fuel economy",
+   "caption": "8 MPG CITY \u2192 1,250 GAL PER 10,000 MILES \u00b7 14 MPG HIGHWAY \u2192 ~714 GAL (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Why so thirsty? The engine is large. Wikipedia lists the W sixteen at seven thousand nine hundred ninety-three cubic centimetres, quad-turbocharged, with sixty-four valves. The base car makes one thousand one metric horsepower, which is nine hundred eighty-seven horsepower, and twelve hundred fifty newton-metres. The Super Sport makes twelve hundred metric horsepower, which is eleven hundred eighty-three horsepower, and fifteen hundred newton-metres.",
+   "query": "Bugatti Veyron W16",
+   "caption": "7,993 CC QUAD-TURBO W16, 64 VALVES \u00b7 1,001 PS (987 HP) / 1,250 N\u00b7M \u00b7 SUPER SPORT 1,200 PS (1,183 HP) / 1,500 N\u00b7M (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Car magazine makes a good point about the engine. It says the W sixteen generates only some seventy-four brake horsepower per cylinder, about the same as a Volkswagen Golf R. By our arithmetic, eleven hundred eighty-three divided by sixteen is seventy-three point nine, so that matches. The engine is not exotic per cylinder. It simply has sixteen of them, and four turbochargers.",
+   "query": "Bugatti Veyron per-cylinder output",
+   "caption": "1,183 BHP \u00f7 16 = 73.9 BHP PER CYLINDER (CAR MAGAZINE; OUR ARITHMETIC) \u00b7 'ABOUT THE SAME AS A GOLF R'",
+   "cuts": 3
+  },
+  {
+   "text": "All that power makes heat. Wikipedia says the Veyron has ten radiators: three for the intercooler loop, three for engine water cooling, and one each for the air conditioning, transmission oil, differential oil and engine oil. By our arithmetic, three plus three plus four singles is ten, so the list checks out.",
+   "query": "Bugatti Veyron cooling",
+   "caption": "TEN RADIATORS: 3 INTERCOOLER + 3 ENGINE WATER + A/C + TRANSMISSION OIL + DIFFERENTIAL OIL + ENGINE OIL (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Cooling a monster"
+  },
+  {
+   "text": "Car magazine says twelve radiators. Wikipedia says ten. We cannot tell whether the magazine is counting differently, perhaps including heat exchangers, or whether it is simply wrong. We show both. And the lesson is the same as with the fuel tank: for a car this famous, the basic numbers are repeated differently in different places, and you should check which source a figure comes from.",
+   "query": "Bugatti Veyron radiators",
+   "caption": "WIKIPEDIA: 10 RADIATORS \u00b7 CAR MAGAZINE: 12 \u2014 COUNT DIFFERS, REASON NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One tells the story behind the heat. Chief engineer Dr. Wolfgang Schreiber recalled that above two hundred twenty-three miles per hour, the driveshaft seals expanded and shredded, and the rear constant-velocity boots flung out their oil and failed. Motor One does not say how these problems were solved.",
+   "query": "Bugatti Veyron engineering problems",
+   "caption": "ABOVE 223 MPH: DRIVESHAFT SEALS EXPANDED AND SHREDDED \u00b7 REAR CV BOOTS FLUNG OUT OIL (DR. WOLFGANG SCHREIBER, MOTOR1) \u00b7 FIXES NOT DESCRIBED",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One says the engine changed from a naturally aspirated eighteen-cylinder W to a quad-turbocharged W sixteen. That was a major redesign, and it explains why production took until two thousand five. The goal, according to Motor One, was one thousand one metric horsepower and four hundred kilometres per hour. By our arithmetic, four hundred kilometres per hour is two hundred forty-eight and a half miles per hour.",
+   "query": "Bugatti Veyron redesign",
+   "caption": "W18 (NATURALLY ASPIRATED) \u2192 QUAD-TURBO W16 \u00b7 TARGET 1,001 PS AND 400 KM/H = 248.5 MPH (MOTOR1; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Secret two is the key. Top Gear says that the Veyron's normal top speed is two hundred thirty-six miles per hour, and that reaching two hundred fifty-three requires inserting a special key, a Speed Key, into a slot beside the driver's seat. Turning the key starts a series of computer checks. The car grants access to Top Speed mode only if specific conditions are met.",
+   "query": "Bugatti Veyron speed key",
+   "caption": "NORMAL TOP SPEED 236 MPH \u00b7 253 MPH NEEDS A SPEED KEY \u00b7 COMPUTER CHECKS FIRST (TOP GEAR)",
+   "cuts": 3,
+   "chapter": "Secret two: the key"
+  },
+  {
+   "text": "Wikipedia gives a different normal figure. It says the normally listed top speed is three hundred forty-three kilometres per hour, or two hundred thirteen miles per hour, and that the full top speed requires a special key. So two sources agree about the key and disagree about the baseline: two hundred thirteen or two hundred thirty-six. By our arithmetic, that is a twenty-three mile per hour difference.",
+   "query": "Bugatti Veyron normal top speed",
+   "caption": "NORMAL TOP SPEED: 343 KM/H = 213 MPH (WIKIPEDIA) vs 236 MPH (TOP GEAR) \u2192 23 MPH APART (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Car magazine describes a middle step. At one hundred twelve miles per hour, it says, the car switches automatically to handling mode, lowering the ride height and deploying the rear wing, with downforce of one hundred twenty-five kilograms at the front and four hundred at the rear, good for two hundred thirty-three miles per hour. To go faster, the driver pulls over and inserts the speed key.",
+   "query": "Bugatti Veyron handling mode",
+   "caption": "112 MPH: AUTOMATIC HANDLING MODE \u00b7 DOWNFORCE 125 KG FRONT / 400 KG REAR \u00b7 GOOD FOR 233 MPH \u00b7 THEN PULL OVER FOR THE KEY (CAR MAGAZINE)",
+   "cuts": 3
+  },
+  {
+   "text": "What the key does is physical. Top Gear says front ride height drops from one hundred twenty-five millimetres to sixty-five, and the rear drops to seventy. The rear wing lowers and angles to two degrees, and the diffuser flaps close to reduce drag. Car magazine says it takes all but three degrees of rear wing off. By our arithmetic, the front of the car drops sixty millimetres, nearly two and a half inches.",
+   "query": "Bugatti Veyron Top Speed mode",
+   "caption": "FRONT RIDE HEIGHT 125 \u2192 65 MM (\u221260 MM \u2248 2.4 IN) \u00b7 REAR \u2192 70 MM \u00b7 WING TO 2\u00b0\u20133\u00b0 \u00b7 DIFFUSER FLAPS CLOSED (TOP GEAR, CAR MAGAZINE; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the car can say no. Top Gear says slightly incorrect tyre pressure, for example, blocks access to Top Speed mode. So the Veyron's top speed is not only a matter of power. It is a check list that the car runs before it lets the driver do something dangerous. That is an unusual idea for a road car, and it is why we call the key a secret.",
+   "query": "Bugatti Veyron Top Speed checks",
+   "caption": "WRONG TYRE PRESSURE CAN BLOCK TOP SPEED MODE (TOP GEAR)",
+   "cuts": 3
+  },
+  {
+   "text": "The rear wing has another job. Car magazine says that at fifty-five degrees the wing alone generates zero point eight g of braking. The wing is therefore both a downforce device and an air brake, which is more than most spoilers do.",
+   "query": "Bugatti Veyron air brake",
+   "caption": "WING AT 55\u00b0 ALONE \u2248 0.8 G BRAKING (CAR MAGAZINE)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the speed. Wikipedia says the original Veyron averaged four hundred eight point four seven kilometres per hour, which is two hundred fifty-three point eight one miles per hour, recorded on the nineteenth of April, two thousand five. Top Gear says the record was set at Ehra-Lessien at four hundred seven kilometres per hour, two hundred fifty-three miles per hour, and was recorded by T\u00dcV S\u00fcd after runs in both directions.",
+   "query": "Bugatti Veyron record",
+   "caption": "WIKIPEDIA: 408.47 KM/H (253.81 MPH) AVERAGE, APRIL 19, 2005 \u00b7 TOP GEAR: 407 KM/H (253 MPH), T\u00dcV S\u00dcD, EHRA-LESSIEN",
+   "cuts": 3,
+   "chapter": "The record that was not"
+  },
+  {
+   "text": "Top Gear adds a detail. Test driver Uwe Novacki reached four hundred eleven kilometres per hour on the nineteenth of April, two thousand five, and a track display showed four hundred twenty-seven, or two hundred sixty-five miles per hour, but that reading was later shown to be inaccurate. After further runs in both directions, T\u00dcV S\u00fcd recorded four hundred seven as the official figure.",
+   "query": "Bugatti Veyron Uwe Novacki run",
+   "caption": "NOVACKI: 411 KM/H \u00b7 TRACK DISPLAY 427 KM/H (265 MPH), LATER SHOWN INACCURATE \u00b7 OFFICIAL 407 KM/H (TOP GEAR)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the gap between the inaccurate display and the official figure is twenty kilometres per hour, or about twelve and a half miles per hour. That is a large error, and it is a reminder that even a test track's display can mislead. It also explains why verified, two-way, third-party figures matter more than a number on a screen, a point we make in the American hypercar series too.",
+   "query": "Veyron measurement lesson",
+   "caption": "427 \u2212 407 = 20 KM/H \u2248 12.4 MPH (TOP GEAR, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Super Sport went further. Wikipedia says it averaged four hundred thirty-one point oh seven two kilometres per hour, which is two hundred sixty-seven point eight five six miles per hour, though the car is electronically limited to four hundred fifteen, two hundred fifty-eight miles per hour. Guinness reviewed the record after the limiter question and confirmed it in April twenty thirteen.",
+   "query": "Bugatti Veyron Super Sport record",
+   "caption": "SUPER SPORT: 431.072 KM/H (267.856 MPH) AVERAGE \u00b7 CUSTOMER LIMIT 415 KM/H (258 MPH) \u00b7 GUINNESS CONFIRMED APRIL 2013 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the record speed was sixteen point oh seven kilometres per hour above the limiter, about ten miles per hour. So the limited car runs slower than the record car. The limiter is another form of the key idea: the car's top speed is something Bugatti chooses to allow. And the difference between the record version and the delivered version is rarely mentioned.",
+   "query": "Bugatti Veyron Super Sport limiter",
+   "caption": "431.072 \u2212 415 = 16.07 KM/H (\u2248 10 MPH) ABOVE THE LIMITER (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Car magazine says the Michelin PAX tyres are designed to last about fifteen minutes at top speed. And Andy Wallace, Bugatti's official driver, recalling the McLaren F1 tests, says Michelin told them that above two hundred forty-eight miles per hour the radials would simply explode. So the tyre, not the engine, was one of the hardest limits on the Veyron's speed.",
+   "query": "Bugatti Veyron tyres",
+   "caption": "MICHELIN PAX TYRES DESIGNED FOR ABOUT 15 MINUTES AT TOP SPEED \u00b7 WALLACE: ABOVE 248 MPH RADIALS 'WOULD SIMPLY EXPLODE' (CAR MAGAZINE)",
+   "cuts": 3,
+   "chapter": "Tyres, wheels and the cost of speed"
+  },
+  {
+   "text": "Which gives us a neat fit. Fifteen minutes at two hundred fifty-four miles per hour covers sixty-three and a half miles, by our arithmetic, exactly the distance Car magazine gives. So the sixty-three and a half miles seems to be the tyre's fifteen minutes, not the fuel tank's twelve. That is our reading, the magazine does not say so, but it resolves the oddity we found earlier.",
+   "query": "Bugatti Veyron tyre and fuel limits",
+   "caption": "254 MPH \u00d7 15 MIN = 63.5 MILES (OUR ARITHMETIC) \u00b7 SUGGESTS THE 63.5 MILES IS THE TYRE LIMIT \u2014 OUR READING, NOT THE MAGAZINE'S",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia confirms how expensive the tyres are: the Michelin PAX run-flat tyres cost twenty-five thousand dollars per set, it says, and mounting them on the wheels was only available in France, at seventy thousand dollars. A replacement transmission costs just over one hundred twenty thousand dollars. We keep those for the cost video, but they show that the key and the tyres are part of a very expensive system.",
+   "query": "Bugatti Veyron running parts",
+   "caption": "PAX TYRES $25,000 PER SET \u00b7 MOUNTING (FRANCE ONLY) $70,000 \u00b7 TRANSMISSION JUST OVER $120,000 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Power and speed do not rise together. Wikipedia lists the Veyron at one thousand one metric horsepower and the Super Sport at twelve hundred, a nineteen point nine percent increase by our arithmetic. The record speeds are four hundred eight point four seven and four hundred thirty-one point oh seven two kilometres per hour, an increase of five point five percent. Twenty percent more power bought five and a half percent more speed.",
+   "query": "Veyron power vs speed",
+   "caption": "+199 PS (+19.9%) \u2192 +22.6 KM/H (+5.5%): 408.47 \u2192 431.072 (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The open-top car is a footnote. Wikipedia says the Grand Sport Vitesse reached four hundred eight point eight four kilometres per hour, two hundred fifty-four point oh four miles per hour, roof off, the fastest open-top production car in its account. By our arithmetic, that is only zero point three seven kilometres per hour faster than the original coup\u00e9's average. It is the same speed with the sky overhead.",
+   "query": "Bugatti Veyron Grand Sport Vitesse",
+   "caption": "GRAND SPORT VITESSE: 408.84 KM/H (254.04 MPH) ROOF OFF \u00b7 +0.37 KM/H vs ORIGINAL 408.47 (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "On a track, Wikipedia says the Super Sport lapped the Top Gear test track in one minute sixteen point eight in two thousand ten, and the standard car in one eighteen point three in two thousand eight. By our arithmetic, the Super Sport was one point five seconds faster. The Veyron is not only a straight-line car, and the lap shows the engineering reached beyond the top speed.",
+   "query": "Bugatti Veyron Top Gear lap",
+   "caption": "SUPER SPORT 1:16.8 (2010) vs STANDARD 1:18.3 (2008) \u2192 1.5 s (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The gearbox handles that power. Wikipedia says it is a seven-speed Ricardo dual-clutch automatic with all-wheel drive. Car magazine says it handles over eleven hundred pound-feet of torque. By our arithmetic, the Super Sport's fifteen hundred newton-metres is about eleven hundred six pound-feet, so the magazine's figure fits that version. The gearbox, per Wikipedia, can cost just over one hundred twenty thousand dollars to replace.",
+   "query": "Bugatti Veyron gearbox",
+   "caption": "7-SPEED RICARDO DUAL-CLUTCH, AWD (WIKIPEDIA) \u00b7 1,500 N\u00b7M \u2248 1,106 LB-FT (OUR ARITHMETIC) \u00b7 CAR MAGAZINE: >1,100 LB-FT",
+   "cuts": 3
+  },
+  {
+   "text": "And the people. Motor One quotes Chris Harris: we were all a bit sniffy about this car when it was unveiled. It quotes Dr. Franz-Josef Paefgen, former Bugatti president: the Veyron is a typical Pi\u00ebch car because he is totally dedicated to engineering challenges. And it quotes Gordon Murray saying he felt a little responsible for starting the top-speed race with the McLaren F1.",
+   "query": "Bugatti Veyron voices",
+   "caption": "HARRIS: 'A BIT SNIFFY' \u00b7 PAEFGEN: 'A TYPICAL PI\u00cbCH CAR' \u00b7 MURRAY: 'A LITTLE RESPONSIBLE FOR STARTING THE TOP-SPEED RACE' (MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "Performance. Wikipedia lists zero to one hundred kilometres per hour in two point four six seconds for the standard car, and for the Super Sport zero to two hundred in six point seven seconds and zero to four hundred estimated at forty seconds. For comparison, the successor Chiron, in a 2017 test, reached zero to four hundred in thirty-two point six seconds, according to Wikipedia's Chiron page.",
+   "query": "Bugatti Veyron acceleration",
+   "caption": "VEYRON 0\u2013100 KM/H 2.46 s \u00b7 SUPER SPORT 0\u2013200 6.7 s, 0\u2013400 ESTIMATED 40 s (WIKIPEDIA) \u00b7 CHIRON 0\u2013400 IN 32.6 s (2017 TEST)",
+   "cuts": 3,
+   "chapter": "Numbers you can check"
+  },
+  {
+   "text": "Weight. Wikipedia gives a kerb weight of one thousand eight hundred eighty-eight kilograms in the body text, and a range of one thousand eight hundred thirty-eight to one thousand nine hundred ninety in the table. By our arithmetic, the base car's nine hundred eighty-seven horsepower over one point eight eight eight tonnes is about five hundred twenty-three horsepower per tonne. It is powerful, but it is not light.",
+   "query": "Bugatti Veyron weight",
+   "caption": "KERB 1,888 KG (RANGE 1,838\u20131,990) \u00b7 987 HP \u00f7 1.888 t \u2248 523 HP/TONNE (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Production. Wikipedia lists four hundred fifty units over more than ten years: two hundred fifty-two Veyron sixteen fours, fifty-eight Grand Sports, forty-eight Super Sports and ninety-two Grand Sport Vitesses. By our arithmetic, those add to four hundred fifty. But the annual sales table adds to four hundred seven for two thousand five to two thousand thirteen, and a footnote says car number four hundred fifty sold in May twenty fourteen.",
+   "query": "Bugatti Veyron production",
+   "caption": "450 UNITS: 252 + 58 + 48 + 92 (WIKIPEDIA) \u00b7 ANNUAL SALES TABLE 2005\u20132013: 407 \u00b7 CAR #450 SOLD MAY 2014",
+   "cuts": 3
+  },
+  {
+   "text": "Price. Wikipedia says the standard and Grand Sport base price was one million, two hundred twenty-five thousand euros, or about one point seven million dollars, and the Super Sport and Vitesse base price was one million, nine hundred twelve thousand, five hundred euros, or two point seven million dollars. Car magazine, discussing the Vitesse, cites two point four million euros. These are different cars and years, so they are not in conflict.",
+   "query": "Bugatti Veyron prices",
+   "caption": "\u20ac1,225,000 (~$1.7M) STANDARD/GRAND SPORT \u00b7 \u20ac1,912,500 (~$2.7M) SUPER SPORT/VITESSE (WIKIPEDIA) \u00b7 CAR MAGAZINE: \u20ac2.4M (VITESSE)",
+   "cuts": 3
+  },
+  {
+   "text": "Jeremy Clarkson, quoted by Wikipedia, called it the greatest car ever made and the greatest car we will ever see in our lifetime. He also said the production cost was five million pounds and customers paid one million. Motor One says Volkswagen reportedly lost about six point two five million dollars on each of the four hundred fifty it sold. Jalopnik attributes the figure to an Economist infographic from twenty thirteen.",
+   "query": "Bugatti Veyron economics",
+   "caption": "CLARKSON: 'GREATEST CAR EVER MADE' \u00b7 COST \u00a35M vs \u00a31M PRICE (WIKIPEDIA) \u00b7 ~$6.25M LOSS PER CAR (MOTOR1; JALOPNIK, CITING THE ECONOMIST, SEPT 2013)",
+   "cuts": 3
+  },
+  {
+   "text": "Jalopnik does not say how The Economist calculated the loss, and it reports no response from Volkswagen. So treat six point two five million as a reported estimate, not an audited fact. Gordon Murray, in a two thousand six Road and Track test quoted by Motor One, called the Veyron a massive technical achievement and a statement for Volkswagen. Both can be true: a loss-making statement car.",
+   "query": "Bugatti Veyron loss estimate",
+   "caption": "LOSS CALCULATION NOT EXPLAINED \u00b7 NO VW RESPONSE (JALOPNIK) \u00b7 MURRAY: 'MASSIVE TECHNICAL ACHIEVEMENT\u2026 A STATEMENT FOR VW AG' (MOTOR1, ROAD & TRACK 2006)",
+   "cuts": 3
+  },
+  {
+   "text": "What we could not find. Which of the fuel, radiator and top speed numbers is the right one, because the sources conflict. How Volkswagen calculated its own cost. How many keys exist, or what it costs to replace one. And whether the speed key is needed for the Super Sport in the same way. We show what each source says and we do not pick a winner without evidence.",
+   "query": "Bugatti Veyron",
+   "caption": "UNRESOLVED: FUEL TANK RATE \u00b7 10 vs 12 RADIATORS \u00b7 213 vs 236 MPH NORMAL SPEED \u00b7 SPEED KEY DETAILS FOR THE SUPER SPORT \u00b7 VW'S TRUE COST",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "So the two secrets stand. The Veyron's fuel use at top speed is extreme, and its top speed is locked behind a key and a computer's checks. The details of both depend on which source you read. The Veyron was designed to prove that a road car could go faster than anything else, and the key and the fuel are part of that same proof.",
+   "query": "Bugatti Veyron",
+   "caption": "SECRET 1: EXTREME FUEL USE AT TOP SPEED \u00b7 SECRET 2: TOP SPEED LOCKED BEHIND A KEY AND COMPUTER CHECKS",
+   "cuts": 3
+  },
+  {
+   "text": "Which do you find more surprising, the fuel or the key? Tell us in the comments. The next videos compare the Veyron with the Chiron, count what it really costs to own a Veyron, and tell why it almost never happened. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Bugatti Veyron",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
