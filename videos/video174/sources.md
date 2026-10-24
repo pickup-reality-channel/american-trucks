@@ -1,0 +1,13 @@
+- Wikipedia, Ferrari F50: https://en.wikipedia.org/wiki/Ferrari_F50
+- Wikipedia, Enzo Ferrari (automobile): https://en.wikipedia.org/wiki/Ferrari_Enzo
+- RM Sotheby's, 1995 Ferrari F50, Monterey 2021: https://rmsothebys.com/auctions/mo21/lots/r0065-1995-ferrari-f50/
+- RM Sotheby's, 2004 Ferrari Enzo, California 2015: https://rmsothebys.com/auctions/ca15/lots/r0021-2004-ferrari-enzo/
+- evo (John Barker), Great Ferrari hypercars driven: 288 GTO, F40, F50 and Enzo head-to-head, 23 Oct 2024: https://www.evo.co.uk/ferrari/204743/great-ferrari-hypercars-driven-288-gto-f40-f50-and-enzo-head-to-head
+- Jalopnik (Máté Petrány), What the hell is wrong with the Ferrari F50?, 13 Jul 2010: https://jalopnik.com/what-the-hell-is-wrong-with-the-ferrari-f50-5500297
+- Sports Car Market, 1996 Ferrari F50 profile: https://www.sportscarmarket.com/profile/1996-ferrari-f50
+- Sports Car Market, 2003 Ferrari Enzo analysis, 17 Oct 2018: https://www.sportscarmarket.com/?p=709130
+- Hagerty Valuation Tools, 1995 Ferrari F50: https://hagerty.com/apps/valuationtools/1995-Ferrari-F50
+- Hagerty Valuation Tools, 2003 Ferrari Enzo: https://hagerty.com/apps/valuationtools/2003-Ferrari-Enzo
+- DuPont Registry, 1996 Ferrari F50 sets a new world record price at RM Sotheby's Miami auction, 3 Mar 2025: https://news.dupontregistry.com/blogs/auctions/1996-ferrari-f50-sets-a-new-world-record-price-at-rm-sothebys-miami-auction
+- Italpassion, Quatre icônes Ferrari (F40, F50, Enzo, LaFerrari) dans une même vente aux enchères: https://www.italpassion.fr/ferrari/quatre-icones-ferrari-f40-f50-enzo-et-laferrari-dans-une-meme-vente-aux-encheres-toutes-a-des-prix-records/
+- The Drive (Chris Chin), This is what it takes to do a clutch replacement on a million-dollar Ferrari F50, 26 Nov 2019: https://www.thedrive.com/news/31210/this-is-what-it-takes-to-do-a-clutch-replacement-on-a-million-dollar-ferrari-f50.md
