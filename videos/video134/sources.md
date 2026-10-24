@@ -1,0 +1,7 @@
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Bugatti Chiron Super Sport 300+: https://en.wikipedia.org/wiki/Bugatti_Chiron_Super_Sport_300+
+- Bugatti (company press release), Celebrating the end of the incomparable Chiron era: https://newsroom.bugatti.com/press-releases/celebrating-the-end-of-the-incomparable-chiron-era
+- Carscoops, Bugatti L'Ultime is the final Chiron (probably): https://www.carscoops.com/2024/05/bugatti-lultime-is-the-final-chiron-probably/
+- Motor1, Bugatti Veyron: 20 years: https://www.motor1.com/features/774035/bugatti-veyron-20-years/
+- Jalopnik, Volkswagen loses a staggering $6.25 million on each Bugatti they sell: https://jalopnik.com/volkswagen-loses-a-staggering-6-25-million-on-each-bug-1426504241
