@@ -1,0 +1,2415 @@
+1
+00:00:00,000 --> 00:00:02,149
+In October twenty twenty-four,
+
+2
+00:00:02,149 --> 00:00:05,374
+the president of General Motors strapped into
+
+3
+00:00:05,374 --> 00:00:07,595
+a Corvette ZR1 on a banked oval
+
+4
+00:00:07,595 --> 00:00:10,032
+in northern Germany and held it at
+
+5
+00:00:10,032 --> 00:00:12,898
+two hundred thirty-three miles per hour.
+
+6
+00:00:13,078 --> 00:00:15,787
+Chevrolet called it the fastest car an
+
+7
+00:00:15,787 --> 00:00:18,210
+American automaker has ever built.
+
+8
+00:00:18,390 --> 00:00:21,196
+But the Corvette has chased speed records
+
+9
+00:00:21,196 --> 00:00:23,387
+for more than thirty-five years,
+
+10
+00:00:23,387 --> 00:00:25,919
+and one of the fastest Corvettes ever
+
+11
+00:00:25,919 --> 00:00:28,247
+was not built by Chevrolet at all.
+
+12
+00:00:28,427 --> 00:00:31,410
+This is the story behind America's fastest
+
+13
+00:00:31,410 --> 00:00:32,049
+Corvette.
+
+14
+00:00:32,398 --> 00:00:35,446
+The story runs through a cancelled plan,
+
+15
+00:00:35,446 --> 00:00:36,741
+a British engine,
+
+16
+00:00:36,741 --> 00:00:39,332
+a boat-engine factory in Oklahoma,
+
+17
+00:00:39,332 --> 00:00:41,085
+a rival in Connecticut,
+
+18
+00:00:41,085 --> 00:00:43,371
+a fan with a three point seven
+
+19
+00:00:43,371 --> 00:00:45,047
+million dollar cheque,
+
+20
+00:00:45,047 --> 00:00:47,105
+and a new rival in the form
+
+21
+00:00:47,105 --> 00:00:48,629
+of the Ford Mustang.
+
+22
+00:00:48,809 --> 00:00:50,478
+We will tell it in order,
+
+23
+00:00:50,478 --> 00:00:52,547
+label what is claim and what is
+
+24
+00:00:52,547 --> 00:00:55,751
+measurement, and say where our sources disagree.
+
+25
+00:00:56,101 --> 00:00:58,865
+Every fact comes from a published source,
+
+26
+00:00:58,865 --> 00:01:00,617
+listed in the description.
+
+27
+00:01:00,797 --> 00:01:02,553
+Where we do the maths,
+
+28
+00:01:02,553 --> 00:01:03,351
+we say so.
+
+29
+00:01:03,531 --> 00:01:05,369
+Where a number is a claim,
+
+30
+00:01:05,369 --> 00:01:06,782
+we label it a claim.
+
+31
+00:01:06,962 --> 00:01:08,964
+And where we have no source,
+
+32
+00:01:08,964 --> 00:01:10,108
+we say that too.
+
+33
+00:01:10,458 --> 00:01:13,892
+Wikipedia says the ZR1 name first appeared
+
+34
+00:01:13,892 --> 00:01:17,081
+in nineteen seventy as a special engine
+
+35
+00:01:17,081 --> 00:01:20,516
+package for the third-generation Corvette,
+
+36
+00:01:20,516 --> 00:01:21,824
+alongside a ZR2.
+
+37
+00:01:22,004 --> 00:01:24,433
+The page gives one number for it:
+
+38
+00:01:24,433 --> 00:01:27,966
+only fifty-three of those packages were optioned
+
+39
+00:01:27,966 --> 00:01:31,721
+across the nineteen seventy to nineteen seventy-two
+
+40
+00:01:31,721 --> 00:01:32,604
+model years.
+
+41
+00:01:32,784 --> 00:01:33,998
+By our arithmetic,
+
+42
+00:01:33,998 --> 00:01:36,360
+that is fewer than eighteen a year.
+
+43
+00:01:36,540 --> 00:01:37,640
+It was a rare,
+
+44
+00:01:37,640 --> 00:01:39,918
+obscure box on an order form.
+
+45
+00:01:40,268 --> 00:01:42,665
+For almost two decades after that,
+
+46
+00:01:42,665 --> 00:01:44,146
+the name was dormant.
+
+47
+00:01:44,326 --> 00:01:47,114
+Then, in the late nineteen eighties,
+
+48
+00:01:47,114 --> 00:01:49,747
+General Motors had a new ambition.
+
+49
+00:01:49,927 --> 00:01:53,355
+Wikipedia says the goal of the fourth-generation
+
+50
+00:01:53,355 --> 00:01:55,997
+ZR1 was to create the world's fastest
+
+51
+00:01:55,997 --> 00:01:57,068
+production car.
+
+52
+00:01:57,248 --> 00:01:59,617
+That sentence is the whole premise of
+
+53
+00:01:59,617 --> 00:02:01,218
+the story we are telling.
+
+54
+00:02:01,398 --> 00:02:04,585
+The ZR1 name returned as a statement
+
+55
+00:02:04,585 --> 00:02:07,064
+of intent, not as an option.
+
+56
+00:02:07,414 --> 00:02:09,620
+The first step was an acquisition.
+
+57
+00:02:09,800 --> 00:02:14,006
+Wikipedia says General Motors acquired Group Lotus
+
+58
+00:02:14,006 --> 00:02:15,941
+in nineteen eighty-six.
+
+59
+00:02:16,121 --> 00:02:19,362
+Lotus then designed the ZR-1's engine,
+
+60
+00:02:19,362 --> 00:02:20,470
+the L T five,
+
+61
+00:02:20,470 --> 00:02:23,540
+a five point seven litre aluminium V
+
+62
+00:02:23,540 --> 00:02:27,889
+eight with double overhead camshafts and thirty-two
+
+63
+00:02:27,889 --> 00:02:28,486
+valves.
+
+64
+00:02:28,666 --> 00:02:31,547
+The page says the prototype was nicknamed
+
+65
+00:02:31,547 --> 00:02:32,741
+King of the Hill.
+
+66
+00:02:32,921 --> 00:02:34,300
+By our arithmetic,
+
+67
+00:02:34,300 --> 00:02:37,442
+the Lotus purchase came four years before
+
+68
+00:02:37,442 --> 00:02:39,434
+the car reached customers.
+
+69
+00:02:39,784 --> 00:02:43,391
+The engine's output was three hundred seventy-five
+
+70
+00:02:43,391 --> 00:02:46,925
+horsepower from nineteen ninety to ninety-two and
+
+71
+00:02:46,925 --> 00:02:50,171
+four hundred five from nineteen ninety-three,
+
+72
+00:02:50,171 --> 00:02:52,335
+after Lotus revised the heads,
+
+73
+00:02:52,335 --> 00:02:53,995
+exhaust and valvetrain.
+
+74
+00:02:54,175 --> 00:02:57,368
+Wikipedia lists torque of three hundred seventy
+
+75
+00:02:57,368 --> 00:03:00,154
+and three hundred eighty-five pound-feet.
+
+76
+00:03:00,334 --> 00:03:02,608
+A ZF six-speed manual gearbox,
+
+77
+00:03:02,608 --> 00:03:06,551
+Bilstein adaptive suspension and wide Goodyear tyres
+
+78
+00:03:06,551 --> 00:03:08,220
+completed the package,
+
+79
+00:03:08,220 --> 00:03:10,722
+and the car was about two hundred
+
+80
+00:03:10,722 --> 00:03:13,755
+pounds heavier than a standard Corvette.
+
+81
+00:03:14,105 --> 00:03:17,517
+The engines were assembled by Mercury Marine,
+
+82
+00:03:17,517 --> 00:03:21,308
+Wikipedia says, through its MerCruiser division in
+
+83
+00:03:21,308 --> 00:03:24,568
+Stillwater, Oklahoma, which did most of the
+
+84
+00:03:24,568 --> 00:03:27,676
+drilling and boring and the hand assembly
+
+85
+00:03:27,676 --> 00:03:30,861
+before shipping them to the Corvette plant
+
+86
+00:03:30,861 --> 00:03:32,149
+in Bowling Green,
+
+87
+00:03:32,149 --> 00:03:32,832
+Kentucky.
+
+88
+00:03:33,012 --> 00:03:35,369
+Mercury kept two L T fives of
+
+89
+00:03:35,369 --> 00:03:38,294
+its own: one for its president's ZR1
+
+90
+00:03:38,294 --> 00:03:41,058
+and one for a speedboat called the
+
+91
+00:03:41,058 --> 00:03:44,390
+Wette Vette, tuned to four hundred twenty
+
+92
+00:03:44,390 --> 00:03:45,284
+horsepower.
+
+93
+00:03:45,634 --> 00:03:46,981
+Then came the proof.
+
+94
+00:03:47,161 --> 00:03:48,997
+On the first of March,
+
+95
+00:03:48,997 --> 00:03:51,836
+nineteen ninety, at Fort Stockton,
+
+96
+00:03:51,836 --> 00:03:55,259
+Texas, the ZR-1 set FIA-verified records,
+
+97
+00:03:55,259 --> 00:03:59,433
+Wikipedia says: one hundred seventy-five point six
+
+98
+00:03:59,433 --> 00:04:02,605
+miles per hour over one hundred miles,
+
+99
+00:04:02,605 --> 00:04:06,446
+one seventy-five point five over five hundred,
+
+100
+00:04:06,446 --> 00:04:10,119
+one seventy-four point four over a thousand,
+
+101
+00:04:10,119 --> 00:04:13,709
+and one seventy-five point eight eight five
+
+102
+00:04:13,709 --> 00:04:15,629
+over twenty-four hours,
+
+103
+00:04:15,629 --> 00:04:17,549
+covering four thousand,
+
+104
+00:04:17,549 --> 00:04:19,970
+two hundred twenty-one miles.
+
+105
+00:04:20,150 --> 00:04:22,636
+Three of those were listed as world
+
+106
+00:04:22,636 --> 00:04:23,204
+records.
+
+107
+00:04:23,554 --> 00:04:24,968
+By our arithmetic,
+
+108
+00:04:24,968 --> 00:04:28,346
+a car that averages one hundred seventy-six
+
+109
+00:04:28,346 --> 00:04:31,331
+miles an hour for twenty-four hours is
+
+110
+00:04:31,331 --> 00:04:33,452
+not a car that scraped to a
+
+111
+00:04:33,452 --> 00:04:34,630
+top speed once.
+
+112
+00:04:34,810 --> 00:04:36,791
+It is a car whose engine,
+
+113
+00:04:36,791 --> 00:04:39,802
+tyres and cooling could survive a full
+
+114
+00:04:39,802 --> 00:04:41,149
+day at that pace.
+
+115
+00:04:41,329 --> 00:04:44,075
+The page adds that the Volkswagen W
+
+116
+00:04:44,075 --> 00:04:47,292
+twelve concept later broke those records,
+
+117
+00:04:47,292 --> 00:04:49,725
+so the title of fastest was not
+
+118
+00:04:49,725 --> 00:04:50,745
+held forever.
+
+119
+00:04:51,095 --> 00:04:53,347
+The magazines tested it too.
+
+120
+00:04:53,527 --> 00:04:54,649
+Road and Track,
+
+121
+00:04:54,649 --> 00:04:56,295
+as cited by Wikipedia,
+
+122
+00:04:56,295 --> 00:04:59,437
+recorded four point nine seconds to sixty,
+
+123
+00:04:59,437 --> 00:05:02,505
+a thirteen point four second quarter mile
+
+124
+00:05:02,505 --> 00:05:04,749
+and a top speed of one hundred
+
+125
+00:05:04,749 --> 00:05:06,844
+seventy-nine miles per hour.
+
+126
+00:05:07,024 --> 00:05:09,718
+Car and Driver recorded four point five
+
+127
+00:05:09,718 --> 00:05:12,412
+seconds to sixty and twelve point eight
+
+128
+00:05:12,412 --> 00:05:13,932
+at one hundred eleven.
+
+129
+00:05:14,112 --> 00:05:17,128
+The ZR-1 ended up with six thousand,
+
+130
+00:05:17,128 --> 00:05:20,815
+nine hundred thirty-nine cars built over six
+
+131
+00:05:20,815 --> 00:05:21,821
+model years.
+
+132
+00:05:22,171 --> 00:05:25,042
+While GM was building its record car,
+
+133
+00:05:25,042 --> 00:05:27,991
+an outside company was making a faster
+
+134
+00:05:27,991 --> 00:05:28,301
+one.
+
+135
+00:05:28,481 --> 00:05:31,990
+Wikipedia's page on Callaway Cars says Reeves
+
+136
+00:05:31,990 --> 00:05:36,592
+Callaway's firm converted Corvettes with twin turbochargers
+
+137
+00:05:36,592 --> 00:05:39,555
+under a regular production order code,
+
+138
+00:05:39,555 --> 00:05:43,845
+B2K, from nineteen eighty-seven to nineteen ninety-one,
+
+139
+00:05:43,845 --> 00:05:46,028
+at its workshop in Old Lyme,
+
+140
+00:05:46,028 --> 00:05:46,964
+Connecticut.
+
+141
+00:05:47,144 --> 00:05:49,944
+The nineteen eighty-seven car was priced at
+
+142
+00:05:49,944 --> 00:05:52,549
+just over fifty thousand dollars and was
+
+143
+00:05:52,549 --> 00:05:55,479
+listed at one hundred seventy-eight miles per
+
+144
+00:05:55,479 --> 00:05:55,805
+hour.
+
+145
+00:05:56,155 --> 00:05:58,001
+Then came the SledgeHammer.
+
+146
+00:05:58,181 --> 00:06:00,484
+On the twenty-sixth of October,
+
+147
+00:06:00,484 --> 00:06:03,902
+nineteen eighty-eight, according to Wikipedia,
+
+148
+00:06:03,902 --> 00:06:07,319
+John Lingenfelter drove a Callaway Corvette to
+
+149
+00:06:07,319 --> 00:06:10,588
+two hundred fifty-four point seven six miles
+
+150
+00:06:10,588 --> 00:06:14,006
+per hour at the Transportation Research Center
+
+151
+00:06:14,006 --> 00:06:16,532
+in Ohio, a record that stood until
+
+152
+00:06:16,532 --> 00:06:18,092
+nineteen ninety-nine.
+
+153
+00:06:18,272 --> 00:06:20,552
+The page says the car made eight
+
+154
+00:06:20,552 --> 00:06:24,898
+hundred ninety-eight horsepower and seven hundred seventy-two
+
+155
+00:06:24,898 --> 00:06:27,462
+pound-feet, and did zero to sixty in
+
+156
+00:06:27,462 --> 00:06:29,243
+three point nine seconds.
+
+157
+00:06:29,593 --> 00:06:30,845
+By our arithmetic,
+
+158
+00:06:30,845 --> 00:06:33,558
+that is about twenty-two miles per hour
+
+159
+00:06:33,558 --> 00:06:36,618
+faster than the two hundred thirty-three the
+
+160
+00:06:36,618 --> 00:06:39,331
+new ZR1 achieved in twenty twenty-four,
+
+161
+00:06:39,331 --> 00:06:42,322
+and about forty-two percent faster than the
+
+162
+00:06:42,322 --> 00:06:45,661
+nineteen ninety ZR-1's one hundred seventy-nine.
+
+163
+00:06:45,841 --> 00:06:48,709
+The SledgeHammer was a modified car from
+
+164
+00:06:48,709 --> 00:06:49,857
+an outside shop,
+
+165
+00:06:49,857 --> 00:06:51,864
+not a car you could buy from
+
+166
+00:06:51,864 --> 00:06:54,159
+a Chevrolet dealer in that form,
+
+167
+00:06:54,159 --> 00:06:57,027
+which is the difference GM's claim rests
+
+168
+00:06:57,027 --> 00:06:57,242
+on.
+
+169
+00:06:57,592 --> 00:07:00,316
+Wikipedia's own page has a loose end
+
+170
+00:07:00,316 --> 00:07:02,964
+here: it gives October as the month
+
+171
+00:07:02,964 --> 00:07:04,024
+of the record,
+
+172
+00:07:04,024 --> 00:07:07,278
+but also says the world street-legal record
+
+173
+00:07:07,278 --> 00:07:10,456
+was set in November nineteen eighty-eight.
+
+174
+00:07:10,636 --> 00:07:13,305
+The sales numbers conflict as well:
+
+175
+00:07:13,305 --> 00:07:16,356
+the page says Callaway sold five hundred
+
+176
+00:07:16,356 --> 00:07:19,101
+ten twin-turbo cars over five years,
+
+177
+00:07:19,101 --> 00:07:21,542
+but the yearly figures add up to
+
+178
+00:07:21,542 --> 00:07:23,372
+four hundred forty-four.
+
+179
+00:07:23,552 --> 00:07:25,691
+We use the speed and flag the
+
+180
+00:07:25,691 --> 00:07:26,060
+rest.
+
+181
+00:07:26,410 --> 00:07:27,387
+After the C4,
+
+182
+00:07:27,387 --> 00:07:29,342
+the name went quiet again,
+
+183
+00:07:29,342 --> 00:07:32,424
+then came back with the sixth generation.
+
+184
+00:07:32,604 --> 00:07:35,318
+Wikipedia says the ZR1 was added for
+
+185
+00:07:35,318 --> 00:07:37,807
+the two thousand nine model year,
+
+186
+00:07:37,807 --> 00:07:40,748
+with a supercharged six point two litre
+
+187
+00:07:40,748 --> 00:07:42,784
+L S nine V eight making six
+
+188
+00:07:42,784 --> 00:07:46,705
+hundred thirty-eight horsepower and six hundred four
+
+189
+00:07:46,705 --> 00:07:47,534
+pound-feet.
+
+190
+00:07:47,714 --> 00:07:50,182
+The internal name was Blue Devil,
+
+191
+00:07:50,182 --> 00:07:54,295
+reportedly after the then chief executive's university,
+
+192
+00:07:54,295 --> 00:07:54,669
+Duke.
+
+193
+00:07:54,849 --> 00:07:57,467
+GM confirmed the project in April two
+
+194
+00:07:57,467 --> 00:07:58,529
+thousand seven.
+
+195
+00:07:58,879 --> 00:08:00,911
+Motor Trend, the page says,
+
+196
+00:08:00,911 --> 00:08:04,146
+measured three point three seconds to sixty
+
+197
+00:08:04,146 --> 00:08:07,006
+and an eleven point two second quarter
+
+198
+00:08:07,006 --> 00:08:09,790
+mile at one hundred thirty point five
+
+199
+00:08:09,790 --> 00:08:10,918
+miles per hour.
+
+200
+00:08:11,098 --> 00:08:13,605
+The ZR1 had carbon-ceramic brakes,
+
+201
+00:08:13,605 --> 00:08:17,366
+magnetic ride control and carbon-fibre body panels,
+
+202
+00:08:17,366 --> 00:08:20,242
+and its curb weight was three thousand,
+
+203
+00:08:20,242 --> 00:08:22,232
+three hundred fifty pounds.
+
+204
+00:08:22,412 --> 00:08:24,864
+Its top speed of two hundred five
+
+205
+00:08:24,864 --> 00:08:27,463
+miles per hour was a design target,
+
+206
+00:08:27,463 --> 00:08:28,949
+not a tested result.
+
+207
+00:08:29,299 --> 00:08:31,251
+A detail from Design News:
+
+208
+00:08:31,251 --> 00:08:34,704
+the sixth-generation ZR1 produced so much lift
+
+209
+00:08:34,704 --> 00:08:38,533
+at Virginia International Raceway that its traction
+
+210
+00:08:38,533 --> 00:08:41,911
+control activated over crests and limited the
+
+211
+00:08:41,911 --> 00:08:42,662
+top speed.
+
+212
+00:08:42,842 --> 00:08:45,581
+The seventh generation corrected this,
+
+213
+00:08:45,581 --> 00:08:46,807
+the article says,
+
+214
+00:08:46,807 --> 00:08:50,555
+and the C8's mid-engine design improved aerodynamics
+
+215
+00:08:50,555 --> 00:08:51,131
+further.
+
+216
+00:08:51,311 --> 00:08:53,659
+So the story of the fastest Corvette
+
+217
+00:08:53,659 --> 00:08:55,745
+is partly a story of keeping the
+
+218
+00:08:55,745 --> 00:08:56,919
+car on the ground.
+
+219
+00:08:57,269 --> 00:09:00,295
+The seventh-generation ZR1 followed in the two
+
+220
+00:09:00,295 --> 00:09:02,203
+thousand nineteen model year.
+
+221
+00:09:02,383 --> 00:09:04,898
+It was unveiled at the Dubai Motor
+
+222
+00:09:04,898 --> 00:09:06,747
+Show in twenty seventeen,
+
+223
+00:09:06,747 --> 00:09:09,336
+Wikipedia says, and went on sale in
+
+224
+00:09:09,336 --> 00:09:12,147
+the second quarter of twenty eighteen.
+
+225
+00:09:12,327 --> 00:09:15,014
+Its supercharged six point two litre L
+
+226
+00:09:15,014 --> 00:09:18,337
+T five made seven hundred fifty-five horsepower
+
+227
+00:09:18,337 --> 00:09:20,953
+and seven hundred fifteen pound-feet,
+
+228
+00:09:20,953 --> 00:09:23,074
+and it weighed three thousand,
+
+229
+00:09:23,074 --> 00:09:24,912
+five hundred sixty pounds.
+
+230
+00:09:25,262 --> 00:09:27,896
+Wikipedia gives its top speed as two
+
+231
+00:09:27,896 --> 00:09:31,115
+hundred fourteen point eight eight miles per
+
+232
+00:09:31,115 --> 00:09:33,164
+hour with the low rear wing,
+
+233
+00:09:33,164 --> 00:09:35,725
+though a cited source is titled two
+
+234
+00:09:35,725 --> 00:09:38,579
+hundred twelve miles per hour official.
+
+235
+00:09:38,759 --> 00:09:40,001
+We report both.
+
+236
+00:09:40,181 --> 00:09:43,387
+The optional ZTK package added a higher
+
+237
+00:09:43,387 --> 00:09:46,594
+rear wing with about sixty percent more
+
+238
+00:09:46,594 --> 00:09:49,472
+downforce than the Z06 with the Z07
+
+239
+00:09:49,472 --> 00:09:53,090
+package, and about nine hundred fifty pounds
+
+240
+00:09:53,090 --> 00:09:55,227
+of downforce at top speed.
+
+241
+00:09:55,577 --> 00:09:58,544
+Production in the nineteen model year was
+
+242
+00:09:58,544 --> 00:10:01,366
+two thousand, nine hundred fifty-three,
+
+243
+00:10:01,366 --> 00:10:04,767
+two thousand, four hundred forty-one coupes and
+
+244
+00:10:04,767 --> 00:10:07,154
+five hundred twelve convertibles,
+
+245
+00:10:07,154 --> 00:10:09,542
+about eight and a half percent of
+
+246
+00:10:09,542 --> 00:10:11,134
+that year's Corvettes.
+
+247
+00:10:11,314 --> 00:10:12,695
+By our arithmetic,
+
+248
+00:10:12,695 --> 00:10:15,534
+that is sixteen times the one hundred
+
+249
+00:10:15,534 --> 00:10:18,756
+eighty ZR1s listed for twenty twenty-five.
+
+250
+00:10:18,936 --> 00:10:21,296
+The new car's first year was a
+
+251
+00:10:21,296 --> 00:10:24,286
+partial one, so the comparison is only
+
+252
+00:10:24,286 --> 00:10:24,915
+a scale.
+
+253
+00:10:25,265 --> 00:10:28,782
+Meanwhile the biggest change in Corvette history
+
+254
+00:10:28,782 --> 00:10:29,735
+was underway.
+
+255
+00:10:29,915 --> 00:10:33,537
+Wikipedia says GM and Chevrolet began developing
+
+256
+00:10:33,537 --> 00:10:36,556
+the mid-engine C8 around twenty sixteen.
+
+257
+00:10:36,736 --> 00:10:39,397
+It was originally planned for the twenty
+
+258
+00:10:39,397 --> 00:10:40,728
+eighteen model year,
+
+259
+00:10:40,728 --> 00:10:43,456
+then pushed to twenty nineteen and twenty
+
+260
+00:10:43,456 --> 00:10:43,922
+twenty.
+
+261
+00:10:44,102 --> 00:10:46,206
+The page says the C8 is GM's
+
+262
+00:10:46,206 --> 00:10:49,361
+first rear mid-engine sports car since the
+
+263
+00:10:49,361 --> 00:10:53,042
+Pontiac Fiero, and the first mid-engine Corvette.
+
+264
+00:10:53,392 --> 00:10:56,275
+The coupe debuted on the eighteenth of
+
+265
+00:10:56,275 --> 00:10:57,944
+July, twenty nineteen,
+
+266
+00:10:57,944 --> 00:11:00,068
+at the Kennedy Space Center.
+
+267
+00:11:00,248 --> 00:11:03,677
+The convertible followed in October in Tustin,
+
+268
+00:11:03,677 --> 00:11:04,497
+California.
+
+269
+00:11:04,677 --> 00:11:07,979
+Production officially began on the third of
+
+270
+00:11:07,979 --> 00:11:09,823
+February, twenty twenty,
+
+271
+00:11:09,823 --> 00:11:12,818
+after delays from the twenty nineteen G
+
+272
+00:11:12,818 --> 00:11:14,661
+M strike, the page says.
+
+273
+00:11:14,841 --> 00:11:17,250
+The base price was under sixty thousand
+
+274
+00:11:17,250 --> 00:11:17,744
+dollars.
+
+275
+00:11:18,094 --> 00:11:19,452
+The sales were strong.
+
+276
+00:11:19,632 --> 00:11:22,400
+Wikipedia's table lists twenty thousand,
+
+277
+00:11:22,400 --> 00:11:26,137
+three hundred sixty-eight Stingrays for twenty twenty,
+
+278
+00:11:26,137 --> 00:11:29,667
+twenty-six thousand, two hundred sixteen for twenty
+
+279
+00:11:29,667 --> 00:11:32,227
+twenty-one, and twenty-five thousand,
+
+280
+00:11:32,227 --> 00:11:35,480
+eight hundred thirty-one for twenty twenty-two.
+
+281
+00:11:35,660 --> 00:11:36,901
+By our arithmetic,
+
+282
+00:11:36,901 --> 00:11:38,900
+that is seventy-two thousand,
+
+283
+00:11:38,900 --> 00:11:41,589
+four hundred fifteen in the first three
+
+284
+00:11:41,589 --> 00:11:42,417
+model years.
+
+285
+00:11:42,597 --> 00:11:45,385
+We use only the model-specific columns,
+
+286
+00:11:45,385 --> 00:11:48,173
+because the totals in that table appear
+
+287
+00:11:48,173 --> 00:11:48,959
+unreliable.
+
+288
+00:11:49,309 --> 00:11:51,422
+Then came the faster versions.
+
+289
+00:11:51,602 --> 00:11:54,363
+The Z06, from twenty twenty-three,
+
+290
+00:11:54,363 --> 00:11:57,367
+has a five point five litre naturally
+
+291
+00:11:57,367 --> 00:12:01,021
+aspirated flat-plane V eight with six hundred
+
+292
+00:12:01,021 --> 00:12:04,026
+seventy horsepower at eight thousand,
+
+293
+00:12:04,026 --> 00:12:05,569
+four hundred r p m.
+
+294
+00:12:05,749 --> 00:12:08,869
+The E-Ray, from the twenty twenty-four model
+
+295
+00:12:08,869 --> 00:12:11,422
+year, adds an electric motor for six
+
+296
+00:12:11,422 --> 00:12:15,606
+hundred fifty-five combined horsepower and all-wheel drive.
+
+297
+00:12:15,786 --> 00:12:18,333
+The ZR1 was meant to sit above
+
+298
+00:12:18,333 --> 00:12:18,758
+both.
+
+299
+00:12:19,108 --> 00:12:22,480
+The new ZR1's engine is a twin-turbocharged
+
+300
+00:12:22,480 --> 00:12:25,774
+version of the flat-plane crank five point
+
+301
+00:12:25,774 --> 00:12:27,264
+five litre V eight,
+
+302
+00:12:27,264 --> 00:12:28,362
+the L T seven,
+
+303
+00:12:28,362 --> 00:12:30,087
+rated at one thousand,
+
+304
+00:12:30,087 --> 00:12:35,106
+sixty-four horsepower and eight hundred twenty-eight pound-feet.
+
+305
+00:12:35,286 --> 00:12:38,154
+Wikipedia calls it the most powerful V
+
+306
+00:12:38,154 --> 00:12:40,116
+eight Chevrolet has built.
+
+307
+00:12:40,296 --> 00:12:42,260
+It sends its power to the rear
+
+308
+00:12:42,260 --> 00:12:45,532
+wheels through an eight-speed dual-clutch gearbox.
+
+309
+00:12:45,712 --> 00:12:48,454
+There is no all-wheel drive on the
+
+310
+00:12:48,454 --> 00:12:50,229
+ZR1, only on the ZR1X.
+
+311
+00:12:50,579 --> 00:12:52,402
+Now the record run.
+
+312
+00:12:52,582 --> 00:12:54,240
+GM's press release,
+
+313
+00:12:54,240 --> 00:12:56,946
+dated the fifteenth of October,
+
+314
+00:12:56,946 --> 00:13:01,136
+twenty twenty-four, says GM president Mark Reuss
+
+315
+00:13:01,136 --> 00:13:03,929
+drove a ZR1 to a two-way average
+
+316
+00:13:03,929 --> 00:13:07,595
+of two hundred thirty-three miles per hour
+
+317
+00:13:07,595 --> 00:13:10,038
+at the A T P high-speed oval
+
+318
+00:13:10,038 --> 00:13:11,959
+in Papenburg, Germany.
+
+319
+00:13:12,139 --> 00:13:15,281
+The speed was averaged over northbound and
+
+320
+00:13:15,281 --> 00:13:16,852
+southbound straights.
+
+321
+00:13:17,032 --> 00:13:19,544
+The car ran at redline in sixth
+
+322
+00:13:19,544 --> 00:13:22,703
+gear, with an engineer in the passenger
+
+323
+00:13:22,703 --> 00:13:24,323
+seat analysing data.
+
+324
+00:13:24,673 --> 00:13:27,452
+GM says it was a standard 2025
+
+325
+00:13:27,452 --> 00:13:31,064
+ZR1 coupe with the standard chassis and
+
+326
+00:13:31,064 --> 00:13:34,121
+aero package, a standard spoiler,
+
+327
+00:13:34,121 --> 00:13:36,714
+carbon-fibre ground effects,
+
+328
+00:13:36,714 --> 00:13:40,142
+Michelin Pilot Sport four S tyres and
+
+329
+00:13:40,142 --> 00:13:41,716
+aluminium wheels.
+
+330
+00:13:41,896 --> 00:13:44,746
+It also says Chevrolet developed a Top
+
+331
+00:13:44,746 --> 00:13:47,445
+Speed Mode, for closed courses only,
+
+332
+00:13:47,445 --> 00:13:50,070
+which adjusts the chassis controls.
+
+333
+00:13:50,250 --> 00:13:53,109
+Design News says the car produced about
+
+334
+00:13:53,109 --> 00:13:56,114
+twelve hundred pounds of downforce at top
+
+335
+00:13:56,114 --> 00:13:56,554
+speed.
+
+336
+00:13:56,734 --> 00:14:00,728
+Five engineers and both development cars exceeded
+
+337
+00:14:00,728 --> 00:14:03,662
+two hundred thirty miles per hour in
+
+338
+00:14:03,662 --> 00:14:04,803
+multiple runs.
+
+339
+00:14:05,153 --> 00:14:07,587
+GM calls the ZR1 the fastest car
+
+340
+00:14:07,587 --> 00:14:10,326
+it has produced and the fastest ever
+
+341
+00:14:10,326 --> 00:14:12,684
+built by an American automaker,
+
+342
+00:14:12,684 --> 00:14:15,270
+and says the speed is unmatched by
+
+343
+00:14:15,270 --> 00:14:18,541
+any current production car priced under one
+
+344
+00:14:18,541 --> 00:14:19,758
+million dollars.
+
+345
+00:14:19,938 --> 00:14:22,239
+Those are the company's claims,
+
+346
+00:14:22,239 --> 00:14:24,095
+not independent findings.
+
+347
+00:14:24,275 --> 00:14:26,857
+Design News adds that the record was
+
+348
+00:14:26,857 --> 00:14:29,584
+an increase of nineteen miles per hour
+
+349
+00:14:29,584 --> 00:14:31,951
+over the previous-generation ZR1,
+
+350
+00:14:31,951 --> 00:14:34,749
+which is consistent with the figures in
+
+351
+00:14:34,749 --> 00:14:35,467
+Wikipedia.
+
+352
+00:14:35,817 --> 00:14:38,978
+Lead development engineer Chris Barber is quoted
+
+353
+00:14:38,978 --> 00:14:40,954
+by Design News as saying it is
+
+354
+00:14:40,954 --> 00:14:42,402
+a real production car,
+
+355
+00:14:42,402 --> 00:14:44,444
+and that "we're going to make a
+
+356
+00:14:44,444 --> 00:14:45,300
+lot of these,
+
+357
+00:14:45,300 --> 00:14:47,341
+you're going to see them on the
+
+358
+00:14:47,341 --> 00:14:47,671
+road.
+
+359
+00:14:47,851 --> 00:14:50,376
+" The sentence matters because of the
+
+360
+00:14:50,376 --> 00:14:52,832
+SledgeHammer: a record for a car you
+
+361
+00:14:52,832 --> 00:14:55,221
+can order is a different thing from
+
+362
+00:14:55,221 --> 00:14:56,790
+a record for a one-off.
+
+363
+00:14:56,970 --> 00:14:57,918
+By our reading,
+
+364
+00:14:57,918 --> 00:15:00,256
+that is the distinction GM is making.
+
+365
+00:15:00,606 --> 00:15:02,928
+Top speed is not the only claim.
+
+366
+00:15:03,108 --> 00:15:06,787
+Wikipedia says Chevrolet claims zero to sixty
+
+367
+00:15:06,787 --> 00:15:09,485
+in two point five seconds for the
+
+368
+00:15:09,485 --> 00:15:12,102
+ZR1, or two point three with the
+
+369
+00:15:12,102 --> 00:15:14,882
+ZTK package, and a quarter mile of
+
+370
+00:15:14,882 --> 00:15:16,926
+nine point seven seconds,
+
+371
+00:15:16,926 --> 00:15:19,542
+or nine point six at one hundred
+
+372
+00:15:19,542 --> 00:15:22,322
+fifty-two miles per hour with ZTK.
+
+373
+00:15:22,502 --> 00:15:23,660
+Car and Driver,
+
+374
+00:15:23,660 --> 00:15:25,358
+reported by The Drive,
+
+375
+00:15:25,358 --> 00:15:28,367
+measured two point two seconds to sixty
+
+376
+00:15:28,367 --> 00:15:30,991
+and nine point five at one hundred
+
+377
+00:15:30,991 --> 00:15:32,998
+forty-nine miles per hour.
+
+378
+00:15:33,348 --> 00:15:34,779
+By our arithmetic,
+
+379
+00:15:34,779 --> 00:15:37,800
+the original ZR-1 took four point five
+
+380
+00:15:37,800 --> 00:15:40,663
+seconds to sixty in Car and Driver's
+
+381
+00:15:40,663 --> 00:15:43,048
+test, and the new ZR1 took two
+
+382
+00:15:43,048 --> 00:15:43,843
+point two.
+
+383
+00:15:44,023 --> 00:15:46,123
+That is a drop of two point
+
+384
+00:15:46,123 --> 00:15:49,155
+three seconds, about fifty-one percent.
+
+385
+00:15:49,335 --> 00:15:50,747
+In the quarter mile,
+
+386
+00:15:50,747 --> 00:15:53,571
+the original took twelve point eight and
+
+387
+00:15:53,571 --> 00:15:55,547
+the new one nine point five,
+
+388
+00:15:55,547 --> 00:15:58,089
+a drop of three point three seconds,
+
+389
+00:15:58,089 --> 00:15:59,854
+about twenty-six percent.
+
+390
+00:16:00,034 --> 00:16:02,634
+Both were measured by the same magazine.
+
+391
+00:16:02,984 --> 00:16:05,155
+A note on the testing ground.
+
+392
+00:16:05,335 --> 00:16:09,034
+GM says Chevrolet engineers previously set top
+
+393
+00:16:09,034 --> 00:16:11,930
+speeds at the Papenburg oval for the
+
+394
+00:16:11,930 --> 00:16:15,227
+sixth and seventh generation ZR1s and the
+
+395
+00:16:15,227 --> 00:16:17,479
+sixth generation Camaro ZL1.
+
+396
+00:16:17,659 --> 00:16:19,581
+So the track in Germany is a
+
+397
+00:16:19,581 --> 00:16:21,572
+regular place for these runs.
+
+398
+00:16:21,752 --> 00:16:23,242
+By our arithmetic,
+
+399
+00:16:23,242 --> 00:16:26,305
+the 2024 record is nineteen miles per
+
+400
+00:16:26,305 --> 00:16:28,789
+hour above the previous ZR1's,
+
+401
+00:16:28,789 --> 00:16:32,101
+while the previous ZR1 was itself listed
+
+402
+00:16:32,101 --> 00:16:35,578
+at two hundred fourteen point eight eight,
+
+403
+00:16:35,578 --> 00:16:38,145
+a difference of about eighteen.
+
+404
+00:16:38,495 --> 00:16:40,910
+The small difference is worth noting.
+
+405
+00:16:41,090 --> 00:16:43,975
+GM and Design News say nineteen miles
+
+406
+00:16:43,975 --> 00:16:47,171
+per hour, which implies a previous figure
+
+407
+00:16:47,171 --> 00:16:49,043
+of two hundred fourteen.
+
+408
+00:16:49,223 --> 00:16:52,237
+Wikipedia says two hundred fourteen point eight
+
+409
+00:16:52,237 --> 00:16:54,610
+eight, with a cited source calling it
+
+410
+00:16:54,610 --> 00:16:55,829
+two hundred twelve.
+
+411
+00:16:56,009 --> 00:16:58,271
+Depending on which you pick,
+
+412
+00:16:58,271 --> 00:17:00,292
+the increase is eighteen,
+
+413
+00:17:00,292 --> 00:17:02,150
+nineteen or twenty-one.
+
+414
+00:17:02,330 --> 00:17:04,367
+It is the kind of mismatch that
+
+415
+00:17:04,367 --> 00:17:06,337
+appears in every record story,
+
+416
+00:17:06,337 --> 00:17:07,323
+and we flag it.
+
+417
+00:17:07,673 --> 00:17:09,651
+Then there is the brake and aero
+
+418
+00:17:09,651 --> 00:17:09,960
+side.
+
+419
+00:17:10,140 --> 00:17:13,550
+Wikipedia says the ZR1X has Alcon ten-piston
+
+420
+00:17:13,550 --> 00:17:17,736
+front and six-piston rear calipers with carbon-ceramic
+
+421
+00:17:17,736 --> 00:17:21,068
+rotors, and Chevrolet claims one point nine
+
+422
+00:17:21,068 --> 00:17:24,246
+g of deceleration from one hundred eighty
+
+423
+00:17:24,246 --> 00:17:27,114
+to one hundred twenty miles per hour.
+
+424
+00:17:27,294 --> 00:17:29,851
+It also claims one g of lateral
+
+425
+00:17:29,851 --> 00:17:34,222
+and longitudinal grip with its carbon-fibre splitter,
+
+426
+00:17:34,222 --> 00:17:37,604
+dive planes and high-downforce rear wing.
+
+427
+00:17:37,784 --> 00:17:38,912
+Those are claims,
+
+428
+00:17:38,912 --> 00:17:40,373
+from the manufacturer.
+
+429
+00:17:40,723 --> 00:17:42,847
+The point of the numbers is that
+
+430
+00:17:42,847 --> 00:17:44,241
+a record is a system.
+
+431
+00:17:44,421 --> 00:17:46,198
+Engine, cooling, tyres,
+
+432
+00:17:46,198 --> 00:17:49,289
+brakes and aerodynamics all have to work
+
+433
+00:17:49,289 --> 00:17:52,535
+together, and in the sixth-generation car,
+
+434
+00:17:52,535 --> 00:17:55,240
+lift at speed was enough to trigger
+
+435
+00:17:55,240 --> 00:17:56,553
+traction control.
+
+436
+00:17:56,733 --> 00:17:58,970
+The C8 team had to solve that,
+
+437
+00:17:58,970 --> 00:18:00,611
+and the Papenburg run,
+
+438
+00:18:00,611 --> 00:18:03,967
+with about twelve hundred pounds of downforce
+
+439
+00:18:03,967 --> 00:18:05,458
+on the standard car,
+
+440
+00:18:05,458 --> 00:18:06,502
+is the result,
+
+441
+00:18:06,502 --> 00:18:08,366
+according to Design News.
+
+442
+00:18:08,716 --> 00:18:09,842
+And the road car?
+
+443
+00:18:10,022 --> 00:18:13,511
+Wikipedia says the ZR1 started production in
+
+444
+00:18:13,511 --> 00:18:15,572
+spring twenty twenty-five,
+
+445
+00:18:15,572 --> 00:18:18,427
+with one hundred eighty built in the
+
+446
+00:18:18,427 --> 00:18:19,775
+first model year.
+
+447
+00:18:19,955 --> 00:18:22,743
+GM Authority reports dealer prices from one
+
+448
+00:18:22,743 --> 00:18:26,180
+hundred ninety-nine thousand dollars to three hundred
+
+449
+00:18:26,180 --> 00:18:27,153
+forty thousand.
+
+450
+00:18:27,333 --> 00:18:29,658
+That spread, for the same car,
+
+451
+00:18:29,658 --> 00:18:31,442
+is a measure of demand:
+
+452
+00:18:31,442 --> 00:18:34,155
+a car that holds the American speed
+
+453
+00:18:34,155 --> 00:18:36,326
+record is not easy to buy at
+
+454
+00:18:36,326 --> 00:18:36,946
+sticker.
+
+455
+00:18:37,296 --> 00:18:39,238
+Top speed is one test,
+
+456
+00:18:39,238 --> 00:18:41,092
+and a lap is another.
+
+457
+00:18:41,272 --> 00:18:44,944
+Wikipedia says the ZR1 lapped the Nürburgring
+
+458
+00:18:44,944 --> 00:18:47,228
+Nordschleife in six minutes,
+
+459
+00:18:47,228 --> 00:18:50,166
+fifty point seven six three seconds.
+
+460
+00:18:50,346 --> 00:18:54,061
+The Z06 managed seven eleven point eight
+
+461
+00:18:54,061 --> 00:18:54,804
+two six.
+
+462
+00:18:54,984 --> 00:18:56,496
+By our arithmetic,
+
+463
+00:18:56,496 --> 00:18:59,519
+the ZR1 is about twenty-one seconds,
+
+464
+00:18:59,519 --> 00:19:01,450
+or nearly five percent,
+
+465
+00:19:01,450 --> 00:19:04,390
+faster than the Z06 around the same
+
+466
+00:19:04,390 --> 00:19:05,061
+circuit.
+
+467
+00:19:05,241 --> 00:19:07,637
+That is the effect of nearly four
+
+468
+00:19:07,637 --> 00:19:10,977
+hundred extra horsepower and aerodynamic work.
+
+469
+00:19:11,327 --> 00:19:13,765
+Then the hybrid ZR1X.
+
+470
+00:19:13,945 --> 00:19:16,545
+It pairs the same twin-turbo V eight
+
+471
+00:19:16,545 --> 00:19:19,434
+with an upgraded E-Ray electric motor on
+
+472
+00:19:19,434 --> 00:19:20,517
+the front axle,
+
+473
+00:19:20,517 --> 00:19:22,539
+for a combined one thousand,
+
+474
+00:19:22,539 --> 00:19:26,078
+two hundred fifty horsepower and all-wheel drive.
+
+475
+00:19:26,258 --> 00:19:29,563
+Wikipedia lists a Nürburgring time of six
+
+476
+00:19:29,563 --> 00:19:32,144
+forty-nine point two seven five.
+
+477
+00:19:32,324 --> 00:19:33,805
+By our arithmetic,
+
+478
+00:19:33,805 --> 00:19:36,273
+that is one and a half seconds
+
+479
+00:19:36,273 --> 00:19:38,001
+quicker than the ZR1,
+
+480
+00:19:38,001 --> 00:19:38,988
+in lap time.
+
+481
+00:19:39,168 --> 00:19:42,329
+Chevrolet also claims under two seconds to
+
+482
+00:19:42,329 --> 00:19:44,963
+sixty and a quarter mile under nine
+
+483
+00:19:44,963 --> 00:19:45,565
+seconds.
+
+484
+00:19:45,915 --> 00:19:47,018
+And then a rival.
+
+485
+00:19:47,198 --> 00:19:50,387
+The same Wikipedia page says the ZR1X's
+
+486
+00:19:50,387 --> 00:19:53,985
+lap placed it as the second-fastest American
+
+487
+00:19:53,985 --> 00:19:56,193
+car around the Nürburgring,
+
+488
+00:19:56,193 --> 00:19:59,464
+behind the Ford Mustang GTD Competition,
+
+489
+00:19:59,464 --> 00:20:02,244
+which set six forty point eight in
+
+490
+00:20:02,244 --> 00:20:04,207
+April twenty twenty-six.
+
+491
+00:20:04,387 --> 00:20:05,716
+By our arithmetic,
+
+492
+00:20:05,716 --> 00:20:08,152
+the Mustang was about eight and a
+
+493
+00:20:08,152 --> 00:20:10,958
+half seconds quicker than the ZR1X and
+
+494
+00:20:10,958 --> 00:20:13,837
+about ten seconds quicker than the ZR1.
+
+495
+00:20:14,017 --> 00:20:18,302
+America's fastest Corvette is not America's fastest
+
+496
+00:20:18,302 --> 00:20:18,638
+car.
+
+497
+00:20:18,988 --> 00:20:21,322
+The page's wording on this changes.
+
+498
+00:20:21,502 --> 00:20:24,836
+It describes the ZR1X's lap as setting
+
+499
+00:20:24,836 --> 00:20:27,907
+a record that beat the Mustang GTD,
+
+500
+00:20:27,907 --> 00:20:32,207
+then, later, as second-fastest behind the Mustang
+
+501
+00:20:32,207 --> 00:20:33,611
+GTD Competition.
+
+502
+00:20:33,791 --> 00:20:36,135
+We read that as two different dates
+
+503
+00:20:36,135 --> 00:20:37,676
+and two different cars,
+
+504
+00:20:37,676 --> 00:20:39,015
+not a contradiction.
+
+505
+00:20:39,195 --> 00:20:41,506
+It shows how fast the record moves.
+
+506
+00:20:41,686 --> 00:20:43,769
+A title held in the morning can
+
+507
+00:20:43,769 --> 00:20:45,448
+be gone by the afternoon,
+
+508
+00:20:45,448 --> 00:20:47,464
+and that is the nature of this
+
+509
+00:20:47,464 --> 00:20:48,002
+contest.
+
+510
+00:20:48,351 --> 00:20:50,313
+The last twist is about money.
+
+511
+00:20:50,493 --> 00:20:53,333
+GM Authority reports that Rick Hendrick,
+
+512
+00:20:53,333 --> 00:20:55,677
+of the Hendrick Automotive Group,
+
+513
+00:20:55,677 --> 00:20:58,588
+paid three point seven million dollars at
+
+514
+00:20:58,588 --> 00:21:02,564
+a Barrett-Jackson auction for ZR1 vehicle identification
+
+515
+00:21:02,564 --> 00:21:04,055
+number zero zero one,
+
+516
+00:21:04,055 --> 00:21:06,470
+and that the full hammer price was
+
+517
+00:21:06,470 --> 00:21:08,245
+donated to the Red Cross.
+
+518
+00:21:08,425 --> 00:21:11,709
+His dealership in North Carolina displays the
+
+519
+00:21:11,709 --> 00:21:12,001
+car.
+
+520
+00:21:12,181 --> 00:21:13,483
+By our arithmetic,
+
+521
+00:21:13,483 --> 00:21:16,305
+that is about twenty-one times the base
+
+522
+00:21:16,305 --> 00:21:19,417
+price of one hundred seventy-four thousand,
+
+523
+00:21:19,417 --> 00:21:21,805
+nine hundred ninety-five dollars.
+
+524
+00:21:22,155 --> 00:21:24,096
+For a buyer who is not Rick
+
+525
+00:21:24,096 --> 00:21:27,043
+Hendrick, the price starts at one hundred
+
+526
+00:21:27,043 --> 00:21:31,069
+seventy-four thousand, nine hundred ninety-five dollars,
+
+527
+00:21:31,069 --> 00:21:32,219
+according to GM,
+
+528
+00:21:32,219 --> 00:21:34,663
+and a fully loaded 3LZ coupe comes
+
+529
+00:21:34,663 --> 00:21:37,826
+to at least two hundred thirty-two thousand,
+
+530
+00:21:37,826 --> 00:21:39,623
+seven hundred fifty-five,
+
+531
+00:21:39,623 --> 00:21:41,277
+according to Motor One.
+
+532
+00:21:41,457 --> 00:21:44,551
+Some dealers have reportedly asked for markups
+
+533
+00:21:44,551 --> 00:21:47,107
+of fifty to one hundred fifty thousand
+
+534
+00:21:47,107 --> 00:21:47,645
+dollars.
+
+535
+00:21:47,825 --> 00:21:49,949
+We cover the money in the cost
+
+536
+00:21:49,949 --> 00:21:51,435
+video of this series.
+
+537
+00:21:51,785 --> 00:21:52,958
+Look at the pattern.
+
+538
+00:21:53,138 --> 00:21:54,948
+In nineteen seventy,
+
+539
+00:21:54,948 --> 00:21:58,931
+fifty-three ZR1 packages across three years.
+
+540
+00:21:59,111 --> 00:22:00,474
+In nineteen ninety,
+
+541
+00:22:00,474 --> 00:22:03,559
+a Lotus-designed engine that held about one
+
+542
+00:22:03,559 --> 00:22:06,429
+hundred seventy-six miles per hour for a
+
+543
+00:22:06,429 --> 00:22:06,716
+day.
+
+544
+00:22:06,896 --> 00:22:08,414
+In two thousand nine,
+
+545
+00:22:08,414 --> 00:22:11,739
+six hundred thirty-eight horsepower and a lift
+
+546
+00:22:11,739 --> 00:22:12,968
+problem at speed.
+
+547
+00:22:13,148 --> 00:22:15,103
+In two thousand nineteen,
+
+548
+00:22:15,103 --> 00:22:17,919
+seven hundred fifty-five horsepower.
+
+549
+00:22:18,099 --> 00:22:19,996
+In twenty twenty-five,
+
+550
+00:22:19,996 --> 00:22:22,151
+one thousand, sixty-four.
+
+551
+00:22:22,331 --> 00:22:24,847
+Each generation set out to be the
+
+552
+00:22:24,847 --> 00:22:28,050
+fastest Corvette, and each succeeded for a
+
+553
+00:22:28,050 --> 00:22:28,508
+while.
+
+554
+00:22:28,858 --> 00:22:30,675
+By our arithmetic,
+
+555
+00:22:30,675 --> 00:22:34,814
+from the nineteen ninety ZR-1's 179 miles
+
+556
+00:22:34,814 --> 00:22:38,347
+per hour measured to the 2024 ZR1's
+
+557
+00:22:38,347 --> 00:22:41,679
+233 tested, the top speed rose by
+
+558
+00:22:41,679 --> 00:22:43,496
+54 miles per hour,
+
+559
+00:22:43,496 --> 00:22:45,616
+about thirty percent,
+
+560
+00:22:45,616 --> 00:22:47,736
+in thirty-four years.
+
+561
+00:22:47,916 --> 00:22:50,287
+Over the same span,
+
+562
+00:22:50,287 --> 00:22:55,279
+power rose from 375 to 1,064 horsepower,
+
+563
+00:22:55,279 --> 00:22:57,900
+a factor of nearly 2.
+
+564
+00:22:58,080 --> 00:22:58,359
+8.
+
+565
+00:22:58,539 --> 00:23:01,443
+Doubling speed would require far more than
+
+566
+00:23:01,443 --> 00:23:03,656
+doubling power, because of drag,
+
+567
+00:23:03,656 --> 00:23:06,007
+which is why records get harder to
+
+568
+00:23:06,007 --> 00:23:06,422
+break.
+
+569
+00:23:06,772 --> 00:23:08,827
+Now what the sources do not say.
+
+570
+00:23:09,007 --> 00:23:10,993
+They do not say how much of
+
+571
+00:23:10,993 --> 00:23:13,936
+the ZR1's development cost went into the
+
+572
+00:23:13,936 --> 00:23:17,026
+top-speed run, whether GM ever intended to
+
+573
+00:23:17,026 --> 00:23:19,601
+go after the SledgeHammer's number,
+
+574
+00:23:19,601 --> 00:23:21,881
+or what the C8 would reach with
+
+575
+00:23:21,881 --> 00:23:23,868
+the high-downforce package.
+
+576
+00:23:24,048 --> 00:23:27,246
+GM's top-speed car had the standard aero
+
+577
+00:23:27,246 --> 00:23:29,964
+package, so the figure is for that
+
+578
+00:23:29,964 --> 00:23:31,083
+configuration.
+
+579
+00:23:31,263 --> 00:23:32,982
+We do not know more than that.
+
+580
+00:23:33,332 --> 00:23:36,385
+So what is America's fastest Corvette?
+
+581
+00:23:36,565 --> 00:23:39,771
+If you mean the fastest production Corvette
+
+582
+00:23:39,771 --> 00:23:41,187
+that GM has tested,
+
+583
+00:23:41,187 --> 00:23:43,573
+the answer in our sources is the
+
+584
+00:23:43,573 --> 00:23:47,374
+twenty twenty-five ZR1 at two hundred thirty-three.
+
+585
+00:23:47,554 --> 00:23:50,264
+If you mean the fastest Corvette ever
+
+586
+00:23:50,264 --> 00:23:52,461
+to run, it may be the Callaway
+
+587
+00:23:52,461 --> 00:23:56,122
+SledgeHammer at two hundred fifty-four point seven
+
+588
+00:23:56,122 --> 00:23:58,758
+six, though that was a modified car.
+
+589
+00:23:58,938 --> 00:24:01,480
+If you mean the fastest lap,
+
+590
+00:24:01,480 --> 00:24:04,476
+the ZR1X, until the Mustang came.
+
+591
+00:24:04,826 --> 00:24:07,021
+Which do you think counts as the
+
+592
+00:24:07,021 --> 00:24:09,695
+fastest Corvette, the ZR1 you can order
+
+593
+00:24:09,695 --> 00:24:12,918
+or the SledgeHammer from nineteen eighty-eight?
+
+594
+00:24:13,098 --> 00:24:14,561
+Tell us in the comments.
+
+595
+00:24:14,741 --> 00:24:17,493
+In the other videos of this series,
+
+596
+00:24:17,493 --> 00:24:20,009
+we reveal two things you may not
+
+597
+00:24:20,009 --> 00:24:21,503
+know about the ZR1,
+
+598
+00:24:21,503 --> 00:24:24,805
+compare it with the Ferrari two ninety-six
+
+599
+00:24:24,805 --> 00:24:25,277
+G T B,
+
+600
+00:24:25,277 --> 00:24:28,029
+and ask whether a normal person can
+
+601
+00:24:28,029 --> 00:24:28,894
+afford one.
+
+602
+00:24:29,074 --> 00:24:31,989
+Our twenty twenty-seven Truck Buyer's Guide is
+
+603
+00:24:31,989 --> 00:24:33,636
+linked in the description.
+
+604
+00:24:33,816 --> 00:24:36,336
+Subscribe to Pickup Reality.
