@@ -1,0 +1,113 @@
+# Photo credits: 2 Things You Didn't Know About the Lexus LFA
+
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- 2012 Lexus LFA Spider rear.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept rear.jpg by TTTNIS, CC0
+- 2011 Lexus LFA Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA White.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Yamaha V10 engine in a Lexus LFA (52555420262).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Lexus LFA (2012) (52571825489).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52571547261).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52129086653).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52128037252).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (53774653425).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52129059006).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (53773316172).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2011 Lexus LFA Front.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 14.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 2.jpg by Calreyn88, CC BY-SA 4.0
+- Silver Lexus LFA.jpg by ilikewaffles11, CC BY 2.0
+- 2025 Lexus LFA Concept interior.jpg by TTTNIS, CC0
+- Toyota GR Supra Racing Concept - Toyota Gazoo Racing Lexus LFA (21112717461).jpg by 先従隗始, CC0
+- Lexus LFA (5220373328).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Lexus LFA bare chassis front 2011 Tokyo Motor Show.jpg by Morio, CC BY-SA 3.0
+- Lexus LFA interior.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA (4058846308).jpg by kosabe, CC BY-SA 2.0
+- White Lexus LFA side.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA-02.jpg by Shane K, CC BY-SA 2.0
+- White Lexus LFA front.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA (98906).jpg by Calreyn88, CC BY-SA 4.0
+- 2011 Lexus LFA.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA (26925).jpg by Calreyn88, CC BY-SA 4.0
+- 023 - Lexus LFA - Flickr - Price-Photography (cropped).jpg by Michael Price from Houston, USA, CC BY 2.0
+- 023 - Lexus LFA - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- 019 - Lexus LFA - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- Lexus LFA Cut-away Frame.jpg by Alex Kovach, CC BY 2.0
+- Lexus LFA (2012) (52129300389).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (53774437933).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (54251).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (49944546063).jpg by Rutger van der Maar, CC BY 2.0
+- Lexus LFA (4058106643).jpg by kosabe, CC BY-SA 2.0
+- Lexus LFA at NAIAS 2012 (6679689891).jpg by Autoviva, CC BY 2.0
+- Lexus LFA at NAIAS 2012 (6679686845).jpg by Autoviva, CC BY 2.0
+- Lexus LFA at NAIAS 2012 (6679688201).jpg by Autoviva, CC BY 2.0
+- Lexus LFA engine bay, without bodywork.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA (8388585202).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Lexus LFA 1101.JPG by Soji Hitotose, Public domain
+- Lexus LFA (55691).jpg by Calreyn88, CC BY-SA 4.0
+- Yamaha Flugelhorn YFH-8310Z.jpg by Photograph: Yamaha Corporation, CC BY-SA 4.0
+- 2016 Yamaha XV1600 Wild Star.jpg by Jacek Halicki, CC BY-SA 4.0
+- Yamaha SR 500 Köln-20140321-RM-100226.jpg by Ermell, CC BY-SA 4.0
+- Lexus LFA intake closeup.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA Matte Black 12 wheel.jpg by robpoetsch, CC BY 2.0
+- F1 Carbon Fibre Halo at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Carbon Fibre Heater.jpg by BlastarSeymour, CC BY-SA 4.0
+- Caterham 7 With Carbon Fibre Parts.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Carbon fibre weave.jpg by Christine Twigg, CC BY-SA 4.0
+- Carbon fibre tows.jpg by Christine Twigg, CC BY-SA 4.0
+- " 13 Fiat-Chrysler - Safety - Carbon Fiber Composite Roof Assembly SRT Viper capote.jpg by spe.automotive, CC BY 2.0 it
+- Toyoda Automatic Loom - Joy of Museums - Toyota Commemorative Museum of Industry and Technology.jpg by Joyofmuseums, CC BY-SA 4.0
+- Kuranagase river and Toyota Industries Obu plant.JPG by Asturio Cantabrio, CC BY-SA 4.0
+- Kariya Toyota Industries infomation technology institute.JPG by Asturio Cantabrio, CC BY-SA 4.0
+- CSIRO ScienceImage 1074 Carbon nanotubes being spun to form a yarn.jpg by division, CSIRO, CC BY 3.0
+- " 13 Fiat-Chrysler - Safety - Body Exterior Carbon Fiber Composite Roof Assembly SRT Viper.jpg by spe.automotive, CC BY 2.0 it
+- CSIRO ScienceImage 988 Carbon nanotubes spun to form a yarn.jpg by division, CSIRO, CC BY 3.0
+- Design Museum (2) (geograph 5246509).jpg by Anthony O'Neil, CC BY-SA 2.0
+- Sign of the Design Museum, Kensington High Street.jpg by Robert-brook, CC0
+- Cafe of the Design Museum, London - geograph.org.uk - 2280756.jpg by Anthony O'Neil, CC BY-SA 2.0
+- Ready to use carbon fiber sheet.jpg by Duboyong, CC BY-SA 4.0
+- Britten V1000 motorcycle (Factory Bike No 2), by Britten Motorcycle Co, 1992,carbon fibre, kevlar, rubber, steel, aluminium, titanium - Museum of New Zealand Te Papa Tongarewa - Wellington, NZ - DSC09737.jpg by Daderot, CC0
+- Britten V1000 motorcycle (Factory Bike No 2), by Britten Motorcycle Co, 1992,carbon fibre, kevlar, rubber, steel, aluminium, titanium - Museum of New Zealand Te Papa Tongarewa - Wellington, NZ - DSC09734.jpg by Daderot, CC0
+- Production Lexus LFA White Yoko.jpg by BsBsBs, CC BY-SA 3.0
+- Production Lexus LFA Black Yoko.jpg by BsBsBs, CC BY-SA 3.0
+- Lexus LFA speedometer 151.jpg by Nan Palmero, CC BY 2.0
+- LEXUS LFA EUROPE LHD.jpg by Raiko, CC BY-SA 3.0
+- Lexus LFA Nürburgring Package at the 2011 Geneva Motor Show.jpg by Autoviva from Portugal, CC BY 2.0
+- 2012 Lexus LFA Nurburgring Edition in Emerald T Green.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA Nürburgring Edition (49595380907).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Bandini-1 1965 1000-km-Rennen Nürburgring - Foto Spurzem.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Boxenstopp 24-Stunden-Rennen 2008.jpg by Sam-4u, CC BY-SA 4.0
+- 2019 24 Hours of Nürburgring Toyota GR Supra.jpg by TTTNIS, CC0
+- Mondial de l'Automobile 2010, Paris - France (5058115177).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058110829).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058729700).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Chiharu Tamura explains Lexus LFA.jpg by BsBsBs, CC BY-SA 3.0
+- Nordschleife Brünnchen 201204061.JPG by BedaNo1, CC BY-SA 3.0
+- Historisches Fahrerlager Nürburgring Classic 2017.jpg by Cannoneer Photography / https://cannoneer.de Offizielle Webseite von Cannoneer Photography, CC BY-SA 4.0
+- Nürburgring, Vogelschauansicht, Eugen Felle, 1927.jpg by Eugen Felle, Public domain
+- Moscow Lexus dealership Kozhukhovo.jpg by Sergey Rodovnichenko, CC BY-SA 2.0
+- Lexus Cape Town City Dealership.jpg by Husskeyy, CC BY-SA 4.0
+- Lexus RX 450h+ (AALH16) 1X7A7074.jpg by Alexander-93, CC BY-SA 4.0
+- Lexus LFA Pearl Yellow SF Auto Show.jpg by Carlos Almendarez from San Francisco, USA, CC BY 2.0
+- Lexus LFA Pearl White.jpg by Ethan Llamas, CC BY-SA 4.0
+- Lexus LFA Pearl White 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Akio Toyoda.jpg by Bertel Schmitt, CC BY-SA 3.0
+- Toyota CEO Akio Toyoda cruising in a three-wheel concept car (12978784963).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- MORIZO in Daikanyama Morning Cruise with LEXUS 2015.jpg by President aruyo, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom
+- Motor Authority, Pearl Yellow 2012 Lexus LFA with 72 miles sells for $808,000 on Bring a Trailer (7 July 2021): https://www.motorauthority.com/news/1132702_pearl-yellow-2012-lexus-lfa-with-72-miles-sells-for-808-000-on-bring-a-trailer
+- Supercar Blondie, Super rare Lexus LFA sells for massive $845k at auction (25 April 2022): https://supercarblondie.com/cars/lexus-lfa-850-miles-sells-845k/

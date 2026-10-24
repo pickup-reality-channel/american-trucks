@@ -1,0 +1,129 @@
+# Photo credits: The Real Cost of a Formula 1 Car for the Road
+
+- Mercedes-AMG One IAA 2023 1X7A0454.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3473).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032097).jpg by Matti Blume, CC BY-SA 4.0
+- AMG Mercedes-Benz C204 (DTM).jpg by Stefan Krause, Germany, CC BY-SA 3.0
+- Mercedes-AMG One, Techno-Classica 2025, Essen (P1045566).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GLE 43 (P1070799).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, IAA 2017 (1Y7A2959).jpg by MB-one, CC BY-SA 4.0
+- Mercedes-Benz, IAA 2017, Frankfurt (1Y7A3021).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG E 53 Coupe, Friedrichshafen (P1130454).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG E 53 Coupe, Friedrichshafen (P1130453).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG CLS, BAS 24, Brussels (P1170334-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz CL 65 AMG, TC 24, Essen (TCE42747-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GT, EMS 2024, Essen (P1031874).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GT, EMS 2024, Essen (P1031864).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz C 55 T AMG (S202) One of 772 DSC 8897.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz C 55 T AMG (S202) One of 772 DSC 8899.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-AMG One IAA 2021 1X7A0108.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz E 60 AMG, TC 24, Essen (TCE42735).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG G 63, GIMS 2018, Le Grand-Saconnex (1X7A0541).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GT R, BAS 24, Brussels (P1170229-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One (2025) (55311042854).jpg by Charles from Port Chester, New York, CC0
+- Mercedes-AMG One (2025) (55311225055).jpg by Charles from Port Chester, New York, CC0
+- Mercedes-AMG One (2025) (55310812271).jpg by Charles from Port Chester, New York, CC0
+- 2024-08-24 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3369 by Stepro.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- Mercedes AMG GT S - oohh! Freizeitmesse Hamburg 2018 01.jpg by Frank Schwichtenberg, CC BY-SA 4.0
+- Mercedes AMG GT S - oohh! Freizeitmesse Hamburg 2018 02.jpg by Frank Schwichtenberg, CC BY-SA 4.0
+- Mercedes-Benz C32 AMG (2).jpg by FotoSleuth, CC BY 2.0
+- Geneva Motor Show 2011 - BMW M3 Coupe Convertible Interior (5561672640).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - BMW M3 Coupe Engine (5561685236).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- 2020 Formula One tests Barcelona, Mercedes-AMG F1 W11 EQ Performance, Hamilton.jpg by Artes Max from Spain, CC BY-SA 2.0
+- 2026 Bahrain GP - Mercedes - Kimi Antonelli - Race.jpg by Liauzh, CC BY-SA 4.0
+- Lando Norris McLaren and George Russell Mercedes (55383745796).jpg by Jason Puddephatt, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032165).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032166).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032170).jpg by Matti Blume, CC BY-SA 4.0
+- IPhone Wiki.jpg by IPHONE MAX, CC BY-SA 4.0
+- Ellenbogen, List auf Sylt (IMG 20220313 114051).jpg by Matti Blume, CC BY-SA 4.0
+- Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Bunker 26 -- 2024 -- 5546-50.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Mercedes-AMG C43 4MATIC, GIMS 2018, Le Grand-Saconnex (1X7A1093).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG S 63, Frankfurt (1Y7A3450).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG C 63S Coupe, IAA 2017, Frankfurt (1Y7A3011).jpg by Matti Blume, CC BY-SA 4.0
+- 1991 Mercedes-Benz 560 SEC AMG in Blue-Black Metallic, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes Benz 300 SL Gullwing (8649257974).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032171).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG HPP F1 M10 EQ Power+.jpg by 5225C, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 EQ Power+ at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 Engine at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032169).jpg by Matti Blume, CC BY-SA 4.0
+- Orange Mercedes-AMG One Monaco Low.jpg by MrWalkr, CC BY-SA 4.0
+- Mercedes-AMG ONE (53048132806).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Superbike track day coaching.JPG by RaceDynamics, CC BY-SA 3.0
+- Mallory Park Track Day 23.5.2024.jpg by Alan Raine, CC BY 2.0
+- F1, Fiorano 2008.jpg by Gary.hirsch, CC BY-SA 4.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 10.jpg by Coyau, CC BY-SA 3.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Mercedes AMG GT -- 2019 -- 9890.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Mercedes AMG GT -- 2019 -- 9916.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Mercedes AMG GT -- 2019 -- 9884.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Aston Martin Valkyrie (33910291736).jpg by Adam Court, CC BY 2.0
+- Aston Martin Valkyrie, BAS 24, Brussels (P1170224-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Valkyrie, EMS 2023, Essen (P1160761-RR).jpg by MB-one, CC BY-SA 4.0
+- Mercedes AMG F1 W08 EQ Power+ Fuel Tank at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG V8 BITURBO SUV (50703492437).jpg by silver-novice ~ ne res adversae impediant from Birkenhead, ENGLAND, CC BY 2.0
+- Petrol station in Bénin.jpg by Ferdinand Reus, CC BY-SA 2.0
+- Old petrol pump in Kosovo.JPG by Pudelek (Marcin Szala), CC BY-SA 3.0
+- Petrol pump Daly Waters.jpg by JoeHard, CC BY-SA 4.0
+- IMPORTED GASOLINE WAS AVAILABLE IN OREGON DURING THE FUEL CRISIS OF 1973-74 AT DOUBLE THE COST OF THE DOMESTIC FUEL.... - NARA - 555502.jpg by David Falconer, Public domain
+- SIGN OF THE PAST IS THIS ABANDONED GASOLINE PUMP WITH A PRICE OF 29.9 CENTS PER GALLON. THE COST OF FUEL HAS MADE... - NARA - 555508.jpg by David Falconer, Public domain
+- Microbial fuel cells with small fan (on the right) powered by the electricity produced. (13358699875).jpg by SuSanA Secretariat, CC BY 2.0
+- Mercedes-AMG F1 M10 ERS Battery at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Ferrari Tipo 065-6 Engine and Mercedes AMG F1 W10 EQ Power+ MGU-K at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (1996) (52871121586).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Wheel, IAA 2017, Frankfurt (1Y7A3040).jpg by Matti Blume, CC BY-SA 4.0
+- 2022 Brabus 900 Rocket in Graphite Pearl, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2022 Brabus 900 Rocket in Graphite Pearl, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz SLS AMG Roadster, IAA 2011, Frankfurt am Main (DSC03249).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz C32 AMG F1 Medical Car rear Mercedes-Benz Museum.jpg by Morio, CC BY-SA 3.0
+- Condenced Contract Bridge by Coord Roosen - 01.jpg by Coord Roosen (d. 1976), Public domain
+- Panama Pacific Line 1915 contract envelope.jpg by MTwikieditor43, CC0
+- Agreement with Central Indiana Gas Company, 1930 - DPLA - feed8e7f0eaf31f4255805a02656df7a (page 2).jpg by Indiana Association of Spiritualists, Public domain
+- Valtteri Bottas-Mercedes AMG-2019 (5).jpg by Alberto-g-rovi, CC BY 3.0
+- Valtteri Bottas-Mercedes AMG-2019 (4).jpg by Alberto-g-rovi, CC BY 3.0
+- Valtteri Bottas-Mercedes AMG-2019 (3).jpg by Alberto-g-rovi, CC BY 3.0
+- Geneva Motor Show 2011 - BMW M3 Coupe (5560939950).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - BMW M3 Coupe Interior (5560367245).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Mercedes C Class (W204 C-Class) front.jpg by Pedro Simões from Lisboa, Portugal, CC BY 2.0
+- "Dream" garage in backyard with vintage AMC collectibles.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain
+- Crosley in Eisenhower Garage (430ef54a-153b-43f7-9d55-818cd14aec7b).jpg by Mary O'Neill, Public domain
+- 1965 Buick Sport Wagon in Eisenhower Garage (a6d55143-3e87-475b-be59-0a6c48bcc44c).jpg by Mary O'Neill, Public domain
+- Mercedes-AMG GT 63 S, Le Grand-Saconnex (1X7A1869).jpg by Matti Blume, CC BY-SA 4.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Mercedes AMG GT -- 2019 -- 9885.jpg by Dietmar Rabich, CC BY-SA 4.0
+- White Mercedes-Benz G 63 AMG 6x6 rr London14.jpg by MB-one, CC BY-SA 4.0
+- Killarney Race Track in Tableview Cape Town.jpg by SkyPixels, CC BY-SA 4.0
+- Circuit de bicross en construction.jpg by Syced, CC0
+- Snetterton Racing Circuit (9096594820).jpg by John Fielding from Norwich, UK, CC BY 2.0
+- Bremerhaven, Überseehafen, Kaiserhafen -- 2024 -- 2257.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 2022 Mercedes-AMG GT3 DK Engineering.jpg by MrWalkr, CC BY-SA 4.0
+- Mercedes AMG Powertrain (52849595779).jpg by Steve, CC BY-SA 2.0
+- Juhor AMG GT3 Bathurst 12 Hour 2020 (49485913912).jpg by Ted Barrett, CC BY 2.0
+- Aston Martin Valkyrie, TC 24, Essen (TCE42947).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Aston Martin Valkyrie AMR Pro 6.5 Front.jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin Valkyrie GIMS 2024 1X7A2266.jpg by Alexander-93, CC BY-SA 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz W115 220D (1973).jpg by 1bumer, CC BY-SA 4.0
+- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
+- Mercedes-Benz prototypes amk1.jpg by user:AngMoKio, CC BY-SA 2.5
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Lewis Hamilton-Mercedes W11 (1).jpg by Alberto-g-rovi, CC BY 3.0
+- 2025 Mercedes-AMG One HCC25.jpg by MrWalkr, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- Top Gear, Mercedes-AMG One buying guide: https://www.topgear.com/car-reviews/mercedes-benz/amg-one/buying
+- Motor1, Mercedes-AMG won't allow Project One owners to flip their cars (2 Aug 2018): https://www.motor1.com/news/260939/mercedes-amg-project-one/
+- Motor1, This Mercedes-AMG One with 55 miles begs to be driven (12 Apr 2024): https://www.motor1.com/news/715837/amg-one-low-mileage-sale/
+- Fortune/Bloomberg, Aston Martin's most expensive Valkyrie supercar (23 Feb 2024): https://fortune.com/europe/2024/02/23/aston-martin-most-expensive-valkyrie-supercar-3-million-plus-450000-upkeep
