@@ -1,0 +1,7 @@
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds
+- The Drive, Hennessey Venom F5 crashes at 250 mph: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- Motor1, SSC Tuatara owner beats personal top speed record by hitting 295 mph: https://www.motor1.com/news/587981/ssc-tuatara-295-mph/
+- Motor Authority, SSC Little Brother coming with second factory: https://www.motorauthority.com/news/1135975_ssc-little-brother-coming-with-second-factory

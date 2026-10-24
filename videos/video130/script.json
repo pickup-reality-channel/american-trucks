@@ -1,0 +1,292 @@
+{
+ "id": "video130",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Venom F5 vs SSC Tuatara: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two American hypercars were built to be the fastest road cars on Earth. One is the Hennessey Venom F5, from Texas. The other is the SSC Tuatara, from Washington State. On paper they look alike: twin-turbo V8s, carbon fibre, more than a thousand horsepower, price tags near two million dollars. But the published numbers say they are very different cars, and one of them has a past it would like you to forget.",
+   "query": "Hennessey Venom F5 and SSC Tuatara",
+   "caption": "VENOM F5 vs SSC TUATARA: THE DIFFERENCE NOBODY EXPLAINS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We compare engines, weight, shape, production, price and, above all, speed. We use Wikipedia for both cars, plus evo, The Drive and Motor One for the Hennessey, and Motor One and Motor Authority for the SSC. Where figures are claims, we say claims. Where they were verified, we say by whom. And where our arithmetic compares unlike numbers, we flag it.",
+   "query": "Hennessey Venom F5 and SSC Tuatara",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 EVO \u00b7 THE DRIVE \u00b7 MOTOR1 \u00b7 MOTOR AUTHORITY \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Hennessey Special Vehicles was established in twenty seventeen and builds the F5 in Sealy, Texas, according to Wikipedia. Its designer was Nathan Malinick, and development was contracted to Delta Motorsport of Silverstone, England. SSC builds the Tuatara in Richland, Washington, Wikipedia says, and its founder and chief executive is Jerod Shelby. The Tuatara's designer was Jason Castriota, formerly of Pininfarina.",
+   "query": "Hennessey and SSC",
+   "caption": "HENNESSEY: SEALY, TEXAS \u00b7 NATHAN MALINICK \u00b7 DELTA MOTORSPORT \u00b7 SSC: RICHLAND, WASHINGTON \u00b7 JEROD SHELBY \u00b7 JASON CASTRIOTA (WIKIPEDIA)",
+   "cuts": 5,
+   "chapter": "Two companies, two places"
+  },
+  {
+   "text": "The Tuatara is the older project. Wikipedia says SSC began developing the successor to the Ultimate Aero in twenty eleven and showed the Tuatara as a concept at the Pebble Beach Concours d'Elegance that year. The production version was shown in August twenty eighteen, seven years after the concept, and production began in twenty twenty. The F5's production also began in twenty twenty, per Wikipedia.",
+   "query": "SSC Tuatara timeline",
+   "caption": "TUATARA: CONCEPT 2011 \u2192 PRODUCTION CAR AUG 2018 \u2192 PRODUCTION 2020 \u00b7 F5: PRODUCTION FROM 2020 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "So both cars reached customers in the same year. That matters, because the contest between them is not old against new. It is two projects that ran in parallel and finished together. The F5's predecessor, the Venom GT, and the Tuatara's predecessor, the Ultimate Aero, were already rivals: the Ultimate Aero held a Guinness record of two hundred fifty-six point one eight miles per hour in September two thousand seven.",
+   "query": "SSC Ultimate Aero",
+   "caption": "ULTIMATE AERO: 256.18 MPH, SEPT 13, 2007, WEST RICHLAND, WASHINGTON (WIKIPEDIA) \u00b7 VENOM GT: 270.49 MPH, 2014, NOT RECOGNISED",
+   "cuts": 3
+  },
+  {
+   "text": "To see how fast this contest moved, look at the record sequence. Wikipedia says the SSC Ultimate Aero set a Guinness-verified two hundred fifty-six point one eight miles per hour in September two thousand seven. Then the Bugatti Veyron Super Sport, with a certified top speed of two hundred sixty-seven, ended that record on the fourth of July, twenty ten. By our arithmetic, the Bugatti beat SSC by ten point eight two miles per hour.",
+   "query": "Speed record sequence",
+   "caption": "ULTIMATE AERO 256.18 MPH (2007) \u2192 VEYRON SUPER SPORT 267 MPH (JULY 4, 2010) = +10.82 MPH (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The predecessors"
+  },
+  {
+   "text": "Hennessey's Venom GT then claimed two hundred seventy point four nine in twenty fourteen, but as we saw it was one way only and short of the thirty-car rule, so it was not recognised. By our arithmetic, that was three point four nine above the Bugatti. The Tuatara's verified two hundred ninety-five is twenty-four point five one above the Venom GT's. So the two American teams have been chasing a moving target for fifteen years.",
+   "query": "Speed record sequence",
+   "caption": "VENOM GT 270.49 (2014, NOT RECOGNISED) = +3.49 vs VEYRON \u00b7 TUATARA 295 (2022) = +24.51 vs VENOM GT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Ultimate Aero's power also grew. Wikipedia lists nine hundred eleven horsepower for the two thousand four base car, eleven hundred eighty for the two thousand seven Ultimate Aero TT, twelve eighty-seven for the two thousand nine update and thirteen hundred for the two thousand thirteen XT. By our arithmetic, the Tuatara's thirteen hundred fifty is only fifty horsepower above the last Ultimate Aero, though it is a very different car.",
+   "query": "SSC Ultimate Aero power",
+   "caption": "ULTIMATE AERO: 911 (2004) \u2192 1,180 (2007 TT) \u2192 1,287 (2009) \u2192 1,300 HP (2013 XT) \u00b7 TUATARA 1,350 HP = +50 vs XT (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The price history is worth a line. Wikipedia says the first two thousand seven Ultimate Aero TT sold on eBay for four hundred thirty-one thousand, one hundred dollars, and later cars were expected to cost two hundred eighty-five thousand. Only twenty-four TTs were produced between two thousand six and two thousand seven. By our arithmetic, the Tuatara's one point nine five million is about four and a half times that eBay price.",
+   "query": "SSC Ultimate Aero price",
+   "caption": "FIRST TT: $431,100 ON EBAY \u00b7 LATER CARS EXPECTED $285,000 \u00b7 24 TTs BUILT \u00b7 TUATARA $1.95M \u2248 4.5\u00d7 THE EBAY PRICE (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars use the same type of venue for their top-speed runs. Wikipedia says the Florida runway at Space Florida is 2.3 miles long. By our arithmetic, a car holding two hundred ninety-five miles per hour covers about four hundred thirty-three feet every second, so the whole runway takes about twenty-eight seconds, and no car holds top speed from the start. That is what Shelby meant by running out of runway.",
+   "query": "Space Florida runway",
+   "caption": "2.3 MILES \u2248 12,144 FT \u00b7 AT 295 MPH \u2248 432.7 FT/S \u2192 \u2248 28 s TO CROSS (OUR ARITHMETIC) \u00b7 SHELBY: 'RAN OUT OF RUNWAY'",
+   "cuts": 3
+  },
+  {
+   "text": "Why do records use a two-way average? Because wind can help a car in one direction and hurt it in the other. The Tuatara's verified January twenty twenty-one run shows the effect: two hundred seventy-nine point seven one way and two hundred eighty-six point one the other, a difference of six point four miles per hour. By our arithmetic, that is about two percent of the average. A single run in the faster direction would overstate the speed.",
+   "query": "Two-way average",
+   "caption": "279.7 vs 286.1 MPH \u2192 6.4 MPH APART \u2248 2.3% OF THE 282.9 AVERAGE (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In kilometres per hour, for viewers outside the United States: Motor One gives the Tuatara's two hundred ninety-five as four hundred seventy-four point eight, and the verified two-way average as four hundred fifty-five point two. Wikipedia gives the withdrawn claim, three hundred thirty-one point one five, as five hundred thirty-two point nine three. The F5's two hundred seventy-one point six is four hundred thirty-seven point one, per Motor One.",
+   "query": "Speeds in km/h",
+   "caption": "TUATARA 295 MPH = 474.8 KM/H \u00b7 2-WAY AVG 282.9 = 455.2 \u00b7 WITHDRAWN CLAIM 331.15 = 532.93 \u00b7 F5 271.6 = 437.1 (MOTOR1, WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also says SSC announced the Striker and Aggressor track-focused variants in May twenty twenty. The Aggressor, with up to twenty-two hundred horsepower and sixteen hundred four pound-feet, is not street legal. The Striker is listed with five hundred kilograms of downforce. So like the F5 Revolution, the Tuatara has a track branch, and both companies have chosen to split their cars rather than put everything in one.",
+   "query": "SSC Tuatara Striker and Aggressor",
+   "caption": "MAY 2020: STRIKER AND AGGRESSOR ANNOUNCED \u00b7 AGGRESSOR 2,200 HP, NOT STREET-LEGAL \u00b7 STRIKER 500 KG DOWNFORCE (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Engines. The F5 has a six point six litre twin-turbo V8 called Fury. Wikipedia rates it at one thousand eight hundred seventeen horsepower and eleven hundred ninety-three pound-feet, or one thousand five hundred forty-two horsepower on ninety-one octane. The Tuatara has a five point nine litre twin-turbo flat-plane V8, with a bore of four point one two five inches and a stroke of three point three seven five.",
+   "query": "Engines",
+   "caption": "F5: 6.6 L TWIN-TURBO V8 \u00b7 1,817 HP / 1,193 LB-FT (1,542 HP ON 91) \u00b7 TUATARA: 5.9 L TWIN-TURBO FLAT-PLANE V8 (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Under the bonnet"
+  },
+  {
+   "text": "The Tuatara's engine started bigger. Wikipedia says the original was six point nine litres, and it was reduced to allow an eight thousand eight hundred rpm redline. SSC rates it at thirteen hundred fifty horsepower on ninety-one octane and seventeen hundred fifty on E eighty-five, with nine hundred eighty-four and thirteen hundred twenty-two pound-feet. A non-street-legal Aggressor option gets twenty-two hundred horsepower and sixteen hundred four pound-feet.",
+   "query": "SSC Tuatara engine",
+   "caption": "TUATARA: 1,350 HP / 984 LB-FT (91) \u00b7 1,750 HP / 1,322 LB-FT (E85) \u00b7 AGGRESSOR 2,200 HP / 1,604 LB-FT, NOT STREET-LEGAL (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "On the same fuel, ninety-one octane, the F5 is rated at one thousand five hundred forty-two and the Tuatara at thirteen hundred fifty. By our arithmetic, the Hennessey has one hundred ninety-two more horsepower, or fourteen percent more than the SSC. On the other fuel, the F5 Evolution gives two thousand thirty-one on E eighty-five against the Tuatara's seventeen hundred fifty, a gap of two hundred eighty-one.",
+   "query": "Power comparison",
+   "caption": "91 OCTANE: 1,542 vs 1,350 \u2192 +192 HP (+14.2%) \u00b7 E85: 2,031 (F5 EVOLUTION) vs 1,750 \u2192 +281 HP (+16.1%) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Be careful with the F5's headline number, one thousand eight hundred seventeen. Wikipedia does not say which fuel it needs, so we cannot compare it with a Tuatara figure like for like. If it is an E eighty-five figure, it is about sixty-seven horsepower above the Tuatara's seventeen hundred fifty. If it is not, it is something else. The page is silent, so we leave it out of the comparison.",
+   "query": "Power comparison",
+   "caption": "F5 HEADLINE 1,817 HP: FUEL NOT STATED \u2192 NOT COMPARED LIKE FOR LIKE (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Transmission. Both cars use a seven-speed CIMA automated manual, according to Wikipedia. Hennessey also offers a six-speed gated manual in the F5-M Roadster and the Revolution LF. The sources do not say whether the Tuatara has a manual option. By our reading, the Tuatara is automated-manual only, but no source states it, so that is an absence of information, not a fact.",
+   "query": "Transmissions",
+   "caption": "BOTH: 7-SPEED CIMA AUTOMATED MANUAL \u00b7 F5-M ROADSTER AND REVOLUTION LF: 6-SPEED MANUAL \u00b7 TUATARA MANUAL OPTION: NOT MENTIONED",
+   "cuts": 3
+  },
+  {
+   "text": "Weight. Wikipedia lists the Tuatara's curb weight at two thousand seven hundred fifty pounds, or one thousand two hundred forty-seven kilograms, and describes it as dry. The F5 is listed at three thousand fifty-three pounds curb, with a reported two thousand nine hundred fifty with fluids, and as we said earlier, those two are oddly ordered. So the comparison is rough.",
+   "query": "Weight",
+   "caption": "TUATARA 2,750 LB (1,247 KG) DRY \u00b7 F5 3,053 LB CURB (1,385 KG) / 2,950 LB 'WITH FLUIDS' (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Weight, shape and air"
+  },
+  {
+   "text": "By our arithmetic, taking the F5's curb weight against the Tuatara's dry weight, the Hennessey is three hundred three pounds heavier, or eleven percent. But dry weight excludes fluids, so a Tuatara with fluids would weigh more than twenty-seven fifty, and the real gap is smaller. Using the F5's lower two thousand nine hundred fifty, the gap would be two hundred pounds. Either way, the SSC is the lighter car on paper.",
+   "query": "Weight comparison",
+   "caption": "F5 CURB vs TUATARA DRY: +303 LB (+11%) \u00b7 USING 2,950 LB: +200 LB \u2014 DRY vs CURB NOT LIKE FOR LIKE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power to weight. Wikipedia gives the F5 thirteen hundred fifty-eight horsepower per metric tonne. By our arithmetic, the Tuatara's seventeen hundred fifty on E eighty-five over one point two four seven tonnes is about fourteen hundred three, and its thirteen hundred fifty on ninety-one octane is about one thousand eighty-three. So the Tuatara is ahead on E eighty-five, and the F5 on ninety-one, if the F5's fluid weight is used.",
+   "query": "Power to weight",
+   "caption": "TUATARA: 1,750 \u00f7 1.247 t \u2248 1,403 \u00b7 1,350 \u00f7 1.247 t \u2248 1,083 HP PER METRIC TONNE (OUR ARITHMETIC) \u00b7 F5: 1,358 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Now check the F5 on the same basis. One thousand five hundred forty-two on ninety-one octane over one point three three eight tonnes is about eleven hundred fifty-two, higher than the Tuatara's one thousand eighty-three on the same fuel. On E eighty-five, the F5 Evolution's two thousand thirty-one over one point three three eight is about fifteen hundred eighteen, above the Tuatara's fourteen hundred three.",
+   "query": "Power to weight",
+   "caption": "F5: 1,542 \u00f7 1.338 t \u2248 1,152 (91) \u00b7 2,031 \u00f7 1.338 t \u2248 1,518 (E85) vs TUATARA 1,083 / 1,403 HP/t (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So on both fuels, using the F5's lower weight, the F5 leads on power to weight. But the weights are not like for like. The Tuatara's is a dry figure and the F5's two numbers are inconsistent, so the margin is uncertain. Using the F5's heavier curb weight, one thousand three hundred eighty-five kilograms, the F5 Evolution falls to about fourteen hundred sixty-seven, which still leads.",
+   "query": "Power to weight",
+   "caption": "F5 EVOLUTION AT 1.385 t: 2,031 \u00f7 1.385 \u2248 1,466 HP/t vs TUATARA E85 1,403 \u2192 F5 STILL AHEAD (OUR ARITHMETIC; WEIGHT CAVEAT)",
+   "cuts": 3
+  },
+  {
+   "text": "Shape. The F5 is one hundred eighty-three point seven inches long, seventy-seven point one wide and forty-four point five tall, on a wheelbase of one hundred ten point two. The Tuatara is one hundred eighty-two point four long, eighty-one point three wide and forty-two tall, on a wheelbase of one hundred five point two. By our arithmetic, the Tuatara is shorter, wider by four point two inches, and two and a half inches lower.",
+   "query": "Dimensions",
+   "caption": "F5: 183.7 \u00d7 77.1 \u00d7 44.5 IN, WHEELBASE 110.2 \u00b7 TUATARA: 182.4 \u00d7 81.3 \u00d7 42.0 IN, WHEELBASE 105.2 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Drag is where they differ most. SSC claims a drag coefficient of zero point two seven nine, the lowest in its class, Wikipedia says. Hennessey claims zero point three nine for the production F5, up from a concept estimate of zero point three three. By our arithmetic, the Tuatara's claimed figure is twenty-eight percent lower than the F5's. Both are claims, not independently measured numbers.",
+   "query": "Drag coefficient",
+   "caption": "TUATARA Cd 0.279 vs F5 Cd 0.39 \u2192 TUATARA 28% LOWER (CLAIMS; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Low drag helps top speed, and the Tuatara was designed for it. The F5, with its higher drag figure, also has a lot of power to push through the air. Wikipedia lists a Tuatara Striker variant with one thousand one hundred pounds, or five hundred kilograms, of downforce, and The Drive says the F5 Revolution makes over fourteen hundred pounds at two hundred forty-nine miles per hour. Those are track-focused versions of both.",
+   "query": "Downforce",
+   "caption": "TUATARA STRIKER 1,100 LB (500 KG) DOWNFORCE (WIKIPEDIA) \u00b7 F5 REVOLUTION >1,400 LB AT 249 MPH (THE DRIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "Production. Wikipedia says the F5 is limited to twenty-four units, with a second family, the Revolution, limited to thirty-six. The Tuatara, Wikipedia says, is limited to one hundred cars, with ten Aggressors. By our arithmetic, that is a hundred against twenty-four, more than four times as many. In rarity terms, the F5 is the scarcer of the two, even counting the Revolution, which brings it to sixty.",
+   "query": "Production numbers",
+   "caption": "F5 24 (+36 REVOLUTION = 60) \u00b7 TUATARA 100 (+10 AGGRESSOR) (WIKIPEDIA) \u00b7 100 \u00f7 24 \u2248 4.2\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Rarity and price"
+  },
+  {
+   "text": "The sources disagree on the Tuatara. Motor Authority, in a twenty twenty-two article, says SSC was building one hundred twenty-five Tuataras by the end of twenty twenty-five: one hundred regular cars including the Striker package, and twenty-five track-only Aggressors. Wikipedia says ten Aggressors. We cannot resolve it, and the final count could be different from both.",
+   "query": "Tuatara production discrepancy",
+   "caption": "AGGRESSOR COUNT: 10 (WIKIPEDIA) vs 25 (MOTOR AUTHORITY, 2022) \u2014 UNRESOLVED",
+   "cuts": 3
+  },
+  {
+   "text": "Price. Wikipedia says the first twelve F5s were priced at one point six million dollars and the remaining twelve at two point one million, while the Revolution is about two point seven million. Motor Authority says the Tuatara costs one point nine five million dollars. By our arithmetic, the Tuatara sits between the F5's two batches, about twenty-two percent above the first and seven percent below the second.",
+   "query": "Prices",
+   "caption": "F5 $1.6M / $2.1M \u00b7 REVOLUTION ~$2.7M (WIKIPEDIA) \u00b7 TUATARA $1.95M (MOTOR AUTHORITY, 2022) \u2192 +21.9% vs $1.6M, \u22127.1% vs $2.1M (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Prices also change by year. The Tuatara figure is from a twenty twenty-two article, and the F5 prices are Wikipedia's list prices for the two batches, so a current price may differ. Neither source says what options cost, apart from the Evolution package. So these are starting points, not what a buyer would have paid. We use them only to place the cars relative to each other.",
+   "query": "Price caveats",
+   "caption": "PRICES ARE LIST/REPORTED FIGURES FROM DIFFERENT YEARS \u00b7 OPTIONS NOT INCLUDED",
+   "cuts": 3
+  },
+  {
+   "text": "The Tuatara also has a little brother. Motor Authority says SSC's Little Brother would be a mid-engine supercar with a naturally aspirated V8 of seven to eight hundred horsepower, costing four to five hundred thousand dollars, with five hundred units planned through twenty twenty-eight and a new factory. Funding, it says, was not secured. We do not know whether it was built, so we treat it as a plan.",
+   "query": "SSC Little Brother",
+   "caption": "LITTLE BROTHER (PLAN): NA V8, 700\u2013800 HP, $400\u2013500K, 500 UNITS THROUGH 2028 \u00b7 FUNDING NOT SECURED AS OF 2022 (MOTOR AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "The Evolution package adds more to the F5's bill. Wikipedia says it costs an extra two hundred eighty-five thousand dollars. By our arithmetic, that is thirteen point six percent of the second batch's price, and eighteen percent of the first. Evo lists the Evolution at two million two hundred ten thousand pounds in Britain. Currency and tax make the two numbers hard to compare, so we do not.",
+   "query": "Hennessey Venom F5 Evolution price",
+   "caption": "EVOLUTION +$285,000 = 13.6% OF $2.1M \u00b7 17.8% OF $1.6M (OUR ARITHMETIC) \u00b7 evo: FROM \u00a32,210,000 \u2014 NOT CONVERTED",
+   "cuts": 3
+  },
+  {
+   "text": "Now the question everyone cares about: speed. Let us start with the Tuatara, because its story is dramatic. On the tenth of October, twenty twenty, SSC claimed a one-way top speed of three hundred thirty-one point one five miles per hour and a two-way average of three hundred sixteen point one one, on Nevada State Route one sixty near Pahrump. The driver was Oliver Webb. SSC said it beat the Koenigsegg Agera RS record by forty-six point six miles per hour.",
+   "query": "SSC Tuatara 2020 claim",
+   "caption": "OCT 10, 2020: SSC CLAIMED 331.15 MPH ONE-WAY, 316.11 MPH TWO-WAY AVERAGE \u00b7 DRIVER OLIVER WEBB \u00b7 NEVADA SR-160 (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The speed question"
+  },
+  {
+   "text": "It was a claim pending independent confirmation, Wikipedia says, and it was disputed. By the thirtieth of October, Jerod Shelby said the run had been ruined after they started seeing some doubts. And on the twenty-first of July, twenty twenty-one, SSC stated that the initial record attempt did not reach over three hundred miles per hour. So the headline claim was withdrawn, in SSC's own words.",
+   "query": "SSC Tuatara claim withdrawn",
+   "caption": "OCT 30, 2020: SHELBY \u2014 'THE RUN HAD BEEN RUINED' \u00b7 JULY 21, 2021: SSC \u2014 INITIAL ATTEMPT 'DID NOT REACH OVER 300 MPH' (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One adds that the company later admitted those numbers were not entirely accurate. We have no source that says why the numbers were wrong, so we will not guess. What we can say, from SSC's own statements, is that the three hundred thirty-one and three hundred sixteen figures should not be quoted as achievements. And that matters for every comparison with the Venom F5 that cites them.",
+   "query": "SSC Tuatara claim",
+   "caption": "MOTOR1: COMPANY LATER ADMITTED THE NUMBERS WERE NOT ENTIRELY ACCURATE \u00b7 CAUSE: NOT STATED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the claimed three hundred thirty-one point one five is thirty-six miles per hour above the later verified two hundred ninety-five, and the claimed two-way average of three hundred sixteen is thirty-three above the verified two-way average of two hundred eighty-two point nine. These are our subtractions of numbers from different runs, but they show the size of the gap between the claim and what was verified.",
+   "query": "SSC Tuatara claim vs verified",
+   "caption": "331.15 \u2212 295 = 36.15 MPH \u00b7 316.11 \u2212 282.9 = 33.21 MPH (OUR ARITHMETIC; DIFFERENT RUNS)",
+   "cuts": 3
+  },
+  {
+   "text": "What was verified? On the seventeenth of January, twenty twenty-one, at Space Florida's runway, 2.3 miles long, owner Larry Caplin drove the Tuatara to two hundred seventy-nine point seven miles per hour northbound and two hundred eighty-six point one southbound, for a two-way average of two hundred eighty-two point nine. Wikipedia says multiple satellite tracking systems verified it. That average became the production-car record, Motor One says.",
+   "query": "SSC Tuatara verified run",
+   "caption": "JAN 17, 2021 \u00b7 SPACE FLORIDA \u00b7 279.7 / 286.1 \u2192 282.9 MPH TWO-WAY AVERAGE \u00b7 VERIFIED BY SATELLITE TRACKING (WIKIPEDIA, MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the fourteenth of May, twenty twenty-two, at Kennedy Space Center: two hundred ninety-five miles per hour one way, verified by two Racelogic GNSS systems and a Life Racing GPS system, Wikipedia says, with a Racelogic technician on site, according to Motor One. Shelby said the car was not even close to reaching its ceiling, and that the limit was not the car but that they ran out of runway.",
+   "query": "SSC Tuatara 295 mph",
+   "caption": "MAY 14, 2022 \u00b7 KENNEDY SPACE CENTER \u00b7 295 MPH ONE-WAY \u00b7 RACELOGIC + LIFE RACING GPS (WIKIPEDIA, MOTOR1) \u00b7 SHELBY: 'RAN OUT OF RUNWAY'",
+   "cuts": 3
+  },
+  {
+   "text": "The F5, Motor One says, reached two hundred seventy-one point six miles per hour at the same venue in February twenty twenty-two. By our arithmetic, the Tuatara's verified one-way speed of two hundred ninety-five is twenty-three point four miles per hour higher, or eight point six percent faster. The F5's number is also one way, and neither car has a verified three hundred.",
+   "query": "Top speed comparison",
+   "caption": "TUATARA 295 vs F5 271.6 MPH \u2192 +23.4 MPH (+8.6%) \u00b7 BOTH ONE-WAY \u00b7 NEITHER VERIFIED AT 300 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Tuatara's verified two-way average of two hundred eighty-two point nine is also above the F5's best one-way number. We do not have a two-way average for the F5. And the F5's other published numbers are acceleration runs: the quarter mile in nine point eight two seconds at one hundred sixty-nine, and the half mile in fourteen point four four seconds at two hundred nineteen, which Wikipedia calls a production-car record.",
+   "query": "Hennessey Venom F5 acceleration runs",
+   "caption": "TUATARA 2-WAY AVG 282.9 > F5 BEST ONE-WAY 271.6 \u00b7 F5 1/4 MILE 9.82 s AT 169 MPH \u00b7 1/2 MILE 14.44 s AT 219 MPH (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "For the Tuatara, SSC claims zero to sixty and sixty to one hundred twenty miles per hour in two point five seconds each, Wikipedia says. These are claims and we have found no independent timing. By our arithmetic, that would be zero to one hundred twenty in five seconds. For the F5, The Drive gives zero to one hundred twenty-four miles per hour in four point seven seconds. The two sets of claims are close.",
+   "query": "Acceleration claims",
+   "caption": "TUATARA CLAIM: 0\u201360 2.5 s + 60\u2013120 2.5 s = 0\u2013120 IN 5.0 s (OUR ARITHMETIC) \u00b7 F5: 0\u2013124 MPH IN 4.7 s (THE DRIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "So who wins? It depends on the question. On verified top speed, the Tuatara: two hundred ninety-five one way, and two hundred eighty-two point nine two-way. On power at ninety-one octane, the F5. On rarity, the F5. On price, the Tuatara sits between the F5's batches. On drag, the Tuatara claims the lower number. On a clean record of claims, the F5 has no withdrawn headline, as far as our sources show.",
+   "query": "Venom F5 vs SSC Tuatara",
+   "caption": "TOP SPEED: TUATARA \u00b7 POWER (91): F5 \u00b7 RARITY: F5 \u00b7 DRAG CLAIM: TUATARA \u00b7 WITHDRAWN CLAIMS: TUATARA",
+   "cuts": 3,
+   "chapter": "Who wins?"
+  },
+  {
+   "text": "It is important to be fair to SSC. The Tuatara's two later runs were independently tracked, the company withdrew its earlier claim in public, and its owner-driver did the verified runs. Those are things that make a result more believable. Shelby has also described the car's limit as runway, not capability, which fits the point that the test surface is a limit for any car at these speeds.",
+   "query": "SSC Tuatara",
+   "caption": "LATER RUNS INDEPENDENTLY TRACKED \u00b7 EARLIER CLAIM WITHDRAWN PUBLICLY",
+   "cuts": 3
+  },
+  {
+   "text": "And it is important to be fair to Hennessey. It has not claimed a record it has not achieved, according to our sources. It has published acceleration records and a verified two hundred seventy-one point six. But it also sold all twenty-four cars before reaching three hundred, as evo notes, and a test crash in July twenty twenty-four at two hundred fifty miles per hour shows how hard the final step is.",
+   "query": "Hennessey Venom F5",
+   "caption": "NO WITHDRAWN CLAIMS IN OUR SOURCES \u00b7 ALL 24 SOLD BEFORE 300 MPH \u00b7 TEST CRASH JULY 2024 (EVO, THE DRIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "What our sources do not say. They do not give a verified top speed above three hundred miles per hour for either car. They do not give the F5's two-way average. They do not say what the Tuatara's flat-plane V8 costs to run. They do not settle the Aggressor count. And they do not say whether the Little Brother was built. If you have a reliable source on any of these, share it in the comments.",
+   "query": "Venom F5 vs SSC Tuatara",
+   "caption": "NOT IN OUR SOURCES: 300+ MPH FOR EITHER \u00b7 F5 TWO-WAY AVERAGE \u00b7 TUATARA RUNNING COSTS \u00b7 AGGRESSOR COUNT \u00b7 LITTLE BROTHER STATUS",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you pick, the Hennessey Venom F5 or the SSC Tuatara? Tell us in the comments. The other videos in this series cover two things you did not know about the Venom F5, the real cost of an American hypercar, and the story of America's speed record war. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Hennessey Venom F5 and SSC Tuatara",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
