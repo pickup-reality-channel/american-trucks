@@ -1,0 +1,7 @@
+- Wikipedia, Ford Mustang (seventh generation) and Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- Kelley Blue Book, Ford drops details on GTD, the uber Mustang: https://www.kbb.com/car-news/ford-drops-details-on-gtd-the-uber-mustang
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- AutoGuide, Ford Mustang GTD joins Nürburgring's sub-seven-minute club: https://www.autoguide.com/auto/manufacturers/ford/ford-mustang-gtd-joins-nrburgring-s-sub-seven-minute-club-44615074
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/
+- Motor1, The Ford Mustang GTD is even more expensive than we thought: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Wikipedia, Porsche 911 GT3: https://en.wikipedia.org/wiki/Porsche_911_GT3

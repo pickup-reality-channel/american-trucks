@@ -1,0 +1,297 @@
+{
+ "id": "video125",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Secrets Hidden Inside the Ford Mustang GTD",
+ "scenes": [
+  {
+   "text": "The Ford Mustang GTD has no useful trunk. The space where your luggage would go is taken up by a cooler for the gearbox. And its rear wing can flatten itself out like a drag-racing flap, while two flaps under the nose open to keep the car balanced. These are two secrets hidden inside the Ford Mustang GTD, a Mustang that costs more than three hundred thousand dollars.",
+   "query": "Ford Mustang GTD",
+   "caption": "2 SECRETS HIDDEN INSIDE THE FORD MUSTANG GTD",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "One: the layout, with a gearbox at the back, a carbon-fibre driveshaft and a cooler where the cargo space should be. Two: the aerodynamics and ride height, which change shape when the car goes onto a track. Along the way we will look at the lap time, the price, and the racing car it came from. Every fact comes from a published source, listed in the description.",
+   "query": "Ford Mustang GTD",
+   "caption": "THE REAR GEARBOX \u00b7 THE SHAPE-SHIFTING AERO",
+   "cuts": 8
+  },
+  {
+   "text": "Where sources disagree, we tell you. Where we do the maths, we label it as our own. And where a figure is a manufacturer's claim, rather than a measurement, we say so.",
+   "query": "Ford Mustang GTD",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Start with the car. Wikipedia says the current Mustang, the S six fifty, was unveiled on the fourteenth of September, twenty twenty-two, at the North American International Auto Show, and that production began on the first of May, twenty twenty-three, at Flat Rock Assembly. The GTD is the extreme version, unveiled on the seventeenth of August, twenty twenty-three, as a twenty twenty-five model.",
+   "query": "Ford Mustang S650",
+   "caption": "S650 MUSTANG UNVEILED SEPT 14, 2022 \u00b7 GTD UNVEILED AUG 17, 2023 AS A 2025 MODEL",
+   "cuts": 3,
+   "chapter": "What the GTD is"
+  },
+  {
+   "text": "Its engine is a five point two litre supercharged Predator V eight, five thousand, one hundred sixty-three cubic centimetres, rated at eight hundred fifteen horsepower at seven thousand, four hundred r p m and six hundred sixty-four pound-feet at four thousand, eight hundred, according to Wikipedia. The page gives a top speed of two hundred two miles per hour. Those figures are consistent with what Kelley Blue Book reported in September twenty twenty-four.",
+   "query": "Ford Mustang GTD engine",
+   "caption": "GTD: 5.2 L SUPERCHARGED V8 \u00b7 815 HP \u00b7 664 LB-FT \u00b7 202 MPH (WIKIPEDIA, KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "Not every source agrees on the power. Design News calls it an eight hundred horsepower beast, and the Torque Caf\u00e9 article says reportedly eight hundred. By our arithmetic, the difference between eight hundred and eight hundred fifteen is under two percent, so the sources are close, not contradictory. We use eight hundred fifteen, which Ford's own figure appears to be.",
+   "query": "Ford Mustang GTD power",
+   "caption": "815 HP (WIKIPEDIA, KBB, MOTOR1) vs ~800 HP (DESIGN NEWS, TORQUE CAF\u00c9) \u2014 A <2% DIFFERENCE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "For scale, Wikipedia lists the ordinary Mustang GT at four hundred eighty horsepower and four hundred eighteen pound-feet, and the Dark Horse at five hundred. By our arithmetic, the GTD makes about seventy percent more power than the GT and about sixty-three percent more than the Dark Horse, and about fifty-nine percent more torque than either. It is not a tuned Mustang. It is a different car sharing a name.",
+   "query": "Ford Mustang GT and GTD",
+   "caption": "GTD vs GT: +70% POWER \u00b7 vs DARK HORSE: +63% \u00b7 +59% TORQUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the first secret. Wikipedia says the GTD has a rear-mounted transaxle, and Kelley Blue Book describes an eight-speed dual-clutch transaxle at the back, with a carbon-fibre driveshaft carrying power from the front-mounted engine. That is the same layout as some high-end sports cars: engine at the front, gearbox at the rear, to move weight rearward.",
+   "query": "Ford Mustang GTD transaxle",
+   "caption": "ENGINE UP FRONT \u00b7 8-SPEED DUAL-CLUTCH TRANSAXLE AT THE REAR \u00b7 CARBON-FIBRE DRIVESHAFT",
+   "cuts": 3,
+   "chapter": "Secret one: the missing trunk"
+  },
+  {
+   "text": "The gearbox's maker is not named in the sources we read. Design News quotes Multimatic's chief technical officer, Holt, saying his team put a transaxle gearbox at the rear, without saying who built it. So we do not claim a manufacturer. A normal Mustang, by contrast, has the gearbox directly behind the engine, a six-speed manual or a ten-speed automatic, as Wikipedia lists.",
+   "query": "Mustang GTD gearbox",
+   "caption": "GEARBOX MAKER NOT NAMED IN OUR SOURCES \u00b7 A STANDARD MUSTANG HAS A 6-SPEED MANUAL OR 10-SPEED AUTOMATIC",
+   "cuts": 3
+  },
+  {
+   "text": "Now the trunk. Kelley Blue Book says the GTD has a pushrod rear suspension with hydraulics, and a transaxle cooler mounted where the cargo space would normally be. In other words, the part of the car that carries your bags now carries the cooling for the gearbox. A road-legal Mustang that has given up its boot to the racetrack.",
+   "query": "Ford Mustang GTD cargo space",
+   "caption": "HYDRAULICS AND A TRANSAXLE COOLER SIT WHERE THE CARGO SPACE WOULD BE (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a small disagreement about the suspension. Kelley Blue Book and Motor One describe pushrod rear suspension, semi-active and inboard. Design News describes inboard suspension like many prototype race cars, with Multimatic's spool-valve dampers, and does not use the word pushrod. We think these descriptions are compatible, since pushrod systems are normally inboard, but the sources do not say so directly.",
+   "query": "Ford Mustang GTD suspension",
+   "caption": "PUSHROD / INBOARD / SPOOL-VALVE DAMPERS \u2014 DESCRIPTIONS DIFFER BY SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Multimatic is the key name. Torque Caf\u00e9 says it is a Canadian engineering and racing specialist that builds the Mustang GT3 race car, supplies the chassis for Porsche's nine sixty-three L M D h programme, and will assemble the GTD at its own facility rather than at Ford. Design News adds that it supplied the spool-valve shocks and notes it also built the Ford GT. The GTD is partly a Multimatic car.",
+   "query": "Multimatic",
+   "caption": "MULTIMATIC: BUILDS THE MUSTANG GT3 \u00b7 CHASSIS FOR THE PORSCHE 963 \u00b7 ASSEMBLES THE GTD AT ITS OWN FACILITY",
+   "cuts": 3
+  },
+  {
+   "text": "And every GTD, Design News says, has a lightweight carbon-fibre body. The Performance package adds magnesium wheels. The sources give no weight for the road car, so we cannot say how much lighter the GTD is than a regular Mustang. Wikipedia lists the standard Mustang GT at between three thousand, eight hundred twenty-seven and four thousand, twelve pounds. We leave the GTD's weight blank rather than guess.",
+   "query": "Ford Mustang GTD carbon fibre",
+   "caption": "CARBON-FIBRE BODY ON EVERY GTD \u00b7 MAGNESIUM WHEELS WITH THE PERFORMANCE PACKAGE \u00b7 WEIGHT NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Why put the gearbox at the back? None of our sources say so directly. The usual reason, which is our reading and not a quotation, is weight distribution: moving a heavy component rearward balances a front-engined car. We cannot prove it was Ford's reasoning. What the sources do say is that the layout comes from the Mustang GT3 racing programme, which we cover below.",
+   "query": "Mustang GTD layout",
+   "caption": "THE REASON IS NOT STATED \u2014 WEIGHT BALANCE IS OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "The second secret is aerodynamic. Design News says the GTD has a dual-element rear wing with an active flap. In high-downforce mode, it generates a large amount of downforce, but also substantial drag. A drag-reduction mode flattens the flap for higher top speed. Kelley Blue Book calls this a Drag Reduction System, which changes the wing angle.",
+   "query": "Ford Mustang GTD rear wing",
+   "caption": "DUAL-ELEMENT ACTIVE WING \u00b7 HIGH-DOWNFORCE MODE vs DRAG-REDUCTION MODE (DESIGN NEWS, KBB)",
+   "cuts": 3,
+   "chapter": "Secret two: a car that changes shape"
+  },
+  {
+   "text": "It also has a large front underwing with two flaps that open to reduce front downforce, Design News says, balancing the car when the rear wing changes. In plain terms, when the rear flattens out for speed, the front is relieved too, so the car does not become unstable. Neither source gives downforce figures, so we cannot say how much force each mode produces.",
+   "query": "Ford Mustang GTD front underwing",
+   "caption": "FRONT UNDERWING WITH TWO FLAPS \u00b7 NO DOWNFORCE FIGURES IN EITHER SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "The ride height changes too. Design News says the GTD has two ride heights and two sets of spring rates. In track mode, the front drops by forty millimetres and the rear by thirty, adding rake. The rear spring rate doubles, and the front rises by two point eight times. By our arithmetic, the front drops ten millimetres more than the rear, which tilts the car's nose downward.",
+   "query": "Ford Mustang GTD track mode",
+   "caption": "TRACK MODE: FRONT \u221240 MM \u00b7 REAR \u221230 MM \u00b7 REAR SPRING \u00d72 \u00b7 FRONT SPRING \u00d72.8 (DESIGN NEWS)",
+   "cuts": 3
+  },
+  {
+   "text": "Hold on to what that means. The same car, parked in a driveway, rides like a road car, and on a circuit it changes its stance, its stiffness and its wings. Few road cars do all three. The sources do not give ride height numbers in normal mode, so we cannot tell you how high the car sits. Only the change is documented: forty millimetres at the front.",
+   "query": "Ford Mustang GTD",
+   "caption": "ONE CAR, TWO CHARACTERS: ROAD MODE AND TRACK MODE",
+   "cuts": 3
+  },
+  {
+   "text": "The sources also suggest the aerodynamics were part of a deliberate target. Design News quotes chief engineer Greg Goodall saying that all of it was in the quest for a sub-seven-minute lap of the N\u00fcrburgring, and that the Performance package is meant to deliver it. That target became public. Ford's chief executive, Jim Farley, promised at the car's August twenty twenty-three debut that it would break seven minutes, according to AutoGuide.",
+   "query": "Greg Goodall",
+   "caption": "TARGET: A SUB-SEVEN-MINUTE N\u00dcRBURGRING LAP (GOODALL, DESIGN NEWS \u00b7 FARLEY, AUTOGUIDE)",
+   "cuts": 3
+  },
+  {
+   "text": "The promise was kept. AutoGuide reports that the GTD set a certified lap of six minutes, fifty-seven point six eight seconds on the twelve point nine mile Nordschleife, on the seventh of August, twenty twenty-four, driven by Dirk M\u00fcller of Multimatic Motorsports. Wikipedia gives six fifty-seven point six eight five. Ford said the car was otherwise stock, with a roll cage, competition seat and five-point harness added for certification.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "AUG 7, 2024: 6:57.68 (AUTOGUIDE) / 6:57.685 (WIKIPEDIA) \u00b7 DIRK M\u00dcLLER \u00b7 ROLL CAGE + SEAT + HARNESS ADDED",
+   "cuts": 3,
+   "chapter": "The lap"
+  },
+  {
+   "text": "AutoGuide says Ford claimed it was the fastest American production car around the Nordschleife, the fifth-fastest production sports car on official records, and the second-fastest front-engined one. The previous American record, it says, was the Dodge Viper ACR's seven oh one point oh three in twenty seventeen. By our arithmetic, the GTD was about three point three seconds, or eight tenths of a percent, quicker.",
+   "query": "Dodge Viper ACR",
+   "caption": "PREVIOUS AMERICAN RECORD: VIPER ACR 7:01.03 (2017) \u00b7 GTD \u2248 3.3 S QUICKER (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The fastest front-engined car at that time was the Mercedes-AMG G T Black Series from twenty twenty, at six forty-eight point oh four, nine seconds faster, the article says. Other faster production cars it lists include two Porsche nine eleven G T threes with Manthey kits, a nine eleven G T three R S, and a nine nine one G T two R S with a Manthey kit. Porsche is the benchmark, even in a story about a Mustang.",
+   "query": "Mercedes-AMG GT Black Series",
+   "caption": "AMG GT BLACK SERIES 6:48.04 \u00b7 FASTER: PORSCHE 911 GT3 (MANTHEY), GT3 RS, 991 GT2 RS (MANTHEY)",
+   "cuts": 3
+  },
+  {
+   "text": "The record did not last. Wikipedia says the GTD ran six fifty-two point oh seven two in May twenty twenty-five, and that the Corvette ZR1 and ZR1X, at six fifty point seven six three and six forty-nine point two seven five, beat it that July. Then, on the seventeenth of April, twenty twenty-six, a pre-production GTD Competition lapped in six forty point eight three five, with magnesium wheels, more power, dive planes and a modified wing.",
+   "query": "Ford Mustang GTD Competition",
+   "caption": "GTD 6:52.072 (MAY 2025) \u00b7 ZR1 6:50.763 \u00b7 ZR1X 6:49.275 (JULY 2025) \u00b7 GTD COMPETITION 6:40.835 (APR 17, 2026)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the GTD Competition was about sixteen point eight five seconds, or four percent, quicker than the original GTD's lap, and about ten seconds quicker than the ZR1. The page does not state how much power the Competition adds, or what tyres it uses, so we cannot attribute the gain to any one change. The point is that the same car kept getting faster.",
+   "query": "Mustang GTD Competition",
+   "caption": "GTD COMPETITION \u2248 16.85 S (4.0%) QUICKER THAN THE ORIGINAL (OUR ARITHMETIC) \u00b7 POWER GAIN NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The GTD exists because of a race car. Wikipedia says the Mustang G T three was built by Ford and Multimatic, revealed in twenty twenty-three, and raced in I M S A and the World Endurance Championship. Proton Competition was the first customer team in the W E C. The car raced at Le Mans for the first time since nineteen ninety-seven, after a twenty-seven-year absence for a Mustang there.",
+   "query": "Ford Mustang GT3",
+   "caption": "MUSTANG GT3: FORD + MULTIMATIC \u00b7 IMSA AND WEC \u00b7 LE MANS RETURN AFTER 27 YEARS",
+   "cuts": 3,
+   "chapter": "The racing car behind it"
+  },
+  {
+   "text": "Torque Caf\u00e9 quotes Jim Farley at the twenty twenty-two Mustang launch: to go to Le Mans you need a road car. It says the Mustang Dark Horse is the homologation model for the G T three entry, because the latest rules allow significant technical freedoms, and that Farley approved the road car after seeing early development work on the race car. The GTD is therefore the road version of a race programme.",
+   "query": "Jim Farley",
+   "caption": "'TO GO TO LE MANS YOU NEED A ROAD CAR' \u2014 JIM FARLEY (QUOTED BY TORQUE CAF\u00c9) \u00b7 DARK HORSE = HOMOLOGATION MODEL",
+   "cuts": 3
+  },
+  {
+   "text": "Torque Caf\u00e9 also quotes Ford Performance's global director, Mark Rushbrook, calling the GTD a passion product, and says Ford did not need to build it. The article says Ford requires buyers to submit an application to stop speculators. These are claims from a secondary source, but they match Kelley Blue Book's statement that buyers must apply for permission.",
+   "query": "Mark Rushbrook",
+   "caption": "'A PASSION PRODUCT' \u2014 MARK RUSHBROOK \u00b7 BUYERS MUST APPLY (TORQUE CAF\u00c9, KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "Ford has other Mustang racing programmes. Wikipedia says a G T four car, announced at the twenty twenty-three Spa twenty-four hours, debuted at the twenty twenty-four Michelin Pilot Challenge at Daytona, and that a Next Gen Dark Horse body was unveiled for NASCAR on the first of November, twenty twenty-three. There is also a track-only Dark Horse R for the I M S A Ford Mustang Challenge. The GTD is the top of a family.",
+   "query": "Ford Mustang racing family",
+   "caption": "GT4 (2024) \u00b7 NASCAR NEXT GEN DARK HORSE (2024) \u00b7 DARK HORSE R \u00b7 GT3 \u00b7 GTD",
+   "cuts": 3
+  },
+  {
+   "text": "The price. Motor One reported on the twelfth of June, twenty twenty-five that the GTD officially starts at three hundred twenty-seven thousand, nine hundred sixty dollars, including fees and tax: a base price of three hundred eighteen thousand, seven hundred sixty, a five thousand, five hundred dollar destination fee and a three thousand, seven hundred dollar gas-guzzler tax. By our arithmetic, those three figures sum to the headline.",
+   "query": "Ford Mustang GTD price",
+   "caption": "$318,760 BASE + $5,500 DESTINATION + $3,700 GAS GUZZLER = $327,960 (OUR ARITHMETIC CONFIRMS)",
+   "cuts": 3,
+   "chapter": "What it costs"
+  },
+  {
+   "text": "Ford first predicted three hundred thousand dollars, Motor One says, then three hundred twenty-five thousand. An owner's window sticker posted online showed red brake calipers at fifteen hundred dollars and an exposed carbon roof at ten thousand, for a total of three hundred thirty-nine thousand, four hundred sixty dollars. The Monroney label lists twelve miles per gallon combined, seventeen highway and ten city, per the article.",
+   "query": "Ford Mustang GTD window sticker",
+   "caption": "FORD'S EARLY ESTIMATES $300K \u2192 $325K \u00b7 EXAMPLE STICKER $339,460 \u00b7 12 MPG COMBINED",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One calls the GTD the most expensive Mustang ever sold, and says it is the most of any Mustang at the base price. We cover the full cost of owning one in another video in this series. For now, note only that the base price alone is more than three hundred thousand dollars, before the destination fee and the gas-guzzler tax.",
+   "query": "Ford Mustang GTD",
+   "caption": "THE MOST EXPENSIVE MUSTANG EVER SOLD (MOTOR1) \u00b7 SEE THE COST VIDEO",
+   "cuts": 3
+  },
+  {
+   "text": "A twist. Wikipedia says that on the fifteenth of January, twenty twenty-six, Ford unveiled the Mustang Dark Horse S C, with the same five point two litre supercharged Predator V eight in a more conventional car. It makes seven hundred ninety-five horsepower and six hundred sixty pound-feet, against the GTD's eight hundred fifteen and six hundred sixty-four. By our arithmetic, the GTD has only two and a half percent more power.",
+   "query": "Ford Mustang Dark Horse SC",
+   "caption": "DARK HORSE SC (JAN 2026): 795 HP / 660 LB-FT vs GTD 815 HP / 664 LB-FT (+2.5% POWER, OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The cheaper Mustang with nearly the same engine"
+  },
+  {
+   "text": "That is a revealing comparison. Most of what makes the GTD special, by these numbers, is not the engine. It is the rear gearbox, the suspension, the aerodynamics, the carbon body and the dampers. Our sources do not give a Dark Horse S C price, so we cannot say how much of the GTD's price those parts represent. But the engine alone does not explain it.",
+   "query": "Ford Mustang GTD",
+   "caption": "THE ENGINE IS NOT THE DIFFERENCE: 795 vs 815 HP (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The same page gives the ordinary Mustang's numbers: a five litre V eight with four hundred eighty horsepower at seven thousand, one hundred fifty r p m in the GT, or four hundred eighty-six with active exhaust. The Dark Horse has five hundred horsepower at seven thousand, two hundred fifty. Europe gets lower figures, four hundred forty-eight and four hundred fifty-three, which the page lists as separate ratings.",
+   "query": "Ford Mustang GT and Dark Horse",
+   "caption": "GT 480\u2013486 HP \u00b7 DARK HORSE 500 HP \u00b7 EUROPE 448 / 453 HP (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The transmissions differ too. The standard GT uses a Getrag six-speed manual, the Dark Horse a Tremec six-speed manual, and an optional ten-speed automatic is available on the EcoBoost and GT, Wikipedia says. The GTD, by contrast, has an eight-speed dual-clutch transaxle. A ten-speed automatic and an eight-speed dual-clutch are very different machines, even if both are automatic in the loose sense.",
+   "query": "Ford Mustang transmissions",
+   "caption": "GT: GETRAG 6-MANUAL \u00b7 DARK HORSE: TREMEC 6-MANUAL \u00b7 10-SPEED AUTO OPTION \u00b7 GTD: 8-SPEED DCT TRANSAXLE",
+   "cuts": 3
+  },
+  {
+   "text": "The GTD's natural rival is the Corvette ZR1, and Wikipedia sets them side by side. The ZR1 makes one thousand, sixty-four horsepower and eight hundred twenty-eight pound-feet. By our arithmetic, that is about thirty-one percent more power and about twenty-five percent more torque than the GTD. The ZR1's top speed is two hundred thirty-three miles per hour in a GM test, against the GTD's two hundred two.",
+   "query": "Ford Mustang GTD and Corvette ZR1",
+   "caption": "ZR1: 1,064 HP / 828 LB-FT / 233 MPH \u00b7 GTD: 815 HP / 664 LB-FT / 202 MPH (+31%, +25%, +15% FOR ZR1 \u2014 OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The GTD and the Corvette"
+  },
+  {
+   "text": "The prices are far apart as well. The ZR1 starts at one hundred seventy-four thousand, nine hundred ninety-five dollars with destination, according to GM, and the GTD's base is three hundred eighteen thousand, seven hundred sixty, according to Motor One. By our arithmetic, the GTD costs about one point eight times as much. The Corvette makes more power for less money. The Mustang is chasing something else.",
+   "query": "Ford Mustang GTD and Corvette ZR1",
+   "caption": "GTD BASE $318,760 vs ZR1 $174,995 \u2248 1.8\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What the Mustang is chasing is the N\u00fcrburgring and the track, with an active suspension and aerodynamics. Even there, Wikipedia says the Corvette got there first: the ZR1's six fifty point seven six three beat the GTD's six fifty-two point oh seven two in July twenty twenty-five. The Mustang GTD Competition then took the American lead back in April twenty twenty-six, according to the same page.",
+   "query": "N\u00fcrburgring American record",
+   "caption": "ZR1 6:50.763 BEAT GTD 6:52.072 (JULY 2025) \u00b7 GTD COMPETITION 6:40.835 TOOK IT BACK (APR 2026)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us put the dates in order, using our sources. September twenty twenty-two, the S six fifty Mustang. August twenty twenty-three, the GTD debut, with Jim Farley's seven-minute promise. August seventh, twenty twenty-four, the certified lap. December twenty twenty-four, the announcement. June twenty twenty-five, the price. July twenty twenty-five, the Corvette beats its time. April twenty twenty-six, the Competition lap.",
+   "query": "Ford Mustang GTD timeline",
+   "caption": "SEP 2022 S650 \u00b7 AUG 2023 GTD \u00b7 AUG 7 2024 LAP \u00b7 DEC 2024 ANNOUNCED \u00b7 JUN 2025 PRICE \u00b7 JUL 2025 ZR1 \u00b7 APR 2026 COMPETITION",
+   "cuts": 3,
+   "chapter": "A timeline"
+  },
+  {
+   "text": "By our arithmetic, the time from the GTD's debut in August twenty twenty-three to the Competition's lap in April twenty twenty-six is about two years and eight months. In that time, the Mustang's N\u00fcrburgring time fell from six fifty-seven point six eight five to six forty point eight three five. That is the whole story of a car that was never finished, only developed further.",
+   "query": "Ford Mustang GTD development",
+   "caption": "AUG 2023 \u2192 APR 2026 \u2248 2 YEARS 8 MONTHS \u00b7 6:57.685 \u2192 6:40.835 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "One more number that surprised us. Motor One says the GTD's Monroney label shows twelve miles per gallon combined, seventeen on the highway and ten in the city, with a three thousand, seven hundred dollar gas-guzzler tax. By our arithmetic, the tax is about one point two percent of the base price. The Corvette ZR1, according to GM Authority, carries a three thousand dollar tax at fourteen miles per gallon combined.",
+   "query": "Ford Mustang GTD fuel economy",
+   "caption": "GTD: 12 MPG COMBINED \u00b7 $3,700 GUZZLER TAX (\u22481.2% OF BASE) \u00b7 ZR1: 14 MPG \u00b7 $3,000",
+   "cuts": 3,
+   "chapter": "Fuel and the guzzler tax"
+  },
+  {
+   "text": "So the Mustang uses more fuel than the Corvette in the rating, by about two miles per gallon, and pays a higher tax. Neither is built to save fuel. But it is a reminder that a car which changes its aerodynamics and ride height for the track is also a car that makes compromises on the road. The sources do not say how much of the difference is the extra drag, the heavier gearbox or something else.",
+   "query": "Ford Mustang GTD",
+   "caption": "GTD \u2248 2 MPG BELOW THE ZR1 AND A HIGHER TAX \u00b7 CAUSE NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "A number of things are missing from our sources. We did not find a sourced curb weight, a sourced zero to sixty time, the brake and tyre specification, downforce figures, or the number of cars to be built per year. Motor One's page carries a headline about fifty cars a year, but no detail in the text, so we do not repeat it. If you have a primary source, tell us in the comments.",
+   "query": "Ford Mustang GTD",
+   "caption": "NOT IN OUR SOURCES: WEIGHT \u00b7 0\u201360 \u00b7 BRAKES \u00b7 TYRES \u00b7 DOWNFORCE \u00b7 PRODUCTION RUN",
+   "cuts": 3,
+   "chapter": "What we cannot tell you"
+  },
+  {
+   "text": "And a note on the two Wikipedia pages. The Mustang page gives the Porsche nine eleven G T three R S record as six forty-nine point three two eight, while the nine eleven G T three page gives six forty-four point eight four eight for the same car, set by J\u00f6rg Bergmeister on the fifth of October, twenty twenty-two. We cannot settle that. We flag it, and we cover the Porsche in the comparison video.",
+   "query": "Porsche 911 GT3 RS",
+   "caption": "WIKIPEDIA CONFLICT: GT3 RS N\u00dcRBURGRING 6:49.328 (MUSTANG PAGE) vs 6:44.848 (GT3 PAGE)",
+   "cuts": 3
+  },
+  {
+   "text": "So, two secrets. First, the GTD is a front-engined car with an eight-speed dual-clutch transaxle at the back and a carbon driveshaft, and the space where a boot should be holds a cooler and hydraulics. Second, it changes shape on a circuit, with an active wing that flattens for speed, front flaps that open, and a body that drops forty millimetres at the nose.",
+   "query": "Ford Mustang GTD",
+   "caption": "1. GEARBOX AT THE BACK, COOLER WHERE THE TRUNK SHOULD BE \u00b7 2. A WING AND RIDE HEIGHT THAT CHANGE SHAPE",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "Would you rather have a trunk or a lap record? Tell us in the comments, with a source if you have one. In the other videos of this series, we compare the GTD with the Porsche nine eleven G T three, work out what it really costs to own one, and tell why Ford built a Mustang to beat Porsche. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford Mustang GTD",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
