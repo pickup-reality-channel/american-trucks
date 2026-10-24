@@ -1,0 +1,168 @@
+# Photo credits: 2 Things You Didn't Know About the Mercedes G63 6x6
+
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Wheel of Mercedes-Benz G63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk (cropped).jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
+- Brabus G63 AMG 6x6.jpg by Marvin Ladage, CC BY-SA 4.0
+- Brabus G63 AMG 6x6 und Bugatti Veyron bei der GSR (2016).jpg by Marvin Ladage, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 (53397824372).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- G63 AMG (13842152284).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6x6.JPG by Milhouse35, CC BY-SA 3.0
+- White Mercedes-Benz G 63 AMG 6x6 rr London14.jpg by MB-one, CC BY-SA 4.0
+- Le Bar, Hôtel George-V, Paris 25 July 2015.jpg by Ben, CC BY-SA 2.0
+- Amsterdam Motor Show 2023 - 63.jpg by René Cortin, CC BY-SA 4.0
+- Russian origin military BM-21 Grad captured by Ukrainian army 2.jpg by Maksym Kozlenko, CC BY-SA 4.0
+- Russian origin military BM-21 Grad captured by Ukrainian army 3.jpg by Maksym Kozlenko, CC BY-SA 4.0
+- Russian origin military BM-21 Grad captured by Ukrainian army 1.jpg by Maksym Kozlenko, CC BY-SA 4.0
+- CSX55152-AermacchiM346-Italy-Farnborough2016-A1596.jpg by MilborneOne, CC BY-SA 4.0
+- Cavalryatbalaklava2.jpg by William SimpsonPublished by Paul & Dominic Colnaghi & Co., Public domain
+- Vintage "Channel Master" Two-Band (AM-FM) Transistor Radio, Model Number 6479, Dates to 1964 (8323189409).jpg by Joe Haupt from USA, CC BY-SA 2.0
+- Two photographs of an unknown man fishing, various dates - DPLA - 129bd705488b312be741475b145e4e2b (page 2).jpg by Warner, Marion G., 1861-1922, Public domain
+- Two photographs of an unknown man fishing, various dates - DPLA - 129bd705488b312be741475b145e4e2b (page 1).jpg by Warner, Marion G., 1861-1922, Public domain
+- The good work at the Good Fence continues (FL45774517).jpg by Beate Hamizrachi, CC BY 4.0
+- Army engineers continue to support theater operations 121115-A-XO441-051.jpg by Staff Sgt. Anna Rutherford, Public domain
+- Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Bereich der US Army -- 2020 -- 7483.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Soyuz TMA-05M spacecraft raising into position at the launch pad.jpg by Carla Cioffi, Public domain
+- Soyuz TMA-09M spacecraft at the Baikonur Cosmodrome launch pad (4).jpg by Bill Ingalls, Public domain
+- US Navy 030911-N-8213G-001 Safety observer, Aviation Boatswain's Mate 2nd Class Luis Solis, from Laredo, Texas, holds position during the launch of an F-14 Tomcat.jpg by U.S. Navy photo by Photographer's Mate Airman Konstandinos Goumenidis., Public domain
+- Tram Graz 205 4 Dr.Lister-Gasse.jpg by Linie29, CC BY-SA 3.0 at
+- Graz Burg Burggarten Orangerie-4201.jpg by Isiwal, CC BY-SA 4.0
+- Graz Landesgericht-4487-pano.jpg by Isiwal, CC BY-SA 4.0
+- Pinzgauer portal axle.JPG by Gwafton, CC BY-SA 3.0
+- Pinzgauer Portal.jpg by Bryn Pinzgauer, CC BY 2.0
+- 74Weld Bolt-On Jeep Portal Axle.jpg by Ronniejfromthebay, CC0
+- Abwesenheit 004 2020 05 30.JPG by Friedrich Haag, CC BY-SA 4.0
+- Small Buddha statues at the base of Black stone Buddha Statue near Kawa-Dol (Kawva-Dol) hillocks at Kurisarai village in Gaya District of Bihar 30.jpg by Amitabha Gupta, CC BY 4.0
+- Münsing Schellenbergmoor 005 2023 04 27.jpg by Friedrich Haag, CC BY-SA 4.0
+- Five Locks Basin, Pontnewydd - geograph.org.uk - 6120484.jpg by M J Roscoe, CC BY-SA 2.0
+- Spillway and infrastructure, Five-rise locks, Bingley, Yorkshire.jpg by Rosser1954, CC BY-SA 4.0
+- 1778 Five-rise locks, Bingley, Yorkshire. Leeds and Liverpool Canal.jpg by Rosser1954, CC BY-SA 4.0
+- Tire pressure monitoring system 05.jpg by Comfr, CC BY-SA 4.0
+- Tire pressure monitoring system 06.jpg by Comfr, CC BY-SA 4.0
+- Tire pressure monitoring system 01.jpg by Comfr, CC BY-SA 4.0
+- Railway wheels and tyres at Buckfastleigh, South Devon Railway - geograph.org.uk - 8396639.jpg by Gareth James, CC BY-SA 2.0
+- Porsche Cayman S with TD Pro Race 1.3 18" Wheels and Track Tyres (14511799851).jpg by Mark Seymour, CC BY 2.0
+- Old style wheels and tyres at Ilya Sorokin's Oldtimer-Gallery - IMGP2461.jpg by Alexander Plushev, CC BY 2.0
+- Route clearance mission DVIDS201324.jpg by Staff Sgt. Teddy Wade, Public domain
+- Route clearance mission DVIDS201323.jpg by Staff Sgt. Teddy Wade, Public domain
+- Route clearance mission DVIDS201318.jpg by Staff Sgt. Teddy Wade, Public domain
+- Sole of foot of an infant held between the middle finger and the ring finger of an adult hand for size comparison.jpg by Basile Morin, CC BY-SA 4.0
+- Superreĝdimensia lito.jpg by Sophie Graubert, CC BY-SA 4.0
+- Star-sizes.jpg by Dave Jarvis (https://dave.autonoma.ca/), CC BY-SA 3.0
+- Weights for jumping 500 BC, NAMA 1926, 225611.jpg by Zde, CC BY-SA 4.0
+- Stone weights, 2700-2200 BC, AM of Nafplio, 202088.jpg by Zde, CC BY-SA 4.0
+- Weight Toy.jpg by Ameerahraheem, CC BY-SA 4.0
+- 330-PS-624 (USN 707934) (19529175409).jpg by National Museum of the U.S. Navy, Public domain
+- Hammeren francis.JPG by Erik den yngre, CC BY-SA 3.0
+- Citroen Xsara VTS Sport (29029802468).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0
+- Gotipua performance.jpg by TAPAS KUMAR HALDER, CC BY-SA 4.0
+- Kathak Solo Performance (8).jpg by Suyash Dwivedi, CC BY-SA 4.0
+- Kathak Solo Performance (34).jpg by Suyash Dwivedi, CC BY-SA 4.0
+- Homage to the Highest Power Mural, Southeast Asia Gallery, Royal Ontario Museum, group of figures 2.JPG by KristyVan, CC BY-SA 3.0
+- Homage to the Highest Power Mural, Southeast Asia Gallery, Royal Ontario Museum, group fo figures 3.JPG by KristyVan, CC BY-SA 3.0
+- Homage to the Highest Power Mural, Southeast Asia Gallery, Royal Ontario Museum, group fo figures 4.JPG by KristyVan, CC BY-SA 3.0
+- The 'North Sea' steamer forcing her passage through the ice at Cronstadt ILN-1856-1206-0009.jpg by ILN staff, Public domain
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 00 1432 New Zealand - Wilmont Pass and Doubtful Sound.jpg by W. Bulach, CC BY-SA 4.0
+- How many new homes can be built in an English country garden^ - geograph.org.uk - 5638953.jpg by Roger A Smith, CC BY-SA 2.0
+- A TYPICAL BAHAMIAN-STYLE RESIDENCE OF KEY WEST. MANY OF THE OLDER HOUSES WERE BUILT BY SHIP'S CARPENTERS USING THE... - NARA - 548661.jpg by Flip Schulke, Public domain
+- Recall how many have passed from this world, (50839589012).jpg by F Delventhal from Outside Washington, D.C., US, CC BY 2.0
+- Sold Out en Parla (2017).jpg by Memtaltr, CC BY-SA 4.0
+- Batería de sold out band.jpg by Memtaltr, CC BY-SA 4.0
+- Sold Out of Weekly Jump Manga Magazine 2026-07 at 7-11 Higashi-Osaka Naka-Konoike.jpg by Mr.ちゅらさん, CC BY-SA 3.0
+- Chevalement du puits Arthur de Buyer - 13 - nettoyée.jpg by Unknown authorUnknown author, Public domain
+- French Quarter New Orleans Louisiana 2019 122.jpg by Infrogmation of New Orleans, CC BY-SA 4.0
+- French Quarter New Orleans visit 2 January 2023 - 13.jpg by Ahuka, CC BY-SA 2.0
+- Jersey Slim at the BMC on the edge of the French Quarter, New Orleans.jpg by 4nitsirk, CC BY-SA 2.0
+- Price you gotta pay when you break the panorama - panoramio.jpg by James Ryen, CC BY 3.0
+- Gewuerze 003 2024 08 07.jpg by Friedrich Haag, CC BY-SA 4.0
+- Gewuerze 002 2016 12 03.jpg by Friedrich Haag, CC BY-SA 4.0
+- Kuechengeraet 002 2022 05 18.jpg by Friedrich Haag, CC BY-SA 4.0
+- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0
+- Rollier’s price sticker.jpg by WikiGrower1, CC BY 4.0
+- Dual Price Labels - Leva and Euro 01.jpg by DemieK07, CC BY 4.0
+- Fortwo cabrio smart BRABUS tailor made rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-AMG Brabus G B40-700 Widestar (53081692044).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Mercedes-Benz ML Brabus - Flickr - Alexandre Prévot.jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Audie Murphy American Cotton Museum July 2015 49 (Wilkins Log Cabin).jpg by Michael Barera, CC BY-SA 4.0
+- Valley Forge cabin.jpg by Rdsmith4, CC BY-SA 2.5
+- Log cabin outside Melrose side.jpg by Victuallers, CC BY-SA 4.0
+- Brabus Classic, IAA 2017, Frankfurt (1Y7A3134).jpg by Matti Blume, CC BY-SA 4.0
+- 2022 Brabus 900 Rocket in Graphite Pearl, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2022 Brabus 900 Rocket in Graphite Pearl, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- Gutweed at low tide in Brofjorden 8.jpg by W.carter, CC0
+- Killingholme South Low Lighthouse - geograph.org.uk - 7028994.jpg by Colin Park, CC BY-SA 2.0
+- Langvatnet with low afternoon light.jpg by Frankemann, CC BY-SA 4.0
+- Twice Sold Tales fades out - Flickr - brewbooks.jpg by brewbooks from near Seattle, USA, CC BY-SA 2.0
+- Twice Sold Tales - Flickr - brewbooks.jpg by brewbooks from near Seattle, USA, CC BY-SA 2.0
+- Twice Sold Tales fades out - Flickr - brewbooks (1).jpg by brewbooks from near Seattle, USA, CC BY-SA 2.0
+- Bidor 4.jpg by Slleong, CC0
+- Bidor 6.jpg by Slleong, CC0
+- Bidor 1.jpg by Slleong, CC0
+- One of two ways (1) - geograph.org.uk - 5781216.jpg by Michael Dibb, CC BY-SA 2.0
+- One of two ways (2) - geograph.org.uk - 5781217.jpg by Michael Dibb, CC BY-SA 2.0
+- Two ways to go - geograph.org.uk - 2380099.jpg by Michael Dibb, CC BY-SA 2.0
+- Malt Drive Long Island City 040.jpg by Kidfly182, CC BY 4.0
+- Malt Drive Long Island City 020.jpg by Kidfly182, CC BY 4.0
+- Malt Drive Long Island City 006.jpg by Kidfly182, CC BY 4.0
+- Elgin National Watch Company Observatory (8489885794).jpg by Teemu008 from Palatine, Illinois, CC BY-SA 2.0
+- Flickr - ronsaunders47 - YAMAHA TZ 350A. 350cc GRAND PRIX RACER, 1973..jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- ESPN Armed Forces Classic - Game Day - U.S. Army Garrison Humphreys, South Korea - 9 Nov. 2013 (10828480166).jpg by USAG- Humphreys, CC BY 2.0
+- Vitruvian Man reproduction on Clos Lucé grounds.jpg by Abzeronow, CC0
+- Vitruvian Man by Leonardo da Vinci, Exhibition Leonardo da Vinci - Louvre museum (2019-2020).jpg by Qwertzu111111, CC BY-SA 4.0
+- Da Vinci Banner.jpg by Leonadro, Public domain
+- A short trail leads to North Window (f826c8fe-ffe8-49fb-9a7f-8160c6cdedb8).jpg by Chris Wonderly, Public domain
+- Kitty cat in a window sill perch.jpg by Tomwsulcer, CC0
+- Fischerkirche (window), Born a. Darß.jpg by Radomianin, CC BY-SA 4.0
+- Inner City, Apartment Living (4051721389).jpg by Alex Proimos from Sydney, Australia, CC BY 2.0
+- NHCPjf9310 35.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- NHCPjf9310 15.JPG by Ramon FVelasquez, CC BY-SA 3.0
+- Coming up with business names.jpg by Claireneon, CC BY-SA 4.0
+- 1895 E. M. Matthias aus Rethen, Intarsien am Webstuhl.jpg by Bernd Schwabe in Hannover, CC BY-SA 4.0
+- Scheeresluis in Kamperveen. 21-03-2022. (actm.) 13.jpg by Agnes Monkelbaan, CC BY-SA 4.0
+- Reused graveslab.jpg by A.-K. D., CC BY-SA 4.0
+- Intérieur montgolfière.jpg by AElfwine, CC BY-SA 3.0
+- Juhan Parts, arvamusfestival 2014.jpg by Sven Tupits, CC BY-SA 4.0
+- 1979 Holden Belmont 4WD Panel Van (HZ) (30977735224).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Hydrangea arborescens 'INCREDIBALL' 6 2021 Smooth- (51263319162).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
+- Hydrangea arborescens 'INCREDIBALL' 6 2021 Smooth- (51263318557).jpg by F. D. Richards from Clinton, MI, CC BY-SA 2.0
+- Maybach 62 S Landaulet 1X7A0314.jpg by Alexander Migl, CC BY-SA 4.0
+- Maybach 62 S Landaulet 1X7A0315.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes Maybach 57 and 62.jpg by Tribalninja, Public domain
+- How much is that..... - geograph.org.uk - 2041830.jpg by Phillip Perry, CC BY-SA 2.0
+- How much is that doggie.... - geograph.org.uk - 6089498.jpg by Eirian Evans, CC BY-SA 2.0
+- John Rizzo and Peter Swire at How Much is Too Much.jpg by New America, CC BY 2.0
+- Nintendo DS booth PAX EAST 2006.jpg by Benjamin Hollis, CC BY 2.0
+- Nintendo DS e Nintendo DS Lite.jpg by Mark Gasoline, CC BY 4.0
+- Nintendo DS & GBA SP.jpg by Mark Gasoline, CC BY 4.0
+- US Import - 48930077201.jpg by stiefkind, CC0
+- Map of US export import 1899.jpg by Carroll D. Wright, Public domain
+- Subaru Baja US Import Bahrain.jpg by Mohammed Hamad, CC BY-SA 4.0
+- Display panel of an elevator showing weight limit and capacity in a building.jpg by Shixart1985, CC BY 2.0
+- Loja de Sapateiro Aquarela Jac by Jean-Baptiste Debret 1820-1830.jpg by Jean-Baptiste Debret, Public domain
+- Static display,Paris Air Show 2019, Le Bourget (SIAE8871-Pano).jpg by Matti Blume, CC BY-SA 4.0
+- High on mileage, low on silage - Old tyres in Norfolk - geograph.org.uk - 4387346.jpg by Richard Humphrey, CC BY-SA 2.0
+- Pennzoil high mileage oil.jpg by Mike Mozart, CC BY 2.0
+- Jiangsu Provincial Highway 262 mileage 35km point.jpg by Fumikas Sagisavas, CC0
+- G63 AMG (13841787453).jpg by [https://www.flickr.com/people/89918055@N05 Manhattan Research Inc from Manhattan, CC BY-SA 2.0
+- The rearview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G 63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- G63 AMG (13842146304).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- The frontview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+
+## Sources
+
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Gear Patrol (Amos Kwon), Mercedes-Benz G63 AMG 6x6, 1 Mar 2013: https://www.gearpatrol.com/?p=337999
+- The Drive (Mate Petrany), Our new favorite rich person put 47,000 miles on their G63 AMG 6x6, 10 Nov 2020: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- Motor Authority / Road & Track (Stephen Edelstein), Raid the 401k: 2014 Mercedes-Benz G63 AMG 6x6 for sale on Bring a Trailer, 3 Nov 2020: https://motorauthority.com/news/1130174_raid-the-401k-2014-mercedes-benz-g63-amg-6x6-for-sale-on-bring-a-trailer
+- CarAdvice (James Ward) via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- Carscoops (Brad Anderson), Someone is willing to pay over $1 million for this Mercedes G63 6x6 tuned by Brabus, 21 Dec 2021: https://www.carscoops.com/2021/12/someone-is-willing-to-pay-over-1-million-for-this-mercedes-g63-6x6-tuned-by-brabus/
+- MercedesBlog (Elena Luchian), Mercedes-Benz G63 AMG 6x6 sold, here it goes again and this time it was cheaper, 18 May 2022: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
