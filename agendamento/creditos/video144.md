@@ -1,0 +1,81 @@
+# Photo credits: Why Ram Killed the TRX (And What Came Next)
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
+- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
+- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
+- 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
+- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
+- Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
+- Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
+- '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
+- RAM pickup - Russia.jpg by GennadyL, CC0
+- 2015 Dodge Challenger SRT Hellcat (21607516352).jpg by Sicnag, CC BY 2.0
+- 2016 Dodge Challenger Hellcat.jpg by hugh llewelyn, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat supercharged V8 engine (16133643100).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- BAS 24, Brussels (P1170526).jpg by Matti Blume, CC BY-SA 4.0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 02.jpg by Retired electrician, CC0
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 01.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 (14716).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 Limited.jpg by Calreyn88, CC BY 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- RAM 1500 at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2015 Dodge Charger SRT Hellcat (16443746199).jpg by artistmac, CC BY-SA 2.0
+- Dodge Challenger SRT8 (2015) Hirschaid-20220709-RM-120221.jpg by Ermell, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat 2015-20180909-RM-171853.jpg by Ermell, CC BY-SA 4.0
+- Nevada State Fire Marshal Ram Truck On Eastern Ave.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof 7. US-Car-Treffen Ram 1500 (DT)-20230909-RM-170332.jpg by Ermell, CC BY-SA 4.0
+- Moscow, Ram 1500 darkgrey, Aug 2026 04.jpg by Retired electrician, CC0
+- Moscow, Ram 1500 darkgrey, Aug 2026 05.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Kelley Blue Book, End of the dinosaurs: Ram announces final TRX: https://www.kbb.com/car-news/end-of-the-dinosaurs-ram-announces-final-trx
+- Edmunds, The Ram TRX is dead: https://www.edmunds.com/car-news/the-ram-trx-is-dead.html
+- Motor1, The Ram TRX is dead: https://www.motor1.com/news/694983/ram-1500-trx-dead/
+- SlashGear, Why did Ram discontinue the TRX?: https://www.slashgear.com/1739076/why-ram-trx-discontinued-reason-explained/
+- Hagerty Media (Chris Stark), 2025 Ram 1500 RHO to succeed TRX with Hurricane six: https://www.hagerty.com/media/news/2025-dodge-ram-1500-rho-to-succeed-trx-with-hurricane-six/
+- American Cars And Racing (Gary Gastelu), Ram 1500 TRX return set for January 2026: https://americancarsandracing.com/2025/07/23/ram-1500-trx-return-january/
+- The Auto Wire via Yahoo Autos, Ram teaser fuels speculation of 1500 TRX revival: https://autos.yahoo.com/articles/ram-teaser-fuels-speculation-1500-120000225.html
+- AOL, The Ram 1500 TRX returns as the first new SRT, complete with a 777-HP Hellcat V-8: https://www.aol.com/articles/ram-1500-trx-returns-first-150000469.html
+- AOL / Autoblog, Ram's CEO says you shouldn't daily drive the TRX: https://www.aol.com/lifestyle/ram-ceo-says-shouldn-t-164500321.html
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX?: https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/

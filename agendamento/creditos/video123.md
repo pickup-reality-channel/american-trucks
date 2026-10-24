@@ -1,0 +1,125 @@
+# Photo credits: Can a Normal Person Afford a Corvette ZR1?
+
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (C6) rear.jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet Corvette ZR1 (C6) front.jpg by Rutger van der Maar, CC BY 2.0
+- Indianapolis Motor Speedway Museum May 2026 51 (2025 Chevrolet Corvette ZR1 pace car).jpg by Michael Barera, CC BY-SA 4.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (3) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 1991 Chevrolet Corvette C4 ZR1.jpg by MrWalkr, CC BY-SA 4.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (1) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Chevrolet Corvette C6 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 Bonnet Hood Detail LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 NY.jpg by IFCAR, Public domain
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (55218472987).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1 Coupé (C4, 1990) (55220000631).jpg by Charles from Port Chester, New York, CC0
+- 2025 Indy 500 Pace Car - Chevrolet Corvette ZR1.jpg by OctaviaCombi, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 2.jpg by Calreyn88, CC BY-SA 4.0
+- Corvette ZR1 (6723145685).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (6723152613).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (2359337345).jpg by William J Sisti from Morristown, NJ, USA, CC BY-SA 2.0
+- Corvette ZR1 (6723150887).jpg by Ian, CC BY 2.0
+- Corvette ZR1.JPG by Lazzo1 at English Wikipedia
+
+(Original text: LAZZO (talk)), CC BY 3.0
+- Corvette ZR1 (6723143025).jpg by Ian, CC BY 2.0
+- 2014 Rolling Sculpture Car Show 63 (2010 Chevrolet Corvette ZR1).jpg by Michael Barera, CC BY-SA 4.0
+- 2009 Chevrolet C6 Corvette ZR1 Coupe (22834732513).jpg by Sicnag, CC BY 2.0
+- 2014 Rolling Sculpture Car Show 44 (1991 Chevrolet Corvette ZR-1).jpg by Michael Barera, CC BY-SA 4.0
+- Corvette ZR1 (5483730934).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Corvette ZR1 (5583199181).jpg by Powhusku, CC BY-SA 2.0
+- Corvette ZR1 avant.JPG by Lebubu93, CC BY-SA 3.0
+- Census Bureau headquarters, Suitland, Maryland, 2007.jpg by United States Census Bureau / Oficina del Censo de los Estados Unidos, Public domain
+- 1950 Census Enumeration District Maps - Illinois (IL) - Bureau County - Bureau County - ED 6-1 to 70 - NARA - 12031498.jpg by Unknown authorUnknown author or not provided, Public domain
+- United States UX53 1965 4c Bureau of the Census Postal Card.jpg by United States Postal Service, Public domain
+- Kelley Blue Book Official Guide. Best Resale Value.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- PH-KBB 020912 (7913960824) (2).jpg by Jonathan Payne from Ayr, United Kingdom, CC BY-SA 2.0
+- SU-KBB (3983581070).jpg by Björn Strey, CC BY-SA 2.0
+- Chevrolet Corvette C6 ZR1 (28589284245).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Chevrolet Corvette C6 ZR1 (53214550742).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Chevrolet corvette C6 ZR1 white model.jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- 2009 gray Chevrolet Corvette C6 ZR1 front.JPG by BrokenSphere, CC BY-SA 3.0
+- 2009 gray Chevrolet Corvette C6 ZR1 rear.JPG by BrokenSphere, CC BY-SA 3.0
+- Chevrolet Corvette C6 ZR1 (54119790755).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13911043496).jpg by Aeroprints.com, CC BY-SA 3.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13934594574).jpg by Aeroprints.com, CC BY-SA 3.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13934217503).jpg by Aeroprints.com, CC BY-SA 3.0
+- Corvette ZR1 Badge (5483734104).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Trunk of Chevrolet Corvette C6 Z06 white.jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- Larbre Competition's Chevrolet Corvette C6 ZR1 Driven by Bornhauser, Canal and Gardel (6191767805).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Chevrolet Corvette C6 ZR1 (5228092115).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Auberge Du Tresor.jpg by Wilfredor, CC BY-SA 4.0
+- 2025 Chevrolet Corvette ZR1 (54337064388).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Chevrolet Corvette C8 ZR1 at Nick Gilbert Way, Hudson's Detroit.jpg by Asukite, CC BY-SA 4.0
+- 678th and 174th Air Defense Artillery Brigade Transfer of Authority Ceremony (7652032).jpg by U.S. Army photo by Pfc. Yesenia Cadavid, Public domain
+- 678th and 174th Air Defense Artillery Brigade Transfer of Authority Ceremony (7652030).jpg by U.S. Army photo by Pfc. Yesenia Cadavid, Public domain
+- Columbus GM New Look bus 557, preserved by Cincinnati Transit Historical Assn (2017).jpg by Darius Pinkston from Cincinnati, United States, CC BY 2.0
+- Corvette ZR1 (5936045015).jpg by Autoviva, CC BY-SA 2.0
+- Chevrolet Corvette (C7) ZR1.jpg by BrackishStowaway, CC0
+- Chevrolet Corvette ZR1 (42888656784).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0
+- Amy Coney Barrett and her family with President Donald Trump and First Lady Melania Trump.jpg by Dan Scavino, Public domain
+- Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 015.jpg) - DPLA - 4c518aff243fbc8b9e262aa89ee14a50.jpg by Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014), Public domain
+- Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 051.jpg) - DPLA - 703473e3bcc927a600a286a38cc3327d.jpg by Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014), Public domain
+- Chevrolet Corvette C3 Stingray IMG 3199.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette Stingray Convertible (C3) 6301990.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette Stingray, Kingsville, Ontario, 2025-06-29.jpg by Crisco 1492, CC BY-SA 4.0
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 055 - Chevy Corvette - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- Chevy Corvette Interior.jpg by Michael Price, CC BY 2.0
+- Chevrolet Corvette - 001.jpg by Michael Price, CC BY 2.0
+- 2019 Chevrolet Corvette ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette ZR-1 (C7, 2019) (52338833941).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2019 Chevrolet Corvette ZR1 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6377.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6379.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7011.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 6997.jpg by Alexander Migl, CC BY-SA 4.0
+- SBC 2013.jpeg by Antti, CC BY 2.0
+- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546963075).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Chevrolet Corvette Z06 Cabriolet (C8, 2023) (55219623239).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette Stingray Cabriolet (C8, 2023) (55218472337).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette Z06 Coupé (C8, 2026) (55208173011).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette (52576066596).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- AI ON TRACK 2025 21.jpg by מקף־עברי, CC BY-SA 4.0
+- AI ON TRACK 2025 23.jpg by מקף־עברי, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (5587181650).jpg by Powhusku, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 (5586583065).jpg by Powhusku, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 (51854714920).jpg by Alexandre Prevot, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 (51887499179).jpg by Alexandre Prevot, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 -- 2011 DC.jpg by IFCAR, Public domain
+- Chevrolet Corvette C1, Bj. 1962, Cockpit.JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette, BAS 24, Brussels (P1170425-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Chevrolet Corvette, Bj. 1963 (2017-06-11 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Chevrolet Corvette Kulmbach -20220626-RM-122539.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette C 2 Cockpit (Foto Sp 2016-06-05).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Chevrolet Corvette C8 convertibles IAA 2021 1X7A0184.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Chevrolet / GM, Chevrolet announces 2025 Corvette ZR1 pricing: https://news.gm.com/home.detail.html/Pages/news/us/en/2025/jan/0109-zr1.html
+- Motor1, Chevrolet Corvette ZR1 configurator fully loaded price: https://www.motor1.com/news/750492/chevrolet-corvette-zr1-configurator-fully-loaded-price/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1 (5-year cost to own): https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- Kelley Blue Book, 2024 Ferrari 296 GTB: https://www.kbb.com/ferrari/296-gtb/2024/
+- GM Authority, 2025 Corvette ZR1 fuel economy ratings released: https://gmauthority.com/blog/2025/05/2025-corvette-zr1-fuel-economy-ratings-released/
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- GM Authority, Not all dealers are marking up the C8 Corvette ZR1: https://gmauthority.com/blog/2025/12/not-all-dealers-are-marking-up-the-c8-corvette-zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
+- Digital Dealer / Kelley Blue Book, average new-vehicle transaction price, August 2026: https://digitaldealer.com/news/kelley-blue-book-report-average-new-vehicle-transaction-price-moves-back-above-50000-in-august/173215/
+- Wikipedia, Chevrolet Corvette (C8) and Ferrari 296 GTB
+- AOL / Car and Driver data: https://www.aol.com/american-performance-cars-beat-ferraris-133047428.html

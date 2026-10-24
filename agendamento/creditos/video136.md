@@ -1,0 +1,149 @@
+# Photo credits: Why the Bugatti Veyron Almost Never Happened
+
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 2017.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Royal Blue.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 2019.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 2.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron 2008 - 008.JPG by Ammar shaker, Public domain
+- White Bugatti Veyron Grand Sport with Red Interior (11975814436).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron Grand Sport Vitesse "Black Bess" interior.jpg by Bryan S, CC BY-SA 2.0
+- 2012 Bugatti Veyron G.S. interior.jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Veyron EB 16.4 (2006) (55217087912).jpg by Charles from Port Chester, New York, CC0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0132-2).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Veyron Super Sport (5491917622).jpg by Autoviva, CC BY 2.0
+- BugattiVeyronSuperSport.jpg by Autoviva, CC BY 2.0
+- Bugatti Veyron Engine 1X7A7930.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Veyron 2008 - 005.JPG by Ammar shaker, Public domain
+- Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Bugatti Veyron F1.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 Bugatti Veyron Super Sport 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron Super Sport (5491315395).jpg by Autoviva, CC BY 2.0
+- Bugatti Veyron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron Super Sport front view.jpg by Daytonaman955, CC BY-SA 3.0
+- Bugatti Veyron Super Sport side view.jpg by Daytonaman955, CC BY-SA 3.0
+- Bugatti Veyron Super Sport (14519).jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Molsheim 058.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 008.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Molsheim 036.jpg by Arnaud 25, CC BY-SA 4.0
+- Bugatti Veyron Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Bugatti Veyron SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron Super Sport rear view.jpg by Daytonaman955, CC BY-SA 3.0
+- Wolfsburg, Volkswagenwerk -- 2009 -- 0822.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Volkswagen-Arena Gästeblock.JPG by Saubär, CC BY-SA 3.0
+- Aerial image of the Wolfsburg Volkswagen Plant (view from the southeast).jpg by Carsten Steger, CC BY-SA 4.0
+- Pogatti, BAS 24, Brussels (P1170295-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 2010 Bugatti Veyron Grand Sport Monaco.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron BW.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron With Lights.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron CH12 RON.jpg by MrWalkr, CC BY-SA 4.0
+- Wolfsburg Jun 2012 002 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Wolfsburg Jun 2012 006 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Wolfsburg Jun 2012 004 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Bugatti Veyron (10943855255).jpg by Thomas's Pics, CC BY 2.0
+- Salon de l'auto de Genève 2014 - 20140305 - Bugatti Veyron 16.4 Grand Sport Vitesse 4.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Lamborghini Aventador Interior with a Bugatti Veyron in the back (11142524245).jpg by Axion23, CC BY 2.0
+- Wolfsburg Jun 2012 003 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Wolfsburg Jun 2012 007 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Wolfsburg Jun 2012 008 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- Wolfsburg Jun 2012 005 (Volkswagen Arena).JPG by Michael Barera, CC BY-SA 4.0
+- 1-volkswagen-arena-wolfsburg.JPG by Elmschrat, CC BY-SA 3.0
+- 1-volkswagen-arena-2.JPG by Elmschrat, CC BY-SA 3.0
+- Bugatti Veyron Grand Sport Vitesse scf25 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Bugatti Veyron Grand Sport LC25.jpg by MrWalkr, CC BY-SA 4.0
+- Black Bugatti Veyron Grand Sport HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron 9.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- Streetcarl Bugatti veyron 16.4 (6442883015).jpg by Ben, CC BY-SA 2.0
+- 2007 Bugatti Veyron 16.4 VF9SA15C28M795079.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron 16.4 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti veyron blanc rouge wei long (7424691216).jpg by Ben, CC BY-SA 2.0
+- 2008 Bugatti Veyron 16.4 in Blue and Silver, front left (New Canaan).jpg by Mr.choppers, CC BY-SA 3.0
+- 2008 Bugatti Veyron 16.4 in Blue and Silver, rear left (New Canaan).jpg by Mr.choppers, CC BY-SA 3.0
+- Bugatti Veyron 16.4 blue h TCE.jpg by Stahlkocher, CC BY-SA 3.0
+- Bugatti Veyron Grand Sport - Rétromobile 2020.jpg by Yannick Leclercq©, CC BY-SA 4.0
+- Bugatti Veyron II (3353977321).jpg by Matthias from Västerås, Sweden, CC BY 2.0
+- Wolfsburg,VW-Arena von Westen, 6.jpeg by Renardo la vulpo, CC0
+- Wolfsburg Volkswagen Plant.jpg by Jorge Franganillo, CC BY 4.0
+- 1-Brawo-blip-vfl-arena-wolfsburg.JPG by Elmschrat [1], CC BY-SA 3.0
+- 2011 Bugatti Veyron Super Sport.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Bugatti Veyron Super Sport.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 16.4 Super Sport (50594611096).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti Veyron Grand Sport Vitesse.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 16.4 Super Sport (31038660761).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Bugatti Veyron 16.4 Super Sport (49924937468).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti Veyron (35007838772).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Bugatti veyron blanc rouge wei long (7424687180).jpg by Ben, CC BY-SA 2.0
+- Bugatti veyron blanc rouge wei long (7424688942).jpg by Ben, CC BY-SA 2.0
+- Inside l'or blanc (17153699231).jpg by Ben, CC BY-SA 2.0
+- Bugatti Veyron SuperSport, VItesse, and McLaren P1 (19986905549).jpg by Axion23, CC BY 2.0
+- Rétromobile 2016 - Bugatti Veyron Super Sport - 2011 - 002.jpg by Thesupermat, CC BY-SA 4.0
+- 2014 Bugatti Veyron Super Sport SCD24.jpg by MrWalkr, CC BY-SA 4.0
+- Rétromobile 2016 - Bugatti Veyron Super Sport - 2011 - 001.jpg by Thesupermat, CC BY-SA 4.0
+- Rétromobile 2017 - Bugatti Veyron 16.4 Super Sport - Bugatti Certified - 002.jpg by Thesupermat, CC BY-SA 4.0
+- Rétromobile 2017 - Bugatti Veyron 16.4 Super Sport - Bugatti Certified - 001.jpg by Thesupermat, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport Vitesse 3.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport Monaco Supercars.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Grey Bugatti Veyron 16.4.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron 16.4 gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron LC.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron SHZ 1.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Black White.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 Bugatti Veyron Grand Sport Vitesse rear.jpg by Bryan S, CC BY-SA 2.0
+- Bugatti Veyron 16.4 – Heckansicht (6), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 2008 - 004.JPG by Ammar shaker, Public domain
+- W-16 on a Bugatti Veyron - panoramio.jpg by Dane Poset, CC BY-SA 3.0
+- Bugatti Veyron EB 16.4 (2008) (52570116555).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Bugatti Veyron EB 16.4 (2008) (52569946394).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2011 Bugatti Veyron Grand Sport Supercar Fest 25.jpg by MrWalkr, CC BY-SA 4.0
+- 2010 Bugatti Veyron Grand Sport 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Bugatti Veyron Grand Sport 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Bugatti Veyron Centenaire Malcolm Campbell.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron THJ.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Veyron EB 16.4 (2008) (52569212082).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Salon de l'auto de Genève 2014 - 20140305 - Bugatti Veyron Grand Sport Vitesse Rembrandt Bugatti 11.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Bugatti Veyron EB 16.4 (2007) (55079223190).jpg by Charles from Port Chester, New York, CC0
+- 2013 Bugatti Veyron Grand Sport Vitesse 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Bugatti Veyron Grand Sport Vitesse 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Bugatti Veyron Grand Sport Vitesse 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- A Bugatti Chiron.jpg by MrWalkr, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Bugatti EB110: https://en.wikipedia.org/wiki/Bugatti_EB110
+- Wikipedia, Bugatti Automobiles: https://en.wikipedia.org/wiki/Bugatti_Automobiles
+- Motor1, Bugatti Veyron: 20 years: https://www.motor1.com/features/774035/bugatti-veyron-20-years/
+- Top Gear, Here's the key that helped Bugatti do 407 km/h: https://topgear.com/car-news/supercars/heres-key-helped-bugatti-do-407kmh
+- Car magazine, Popping my Bugatti Veyron cherry: https://carmagazine.co.uk/features/car-culture/popping-my-bugatti-veyron-cherry-this-is-what-it-feels-like-to-drive-254mph-hypercar
+- Jalopnik, Volkswagen loses a staggering $6.25 million on each Bugatti they sell: https://jalopnik.com/volkswagen-loses-a-staggering-6-25-million-on-each-bug-1426504241

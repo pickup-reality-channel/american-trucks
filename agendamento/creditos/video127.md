@@ -1,0 +1,107 @@
+# Photo credits: What It Really Costs to Own a Mustang GTD
+
+- 2024 Ford Mustang GTD 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53621605874).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (54926166505).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53621721145).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53620395797).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (53877996363).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Ford Mustang GTD (2024) (53620395782).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481618).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481583).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mustang GTD (54337064503).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- 2026 Ford Mustang GTD (55107992816).jpg by Mustang Joe, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913822).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209792665).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643139).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang VII Convertible Autofrühling Ulm IMG 9339.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643094).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913877).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55208491817).jpg by Charles from Port Chester, New York, CC0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, front left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, rear left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang VII Sindelfingen 2024 IMG 9164.jpg by Alexander-93, CC BY-SA 4.0
+- Paley Mustang WGI24 01.jpg by SmackJam, CC BY-SA 4.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200572.jpg by Ermell, CC BY-SA 4.0
+- 1966 Ford Mustang coupe white 002.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 001.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 003.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Kelley Blue Book Official Guide. Best Resale Value.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- PH-KBB 020912 (7913960824) (2).jpg by Jonathan Payne from Ayr, United Kingdom, CC BY-SA 2.0
+- SU-KBB (3983581070).jpg by Björn Strey, CC BY-SA 2.0
+- Ford Mustang 5312121.jpg by Ermell, CC BY-SA 4.0
+- 1968 Ford Mustang V8, EMS 23, Essen (P1160889-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ford Mustang Kulmbach 2018 6170295.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, Classic Days 2019, Berlin (CDB90099).jpg by Matti Blume, CC BY-SA 4.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200300.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, ADAC Deutschland Klassik 2025, Schwetzingen (20250726-P1048595).jpg by Matti Blume, CC BY-SA 4.0
+- 1985 Ford GT40 Mk I Tribute (16577348725).jpg by Sicnag, CC BY 2.0
+- Ford Mustang, Bj. 66, Lenkrad und Armaturenbrett (Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Ford Mustang Sachs Franken Classic 2018 P5201303.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang VI Mach 1 1X7A0304.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-59-14.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford GT Mustang-20210225-RM-170121.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang convertible Oldtimertreffen Ebern 2019 6200138.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-58-20.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford Mustang 5312665.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang cockpit 5312643.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2-door Hardtop Coupé- 6280159.jpg by Ermell, CC BY-SA 4.0
+- 1968 Ford Mustang Kulmbach-20220626-RM-155832.jpg by Ermell, CC BY-SA 4.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 2022 Ford Mustang Mach-E Extended Range AWD.jpg by Calreyn88, CC BY-SA 4.0
+- Münster, Parkhaus am Coesfelder Kreuz, Ford Mustang Bullit -- 2019 -- 9556-8.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Ford Mustang convertible 5312550.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-59-00.jpg by Berthold Werner, CC BY-SA 3.0
+- 2018 Ford Mustang GT 5.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- Ford Mustang Cabrio cockpit Kulmbach 2018 61703212.jpg by Ermell, CC BY-SA 4.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (55218472987).jpg by Charles from Port Chester, New York, CC0
+- Mustang GTD (53970047150).jpg by MIDWST.BLUR, CC BY 2.0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Global distribution of aviation fuel use.jpg by Stefan Gössling, Andreas Humpe, CC BY 4.0
+- Petrol vs Diesel vs Electric Car Comparison - Which is The Best.jpg by Icomparioimages, CC BY-SA 4.0
+- Ford Mustang Dark Horse Rutesheimer Autoschau 2025 DSC 9229.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Mustang Dark Horse Rutesheimer Autoschau 2025 DSC 9225.jpg by Alexander Migl, CC BY-SA 4.0
+- 2025 Ford Mustang Dark Horse 1.jpg by Calreyn88, CC BY-SA 4.0
+- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546963075).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Ford Mustang -- 2019 -- 9895.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Ford Mustang -- 2019 -- 9909.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Automeile auf dem Kartoffelmarkt, Ford Mustang -- 2019 -- 9897.jpg by Dietmar Rabich, CC BY-SA 4.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13911043496).jpg by Aeroprints.com, CC BY-SA 3.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13934594574).jpg by Aeroprints.com, CC BY-SA 3.0
+- OY-KBB Airbus A321 SAS Scandinavian Airlines (13934217503).jpg by Aeroprints.com, CC BY-SA 3.0
+- Trees rising out of Cheow Lan Lake, blue sky, eternal summer in Surat Thani edited.jpg by Original:  Vyacheslav Argenberg
+Derivative work:  The Cosmonaut, CC BY 4.0
+- ADAC-Zentrale, Munich, March 2017-05.jpg by Martin Falbisoner, CC BY-SA 4.0
+- Innenhafen Duisburg Blaue Stunde 2014.jpg by Tuxyso, CC BY-SA 3.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Indianapolis Motor Speedway Museum May 2026 51 (2025 Chevrolet Corvette ZR1 pace car).jpg by Michael Barera, CC BY-SA 4.0
+- Vancouver (BC, Canada), Gastown Steam Clock -- 2022 -- 1827.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Cost Cutting & Reducing Staff Costs.jpg by CIPHR Connect, CC BY 2.0
+- What an Unbranded Cow Has Cost by Frederic Remington 1895.jpeg by Frederic Remington, Public domain
+- MultimaticTechnicalCentreMarkham.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- MultimaticVan.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- MultimaticMarkhamOffice.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+
+## Sources
+
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Motorious, Ford reopens Mustang GTD application: https://www.motorious.com/articles/news/ford-reopens-mustang-gtd-application/
+- Kelley Blue Book, 2025 Ford Mustang: https://www.kbb.com/ford/mustang/2025/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- Kelley Blue Book, Ford drops details on GTD, the uber Mustang: https://www.kbb.com/car-news/ford-drops-details-on-gtd-the-uber-mustang
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- Wikipedia, Ford Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html

@@ -1,0 +1,88 @@
+# Photo credits: Porsche 918 vs LaFerrari: The Difference Nobody Explains
+
+- Ferrari LaFerrari GIMS 2024 1X7A2272.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at the Ferrari museum.jpg by Matyáš Solařík, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 12.jpg by Ank Kumar, CC BY-SA 4.0
+- LaFerrari front.jpg by Yanko Malinov, CC BY-SA 4.0
+- Ferrari Laferrari Aperta black.jpg by Calreyn88, CC BY 4.0
+- 2017 Ferrari Laferrari Aperta 1.jpg by Calreyn88, CC BY 4.0
+- Ferrari Laferrari plate vc77.jpg by Calreyn88, CC BY 4.0
+- LaFerrari in Beverly Hills (14563979888).jpg by Axion23, CC BY 2.0
+- Ferrari LaFerrari (56105).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari Aperta (31698).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari (96075).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari (47866).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Aperta.jpg by Cédric Fan de Peugeot, CC BY-SA 4.0
+- LaFerrari Budapest.jpg by Loco Steve, CC BY-SA 2.0
+- Ferrari LaFerrari - Rétromobile 2022.jpg by Y.Leclercq©, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder Rear Quarter LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder in Mexico Blue HCC 25 rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder, rear right, 06-08-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ferrari Laferrari Aperta jm 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari Aperta barrage Saint-Malo (34114409332)-cropped.jpg by Rundvald, CC BY-SA 4.0
+- 2014 Laferrari 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari LaFerrari & F50 (Hockenheimer).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 2014 McLaren P1 3.8.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren P1 - Mondial de l'Automobile de Paris 2012 - 005.jpg by Thesupermat, CC BY-SA 3.0
+- McLaren P1 GTR of Mike Whiddett at the 2026 Adelaide Motorsport Festival (DSCF2539).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Porsche 918 Spyder Lenkrad Touchpad.JPG by Thilo Parg, CC BY-SA 3.0
+- Porsche 918 Spyder IAA 2013.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder concept 1X7A6623.jpg by Alexander Migl, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Rear LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 HDK LM25 rear LC25.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 McLaren P1 HDK Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 991.2 GT3 RS Weissach-Paket IMG 7683.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 Porsche 718 Cayman GT4 RS Weissach Yellow.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Porsche 911 GT3 RS Weissach LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- 2016 McLaren P1 LC.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Track Silver McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 Track Silver.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 Purple MSO.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Low.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 17.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren P1 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Track Silver McLaren P1 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 McLaren P1 Spider.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 Track Silver Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 XP05.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 McLaren P1 LC Zoom.jpg by MrWalkr, CC BY-SA 4.0
+- 2014 McLaren P1 HDK.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 16.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 McLaren P1 HDK Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 McLaren P1 HDK HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Purple Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder, rear left, 06-08-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Porsche 918 Spyder rear.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 Spyder (2015) (53627342815).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Geneva MotorShow 2013 - McLaren P1 Rear.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Osaka Auto Messe 2016 (400) - McLaren P1 exhibited by S&COMPANY.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 2014 McLaren P1 (Volcano Orange, rear left), leaving Greenwich 2018.jpg by Mr.choppers, CC BY-SA 3.0
+- 2015 Porsche 918 Spyder 4.6.jpg by Chelsea Jay, CC BY-SA 4.0
+- Porsche 918 Spyder in the Porsche-Museum (2009) 1X7A0382.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 Spyder IAA 2013 (Zuschnitt).jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder (4411672670).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 Spyder - Flickr - David Villarreal Fernández (1).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 918 (7501983514).jpg by Ben from LONDON, United Kingdom, CC BY-SA 2.0
+
+## Sources
+
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Wikipedia, LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most
+- Sotheby's, The seven most expensive Ferrari LaFerraris: https://www.sothebys.com/en/articles/the-seven-most-expensive-ferrari-laferraris
+- RM Sotheby's, 2026 Arizona sale press release: https://rmsothebys.com/media-center/press-releases/rm-sotheby-s-opens-the-2026-auction-season-with-63-million-arizona-sale-led-by-ferrari-enzo-f50-and-laferrari/
+- Motorious, Delivery-mileage 2015 Ferrari LaFerrari heads to Broad Arrow's Zürich auction: https://www.motorious.com/articles/all/delivery-mileage-2015-ferrari-laferrari-heads-to-broad-arrows-zurich-auction/
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction

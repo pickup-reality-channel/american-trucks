@@ -1,0 +1,167 @@
+# Photo credits: The Insane Story Behind Japan's First Supercar
+
+- 2000GT (62788757).jpg by machu., CC BY 2.0
+- Aston Martin DB5 & Toyota 2000 GT Models (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Aston Martin DB5 & Toyota 2000 GT Models (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Radwood LA 2018 and Petersen Museum (31255607277).jpg by zombieite, CC BY 2.0
+- Petersen Automotive Museum PA140156 (46141093251).jpg by Shelby Asistio from Los Angeles, United States, CC BY-SA 2.0
+- Petersen Automotive Museum PA140157 (46091181842).jpg by Shelby Asistio from Los Angeles, United States, CC BY-SA 2.0
+- Roadster Ryuhi Final ver.Bond car with its bonnet open.JPG by Tokumeigakarinoaoshima, CC0
+- Goodwood FOS 2008 (2661093621).jpg by Mark Woodbury from London, England, CC BY 2.0
+- The interior of Toyota 2000GT (MF10 previous period).JPG by Tokumeigakarinoaoshima, CC0
+- The interior of Toyota 2000GT (MF10 latter period).JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000GT (1967) - 30424538803.jpg by andreboeni, CC BY 2.0
+- The interior of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- The interior of roadster Ryuhi Final ver.SPEED TRIAL.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000GT (58142).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota 2000GT (56172).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota MF10 2000GT (22102313562).jpg by 先従隗始, CC0
+- 1968 Toyota 2000GT Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Toyota 2000GT rear 01.jpg by Louis Rix, CC BY 2.0
+- Toyota 2000GT EV rear.jpg by TTTNIS, CC0
+- Toyota 2000GT MF10 (1968) rear-right Toyota Automobile Museum.jpg by Morio, CC BY-SA 3.0
+- Toyota 2000GT rear.jpg by unknown, CC BY-SA 3.0
+- 1970 Jaguar E-Type Roadster 4.2.jpg by Vauxford, CC BY-SA 4.0
+- Jaguar E-Type Series 1 4.2 Litre 1967.jpg by DeFacto, CC BY-SA 4.0
+- Jaguar E-Type series 1 roadster dash - 1967.jpg by DeFacto, CC BY-SA 4.0
+- Toyota 2000GT engine.jpg by TTTNIS, CC0
+- Toyota 2000gt 2m engine.jpg by Brian Lueck, aka User:Blueck, CC BY-SA 3.0
+- Toyota 2000GT (1967) - 30424550763.jpg by andreboeni, CC BY 2.0
+- Toyota 2000GT (1967) - 46029484041.jpg by andreboeni, CC BY 2.0
+- Toyota 2000GT (8685792748).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Toyota 2000GT (8685789036).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- 2M-G for the famous Toyota 2000GT - Flickr - Moto@Club4AG.jpg by Motohide Miwa from USA, CC BY 2.0
+- Toyota E-RA55 Celica Camry 2000GT (No.54) (22101611181).jpg by 先従隗始, CC0
+- The engine room of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- Yellow Datsun 240Z dllu.jpg by Dllu, CC BY-SA 4.0
+- 1971 Datsun 240Z East African Safari Rally.jpg by TTTNIS, CC0
+- 1973 Datsun 240Z white.jpg by Calreyn88, CC BY 4.0
+- BMW 507 - Bj. 1958 - 17.07.2005.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- BMW 507.jpg by Stefan Krause, Germany, CC BY-SA 3.0
+- BMW 507 IAA 2007.jpg by LSDSL, CC BY-SA 2.0 de
+- Toyota 2000 GT (1967) (52874881799).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota 2000 GT (1967) (52874881754).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota 2000 GT (1967) (52874136267).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1968 Toyota 2000 GT (2000 TY).jpg by Carfanatic2019, CC BY-SA 4.0
+- Classic Motor Show 2018 (45969411341).jpg by Thomas Harrison-Lord from Leeds, United Kingdom, CC0
+- Toyota MF10 2000GT (22102313563).jpg by 先従隗始, CC0
+- Jaguar E-Type series 1 coupé 1964.jpg by DeFacto, CC BY-SA 4.0
+- Jaguar E-Type Series 1 3.8 Litre 1961.jpg by DeFacto, CC BY-SA 4.0
+- Jaguar E-Type series 2 coupé 1968.jpg by DeFacto, CC BY-SA 4.0
+- Toyota MF10 2000GT (22102313564).jpg by 先従隗始, CC0
+- 1968 Toyota 2000GT Low.jpg by MrWalkr, CC BY-SA 4.0
+- 1968 Toyota 2000GT White.jpg by MrWalkr, CC BY-SA 4.0
+- 1968 Toyota 2000GT LC22.jpg by MrWalkr, CC BY-SA 4.0
+- Toyota 2000GT (side view) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- Toyota 2000GT (front three-quarter view1) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- 1968 Toyota 2000GT (49561680672).jpg by Rutger van der Maar, CC BY 2.0
+- 1968 Toyota 2000GT (49560950198).jpg by Rutger van der Maar, CC BY 2.0
+- 1968 Toyota 2000GT (49561680437).jpg by Rutger van der Maar, CC BY 2.0
+- Toyota 2000GT Motorcar Museum Japan.jpg by MikaPr65, CC BY-SA 4.0
+- Toyota 2000GT (front three-quarter view2) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- Toyota MF10L 2000GT - Toyota MF10 2000GT (23110314391).jpg by 先従隗始, CC0
+- Toyota Crown (S110) Classic-Days 2022 IMG 7100.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota Crown (S150) 001.jpg by JustAnotherCarDesigner, CC0
+- Toyota Crown (S150) 003.jpg by JustAnotherCarDesigner, CC0
+- Toyota 2000GT front 01.jpg by Louis Rix, CC BY 2.0
+- Toyota 2000GT MF10 (1968) front-left Toyota Automobile Museum.jpg by Morio, CC BY-SA 3.0
+- Toyota 2000GT 5.jpg by Calreyn88, CC BY-SA 4.0
+- Willisau - Hauptgasse mit Jaguar E-Type Roadster.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Jaguar-E Type 1972.jpg by Palauenc05, CC BY-SA 4.0
+- Jaguar E-Type, Serie II (2017-07-05 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7421.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 Carrera RS, Bj. 1972-73 (2016-07-02 01 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 Carrera 964 Stratstone 2.jpg by 多多123, CC BY 4.0
+- AC Cobra 427.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Shelby 427 S-C Cobra 1966 6170717.jpg by Ermell, CC BY-SA 4.0
+- 1966 Shelby 427 S-C Cobra 6170718.jpg by Ermell, CC BY-SA 4.0
+- Suzuka 300km Endurance - Qualifying 2010.jpg by Laitche, CC BY 3.0
+- Suzuka Circuit Pit Building.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- SUZUKA CIRCUIT Hairpin Curve.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1965-05-23 21 Hatzenbach - Shelby Cobra, J. Sears-F. Gardner.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Kulmbach-20220626-RM-111042.jpg by Ermell, CC BY-SA 4.0
+- AC Shelby Cobra 427 Oldtimertreffen Ebern 2019 6200154.jpg by Ermell, CC BY-SA 4.0
+- Toyota MF10 2000GT (22022010271).jpg by 先従隗始, CC0
+- Toyota 2000GT, Osaka Auto Messe 2009.jpg by Motokoka, CC BY-SA 4.0
+- Toyota MF10 2000GT Roadster (25021111051).jpg by 先従隗始, CC0
+- AC Cobra 427 RAM Replica, Bj. 1973 (2015-09-12 3697 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra 427 Replica Magnum, li. Seite (2015-09-12 3676 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra Fia Roadster (1964) Solitude Revival 2022 1X7A0085.jpg by Alexander Migl, CC BY-SA 4.0
+- Mazda 767B 2008 Motorsport Japan.jpg by Morio, CC BY-SA 3.0
+- Mazda 767B cc.JPG by 名古屋太郎, CC BY-SA 3.0
+- Mazda 767B rear.jpg by TTTNIS, CC0
+- Goodwood FOS 2008 (2661092277).jpg by Mark Woodbury from London, England, CC BY 2.0
+- Petersen Automotive Museum PA140149 (32270144808).jpg by Shelby Asistio from Los Angeles, United States, CC BY-SA 2.0
+- The frontview of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- The frontview of the all line-up of roadster Ryuhi Final.JPG by Tokumeigakarinoaoshima, CC0
+- The all line-up of roadster Ryuhi Final.JPG by Tokumeigakarinoaoshima, CC0
+- The all line-up of roadster Ryuhi Final (2).JPG by Tokumeigakarinoaoshima, CC0
+- The tire wheel of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- The left side of roadster Ryuki Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- Test-ride event of roadster Ryuhi Final (2).JPG by Tokumeigakarinoaoshima, CC0
+- Porsche 911 Carrera Stratstone.jpg by 多多123, CC BY 4.0
+- Porsche 911 Carrera 3.6 Speedster (1993) in the Porsche-Museum (2009) 1X7A0362.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7416.jpg by Alexander-93, CC BY-SA 4.0
+- 2000GT (REAR).JPG by Coup final, Public domain
+- Toyota 2000GT (MF12L, mid-year 1967) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1967-1969 Toyota 2000GT rear.jpg by TTTNIS, CC BY-SA 3.0
+- Toyota MF10 2000GT Roadster (25021111052).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT Roadster (25021111043).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT Roadster (25021111050).jpg by 先従隗始, CC0
+- 1968 Toyota 2000GT photo1.JPG by Alf van Beem, CC0
+- 1967 Toyota 2000GT (MF10L), Bellatrix Yellow, front right side.jpg by Mr.choppers, CC BY-SA 3.0
+- Toyota 2000 GT 1967 in der Toyota Collection.JPG by Buch-t, CC BY-SA 3.0 de
+- 1967-1970 Toyota 2000GT coupe (16109105472).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Toyota MF10 2000GT Roadster (25021111044).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT Roadster (22022009543).jpg by 先従隗始, CC0
+- Mazda 767b (53685663735).jpg by Osajus Photography from Oconee, SC, United States, CC BY 2.0
+- Mazda RX-7 passing 767B (53684801354).jpg by Osajus Photography from Oconee, SC, United States, CC BY 2.0
+- Mazda 767B (53684888525).jpg by Osajus Photography from Oconee, SC, United States, CC BY 2.0
+- 1982 Toyota Celica 2000GT Group 4 rear.jpg by TTTNIS, CC0
+- 1976 Toyota Celica 2000GT Group 4 rear.jpg by TTTNIS, CC0
+- Toyota Corona 2000GT rear.jpg by TTTNIS, Public domain
+- Toyota GR Yaris RZ 1X7A0252.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota GR Yaris RC (2024) Leonberg 2024 IMG 1063.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Yaris Cross Hybrid GR Sport IMG 2145.jpg by Alexander-93, CC BY-SA 4.0
+- 1973 Datsun 240Z 1.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z IMSA.jpg by Calreyn88, CC BY 4.0
+- 1971 Datsun 240Z bsj25.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally 2.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally 1.jpg by Calreyn88, CC BY 4.0
+- Toyota CELICA LIFTBACK 2000GT (A20) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota CELICA COUPE 2000GT (A40) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota CELICA LB 2000GT (A20) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000 GT 1967 im Museum Hartkirchen.JPG by Buch-t, CC BY-SA 3.0 de
+- The left side of roadster Ryuhi Final ver.SPEED TRIAL.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota FT-1 Concept 13.jpg by Tuner tom, CC BY-SA 3.0
+- Toyota 2000GT front.jpg by Cosy-ch, CC BY-SA 3.0
+- 1968 Toyota 2000GT photo3.JPG by AlfvanBeem, CC0
+- Toyota 2000GT (MF12L, mid-year 1967) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Porsche 911 No 1000000, 70 Years Porsche Sports Car, Berlin (1X7A3888).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 992 Turbo S 1X7A0413.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Speedster Concept in the Porsche-Museum (2009) IMG 7442.jpg by Alexander-93, CC BY-SA 4.0
+- Tuned Toyota CORONA 4door Sedan 2000GT (T140) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota CELICA XX 2000GT (E-GA61) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1979 Toyota Celica 2000GT RA45 Group 4 rear.jpg by TTTNIS, CC0
+- AC Cobra Tour Auto 2014 Circuit de Dijon Prenois 12.jpg by François de Dijon, CC BY-SA 3.0
+- Shelby AC 427 Cobra vl blue.jpg by Stahlkocher, CC BY-SA 3.0
+- Shelby AC Cobra 289 USRRC Roadster.jpg by User:Jaydec, CC BY-SA 3.0
+
+## Sources
+
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Wikipedia, Nissan S30: https://en.wikipedia.org/wiki/Nissan_S30
+- Wikipedia, Nissan Z: https://en.wikipedia.org/wiki/Nissan_Z
+- MotorPress via The Citizen (Matthys Ferreira), One of three 2000GTs made to ride again, 8 Mar 2021: https://www.citizen.co.za/review-online/uncategorized/2021/03/08/one-of-three-2000gts-made-to-ride-again/
+- BusinessDay, Toyota SA restores ultra-rare 2000 GT worth R30m, 18 Oct 2022: https://www.businessday.co.za/bd/life/motoring/2022-10-18-toyota-sa-restores-ultra-rare-2000-gt-worth-r30m
+- Toyota UK Magazine, Classic Toyota 2000GT returned to former glory, 6 Dec 2012: https://mag.toyota.co.uk/exclusive-toyota-2000gt-restoration/
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Hagerty Media, Toyota-Shelby 2000GT sale record, 7 Mar 2022
+- Hagerty Valuation Tools, 1967 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1967-Toyota-2000GT
+- Shannons Club, Datsun Z cars: Japan's GT redefines the breed: https://club.shannons.com.au/club/news/datsun-z-cars-japans-gt-redefines-the-breed
+- Sports Car Market, Toyota 2000GT profile and auction history
+- Japanese Nostalgic Car, Tree-damaged Toyota 2000GT arrives at repair shop, 19 Jun 2014: https://japanesenostalgiccar.com/news-tree-damaged-toyota-2000gt-arrives-at-repair-shop/

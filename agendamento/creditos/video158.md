@@ -1,0 +1,69 @@
+# Photo credits: Koenigsegg Gemera vs Regera: The Real Difference
+
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0525).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Koenigsegg Regera HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera White.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 7197.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 16.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 7193.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 15.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 13.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera Front.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Koenigsegg Regera LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Koenigsegg Regera LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 17.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Zoomed HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Low LC23.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 7151.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Regera 9.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Koenigsegg Regera Low HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 7.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0949).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1381.jpg by Alexander-93, CC BY-SA 4.0
+- 2020 Koenigsegg Gemera 2.0.jpg by Liam Walker, CC BY-SA 4.0
+- Koenigsegg Regera 4.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 10.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Regera 18.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Koenigsegg Regera 10.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera 3.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Gemera (52561129015).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Gemera (52561129050).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0950).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0948).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52571939473).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571859105).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52570943097).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571408476).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571686589).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (2022) (52571858975).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (52561200208).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Koenigsegg Gemera (45280).jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Gemera (2022) (52571939423).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Koenigsegg Gemera (53048129816).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1123.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2023 1X7A1379.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2024 DSC 6942.jpg by Alexander Migl, CC BY-SA 4.0
+- Ray Baldwin Subaru Stamford NY Auto Show 103.JPG by RayBaldwin, CC BY-SA 4.0
+- Christian Von Koenigsegg Interview at Goodwood Festival of Speed (14340401677).jpg by Michelin LIVE UK from Stoke-On-Trent, UK, CC BY 2.0
+- 40. St.Gallen Symposium-Christian von Koenigsegg-HSGN 028-01971.JPG by Marcel Giger, CC BY-SA 4.0
+- Koenigsegg, Auto 2024, Zurich (PANA0940).jpg by Matti Blume, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1377.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Jesko Auto Zuerich 2023 1X7A1375.jpg by Alexander-93, CC BY-SA 4.0
+- Koenigsegg Gemera Auto Zuerich 2024 DSC 6940.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Koenigsegg Gemera: https://en.wikipedia.org/wiki/Koenigsegg_Gemera
+- Wikipedia, Koenigsegg Regera: https://en.wikipedia.org/wiki/Koenigsegg_Regera
+- Wikipedia, Koenigsegg: https://en.wikipedia.org/wiki/Koenigsegg_Automotive
+- AOL (Car and Driver), The Koenigsegg Gemera is finally starting production, six years after it was revealed, 30 Mar 2026: https://www.aol.com/articles/koenigsegg-gemera-finally-starting-production-210300723.html
+- Motor1, Koenigsegg Gemera build slot already available at McLaren dealer, 13 Apr 2020: https://www.motor1.com/news/409351/koenigsegg-gemera-build-slot-sale/
+- InsideHook (Tobias Carroll), V8 Koenigsegg supercar buyers pay an extra $400,000, 29 Jul 2024: https://www.insidehook.com/autos/v8-koenigsegg-supercar-buyers-extra-400000/amp
+- RM Sotheby's, 2020 Koenigsegg Regera, Monterey 2024, lot 240

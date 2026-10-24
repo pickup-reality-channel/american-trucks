@@ -1,0 +1,154 @@
+# Photo credits: The Insane Story Behind America's Fastest Corvette
+
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (C6) rear.jpg by Rutger van der Maar, CC BY 2.0
+- Indianapolis Motor Speedway Museum May 2026 51 (2025 Chevrolet Corvette ZR1 pace car).jpg by Michael Barera, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (C6) front.jpg by Rutger van der Maar, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1991 Chevrolet Corvette C4 ZR1.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (3) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (1) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Corvette ZR1 (6723145685).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (2359337345).jpg by William J Sisti from Morristown, NJ, USA, CC BY-SA 2.0
+- Corvette ZR1 (6723152613).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (6723150887).jpg by Ian, CC BY 2.0
+- Corvette ZR1.JPG by Lazzo1 at English Wikipedia
+
+(Original text: LAZZO (talk)), CC BY 3.0
+- Corvette ZR1 (6723143025).jpg by Ian, CC BY 2.0
+- Chevrolet Corvette C6 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 Bonnet Hood Detail LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette C3 Stingray IMG 3199.jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Chevrolet Corvette C3-20220911-RM-154247.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette C3 at Hindley Street, Adelaide.jpg by Yu Chu Chin, CC BY-SA 4.0
+- Chevrolet Corvette C4 Kulmbach 17RM0343.jpg by Ermell, CC BY-SA 4.0
+- Corvette C4 Oldtimertreffen Ebern 2019 P6200160.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette, BAS 24, Brussels (P1170389-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lotus cars at Harajuku store.jpg by Syced, CC0
+- Lotus cars at Harajuku store (18833).jpg by Syced, CC0
+- Lotus cars at Harajuku store (65284).jpg by Syced, CC0
+- Chevrolet Corvette ZR-1 (C4, 1995) (52960999370).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette ZR-1 (C7, 2019) (52338833941).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette ZR-1 (C7, 2019) (52339067473).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Performance 91 engines, Interboot 2020, Friedrichshafen (IB200292).jpg by Matti Blume, CC BY-SA 4.0
+- MOTEUR in-board 300 CV WIMBI BOATS® Mercury.jpg by Hiro, CC BY-SA 4.0
+- Bingstar Aluminum Boat.jpg by RoyKabanlit, CC BY-SA 4.0
+- Fort Stockton Texas Intermediate School 2023.jpg by Larry D. Moore, CC BY 4.0
+- Landscape Fort Stockton Texas 2023.jpg by Larry D. Moore, CC BY 4.0
+- Gym Fort Stockton Texas 2023.jpg by Larry D. Moore, CC BY 4.0
+- 1992 Chevrolet Corvette C4 ZR-1.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Rolling Sculpture Car Show 44 (1991 Chevrolet Corvette ZR-1).jpg by Michael Barera, CC BY-SA 4.0
+- 1993 Chevrolet Corvette ZR-1.jpg by unknown, CC BY-SA 3.0
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (52960614021).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette ZR-1 Coupé (C4, 1990) (55220000631).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (52960761634).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1985 Alfa Romeo GTV6 Callaway Twin Turbo, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1985 Alfa Romeo GTV6 Callaway C3 Twin Turbo, engine.jpg by Mr.choppers, CC BY-SA 3.0
+- 1985 Alfa Romeo GTV6 Callaway C3 Twin Turbo, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Callaway Corvette Twin Turbo (1988) (53768917523).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Callaway Corvette Twin Turbo (1988) (53769142230).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Callaway Corvette Twin Turbo (1990) (53769142190).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Auberge Du Tresor.jpg by Wilfredor, CC BY-SA 4.0
+- Chevrolet Corvette C6 ZR1 (28589284245).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Chevrolet Corvette C6 ZR1 (53214550742).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Chevrolet corvette C6 ZR1 white model.jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- 2009 gray Chevrolet Corvette C6 ZR1 front.JPG by BrokenSphere, CC BY-SA 3.0
+- 2009 gray Chevrolet Corvette C6 ZR1 rear.JPG by BrokenSphere, CC BY-SA 3.0
+- 2017 Formula 4 United States Championship, Virginia International Raceway (36551095090).jpg by https://www.flickr.com/photos/httpwwwflickrcombolt_the_demon_wolf/, CC BY-SA 2.0
+- Pavlo Chabanov running Toyota Supra A90 Aspida at the 2023 Hyperfest Virginia International Raceway. Huragan racing team.jpg by Alex Eddit, CC0
+- 2015 Eastern States Championships at Virginia International Raceway for the National Auto Sport Association (NASA).jpg by trailersoftheeastcoast from Mocksville, USA, CC BY 2.0
+- 2019 Chevrolet Corvette C7 ZR1 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette (C7) ZR1.jpg by BrackishStowaway, CC0
+- 2019 Chevrolet Corvette ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette ZR1 1.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (42702046075).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (55218472987).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR1 (42888656784).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0
+- Corvette ZR1 Roadster NYIAS 2018.jpg by Aab254, CC BY-SA 4.0
+- Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 convertibles IAA 2021 1X7A0184.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 8837.jpg by Alexander-93, CC BY-SA 4.0
+- Atlantis Kennedy Space Center Visitor Complex 4.jpg by Gzzz, CC BY-SA 4.0
+- Atlantis Kennedy Space Center Visitor Complex 2.jpg by Gzzz, CC BY-SA 4.0
+- Kennedy Space Center, Rocket Garden, Power of Apollo.jpg by Michael Rivera, CC BY-SA 4.0
+- Prichsenstadt Chevrolet Corvette C8-20230423-RM-164415.jpg by Ermell, CC BY-SA 4.0
+- 04366 Orange Corvette C8 convertible right back V-P.jpg by Virtual-Pano, CC BY-SA 4.0
+- 04367 Orange Chvrolet Corvette C8 convertible from right front V-P.jpg by Virtual-Pano, CC BY-SA 4.0
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2025 Indy 500 Pace Car - Chevrolet Corvette ZR1.jpg by OctaviaCombi, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 NY.jpg by IFCAR, Public domain
+- 2025 Chevrolet Corvette ZR1 (54337064388).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1927.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- Teststrecke Papenburg Luftbild.jpg by Krd, CC BY-SA 4.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1898.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- Corvette ZR1 (5483730934).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Corvette ZR1 (5583199181).jpg by Powhusku, CC BY-SA 2.0
+- Corvette ZR1 Badge (5483734104).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 2014 Rolling Sculpture Car Show 63 (2010 Chevrolet Corvette ZR1).jpg by Michael Barera, CC BY-SA 4.0
+- Corvette ZR1 avant.JPG by Lebubu93, CC BY-SA 3.0
+- PS 100 Club 01.jpg by Paul Stewart, CC BY-SA 4.0
+- Chris Barber.JPG by Jazz-gubben, Public domain
+- Chris Barber1.jpg by Heinrich Klaffs, CC BY-SA 2.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1904.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1897.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- 2013-05-03 Fotoflug Nordholz Papenburg HP 1899.JPG by Alchemist-hp (talk), CC BY-SA 3.0
+- 2026 Chevrolet Corvette ZR1X (55105784670).jpg by Mustang Joe, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565430).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208414124).jpg by Charles from Port Chester, New York, CC0
+- Cars - Lingenfelter ZR1 2009.jpg by Tony, CC BY-SA 2.0
+- Chicago Auto Show 2011 (5456052333).jpg by Tony, CC BY-SA 2.0
+- Chevrolet Corvette C8 ZR1 at Nick Gilbert Way, Hudson's Detroit.jpg by Asukite, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (5587181650).jpg by Powhusku, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 (5586583065).jpg by Powhusku, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208413994).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565290).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208321628).jpg by Charles from Port Chester, New York, CC0
+- 2024 Ford Mustang GTD 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 7.jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 911 GT2 RS 997 (5213910504).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- American la France, Bj. 1918, Nürb'r. Südschleife.JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1979 AMC Spirit AMX Nurburgring winner at 2024 AMO meet 08of44.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY 4.0
+- Rick Hendrick, 2011 Coca-Cola 600.jpg by Mike Kalasnik, CC BY-SA 2.0
+- Jeff gordon rick hendrick (28992084884).jpg by Zach Catanzareti Photo, CC BY-SA 2.0
+- Rick hendrick jeff gordon steve phelps (51431102334).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Chevrolet Corvette ZR1 (51854714920).jpg by Alexandre Prevot, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 (51887499179).jpg by Alexandre Prevot, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 -- 2011 DC.jpg by IFCAR, Public domain
+- Chevrolet Corvette C1, Bj. 1962, Cockpit.JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Chevrolet Corvette, BAS 24, Brussels (P1170425-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Chevrolet Corvette, Bj. 1963 (2017-06-11 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Chevrolet Corvette Kulmbach -20220626-RM-122539.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette C 2 Cockpit (Foto Sp 2016-06-05).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Corvette BW 1.JPG by Berthold Werner, CC BY-SA 3.0
+- Chevrolet Corvette, BAS 24, Brussels (P1170387-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 1962 Chevrolet Corvette IMG 3669.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Corvette, BAS 24, Brussels (P1170395-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Autocross September 17, 2022 (1).jpg by Sgt. Christian J. Lopez, Public domain
+- 1964 Chevrolet Corvette C2.jpg by ArildV, CC BY-SA 4.0
+- 1964 Chevrolet Corvette C2 Stockholm.jpg by ArildV, CC BY-SA 4.0
+- Corvette C1 1960.jpg by Palauenc05, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Wikipedia, Chevrolet Corvette ZR1: https://en.wikipedia.org/wiki/Chevrolet_Corvette_ZR1
+- Wikipedia, Chevrolet Corvette (C4): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C4)
+- Wikipedia, Chevrolet Corvette (C6): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)
+- Wikipedia, Chevrolet Corvette (C7): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C7)
+- Wikipedia, Callaway Cars: https://en.wikipedia.org/wiki/Callaway_Cars
+- General Motors, Corvette ZR1 hits 233 mph with GM President Mark Reuss driving: https://news.gm.com/home.detail.html/Pages/news/us/en/2024/oct/1015-zr1.html
+- Design News, GM president pilots Corvette ZR1 to 233 mph top speed: https://www.designnews.com/automotive-engineering/gm-president-pilots-corvette-zr1-to-233-mph-top-speed
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- Motor1, Chevrolet Corvette ZR1 configurator fully loaded price: https://www.motor1.com/news/750492/chevrolet-corvette-zr1-configurator-fully-loaded-price/

@@ -1,0 +1,156 @@
+# Photo credits: Corvette ZR1 vs Ferrari 296 GTB: The Difference Nobody Explains
+
+- Chevrolet Corvette C6 ZR1 (28589284245).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- SBC 2013.jpeg by Antti, CC BY 2.0
+- Auberge Du Tresor.jpg by Wilfredor, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 (C6) rear.jpg by Rutger van der Maar, CC BY 2.0
+- Chevrolet Corvette ZR1 (C6) front.jpg by Rutger van der Maar, CC BY 2.0
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- Indianapolis Motor Speedway Museum May 2026 51 (2025 Chevrolet Corvette ZR1 pace car).jpg by Michael Barera, CC BY-SA 4.0
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (1) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 - Flickr - Alexandre Prévot (3) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 1991 Chevrolet Corvette C4 ZR1.jpg by MrWalkr, CC BY-SA 4.0
+- Corvette ZR1 (6723145685).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (6723152613).jpg by Ian, CC BY 2.0
+- Corvette ZR1 (2359337345).jpg by William J Sisti from Morristown, NJ, USA, CC BY-SA 2.0
+- Corvette ZR1 (6723150887).jpg by Ian, CC BY 2.0
+- Corvette ZR1.JPG by Lazzo1 at English Wikipedia
+
+(Original text: LAZZO (talk)), CC BY 3.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Corvette ZR1 (6723143025).jpg by Ian, CC BY 2.0
+- 2019 Chevrolet Corvette C7 ZR1 LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette C6 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 Bonnet Hood Detail LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6377.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6379.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865.jpg by Alexander-93, CC BY-SA 4.0
+- Dino 246 GT Classic-Gala 2021 1X7A0278.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Dino 246 GT Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1970 Ferrari Dino 246 GT LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 1950 Ferrari 195S Inter by Vignale - V12 engine side.jpg by Mr.choppers, CC BY-SA 3.0
+- 1950 Ferrari 195S Inter by Vignale - V12 engine back.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari 195 Inter Ghia Coupé (1950) (52961240119).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette C6 ZR1 (53214550742).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Chevrolet corvette C6 ZR1 white model.jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- 2009 gray Chevrolet Corvette C6 ZR1 front.JPG by BrokenSphere, CC BY-SA 3.0
+- 2009 gray Chevrolet Corvette C6 ZR1 rear.JPG by BrokenSphere, CC BY-SA 3.0
+- Chevrolet Corvette C6 ZR1 (54119790755).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Trunk of Chevrolet Corvette C6 Z06 white.jpg by Mike Babcock from Peterborough, Ontario, Canada, CC BY 2.0
+- Ferrari 296 GTB - Paris 04.jpg by Y.Leclercq©, CC BY-SA 4.0
+- Ferrari 499P F163 2,992 cc V6 Turbo.jpg by Vsbraga, CC0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- 2009 Chevrolet C6 Corvette ZR1 Coupe (22834732513).jpg by Sicnag, CC BY 2.0
+- 2011 Chevrolet C6 Corvette Coupe (15999586018).jpg by Sicnag, CC BY 2.0
+- Corvette ZR1 (5483730934).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Ferrari 296 GTB DSC 7011.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 6997.jpg by Alexander Migl, CC BY-SA 4.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Ferrari 296 GTB 15 Berkeley Square 2024-12-19.jpg by Loco Steve, CC BY-SA 2.0
+- 2024 Ferrari 296 Berlinetta.jpg by Hugh Llewelyn, CC BY-SA 2.0
+- Ferrari 296 GTB DSC 7010.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7009.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 9043.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB MYLE Festival 2025 DSC 9456.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTS DSC 9039.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB (51370).jpg by Calreyn88, CC BY-SA 4.0
+- Cars - Lingenfelter ZR1 2009.jpg by Tony, CC BY-SA 2.0
+- Chevrolet Corvette C6 ZR1 (5228092115).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Chevrolet Corvette ZR-1 Cabriolet (C7, 2019) (55218472987).jpg by Charles from Port Chester, New York, CC0
+- Buckley Claims Victory at Denver Broncos Salute to Service Boot Camp (10043741).jpg by U.S. Space Force photo by Airman 1st Class Odette Acosta, Public domain
+- Porsche 911 GT2 RS 997 (5213910504).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Mondial de l'Automobile 2010, Paris - France (5058801784).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Relay Computer 2 (RC-2, 2007) by Jon Stanley - top view.jpg by Jeff Keyzer from Austin, TX, USA, CC BY-SA 2.0
+- Solar System to Scale to a Football Field.jpg by Tdadamemd, CC BY-SA 3.0
+- Solar Panel Covered Conapy for Cambridge University's Solar Race Car.jpg by Intel Free Press, CC BY-SA 2.0
+- Pieter Brueghel the Elder - The Dutch Proverbs - Google Art Project.jpg by Pieter Brueghel the Elder, Public domain
+- Motorcycle street drag races held in downtown Boley, Oklahoma.jpg by JamesPrattOK, CC BY-SA 4.0
+- Eight three times on car.jpg by Szelasso, CC BY-SA 4.0
+- Day 315 - West Midlands Police - Tackling Street Racers (8169532471).jpg by West Midlands Police from West Midlands, United Kingdom, CC BY-SA 2.0
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Kamasa Drag Race Week, Alastaro, 30.6.2012 (107).JPG by Markus Rantala (Makele-90), CC BY-SA 3.0
+- 53. Watford Gap, Daventry (Daventree), NE Quad. (IA dr 53-watford-gap-daventry-daventree-ne-quad-6913105).jpg by Geological Survey of Great Britain and Ireland
+Great Britain, Ordnance Survey Office, Public domain
+- Map of Rhea PIA 14928 Mar 2012.jpg by Cassini, Public domain
+- I-76 West - Exit 1C - US130 South Quarter Mile (47959263428).jpg by formulanone, CC BY-SA 2.0
+- Chevrolet Corvette ZR-1 (C4, 1995) (52960999370).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette ZR-1 (C7, 2019) (52338833941).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette ZR-1 (C7, 2019) (52339067473).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1973-05-27 Einführungsrunde 1000 km Nürburgring, Nr. 4 Cevert.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Chevrolet Corvette ZR-1 Coupé (C4, 1990) (55220000631).jpg by Charles from Port Chester, New York, CC0
+- Corvette ZR1 (5583199181).jpg by Powhusku, CC BY-SA 2.0
+- Corvette ZR1 avant.JPG by Lebubu93, CC BY-SA 3.0
+- Ferrari 296 GTB (13755).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari 296 GTB 10.jpg by Calreyn88, CC BY-SA 4.0
+- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0
+- Hotel Price Comparisons, Reviews and Features.jpg by Familydestinationsguide.com Images, CC BY 2.0
+- Teatro Circo Price - 01.jpg by Carlos Delgado, CC BY-SA 3.0
+- Chevrolet dealership florida oeste.jpg by Fernando Martello, CC BY-SA 4.0
+- Chevrolet San Jorge dealership in Villa Luro, Buenos Aires (1).jpg by Just a Man, CC BY 4.0
+- Chevrolet San Jorge dealership in Villa Luro, Buenos Aires (2).jpg by Just a Man, CC BY 4.0
+- 678th and 174th Air Defense Artillery Brigade Transfer of Authority Ceremony (7652032).jpg by U.S. Army photo by Pfc. Yesenia Cadavid, Public domain
+- 678th and 174th Air Defense Artillery Brigade Transfer of Authority Ceremony (7652030).jpg by U.S. Army photo by Pfc. Yesenia Cadavid, Public domain
+- Columbus GM New Look bus 557, preserved by Cincinnati Transit Historical Assn (2017).jpg by Darius Pinkston from Cincinnati, United States, CC BY 2.0
+- Corvette ZR1 Badge (5483734104).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Chevrolet Corvette ZR1 NY.jpg by IFCAR, Public domain
+- 2025 Chevrolet Corvette ZR1 (54337064388).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Ferrari 296 GTB (36578).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari 296 GTB red.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari 296 GTB 5.jpg by Calreyn88, CC BY 4.0
+- 2025 Ferrari 296 Speciale.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 Speciale (55112786260).jpg by Mustang Joe, CC0
+- Ferrari 296 Speciale (2026) (55080132494).jpg by Charles from Port Chester, New York, CC0
+- 2026 Chevrolet Corvette ZR1X (55105784670).jpg by Mustang Joe, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208414124).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565430).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565290).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208413994).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208321628).jpg by Charles from Port Chester, New York, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 39).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 8).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 24).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 19).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 6).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 10).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 2023 Ferrari 296 GTB 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari 296 GTB (69705).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari 296 GTB 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari 296 GTB (65654).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari 296 GTS DSC 7001.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTS DSC 6989.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTS Monaco.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano (49833).jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette C6R and Ferrari F430GTC Oschersleben2008.jpg by DoomWarrior, CC BY-SA 3.0
+- 2009 FIA GT Budapest - Cars Corvette and Ferrari.jpg by Pakos - Pásztor Ákos, Public domain
+- Enzo, Corvette C5 and SRT Viper.jpg by Supercarwaar, CC BY-SA 4.0
+- 2025 Indy 500 Pace Car - Chevrolet Corvette ZR1.jpg by OctaviaCombi, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Chevrolet Corvette C7 ZR1 2.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Wikipedia, Ferrari 296 GTB: https://en.wikipedia.org/wiki/Ferrari_296_GTB
+- Motor1, Corvette ZR1 stuns Ferrari 296 GTB in a drag race: https://www.motor1.com/news/782847/corvette-zr1-ferrari-296-hybrid-drag-race/
+- The Drive, A stock 2025 Corvette ZR1 has already beaten Chevy's official 0-60 time: https://www.thedrive.com/news/a-stock-2025-corvette-zr1-has-already-beaten-chevys-official-0-to-60-time.md
+- Kelley Blue Book, 2024 Ferrari 296 GTB: https://www.kbb.com/ferrari/296-gtb/2024/
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- GM Authority, Not all dealers are marking up the C8 Corvette ZR1: https://gmauthority.com/blog/2025/12/not-all-dealers-are-marking-up-the-c8-corvette-zr1/
+- AOL / Car and Driver data, American performance cars that beat Ferraris and Porsches for half the price: https://www.aol.com/american-performance-cars-beat-ferraris-133047428.html

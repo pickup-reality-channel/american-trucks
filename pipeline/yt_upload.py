@@ -99,7 +99,8 @@ def main(mode):
         if budget < COST_UPLOAD + (COST_THUMB if is_long else 0): break
         f = dl / f"{v:02d}-{fname}"
         if not f.exists():
-            subprocess.run(["gh", "release", "download", f"video{v:02d}", "-p", fname, "-O", str(f), "--clobber"], check=True)
+            if subprocess.run(["gh", "release", "download", f"video{v:02d}", "-p", fname, "-O", str(f), "--clobber"]).returncode:
+                print("release asset missing, skipping:", key); continue
         tags = json.load(open(f"agendamento/meta/video{v:02d}.json"))["tags"] + ([] if is_long else ["Shorts"])
         vid = upload(tok, f, title, desc, tags, at)
         if vid == "QUOTA": print("quota exhausted"); break

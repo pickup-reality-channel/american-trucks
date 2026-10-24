@@ -1,0 +1,187 @@
+# Photo credits: 2 Things You Didn't Know About the McLaren F1
+
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0
+- 1995 McLaren F1 HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 HDK (15431191211).jpg by Axion23, CC BY 2.0
+- McLaren F1 4.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GTR Longtail GIMS 2024 1X7A2265.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren F1 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 McLaren F1-1 (29891722143).jpg by naeem mayet, CC BY 2.0
+- 1996 McLaren F1 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- 1995 McLaren F1 LM 6.1 Engine.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren MP4-29H engine cover 2015 Honda F1 Exposition.jpg by Morio, CC BY-SA 3.0
+- McLaren F1 (1994) (55082189081).jpg by Charles from Port Chester, New York, CC0
+- Ford engine of the McLaren M9 A 4-wheel-drive F1 car (14478983248).jpg by Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0
+- McLaren F1 (1994) (55082448019).jpg by Charles from Port Chester, New York, CC0
+- 2016 McLaren 570S Coupe S-A (F1 1CON).jpg by Carfanatic2019, CC BY-SA 4.0
+- McLaren F1 (1995) (52960712368).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1996 McLaren F1 Chassis No 63 6.1 Front End.jpg by Chelsea Jay, CC BY-SA 4.0
+- 1995 McLaren F1 in Orange Kandy, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- McLaren F1 Villeneuve Mont-Tremblant.jpg by John Chapman (Pyrope), CC BY-SA 3.0
+- 1996 McLaren F1 interior.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- McLaren F1 GTR GT90s 2008 in Box.jpg by DoomWarrior, CC BY-SA 3.0
+- 1993 McLaren F1 (64712).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 11.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 (1995) (52960642760).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 (1995) (52960259816).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 (1995) (52959662697).jpg by Charles from Port Chester, New York, CC BY 2.0
+- BMW 850 V12.JPG by Beemwej, CC BY 3.0
+- BMW M70 engine (E31) IMG 5560.jpg by Alexander Migl, CC BY-SA 4.0
+- BMW e31 V12 PL.JPG by Beemwej, CC BY 3.0
+- 1988 McLaren-Honda MP4 4 Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- 1988 McLaren Honda MP4 4 (5732989723).jpg by David Merrett from Daventry, England, CC BY 2.0
+- 1988 McLaren-Honda MP4 4 Goodwood, 2009.JPG by Bahnfrend, CC BY-SA 3.0
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- BMW M635CSi engine PL.JPG by Beemwej, CC BY-SA 4.0
+- BMW VI Berlin 02.jpg by W2k2, CC BY-SA 3.0
+- 1995 McLaren F1 037 rear SP20.jpg by MrWalkr, CC BY-SA 4.0
+- Geneva MotorShow 2013 - McLaren F1 LM rear spoiler.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- 1996 McLaren F1 Chassis No 63 6.1 Rear.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren F1 (1995) (52959662612).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 (1995) (52960259811).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 (1995) (52959662707).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 06.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 10.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 12.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 13.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 07.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 08.jpg by Ank kumar, CC BY-SA 4.0
+- Orange McLaren F1 interior.jpg by Eliot from Las Vegas, CC BY-SA 2.0
+- McLaren F1 Le Mans interior (42707018544).jpg by Phil Guest from Bournemouth, UK, CC BY-SA 2.0
+- McLaren F1 cars Donington Grand Prix Collection.jpg by Morio, CC BY-SA 3.0
+- McLaren F1 LM.jpg by robad0b, CC BY-SA 2.0
+- McLaren F1 GTR "Harrods" at Goodwood 2014 001.jpg by Nic Redhead, CC BY-SA 2.0
+- Salon Privé London 2012 (7956729246).jpg by The Car Spy, CC BY 2.0
+- 1966 Ferrari 365 P Berlinetta Speciale HCC22.jpg by MrWalkr, CC BY-SA 4.0
+- 2 models at London Design Museum 2018.jpg by Surreal Name Given, CC BY 2.0
+- Ferrari 365 P Berlinetta Speciale ’Tre Posti’ Coupe.jpg by Calreyn88, CC BY-SA 4.0
+- Carlos Pace Brabham BT45 1976 British Grand Prix front view.jpg by Gillfoto, CC BY-SA 4.0
+- Carlos Pace Brabham BT45 1976 British Grand Prix.jpg by Gillfoto, CC BY-SA 3.0
+- Yamaha Motiv Gordon Murray Design 2013 Tokyo Motor Show.jpg by Morio, CC BY-SA 3.0
+- 1995 McLaren F1 in Orange Kandy, right side.jpg by Mr.choppers, CC BY-SA 3.0
+- FIA F1 Austria 2021 Nr. 3 Ricciardo (side).jpg by Lukas Raich, CC BY-SA 4.0
+- FIA F1 Austria 2021 Nr. 3 Ricciardo.jpg by Lukas Raich, CC BY-SA 4.0
+- 1996 McLaren F1 GTR.jpg by MrWalkr, CC BY-SA 4.0
+- Orange McLaren F1 GTR.jpg by MrWalkr, CC BY-SA 4.0
+- Beaulieu McLaren F1 GTR.JPG by This photo was taken by Przemysław JahrAutorem zdjęcia jest Przemysław JahrWykorzystując zdjęcie proszę podać jako autora:Przemysław Jahr / Wikimedia Commons, Public domain
+- 1996 McLaren F1 GTR BMW.jpg by MrWalkr, CC BY-SA 4.0
+- Silver McLaren F1 with prototype mirrors.jpg by Joe Cheng, CC BY 2.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- " 13 - ITALIAN automotive engineering - Alfa Romeo 4C chassis - monocoque carbon fiber DxO 12.jpg by youkeys, CC BY 2.0 it
+- " 13 - ITALIAN automotive engineering - Alfa Romeo 4C chassis - monocoque carbon fiber - aluminum platform (architecture) DxO 05.jpg by youkeys, CC BY 2.0 it
+- " 13 - ITALIAN automotive engineering - Alfa Romeo 4C chassis - monocoque carbon fiber - aluminum platform (architecture) DxO 04.jpg by youkeys, CC BY 2.0 it
+- McLaren MP4-12C. (16594153930).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Rohr 911 GT1 1996 (6283353306).jpg by Bill Abbott, CC BY-SA 2.0
+- Lotus Elan (29196005283).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0166).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren F1 GTR 95 P440 CPJ Ritz.jpg by Sovxx, Public domain
+- McLaren F1 GTR (74764).jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren-F1.jpg by Accord14, CC BY-SA 4.0
+- Sonoma historic motorsport festival 652010.jpg by kris wilson, CC BY 2.0
+- Mclaren F1.jpg by Calreyn88, CC BY-SA 4.0
+- Geneva MotorShow 2013 - McLaren F1 LM Details.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- McLaren F1 Team Entrance - geograph.org.uk - 7658605.jpg by Ralph Greig, CC BY-SA 2.0
+- Mclaren F1 at Goodwood Festival of Speed - geograph.org.uk - 5009278.jpg by Oast House Archive, CC BY-SA 2.0
+- McLaren F1 GTR (96035).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR (64879).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (19209).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 02.jpg by Hullian111, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 03.jpg by Hullian111, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0
+- AC Cobra Tour Auto 2014 Circuit de Dijon Prenois 12.jpg by François de Dijon, CC BY-SA 3.0
+- Ferrari 250 GT Berlinetta Tour Auto 2014 Circuit de Dijon Prenois 06.jpg by François de Dijon, CC BY-SA 3.0
+- Circuit de Dijon Prenois 01.jpg by François de Dijon, CC BY-SA 3.0
+- McLaren F1 GTR Retro Classics 2020 IMG 0268.jpg by Alexander Migl, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (10999).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1995 McLaren F1 GTR Harrods.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 GTR Harrods.jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 GTR - Andy Wallace & Justin Bell at Donington 1995 (49672809833).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- McLaren F1 GTR 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (57133).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR 4.jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 GTR - Andy Wallace & Olivier Grouillard at the Norwich Union Empire Trophy, Silverstone 4 Hours 1995 (49893798126).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Circuito de Jerez - IMG 20210122 183858 324.jpg by El Pantera, CC BY-SA 4.0
+- Circuito de Jerez (4360360194).jpg by Daniel Sancho from Málaga, Spain, CC BY 2.0
+- Circuito de Jerez - IMG 20210122 183923 032-EFFECTS.jpg by El Pantera, CC BY-SA 4.0
+- Circuit Nevers Magny-Cours.jpg by crash71100, CC0
+- French FFSA F4 Magny Cours (39215907861).jpg by Guillaume Vachey, CC0
+- French FFSA F4 Magny Cours (27440085699).jpg by Guillaume Vachey, CC0
+- The winning Mclaren F1 GTR -59 of Yannick Dalmas, Masanori Sekiya & J.J.Lehto at Ford Chicane at Le Mans 1995 (49627439822).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 1995 24 Hours of Le Mans Honda NSX in the Honda Collection Hall.JPG by Rainmaker47, CC BY-SA 3.0
+- Hall of fame Le Mans-winners 1995.JPG by OldLion, CC BY-SA 4.0
+- Le Mans 2013 (9344818251) (cropped).jpg by Surreal Name Given, CC BY 2.0
+- Le Mans 2013 (9344824137) (cropped).jpg by Surreal Name Given, CC BY 2.0
+- Le Mans 2013 (9344833109).jpg by Surreal Name Given, CC BY 2.0
+- WR LMP2 - Bouvet, Gommendy & Briere leads Porsche GT3-RS, Courage C65, Ferrari 550 Maranello in the Esses at the 2004 Le Mans (50880355613).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Courage C51 - Marc Goosens, Jean-Philippe Belloc & Didier Cottaz chases Porsche 993 GT2 - Michael Trunk, Ernst Palmberger & Berhard Muller in the Esses at the 1998 Le Mans (51849778576).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Courage-Oreca Judd LC70 - Pierre Ragues, Franck Mailleux & Didier Andre enters Dunlop Chicane ahead of Porsche RS Spyder at the 2009 Le Mans (55067560915).jpg by Martin Lee from London, UK, CC BY-SA 4.0
+- St Peter's church Smallburgh Norfolk (2932203123).jpg by David from Colorado Springs, United States, CC BY 2.0
+- St Peter and St Paul's church Knapton Norfolk (2948561073).jpg by David from Colorado Springs, United States, CC BY 2.0
+- Le Mans 2007 - Night.jpg by Mike Roberts from London, United Kingdom, CC BY-SA 2.0
+- The 3rd place Mclaren F1 GTR -51 team of Andy Wallace, Derek Bell & Justin Bell on the podium at Le Mans 1995 (49627171486).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Mclaren F1 GTR -51 - Derek Bell, Justin Bell & Andy Wallace at Ford Chicane at Le Mans 1995 (49626648098).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Mclaren F1 GTR -51 - Derek Bell, Justin Bell & Andy Wallace on the pit straight at Le Mans 1995 (49626650168).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Derek Bell 2014 Group C race Le Mans.JPG by Felix7black7, CC BY-SA 4.0
+- Kremer K8 - Derek Bell, Jurgen Lassig & Robin Donovan exits the Esses at the 1994 Le Mans (31933400076).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Kremer K8 - Derek Bell, Jurgen Lassig & Robin Donovan at the 1994 Le Mans (31596521140).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Jaguar XJ - Night and Day with Andy Wallace (23119156169).jpg by Jaguar MENA, CC BY 2.0
+- Jaguar XJ - Night and Day with Andy Wallace (23378636822).jpg by Jaguar MENA, CC BY 2.0
+- Andy Wallace leads Uwe Alzen towards Mcleans (39780014643).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 1995 McLaren F1 GTR 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1995 McLaren F1 GTR 2.jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 GTR.jpg by MrWalkr, CC BY-SA 4.0
+- PierLuigi Martini & Yannick Dalmas celebrate on the podium at the 1999 Le Mans (51889440076).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Official commentator, Bruno Vandestick, chats to 3rd placed Porsche 911 GT1 drivers Karl Wendlinger, Scott Goodyear and Yannick Dalmas on the podium at the 1996 Le Mans (51701460137).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Winners Hurley Haywood, Mauro Baldi & Yannick Dalmas on the podium at the 1994 Le Mans (31933290796).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- The Podium at Le Mans 1995 (49627443902).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Wall of death car at Le Mans 1995 (49627443707).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Main Grandstand and Race control at Le Mans 1995 (49627443572).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 72127 etival-les-le-mans mairie.jpg by Touzé Eric, CC BY-SA 4.0
+- Le Mans - mairie 01.jpg by Fab5669, CC BY 4.0
+- Hôtel Ville - Le Mans (FR72) - 2026-07-31 - 7.jpg by Chabe01, CC BY-SA 4.0
+- McLaren F1 GTR (11509).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR (76227).jpg by Calreyn88, CC BY-SA 4.0
+- Rétromobile 2018 - McLaren F1 GTR - 1995 - 001.jpg by Thesupermat, CC BY-SA 4.0
+- 2016 McLaren P1 GTR LM (Lanzante Motorsport - 6 exemplaires - prix neuf - 3.600.000 €).jpg by el.guy08_11, CC BY-SA 2.0
+- 1994 McLaren F1 GTR 2R Le Mans.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 McLaren F1 GTR 16R.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 McLaren F1 GTR HCC25.jpg by MrWalkr, CC BY-SA 4.0
+- Rétromobile 2018 - McLaren F1 GTR - 1995 - 002.jpg by Thesupermat, CC BY-SA 4.0
+- 1995 McLaren F1 GTR Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- McLaren F1 GTR Longtail (49899862538).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- 1997 McLaren F1 GTR Longtail (88283).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 (93700).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 (29055325197).jpg by Neil, CC BY 2.0
+- Ehra Testgelande.JPG by Vanellus, CC BY-SA 3.0
+- Sprint Grid Top 3 - Chinese GP 2024.jpg by Liauzh, CC BY-SA 4.0
+- McLaren F1 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1998 McLaren F1 HDK RMS.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 with LM Spec Upgrades (20376195369).jpg by Axion23, CC BY 2.0
+- Martin A. Fontijne - Gordon Murray en el F1 de Alain Prost, serie Netflix.jpg by Fonti222, CC BY-SA 4.0
+- Air Mens Memorial St Edward's Leek.jpg by Memorialman, CC BY-SA 4.0
+- 2024 Gordon Murray T50.jpg by Calreyn88, CC BY-SA 4.0
+- Gordon Murray Automotive T50 14.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T50 2023.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T33S 2025.jpg by Calreyn88, CC BY 4.0
+- 2024 McLaren W1 SP25.jpg by MrWalkr, CC BY-SA 4.0
+- 2025 McLaren W1 FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 McLaren W1 SP 25.jpg by MrWalkr, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Wikipedia, 1995 24 Hours of Le Mans: https://en.wikipedia.org/wiki/1995_24_Hours_of_Le_Mans
+- Motor Sport magazine, Won for the road: McLaren's unlikely 1995 Le Mans win (June 2005): https://www.motorsportmagazine.com/archive/article/june-2005/52/won-road/
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
+- SlashGear, Here's How Fast The McLaren F1 Really Is: https://www.slashgear.com/1105554/heres-how-fast-the-mclaren-f1-really-is

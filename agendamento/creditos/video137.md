@@ -1,0 +1,93 @@
+# Photo credits: 2 Secrets Hidden Inside the Porsche 918 Spyder
+
+- Porsche 918 Spyder IAA 2013.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder concept 1X7A6623.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder 4.6.jpg by Chelsea Jay, CC BY-SA 4.0
+- Porsche 918 Spyder in the Porsche-Museum (2009) 1X7A0382.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 Spyder IAA 2013 (Zuschnitt).jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht links.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht rechts.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder Illinois.jpg by UltraTech66, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 19.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 17.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 15.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 14.jpg by Ank Kumar, CC BY-SA 4.0
+- Exhaust of the Spyder (32365977614).jpg by Paulius Malinovskis from Uppsala, Sweden, CC BY 2.0
+- Porsche 918 RSR Studie (2011) in the Porsche-Museum (2009) 1X7A0381.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 RSR Studie (2011) in the Porsche-Museum (2009) 1X7A0380.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (14567).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (71847).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (60264).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (60043).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (99627).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (71370).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (25874).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (2015) (53627342815).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 918 Spyder (2015) (53626901731).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 918 Spyder (2015) (53627342830).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 918 Spyder (52693869403).jpg by John Bauld from Toronto, Canada, Public domain
+- Porsche 918 Spyder (2015) (53618560167).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 918 Spyder (2015) (55215057259).jpg by Charles from Port Chester, New York, CC0
+- Porsche 918 Spyder (2015) (55214811201).jpg by Charles from Port Chester, New York, CC0
+- Porsche 918 Spyder (2015) (55213913792).jpg by Charles from Port Chester, New York, CC0
+- Porsche 918 Spyder (2015) (55214811166).jpg by Charles from Port Chester, New York, CC0
+- 2015 Porsche 918 Spyder Rear Quarter LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder in Mexico Blue HCC 25 rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder, rear right, 06-08-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (26526).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (2015) (55215210245).jpg by Charles from Port Chester, New York, CC0
+- IAA 2013 (11148546466).jpg by Robert Basic from Germany, CC BY 2.0
+- Porsche 918.JPG by Sadik Khalid at Malayalam Wikipedia, Public domain
+- Porsche 918 Spyder SAO 2014 0281.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0275.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0274.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0279.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0273.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0280.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 Spyder SAO 2014 0282.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Porsche 918 RSR (6113013323).jpg by Ross, CC BY-SA 2.0
+- Porsche 918 with Weissach Package (16980498461).jpg by Axion23, CC BY 2.0
+- Porsche 918 Spyder with Weissach Package (20022564930).jpg by Axion23, CC BY 2.0
+- Riviera Blue Porsche 918 with Weissach Package (20812488212).jpg by Axion23, CC BY 2.0
+- Techno-Classica 2025, Essen (P1045492).jpg by Matti Blume, CC BY-SA 4.0
+- DSC 7701 (18241619921).jpg by Rahil Rupawala, CC BY 2.0
+- Porsche Carrera GT, Techno-Classica 2025, Essen (P1046086).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche, Techno-Classica 2018, Essen (IMG 9380).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche Carrera GT Classic-Gala 2025 DSC 0837.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015-03-03 Geneva Motor Show 4156.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2015-03-03 Geneva Motor Show 3272.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2015-03-03 Geneva Motor Show 4155.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Cathedral of the Holy Trinity, Quebec city, Canada 001.jpg by Wilfredor, CC0
+- Holy Trinity Sloane Street Church Nave 2 - Diliff.jpg by Diliff, CC BY-SA 3.0
+- Holy Trinity Church, Fingerpost 1.jpg by Rodhullandemu, CC BY-SA 4.0
+- Chevy Volt Display (12493194744).jpg by artistmac, CC BY-SA 2.0
+- Hybrid Electric Road Train (HERT) Outdoor Front.jpg by RoyKabanlit, CC BY-SA 4.0
+- Toyota Prius being tested at Argonne National Laboratory.jpg by ENERGY.GOV, Public domain
+- Porsche 918 Spyder Weissach Package (49866095302).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Porsche 918 Spyder Weissach Package (35894559670).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 2014 Porsche 918 Spyder - Weissach Package.jpg by Edvvc on Flickr : https://www.flickr.com/photos/edvvc/, CC BY 2.0
+- Porsche 918 Spyder (50644278501).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Porsche 918 Spyder (28227533041).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Porsche 918 Spyder (16303543220).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 18.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 16.jpg by Ank Kumar, CC BY-SA 4.0
+
+## Sources
+
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- Auto123, Porsche releases 918 Spyder details (March 2012): https://www.auto123.com/en/news/porsche-releases-918-spyder-details/11807
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most

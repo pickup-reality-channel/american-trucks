@@ -1,0 +1,107 @@
+# Photo credits: Ram TRX vs Raptor R: The Difference Nobody Explains
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 Raptor 3.5T 2019.jpg by RL GNZLZ, CC BY-SA 2.0
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- Ford F-150 Raptor 3.5T 2018 (45840639514).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
+- Ford F-150 Raptor (49522651482).jpg by crash71100, CC0
+- Ford F-150 Raptor (49522651487).jpg by crash71100, CC0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- White 2010-14 Ford F-150 SVT Raptor on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- 2015 Dodge Challenger SRT Hellcat (21607516352).jpg by Sicnag, CC BY 2.0
+- 2016 Dodge Challenger Hellcat.jpg by hugh llewelyn, CC BY-SA 4.0
+- Dodge Challenger SRT Hellcat supercharged V8 engine (16133643100).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
+- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Shelby, Paris Motor Show 2018, Paris (1Y7A1544).jpg by Matti Blume, CC BY-SA 4.0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Ford F-150 Shelby Super Snake.jpg by Calreyn88, CC BY-SA 4.0
+- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
+- 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
+- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
+- Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
+- Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- 1991 Ford F-150.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 (P552) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- Red Eighth Gen Ford F-150.jpg by Noah Wulf, CC BY-SA 4.0
+- NHP Ford F-150 at Las Vegas Motor Speedway - Aviation Nation 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- 2025 Ford F-150 Supertruck.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
+- '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
+- RAM pickup - Russia.jpg by GennadyL, CC0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 01.jpg by Retired electrician, CC0
+- Moscow, Ram truck in grey-blue patterns, Apr 2026 02.jpg by Retired electrician, CC0
+- Leimershof US-Car-Treffen Ram 1500 Hemi Laramie -20220911-RM-153927.jpg by Ermell, CC BY-SA 4.0
+- Dodge RAM 1500 in Switzerland.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 2025 RAM 1500 REV, front NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- Ram 1500 Classic (black).jpg by Calreyn88, CC BY-SA 4.0
+- Muddy White Ram 1500 (DT).jpg by Noah Wulf, CC BY-SA 3.0
+- Ram 1500 (14716).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive.jpg by Calreyn88, CC BY-SA 4.0
+- 2014 Ram 1500 HEMI 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 Hemi e-Drive 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ram 1500.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ram 1500 Hemi 5.7.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 Limited.jpg by Calreyn88, CC BY 4.0
+- 2025 RAM 1500 REV, rear NYIAS 2023.jpg by Kevauto, CC BY-SA 4.0
+- RAM 1500 at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- RAM 1500 Classic Crew Cab.jpg by Ruben de Rijcke, CC BY-SA 4.0
+- RAM 1500.jpg by Ee2mba, CC BY-SA 4.0
+- 2025 RAM 5500.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ford F-150 Raptor (52018126368).jpg by crash71100, CC0
+- Ford F-150 SVT Raptor 2012 (53169362716).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford F-150 Raptor 2011 (26427673837).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Nevada State Fire Marshal Ram Truck On Eastern Ave.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof 7. US-Car-Treffen Ram 1500 (DT)-20230909-RM-170332.jpg by Ermell, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Wikipedia, Ford F-150 Raptor: https://en.wikipedia.org/wiki/Ford_F-150_Raptor
+- Motor1, 2023 Ford F-150 Raptor R matches 700 horsepower with $110,000 price tag: https://www.motor1.com/news/598778/2023-ford-f150-raptor-r-700hp-price-official/
+- Motor1, 2023 Ford F-150 Raptor R review (Jeff Perez): https://www.motor1.com/reviews/682058/2023-ford-f-150-raptor-r/
+- Motor Authority, 2023 Ford F-150 Raptor R roars with 700 hp for $109,145: https://www.motorauthority.com/news/1136512_2023-ford-f-150-raptor-r-price
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Autoblog, I test drove the 2025 Ford Raptor R (Kyle Edward): https://www.autoblog.com/reviews/i-test-drove-the-2025-ford-raptor-r-heres-the-real-verdict
+- Autoblog, 2026 Ford F-150 Raptor review, specs, pricing and warranty: https://www.autoblog.com/cars/ford/f-150-raptor/2026
+- Ford, Ford Performance Parts unleashes 900+ HP F-150 Raptor R project vehicle at SEMA: https://www.fromtheroad.ford.com/us/en/articles/2025/f-150-raptor-r-project-vehicle
+- Forbes (Michael Harley), Ford CEO hints at future V8-powered F-150 Raptor R hybrid: https://www.forbes.com/sites/michaelharley/2026/01/25/ford-ceo-hints-at-future-v8-powered-f-150-raptor-r-hybrid/
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX? (Brian Normile): https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Edmunds, 2023 Ford F-150 True Cost to Own: https://www.edmunds.com/ford/f-150/2023/cost-to-own/
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/

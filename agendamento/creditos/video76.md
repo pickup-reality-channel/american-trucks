@@ -1,0 +1,179 @@
+# Photo credits: The Insane Story Behind the Mid-Engine Corvette
+
+- 2022 Chevrolet Corvette C8 Stingray LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray LC24 Low.jpg by MrWalkr, CC BY-SA 4.0
+- Chevrolet Corvette C8 Stingray Convertible.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Chevrolet Corvette C8 Stingray Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray Auto.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray Auto 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray Auto 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1948 Allard K1 Touring (24584554466).jpg by Sicnag, CC BY 2.0
+- 1973 Aerovette (32379982731).jpg by Prayitno / Thank you for (12 millions +) view from Los Angeles, USA, CC BY 2.0
+- 1951 Allard J2 Roadster (31310349055).jpg by Sicnag, CC BY 2.0
+- 1951 Allard J2 Roadster (23256395389).jpg by Sicnag, CC BY 2.0
+- 1954 Porsche 550 RS Spyder Le Mans.jpg by MrWalkr, CC BY-SA 4.0
+- 1955 Porsche 550 Spyder (32049588941).jpg by David Merrett from Daventry, England, CC BY 2.0
+- 1958 Porsche 550 Spyder.jpg by Dave Hamster, CC BY 2.0
+- 1955 Porsche 550 Spyder (31869457691).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Porsche 550 Spyder by Wendler (54330552182).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- SunTrust DP Corvette 2012.jpg by Matt Lewis, CC BY-SA 2.0
+- WGI Historics 2023 17.jpg by SmackJam, CC BY-SA 4.0
+- WGI Historics 2023 21.jpg by SmackJam, CC BY-SA 4.0
+- Brussel Regentschapsstraat 1900s.jpg by Unknown authorUnknown author, Public domain
+- Cottereau (1901) at Autoworld Brussels (8107845912).jpg by Thomas Quine, CC BY 2.0
+- Jean Piat (1900) at Autoworld Brussels (8423203714).jpg by Thomas Quine, CC BY 2.0
+- Porsche 550 A, Bj. 1956, vorn (2018-06-30 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 550, Bj. 1956, vorn Seite (2018-06-30 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 550, Bj. 1956, Heck (2018-06-30 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1953 Chevrolet Corvette rear.jpg by TTTNIS, CC0
+- 1953 Chevrolet Corvette front.jpg by TTTNIS, CC0
+- 1953 Chevrolet Corvette Convertible owned by John Wayne.jpg by Andromeda2064, CC BY-SA 4.0
+- 1932 Ford Roadster Hot Rod (23781059543).jpg by Sicnag, CC BY 2.0
+- 1932 Ford Roadster Hot Rod (16068067015).jpg by Sicnag, CC BY 2.0
+- 1932 Ford Roadster Hot Rod (16011421149).jpg by Sicnag, CC BY 2.0
+- Corvette 1953 Blue Flame in-line 6 Engine.JPG by Kowloonese, CC BY-SA 3.0
+- Corvette 1953 engine.JPG by Kowloonese, CC BY-SA 3.0
+- 1953 Corvette and 2013 60th Anniversary Corvette (6871662501).jpg by artistmac, CC BY-SA 2.0
+- 1957 Chevrolet Corvette C1 Fuel Injection LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 1957 Chevrolet Corvette Roadster.jpg by Sicnag, CC BY 2.0
+- 1961 Chevrolet C1 Corvette Roadster (15455293442).jpg by Sicnag, CC BY 2.0
+- Le Mans disaster aftermath.jpg by Geoffrey Charles/Daily Mirror - Distributed by the Associated Press, Public domain
+- 1955 Maserati 300S sn 3061 Le Mans Classic 2012.jpg by ZANTAFIO56 from FRANCE, CC BY-SA 2.0
+- 1955 Ferrari 625 LM sn0612MDTR at Le Mans Classic 2010.jpg by ZANTAFIO56 from FRANCE, CC BY-SA 2.0
+- 1963 Chevrolet Corvette Z06.jpg by JaseMan, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24698407446).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24356943329).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1959 Cheverolet Corvette Sting Ray.jpg by James Emery from Douglasville, United States, CC BY 2.0
+- Sting Ray exhaust.jpg by James Emery from Douglasville, United States, CC BY 2.0
+- Sting Ray cockpit.jpg by James Emery from Douglasville, United States, CC BY 2.0
+- CN-RMR-Boeing727-1981.jpg by MilborneOne, CC BY-SA 3.0
+- Cologne Germany Pipeline-marker-of-RMR-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- 718 Boxster S in Chalk.jpg by Alex Cooper, CC BY 4.0
+- 1960 General Motors CERV I.jpg by Michel Curi, CC BY 2.0
+- Cerv039.jpg by Midamerica08, Public domain
+- CERV2.jpg by Michel Curi, CC BY 2.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 03.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Corvette CERV Concept (9200684970).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Chevrolet Corvette Stingray C8 (49566950713).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Ford GT40 (1966) Solitude Revival 2022 1X7A0005.jpg by Alexander Migl, CC BY-SA 4.0
+- Würgauer Bergrennen 2022 Ford GT40-20220911-RM-100609.jpg by Ermell, CC BY-SA 4.0
+- IMG 6449-Ford GT40 Mk1-Le Mans Classic 2018.jpg by Éric Manesse, CC BY-SA 4.0
+- 2017 Ford GT LeMans Racecar (45331846451).jpg by Sicnag, CC BY 2.0
+- Xbox 1966 GT40 Mk. II Tribute Controller.jpg by Microsoft Corporation, CC BY-SA 4.0
+- Ford GT40 (1966) (18678242328).jpg by Kevin Decherf from Nantes, France, CC BY-SA 2.0
+- Chevrolet Corvette Astro II XP-880 (1968) (52337875617).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Some kinda concept car, I think (5194521319).jpg by Ole Bendik Kvisberg, CC BY 2.0
+- Rage Against the Machine Touring Van - Rock and Roll Hall of Fame (2014-12-30 11.12.47 by Sam Howzit).jpg by Sam Howzit, CC BY 2.0
+- De Tomaso Pantera (2014-06-15 Oldt AC M - Sp re.).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- De Tomaso Pantera (Sp 2014-06-15b).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- De Tomaso Pantera (2017-06-11 Foto Spurzem).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Chevrolet Corvette Aerovette XP-882 (1973) (52339134934).jpg by Charles from Port Chester, New York, CC BY 2.0
+- De Tomaso Pantera (1971) Solitude Revival 2022 1X7A0116.jpg by Alexander Migl, CC BY-SA 4.0
+- 1971 De Tomaso Pantera 1.jpg by Calreyn88, CC BY-SA 4.0
+- De Tomaso Pantera De Luxe (209527099).jpeg by Tasha Carl, CC BY 3.0
+- 1972 Chevrolet XP-895 (9200693160).jpg by Eric Kilby from Somerville, MA, USA, CC BY-SA 2.0
+- Chevrolet Corvette 'Reynolds Aluminum' XP-895 (1972) (52337875247).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette 'Reynolds Aluminum' XP-895 (1972) (52337876242).jpg by Charles from Port Chester, New York, CC BY 2.0
+- NSU Ro 80 (52576073981).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- NSU Ro 80 (52575616607).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- NSU Ro 80 (52575616397).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
+- U.S. gas rationing stamps 1974.jpg by Warren K. Leffler, U.S. News & World Report Magazine, Public domain
+- Eskibel - Señal Castillo-5 01.jpg by Basotxerri, CC BY-SA 4.0
+- Libyan Oil Facility - Flickr - The Central Intelligence Agency.jpg by The Central Intelligence Agency, Public domain
+- DeLorean DMC-12 BW 2017-07-16 15-10-09.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-08-14.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
+- Aerovette.jpg by Steve Jurvetson from Menlo Park, USA, CC BY 2.0
+- National Corvette Museum (49421067107).jpg by zombieite, CC BY 2.0
+- National Corvette Museum (49421067357).jpg by zombieite, CC BY 2.0
+- Chevrolet mid-engine Corvette concept (31649239105).jpg by zombieite, CC BY 2.0
+- 1959 Sting Ray (rear).jpg by James Emery from Douglasville, United States, CC BY 2.0
+- 1959 Chevrolet Corvette C1 Series 2 Roadster (2013 Racv Motorclassica) (10492128923).jpg by Chris Phutully from Australia, CC BY 2.0
+- 1959 Chevrolet Corvette C1 Series 2 Roadster (2013 Racv Motorclassica) (10491926504).jpg by Chris Phutully from Australia, CC BY 2.0
+- Yellow Datsun 240Z dllu.jpg by Dllu, CC BY-SA 4.0
+- 1971 Datsun 240Z East African Safari Rally.jpg by TTTNIS, CC0
+- 1973 Datsun 240Z white.jpg by Calreyn88, CC BY 4.0
+- 1990 C4 Corvette front.jpg by NickWilson1964, CC BY-SA 4.0
+- 1990 Corvette C4 front view.jpg by NickWilson1964, CC BY-SA 4.0
+- 1990 C4 Corvette overhead view.jpg by NickWilson1964, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- National Corvette Museum, KY.JPG by Jonrev at English Wikipedia, Public domain
+- National Corvette Museum from Above.jpg by RyanEichlerNCM, CC BY-SA 4.0
+- National Corvette Museum (49421066917).jpg by zombieite, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Yield To Corvette Traffic (38088146181).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
+- Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 8837.jpg by Alexander-93, CC BY-SA 4.0
+- 04366 Orange Corvette C8 convertible right back V-P.jpg by Virtual-Pano, CC BY-SA 4.0
+- 2022 Chevrolet Corvette, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 2022 Chevrolet Corvette C8 Stingray Auto 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray Auto 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Chevrolet Corvette C8 Stingray Auto gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Chevrolet Corvette C8 Stingray Convertible A.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Stingray (C8) Washington DC Metro Area, USA (6).jpg by OWS Photography, CC BY 4.0
+- 04367 Orange Chvrolet Corvette C8 convertible from right front V-P.jpg by Virtual-Pano, CC BY-SA 4.0
+- Prichsenstadt Chevrolet Corvette C8-20230423-RM-164415.jpg by Ermell, CC BY-SA 4.0
+- Chevrolet Corvette C8 convertibles IAA 2021 1X7A0184.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 2537.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Corvette C8 4.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette C8 Bahrain 2021.jpg by Mohammed Hamad, CC BY-SA 4.0
+- 2020-2027 Chevrolet Corvette, red, front right side, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- Chevrolet Corvette C8 5.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette C8 3.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette C8 2.jpg by Calreyn88, CC BY-SA 4.0
+- A Chevrolet Corvette C8.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Corvette C8 (Rocky Mountains).jpg by A Schwarzenegger, CC0
+- Shops along Fountain Square in Bowling Green, Kentucky 2008.JPG by OPMaster at en.wikipedia, CC BY-SA 3.0
+- Interstate 165 north of Bowling Green, Kentucky March 18, 2023.jpg by Tails Wx, CC BY-SA 4.0
+- Bowling Green, MO.jpg by Paul Sableman, CC BY 2.0
+- Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg by Rbdesimone, CC BY-SA 4.0
+- Batmobile.jpg by Rick debruhl, CC BY-SA 3.0
+- 1968 Dodge Charger (49311456593).jpg by George, CC BY-SA 2.0
+- Chevrolet Corvette C8 ZR1 at Nick Gilbert Way, Hudson's Detroit.jpg by Asukite, CC BY-SA 4.0
+- Chevrolet Corvette C8 - August 2023 - Sarah Stierch.jpg by Missvain, CC BY 4.0
+- Lime green 2026 Chevrolet Corvette C8.jpg by Gogerr, CC BY-SA 4.0
+- Chevrolet Corvette Stingray (C8).jpg by Ghostofakina, CC BY-SA 4.0
+- MIAS 2024 - 2024 Chevrolet Corvette C8 6.2 LT2 V8 interior.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet Corvette C8 - July 2023 - Sarah Stierch 01.jpg by Missvain, CC BY 4.0
+- Corvette E-Ray (54336528524).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Chevrolet Corvette E-Ray.jpg by UltraTech66, CC BY-SA 4.0
+- 2025 Chevrolet Corvette E-Ray 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2026 Chevrolet Corvette ZR1X (55105784670).jpg by Mustang Joe, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208414124).jpg by Charles from Port Chester, New York, CC0
+- Chevrolet Corvette ZR-1X Coupé (C8, 2026) (55208565430).jpg by Charles from Port Chester, New York, CC0
+- 1967 Ford Gt 40 Mk Iv J5 (73530341).jpeg by Doug Fawley, CC BY 3.0
+- 1967 Ford Gt 40 Mk Iv J5 (73530343).jpeg by Doug Fawley, CC BY 3.0
+- 2026 Ford GT Mark IV SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Corvette Racing Chevrolet Corvette C8.R pit sign during the pitwalk at the 2023 Le Mans (53468235884).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone at Dunlop Chicane at the 2023 Le Mans (53368499761).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone in the Esses at the 2023 Le Mans (53378106489).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Corvette C8 interior.jpg by MN, CC BY-SA 4.0
+- Black Chevrolet Corvette C8.jpg by בר, CC BY-SA 3.0
+- MIAS 2024 - 2024 Chevrolet Corvette C8 6.2 LT2 V8.jpg by Ethan Llamas, CC BY-SA 4.0
+- Chevrolet Corvette Z06 2006 Ulva.jpg by Staffan Andersson, CC BY-SA 4.0
+- 2007 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- ChevroletCorvetteZ06.jpg by Jason Lawrence, CC BY 2.0
+- C8R Sunset (49549846607).jpg by Osajus Photography from Asheville, NC, United States, CC BY 2.0
+
+## Sources
+
+- Wikipedia, Zora Arkus-Duntov: https://en.wikipedia.org/wiki/Zora_Arkus-Duntov
+- Driven (NZ), The 'Father of the Corvette' always wanted a middle child (June 2022): https://www.drivencarguide.co.nz/news/the-good-oil-father-of-the-corvette-always-wanted-a-middle-child
+- CorvSport, Mid-engine Corvette prototypes: XP-882: https://www.corvsport.com/mid-engine-corvette-prototypes-xp-882/
+- Hagerty, How the Corvette Z06 went from '60s racing package to modern monster: https://hagerty.com/media/?p=257365
+- Motor Authority, The 2023 Corvette Z06 exists because of Zora Arkus-Duntov: https://www.motorauthority.com/news/1136291_the-2023-chevrolet-corvette-z06-exists-because-of-zora-arkus-duntov
+- AP via WFYI, Corvette goes mid-engine for first time to raise performance (July 2019): https://www.wfyi.org/news/articles/corvette-goes-mid-engine-for-first-time-to-raise-performance
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- GM Authority, C8 Corvette production now officially underway (Feb 2020): https://gmauthority.com/blog/2020/02/c8-corvette-production-now-officially-underway/
+- The Peak, First production C8 Corvette auctioned for $3 million (Jan 2020): https://www.thepeakmagazine.com.sg/lifestyle/chevy-c8-corvette
+- GM Authority, 2026 Corvette pricing uncovered: https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Corvette Blogger, Ford needed a non-production race car to beat the ZR1X Nürburgring record (Apr 2026): https://www.corvetteblogger.com/2026/04/04/video-ford-needed-a-non-production-race-car-to-beat-the-corvette-zr1xs-record-at-the-nurburgring/
+- Top Gear, Corvette ZR1X fastest American car around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring

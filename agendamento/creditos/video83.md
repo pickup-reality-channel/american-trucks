@@ -1,0 +1,133 @@
+# Photo credits: What It Really Costs to Own a McLaren F1 Today
+
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0
+- 1995 McLaren F1 HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 HDK (15431191211).jpg by Axion23, CC BY 2.0
+- McLaren F1 4.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 McLaren F1-1 (29891722143).jpg by naeem mayet, CC BY 2.0
+- McLaren F1 GTR Longtail GIMS 2024 1X7A2265.jpg by Alexander-93, CC BY-SA 4.0
+- 1998 McLaren F1 HDK RMS.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 with LM Spec Upgrades (20376195369).jpg by Axion23, CC BY 2.0
+- 1993 McLaren F1 (64712).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 12.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 10.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 13.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 06.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- 1996 McLaren F1 Chassis No 63 6.1 Front End.jpg by Chelsea Jay, CC BY-SA 4.0
+- 1996 McLaren F1 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- 1995 McLaren F1 in Orange Kandy, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- McLaren F1 Villeneuve Mont-Tremblant.jpg by John Chapman (Pyrope), CC BY-SA 3.0
+- 1996 McLaren F1 interior.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- McLaren MP4-12C. (16594153930).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- McLaren2007.JPG by Siztrust, CC BY-SA 3.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 11.jpg by Ank kumar, CC BY-SA 4.0
+- Mr. McClure's 1 43 collection- and one of mine. Racing Cars F1, Le Mans, Can-Am, WRC (5369044089).jpg by Bill Abbott, CC BY-SA 2.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 07.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 08.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren-BMW F1 GTR - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- 1997 Mclaren F1 GTR (53878171910).jpg by David Merrett from Daventry, England, CC BY 2.0
+- 1999 BMW V12 LMR FOS22.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 McLaren F1 FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 GTR 3.jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 at Goodwood Festival of Speed - geograph.org.uk - 5009278.jpg by Oast House Archive, CC BY-SA 2.0
+- McLaren F1 (1994) (55082189081).jpg by Charles from Port Chester, New York, CC0
+- McLaren F1 (1994) (55082448019).jpg by Charles from Port Chester, New York, CC0
+- McLaren F1 (1995) (52960712368).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren F1 GTR (74764).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 (93700).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GTR (96035).jpg by Calreyn88, CC BY-SA 4.0
+- Beaulieu McLaren F1 GTR.JPG by This photo was taken by Przemysław JahrAutorem zdjęcia jest Przemysław JahrWykorzystując zdjęcie proszę podać jako autora:Przemysław Jahr / Wikimedia Commons, Public domain
+- McLaren F1 (26687547702).jpg by Steve Ginn from Western Washington, United States, CC0
+- 1995 McLaren F1 (54580728692).jpg by Tomás Del Coro from Fabulous Las Vegas, Nevada, USA, CC BY-SA 4.0
+- Mclaren F1 GTR - Andy Wallace & Justin Bell at the Old Hairpin at Donington 1995 (49673350871).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Watkin old F1 car (475541594).jpg by allen watkin from London, UK, CC BY-SA 2.0
+- Alonso + Hamilton 2009 Turkey.jpg by Mark McArdle from Canada, CC BY-SA 2.0
+- McLaren F1 (4087386362).jpg by Chris Worden from UK, CC BY 2.0
+- McLaren F1 (4087381872).jpg by Chris Worden from UK, CC BY 2.0
+- McLaren F1 GTR GT90s 2008 in Box.jpg by DoomWarrior, CC BY-SA 3.0
+- Rowan Atkinson on a Mini at Goodwood Circuit in 2009.jpg by Nathan Wong, CC BY 2.0
+- Rowan Atkinson on a Mini at Goodwood Circuit in 2009 (cropped).jpg by Nathan Wong, CC BY 2.0
+- Rowan Atkinson on a Mini at Goodwood Circuit in 2009 (cropped)7.jpg by Nathan Wong, CC BY 2.0
+- 1997 McLaren F1 GTR Longtail (10999).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (19209).jpg by Calreyn88, CC BY-SA 4.0
+- Orange McLaren F1 interior.jpg by Eliot from Las Vegas, CC BY-SA 2.0
+- F1 2012 Jerez test - McLaren 4.jpg by Gil Abrantes from Portugal, CC BY 2.0
+- F1 2012 Jerez test - McLaren 5.jpg by Gil Abrantes from Portugal, CC BY 2.0
+- 2011 Australian GP McLaren.jpg by Tom Reynolds from Melbourne, Australia, CC BY 2.0
+- New Body Plans (3529299478).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- 1996 McLaren F1 GTR (64879).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 Chassis No 63 6.1 Rear.jpg by Chelsea Jay, CC BY-SA 4.0
+- Orange McLaren F1 GTR.jpg by MrWalkr, CC BY-SA 4.0
+- 1994 McLaren F1-2 (29891734483).jpg by naeem mayet, CC BY 2.0
+- 1994 McLaren F1-3 (30226467720).jpg by naeem mayet, CC BY 2.0
+- McLaren F1 (29055325197).jpg by Neil, CC BY 2.0
+- McLaren F1 (4473831248).jpg by Andrew Smith from Seattle, WA, USA, CC BY-SA 2.0
+- Fale F1 Monza 2004 73.jpg by Fabio Alessandro Locati, CC BY-SA 3.0
+- McLaren F1 GTR Longtail (49899862538).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- McLaren F1 GTR (54489770888).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- McLaren F1 GTR Longtail (54334260603).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Hongqi S9 Concept (48800427341).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- Hongqi S9 Concept (48800571577).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- Hongqi S9 Concept (48800427661).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- 2022 McLaren 765LT Spider MSO1.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 McLaren 765LT Spider MSO.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 McLaren 765LT Spider MSO 001.jpg by MrWalkr, CC BY-SA 4.0
+- Guess the car... (9215479210).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Hyundai i30 ES. Based on the 1.4 Comfort model the ES special edition has a different grill and some extras including climate control and 16 inch alloy wheels. Only 500 ES cars were made. - Flickr - mick - Lumix.jpg by Mick from Northamptonshire, England, CC BY 2.0
+- Military shipping Container modified to a Climate-Controlled Media.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Mclaren F1 GTR - Andy Wallace & Justin Bell in the pit garage at Donington 1995 (49672809268).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Mclaren F1 GTR - Andy Wallace & Justin Bell in the pit garage at Donington 1995 (49673633517).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Mclaren F1 GTR - Jean-Denis Deletraz, Fabien Giroix & Maurizio Sandra Sala in the pit garage at the 1996 Le Mans (51720305449).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Inupiat Family from Noatak, Alaska, 1929, Edward S. Curtis (restored).jpg by Edward S. Curtis, Public domain
+- American Family Field seen from I-94.jpg by DiscoA340, CC BY-SA 4.0
+- American Family Field (October 2023) 01.jpg by DiscoA340, CC BY-SA 4.0
+- Volunteer Income Tax Assistance Center host grand opening 140203-M-QN491-013.jpg by Sgt. Michael Iams, Public domain
+- Hurlburt Field Base library 140318-F-PD986-017.jpg by Airman 1st Class Naomi Shipley, Public domain
+- Auto Vlaamse Belastingdienst.jpg by SPQRobin, CC BY-SA 4.0
+- 3D illustration image of a gavel - auction hammer - free to use in your projects 06.jpg by Quince Media, CC BY-SA 4.0
+- 3D illustration image of a gavel - auction hammer - free to use in your projects 03.jpg by Quince Media, CC BY-SA 4.0
+- 3D illustration image of a gavel - auction hammer - free to use in your projects 07.jpg by Quince Media, CC BY-SA 4.0
+- McLaren Senna GTR Concept at Geneva 2018 (Ank Kumar, Infosys) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- McLaren Senna GTR Concept at Geneva 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- McLaren Senna GTR Concept at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 1995 McLaren F1 LM 6.1 Engine.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren MP4-29H engine cover 2015 Honda F1 Exposition.jpg by Morio, CC BY-SA 3.0
+- Ford engine of the McLaren M9 A 4-wheel-drive F1 car (14478983248).jpg by Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0
+- McLaren F1 LM.jpg by robad0b, CC BY-SA 2.0
+- McLaren F1 XP1 LM, EMS 2023, Essen (P1160792).jpg by MB-one, CC BY-SA 4.0
+- McLaren F1 XP1 LM, EMS 2023, Essen (P1160790).jpg by MB-one, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (57133).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail 27R SP25.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (88283).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 XP1 LM, EMS 2023, Essen (P1160794).jpg by MB-one, CC BY-SA 4.0
+- McLaren F1 XP1 LM, EMS 2023, Essen (P1160793).jpg by MB-one, CC BY-SA 4.0
+- 1995 McLaren F1 LM 6.1.jpg by Chelsea Jay, CC BY-SA 4.0
+- 2024 McLaren W1 SP25.jpg by MrWalkr, CC BY-SA 4.0
+- 2025 McLaren W1 FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 McLaren W1 SP 25.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Gordon Murray T50.jpg by Calreyn88, CC BY-SA 4.0
+- Gordon Murray Automotive T50 14.jpg by Calreyn88, CC BY 4.0
+- 2024 Gordon Murray T50 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 Le Mans interior (42707018544).jpg by Phil Guest from Bournemouth, UK, CC BY-SA 2.0
+- McLaren F1 cars Donington Grand Prix Collection.jpg by Morio, CC BY-SA 3.0
+- Donington GPC McLarens.JPG by Mike Buck, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- AutoMonitor, McLaren F1 price history (estimates, sources not cited): https://automonitor.io/blog/mclaren-f1-price-history/
+- Motor Sport magazine, Won for the road (June 2005): https://www.motorsportmagazine.com/archive/article/june-2005/52/won-road/
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census

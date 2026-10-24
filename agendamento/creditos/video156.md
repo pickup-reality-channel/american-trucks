@@ -1,0 +1,147 @@
+# Photo credits: The Insane Story Behind John DeLorean
+
+- HMS Belfast with rainbow.jpg by Dmitry A. Mottl, CC BY-SA 3.0
+- Belfast Metropolitan College.jpg by William Murphy
+uploaded and derivative work: MrPanyGoff, CC BY-SA 2.0
+- Queen's University of Belfast, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- King William's Corner, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- Ulster Bank Building, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- 1983 DeLorean DMC-12, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, interior.jpg by Mr.choppers, CC BY-SA 4.0
+- Pontiac Banshee XP-833 (1964) (55308782866).jpg by Charles from Port Chester, New York, CC0
+- 1964 Pontiac Banshee (XP-833) Concept Car 2.jpg by artistmac, CC BY-SA 2.0
+- 1964 Pontiac Banshee (XP-833) Concept Car rear 2.jpg by artistmac, CC BY-SA 2.0
+- Gardenview Estates, Detroit, Michigan (14180657116).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- 1983 DeLorean DMC-12, rear right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- DeLorean DMC-12 (rear).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- 1982 DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- 1983 DMC De Lorean, rear left, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Pontiac GTO (1964-1967) IMG 3193.jpg by Alexander Migl, CC BY-SA 4.0
+- 00 2510 Pontiac GTO.jpg by W. Bulach, CC BY-SA 4.0
+- 2022 Downtown West Allis Classic Car Show 064 (1966 Pontiac GTO).jpg by Michael Barera, CC BY-SA 4.0
+- 2022 Downtown West Allis Classic Car Show 068 (1970 Pontiac GTO).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 39 (1969 Pontiac GTO Judge).jpg by Michael Barera, CC BY-SA 4.0
+- 2023 Downtown West Allis Classic Car Show 74 (1969 Pontiac GTO Judge).jpg by Michael Barera, CC BY-SA 4.0
+- 2024 Downtown West Allis Classic Car Show 76 (1969 Pontiac GTO The Judge).jpg by Michael Barera, CC BY-SA 4.0
+- 1966 & 1969 Pontiac GTO (34841847634).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1967 Pontiac GTO (14040324408).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- DeLorean DMC-12 BW 2017-07-16 15-10-09.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-08-14.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
+- GiorgettoGiugiaro.jpg by Mitjagodnic, CC BY-SA 4.0
+- Giorgetto Giugiaro's GFG Sibylla EV Concept at Grand Basel 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Giorgetto Giugiaro's GFG Sibylla EV Concept at Grand Basel 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (4).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1981 De Lorean DMC-12 (rear), Megaweb History Garage.jpg by Luis Villa del Campo from Madrid, Spain, CC BY 2.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (3).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Giorgetto Giugiaro's GFG Sibylla EV Concept at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Design group italia e giorgetto giugiaro per auso siemens, telefono rialto, 1979.jpg by Sailko, CC BY 3.0
+- Alfa Romeo 156 restyling 2003 (Giorgetto Giugiaro).jpg by Roberto, CC BY-SA 4.0
+- Lotus Esprit Turbo S3, Heck (2018-04-29 Sp r).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1985 Lotus Esprit Turbo 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1987 Lotus Esprit hc.jpg by Calreyn88, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7217.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 DSC 0050.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7220.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14223937233).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gardenview Estates in Foreground, Detroit, Michigan (14201297702).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- 'To hell and back,' the BMG Saga 130404-F-WU507-001.jpg by Master Sgt. Kevin Wallace, Public domain
+- 1982 Lotus Esprit Turbo Bond Replica.jpg by Calreyn88, CC BY-SA 4.0
+- 1987 Lotus Esprit Turbo 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1982 Lotus Esprit 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-charging-port-closed.jpg by u/mrlewaynee, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear left, 07-27-2024.jpg by Cutlass, CC0
+- 1989 Lotus Esprit Turbo SE 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1982 Lotus Esprit Turbo Bond Replica 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lotus esprit turbo lights.jpg by Corvesprit, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7218.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7215.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12, ADAC Deutschland Klassik 2025, Heidelberg (P1048747).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0576.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0629.jpg by Alexander-93, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (5).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- De Lorean DMC-12 2014-05 rear.jpg by Duke of W4, CC BY-SA 3.0
+- 1983 DMC De Lorean, front right, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Tesla Cybertruck Cyberbeast Satin Stealth Black - rear.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series, rear left (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0622.jpg by Alexander-93, CC BY-SA 4.0
+- 1981 Delorean DMC-12.jpg by Sicnag, CC BY 2.0
+- 1981 Delorean DMC (29043312252).jpg by Sicnag, CC BY 2.0
+- DMC Delorean (17267714495).jpg by ilikewaffles11, CC BY 2.0
+- DeLorean DMC-12 (15704582713).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1981 DeLorean DMC 12 -- Virginia Museum (cropped).jpg by Corvair Owner on Flickr. EXIF data says 2019 Joseph Ross/Joetography LLC., CC BY-SA 2.0
+- DeLorean DMC-12 (16322724811).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0620.jpg by Alexander-93, CC BY-SA 4.0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- 2024 Tesla Cybertruck, Moab 02.jpg by A1C6, CC0
+- The rearview of 1981 De Lorean DMC-12.JPG by Tokumeigakarinoaoshima, CC0
+- De Lorean DMC-12 01 rear.jpg by TTTNIS, Public domain
+- 1981 De Lorean DMC-12, Megaweb History Garage.jpg by Luis Villa del Campo from Madrid, Spain, CC BY 2.0
+- 1981 DeLorean DMC-12 interior Petersen.jpg by Patrick Pelletier, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 16.jpg by Frank Schwichtenberg, CC BY 4.0
+- Tesla Cybertruck 003.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck dark gray 01.jpg by Wikideas1, CC0
+- Tesla Cybertruck - 06.jpg by Oleg Yunakov, CC BY-SA 4.0
+- DMC Delorean (5102713156).jpg by Spanish Coches, CC BY 2.0
+- DMC Delorean (17241749796).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (17267195161).jpg by ilikewaffles11, CC BY 2.0
+- 1983 DeLorean DMC-12, front right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- DeLorean DMC-12 (16298553996).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 (16138282849).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Tesla Cybertruck dark gray 02.jpg by Wikideas1, CC0
+- Tesla Cybertruck 004.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck SoHo 001.jpg by Kidfly182, CC BY 4.0
+- DMC DeLorean (1982) (52570308288).jpg by Charles from Port Chester, New York, CC BY 2.0
+- DMC DeLorean (1981) (52860476798).jpg by Charles from Port Chester, New York, CC BY 2.0
+- DMC DeLorean (1981) (52860210714).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1990 Lotus Esprit Turbo U9 in Green, pic3.jpg by Alf van Beem, CC0
+- Lotus Esprit Turbo 1981.jpg by Calreyn88, CC BY-SA 4.0
+- Lotus Turbo Esprit 1984 Heck.jpg by Corvesprit, CC BY-SA 4.0
+- DMC Delorean (16645278754).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (17267205971).jpg by ilikewaffles11, CC BY 2.0
+- Dmc delorean 3.jpg by Thilo Parg, CC BY-SA 3.0
+- DeLorean DMC-12 (16298563416).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 (16137112360).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- DeLorean DMC-12 (16324486855).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Tesla Cybertruck (grey) - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck - 08.jpg by Oleg Yunakov, CC BY-SA 4.0
+- The rearview of 1981 De Lorean DMC-12 (Great Scott! Her passenger door isn't open).JPG by Tokumeigakarinoaoshima, CC0
+- DeLorean DMC-21 Back to the Future Big Bumper Meet 2019 rear.jpg by Jacek Rużyczka, CC BY-SA 4.0
+- DeLorean rear.jpg by Raugeier, CC BY-SA 4.0
+- Tesla Cybertruck SoHo.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck - 07.jpg by Oleg Yunakov, CC BY-SA 4.0
+- DMC Delorean (17241743436).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (5102119703).jpg by Spanish Coches, CC BY 2.0
+- 1980 DMC Delorean.jpg by Calreyn88, CC BY 4.0
+- DeLorean DMC-12 (16324512095).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1981 DeLorean DMC-12.jpg by IChurakv, CC BY-SA 4.0
+- '81 DeLorean DMC-12 (MIAS).JPG by Bull-Doser, Public domain
+- De Lorean(rear) (1498165615).jpg by allen watkin from London, UK, CC BY-SA 2.0
+- De Lorean rear detail (8222400144).jpg by Thomas's Pics, CC BY 2.0
+- De Lorean Rear detail (8217793754).jpg by Thomas's Pics, CC BY 2.0
+- 1981 Delorean DMC-12 Time Machine (43754890175).jpg by Sicnag, CC BY 2.0
+- 1982 Delorean DMC 12.jpg by Calreyn88, CC BY-SA 4.0
+- 1981 Delorean DMC-12 Time Machine (43754890175) (cropped).jpg by Sicnag, CC BY 2.0
+
+## Sources
+
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Encyclopedia.com, John DeLorean Trial: 1984: https://encyclopedia.com/law/law-magazines/john-delorean-trial-1984
+- EBSCO Research Starters, Car manufacturer John De Lorean is arrested in a drug sting: https://www.ebsco.com/research-starters/law/car-manufacturer-john-de-lorean-arrested-drug-sting
+- Ate Up With Motor, The Harder They Fall: The Saga of the DeLorean Motor Company (part 4): https://ateupwithmotor.com/model-histories/delorean-dmc-12-history/4/
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/

@@ -1,0 +1,101 @@
+# Photo credits: The Real Cost of an Electric Hypercar
+
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0
+- Rimac - Nevera 01.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 10.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 03.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 06.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 04.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 02.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 07.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 05.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 09.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac - Nevera 08.jpg by Miroslav.vajdic, CC BY-SA 4.0
+- Rimac Nevera Time Attack at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Rimac Nevera, Auto 2024, Zurich (PANA0908).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera (61051).jpg by Calreyn88, CC BY-SA 4.0
+- Rimac Nevera (91671).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Rimac Nevera 1.jpg by Calreyn88, CC0
+- Rimac Nevera, IAA Open Space 2023, Munich (P1120126).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera in Bridgehampton, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera (2024) (53621883578).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac Nevera (2024) (53622122405).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Rimac Nevera in Bridgehampton, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1975 Lincoln Continental Mark IV "Lipstick and White Edition", interior.jpg by Mr.choppers, CC BY-SA 3.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0591).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0596).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0623).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0608).jpg by Matti Blume, CC BY-SA 4.0
+- Río Rimac en Cocachacra 01.jpg by Johnattan Rupire, CC BY-SA 4.0
+- Río Rimac en Cocachacra 03.jpg by Johnattan Rupire, CC BY-SA 4.0
+- Río Rimac en Cupiche 08.jpg by Johnattan Rupire, CC BY-SA 4.0
+- Rimac Nevera in Bridgehampton, front right driving.jpg by Mr.choppers, CC BY-SA 3.0
+- Jeep Odometer.jpg by Sav127 at English Wikipedia, CC BY-SA 3.0
+- Vitruve's odometer, 1st century BC, Roma (reconstruction).jpg by Gts-tg, CC BY-SA 4.0
+- Pioneer odometer replica with wheel.jpg by Boyfromportage, CC BY-SA 4.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-7015.jpg by Raimond Spekking, CC BY-SA 4.0
+- Nico Rosberg 2006 Indianapolis.jpg by Ryosuke Yagi, CC BY 2.0
+- Pressetermin Lukas Podolski und Nico Rosberg, Airport Köln-Bonn-6961.jpg by Raimond Spekking, CC BY-SA 4.0
+- Jersey auction crowd (431983974).jpg by mark6mauno, CC BY 2.0
+- The 2019 CFC Annual Gala & Auction (33333229868).jpg by Canadian Film Centre from Toronto, Canada, CC BY 2.0
+- 2020 CFC Annual Gala & Auction (49566162867).jpg by Canadian Film Centre from Toronto, Canada, CC BY 2.0
+- Nor-Cargo blir Bring (3094261919).jpg by Trondheim Havn from Trondheim, Norway, CC BY-SA 2.0
+- Nor-Cargo blir Bring (3095101970).jpg by Trondheim Havn from Trondheim, Norway, CC BY-SA 2.0
+- Truck with passenger trailer - Flickr - vitalyzator.jpg by Vitaly Volkov from Dendermonde, Belgium, CC BY 2.0
+- Legal Gavel (27571702173).jpg by Blogtrepreneur, CC BY 2.0
+- Wooden gavel 20170417.jpg by Santeri Viinamäki, CC BY-SA 4.0
+- Voorzittershamer.jpg by Anoko at Dutch Wikipedia, CC BY-SA 3.0
+- Calendar 2.jpg by পাপৰি বৰা, CC BY-SA 4.0
+- Close-up of calendar in Spanish - Calendario en español.jpg by Maximopi, CC BY-SA 4.0
+- Calendar of Wurmprecht, February and March.jpg by Wurmprecht, Public domain
+- Home charging 110v BMW i3 CRI 8148.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Home charging 110v BMW i3 CRI 8134.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- BMW i3 home charging CRI 04 2021 8137.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- India - Kolkata electricity meters - 3832.jpg by Jorge Royan, CC BY-SA 3.0
+- Kos-Kos city-Electricity meter-01ASD.jpg by Asurnipal, CC BY-SA 4.0
+- Aclara I-210+ single phase smart electricity meter.jpg by 277volts, CC BY-SA 4.0
+- Journal of electricity (1920) (14783787413).jpg by Internet Archive Book Images, Public domain
+- Oil-fired generators at Hawaiian Electric Kahe Power Plant in Kapolei on the Waianae Coast.jpg by Tony Webster, CC BY 2.0
+- Jason Misaki, Wildlife Manager, State of Hawaii, Department of Land and Natural Resources (33179584854).jpg by USFWS Pacific, Public domain
+- EV charger 04 2015 SFO 2058.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- EV charger 04 2015 SFO 2055.JPG by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0
+- Recharge fast charging station Rygge Norway 2022.jpg by RC-hpbt, CC BY 4.0
+- Driving on the highway.jpg by GalacticCuriosity, CC BY 4.0
+- Poland A1 highway cars driving backwards.jpg by Ymblanter, CC BY-SA 4.0
+- Quebec Highway 132 - Driving into Douglastown - Gaspe.jpg by Wiki.cullin, CC BY-SA 4.0
+- 2025 Rimac Nevera - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- AMG Carbon Ceramic brake..JPG by Dana60Cummins, Public domain
+- Amg carbon ceramic brake geneva auto show 2011.JPG by Cheeni, CC BY-SA 3.0
+- Mercedes SLS-AMG Carbon Ceramic Brakes (4488319531).jpg by Razvan Orendovici from United States, CC BY 2.0
+- SUGAR REFINERY. TRUCKS BRING IN FRESHLY CUT CANE - NARA - 546390.jpg by John Vachon, Public domain
+- Bringing in the beam (7415332482).jpg by Oregon Department of Transportation, CC BY 2.0
+- A convoy of trailer trucks brings construction material to a traffic control point near a brick factory in Narwan, Iraq on April 11, 2006. The convoy was escorted by soldiers from 1 - DPLA - 29d004b149588939a10ee87ed89614a0.jpeg by Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994, Public domain
+- Rimac Nevera R, Auto 2024, Zurich (PANA0593).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0618).jpg by Matti Blume, CC BY-SA 4.0
+- Rimac Nevera R, Auto 2024, Zurich (PANA0631-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Autoblog, A rare 1-of-150 $2.2M Rimac Nevera just landed on Bring a Trailer: https://www.autoblog.com/news/a-rare-1-of-150-2-2m-rimac-nevera-just-lander-on-bring-a-trailer
+- Carscoops, We're about to find out what Rimac's Nevera is worth on the open market (1 April 2025): https://www.carscoops.com/2025/04/were-about-to-see-what-a-rimac-nevera-is-worth-on-the-open-market/
+- autoevolution, 2023 Rimac Nevera fails to sell (8 April 2025): https://www.autoevolution.com/news/2023-rimac-nevera-fails-to-sell-127-million-bid-falls-way-short-of-233-million-msrp-249664.html
+- Motor1, For sale: Rimac Nevera, barely driven: https://www.motor1.com/news/755011/used-rimac-never-for-sale-bring-a-trailer/
+- The Classic Valuer, Price guide: Rimac Nevera: https://www.theclassicvaluer.com/cars/rimac/nevera
+- TechCrunch, Rimac Nevera R (16 August 2024): https://techcrunch.com/2024/08/16/rimac-squeezes-more-power-into-its-new-all-electric-hypercar-nevera-r-and-it-only-starts-at-2-5-million
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Top Gear, Rimac Nevera (battery pack)
+- Indigo Auto Group, Rimac Nevera warranty extension (23 January 2024)
+- CNBC, Rimac Nevera price coverage
+- This Old House, average electricity cost per kWh by state (EIA, March 2025)

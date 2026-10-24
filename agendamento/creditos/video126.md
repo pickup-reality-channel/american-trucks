@@ -1,0 +1,158 @@
+# Photo credits: Mustang GTD vs Porsche 911 GT3: The Real Difference
+
+- 2024 Ford Mustang GTD 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53621605874).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mustang GTD (54337064503).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Ford Mustang VII Convertible Autofrühling Ulm IMG 9339.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Mustang GTD (54926166505).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53620395797).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621721145).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (53877996363).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481618).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481583).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53620395782).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2026 Ford Mustang GTD (55107992816).jpg by Mustang Joe, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913822).jpg by Charles from Port Chester, New York, CC0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, front left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, rear left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209792665).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643139).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643094).jpg by Charles from Port Chester, New York, CC0
+- Porsche 911 (997) GT3 RS 3.6 - capot arrière ouvert.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Porsche 911 GT3 (992, 2022) (52574988873).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 GT3 (992, 2022) (52574988848).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Turbocharged Ford Indianapolis Engine (54585070437).jpg by Tomás Del Coro, CC BY-SA 4.0
+- 52d MXS engine flight revs up morale, wins awards (6116545).jpg by U.S. Air Force photo by Airman 1st Class Valerie Seelye, Public domain
+- 52d MXS engine flight revs up morale, wins awards (6116546).jpg by U.S. Air Force photo by Airman 1st Class Valerie Seelye, Public domain
+- Porsche 992 GT3 1X7A0323.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 1999 Porsche 911 996 GT3.jpg by Calreyn88, CC BY-SA 4.0
+- Mustang GTD (53970047150).jpg by MIDWST.BLUR, CC BY 2.0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913877).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55208491817).jpg by Charles from Port Chester, New York, CC0
+- Porsche 911 Carrera 4S Cabriolet (991, 2013) (52229783131).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 Carrera 4S Cabriolet (991, 2014) (52229783101).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 Carrera S (991, 2012) (53331179967).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7421.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 GT3 RS (6280074152).jpg by photosteve101 from Spacetown, lost in Space, CC BY 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12438904564).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12436308413).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12439467413).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche GT3 3.8 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12435133394).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche 911 GT3 (992, 2022) (52574988933).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 GT3 RS (2022) 1X7A7164.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 992 GT3 with touring package 1X7A6511.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 991 GT3 with touring package 1X7A0365.jpg by Alexander Migl, CC BY-SA 4.0
+- Relay Computer 2 (RC-2, 2007) by Jon Stanley - top view.jpg by Jeff Keyzer from Austin, TX, USA, CC BY-SA 2.0
+- Solar System to Scale to a Football Field.jpg by Tdadamemd, CC BY-SA 3.0
+- Solar Race Car Built by Cambridge University (3).jpg by Intel Free Press, CC BY-SA 2.0
+- SFMM- Full Throttle 4.JPG by METRO96, CC BY-SA 3.0
+- SFMM- Full Throttle 1.JPG by METRO96, CC BY-SA 3.0
+- SFMM- Full Throttle 2.JPG by METRO96, CC BY-SA 3.0
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Nordschleife Brünnchen 201204061.JPG by BedaNo1, CC BY-SA 3.0
+- Porsche 911 GT3, EMS 2024, Essen (P1031698).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0087).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0077).jpg by Matti Blume, CC BY-SA 4.0
+- RhB ABe 4-4 III Kreisviadukt Brusio.jpg by Kabelleger / David Gubler (http://www.bahnbilder.ch), CC BY 3.0
+- Silver-spotted skipper butterfly (Hesperia comma) female underside.jpg by Charles J. Sharp, CC BY-SA 4.0
+- Wikipedia Day 2025 BPL NYC BetaNYC table 01.jpg by Wil540 art, CC BY 4.0
+- Ford Mustang VII Sindelfingen 2024 IMG 9164.jpg by Alexander-93, CC BY-SA 4.0
+- Vento Mustang WGI24 03.jpg by SmackJam, CC BY-SA 4.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200572.jpg by Ermell, CC BY-SA 4.0
+- Osaka Auto Messe 2014 (53) SUBARU WRX STI NBR 2013 CHALLENGE.JPG by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2014 (52) SUBARU WRX STI NBR 2013 CHALLENGE.JPG by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2014 (207) GAZOO Racing TOYOTA 86.JPG by Tokumeigakarinoaoshima, CC0
+- 1966 Ford Mustang coupe white 001.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 002.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 003.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0073).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0098).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0078).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2770).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 992 GT3 with touring package 1X7A6142.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 with touring package 1X7A1549.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG GT Black Series IMG 0324.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG GT Black Series IMG 0331.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG GT Black Series Classic-Gala 2025 DSC 0767.jpg by Alexander-93, CC BY-SA 4.0
+- The Corvette C6 ZR1 (5195119994).jpg by Ole Bendik Kvisberg, CC BY 2.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ford Mustang 5312121.jpg by Ermell, CC BY-SA 4.0
+- Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 1968 Ford Mustang V8, EMS 23, Essen (P1160889-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 Cup, EMS 2024, Essen (P1031563).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, Auto 2025, Zurich (20251029-P1073692).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 Touring (992.2) 002.jpg by JustAnotherCarDesigner, CC0
+- Porsche 911 GT3 Touring (992.2) 001.jpg by JustAnotherCarDesigner, CC0
+- Porsche 911 992 GT3 Cup.jpg by pelican-actor, CC BY 2.0
+- Porsche 911 992 GT3 Touring (88647).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0084).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0052).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 992 GT3 RS DSC 9055.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9586 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS MYLE Festival 2025 DSC 9586.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 992 GT3 RS Tribute to Jo Siffert Auto Zuerich 2024 DSC 6518.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Mustang Dark Horse SC Coupé (2026) (55209643189).jpg by Charles from Port Chester, New York, CC0
+- 2026 Ford Mustang SC.jpg by Mustang Joe, CC0
+- Ford Mustang Dark Horse Rutesheimer Autoschau 2025 DSC 9229.jpg by Alexander Migl, CC BY-SA 4.0
+- Super Street Mustang.JPG by GSenkow, CC BY-SA 3.0
+- Richmond Raceway, Richmond - 4 2 23 (52793597470).jpg by Virginia Office of the Governor, CC BY 2.0
+- 220504-F-PF238-0149.jpg by Brian Valencia, Public domain
+- 2024 911 GT3 RS (53536704621).jpg by Mustang Joe, CC0
+- 1979 Porsche 911 (54377769329).jpg by Mustang Joe, CC0
+- Porsche 992 GT3 RS - 2026.jpg by Mustang Joe, CC0
+- 1985 Ford GT40 Mk I Tribute (16577348725).jpg by Sicnag, CC BY 2.0
+- Ford Mustang Kulmbach 2018 6170295.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, Classic Days 2019, Berlin (CDB90099).jpg by Matti Blume, CC BY-SA 4.0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 39).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 32).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 48).jpg by Wright Brothers, Dayton, Ohio, CC0
+- Porsche 911 GT3 RS (991, 2016) (55220705197).jpg by Charles from Port Chester, New York, CC0
+- Porsche 911 GT3 RS (991, 2016) (55221857129).jpg by Charles from Port Chester, New York, CC0
+- Porsche 911 GT3 RS 4.0 (997.2, 2011) (55220705587).jpg by Charles from Port Chester, New York, CC0
+- Gray Porsche 911 (992) GT3 Touring (4).jpg by Mathious Ier, CC0
+- Gray Porsche 911 (992) GT3 Touring (3).jpg by Mathious Ier, CC0
+- 2023 Porsche 911 992 GT3 Touring.jpg by Calreyn88, CC BY-SA 4.0
+- TargetMPG.jpg by Jimad, Public domain
+- Fuel Administration - POSTER USED BY FUEL Administration to encourage economy of fuel - NARA - 31482610.jpg by Unknown authorUnknown author or not provided, Public domain
+- Edmunds station Tower from Northgate Road railway bridge.jpg by Mr edmunds, CC0
+- Viking Sky (ship, 2017) and GNV Cristal (ship, 1989).jpg by Christian Ferrer, CC BY 4.0
+- Viking Sky (ship, 2017) - Sète - December 2018.jpg by Christian Ferrer, CC BY 4.0
+- Porsche race car Verschuur amk.jpg by user:AngMoKio, CC BY-SA 2.5
+- Porsche 911, BAS 24, Brussels (P1170151-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche, Paris Motor Show 2018, Paris (1Y7A1749).jpg by Matti Blume, CC BY-SA 4.0
+- 2023 Ford Mustang GT3 2.jpg by Calreyn88, CC0
+- Ford Mustang GT3.jpg by Ford Media, CC BY-SA 4.0
+- Ford Mustang GT3 88 Lone Star Le Mans WEC Proton Competition.jpg by Dylantk0ch, CC BY 4.0
+- Porsche 997 GT3 RS (2006) IMG 2546.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 (997) GT3 RS 3.6 - avant.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Porsche 911 (997) GT3 RS 3.6 - arrière.jpg by The Car Spy on Flickr : https://www.flickr.com/photos/thecarspy/, CC BY 2.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200300.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang Sachs Franken Classic 2018 P5201303.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, Bj. 66, Lenkrad und Armaturenbrett (Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+
+## Sources
+
+- Wikipedia, Ford Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- Wikipedia, Porsche 911 GT3: https://en.wikipedia.org/wiki/Porsche_911_GT3
+- Wikipedia, Porsche 911 (992): https://en.wikipedia.org/wiki/Porsche_911_(992)
+- Kelley Blue Book, Ford drops details on GTD, the uber Mustang: https://www.kbb.com/car-news/ford-drops-details-on-gtd-the-uber-mustang
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- AutoGuide, Ford Mustang GTD joins Nürburgring's sub-seven-minute club: https://www.autoguide.com/auto/manufacturers/ford/ford-mustang-gtd-joins-nrburgring-s-sub-seven-minute-club-44615074
+- Motor1, The Ford Mustang GTD is even more expensive than we thought: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Supercars.net, Is the latest Porsche 992.2 GT3 worth the price?: https://www.supercars.net/blog/?p=891516
+- Edmunds, 2025 Porsche 911 GT3: https://www.edmunds.com/porsche/911/2025/gt3
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/

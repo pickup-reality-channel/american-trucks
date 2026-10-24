@@ -1,0 +1,156 @@
+# Photo credits: Pagani Zonda vs Utopia: The Difference Nobody Explains
+
+- Pagani Zonda, GIMS 2019, Le Grand-Saconnex (GIMS0014).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1463).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Zonda S Roadster.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Pagani Zonda PS.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Pagani Zonda Nero.jpg by Calreyn88, CC BY-SA 4.0
+- 2008 Pagani Zonda 760 Attack.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Zonda S Roadster 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2001 Pagani Zonda C12.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Zonda F Carbon.jpg by LSDSL, CC BY-SA 2.0 de
+- Pagani Zonda F Clubsport.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F CS.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F DKEng.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F CS Side.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1451.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1185.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1183.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0733).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA1014).jpg by Matti Blume, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda 2.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Pagani Zonda C12 'chassis 001' Genf 2019 1Y7A5382.jpg by Alexander Migl, CC BY-SA 4.0
+- Pagani Zonda - Hydro Powered.jpg by Maurits Verbiest, CC BY 2.0
+- Autodromo Juan Manuel Fangio desde La Barrosa.jpg by Celsoalbertosuarez, CC BY-SA 4.0
+- Juan Manuel Fangio statue Mercedes-Benz Museum.jpg by Morio, CC BY-SA 3.0
+- Juan Manuel Fangio statue Mercedes-Benz Museum side.jpg by Morio, CC BY-SA 3.0
+- Periodista Horacio Pagani.jpg by Victor Santa Maria, CC BY 2.0
+- Alberto Garnerone Pagani.jpg by Thecarguyfromitaly, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Le pitture e sculture di Modena (page 14 crop).jpg by Gian Filiberto Pagani, Public domain
+- CID Array.jpg by NASA photo (ID: EC84-31805), Public domain
+- Crash Test Dummies March 2019.jpg by SPKx, CC BY-SA 4.0
+- Honda Fit - Impact Still.jpg by Calspan Corporation, National Highway Traffic Administration, Public domain
+- Pagani Zonda C12S - 20070318.jpg by Julien Bertrand, Public domain
+- Pagani Zonda C12 (46695822624).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Pagani Zonda HP Barchetta - Flickr - Alexandre Prevot.jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- 2007 Pagani Zonda F CS.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F Salon Prive.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F Clubsport Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia (55112638385).jpg by Mustang Joe, CC0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6390.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6801.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6397.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6399.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia (53048624118) (cropped).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2001 Pagani Zonda C12 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Pagani Zonda C12 S.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Pagani Zonda C12 S 2.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Utopia 7.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Utopia 5.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Utopia.jpg by MrWalkr, CC BY-SA 4.0
+- The engine room of Mercedes-AMG W205 C63 S.JPG by Tokumeigakarinoaoshima, CC0
+- 1996 Mercedes-Benz SL70 AMG Rear.jpg by MrWalkr, CC BY-SA 4.0
+- The engine room of Mercedes-AMG C63 S (W205).JPG by Tokumeigakarinoaoshima, CC0
+- Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Pagani Huayra blue front lights.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Pagani Huayra GIMS 2024 noBG.jpg by Fotograf der Quelle: User:MB-one   /   Freisteller, Bildbearbeitung & Retusche von Auge=mitphotographer of the source User:MB-one  /  Free-form select, image editing and retouching by Auge=mit, CC BY-SA 4.0
+- 2021 Pagani Huayra BC Roadster.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Pagani Huayra BC Roadster SP25.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Huayra BC.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda Cinque (2019).jpg by Y.Leclercq©, CC BY-SA 4.0
+- Pagani Zonda Cinque 1 of 5.JPG by Dr.emmettbrown, CC BY-SA 3.0
+- 2010 Pagani Zonda Cinque Roadster SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia 3.jpg by Calreyn88, CC0
+- Pagani Utopia 4.jpg by Calreyn88, CC0
+- Pagani Utopia 1.jpg by Calreyn88, CC0
+- Pagani Huayra BC (2017) (52229282596).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Pagani Huayra BC (2017) (52229287348).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Pagani Huayra BC (2017) (52229551184).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Pagani Zonda Cinque (3353937741).jpg by Matthias from Västerås, Sweden, CC BY 2.0
+- Pagani Zonda Cinque (3353920151).jpg by Matthias from Västerås, Sweden, CC BY 2.0
+- Pagani Zonda Absolute (EVO).jpg by Bro1340, CC0
+- Pagani Zonda HP Barchetta Bad.jpg by MrWalkr, CC BY-SA 4.0
+- 2017 Pagani Zonda HP Barchetta USG26.jpg by MrWalkr, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 12.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda 1.jpg by LarryStevens, CC BY-SA 3.0
+- Pagani Zonda R Bad.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda R Evolution Barchetta.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 2014 Pagani Zonda 760 Viola SP25.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda 760 Oliver Edition Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2016 Pagani Zonda 760 by Mileson SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia (53048317354) (cropped).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia 2.jpg by Calreyn88, CC0
+- Pagani Utopia (53048622043).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2007 Pagani Zonda F Blu Montecarlo DKEng Low.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F interior.jpg by LSDSL, CC BY-SA 2.0 de
+- Pagani Zonda F (15248212882).jpg by Axion23, CC BY 2.0
+- Rétromobile 2024 (87) 20240204.jpg by WikiGenesis, CC BY 4.0
+- Rétromobile 2024 (68) 20240204.jpg by WikiGenesis, CC BY 4.0
+- Rétromobile 2024 (66) 20240204.jpg by WikiGenesis, CC BY 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Dad's Day Out 2011 Top Gear Track DSC 8120 (5719768677).jpg by Tony Harrison from Farnborough, UK, CC BY-SA 2.0
+- 2013 Ford Focus ST 250hp (8431592489).jpg by Chris Yarzab from  , USA, CC BY 2.0
+- Paris - Retromobile 2013 - Talbot T150C - 1936 - 102.jpg by Thesupermat, CC BY-SA 3.0
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0361.jpg by Alexander Migl, CC BY-SA 4.0
+- Lagonda Le Mans Rapide, 4500 ccm, Bj. 1935 (17.06.2007).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0352.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Pagani Utopia (53877996868).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Pagani Utopia (53048317354).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia (53048624118).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Choura Events helps build Pebble Beach Concours d'Elegance.jpg by Vision360media, CC BY-SA 4.0
+- Choura Events builds Large Tented Structure for Lincoln Activation at Pebble Beach Concours d'Elegance.jpg by Vision360media, CC BY-SA 4.0
+- Choura Events build Large Tent Structure at Pebble Beach Car Weekend.jpg by Vision360media, CC BY-SA 4.0
+- Pagani Utopia (53048624118-resized).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2024 Pagani Utopia (no. 26) in Yellow and Black, front right2.jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Pagani Utopia (no. 26) in Yellow and Black, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Lancia Aprilia Barchetta Corsa Sport by Riva Pagani (1946) (55312187359).jpg by Charles from Port Chester, New York, CC0
+- Lancia Aprilia Barchetta Corsa Sport by Riva Pagani (1946) (55312111533).jpg by Charles from Port Chester, New York, CC0
+- 2017 Pagani Huayra BC in Verde McLaren, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Pagani Zonda Roadster (50743164061).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Pagani Zonda 760 LM Coupé (2014) (55081825092).jpg by Charles from Port Chester, New York, CC0
+- 2004 Pagani Zonda C12 S 7.3 Monza, front left (Miller).jpg by Mr.choppers, CC BY-SA 3.0
+- Pagani Zonda Tricolore - 54642103670.jpg by Alexandre Prevot, CC BY-SA 4.0
+- Pagani Zonda HP Barchetta (2).jpg by Alexandre Prevot, CC BY-SA 4.0
+- Pagani Zonda S Roadster 5.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Zonda Uno rear.jpg by Jorismb, Public domain
+- Pagani Zonda Uno front.jpg by Jorismb, Public domain
+- Pagani Zonda F (7160140659).jpg by Tobiasvde, CC BY-SA 2.0
+- 2009 Pagani Zonda PS 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Pagani Zonda Nero 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Pagani Zonda PS 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Pagani Utopia Roadster FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0736).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0743).jpg by Matti Blume, CC BY-SA 4.0
+- Exhaust of Pagani Huayra at Legendy 2018 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Pagani Huayra red exhaust pipe.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Pagani Huayra at Goodwood 2014 005.jpg by Michelin LIVE UK, CC BY 2.0
+- Pagani Zonda Roadster - owner Peter Read - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- 2018 Pagani Huayra Roadster, Greenwich Concours.jpg by Mr.choppers, CC BY-SA 3.0
+- 2018 Pagani Huayra Roadster, rear right, Greenwich 2018.jpg by Mr.choppers, CC BY-SA 3.0
+- Pagani Zonda S Roadster 7.jpg by Calreyn88, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Pagani Zonda: https://en.wikipedia.org/wiki/Pagani_Zonda
+- Wikipedia, Pagani Utopia: https://en.wikipedia.org/wiki/Pagani_Utopia
+- Wikipedia, Pagani (company): https://en.wikipedia.org/wiki/Pagani_(company)
+- Top Gear, This is the brand new Pagani Utopia: https://www.topgear.com/car-news/first-look/brand-new-pagani-utopia-v12-engined-throwback
+- Supercar Blondie, The Pagani Utopia is here: https://supercarblondie.com/pagani-utopia-c10-v12-manual-supercar-revealed/
+- Pagani Automobili press release, Pagani Utopia Roadster: https://www.pagani.com/press/utopia-roadster/
+- Gulf News, Pagani Zonda Riviera sold for $5.5 million at Riyadh Season car auction: https://gulfnews.com/amp/auto/news/pagani-zonda-riviera-sold-for-55-million-at-riyadh-season-car-auction-1.1574581887664
+- Attic Capital, Horacio Pagani and the Zonda: https://atticcapital.com/horacio-pagani-zonda/

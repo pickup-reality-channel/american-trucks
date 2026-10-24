@@ -1,0 +1,108 @@
+# Photo credits: The Insane Story Behind America's Speed-Record War
+
+- Road Runner Express (Six Flags Fiesta Texas) 3.jpg by Wacky Windjammer, CC BY-SA 4.0
+- Road Runner Express (Six Flags Fiesta Texas) 2.jpg by Martin Lewison from Forest Hills, NY, U.S.A., CC BY-SA 2.0
+- Tankersley, Texas road sign.jpg by Lovemedead, CC BY-SA 4.0
+- Dust bowl, Texas Panhandle, TX fsa.8b27276 edit.jpg by Arthur Rothstein, Public domain
+- Road Runner Rollercoaster.jpg by Herry Lawford from London, UK, CC BY 2.0
+- Plymouth Road Runner 1969 5312706.jpg by Ermell, CC BY-SA 4.0
+- Bebe Road Sign Gonzales County Texas 2025.jpg by Larry D. Moore, CC BY 4.0
+- Texas Park Road 12 at Washington-on-the-Brazos State Park.jpg by TBKS1, CC BY-SA 4.0
+- Hennessey Venom F5, GIMS 2018, Le Grand-Saconnex (1X7A1390).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 Back Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1389).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron Super Sport.jpg by MrWalkr, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 1.jpg by Calreyn88, CC BY 4.0
+- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Koenigsegg Agera, GIMS 2018 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 (76964).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 SP 22.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster.jpg by MrWalkr, CC BY-SA 4.0
+- Hennesey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 1.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- 2019 SSC Tuatara at Pebble Beach Press Conference.jpg by SSCNA, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54869830611).jpg by Charles from Port Chester, New York, CC0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green, engine.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker interior at Waveny Park 2024.jpg by Mr.choppers, CC BY-SA 3.0
+- Argazkia auto.jpg by Gontzal Cepeda, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera RST 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera RS scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera RS FE Vader.jpg by MrWalkr, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera, GIMS 2018 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera N 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 6.6 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- SSC Tuatara Striker (2024) (54096246544).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54559022692).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54000091809).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (53994306545).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54095915031).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54870063828).jpg by Charles from Port Chester, New York, CC0
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 6.6 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Hennessey Venom.jpg by Adam Russell, CC BY-SA 2.0
+- Hennessey Venom GT.JPG by Mystfire, CC BY 3.0
+- Morpheus Lander at Kennedy Space Center.jpg by NASA/Dimitri Gerondidakis, Public domain
+- Stephen Hawking at Kennedy Space Center KSC-07pd-0964.jpg by Kim Shiflett, Public domain
+- Kennedy Space Center at sunset, October 13, 2010.jpg by NASA/Dimitri Gerondidakis, Public domain
+- Bugatti Chiron Super Sport in Dorlisheim.jpg by Alexandre Prevot, CC BY-SA 2.0
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype.jpg by Liam Walker, CC BY-SA 4.0
+- White Hennessey Venom Gt (15036028446).jpg by Axion23, CC BY 2.0
+- 2011 Hennessey Venom GT in Venom Red, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2011 Hennessey Venom GT in Venom Red, front right.jpg by Mr.choppers, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, Hennessey Venom GT: https://en.wikipedia.org/wiki/Hennessey_Venom_GT
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, Bugatti Chiron Super Sport 300+: https://en.wikipedia.org/wiki/Bugatti_Chiron_Super_Sport_300+
+- Motor1, SSC Tuatara owner beats personal top speed record by hitting 295 mph: https://www.motor1.com/news/587981/ssc-tuatara-295-mph/
+- Motor Authority, Hennessey Venom F5 hypercar sells out following Monterey Car Week showing: https://motorauthority.com/news/1118149_hennessey-venom-f5-hypercar-sells-out-following-monterey-car-week-showing
+- Hennessey Special Vehicles (company news), Hennessey celebrates world's fastest car accolade with 300 mph plans: https://www.hennesseyspecialvehicles.com/news/hennessey-celebrates-worlds-fastest-car-accolade-with-300mph-plans/
+- The Supercar Blog, John Hennessey breaks silence on Venom F5 300 mph speed record attempt: https://www.thesupercarblog.com/john-hennessey-breaks-silence-on-venom-f5-300-mph-speed-record-attempt/
+- The Drive, Hennessey Venom F5 crashes at 250 mph on Kennedy Space Center runway: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds

@@ -1,0 +1,128 @@
+# Photo credits: The Insane Story Behind the Lexus LFA
+
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- 2012 Lexus LFA Spider rear.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept rear.jpg by TTTNIS, CC0
+- 2011 Lexus LFA Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA White.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA interior.jpg by NJo, CC BY-SA 3.0
+- 2012 Lexus LFA Spider interior.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept interior.jpg by TTTNIS, CC0
+- 2012 Lexus LFA (8403224451).jpg by Sarah Larson from Ann Arbor, MI, USA, CC BY 2.0
+- Lexus LFA (2012) (52129086653).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA speedometer view 01.jpg by C Ling Fan from Tokyo, Japan, CC BY 2.0
+- Lexus LFA speedometer view 02.jpg by C Ling Fan from Tokyo, Japan, CC BY 2.0
+- Lexus LFA speedometer 151.jpg by Nan Palmero, CC BY 2.0
+- 2011 Lexus LFA SP 22 Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus lfa rear - AIMS.JPG by Pineapple fez, CC BY-SA 3.0
+- Lexus LFA (rear quarter).jpg by Overlaet, CC BY-SA 3.0
+- Lexus LFA (8387447791).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Lexus LFA (CBA-LFA10) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lexus LFA engine bay, without bodywork.jpg by NJo, CC BY-SA 3.0
+- Yamaha V10 engine in a Lexus LFA (52555420262).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Lexus LFA (8388585202).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- White Lexus LFA side.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA (4100747254).jpg by TTTNIS, CC BY 2.0
+- Lexus LFA (7693856618).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 2011 Lexus LFA Front.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 14.jpg by Calreyn88, CC BY-SA 4.0
+- Cokpit of Lexus LFA 24hr Nürburgring racing model.jpg by Raiko, CC BY-SA 3.0
+- Lexus LFA (5220373328).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Lexus LFA coupe, prototype (2010-10-16) 05.jpg by OSX, Public domain
+- Akio Toyoda.jpg by Bertel Schmitt, CC BY-SA 3.0
+- Toyota CEO Akio Toyoda cruising in a three-wheel concept car (12978784963).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- MORIZO in Daikanyama Morning Cruise with LEXUS 2015.jpg by President aruyo, CC BY-SA 4.0
+- KIMG0105.jpg by SF-R, CC BY-SA 4.0
+- Osaka Auto Messe 2025 (23) - Suzuki Jimny (3BA-JB64W) owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2025 (24) - Suzuki Jimny (3BA-JB64W) owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Lexus LFA Matte Black side profile.jpg by Lexus_LFA_Matte_Black_01.jpg: robpoetsch
+derivative work: Altair78 (talk), CC BY 2.0
+- Lexus LFA (6433327147).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Lexus LFA white Geneva.jpg by [https://www.flickr.com/people/34698467@N03 David Villarreal Fern�ndez], CC BY-SA 2.0
+- Lexus LFA 2.jpg by Calreyn88, CC BY-SA 4.0
+- Silver Lexus LFA.jpg by ilikewaffles11, CC BY 2.0
+- Lexus LFA-02.jpg by Shane K, CC BY-SA 2.0
+- Lexus LFA - Flickr - David Villarreal Fernández (3).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Lexus LFA (5219778915).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Lexus LFA Interior (13019245404).jpg by Erik Drost, CC BY 2.0
+- Lexus LFA (7693868374).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- The rearview of Lexus LFA (CBA-LFA10).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lexus LFA (LFA10) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Lexus LFA (2012) (52571825489).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52571547261).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA bare chassis front 2011 Tokyo Motor Show.jpg by Morio, CC BY-SA 3.0
+- Lexus LFA at race track from side.jpg by Matthew Lamb, CC BY-SA 2.0
+- Lexus LFA at 2010 Goodwood Festival of Speed side aft.jpg by Andrew Basterfield, CC BY-SA 2.0
+- Lexus LFA coupe, prototype (2010-10-16) 03.jpg by OSX, Public domain
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Lexus LF-A (6851204868).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6851474134).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6851459196).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LFA (6433309111).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Lexus LFA - CIAS 2012 (6804661780).jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus CBA-LFA10 LFA prototype (22022010335).jpg by 先従隗始, CC0
+- Race Track - 2019 6 hours of Fuji - FIA World Endurance Championship.jpg by United Autosports/James Roberts, CC BY-SA 2.0
+- Fuji Speedway morning.jpg by MATSUOKA Kohei, CC BY 2.0
+- Fuji Speedway start-finish.jpg by MATSUOKA Kohei, CC BY-SA 2.0
+- Lexus LFA - Flickr - Supermac1961 (1-aligned).jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Lexus booth (5343089501).jpg by Long Zheng from Melbourne, Australia, CC BY-SA 2.0
+- LFA Nurburgring 2009 side view.jpg by Raiko, CC BY-SA 3.0
+- White Lexus LFA front.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA (98906).jpg by Calreyn88, CC BY-SA 4.0
+- 2011 Lexus LFA.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LF-A (6851394430).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6997548657).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6997594633).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LFA Megaweb 2010-08 rear.jpg by Tom Mak from Markham, Canada, CC BY-SA 2.0
+- Lexus LFA (2012) (52128037252).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (53774653425).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Osaka Auto Messe 2025 (146) - Daihatsu TAFT II owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2025 (144) - Daihatsu TAFT II owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2025 (145) - Daihatsu TAFT II owned by Akio Toyoda.jpg by Tokumeigakarinoaoshima, CC0
+- LFA Nurburgring 2009 rear side view.jpg by Raiko, CC BY-SA 3.0
+- DSC 0216 (5442746276).jpg by rmisko, CC BY 2.0
+- DSC 0217 (5442142241).jpg by rmisko, CC BY 2.0
+- Lexus LFA (54251).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (26925).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (4058106643).jpg by kosabe, CC BY-SA 2.0
+- Lexus LF-A (6997572679).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6997333921).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LF-A (6997610349).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0
+- Lexus LFA (2012) (52129059006).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (53773316172).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52129300389).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA Cut-away Frame.jpg by Alex Kovach, CC BY 2.0
+- Lexus LFA (2012) (53774437933).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA 1101.JPG by Soji Hitotose, Public domain
+- Chicago Auto Show 2011 (5456058701).jpg by Tony, CC BY-SA 2.0
+- 20101016 SX1IS 069 (5088243939).jpg by Simon Yeo from Drouin, Australia, CC BY 2.0
+- Lexus LFA (49944546063).jpg by Rutger van der Maar, CC BY 2.0
+- Lexus (6936602488).jpg by Jon Lee Clark from San Diego, USA, CC BY 2.0
+- Lexus (6936602118).jpg by Jon Lee Clark from San Diego, USA, CC BY 2.0
+- LFA Nurburgring 2009 rr view.jpg by Raiko, CC BY-SA 3.0
+- Chiharu Tamura explains Lexus LFA.jpg by BsBsBs, CC BY-SA 3.0
+- Nordschleife Brünnchen 201204061.JPG by BedaNo1, CC BY-SA 3.0
+- Historisches Fahrerlager Nürburgring Classic 2017.jpg by Cannoneer Photography / https://cannoneer.de Offizielle Webseite von Cannoneer Photography, CC BY-SA 4.0
+- File op de Nürburgring Nordschleife (7638844772).jpg by Niels Broekzitter from Piershil, The Netherlands, CC BY 2.0
+- Nürburgring, Vogelschauansicht, Eugen Felle, 1927.jpg by Eugen Felle, Public domain
+- ADAC 1000km Nürburgring 2021.jpg by Cannoneer Photography / https://cannoneer.de Offizielle Webseite von Cannoneer Photography, CC BY-SA 4.0
+- Nürburgring Boxengasse Panorama.jpg by Raimond Spekking, CC BY-SA 4.0
+- 1973-05-27 Einführungsrunde 1000 km Nürburgring, Nr. 4 Cevert.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- ADAC GT Masters at Nuerburgring.jpg by Herranderssvensson, CC BY-SA 3.0
+- ADAC RAVENOL 24h Nürburgring Gridwalk.jpg by BeeaBee, CC0
+- ADAC RAVENOL 24h Nürburgring Gridwalk 02.jpg by BeeaBee, CC0
+- Porsche 996 GT3 RS at the Nürburgring Nordschleife Brünnchen.JPG by Agtlaw, CC BY-SA 3.0
+
+## Sources
+
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Lexus UK Magazine, Untold history of the Lexus LFA: https://mag.lexus.co.uk/untold-history-of-the-lexus-lfa
+- Lexus UK Magazine, Lexus LFA timeline: redefining the Japanese supercar: https://mag.lexus.co.uk/lexus-lfa-timeline/
+- The Truth About Cars, The making of the Lexus LFA supercar, chapter 1 (9 July 2012): https://thetruthaboutcars.com/2012/07/the-making-of-the-lexus-lfa-supercar-who-what-where-and-most-of-all-why-an-inside-report-chapter-1-from-a-bar-to-bar-none/
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom

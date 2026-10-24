@@ -1,0 +1,81 @@
+# Photo credits: Toyota 2000GT vs Datsun 240Z: The Difference Nobody Explains
+
+- Yellow Datsun 240Z dllu.jpg by Dllu, CC BY-SA 4.0
+- 1971 Datsun 240Z East African Safari Rally.jpg by TTTNIS, CC0
+- 1973 Datsun 240Z white.jpg by Calreyn88, CC BY 4.0
+- 1973 Datsun 240Z 1.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z IMSA.jpg by Calreyn88, CC BY 4.0
+- 1971 Datsun 240Z bsj25.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally 2.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally 1.jpg by Calreyn88, CC BY 4.0
+- 1976 Datsun 240Z - Stierch.jpg by Missvain, CC BY 4.0
+- 1973 Datsun 240Z Ferrari 250 GTO Replica 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1972 Datsun 240Z IMSA -GHLS30-72903.jpg by Calreyn88, CC BY 4.0
+- 1972 Datsun 240Z 2.8L Rally -HLS30-136517.jpg by Calreyn88, CC BY 4.0
+- 1973 Datsun 240Z Ferrari 250 GTO Replica 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1972 Datsun 240Z 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1971 Datsun 240Z 2.jpg by Calreyn88, CC BY-SA 4.0
+- Toyota 2000GT engine.jpg by TTTNIS, CC0
+- Toyota 2000gt 2m engine.jpg by Brian Lueck, aka User:Blueck, CC BY-SA 3.0
+- Toyota 2000GT (1967) - 30424550763.jpg by andreboeni, CC BY 2.0
+- Toyota 2000GT (1967) - 46029484041.jpg by andreboeni, CC BY 2.0
+- Toyota 2000GT (8685792748).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- 1973 Datsun 240Z Ferrari 250 GTO Replica 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1971 Datsun 240Z 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1971 Datsun 240Z 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1971 Datsun 240Z 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Downtown West Allis Classic Car Show 067 (1973 Datsun 240Z).jpg by Michael Barera, CC BY-SA 4.0
+- 1973 Datsun 240Z Ferrari 250 GTO Replica.jpg by Calreyn88, CC BY-SA 4.0
+- 1972 Datsun 240Z S30.jpg by MrWalkr, CC BY-SA 4.0
+- 1973 Datsun 240Z Ferrari 250 GTO Replica 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1972 Datsun 240Z S30 from front.jpg by MrWalkr, CC BY-SA 4.0
+- Toyota 2000GT (8685789036).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- 2M-G for the famous Toyota 2000GT - Flickr - Moto@Club4AG.jpg by Motohide Miwa from USA, CC BY 2.0
+- Toyota E-RA55 Celica Camry 2000GT (No.54) (22101611181).jpg by 先従隗始, CC0
+- Datsun HLS30 240Z - Nissan S30 Fairlady Z (23100110332).jpg by 先従隗始, CC0
+- Datsun 240Z registered March 1972 2393cc.jpg by Charles01, CC BY-SA 4.0
+- Datsun 240Z interior (9308625344).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Toyota 2000GT (58142).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota 2000GT (56172).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota MF10 2000GT (22102313562).jpg by 先従隗始, CC0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 1970 Jaguar E-Type Roadster 4.2.jpg by Vauxford, CC BY-SA 4.0
+- Jaguar E-Type Series 1 4.2 Litre 1967.jpg by DeFacto, CC BY-SA 4.0
+- Jaguar E-Type series 1 roadster dash - 1967.jpg by DeFacto, CC BY-SA 4.0
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7421.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 Carrera RS, Bj. 1972-73 (2016-07-02 01 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 911 Carrera 964 Stratstone 2.jpg by 多多123, CC BY 4.0
+- AC Cobra 427.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Shelby 427 S-C Cobra 1966 6170717.jpg by Ermell, CC BY-SA 4.0
+- 1966 Shelby 427 S-C Cobra 6170718.jpg by Ermell, CC BY-SA 4.0
+- The interior of Toyota 2000GT (MF10 previous period).JPG by Tokumeigakarinoaoshima, CC0
+- The interior of Toyota 2000GT (MF10 latter period).JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000GT (1967) - 30424538803.jpg by andreboeni, CC BY 2.0
+- 1965-05-23 21 Hatzenbach - Shelby Cobra, J. Sears-F. Gardner.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Kulmbach-20220626-RM-111042.jpg by Ermell, CC BY-SA 4.0
+- AC Shelby Cobra 427 Oldtimertreffen Ebern 2019 6200154.jpg by Ermell, CC BY-SA 4.0
+- The interior of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- The interior of roadster Ryuhi Final ver.SPEED TRIAL.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota MF10 2000GT (22102313563).jpg by 先従隗始, CC0
+- 1968 Toyota 2000GT Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Toyota 2000GT rear 01.jpg by Louis Rix, CC BY 2.0
+- Toyota 2000GT EV rear.jpg by TTTNIS, CC0
+- 2000GT (62788757).jpg by machu., CC BY 2.0
+- Aston Martin DB5 & Toyota 2000 GT Models (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Aston Martin DB5 & Toyota 2000 GT Models (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Porsche 911 Carrera Stratstone.jpg by 多多123, CC BY 4.0
+- Porsche 911 Carrera 3.6 Speedster (1993) in the Porsche-Museum (2009) 1X7A0362.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 911 Carrera Turbo Nr. 1 in the Porsche-Museum (2009) IMG 7416.jpg by Alexander-93, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Wikipedia, Nissan S30: https://en.wikipedia.org/wiki/Nissan_S30
+- Wikipedia, Nissan Z: https://en.wikipedia.org/wiki/Nissan_Z
+- Shannons Club, Datsun Z cars: Japan's GT redefines the breed: https://club.shannons.com.au/club/news/datsun-z-cars-japans-gt-redefines-the-breed
+- Hagerty Media, Datsun 240Z / Nissan Z history
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Sports Car Market, Toyota 2000GT profile and auction history

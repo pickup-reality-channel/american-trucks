@@ -1,0 +1,160 @@
+# Photo credits: 2 Things You Didn't Know About the Shelby Cobra
+
+- AC Cobra 427.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Shelby 427 S-C Cobra 1966 6170717.jpg by Ermell, CC BY-SA 4.0
+- 1966 Shelby 427 S-C Cobra 6170718.jpg by Ermell, CC BY-SA 4.0
+- 1965-05-23 21 Hatzenbach - Shelby Cobra, J. Sears-F. Gardner.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Kulmbach-20220626-RM-111042.jpg by Ermell, CC BY-SA 4.0
+- AC Shelby Cobra 427 Oldtimertreffen Ebern 2019 6200154.jpg by Ermell, CC BY-SA 4.0
+- AC Cobra 427 Replica Magnum, li. Seite (2015-09-12 3676 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra 427 RAM Replica, Bj. 1973 (2015-09-12 3697 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby AC Cobra, CSX2000.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045231).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045123).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045333).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045419).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Daytona Cobra Coupe (47997174018).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1962 Shelby Cobra Mk I 260 Roadster (21145649035).jpg by Sicnag, CC BY 2.0
+- Carroll Shelby Museum. Las Vegas. (31378809241).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, Public domain
+- AC Cobra Fia Roadster (1964) Solitude Revival 2022 1X7A0085.jpg by Alexander Migl, CC BY-SA 4.0
+- AC Cobra Tour Auto 2014 Circuit de Dijon Prenois 12.jpg by François de Dijon, CC BY-SA 3.0
+- Shelby AC 427 Cobra vl blue.jpg by Stahlkocher, CC BY-SA 3.0
+- Shelby AC Cobra 289 USRRC Roadster.jpg by User:Jaydec, CC BY-SA 3.0
+- Carroll Shelby 427 Cobra (3608974984).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- AC Ace - 20180802 PvE (Q1569175).jpg by Pieter van Everdingen, CC BY-SA 4.0
+- 1962 AC Ace 2.6 Ruddspeed front.jpg by Mr.choppers, CC BY-SA 3.0
+- AC Ace Bristol 2.jpg by Calreyn88, CC BY-SA 4.0
+- V8 32 valve.JPG by Exhilaration157 at English Wikipedia, Public domain
+- Ford v8 custom engine 1.JPG by Adam.J.W.C., CC BY-SA 2.5
+- 1932 Ford V8 Cabriolet - The Henry Ford - Engines Exposed Exhibit 2-22-2016 (1) (31341826353).jpg by Joe Ross from Lansing, Michigan, CC BY-SA 2.0
+- Aircraft cargo loader at ZRH.jpg by Anidaat, CC BY-SA 4.0
+- B-LNY - Airbus A330-243F - Hong Kong Air Cargo - 1062 - VGHS.jpg by Md Shaifuzzaman Ayon, CC BY-SA 4.0
+- Ethiopian Cargo Airlines (ET-AVN) Boeing 777-F60 VGHS.jpg by Md Shaifuzzaman Ayon, CC BY-SA 4.0
+- Half moon at Nelson (Unsplash).jpg by Dean Hayton deanhayton, CC0
+- Ban Ki-moon (01911820) (51436174238).jpg by IAEA Imagebank, CC BY 2.0
+- Meeting with Ban Ki-moon (01911823) (51436676859).jpg by IAEA Imagebank, CC BY 2.0
+- Oil Derrick.jpg by Cstrs101, CC BY-SA 4.0
+- Oil derricks off the coast of Long Beach, California, March 2018.jpg by Sergei Gussev, CC BY 2.0
+- OIL DERRICKS ARE LOCATED NEAR THE SANDPIPER GOLF COURSE ADDITIONAL OIL PROCESSING FACILITIES ARE SCHEDULED FOR THE... - NARA - 557512.jpg by Charles O'Rear, Public domain
+- 1962 Shelby Cobra 260 Competition HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- 1962 Shelby Cobra 260 HC26.jpg by MrWalkr, CC BY-SA 4.0
+- 1962 Shelby Cobra 260 Competition Rear HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- Shelby American, main entrance.JPG by User:Jaydec, CC BY-SA 3.0
+- Downtown Shelby Ohio.JPG by User:OHWiki, Public domain
+- Shelby Mustang GT500, American Muscle (3515088642).jpg by Iouri Goussev, CC BY-SA 2.0
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Public Library, Shelby, O. - DPLA - cc1708bcb459ba4b0fffc85012d11609 (page 1).jpg by unknown, Public domain
+- School. Shelby, Ohio - DPLA - 6922c4bd00acc81d91a585bec9ca5be6 (page 1).jpg by unknown, Public domain
+- Shelby Daytona Coupe. (31050979833).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Shelby Heritage Center. Las Vegas. (29846667494).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Looks fast..is fast....Ford GT. (31611092626).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Monterey auction August 2009 5 of 6.JPG by MarcMFresko, CC BY-SA 3.0
+- Monterey auction August 2009 1 of 6.JPG by MarcMFresko, CC BY-SA 3.0
+- Monterey auction August 2009 3 of 6.JPG by MarcMFresko, CC BY-SA 3.0
+- Shelby Cobra 289.jpg by Calreyn88, CC BY-SA 4.0
+- Shelby AC Cobra (8911092842).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Shelby Cobra CSX10000.jpg by Calreyn88, CC BY 4.0
+- 1964 Shelby Cobra Slalom Snake.jpg by Sicnag, CC BY 2.0
+- Shelby Cobra 260 CSX2057 (52558480819).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Shelby Cobra 260 CSX2057 (52557732237).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Shelby Cobra 289 (1963) (52874882314).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 427 S C (1966) (52575852963).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 Hardtop Le Mans (1962) (52575772690).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1961 AC Ace HCC22.jpg by MrWalkr, CC BY-SA 4.0
+- 1962 AC Ace Ruddspeed LC25.jpg by MrWalkr, CC BY-SA 4.0
+- 1962 AC Ace 2.6 Ruddspeed.jpg by Mr.choppers, CC BY-SA 3.0
+- AC Ace Bristol 1.jpg by Calreyn88, CC BY-SA 4.0
+- AC Ace Bristol (42873).jpg by Calreyn88, CC BY-SA 4.0
+- AC Ace 2.jpg by Calreyn88, CC BY-SA 4.0
+- Shelby Cobra 427 17 rear.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra 427, Pau 2015.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra 427 17 front.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Blue AC Cobra 427 engine.JPG by BrokenSphere, CC BY-SA 3.0
+- 1967 Shelby 427 Cobra starboard fore quarter, lighter. DSC 0734 (47528138991).jpg by Bill Abbott, CC BY-SA 2.0
+- 2015 Shelby Cobra 50th anniversary Roadster (20958884059).jpg by Sicnag, CC BY 2.0
+- 2015 Shelby Cobra 50th anniversary Roadster (21119467106).jpg by Sicnag, CC BY 2.0
+- 1965 Shelby Cobra Mk III 427 Roadster (20522997804).jpg by Sicnag, CC BY 2.0
+- 1967 AC Cobra Mk III 427 S-C (15966188467).jpg by Sicnag, CC BY 2.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- Audi Sport Quattro (Group B) of Audi Sport 1X7A7247.jpg by Alexander-93, CC BY-SA 4.0
+- Minamishimo Kofun Group-B, 3D-B-1.jpg by Saigen Jiro, CC0
+- 1964 Shelby Cobra 289, Tour Auto 2015, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1963 Shelby Cobra 289, Tour Auto 2015, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra at Spa 2023.jpg by SunflowerYuri, CC BY 4.0
+- Shelby Cobra Daytona Coupe CSX9000 - Replica Superformance (Foto Sp 2016-06-05).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Daytona Coupe (1965) Solitude Revival 2022 1X7A0004.jpg by Alexander Migl, CC BY-SA 4.0
+- Shelby Daytona, 1964.JPG by User:Jaydec, CC BY-SA 3.0
+- 1964-05-31 Scarfiotti, Ludovico - Ferrari.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- 1964 Austin Healey Sprite Lenham Le Mans Coupe.jpg by Calreyn88, CC BY-SA 4.0
+- Le Mans - 11 rue des Chapelains.jpg by Fab5669, CC BY 4.0
+- Ford GT40 Mk II Le Mans 1966 Ken Miles noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Ken, Cadillac Mountain, Acadia National Park, Maine - 68554039.jpg by Ken Lund, CC BY-SA 2.0
+- G-AKKB 2 Miles M-65 Gemini MAN 14SEP13 (9756213211).jpg by Ken Fielding, CC BY-SA 3.0
+- Shelby AC Cobra 427, Ollie the Dragon.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby AC Cobra 427 7.0 (8910467715).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- AC Cobra 427 Heck.jpg by Robotriot, CC BY-SA 3.0
+- VCR-engine dyno testing P1505 Heilbronn University.jpg by Vcrtech, CC BY-SA 4.0
+- V11 dyno print.jpg by Tutkamestari, CC BY-SA 3.0
+- Mobile bike dyno run.jpg by The359, CC BY-SA 2.0
+- Yellow AC Shelby Cobra 427.jpg by Ethan Llamas, CC BY-SA 4.0
+- Shelby Cobra 427 (539467867).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- AC Cobra 427 Front.jpg by Robotriot, CC BY-SA 3.0
+- Halifax DSC 9508 - Shelby Cobra 427 S-C (2918862467).jpg by Dennis G. Jarvis, CC BY-SA 2.0
+- C 427 Roadster.jpg by Sicnag, CC BY 2.0
+- 1963 Shelby Cobra Mk II 289 Roadster (20522983314).jpg by Sicnag, CC BY 2.0
+- Carroll Shelby 427 Cobra (3608963860).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Carroll Shelby 427 Cobra (3608153057).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Shelby AC Cobra 289 FIA Roadster.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby Cobra 427, gray, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1965 Shelby Daytona Super Coupe CSB3054 right rear view.jpg by ITakePhotosOfCars, CC0
+- 1965 Shelby Daytona Super Coupe CSB3054 left front view.jpg by ITakePhotosOfCars, CC0
+- The execution of Mrs. Surratt and the Lincoln assassination conspirators, (reading the warrant) - DPLA - 279adb748700956474f88cb5bbebee93.jpg by Gardner, Alexander, 1821-1882, Public domain
+- The execution of Mrs. Surratt and the Lincoln assassination conspirators, (adjusting the noose) - DPLA - 031215131d752b6070d7df9653b5c67f.jpg by Gardner, Alexander, 1821-1882, Public domain
+- AC Shelby Cobra Daytona (1964).jpg by Olinone, CC0
+- Shelby Cobra 289 MkII (1963) (18678249850).jpg by Kevin Decherf from Nantes, France, CC BY-SA 2.0
+- Shelby Cobra 289 Hardtop Le Mans (1962) (52575602029).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2008 Ford Mustang GT - Bath, Somerset - UK (17297569038).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Shelby AC Cobra (VACM Lachine 2019).jpg by Bull-Doser, Public domain
+- 1966 Shelby AC Cobra-R (49246582421).jpg by Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0
+- AC Cobra MK IV.jpg by Calreyn88, CC BY-SA 4.0
+- 1988 AC Cobra MK IV.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Cobra MK VI GT.jpg by Calreyn88, CC0
+- AC Shelby Cobra Mk II.jpg by Christoph Wagener, CC BY 3.0
+- AC Cobra 289 (Mk II, 1964) (52855928340).jpg by Charles from Port Chester, New York, CC BY 2.0
+- The frontview of AC COBRA Mk.III 427.JPG by Tokumeigakarinoaoshima, CC0
+- Shelby Superperformance 427-435hp Driveable Chassis.JPG by User Nrbelex on en.wikipedia, CC BY 2.5
+- Shelby Daytona Cobra Coupé (1987) (55307421286).jpg by Charles from Port Chester, New York, CC0
+- Superformance Cobra 427 SC.JPG by Alf van Beem, CC0
+- AC Cobra replica, Tilbury, Ontario, 2026-09-07 01.jpg by Chris Woodrich, CC BY-SA 4.0
+- AC Cobra 427 Replica Magnum, Cockpit (2015-09-12 3679 Sp).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra 427 Replica Magnum, Heck (2015-09-12 3675 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Campbell's Soup Cans by Andy Warhol.jpg by Brandon Fick, Public domain
+- Rock and Roll Hall of Fame - October 2015.jpg by Eric Friedebach, CC BY 2.0
+- Flickr - law keven - Time and tide wait for no man....HBW....-O).jpg by Keven Law from Los Angeles, USA, CC BY-SA 2.0
+- Cobra Kai partial cast.jpg by Steven Friederich, CC BY-SA 4.0
+- Bell AH-1F Cobra ‘0-15508’ (67-15508).jpg by HawkeyeUK, CC BY-SA 2.0
+- Cobra Kai 61109191285 (49133795177).jpg by Super Festivals from Ft. Lauderdale, USA, CC BY 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- 2010 Shelby DRB540 Cobra (22605298204).jpg by Sicnag, CC BY 2.0
+- 1963 AC Cobra Mk II 289 CSX2105 (15594534106).jpg by Sicnag, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1965) (52129154913).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52128102722).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52128104907).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT prototype, 'Workhorse 1'.JPG by Jaydec, CC BY-SA 3.0
+- Shelby Mustang GT500, American Muscle, Cobra (3514280259).jpg by Iouri Goussev, CC BY-SA 2.0
+- Shelby American inc. 289 Cobra Mark II (1965) Solitude Revival 2019 IMG 1747.jpg by Alexander Migl, CC BY-SA 4.0
+- 2010 DRB540 Concept Cobra Replica (10813628546).jpg by Sicnag, CC BY 2.0
+- Shelby Cobra Lwvta Replica 2007.jpg by Staffan Andersson, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, AC Ace: https://en.wikipedia.org/wiki/AC_Ace
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
+- Jalopnik, The very first Shelby Cobra just sold for a staggering record $13.75 million (21 Aug 2016): https://www.jalopnik.com/the-very-first-shelby-cobra-just-sold-for-a-staggering-1785559850/
+- Du Pont Registry, Shelby 427 Cobra price, specs, photos and review: https://news.dupontregistry.com/blogs/specs/shelby-427-cobra-price-specs-photos-and-review
+- Hagerty, 1965 Shelby Cobra 427 S/C (CSX3040) past sale and price guide: https://hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX3040/f33aeb97-e529-47a0-8f48-6136a6b53fde

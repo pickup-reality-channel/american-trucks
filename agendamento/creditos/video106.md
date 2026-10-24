@@ -1,0 +1,151 @@
+# Photo credits: Lexus LFA vs Nissan GT-R: The Difference Nobody Explains
+
+- Corvette C7, Lexus LFA, Corvette C5 and Nissan GT-R.jpg by Supercarwaar, CC BY-SA 4.0
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- 2012 Lexus LFA Spider rear.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept rear.jpg by TTTNIS, CC0
+- 2011 Lexus LFA Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA White.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Kasamatsu Supercar Festival 20220807 05.jpg by 先従隗始, CC0
+- Kasamatsu Supercar Festival 20220807 04.jpg by 先従隗始, CC0
+- Kasamatsu Supercar Festival 20220807 03.jpg by 先従隗始, CC0
+- Ford Mustang Supercar of Chaz Mostert at the 2025 Adelaide Grand Final.jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ford Mustang Supercar of Brodie Kostecki at the 2025 Adelaide Grand Final.jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ford Mustang Supercar of Austin Cindric at the 2025 Adelaide Grand Final.jpg by Yu Chu Chin, CC BY-SA 4.0
+- Supercar - Roma Auto Show 68.JPG by Nicholas Gemini, CC BY-SA 4.0
+- Ferrari Roma (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- 2011 Lexus LFA Front.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA 14.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 2.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan Skyline GT-R V-spec, BAS 24, Brussels (P1170369-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Nissan GT-R R35 at the 2026 Adelaide Motorsport Festival (DSCF2567).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Nissan GT-R 7.jpg by Calreyn88, CC BY-SA 4.0
+- Silver Lexus LFA.jpg by ilikewaffles11, CC BY 2.0
+- White Lexus LFA side.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Lexus LFA-02.jpg by Shane K, CC BY-SA 2.0
+- One scene at 2011 Pokka GT Summer Special (112).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2011 Pokka GT Summer Special (194).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2010 Pokka GT Summer Special (18).JPG by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- NISSAN GT-R NISMO Tokyo Motor Show 2013 131127.JPG by Unkei6hokusai4, CC BY-SA 3.0
+- Yamaha V10 engine in a Lexus LFA (52555420262).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Lexus LFA (2012) (52571825489).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52571547261).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan GT-R cutaway 04.jpg by TTTNIS, CC0
+- Nissan GT-R cutaway 03.jpg by TTTNIS, CC0
+- Nissan GT-R SpecV Engine.jpg by Robin Corps from Crowthorne, England, CC BY-SA 2.0
+- NISSAN GT-R - ENGINE (1788902842).jpg by MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN, CC BY 2.0
+- The engine room of Nissan GT-R Premium Edition 2017 year model at Nissan Global Headquarters Gallery.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- The engine room of Nissan GT-R NISMO N Attack Package (DBA-R35) at Nissan Global Headquarters Gallery.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Turbocharged Ford Indianapolis Engine (54585070437).jpg by Tomás Del Coro, CC BY-SA 4.0
+- Turbocharged racing V engine, Deutsches Museum.jpg by Wilfredor, CC0
+- TC2000 Next Gen, Prototype 001 Volkswagen Nivus turbocharged 5 cylinder engine.jpg by Maxi-Napo-99, CC BY-SA 4.0
+- 1963 Humber Sceptre Mk I Saloon (12231549756).jpg by Sicnag, CC BY 2.0
+- 1966 Humber Sceptre Mk II Saloon (12230988855).jpg by Sicnag, CC BY 2.0
+- Flickr - ronsaunders47 - SUZUKI GT250. 250cc TWO STROKE TWIN.UK.jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- 【JERA セ・リーグ公式戦】横浜DeNAベイスターズ vs 読売ジャイアンツ 17回戦 横浜スタジアム 2026年8月18日の横浜 202608181732 DSCN6981.jpg by ウィ貴公子, CC BY-SA 4.0
+- Artemis V Engine Section Barrel Enters Vertical Assembly Center (MAF 20260805 CS5 ES lift VAC-11).jpg by NASA Michoud Assembly Facility / Steven B. Seipel, Public domain
+- Artemis V Engine Section Barrel Enters Vertical Assembly Center (MAF 20260805 CS5 ES lift VAC-22).jpg by NASA Michoud Assembly Facility / Steven B. Seipel, Public domain
+- Artemis V Engine Section Barrel Enters Vertical Assembly Center (MAF 20260805 CS5 ES lift VAC-62).jpg by NASA Michoud Assembly Facility / Steven B. Seipel, Public domain
+- Ranger L-440-1 engine plate.jpg by Pi3.124, CC BY-SA 4.0
+- BMW U11 fire engine DSC 7848.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes 911 - fire engine in Bitola.JPG by Pudelek (Marcin Szala), CC BY-SA 3.0
+- 1996 Nissan Skyline R33 GT-R (16586422699).jpg by Sicnag, CC BY 2.0
+- Nissan GT-R 9.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R 8.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA intake closeup.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA Matte Black 12 wheel.jpg by robpoetsch, CC BY 2.0
+- White Lexus LFA front.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Nissan Skyline GT-R (R34, 2001) (52573871385).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Nissan Skyline GT-R (R34, 2001) (52573871425).jpg by Charles from Port Chester, New York, CC BY 2.0
+- G 123 Nissan GT-R (8011406909).jpg by Kurush Pawar from Dubai, United Arab Emirates, CC BY-SA 2.0
+- Nissan GT-R 5.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R 6.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R (98959).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (54251).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (26925).jpg by Calreyn88, CC BY-SA 4.0
+- 2011 Lexus LFA.jpg by MrWalkr, CC BY-SA 4.0
+- 2012 Lexus LFA Nurburgring Edition in Emerald T Green.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA Nürburgring Edition (49595380907).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lexus LFA Nürburgring Package at the 2011 Geneva Motor Show.jpg by Autoviva from Portugal, CC BY 2.0
+- FIA-GT-1-WM-Nissan-GT-R-Nr.3.jpg by Borussiafreialdenhoven, Public domain
+- FIA-GT-1-WM-Nissan-GT-R-Nr.23.jpg by Borussiafreialdenhoven, Public domain
+- FIA-GT-1-WM-Nissan-GT-R-Nr.4.jpg by Borussiafreialdenhoven, Public domain
+- Nissan GT-R Nismo (28492).jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R Nismo 2.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R Nismo, GIMS 2014 (Ank Kumar, Infosys) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Killarney Race Track in Tableview Cape Town.jpg by SkyPixels, CC BY-SA 4.0
+- Circuit de bicross en construction.jpg by Syced, CC0
+- Snetterton Racing Circuit (9096594820).jpg by John Fielding from Norwich, UK, CC BY 2.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Nissan GT-R Nismo.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Nissan GT-R 2.jpg by Calreyn88, CC BY-SA 4.0
+- Nissan GT-R T-spec MY2024, front, 2023.jpg by Kazyakuruma, CC0
+- Lexus LFA (98906).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (55691).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (62499).jpg by Calreyn88, CC BY-SA 4.0
+- Bandini-1 1965 1000-km-Rennen Nürburgring - Foto Spurzem.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Boxenstopp 24-Stunden-Rennen 2008.jpg by Sam-4u, CC BY-SA 4.0
+- 2019 24 Hours of Nürburgring Toyota GR Supra.jpg by TTTNIS, CC0
+- 1985 Nissan Skyline GT (34461826736).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Nissan GT-R 50 by Italdesign, Nissan Global HQ, 2022, right.jpg by Kazyakuruma, CC BY-SA 4.0
+- Nissan GT-R 50 by Italdesign, Nissan Global HQ, 2022, front.jpg by Kazyakuruma, CC BY-SA 4.0
+- Safety car run at SUZUKA 1000km THE FINAL (17).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Safety car run at SUZUKA 1000km THE FINAL (2).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Safety car run at SUZUKA 1000km THE FINAL (12).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Lexus LFA at NAIAS 2012 (6679689891).jpg by Autoviva, CC BY 2.0
+- Lexus LFA at NAIAS 2012 (6679686845).jpg by Autoviva, CC BY 2.0
+- Lexus LFA at NAIAS 2012 (6679688201).jpg by Autoviva, CC BY 2.0
+- 1975 Nissan Skyline GTR 2000 (23705888815).jpg by Sicnag, CC BY 2.0
+- 1966 Nissan Prince Skyline S54 2000GT-A (28153748602).jpg by Sicnag, CC BY 2.0
+- 1967 Nissan Prince Skyline S54 2000GT-B (37367111482).jpg by Sicnag, CC BY 2.0
+- Lexus LFA (4058106643).jpg by kosabe, CC BY-SA 2.0
+- Lexus LFA (49944546063).jpg by Rutger van der Maar, CC BY 2.0
+- Lexus LFA (7693856618).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 24).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 8).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 49).jpg by Wright Brothers, Dayton, Ohio, CC0
+- Drawing, Western Tea Buyers, and Loading the Boat for Shipping, 1890–1910 (CH 18652649).jpg by Unknown artistUnknown artist, Public domain
+- Drawing, Page of a drawing book; St. Jerome in desert; Wedding of St. Catherine; Crucifixion; Christ driving out sellers and buyers, ca. 1590 (CH 18117719-2).jpg by Unknown artistUnknown artist, Public domain
+- Flickr - wbaiv - TWO (count them) Porsche GTS coupes....jpg by Bill Abbott, CC BY-SA 2.0
+- Nissan GT-R (30780).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Nissan GT-R 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Nissan GT-R Black Edition 2.jpg by Calreyn88, CC BY-SA 4.0
+- One scene at 2011 Pokka GT Summer Special (81).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2010 Pokka GT Summer Special (36).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Starting grid at 2011 Pokka GT Summer Special (2).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 067 - Nissan GT-R - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- 067 - Nissan GT-R - Flickr - Price-Photography (cropped).jpg by Michael Price from Houston, USA, CC BY 2.0
+- 026 - Nissan Skyline - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- 2009 Nissan GT-R SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- CCA 1 42 Nissan GT-R (2024-11-30).jpg by 茅野ふたば, CC BY 4.0
+- 2022 Nissan GT-R Nismo SCD24.jpg by MrWalkr, CC BY-SA 4.0
+- Nissan GT-R Nismo, GIMS 2014 (Ank Kumar, Infosys) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Nissan GT-R Nismo, GIMS 2014 (Ank Kumar, Infosys) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Nissan GT-R Nismo, GIMS 2014 (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Nissan GT-R NISMO Special Edition (4BA-R35) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Nissan GT-R NISMO Special edition (4BA-R35) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Nissan GT-R NISMO Special edition (4BA-R35) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Wikipedia, Nissan GT-R: https://en.wikipedia.org/wiki/Nissan_GT-R
+- Car and Driver (via Yahoo Autos), 2024 Nissan GT-R costs $122,885 (16 May 2023): https://autos.yahoo.com/2024-nissan-gt-r-costs-161200041.html
+- Jalopnik, 2009 Nissan GT-R priced at $69,850, on sale July 7: https://jalopnik.com/2009-nissan-gt-r-priced-at-69-850-on-sale-july-7-397345
+- Motor Authority, Pearl Yellow 2012 Lexus LFA with 72 miles sells for $808,000 on Bring a Trailer (7 July 2021): https://www.motorauthority.com/news/1132702_pearl-yellow-2012-lexus-lfa-with-72-miles-sells-for-808-000-on-bring-a-trailer
+- Supercar Blondie, Super rare Lexus LFA sells for massive $845k at auction (25 April 2022): https://supercarblondie.com/cars/lexus-lfa-850-miles-sells-845k/

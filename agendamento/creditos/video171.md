@@ -1,0 +1,139 @@
+# Photo credits: Why a Toyota 2000GT Costs More Than a New Ferrari
+
+- Toyota 2000GT (58142).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota 2000GT (56172).jpg by Calreyn88, CC BY-SA 4.0
+- Toyota MF10 2000GT (22102313562).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT (22102313563).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT (22102313564).jpg by 先従隗始, CC0
+- 1968 Toyota 2000GT Low.jpg by MrWalkr, CC BY-SA 4.0
+- 1968 Toyota 2000GT White.jpg by MrWalkr, CC BY-SA 4.0
+- 1968 Toyota 2000GT Rear.jpg by MrWalkr, CC BY-SA 4.0
+- The interior of Toyota 2000GT (MF10 previous period).JPG by Tokumeigakarinoaoshima, CC0
+- The interior of Toyota 2000GT (MF10 latter period).JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000GT (1967) - 30424538803.jpg by andreboeni, CC BY 2.0
+- The interior of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- The interior of roadster Ryuhi Final ver.SPEED TRIAL.JPG by Tokumeigakarinoaoshima, CC0
+- 1968 Toyota 2000GT LC22.jpg by MrWalkr, CC BY-SA 4.0
+- Toyota 2000GT (side view) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- Toyota 2000GT (front three-quarter view1) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- Toyota 2000GT rear 01.jpg by Louis Rix, CC BY 2.0
+- Toyota 2000GT MF10 (1968) rear-right Toyota Automobile Museum.jpg by Morio, CC BY-SA 3.0
+- Toyota 2000GT EV rear.jpg by TTTNIS, CC0
+- Toyota 2000GT rear.jpg by unknown, CC BY-SA 3.0
+- 2000GT (REAR).JPG by Coup final, Public domain
+- Toyota 2000GT engine.jpg by TTTNIS, CC0
+- Toyota 2000gt 2m engine.jpg by Brian Lueck, aka User:Blueck, CC BY-SA 3.0
+- Toyota 2000GT (1967) - 30424550763.jpg by andreboeni, CC BY 2.0
+- 1968 Toyota 2000GT photo1.JPG by Alf van Beem, CC0
+- Toyota 2000GT (front three-quarter view2) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- 1967 Toyota 2000GT (MF10L), Bellatrix Yellow, front right side.jpg by Mr.choppers, CC BY-SA 3.0
+- Toyota 2000GT front 01.jpg by Louis Rix, CC BY 2.0
+- Toyota 2000GT 5.jpg by Calreyn88, CC BY-SA 4.0
+- Toyota 2000GT MF10 (1968) front-left Toyota Automobile Museum.jpg by Morio, CC BY-SA 3.0
+- 1968 Toyota 2000GT (49561680437).jpg by Rutger van der Maar, CC BY 2.0
+- Toyota 2000GT Motorcar Museum Japan.jpg by MikaPr65, CC BY-SA 4.0
+- 1968 Toyota 2000GT (49560950198).jpg by Rutger van der Maar, CC BY 2.0
+- 1968 Toyota 2000GT (49561680672).jpg by Rutger van der Maar, CC BY 2.0
+- Toyota MF10L 2000GT - Toyota MF10 2000GT (23110314391).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT (22022010271).jpg by 先従隗始, CC0
+- Toyota 2000GT (MF12L, mid-year 1967) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1967-1969 Toyota 2000GT rear.jpg by TTTNIS, CC BY-SA 3.0
+- 1982 Toyota Celica 2000GT Group 4 rear.jpg by TTTNIS, CC0
+- Toyota 2000GT (1967) - 46029484041.jpg by andreboeni, CC BY 2.0
+- Toyota 2000GT (8685792748).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Toyota 2000GT (8685789036).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Toyota 2000 GT 1967 in der Toyota Collection.JPG by Buch-t, CC BY-SA 3.0 de
+- Toyota 2000 GT 1967 im Museum Hartkirchen.JPG by Buch-t, CC BY-SA 3.0 de
+- The left side of roadster Ryuki Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota 2000GT front.jpg by Cosy-ch, CC BY-SA 3.0
+- 1968 Toyota 2000GT photo3.JPG by AlfvanBeem, CC0
+- Toyota 2000GT (MF12L, mid-year 1967) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota 2000GT, Osaka Auto Messe 2009.jpg by Motokoka, CC BY-SA 4.0
+- Toyota MF10 2000GT Roadster (25021111051).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT Roadster (22022009543).jpg by 先従隗始, CC0
+- AC Cobra 427.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- 1966 Shelby 427 S-C Cobra 6170718.jpg by Ermell, CC BY-SA 4.0
+- Shelby 427 S-C Cobra 1966 6170717.jpg by Ermell, CC BY-SA 4.0
+- 1970 Jaguar E-Type Roadster 4.2.jpg by Vauxford, CC BY-SA 4.0
+- Jaguar E-Type Series 1 4.2 Litre 1967.jpg by DeFacto, CC BY-SA 4.0
+- Jaguar E-Type series 1 roadster dash - 1967.jpg by DeFacto, CC BY-SA 4.0
+- 2M-G for the famous Toyota 2000GT - Flickr - Moto@Club4AG.jpg by Motohide Miwa from USA, CC BY 2.0
+- Toyota E-RA55 Celica Camry 2000GT (No.54) (22101611181).jpg by 先従隗始, CC0
+- The engine room of roadster Ryuhi Final ver.Bond car.JPG by Tokumeigakarinoaoshima, CC0
+- 1965-05-23 21 Hatzenbach - Shelby Cobra, J. Sears-F. Gardner.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Kulmbach-20220626-RM-111042.jpg by Ermell, CC BY-SA 4.0
+- AC Shelby Cobra 427 Oldtimertreffen Ebern 2019 6200154.jpg by Ermell, CC BY-SA 4.0
+- AC Cobra 427 Replica Magnum, li. Seite (2015-09-12 3676 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra 427 RAM Replica, Bj. 1973 (2015-09-12 3697 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra Fia Roadster (1964) Solitude Revival 2022 1X7A0085.jpg by Alexander Migl, CC BY-SA 4.0
+- AC Cobra Tour Auto 2014 Circuit de Dijon Prenois 12.jpg by François de Dijon, CC BY-SA 3.0
+- Shelby AC 427 Cobra vl blue.jpg by Stahlkocher, CC BY-SA 3.0
+- Shelby AC Cobra 289 USRRC Roadster.jpg by User:Jaydec, CC BY-SA 3.0
+- 1967-1970 Toyota 2000GT coupe (16109105472).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Toyota MF10 2000GT Roadster (25021111043).jpg by 先従隗始, CC0
+- Toyota MF10 2000GT Roadster (25021111052).jpg by 先従隗始, CC0
+- 1976 Toyota Celica 2000GT Group 4 rear.jpg by TTTNIS, CC0
+- Toyota Corona 2000GT rear.jpg by TTTNIS, Public domain
+- Toyota CELICA LIFTBACK 2000GT (A20) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Carroll Shelby 427 Cobra (3608974984).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Shelby AC Cobra, CSX2000.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby Cobra 289.jpg by Calreyn88, CC BY-SA 4.0
+- The left side of roadster Ryuhi Final ver.SPEED TRIAL.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota FT-1 Concept 13.jpg by Tuner tom, CC BY-SA 3.0
+- Toyota MF10 2000GT Roadster (25021111050).jpg by 先従隗始, CC0
+- Toyota Sports800 and Toyota 2000GT at MEGAWEB 002.JPG by No machine-readable author provided. Yosemite~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- 1970 Nissan Skyline Sedan 2000GT front left.jpg by TTTNIS, CC0
+- Toyota Sports800 and Toyota 2000GT at MEGAWEB 001.JPG by No machine-readable author provided. Yosemite~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- Toyota MF10 2000GT Roadster (25021111044).jpg by 先従隗始, CC0
+- Shelby Cobra CSX10000.jpg by Calreyn88, CC BY 4.0
+- Shelby AC Cobra (8911092842).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Carroll Shelby 427 Cobra (3608963860).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- 2000GT (62788757).jpg by machu., CC BY 2.0
+- Aston Martin DB5 & Toyota 2000 GT Models (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Aston Martin DB5 & Toyota 2000 GT Models (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Toyota CELICA LIFTBACK 2000GT (A20) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota 2000GT.jpg by User:Morven, CC BY-SA 3.0
+- Toyota CELICA COUPE 2000GT (A40) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota GR Yaris RZ 1X7A0252.jpg by Alexander Migl, CC BY-SA 4.0
+- Toyota GR Yaris RC (2024) Leonberg 2024 IMG 1063.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota Yaris Cross Hybrid GR Sport IMG 2145.jpg by Alexander-93, CC BY-SA 4.0
+- Toyota CELICA LB 2000GT (A20) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota CELICA COUPE 2000GT (A40) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Tuned Toyota CORONA 4door Sedan 2000GT (T140) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota 2000 GT (1967) (52874881799).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota 2000 GT (1967) (52874881754).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Toyota 2000 GT (1967) (52874136267).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Tuned Toyota CORONA 4door Sedan 2000GT (T140) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota CELICA XX 2000GT (E-GA61) front.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Toyota CELICA XX 2000GT (E-GA61) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1979 Toyota Celica 2000GT RA45 Group 4 rear.jpg by TTTNIS, CC0
+- 1973-1975 Toyota Celica LB 2000GT rear.jpg by TTTNIS, CC0
+- Carroll Shelby 427 Cobra (3608153057).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Shelby AC Cobra 289 FIA Roadster.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby AC Cobra 427 7.0 (8910467715).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Shelby AC Cobra (VACM Lachine 2019).jpg by Bull-Doser, Public domain
+- Shelby AC Cobra 427, Ollie the Dragon.JPG by User:Jaydec, CC BY-SA 3.0
+- 1966 Shelby AC Cobra-R (49246582421).jpg by Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0
+- Shelby Cobra 427, Pau 2015.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1962 Shelby Cobra 260 Competition HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- Shelby Cobra 427 17 rear.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1983-1986 Toyota Celica XX 2000GT rear.jpg by TTTNIS, CC0
+- 1978 Toyopet Corona 2000GT rear.jpg by TTTNIS, CC0
+- 1968 Toyota 2000 GT (2000 TY).jpg by Carfanatic2019, CC BY-SA 4.0
+- Classic Motor Show 2018 (45969411341).jpg by Thomas Harrison-Lord from Leeds, United Kingdom, CC0
+
+## Sources
+
+- Hagerty Valuation Tools, 1967 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1967-Toyota-2000GT
+- Hagerty Valuation Tools, 1969 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1969-Toyota-2000GT
+- The Manual (Lou Ruggieri), Every Ferrari available, 9 Oct 2024: https://themanual.com/auto/every-ferrari-available
+- Supercars.net, Current Ferrari models: https://www.supercars.net/blog/current-ferrari-models/
+- BusinessDay, Toyota SA restores ultra-rare 2000 GT worth R30m, 18 Oct 2022: https://www.businessday.co.za/bd/life/motoring/2022-10-18-toyota-sa-restores-ultra-rare-2000-gt-worth-r30m
+- Toyota UK Magazine, Classic Toyota 2000GT returned to former glory, 6 Dec 2012: https://mag.toyota.co.uk/exclusive-toyota-2000gt-restoration/
+- Japanese Nostalgic Car, Tree-damaged Toyota 2000GT arrives at repair shop, 19 Jun 2014: https://japanesenostalgiccar.com/news-tree-damaged-toyota-2000gt-arrives-at-repair-shop/
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Hagerty Media, Toyota-Shelby 2000GT sale record, 7 Mar 2022
+- Sports Car Market, Toyota 2000GT profile and auction history
+- Luxury Entertainment Partners, 1967 Toyota 2000GT listing
+- US Census Bureau, median household income 2024: $83,730

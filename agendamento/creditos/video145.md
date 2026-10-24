@@ -1,0 +1,95 @@
+# Photo credits: 2 Things You Didn't Know About the Ferrari Purosangue
+
+- Ferrari Purosangue IMG 9554.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9550.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7008.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7007.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7003.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9563.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 2488.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7002.jpg by Alexander Migl, CC BY-SA 4.0
+- Rolls-Royce Cullinan 009.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 005.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 004.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 001.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 002.jpg by Jengtingchen, CC BY-SA 4.0
+- Rolls-Royce Cullinan 003.jpg by Jengtingchen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China.jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- Ferrari Purosangue at the 2025 Shannons Adelaide Rally (028A4470).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari Purosangue, Auto 2025, Zurich (20251029-P1074508).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7776.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7775.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7778.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7783.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7777.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari Purosangue MYLE Festival 2025 DSC 9651.jpg by Alexander Migl, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (5).jpg by Dinkun Chen, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6805.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8524.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6798.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (85818).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (23975).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Rear.jpg by Harvey Bold, CC0
+- 2024 Ferrari Purosangue 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari Purosangue 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 8.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ferrari Purosangue 3.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6796.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8521.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus rear view dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan (70701).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Side.jpg by Harvey Bold, CC0
+- ROLLS ROYCE CULLINAN & ISUZU ELF N SERIES.jpg by Dinkun Chen, CC BY-SA 4.0
+- Osaka Auto Messe 2025 (189) - Ferrari Purosangue & AERO OVER P639e.jpg by Tokumeigakarinoaoshima, CC0
+- 2020 Rolls-Royce Cullinan cropped.jpg by Tristan Surtel, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (6).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2024 Rolls-Royce Cullinan V12 - 6749cc 6.75 (571PS) Petrol - Salamanca Blue - 01-2025, Front.jpg by Harvey Bold, CC0
+- Lamborghini Urus front view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus oblique view dllu 01.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus 19.09.20 JM (2).jpg by Johannes Maximilian, CC BY-SA 4.0
+- Rolls-Royce Cullinan Black Badge Mansory.jpg by Calreyn88, CC BY-SA 4.0
+- ROLLS ROYCE CULLINAN China (7).jpg by Dinkun Chen, CC BY-SA 4.0
+- Rolls Royce Cullinan Rear End.jpg by Kārlis Dambrāns, CC BY 2.0
+- Rolls Royce Cullinan Interior.jpg by Kārlis Dambrāns, CC BY 2.0
+- 2019 Rolls-Royce Cullinan in Arctic White, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 2019 Rolls-Royce Cullinan in Arctic White, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari Factory (Maranello, Modena) in 2018.08.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.11.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.10.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Roma IMG 9620.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Roma Spider IMG 9546.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Roma IMG 9620 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus at IAA 2019 IMG 0175.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus, BAS 24, Brussels (P1170506).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus 1X7A1637.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.07.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.13.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Lamborghini Urus Mansory IMG 9587.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6804.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6803.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A1655.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A7434.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A7428.jpg by Alexander-93, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ferrari Purosangue: https://en.wikipedia.org/wiki/Ferrari_Purosangue
+- Motor1 (Brian Silvestro), Ferrari Purosangue: the most fun SUV ever: https://www.motor1.com/reviews/725148/2025-ferrari-purosangue-review/
+- Robb Report, Ferrari stops taking Purosangue orders because of high demand: https://robbreport.com/motors/cars/ferrari-temporarily-closes-purosangue-order-book-1234778214/
+- Carscoops, Ferrari reopens Purosangue SUV orders as profits surge by 27% in Q1: https://www.carscoops.com/2023/05/ferrari-reopens-purosangue-orders-as-profits-surge-by-27-in-q1/
+- Motor1, Ferrari says if you order a car today you won't get it until 2026: https://www.motor1.com/news/694830/ferrari-new-orders-fulfilled-2026/
+- autoevolution (Cristian Gnaticov), Ferrari's ex-CEO on an SUV: 'you have to shoot me first': https://www.autoevolution.com/news/ferrari-s-ex-ceo-on-an-suv-you-have-to-shoot-me-first-meet-the-purosangue-198601.html
+- Autocar (Rachel Burgess), Ferrari boss: SUV-like vehicle will 'probably happen': https://www.autocarpro.in/news-international/ferrari-boss-suv-vehicle-probably-happen-25661
+- AOL, 2024 Ferrari Purosangue will start at an eye-watering $398,350: https://www.aol.com/2024-ferrari-purosangue-start-eye-143900131.html
+- Cars.com, Ferrari Purosangue vs. Rolls-Royce Cullinan: https://www.cars.com/research/compare/ferrari-purosangue-vs-rolls_royce-cullinan/
+- Autohled, Ferrari averaged 524 thousand euros in revenue for every car: https://www.autohled.cz/en/magazin/ferrari-utrzilo-v-prumeru-524-tisic-eur-za-kazde-auto-rekordni-rok-2025-ukazuje-silu-exkluzivity/9983
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html

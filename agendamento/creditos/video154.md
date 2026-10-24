@@ -1,0 +1,82 @@
+# Photo credits: DeLorean vs Cybertruck: Two Stainless Steel Bets
+
+- 2024 Tesla Cybertruck Foundation Series IMG 0634 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- Foundation series Cybertruck at dusk in San Jose dllu.jpg by Dllu, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0642.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0634.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0576.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0629.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0622.jpg by Alexander-93, CC BY-SA 4.0
+- 2024 Tesla Cybertruck Foundation Series IMG 0620.jpg by Alexander-93, CC BY-SA 4.0
+- Tesla Cybertruck (2024).jpg by Amaury Laporte, CC BY 2.0
+- 2024 Tesla Cybertruck, Moab 02.jpg by A1C6, CC0
+- Tesla Cybertruck 003.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck dark gray 01.jpg by Wikideas1, CC0
+- Tesla Cybertruck dark gray 02.jpg by Wikideas1, CC0
+- Tesla Cybertruck - 06.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck 004.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck SoHo 001.jpg by Kidfly182, CC BY 4.0
+- 1983 DeLorean DMC-12, rear right, 05-18-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- DeLorean DMC-12 (rear).jpg by Fiver, der Hellseher, CC BY-SA 4.0
+- DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- 1982 DeLorean DMC-12 rear.JPG by BrokenSphere, CC BY 3.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (4).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 04.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck (grey) - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear 9.7.24.jpg by Kevauto, CC BY-SA 4.0
+- 20191121-tesla-cybertruck-charging-port-closed.jpg by u/mrlewaynee, CC BY-SA 4.0
+- 2024 Tesla Cybertruck, rear left, 07-27-2024.jpg by Cutlass, CC0
+- Tesla Cybertruck - 08.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Tesla Cybertruck 001.jpg by Kidfly182, CC BY 4.0
+- Tesla Cybertruck - 07.jpg by Oleg Yunakov, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-10-09.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 BW 2017-07-16 15-08-14.jpg by Berthold Werner, CC BY-SA 4.0
+- DeLorean DMC-12 Ebermannstadt 1250050.jpg by Ermell, CC BY-SA 4.0
+- HMS Belfast with rainbow.jpg by Dmitry A. Mottl, CC BY-SA 3.0
+- Belfast Metropolitan College.jpg by William Murphy
+uploaded and derivative work: MrPanyGoff, CC BY-SA 2.0
+- Queen's University of Belfast, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- 1981 Delorean DMC-12.jpg by Sicnag, CC BY 2.0
+- 1981 Delorean DMC (29043312252).jpg by Sicnag, CC BY 2.0
+- DMC Delorean (17267714495).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (5102713156).jpg by Spanish Coches, CC BY 2.0
+- DMC Delorean (17241749796).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (17267205971).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (17267195161).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (16645278754).jpg by ilikewaffles11, CC BY 2.0
+- DMC Delorean (5102119703).jpg by Spanish Coches, CC BY 2.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7217.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 DSC 0050.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7220.jpg by Alexander Migl, CC BY-SA 4.0
+- 1983 DMC De Lorean, rear left, 09-07-2024.jpg by MercurySable99, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica (3).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- 1981 De Lorean DMC-12 (rear), Megaweb History Garage.jpg by Luis Villa del Campo from Madrid, Spain, CC BY 2.0
+- 1981 DeLorean DMC-12 interior Petersen.jpg by Patrick Pelletier, CC BY-SA 4.0
+- DeLorean DMC-12 in BACK TO THE FUTURE replica.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- DeLorean DMC-12 - Back to the Future – CeBIT 2016 14.jpg by Frank Schwichtenberg, CC BY 4.0
+- Dmc delorean 3.jpg by Thilo Parg, CC BY-SA 3.0
+- DMC Delorean (17241743436).jpg by ilikewaffles11, CC BY 2.0
+- 1980 DMC Delorean.jpg by Calreyn88, CC BY 4.0
+- GiorgettoGiugiaro.jpg by Mitjagodnic, CC BY-SA 4.0
+- Giorgetto Giugiaro's GFG Sibylla EV Concept at Grand Basel 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Giorgetto Giugiaro's GFG Sibylla EV Concept at Grand Basel 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7215.jpg by Alexander Migl, CC BY-SA 4.0
+- DeLorean DMC-12, ADAC Deutschland Klassik 2025, Heidelberg (P1048747).jpg by Matti Blume, CC BY-SA 4.0
+- DeLorean DMC-12 Classic-Days 2022 IMG 7218.jpg by Alexander Migl, CC BY-SA 4.0
+- King William's Corner, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- Ulster Bank Building, Belfast, Northern Ireland, April 2024.jpg by Steven1991, CC BY-SA 4.0
+- 1983 DeLorean DMC-12, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- 1964 Pontiac XP-833 "Banshee" in Silver, interior.jpg by Mr.choppers, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, Tesla Cybertruck: https://en.wikipedia.org/wiki/Tesla_Cybertruck
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- Yahoo Autos (Business Insider), Forget rust spots: handprints are the bigger headache for Tesla Cybertruck drivers, 10 Mar 2024: https://autos.yahoo.com/forget-rust-spots-mdash-handprints-103702512.html
+- InsideEVs (Iulian Dnistran), Tesla wanted $3,000 to fix a dented Cybertruck. The owner fixed it for $25, 21 Dec 2024: https://insideevs.com/news/744851/tesla-cybertruck-diy-dent-removal-video/
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/

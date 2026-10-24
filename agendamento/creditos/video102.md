@@ -1,0 +1,103 @@
+# Photo credits: AMG One vs Aston Martin Valkyrie: The Real Difference
+
+- Aston Martin Valkyrie, BAS 24, Brussels (P1170224-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Valkyrie, EMS 2023, Essen (P1160761-RR).jpg by MB-one, CC BY-SA 4.0
+- Aston Martin Valkyrie, TC 24, Essen (TCE42947).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Aston Martin Valkyrie AMR Pro 6.5 Front.jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin Valkyrie GIMS 2024 1X7A2266.jpg by Alexander-93, CC BY-SA 4.0
+- BAS 24, Brussels (P1170498-RR).jpg by Matti Blume, CC BY-SA 4.0
+- GIMS 2024, Le Grand-Saconnex (GIMS0221).jpg by Matti Blume, CC BY-SA 4.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0136-2).jpg by Matti Blume, CC BY-SA 4.0
+- ESO - The Carina Nebula (by).jpg by ESO/IDA/Danish 1.5 m/R.Gendler, J-E. Ovaldsen, C. Thöne, and C. Feron., CC BY 4.0
+- Aston Martin Valkyrie AMR Pro Auto Zuerich 2023 1X7A1482.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Valkyrie AMR Pro Auto Zuerich 2023 1X7A1481.jpg by Alexander-93, CC BY-SA 4.0
+- VISTA's infrared view of the Lagoon Nebula (Messier 8).jpg by ESO/VVV, CC BY 4.0
+- VST images the Lagoon Nebula.jpg by ESO/VPHAS+ team, CC BY 4.0
+- Lagoon Nebula (ESO).jpg by ESO/S. Guisard, CC BY 4.0
+- Eta Carinae Nebula 1.jpg by Hubble image: NASA, ESA, N. Smith (University of California, Berkeley), and The Hubble Heritage Team (STScI/AURA)
+CTIO data: N. Smith (University of California, Berkeley) and NOAO/AURA/NSF, Public domain
+- 2023 Aston Martin Valkyrie Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Aston Martin Valkyrie FOS21.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie 2023.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie 2023 9.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie Side Angle.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Aston Martin Valkyrie Low Angle.jpg by MrWalkr, CC BY-SA 4.0
+- AMG in Affalterbach - panoramio.jpg by qwesy qwesy, CC BY 3.0
+- Mercedes-Benz C63 AMG Affalterbach Edition.jpg by Shane K, CC BY-SA 2.0
+- Mercedes-Benz C63 AMG Affalterbach Edition-02.jpg by Shane K, CC BY-SA 2.0
+- 2023 Aston Martin Valkyrie 0441.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie 3.jpg by Calreyn88, CC0
+- 2023 Aston Martin Valkyrie DMD.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie 2023 12.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Aston Martin Valkyrie Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Aston Martin Valkyrie Yellow.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Aston Martin Vantage V8 Automatic 4.0 (1).jpg by Vauxford, CC BY-SA 4.0
+- 2014 Aston Martin DB10 4.7.jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin DB10 2015.jpg by DeFacto, CC BY-SA 4.0
+- Aston Martin Lagonda, GIMS 2018, Le Grand-Saconnex (1X7A1616).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Lagonda, GIMS 2018, Le Grand-Saconnex (1X7A1619).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DBX707 1X7A0360.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes AMG F1 W08 EQ Power+ Fuel Tank at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes・F1 W08 EQ Power+.JPG by Mclarensenna, Public domain
+- Mercedes-AMG F1 at IAA 2017 IMG 0764.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin DB10 2015 - rear.jpg by DeFacto, CC BY-SA 4.0
+- Aston Martin DBR4, Bj. 1959 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2019 Aston Martin DBS Superleggera Volante 5.2.jpg by Vauxford, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1046.jpg by Alexander Migl, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1111.jpg by Alexander Migl, CC BY-SA 4.0
+- 1983 Aston Martin Lagonda Series 2 Classic-Gala 2025 DSC 1111 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin, Techno-Classica 2018, Essen (IMG 9788).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin V8 Vantage Roadster IMG 8846.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Vantage (2024) IMG 0015.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB7 Vantage Volante, Auto 2025, Zurich (20251029-P1073723).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DBS Superleggera Volante IMG 4413.jpg by Alexander Migl, CC BY-SA 4.0
+- Aston Martin Vantage (2024) IMG 0002.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB9 coupe 04.jpg by Maksim Sidorov, CC BY 3.0
+- Aston Martin, Techno-Classica 2018, Essen (IMG 9411).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1921.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Vantage, Paris Motor Show 2018, Paris (1Y7A1615).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB12 1X7A1934.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin DB 4, Bj. 1960, linkes Hinterrad(2008-06-28).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Aston Martin V8 Vantage, GIMS 2018, Le Grand-Saconnex (1X7A1588).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin DB12 Volante IMG 9319.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Lagonda haynes.jpg by Calreyn88, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3473).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, IAA 2017 (1Y7A2959).jpg by MB-one, CC BY-SA 4.0
+- Mercedes-Benz SLS AMG Roadster, IAA 2011, Frankfurt am Main (DSC03249).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz C32 AMG F1 Medical Car rear Mercedes-Benz Museum.jpg by Morio, CC BY-SA 3.0
+- Mercedes-Benz CL 65 AMG, TC 24, Essen (TCE42745-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 1988 Mercedes 560 SEC with AMG kit, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz AMG A45S in Mountain Grey, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz C209 CLK 63 AMG Black Series, Techno-Classica 2025, Essen (P1045559).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG Project One, IAA 2017, Frankfurt (1Y7A3441).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG V8 BITURBO SUV (50703492437).jpg by silver-novice ~ ne res adversae impediant from Birkenhead, ENGLAND, CC BY 2.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 02.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 04.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 08.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 06.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 07.jpg by Ank kumar, CC BY-SA 4.0
+- 2019 Mercedes-Benz E53 AMG Cabriolet in Diamond Silver Metallic, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 1991 Mercedes-Benz 560 SEC AMG in Blue-Black Metallic, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (1996) (52871121586).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mercedes-AMG One IAA 2023 1X7A0454.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032097).jpg by Matti Blume, CC BY-SA 4.0
+- AMG Mercedes-Benz C204 (DTM).jpg by Stefan Krause, Germany, CC BY-SA 3.0
+- W08 (35575828520).jpg by Andrew & Alan Frost from Essex, United Kingdom, CC BY 2.0
+- Valtteri Bottas 2017 Catalonia test (27 Feb-2 Mar) Day 1.jpg by Morio, CC BY-SA 3.0
+- Mercedes F1 car 04.jpg by Ank kumar, CC BY-SA 4.0
+- Mercedes-AMG One, Techno-Classica 2025, Essen (P1045566).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GLE 43 (P1070799).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, IAA 2017, Frankfurt (1Y7A3021).jpg by Matti Blume, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- Wikipedia, Aston Martin Valkyrie: https://en.wikipedia.org/wiki/Aston_Martin_Valkyrie
+- Fortune/Bloomberg, Aston Martin's most expensive Valkyrie supercar (23 Feb 2024): https://fortune.com/europe/2024/02/23/aston-martin-most-expensive-valkyrie-supercar-3-million-plus-450000-upkeep
+- Automotive News Europe, Aston Martin Valkyrie deliveries delayed by electronics issues: https://europe.autonews.com/automakers/aston-martin-valkyrie-deliveries-delayed-electronics-issues-report-says
+- CarAdvice, Mercedes-AMG One delayed nine months: https://www.caradvice.com.au/news/mercedes-amg-one-delayed/
+- Autocar, Mercedes-AMG One delay: https://www.autocar.co.uk/node/102901
+- Top Gear, The Mercedes-AMG One won't compete at Le Mans (11 Sept 2019): https://www.topgear.com/car-news/frankfurt-motor-show/mercedes-amg-one-wont-compete-le-mans

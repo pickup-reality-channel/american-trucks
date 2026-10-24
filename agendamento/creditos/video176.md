@@ -1,0 +1,102 @@
+# Photo credits: The Insane Story Behind the Ferrari Enzo
+
+- Ferrari-Monaco-4071021.jpg by ermell, CC BY-SA 4.0
+- 2004 Enzo Ferrari rear.jpg by TTTNIS, CC0
+- Orange Enzo Ferrari (7191948164).jpg by Axion23, CC BY 2.0
+- Ferrari Enzos at Silverstone in 2012.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari Enzo 6.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- 2003 Ferrari Enzo 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 1997 Ferrari F50 rear.jpg by TTTNIS, CC0
+- 1997 Ferrari F50 front.jpg by TTTNIS, CC0
+- A Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- 1999 Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari 1996 F50 GT (15621058965).jpg by Marty B from United States of America, CC BY-SA 2.0
+- Ferrari F50 Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Black Ferrari F50.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 SCD Meet 2023 Red.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 rear Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1999 Ferrari F50 LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 Ferrari F50 HCC22.jpg by MrWalkr, CC BY-SA 4.0
+- Red Ferrari F50 Mechanics.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 Ferrari F50 Silver HCC21.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 et 360 Spider.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1999 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1996 Ferrari F50 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Orange enzo ferrari (3373802436).jpg by Axion23, CC BY 2.0
+- 2004 Ferrari Enzo 5.jpg by Calreyn88, CC BY-SA 4.0
+- Michael Schumacher Ferrari 2004.jpg by Rick Dikeman, CC BY-SA 3.0
+- Ferrari Vodafone Schumacher (2).jpg by Hydro, CC BY-SA 4.0
+- Ferrari Vodafone Schumacher (1).jpg by Hydro, CC BY-SA 4.0
+- Luca Cordero di Montezemolo - GianAngelo Pistoia.jpg by GianAngelo Pistoia, CC BY 3.0
+- 34. ISC-Symposium-Luca Cordero di Montezemolo-HSGN 028-01709.JPG by St. Gallen Symposium, CC BY-SA 4.0
+- 2014-03-04 Geneva Motor Show Ferrari California T Luca di Montezemolo 0736.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- Ferrari-Museum Maranello 8.JPG by Wistula, CC BY-SA 3.0
+- Ferrari 550, Techno-Classica 2018, Essen (IMG 9642).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 12.jpg by Chris Olszewski, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 27.jpg by Kgbo, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 22.jpg by Chris Olszewski, CC BY-SA 4.0
+- Pininfarina Battista Auto Zuerich 2023 1X7A1447.jpg by Alexander-93, CC BY-SA 4.0
+- Lancia Flaminia Coupé Pininfarina 6280394.jpg by Ermell, CC BY-SA 4.0
+- Pininfarina 1.jpg by LarryStevens, Public domain
+- Ferrari Enzo, Silverstone ( Ank Kumar, Infosys Limited) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari Enzo - Flickr - Alexandre Prévot (1) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Maserati MC12 Corse 6.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Maserati MC12 HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1667).jpg by Matti Blume, CC BY-SA 4.0
+- Paris Motor Show 2018, Paris (1Y7A1520).jpg by Matti Blume, CC BY-SA 4.0
+- Peugeot, Paris Motor Show 2018, Paris (1Y7A1704).jpg by Matti Blume, CC BY-SA 4.0
+- 1996 Ferrari F50 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1996 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1999 Ferrari F50 4.jpg by Calreyn88, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 20.jpg by Chris Olszewski, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 18.jpg by Kgbo, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 17.jpg by Chris Olszewski, CC BY-SA 4.0
+- Ferrari 330P rear-left Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Ferrari 375 Indy rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Ferrari 246 F1 rear-right Enzo Ferrari Museum.jpg by Morio, CC BY-SA 3.0
+- Ferrari LaFerrari & F50 (Hockenheimer).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 1997 Ferrari F50 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F50 gialla.jpg by Arione Leonardo, CC BY-SA 4.0
+- Maserati.MC12.JPG by No machine-readable author provided. Jbattersby assumed (based on copyright claims)., Public domain
+- Maserati MC12 Corse 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Maserati MC12 Low HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F50 Rear (17115768058).jpg by Axion23, CC BY 2.0
+- Ferrari F50 Rear Grille -exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ferrari F50 (10377780453).jpg by CANNIK, CC BY 2.0
+- Maserati MC12 Corse 4.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 Corse 3.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 in underground parking, Monaco.jpg by Paul B 458, CC BY-SA 4.0
+- Ferrari Enzo FXX (Ank Kumar, Infosys Limited) 02.jpg by Ank kumar, CC BY-SA 4.0
+- Ferrari Enzo FXX (Ank Kumar, Infosys Limited) 06.jpg by Ank kumar, CC BY-SA 4.0
+- Ferrari Enzo FXX (Ank Kumar, Infosys Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- 1996 Ferrari F50 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F50 sp25.jpg by Calreyn88, CC BY-SA 4.0
+- Posteriore Ferrari f50.jpg by Arione Leonardo, CC BY-SA 4.0
+- Ferrari F50 (72354).jpg by Calreyn88, CC BY-SA 4.0
+- 1999 Ferrari F50 (34426).jpg by Calreyn88, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 21.jpg by Kgbo, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 03.jpg by Chris Olszewski, CC BY-SA 4.0
+- Interior of the Museo Enzo Ferrari, Modena, 2019, 26.jpg by Chris Olszewski, CC BY-SA 4.0
+- Maserati MC12 Corse 2.jpg by Calreyn88, CC BY-SA 4.0
+- Maserati MC12 (8477694812).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 2006 Maserati MC12.jpg by John Tiffin, CC BY-SA 2.0
+
+## Sources
+
+- Wikipedia, Enzo Ferrari (automobile): https://en.wikipedia.org/wiki/Ferrari_Enzo
+- Wikipedia, Ferrari F50: https://en.wikipedia.org/wiki/Ferrari_F50
+- RM Sotheby's, 2003 Ferrari Enzo, London 2014: https://rmsothebys.com/auctions/lf14/lots/r192-2003-ferrari-enzo/
+- RM Sotheby's, 2003 Ferrari Enzo, Arizona 2017: https://rmsothebys.com/auctions/az17/lots/r162-2003-ferrari-enzo/
+- RM Sotheby's, 2004 Ferrari Enzo, California 2015: https://rmsothebys.com/auctions/ca15/lots/r0021-2004-ferrari-enzo/
+- RM Sotheby's, 1995 Ferrari F50, Monterey 2021: https://rmsothebys.com/auctions/mo21/lots/r0065-1995-ferrari-f50/
+- Sports Car Market, 2003 Ferrari Enzo analysis, 17 Oct 2018: https://www.sportscarmarket.com/?p=709130
+- Sports Car Market, 1996 Ferrari F50 profile: https://www.sportscarmarket.com/profile/1996-ferrari-f50
+- Hagerty Valuation Tools, 2003 Ferrari Enzo: https://hagerty.com/apps/valuationtools/2003-Ferrari-Enzo
+- evo (John Barker), Great Ferrari hypercars driven, 23 Oct 2024: https://www.evo.co.uk/ferrari/204743/great-ferrari-hypercars-driven-288-gto-f40-f50-and-enzo-head-to-head
+- Jalopnik (Máté Petrány), What the hell is wrong with the Ferrari F50?, 13 Jul 2010: https://jalopnik.com/what-the-hell-is-wrong-with-the-ferrari-f50-5500297
+- Italpassion, Quatre icônes Ferrari (F40, F50, Enzo, LaFerrari): https://www.italpassion.fr/ferrari/quatre-icones-ferrari-f40-f50-enzo-et-laferrari-dans-une-meme-vente-aux-encheres-toutes-a-des-prix-records/

@@ -1,0 +1,153 @@
+# Photo credits: Ferrari F40 vs Porsche 959: The Difference Nobody Explains
+
+- Ferrari F40 vs. Porsche 959 (49547199063).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Porsche 959 2.8 '85 (9079164352).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0179).jpg by Matti Blume, CC BY-SA 4.0
+- Wings - Porsche and Ferrari - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ferrari F40 LM (49889802448).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Ferrari F40 LM - Anders Olofsson & Luciano Della Noce leads Porsche 911 GT2 - Peter Zbinden & Uwe Sick at the Norwich Union Empire Trophy, Silverstone 4 Hours 1995 (49889802523).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Ferrari F40 GTE - Eric Bernard, Jean-Marc Gounon & Paul Belmondo ahead of the Porsche 993 GT2 Evo - Pierre Yver, Jean-Luc Chereau & Jack Leconte as it enters the Esses at the 1996 Le Mans (51701460532).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Ferrari F40 GTE - Piero Nappi, Tetsuya Oota & Robin Donovan leads into the Esses at the 1996 Le Mans (51702186683).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 1987 Ferrari F40 classic supercar supercars interior engine engines 2048x1536.jpg by NBRM97, CC BY-SA 4.0
+- 1987 Porsche 962 Rear SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- 1987 Jaguar XJR-8 SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- 1987 Porsche 962 detail shot SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- 1987 Jaguar XJR-8 SCD 24 Front.jpg by MrWalkr, CC BY-SA 4.0
+- Ford monster truck (53703346995).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari F40 LM (53280376599).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari F1-87 (55037779696).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- EU5A4931 (15373364189).jpg by Chris Game, CC BY-SA 2.0
+- 1-24 model cars.jpg by メイド理世, CC BY-SA 4.0
+- Mclaren F1 GTR (49890319721).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- F40 Ferrari 20090509.jpg by Will ainsworth, CC BY-SA 3.0
+- Ferrari F40, TC 24, Essen (TCE43319-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lancia 037 Rally 5.jpg by Calreyn88, CC BY-SA 4.0
+- Lancia 037 Rally Martini.jpg by Calreyn88, CC BY-SA 4.0
+- Lancia 037 (69522).jpg by Calreyn88, CC BY-SA 4.0
+- 1985 Porsche 959 Prototype SP24.jpg by MrWalkr, CC BY-SA 4.0
+- Porsche 959 Prototype (52675487523).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- Porsche 959 Rothmans IMG 0677.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 959 S 1X7A7874.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 959 Dakar – IAA 2017 – by Nicolas Völcker.jpg by Nicolas Völcker, CC BY-SA 4.0
+- Ferrari F40 GIMS 2024 1X7A2271.jpg by Alexander-93, CC BY-SA 4.0
+- 1990 Ferrari F40 front.jpg by TTTNIS, CC0
+- 1990 Ferrari F40 rear.jpg by TTTNIS, CC0
+- F40 Ferrari engine.JPG by Pitak, CC BY-SA 3.0
+- Ferrari F40 TAISAN STARCARD No40 04.jpg by Tx-re, CC BY-SA 3.0
+- 1990 Ferrari F40 1.jpg by Fishyfool, CC BY-SA 4.0
+- Porsche 959 - 2026-6.jpg by Mustang Joe, CC0
+- 959SC engine at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Porsche 959 (1987) (55221856839).jpg by Charles from Port Chester, New York, CC0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- TC2000 Next Gen, Prototype 001 Volkswagen Nivus turbocharged 5 cylinder engine.jpg by Maxi-Napo-99, CC BY-SA 4.0
+- Turbocharged Ford Indianapolis Engine (54585070437).jpg by Tomás Del Coro, CC BY-SA 4.0
+- Turbocharged racing V engine, Deutsches Museum.jpg by Wilfredor, CC0
+- Porsche 959 S 1X7A7874 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 959 (Kirchzarten) jm20747.jpg by joergens.mi, CC BY-SA 3.0
+- Porsche 959 (Kirchzarten) jm21303.jpg by joergens.mi, CC BY-SA 3.0
+- Porsche 959 Dakar, IAA 2017, Frankfurt (1Y7A2758).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche, Paris Motor Show 2018, Paris (1Y7A1089).jpg by Matti Blume, CC BY-SA 4.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0181).jpg by Matti Blume, CC BY-SA 4.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0180).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 959 GIMS 2024 1X7A2269.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari F40 interior - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Ferrari F40 012.jpg by Arnaud 25, CC BY-SA 4.0
+- Ferrari F40 002.jpg by Arnaud 25, CC BY-SA 4.0
+- Porsche 959 Komfort at Canepa Motorsports Museum Scotts Valley dllu.jpg by Daniel Lu (User:dllu), CC BY-SA 4.0
+- 1992 Porsche 959 Komfort.jpg by MrWalkr, CC BY-SA 4.0
+- 1993 Porsche 959 Komfort.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9014.jpg by Alexander Migl, CC BY-SA 4.0
+- 1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9006.jpg by Alexander Migl, CC BY-SA 4.0
+- 1993 Ferrari F40 LM.jpg by Calreyn88, CC BY-SA 4.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Paris Motor Show 2018, Paris (1Y7A1232).jpg by Matti Blume, CC BY-SA 4.0
+- Porsche 959 portrait.jpg by Yanko Malinov, CC BY-SA 4.0
+- 959 Stuttgart Porsche museum - right side.jpg by Rouk40130, CC BY 4.0
+- Porsche 959 (15725).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 959 (66514).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 959 (87243).jpg by Calreyn88, CC BY-SA 4.0
+- Pista di Nardò.jpg by Saggittarius A, CC BY-SA 4.0
+- ISS018-E-6533 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- ISS018-E-6537 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- ISS018-E-6532 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- ISS014-E-7578 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- ISS018-E-6534 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- Porsche 959 S (Kirchzarten) jm21291.jpg by joergens.mi, CC BY-SA 3.0
+- Porsche 959 S (Kirchzarten) jm21293.jpg by joergens.mi, CC BY-SA 3.0
+- Porsche 959 2.8 '85 (9587441972).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 1993 Ferrari F40 LM 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1987-11-15 Fiorano Ferrari F40 espo.jpg by Unknown photographer, Public domain
+- 1990 Ferrari F40.jpg by Calreyn88, CC BY-SA 4.0
+- Neel Jani (427414787).jpg by Don France from Saint Augustine, FL, USA, CC BY 2.0
+- Neel Jani Driver of Rebellion Racing's Lola B12-60 Coupe Toyota (8669038794).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Rene Binder, Nicolas Pino & Neel Jani - Oreca 07 during the pitwalk at the 2023 Le Mans (53468054058).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Porsche 959 (25869848833).jpg by ilikewaffles11, CC BY 2.0
+- Porsche 959 – Innenraum, 21. März 2013, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Porsche 959 (54246).jpg by Calreyn88, CC BY-SA 4.0
+- 018 - Ferrari F40 - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
+- Competizione, LM and 507 (17131676142).jpg by Tobiasvde, CC BY-SA 2.0
+- 1990 Ferrari F40 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024-07-07 Motorsport, DTM, Norisring Nürnberg 2024 STP 0362.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- 2025-04-27 Motorsport, DTM, Oschersleben STP 3398.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- SECMA F16 - Club ASA - Circuit Pau-Arnos - Le 9 février 2014 - Honda Porsche Renault Secma Seat - Photo Picture Image (12420350274).jpg by Grand Parc - Bordeaux, France from France, CC BY-SA 2.0
+- Porsche 959 – Frontansicht (2), 21. März 2013, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Porsche porsche 959 (6939585245).jpg by Ben, CC BY-SA 2.0
+- Porsche porsche 959 (6939573381).jpg by Ben, CC BY-SA 2.0
+- Porsche 959 Paris Dakar (3335774531).jpg by Fox Wu from Frankfurt am Main, Germany, CC BY 2.0
+- Porsche 959 Paris Dakar (7).jpg by Damian B Oh, CC BY-SA 4.0
+- Porsche 959 Paris Dakar (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Ferrari F40 at Goodwood 2014 001.jpg by Nic Redhead, CC BY-SA 2.0
+- Ferrari E-F40 F40 (LBWORKS F40) (No.56) (Ent No.12212) (24021012303).jpg by 先従隗始, CC0
+- Ferrari F40 - red - show in ireland.jpg by Miguel Mendez, CC BY 2.0
+- The Legacy (BM 1868,0808.10311).jpg by Print made by: James Gillray
+
+Published by: William Holland, Public domain
+- Air Force honors 100th Bomb Group's legacy with 'Masters of the Air' special screening (5).jpg by Senior Airman Austin Pate, Public domain
+- MSG Micheal B Riley Fitness Center Dedication (9788555).jpg by U.S. Army National Guard photo by Staff Sgt. Melyssa Vazquez, Public domain
+- U.S. Customs and Border Protection (CBP) Commissioner Chris Magnus hosts Secretary General Kunio Mikuriya of the World Customs Organization (WCO) in Washington for a discussion on customs cooperation on September 23, 2022 - 5.jpg by CBP Photography, Public domain
+- U.S. Customs and Border Protection (CBP) Commissioner Chris Magnus hosts Secretary General Kunio Mikuriya of the World Customs Organization (WCO) in Washington for a discussion on customs cooperation on September 23, 2022 - 3.jpg by CBP Photography, Public domain
+- U.S. Customs and Border Protection (CBP) Commissioner Chris Magnus hosts Secretary General Kunio Mikuriya of the World Customs Organization (WCO) in Washington for a discussion on customs cooperation on September 23, 2022 - 1.jpg by CBP Photography, Public domain
+- Porsche 959 in rallying 1X7A6631.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 959 (32190211817).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- Porsche porsche 959 (6939579795).jpg by Ben, CC BY-SA 2.0
+- Porsche 959 (26380347182).jpg by ilikewaffles11, CC BY 2.0
+- 1991 Ferrari F40 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 monaco 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 7.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 monaco.jpg by Calreyn88, CC BY-SA 4.0
+- 1991 Ferrari F40 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1990 Ferrari F40 GT LHD 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 fos 25.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 fos 25.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 monaco 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 (12496).jpg by Calreyn88, CC BY-SA 4.0
+- Municipality of Maranello in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- Maranello notte rossa2.jpg by Maranellolover, CC BY-SA 4.0
+- Ferari F40 "GT" - Road registered.jpg by Gordon Calder - 7 Million Views - Thanks!, CC BY 2.0
+- 1998 Lamborghini Diablo (RACV 2013 Motorclassica) (10491480634).jpg by Chris Phutully from Australia, CC BY 2.0
+- 1998 Lamborghini Diablo (2013 RACV MotorClassica) (10491501674).jpg by Chris Phutully from Australia, CC BY 2.0
+- Paris - RM Auctions - 5 février 2014 - Ferrari F40 - 1990 - 004.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Ferrari F40 - 1990 - 006.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Ferrari F40 - 1990 - 005.jpg by Thesupermat, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ferrari F40: https://en.wikipedia.org/wiki/Ferrari_F40
+- Wikipedia, Porsche 959: https://en.wikipedia.org/wiki/Porsche_959
+- Classic Motorsports, Ferrari F40: the truth about living with a legend: https://classicmotorsports.com/articles/ferrari-f40-how-you-spend-million/
+- Sotheby's, The six most expensive Ferrari F40s: https://www.sothebys.com/en/articles/the-six-most-expensive-ferrari-f40s
+- DK Engineering, Ferrari F40 (1990) vehicle archive: https://www.dkeng.co.uk/Vehicle_Archive/797/ferrari_f40.html

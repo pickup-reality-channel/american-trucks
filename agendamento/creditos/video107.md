@@ -1,0 +1,115 @@
+# Photo credits: Why the Lexus LFA Is Worth More Now Than New
+
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- 2012 Lexus LFA Spider rear.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept rear.jpg by TTTNIS, CC0
+- 2011 Lexus LFA White.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Front.jpg by MrWalkr, CC BY-SA 4.0
+- 2011 Lexus LFA Low Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA 14.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 15.jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA 2.jpg by Calreyn88, CC BY-SA 4.0
+- Silver Lexus LFA.jpg by ilikewaffles11, CC BY 2.0
+- Lexus LFA-02.jpg by Shane K, CC BY-SA 2.0
+- White Lexus LFA side.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- White Lexus LFA front.jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- 2011 Lexus LFA.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA (26925).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (98906).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (4058106643).jpg by kosabe, CC BY-SA 2.0
+- Lexus LFA (54251).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (49944546063).jpg by Rutger van der Maar, CC BY 2.0
+- Lexus LFA (55691).jpg by Calreyn88, CC BY-SA 4.0
+- Lexus LFA (62499).jpg by Calreyn88, CC BY-SA 4.0
+- Moscow Lexus dealership Kozhukhovo.jpg by Sergey Rodovnichenko, CC BY-SA 2.0
+- Lexus Cape Town City Dealership.jpg by Husskeyy, CC BY-SA 4.0
+- Lexus RZ 450e (XEBM15) 1X7A0836.jpg by Alexander-93, CC BY-SA 4.0
+- 2011-03-04 Autosalon Genf 1389.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- 2011-03-04 Autosalon Genf 1391.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- 2011-03-04 Autosalon Genf 1388.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- OSAKA AUTO MESSE 2015 (181) - Lexus LFA ver.D1GP produced by OTG.JPG by Tokumeigakarinoaoshima, CC0
+- OSAKA AUTO MESSE 2015 (182) - Lexus LFA ver.D1GP produced by OTG.JPG by Tokumeigakarinoaoshima, CC0
+- Lexus LFA Pearl Yellow SF Auto Show.jpg by Carlos Almendarez from San Francisco, USA, CC BY 2.0
+- Lexus LFA Pearl White.jpg by Ethan Llamas, CC BY-SA 4.0
+- Lexus LFA Pearl White 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Production Lexus LFA White Yoko.jpg by BsBsBs, CC BY-SA 3.0
+- Lexus LFA white Geneva.jpg by [https://www.flickr.com/people/34698467@N03 David Villarreal Fern�ndez], CC BY-SA 2.0
+- Lexus LFA Pearl White 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Lexus LFA (7693862310).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Lexus LFA (7693852604).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Lexus LFA (7693845038).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Crosby Garrett Helmet on auction at Christies.jpg by Portable Antiquities Scheme from London, England, CC BY 2.0
+- Passêye des moirts Annvoye 2023 calbasse al håsse.jpg by Lucyin, CC BY-SA 4.0
+- Passêye des moirts Annvoye 2023 paymint.jpg by Lucyin, CC BY-SA 4.0
+- 2012 Lexus LFA Nurburgring Edition in Emerald T Green.jpg by MrWalkr, CC BY-SA 4.0
+- Lexus LFA Nürburgring Edition (49595380907).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Lexus LFA Nürburgring Package at the 2011 Geneva Motor Show.jpg by Autoviva from Portugal, CC BY 2.0
+- Ferrari 250 GTO 3413GT at RM Sothebys Auction Monterey 2018.jpg by Prova MO, CC BY-SA 4.0
+- 1972 Nissan 240ZG at RM Sothebys Monterey 2018.jpg by Prova MO, CC BY-SA 4.0
+- Ferrari Luce.jpg by Lcaa9, CC BY-SA 4.0
+- Amy Coney Barrett and her family with President Donald Trump and First Lady Melania Trump.jpg by Dan Scavino, Public domain
+- Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 015.jpg) - DPLA - 4c518aff243fbc8b9e262aa89ee14a50.jpg by Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014), Public domain
+- Office of the Administrator (Lisa P. Jackson) - Barrett Elementary (412-APD-475-2009-04-16 BarrettElementary 051.jpg) - DPLA - 703473e3bcc927a600a286a38cc3327d.jpg by Environmental Protection Agency. Office of the Administrator. Office of Public Affairs. Office of Multimedia. (10/15/2014), Public domain
+- Monterey Car Week (20660177822).jpg by Jay Cross from Berkeley, California, US, CC BY 2.0
+- Monterey Car Week (20048457433).jpg by Jay Cross from Berkeley, California, US, CC BY 2.0
+- Monterey Car Week (20660183112).jpg by Jay Cross from Berkeley, California, US, CC BY 2.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg by Rbdesimone, CC BY-SA 4.0
+- 21 Ford Bronco.jpg by HJUdall, CC BY-SA 4.0
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- Honoré Daumier - The Auction Room- The Town Crier - 1921.1484 - Cleveland Museum of Art.jpg by Honoré Daumier, CC0
+- Auction Room Entrance (8482622558).jpg by Garry Knight from London, England, CC BY 2.0
+- Former auction hall and sale room once owned by Maxey and Son - geograph.org.uk - 6419655.jpg by Richard Humphrey, CC BY-SA 2.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 10.jpg by Coyau, CC BY-SA 3.0
+- Lexus LFA Park Lane London 01.jpg by uggboy, CC BY 2.0
+- Lexus LFA Park Lane London 02.jpg by uggboy, CC BY 2.0
+- Lexus LFA interior.jpg by NJo, CC BY-SA 3.0
+- Cokpit of Lexus LFA 24hr Nürburgring racing model.jpg by Raiko, CC BY-SA 3.0
+- Lexus LFA (8387495987).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 49).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 45).jpg by Wright Brothers, Dayton, Ohio, CC0
+- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 22).jpg by Wright Brothers, Dayton, Ohio, CC0
+- Lexus lfa - AIMS.JPG by Pineapple fez, CC BY-SA 3.0
+- Lexus lfa rear - AIMS.JPG by Pineapple fez, CC BY-SA 3.0
+- Lexus LFA (rear quarter).jpg by Overlaet, CC BY-SA 3.0
+- Yamaha V10 engine in a Lexus LFA (52555420262).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Lexus LFA (2012) (52571825489).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA (2012) (52571547261).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lexus LFA intake closeup.jpg by NJo, CC BY-SA 3.0
+- Lexus LFA Matte Black 12 wheel.jpg by robpoetsch, CC BY 2.0
+- Mechanical-calculator-Brunsviga-800-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Aurora electronic calculator DT210 05.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 07.jpg by Coyau, CC BY-SA 3.0
+- Figure 1- Results of the Bureau of Land Management's July 2014 Auction of Helium to Be Delivered in Fiscal Year 2015 (18353873816).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Willem van de Velde II - Dutch men-o'-war and other shipping in a calm.jpg by Willem van de Velde the Younger, Public domain
+- Suppressed - Human flesh at auction.jpg by Van Ingen Snyder, Public domain
+- Auction Sale in Clinton Hall, New York, 1876 MET DT296243.jpg by Ignacio León y Escosura, CC0
+- Live stock auction saleyards, Miles City, Montana (84371).jpg by The Hafstrom Co., Publishers, Belfield, N. Dak., Public domain
+- Aurora electronic calculator DT210 02.jpg by Coyau, CC BY-SA 3.0
+- Mechanical-calculator-Brunsviga-15-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Calculator (2198497019).jpg by flamingo331, CC BY 2.0
+- The frontview of No.83 GAZOO Racing LFA.JPG by Tokumeigakarinoaoshima, CC0
+- Toyota Automobile Museum - Tokyo (18032054721).jpg by IQRemix from Canada, CC BY-SA 2.0
+- Toyota Automobile Museum - Tokyo (17408883914).jpg by IQRemix from Canada, CC BY-SA 2.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- The Drive, There's a 356-mile Lexus LFA for sale in Ohio (23 Sept 2017): https://www.thedrive.com/article/14584/theres-a-356-mile-lexus-lfa-for-sale-in-ohio.md
+- Motor Authority, Pearl Yellow 2012 Lexus LFA with 72 miles sells for $808,000 on Bring a Trailer (7 July 2021): https://www.motorauthority.com/news/1132702_pearl-yellow-2012-lexus-lfa-with-72-miles-sells-for-808-000-on-bring-a-trailer
+- Motor Authority, Rare Lexus LFA Nürburgring Edition sells for $1.6M at auction (23 Aug 2021): https://www.motorauthority.com/news/1133164_rare-lexus-lfa-n-rburgring-edition-sells-for-1-6m-at-auction
+- Supercar Blondie, Super rare Lexus LFA sells for massive $845k at auction (25 April 2022): https://supercarblondie.com/cars/lexus-lfa-850-miles-sells-845k/
+- Motor16, Estrenar un Lexus LFA se paga a precio de oro (16 April 2024): https://www.motor16.com/noticias/estrenar-lexus-lfa-precio-oro-record/
+- Club Lexus, Lexus LFA Nürburgring Edition nabs nearly $1M at auction: https://clublexus.com/articles/lexus-lfa-nurburgring-edition-nabs-nearly-1m-at-auction
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom
+- Motor1, Mercedes-AMG won't allow Project One owners to flip their cars: https://www.motor1.com/news/260939/mercedes-amg-project-one/

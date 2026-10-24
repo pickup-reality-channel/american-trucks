@@ -1,0 +1,192 @@
+# Photo credits: The Real Cost of a Ford GT (And Why Owners Had to Sign a Contract)
+
+- Ford GT (2nd generation) coupes IMG 0224.jpg by Alexander-93, CC BY-SA 4.0
+- Kissingen Ford GT 5.0 Mustang 0417RM0283.jpg by Ermell, CC BY-SA 4.0
+- Kissingen Ford GT 5.0. engine 0417RM0367.jpg by Ermell, CC BY-SA 4.0
+- 2017 Ford GT (94302).jpg by Calreyn88, CC BY-SA 4.0
+- 2017 Ford GT, CAS 2015.jpg by Ghostofakina, CC BY-SA 4.0
+- Ford GT (24577793623).jpg by Joe deSousa, CC0
+- Ford GT Red.jpg by Mannequin- from Basking Ridge, NJ, USA, CC BY 2.0
+- 2016 Ford GT (20915465904).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 2019 Ford GT Heritage 6 Edition.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT club at Fountain Park.jpg by BowenLarsen, CC BY-SA 4.0
+- Ford GT (14811461665).jpg by Niels de Wit from Lunteren, The Netherlands, CC BY 2.0
+- 2019 6 Hertiage Edition Ford GT.jpg by MrWalkr, CC BY-SA 4.0
+- 1969 Ford Escort 1850 GT MkI replica + 1974 Ford Capri Mk II 3000 GT Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- Tealglow 1971 Ford Falcon XY GT Sedan 20260104-095836.jpg by RegionVisitor90, CC0
+- 2018 Ford Mustang GT 5.0.jpg by Vauxford, CC BY-SA 4.0
+- 2005 Ford Gt (73530315).jpeg by Doug Fawley, CC BY 3.0
+- 2018 Ford Mustang GT 5.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- Ford Mustang Mach-E GT IAA 2021 1X7A0176.jpg by Alexander Migl, CC BY-SA 4.0
+- 1994 Ford Mustang GT convertible, front left, 08-06-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2000 Ford Mustang GT convertible, front left, 06-06-2026.jpg by MercurySable99, CC BY-SA 4.0
+- 2000 Ford Mustang GT convertible, front left, 08-27-2023.jpg by MercurySable99, CC BY-SA 4.0
+- The New Ford GT (16009798433).jpg by artistmac, CC BY-SA 2.0
+- 2017 Ford GT LeMans Racecar (45331846451).jpg by Sicnag, CC BY 2.0
+- 2016 Ford Mustang GT Coupe (30540308723).jpg by Sicnag, CC BY 2.0
+- Ford GT Mk IV (2025) (55312016712).jpg by Charles from Port Chester, New York, CC0
+- 1970 Ford Torino GT Sportsroof.jpg by Sicnag, CC BY 2.0
+- Ford GT (2019) (55220051485).jpg by Charles from Port Chester, New York, CC0
+- 2005 Ford GT 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT40 (1966) (55081758469).jpg by Charles from Port Chester, New York, CC0
+- Ford GT40 Mk I (16320237582).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- 1966 Ford GT40 Mark II-B (48853744611).jpg by Alan Raine from Cheshire, CC BY 2.0
+- 2022 Ford GT Liquid Carbon Edition TM26.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT (1st generation) coupes Motorworld Munich 1X7A0045.jpg by Alexander-93, CC BY-SA 4.0
+- Ford GT (1st generation) coupes Motorworld Munich 1X7A0046.jpg by Alexander-93, CC BY-SA 4.0
+- Traffic - Flickr - exfordy (1).jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ford GT IAA 2015.jpg by Alexander Migl, CC BY-SA 4.0
+- 2018 Ford GT (25437330737).jpg by Joe deSousa, CC0
+- American Red Cross - Groups - American Red Cross home for Nurses at Putney, a London suburb. Rest and quiet for strained nerves - NARA - 20806654.jpg by Unknown authorUnknown author or not provided, Public domain
+- American Red Cross - Warehouses - American Red Cross Prisoners' Relief. American Red Cross storehouses at Bumpliz, a suburb of Berne, used for storage of food - NARA - 20805450.jpg by Unknown authorUnknown author or not provided, Public domain
+- American Red Cross - Warehouses - American Red Cross. Storehouses of the American Red Cross at Kehrsatz, a suburb of Berne, used for the storage of clothing for Prisoners' Relief - NARA - 20805458.jpg by Unknown authorUnknown author or not provided, Public domain
+- Ford GT 2018 and Ford GT 1968 at Legendy 2019 in Prague (cropped).jpg by Jiří Sedláček, CC BY-SA 4.0
+- Ford GT 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT 11.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Ford BA Falcon Dick Johnson 320 (30011580772).jpg by Sicnag, CC BY 2.0
+- DSCF1339 (52536581309).jpg by Stacy Sheff from Los Angeles, USA, CC0
+- Ford GT (2005) (52963876266).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2005 Ford GT 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT GT101.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT 2016 (27698629701).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Ford GT 3.5 '16 (16608341860).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- SLM 30 - Ford GT.jpg by Herranderssvensson, CC BY-SA 3.0
+- Multimatic Motorsports Mustang 15.jpg by BrokenGearbox, CC BY 4.0
+- Multimatic Motorsports Mustang at Donington Park.jpg by BrokenGearbox, CC BY 4.0
+- Ford Mustang GT3.jpg by Ford Media, CC BY-SA 4.0
+- 1974 Ford Capri II 2000 GT (14531964928).jpg by Charlie from United Kingdom, CC BY 2.0
+- Ford Anglia Deluxe (1968) (51179627440).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Ford Anglia Deluxe (1968) (51178534296).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Ford Falcon XW GT Track Red.jpg by Sicnag, CC BY 2.0
+- Ford Falcon XY GT Track Red.jpg by Sicnag, CC BY 2.0
+- Ford GT - Flickr - Stradablog.jpg by Tino Rossini from Toronto, Canada, CC BY 2.0
+- Ford Mustang of the Georgia State Patrol.jpg by Trooper First Class Pratz, Georgia State Patrol, Public domain
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 2021 Ford GT 3.jpg by Calreyn88, CC BY-SA 4.0
+- John Cena and Grayson Waller - Money in the Bank (2023).jpg by Zippo9310, CC BY-SA 4.0
+- Wrestling Star John Cena Signing an Autograph at Comic Con Wales 2022.jpg by Surflou, CC BY-SA 4.0
+- John Cena - October 2016.jpg by Gage Skidmore, CC BY-SA 2.0
+- Courthouse in Aurillac 01.jpg by Krzysztof Golik, CC BY-SA 4.0
+- Vue du palais de justice de Bruxelles.jpg by Fawaz.tairou, CC BY-SA 4.0
+- Omagh Courthouse (01), January 2010.JPG by Ardfern, CC BY-SA 3.0
+- 1974 Ford XB Falcon GT Sedan (25227736305).jpg by Sicnag, CC BY 2.0
+- 1973 Ford Falcon XB GT Hardtop (13053592325).jpg by Sicnag, CC BY 2.0
+- 1974 Ford XB Falcon GT Hardtop (9911344073).jpg by Sicnag, CC BY 2.0
+- 2022 Ford GT SP23.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Ford GT SP23 low.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Ford GT Carbon Series BPA26.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Ford GT Heritage Edition SP21.jpg by MrWalkr, CC BY-SA 4.0
+- 2019 Ford GT Heritage Edition SP22.jpg by MrWalkr, CC BY-SA 4.0
+- 2018 Ford GT Heritage Edition Coligny.jpg by MrWalkr, CC BY-SA 4.0
+- 2005 Ford GT, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 1985 Ford Mustang GT Coupe, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg by Rbdesimone, CC BY-SA 4.0
+- 2019 Ford GT Heritage Edition SP22 low.jpg by MrWalkr, CC BY-SA 4.0
+- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- 2005 Ford GT SP22.jpg by MrWalkr, CC BY-SA 4.0
+- 2005 Ford GT LC25.jpg by MrWalkr, CC BY-SA 4.0
+- 2005 Ford Mustang GT Deluxe Coupe, rear right, 07-02-2023.jpg by MercurySable99, CC BY-SA 4.0
+- Ford Consul 3000 GT (1974) (49146684748).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Ford Capri GT Crayford Convertible (1970).jpg by andreboeni, CC BY 2.0
+- Ford Capri GT Crayford Convertible (1970) - 45937464521.jpg by andreboeni, CC BY 2.0
+- 2006 Ford Mustang GT, carbon‑fiber hood with vents, Golden Super Cruise 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2015 Ford Mustang GT Coupe (25711543611).jpg by Sicnag, CC BY 2.0
+- 2018 Ford Mustang GT Coupe (47450623781).jpg by Sicnag, CC BY 2.0
+- Ford GT red exhaust detail 2006 EMS.jpg by unknown, CC BY-SA 3.0
+- 2005 Ford Gt (73530317).jpeg by Doug Fawley, CC BY 3.0
+- 2005 Ford Gt (73530313).jpeg by Doug Fawley, CC BY 3.0
+- Ford GT wheel (16133726790).jpg by Yahya S. from Livonia, United States, CC BY 2.0
+- 1965 Ford Mustang GT Fastback (25429686153).jpg by Sicnag, CC BY 2.0
+- 1968 Ford Mustang GT Fastback.jpg by Sicnag, CC BY 2.0
+- 2021 Ford GT Carbon Series.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Ford GT Carbon Edition.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Ford GT Carbon Series (61323).jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT (35862758854).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2017-03-07 Geneva Motor Show 0886.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2010 Ford GT GT1 R26.jpg by MrWalkr, CC BY-SA 4.0
+- Roush Performance Side Stripes (5003032656).jpg by Jason Young, CC BY 2.0
+- Ford Mustang GT Gas Cap.jpg by Bill Smith, CC BY 2.0
+- 2016 Ford Mustang GT-CS-2.jpg by DanTD, CC BY-SA 4.0
+- 1976 Ford XC Falcon GS Hardtop (9928999374).jpg by Sicnag, CC BY 2.0
+- 1977 Ford XC Falcon GS Sedan (8590803181).jpg by Sicnag, CC BY 2.0
+- 2016 Ford Mustang GT (VE66 BGX).jpg by Carfanatic2019, CC BY-SA 4.0
+- Guess the car... (9215479210).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- Hyundai i30 ES. Based on the 1.4 Comfort model the ES special edition has a different grill and some extras including climate control and 16 inch alloy wheels. Only 500 ES cars were made. - Flickr - mick - Lumix.jpg by Mick from Northamptonshire, England, CC BY 2.0
+- Military shipping Container modified to a Climate-Controlled Media.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ford GT Heritage Edition 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT(Second Generation) at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Ford GT Gen2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT (GTE) at the 2018 Road Race Showcase at Road America.jpg by Arturo Hurtado, CC BY 2.0
+- Ford GT (Mustang) Heiligenstadt-20180819-RM-160637.jpg by Reinhold Möller Ermell, CC BY-SA 4.0
+- Ford Mustang VI GT Front View 20260726.jpg by 4084470 0.smil, CC BY 4.0
+- 1964 Shelby Cobra FIA Roadster.jpg by Sicnag, CC BY 2.0
+- 1968 Ford XT Falcon GT sedan (7708135658).jpg by sv1ambo, CC BY 2.0
+- 1968 Ford XT Falcon GT sedan (7708136358).jpg by sv1ambo, CC BY 2.0
+- American Family Field panoramic view.jpg by baseballmapper, CC0
+- American Family Field seen from I-94.jpg by DiscoA340, CC BY-SA 4.0
+- View of American Family Field from behind home plate.jpg by SidewalkMD, CC BY-SA 4.0
+- View of a 1968 390 V8 Ford Mustang GT in the Classic Car Boot Sale - geograph.org.uk - 4174631.jpg by Robert Lamb, CC BY-SA 2.0
+- View of a 1968 390 V8 Ford Mustang GT in the Classic Car Boot Sale ^2 - geograph.org.uk - 4174636.jpg by Robert Lamb, CC BY-SA 2.0
+- Ford GT (2023) (55080599307).jpg by Charles from Port Chester, New York, CC0
+- 2003–2004 Ford Mustang GT, white, A Paris Street Market at Aspen Grove car show 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2008 Ford Mustang GT CS Foose Edition, side view, A Paris Street Market at Aspen Grove car show 2026-05-02.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1966 Ford Fairlane GT (3091283771).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Ford GT Nogaro.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ford GT(Second Generation) at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Ford GT Nogaro 02.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 2005 Red Ford GT GT101.jpg by MrWalkr, CC BY-SA 4.0
+- 2005–2009 Ford Mustang GT, red, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2005 Ford GT Red, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- 2005 Ford GT coupe (8453095742).jpg by sv1ambo, CC BY 2.0
+- Ford Mustang V8 GT Coupe Premium interior.jpg by TTTNIS, Public domain
+- 2005 Ford BA Falcon GT-P Sedan (31361527096).jpg by Sicnag, CC BY 2.0
+- 2018 Ford GT in custom Gulf livery at Greenwich 2021.jpg by Mr.choppers, CC BY-SA 3.0
+- Ford GT - Flickr - Triple-green.jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- GT Gulf (49549850812).jpg by Osajus Photography from Asheville, NC, United States, CC BY 2.0
+- Ford Mustang GT Annual Fathers Day Car Show Hyannis.jpg by EgorovaSvetlana, CC BY-SA 4.0
+- 1967 Ford Mustang GT, left side, white, Very Fine Wheels Car Show – Golden 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1967 Ford Mustang GT convertible, right side, red, Very Fine Wheels Car Show – Golden 2026-07-04.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2016 Ford GT Le Mans (31649490800).jpg by Kieran White from Manchester, England, CC BY 2.0
+- Ford GT number 66 from 2016 24 hours of Le Mans (Ank Kumar, Infosys) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Ford GT number 66 from 2016 24 hours of Le Mans (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- 1967 Ford Gt 40 Mk Iv J5 (73530341).jpeg by Doug Fawley, CC BY 3.0
+- 1967 Ford Gt 40 Mk Iv J5 (73530343).jpeg by Doug Fawley, CC BY 3.0
+- 2026 Ford GT Mark IV SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT 40 (2008-06-28).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de
+- Xbox Controllers Forza Ford Tribute Controllers (4).jpg by Microsoft Corporation, CC BY-SA 4.0
+- 1964 Ford GT40 proto GT.104.jpg by Mr.choppers, CC BY-SA 3.0
+- Ford GT Carmel.jpg by Winning Automotive Photography, CC BY 2.0
+- Ford GT 2018 and Ford GT 1968 at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- Ford GT(2nd Generation) unveiled at Geneva 2015 (Ank Kumar, Infosys) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 2005-2009 Ford Mustang GT, blue, Ford at the Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2005-2009 Ford Mustang GT, blue, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2007 Ford Mustang GT California Special, blue convertible, Golden Super Cruise 2026-09-05.jpg by Xnatedawgx, CC BY-SA 4.0
+- 2018 Ford Mustang GT 5.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- 2013 Ford Mustang GT, rear right side, 55th Annual All Ford Day.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ford GT Shmee150.jpg by Tristan Surtel, CC BY-SA 4.0
+- Ford Falcon GT Pacific Highway Nerang P1060109.jpg by John Robert McPherson, CC0
+- Ford Mustang Pacific Highway Logan City P1020834.jpg by John Robert McPherson, CC0
+- Ford Mustang Pacific Highway Logan City P1020826.jpg by John Robert McPherson, CC0
+- Ford GT40 (1966) Solitude Revival 2022 1X7A0005.jpg by Alexander Migl, CC BY-SA 4.0
+- Würgauer Bergrennen 2022 Ford GT40-20220911-RM-100609.jpg by Ermell, CC BY-SA 4.0
+- 1968 Ford GT40 HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- Rio Vista Ford California.jpg by TaurusEmerald, CC BY-SA 4.0
+- 2011-01-30 1-866-GET-A-FORD F150 XL.jpg by Ildar Sagdejev (Specious), CC BY-SA 4.0
+- RiverBend Ford.jpg by The Bushranger, CC BY-SA 4.0
+
+## Sources
+
+- Gear Patrol, The car that forced Porsche to redesign its fastest 911 (May 2017): https://www.gearpatrol.com/cars/a352077/ford-gt-review-specs-images-porsche-911-ferrari-488gtb/
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Jalopnik, Ford missed its production target for the first year of the Ford GT: https://jalopnik.com/1827701915
+- Car Showroom, Ford will build 350 more GTs: https://www.carshowroom.com.au/news/ford-will-build-350-more-gts-books-open-november-8th/
+- Autoblog, John Cena and Ford settle over flipped GT (June 2018): https://www.autoblog.com/2018/06/19/john-cena-ford-gt-flip-settlement
+- Hagerty valuation tools, 2022 Ford GT (Jan 2026): https://www.hagerty.com/valuation-tools/ford/gt/2022/2022-ford-gt
+- AutoMonitor, How much does a Ford GT cost? (estimates, sources not cited): https://automonitor.io/blog/how-much-does-a-ford-gt-cost/
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census
+- Ford, Ford GT Mk IV makes Nürburgring history (Apr 2026): https://www.at.ford.com/us/en/home/news-media/news/2026/4/ford-gt-mk-iv-makes-nuerburgring-history-with-third-fastest-lap-.html

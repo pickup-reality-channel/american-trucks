@@ -1,0 +1,121 @@
+# Photo credits: The Insane Story Behind the Mercedes 6x6
+
+- Wheel of Mercedes-Benz G63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk (cropped).jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes-Benz G63 AMG 6x6 (53397824372).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- G63 AMG (13842152284).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6x6.JPG by Milhouse35, CC BY-SA 3.0
+- White Mercedes-Benz G 63 AMG 6x6 rr London14.jpg by MB-one, CC BY-SA 4.0
+- Le Bar, Hôtel George-V, Paris 25 July 2015.jpg by Ben, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6x6 (51172094523).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6x6 (53097689359).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Mercedes-Benz W463 G 63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- Amsterdam Motor Show 2023 - 63.jpg by René Cortin, CC BY-SA 4.0
+- G63 AMG (13841787453).jpg by [https://www.flickr.com/people/89918055@N05 Manhattan Research Inc from Manhattan, CC BY-SA 2.0
+- The rearview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Mercedes-Benz Concept EQG IAA 2021 1X7A0095.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz W 463 (2018) Professional Line 1X7A6056.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz G 63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- G63 AMG (13842146304).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- The frontview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- G63 AMG (13841792983).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- Mercedes-Benz G 6x6 in the central district ("centre ville") of Beirut 2016.jpg by Bdx, CC BY-SA 4.0
+- Mercedes-Benz G 63 AMG 6×6 (W463) front.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG 6×6 (W463) front.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes Benz G63 AMG Long rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG by Carlex HCC25.jpg by MrWalkr, CC BY-SA 4.0
+- Mercedes Benz G63 AMG Long front.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes Benz G63 AMG. (27500321442).jpg by Danny Galvez from Pinoso, España, CC BY-SA 2.0
+- Mercedes-Benz W 463 (2018) Professional Line 1X7A6057.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz, Techno-Classica 2018, Essen (IMG 9838).jpg by Matti Blume, CC BY-SA 4.0
+- MERCEDES-BENZ G-CLASS (W463) China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- Mercedes-Benz W463 G 63 AMG 6x6 at Legendy 2014 (cropped).JPG by Jiří Sedláček, CC BY-SA 4.0
+- White Mercedes-Benz G 63 AMG 6x6 fr London14.jpg by MB-one, CC BY-SA 4.0
+- Mercedes Benz G 63 AMG Brabus B63S 700 6x6 (14569321096).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes-Benz G63 AMG (W463) front.JPG by Tokumeigakarinoaoshima, CC0
+- 2013 Mercedes-Benz G63 AMG (8403240837).jpg by Sarah Larson from Ann Arbor, MI, USA, CC BY 2.0
+- Mercedes-Benz G63 AMG long (W463) front.JPG by Tokumeigakarinoaoshima, CC0
+- 2013 Mercedes-Benz G63 AMG (8404339092).jpg by Sarah Larson from Ann Arbor, MI, USA, CC BY 2.0
+- 2013 Mercedes-Benz G63 AMG (8403246669).jpg by Sarah Larson from Ann Arbor, MI, USA, CC BY 2.0
+- Mercedes-Benz G63 AMG long (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG. (20612571995).jpg by Danny Galvez from Pinoso, España, CC BY-SA 2.0
+- MERCEDES-AMG G63 (W463) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-AMG G63 (W463) China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-AMG G63 (W463) China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-AMG G63 (W463) China (5).jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-AMG G63 (W463) China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- Mercedes-Benz, TC 24, Essen (TCE43379-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG G 63 (2018) IMG 4370.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-AMG G 63 4x4² 1X7A7350.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG (17987649035).jpg by FotoSleuth, CC BY 2.0
+- Moscow, Mercedes-Benz G63 AMG, Aug 2025 02.jpg by Retired electrician, CC0
+- Mercedes Benz G63.jpg by Kidfly182, CC BY 4.0
+- Magna Steyr Werk Graz.jpg by Thilo Parg, CC BY-SA 3.0
+- Graz Linien Wagen 121 bei der Magna.jpg by Armin Ademovic, CC BY 4.0
+- Geneva Motor Show 2011 - Magna Steyr (5576220009).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Mercedes-AMG G 63 (2024–) DSC 0681.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-Benz W463 G 63 AMG 6×6 MYLE Festival 2025 DSC 9406.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz W463 G 63 AMG 6×6 MYLE Festival 2025 DSC 9407.jpg by Alexander Migl, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- Brabus G Class Mayfair.jpg by Calreyn88, CC BY-SA 4.0
+- Brabus G Class Mayfair 2.jpg by Calreyn88, CC BY-SA 4.0
+- Brabus G Class 800 4.jpg by Calreyn88, CC BY-SA 4.0
+- MERCEDES-BENZ G-CLASS (W463) China.jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-BENZ G-CLASS (W463) China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- MERCEDES-BENZ G-CLASS (W463) China (4).jpg by Dinkun Chen, CC BY-SA 4.0
+- Mercedes-AMG G 63, GIMS 2018, Le Grand-Saconnex (1X7A0541).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG G 63 4x4² 1X7A7343.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG G 63 4x4² 1X7A7344.jpg by Alexander-93, CC BY-SA 4.0
+- Алматы-2, Mercedes-Benz G-class под навесом.jpg by Nikolai Bulykin, CC BY-SA 4.0
+- Mercedes-Benz W 463 (2018) Professional Line 1X7A6058.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes Benz G-Class.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0
+- Brabus G Class 800 SP25.jpg by Calreyn88, CC BY-SA 4.0
+- Brabus G Class 800 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 Brabus G Class Belgravia.jpg by Calreyn88, CC BY-SA 4.0
+- Brabus G Class Mayfair 1.jpg by Calreyn88, CC BY-SA 4.0
+- 2016 Brabus G Class 4x4.jpg by Calreyn88, CC BY-SA 4.0
+- Brabus G Class 800 3.jpg by Calreyn88, CC BY-SA 4.0
+- G-Klasse Produktion.jpg by Peteratkins, CC BY-SA 4.0
+- G-Class assembly, 2009 (36).JPG by Bahnfrend, CC BY-SA 3.0
+- G-Class assembly, 2009 (35).JPG by Bahnfrend, CC BY-SA 3.0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1745-9.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1750-4.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Mercedes-Benz G-Class (W460 or W461) - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Mercedes-AMG G 63 4x4² 1X7A7348.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG G 63 (2018) Motorworld Munich 1X7A0054.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-Benz G-Class W463 II 63 AMG Sanming 01 2022-08-02.jpg by JamesYoung8167, CC BY-SA 4.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- White 2010-14 Ford F-150 SVT Raptor on N Jones Blvd.jpg by Noah Wulf, CC BY-SA 3.0
+
+## Sources
+
+- GoAuto (3 Nov 2009), Australian Defence Force's new G-Class era begins: https://goauto.com.au/news/mercedes-benz/g-class/australian-defence-force-rsquo-s-new-g-class-era-begins/2009-11-03/15163.html
+- GoAuto (Tim Nicholson, 18 Mar 2013), Mercedes shows off six-wheeled AMG: https://web2.goauto.com.au/future-models/mercedes-benz/g-class/mercedes-shows-off-six-wheeled-amg/2013-03-18/12509.html
+- GoAuto (Tim Nicholson, 27 Sept 2013), Benz's bush-bashing beast ruled out for Oz: https://goauto.com.au/amp/17031/benz-rsquo-s-bush-bashing-beast-ruled-out-for-oz.html
+- Motor Authority (Viknesh Vijayenthiran, 1 Mar 2013), Six-wheeled Mercedes G63 AMG 6x6: https://www.motorauthority.com/news/1082633_six-wheeled-mercedes-g63-amg-6x6-unleashed-on-the-public-video
+- Motor Authority (Jeff Glucker, 20 Feb 2015), Mercedes-Benz sells out all of its G63 AMG 6x6 beasties: https://www.motorauthority.com/news/1096910_mercedes-benz-sells-out-all-of-its-g63-amg-6x6-beasties
+- Fox News, 6x6 is the new 4x4 at Mercedes-Benz, 4 Mar 2013: https://www.foxnews.com/auto/6x6-is-the-new-4x4-at-mercedes-benz.amp
+- CarAdvice via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- Autocar (Greg Kable), Mercedes-AMG G 63 6x6 review, 23 Feb 2014: https://images.cdn.autocar.co.uk/car-review/mercedes-amg/g-63-6x6-2013-2015
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Barrett-Jackson (26 Dec 2024), The ultimate off-road icon: Mercedes-Benz G63 AMG 6x6: https://barrett-jackson.com/media/articles/the-ultimate-off-road-icon-mercedes-benz-g63-amg-66
+- The Classic Valuer, Barrett-Jackson 26 Jan 2025, Mercedes-Benz G-Wagon G 63 AMG 6x6: https://www.theclassicvaluer.com/vehicle-details/barrett-jackson-2025-01-26-mercedes-benz-g-wagon-g-63-amg-6x6-006ee1
+- MBWorld, AMG G63 6x6 G-Wagen finds a new home for $1.4 million: https://mbworld.org/articles/g63-6x6-finds-new-home-1-4-million
+- The Drive (Mate Petrany, 10 Nov 2020), G63 AMG 6x6 sold for $900K: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- MercedesBlog (18 May 2022), G63 AMG 6x6 sold again: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
+- Motor Authority (R&T), Digital Trends and The Drive coverage of the Hennessey VelociRaptor 6x6 (2016-2017)

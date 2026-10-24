@@ -1,0 +1,185 @@
+# Photo credits: Ford GT vs GT40: The Difference Nobody Explains
+
+- Ford GT 40 (2008-06-28).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de
+- 1967 Ford Gt 40 Mk Iv J5 (73530341).jpeg by Doug Fawley, CC BY 3.0
+- 1967 Ford Gt 40 Mk Iv J5 (73530343).jpeg by Doug Fawley, CC BY 3.0
+- Xbox Controllers Forza Ford Tribute Controllers (4).jpg by Microsoft Corporation, CC BY-SA 4.0
+- 1964 Ford GT40 proto GT.104.jpg by Mr.choppers, CC BY-SA 3.0
+- Ford GT 2018 and Ford GT 1968 at Legendy 2019 in Prague (cropped).jpg by Jiří Sedláček, CC BY-SA 4.0
+- Ford GT - Rétromobile 2020.jpg by Yannick Leclercq©, CC BY-SA 4.0
+- Ford GT40 Nationales Automuseum.JPG by Wikiwal, CC BY-SA 4.0
+- Ford GT40 Gulf (54130138281).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0
+- Ford GT40 Gulf Front.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Gulf Ford GT40 Goodwood.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0
+- Ford GT40 (53248237491).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Ford GT40 Replica.jpg by Sicnag, CC BY 2.0
+- 1968 Ford GT40 Mk I replicas Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- 1968 Ford GT40 Mk I replicas Goodwood, 2009 (02).jpg by Bahnfrend, CC BY-SA 4.0
+- 2011 MDA GT40 MK I.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT40 Mark I (26846397939).jpg by Falcon® Photography from France, France, CC BY-SA 2.0
+- 1966 Ford GT40 MkI Road Car, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 1966 Ford GT40 MkI Road Car, Front View, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- Ford GT40 (1966) Solitude Revival 2022 1X7A0005.jpg by Alexander Migl, CC BY-SA 4.0
+- Würgauer Bergrennen 2022 Ford GT40-20220911-RM-100609.jpg by Ermell, CC BY-SA 4.0
+- Ford GT40.jpg by Calreyn88, CC BY-SA 4.0
+- 1966 Ford GT40 (79730).jpg by Calreyn88, CC BY-SA 4.0
+- 2020 Ford GT40 Replica 6T40.jpg by Calreyn88, CC BY-SA 4.0
+- Henry Ford II in Nederland om zijn jacht te bekijken. Hier op Schiphol, Bestanddeelnr 914-9054.jpg by Hugo van Gelderen / Anefo, CC0
+- Bezoek Henry Ford aan Ford fabriek in Amsterdam, Bestanddeelnr 906-5565.jpg by Joop van Bilsen for Anefo, CC0
+- Bezoek Henry Ford aan Ford fabriek in Amsterdam, Bestanddeelnr 906-5567.jpg by Joop van Bilsen for Anefo, CC0
+- 1963 Lola Mk6 GT rear.jpg by David Merrett from Daventry, England, CC BY 2.0
+- -i---i- (35888348933).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 1968 Ford GT40 Mk I (14288662849).jpg by Sicnag, CC BY 2.0
+- 1966 Ford GT40 Mk IIB (14288696540).jpg by Sicnag, CC BY 2.0
+- 1985 Ford GT40 Mk I Tribute (16577348725).jpg by Sicnag, CC BY 2.0
+- 1966 Ford GT40 MK II.jpg by Calreyn88, CC BY-SA 4.0
+- Fod GT40 Mk II (1966) (54870127215).jpg by Charles from Port Chester, New York, CC0
+- Fod GT40 Mk II (1966) (54870064423).jpg by Charles from Port Chester, New York, CC0
+- 1969 Ford Torino GT SportsRoof fastback front left.jpg by MercurySable99, CC BY-SA 4.0
+- 1969 Ford Torino GT SportsRoof fastback rear left.jpg by MercurySable99, CC BY-SA 4.0
+- Ford GT (2005) (53772592098).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang Fastback 2015 Model.jpg by Tobias "ToMar" Maier, CC BY-SA 3.0
+- Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 2018 Ford Mustang GT 5.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- View of a side-on view of the Ford GT40 in the "For Sale" section of the Classic Car Boot Sale - geograph.org.uk - 4922818.jpg by Robert Lamb, CC BY-SA 2.0
+- Ford GT40 MKIV side.jpg by Peter & Laila, CC BY 2.0
+- Ford GT40 (24564961007).jpg by Triple-green, CC BY-SA 2.0
+- 2005 Ford GT 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1969 Ford Capri GT 2.0 Badge.jpg by Vauxford, CC BY-SA 4.0
+- 2009 Ford Mustang GT 45th Anniversary.JPG by CleanWizzard, CC BY-SA 3.0
+- 1968 Ford Mustang GT-CS California Special coupe (7708129688).jpg by sv1ambo, CC BY 2.0
+- USMC-16517.jpg by unknown, Public domain
+- Ford Mustang GT CS, Bangladesh. (27184546497).jpg by Shadman Samee from Dhaka, Bangladesh, CC BY-SA 2.0
+- 2005 Mustang GT Shoot (9103726875).jpg by Brett Levin from Parkland, USA, CC BY 2.0
+- 1965 Ford GT-40.jpg by Christopher J. Moffett, CC BY-SA 2.5
+- Ford GT (47981809566).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Looks fast..is fast....Ford GT. (31611092626).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Ford GT40 Mk I (1965) (52964026994).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT40 Mk I (1965) (52963883121).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT40 Mk I (1965) (52963284882).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1966 Ford GT40 Mk I.jpg by Sicnag, CC BY 2.0
+- Fod GT40 Mk II (1966) (54868974797).jpg by Charles from Port Chester, New York, CC0
+- Fod GT40 Mk II (1966) (54870127195).jpg by Charles from Port Chester, New York, CC0
+- The New Ford GT (16009798433).jpg by artistmac, CC BY-SA 2.0
+- 2017 Ford GT LeMans Racecar (45331846451).jpg by Sicnag, CC BY 2.0
+- 2015 Ford Mustang GT Coupe (25711543611).jpg by Sicnag, CC BY 2.0
+- 1965 Ford Mustang GT Hardtop (14381786033).jpg by Sicnag, CC BY 2.0
+- 1968 Ford Mustang GT Fastback.jpg by Sicnag, CC BY 2.0
+- 1967 Ford Mustang GT Fastback (14182200538).jpg by Sicnag, CC BY 2.0
+- Ford GT40 - Dunsfold Wings and Wheels 2014 (15190509072).jpg by Airwolfhound, CC BY-SA 2.0
+- Ford GT40 - Dunsfold Wings and Wheels 2014 (14883541449).jpg by Airwolfhound, CC BY-SA 2.0
+- Ford GT40 - Dunsfold Wings and Wheels 2014 - Explored -) (15064843395).jpg by Airwolfhound, CC BY-SA 2.0
+- 1970 Ford Torino GT Sportsroof (45965919031).jpg by Sicnag, CC BY 2.0
+- 1971 Ford Torino GT Convertible (37563582395).jpg by Sicnag, CC BY 2.0
+- 1971 Ford Torino GT Sports Roof (26737137026).jpg by Sicnag, CC BY 2.0
+- 1967 GT40 Mk IV at 2010 Canadian International AutoShow.JPG by Jaydec at en.wikipedia, CC BY-SA 3.0
+- Ford GT40 MKIV tail2.jpg by Peter & Laila, CC BY 2.0
+- Ford GT40 MKIV tail3.jpg by Peter & Laila, CC BY 2.0
+- 2021 Ford GT Carbon Series.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Ford GT Carbon Edition.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Ford GT Carbon Series BPA26.jpg by MrWalkr, CC BY-SA 4.0
+- 1997 Ford EL Falcon Sedan (17670566466).jpg by Sicnag, CC BY 2.0
+- 1998 Ford EL Falcon XR8 Sedan (33422961422).jpg by Sicnag, CC BY 2.0
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Ford Falcon XW GT Track Red.jpg by Sicnag, CC BY 2.0
+- Ford Falcon XY GT Track Red.jpg by Sicnag, CC BY 2.0
+- Ford GT - Flickr - Stradablog.jpg by Tino Rossini from Toronto, Canada, CC BY 2.0
+- 1985 Pontiac Fiero GT Interior Dashboard (51839326235).jpg by Eric Friedebach, CC BY 2.0
+- 1985 Pontiac Fiero GT Interior Dashboard (51839256275).jpg by Eric Friedebach, CC BY 2.0
+- Ford Mustang GT with bench seat interior.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC0
+- Ford GT40 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ford GT40 (53689439270).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Ford GT40 (53689120458).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- 2004 GT40 North America Replica in Gulf Livery, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 2004 GT40 North America Replica in Gulf Livery, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- Ford GT40 (39430889701) noBG.jpg by Triple-green  /  Freisteller von Auge=mit, CC BY-SA 4.0
+- Goodwood FOS 2008 (2661754420).jpg by Mark Woodbury from London, England, CC BY 2.0
+- Goodwood Festival of Speed 2008 (2691496217).jpg by christianb_7, CC BY-SA 2.0
+- 5.15.16 Road America Spring Vintage Weekend - Second Enduro - Class 4-5 winner Mac McCombs (27255776816).jpg by Royal Broil from East Central, Wisconsin, USA, CC BY-SA 2.0
+- 2016 Ford GT Le Mans (31649490800).jpg by Kieran White from Manchester, England, CC BY 2.0
+- Ford GT number 66 from 2016 24 hours of Le Mans (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Ford GT number 66 from 2016 24 hours of Le Mans (Ank Kumar, Infosys) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Ford GT1 vs Lamborghini Murciélago.jpg by ToNG!?, CC BY 2.0
+- Jason Andrews 51 Ford Mustang - 2025 American Speedfest.jpg by BWard 1997, CC BY 4.0
+- United Autosport Audi and Fischer Ford.jpg by Adam Pigott from Coningsby, UK, CC BY 2.0
+- 1974 Ford XB Falcon GT Sedan (24067197313).jpg by Sicnag, CC BY 2.0
+- 1974 Ford XB Falcon GT Sedan (16028862140).jpg by Sicnag, CC BY 2.0
+- 1974 Ford XB Falcon GT Sedan (25227736305).jpg by Sicnag, CC BY 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Würgau Bergrennen 2017 Porsche Carrera RSR 0530.jpg by Ermell, CC BY-SA 4.0
+- Porsche 911 RSR Estre Silverstone 2018.jpg by John Chapman, CC BY-SA 4.0
+- 1966 Ford GT40 18.jpg by Calreyn88, CC0
+- 1966 Ford GT40 2.jpg by Calreyn88, CC BY 4.0
+- 1966 Ford GT40 4.jpg by Calreyn88, CC BY 4.0
+- Richard Childress Racing Museum October 2022 42 (Ricky Rudd's 1983 Riverside International Raceway-winning No. 3 Piedmont Airlines Chevrolet Monte Carlo).jpg by Michael Barera, CC BY-SA 4.0
+- 1964 Mercury Marauder - 2015 Sonoma Raceway - Sarah Stierch.jpg by SarahStierch, CC BY 4.0
+- Riverside Methodist Hospital 1.jpg by Sixflashphoto, CC BY-SA 4.0
+- Ford GT40 Mk IV.jpg by Sandypineman, Public domain
+- Ford GT40 MKIV tail 1.jpg by Peter & Laila, CC BY 2.0
+- Ford GT40 MKII + MKIV.jpg by Peter & Laila, CC BY 2.0
+- Ford GT40 Mk IV (1967) (53995365358).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT40 Mk IV (1967) (53995365353).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT40 MK IV (24710571731).jpg by Jacob Frey 4A, CC BY 2.0
+- Beaulieu Motor Museum, Ford GT40 Mk 1 (1967) - geograph.org.uk - 8065688.jpg by Michael Garlick, CC BY-SA 2.0
+- 1968 Ford GT40 Mk III at Beaulieu (5962479377).jpg by sv1ambo, CC BY 2.0
+- 1969 Ford GT40 Mk III (5962473885).jpg by sv1ambo, CC BY 2.0
+- Ford GT (2005) (52963876266).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT (2004) (52865555875).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford GT (2021) (52228136636).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Multimatic Motorsports Mustang 15.jpg by BrokenGearbox, CC BY 4.0
+- Multimatic Motorsports Mustang at Donington Park.jpg by BrokenGearbox, CC BY 4.0
+- Ford Mustang GT3.jpg by Ford Media, CC BY-SA 4.0
+- 1967 Ford GT40 Mark III (48070605578).jpg by CALChux, CC BY-SA 2.0
+- 1968 Ford GT40 HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- FOS21 Ford GT40 60.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT40 at London Motor Museum (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Ford GT40 (52600261540).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- 1968 Ford GT40.jpg by Calreyn88, CC0
+- Tournage du film "Le Mans" en 1970.jpg by Marc Le Beller (ZANTAFIO56), CC BY-SA 2.0
+- Porsche 908-2 Spyder 1969 - Mondial de l'Automobile de Paris 2016 - 001.jpg by Thesupermat, CC BY-SA 4.0
+- 1970 Porsche 917K (44208947615).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Xbox 1966 GT40 Mk. II Tribute Controller.jpg by Microsoft Corporation, CC BY-SA 4.0
+- Ford GT40 Mk II Le Mans 1966 Ken Miles noBG.jpg by Auge=mit, CC BY-SA 4.0
+- 1966 Ford GT40 MkII (32166960105).jpg by David Merrett from Daventry, England, CC BY 2.0
+- 2022 Ford GT SP23.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Ford GT SP23 low.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT HCC22.jpg by MrWalkr, CC BY-SA 4.0
+- 2005 Ford GT, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- 2005 Ford GT 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Ford GT 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2026 Ford GT Mark IV SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Ford GT Mk IV (2025) (55312016712).jpg by Charles from Port Chester, New York, CC0
+- 2025 Ford GT Mk IV in Blue, front left (Greenwich 2026).jpg by Mr.choppers, CC BY-SA 4.0
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Nordschleife Brünnchen 201204061.JPG by BedaNo1, CC BY-SA 3.0
+- IMG 6449-Ford GT40 Mk1-Le Mans Classic 2018.jpg by Éric Manesse, CC BY-SA 4.0
+- 1965 Ford GT40 (31176376833).jpg by David Merrett from Daventry, England, CC BY 2.0
+- 1965 Ford GT40 (31948552456).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Ford GT (GTE) at the 2018 Road Race Showcase at Road America.jpg by Arturo Hurtado, CC BY 2.0
+- Ford GT (Mustang) Heiligenstadt-20180819-RM-160637.jpg by Reinhold Möller Ermell, CC BY-SA 4.0
+- Ford Mustang VI GT Front View 20260726.jpg by 4084470 0.smil, CC BY 4.0
+- Ford GT 2018 and Ford GT 1968 at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- Ford GT 40, London 04.jpg by Ank kumar, CC BY-SA 4.0
+- Ford GT 40, London 06.jpg by Ank kumar, CC BY-SA 4.0
+- Ford GT Red.jpg by Mannequin- from Basking Ridge, NJ, USA, CC BY 2.0
+- Ford GT (2nd generation) coupes IMG 0224.jpg by Alexander-93, CC BY-SA 4.0
+- Ford GT (1st generation) coupes Motorworld Munich 1X7A0045.jpg by Alexander-93, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ford GT40: https://en.wikipedia.org/wiki/Ford_GT40
+- Wikipedia, Ford GT: https://en.wikipedia.org/wiki/Ford_GT
+- Wikipedia, Ken Miles: https://en.wikipedia.org/wiki/Ken_Miles
+- Petrolicious, Ford's quest to beat Ferrari with the GT40: https://petrolicious.com/blogs/articles/ford-gt40
+- Car and Classic, Legend of Le Mans: Ford's GT40 turns 60: https://www.carandclassic.com/magazine/legend-of-le-mans-fords-gt40-turns-60/
+- Jalopnik, The Ford GT was born to avenge the death of a secret Mustang: https://www.jalopnik.com/the-ford-gt-was-born-to-avenge-the-death-of-a-secret-mu-1794070410/
+- Motoring Research, 2017 Ford GT: inside the top secret design studio: https://www.motoringresearch.com/car-news-list/features/2017-ford-gt-design-studio/
+- Gear Patrol, The car that forced Porsche to redesign its fastest 911 (May 2017): https://www.gearpatrol.com/cars/a352077/ford-gt-review-specs-images-porsche-911-ferrari-488gtb/
+- Car Showroom, Ford will build 350 more GTs: https://www.carshowroom.com.au/news/ford-will-build-350-more-gts-books-open-november-8th/
+- Autoblog, John Cena and Ford settle over flipped GT (June 2018): https://www.autoblog.com/2018/06/19/john-cena-ford-gt-flip-settlement
+- RM Sotheby's, GT40 Gulf/Mirage lightweight brings record $11 million (Aug 2012): https://rmsothebys.com/media-center/press-releases/gt40-gulfmirage-lightweight-racing-car-brings-record-11-million-at-rm-s-friday-monterey-sale
+- Hagerty valuation tools, 2022 Ford GT (Jan 2026): https://www.hagerty.com/valuation-tools/ford/gt/2022/2022-ford-gt
+- Ford, Ford GT Mk IV makes Nürburgring history (Apr 2026): https://www.at.ford.com/us/en/home/news-media/news/2026/4/ford-gt-mk-iv-makes-nuerburgring-history-with-third-fastest-lap-.html

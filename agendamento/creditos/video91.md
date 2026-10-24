@@ -1,0 +1,113 @@
+# Photo credits: What It Really Costs to Own a Pagani
+
+- Pagani Utopia Auto Zuerich 2023 1X7A1451.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1185.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1183.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0733).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA1014).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6390.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6801.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6399.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6397.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia (53048624118) (cropped).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia 7.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Utopia 5.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Utopia.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia 3.jpg by Calreyn88, CC0
+- Pagani Utopia 1.jpg by Calreyn88, CC0
+- Pagani Utopia 4.jpg by Calreyn88, CC0
+- Pagani Utopia 2.jpg by Calreyn88, CC0
+- Pagani Utopia (53048317354) (cropped).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia (53048622043).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2022 Pagani Utopia (53877996868).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Pagani Utopia (53048624118-resized).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia (53048317354).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Pagani Utopia (53048624118).jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2024 Pagani Utopia (no. 26) in Yellow and Black, front right2.jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Pagani Utopia (no. 26) in Yellow and Black, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 2024 Pagani Utopia Roadster FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0736).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0743).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0735).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0736-resized).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster (2026) (55082983789).jpg by Charles from Port Chester, New York, CC0
+- Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Pagani Huayra blue front lights.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Pagani Huayra GIMS 2024 noBG.jpg by Fotograf der Quelle: User:MB-one   /   Freisteller, Bildbearbeitung & Retusche von Auge=mitphotographer of the source User:MB-one  /  Free-form select, image editing and retouching by Auge=mit, CC BY-SA 4.0
+- Pagani Zonda Uno rear.jpg by Jorismb, Public domain
+- Pagani Zonda Uno front.jpg by Jorismb, Public domain
+- Pagani Zonda Cinque 1 of 5.JPG by Dr.emmettbrown, CC BY-SA 3.0
+- Janis Joplin's 1965 Porsche 356 C Cabriolet - Rock and Roll Hall of Fame (2014-07-12 15.57.29 by Zurich 99).jpg by Zurich_99, CC BY-SA 2.0
+- Sotheby's (51921999492).jpg by ajay_suresh, Public domain
+- Paris - RM Auctions - 5 février 2014 - Ferrari 599XX - 2010 - 008.jpg by Thesupermat, CC BY-SA 3.0
+- Pagani Huayra Coupé (2014) (52561505159).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Dies irae - Parafrasi - Del Nobil Sig- Giuseppe Urbano Co- Pagani Cesa. - Posto in Musica - Da - Antonio Calegari - L'anno 1796 - btv1b10500714w (111 of 205).jpg by Calegari, Antonio (1757-1828). Compositeur, Public domain
+- Dies irae - Parafrasi - Del Nobil Sig- Giuseppe Urbano Co- Pagani Cesa. - Posto in Musica - Da - Antonio Calegari - L'anno 1796 - btv1b10500714w (139 of 205).jpg by Calegari, Antonio (1757-1828). Compositeur, Public domain
+- Dies irae - Parafrasi - Del Nobil Sig- Giuseppe Urbano Co- Pagani Cesa. - Posto in Musica - Da - Antonio Calegari - L'anno 1796 - btv1b10500714w (163 of 205).jpg by Calegari, Antonio (1757-1828). Compositeur, Public domain
+- Pagani Zonda 1.jpg by LarryStevens, CC BY-SA 3.0
+- Hieronymus Bosch Workshop (1450-1516) - The arrest of Christ (1515 ca.) - SDMA San Diego Museum of Art.jpg by Hieronymus Bosch Workshop, Public domain
+- Bottega di Lucas Cranach il Vecchio - Cristo e l'adultera (1537 circa) - Museo nazionale di Capodimonte, Napoli.jpg by Flickr user Raffaele Pagani, Public domain
+- MINI X-Ray John Cooper Works Buggy (2019) (52573954798).jpg by Charles from Port Chester, New York, CC BY 2.0
+- MINI X-Ray John Cooper Works Buggy (2019) (52573426291).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1983 Golf GTI Pirelli 2024-05-01.jpg by Wikisympathisant, CC BY-SA 4.0
+- LAMBORGHINI AVENTADOR LP700-4 PIRELLI EDITION at GIMS 2015,Geneva, Switzerland 01.jpg by Ank Kumar, CC BY-SA 4.0
+- LAMBORGHINI AVENTADOR LP700-4 PIRELLI EDITION at GIMS 2015,Geneva, Switzerland 02.jpg by Ank Kumar, CC BY-SA 4.0
+- AMG Carbon Ceramic brake..JPG by Dana60Cummins, Public domain
+- Amg carbon ceramic brake geneva auto show 2011.JPG by Cheeni, CC BY-SA 3.0
+- Mercedes SLS-AMG Carbon Ceramic Brakes (4488319531).jpg by Razvan Orendovici from United States, CC BY 2.0
+- BAS 24, Brussels (P1170261-RR).jpg by Matti Blume, CC BY-SA 4.0
+- GIMS 2024, Le Grand-Saconnex (GIMS0222).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Huayra - Flickr - andrewbasterfield.jpg by Andrew Basterfield, CC BY-SA 2.0
+- Figure 1- Federal Banking Agencies' Decennial Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Review Process (55550906934).jpg by U.S. GAO, Public domain
+- US Navy 051101-N-8683B-005 Mr. Jim Reed, right, a Navy-Marine Corps Relief Society coordinator from Jacksonville, Fla., assists Hospital Corpsman 1st Class Mike Sherner of Naval Branch Health Clinic.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- US Navy 051101-N-8683B-006 Legalman 2nd Class Nadia Johnson, left, and Lt. Harold Jones, both of Navy Legal Services Office Jacksonville, Fla., assist Hurricane Wilma victims.jpg by U.S. Navy photo by Mr. James Brooks, Public domain
+- Tree (191887119).jpeg by Andrea Pagani, CC BY-SA 3.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6857.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6854.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster (2026) (55082923623).jpg by Charles from Port Chester, New York, CC0
+- Pagani Utopia (55112638385).jpg by Mustang Joe, CC0
+- California nebula NGC1499.jpg by Ram samudrala, CC BY 4.0
+- California nebula and the Pleiades (pleiades-ch17-bardon-cc).jpg by Zdeněk Bardon/ESO, CC BY 4.0
+- California nebula from Estonia.jpg by Taavi Niittee/Tõrva Astronoomiaklubi/Tõrva Astronomy Club, CC BY 4.0
+- Pagani Zonda F (7160140659).jpg by Tobiasvde, CC BY-SA 2.0
+- AMG Mercedes V12.jpg by LarryStevens, CC BY-SA 3.0
+- Lamborghini Murciélago LP-640 (52766250509).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Paris - RM Auctions - 5 février 2014 - Ferrari 599XX - 2010 - 007.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Ferrari 599XX - 2010 - 009.jpg by Thesupermat, CC BY-SA 3.0
+- Scottsdale 2018 Lot 3010 - 2017 Ford GT.jpg by Rbdesimone, CC BY-SA 4.0
+- 21 Ford Bronco.jpg by HJUdall, CC BY-SA 4.0
+- GMC Hummer EV.jpg by HJUdall, CC BY-SA 4.0
+- Legal Gavel (27571702173).jpg by Blogtrepreneur, CC BY 2.0
+- Wooden gavel 20170417.jpg by Santeri Viinamäki, CC BY-SA 4.0
+- Voorzittershamer.jpg by Anoko at Dutch Wikipedia, CC BY-SA 3.0
+- مجسم جريندايزر في بوليفارد وورلد بموسم الرياض.jpg by وكالة الأنباء السعودية, CC BY-SA 4.0
+- Mosaic of the seasons and months, 3rd cent., National Archeological Museum, Madrid (2) (29252490672).jpg by Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0
+- Pagani Zonda HP Barchetta Bad.jpg by MrWalkr, CC BY-SA 4.0
+- 2017 Pagani Zonda HP Barchetta USG26.jpg by MrWalkr, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- 2022 Pagani Huayra R SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Huayra R (40249).jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Huayra R.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Zonda, GIMS 2019, Le Grand-Saconnex (GIMS0014).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1463).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Zonda F Carbon.jpg by LSDSL, CC BY-SA 2.0 de
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Pagani Utopia: https://en.wikipedia.org/wiki/Pagani_Utopia
+- Wikipedia, Pagani (company): https://en.wikipedia.org/wiki/Pagani_(company)
+- Wikipedia, Pagani Zonda: https://en.wikipedia.org/wiki/Pagani_Zonda
+- Hyperluxe, Pagani Utopia price (updated July 2026): https://hyper.luxe/price/pagani/utopia-price/
+- Marque Cars, Pagani buyer's guide, pricing, depreciation: https://marquecars.com/brands/pagani
+- Classic.com, Pagani Utopia market: https://www.classic.com/m/pagani/utopia/
+- Top Gear, This is the brand new Pagani Utopia: https://www.topgear.com/car-news/first-look/brand-new-pagani-utopia-v12-engined-throwback
+- Supercar Blondie, The Pagani Utopia is here: https://supercarblondie.com/pagani-utopia-c10-v12-manual-supercar-revealed/
+- Pagani Automobili press release, Pagani Utopia Roadster: https://www.pagani.com/press/utopia-roadster/
+- Gulf News, Pagani Zonda Riviera sold for $5.5 million at Riyadh Season car auction: https://gulfnews.com/amp/auto/news/pagani-zonda-riviera-sold-for-55-million-at-riyadh-season-car-auction-1.1574581887664
+- Attic Capital, Horacio Pagani and the Zonda: https://atticcapital.com/horacio-pagani-zonda/
