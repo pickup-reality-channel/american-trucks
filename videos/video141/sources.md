@@ -1,0 +1,14 @@
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Motor1, The Ram TRX Is Dead: https://www.motor1.com/news/694983/ram-1500-trx-dead/
+- Motor1, 2023 Ford F-150 Raptor R review (Jeff Perez): https://www.motor1.com/reviews/682058/2023-ford-f-150-raptor-r/
+- Motor Authority, 2023 Ford F-150 Raptor R roars with 700 hp for $109,145: https://www.motorauthority.com/news/1136512_2023-ford-f-150-raptor-r-price
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Motor1, 2027 Ram TRX revealed: now with 777 horsepower: https://www.motor1.com/news/783086/2025-ram-trx-horsepower-price-details/
+- American Cars And Racing, Supercharged V8-powered Ram 1500 TRX return set for January 2026: https://americancarsandracing.com/2025/07/23/ram-1500-trx-return-january/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open; pricing announced: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX? (Brian Normile): https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
