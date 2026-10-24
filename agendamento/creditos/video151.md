@@ -1,0 +1,168 @@
+# Photo credits: The Real Cost of a Six-Wheel Truck
+
+- Brabus G63 AMG 6x6.jpg by Marvin Ladage, CC BY-SA 4.0
+- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Wheel of Mercedes-Benz G63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Dunn's Bridge on the Kankakee River, 1913 - Kankakee River, Porter County, Indiana (5453412376).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Well and Bridge at Dunns Pleasure Resort, circa 1920 - Kankakee River, Porter County, Indiana (52894171215).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Dunn's Bridge Over Kankakee River, 1965 - Kankakee River, Porter County, Indiana (4160266558).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- The Bridge, Dunns Pleasure Resort, circa 1910 - Kankakee River, Porter County, Indiana (52894234663).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Dunns' Bridge, Burrows' Camp, 1913 - Kankakee River, Porter County, Indiana (8800191968).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Dunns Pleasure Resort, circa 1910 - Kankakee River, Porter County, Indiana (52893779941).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Citroen 7 CV (11649728566).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Citroen 7 CV (170491320).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Price you gotta pay when you break the panorama - panoramio.jpg by James Ryen, CC BY 3.0
+- Price-Eric Rowmantic Escape 3-2025 18x24 oil on canvas.jpg by EricPriceArt, CC BY-SA 4.0
+- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0
+- Teatro Circo Price - 01.jpg by Carlos Delgado, CC BY-SA 3.0
+- Non-proliferative versus proliferative colonic crypts.jpg by Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None
+Mikael Häggström, M.D.Consent note: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (List of HIPAA identifiers) in the media and case information (See also HIPAA case reports guidance)., CC0
+- Normal versus dysplastic colonic crypt - low magnification.jpg by Mikael Häggström, M.D. Author info - Reusing images- Conflicts of interest:  None
+Mikael Häggström, M.D.Consent note: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (List of HIPAA identifiers) in the media and case information (See also HIPAA case reports guidance)., CC0
+- Player versus player (27884375761).jpg by Thomas8047, CC BY 2.0
+- Hennessey Venom GT (2011) (54559211389).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Hennessey Venom GT (2011) (54559360500).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Hennessey Venom GT (2011) (54558151802).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Bowlus BA-100 Baby Albatross - DPLA - 7726e481325cdabf9c55dd58690d04bd (page 3).jpg by William H. Bowlus, CC0
+- Senior Advisor Ned Price Gives Remarks at a Virtual Ministerial Meeting to Launch the Global Coalition to Address Synthetic Drug Threats (53028526532).jpg by U.S. Department of State from United States, Public domain
+- Mayor Garcetti at the Launch of the Clean Streets Initiative (17224337408).jpg by Eric Garcetti, CC BY 2.0
+- Gerlach, Nevada (11128521024).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- County Route 34 North of Gerlach, Nevada (11128690343).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Gerlach, Nevada (11128511986).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- Yellow Gallon 1.jpg by Paakwesi19, CC BY-SA 4.0
+- Yellow Gallon 2.jpg by Paakwesi19, CC BY-SA 4.0
+- G. Unser 1-2 gallon brown stoneware jar - DPLA - ccfc989a8809023c600d3520f0352f59.jpg by G. Unser, Public domain
+- Wind Farm Realities (7778165404).jpg by Michael from Calgary, AB, Canada, CC BY 2.0
+- M.F.T.R.T. XV. oil barge model and 1,600tons river fuel barge model, Budapest, Transport Museum 2015, 142.jpg by Christo, CC BY-SA 4.0
+- Fuel Cell Model Car.jpg by matthew venn from london, uk, CC BY-SA 2.0
+- M60 Tank veterans memorial.jpg by Godstar23, CC0
+- Teledyne Continental High Performance M60 Tank prototype.jpg by STAFF Sergeant Lloyd H. Cole, Public domain
+- M60 tank thermal sight AN VSG-2.jpg by Unknown, Public domain
+- Image from page 11 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 5036.jpg by Internet Archive Book Images, CC0
+- TRAIN S USA CHESAPEAKE AND OHIO RAILROAD CLASS M-1 & PENNSYLVANIA RAILROAD V1 STEAM TURBINE LOCOMOTIVES - (LH PIC) ARTIST'S CONCEPT IN POPULAR MECHANICS JUNE 1945.jpg by ausdew, Public domain
+- Sydney, NSW - Australia (16652710445).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Dieselpump Preem Avesta.jpg by Calle Eklund/V-wolf, CC BY 3.0
+- Male-total.jpg by Shahee Ilyas, CC BY-SA 3.0
+- Oil shale - from research to reality 03. Enefit280 plant, view of the plant.jpg by Lauri Veerde, CC BY 4.0
+- Fuel at MWR Rock the Fleet 1.jpg by Sgt. Randall A. Clinton, Public domain
+- Fuel at MWR Rock the Fleet 2.jpg by Sgt. Randall A. Clinton, Public domain
+- Microbial fuel cells with small fan (on the right) powered by the electricity produced. (13358699875).jpg by SuSanA Secretariat, CC BY 2.0
+- Verkhoyansk Range, Republic of Sakha (Yakutia), Russia - 2019.jpg by Ilya Varlamov, CC BY-SA 3.0
+- Himalayas.jpg by NASA, Public domain
+- Browning Range during winter sunrise, Lake Kaniere Scenic Reserve, West Coast, New Zealand.jpg by Michal Klajban, CC BY-SA 4.0
+- Austin Healey 100 (47999693487) (cropped).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Austin Healey 100 (47999693487).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Chevrolet Volt (5223949763).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- LSUvsUT 142 (49174796376).jpg by Tammy Anthony Baker from Louisiana, CC BY 2.0
+- Trade Price Tyres white van, Crindau, Newport - geograph.org.uk - 7717870.jpg by Jaggery, CC BY-SA 2.0
+- Cycling in the GDR April 30 1990- Gasthaus Kupfer, Stolberg (Harz) (3407074715).jpg by Sludge G, CC BY-SA 2.0
+- Valance (one of a set of six) MET 132303 (2).jpg by unknown, CC0
+- Valance (one of a set of six) MET 132304.jpg by unknown, CC0
+- Valance (one of a set of six) MET 132305.jpg by unknown, CC0
+- Alpine A110 R Ultime.jpg by Rolf Kranz, CC BY-SA 4.0
+- Nokian Renkaat.jpg by Vapriikin kuva-arkisto, CC BY 2.0
+- SubmergedEgyptianHarbour TyreSour Lebanon RomanDeckert04112019.jpg by RomanDeckert, CC BY-SA 4.0
+- DTM Mercedes W204 DiResta09 amk.jpg by AngMoKio, CC BY-SA 3.0
+- Car tyre 205 55 R17 95V.jpg by Acabashi, CC BY-SA 4.0
+- Crocodile Airless Tyres fitted to a Caterpillar Skid Steer Loader.jpg by Damoos78, Public domain
+- Amboy (California, USA), Hist. Route 66 -- 2012 -- 1.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Amboy (California, USA), Hist. Route 66 -- 2012 -- 5705.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Temporary legal lettering, Arriva London bus T287, route 197, 22 April 2014.jpg by Au Morandarte from London, Middlesex, England, CC BY-SA 2.0
+- Chicago Mica Company, circa 1907 - Valparaiso, Indiana (4176373915).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0
+- Miami and Erie Canal boat photographs - DPLA - 07a43a8c74588092e2b210a612a2527e (page 1).jpg by unknown, Public domain
+- Miami and Erie Canal Lock photographs - DPLA - 02d6f9c193ca64978e408b5e50a34a5d (page 2).jpg by unknown, Public domain
+- Italian Turboprop Aircraft Piaggio P.180 Avanti. MAKS 2011 Airshow. Moscow.jpg by Peer.Gynt, CC BY-SA 2.0
+- Driven Car Show.jpg by Davidvink, CC BY-SA 4.0
+- Limousine und Autowerkstatt in Werbach.jpg by Triplec85, CC BY-SA 4.0
+- Cadillac Stretch Limousine in Washington, D.C., January 1989.jpg by Chris Jantsch, CC BY-SA 4.0
+- Four weights - Musée des arts et métiers - Inv 17675.jpg by Poulpy, CC BY-SA 4.0
+- 1800s brass and iron weights 1 kg to 10 gr Gothenburg municipality Sweden.jpg by R. Henrik Nilsson, CC BY 4.0
+- Weights (51368817866).jpg by Auckland Museum  Collections from Auckland, Aotearoa New Zealand, CC BY 2.0
+- Coach-boxes by William Felton.jpg by William Felton, Public domain
+- Early Medieval , Hoard (FindID 504460-384425).jpg by The British Museum, Lucy Ellis, 2013-09-12 13:52:02, CC BY-SA 2.0
+- Bronze Age Flat Axe (profile) (FindID 516750).jpg by Gwynedd Archaeological Trust , Spencer Gavin Smith, 2014-09-15 13:39:44, CC BY-SA 4.0
+- Katoomba Scenic Skyway, 1963 (10808030475).jpg by Blue Mountains Local Studies from City of Blue Mountains, Australia, CC BY-SA 2.0
+- 2023 sunrise 04 (52598971016).jpg by Republic of  Korea from Seoul, Republic of Korea, CC BY-SA 2.0
+- 2023 sunrise 09 (52599232104).jpg by Republic of  Korea from Seoul, Republic of Korea, CC BY-SA 2.0
+- AntiRacist Festival Athens image 6886.JPG by Cogiati, CC BY-SA 3.0
+- Weisendanger Falls - Height 55' - Elevation 950' (10251806855).jpg by Ian Sane from Oregon, USA, CC BY 2.0
+- Anna Friel & Peter Facinelli - DSC 0022 (16311695162).jpg by Red Carpet Report on Mingle Media TV from Culver City, USA, CC BY-SA 2.0
+- Toddler running and falling.jpg by Jamie Campbell from Emsworth (nr Portsmouth), U.K, CC BY 2.0
+- Clothes Falling Down.jpg by Rina, CC BY-SA 4.0
+- Peter Paul Rubens - The Fall of Phaeton (National Gallery of Art).jpg by Peter Paul Rubens, Public domain
+- Kawkareik - Thin Gan Nyi Naung Rd, Thin Gan Nyi Naung, Myanmar (Burma) - panoramio (1).jpg by mohigan, CC BY-SA 3.0
+- Cho ben thanh nam 2012 tet nham thin - panoramio.jpg by trungydang, CC BY 3.0
+- DFC 2076 Low-angle street scene at dusk with wet pavement reflecting a thin line of blue light market stalls and hanging lanterns on the left and colorful LED tubes suspended above the road.jpg by PattayaPatrol, CC BY-SA 4.0
+- Or Offer Pic3.jpg by Eden Offer, CC BY 4.0
+- 1923-07-26 Wiener & Siemsen Hannover Angebot Vordruck an J. Landgraf & Sohn in Frankenhausen auf Papier Velvet Post 582, Briefkopf.jpg by Stecher*in im Auftrag der Firma Wiener & Siemsen, Public domain
+- VQ-BID Boeing 737 UTAir (7269509824).jpg by Aeroprints.com, CC BY-SA 3.0
+- US81nRoad-HennesseyOK (39393076944).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
+- Hennessey Venom F5, GIMS 2018, Le Grand-Saconnex (1X7A1390).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey, OK- Plat of the Town of Hennessey, Oklahoma Territory in the S.E. ¼ of the N.W. ¼ of Sec. 24, Twp. 19 N. R. 7 W. - DPLA - a450dd6398634db4ca6ff978fbad80fb.jpg by Department of the Interior. General Land Office. 1849-7/16/1946, Public domain
+- 2020 Aston Martin DBS Superleggera in Stratus White, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1937 Airomobile Experimental Sedan (1418389331).jpg by brewbooks from near Seattle, USA, CC BY-SA 2.0
+- Belle of the Ball (4501047991).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- 86th FSS resale lot keeps Airmen driving forward 160824-F-FN535-003.jpg by Airman 1st Class Larissa Greatwood, Public domain
+- 86th FSS resale lot keeps Airmen driving forward 160824-F-FN535-009.jpg by Airman 1st Class Larissa Greatwood, Public domain
+- 86th FSS resale lot keeps Airmen driving forward 160824-F-FN535-024.jpg by Airman 1st Class Larissa Greatwood, Public domain
+- 1958 Edsel Citation Teletouch Transmission (18997339216).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Pacer Convertible with Teletouch (18839792638).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1958 Edsel Citation (18997333986).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 1926 Autocar model 27HPDS, gear drive dump hoist 4975768358.jpg by Jim Duell, CC BY-SA 2.0
+- Autocars Sabra ca 1960 Schaffen-Diest 2012.jpg by Charles01, CC BY-SA 3.0
+- Self-Loading Dump Truck.jpg by Douglaswth, CC BY-SA 4.0
+- AS17-147-22527 (21652570416) (cropped).jpg by Project Apollo Archive, Public domain
+- Lakshmi Narasimha Swamy temple, Bejjanki Telangana - 48.jpg by P. Madhusudan, CC0
+- Lakshmi Narasimha Swamy temple, Bejjanki Telangana - 03.jpg by P. Madhusudan, CC0
+- St. Mercurios Killing King Oleonus (St. Mercurios Killing Emperor Julian the Apostate) (3309043161).jpg by A. Davey from Where I Live Now: Pacific Northwest, CC BY 2.0
+- Tottenham Bus Garage Entrance.jpg by Alan Stanton, CC BY-SA 2.0
+- Three standing female figures, El Faisan area, Veracruz state, Early Classic period, 450-600 AD, ceramic - Dallas Museum of Art - DSC04624.jpg by Daderot, Public domain
+- Nasi bujang 20240221 144059.jpg by Wiki Farazi, CC0
+- Butterflies. Borneo, Malaysia (14910316449).jpg by Luke Price from Rotterdam, Netherlands, CC BY 2.0
+- Rahmat Haron (51888242).jpeg by Kris Khaira, CC BY 3.0
+- Costs at Wetherbyco services.jpg by Victuallers, CC BY-SA 3.0
+- Printing costs in De Binding, Oude Pekela (2018).jpg by Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons.(Want to use this image?), CC BY-SA 4.0
+- System concerning costs and leaks, US Steel Co, 1903.jpg by US Steel Co, 1903, Public domain
+- Compression Ephesos.jpg by Guy vandegrift derived this from CNG, (uploaded by Odysses), CC BY-SA 4.0
+- Storage size comparison.jpg by Zxb, CC BY-SA 2.0 at
+- Magnetic-tape data storage.jpg by Mister rf, CC BY-SA 4.0
+- Good Morning From the International Space Station.jpg by Scott Kelly, Public domain
+- Alone in the unspoilt wilderness (Unsplash).jpg by David Marcu davidmarcu, CC0
+- LCAC-55 maneuvers to enter the well deck.jpg by U.S. Navy photo by Photographer's Mate Airman Sarah E. Ard, Public domain
+- SLT vs Plan V, Utrecht Centraal.jpg by Alfenaar, CC BY-SA 2.0
+- USA Lassen NP Kings Creek CA.jpg by Daniel Schwen, CC BY-SA 2.5
+- Ireland vs Georgia, Rugby World Cup 2007 What's the Plan Boss.jpg by Woesinger, CC BY-SA 2.0
+- Partial design for a ceiling with an ornate border MET DP811428.jpg by Jules Lachaise / Eugène-Pierre Gourdet, CC0
+- Partial design for a ceiling with alternative patterns for the borders MET DP811430.jpg by Jules Lachaise / Eugène-Pierre Gourdet, CC0
+- Dwelling house at Esher for Mrs. Wethered- Three Elevations, and a Partial Section MET DP805679.jpg by Ernest Geldart, CC0
+- Wyvern Warrior of the Week- SrA Edgar Sanchez (7427261).jpg by U.S. Air Force 31FWPA by Senior Airman Brooke Keisler, Public domain
+- COVID-19 Panic Buying (50115047967).jpg by Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0
+- Mauritius - Buy alcohol today because tomorrow is not legal.jpeg by Oliver H, CC BY-SA 3.0
+- PARTNERS WANTED... UNCLE SAM & CO. BUY WAR BONDS TODAY... FOR DETAILS SEE YOUR CREDIT UNION... COMPLIMENTS OF C.U.N.A... - NARA - 515164.jpg by Unknown authorUnknown author or not provided, Public domain
+- Pennsylvania- HUNTINGDON County, Enumeration District 57, Sheet No. 5A - DPLA - 9959cc62c177be17cf50e882fa9f961e.jpg by Department of Commerce and Labor. Bureau of the Census. 7/1/1903-1913, Public domain
+- Pennsylvania- PHILADELPHIA County, Enumeration District 496, Sheet No. 13A - DPLA - cc1303f29d898fb173c7d5b86ce3e80f.jpg by Department of Commerce and Labor. Bureau of the Census. 7/1/1903-1913, Public domain
+- New York- KINGS County, Enumeration District 267, Sheet No. 14A - DPLA - af660f7a92bb068ffa964cefbf235d1d.jpg by Department of Commerce. Bureau of the Census. 1913-1/1/1972, Public domain
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+
+## Sources
+
+- Autocar (Greg Kable), Mercedes-AMG G 63 6x6 review, 23 Feb 2014: https://images.cdn.autocar.co.uk/car-review/mercedes-amg/g-63-6x6-2013-2015
+- Fox News, 6x6 is the new 4x4 at Mercedes-Benz, 4 Mar 2013: https://www.foxnews.com/auto/6x6-is-the-new-4x4-at-mercedes-benz.amp
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Gear Patrol, Mercedes-Benz G63 AMG 6x6, 1 Mar 2013: https://www.gearpatrol.com/?p=337999
+- CarAdvice via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- The Drive, G63 AMG 6x6 sold for $900K, 10 Nov 2020: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- Motor Authority / Road & Track, 2014 Mercedes-Benz G63 AMG 6x6 on Bring a Trailer, 3 Nov 2020: https://motorauthority.com/news/1130174_raid-the-401k-2014-mercedes-benz-g63-amg-6x6-for-sale-on-bring-a-trailer
+- Carscoops, Brabus G63 6x6 over $1 million, 21 Dec 2021: https://www.carscoops.com/2021/12/someone-is-willing-to-pay-over-1-million-for-this-mercedes-g63-6x6-tuned-by-brabus/
+- MercedesBlog, Mercedes-Benz G63 AMG 6x6 sold again, 18 May 2022: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
+- The Drive, Hennessey VelociRaptor 6x6, 5 Oct 2016: https://thedrive.com/news/5447/hennesseys-velociraptor-6x6-is-a-600-horsepower-6-wheel-drive-beast
+- Motor Authority, Hennessey VelociRaptor 6x6 debuts at SEMA, 31 Oct 2017: https://www.motorauthority.com/news/1066757_600-horsepower-hennessey-velociraptor-6x6-debuts-at-sema
+- Ford Authority, Hennessey VelociRaptor 6x6 listings, Feb 2019: https://fordauthority.com/2019/02/go-ahead-treat-hennessey-velociraptor-6x6
+- Tires-Easy, Nitto Ridge Grappler 38x13.50R18 listing: https://www.tires-easy.com/38-13.50-18/nitto-tires/ridge-grappler/tirecode/219110
+- U.S. Energy Information Administration, Gasoline and diesel fuel update: https://www.eia.gov/petroleum/gasdiesel/
