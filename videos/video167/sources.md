@@ -1,0 +1,9 @@
+- Garage Intelligence (Gabriel M), Supercar Cost of Ownership & Automotive Digital Ad Spend Troubles, 4 Mar 2026: https://garageintelligence.beehiiv.com/p/supercar-cost-of-ownership-automotive-digital-ad-spend-troubles
+- Lambocars (Tolu Akinshete), What does it cost to own and maintain a late-model Lamborghini?, 4 May 2022: https://www.lambocars.com/cost-to-own-and-maintain-modern-lamborghini/
+- Automonitor.io, What does an Aventador SVJ actually cost to own? (unsourced estimates): https://automonitor.io/blog/how-much-does-a-lamborghini-aventador-svj-cost/
+- Autocar (Richard Lane), Lamborghini Aventador SVJ road test, via Yahoo Autos: https://autos.yahoo.com/lamborghini-aventador-svj-124100598.html
+- IEEE Spectrum, 2019's Top 10 Tech Cars: Lamborghini Aventador SVJ: https://spectrum.ieee.org/2019s-top-10-tech-cars-lamborghini-aventador-svj
+- Wikipedia, Lamborghini Aventador: https://en.wikipedia.org/wiki/Lamborghini_Aventador
+- U.S. Energy Information Administration, weekly retail gasoline prices, week of 2026-10-19
+- U.S. Census Bureau, median household income 2024
+- Kelley Blue Book, average new vehicle transaction price, August 2026
