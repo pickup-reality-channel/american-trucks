@@ -1,0 +1,2247 @@
+1
+00:00:00,000 --> 00:00:04,353
+Two Japanese six-cylinder sports cars arrived within
+
+2
+00:00:04,353 --> 00:00:06,362
+two years of each other.
+
+3
+00:00:06,542 --> 00:00:09,308
+One was a hand-built Toyota that cost
+
+4
+00:00:09,308 --> 00:00:10,803
+more than a Porsche.
+
+5
+00:00:10,983 --> 00:00:13,100
+The other was a Datsun that cost
+
+6
+00:00:13,100 --> 00:00:15,151
+little more than half a Jaguar.
+
+7
+00:00:15,331 --> 00:00:18,707
+This is the Toyota 2000GT against the
+
+8
+00:00:18,707 --> 00:00:23,087
+Datsun 240Z, and the differences nobody explains
+
+9
+00:00:23,087 --> 00:00:23,818
+clearly.
+
+10
+00:00:24,167 --> 00:00:28,098
+Our sources are Wikipedia's pages on the
+
+11
+00:00:28,098 --> 00:00:31,734
+Toyota 2000GT, the Nissan S30 and the
+
+12
+00:00:31,734 --> 00:00:34,093
+Nissan Z, Shannons Club,
+
+13
+00:00:34,093 --> 00:00:37,238
+Hagerty, Classic and Sports Car,
+
+14
+00:00:37,238 --> 00:00:39,400
+and Sports Car Market.
+
+15
+00:00:39,580 --> 00:00:41,554
+They disagree in places,
+
+16
+00:00:41,554 --> 00:00:44,598
+and some numbers we wanted are simply
+
+17
+00:00:44,598 --> 00:00:45,585
+not in them,
+
+18
+00:00:45,585 --> 00:00:48,218
+such as the 240Z's launch price.
+
+19
+00:00:48,398 --> 00:00:50,127
+We show those gaps.
+
+20
+00:00:50,307 --> 00:00:52,862
+Our own arithmetic is labelled.
+
+21
+00:00:53,211 --> 00:00:55,603
+They share a surprising origin.
+
+22
+00:00:55,783 --> 00:00:59,083
+Wikipedia says Nissan partnered with Yamaha on
+
+23
+00:00:59,083 --> 00:01:02,310
+a sports car prototype in nineteen sixty-one,
+
+24
+00:01:02,310 --> 00:01:05,682
+then scrapped it by nineteen sixty-four because
+
+25
+00:01:05,682 --> 00:01:08,264
+Yamaha's twin-cam engine fell short.
+
+26
+00:01:08,444 --> 00:01:11,427
+Yamaha took the design to Toyota,
+
+27
+00:01:11,427 --> 00:01:13,506
+which built the 2000GT.
+
+28
+00:01:13,686 --> 00:01:16,907
+Nissan later built its own car,
+
+29
+00:01:16,907 --> 00:01:17,842
+the 240Z.
+
+30
+00:01:18,192 --> 00:01:21,677
+Shannons Club adds that Nissan consulted the
+
+31
+00:01:21,677 --> 00:01:25,558
+German designer Albrecht Goertz from May nineteen
+
+32
+00:01:25,558 --> 00:01:29,439
+sixty-three, and that his A550X prototype carried
+
+33
+00:01:29,439 --> 00:01:31,974
+many styling themes of the 240Z.
+
+34
+00:01:32,154 --> 00:01:34,743
+It says Goertz then moved to Toyota.
+
+35
+00:01:34,923 --> 00:01:38,498
+Hagerty reports a dispute over design credit
+
+36
+00:01:38,498 --> 00:01:40,611
+for the 240Z that led to a
+
+37
+00:01:40,611 --> 00:01:42,156
+threatened lawsuit.
+
+38
+00:01:42,336 --> 00:01:44,623
+Neither source gives the outcome.
+
+39
+00:01:44,972 --> 00:01:46,575
+The timeline matters.
+
+40
+00:01:46,755 --> 00:01:49,768
+Wikipedia says the 2000GT was shown in
+
+41
+00:01:49,768 --> 00:01:53,495
+nineteen sixty-five and built from May nineteen
+
+42
+00:01:53,495 --> 00:01:56,588
+sixty-seven to August nineteen seventy.
+
+43
+00:01:56,768 --> 00:01:59,215
+The 240Z was shown at the Tokyo
+
+44
+00:01:59,215 --> 00:02:02,530
+show on the eighteenth of October nineteen
+
+45
+00:02:02,530 --> 00:02:06,082
+sixty-nine, and the American car was released
+
+46
+00:02:06,082 --> 00:02:07,345
+four days later.
+
+47
+00:02:07,525 --> 00:02:08,933
+By our arithmetic,
+
+48
+00:02:08,933 --> 00:02:11,513
+the two were on sale together for
+
+49
+00:02:11,513 --> 00:02:12,842
+about ten months.
+
+50
+00:02:13,192 --> 00:02:15,372
+The Datsun, in other words,
+
+51
+00:02:15,372 --> 00:02:17,794
+was built in the shadow of the
+
+52
+00:02:17,794 --> 00:02:18,359
+Toyota.
+
+53
+00:02:18,539 --> 00:02:21,440
+Shannons says the Toyota sold few cars
+
+54
+00:02:21,440 --> 00:02:23,043
+but gained publicity,
+
+55
+00:02:23,043 --> 00:02:25,945
+which pushed Nissan to take the Goertz
+
+56
+00:02:25,945 --> 00:02:28,082
+prototype toward production.
+
+57
+00:02:28,262 --> 00:02:30,073
+So when we compare the two,
+
+58
+00:02:30,073 --> 00:02:32,017
+we are comparing a car with a
+
+59
+00:02:32,017 --> 00:02:34,901
+prestige mission against a car that learned
+
+60
+00:02:34,901 --> 00:02:35,437
+from it.
+
+61
+00:02:35,787 --> 00:02:38,868
+The Toyota's engine was a one thousand
+
+62
+00:02:38,868 --> 00:02:43,246
+nine hundred eighty-eight cubic centimetre inline six,
+
+63
+00:02:43,246 --> 00:02:45,435
+the 3M, with a Crown block,
+
+64
+00:02:45,435 --> 00:02:49,083
+a Yamaha twin-cam head and three Mikuni-Solex
+
+65
+00:02:49,083 --> 00:02:50,137
+carburettors.
+
+66
+00:02:50,317 --> 00:02:53,241
+It made one hundred fifty metric horsepower
+
+67
+00:02:53,241 --> 00:02:56,030
+at sixty-six hundred revs and one hundred
+
+68
+00:02:56,030 --> 00:02:58,886
+seventy-five newton-metres, per Wikipedia.
+
+69
+00:02:59,235 --> 00:03:02,671
+The Datsun's American engine was the L24,
+
+70
+00:03:02,671 --> 00:03:05,436
+a two point four litre inline six
+
+71
+00:03:05,436 --> 00:03:08,872
+with single overhead cam and twin SU-type
+
+72
+00:03:08,872 --> 00:03:13,480
+carburettors, rated one hundred fifty-one horsepower on
+
+73
+00:03:13,480 --> 00:03:16,832
+the SAE gross scale at fifty-six hundred
+
+74
+00:03:16,832 --> 00:03:18,508
+revs, per Wikipedia.
+
+75
+00:03:18,688 --> 00:03:21,826
+Hagerty calls it somewhat Mercedes-derived,
+
+76
+00:03:21,826 --> 00:03:24,307
+a claim the page does not explain.
+
+77
+00:03:24,487 --> 00:03:28,279
+Wikipedia lists torque at one hundred forty-six
+
+78
+00:03:28,279 --> 00:03:29,166
+pound-feet.
+
+79
+00:03:29,516 --> 00:03:31,757
+On paper they look almost equal.
+
+80
+00:03:31,937 --> 00:03:34,557
+The Toyota is listed at one hundred
+
+81
+00:03:34,557 --> 00:03:38,224
+forty-eight horsepower, the Datsun at one hundred
+
+82
+00:03:38,224 --> 00:03:38,973
+fifty-one.
+
+83
+00:03:39,153 --> 00:03:41,540
+But the Datsun's figure is on the
+
+84
+00:03:41,540 --> 00:03:42,698
+SAE gross scale,
+
+85
+00:03:42,698 --> 00:03:46,316
+and Wikipedia gives Toyota's in metric horsepower,
+
+86
+00:03:46,316 --> 00:03:49,137
+so the two are not directly comparable.
+
+87
+00:03:49,317 --> 00:03:51,717
+Our sources do not say how Toyota
+
+88
+00:03:51,717 --> 00:03:52,371
+measured.
+
+89
+00:03:52,551 --> 00:03:53,892
+By our arithmetic,
+
+90
+00:03:53,892 --> 00:03:57,543
+the Datsun's engine is twenty-one percent larger.
+
+91
+00:03:57,893 --> 00:03:59,946
+Torque tells a similar story,
+
+92
+00:03:59,946 --> 00:04:01,574
+with a unit conversion.
+
+93
+00:04:01,754 --> 00:04:05,442
+The Toyota's one hundred seventy-five newton-metres is
+
+94
+00:04:05,442 --> 00:04:08,652
+about one hundred twenty-nine pound-feet by our
+
+95
+00:04:08,652 --> 00:04:12,408
+arithmetic, against the Datsun's one hundred forty-six,
+
+96
+00:04:12,408 --> 00:04:14,525
+which is thirteen percent more.
+
+97
+00:04:14,705 --> 00:04:17,282
+Again the two figures may not share
+
+98
+00:04:17,282 --> 00:04:18,828
+a measurement method,
+
+99
+00:04:18,828 --> 00:04:20,742
+so treat the gap as rough.
+
+100
+00:04:21,091 --> 00:04:23,618
+The two-litre Japanese Fairlady Z is the
+
+101
+00:04:23,618 --> 00:04:25,387
+fairer match for the Toyota.
+
+102
+00:04:25,567 --> 00:04:28,337
+Wikipedia says it used a two litre
+
+103
+00:04:28,337 --> 00:04:32,574
+single-cam L20A making one hundred thirty horsepower
+
+104
+00:04:32,574 --> 00:04:34,693
+on the Japanese JIS scale.
+
+105
+00:04:34,873 --> 00:04:36,140
+By our arithmetic,
+
+106
+00:04:36,140 --> 00:04:39,028
+the Toyota's one hundred fifty is fifteen
+
+107
+00:04:39,028 --> 00:04:41,704
+percent higher, and the Toyota was the
+
+108
+00:04:41,704 --> 00:04:43,535
+only one of the two with a
+
+109
+00:04:43,535 --> 00:04:44,520
+twin-cam head.
+
+110
+00:04:44,870 --> 00:04:47,657
+Nissan did build a twin-cam Z.
+
+111
+00:04:47,837 --> 00:04:52,318
+Hagerty and Wikipedia describe the Fairlady Z432,
+
+112
+00:04:52,318 --> 00:04:55,611
+using the S20 racing engine from the
+
+113
+00:04:55,611 --> 00:04:56,800
+Skyline GT-R.
+
+114
+00:04:56,980 --> 00:04:59,148
+It cost twice the base Z in
+
+115
+00:04:59,148 --> 00:05:00,915
+Japan and sold poorly,
+
+116
+00:05:00,915 --> 00:05:01,879
+per Hagerty.
+
+117
+00:05:02,059 --> 00:05:05,972
+Wikipedia puts production near four hundred twenty.
+
+118
+00:05:06,152 --> 00:05:08,834
+So the closest match to the 2000GT
+
+119
+00:05:08,834 --> 00:05:11,910
+was a Datsun that almost nobody bought.
+
+120
+00:05:12,260 --> 00:05:14,989
+Performance is where the sources thin out.
+
+121
+00:05:15,169 --> 00:05:16,400
+For the Toyota,
+
+122
+00:05:16,400 --> 00:05:19,517
+Wikipedia gives a claimed top speed of
+
+123
+00:05:19,517 --> 00:05:22,881
+one hundred thirty-five miles an hour and
+
+124
+00:05:22,881 --> 00:05:25,999
+a claimed thirty-one miles per gallon,
+
+125
+00:05:25,999 --> 00:05:28,297
+and no zero to sixty time at
+
+126
+00:05:28,297 --> 00:05:28,625
+all.
+
+127
+00:05:28,805 --> 00:05:32,230
+Classic and Sports Car mentions the Project
+
+128
+00:05:32,230 --> 00:05:35,177
+two eighty A prototype at one hundred
+
+129
+00:05:35,177 --> 00:05:36,212
+thirty-seven.
+
+130
+00:05:36,561 --> 00:05:37,775
+For the Datsun,
+
+131
+00:05:37,775 --> 00:05:40,851
+Wikipedia lists zero to sixty in eight
+
+132
+00:05:40,851 --> 00:05:43,684
+seconds, a top speed of one hundred
+
+133
+00:05:43,684 --> 00:05:47,730
+twenty-five and about twenty-one miles per gallon.
+
+134
+00:05:47,910 --> 00:05:50,910
+But a magazine test quoted by Shannons,
+
+135
+00:05:50,910 --> 00:05:54,217
+Modern Motor in April nineteen seventy-one,
+
+136
+00:05:54,217 --> 00:05:57,677
+recorded ten seconds and one hundred nineteen
+
+137
+00:05:57,677 --> 00:05:58,754
+miles an hour.
+
+138
+00:05:58,934 --> 00:06:01,663
+The sources do not explain the two-second
+
+139
+00:06:01,663 --> 00:06:01,929
+gap.
+
+140
+00:06:02,280 --> 00:06:05,805
+Shannons adds that some testers put the
+
+141
+00:06:05,805 --> 00:06:09,060
+Datsun's zero to sixty within half a
+
+142
+00:06:09,060 --> 00:06:11,772
+second of a Porsche 911S and a
+
+143
+00:06:11,772 --> 00:06:13,309
+Ferrari Dino 246.
+
+144
+00:06:13,489 --> 00:06:16,259
+So the 240Z was quick for its
+
+145
+00:06:16,259 --> 00:06:16,833
+class.
+
+146
+00:06:17,013 --> 00:06:19,325
+But the Toyota has no matching test
+
+147
+00:06:19,325 --> 00:06:20,316
+in our sources,
+
+148
+00:06:20,316 --> 00:06:22,562
+so we cannot say which was faster.
+
+149
+00:06:22,742 --> 00:06:25,105
+Any article that claims a clear winner
+
+150
+00:06:25,105 --> 00:06:27,467
+is going beyond the evidence we found.
+
+151
+00:06:27,818 --> 00:06:29,849
+Top speed has the same problem.
+
+152
+00:06:30,029 --> 00:06:31,266
+By our arithmetic,
+
+153
+00:06:31,266 --> 00:06:34,495
+the Toyota's claimed one hundred thirty-five is
+
+154
+00:06:34,495 --> 00:06:38,273
+eight percent above Wikipedia's one hundred twenty-five
+
+155
+00:06:38,273 --> 00:06:39,304
+for the Datsun,
+
+156
+00:06:39,304 --> 00:06:42,739
+and fourteen percent above Modern Motor's measured
+
+157
+00:06:42,739 --> 00:06:44,182
+one hundred nineteen.
+
+158
+00:06:44,362 --> 00:06:46,581
+But one is a manufacturer claim,
+
+159
+00:06:46,581 --> 00:06:48,661
+and the other a magazine test,
+
+160
+00:06:48,661 --> 00:06:51,296
+so we are comparing different kinds of
+
+161
+00:06:51,296 --> 00:06:51,920
+evidence.
+
+162
+00:06:52,270 --> 00:06:54,023
+Weight is the missing number.
+
+163
+00:06:54,203 --> 00:06:57,974
+The Toyota weighed eleven hundred twenty kilograms,
+
+164
+00:06:57,974 --> 00:06:59,009
+per Wikipedia.
+
+165
+00:06:59,189 --> 00:07:00,202
+For the Datsun,
+
+166
+00:07:00,202 --> 00:07:02,364
+our sources give no curb weight,
+
+167
+00:07:02,364 --> 00:07:05,269
+only Shannons saying it weighed little more
+
+168
+00:07:05,269 --> 00:07:08,308
+than most four-cylinder rivals with a hundred
+
+169
+00:07:08,308 --> 00:07:09,592
+horsepower or less.
+
+170
+00:07:09,772 --> 00:07:12,719
+So we cannot compute a power-to-weight ratio
+
+171
+00:07:12,719 --> 00:07:14,729
+for it, and we will not guess.
+
+172
+00:07:15,080 --> 00:07:16,352
+Size, at least,
+
+173
+00:07:16,352 --> 00:07:18,644
+we can compare for one car.
+
+174
+00:07:18,824 --> 00:07:21,699
+The Toyota is only eleven hundred sixty
+
+175
+00:07:21,699 --> 00:07:25,090
+millimetres tall and four thousand one hundred
+
+176
+00:07:25,090 --> 00:07:26,417
+seventy-five long.
+
+177
+00:07:26,597 --> 00:07:29,829
+Our sources give no dimensions for the
+
+178
+00:07:29,829 --> 00:07:30,254
+240Z.
+
+179
+00:07:30,434 --> 00:07:34,106
+Hagerty says the original concept was sized
+
+180
+00:07:34,106 --> 00:07:35,643
+for two Americans,
+
+181
+00:07:35,643 --> 00:07:39,229
+roughly the size of a contemporary Porsche
+
+182
+00:07:39,229 --> 00:07:42,218
+911, but the page gives no numbers.
+
+183
+00:07:42,568 --> 00:07:44,982
+Now the difference everyone notices.
+
+184
+00:07:45,162 --> 00:07:49,519
+Wikipedia gives the 2000GT's nineteen sixty-eight American
+
+185
+00:07:49,519 --> 00:07:52,598
+price as about seven thousand one hundred
+
+186
+00:07:52,598 --> 00:07:53,649
+fifty dollars.
+
+187
+00:07:53,829 --> 00:07:56,948
+Sports Car Market says six thousand eight
+
+188
+00:07:56,948 --> 00:07:57,556
+hundred.
+
+189
+00:07:57,736 --> 00:08:00,759
+The Jaguar E-Type was five thousand five
+
+190
+00:08:00,759 --> 00:08:04,084
+hundred thirty-nine and the Porsche 911S six
+
+191
+00:08:04,084 --> 00:08:06,351
+thousand seven hundred ninety.
+
+192
+00:08:06,701 --> 00:08:08,969
+The Datsun's launch price is not in
+
+193
+00:08:08,969 --> 00:08:10,590
+any source we could open.
+
+194
+00:08:10,770 --> 00:08:11,466
+We looked.
+
+195
+00:08:11,646 --> 00:08:13,615
+What we do have is Shannons saying
+
+196
+00:08:13,615 --> 00:08:15,814
+it offered about ninety percent of the
+
+197
+00:08:15,814 --> 00:08:18,535
+E-Type's performance and appeal for little more
+
+198
+00:08:18,535 --> 00:08:19,692
+than half the price.
+
+199
+00:08:19,872 --> 00:08:22,264
+If that holds in the United States,
+
+200
+00:08:22,264 --> 00:08:25,066
+the price was somewhat above two thousand
+
+201
+00:08:25,066 --> 00:08:27,116
+seven hundred seventy dollars,
+
+202
+00:08:27,116 --> 00:08:28,346
+by our arithmetic,
+
+203
+00:08:28,346 --> 00:08:30,054
+but that is an inference.
+
+204
+00:08:30,405 --> 00:08:31,921
+Under that inference,
+
+205
+00:08:31,921 --> 00:08:34,377
+the Toyota cost no more than about
+
+206
+00:08:34,377 --> 00:08:36,616
+two point six times the Datsun.
+
+207
+00:08:36,796 --> 00:08:38,117
+By our arithmetic,
+
+208
+00:08:38,117 --> 00:08:41,273
+seven thousand one hundred fifty divided by
+
+209
+00:08:41,273 --> 00:08:44,282
+two thousand seven hundred seventy is two
+
+210
+00:08:44,282 --> 00:08:45,016
+point six.
+
+211
+00:08:45,196 --> 00:08:47,948
+Because the Datsun's real price is higher
+
+212
+00:08:47,948 --> 00:08:49,761
+than the half-price figure,
+
+213
+00:08:49,761 --> 00:08:51,372
+the true ratio is lower.
+
+214
+00:08:51,552 --> 00:08:53,636
+We cannot give a better number from
+
+215
+00:08:53,636 --> 00:08:54,350
+our sources.
+
+216
+00:08:54,701 --> 00:08:57,266
+Volume is where the figures are solid.
+
+217
+00:08:57,446 --> 00:09:00,346
+Wikipedia's page on the S30 says over
+
+218
+00:09:00,346 --> 00:09:03,951
+forty-five thousand 240Zs were sold in America
+
+219
+00:09:03,951 --> 00:09:07,399
+through the nineteen seventy-one model year,
+
+220
+00:09:07,399 --> 00:09:11,161
+more than fifty thousand in nineteen seventy-two
+
+221
+00:09:11,161 --> 00:09:14,687
+and forty thousand in nineteen seventy-three.
+
+222
+00:09:14,867 --> 00:09:16,053
+By our arithmetic,
+
+223
+00:09:16,053 --> 00:09:18,556
+that is at least a hundred thirty-five
+
+224
+00:09:18,556 --> 00:09:20,928
+thousand in the United States alone.
+
+225
+00:09:21,278 --> 00:09:25,764
+Against that, Toyota built three hundred fifty-one
+
+226
+00:09:25,764 --> 00:09:27,290
+2000GTs in total,
+
+227
+00:09:27,290 --> 00:09:29,354
+by Wikipedia's infobox,
+
+228
+00:09:29,354 --> 00:09:33,212
+with Sports Car Market saying three hundred
+
+229
+00:09:33,212 --> 00:09:34,199
+fifty-four.
+
+230
+00:09:34,379 --> 00:09:35,729
+By our arithmetic,
+
+231
+00:09:35,729 --> 00:09:38,578
+the Datsun sold at least three hundred
+
+232
+00:09:38,578 --> 00:09:41,578
+eighty-five cars for every Toyota built.
+
+233
+00:09:41,758 --> 00:09:45,183
+And Shannons calls the 240Z the best-selling
+
+234
+00:09:45,183 --> 00:09:47,052
+sports car in the world.
+
+235
+00:09:47,402 --> 00:09:49,242
+There is a catch in the Datsun's
+
+236
+00:09:49,242 --> 00:09:49,933
+own numbers.
+
+237
+00:09:50,113 --> 00:09:53,030
+One Wikipedia page says the S30 totals
+
+238
+00:09:53,030 --> 00:09:54,105
+are not given,
+
+239
+00:09:54,105 --> 00:09:56,868
+while another notes that the whole Z
+
+240
+00:09:56,868 --> 00:10:00,093
+line passed one million units by Shannons'
+
+241
+00:10:00,093 --> 00:10:03,241
+account, and the 280ZX alone reached four
+
+242
+00:10:03,241 --> 00:10:07,156
+hundred fourteen thousand six hundred twenty-eight.
+
+243
+00:10:07,336 --> 00:10:09,666
+Our sources give no total for the
+
+244
+00:10:09,666 --> 00:10:10,866
+original S30 run,
+
+245
+00:10:10,866 --> 00:10:13,478
+so we only have the American minimum.
+
+246
+00:10:13,828 --> 00:10:16,598
+The badge story helps explain how the
+
+247
+00:10:16,598 --> 00:10:17,496
+Datsun sold.
+
+248
+00:10:17,676 --> 00:10:19,519
+Wikipedia says Yutaka Katayama,
+
+249
+00:10:19,519 --> 00:10:21,420
+the head of Nissan in the United
+
+250
+00:10:21,420 --> 00:10:23,025
+States, had all the Nissan,
+
+251
+00:10:23,025 --> 00:10:25,996
+Fairlady Z and four-three-two badges replaced with
+
+252
+00:10:25,996 --> 00:10:26,947
+the Datsun name,
+
+253
+00:10:26,947 --> 00:10:29,384
+and blocked dealer shipments until it was
+
+254
+00:10:29,384 --> 00:10:29,681
+done.
+
+255
+00:10:29,861 --> 00:10:32,118
+The same page says he understood the
+
+256
+00:10:32,118 --> 00:10:34,500
+need for an affordable sports car sold
+
+257
+00:10:34,500 --> 00:10:35,503
+internationally.
+
+258
+00:10:35,854 --> 00:10:39,095
+Hagerty says American buyers faced waiting lists
+
+259
+00:10:39,095 --> 00:10:40,310
+that lasted years,
+
+260
+00:10:40,310 --> 00:10:42,741
+and that the car matched Porsche and
+
+261
+00:10:42,741 --> 00:10:45,509
+Ferrari Dino performance at a fraction of
+
+262
+00:10:45,509 --> 00:10:46,117
+the cost.
+
+263
+00:10:46,297 --> 00:10:48,134
+It does not give a number for
+
+264
+00:10:48,134 --> 00:10:49,210
+the waiting list,
+
+265
+00:10:49,210 --> 00:10:50,921
+so we treat it as a general
+
+266
+00:10:50,921 --> 00:10:51,301
+claim.
+
+267
+00:10:51,481 --> 00:10:55,038
+Still, it points to demand outrunning supply,
+
+268
+00:10:55,038 --> 00:10:58,122
+the opposite of the Toyota's situation.
+
+269
+00:10:58,472 --> 00:11:00,283
+The Toyota raced early.
+
+270
+00:11:00,463 --> 00:11:03,717
+Wikipedia lists third in the nineteen sixty-six
+
+271
+00:11:03,717 --> 00:11:06,141
+Japanese Grand Prix and wins in the
+
+272
+00:11:06,141 --> 00:11:09,811
+Suzuka one thousand kilometres in nineteen sixty-six,
+
+273
+00:11:09,811 --> 00:11:12,580
+then the Fuji twenty-four hours and Fuji
+
+274
+00:11:12,580 --> 00:11:15,904
+one thousand kilometres in nineteen sixty-seven.
+
+275
+00:11:16,084 --> 00:11:19,207
+In America, the Shelby team finished fourth
+
+276
+00:11:19,207 --> 00:11:23,201
+in the nineteen sixty-eight SCCA National Championship.
+
+277
+00:11:23,551 --> 00:11:25,501
+The Datsun raced longer.
+
+278
+00:11:25,681 --> 00:11:29,245
+Wikipedia says John Morton won the SCCA
+
+279
+00:11:29,245 --> 00:11:33,722
+C Production championship in nineteen seventy and
+
+280
+00:11:33,722 --> 00:11:38,108
+nineteen seventy-one, and that Shekhar Mehta won
+
+281
+00:11:38,108 --> 00:11:41,215
+the East African Safari Rally in a
+
+282
+00:11:41,215 --> 00:11:44,048
+240Z in nineteen seventy-three.
+
+283
+00:11:44,228 --> 00:11:45,539
+By our arithmetic,
+
+284
+00:11:45,539 --> 00:11:47,943
+that is two national titles and a
+
+285
+00:11:47,943 --> 00:11:50,638
+famous rally win within four years of
+
+286
+00:11:50,638 --> 00:11:51,148
+launch.
+
+287
+00:11:51,498 --> 00:11:53,680
+Comparing the two is awkward.
+
+288
+00:11:53,860 --> 00:11:57,276
+The Toyota-Shelby cars ran a single season,
+
+289
+00:11:57,276 --> 00:11:59,103
+according to Wikipedia,
+
+290
+00:11:59,103 --> 00:12:00,373
+with three cars.
+
+291
+00:12:00,553 --> 00:12:03,061
+The Datsun competed for several years.
+
+292
+00:12:03,241 --> 00:12:05,313
+So one record is a short,
+
+293
+00:12:05,313 --> 00:12:08,297
+sharp campaign, and the other a long
+
+294
+00:12:08,297 --> 00:12:08,628
+one.
+
+295
+00:12:08,808 --> 00:12:10,873
+The sources do not say how the
+
+296
+00:12:10,873 --> 00:12:13,350
+cars would have compared on the same
+
+297
+00:12:13,350 --> 00:12:15,896
+circuit, so we declare no winner here
+
+298
+00:12:15,896 --> 00:12:16,378
+either.
+
+299
+00:12:16,728 --> 00:12:20,164
+Shannons quotes two period magazines about the
+
+300
+00:12:20,164 --> 00:12:20,687
+Datsun.
+
+301
+00:12:20,867 --> 00:12:22,035
+Road and Track,
+
+302
+00:12:22,035 --> 00:12:24,060
+in April nineteen seventy,
+
+303
+00:12:24,060 --> 00:12:27,175
+predicted it would establish a market of
+
+304
+00:12:27,175 --> 00:12:27,798
+its own.
+
+305
+00:12:27,978 --> 00:12:29,222
+Car and Driver,
+
+306
+00:12:29,222 --> 00:12:31,295
+in June nineteen seventy,
+
+307
+00:12:31,295 --> 00:12:34,446
+wrote that Datsun had not invented the
+
+308
+00:12:34,446 --> 00:12:37,432
+overhead-cam engine, or disc brakes,
+
+309
+00:12:37,432 --> 00:12:39,588
+or independent suspension.
+
+310
+00:12:39,768 --> 00:12:42,104
+Shannons' excerpt cuts off there,
+
+311
+00:12:42,104 --> 00:12:43,873
+so we do not know how the
+
+312
+00:12:43,873 --> 00:12:44,864
+sentence ends.
+
+313
+00:12:45,215 --> 00:12:47,540
+We could not find period reviews of
+
+314
+00:12:47,540 --> 00:12:49,268
+the Toyota in our sources,
+
+315
+00:12:49,268 --> 00:12:51,262
+so we cannot say how the press
+
+316
+00:12:51,262 --> 00:12:52,192
+compared them.
+
+317
+00:12:52,372 --> 00:12:54,376
+What we have instead is the market's
+
+318
+00:12:54,376 --> 00:12:54,822
+verdict.
+
+319
+00:12:55,002 --> 00:12:58,873
+Wikipedia says only about sixty 2000GTs reached
+
+320
+00:12:58,873 --> 00:13:02,579
+North America, while Shannons says the Datsun
+
+321
+00:13:02,579 --> 00:13:05,955
+became the best-selling sports car in the
+
+322
+00:13:05,955 --> 00:13:06,449
+world.
+
+323
+00:13:06,800 --> 00:13:10,989
+Toyota's own financial result is also stark:
+
+324
+00:13:10,989 --> 00:13:14,703
+Wikipedia says Toyota made no profit on
+
+325
+00:13:14,703 --> 00:13:15,751
+the 2000GT.
+
+326
+00:13:15,931 --> 00:13:18,804
+For Nissan, the sources describe the Z
+
+327
+00:13:18,804 --> 00:13:21,072
+as a halo car meant to improve
+
+328
+00:13:21,072 --> 00:13:22,585
+the company's image,
+
+329
+00:13:22,585 --> 00:13:25,609
+with product planners wanting a stylish,
+
+330
+00:13:25,609 --> 00:13:28,936
+fast, relatively cheap GT using parts shared
+
+331
+00:13:28,936 --> 00:13:30,977
+with other Nissan vehicles.
+
+332
+00:13:31,157 --> 00:13:34,095
+The two companies were solving different problems.
+
+333
+00:13:34,444 --> 00:13:36,349
+Today the roles reverse.
+
+334
+00:13:36,529 --> 00:13:39,977
+The 2000GT is a seven-figure car.
+
+335
+00:13:40,157 --> 00:13:43,378
+Classic and Sports Car says the Toyota-Shelby
+
+336
+00:13:43,378 --> 00:13:46,599
+sold for two million five hundred thirty-five
+
+337
+00:13:46,599 --> 00:13:49,605
+thousand dollars at Amelia Island in March
+
+338
+00:13:49,605 --> 00:13:52,898
+twenty twenty-two, and that two other nineteen
+
+339
+00:13:52,898 --> 00:13:56,119
+sixty-seven cars made one million one hundred
+
+340
+00:13:56,119 --> 00:13:59,269
+fifty-five thousand dollars each at the same
+
+341
+00:13:59,269 --> 00:13:59,627
+sale.
+
+342
+00:13:59,977 --> 00:14:02,731
+For the ordinary Datsun 240Z,
+
+343
+00:14:02,731 --> 00:14:05,201
+our sources give no price.
+
+344
+00:14:05,381 --> 00:14:07,362
+Shannons says Z cars,
+
+345
+00:14:07,362 --> 00:14:09,248
+especially the 240Z,
+
+346
+00:14:09,248 --> 00:14:11,511
+are increasing in value,
+
+347
+00:14:11,511 --> 00:14:13,020
+without figures.
+
+348
+00:14:13,200 --> 00:14:15,897
+The only Datsun price we have is
+
+349
+00:14:15,897 --> 00:14:18,846
+the Z432R, which sold for one point
+
+350
+00:14:18,846 --> 00:14:22,806
+one seven million Australian dollars in January
+
+351
+00:14:22,806 --> 00:14:23,986
+twenty twenty.
+
+352
+00:14:24,166 --> 00:14:27,747
+That was a very rare racing-engined car,
+
+353
+00:14:27,747 --> 00:14:29,449
+not a typical 240Z.
+
+354
+00:14:29,799 --> 00:14:31,212
+By our arithmetic,
+
+355
+00:14:31,212 --> 00:14:34,509
+the Toyota-Shelby sold for three times the
+
+356
+00:14:34,509 --> 00:14:36,080
+rare Datsun's price.
+
+357
+00:14:36,260 --> 00:14:39,020
+But the comparison is unfair in both
+
+358
+00:14:39,020 --> 00:14:42,088
+directions: one is a Carroll Shelby team
+
+359
+00:14:42,088 --> 00:14:44,619
+race car with documented history,
+
+360
+00:14:44,619 --> 00:14:47,150
+the other a homologation special.
+
+361
+00:14:47,330 --> 00:14:50,736
+Neither sale tells us what an everyday
+
+362
+00:14:50,736 --> 00:14:52,888
+2000GT or 240Z is worth,
+
+363
+00:14:52,888 --> 00:14:56,294
+and our sources do not include Hagerty
+
+364
+00:14:56,294 --> 00:14:58,266
+valuations for either.
+
+365
+00:14:58,617 --> 00:15:00,137
+A note on rarity.
+
+366
+00:15:00,317 --> 00:15:01,748
+By our arithmetic,
+
+367
+00:15:01,748 --> 00:15:04,689
+a collector competing for a 2000GT is
+
+368
+00:15:04,689 --> 00:15:08,901
+choosing among three hundred fifty-one possible cars,
+
+369
+00:15:08,901 --> 00:15:11,445
+while a 240Z buyer has a hundred
+
+370
+00:15:11,445 --> 00:15:15,418
+thirty-five thousand American cars to choose from,
+
+371
+00:15:15,418 --> 00:15:16,293
+at minimum.
+
+372
+00:15:16,473 --> 00:15:18,431
+When supply is that different,
+
+373
+00:15:18,431 --> 00:15:20,258
+a gap in price does not tell
+
+374
+00:15:20,258 --> 00:15:21,825
+you which car is better.
+
+375
+00:15:22,005 --> 00:15:23,897
+It tells you which is scarcer.
+
+376
+00:15:24,248 --> 00:15:27,424
+The Datsun kept evolving; the Toyota did
+
+377
+00:15:27,424 --> 00:15:27,742
+not.
+
+378
+00:15:27,922 --> 00:15:31,932
+Wikipedia says the 260Z arrived in nineteen
+
+379
+00:15:31,932 --> 00:15:36,688
+seventy-four and the 280Z in nineteen seventy-five.
+
+380
+00:15:36,868 --> 00:15:40,218
+The 280Z used Bosch fuel injection and
+
+381
+00:15:40,218 --> 00:15:43,921
+made one hundred seventy horsepower on the
+
+382
+00:15:43,921 --> 00:15:45,331
+SAE gross scale.
+
+383
+00:15:45,511 --> 00:15:49,270
+The 2000GT ended in August nineteen seventy,
+
+384
+00:15:49,270 --> 00:15:52,686
+with no direct successor in our sources.
+
+385
+00:15:53,037 --> 00:15:56,557
+The 260Z has two different power figures
+
+386
+00:15:56,557 --> 00:15:57,878
+in our sources.
+
+387
+00:15:58,058 --> 00:16:01,117
+The S30 page says one hundred sixty-two
+
+388
+00:16:01,117 --> 00:16:04,176
+horsepower gross, while the Z page says
+
+389
+00:16:04,176 --> 00:16:05,981
+one hundred fifty-four,
+
+390
+00:16:05,981 --> 00:16:09,354
+or one hundred thirty-nine in most American
+
+391
+00:16:09,354 --> 00:16:09,981
+markets.
+
+392
+00:16:10,161 --> 00:16:11,522
+By our arithmetic,
+
+393
+00:16:11,522 --> 00:16:15,527
+the two American-style figures differ by twenty-three
+
+394
+00:16:15,527 --> 00:16:18,550
+horsepower, so which is right depends on
+
+395
+00:16:18,550 --> 00:16:20,213
+the market and rating,
+
+396
+00:16:20,213 --> 00:16:22,329
+and neither page says which.
+
+397
+00:16:22,679 --> 00:16:25,536
+Shannons tested the later cars too:
+
+398
+00:16:25,536 --> 00:16:28,966
+the 260Z two-plus-two took ten point eight
+
+399
+00:16:28,966 --> 00:16:32,232
+seconds to sixty and reached one hundred
+
+400
+00:16:32,232 --> 00:16:36,560
+eighteen, in a September nineteen seventy-four Modern
+
+401
+00:16:36,560 --> 00:16:37,458
+Motor test.
+
+402
+00:16:37,638 --> 00:16:38,785
+By our arithmetic,
+
+403
+00:16:38,785 --> 00:16:40,824
+that is eight tenths of a second
+
+404
+00:16:40,824 --> 00:16:43,501
+slower than the original's ten second test
+
+405
+00:16:43,501 --> 00:16:44,966
+from the same magazine,
+
+406
+00:16:44,966 --> 00:16:47,260
+though a heavier car and a different
+
+407
+00:16:47,260 --> 00:16:48,853
+test day can both matter.
+
+408
+00:16:49,203 --> 00:16:51,367
+Under the Datsun's legacy,
+
+409
+00:16:51,367 --> 00:16:54,113
+Shannons says the Z line passed a
+
+410
+00:16:54,113 --> 00:16:55,194
+million cars.
+
+411
+00:16:55,374 --> 00:16:57,851
+That is the number that shows what
+
+412
+00:16:57,851 --> 00:16:59,089
+the 240Z started.
+
+413
+00:16:59,269 --> 00:17:02,438
+Wikipedia attributes to Nissan the aim of
+
+414
+00:17:02,438 --> 00:17:03,288
+a halo car,
+
+415
+00:17:03,288 --> 00:17:05,529
+and the sales say the car did
+
+416
+00:17:05,529 --> 00:17:06,688
+more than that.
+
+417
+00:17:06,868 --> 00:17:08,612
+The Toyota, meanwhile,
+
+418
+00:17:08,612 --> 00:17:11,942
+remains a rare and expensive reminder that
+
+419
+00:17:11,942 --> 00:17:14,717
+Japan could build a supercar first.
+
+420
+00:17:15,066 --> 00:17:16,641
+Here is a way to see the
+
+421
+00:17:16,641 --> 00:17:18,085
+two cars on one scale.
+
+422
+00:17:18,265 --> 00:17:21,999
+The Toyota's claimed thirty-one miles per gallon
+
+423
+00:17:21,999 --> 00:17:24,488
+against the Datsun's twenty-one,
+
+424
+00:17:24,488 --> 00:17:26,044
+both from Wikipedia.
+
+425
+00:17:26,224 --> 00:17:29,403
+At the government's regular gasoline price of
+
+426
+00:17:29,403 --> 00:17:32,512
+four dollars twenty-eight cents a gallon for
+
+427
+00:17:32,512 --> 00:17:35,196
+the week of the nineteenth of October,
+
+428
+00:17:35,196 --> 00:17:38,658
+a hundred miles costs thirteen dollars eighty-two
+
+429
+00:17:38,658 --> 00:17:41,343
+in the Toyota and twenty dollars forty
+
+430
+00:17:41,343 --> 00:17:42,332
+in the Datsun,
+
+431
+00:17:42,332 --> 00:17:43,604
+by our arithmetic.
+
+432
+00:17:43,953 --> 00:17:46,090
+The mileage claims are shaky.
+
+433
+00:17:46,270 --> 00:17:47,521
+Thirty-one miles per gallon is a claim
+
+434
+00:17:47,521 --> 00:17:48,641
+for the Toyota with no test behind
+
+435
+00:17:48,641 --> 00:17:49,234
+it in our sources,
+
+436
+00:17:49,234 --> 00:17:50,419
+and Wikipedia does not state how the
+
+437
+00:17:50,419 --> 00:17:51,506
+Datsun's twenty-one was measured.
+
+438
+00:17:51,686 --> 00:17:52,835
+By our arithmetic,
+
+439
+00:17:52,835 --> 00:17:55,389
+the claim is forty-eight percent better.
+
+440
+00:17:55,569 --> 00:17:57,629
+We include the fuel cost only as
+
+441
+00:17:57,629 --> 00:18:00,396
+an illustration of what the claimed numbers
+
+442
+00:18:00,396 --> 00:18:01,490
+would mean today.
+
+443
+00:18:01,840 --> 00:18:04,012
+Look at the production lives.
+
+444
+00:18:04,192 --> 00:18:07,281
+Wikipedia says the 2000GT was built from
+
+445
+00:18:07,281 --> 00:18:11,298
+May nineteen sixty-seven to August nineteen seventy,
+
+446
+00:18:11,298 --> 00:18:13,770
+about three and a quarter years.
+
+447
+00:18:13,950 --> 00:18:17,243
+The S30 Z-car was built from nineteen
+
+448
+00:18:17,243 --> 00:18:20,536
+sixty-nine to nineteen seventy-eight,
+
+449
+00:18:20,536 --> 00:18:24,364
+nine years, with the Z-badged line changing
+
+450
+00:18:24,364 --> 00:18:26,945
+from the 240Z to the 260Z and
+
+451
+00:18:26,945 --> 00:18:28,636
+280Z along the way.
+
+452
+00:18:28,986 --> 00:18:30,489
+By our arithmetic,
+
+453
+00:18:30,489 --> 00:18:34,330
+spread over the 2000GT's thirty-nine months of
+
+454
+00:18:34,330 --> 00:18:38,338
+production, three hundred fifty-one cars is nine
+
+455
+00:18:38,338 --> 00:18:39,424
+cars a month.
+
+456
+00:18:39,604 --> 00:18:42,443
+The Datsun's American minimum of a hundred
+
+457
+00:18:42,443 --> 00:18:45,554
+thirty-five thousand over the four model years
+
+458
+00:18:45,554 --> 00:18:48,393
+shown is about twenty-eight hundred cars a
+
+459
+00:18:48,393 --> 00:18:48,799
+month.
+
+460
+00:18:48,979 --> 00:18:50,884
+That is a pace more than three
+
+461
+00:18:50,884 --> 00:18:52,218
+hundred times faster.
+
+462
+00:18:52,568 --> 00:18:54,964
+The Datsun launched in different places at
+
+463
+00:18:54,964 --> 00:18:55,877
+different times.
+
+464
+00:18:56,057 --> 00:18:59,176
+Shannons says the Australian launch was in
+
+465
+00:18:59,176 --> 00:19:01,033
+October nineteen seventy,
+
+466
+00:19:01,033 --> 00:19:02,444
+a year after Tokyo,
+
+467
+00:19:02,444 --> 00:19:04,597
+and that there the car cost a
+
+468
+00:19:04,597 --> 00:19:07,122
+little more than half the price of
+
+469
+00:19:07,122 --> 00:19:07,865
+an E-Type.
+
+470
+00:19:08,045 --> 00:19:10,593
+It also says that by June nineteen
+
+471
+00:19:10,593 --> 00:19:14,790
+seventy-one, Wheels magazine had listed fourteen running
+
+472
+00:19:14,790 --> 00:19:16,214
+changes to the car,
+
+473
+00:19:16,214 --> 00:19:19,062
+showing how quickly Datsun refined it.
+
+474
+00:19:19,412 --> 00:19:22,378
+Shannons also notes that a T-bar targa
+
+475
+00:19:22,378 --> 00:19:25,578
+roof became an option in nineteen eighty,
+
+476
+00:19:25,578 --> 00:19:27,998
+long after the 2000GT was gone,
+
+477
+00:19:27,998 --> 00:19:31,042
+and that the Fairlady first appeared in
+
+478
+00:19:31,042 --> 00:19:32,837
+January nineteen sixty,
+
+479
+00:19:32,837 --> 00:19:36,584
+before the E-Type's debut in nineteen sixty-one.
+
+480
+00:19:36,764 --> 00:19:40,354
+In America, Hagerty says the predecessor was
+
+481
+00:19:40,354 --> 00:19:42,394
+the Datsun 2000 Roadster.
+
+482
+00:19:42,574 --> 00:19:44,386
+The Z was the end of a
+
+483
+00:19:44,386 --> 00:19:47,021
+long line, the Toyota a one-off.
+
+484
+00:19:47,371 --> 00:19:50,344
+One more contrast from the Toyota's side.
+
+485
+00:19:50,524 --> 00:19:53,772
+Wikipedia says a pair of 2000GT roadsters
+
+486
+00:19:53,772 --> 00:19:56,466
+were built for the James Bond film
+
+487
+00:19:56,466 --> 00:19:58,050
+You Only Live Twice,
+
+488
+00:19:58,050 --> 00:20:00,744
+and that Daniel Craig calls it his
+
+489
+00:20:00,744 --> 00:20:02,250
+favourite Bond car.
+
+490
+00:20:02,430 --> 00:20:05,292
+Our sources show no equivalent film role
+
+491
+00:20:05,292 --> 00:20:06,365
+for the Datsun.
+
+492
+00:20:06,545 --> 00:20:08,211
+Fame, for the Toyota,
+
+493
+00:20:08,211 --> 00:20:09,798
+came through cinema,
+
+494
+00:20:09,798 --> 00:20:13,210
+and for the Datsun through showroom floors.
+
+495
+00:20:13,559 --> 00:20:15,249
+Then there is the matter of who
+
+496
+00:20:15,249 --> 00:20:16,230
+the cars were for.
+
+497
+00:20:16,410 --> 00:20:18,619
+The Toyota's American price,
+
+498
+00:20:18,619 --> 00:20:20,987
+around seven thousand dollars,
+
+499
+00:20:20,987 --> 00:20:23,512
+put it next to the Porsche 911S,
+
+500
+00:20:23,512 --> 00:20:26,906
+which Wikipedia lists at six thousand seven
+
+501
+00:20:26,906 --> 00:20:28,089
+hundred ninety.
+
+502
+00:20:28,269 --> 00:20:31,033
+The Datsun, on Shannons' evidence,
+
+503
+00:20:31,033 --> 00:20:34,040
+was priced against the Jaguar and the
+
+504
+00:20:34,040 --> 00:20:34,852
+MGB class.
+
+505
+00:20:35,032 --> 00:20:36,281
+One was an exotic,
+
+506
+00:20:36,281 --> 00:20:37,945
+and the other a bargain,
+
+507
+00:20:37,945 --> 00:20:40,442
+and both came from the same country.
+
+508
+00:20:40,792 --> 00:20:43,637
+A closing check on the evidence itself.
+
+509
+00:20:43,817 --> 00:20:45,697
+Of the numbers in this video,
+
+510
+00:20:45,697 --> 00:20:48,548
+the strongest are the American sales figures
+
+511
+00:20:48,548 --> 00:20:51,011
+for the Datsun and the auction results
+
+512
+00:20:51,011 --> 00:20:51,984
+for the Toyota,
+
+513
+00:20:51,984 --> 00:20:54,058
+because both name a source and a
+
+514
+00:20:54,058 --> 00:20:54,382
+date.
+
+515
+00:20:54,562 --> 00:20:57,454
+The weakest are the performance claims,
+
+516
+00:20:57,454 --> 00:21:00,273
+where one car has a manufacturer claim
+
+517
+00:21:00,273 --> 00:21:02,720
+and the other a range of magazine
+
+518
+00:21:02,720 --> 00:21:03,165
+tests.
+
+519
+00:21:03,345 --> 00:21:05,493
+Weigh each comparison accordingly.
+
+520
+00:21:05,842 --> 00:21:06,983
+Round by round:
+
+521
+00:21:06,983 --> 00:21:08,047
+on the engine,
+
+522
+00:21:08,047 --> 00:21:10,783
+the Toyota had the twin-cam head and
+
+523
+00:21:10,783 --> 00:21:13,215
+the Datsun had the bigger block.
+
+524
+00:21:13,395 --> 00:21:16,675
+On performance, our sources give no verified
+
+525
+00:21:16,675 --> 00:21:17,644
+head-to-head.
+
+526
+00:21:17,824 --> 00:21:19,370
+On price and volume,
+
+527
+00:21:19,370 --> 00:21:21,226
+the Datsun wins clearly.
+
+528
+00:21:21,406 --> 00:21:23,994
+On exclusivity and auction value,
+
+529
+00:21:23,994 --> 00:21:25,876
+the Toyota wins clearly.
+
+530
+00:21:26,056 --> 00:21:28,784
+On racing, both had real results.
+
+531
+00:21:29,133 --> 00:21:32,164
+So the difference nobody explains is simple.
+
+532
+00:21:32,344 --> 00:21:35,304
+These two cars were never really competitors.
+
+533
+00:21:35,484 --> 00:21:38,102
+The Toyota was a showpiece made at
+
+534
+00:21:38,102 --> 00:21:39,873
+a loss in the hundreds.
+
+535
+00:21:40,053 --> 00:21:42,256
+The Datsun was a product made in
+
+536
+00:21:42,256 --> 00:21:44,047
+the hundreds of thousands.
+
+537
+00:21:44,227 --> 00:21:46,906
+They share a family tree through Yamaha,
+
+538
+00:21:46,906 --> 00:21:49,317
+but they answer different questions:
+
+539
+00:21:49,317 --> 00:21:50,723
+what can Japan build,
+
+540
+00:21:50,723 --> 00:21:52,330
+and what can Japan sell.
+
+541
+00:21:52,680 --> 00:21:54,457
+To be clear about the gaps.
+
+542
+00:21:54,637 --> 00:21:57,954
+We have no verified launch price for
+
+543
+00:21:57,954 --> 00:21:59,428
+the Datsun 240Z,
+
+544
+00:21:59,428 --> 00:22:00,810
+no curb weight,
+
+545
+00:22:00,810 --> 00:22:04,772
+no dimensions, and no total S30 production.
+
+546
+00:22:04,952 --> 00:22:07,393
+We have no independent test of the
+
+547
+00:22:07,393 --> 00:22:08,470
+Toyota's speed.
+
+548
+00:22:08,650 --> 00:22:11,591
+We have no Hagerty valuation figures for
+
+549
+00:22:11,591 --> 00:22:12,400
+either car.
+
+550
+00:22:12,580 --> 00:22:14,667
+Every one of those would change parts
+
+551
+00:22:14,667 --> 00:22:15,738
+of this comparison.
+
+552
+00:22:16,088 --> 00:22:18,457
+If you want the single most important
+
+553
+00:22:18,457 --> 00:22:19,801
+fact from this video,
+
+554
+00:22:19,801 --> 00:22:20,825
+it is the ratio.
+
+555
+00:22:21,005 --> 00:22:24,544
+At least three hundred eighty-five Datsuns sold
+
+556
+00:22:24,544 --> 00:22:27,104
+in America for every Toyota built,
+
+557
+00:22:27,104 --> 00:22:28,459
+by our arithmetic.
+
+558
+00:22:28,639 --> 00:22:30,740
+Everything else follows from that.
+
+559
+00:22:30,920 --> 00:22:32,715
+If you found this useful,
+
+560
+00:22:32,715 --> 00:22:34,725
+subscribe to Pickup Reality,
+
+561
+00:22:34,725 --> 00:22:37,022
+and tell us which exotic car you
+
+562
+00:22:37,022 --> 00:22:38,745
+want us to compare next.
