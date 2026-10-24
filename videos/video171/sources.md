@@ -1,0 +1,13 @@
+- Hagerty Valuation Tools, 1967 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1967-Toyota-2000GT
+- Hagerty Valuation Tools, 1969 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1969-Toyota-2000GT
+- The Manual (Lou Ruggieri), Every Ferrari available, 9 Oct 2024: https://themanual.com/auto/every-ferrari-available
+- Supercars.net, Current Ferrari models: https://www.supercars.net/blog/current-ferrari-models/
+- BusinessDay, Toyota SA restores ultra-rare 2000 GT worth R30m, 18 Oct 2022: https://www.businessday.co.za/bd/life/motoring/2022-10-18-toyota-sa-restores-ultra-rare-2000-gt-worth-r30m
+- Toyota UK Magazine, Classic Toyota 2000GT returned to former glory, 6 Dec 2012: https://mag.toyota.co.uk/exclusive-toyota-2000gt-restoration/
+- Japanese Nostalgic Car, Tree-damaged Toyota 2000GT arrives at repair shop, 19 Jun 2014: https://japanesenostalgiccar.com/news-tree-damaged-toyota-2000gt-arrives-at-repair-shop/
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Hagerty Media, Toyota-Shelby 2000GT sale record, 7 Mar 2022
+- Sports Car Market, Toyota 2000GT profile and auction history
+- Luxury Entertainment Partners, 1967 Toyota 2000GT listing
+- US Census Bureau, median household income 2024: $83,730
