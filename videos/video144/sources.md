@@ -1,0 +1,15 @@
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Kelley Blue Book, End of the dinosaurs: Ram announces final TRX: https://www.kbb.com/car-news/end-of-the-dinosaurs-ram-announces-final-trx
+- Edmunds, The Ram TRX is dead: https://www.edmunds.com/car-news/the-ram-trx-is-dead.html
+- Motor1, The Ram TRX is dead: https://www.motor1.com/news/694983/ram-1500-trx-dead/
+- SlashGear, Why did Ram discontinue the TRX?: https://www.slashgear.com/1739076/why-ram-trx-discontinued-reason-explained/
+- Hagerty Media (Chris Stark), 2025 Ram 1500 RHO to succeed TRX with Hurricane six: https://www.hagerty.com/media/news/2025-dodge-ram-1500-rho-to-succeed-trx-with-hurricane-six/
+- American Cars And Racing (Gary Gastelu), Ram 1500 TRX return set for January 2026: https://americancarsandracing.com/2025/07/23/ram-1500-trx-return-january/
+- The Auto Wire via Yahoo Autos, Ram teaser fuels speculation of 1500 TRX revival: https://autos.yahoo.com/articles/ram-teaser-fuels-speculation-1500-120000225.html
+- AOL, The Ram 1500 TRX returns as the first new SRT, complete with a 777-HP Hellcat V-8: https://www.aol.com/articles/ram-1500-trx-returns-first-150000469.html
+- AOL / Autoblog, Ram's CEO says you shouldn't daily drive the TRX: https://www.aol.com/lifestyle/ram-ceo-says-shouldn-t-164500321.html
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX?: https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
