@@ -1,0 +1,9 @@
+- RM Sotheby's, 1989 Lamborghini Countach 25th Anniversary (Arizona 2024, lot 114): https://rmsothebys.com/auctions/az24/lots/r0057-1989-lamborghini-countach-25th-anniversary
+- RM Sotheby's, 1977 Lamborghini Countach LP400 Periscopio (Arizona 2026): https://rmsothebys.com/auctions/az26/lots/r0060-1977-lamborghini-countach-lp400-periscopio-by-bertone
+- RM Sotheby's, 1971 Lamborghini Miura SV (Paris 2026, lot 150): https://rmsothebys.com/auctions/pa26/lots/r0090-1971-lamborghini-miura-sv
+- Goodwood, This ultimate Miura SV Speciale just sold for £3.2 million: https://www.goodwood.com/grr/road/news/this-ultimate-miura-sv-speciale-just-sold-for-3.2-million
+- The Jalopy, Record prices for Lamborghini Miura SV and Countach LP 400 Periscopo at RM Sotheby's Paris: https://thejalopy.com/record-prices-lamborghini-miura-sv-countach-lp-400-sotheby/
+- Hagerty valuation tools, 1975 Lamborghini Countach LP400: https://hagerty.com/apps/valuationtools/1975-lamborghini-countach-lp400
+- Hagerty past sales, 1988 Lamborghini Countach LP5000 Quattrovalvole: https://www.hagerty.com/valuation-tools/past-sales/1988-lamborghini-countach/vin/58671521-a760-4e7f-8c2f-6afc49a8fc3b
+- Wikipedia, Lamborghini Countach, Lamborghini Miura and Ferruccio Lamborghini
+- FerrariChat, the reality of owning a Countach (2009, anecdotal): https://www.ferrarichat.com/forum/posts/138909641

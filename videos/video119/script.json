@@ -1,0 +1,300 @@
+{
+ "id": "video119",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "The Real Cost of Owning a Classic Lamborghini",
+ "scenes": [
+  {
+   "text": "A Lamborghini Countach Periscopio sold this year for eight hundred eighty-five thousand dollars. A Miura S V sold for more than three and a half million euros. But the price on the auction screen is only the start. One Countach, sold in Arizona, came with over sixty-eight thousand dollars of service invoices, and a single visit cost over sixteen thousand. This is the real cost of owning a classic Lamborghini.",
+   "query": "Lamborghini Countach",
+   "caption": "THE REAL COST OF OWNING A CLASSIC LAMBORGHINI",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We will go through what the cars sold for new, what they sell for now, what the auction catalogues say about service, and what owners say, and we will be clear about which of those sources we trust. Every figure comes from a published source, listed in the description. Where we do the maths, we say so. Where we have no figure, we will not invent one.",
+   "query": "Lamborghini Miura and Countach",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the Miura. Wikipedia says the P four hundred launched at twenty thousand dollars, and gives its own conversion of about one hundred ninety-eight thousand, four hundred sixty-two dollars in twenty twenty-five money. By our arithmetic, that conversion implies prices have risen almost tenfold, a factor of about nine point nine. The S version added power windows, and optional air conditioning at eight hundred dollars.",
+   "query": "Lamborghini Miura",
+   "caption": "MIURA P400 LAUNCH: $20,000 (~$198,462 IN 2025 DOLLARS) \u00b7 A/C OPTION $800",
+   "cuts": 5,
+   "chapter": "What they cost new"
+  },
+  {
+   "text": "For the Countach, the Wikipedia article we used gives no launch price. It says fifty orders were placed at the nineteen seventy-four Geneva show, and it notes the car was not built to American or Canadian standards. We looked for a sourced list price and did not find one that we trust, so we do not quote one. That is a gap in this video, and we prefer to say so.",
+   "query": "Lamborghini Countach",
+   "caption": "COUNTACH LAUNCH PRICE: NOT IN OUR SOURCES \u00b7 50 ORDERS AT GENEVA 1974",
+   "cuts": 3
+  },
+  {
+   "text": "What the sources do give us is a tractor maker's perspective on money. Wikipedia says Ferruccio Lamborghini sold fifty-one percent of his car company in nineteen seventy-two to the Swiss businessman Georges-Henri Rossetti for six hundred thousand dollars, and the remaining forty-nine percent in nineteen seventy-four to Ren\u00e9 Leimer. By our arithmetic, six hundred thousand for half implies a value of about one point two million dollars for the company.",
+   "query": "Ferruccio Lamborghini",
+   "caption": "1972: 51% OF LAMBORGHINI SOLD FOR $600,000 \u2192 IMPLIED COMPANY VALUE ~$1.2M (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Put that next to today's auction results, and the contrast is striking. By our arithmetic, the implied nineteen seventy-two value of the entire company, about one point two million dollars, is only a little above the one million dollars Hagerty shows for a good L P four hundred, and well below the three point two million pounds a single Miura S V Speciale made at Gooding in twenty twenty. Different currencies, different decades, same point.",
+   "query": "Lamborghini factory",
+   "caption": "WHOLE COMPANY ~$1.2M (1972, IMPLIED) \u00b7 ONE GOOD LP400 ~$1M (2025) \u00b7 ONE MIURA SV SPECIALE \u00a33.2M (2020)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the Miura. RM Sotheby's Paris sold a nineteen seventy-one S V, chassis four eight four zero, for three million, seven hundred seventeen thousand, five hundred euros in twenty twenty-six. It is one of one hundred fifty S Vs built. It had been converted to resemble the Jota from nineteen seventy-two to seventy-seven, and was restored to its June nineteen seventy-one specification in twenty sixteen.",
+   "query": "Lamborghini Miura SV",
+   "caption": "RM SOTHEBY'S PARIS 2026: MIURA SV CHASSIS 4840 = \u20ac3,717,500",
+   "cuts": 3,
+   "chapter": "What the Miura sells for"
+  },
+  {
+   "text": "The same chassis had sold at RM Sotheby's Paris in February twenty twenty-one for two million, four hundred twenty-three thousand, seven hundred fifty euros, The Jalopy reports. By our arithmetic, that is a rise of one million, two hundred ninety-three thousand, seven hundred fifty euros in about five years, or about fifty-three percent, in nominal terms. A good example of what the market did to these cars.",
+   "query": "Lamborghini Miura SV",
+   "caption": "SAME CAR: \u20ac2,423,750 (2021) \u2192 \u20ac3,717,500 (2026) \u00b7 +\u20ac1.29M, +53% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Jalopy calls the twenty twenty-one price the second highest ever for a Miura S V. The highest, it says, was sold by Gooding in London in September twenty twenty, though it gives no number. Goodwood supplies it: three point two million pounds, including premium, for a metallic gold S V Speciale, against an estimate of one point six to two million pounds.",
+   "query": "Gooding & Company",
+   "caption": "GOODING, SEPT 2020: MIURA SV SPECIALE \u00a33.207M (EST. \u00a31.6\u20132M)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, that Gooding result was between sixty and a hundred percent above the estimate. The car was one of one hundred fifty S Vs, with extras that, Goodwood says, only the Jota shares. In the same sale, fifteen cars were offered and all but one sold, raising thirty-four million pounds against a thirty-seven million pound estimate, according to the article.",
+   "query": "Gooding & Company",
+   "caption": "SOLD 60\u2013100% ABOVE ESTIMATE \u00b7 COLLECTION RAISED \u00a334M VS \u00a337M ESTIMATE (OUR ARITHMETIC + GOODWOOD)",
+   "cuts": 3
+  },
+  {
+   "text": "Further back, Wikipedia says the Shah of Iran's S V slash J, chassis four nine three four, sold at Brooks in nineteen ninety-seven to Nicolas Cage for four hundred ninety thousand dollars, a record at the time. It adds that another S V slash J later sold for over one point nine million dollars. The page does not give the date of that sale, so we cannot say how fast the market moved.",
+   "query": "Lamborghini Miura SV/J",
+   "caption": "1997: SHAH'S SV/J SOLD FOR $490,000 (RECORD) \u00b7 LATER SV/J: OVER $1.9M",
+   "cuts": 3
+  },
+  {
+   "text": "The Countach is cheaper, but not cheap. Hagerty's valuation page, with data to April twenty twenty-five, gives one million dollars for a nineteen seventy-five L P four hundred in good condition with average specification. It shows no change in value over the period, and lists no other condition levels. It is a single figure, but from a source that tracks sales.",
+   "query": "Hagerty valuation",
+   "caption": "HAGERTY, APR 2025: 1975 LP400 'GOOD' = $1,000,000",
+   "cuts": 3,
+   "chapter": "What the Countach sells for"
+  },
+  {
+   "text": "At auction, RM Sotheby's Arizona sold a nineteen seventy-seven L P four hundred Periscopio for eight hundred eighty-five thousand dollars in twenty twenty-six. It was Rod Stewart's car, built right-hand drive for Australia and bought new by the singer. By our arithmetic, the result is about eleven and a half percent below Hagerty's good-condition figure, though the cars and the conditions differ.",
+   "query": "Rod Stewart's Countach",
+   "caption": "$885,000 (ARIZONA 2026) \u2248 11.5% BELOW HAGERTY'S $1M (DIFFERENT CARS \u2014 OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A later model. A nineteen eighty-eight Countach L P five thousand Quattrovalvole, unrestored with sixteen thousand, twenty-one kilometres, is listed on Hagerty's past sales page as sold for five hundred ninety-nine thousand, five hundred dollars. The page does not give the date. It says the car had been bid to three hundred twenty-five thousand dollars at Mecum Monterey in twenty sixteen without selling.",
+   "query": "Lamborghini Countach 5000 QV",
+   "caption": "1988 QV, 16,021 KM: SOLD $599,500 (DATE N/A) \u00b7 2016: BID TO $325,000, NO SALE",
+   "cuts": 3
+  },
+  {
+   "text": "If both prices are real sales of the same car, by our arithmetic the difference is two hundred seventy-four thousand, five hundred dollars, or about eighty-four percent more. But the page does not say the later sale came after the Mecum bid, or how long after, so we cannot call it a gain. We report the two figures and leave it there.",
+   "query": "Lamborghini Countach 5000 QV",
+   "caption": "$325K BID VS $599.5K SALE: +$274.5K, +84% (DATES UNKNOWN \u2014 OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the last of the variants. A nineteen eighty-nine twenty-fifth Anniversary sold at RM Sotheby's Arizona twenty twenty-four for four hundred seventy-eight thousand dollars. By our arithmetic, the Quattrovalvole result is about twenty-five percent higher than the Anniversary, even though the Anniversary was the later car, with six hundred fifty-seven built against six hundred ten. Rarity and price do not move together here.",
+   "query": "Lamborghini Countach 25th Anniversary",
+   "caption": "25TH ANNIVERSARY $478K \u00b7 QV $599.5K (+25%) \u00b7 657 vs 610 BUILT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the cost of keeping one alive. The best source we found is the catalogue for that twenty-fifth Anniversary car. RM Sotheby's says the owner bought it in nineteen ninety-nine with about four thousand, five hundred miles, and held it for twenty-four years. Invoices from two thousand one onward, it says, total over sixty-eight thousand dollars.",
+   "query": "Countach 25th Anniversary",
+   "caption": "RM SOTHEBY'S: SERVICE INVOICES SINCE 2001 TOTAL OVER $68,000",
+   "cuts": 3,
+   "chapter": "The service bill"
+  },
+  {
+   "text": "By our arithmetic, treating two thousand one to twenty twenty-three as twenty-three years, that is about three thousand dollars a year. It is also about fourteen percent of the four hundred seventy-eight thousand dollars the car fetched. The figure covers invoices, so it excludes anything the owner did himself, and the catalogue does not say what was and was not included.",
+   "query": "Countach 25th Anniversary",
+   "caption": "$68K \u00f7 ~23 YEARS \u2248 $3,000/YEAR \u2248 14% OF THE SALE PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The catalogue lists what was done. Since twenty fifteen, a shop in Columbus, Ohio, serviced the car. Work included an engine-out service, a transmission overhaul with a Kevlar clutch kit, lubrication and cooling system work, and replacement of hoses and rubber seals. Lamborghini of St. Louis did additional work. These are the jobs that do not appear on a normal car's bill.",
+   "query": "Countach engine-out service",
+   "caption": "ENGINE-OUT SERVICE \u00b7 TRANSMISSION OVERHAUL \u00b7 KEVLAR CLUTCH KIT \u00b7 HOSES AND SEALS",
+   "cuts": 3
+  },
+  {
+   "text": "And one big visit. In December twenty twenty-three, according to the catalogue, the shop did electrical diagnosis and repair, a cosmetic refresh and undercarriage touch-up, and replaced the engine deck lid, trunk lid and door hydraulic struts. It also did an air conditioning service, fluid flushes and four new tyres. The listing gives the total as over sixteen thousand dollars.",
+   "query": "Countach December 2023 service",
+   "caption": "DEC 2023 VISIT: ELECTRICAL, COSMETIC, STRUTS, A/C, FLUIDS, 4 TYRES = $16K+",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, that one visit is about twenty-four percent of the total invoices since two thousand one, sixteen over sixty-eight. The catalogue says it was carried out just before the sale, so it may be preparation rather than routine maintenance. Either way, a single service visit of that size is a real cost that a buyer should expect.",
+   "query": "Countach pre-sale preparation",
+   "caption": "ONE VISIT \u2248 24% OF ALL INVOICES SINCE 2001 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Owners' forums give a different kind of evidence: anecdotes. In a FerrariChat thread started in August two thousand nine, one poster estimated an engine-out job at fifty hours of labour at a hundred dollars an hour plus, and said pulling the motor would be ten thousand dollars minimum. Another advised buyers to plan on ten to twenty thousand dollars of upkeep, already reflected in values.",
+   "query": "FerrariChat Countach thread",
+   "caption": "FORUM (2009, ANECDOTAL): ENGINE-OUT '$10K PLUS MINIMUM' \u00b7 '10\u201320 GRAND' UPKEEP",
+   "cuts": 3,
+   "chapter": "What owners say"
+  },
+  {
+   "text": "Treat these with caution. They are forum posts from seventeen years ago, with no invoices, and a technician in the same thread disputed the ten thousand dollar figure without giving his own. By our arithmetic, fifty hours at a hundred dollars is five thousand dollars of labour, so the poster's ten thousand must include other costs, but he did not say which.",
+   "query": "Online forum",
+   "caption": "FIFTY HOURS \u00d7 $100 = $5,000 LABOUR (OUR ARITHMETIC) \u00b7 A TECHNICIAN DISPUTED THE FIGURE",
+   "cuts": 3
+  },
+  {
+   "text": "Another poster in that thread said his clutch repair, done by a specialist, kept the car off the road for six weeks. He gave no price. He also said he sold the car for the same hundred twelve thousand dollars that he paid in February nineteen eighty-nine. That is a purchase price, not a running cost, but it shows what these cars were worth in the late eighties.",
+   "query": "Countach clutch repair",
+   "caption": "CLUTCH REPAIR: SIX WEEKS OFF THE ROAD \u00b7 BOUGHT FOR $112K IN FEB 1989",
+   "cuts": 3
+  },
+  {
+   "text": "Compare the nineteen eighty-nine price with the twenty twenty-six results. By our arithmetic, a hundred twelve thousand dollars is about twelve and a half percent of the eight hundred eighty-five thousand dollars for the Periscopio, or about one-eighth. We do not know which Countach variant the forum poster owned, so this is not a return on investment, only a scale.",
+   "query": "Countach price history",
+   "caption": "$112K (1989 FORUM POST) VS $885K (2026 AUCTION): ~1/8 (SCALE ONLY \u2014 OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A cost special to American buyers: legality. Wikipedia says the United States was Lamborghini's largest market, but the Countach was not built to U S or Canadian standards. Owners paid to modify cars during the grey-market era, which the page dates from nineteen seventy-six to nineteen eighty-eight. The first U S-specification factory model was the nineteen eighty-five Quattrovalvole, with larger bumpers and Bosch K-Jetronic injection.",
+   "query": "Lamborghini Countach grey market",
+   "caption": "GREY MARKET 1976\u20131988 \u00b7 FIRST US-SPEC FACTORY MODEL: 1985 5000 QV",
+   "cuts": 3,
+   "chapter": "The United States problem"
+  },
+  {
+   "text": "That history left marks. The RM Sotheby's catalogue for the Anniversary car says its American front bumper was swapped for a smaller European unit, with the original bumper supplied with the car. Wikipedia notes that the upper front spoiler on one grey-market car is unique to such cars. For a buyer, originality is a cost: the right bumper, the right spoiler, the right paperwork.",
+   "query": "Countach bumper",
+   "caption": "AMERICAN BUMPER SWAPPED FOR EUROPEAN UNIT \u00b7 ORIGINAL SUPPLIED WITH THE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The rules have eased. Wikipedia says cars more than twenty-five years old are exempt from U S federal design, safety and emissions standards. Every Countach is now older than that, since the last was built in nineteen ninety. By our arithmetic, even the final cars are about thirty-six years old in twenty twenty-six. The legal obstacle that shaped early ownership has largely gone.",
+   "query": "Lamborghini Countach import",
+   "caption": "CARS OVER 25 YEARS OLD ARE EXEMPT \u00b7 LAST COUNTACH 1990 \u2192 ~36 YEARS OLD (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us assemble what the sources support. A Miura S V in the multi-million range, with auction results of two point four to three point seven million euros and three point two million pounds. A Countach L P four hundred around nine hundred thousand to a million dollars. Later Countachs from about four hundred seventy-eight to six hundred thousand dollars. All of these are individual sales, not an index.",
+   "query": "Lamborghini auction results",
+   "caption": "MIURA SV: \u20ac2.4M\u2013\u20ac3.7M, \u00a33.2M \u00b7 COUNTACH LP400: ~$885K\u2013$1M \u00b7 LATER COUNTACH: $478K\u2013$600K",
+   "cuts": 3,
+   "chapter": "Putting the costs together"
+  },
+  {
+   "text": "Add the running costs we found: over sixty-eight thousand dollars of invoices in about twenty-three years on one Countach, a single visit above sixteen thousand, and forum estimates of ten to twenty thousand dollars of upkeep. By our arithmetic, one Anniversary car consumed about three thousand dollars a year, which is small next to an eight hundred eighty-five thousand dollar purchase, but large for most hobbies.",
+   "query": "Lamborghini Countach ownership",
+   "caption": "ONE COUNTACH: ~$3,000/YEAR IN INVOICES (OUR ARITHMETIC) \u00b7 OUR SOURCES GIVE NO MIURA COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "A caution. One catalogue is one car. The twenty-fifth Anniversary car was a low-mileage, moderate-use example, with fifteen thousand, four hundred thirty kilometres at cataloguing. A Countach that is driven hard or restored from a poor state could cost far more, and a Miura probably costs more again, though our sources give no Miura invoices, so we do not claim it.",
+   "query": "Lamborghini Countach",
+   "caption": "ONE CATALOGUE IS ONE CAR \u00b7 15,430 KM AT CATALOGUING",
+   "cuts": 3
+  },
+  {
+   "text": "What did we not find? A reliable list price for the Countach, insurance and storage costs, the price of a Miura engine rebuild, or a published index of Countach values. We also did not find a source on the cost of the periscope, the scissor door struts or the fuel system. If you own one and have invoices you can share, tell us in the comments.",
+   "query": "Lamborghini",
+   "caption": "WHAT OUR SOURCES DO NOT TELL US",
+   "cuts": 3
+  },
+  {
+   "text": "Compare it with a pickup. Our twenty twenty-seven Truck Buyer's Guide covers what a new truck costs to buy and run. We do not quote a figure here, because the guide has them. The point is the contrast: the cost of keeping a classic Lamborghini is dominated by specialist labour and by the risk that the market moves, not by fuel or tyres.",
+   "query": "Ford F-150",
+   "caption": "A DIFFERENT KIND OF OWNERSHIP \u2014 SEE THE TRUCK BUYER'S GUIDE",
+   "cuts": 3
+  },
+  {
+   "text": "The catalogues also show what history does to a car. The Miura S V that sold in Paris was dispatched on the twenty-fifth of June, nineteen seventy-one to the Italian agent Righetti, in Rosso Corsa with a blue interior. It was sold new in May nineteen seventy-two to a first owner in Germany, according to RM Sotheby's. A car with a paper trail back to its first owner is easier to value.",
+   "query": "Lamborghini Miura SV chassis 4840",
+   "caption": "MIURA SV 4840: DISPATCHED JUNE 25, 1971 \u00b7 FIRST OWNER IN GERMANY, MAY 1972",
+   "cuts": 3,
+   "chapter": "The price of provenance: two histories"
+  },
+  {
+   "text": "Then it was changed. From nineteen seventy-two to seventy-seven, the catalogue says, it was converted to resemble the one-off Jota. A third owner kept it from nineteen seventy-eight to nineteen ninety-seven. The fourth owner had it bare-metal restored through two thousand one, with the engine and gearbox rebuilt by a shop in Stuttgart and the car converted to unleaded fuel. It kept its Jota-style bodywork.",
+   "query": "Lamborghini Miura restoration",
+   "caption": "1972\u201377 JOTA-STYLE CONVERSION \u00b7 1997\u20132001 BARE-METAL RESTORATION, ENGINE AND GEARBOX REBUILT",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, a restoration running from nineteen ninety-seven to two thousand one lasted up to four years. The car then joined the Dr Oetker collection and appeared at the Essen Techno Classica in twenty twelve. Its previous owner bought it in twenty fifteen. The catalogue does not give the costs of any of this, so we show the timeline, not the invoices.",
+   "query": "Dr Oetker collection",
+   "caption": "RESTORATION UP TO 4 YEARS \u00b7 DR OETKER COLLECTION \u00b7 ESSEN 2012 \u00b7 BOUGHT 2015",
+   "cuts": 3
+  },
+  {
+   "text": "In twenty sixteen, the catalogue says, a cosmetic restoration returned the car to its June nineteen seventy-one specification. A Belgian coachbuilder stripped the body and removed the Jota elements, an interior specialist retrimmed the cabin in dark blue, and a third shop handled the mechanical work and fitted a non-Jota exhaust. In other words, the earlier conversion was reversed. That has a cost, and a value.",
+   "query": "Lamborghini Miura SV cosmetic restoration",
+   "caption": "2016: JOTA ELEMENTS REMOVED \u00b7 REPAINTED ROSSO CORSA \u00b7 RETRIMMED IN DARK BLUE",
+   "cuts": 3
+  },
+  {
+   "text": "The catalogue adds that Mythic Motors performed a major service in April twenty twenty-four, and a Belgian workshop did a service and wheel paint correction in August twenty twenty-five. Lamborghini's Polo Storico department has certified the car, which has its matching-numbers V twelve. Again, no amounts are given. The documents suggest that the price rests partly on a long chain of paperwork and workshop visits.",
+   "query": "Lamborghini Polo Storico",
+   "caption": "MAJOR SERVICE APRIL 2024 \u00b7 SERVICE AUG 2025 \u00b7 POLO STORICO CERTIFICATION (NO COSTS GIVEN)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the Countach with a famous owner. The Rod Stewart Periscopio left Sant'Agata in June nineteen seventy-seven, RM Sotheby's says, built right-hand drive for Australia. Stewart moved with it to Los Angeles, where he added a wide-body kit and an open targa roof. It came to the United Kingdom in nineteen eighty-seven and was kept there for about twenty-five years.",
+   "query": "Rod Stewart Countach",
+   "caption": "BUILT JUNE 1977 FOR AUSTRALIA \u00b7 STEWART ADDED WIDE-BODY KIT AND TARGA ROOF \u00b7 UK FROM 1987",
+   "cuts": 3
+  },
+  {
+   "text": "The catalogue continues. The car changed hands in two thousand two, and the owner is believed to have converted it to left-hand drive. In two thousand thirteen it was sold again, and the new owner reportedly returned it to factory specification, reversing the Stewart-era modifications. In twenty twenty-two Polo Storico reportedly worked on the brakes, engine, electrical components, gearbox and steering rack.",
+   "query": "Countach Polo Storico",
+   "caption": "2002 LHD CONVERSION \u00b7 2013 RETURNED TO FACTORY SPEC \u00b7 2022 POLO STORICO WORK (REPORTEDLY)",
+   "cuts": 3
+  },
+  {
+   "text": "So the car had been modified by its famous owner and restored to standard by a later one. The catalogue says the exterior was polished and the cabin returned to L P four hundred specification. The lesson for buyers is that a famous owner and an original car are not always the same thing. A celebrity modification can be worth less than the original specification.",
+   "query": "Countach restoration",
+   "caption": "FAMOUS OWNER VS ORIGINAL SPEC: RESTORED TO FACTORY SPECIFICATION (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The sale record shows what that cost the market. The same chassis had failed to meet its reserve at Artcurial's Retromobile sale in twenty twenty, where the estimate was eight hundred thousand to one point two million euros. It then sold at RM Sotheby's Paris in February twenty twenty-one for seven hundred seventy-five thousand euros, below the low estimate by twenty-five thousand euros, by our arithmetic.",
+   "query": "Retromobile 2020",
+   "caption": "RETROMOBILE 2020: EST. \u20ac800K\u2013\u20ac1.2M, NO SALE \u00b7 PARIS 2021: \u20ac775,000 (\u20ac25K BELOW LOW ESTIMATE)",
+   "cuts": 3
+  },
+  {
+   "text": "Then to Arizona in twenty twenty-six, at eight hundred eighty-five thousand dollars. We cannot compare euros with dollars, because our sources give no exchange rate, so we cannot say whether the car gained or lost. What we can say is that it was offered three times in six years, which suggests that the sellers, or the market, kept testing the price.",
+   "query": "Rod Stewart Countach",
+   "caption": "OFFERED THREE TIMES IN SIX YEARS: RETROMOBILE 2020 \u00b7 PARIS 2021 \u00b7 ARIZONA 2026",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more cost that does not appear on any invoice: the cost of waiting. A buyer who bought the Miura at Paris in twenty twenty-one held it for five years, and in that time the nominal price rose by about fifty-three percent. But the sources do not tell us what the owner paid in service or storage, so we cannot compute a net return. We refuse to guess.",
+   "query": "Lamborghini Miura SV",
+   "caption": "THE MIURA'S +53% IN 5 YEARS EXCLUDES ALL HOLDING COSTS (NOT IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "So what does it really cost to own a classic Lamborghini? Millions for a Miura S V. About a million for a good early Countach, and less for the later ones. Roughly three thousand dollars a year in invoices on the one well-documented car we found, with occasional bills of sixteen thousand or more. And a premium for originality, especially on cars that began as grey-market imports.",
+   "query": "Lamborghini",
+   "caption": "MILLIONS \u00b7 ~$1M \u00b7 ~$3K/YEAR \u00b7 OCCASIONAL $16K+ BILLS",
+   "cuts": 3,
+   "chapter": "The honest answer"
+  },
+  {
+   "text": "The reference price for this video is eight hundred eighty-five thousand dollars, the Rod Stewart Periscopio. It is a documented sale of an early Countach with a famous first owner, at a major house, in twenty twenty-six. It is one data point. Your car, your condition and your day would change it, and so would the next sale of the same chassis, as the Miura S V showed.",
+   "query": "Rod Stewart's Countach",
+   "caption": "REFERENCE PRICE: $885,000 (RM SOTHEBY'S ARIZONA 2026)",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you choose, the early Periscopio at about a million dollars or a later Quattrovalvole at about half? Tell us in the comments. In the other videos of this series, we reveal two things you may not know about the Countach, compare it with the Miura, and tell how a tractor maker ended up building it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
