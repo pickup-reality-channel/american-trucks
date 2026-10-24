@@ -1,0 +1,324 @@
+{
+ "id": "video105",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the Lexus LFA",
+ "scenes": [
+  {
+   "text": "The Lexus LFA has a V ten engine that revs from idle to its redline in point six of a second. That is so fast that the engineers could not use an ordinary needle for the tachometer. And that is only one of two things about this car that almost nobody knows. The other involves a machine, a loom, that Wikipedia says is one of only two of its kind in the world.",
+   "query": "Lexus LFA",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE LEXUS LFA",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. Toyota spent about ten years on this car, and Wikipedia says it built only five hundred. Today those five hundred cars sell for more than double what they cost new. But the two things we are going to show you have nothing to do with price. They are about how the car was made, and how it was tuned to sound.",
+   "query": "Lexus LFA V10",
+   "caption": "TEN YEARS OF WORK \u00b7 500 CARS BUILT",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure in this video comes from published sources, listed in the description. Where sources disagree, we will say so. Where we do the maths ourselves, we will say that too.",
+   "query": "Lexus LFA",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Wikipedia says the Lexus LFA, code-named T X S, began development in early two thousand. The first prototype was completed in June two thousand three, and testing at the N\u00fcrburgring started in October two thousand four. A first concept was shown at the Detroit auto show in January two thousand five, a second in January two thousand seven, and a roadster in January two thousand eight.",
+   "query": "Lexus LFA concept",
+   "caption": "DEVELOPMENT BEGAN IN EARLY 2000",
+   "cuts": 3,
+   "chapter": "A project that took a decade"
+  },
+  {
+   "text": "Production was confirmed by Akio Toyoda on the fifth of August two thousand nine, and the production car was unveiled at the Tokyo Motor Show on the twenty-first of October that year, for Lexus's twentieth anniversary. Orders opened two days later. Production began on the fifteenth of December two thousand ten, at the Motomachi plant in Toyota, Aichi.",
+   "query": "Lexus LFA Tokyo Motor Show",
+   "caption": "UNVEILED OCTOBER 2009 \u00b7 PRODUCTION DECEMBER 2010",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, from the start of development in early two thousand to the start of production in December two thousand ten is about ten and a half years. Compare that with the Mercedes-AMG One, which took more than five years from its reveal to its first delivery.",
+   "query": "Lexus LFA",
+   "caption": "~10.5 YEARS FROM START TO PRODUCTION (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Production was small and slow. Wikipedia says five hundred units were built, at twenty a month, from December two thousand ten to December two thousand twelve. The page gives two end dates, the seventeenth and the fourteenth of December two thousand twelve, so we say only that it ended in mid-December two thousand twelve. By our arithmetic, five hundred cars at twenty a month is twenty-five months.",
+   "query": "Lexus LFA assembly",
+   "caption": "500 CARS \u00b7 20 A MONTH \u00b7 DEC 2010\u2013DEC 2012",
+   "cuts": 3
+  },
+  {
+   "text": "The base price was three hundred seventy-five thousand dollars, or three hundred forty thousand pounds, according to Wikipedia. One article on a later sale says Lexus revealed a price of three-quarters of a million dollars at the two thousand ten launch, which conflicts with the other sources. We use three hundred seventy-five thousand, since both Wikipedia and Motor Authority give it.",
+   "query": "Lexus LFA price",
+   "caption": "$375,000 BASE \u00b7 ONE SOURCE CLAIMS $750,000",
+   "cuts": 3
+  },
+  {
+   "text": "Now the first surprise. The engine is the one L R dash G U E, a four point eight litre V ten, four thousand, eight hundred five cubic centimetres, with a seventy-two degree bank angle. Wikipedia says it was co-developed with Yamaha. It makes four hundred twelve kilowatts, five hundred sixty metric horsepower, at eight thousand seven hundred r p m.",
+   "query": "Lexus LFA V10 engine",
+   "caption": "4.8 L V10 \u00b7 560 PS @ 8,700 RPM \u00b7 WITH YAMAHA",
+   "cuts": 3,
+   "chapter": "Thing one: the engine too fast for a needle"
+  },
+  {
+   "text": "Torque is four hundred eighty newton-metres at six thousand eight hundred r p m, with ninety percent available from three thousand seven hundred. The redline is nine thousand r p m, and fuel cut-off comes at nine thousand five hundred. Those are high numbers for a road car, and they set up the surprise that follows.",
+   "query": "Lexus LFA tachometer",
+   "caption": "REDLINE 9,000 RPM \u00b7 FUEL CUT-OFF 9,500 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "Here it is. Wikipedia says the engine revs from idle to redline in point six seconds. That speed required a digital tachometer, because a mechanical needle could not keep up. Think about that: the car's engineers designed an instrument display around the engine, because the engine was faster than the ordinary part that normally shows what it is doing.",
+   "query": "Lexus LFA digital tachometer",
+   "caption": "IDLE TO REDLINE IN 0.6 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, nine thousand r p m minus an idle of about one thousand is roughly eight thousand r p m in point six seconds. That is more than thirteen thousand r p m every second. We use an assumed idle of one thousand r p m for this sum, which is our own assumption, since the source does not say. The point is only the scale of the speed.",
+   "query": "Lexus LFA engine",
+   "caption": "~13,000 RPM PER SECOND (OUR ARITHMETIC, ASSUMED IDLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Why does it matter to you? Because a driver who blips the throttle sees the revs jump so quickly that an analogue needle would lag behind. A digital display solves that. It is a small piece of engineering that tells you how extreme the engine is. The car was designed from the start around the V ten, not the other way round.",
+   "query": "Lexus LFA cockpit",
+   "caption": "THE DISPLAY WAS DESIGNED AROUND THE ENGINE (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The engine's sound was also designed. Wikipedia says Toyota engineers called it the roar of an angel. Two octaves of engine sound are channelled into the cabin, tuned in the manner of an Ovation guitar. So the car's sound is not an accident of the exhaust. It was shaped by acoustic design, with help from Yamaha, which also makes musical instruments.",
+   "query": "Lexus LFA sound",
+   "caption": "TUNED LIKE AN OVATION GUITAR \u00b7 \"ROAR OF AN ANGEL\"",
+   "cuts": 3
+  },
+  {
+   "text": "A note of caution. The Yamaha co-development is on the page. The link between Yamaha's instruments and the tuning is our observation, not a statement from the source. What the page does say is that two octaves are channelled into the cabin. That is the verifiable part, and it is already more attention to sound than most cars receive.",
+   "query": "Yamaha",
+   "caption": "YAMAHA CO-DEVELOPED THE ENGINE (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Performance, per Wikipedia. Zero to sixty miles per hour in three point six seconds, officially without launch control, and three point seven to a hundred kilometres per hour. Top speed three hundred twenty-five kilometres per hour on one line and three hundred twenty-six on another. A quarter mile in eleven point six seconds at about two hundred kilometres per hour, from Insideline.",
+   "query": "Lexus LFA acceleration",
+   "caption": "0\u201360: 3.6 S \u00b7 TOP SPEED ~325 KM/H \u00b7 1/4 MILE 11.6 S",
+   "cuts": 3
+  },
+  {
+   "text": "The second surprise is the body. Wikipedia says carbon fibre reinforced plastic makes up sixty-five percent of the body mass, with the rest aluminium. The manufacturer says the carbon saves one hundred kilograms compared with aluminium. So two thirds of the car's body is a material most cars use for small trim pieces.",
+   "query": "Lexus LFA carbon fibre",
+   "caption": "65% OF BODY MASS IS CARBON FIBRE",
+   "cuts": 3,
+   "chapter": "Thing two: the loom"
+  },
+  {
+   "text": "And here is the unusual part. The page says the carbon fibre is woven on a laser-monitored circular loom, one of only two in the world. In other words, the machine used to make the car's structure is almost unique. Few companies could build the car without it, and the page tells us that the process required a machine of that rarity.",
+   "query": "Carbon fibre loom",
+   "caption": "A LASER-MONITORED CIRCULAR LOOM \u00b7 ONE OF ONLY TWO",
+   "cuts": 3
+  },
+  {
+   "text": "The page does not say who owns the other loom, so we will not guess. It also does not give the cost of the machine or the time it took to weave. What it gives is the key fact, that the carbon structure of a Lexus was woven on a machine with a single peer. That is a long way from a typical car factory.",
+   "query": "Carbon fibre weaving",
+   "caption": "THE OTHER LOOM: NOT IDENTIFIED IN OUR SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Now the weight. Wikipedia gives two numbers for the same car, a kerb weight of one thousand, five hundred eighty kilograms in the infobox and one thousand, four hundred eighty in the specification table. The page is inconsistent, a one hundred kilogram gap. By our arithmetic that is about six percent. We cannot say which is right, so we use the range.",
+   "query": "Lexus LFA weight",
+   "caption": "WEIGHT: 1,580 KG (INFOBOX) VS 1,480 KG (TABLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Using the page's own weight to power ratio of two point six seven kilograms per horsepower, the sum is consistent with the heavier weight. Five hundred fifty-three horsepower times two point six seven is about one thousand, four hundred seventy-seven. That points to the lower weight, one thousand, four hundred eighty. So the specification table, not the infobox, matches the page's own ratio.",
+   "query": "Lexus LFA",
+   "caption": "PAGE'S OWN RATIO FAVOURS ~1,480 KG (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Whichever number is right, the car is light. The Mercedes-AMG One, a hybrid hypercar, is listed at one thousand, six hundred ninety-five. The LFA's carbon structure is a large part of the difference, though the sources do not break it down exactly.",
+   "query": "Lexus LFA",
+   "caption": "LIGHTER THAN A MODERN HYBRID HYPERCAR",
+   "cuts": 3
+  },
+  {
+   "text": "The Lexus UK magazine explains the loom in detail. It says Lexus engineers created it while building the LFA's carbon fibre body and chassis. Toyota has roots in weaving, the article notes, and its automatic loom helped fund the company's entry into car manufacturing in nineteen thirty-six. So a weaving machine was the origin of Toyota, and it came back for the LFA.",
+   "query": "Toyota automatic loom",
+   "caption": "TOYOTA'S FIRST FORTUNE CAME FROM A LOOM",
+   "cuts": 3,
+   "chapter": "How the loom works"
+  },
+  {
+   "text": "Why build a loom at all? The article says conventional methods mould layered woven carbon sheet around a form, which leaves a seam that can become a weak point. The new machine weaves individual strands of carbon yarn directly around a form, producing a three-dimensional part with no seam. Its example is the roof pillar of the LFA.",
+   "query": "Carbon fibre weave",
+   "caption": "NO SEAM: THE WEAK POINT OF CONVENTIONAL CARBON",
+   "cuts": 3
+  },
+  {
+   "text": "The machine uses a hundred forty-four bobbins mounted around the inner edge of a rotary loom, their movements synchronised under laser control. The roof pillar is built in twelve woven layers. By our own arithmetic, twelve layers each woven from a hundred forty-four strands means the process is anything but simple, although the article does not give the weaving time.",
+   "query": "Rotary carbon loom",
+   "caption": "144 BOBBINS \u00b7 LASER-SYNCHRONISED \u00b7 12 LAYERS",
+   "cuts": 3
+  },
+  {
+   "text": "The article calls the finished roof pillar one of the strongest and thinnest ever produced. That is a manufacturer's magazine describing its own part, so we treat it as a claim rather than a measurement. It also says the loom has since been displayed at the Design Museum in London, which recognised its contribution to future manufacturing methods.",
+   "query": "Design Museum London",
+   "caption": "LOOM DISPLAYED AT LONDON'S DESIGN MUSEUM",
+   "cuts": 3
+  },
+  {
+   "text": "Note the small difference between sources. Wikipedia says the loom is one of only two in the world. The Lexus article does not repeat that claim, and does not name any other machine. We therefore report the Wikipedia statement as stated, and add that the Lexus article describes the loom without comparing it with anything else.",
+   "query": "Carbon fibre factory",
+   "caption": "\"ONE OF ONLY TWO\" IS WIKIPEDIA'S CLAIM, NOT LEXUS'S",
+   "cuts": 3
+  },
+  {
+   "text": "What does this mean in practice? That the shape of the LFA's carbon structure came from a manufacturing choice. Where other makers laid sheets of cloth into moulds, Lexus wove the part. It is the kind of decision that adds cost and time, and Wikipedia's ten year development timeline is consistent with the idea that the team had to invent its own tools.",
+   "query": "Lexus LFA structure",
+   "caption": "INVENTING THE TOOLS TAKES TIME (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us run some numbers on the production run, all our own arithmetic from Wikipedia's figures. Five hundred cars in total. Sixty-four of them were N\u00fcrburgring Package cars, which is about thirteen percent. One hundred fifty North American cars were first sold on a two-year lease, which is thirty percent of the total.",
+   "query": "Lexus LFA production",
+   "caption": "64 N-PACKAGE = 12.8% \u00b7 150 LEASED = 30% (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Some more arithmetic on the five hundred"
+  },
+  {
+   "text": "In Europe, Wikipedia says thirty-eight LFAs had been sold as of September two thousand twenty. By our arithmetic, that is just under eight percent of production. Motor Authority adds that fewer than two hundred were imported to the United States, although it says sources differ on the exact count. Put the figures side by side and they do not add up to five hundred, because the sources cover different things.",
+   "query": "Lexus LFA Europe",
+   "caption": "38 IN EUROPE \u00b7 FEWER THAN 200 IMPORTED TO THE US",
+   "cuts": 3
+  },
+  {
+   "text": "That is a useful reminder. Different sources count different things, such as cars sold, cars leased, cars imported and cars built. We do not have a full breakdown of where all five hundred went, and we will not invent one. What the sources do agree on is the total, five hundred, and that the cars were hand-assembled at twenty a month.",
+   "query": "Lexus LFA",
+   "caption": "THE SOURCES COUNT DIFFERENT THINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Price per horsepower, our arithmetic again. Three hundred seventy-five thousand dollars divided by five hundred fifty-three horsepower is about six hundred seventy-eight dollars per horsepower. At the eight hundred forty-five thousand dollar auction price, it is about fifteen hundred twenty-eight dollars. The same car, with the same horsepower, now costs more than two and a quarter times as much per unit of power.",
+   "query": "Lexus LFA price per horsepower",
+   "caption": "$678/HP NEW \u2192 $1,528/HP AT THE 2022 AUCTION (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the performance has not changed. The car still does zero to sixty in three point six seconds according to the official figure, and still revs to nine thousand. What changed is scarcity, and what people are willing to pay for the sound and the story. We will leave the question of whether that is rational to the economists.",
+   "query": "Lexus LFA",
+   "caption": "THE CAR DIDN'T CHANGE \u00b7 THE MARKET DID",
+   "cuts": 3
+  },
+  {
+   "text": "There was a more extreme LFA. The N\u00fcrburgring Package, Wikipedia says, produces four hundred twenty kilowatts, five hundred seventy-one metric horsepower. Lexus planned a run of fifty units, but sixty-four were built. In September two thousand eleven, Lexus confirmed a lap of seven minutes, fourteen point six four seconds, with a top speed of two hundred ninety-eight kilometres per hour.",
+   "query": "Lexus LFA N\u00fcrburgring Package",
+   "caption": "N\u00dcRBURGRING PACKAGE: 571 PS \u00b7 64 BUILT (50 PLANNED)",
+   "cuts": 3,
+   "chapter": "The track version"
+  },
+  {
+   "text": "Earlier, in June two thousand eleven, Akira Iida set a time of seven twenty-two point eight five in a test for a warm-up video. By our arithmetic, the later confirmed lap was about eight seconds faster. Both are on Wikipedia, and both are presented as manufacturer times, so treat them as claims rather than independent measurements.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "7:22.85 (JUNE 2011) \u2192 7:14.64 (SEPT 2011)",
+   "cuts": 3
+  },
+  {
+   "text": "The car also raced. Wikipedia says the number fifteen car in the two thousand nine twenty-four hours race finished with a driveshaft failure and a fire. In twenty ten, the number fifty car won its class, S P eight, finishing eighteenth overall after one hundred forty-two laps. So the car's engine and structure were tested in a famous endurance race.",
+   "query": "N\u00fcrburgring 24 Hours",
+   "caption": "2010: CLASS WIN AT THE N\u00dcRBURGRING 24H (18TH OVERALL)",
+   "cuts": 3
+  },
+  {
+   "text": "Some arithmetic on the V ten, all ours, from Wikipedia's figures. Five hundred sixty metric horsepower from four point eight litres is about one hundred seventeen horsepower per litre. That is a naturally aspirated figure, with no turbochargers. Compare it with the Ferrari Purosangue's V twelve, which makes about one hundred twelve per litre, as we calculated in another video of this series.",
+   "query": "Lexus LFA V10",
+   "caption": "~117 PS PER LITRE \u00b7 NO TURBOS (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The engine in numbers"
+  },
+  {
+   "text": "The engine's character is in its torque curve. Ninety percent of the four hundred eighty newton-metres is available from three thousand seven hundred r p m, and the peak comes at six thousand eight hundred, while power peaks at eight thousand seven hundred. By our arithmetic, the engine delivers its maximum power only about three hundred r p m below the redline of nine thousand. It wants to be revved.",
+   "query": "Lexus LFA engine",
+   "caption": "POWER PEAK 8,700 \u00b7 REDLINE 9,000 (SPREAD: 300 RPM)",
+   "cuts": 3
+  },
+  {
+   "text": "The weight to power ratio on Wikipedia is two point six seven kilograms per horsepower. By our arithmetic, that is about three hundred seventy-five horsepower per tonne. The figure sounds ordinary today, when hybrid hypercars list a thousand horsepower. But the LFA reached it with a naturally aspirated engine, in two thousand ten, and with a body mostly of carbon.",
+   "query": "Lexus LFA",
+   "caption": "~375 HP PER TONNE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us also put the testing history in order. The first prototype was completed in June two thousand three. N\u00fcrburgring testing began in October two thousand four. The N\u00fcrburgring Package lap was confirmed in September two thousand eleven. By our arithmetic, that is almost seven years between the start of testing on that track and the confirmed lap, which says something about how much work went into the car.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "N\u00dcRBURGRING: TESTS FROM 2004 \u00b7 LAP CONFIRMED 2011",
+   "cuts": 3
+  },
+  {
+   "text": "One more detail. Wikipedia says the N\u00fcrburgring Package had a top speed of two hundred ninety-eight kilometres per hour, lower than the standard car's three hundred twenty-five. That is because the package adds aerodynamic parts that create downforce, which also add drag. A track car is not simply a faster road car. It is a different compromise, and the numbers show it.",
+   "query": "Lexus LFA aerodynamics",
+   "caption": "N-PACKAGE TOP SPEED 298 KM/H VS 325 KM/H STANDARD",
+   "cuts": 3
+  },
+  {
+   "text": "So here is what we have shown. A V ten that revs faster than a needle can follow, tuned for sound. A body woven on a loom built for the purpose. A development that took more than ten years, for five hundred cars. And a price that has more than doubled since. None of it is a guess. Each fact is attributed to a source, and where we did arithmetic, we said so.",
+   "query": "Lexus LFA",
+   "caption": "RECAP: ENGINE \u00b7 LOOM \u00b7 TEN YEARS \u00b7 500 CARS",
+   "cuts": 3
+  },
+  {
+   "text": "The sales story is unusual. Wikipedia says one hundred fifty North American cars were initially sold through a two-year lease. And as of September two thousand twenty, thirty-eight LFAs had been sold in Europe. The final LFA was sold in June two thousand twenty-three, an Australian dealer's display car, at a price the page does not disclose.",
+   "query": "Lexus dealership",
+   "caption": "150 N. AMERICAN CARS LEASED \u00b7 FINAL CAR SOLD JUNE 2023",
+   "cuts": 3,
+   "chapter": "Who bought it, and what it is worth now"
+  },
+  {
+   "text": "By our arithmetic, that final sale came more than ten years after production ended in December two thousand twelve. A new car, sold ten and a half years after it was made. That tells you how slowly the last cars moved at the original price, and how the story changed afterwards.",
+   "query": "Lexus LFA",
+   "caption": "LAST CAR SOLD 10+ YEARS AFTER PRODUCTION ENDED",
+   "cuts": 3
+  },
+  {
+   "text": "What are they worth now? Motor Authority reported in July two thousand twenty-one that a Pearl Yellow two thousand twelve LFA with seventy-two miles sold for eight hundred eight thousand dollars on Bring a Trailer. That is four hundred thirty-three thousand dollars over its three hundred seventy-five thousand dollar sticker price. By our arithmetic, a markup of about one hundred fifteen percent.",
+   "query": "Lexus LFA Pearl Yellow",
+   "caption": "2021: $808,000 FOR A 72-MILE CAR (+115% OVER STICKER)",
+   "cuts": 3
+  },
+  {
+   "text": "The same article mentions a silver LFA that sold for seven hundred twenty thousand dollars earlier in twenty twenty-one. And Supercar Blondie reported that a white two thousand twelve LFA with eight hundred fifty miles sold on Bring a Trailer for eight hundred forty-five thousand dollars in April twenty twenty-two. By our arithmetic, that is a markup of about one hundred twenty-five percent over the sticker price.",
+   "query": "Lexus LFA auction",
+   "caption": "2022: $845,000 \u00b7 850 MILES \u00b7 CHASSIS 235 OF 500",
+   "cuts": 3
+  },
+  {
+   "text": "These are single auction results, not a market index, and the cars differ in mileage and condition. But they point the same way. We will look at the value story in more detail in another video of this series. For this one, the lesson is that a car from a long project turned into one of the most sought-after Japanese cars of its generation.",
+   "query": "Lexus LFA",
+   "caption": "SINGLE AUCTIONS, NOT AN INDEX",
+   "cuts": 3
+  },
+  {
+   "text": "Put the two surprises together. The engine was so fast that the instrument display had to be redesigned. The body was woven on a machine with a single peer. Both are signs of a company that solved every problem from first principles, rather than borrowing parts from other cars. That approach is why the project took ten years, and why it could not be repeated cheaply.",
+   "query": "Lexus LFA",
+   "caption": "EVERY PROBLEM SOLVED FROM FIRST PRINCIPLES (OUR READING)",
+   "cuts": 3,
+   "chapter": "What the two surprises tell you"
+  },
+  {
+   "text": "Akio Toyoda confirmed production on the fifth of August two thousand nine. Wikipedia presents the car as a showpiece for the twentieth anniversary of Lexus. The car was not meant to make money. It was meant to show what the company could do, and the sources we used do not give a profit figure, so we make no claim about one.",
+   "query": "Akio Toyoda",
+   "caption": "A SHOWPIECE FOR LEXUS'S 20TH ANNIVERSARY",
+   "cuts": 3
+  },
+  {
+   "text": "One last caution. We have not driven an LFA. Every figure is from published sources, some of which disagree with each other, such as the weight and the original price. Where we did arithmetic, we said so. If you have a verified detail we missed, tell us in the comments, with where it comes from.",
+   "query": "Lexus LFA",
+   "caption": "WEIGHT AND PRICE: SOURCES DISAGREE",
+   "cuts": 3
+  },
+  {
+   "text": "Which surprise stayed with you more, the point six second needle problem, or the loom? Tell us in the comments. In the other videos of this series, we compare the LFA with the Nissan GT-R, explain why it is worth more now than new, and tell the story behind the car. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
