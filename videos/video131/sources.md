@@ -1,0 +1,13 @@
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, Hennessey Venom GT: https://en.wikipedia.org/wiki/Hennessey_Venom_GT
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- Motor Authority, Hennessey Venom F5 hypercar sells out following Monterey Car Week showing: https://motorauthority.com/news/1118149_hennessey-venom-f5-hypercar-sells-out-following-monterey-car-week-showing
+- Motor Authority, SSC Little Brother coming with second factory: https://www.motorauthority.com/news/1135975_ssc-little-brother-coming-with-second-factory
+- Carscoops, Skip the wait list and get this Hennessey Venom F5 at auction: https://www.carscoops.com/2025/04/skip-the-wait-list-and-get-this-hennessey-venom-f5-at-auction/
+- Hennessey Special Vehicles (company news), Venom F5 sold for $2.2 million at Broad Arrow Auctions: https://www.hennesseyspecialvehicles.com/news/hennessey-venom-f5-sold-for-2-2-million-at-broad-arrow-auctions/
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds
+- The Drive, Hennessey Venom F5 crashes at 250 mph: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html

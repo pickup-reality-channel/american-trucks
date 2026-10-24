@@ -1,0 +1,287 @@
+{
+ "id": "video131",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "The Real Cost of an American Hypercar",
+ "scenes": [
+  {
+   "text": "What does an American hypercar really cost? The sticker on a Hennessey Venom F5 reached two point one million dollars, and one sold at auction for two million, two hundred five thousand. The SSC Tuatara was reported at one point nine five million. But the sticker is the part we can see. In this video, we count what the sources show, and we tell you plainly what they do not.",
+   "query": "American hypercar cost",
+   "caption": "THE REAL COST OF AN AMERICAN HYPERCAR",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We use Wikipedia, evo, The Drive, Motor Authority, Motor One, Carscoops, Hennessey's own news page, and the U.S. Census Bureau. Hennessey's own page is a company source, so we label it. Where we do the arithmetic, we say so. And where nobody has published a figure, we will say that too, because on cars like these, the missing numbers are half the story.",
+   "query": "Hypercar research",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 EVO \u00b7 THE DRIVE \u00b7 MOTOR AUTHORITY \u00b7 MOTOR1 \u00b7 CARSCOOPS \u00b7 HENNESSEY'S OWN NEWS PAGE (COMPANY SOURCE)",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the Hennessey Venom F5. Wikipedia says production was limited to twenty-four units, twelve sold by December twenty twenty at an initial price of one point six million dollars, and the remaining twelve priced at two point one million. Motor Authority, reporting in August twenty twenty-one, says each F5 was priced from two point one million dollars, and that the car was sold out.",
+   "query": "Hennessey Venom F5 price",
+   "caption": "F5: FIRST 12 AT $1.6M \u00b7 REMAINING 12 AT $2.1M (WIKIPEDIA) \u00b7 'FROM $2.1 MILLION' AND SOLD OUT, AUG 2021 (MOTOR AUTHORITY)",
+   "cuts": 5,
+   "chapter": "The sticker prices"
+  },
+  {
+   "text": "The Venom F5 Revolution is dearer. Wikipedia gives about two point seven million dollars, and says production is limited to thirty-six units. The Evolution package, released in April twenty twenty-five, costs an extra two hundred eighty-five thousand dollars. And evo lists the Evolution in Britain from two million, two hundred ten thousand pounds. We do not convert that, because tax and currency make it misleading.",
+   "query": "Hennessey Venom F5 Revolution and Evolution",
+   "caption": "REVOLUTION ~$2.7M (36 UNITS) \u00b7 EVOLUTION +$285,000 (WIKIPEDIA) \u00b7 UK: FROM \u00a32,210,000 (EVO) \u2014 NOT CONVERTED",
+   "cuts": 3
+  },
+  {
+   "text": "Next, the SSC Tuatara. Motor Authority, in twenty twenty-two, says it costs one point nine five million dollars. Wikipedia's article body gives no price, though one of its reference titles mentions one point six million, and we do not treat a reference title as a price. So the Tuatara's figure comes from one source, in one year, and could have changed.",
+   "query": "SSC Tuatara price",
+   "caption": "TUATARA $1.95M (MOTOR AUTHORITY, 2022) \u00b7 WIKIPEDIA BODY: NO PRICE \u00b7 ONE SOURCE, ONE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "For context, the earlier cars. Wikipedia says the Venom GT World's Fastest Edition sold for one point two five million dollars, and the first SSC Ultimate Aero TT sold on eBay for four hundred thirty-one thousand, one hundred dollars. By our arithmetic, the Venom F5 at two point one million is sixty-eight percent above the Venom GT, and the Tuatara at one point nine five is about four and a half times that eBay price.",
+   "query": "Predecessor prices",
+   "caption": "VENOM GT $1.25M \u2192 F5 $2.1M = +68% \u00b7 ULTIMATE AERO TT $431,100 (EBAY) \u2192 TUATARA $1.95M \u2248 4.5\u00d7 (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And SSC has talked about a cheaper car. Motor Authority says the Little Brother would be a mid-engine supercar with a naturally aspirated V8 of seven to eight hundred horsepower, at four to five hundred thousand dollars, five hundred units through twenty twenty-eight. By our arithmetic, that is about a quarter of the Tuatara's price at the midpoint. We do not know whether it was built, so it stays a plan.",
+   "query": "SSC Little Brother",
+   "caption": "LITTLE BROTHER (PLAN): $400\u2013500K \u00b7 $450K \u00f7 $1.95M \u2248 23% (OUR ARITHMETIC) \u00b7 BUILT? NOT KNOWN",
+   "cuts": 3
+  },
+  {
+   "text": "Put those prices next to the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, the F5's first batch price of one point six million is nineteen point one years of median household income. The second batch at two point one is twenty-five point one years. The Revolution at two point seven is thirty-two point two years.",
+   "query": "Hypercar price vs median income",
+   "caption": "MEDIAN HOUSEHOLD INCOME $83,730 \u00b7 F5 $1.6M \u2248 19.1 YRS \u00b7 $2.1M \u2248 25.1 YRS \u00b7 REVOLUTION $2.7M \u2248 32.2 YRS (CENSUS, OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What the price is measured against"
+  },
+  {
+   "text": "The Tuatara at one point nine five million is twenty-three point three years. And the auction price of two million, two hundred five thousand is twenty-six point three years. These are years of gross income, before tax and before any spending on housing or food, so no household could pay them, and the figures only illustrate scale. They are also not a statement about who buys these cars, which no source covers.",
+   "query": "Hypercar price vs median income",
+   "caption": "TUATARA $1.95M \u2248 23.3 YRS \u00b7 $2,205,000 \u2248 26.3 YRS OF MEDIAN HOUSEHOLD INCOME (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against the average price of a new vehicle, fifty thousand, eighty-nine dollars in August twenty twenty-six, according to Kelley Blue Book, the F5 at two point one million is about forty-two average new vehicles, by our arithmetic. The Tuatara is about thirty-nine. So one of these cars costs as much as dozens of ordinary ones.",
+   "query": "Hypercar price vs average new vehicle",
+   "caption": "AVERAGE NEW VEHICLE $50,089 (KBB, AUG 2026) \u00b7 F5 $2.1M \u2248 41.9 \u00b7 TUATARA $1.95M \u2248 38.9 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against another car from this series. The Ford Mustang GTD costs three hundred twenty-seven thousand, nine hundred sixty dollars all-in, according to Motor One. By our arithmetic, the F5 at two point one million is about six and a half times the GTD. The Tuatara is about five point nine times. And the Corvette ZR1, at the one hundred seventy-eight thousand dollars Kelley Blue Book lists, is about one twelfth of the F5.",
+   "query": "Hypercar price vs Mustang GTD and ZR1",
+   "caption": "F5 $2.1M \u2248 6.4\u00d7 MUSTANG GTD ($327,960, MOTOR1) \u00b7 \u2248 11.8\u00d7 ZR1 ($178,195, KBB TABLE) \u00b7 TUATARA \u2248 5.9\u00d7 GTD (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Price per horsepower is crude, but it is one way to see what the money buys. By our arithmetic, the F5 at two point one million over its one thousand eight hundred seventeen horsepower is about eleven hundred fifty-six dollars per horsepower. Over the ninety-one octane rating of fifteen forty-two, it is about thirteen hundred sixty-two. The Venom GT, one point two five million over twelve forty-four, is about one thousand five.",
+   "query": "Price per horsepower",
+   "caption": "F5 $2.1M: $1,156/HP (1,817) \u00b7 $1,362/HP (1,542 ON 91) \u00b7 VENOM GT $1.25M \u00f7 1,244 \u2248 $1,005/HP (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Price per horsepower"
+  },
+  {
+   "text": "For the Tuatara, one point nine five million over thirteen fifty on ninety-one octane is about fourteen hundred forty-four dollars per horsepower, and over seventeen fifty on E eighty-five, about eleven hundred fourteen. The Mustang GTD's base price of three hundred eighteen thousand over eight hundred fifteen horsepower is three hundred ninety-one. So an American hypercar costs roughly three times as much per horsepower as the GTD.",
+   "query": "Price per horsepower",
+   "caption": "TUATARA: $1.95M \u00f7 1,350 \u2248 $1,444 \u00b7 \u00f7 1,750 \u2248 $1,114 \u00b7 MUSTANG GTD BASE \u2248 $391/HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Evolution package is a more precise comparison, because it prices a horsepower increase directly. Two hundred eighty-five thousand dollars for two hundred fourteen extra horsepower, by our arithmetic, is about thirteen hundred thirty-two dollars per extra horsepower. But the fuel basis differs, E eighty-five for the Evolution, and the regular figure's fuel is unstated, so treat that as indicative only.",
+   "query": "Hennessey Venom F5 Evolution value",
+   "caption": "$285,000 \u00f7 214 HP \u2248 $1,332 PER EXTRA HP \u00b7 FUEL BASIS NOT LIKE FOR LIKE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Could you simply buy one? Not quickly. Carscoops, in April twenty twenty-five, says the Venom F5 is already sold out through twenty twenty-six, so buyers may face a wait list of about two years. It also says the F5 is one of only twenty-four coupes believed to be planned for production. So a new F5 means joining a queue, and the Revolution is a separate allocation.",
+   "query": "Hennessey Venom F5 availability",
+   "caption": "'SOLD OUT THROUGH 2026' \u00b7 WAIT ABOUT TWO YEARS \u00b7 24 COUPES BELIEVED PLANNED (CARSCOOPS, APRIL 2025)",
+   "cuts": 3,
+   "chapter": "Buying one"
+  },
+  {
+   "text": "Motor Authority adds a picture of what the sales looked like. Hennessey brought two cars to Monterey Car Week in twenty twenty-one, a Speed Devil Blue and a Mojave Gold, and the blue car was the first customer example, reserved for a buyer in Montana. The final build slot was claimed the week after the show. John Hennessey said only a final round of testing remained.",
+   "query": "Hennessey Venom F5 Monterey 2021",
+   "caption": "MONTEREY 2021: SPEED DEVIL BLUE (FIRST CUSTOMER CAR, MONTANA BUYER) + MOJAVE GOLD \u00b7 FINAL SLOT CLAIMED THE WEEK AFTER (MOTOR AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "That quote matters for cost. In August twenty twenty-one, the cars were all sold, and, by Hennessey's own words, still in a final round of testing covering acceleration, braking and stability. The test crash came in July twenty twenty-four. By our arithmetic, that is nearly three years later. Buyers paid for a car whose full performance had not been demonstrated, which is a different kind of cost.",
+   "query": "Hennessey Venom F5 development risk",
+   "caption": "SOLD OUT AUG 2021 DURING 'FINAL ROUND OF TESTING' \u00b7 TEST CRASH JULY 2024 \u2248 3 YEARS LATER (MOTOR AUTHORITY, THE DRIVE, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What you get is also unusual. The Drive says the production F5 ships without airbags, and that U.S. buyers get a show-and-display only title. We could not confirm the legal detail elsewhere. If it is correct, it means the car's use in the United States is restricted, which is a cost that no price tag shows. We simply report the claim, and recommend buyers check with the company.",
+   "query": "Hennessey Venom F5 legality",
+   "caption": "NO AIRBAGS \u00b7 'SHOW AND DISPLAY' TITLE FOR U.S. BUYERS (THE DRIVE) \u00b7 NOT CONFIRMED ELSEWHERE",
+   "cuts": 3
+  },
+  {
+   "text": "And the Tuatara? Motor Authority says SSC was building one hundred twenty-five of them by the end of twenty twenty-five, one hundred regular and twenty-five track-only Aggressors. Wikipedia says one hundred cars with ten Aggressors. So the Tuatara is more available than the F5, and our sources do not describe a wait list for it. They do not describe its road-legal status either, apart from the Aggressor being non-street-legal.",
+   "query": "SSC Tuatara availability",
+   "caption": "TUATARA: 125 PLANNED BY END 2025 (MOTOR AUTHORITY) vs 100 + 10 AGGRESSORS (WIKIPEDIA) \u00b7 WAIT LIST AND LEGAL STATUS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Try another crude measure, price per kilogram. By our arithmetic, the F5 at two point one million dollars over its curb weight of one thousand three hundred eighty-five kilograms is about fifteen hundred sixteen dollars per kilogram. The Tuatara at one point nine five million over its dry weight of one thousand two hundred forty-seven is about fifteen hundred sixty-four. The two cars cost almost the same per kilogram, even though the weights are not like for like.",
+   "query": "Price per kilogram",
+   "caption": "F5 $2.1M \u00f7 1,385 KG \u2248 $1,516/KG \u00b7 TUATARA $1.95M \u00f7 1,247 KG (DRY) \u2248 $1,564/KG (OUR ARITHMETIC; WEIGHTS NOT LIKE FOR LIKE)",
+   "cuts": 3,
+   "chapter": "What the money buys"
+  },
+  {
+   "text": "And price per verified mile per hour. The Tuatara's verified one-way two hundred ninety-five for one point nine five million is about sixty-six hundred dollars per mile per hour, by our arithmetic. The F5's verified two hundred seventy-one point six for two point one million is about seventy-seven hundred. These are not meaningful as a ranking, because the runs were different, but they show what the verified part of the promise costs.",
+   "query": "Price per verified mph",
+   "caption": "TUATARA $1.95M \u00f7 295 \u2248 $6,610/MPH \u00b7 F5 $2.1M \u00f7 271.6 \u2248 $7,732/MPH (VERIFIED ONE-WAY RUNS; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against the claimed figure, the F5's two point one million over three hundred eleven miles per hour is about sixty-eight hundred dollars per claimed mile per hour. That is the price of a promise. The F5 buyers who ordered before the car had reached three hundred, as evo notes, were paying for the claim. Evo says everyone believes it will get there, but also says it cannot be rushed, and that Hennessey has been open about how long it may take.",
+   "query": "Price per claimed mph",
+   "caption": "F5 $2.1M \u00f7 311 MPH CLAIM \u2248 $6,752/MPH (OUR ARITHMETIC) \u00b7 evo: 'EVERYONE BELIEVES IT WILL GET THERE' BUT 'CAN'T BE RUSHED'",
+   "cuts": 3
+  },
+  {
+   "text": "What the money does buy, according to the sources, is hardware. Motor Authority says the F5 has a bespoke carbon-fibre tub. Wikipedia says its chassis and body are almost entirely carbon fibre, with a CIMA seven-speed gearbox and a six point six litre twin-turbo V8. The Tuatara, per Wikipedia, has a five point nine litre flat-plane V8 revving to eight thousand eight hundred. Both are built in very small numbers, which is the main reason for the price.",
+   "query": "What a hypercar buyer gets",
+   "caption": "BESPOKE CARBON TUB (MOTOR AUTHORITY) \u00b7 CARBON CHASSIS AND BODY, CIMA 7-SPEED (WIKIPEDIA) \u00b7 TUATARA FLAT-PLANE V8, 8,800 RPM \u00b7 SMALL NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the Revolution family has thirty-six cars at about two point seven million dollars each. By our arithmetic, that is ninety-seven point two million dollars at list price, and the original twenty-four F5s, at the two prices in Wikipedia, are forty-four point four million. Together, Hennessey's two F5 families would be worth about one hundred forty-one point six million dollars at list. That is our sum, not a reported revenue figure.",
+   "query": "Hennessey F5 production at list price",
+   "caption": "36 \u00d7 $2.7M = $97.2M \u00b7 24 F5 = $44.4M \u00b7 TOTAL \u2248 $141.6M AT LIST (OUR ARITHMETIC, NOT A REPORTED FIGURE)",
+   "cuts": 3
+  },
+  {
+   "text": "For the Tuatara, one hundred cars at Motor Authority's one point nine five million would be one hundred ninety-five million dollars at list, by our arithmetic. But the price is from twenty twenty-two, the Aggressor price is not given, and the production count is disputed between sources. So that sum is too uncertain to rely on, and we show it only to explain why we are not quoting a total for SSC.",
+   "query": "SSC Tuatara production at list price",
+   "caption": "100 \u00d7 $1.95M = $195M \u2014 PRICE FROM 2022, AGGRESSOR PRICE AND COUNT NOT SETTLED \u2192 NOT RELIABLE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A risk the Tuatara's buyers faced is also a cost of sorts. In October twenty twenty, SSC claimed three hundred sixteen point one one miles per hour as a two-way average. By July twenty twenty-one, the company said the initial attempt did not reach three hundred miles per hour. For anyone who bought partly on that claim, the claim was gone. The verified later figures are lower, two hundred eighty-two point nine average.",
+   "query": "SSC Tuatara claim risk",
+   "caption": "OCT 2020 CLAIM 316.11 MPH AVG \u2192 JULY 2021 'DID NOT REACH OVER 300 MPH' \u00b7 VERIFIED AVG 282.9 MPH (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "And rarity claims carry the same risk. Wikipedia says the Venom GT was reported as thirteen cars, then twenty-nine, then counted as eight, seven production cars and a prototype. If you pay a premium because a car is rare, you want the count to be right. For the F5, Wikipedia and Carscoops both say twenty-four, and Wikipedia says all were sold. For the Tuatara, the count is disputed.",
+   "query": "Rarity and counts",
+   "caption": "VENOM GT COUNT: 13 / 29 / 8 \u00b7 F5: 24 (WIKIPEDIA, CARSCOOPS) \u00b7 TUATARA: 100\u2013125 DEPENDING ON SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Let us put the prices in order, by our arithmetic. Hennessey Venom F5 Revolution, about two point seven million. F5 Evolution, two point one plus two eighty-five thousand, which is two point three eight five million. F5 second batch, two point one. Tuatara, one point nine five. F5 first batch, one point six. Venom GT, one point two five. Mustang GTD, three twenty-eight thousand. ZR1, one seventy-eight thousand.",
+   "query": "Price ranking",
+   "caption": "REVOLUTION $2.7M \u00b7 EVOLUTION $2.385M (2.1 + 0.285, OUR ARITHMETIC) \u00b7 F5 $2.1M \u00b7 TUATARA $1.95M \u00b7 F5 $1.6M \u00b7 VENOM GT $1.25M \u00b7 GTD $327,960 \u00b7 ZR1 $178,195",
+   "cuts": 3
+  },
+  {
+   "text": "The spread from the cheapest in that list to the dearest is large. By our arithmetic, the Revolution at two point seven million is about fifteen times the ZR1 at one hundred seventy-eight thousand, one hundred ninety-five dollars, and the first-batch F5 is nine times. That gap is the real cost of the hypercar label, and it is made of rarity, hardware and a speed promise rather than of any one number we can show.",
+   "query": "Hypercar premium",
+   "caption": "REVOLUTION $2.7M \u00f7 ZR1 $178,195 \u2248 15.2\u00d7 \u00b7 F5 $1.6M \u00f7 ZR1 \u2248 9.0\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now resale, where we do have data. Hennessey's own news page says a twenty twenty-two Venom F5 coupe in Lausanne silver sold for two million, two hundred five thousand dollars at Broad Arrow Auctions at The Amelia, in the weekend before the fifth of March, twenty twenty-four. The page does not say whether that includes buyer's premium, and it is a company source, so we label it.",
+   "query": "Hennessey Venom F5 auction",
+   "caption": "2022 F5 'LAUSANNE SILVER': $2,205,000 AT BROAD ARROW, THE AMELIA, MARCH 2024 \u00b7 PREMIUM NOT STATED \u00b7 COMPANY SOURCE",
+   "cuts": 3,
+   "chapter": "What it sells for later"
+  },
+  {
+   "text": "By our arithmetic, that is five percent above the two point one million second-batch price, a gain of one hundred five thousand dollars, and thirty-eight percent above the one point six million first-batch price. We do not know which batch this car belonged to, or whether the figure includes fees, so we cannot say how much anyone made. It is simply the one number we have.",
+   "query": "Hennessey Venom F5 resale",
+   "caption": "$2,205,000 vs $2.1M = +5.0% (+$105,000) \u00b7 vs $1.6M = +37.8% (+$605,000) \u00b7 BATCH AND FEES UNKNOWN (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A second data point. Carscoops reported in April twenty twenty-five that a twenty twenty-three F5 was listed on SBX Cars with the hammer due on the seventeenth of April. It expected bids in the seven figures, and said the last F5 sold at public auction for over two million dollars, a car with two hundred twenty-nine miles. This car's original owner had logged over fifteen hundred miles. We do not have the final price.",
+   "query": "Hennessey Venom F5 SBX listing",
+   "caption": "2023 F5 ON SBX CARS \u00b7 HAMMER APRIL 17, 2025 \u00b7 >1,500 MILES \u00b7 LAST PUBLIC SALE >$2M (229 MILES) (CARSCOOPS) \u00b7 FINAL PRICE: NOT SEEN",
+   "cuts": 3
+  },
+  {
+   "text": "Together, those two reports suggest F5s have changed hands at around or above two million dollars. They do not tell us about depreciation in the usual sense, and they cannot tell us what a Tuatara sells for, because we found no Tuatara sale data. Carscoops also reports that the F5 seats in that listing were the first Comfort seats installed in the model. Specification matters in this market.",
+   "query": "Hypercar resale",
+   "caption": "F5 RESALE REPORTS AROUND/ABOVE $2M \u00b7 TUATARA SALE DATA: NONE FOUND \u00b7 'FIRST COMFORT SEATS EVER INSTALLED' (CARSCOOPS)",
+   "cuts": 3
+  },
+  {
+   "text": "The Venom GT shows a different pattern. Wikipedia says the World's Fastest Edition sold for one point two five million, and the Steven Tyler Spyder later sold at auction for eight hundred thousand dollars. By our arithmetic, that is thirty-six percent below the World's Fastest Edition price. The two cars are different versions and different years, so it is not a depreciation figure. It shows prices can go down as well as up.",
+   "query": "Hennessey Venom GT resale",
+   "caption": "WFE $1.25M \u00b7 TYLER SPYDER $800,000 AT AUCTION = \u221236% (WIKIPEDIA, OUR ARITHMETIC) \u00b7 DIFFERENT VERSIONS, NOT DEPRECIATION",
+   "cuts": 3
+  },
+  {
+   "text": "This is where the sources go quiet. We found no published fuel economy rating for the Venom F5 or the Tuatara, in any source we read. We found no insurance quote. We found no service schedule, no warranty terms, no tyre prices and no storage costs. The ownership costs of these cars are, as far as we can see, not public.",
+   "query": "Hypercar running costs",
+   "caption": "NO PUBLISHED FUEL ECONOMY \u00b7 INSURANCE \u00b7 SERVICE SCHEDULE \u00b7 WARRANTY \u00b7 TYRES \u00b7 STORAGE IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "What running one costs"
+  },
+  {
+   "text": "We can say something about fuel type. Wikipedia's Tuatara figures are quoted at ninety-one octane and E eighty-five, and the F5's at ninety-one octane. The Evolution's figures are on E eighty-five. Fuel is therefore a decision that changes the car's output, which makes it a running-cost decision too. But no source gives a mileage, so we cannot turn it into dollars.",
+   "query": "Hypercar fuel",
+   "caption": "TUATARA: 91 OCTANE OR E85 \u00b7 F5: 1,542 HP ON 91 \u00b7 EVOLUTION ON E85 \u00b7 MPG: NOT PUBLISHED",
+   "cuts": 3
+  },
+  {
+   "text": "For scale, one known engine fact: the F5, according to Motor Authority, has a redline of eight thousand five hundred rpm in its high-speed mode and eight thousand two hundred otherwise. And the Tuatara's flat-plane V8 revs to eight thousand eight hundred, per Wikipedia. These are high-revving engines in cars with bespoke carbon tubs. What that means for maintenance is something the sources do not say.",
+   "query": "Hypercar engines",
+   "caption": "F5 REDLINE 8,500 RPM (HIGH-SPEED MODE) / 8,200 \u00b7 TUATARA 8,800 RPM \u00b7 MAINTENANCE IMPLICATIONS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "One thing we can count is the crash. The Drive reports the July twenty twenty-four F5 test crash, with the driver unhurt, and says Hennessey did not name the model involved. We have no repair cost, and no information on whether the car was a prototype or a customer car. We include it only to say that these cars do crash, and no source tells you what a crash costs.",
+   "query": "Hennessey Venom F5 crash",
+   "caption": "JULY 2024 TEST CRASH \u00b7 MODEL NOT NAMED \u00b7 REPAIR COST NOT PUBLISHED (THE DRIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "And then the Tuatara's trailer. Wikipedia says that in April twenty twenty-one, the SSC trailer flipped in high winds in Utah, damaging the car. That is an unusual cost, the transport. The sources do not say what the damage cost or who paid for it. We mention it because transport and storage are ownership costs, and nobody publishes them.",
+   "query": "SSC Tuatara trailer incident",
+   "caption": "APRIL 2021: TRAILER FLIPPED IN HIGH WINDS IN UTAH, CAR DAMAGED (WIKIPEDIA) \u00b7 COST: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The only published running-cost scale near this class in our research is for the Corvette ZR1. Kelley Blue Book lists a five-year cost to own of one hundred seventy-four thousand, seven hundred fourteen dollars, including twenty-five thousand, eight hundred fifty-five in insurance and eighteen thousand, nine hundred one in fuel. We do not apply those to the hypercars. We show them to illustrate what a published ownership table looks like, and that none exists for the F5 or the Tuatara.",
+   "query": "Kelley Blue Book Corvette ZR1 cost to own",
+   "caption": "ZR1 5-YEAR COST TO OWN $174,714 (INSURANCE $25,855 \u00b7 FUEL $18,901) \u2014 NO EQUIVALENT TABLE FOR F5 OR TUATARA",
+   "cuts": 3
+  },
+  {
+   "text": "Time is another cost. Wikipedia says F5 production began in twenty twenty and all twenty-four cars were announced as sold in August twenty twenty-one. Carscoops says in April twenty twenty-five that the model is sold out through twenty twenty-six. By our arithmetic, that is five years from the sell-out announcement to the end of the quoted backlog. A buyer who joins the queue now is buying time as well as a car.",
+   "query": "Hennessey Venom F5 wait",
+   "caption": "SOLD OUT AUG 2021 \u2192 'SOLD OUT THROUGH 2026' (CARSCOOPS) \u2248 5 YEARS OF BACKLOG (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So what is the real cost of an American hypercar? On the figures we can show: one point six to two point one million dollars for an F5, plus two hundred eighty-five thousand for an Evolution, two point seven for a Revolution, about one point nine five for a Tuatara. A wait of about two years for an F5, resale reports around two million, and a long list of costs that nobody has published.",
+   "query": "American hypercar cost",
+   "caption": "F5 $1.6\u20132.1M \u00b7 EVOLUTION +$285K \u00b7 REVOLUTION ~$2.7M \u00b7 TUATARA ~$1.95M \u00b7 ~2-YEAR WAIT \u00b7 RESALE ~$2M+ \u00b7 RUNNING COSTS UNPUBLISHED",
+   "cuts": 3,
+   "chapter": "The honest total"
+  },
+  {
+   "text": "Our reference price for this video is two point one million dollars, the F5's second-batch price, reported by both Wikipedia and Motor Authority. It is a documented figure. The true cost to any one owner depends on options, taxes, delivery, insurance and storage, and the sources give none of these. The only well-documented cost of an American hypercar is still the purchase price.",
+   "query": "Hennessey Venom F5",
+   "caption": "REFERENCE PRICE: $2.1 MILLION (WIKIPEDIA, MOTOR AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "What our sources do not say, in one list. Fuel economy. Insurance. Maintenance and warranty. The F5's delivery count. Any Tuatara resale data. The legal status of the Tuatara in the United States. And whether the Little Brother exists. If you have a reliable source on any of these, share the link in the comments, and we will update the description.",
+   "query": "American hypercar cost",
+   "caption": "NOT PUBLISHED: MPG \u00b7 INSURANCE \u00b7 MAINTENANCE \u00b7 WARRANTY \u00b7 DELIVERIES \u00b7 TUATARA RESALE \u00b7 TUATARA LEGAL STATUS \u00b7 LITTLE BROTHER",
+   "cuts": 3
+  },
+  {
+   "text": "Would you pay two million dollars for a car that has not yet proved its top speed? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Venom F5, compare it with the SSC Tuatara, and tell the story of America's speed record war. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Hennessey Venom F5",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
