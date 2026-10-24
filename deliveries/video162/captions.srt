@@ -1,0 +1,2263 @@
+1
+00:00:00,000 --> 00:00:03,396
+Sixty years separate two Aston Martins that
+
+2
+00:00:03,396 --> 00:00:05,607
+share a badge and a purpose.
+
+3
+00:00:05,787 --> 00:00:09,213
+The nineteen sixty-three DB5 made two hundred
+
+4
+00:00:09,213 --> 00:00:12,943
+eighty-two horsepower and needed eight seconds to
+
+5
+00:00:12,943 --> 00:00:13,856
+reach sixty.
+
+6
+00:00:14,036 --> 00:00:17,793
+The current DB12 makes six hundred seventy-one,
+
+7
+00:00:17,793 --> 00:00:20,271
+and does it in three point six.
+
+8
+00:00:20,451 --> 00:00:23,140
+But the numbers hide the real difference,
+
+9
+00:00:23,140 --> 00:00:25,304
+and one of them runs the opposite
+
+10
+00:00:25,304 --> 00:00:26,813
+way to what you expect.
+
+11
+00:00:26,993 --> 00:00:29,071
+Every figure here is sourced.
+
+12
+00:00:29,420 --> 00:00:33,159
+Our sources are Wikipedia's pages on the
+
+13
+00:00:33,159 --> 00:00:34,748
+DB5 and the DB12,
+
+14
+00:00:34,748 --> 00:00:38,392
+Kelley Blue Book's pricing page for the
+
+15
+00:00:38,392 --> 00:00:40,635
+twenty twenty-five DB12,
+
+16
+00:00:40,635 --> 00:00:43,159
+the Hagerty valuation page,
+
+17
+00:00:43,159 --> 00:00:45,589
+an RM Sotheby's catalogue,
+
+18
+00:00:45,589 --> 00:00:48,205
+Top Gear and several others.
+
+19
+00:00:48,385 --> 00:00:49,858
+Where they disagree,
+
+20
+00:00:49,858 --> 00:00:51,404
+we show both figures.
+
+21
+00:00:51,584 --> 00:00:54,057
+Our own arithmetic is labelled.
+
+22
+00:00:54,406 --> 00:00:57,166
+The DB5 has a four-litre inline six,
+
+23
+00:00:57,166 --> 00:01:01,613
+three thousand nine hundred ninety-five cubic centimetres,
+
+24
+00:01:01,613 --> 00:01:03,682
+with three SU carburettors,
+
+25
+00:01:03,682 --> 00:01:04,832
+says Wikipedia.
+
+26
+00:01:05,012 --> 00:01:08,140
+It makes two hundred eighty-two brake horsepower
+
+27
+00:01:08,140 --> 00:01:10,877
+at fifty-five hundred revs and two hundred
+
+28
+00:01:10,877 --> 00:01:13,093
+eighty-eight pound-feet of torque.
+
+29
+00:01:13,273 --> 00:01:16,230
+The DB12 has a four-litre twin-turbo V8
+
+30
+00:01:16,230 --> 00:01:20,021
+making six hundred seventy-one horsepower and five
+
+31
+00:01:20,021 --> 00:01:21,992
+hundred ninety pound-feet.
+
+32
+00:01:22,172 --> 00:01:24,610
+Same displacement, different world.
+
+33
+00:01:24,960 --> 00:01:26,419
+By our arithmetic,
+
+34
+00:01:26,419 --> 00:01:29,258
+the DB12 makes two point four times
+
+35
+00:01:29,258 --> 00:01:32,259
+the DB5's horsepower and two point oh
+
+36
+00:01:32,259 --> 00:01:35,097
+five times its torque from the same
+
+37
+00:01:35,097 --> 00:01:36,070
+four litres.
+
+38
+00:01:36,250 --> 00:01:38,686
+That is the effect of turbochargers and
+
+39
+00:01:38,686 --> 00:01:40,372
+sixty years of engineering.
+
+40
+00:01:40,552 --> 00:01:43,096
+Wikipedia does not say how much of
+
+41
+00:01:43,096 --> 00:01:45,490
+the gain comes from each change,
+
+42
+00:01:45,490 --> 00:01:47,959
+and neither do our other sources,
+
+43
+00:01:47,959 --> 00:01:49,979
+so we do not break it down.
+
+44
+00:01:50,330 --> 00:01:52,738
+Per litre, by our arithmetic,
+
+45
+00:01:52,738 --> 00:01:56,642
+the DB5 makes about seventy-one horsepower from
+
+46
+00:01:56,642 --> 00:01:59,466
+each litre, and the DB12 about one
+
+47
+00:01:59,466 --> 00:02:01,127
+hundred sixty-eight.
+
+48
+00:02:01,307 --> 00:02:04,153
+That uses the displacement of four litres
+
+49
+00:02:04,153 --> 00:02:04,778
+for both.
+
+50
+00:02:04,958 --> 00:02:08,044
+The DB12 page lists the engine code
+
+51
+00:02:08,044 --> 00:02:11,041
+as A E twenty-three in its infobox
+
+52
+00:02:11,041 --> 00:02:15,008
+but names a Mercedes-Benz M one seventy-seven
+
+53
+00:02:15,008 --> 00:02:16,066
+in the text,
+
+54
+00:02:16,066 --> 00:02:19,327
+so even the engine's origin is stated
+
+55
+00:02:19,327 --> 00:02:20,121
+two ways.
+
+56
+00:02:20,471 --> 00:02:23,210
+The DB5 also had a hotter version.
+
+57
+00:02:23,390 --> 00:02:26,970
+Wikipedia says sixty-five Vantage coupes were built
+
+58
+00:02:26,970 --> 00:02:30,761
+from nineteen sixty-four with three Weber carburettors
+
+59
+00:02:30,761 --> 00:02:34,060
+and three hundred twenty-five brake horsepower.
+
+60
+00:02:34,240 --> 00:02:38,003
+RM Sotheby's, describing a Vantage-spec car,
+
+61
+00:02:38,003 --> 00:02:40,997
+rates it at three hundred fourteen.
+
+62
+00:02:41,177 --> 00:02:43,542
+The DB12 has its own upgrade,
+
+63
+00:02:43,542 --> 00:02:44,439
+the DB12 S,
+
+64
+00:02:44,439 --> 00:02:47,700
+unveiled on the eighth of October twenty
+
+65
+00:02:47,700 --> 00:02:51,777
+twenty-five, with seven hundred metric horsepower.
+
+66
+00:02:52,127 --> 00:02:53,580
+By our arithmetic,
+
+67
+00:02:53,580 --> 00:02:57,052
+the DB5 Vantage added about fifteen percent
+
+68
+00:02:57,052 --> 00:02:59,393
+to the standard car's output,
+
+69
+00:02:59,393 --> 00:03:02,703
+from two eighty-two to three twenty-five.
+
+70
+00:03:02,883 --> 00:03:05,697
+The DB12 S adds about three percent,
+
+71
+00:03:05,697 --> 00:03:08,746
+from six eighty to seven hundred metric
+
+72
+00:03:08,746 --> 00:03:09,605
+horsepower.
+
+73
+00:03:09,785 --> 00:03:12,774
+Torque stays at eight hundred newton-metres on
+
+74
+00:03:12,774 --> 00:03:13,164
+the S.
+
+75
+00:03:13,344 --> 00:03:17,177
+Upgrades have become smaller in percentage terms,
+
+76
+00:03:17,177 --> 00:03:19,524
+even as the base car grew much
+
+77
+00:03:19,524 --> 00:03:20,229
+stronger.
+
+78
+00:03:20,579 --> 00:03:21,693
+Acceleration.
+
+79
+00:03:21,873 --> 00:03:25,018
+Wikipedia lists the DB5 at eight seconds
+
+80
+00:03:25,018 --> 00:03:27,298
+to sixty miles per hour and a
+
+81
+00:03:27,298 --> 00:03:30,128
+top speed of one hundred forty-five.
+
+82
+00:03:30,308 --> 00:03:32,699
+The DB12 coupe does zero to one
+
+83
+00:03:32,699 --> 00:03:35,939
+hundred kilometres per hour in three point
+
+84
+00:03:35,939 --> 00:03:38,948
+six seconds, and Kelley Blue Book lists
+
+85
+00:03:38,948 --> 00:03:41,417
+zero to sixty in three point six
+
+86
+00:03:41,417 --> 00:03:42,034
+as well.
+
+87
+00:03:42,214 --> 00:03:44,555
+Its top speed is two hundred two
+
+88
+00:03:44,555 --> 00:03:45,653
+miles per hour,
+
+89
+00:03:45,653 --> 00:03:49,238
+or three hundred twenty-five kilometres per hour.
+
+90
+00:03:49,588 --> 00:03:51,138
+By our arithmetic,
+
+91
+00:03:51,138 --> 00:03:54,153
+the DB12 reaches sixty in less than
+
+92
+00:03:54,153 --> 00:03:55,360
+half the time,
+
+93
+00:03:55,360 --> 00:03:55,532
+2.
+
+94
+00:03:55,712 --> 00:03:57,803
+2 times faster off the line,
+
+95
+00:03:57,803 --> 00:04:00,715
+and has a top speed thirty-nine percent
+
+96
+00:04:00,715 --> 00:04:01,238
+higher.
+
+97
+00:04:01,418 --> 00:04:04,104
+A caution: sixty miles per hour is
+
+98
+00:04:04,104 --> 00:04:06,711
+ninety-seven kilometres per hour,
+
+99
+00:04:06,711 --> 00:04:07,974
+not one hundred,
+
+100
+00:04:07,974 --> 00:04:10,976
+so Wikipedia's zero to one hundred and
+
+101
+00:04:10,976 --> 00:04:13,820
+Kelley Blue Book's zero to sixty are
+
+102
+00:04:13,820 --> 00:04:16,189
+not strictly the same measure,
+
+103
+00:04:16,189 --> 00:04:18,717
+though both say three point six.
+
+104
+00:04:19,067 --> 00:04:21,946
+The DB5's numbers vary by source.
+
+105
+00:04:22,126 --> 00:04:24,775
+A 007 Travelers page gives zero to
+
+106
+00:04:24,775 --> 00:04:27,893
+one hundred kilometres per hour in eight
+
+107
+00:04:27,893 --> 00:04:29,295
+point one seconds,
+
+108
+00:04:29,295 --> 00:04:31,633
+and a top speed of two hundred
+
+109
+00:04:31,633 --> 00:04:34,049
+thirty-two kilometres per hour.
+
+110
+00:04:34,229 --> 00:04:37,405
+Auto123 quotes a company top speed of
+
+111
+00:04:37,405 --> 00:04:39,465
+one hundred forty-seven.
+
+112
+00:04:39,645 --> 00:04:42,207
+The writer there notes that carmakers of
+
+113
+00:04:42,207 --> 00:04:43,871
+the era often exaggerated.
+
+114
+00:04:44,051 --> 00:04:47,252
+In short, the DB5's figures are claims
+
+115
+00:04:47,252 --> 00:04:49,020
+from sixty years ago.
+
+116
+00:04:49,371 --> 00:04:50,627
+Power to weight,
+
+117
+00:04:50,627 --> 00:04:52,041
+by our arithmetic.
+
+118
+00:04:52,221 --> 00:04:55,794
+The DB5: two hundred eighty-two horsepower and
+
+119
+00:04:55,794 --> 00:04:59,133
+fifteen hundred two kilograms is zero point
+
+120
+00:04:59,133 --> 00:05:02,240
+one eight eight horsepower per kilogram.
+
+121
+00:05:02,420 --> 00:05:03,770
+The DB12 coupe:
+
+122
+00:05:03,770 --> 00:05:08,001
+six seventy-one and sixteen eighty-five is zero
+
+123
+00:05:08,001 --> 00:05:10,071
+point three nine eight.
+
+124
+00:05:10,251 --> 00:05:12,538
+That is two point one times the
+
+125
+00:05:12,538 --> 00:05:15,194
+DB5's, so the power gain outruns the
+
+126
+00:05:15,194 --> 00:05:16,079
+weight gain.
+
+127
+00:05:16,430 --> 00:05:18,217
+And here is the surprise.
+
+128
+00:05:18,397 --> 00:05:20,754
+The DB12 is heavier.
+
+129
+00:05:20,934 --> 00:05:24,302
+Wikipedia gives its kerb weight as sixteen
+
+130
+00:05:24,302 --> 00:05:28,231
+eighty-five kilograms for the coupe and seventeen
+
+131
+00:05:28,231 --> 00:05:30,396
+ninety-six for the Volante.
+
+132
+00:05:30,576 --> 00:05:33,549
+The DB5 is fifteen hundred two.
+
+133
+00:05:33,729 --> 00:05:35,037
+By our arithmetic,
+
+134
+00:05:35,037 --> 00:05:38,089
+the modern car is one hundred eighty-three
+
+135
+00:05:38,089 --> 00:05:40,924
+kilograms heavier, twelve percent more,
+
+136
+00:05:40,924 --> 00:05:43,976
+and the Volante is two hundred ninety-four
+
+137
+00:05:43,976 --> 00:05:46,592
+heavier, nearly twenty percent more.
+
+138
+00:05:46,943 --> 00:05:49,731
+Kelley Blue Book gives different weights:
+
+139
+00:05:49,731 --> 00:05:52,995
+three thousand nine hundred forty-two pounds for
+
+140
+00:05:52,995 --> 00:05:55,919
+the coupe and forty-one eighty-four for the
+
+141
+00:05:55,919 --> 00:05:56,463
+Volante.
+
+142
+00:05:56,643 --> 00:05:57,650
+By our arithmetic,
+
+143
+00:05:57,650 --> 00:06:00,617
+that is seventeen eighty-eight kilograms and eighteen
+
+144
+00:06:00,617 --> 00:06:01,345
+ninety-eight.
+
+145
+00:06:01,525 --> 00:06:04,889
+Wikipedia's figure, thirty-seven fifteen pounds,
+
+146
+00:06:04,889 --> 00:06:08,394
+is therefore about two hundred twenty-seven pounds
+
+147
+00:06:08,394 --> 00:06:08,955
+lighter.
+
+148
+00:06:09,135 --> 00:06:10,765
+The sources conflict,
+
+149
+00:06:10,765 --> 00:06:12,939
+and we cannot say which is a
+
+150
+00:06:12,939 --> 00:06:14,569
+dry or a kerb weight.
+
+151
+00:06:14,919 --> 00:06:17,310
+The older car is also lighter than
+
+152
+00:06:17,310 --> 00:06:19,702
+its own spec sheets sometimes say.
+
+153
+00:06:19,882 --> 00:06:24,059
+The 007 Travelers page gives fourteen sixty-five
+
+154
+00:06:24,059 --> 00:06:28,496
+kilograms, against Wikipedia's fifteen hundred two.
+
+155
+00:06:28,676 --> 00:06:29,994
+By our arithmetic,
+
+156
+00:06:29,994 --> 00:06:32,996
+the difference is thirty-seven kilograms,
+
+157
+00:06:32,996 --> 00:06:34,899
+or two and a half percent.
+
+158
+00:06:35,079 --> 00:06:36,484
+Whichever you pick,
+
+159
+00:06:36,484 --> 00:06:38,923
+the DB12 is heavier than the DB5,
+
+160
+00:06:38,923 --> 00:06:42,250
+by between one hundred eighty-three and three
+
+161
+00:06:42,250 --> 00:06:44,542
+hundred twenty-three kilograms.
+
+162
+00:06:44,892 --> 00:06:47,016
+Why is the modern car heavier?
+
+163
+00:06:47,196 --> 00:06:48,880
+Our sources do not say.
+
+164
+00:06:49,060 --> 00:06:51,629
+The Wikipedia entry notes the DB12 is
+
+165
+00:06:51,629 --> 00:06:54,823
+front mid-engined and rear-wheel drive with an
+
+166
+00:06:54,823 --> 00:06:58,087
+eight-speed automatic, and that the Volante has
+
+167
+00:06:58,087 --> 00:06:59,961
+an eight-layer fabric roof.
+
+168
+00:07:00,141 --> 00:07:03,761
+Safety systems, infotainment and a larger body
+
+169
+00:07:03,761 --> 00:07:05,414
+are plausible causes,
+
+170
+00:07:05,414 --> 00:07:07,460
+but that is our inference,
+
+171
+00:07:07,460 --> 00:07:09,348
+not a documented reason.
+
+172
+00:07:09,698 --> 00:07:10,731
+Size next.
+
+173
+00:07:10,911 --> 00:07:14,451
+Wikipedia lists the DB5 at forty-five seventy
+
+174
+00:07:14,451 --> 00:07:17,834
+millimetres long, sixteen eighty wide and a
+
+175
+00:07:17,834 --> 00:07:20,744
+wheelbase of twenty-four eighty-nine.
+
+176
+00:07:20,924 --> 00:07:23,983
+The DB12 is forty-seven twenty-five long,
+
+177
+00:07:23,983 --> 00:07:27,339
+nineteen eighty wide and twenty-eight oh five
+
+178
+00:07:27,339 --> 00:07:28,607
+on the wheelbase,
+
+179
+00:07:28,607 --> 00:07:31,292
+with a height of twelve ninety-five.
+
+180
+00:07:31,472 --> 00:07:33,962
+The DB5's height is not in the
+
+181
+00:07:33,962 --> 00:07:35,373
+passages we used.
+
+182
+00:07:35,724 --> 00:07:37,185
+By our arithmetic,
+
+183
+00:07:37,185 --> 00:07:40,920
+the DB12 is one hundred fifty-five millimetres
+
+184
+00:07:40,920 --> 00:07:44,737
+longer, but three hundred millimetres wider and
+
+185
+00:07:44,737 --> 00:07:48,553
+three hundred sixteen millimetres longer in the
+
+186
+00:07:48,553 --> 00:07:49,365
+wheelbase.
+
+187
+00:07:49,545 --> 00:07:51,971
+That is about six inches longer,
+
+188
+00:07:51,971 --> 00:07:55,079
+nearly twelve inches wider and twelve and
+
+189
+00:07:55,079 --> 00:07:57,428
+a half inches in the wheelbase.
+
+190
+00:07:57,608 --> 00:07:59,861
+The modern car grew mostly in width,
+
+191
+00:07:59,861 --> 00:08:01,675
+which is why it feels so much
+
+192
+00:08:01,675 --> 00:08:02,113
+bigger.
+
+193
+00:08:02,463 --> 00:08:03,995
+Seats are a question.
+
+194
+00:08:04,175 --> 00:08:06,879
+Kelley Blue Book lists four seats for
+
+195
+00:08:06,879 --> 00:08:09,948
+the DB12, and Wikipedia's headline for the
+
+196
+00:08:09,948 --> 00:08:12,505
+DB12 S calls it the brand's fastest
+
+197
+00:08:12,505 --> 00:08:13,382
+four-seater.
+
+198
+00:08:13,562 --> 00:08:16,230
+The DB5's seat count is not stated
+
+199
+00:08:16,230 --> 00:08:18,113
+in the passages we used.
+
+200
+00:08:18,293 --> 00:08:19,007
+We do not claim it is a
+
+201
+00:08:19,007 --> 00:08:20,373
+two-plus-two, because our sources do not say
+
+202
+00:08:20,373 --> 00:08:21,770
+so, though the shooting brake and convertible
+
+203
+00:08:21,770 --> 00:08:22,670
+variants are well documented.
+
+204
+00:08:23,020 --> 00:08:25,052
+The DB12's cargo capacity,
+
+205
+00:08:25,052 --> 00:08:26,615
+by Kelley Blue Book,
+
+206
+00:08:26,615 --> 00:08:29,272
+is nine point three cubic feet for
+
+207
+00:08:29,272 --> 00:08:32,008
+the coupe and seven point three for
+
+208
+00:08:32,008 --> 00:08:32,946
+the Volante.
+
+209
+00:08:33,126 --> 00:08:35,715
+Fuel tank twenty point six gallons.
+
+210
+00:08:35,895 --> 00:08:38,783
+The DB5's boot and tank sizes are
+
+211
+00:08:38,783 --> 00:08:40,446
+not in our sources.
+
+212
+00:08:40,626 --> 00:08:43,252
+Top Gear's account does mention that a
+
+213
+00:08:43,252 --> 00:08:45,670
+crew member had to squeeze into the
+
+214
+00:08:45,670 --> 00:08:48,365
+DB5's boot to trigger the smoke screen,
+
+215
+00:08:48,365 --> 00:08:50,646
+which says little about capacity.
+
+216
+00:08:50,996 --> 00:08:51,982
+Transmission.
+
+217
+00:08:52,162 --> 00:08:54,893
+The DB5 had a five-speed ZF manual,
+
+218
+00:08:54,893 --> 00:08:58,482
+with a three-speed Borg-Warner automatic as an
+
+219
+00:08:58,482 --> 00:09:01,604
+option later changed to the Model eight,
+
+220
+00:09:01,604 --> 00:09:02,774
+says Wikipedia.
+
+221
+00:09:02,954 --> 00:09:06,832
+The DB12 has an eight-speed ZF automatic,
+
+222
+00:09:06,832 --> 00:09:09,386
+the eight H P seventy-five.
+
+223
+00:09:09,566 --> 00:09:12,650
+The DB12 S recalibrates it for fifty
+
+224
+00:09:12,650 --> 00:09:14,535
+percent faster shifts.
+
+225
+00:09:14,715 --> 00:09:16,112
+By our arithmetic,
+
+226
+00:09:16,112 --> 00:09:18,751
+the modern car's top gear count is
+
+227
+00:09:18,751 --> 00:09:20,148
+eight versus five.
+
+228
+00:09:20,499 --> 00:09:24,031
+The DB12 Volante has an eight-layer fabric
+
+229
+00:09:24,031 --> 00:09:27,311
+roof that opens in fourteen seconds and
+
+230
+00:09:27,311 --> 00:09:28,825
+closes in sixteen,
+
+231
+00:09:28,825 --> 00:09:31,852
+at speeds up to thirty-one miles per
+
+232
+00:09:31,852 --> 00:09:34,291
+hour, according to Wikipedia.
+
+233
+00:09:34,471 --> 00:09:38,006
+It says the Volante's torsional rigidity is
+
+234
+00:09:38,006 --> 00:09:41,623
+five percent better than the DB11 Volante's.
+
+235
+00:09:41,803 --> 00:09:44,925
+The DB5 convertible's roof details are not
+
+236
+00:09:44,925 --> 00:09:46,041
+in our sources.
+
+237
+00:09:46,391 --> 00:09:49,003
+Convertibles are a good place to compare.
+
+238
+00:09:49,183 --> 00:09:53,282
+Wikipedia says one hundred twenty-three DB5 convertibles
+
+239
+00:09:53,282 --> 00:09:56,870
+were built in nineteen sixty-three to sixty-five,
+
+240
+00:09:56,870 --> 00:10:00,017
+nineteen of them left-hand drive and twelve
+
+241
+00:10:00,017 --> 00:10:02,360
+with the factory Vantage engine.
+
+242
+00:10:02,540 --> 00:10:07,731
+Then thirty-seven short-chassis Volantes followed between October
+
+243
+00:10:07,731 --> 00:10:11,085
+nineteen sixty-five and October sixty-six.
+
+244
+00:10:11,265 --> 00:10:13,968
+The DB12 Volante was unveiled on the
+
+245
+00:10:13,968 --> 00:10:17,047
+fourteenth of August twenty twenty-three.
+
+246
+00:10:17,397 --> 00:10:18,970
+The DB12's designer,
+
+247
+00:10:18,970 --> 00:10:20,780
+according to Wikipedia,
+
+248
+00:10:20,780 --> 00:10:23,770
+is Aston Martin's head of design Marek
+
+249
+00:10:23,770 --> 00:10:24,479
+Reichman.
+
+250
+00:10:24,659 --> 00:10:26,622
+It was assembled in Gaydon,
+
+251
+00:10:26,622 --> 00:10:29,748
+Warwickshire, and is the first Aston Martin
+
+252
+00:10:29,748 --> 00:10:31,857
+to wear the brand's new logo.
+
+253
+00:10:32,037 --> 00:10:33,364
+The DB5's body,
+
+254
+00:10:33,364 --> 00:10:34,602
+says Top Gear,
+
+255
+00:10:34,602 --> 00:10:38,230
+was a Touring design finessed by Federico
+
+256
+00:10:38,230 --> 00:10:39,026
+Formenti.
+
+257
+00:10:39,206 --> 00:10:43,065
+RM Sotheby's calls it Superleggera construction,
+
+258
+00:10:43,065 --> 00:10:45,557
+licensed from Touring of Milan.
+
+259
+00:10:45,907 --> 00:10:49,150
+The DB12 was unveiled on the twenty-fourth
+
+260
+00:10:49,150 --> 00:10:52,239
+of May twenty twenty-three at the Cannes
+
+261
+00:10:52,239 --> 00:10:54,556
+Film Festival, says Wikipedia.
+
+262
+00:10:54,736 --> 00:10:57,396
+The DB5 reached fame through a film
+
+263
+00:10:57,396 --> 00:10:59,601
+too, but sixty years earlier.
+
+264
+00:10:59,781 --> 00:11:02,489
+Whether the choice of Cannes was meant
+
+265
+00:11:02,489 --> 00:11:04,913
+to echo the Bond connection is not
+
+266
+00:11:04,913 --> 00:11:06,481
+stated in our sources,
+
+267
+00:11:06,481 --> 00:11:09,832
+and Wikipedia mentions no Goldfinger edition of
+
+268
+00:11:09,832 --> 00:11:10,473
+the DB12.
+
+269
+00:11:10,824 --> 00:11:13,041
+The DB5, Carole Nash says,
+
+270
+00:11:13,041 --> 00:11:16,965
+was named after industrialist Sir David Brown.
+
+271
+00:11:17,145 --> 00:11:20,141
+The DB12 carries the same two letters.
+
+272
+00:11:20,321 --> 00:11:22,879
+Our sources do not say what the
+
+273
+00:11:22,879 --> 00:11:24,695
+DB in DB12 stands for,
+
+274
+00:11:24,695 --> 00:11:27,254
+or whether the DB12 is named in
+
+275
+00:11:27,254 --> 00:11:30,886
+his honour, though the lineage is plausible.
+
+276
+00:11:31,066 --> 00:11:33,005
+We mark that as an inference.
+
+277
+00:11:33,185 --> 00:11:35,520
+Production years: the DB5,
+
+278
+00:11:35,520 --> 00:11:39,561
+nineteen sixty-three to sixty-five; the DB12,
+
+279
+00:11:39,561 --> 00:11:42,705
+twenty twenty-three to the present.
+
+280
+00:11:43,055 --> 00:11:43,963
+Now the price,
+
+281
+00:11:43,963 --> 00:11:46,038
+where the direction flips again.
+
+282
+00:11:46,218 --> 00:11:49,024
+A new DB5 cost four thousand one
+
+283
+00:11:49,024 --> 00:11:51,480
+hundred seventy-five pounds,
+
+284
+00:11:51,480 --> 00:11:54,549
+per RM Sotheby's and 007 Travelers,
+
+285
+00:11:54,549 --> 00:11:58,494
+though Auto123 says four thousand two hundred
+
+286
+00:11:58,494 --> 00:11:59,547
+forty-eight.
+
+287
+00:11:59,727 --> 00:12:02,367
+A new DB12 coupe has a manufacturer's
+
+288
+00:12:02,367 --> 00:12:05,793
+suggested retail price of two hundred forty-nine
+
+289
+00:12:05,793 --> 00:12:09,004
+thousand dollars, and the Volante two hundred
+
+290
+00:12:09,004 --> 00:12:12,216
+sixty-nine, according to Kelley Blue Book for
+
+291
+00:12:12,216 --> 00:12:14,286
+the twenty twenty-five model.
+
+292
+00:12:14,636 --> 00:12:16,586
+Today the roles reverse.
+
+293
+00:12:16,766 --> 00:12:20,684
+Hagerty's April twenty twenty-five guide shows six
+
+294
+00:12:20,684 --> 00:12:24,603
+hundred fifty-nine thousand dollars for a nineteen
+
+295
+00:12:24,603 --> 00:12:27,659
+sixty-five DB5, a ten point two percent
+
+296
+00:12:27,659 --> 00:12:28,051
+rise.
+
+297
+00:12:28,231 --> 00:12:29,724
+By our arithmetic,
+
+298
+00:12:29,724 --> 00:12:32,380
+that is two point six five times
+
+299
+00:12:32,380 --> 00:12:34,454
+the DB12's sticker price.
+
+300
+00:12:34,634 --> 00:12:37,060
+The Hagerty page does not label the
+
+301
+00:12:37,060 --> 00:12:40,527
+condition, and elsewhere cites about eight hundred
+
+302
+00:12:40,527 --> 00:12:43,439
+sixty thousand for a good-condition car of
+
+303
+00:12:43,439 --> 00:12:44,340
+average spec.
+
+304
+00:12:44,690 --> 00:12:47,351
+Kelley Blue Book lists a fair purchase
+
+305
+00:12:47,351 --> 00:12:50,782
+price of two hundred ninety-nine thousand dollars
+
+306
+00:12:50,782 --> 00:12:51,763
+for the coupe,
+
+307
+00:12:51,763 --> 00:12:53,023
+above its sticker,
+
+308
+00:12:53,023 --> 00:12:55,965
+and two hundred fifty-six thousand for the
+
+309
+00:12:55,965 --> 00:12:57,855
+Volante, below its sticker.
+
+310
+00:12:58,035 --> 00:12:59,251
+That is odd,
+
+311
+00:12:59,251 --> 00:13:02,795
+since the Volante's MSRP is higher.
+
+312
+00:13:02,975 --> 00:13:05,615
+We report the numbers as published and
+
+313
+00:13:05,615 --> 00:13:07,004
+cannot explain them.
+
+314
+00:13:07,184 --> 00:13:08,576
+By our arithmetic,
+
+315
+00:13:08,576 --> 00:13:11,745
+the coupe's fair purchase price is twenty
+
+316
+00:13:11,745 --> 00:13:13,523
+percent above its MSRP.
+
+317
+00:13:13,873 --> 00:13:16,219
+There is also the third car:
+
+318
+00:13:16,219 --> 00:13:18,900
+the DB5 Goldfinger Continuation.
+
+319
+00:13:19,080 --> 00:13:21,767
+Wikipedia says twenty-five were built,
+
+320
+00:13:21,767 --> 00:13:23,465
+from July twenty twenty,
+
+321
+00:13:23,465 --> 00:13:26,082
+at about two point seven five million
+
+322
+00:13:26,082 --> 00:13:29,053
+pounds each, with two hundred ninety brake
+
+323
+00:13:29,053 --> 00:13:29,831
+horsepower.
+
+324
+00:13:30,011 --> 00:13:32,527
+CNN converts that to three and a
+
+325
+00:13:32,527 --> 00:13:34,179
+half million dollars.
+
+326
+00:13:34,359 --> 00:13:36,061
+By our arithmetic,
+
+327
+00:13:36,061 --> 00:13:39,940
+a continuation car costs fourteen times a
+
+328
+00:13:39,940 --> 00:13:41,359
+new DB12 coupe.
+
+329
+00:13:41,710 --> 00:13:45,200
+Fuel economy: Kelley Blue Book lists fifteen
+
+330
+00:13:45,200 --> 00:13:47,501
+miles per gallon in the city,
+
+331
+00:13:47,501 --> 00:13:51,309
+twenty-two on the highway and seventeen combined
+
+332
+00:13:51,309 --> 00:13:52,340
+for the DB12,
+
+333
+00:13:52,340 --> 00:13:53,610
+on premium fuel.
+
+334
+00:13:53,790 --> 00:13:56,528
+With the twenty point six gallon tank,
+
+335
+00:13:56,528 --> 00:13:57,824
+by our arithmetic,
+
+336
+00:13:57,824 --> 00:14:01,427
+seventeen combined gives about three hundred fifty
+
+337
+00:14:01,427 --> 00:14:01,859
+miles.
+
+338
+00:14:02,039 --> 00:14:05,115
+The DB5's consumption and tank size are
+
+339
+00:14:05,115 --> 00:14:06,613
+not in our sources.
+
+340
+00:14:06,963 --> 00:14:09,996
+The DB12's warranty is three years with
+
+341
+00:14:09,996 --> 00:14:13,186
+unlimited mileage, says Kelley Blue Book.
+
+342
+00:14:13,366 --> 00:14:15,140
+The DB5 has no warranty,
+
+343
+00:14:15,140 --> 00:14:17,433
+which is not in our sources and
+
+344
+00:14:17,433 --> 00:14:20,021
+is our statement of the obvious for
+
+345
+00:14:20,021 --> 00:14:21,574
+a sixty-year-old car.
+
+346
+00:14:21,754 --> 00:14:24,168
+What our sources do show is an
+
+347
+00:14:24,168 --> 00:14:27,708
+RM Sotheby's DB5 with a new air-conditioning
+
+348
+00:14:27,708 --> 00:14:31,812
+system, LED headlamps and electronic ignition added
+
+349
+00:14:31,812 --> 00:14:33,341
+during restoration.
+
+350
+00:14:33,691 --> 00:14:37,391
+The DB12 supports Android Auto and Apple
+
+351
+00:14:37,391 --> 00:14:39,612
+CarPlay, Wikipedia says.
+
+352
+00:14:39,792 --> 00:14:42,573
+The DB5 offered chrome wire wheels,
+
+353
+00:14:42,573 --> 00:14:45,672
+electric windows and full leather trim,
+
+354
+00:14:45,672 --> 00:14:46,943
+per Carole Nash.
+
+355
+00:14:47,123 --> 00:14:48,392
+By our arithmetic,
+
+356
+00:14:48,392 --> 00:14:50,507
+that is a gap of exactly sixty
+
+357
+00:14:50,507 --> 00:14:53,538
+years in the technology of the infotainment
+
+358
+00:14:53,538 --> 00:14:57,203
+system, and about one hundred fifty-five millimetres
+
+359
+00:14:57,203 --> 00:14:58,966
+in the length of the car.
+
+360
+00:14:59,316 --> 00:15:02,383
+Let us convert price into performance,
+
+361
+00:15:02,383 --> 00:15:05,047
+using the sticker of the DB12 and
+
+362
+00:15:05,047 --> 00:15:07,549
+the Hagerty figure for the DB5,
+
+363
+00:15:07,549 --> 00:15:09,486
+with every caveat above.
+
+364
+00:15:09,666 --> 00:15:12,769
+The DB12 coupe at two hundred forty-nine
+
+365
+00:15:12,769 --> 00:15:16,880
+thousand dollars and six seventy-one horsepower comes
+
+366
+00:15:16,880 --> 00:15:20,913
+to three hundred seventy-one dollars per horsepower,
+
+367
+00:15:20,913 --> 00:15:22,309
+by our arithmetic.
+
+368
+00:15:22,489 --> 00:15:25,457
+The DB5 at six hundred fifty-nine thousand
+
+369
+00:15:25,457 --> 00:15:28,989
+and two hundred eighty-two is twenty-three hundred
+
+370
+00:15:28,989 --> 00:15:29,908
+thirty-seven.
+
+371
+00:15:30,258 --> 00:15:32,866
+That makes the DB5 about six point
+
+372
+00:15:32,866 --> 00:15:35,935
+three times as expensive per horsepower.
+
+373
+00:15:36,115 --> 00:15:39,091
+Per kilogram, the DB12 is one hundred
+
+374
+00:15:39,091 --> 00:15:42,227
+forty-eight dollars and the DB5 is four
+
+375
+00:15:42,227 --> 00:15:43,836
+hundred thirty-nine.
+
+376
+00:15:44,016 --> 00:15:47,178
+Nobody buys a DB5 for the horsepower,
+
+377
+00:15:47,178 --> 00:15:48,033
+of course.
+
+378
+00:15:48,213 --> 00:15:51,019
+This arithmetic mostly shows how little the
+
+379
+00:15:51,019 --> 00:15:53,565
+engine figure explains about the price.
+
+380
+00:15:53,745 --> 00:15:56,624
+Rarity, history and film fame drive it.
+
+381
+00:15:56,974 --> 00:15:59,709
+For scale against ordinary incomes,
+
+382
+00:15:59,709 --> 00:16:02,523
+the Census Bureau puts the median U.
+
+383
+00:16:02,703 --> 00:16:03,098
+S.
+
+384
+00:16:03,278 --> 00:16:06,526
+household income for twenty twenty-four at eighty-three
+
+385
+00:16:06,526 --> 00:16:08,769
+thousand seven hundred thirty dollars.
+
+386
+00:16:08,949 --> 00:16:10,276
+By our arithmetic,
+
+387
+00:16:10,276 --> 00:16:13,003
+a DB12 coupe's sticker is about three
+
+388
+00:16:13,003 --> 00:16:14,550
+years of that income,
+
+389
+00:16:14,550 --> 00:16:17,203
+and the Hagerty DB5 figure is nearly
+
+390
+00:16:17,203 --> 00:16:17,645
+eight.
+
+391
+00:16:17,825 --> 00:16:21,195
+Median household income is gross and before
+
+392
+00:16:21,195 --> 00:16:23,389
+tax, so this is only a sense
+
+393
+00:16:23,389 --> 00:16:24,095
+of scale.
+
+394
+00:16:24,445 --> 00:16:27,812
+Against the average new vehicle price of
+
+395
+00:16:27,812 --> 00:16:31,095
+fifty thousand and eighty-nine dollars,
+
+396
+00:16:31,095 --> 00:16:34,379
+from Kelley Blue Book for August twenty
+
+397
+00:16:34,379 --> 00:16:37,830
+twenty-six, the DB12 coupe is almost five
+
+398
+00:16:37,830 --> 00:16:39,261
+average new cars,
+
+399
+00:16:39,261 --> 00:16:41,535
+and the DB5 about thirteen.
+
+400
+00:16:41,715 --> 00:16:44,529
+A DB5 buyer in nineteen sixty-three,
+
+401
+00:16:44,529 --> 00:16:48,673
+paying four thousand one hundred seventy-five pounds,
+
+402
+00:16:48,673 --> 00:16:50,940
+faced a very different ratio,
+
+403
+00:16:50,940 --> 00:16:53,676
+but our sources give no average car
+
+404
+00:16:53,676 --> 00:16:55,240
+price for that year.
+
+405
+00:16:55,590 --> 00:16:57,006
+Where are they built?
+
+406
+00:16:57,186 --> 00:17:00,633
+Wikipedia says the DB12 is assembled at
+
+407
+00:17:00,633 --> 00:17:02,666
+Gaydon in Warwickshire.
+
+408
+00:17:02,846 --> 00:17:06,557
+Ecurie says the Goldfinger gadgets were installed
+
+409
+00:17:06,557 --> 00:17:09,587
+at Aston Martin's Newport Pagnell plant,
+
+410
+00:17:09,587 --> 00:17:12,389
+where Adam and Stears visited in late
+
+411
+00:17:12,389 --> 00:17:13,980
+nineteen sixty-three.
+
+412
+00:17:14,160 --> 00:17:16,427
+Our sources do not say the DB5
+
+413
+00:17:16,427 --> 00:17:18,618
+was built at Newport Pagnell,
+
+414
+00:17:18,618 --> 00:17:22,169
+only that the film modifications were discussed
+
+415
+00:17:22,169 --> 00:17:23,831
+and carried out there.
+
+416
+00:17:24,181 --> 00:17:27,478
+One engineering detail marks the old car.
+
+417
+00:17:27,658 --> 00:17:31,315
+The DB5's bodywork was made with Superleggera
+
+418
+00:17:31,315 --> 00:17:34,972
+construction, licensed from Touring of Milan,
+
+419
+00:17:34,972 --> 00:17:36,435
+says RM Sotheby's,
+
+420
+00:17:36,435 --> 00:17:40,011
+and Carole Nash adds a magnesium-alloy body.
+
+421
+00:17:40,191 --> 00:17:43,955
+Wikipedia's DB12 page does not describe the
+
+422
+00:17:43,955 --> 00:17:47,456
+DB12's body materials in the passages we
+
+423
+00:17:47,456 --> 00:17:50,695
+used, so we cannot compare materials,
+
+424
+00:17:50,695 --> 00:17:53,496
+only note what each source says.
+
+425
+00:17:53,846 --> 00:17:55,019
+And the engine:
+
+426
+00:17:55,019 --> 00:17:58,305
+the DB5's was an all-aluminium four-litre,
+
+427
+00:17:58,305 --> 00:18:01,591
+enlarged from the DB4's three point seven,
+
+428
+00:18:01,591 --> 00:18:04,643
+according to Carole Nash and Wikipedia.
+
+429
+00:18:04,823 --> 00:18:06,603
+The DB12's V8 is,
+
+430
+00:18:06,603 --> 00:18:08,696
+by Wikipedia's text,
+
+431
+00:18:08,696 --> 00:18:10,895
+a Mercedes-Benz unit.
+
+432
+00:18:11,075 --> 00:18:12,458
+By our arithmetic,
+
+433
+00:18:12,458 --> 00:18:15,839
+the displacement grew by about eight percent
+
+434
+00:18:15,839 --> 00:18:17,914
+from the DB4 to the DB5 and
+
+435
+00:18:17,914 --> 00:18:20,680
+then stayed at four litres for sixty
+
+436
+00:18:20,680 --> 00:18:21,141
+years.
+
+437
+00:18:21,491 --> 00:18:23,348
+The V12 is gone.
+
+438
+00:18:23,528 --> 00:18:26,679
+Wikipedia says the five point two litre
+
+439
+00:18:26,679 --> 00:18:29,346
+V12 from the previous model is no
+
+440
+00:18:29,346 --> 00:18:31,527
+longer offered on the DB12.
+
+441
+00:18:31,707 --> 00:18:34,734
+So the lineage changed in a different
+
+442
+00:18:34,734 --> 00:18:38,659
+way: the DB12 dropped the twelve-cylinder engine
+
+443
+00:18:38,659 --> 00:18:41,358
+that Aston Martin had used in its
+
+444
+00:18:41,358 --> 00:18:43,157
+predecessor, the DB11,
+
+445
+00:18:43,157 --> 00:18:46,102
+while the DB5 stayed with its inline
+
+446
+00:18:46,102 --> 00:18:46,429
+six.
+
+447
+00:18:46,609 --> 00:18:49,082
+Neither car's engine layout is the same
+
+448
+00:18:49,082 --> 00:18:49,906
+as the other.
+
+449
+00:18:50,256 --> 00:18:53,167
+In terms of production,
+
+450
+00:18:53,167 --> 00:18:56,078
+the DB5 total is 1,059,
+
+451
+00:18:56,078 --> 00:18:59,242
+says Wikipedia's infobox.
+
+452
+00:18:59,422 --> 00:19:02,142
+The DB12 is still in production,
+
+453
+00:19:02,142 --> 00:19:04,693
+and our sources give no count.
+
+454
+00:19:04,873 --> 00:19:08,727
+Wikipedia lists model years twenty twenty-four onward.
+
+455
+00:19:08,907 --> 00:19:10,208
+By our arithmetic,
+
+456
+00:19:10,208 --> 00:19:12,736
+if the DB12 matched the DB5's total
+
+457
+00:19:12,736 --> 00:19:14,687
+over its first three years,
+
+458
+00:19:14,687 --> 00:19:17,071
+it would need to sell about three
+
+459
+00:19:17,071 --> 00:19:18,950
+hundred fifty cars a year.
+
+460
+00:19:19,130 --> 00:19:21,440
+We have no sales data to compare.
+
+461
+00:19:21,790 --> 00:19:22,935
+Let us summarise,
+
+462
+00:19:22,935 --> 00:19:25,226
+with the figures our sources give.
+
+463
+00:19:25,406 --> 00:19:28,931
+Power: two hundred eighty-two against six hundred
+
+464
+00:19:28,931 --> 00:19:29,795
+seventy-one.
+
+465
+00:19:29,975 --> 00:19:33,806
+Torque: two eighty-eight against five ninety pound-feet.
+
+466
+00:19:33,986 --> 00:19:35,152
+Zero to sixty:
+
+467
+00:19:35,152 --> 00:19:38,317
+eight seconds against three point six.
+
+468
+00:19:38,497 --> 00:19:42,239
+Top speed: one forty-five against two hundred
+
+469
+00:19:42,239 --> 00:19:42,572
+two.
+
+470
+00:19:42,752 --> 00:19:47,467
+Weight: fifteen hundred two against sixteen eighty-five
+
+471
+00:19:47,467 --> 00:19:48,324
+kilograms.
+
+472
+00:19:48,504 --> 00:19:53,694
+Length: forty-five seventy against forty-seven twenty-five millimetres.
+
+473
+00:19:54,044 --> 00:19:55,500
+By our arithmetic,
+
+474
+00:19:55,500 --> 00:19:58,413
+that gives ratios of two point four,
+
+475
+00:19:58,413 --> 00:19:59,465
+two point oh,
+
+476
+00:19:59,465 --> 00:20:00,598
+two point two,
+
+477
+00:20:00,598 --> 00:20:01,812
+one point four,
+
+478
+00:20:01,812 --> 00:20:04,239
+one point one and one point oh
+
+479
+00:20:04,239 --> 00:20:04,725
+three.
+
+480
+00:20:04,905 --> 00:20:07,251
+The DB12 is far ahead on power,
+
+481
+00:20:07,251 --> 00:20:09,067
+torque and acceleration,
+
+482
+00:20:09,067 --> 00:20:11,338
+moderately ahead on top speed,
+
+483
+00:20:11,338 --> 00:20:14,138
+and only slightly ahead on weight and
+
+484
+00:20:14,138 --> 00:20:16,182
+length, where it is bigger,
+
+485
+00:20:16,182 --> 00:20:17,014
+not better.
+
+486
+00:20:17,194 --> 00:20:18,560
+We state the ratios,
+
+487
+00:20:18,560 --> 00:20:19,516
+not a verdict.
+
+488
+00:20:19,866 --> 00:20:21,867
+A word about where the figures come
+
+489
+00:20:21,867 --> 00:20:22,153
+from.
+
+490
+00:20:22,333 --> 00:20:25,343
+The DB5 numbers are claims from the
+
+491
+00:20:25,343 --> 00:20:30,332
+nineteen sixties, repeated in encyclopedias and magazines.
+
+492
+00:20:30,512 --> 00:20:33,606
+The DB12 numbers are the maker's figures,
+
+493
+00:20:33,606 --> 00:20:36,851
+repeated by Wikipedia and Kelley Blue Book.
+
+494
+00:20:37,031 --> 00:20:39,515
+We have no independent track test of
+
+495
+00:20:39,515 --> 00:20:41,309
+either car in our sources,
+
+496
+00:20:41,309 --> 00:20:43,517
+so every number here is a claim,
+
+497
+00:20:43,517 --> 00:20:45,448
+and we have tried to say so.
+
+498
+00:20:45,799 --> 00:20:48,016
+Finally, a note on timing.
+
+499
+00:20:48,196 --> 00:20:50,604
+The DB5 was built for just three
+
+500
+00:20:50,604 --> 00:20:54,818
+years, from nineteen sixty-three to nineteen sixty-five,
+
+501
+00:20:54,818 --> 00:20:56,172
+and then replaced.
+
+502
+00:20:56,352 --> 00:21:00,074
+The DB12 arrived in twenty twenty-three and,
+
+503
+00:21:00,074 --> 00:21:02,020
+by Wikipedia's account,
+
+504
+00:21:02,020 --> 00:21:04,557
+already has a Volante and an S
+
+505
+00:21:04,557 --> 00:21:05,234
+version.
+
+506
+00:21:05,414 --> 00:21:06,760
+By our arithmetic,
+
+507
+00:21:06,760 --> 00:21:09,451
+the DB12 lineup grew by two variants
+
+508
+00:21:09,451 --> 00:21:11,469
+in its first two and a half
+
+509
+00:21:11,469 --> 00:21:14,535
+years, and the DB5's lifetime was shorter
+
+510
+00:21:14,535 --> 00:21:15,282
+than that.
+
+511
+00:21:15,633 --> 00:21:17,688
+So what is the real difference?
+
+512
+00:21:17,868 --> 00:21:20,783
+The DB12 is quicker in every measurable
+
+513
+00:21:20,783 --> 00:21:22,128
+way except weight.
+
+514
+00:21:22,308 --> 00:21:23,163
+It is wider,
+
+515
+00:21:23,163 --> 00:21:25,726
+more powerful and cheaper than a DB5
+
+516
+00:21:25,726 --> 00:21:27,150
+in the market today.
+
+517
+00:21:27,330 --> 00:21:29,265
+The DB5 is lighter,
+
+518
+00:21:29,265 --> 00:21:31,709
+rarer, with 1,059 built,
+
+519
+00:21:31,709 --> 00:21:34,458
+and carries a film history.
+
+520
+00:21:34,638 --> 00:21:37,767
+One is a performance product; the other
+
+521
+00:21:37,767 --> 00:21:39,131
+is a collectible.
+
+522
+00:21:39,482 --> 00:21:42,663
+The DB5's film connection runs deep.
+
+523
+00:21:42,843 --> 00:21:45,552
+Wikipedia says four DB5s were made for
+
+524
+00:21:45,552 --> 00:21:49,258
+Goldfinger, and the Thunderball promotional car sold
+
+525
+00:21:49,258 --> 00:21:51,896
+for six point four million dollars in
+
+526
+00:21:51,896 --> 00:21:53,036
+twenty nineteen.
+
+527
+00:21:53,216 --> 00:21:56,121
+The DB12 has no such history in
+
+528
+00:21:56,121 --> 00:21:57,245
+our sources.
+
+529
+00:21:57,425 --> 00:21:58,870
+By our arithmetic,
+
+530
+00:21:58,870 --> 00:22:02,163
+that single Bond car sold for twenty-five
+
+531
+00:22:02,163 --> 00:22:05,134
+times the DB12 coupe's sticker price.
+
+532
+00:22:05,484 --> 00:22:07,606
+Drive each, and you would feel the
+
+533
+00:22:07,606 --> 00:22:08,792
+weight differently.
+
+534
+00:22:08,972 --> 00:22:10,895
+We cannot report how they feel,
+
+535
+00:22:10,895 --> 00:22:13,313
+since none of our sources compares them
+
+536
+00:22:13,313 --> 00:22:14,058
+on the road.
+
+537
+00:22:14,238 --> 00:22:17,016
+Top Gear scored the DB5 six out
+
+538
+00:22:17,016 --> 00:22:18,540
+of ten for speed,
+
+539
+00:22:18,540 --> 00:22:19,974
+eight for skids,
+
+540
+00:22:19,974 --> 00:22:23,201
+and ten for gadgets and star status.
+
+541
+00:22:23,381 --> 00:22:26,065
+Those are the magazine's opinions about a
+
+542
+00:22:26,065 --> 00:22:27,702
+car from a different era,
+
+543
+00:22:27,702 --> 00:22:28,292
+not data.
+
+544
+00:22:28,642 --> 00:22:29,536
+What is missing.
+
+545
+00:22:29,716 --> 00:22:32,483
+A dry-weight figure for either car on
+
+546
+00:22:32,483 --> 00:22:33,605
+the same basis.
+
+547
+00:22:33,785 --> 00:22:35,184
+The DB5's height,
+
+548
+00:22:35,184 --> 00:22:37,489
+seat count and fuel economy.
+
+549
+00:22:37,669 --> 00:22:41,964
+The DB12's exact power-to-price against rivals.
+
+550
+00:22:42,144 --> 00:22:44,629
+Why the DB12 is heavier.
+
+551
+00:22:44,809 --> 00:22:46,875
+A road test of the two together.
+
+552
+00:22:47,055 --> 00:22:49,331
+And the DB12 S's price.
+
+553
+00:22:49,511 --> 00:22:51,850
+If you have primary documents for any
+
+554
+00:22:51,850 --> 00:22:54,062
+of these, put them in the comments.
+
+555
+00:22:54,412 --> 00:22:57,616
+So the difference nobody explains is this.
+
+556
+00:22:57,796 --> 00:22:59,644
+The newer car is faster,
+
+557
+00:22:59,644 --> 00:23:01,877
+wider and much more powerful,
+
+558
+00:23:01,877 --> 00:23:03,647
+but it is also heavier.
+
+559
+00:23:03,827 --> 00:23:06,236
+The older car costs more today than
+
+560
+00:23:06,236 --> 00:23:07,062
+the new one,
+
+561
+00:23:07,062 --> 00:23:09,195
+and it is worth that because of
+
+562
+00:23:09,195 --> 00:23:10,434
+rarity and a film.
+
+563
+00:23:10,614 --> 00:23:13,115
+In the other videos we tell the
+
+564
+00:23:13,115 --> 00:23:15,617
+Bond story, count the cost of a
+
+565
+00:23:15,617 --> 00:23:18,845
+real DB5, and reveal its hidden secrets.
+
+566
+00:23:19,025 --> 00:23:21,568
+Subscribe to Pickup Reality.
