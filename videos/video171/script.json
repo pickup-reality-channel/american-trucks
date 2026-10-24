@@ -105,7 +105,7 @@
    "cuts": 3
   },
   {
-   "text": "By our arithmetic, the Hagerty value of eight hundred forty-four thousand is one hundred eighteen times the nineteen sixty-eight price. The Shelby sale is three hundred fifty-five times. Over fifty-eight years, that works out to an average of about eight and a half percent a year for the Hagerty value, and ten and a half percent a year for the Shelby sale, before inflation, insurance, storage or repairs.",
+   "text": "By our arithmetic, the Hagerty value of eight hundred forty-four thousand is one hundred eighteen times the nineteen sixty-eight price. The Shelby sale is three hundred fifty-five times. Over fifty-eight years, that works out to an average of about eight and a half percent a year for the Hagerty value, and ten and a half percent a year for the Shelby sale, before inflation, insurance, storage or repairs. We adjust for inflation shortly.",
    "query": "Long-run growth",
    "caption": "844,000 \u00f7 7,150 = 118\u00d7 \u00b7 2,535,000 \u00f7 7,150 = 355\u00d7 \u00b7 1968 \u2192 2026 = 58 YEARS \u00b7 118^(1/58) \u2212 1 = 8.6%/YR \u00b7 355^(1/58) \u2212 1 = 10.7%/YR (OUR ARITHMETIC, NOMINAL, BEFORE INFLATION AND COSTS)",
    "cuts": 3
@@ -254,9 +254,9 @@
    "chapter": "What the prices leave out"
   },
   {
-   "text": "Likewise, our sources have no inflation index, so we cannot restate the nineteen sixty-eight price in today's dollars. That matters: seven thousand one hundred fifty dollars then was a lot more money than it is now. Our growth rates are therefore nominal. They overstate real gains, and we cannot say by how much from these sources.",
-   "query": "No inflation figures",
-   "caption": "CPI / INFLATION INDEX: NOT IN OUR SOURCES \u00b7 GROWTH RATES (8.6%, 10.7%) = NOMINAL \u2192 OVERSTATE REAL GAINS BY AN UNKNOWN AMOUNT",
+   "text": "Inflation matters here. Wikipedia converts the nineteen sixty-eight price of seven thousand one hundred fifty dollars to about sixty-six thousand one hundred ninety-seven dollars in twenty twenty-five money. By our arithmetic, Hagerty's typical value is twelve point seven times that, and the Shelby sale is thirty-eight times. Over fifty-seven years, that is about four and a half, and six and a half, percent a year after inflation.",
+   "query": "After inflation",
+   "caption": "WIKIPEDIA (2000GT): $7,150 (1968) \u2248 $66,197 IN 2025 DOLLARS \u00b7 844,000 \u00f7 66,197 = 12.7\u00d7 \u00b7 2,535,000 \u00f7 66,197 = 38.3\u00d7 \u00b7 1968 \u2192 2025 = 57 YEARS \u00b7 12.7^(1/57) \u2212 1 = 4.6%/YR \u00b7 38.3^(1/57) \u2212 1 = 6.6%/YR (OUR ARITHMETIC; WIKIPEDIA'S INFLATION METHOD NOT STATED; 2025 vs 2026 PRICES)",
    "cuts": 3
   },
   {
