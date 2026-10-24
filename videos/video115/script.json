@@ -1,0 +1,320 @@
+{
+ "id": "video115",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "What It Really Costs to Own a Ferrari F40",
+ "scenes": [
+  {
+   "text": "A Ferrari F forty cost about four hundred thousand dollars when it was new. Today the sources we read show sale prices from about three and a half million dollars to eleven million. But the purchase price is only the beginning. One recent preparation bill for a low-mileage F forty, itemised line by line, ran to tens of thousands of dollars before the car even went on sale. This is what it really costs to own a Ferrari F forty.",
+   "query": "Ferrari F40",
+   "caption": "WHAT IT REALLY COSTS TO OWN A FERRARI F40",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We will go through the purchase price, the recent auction results, the maintenance schedule, and the itemised bills we could find. Every figure comes from a published source, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so. And where a source gives no figure, we will not invent one.",
+   "query": "Ferrari F40",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the original price. Wikipedia says the F forty's launch price was about four hundred thousand dollars, roughly five times the price of the two eighty-eight G T O. The car was built for the fortieth anniversary of Ferrari, and it was the last car approved by Enzo Ferrari. Production was planned at four hundred cars, and in the end one thousand, three hundred eleven were built.",
+   "query": "Ferrari F40 launch",
+   "caption": "F40 NEW: ~$400,000 (WIKIPEDIA)",
+   "cuts": 5,
+   "chapter": "What it cost new"
+  },
+  {
+   "text": "Demand outran supply immediately. Wikipedia says that in nineteen eighty-nine, speculators sold cars for up to more than seven times the list price. By our arithmetic, seven times four hundred thousand is at least two million, eight hundred thousand dollars. That was the first price spike, in the very first years of the car's life, and it did not last.",
+   "query": "Ferrari F40 speculators",
+   "caption": "1989: UP TO 7\u00d7 LIST PRICE \u2248 $2.8M+ (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia gives two more data points. Nigel Mansell's F forty sold for one million pounds in nineteen ninety. In twenty fourteen, the same page says, Mansell's car sold at Bonhams for five hundred forty-three thousand, three hundred seventy-five pounds. The pound figures are in different years, so we do not convert them. We only note that the price fell by nearly half between those two sales.",
+   "query": "Nigel Mansell",
+   "caption": "MANSELL'S F40: \u00a31M (1990) \u2192 \u00a3543,375 (2014, BONHAMS)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, five hundred forty-three thousand is about fifty-four percent of one million, so the drop was about forty-six percent in nominal pounds. That is a reminder that the F forty has not gone up in a straight line. A buyer in nineteen ninety might have lost money by twenty fourteen, before the car became the multi-million dollar machine it is today.",
+   "query": "Ferrari F40 price history",
+   "caption": "A 46% NOMINAL DROP IN \u00a3 BETWEEN THOSE TWO SALES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Classic Motorsports puts the F forty at about one million dollars in twenty nineteen. It then reports a Mecum sale at two and a half million dollars in twenty twenty-two, and says values were four million dollars or so in twenty twenty-three. By our arithmetic, that is two and a half times the twenty nineteen price by twenty twenty-two, and a fourfold increase by twenty twenty-three.",
+   "query": "Ferrari F40 value",
+   "caption": "~$1M (2019) \u2192 $2.5M (2022) \u2192 ~$4M (2023) \u00b7 CLASSIC MOTORSPORTS",
+   "cuts": 3,
+   "chapter": "The price curve"
+  },
+  {
+   "text": "Now the twenty twenty-five results from Sotheby's. A nineteen eighty-nine Swiss car sold for two million, nine hundred fifty-eight thousand, one hundred twenty-five Swiss francs in October, with eleven thousand, eight hundred eighty-two kilometres. A restored nineteen eighty-nine car sold for two million, eight hundred seventeen thousand, five hundred euros in May. Both are in the same range as the twenty twenty-two Mecum result.",
+   "query": "Ferrari F40 auction",
+   "caption": "2025: 1989 SWISS CAR CHF 2,958,125 \u00b7 RESTORED 1989 CAR \u20ac2,817,500",
+   "cuts": 3
+  },
+  {
+   "text": "A nineteen ninety-one U S-specification car sold for three million, five hundred eighty thousand dollars in February twenty twenty-five, with three thousand, four hundred thirty-five miles. Sotheby's notes it has non-adjustable suspension. A nineteen ninety car with about thirty-five years in storage and three hundred sixty kilometres sold for three million, eight hundred fifty-five thousand dollars in August.",
+   "query": "Ferrari F40 US-spec",
+   "caption": "2025: 1991 US-SPEC $3.58M (3,435 MI) \u00b7 1990 STORAGE CAR $3.855M (360 KM)",
+   "cuts": 3
+  },
+  {
+   "text": "Alain Prost's nineteen ninety F forty sold for three million, eight hundred eighty-six thousand, two hundred fifty dollars in December, with two thousand, nine hundred sixty-one miles. By our arithmetic, that is about thirty-one thousand dollars above the storage car, a little under one percent more. Celebrity provenance mattered less here than the very low mileage that the two cars shared.",
+   "query": "Alain Prost",
+   "caption": "PROST'S 1990 F40: $3,886,250 \u00b7 +$31K OVER THE STORAGE CAR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "At the top, a nineteen ninety-three F forty L M built by Michelotto sold for eleven million, five thousand dollars in August. Sotheby's says it has about seven hundred sixty horsepower and is one of nineteen Michelotto examples. That is a racing derivative, not a road car. Our own arithmetic puts it at more than two and a half times a standard car's sale price.",
+   "query": "Ferrari F40 LM",
+   "caption": "1993 F40 LM BY MICHELOTTO: $11,005,000 (AUG 2025)",
+   "cuts": 3
+  },
+  {
+   "text": "Autopian reports one more: a nineteen ninety-two F forty sold for five million, two hundred thirty thousand dollars at ModaMiami in February twenty twenty-six. By our arithmetic, that is about thirty-five percent above Prost's car, and the highest standard road car result in our sources. So a standard car today ranges from about three and a half to over five million, depending on mileage, year and condition.",
+   "query": "ModaMiami",
+   "caption": "FEB 2026: 1992 F40 SOLD FOR $5,230,000 (AUTOPIAN)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us be careful with that range. These are individual sales, not an index. Different years, different mileage, different countries, different currencies, different auction houses. We have not found a source that publishes a median or an average, so we do not claim one. The honest statement is that standard cars have recently sold between roughly two point eight million and five point two million.",
+   "query": "Ferrari F40 market",
+   "caption": "RANGE, NOT AN AVERAGE: ~$2.8M TO ~$5.2M (OUR SUMMARY OF CITED SALES)",
+   "cuts": 3
+  },
+  {
+   "text": "Autopian tells the story of one particular car. Lee Iacocca's nineteen ninety-one F forty, chassis eighty-seven three forty-five, was delivered in December nineteen ninety, ordered at Modena. It sold for over one million dollars with two hundred eighteen miles in two thousand six, then again at RM Auctions in January twenty twelve with two hundred eighty-three miles.",
+   "query": "Lee Iacocca",
+   "caption": "IACOCCA'S 1991 F40: 218 MI (2006) \u2192 283 MI (2012)",
+   "cuts": 3,
+   "chapter": "The Iacocca car"
+  },
+  {
+   "text": "By our arithmetic, the car covered sixty-five miles in six years. That is about eleven miles a year. It is a collector's car in the purest sense: bought to be preserved, not driven. And in twenty twenty-six, with three hundred twenty miles, it was prepared for sale at Monterey. By our arithmetic, thirty-seven miles in about fourteen years.",
+   "query": "Ferrari F40 mileage",
+   "caption": "65 MILES IN 6 YEARS \u00b7 37 MILES IN ~14 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And here is the bill. Autopian itemised the preparation at about thirty-four thousand dollars. A coolant tank, four thousand, four hundred twenty-six. Engine service, nearly twenty-one thousand. Tyres, two thousand, six hundred thirty-seven. A headlamp switch, four thousand, two hundred. Those four items alone add up to about thirty-two thousand dollars, by our arithmetic.",
+   "query": "Ferrari F40 service bill",
+   "caption": "COOLANT TANK $4,426 \u00b7 ENGINE SERVICE ~$21K \u00b7 TYRES $2,637 \u00b7 SWITCH $4,200",
+   "cuts": 3
+  },
+  {
+   "text": "A caution on that article. Its headline says sixty thousand dollars and its body says forty thousand, while the itemised list totals about thirty-four thousand. We cannot tell which is right, so we use the itemised figures, which we can add up. The lesson stands either way: a car that barely moved can still need tens of thousands of dollars of work before a sale.",
+   "query": "Autopian F40 article",
+   "caption": "ARTICLE FIGURES DISAGREE: $60K HEADLINE \u00b7 $40K BODY \u00b7 ~$34K ITEMISED",
+   "cuts": 3
+  },
+  {
+   "text": "An earlier invoice helps with scale. Autopian says the same car had a service in two thousand eight that cost about twelve thousand, six hundred dollars. By our arithmetic, the twenty twenty-six preparation was about two and three-quarter times that, in nominal dollars. We do not adjust for inflation, since our sources do not, and the two jobs may not cover the same work.",
+   "query": "Ferrari F40 service history",
+   "caption": "2008 SERVICE ~$12,600 \u2192 2026 PREP ~$34K (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Classic Motorsports describes the routine. The timing belts are replaced every three years. The engine can stay in the car, but the seats and the rear firewall must come out to reach them. Fluids are changed yearly, which it prices at about one thousand dollars. It calls the F forty very durable, and cheaper to run than the F fifty.",
+   "query": "Ferrari F40 service",
+   "caption": "BELTS EVERY 3 YEARS \u00b7 FLUIDS YEARLY ~$1,000 (CLASSIC MOTORSPORTS)",
+   "cuts": 3,
+   "chapter": "The maintenance schedule"
+  },
+  {
+   "text": "Fuel is the long-term issue. Classic Motorsports says the fuel bladders can leak after about ten years, though U S cars had aluminium tanks. Fuel lines are replaced about every ten years. The cars are now nearly forty years old, so every owner has to deal with this, and the cost depends on the car, the market and the shop.",
+   "query": "Ferrari F40 fuel system",
+   "caption": "FUEL BLADDERS CAN LEAK AFTER ~10 YEARS \u00b7 LINES ~EVERY 10 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Italpassion, in May twenty twenty-five, gives a European view. It cites an unnamed YouTuber who quoted a small inspection at seventy thousand euros, covering belts, fluids and fuel tanks. Treat that figure with caution: it is a single anonymous claim, and the itemised list from the same article does not obviously add up to it, as we will see.",
+   "query": "Italpassion",
+   "caption": "'SMALL INSPECTION' \u20ac70,000 (UNNAMED YOUTUBER, VIA ITALPASSION)",
+   "cuts": 3
+  },
+  {
+   "text": "The itemised list. An annual overhaul, three to seven thousand euros. Timing belts, eight to ten thousand. Gearbox or clutch work, fifteen thousand euros or more. Fuel tanks, fifteen to twenty thousand euros per pair. Pirelli tyres, two thousand, five hundred euros. The article values the car at two to four million euros.",
+   "query": "Italpassion F40 costs",
+   "caption": "ANNUAL \u20ac3\u20137K \u00b7 BELTS \u20ac8\u201310K \u00b7 GEARBOX/CLUTCH \u20ac15K+ \u00b7 TANKS \u20ac15\u201320K \u00b7 TYRES \u20ac2.5K",
+   "cuts": 3
+  },
+  {
+   "text": "Add up the belts, the tanks and the overhaul, by our arithmetic: eight plus fifteen plus three is twenty-six thousand euros at the low end, and ten plus twenty plus seven is thirty-seven thousand at the high end. That is well short of seventy thousand. Adding a gearbox job of fifteen thousand and tyres brings the high end to about fifty-four and a half thousand.",
+   "query": "Italpassion arithmetic",
+   "caption": "BELTS+TANKS+OVERHAUL: \u20ac26K\u2013\u20ac37K \u00b7 WITH CLUTCH AND TYRES: UP TO ~\u20ac54.5K (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So the itemised figures do not reach seventy thousand euros, even at the top. That does not prove the claim wrong. The inspection may have included other work that the article does not list. It does show that the seventy thousand figure is not supported by the article's own line items, and we would not plan a budget around it without a quote.",
+   "query": "Ferrari F40 cost check",
+   "caption": "THE \u20ac70K CLAIM IS NOT SUPPORTED BY THE ARTICLE'S OWN LINE ITEMS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now our own arithmetic on the running cost, using Classic Motorsports' yearly fluids, one thousand dollars, and the belt interval of three years. Over thirty years, that is ten belt services and thirty fluid services. Our sources do not give a price for the belt job in dollars, so we cannot total it. The fluid service alone comes to thirty thousand dollars over thirty years.",
+   "query": "Ferrari F40 running cost",
+   "caption": "30 YEARS OF FLUID SERVICES \u2248 $30,000 (OUR ARITHMETIC) \u00b7 BELT COST NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Putting it in perspective"
+  },
+  {
+   "text": "Compare the maintenance to the price. Using the thirty-four thousand dollar preparation as a single big bill against a three point eight eight six million dollar sale, by our arithmetic, that is about zero point nine percent of the car's value. Using the Italpassion high end of fifty-four and a half thousand euros against a two million euro low value, it is about two and three-quarter percent.",
+   "query": "Ferrari F40 ownership",
+   "caption": "BIG SERVICE \u2248 0.9%\u20132.7% OF CAR VALUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "That is the odd thing about owning an F forty. The service bills are large for a normal car, but small against the value. The real cost is the money tied up in the car, and what the market does with it. The nineteen ninety to twenty fourteen drop on Mansell's car shows that this risk is real, even though the recent trend was upward.",
+   "query": "Ferrari F40 investment",
+   "caption": "THE BIGGEST COST IS THE MONEY TIED UP IN THE CAR (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with a truck. Our twenty twenty-seven Truck Buyer's Guide covers what a new pickup costs. A top-trim full-size truck costs a small fraction of the cheapest F forty sale in our sources. We do not quote a truck price here since the guide has them, but the contrast is the point: this is a different kind of purchase, closer to art than to transport.",
+   "query": "Ford F-150",
+   "caption": "A TRUCK IS A DIFFERENT KIND OF PURCHASE \u2014 SEE THE TRUCK BUYER'S GUIDE",
+   "cuts": 3
+  },
+  {
+   "text": "The F forty is also, per Wikipedia, a car with no door handles, no carpets and no sound system, so the cost of ownership does not buy comfort. It buys a way of driving, a place in history, and for some owners, a stored asset. Wikipedia quotes a nineteen ninety estimate that only about ten percent of owners used their cars regularly.",
+   "query": "Ferrari F40 interior",
+   "caption": "~10% OF OWNERS DROVE THEIR CARS REGULARLY (1990 ESTIMATE, WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Before the verdict, what we could not find. We could not find a published average price, a published figure for the timing belt job in dollars, or insurance and storage costs. We also could not verify the seventy thousand euro inspection. If you own an F forty, or work on them, we would be glad to hear from you in the comments, with where your figure comes from.",
+   "query": "Ferrari F40",
+   "caption": "WHAT OUR SOURCES DO NOT TELL US",
+   "cuts": 3
+  },
+  {
+   "text": "So what does it really cost? A purchase price that, in our sources, ranges from about two point eight to five point two million dollars for standard road cars. Annual fluids of about one thousand dollars. Belts every three years. Fuel tanks every ten or so, with a euro quote of fifteen to twenty thousand per pair. And large bills when a low-mileage car is prepared.",
+   "query": "Ferrari F40",
+   "caption": "PURCHASE $2.8M\u2013$5.2M \u00b7 FLUIDS ~$1K/YR \u00b7 BELTS EVERY 3 YRS \u00b7 TANKS EVERY ~10 YRS",
+   "cuts": 3,
+   "chapter": "The real cost"
+  },
+  {
+   "text": "The recent headline price is about three point nine million dollars, from Prost's car. We use that as our reference figure, since it is a documented sale of a standard road car with very low mileage and a famous owner. It is a single data point, and your result could differ by a million dollars either way, as the other sales show.",
+   "query": "Alain Prost's Ferrari F40",
+   "caption": "REFERENCE PRICE: ~$3.9M (PROST'S CAR, DEC 2025)",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a way to see the price curve. At launch, about four hundred thousand dollars for four hundred seventy-eight metric horsepower is about eight hundred thirty-seven dollars per horsepower, by our arithmetic. At Prost's sale price, three million, eight hundred eighty-six thousand dollars, it is about eight thousand, one hundred thirty dollars per horsepower.",
+   "query": "Ferrari F40 engine",
+   "caption": "PRICE PER HP: ~$837 (NEW) \u2192 ~$8,130 (PROST'S CAR) (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The price per horsepower"
+  },
+  {
+   "text": "By our arithmetic, Prost's sale price is about nine and three-quarter times the launch price, in nominal dollars. We do not adjust for inflation, because our sources do not give an inflation figure. A buyer who paid list price in nineteen eighty-seven would, on a car sold at that price, have multiplied the original money by nearly ten, before any maintenance bills.",
+   "query": "Ferrari F40 return",
+   "caption": "PROST'S SALE \u2248 9.7\u00d7 THE LAUNCH PRICE, NOMINAL (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the racing derivative. The F forty L M that sold for eleven million, five thousand dollars is described by Sotheby's as having about seven hundred sixty horsepower. By our arithmetic, that is about fourteen thousand, four hundred eighty dollars per horsepower, almost twice the figure for Prost's road car. Racing history carries a premium, but the sources do not say how much of the price is the engine.",
+   "query": "Ferrari F40 LM",
+   "caption": "F40 LM: ~$14,480 PER HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Another lens is price per distance driven. The storage car sold for three million, eight hundred fifty-five thousand dollars with three hundred sixty kilometres on the clock. By our arithmetic, that is about ten thousand, seven hundred dollars for every kilometre it has ever travelled. The sale price makes it a very expensive way to cover ground.",
+   "query": "Ferrari F40 mileage",
+   "caption": "STORAGE CAR: ~$10,700 PER KILOMETRE EVER DRIVEN (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Price per mile"
+  },
+  {
+   "text": "Prost's car sold with two thousand, nine hundred sixty-one miles. By our arithmetic, that is about one thousand, three hundred thirteen dollars per mile. The U S-specification car, with three thousand, four hundred thirty-five miles, works out at about one thousand, forty-three dollars per mile. Lower mileage did not lower the price; if anything, as these cases show, it was the reverse.",
+   "query": "Ferrari F40 odometer",
+   "caption": "PROST: ~$1,313/MILE \u00b7 US-SPEC: ~$1,043/MILE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A note on method. These ratios are not a valuation. A price per mile ignores condition, history, specification and the mood of the room on auction day. We show them only to illustrate that the people paying these prices are not buying transport. They are buying a very particular object, and, on the evidence of these cars, a particularly unused one.",
+   "query": "Ferrari F40",
+   "caption": "RATIOS ILLUSTRATE, THEY DO NOT VALUE (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Here is a thought experiment, labelled as such. Wikipedia counts one thousand, three hundred eleven cars. If every one were worth Prost's three million, eight hundred eighty-six thousand dollars, the fleet would be worth about five billion dollars, by our arithmetic. That is a toy number: the cars differ widely, and the racing derivatives are worth much more.",
+   "query": "Ferrari F40 production",
+   "caption": "1,311 \u00d7 $3.89M \u2248 $5.1 BILLION \u2014 A THOUGHT EXPERIMENT (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What the whole fleet is worth"
+  },
+  {
+   "text": "It does show scale. Four hundred cars were planned. Wikipedia says the final count was one thousand, three hundred eleven, some sources say up to one thousand, three hundred fifteen. By our arithmetic, that is more than three times the plan. A car built in that quantity is not a unique object, and yet buyers are paying millions for each one.",
+   "query": "Ferrari F40 production",
+   "caption": "PLANNED 400 \u00b7 BUILT 1,311 (UP TO 1,315): 3.3\u00d7 THE PLAN (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The sources disagree on how many were American. Wikipedia and Sotheby's say two hundred thirteen. The DK Engineering archive says about six hundred. That matters for ownership, because Sotheby's says the U S cars have a non-adjustable suspension and aluminium tanks, which affects both the bills and the market. We cannot settle the count, so we report both.",
+   "query": "Ferrari F40 United States",
+   "caption": "US CARS: 213 (WIKIPEDIA, SOTHEBY'S) VS ~600 (DK ENGINEERING)",
+   "cuts": 3
+  },
+  {
+   "text": "The sources also differ on emissions equipment. Wikipedia says the early cars had no catalytic converters until nineteen ninety. The DK Engineering archive says catalytic converters arrived from nineteen ninety-one. A one-year difference, but for a collector it matters: it can change which car is considered the most original, and what a service involves.",
+   "query": "Ferrari F40 exhaust",
+   "caption": "CATALYTIC CONVERTERS: FROM 1990 (WIKIPEDIA) VS 1991 (DK ENGINEERING)",
+   "cuts": 3
+  },
+  {
+   "text": "Let us sum up the costs as a list, using only sourced figures. Purchase: roughly two point eight to five point two million dollars for standard road cars in our sources. Annual fluids: about one thousand dollars. Belts: every three years. Fuel tanks: about every ten years, fifteen to twenty thousand euros per pair in the Italpassion list. A large preparation: about thirty-four thousand dollars on the Iacocca car.",
+   "query": "Ferrari F40 costs",
+   "caption": "PURCHASE \u00b7 FLUIDS \u00b7 BELTS \u00b7 TANKS \u00b7 PREPARATION",
+   "cuts": 3,
+   "chapter": "Where the money goes"
+  },
+  {
+   "text": "Here is our arithmetic for a ten-year plan on the Italpassion figures, in euros. Annual overhaul at three to seven thousand, ten times, is thirty to seventy thousand. Three belt jobs at eight to ten thousand is twenty-four to thirty thousand. One pair of fuel tanks is fifteen to twenty thousand. The total is sixty-nine to one hundred twenty thousand euros over ten years.",
+   "query": "Ferrari F40 ten-year cost",
+   "caption": "10-YEAR PLAN: \u20ac69K\u2013\u20ac120K (OUR ARITHMETIC FROM ITALPASSION'S ITEMS)",
+   "cuts": 3
+  },
+  {
+   "text": "Per year, by our arithmetic, that is roughly seven thousand to twelve thousand euros. Against a car worth two to four million euros, per the same article, that is between about two-tenths and six-tenths of a percent a year. Again, this excludes insurance, storage, gearbox work, tyres and any unexpected repair, because our sources do not give those figures.",
+   "query": "Ferrari F40 yearly cost",
+   "caption": "~\u20ac6.9K\u2013\u20ac12K A YEAR, ~0.2%\u20130.6% OF VALUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "One more point on what ownership does not include. Wikipedia describes a spartan car: no door handles, no glove box, no leather, no carpets, no door panels and no sound system. Classic Motorsports adds that it has no A B S. Owners pay seven figures for a car that, by the standards of its day, offered less equipment than a family sedan.",
+   "query": "Ferrari F40 interior",
+   "caption": "NO HANDLES \u00b7 NO GLOVE BOX \u00b7 NO CARPETS \u00b7 NO SOUND SYSTEM \u00b7 NO ABS",
+   "cuts": 3,
+   "chapter": "What the cost does not buy"
+  },
+  {
+   "text": "What it does offer, per Wikipedia, is performance. A twin-turbocharged two point nine litre V eight with four hundred seventy-eight metric horsepower. A weight of one thousand, two hundred fifty-four kilograms in Europe. A rear-wheel-drive layout with a five-speed manual gearbox. The first independent test recorded zero to a hundred kilometres per hour in four point seven seconds.",
+   "query": "Ferrari F40 performance",
+   "caption": "478 PS \u00b7 1,254 KG \u00b7 RWD \u00b7 5-SPEED \u00b7 0\u2013100 KM/H IN 4.7 S",
+   "cuts": 3
+  },
+  {
+   "text": "And it offers the story: the last Ferrari approved by Enzo Ferrari, built for the fortieth anniversary of the company, thirteen months from the start of the project on the tenth of June, nineteen eighty-six to the unveiling on the twenty-first of July, nineteen eighty-seven. Each of those facts sits behind the price, and none of them depends on a service bill.",
+   "query": "Maranello",
+   "caption": "THE LAST FERRARI ENZO APPROVED \u00b7 13 MONTHS FROM START TO UNVEILING",
+   "cuts": 3
+  },
+  {
+   "text": "Racing versions are rarer still. Wikipedia says ten Competizione-specification cars were built, two L M and eight Competizione, with seven hundred horsepower. The G T E had six hundred twenty and seven were built, winning at Anderstorp in nineteen ninety-five and ninety-six. Nineteen racing cars in all. This explains why the Michelotto car in the Sotheby's list sits so far above the road cars.",
+   "query": "Ferrari F40 racing",
+   "caption": "10 COMPETIZIONE-SPEC \u00b7 7 GTE \u00b7 19 RACING CARS IN ALL (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Which F forty would you buy, the ordinary car or the one with the famous owner? And would you drive it? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the F forty, compare it with the Porsche nine fifty-nine, and tell the story of the last car Enzo Ferrari approved. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

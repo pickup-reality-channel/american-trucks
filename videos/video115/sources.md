@@ -1,0 +1,5 @@
+- Wikipedia, Ferrari F40: https://en.wikipedia.org/wiki/Ferrari_F40
+- Classic Motorsports, Ferrari F40: the truth about living with a legend: https://classicmotorsports.com/articles/ferrari-f40-how-you-spend-million/
+- Sotheby's, The six most expensive Ferrari F40s: https://www.sothebys.com/en/articles/the-six-most-expensive-ferrari-f40s
+- The Autopian, Lee Iacocca's Ferrari F40 preparation and sale
+- Italpassion, Ferrari F40 running costs (May 2025)
