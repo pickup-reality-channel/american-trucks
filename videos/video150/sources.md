@@ -1,0 +1,12 @@
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Gear Patrol, Mercedes-Benz G63 AMG 6x6, 1 Mar 2013: https://www.gearpatrol.com/?p=337999
+- The Drive, Hennessey's VelociRaptor 6x6 is a 600-horsepower, 6-wheel-drive beast, 5 Oct 2016: https://thedrive.com/news/5447/hennesseys-velociraptor-6x6-is-a-600-horsepower-6-wheel-drive-beast
+- Motor Authority, 600-horsepower Hennessey VelociRaptor 6x6 debuts at SEMA, 31 Oct 2017: https://www.motorauthority.com/news/1066757_600-horsepower-hennessey-velociraptor-6x6-debuts-at-sema
+- Digital Trends, Hennessey Ford Raptor 6x6, 19 Dec 2017: https://www.digitaltrends.com/cars/hennessey-ford-raptor-6x6-pictures-specs-performance/
+- DuPont Registry, VelociRaptor by the numbers: https://blog.dupontregistry.com/news/636518/velociraptor-by-the-numbers/
+- Ford Authority, Go ahead, treat yourself to a Hennessey VelociRaptor 6x6, Feb 2019: https://fordauthority.com/2019/02/go-ahead-treat-hennessey-velociraptor-6x6
+- CarAdvice via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- The Drive, G63 AMG 6x6 sold for $900K, 10 Nov 2020: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- Motor Authority / Road & Track, 2014 Mercedes-Benz G63 AMG 6x6 on Bring a Trailer, 3 Nov 2020: https://motorauthority.com/news/1130174_raid-the-401k-2014-mercedes-benz-g63-amg-6x6-for-sale-on-bring-a-trailer
+- Carscoops, Brabus G63 6x6 over $1 million, 21 Dec 2021: https://www.carscoops.com/2021/12/someone-is-willing-to-pay-over-1-million-for-this-mercedes-g63-6x6-tuned-by-brabus/
+- MercedesBlog, Mercedes-Benz G63 AMG 6x6 sold again, 18 May 2022: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
