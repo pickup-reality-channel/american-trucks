@@ -1,0 +1,7 @@
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, AC Ace: https://en.wikipedia.org/wiki/AC_Ace
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
+- Jalopnik, The very first Shelby Cobra just sold for a staggering record $13.75 million (21 Aug 2016): https://www.jalopnik.com/the-very-first-shelby-cobra-just-sold-for-a-staggering-1785559850/
+- Du Pont Registry, Shelby 427 Cobra price, specs, photos and review: https://news.dupontregistry.com/blogs/specs/shelby-427-cobra-price-specs-photos-and-review
+- Hagerty, 1965 Shelby Cobra 427 S/C (CSX3040) past sale and price guide: https://hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX3040/f33aeb97-e529-47a0-8f48-6136a6b53fde
