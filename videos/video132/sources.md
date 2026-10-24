@@ -1,0 +1,11 @@
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, Hennessey Venom GT: https://en.wikipedia.org/wiki/Hennessey_Venom_GT
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, Bugatti Chiron Super Sport 300+: https://en.wikipedia.org/wiki/Bugatti_Chiron_Super_Sport_300+
+- Motor1, SSC Tuatara owner beats personal top speed record by hitting 295 mph: https://www.motor1.com/news/587981/ssc-tuatara-295-mph/
+- Motor Authority, Hennessey Venom F5 hypercar sells out following Monterey Car Week showing: https://motorauthority.com/news/1118149_hennessey-venom-f5-hypercar-sells-out-following-monterey-car-week-showing
+- Hennessey Special Vehicles (company news), Hennessey celebrates world's fastest car accolade with 300 mph plans: https://www.hennesseyspecialvehicles.com/news/hennessey-celebrates-worlds-fastest-car-accolade-with-300mph-plans/
+- The Supercar Blog, John Hennessey breaks silence on Venom F5 300 mph speed record attempt: https://www.thesupercarblog.com/john-hennessey-breaks-silence-on-venom-f5-300-mph-speed-record-attempt/
+- The Drive, Hennessey Venom F5 crashes at 250 mph on Kennedy Space Center runway: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds

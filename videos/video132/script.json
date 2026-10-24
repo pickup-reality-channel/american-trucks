@@ -1,0 +1,281 @@
+{
+ "id": "video132",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind America's Speed-Record War",
+ "scenes": [
+  {
+   "text": "For fifteen years, two small American companies have been chasing the title of the world's fastest car. One is in Washington State, the other in Texas. Between them there have been a record, a snub, a claim that was withdrawn, a trailer that flipped in the wind, a sell-out before the speed was proved, and a crash at two hundred fifty miles per hour. This is the story of America's speed-record war, with every claim sourced.",
+   "query": "America's speed-record war",
+   "caption": "THE INSANE STORY BEHIND AMERICA'S SPEED-RECORD WAR",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We rely on Wikipedia for the dates and speeds, with Motor One, Motor Authority, The Drive, evo, The Supercar Blog and Hennessey's own news page for detail. Hennessey's page is a company source, so we label it. Where sources disagree we show both numbers. And where we do the maths, it is marked as our arithmetic.",
+   "query": "Speed-record war research",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 \u00b7 MOTOR AUTHORITY \u00b7 THE DRIVE \u00b7 EVO \u00b7 THE SUPERCAR BLOG \u00b7 HENNESSEY'S OWN PAGE (COMPANY SOURCE)",
+   "cuts": 8
+  },
+  {
+   "text": "The story starts in West Richland, Washington. Wikipedia says that on the thirteenth of September, two thousand seven, the SSC Ultimate Aero reached two hundred fifty-six point one eight miles per hour, a speed Guinness verified on the ninth of October. It was a record for a production car, set by a small American company against European giants. SSC became the name in the speed chase almost overnight.",
+   "query": "SSC Ultimate Aero",
+   "caption": "SEPT 13, 2007: 256.18 MPH \u00b7 WEST RICHLAND, WASHINGTON \u00b7 GUINNESS-VERIFIED OCT 9, 2007 (WIKIPEDIA)",
+   "cuts": 5,
+   "chapter": "A record from Washington State"
+  },
+  {
+   "text": "The car had been through several versions. Wikipedia lists nine hundred eleven horsepower for the two thousand four base Aero, eleven hundred eighty for the two thousand seven Ultimate Aero TT, twelve eighty-seven in two thousand nine and thirteen hundred in two thousand thirteen. Only twenty-four TTs were produced between two thousand six and two thousand seven. The first sold on eBay for four hundred thirty-one thousand, one hundred dollars.",
+   "query": "SSC Ultimate Aero",
+   "caption": "POWER 911 \u2192 1,180 \u2192 1,287 \u2192 1,300 HP \u00b7 24 TTs BUILT 2006\u201307 \u00b7 FIRST SOLD ON EBAY FOR $431,100 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "It did not last. Wikipedia says the Bugatti Veyron Super Sport ended the SSC record on the fourth of July, twenty ten, with a certified top speed of two hundred sixty-seven miles per hour. Hennessey's own news page gives the Veyron Super Sport's figure as two hundred sixty-eight point eight six. Those two numbers disagree by under two miles per hour, and we cannot say why, so we show both.",
+   "query": "Bugatti Veyron Super Sport",
+   "caption": "VEYRON SUPER SPORT: 267 MPH (WIKIPEDIA, JULY 4, 2010) vs 268.86 MPH (HENNESSEY'S PAGE) \u2014 DISCREPANCY 1.86 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Bugatti beat SSC's record by about eleven miles per hour, using Wikipedia's figures. SSC's record had stood for under three years. From then on, the contest was American start-ups against Bugatti.",
+   "query": "Speed-record sequence",
+   "caption": "256.18 \u2192 267 MPH = +10.82 MPH \u00b7 RECORD STOOD SEPT 2007 \u2013 JULY 2010 \u2248 2 YEARS 10 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Enter Hennessey. Wikipedia says the Venom GT was built on the Lotus Elise and Exige platform, although Hennessey is not associated with Lotus Cars. In January twenty thirteen it took a Guinness record for zero to three hundred kilometres per hour, in thirteen point six three seconds. In April twenty thirteen, it reached two hundred sixty-five point seven miles per hour over two miles.",
+   "query": "Hennessey Venom GT",
+   "caption": "JAN 2013: 0\u2013300 KM/H IN 13.63 s (GUINNESS) \u00b7 APR 2013: 265.7 MPH OVER 2 MILES (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "A Texas tuner joins in"
+  },
+  {
+   "text": "Then, on the fourteenth of February, twenty fourteen, at the Kennedy Space Center, the Venom GT reached two hundred seventy point four nine miles per hour, over a limited distance of two point three miles. It was faster than the Bugatti's certified speed by a few miles per hour. Hennessey announced it as the fastest production car in the world. That is the company's claim, and it is not the end of the story.",
+   "query": "Hennessey Venom GT record claim",
+   "caption": "FEB 14, 2014: 270.49 MPH AT KENNEDY SPACE CENTER, 2.3-MILE RUNWAY (WIKIPEDIA) \u00b7 HENNESSEY: 'FASTEST PRODUCTION CAR' (COMPANY SOURCE)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia explains why it did not count: the run was in one direction only, and only twenty-nine cars were produced, while Guinness requires at least thirty for a production-car record. So the Venom GT was fast, and it was American, and it was not a world record. Hennessey's own news page, marking the tenth anniversary, nonetheless calls the car verified at two hundred seventy point four nine, and that page does not mention Guinness.",
+   "query": "Hennessey Venom GT and Guinness",
+   "caption": "ONE DIRECTION ONLY \u00b7 29 CARS vs 30 REQUIRED (WIKIPEDIA) \u00b7 HENNESSEY'S PAGE: 'VERIFIED' AT 270.49 \u2014 GUINNESS NOT MENTIONED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Venom GT was three point four nine miles per hour above the Veyron Super Sport's two hundred sixty-seven, or one point six three above the figure on Hennessey's page. The margin was so small that the rules mattered more than the speed. A one-way run on a short runway against a certified two-way figure is not a fair fight, and everyone in this story eventually learned that.",
+   "query": "Venom GT vs Veyron Super Sport",
+   "caption": "270.49 \u2212 267 = 3.49 MPH \u00b7 270.49 \u2212 268.86 = 1.63 MPH (OUR ARITHMETIC) \u00b7 ONE-WAY vs CERTIFIED FIGURE",
+   "cuts": 3
+  },
+  {
+   "text": "The production count of the Venom GT adds to the confusion. Wikipedia lists eight units: seven production cars and a prototype. Hennessey's earlier figure was thirteen vehicles, and a twenty fourteen statement said production would be limited to twenty-nine. Motor Authority also says the Venom GT had thirteen. So the car that tried to set the record was counted three different ways, which is a lesson the record war kept repeating.",
+   "query": "Venom GT production counts",
+   "caption": "8 (7 + PROTOTYPE) \u00b7 13 (EARLIER FIGURE, ALSO MOTOR AUTHORITY) \u00b7 29 (2014 STATEMENT) (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Both companies had already started their successors. Wikipedia says SSC began developing the Tuatara in twenty eleven and showed it as a concept at the Pebble Beach Concours that year. The production version was shown in August twenty eighteen, seven years later. Hennessey, per Wikipedia, first revealed the F5 in August twenty fourteen, showed a mock-up at SEMA on the first of November, twenty seventeen, and began production in twenty twenty.",
+   "query": "Tuatara and F5 development",
+   "caption": "TUATARA: CONCEPT 2011 \u2192 PRODUCTION CAR AUG 2018 \u00b7 F5: REVEALED AUG 2014 \u2192 SEMA MOCK-UP NOV 1, 2017 \u2192 PRODUCTION 2020 (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The next generation"
+  },
+  {
+   "text": "Their rivals were not standing still. Wikipedia says the Bugatti Chiron Super Sport three hundred plus reached four hundred ninety point four eight four kilometres per hour, which is three hundred four point seven seven three miles per hour, on the second of August, twenty nineteen, at Volkswagen's Ehra-Lessien test track, driven by Andy Wallace. The speed was verified by T\u00dcV. The variant is limited to thirty examples.",
+   "query": "Bugatti Chiron Super Sport 300+",
+   "caption": "AUG 2, 2019 \u00b7 EHRA-LESSIEN \u00b7 ANDY WALLACE \u00b7 304.773 MPH (490.484 KM/H), T\u00dcV-VERIFIED \u00b7 LIMITED TO 30 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's page for that car does not say whether the run was one way, and it does not mention Guinness, so we cannot say whether it was a recognised record. What we can say is that three hundred four point seven seven three is a speed no American production car has verified. By our arithmetic, it is nine point seven seven three miles per hour above the Tuatara's verified two hundred ninety-five.",
+   "query": "Chiron Super Sport 300+ vs Tuatara",
+   "caption": "304.773 \u2212 295 = 9.773 MPH \u00b7 vs F5 271.6 = 33.17 MPH (WIKIPEDIA, MOTOR1, OUR ARITHMETIC) \u00b7 ONE-WAY/GUINNESS STATUS NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Look at the record's slope. From SSC's two hundred fifty-six point one eight in two thousand seven to Bugatti's three hundred four point seven seven three in two thousand nineteen is forty-eight point five nine miles per hour in twelve years, by our arithmetic, about four miles per hour a year. Bugatti's figure was a prototype run on a track built for speed. The American challengers had to work out where to run.",
+   "query": "Speed record progress",
+   "caption": "256.18 \u2192 304.77 MPH = +48.59 MPH IN 12 YEARS \u2248 4.05 MPH/YEAR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the Tuatara's big moment. Wikipedia says that on the tenth of October, twenty twenty, SSC claimed a one-way top speed of three hundred thirty-one point one five miles per hour and a two-way average of three hundred sixteen point one one, on a seven-mile stretch of Nevada State Route one sixty near Pahrump. The driver was British racing driver Oliver Webb. SSC said it beat the Koenigsegg Agera RS record by forty-six point six miles per hour.",
+   "query": "SSC Tuatara claim",
+   "caption": "OCT 10, 2020 \u00b7 NEVADA SR-160 \u00b7 OLIVER WEBB \u00b7 331.15 MPH ONE-WAY \u00b7 316.11 MPH TWO-WAY AVERAGE \u00b7 'BEAT AGERA RS BY 46.6 MPH' (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "The claim"
+  },
+  {
+   "text": "By our arithmetic, a margin of forty-six point six over the Agera RS implies an Agera RS figure of about two hundred eighty-four point five five, subtracting from the three hundred thirty-one point one five. Our sources here do not give the Koenigsegg's own figure, so we only note the implication. The claim was big enough to be obviously the fastest ever, and also big enough to attract doubt.",
+   "query": "Koenigsegg Agera RS implication",
+   "caption": "331.15 \u2212 46.6 = 284.55 MPH IMPLIED AGERA RS FIGURE (OUR ARITHMETIC; KOENIGSEGG'S OWN FIGURE NOT IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "Doubt came quickly. Wikipedia calls the claim pending independent confirmation and disputed. On the thirtieth of October, founder Jerod Shelby said the run had been ruined after they started seeing some doubts. Then, on the twenty-first of July, twenty twenty-one, SSC stated that the initial record attempt did not reach over three hundred miles per hour. The claim was withdrawn, in the company's own words.",
+   "query": "SSC Tuatara claim withdrawn",
+   "caption": "OCT 30, 2020: SHELBY \u2014 'RUN HAD BEEN RUINED' \u00b7 JULY 21, 2021: SSC \u2014 ATTEMPT 'DID NOT REACH OVER 300 MPH' (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One adds that the company later admitted the numbers were not entirely accurate. We do not know exactly what went wrong, because our sources do not say. By our arithmetic, nine months and eleven days passed between the claim and the withdrawal. In that time, the three hundred sixteen figure was repeated widely, and our sources cannot tell us how many buyers or fans took it as fact.",
+   "query": "SSC Tuatara claim timeline",
+   "caption": "CLAIM OCT 10, 2020 \u2192 WITHDRAWAL JULY 21, 2021 \u2248 9 MONTHS 11 DAYS (OUR ARITHMETIC) \u00b7 CAUSE NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "SSC's answer was to run again, with independent tracking. Wikipedia says that on the seventeenth of January, twenty twenty-one, at Space Florida, the owner Larry Caplin drove a Tuatara to two hundred seventy-nine point seven miles per hour northbound and two hundred eighty-six point one southbound, a two-way average of two hundred eighty-two point nine, verified by multiple satellite tracking systems. Motor One says that average remains the production-car record.",
+   "query": "SSC Tuatara verified run",
+   "caption": "JAN 17, 2021 \u00b7 SPACE FLORIDA \u00b7 279.7 / 286.1 \u2192 282.9 MPH AVERAGE, SATELLITE-VERIFIED (WIKIPEDIA) \u00b7 MOTOR1: THE 'OFFICIAL PRODUCTION-CAR RECORD'",
+   "cuts": 3,
+   "chapter": "Runs that held up"
+  },
+  {
+   "text": "Then bad luck. Wikipedia says that in April twenty twenty-one, a trailer carrying the Tuatara flipped in high winds in Utah, damaging the car. The sources do not give the damage or the cost. Whatever happened, the next verified run came more than a year later. The sources do not say whether the damage caused the delay, and we will not guess.",
+   "query": "SSC Tuatara trailer incident",
+   "caption": "APRIL 2021: TRAILER FLIPPED IN HIGH WINDS IN UTAH, CAR DAMAGED (WIKIPEDIA) \u00b7 DAMAGE AND LINK TO LATER DELAY: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "On the fourteenth of May, twenty twenty-two, again with Larry Caplin driving, at Kennedy Space Center, the Tuatara reached two hundred ninety-five miles per hour one way, Motor One says. Wikipedia says two Racelogic GNSS systems and a Life Racing GPS system verified it. Motor One adds that a Racelogic technician was on site and an independent analyst was present. This is the Tuatara's best verified speed.",
+   "query": "SSC Tuatara 295 mph",
+   "caption": "MAY 14, 2022 \u00b7 KENNEDY SPACE CENTER \u00b7 295.0 MPH ONE-WAY \u00b7 RACELOGIC + LIFE RACING GPS \u00b7 INDEPENDENT ANALYST PRESENT (WIKIPEDIA, MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "Shelby told Motor One that the car was not even close to reaching its ceiling, and that the limit was not the car but that they ran out of runway. By our arithmetic, Space Florida's runway is two point three miles, or about twelve thousand feet, and at two hundred ninety-five miles per hour a car covers that distance in under thirty seconds, even without accelerating. There is not much room to get there.",
+   "query": "Shelby on the runway",
+   "caption": "SHELBY: 'NOT EVEN CLOSE TO REACHING ITS CEILING' \u00b7 'RAN OUT OF RUNWAY' (MOTOR1) \u00b7 2.3 MILES \u2248 12,144 FT \u2248 28 s AT 295 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Meanwhile Hennessey's F5 was selling out. Motor Authority reported in August twenty twenty-one that the final build slot had been claimed the week after Monterey Car Week, when the car was priced from two point one million dollars. John Hennessey said only a final round of testing remained, covering acceleration, braking and stability. The car was sold before its speed was proved.",
+   "query": "Hennessey Venom F5 sell-out",
+   "caption": "AUG 2021: SOLD OUT AFTER MONTEREY \u00b7 FROM $2.1M \u00b7 'JUST A FINAL ROUND OF TESTING' (MOTOR AUTHORITY)",
+   "cuts": 3,
+   "chapter": "Hennessey's long wait"
+  },
+  {
+   "text": "In February twenty twenty-two, Motor One says, the F5 reached two hundred seventy-one point six miles per hour at the same Space Florida runway where the Tuatara later hit two hundred ninety-five. By our arithmetic, the Tuatara was twenty-three point four miles per hour faster three months later. The F5 had a verified speed, but it was one that kept Hennessey behind its rival's number.",
+   "query": "Hennessey Venom F5 271.6 mph",
+   "caption": "F5: 271.6 MPH (FEB 2022, MOTOR1) vs TUATARA 295 MPH (MAY 2022) \u2192 +23.4 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In February twenty twenty-four, Hennessey's own news page, marking ten years since the Venom GT's run, laid out its plans: to exceed three hundred miles per hour with the F5 in twenty twenty-four, in both directions. John Hennessey said, breaking three hundred in two directions is this year's goal. The page says the simulated theoretical top speed is three hundred twenty-eight miles per hour, though Hennessey says it is not chasing that.",
+   "query": "Hennessey 2024 plans",
+   "caption": "FEB 2024 (COMPANY PAGE): 300+ MPH IN BOTH DIRECTIONS IN 2024 \u00b7 SIMULATED THEORETICAL TOP SPEED 328 MPH \u00b7 TEST DRIVER DAVID DONOHUE",
+   "cuts": 3
+  },
+  {
+   "text": "The Supercar Blog, summarising a Hennessey video from the same month, says the company put customer deliveries ahead of the record attempt, with more than twenty cars delivered at that point, and that the car for the run was reported to be ready. That is a secondary report of a video we did not watch, so we flag it. It suggests that by early twenty twenty-four, most of the twenty-four cars were already with their owners.",
+   "query": "Hennessey Venom F5 deliveries",
+   "caption": "FEB 2024: 'MORE THAN 20 CARS DELIVERED' (THE SUPERCAR BLOG, SUMMARISING A HENNESSEY VIDEO \u2014 SECONDARY SOURCE)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the setback. The Drive reports that during a zero to two hundred fifty mile per hour test on a Monday in early July twenty twenty-four at the Shuttle Landing Facility, a downforce issue caused the test driver to lose control. Hennessey said the driver walked away without injury. By our arithmetic, that was about four months and a half after the plan to reach three hundred that year.",
+   "query": "Hennessey Venom F5 crash",
+   "caption": "JULY 2024 \u00b7 0\u2013250 MPH TEST \u00b7 DOWNFORCE ISSUE \u00b7 DRIVER UNINJURED (THE DRIVE) \u00b7 \u2248 4.5 MONTHS AFTER THE FEB 2024 PLAN (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There was still a record to take. Wikipedia says that on the thirtieth of July, twenty twenty-four, John Hennessey drove an F5 to a half mile in fourteen point four four seconds at two hundred nineteen miles per hour in Florida, a production-car record for that distance. That was about four weeks after the crash report. The company kept going, but the three hundred mile per hour goal remained a promise.",
+   "query": "Hennessey Venom F5 half-mile",
+   "caption": "JULY 30, 2024 \u00b7 1/2 MILE 14.44 s AT 219 MPH, PRODUCTION-CAR RECORD (WIKIPEDIA) \u00b7 ABOUT 3.5 WEEKS AFTER THE CRASH REPORT (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In April twenty twenty-five, Wikipedia says, Hennessey released the Evolution package for two hundred eighty-five thousand dollars more, with two thousand thirty-one horsepower on E eighty-five. And evo, in June twenty twenty-five, reported that the F5 had not yet reached three hundred miles per hour, that a two-way attempt was planned for possibly the next month or two, and that just how fast was anyone's guess.",
+   "query": "Hennessey Venom F5 Evolution",
+   "caption": "APRIL 2025: EVOLUTION 2,031 HP \u00b7 +$285,000 (WIKIPEDIA) \u00b7 JUNE 2025: 300 MPH NOT YET REACHED, ATTEMPT 'POSSIBLY IN THE NEXT MONTH OR TWO' (EVO)",
+   "cuts": 3
+  },
+  {
+   "text": "Behind the numbers are people. Wikipedia names Jerod Shelby as SSC's founder and chief executive, and Jason Castriota, formerly of Pininfarina, as the Tuatara's designer. Oliver Webb drove the disputed Nevada run, and the owner Larry Caplin drove the verified Florida runs. For Hennessey, John Hennessey is the founder, Nathan Malinick the designer, and David Donohue the official test driver, according to the company's page.",
+   "query": "People in the speed-record war",
+   "caption": "SSC: JEROD SHELBY, JASON CASTRIOTA, OLIVER WEBB, LARRY CAPLIN \u00b7 HENNESSEY: JOHN HENNESSEY, NATHAN MALINICK, DAVID DONOHUE (WIKIPEDIA, HENNESSEY'S PAGE)",
+   "cuts": 3,
+   "chapter": "The people and the places"
+  },
+  {
+   "text": "Then the places. SSC's first record was set near its home in West Richland, Washington. The disputed Tuatara run was on a seven-mile stretch of Nevada State Route one sixty. The verified runs were on the two point three mile runway at Space Florida, at Kennedy Space Center. Bugatti ran on Volkswagen's test track at Ehra-Lessien, and Hennessey's Spyder ran at Naval Air Station Lemoore.",
+   "query": "Record venues",
+   "caption": "WEST RICHLAND (2007) \u00b7 NEVADA SR-160 7 MILES (2020) \u00b7 SPACE FLORIDA 2.3 MILES (2021\u201322) \u00b7 EHRA-LESSIEN (2019) \u00b7 NAS LEMOORE (2016) (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Nevada road was about three times as long as the Florida runway, seven miles against two point three. That is one reason the Nevada claim looked so large, and why the Florida runs, though lower, were easier to verify. A longer road lets a car go faster, but it also makes measurement harder. The sources do not discuss this, so it is our observation.",
+   "query": "Record venue lengths",
+   "caption": "7 MILES \u00f7 2.3 MILES \u2248 3.0\u00d7 (OUR ARITHMETIC) \u00b7 LONGER ROAD \u2192 HIGHER POSSIBLE SPEED, HARDER MEASUREMENT (OUR OBSERVATION)",
+   "cuts": 3
+  },
+  {
+   "text": "Hennessey also tried an open-top record. Wikipedia says the Venom GT Spyder reached two hundred sixty-five point five seven miles per hour at Naval Air Station Lemoore on the twenty-fifth of March, twenty sixteen. By our arithmetic, the Spyder's speed was four point nine two miles per hour below the coup\u00e9's two hundred seventy point four nine. The Spyder was listed with fourteen hundred fifty-one horsepower in the sixteen figures.",
+   "query": "Hennessey Venom GT Spyder",
+   "caption": "MARCH 25, 2016 \u00b7 NAS LEMOORE \u00b7 265.57 MPH \u00b7 1,451 HP \u00b7 4.92 MPH BELOW THE COUP\u00c9 (WIKIPEDIA, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In kilometres per hour, the records read like this. Wikipedia gives the Ultimate Aero as four hundred twelve point two eight, the Veyron Super Sport as four hundred thirty, the Venom GT as four hundred thirty-five point three one, and the Chiron Super Sport three hundred plus as four hundred ninety point four eight four. Motor One gives the Tuatara's verified run as four hundred seventy-four point eight and the F5's as four hundred thirty-seven point one.",
+   "query": "Records in km/h",
+   "caption": "ULTIMATE AERO 412.28 \u00b7 VEYRON SS 430 \u00b7 VENOM GT 435.31 \u00b7 CHIRON SS 300+ 490.484 \u00b7 TUATARA 474.8 \u00b7 F5 437.1 KM/H (WIKIPEDIA, MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "Hennessey's goal is five hundred kilometres per hour. John Hennessey said hitting it in one direction would be the ultimate way of celebrating the internal combustion engine. By our arithmetic, the Bugatti is nine point five one six kilometres per hour short of five hundred, the Tuatara twenty-five point two, and the F5 sixty-two point nine. In that sense, the Americans have not reached the target, and the European car is the closest.",
+   "query": "500 km/h target",
+   "caption": "500 KM/H TARGET: BUGATTI \u22129.5 \u00b7 TUATARA \u221225.2 \u00b7 F5 \u221262.9 KM/H (OUR ARITHMETIC) \u00b7 HENNESSEY: 'ULTIMATE WAY OF CELEBRATING THE INTERNAL COMBUSTION ENGINE'",
+   "cuts": 3
+  },
+  {
+   "text": "Hennessey's page says the simulated theoretical top speed of the F5 is three hundred twenty-eight miles per hour. By our arithmetic, that is fifty-six point four miles per hour above the F5's best verified one-way speed of two hundred seventy-one point six, and thirty-three above the Tuatara's two hundred ninety-five. A simulation is a prediction, not a result, and the company itself says it is not chasing that figure.",
+   "query": "Hennessey Venom F5 simulation",
+   "caption": "SIMULATED 328 MPH \u2212 271.6 = 56.4 MPH \u00b7 \u2212 295 = 33 MPH (HENNESSEY'S PAGE, OUR ARITHMETIC) \u00b7 A PREDICTION, NOT A RESULT",
+   "cuts": 3
+  },
+  {
+   "text": "The business side matters as well. Motor Authority says SSC planned a second factory four times larger than its current one, with groundbreaking in twenty twenty-four, but funding was not secured, and Shelby was talking with private automotive enthusiasts rather than banks. That was a twenty twenty-two report. We do not know what happened next. It shows that the speed war is also a fight to pay for the next car.",
+   "query": "SSC second factory",
+   "caption": "SECOND FACTORY 4\u00d7 LARGER, GROUNDBREAKING PLANNED 2024 \u00b7 FUNDING NOT SECURED \u00b7 TALKING WITH PRIVATE ENTHUSIASTS (MOTOR AUTHORITY, 2022) \u00b7 OUTCOME NOT KNOWN",
+   "cuts": 3
+  },
+  {
+   "text": "Line up the facts. SSC set a verified record in two thousand seven. Bugatti took it in twenty ten. Hennessey ran faster in twenty fourteen but not in a way the record rules accepted. SSC claimed more than it had done in twenty twenty and withdrew in twenty twenty-one. SSC's verified two hundred ninety-five in twenty twenty-two is the best American figure we found. Hennessey was still promising three hundred in twenty twenty-five.",
+   "query": "Speed-record timeline",
+   "caption": "2007 SSC 256.18 \u00b7 2010 BUGATTI 267 \u00b7 2014 HENNESSEY 270.49 (NOT RECOGNISED) \u00b7 2019 BUGATTI 304.77 \u00b7 2020 SSC CLAIM WITHDRAWN \u00b7 2022 SSC 295 VERIFIED \u00b7 F5 STILL TO PROVE 300",
+   "cuts": 3,
+   "chapter": "What the war teaches"
+  },
+  {
+   "text": "By our arithmetic, the best verified American one-way speed, two hundred ninety-five, is nearly thirty-nine miles per hour above the two thousand seven record of two hundred fifty-six point one eight, in fifteen years. That is about two point six miles per hour a year, against Bugatti's four. As of our sources, the best American speed is still nine point seven seven three miles per hour short of the Bugatti figure.",
+   "query": "American speed progress",
+   "caption": "295 \u2212 256.18 = 38.82 MPH IN 15 YEARS \u2248 2.6 MPH/YEAR \u00b7 304.773 \u2212 295 = 9.773 MPH SHORT OF BUGATTI (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The rules were as important as the speeds. Wikipedia names two problems for the Venom GT: one direction only, and fewer than the thirty cars Guinness requires. The Tuatara's January twenty twenty-one run was a two-way average. The Bugatti, limited to thirty, matches the car minimum. Whether any of these satisfied every rule, our sources do not all say, but they show how rules shape the contest.",
+   "query": "Record rules",
+   "caption": "VENOM GT: ONE-WAY + 29 CARS vs 30 REQUIRED (WIKIPEDIA) \u00b7 TUATARA JAN 2021: TWO-WAY AVERAGE \u00b7 BUGATTI CHIRON SS 300+: 30 CARS \u00b7 RECOGNITION OF OTHERS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "What our sources do not say. They do not say whether the F5 has since reached three hundred. They do not say what went wrong in SSC's twenty twenty claim. They do not give the damage from the Utah trailer or the Florida crash. They do not give a Guinness status for the Bugatti run or for the Tuatara's two hundred ninety-five. And they cannot tell us who will win. If you have a reliable source, share it in the comments.",
+   "query": "America's speed-record war",
+   "caption": "NOT IN OUR SOURCES: F5 300 MPH RESULT \u00b7 CAUSE OF SSC'S 2020 ERROR \u00b7 DAMAGE COSTS \u00b7 GUINNESS STATUS OF THE BUGATTI AND TUATARA RUNS",
+   "cuts": 3
+  },
+  {
+   "text": "Our honest summary. This is a war between companies that sell cars for around two million dollars, and the prize is a title. The sources show courage, publicity, and mistakes, and they show that a verified number is worth more than a loud one. The best-documented American speed today is two hundred ninety-five. Whether that stands, or Hennessey reaches three hundred, we will see.",
+   "query": "America's speed-record war",
+   "caption": "BEST VERIFIED AMERICAN SPEED IN OUR SOURCES: 295 MPH (SSC TUATARA, MAY 2022)",
+   "cuts": 3
+  },
+  {
+   "text": "Which team do you back, Washington or Texas? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Venom F5, compare it with the SSC Tuatara, and count the real cost of an American hypercar. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Hennessey Venom F5 and SSC Tuatara",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
