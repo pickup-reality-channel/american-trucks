@@ -1,0 +1,2411 @@
+1
+00:00:00,000 --> 00:00:02,671
+A supercharged five point two litre V
+
+2
+00:00:02,671 --> 00:00:05,848
+eight with eight hundred fifteen horsepower,
+
+3
+00:00:05,848 --> 00:00:08,302
+or a four litre flat-six that revs
+
+4
+00:00:08,302 --> 00:00:10,974
+to nine thousand and makes about five
+
+5
+00:00:10,974 --> 00:00:11,551
+hundred.
+
+6
+00:00:11,731 --> 00:00:13,877
+One is a Mustang with a rear
+
+7
+00:00:13,877 --> 00:00:15,946
+gearbox and an active wing.
+
+8
+00:00:16,126 --> 00:00:18,179
+The other is a nine eleven with
+
+9
+00:00:18,179 --> 00:00:20,232
+a name that comes from a racing
+
+10
+00:00:20,232 --> 00:00:20,828
+category.
+
+11
+00:00:21,008 --> 00:00:23,070
+They both aim at the same thing:
+
+12
+00:00:23,070 --> 00:00:24,874
+the fastest lap you can buy.
+
+13
+00:00:25,054 --> 00:00:27,815
+This is the real difference between the
+
+14
+00:00:27,815 --> 00:00:30,434
+Ford Mustang GTD and the Porsche nine
+
+15
+00:00:30,434 --> 00:00:31,637
+eleven G T three.
+
+16
+00:00:31,986 --> 00:00:33,368
+Here is the twist.
+
+17
+00:00:33,548 --> 00:00:36,446
+The Mustang has about sixty percent more
+
+18
+00:00:36,446 --> 00:00:39,199
+power, costs about forty percent more,
+
+19
+00:00:39,199 --> 00:00:40,938
+and has a lap time that,
+
+20
+00:00:40,938 --> 00:00:42,677
+on the figures we found,
+
+21
+00:00:42,677 --> 00:00:45,285
+is slower than the Porsche's by more
+
+22
+00:00:45,285 --> 00:00:46,516
+than two seconds.
+
+23
+00:00:46,696 --> 00:00:48,670
+And then the Mustang gets a new
+
+24
+00:00:48,670 --> 00:00:50,644
+version, and the story changes.
+
+25
+00:00:50,824 --> 00:00:52,798
+We will go through the numbers,
+
+26
+00:00:52,798 --> 00:00:55,027
+and say where our sources disagree.
+
+27
+00:00:55,377 --> 00:00:58,278
+Every figure comes from a published source,
+
+28
+00:00:58,278 --> 00:01:00,032
+listed in the description.
+
+29
+00:01:00,212 --> 00:01:01,944
+Where sources disagree,
+
+30
+00:01:01,944 --> 00:01:02,848
+we tell you.
+
+31
+00:01:03,028 --> 00:01:05,487
+Where we do the maths ourselves,
+
+32
+00:01:05,487 --> 00:01:06,255
+we say so.
+
+33
+00:01:06,435 --> 00:01:09,089
+And where a figure is a manufacturer's
+
+34
+00:01:09,089 --> 00:01:10,975
+claim, we label it a claim.
+
+35
+00:01:11,324 --> 00:01:13,975
+The Mustang GTD's engine is a five
+
+36
+00:01:13,975 --> 00:01:17,560
+point two litre supercharged Predator V eight,
+
+37
+00:01:17,560 --> 00:01:22,003
+five thousand, one hundred sixty-three cubic centimetres,
+
+38
+00:01:22,003 --> 00:01:25,432
+rated at eight hundred fifteen horsepower at
+
+39
+00:01:25,432 --> 00:01:28,082
+seven thousand, four hundred r p m
+
+40
+00:01:28,082 --> 00:01:31,589
+and six hundred sixty-four pound-feet at four
+
+41
+00:01:31,589 --> 00:01:33,460
+thousand, eight hundred,
+
+42
+00:01:33,460 --> 00:01:35,253
+according to Wikipedia.
+
+43
+00:01:35,433 --> 00:01:38,121
+Design News calls it an eight hundred
+
+44
+00:01:38,121 --> 00:01:41,318
+horsepower engine, a difference of under two
+
+45
+00:01:41,318 --> 00:01:41,899
+percent.
+
+46
+00:01:42,249 --> 00:01:44,823
+The nine eleven G T three's engine
+
+47
+00:01:44,823 --> 00:01:48,229
+is a four litre naturally aspirated flat-six.
+
+48
+00:01:48,409 --> 00:01:51,354
+Wikipedia lists the nine ninety-two G T
+
+49
+00:01:51,354 --> 00:01:54,678
+three at five hundred ten metric horsepower,
+
+50
+00:01:54,678 --> 00:01:57,624
+which it converts to five hundred three
+
+51
+00:01:57,624 --> 00:02:01,552
+horsepower, with four hundred seventy newton-metres,
+
+52
+00:02:01,552 --> 00:02:04,573
+or three hundred forty-seven pound-feet,
+
+53
+00:02:04,573 --> 00:02:06,462
+and a nine thousand r p m
+
+54
+00:02:06,462 --> 00:02:07,066
+redline.
+
+55
+00:02:07,246 --> 00:02:10,422
+It is the opposite of the Mustang's
+
+56
+00:02:10,422 --> 00:02:12,781
+idea: small, high-revving,
+
+57
+00:02:12,781 --> 00:02:15,141
+no turbo, no supercharger.
+
+58
+00:02:15,490 --> 00:02:16,729
+By our arithmetic,
+
+59
+00:02:16,729 --> 00:02:19,481
+the GTD has about sixty-two percent more
+
+60
+00:02:19,481 --> 00:02:21,201
+power than the G T three,
+
+61
+00:02:21,201 --> 00:02:24,572
+eight hundred fifteen against five hundred three,
+
+62
+00:02:24,572 --> 00:02:27,393
+and about ninety-one percent more torque,
+
+63
+00:02:27,393 --> 00:02:31,315
+six hundred sixty-four against three hundred forty-seven.
+
+64
+00:02:31,495 --> 00:02:33,897
+Per litre, the Mustang makes about one
+
+65
+00:02:33,897 --> 00:02:35,857
+hundred fifty-eight horsepower,
+
+66
+00:02:35,857 --> 00:02:38,449
+the Porsche about one hundred twenty-six.
+
+67
+00:02:38,629 --> 00:02:41,061
+The supercharger does the work that revs
+
+68
+00:02:41,061 --> 00:02:42,217
+do for the Porsche.
+
+69
+00:02:42,566 --> 00:02:44,471
+Rev limits tell the story.
+
+70
+00:02:44,651 --> 00:02:48,049
+Wikipedia lists the Mustang's peak power at
+
+71
+00:02:48,049 --> 00:02:50,815
+seven thousand, four hundred r p m.
+
+72
+00:02:50,995 --> 00:02:53,961
+The Porsche's redline is nine thousand,
+
+73
+00:02:53,961 --> 00:02:57,154
+which by our arithmetic is sixteen hundred
+
+74
+00:02:57,154 --> 00:02:57,611
+r p m,
+
+75
+00:02:57,611 --> 00:02:59,740
+or about twenty-two percent,
+
+76
+00:02:59,740 --> 00:03:00,272
+higher.
+
+77
+00:03:00,452 --> 00:03:02,719
+A redline and a power peak are
+
+78
+00:03:02,719 --> 00:03:05,364
+different things, so this is only a
+
+79
+00:03:05,364 --> 00:03:07,934
+rough guide, but it shows that the
+
+80
+00:03:07,934 --> 00:03:10,503
+Porsche's engine is built to spin,
+
+81
+00:03:10,503 --> 00:03:12,468
+and the Mustang's to push.
+
+82
+00:03:12,819 --> 00:03:16,015
+The Porsche's engine has a long heritage,
+
+83
+00:03:16,015 --> 00:03:17,184
+Wikipedia says.
+
+84
+00:03:17,364 --> 00:03:19,888
+The first nine ninety-six G T three,
+
+85
+00:03:19,888 --> 00:03:21,571
+in nineteen ninety-nine,
+
+86
+00:03:21,571 --> 00:03:24,165
+was a homologation model with a three
+
+87
+00:03:24,165 --> 00:03:26,760
+point six litre engine rated at three
+
+88
+00:03:26,760 --> 00:03:29,004
+hundred sixty metric horsepower,
+
+89
+00:03:29,004 --> 00:03:31,668
+based on the Mezger racing engine used
+
+90
+00:03:31,668 --> 00:03:34,052
+in the nine sixty-two and the nine
+
+91
+00:03:34,052 --> 00:03:35,104
+eleven G T one.
+
+92
+00:03:35,284 --> 00:03:37,004
+Porsche sold one thousand,
+
+93
+00:03:37,004 --> 00:03:39,255
+eight hundred sixty-eight of them.
+
+94
+00:03:39,604 --> 00:03:41,543
+The layouts are opposites.
+
+95
+00:03:41,723 --> 00:03:44,198
+The Mustang GTD has its engine at
+
+96
+00:03:44,198 --> 00:03:47,947
+the front and an eight-speed dual-clutch transaxle
+
+97
+00:03:47,947 --> 00:03:48,847
+at the rear,
+
+98
+00:03:48,847 --> 00:03:51,172
+with a carbon-fibre driveshaft,
+
+99
+00:03:51,172 --> 00:03:54,471
+according to Kelley Blue Book and Wikipedia.
+
+100
+00:03:54,651 --> 00:03:57,260
+The nine eleven has its engine in
+
+101
+00:03:57,260 --> 00:03:59,237
+the rear, Wikipedia says.
+
+102
+00:03:59,417 --> 00:04:01,872
+One car moves weight rearward by putting
+
+103
+00:04:01,872 --> 00:04:03,837
+a gearbox at the back; the other
+
+104
+00:04:03,837 --> 00:04:05,617
+has its engine there already.
+
+105
+00:04:05,966 --> 00:04:10,108
+The Porsche is available with a seven-speed
+
+106
+00:04:10,108 --> 00:04:13,190
+P D K dual-clutch or a six-speed
+
+107
+00:04:13,190 --> 00:04:15,405
+manual, Wikipedia says.
+
+108
+00:04:15,585 --> 00:04:18,968
+The Mustang GTD offers only the eight-speed
+
+109
+00:04:18,968 --> 00:04:21,878
+dual-clutch transaxle in our sources.
+
+110
+00:04:22,058 --> 00:04:24,529
+So the Mustang's automatic has one more
+
+111
+00:04:24,529 --> 00:04:26,050
+gear than the Porsche's,
+
+112
+00:04:26,050 --> 00:04:27,317
+eight against seven.
+
+113
+00:04:27,497 --> 00:04:30,441
+And the Porsche alone offers a manual,
+
+114
+00:04:30,441 --> 00:04:32,687
+which many enthusiasts value.
+
+115
+00:04:33,037 --> 00:04:35,878
+The Porsche's wheelbase is two thousand,
+
+116
+00:04:35,878 --> 00:04:38,081
+four hundred fifty millimetres,
+
+117
+00:04:38,081 --> 00:04:41,349
+according to Wikipedia's nine ninety-two page.
+
+118
+00:04:41,529 --> 00:04:44,226
+The GTD's wheelbase is not given in
+
+119
+00:04:44,226 --> 00:04:46,847
+our sources, so we cannot compare.
+
+120
+00:04:47,027 --> 00:04:49,733
+The Mustang family is much larger:
+
+121
+00:04:49,733 --> 00:04:53,155
+Wikipedia lists the ordinary Mustang at one
+
+122
+00:04:53,155 --> 00:04:56,816
+hundred eighty-nine point four inches long and
+
+123
+00:04:56,816 --> 00:04:59,124
+seventy-five point four wide.
+
+124
+00:04:59,304 --> 00:05:01,951
+The nine eleven is a smaller car.
+
+125
+00:05:02,301 --> 00:05:04,214
+Weight is where the Porsche shows its
+
+126
+00:05:04,214 --> 00:05:04,473
+hand.
+
+127
+00:05:04,653 --> 00:05:07,688
+Wikipedia lists the nine ninety-two G T
+
+128
+00:05:07,688 --> 00:05:09,400
+three at one thousand,
+
+129
+00:05:09,400 --> 00:05:12,747
+four hundred thirty-five kilograms with P D
+
+130
+00:05:12,747 --> 00:05:14,303
+K, and one thousand,
+
+131
+00:05:14,303 --> 00:05:17,261
+four hundred eighteen with the manual.
+
+132
+00:05:17,441 --> 00:05:19,097
+The G T three R S is
+
+133
+00:05:19,097 --> 00:05:21,830
+one thousand, four hundred fifty.
+
+134
+00:05:22,010 --> 00:05:24,752
+The facelifted G T three is heavier,
+
+135
+00:05:24,752 --> 00:05:25,971
+at one thousand,
+
+136
+00:05:25,971 --> 00:05:27,952
+four hundred seventy-nine,
+
+137
+00:05:27,952 --> 00:05:30,161
+and the Touring one thousand,
+
+138
+00:05:30,161 --> 00:05:31,913
+four hundred sixty-one.
+
+139
+00:05:32,093 --> 00:05:34,522
+The GTD's weight is not in our
+
+140
+00:05:34,522 --> 00:05:35,170
+sources.
+
+141
+00:05:35,520 --> 00:05:38,287
+So we cannot compute a power-to-weight ratio
+
+142
+00:05:38,287 --> 00:05:39,293
+for the Mustang.
+
+143
+00:05:39,473 --> 00:05:40,579
+For the Porsche,
+
+144
+00:05:40,579 --> 00:05:41,825
+by our arithmetic,
+
+145
+00:05:41,825 --> 00:05:45,145
+five hundred three horsepower over one thousand,
+
+146
+00:05:45,145 --> 00:05:48,534
+four hundred thirty-five kilograms is about three
+
+147
+00:05:48,534 --> 00:05:50,955
+hundred fifty horsepower per tonne.
+
+148
+00:05:51,135 --> 00:05:52,988
+The sources say the GTD has a
+
+149
+00:05:52,988 --> 00:05:55,416
+carbon-fibre body, but not how much it
+
+150
+00:05:55,416 --> 00:05:57,333
+weighs, so it would be a guess
+
+151
+00:05:57,333 --> 00:05:59,378
+to say the Mustang is heavier or
+
+152
+00:05:59,378 --> 00:05:59,889
+lighter.
+
+153
+00:06:00,239 --> 00:06:01,400
+Acceleration.
+
+154
+00:06:01,580 --> 00:06:04,252
+Wikipedia lists the Porsche at three point
+
+155
+00:06:04,252 --> 00:06:06,798
+four seconds to a hundred kilometres per
+
+156
+00:06:06,798 --> 00:06:07,816
+hour with P D K,
+
+157
+00:06:07,816 --> 00:06:10,171
+and three point nine with the manual.
+
+158
+00:06:10,351 --> 00:06:11,927
+The G T three R S is
+
+159
+00:06:11,927 --> 00:06:14,132
+three point two in the text,
+
+160
+00:06:14,132 --> 00:06:16,496
+and three point oh in a table,
+
+161
+00:06:16,496 --> 00:06:19,174
+which the page does not reconcile.
+
+162
+00:06:19,354 --> 00:06:22,829
+Edmunds measured three point four seconds to
+
+163
+00:06:22,829 --> 00:06:25,356
+sixty miles per hour in its test
+
+164
+00:06:25,356 --> 00:06:26,541
+of a P D K car.
+
+165
+00:06:26,721 --> 00:06:29,546
+The Mustang's acceleration is not in our
+
+166
+00:06:29,546 --> 00:06:30,111
+sources.
+
+167
+00:06:30,461 --> 00:06:31,321
+Top speed.
+
+168
+00:06:31,501 --> 00:06:34,462
+Wikipedia lists the Mustang GTD at two
+
+169
+00:06:34,462 --> 00:06:36,566
+hundred two miles per hour,
+
+170
+00:06:36,566 --> 00:06:40,150
+three hundred twenty-five kilometres per hour.
+
+171
+00:06:40,330 --> 00:06:42,644
+For the Porsche nine ninety-two G T
+
+172
+00:06:42,644 --> 00:06:45,619
+three, its table gives three hundred eighteen
+
+173
+00:06:45,619 --> 00:06:47,139
+for the P D K and three
+
+174
+00:06:47,139 --> 00:06:49,122
+hundred twenty for the manual,
+
+175
+00:06:49,122 --> 00:06:52,031
+while its text says one hundred ninety-three
+
+176
+00:06:52,031 --> 00:06:53,023
+miles per hour,
+
+177
+00:06:53,023 --> 00:06:54,808
+about three hundred eleven.
+
+178
+00:06:54,988 --> 00:06:57,697
+The facelifted car is listed at three
+
+179
+00:06:57,697 --> 00:06:58,796
+hundred eleven.
+
+180
+00:06:59,145 --> 00:07:00,381
+By our arithmetic,
+
+181
+00:07:00,381 --> 00:07:03,264
+the Porsche's table speed of three hundred
+
+182
+00:07:03,264 --> 00:07:06,078
+eighteen kilometres per hour is about two
+
+183
+00:07:06,078 --> 00:07:09,784
+percent below the Mustang's three hundred twenty-five,
+
+184
+00:07:09,784 --> 00:07:12,186
+while its text figure is about four
+
+185
+00:07:12,186 --> 00:07:13,147
+percent below.
+
+186
+00:07:13,327 --> 00:07:14,978
+The G T three R S is
+
+187
+00:07:14,978 --> 00:07:18,115
+listed at only two hundred ninety-six,
+
+188
+00:07:18,115 --> 00:07:21,582
+because it trades top speed for downforce.
+
+189
+00:07:21,762 --> 00:07:23,988
+A road car's top speed is a
+
+190
+00:07:23,988 --> 00:07:26,791
+smaller part of its story than the
+
+191
+00:07:26,791 --> 00:07:28,275
+headline suggests.
+
+192
+00:07:28,624 --> 00:07:31,260
+The lap everyone quotes is the Nordschleife.
+
+193
+00:07:31,440 --> 00:07:34,159
+AutoGuide reports that the GTD set a
+
+194
+00:07:34,159 --> 00:07:37,482
+certified six fifty-seven point six eight on
+
+195
+00:07:37,482 --> 00:07:39,143
+the seventh of August,
+
+196
+00:07:39,143 --> 00:07:42,315
+twenty twenty-four, driven by Dirk Müller,
+
+197
+00:07:42,315 --> 00:07:43,599
+with a roll cage,
+
+198
+00:07:43,599 --> 00:07:46,243
+competition seat and harness added.
+
+199
+00:07:46,423 --> 00:07:50,704
+Wikipedia gives six fifty-seven point six eight
+
+200
+00:07:50,704 --> 00:07:51,160
+five.
+
+201
+00:07:51,340 --> 00:07:52,376
+That made it,
+
+202
+00:07:52,376 --> 00:07:56,125
+Ford says, the fastest American production car,
+
+203
+00:07:56,125 --> 00:07:59,794
+and the fifth-fastest production sports car on
+
+204
+00:07:59,794 --> 00:08:01,150
+official records.
+
+205
+00:08:01,500 --> 00:08:03,094
+The Porsche's times,
+
+206
+00:08:03,094 --> 00:08:06,124
+from Wikipedia's nine eleven G T three
+
+207
+00:08:06,124 --> 00:08:09,394
+page: six fifty-five point three four for
+
+208
+00:08:09,394 --> 00:08:11,786
+the nine ninety-two G T three,
+
+209
+00:08:11,786 --> 00:08:14,418
+set by Lars Kern on the fifteenth
+
+210
+00:08:14,418 --> 00:08:16,650
+of September, twenty twenty,
+
+211
+00:08:16,650 --> 00:08:19,920
+and six forty-four point eight four eight
+
+212
+00:08:19,920 --> 00:08:21,674
+for the G T three R S,
+
+213
+00:08:21,674 --> 00:08:24,545
+set by Jörg Bergmeister on the fifth
+
+214
+00:08:24,545 --> 00:08:26,937
+of October, twenty twenty-two.
+
+215
+00:08:27,117 --> 00:08:29,254
+The page calls the R S the
+
+216
+00:08:29,254 --> 00:08:33,118
+fastest lap by a naturally aspirated production
+
+217
+00:08:33,118 --> 00:08:36,242
+car as of December twenty twenty-four.
+
+218
+00:08:36,593 --> 00:08:38,004
+By our arithmetic,
+
+219
+00:08:38,004 --> 00:08:40,121
+the G T three was two point
+
+220
+00:08:40,121 --> 00:08:42,003
+three four five seconds,
+
+221
+00:08:42,003 --> 00:08:43,885
+or about half a percent,
+
+222
+00:08:43,885 --> 00:08:45,532
+quicker than the GTD.
+
+223
+00:08:45,712 --> 00:08:47,222
+The G T three R S was
+
+224
+00:08:47,222 --> 00:08:50,602
+twelve point eight three seven seconds quicker,
+
+225
+00:08:50,602 --> 00:08:52,040
+about three percent.
+
+226
+00:08:52,220 --> 00:08:55,625
+The AutoGuide article lists two nine eleven
+
+227
+00:08:55,625 --> 00:08:58,159
+G T threes with Manthey kits and
+
+228
+00:08:58,159 --> 00:08:59,823
+a G T three R S among
+
+229
+00:08:59,823 --> 00:09:02,436
+the cars faster than the Mustang,
+
+230
+00:09:02,436 --> 00:09:03,307
+which fits.
+
+231
+00:09:03,658 --> 00:09:07,268
+Now a disagreement between two Wikipedia pages.
+
+232
+00:09:07,448 --> 00:09:10,300
+The Mustang page says the nine eleven
+
+233
+00:09:10,300 --> 00:09:12,073
+G T three R S record is
+
+234
+00:09:12,073 --> 00:09:14,925
+six forty-nine point three two eight.
+
+235
+00:09:15,105 --> 00:09:17,141
+The nine eleven G T three page
+
+236
+00:09:17,141 --> 00:09:20,058
+gives six forty-four point eight four eight
+
+237
+00:09:20,058 --> 00:09:21,212
+for the same car.
+
+238
+00:09:21,392 --> 00:09:22,643
+By our arithmetic,
+
+239
+00:09:22,643 --> 00:09:24,866
+that is a difference of four and
+
+240
+00:09:24,866 --> 00:09:25,908
+a half seconds.
+
+241
+00:09:26,088 --> 00:09:28,595
+We cannot tell which is right,
+
+242
+00:09:28,595 --> 00:09:29,932
+so we show both,
+
+243
+00:09:29,932 --> 00:09:31,937
+and we use the G T three
+
+244
+00:09:31,937 --> 00:09:33,357
+page for the R S,
+
+245
+00:09:33,357 --> 00:09:36,282
+since it names the driver and date.
+
+246
+00:09:36,632 --> 00:09:38,675
+Then the GTD Competition.
+
+247
+00:09:38,855 --> 00:09:43,375
+Wikipedia says a pre-production Mustang GTD Competition
+
+248
+00:09:43,375 --> 00:09:46,416
+lapped in six forty point eight three
+
+249
+00:09:46,416 --> 00:09:49,128
+five on the seventeenth of April,
+
+250
+00:09:49,128 --> 00:09:52,497
+twenty twenty-six, with magnesium wheels,
+
+251
+00:09:52,497 --> 00:09:55,703
+a power increase that is not specified,
+
+252
+00:09:55,703 --> 00:09:58,579
+dive planes, wheel aero discs and a
+
+253
+00:09:58,579 --> 00:09:59,730
+modified wing.
+
+254
+00:09:59,910 --> 00:10:01,217
+By our arithmetic,
+
+255
+00:10:01,217 --> 00:10:04,049
+that is about four seconds quicker than
+
+256
+00:10:04,049 --> 00:10:05,719
+the G T three R S's six
+
+257
+00:10:05,719 --> 00:10:08,188
+forty-four point eight four eight.
+
+258
+00:10:08,538 --> 00:10:10,999
+A caution about that comparison.
+
+259
+00:10:11,179 --> 00:10:14,747
+The GTD Competition is a pre-production car
+
+260
+00:10:14,747 --> 00:10:16,821
+with undisclosed changes.
+
+261
+00:10:17,001 --> 00:10:18,619
+The G T three R S is
+
+262
+00:10:18,619 --> 00:10:21,854
+a production car from twenty twenty-two.
+
+263
+00:10:22,034 --> 00:10:23,970
+And our sources do not give a
+
+264
+00:10:23,970 --> 00:10:26,372
+lap time for the new nine ninety-two
+
+265
+00:10:26,372 --> 00:10:27,707
+point two G T three,
+
+266
+00:10:27,707 --> 00:10:29,642
+so we do not know how today's
+
+267
+00:10:29,642 --> 00:10:30,777
+Porsche compares.
+
+268
+00:10:30,957 --> 00:10:33,409
+The records are a moving target,
+
+269
+00:10:33,409 --> 00:10:36,014
+as the Corvette ZR1 showed in July
+
+270
+00:10:36,014 --> 00:10:37,470
+twenty twenty-five.
+
+271
+00:10:37,820 --> 00:10:41,227
+Both cars use aerodynamics as much as
+
+272
+00:10:41,227 --> 00:10:41,964
+engines.
+
+273
+00:10:42,144 --> 00:10:45,271
+The Mustang has a dual-element rear wing
+
+274
+00:10:45,271 --> 00:10:48,085
+with an active flap that flattens in
+
+275
+00:10:48,085 --> 00:10:51,837
+drag-reduction mode, plus a front underwing with
+
+276
+00:10:51,837 --> 00:10:54,573
+two flaps that open to reduce front
+
+277
+00:10:54,573 --> 00:10:56,761
+downforce, Design News says.
+
+278
+00:10:56,941 --> 00:10:59,383
+It also lowers by forty millimetres at
+
+279
+00:10:59,383 --> 00:11:01,440
+the front and thirty at the rear
+
+280
+00:11:01,440 --> 00:11:02,340
+in track mode.
+
+281
+00:11:02,520 --> 00:11:04,459
+No downforce figures are given.
+
+282
+00:11:04,808 --> 00:11:05,905
+For the Porsche,
+
+283
+00:11:05,905 --> 00:11:07,618
+Wikipedia gives a figure.
+
+284
+00:11:07,798 --> 00:11:10,092
+The nine ninety-two G T three R
+
+285
+00:11:10,092 --> 00:11:13,274
+S produces eight hundred sixty kilograms of
+
+286
+00:11:13,274 --> 00:11:17,048
+downforce at two hundred eighty-five kilometres per
+
+287
+00:11:17,048 --> 00:11:19,638
+hour, with an active rear wing that
+
+288
+00:11:19,638 --> 00:11:22,598
+can be opened manually from the steering
+
+289
+00:11:22,598 --> 00:11:23,042
+wheel.
+
+290
+00:11:23,222 --> 00:11:24,580
+By our arithmetic,
+
+291
+00:11:24,580 --> 00:11:27,750
+eight hundred sixty kilograms is about one
+
+292
+00:11:27,750 --> 00:11:30,919
+thousand, eight hundred ninety-six pounds.
+
+293
+00:11:31,099 --> 00:11:33,752
+The Mustang's figure is not published in
+
+294
+00:11:33,752 --> 00:11:34,548
+our sources.
+
+295
+00:11:34,897 --> 00:11:36,920
+The ordinary G T three has a
+
+296
+00:11:36,920 --> 00:11:38,003
+rear wing, too,
+
+297
+00:11:38,003 --> 00:11:40,965
+and the Touring version replaces the wing
+
+298
+00:11:40,965 --> 00:11:43,926
+with an automatically deployable spoiler,
+
+299
+00:11:43,926 --> 00:11:45,010
+Wikipedia says.
+
+300
+00:11:45,190 --> 00:11:48,466
+The Touring is offered with a six-speed
+
+301
+00:11:48,466 --> 00:11:49,811
+manual or P D K.
+
+302
+00:11:49,991 --> 00:11:52,322
+For buyers who want the engine and
+
+303
+00:11:52,322 --> 00:11:54,860
+the chassis without the visual drama,
+
+304
+00:11:54,860 --> 00:11:56,643
+it is a quiet alternative.
+
+305
+00:11:56,823 --> 00:11:59,769
+The Mustang has no quiet alternative:
+
+306
+00:11:59,769 --> 00:12:02,077
+the GTD is meant to look like
+
+307
+00:12:02,077 --> 00:12:02,953
+what it is.
+
+308
+00:12:03,303 --> 00:12:05,976
+AutoGuide puts the GTD in a wider
+
+309
+00:12:05,976 --> 00:12:06,461
+field.
+
+310
+00:12:06,641 --> 00:12:09,129
+The Mercedes-AMG G T Black Series,
+
+311
+00:12:09,129 --> 00:12:10,519
+from twenty twenty,
+
+312
+00:12:10,519 --> 00:12:14,030
+lapped the Nordschleife in six forty-eight point
+
+313
+00:12:14,030 --> 00:12:16,810
+oh four, nine seconds quicker than the
+
+314
+00:12:16,810 --> 00:12:19,517
+GTD, and is the front-engined leader.
+
+315
+00:12:19,697 --> 00:12:22,927
+The previous American record was the Dodge
+
+316
+00:12:22,927 --> 00:12:25,464
+Viper ACR's seven oh one point oh
+
+317
+00:12:25,464 --> 00:12:27,464
+three in twenty seventeen.
+
+318
+00:12:27,644 --> 00:12:28,895
+By our arithmetic,
+
+319
+00:12:28,895 --> 00:12:31,259
+the GTD was three point three four
+
+320
+00:12:31,259 --> 00:12:33,414
+seconds quicker than the Viper.
+
+321
+00:12:33,764 --> 00:12:36,245
+The Corvette ZR1 and ZR1X,
+
+322
+00:12:36,245 --> 00:12:39,488
+at six fifty point seven six three
+
+323
+00:12:39,488 --> 00:12:43,304
+and six forty-nine point two seven five,
+
+324
+00:12:43,304 --> 00:12:46,738
+beat the GTD's original time in July
+
+325
+00:12:46,738 --> 00:12:50,076
+twenty twenty-five, Wikipedia says.
+
+326
+00:12:50,256 --> 00:12:51,768
+By our arithmetic,
+
+327
+00:12:51,768 --> 00:12:54,456
+the ZR1 was about six point nine
+
+328
+00:12:54,456 --> 00:12:57,479
+seconds, or one point seven percent,
+
+329
+00:12:57,479 --> 00:12:58,151
+quicker.
+
+330
+00:12:58,331 --> 00:13:00,486
+The Corvette costs far less:
+
+331
+00:13:00,486 --> 00:13:03,795
+GM lists one hundred seventy-four thousand,
+
+332
+00:13:03,795 --> 00:13:07,642
+nine hundred ninety-five dollars with destination.
+
+333
+00:13:07,822 --> 00:13:10,377
+The Mustang's answer was the Competition.
+
+334
+00:13:10,726 --> 00:13:13,475
+So the Mustang GTD's original lap put
+
+335
+00:13:13,475 --> 00:13:16,223
+it between the Viper and the Corvette
+
+336
+00:13:16,223 --> 00:13:17,559
+in American terms,
+
+337
+00:13:17,559 --> 00:13:20,456
+and behind the Porsche and the Mercedes
+
+338
+00:13:20,456 --> 00:13:21,570
+in global ones.
+
+339
+00:13:21,750 --> 00:13:23,952
+Ford's claim, per AutoGuide,
+
+340
+00:13:23,952 --> 00:13:26,783
+was that it was the fastest American
+
+341
+00:13:26,783 --> 00:13:28,906
+production car at the time,
+
+342
+00:13:28,906 --> 00:13:32,523
+and the fifth-fastest production sports car on
+
+343
+00:13:32,523 --> 00:13:33,859
+official records.
+
+344
+00:13:34,039 --> 00:13:36,106
+Both of those claims were true on
+
+345
+00:13:36,106 --> 00:13:37,609
+the date they were made,
+
+346
+00:13:37,609 --> 00:13:38,799
+and neither lasted.
+
+347
+00:13:39,149 --> 00:13:41,541
+The Porsche side is a family too.
+
+348
+00:13:41,721 --> 00:13:45,407
+Wikipedia says the nine ninety-two was introduced
+
+349
+00:13:45,407 --> 00:13:48,341
+in Los Angeles on the twenty-seventh of
+
+350
+00:13:48,341 --> 00:13:50,297
+November, twenty eighteen,
+
+351
+00:13:50,297 --> 00:13:53,005
+and the point two update launched on
+
+352
+00:13:53,005 --> 00:13:54,886
+the twenty-eighth of May,
+
+353
+00:13:54,886 --> 00:13:56,315
+twenty twenty-four.
+
+354
+00:13:56,495 --> 00:13:58,774
+The point two G T three was
+
+355
+00:13:58,774 --> 00:14:01,983
+revealed on the eighteenth of October,
+
+356
+00:14:01,983 --> 00:14:05,444
+twenty twenty-four, alongside a G T three
+
+357
+00:14:05,444 --> 00:14:06,120
+Touring.
+
+358
+00:14:06,300 --> 00:14:09,283
+Its engine is unchanged at five hundred
+
+359
+00:14:09,283 --> 00:14:10,967
+ten metric horsepower.
+
+360
+00:14:11,316 --> 00:14:14,096
+The page says the point two car's
+
+361
+00:14:14,096 --> 00:14:17,214
+options include the Weissach package,
+
+362
+00:14:17,214 --> 00:14:20,078
+which originally came from the G T
+
+363
+00:14:20,078 --> 00:14:20,920
+three R S,
+
+364
+00:14:20,920 --> 00:14:24,206
+and a Clubsport package offered free of
+
+365
+00:14:24,206 --> 00:14:24,796
+charge.
+
+366
+00:14:24,976 --> 00:14:27,294
+It lists torque at four hundred fifty
+
+367
+00:14:27,294 --> 00:14:30,301
+newton-metres, top speed at three hundred eleven
+
+368
+00:14:30,301 --> 00:14:32,243
+kilometres per hour for the G T
+
+369
+00:14:32,243 --> 00:14:34,749
+three and three hundred thirteen for the
+
+370
+00:14:34,749 --> 00:14:35,250
+Touring.
+
+371
+00:14:35,430 --> 00:14:37,800
+The sources do not give a Nürburgring
+
+372
+00:14:37,800 --> 00:14:39,529
+time for the point two car.
+
+373
+00:14:39,878 --> 00:14:41,674
+The G T three R S is
+
+374
+00:14:41,674 --> 00:14:43,919
+the more extreme version.
+
+375
+00:14:44,099 --> 00:14:48,456
+Wikipedia lists five hundred twenty-five metric horsepower
+
+376
+00:14:48,456 --> 00:14:49,808
+at eight thousand,
+
+377
+00:14:49,808 --> 00:14:51,235
+five hundred r p m,
+
+378
+00:14:51,235 --> 00:14:54,090
+four hundred sixty-five newton-metres,
+
+379
+00:14:54,090 --> 00:14:57,545
+one thousand, four hundred fifty kilograms and
+
+380
+00:14:57,545 --> 00:15:00,325
+a top speed of two hundred ninety-six
+
+381
+00:15:00,325 --> 00:15:01,827
+kilometres per hour.
+
+382
+00:15:02,007 --> 00:15:04,139
+Its zero to a hundred is three
+
+383
+00:15:04,139 --> 00:15:06,200
+point oh in a table and three
+
+384
+00:15:06,200 --> 00:15:07,764
+point two in the text,
+
+385
+00:15:07,764 --> 00:15:10,181
+which the page does not reconcile.
+
+386
+00:15:10,530 --> 00:15:11,812
+By our arithmetic,
+
+387
+00:15:11,812 --> 00:15:14,163
+the R S makes about three percent
+
+388
+00:15:14,163 --> 00:15:16,300
+more power than the G T three,
+
+389
+00:15:16,300 --> 00:15:18,721
+five twenty-five against five ten,
+
+390
+00:15:18,721 --> 00:15:21,285
+yet it is twelve point eight seconds
+
+391
+00:15:21,285 --> 00:15:23,209
+quicker at the Nürburgring.
+
+392
+00:15:23,389 --> 00:15:25,659
+The difference is aerodynamics:
+
+393
+00:15:25,659 --> 00:15:28,955
+eight hundred sixty kilograms of downforce at
+
+394
+00:15:28,955 --> 00:15:32,177
+two hundred eighty-five kilometres per hour,
+
+395
+00:15:32,177 --> 00:15:34,081
+against a plain G T three.
+
+396
+00:15:34,261 --> 00:15:36,030
+Downforce, not power,
+
+397
+00:15:36,030 --> 00:15:38,220
+is what separates the two.
+
+398
+00:15:38,570 --> 00:15:41,090
+The Mustang side is a family as
+
+399
+00:15:41,090 --> 00:15:41,496
+well.
+
+400
+00:15:41,676 --> 00:15:44,080
+Wikipedia lists the EcoBoost,
+
+401
+00:15:44,080 --> 00:15:45,986
+the GT, the Dark Horse,
+
+402
+00:15:45,986 --> 00:15:48,390
+the GTD, and the Dark Horse S
+
+403
+00:15:48,390 --> 00:15:51,622
+C unveiled on the fifteenth of January,
+
+404
+00:15:51,622 --> 00:15:56,595
+twenty twenty-six, with seven hundred ninety-five horsepower
+
+405
+00:15:56,595 --> 00:15:59,993
+from the same supercharged five point two
+
+406
+00:15:59,993 --> 00:16:01,982
+litre engine as the GTD.
+
+407
+00:16:02,162 --> 00:16:03,596
+By our arithmetic,
+
+408
+00:16:03,596 --> 00:16:05,748
+the S C gives away only two
+
+409
+00:16:05,748 --> 00:16:07,979
+and a half percent in power.
+
+410
+00:16:08,159 --> 00:16:10,109
+It is the nearest thing to a
+
+411
+00:16:10,109 --> 00:16:12,269
+GTD engine in a normal Mustang.
+
+412
+00:16:12,618 --> 00:16:14,174
+And the racing cars.
+
+413
+00:16:14,354 --> 00:16:16,663
+Wikipedia lists a G T three,
+
+414
+00:16:16,663 --> 00:16:19,137
+a G T four built by Multimatic
+
+415
+00:16:19,137 --> 00:16:21,941
+with the five litre Coyote engine,
+
+416
+00:16:21,941 --> 00:16:24,498
+a track-only Dark Horse R and a
+
+417
+00:16:24,498 --> 00:16:27,137
+NASCAR Next Gen Dark Horse body.
+
+418
+00:16:27,317 --> 00:16:29,524
+The G T four debuted at the
+
+419
+00:16:29,524 --> 00:16:33,204
+Michelin Pilot Challenge at Daytona in twenty
+
+420
+00:16:33,204 --> 00:16:37,047
+twenty-four, and KohR Motorsports and Luca Mars
+
+421
+00:16:37,047 --> 00:16:39,663
+won the twenty twenty-four I M S
+
+422
+00:16:39,663 --> 00:16:40,726
+A GSX titles.
+
+423
+00:16:40,906 --> 00:16:43,008
+That is the Mustang's racing family.
+
+424
+00:16:43,357 --> 00:16:45,972
+The point of listing the families is
+
+425
+00:16:45,972 --> 00:16:48,514
+that each company has built a range
+
+426
+00:16:48,514 --> 00:16:49,604
+around one car.
+
+427
+00:16:49,784 --> 00:16:52,087
+For Porsche, the G T three sits
+
+428
+00:16:52,087 --> 00:16:53,870
+above the Carrera range.
+
+429
+00:16:54,050 --> 00:16:56,685
+For Ford, the GTD sits above the
+
+430
+00:16:56,685 --> 00:16:57,591
+Dark Horse.
+
+431
+00:16:57,771 --> 00:17:00,517
+The difference is the price of the
+
+432
+00:17:00,517 --> 00:17:03,021
+step: from the Dark Horse S C's
+
+433
+00:17:03,021 --> 00:17:05,929
+engine, the GTD adds a rear gearbox,
+
+434
+00:17:05,929 --> 00:17:07,059
+a carbon body,
+
+435
+00:17:07,059 --> 00:17:10,048
+active aero and Multimatic's dampers,
+
+436
+00:17:10,048 --> 00:17:12,632
+and the price rises accordingly.
+
+437
+00:17:12,982 --> 00:17:13,656
+Prices.
+
+438
+00:17:13,836 --> 00:17:16,920
+Motor One reports that the GTD officially
+
+439
+00:17:16,920 --> 00:17:20,379
+starts at three hundred twenty-seven thousand,
+
+440
+00:17:20,379 --> 00:17:23,764
+nine hundred sixty dollars including fees and
+
+441
+00:17:23,764 --> 00:17:26,096
+tax, from a base price of three
+
+442
+00:17:26,096 --> 00:17:28,051
+hundred eighteen thousand,
+
+443
+00:17:28,051 --> 00:17:29,556
+seven hundred sixty.
+
+444
+00:17:29,736 --> 00:17:32,728
+The Porsche nine ninety-two point two G
+
+445
+00:17:32,728 --> 00:17:35,797
+T three, according to supercars dot net,
+
+446
+00:17:35,797 --> 00:17:37,178
+has a base M S R P
+
+447
+00:17:37,178 --> 00:17:39,940
+of two hundred twenty-four thousand,
+
+448
+00:17:39,940 --> 00:17:42,472
+four hundred ninety-five dollars.
+
+449
+00:17:42,652 --> 00:17:45,924
+Edmunds lists two hundred twenty-two thousand,
+
+450
+00:17:45,924 --> 00:17:48,271
+five hundred without destination.
+
+451
+00:17:48,621 --> 00:17:49,935
+By our arithmetic,
+
+452
+00:17:49,935 --> 00:17:52,780
+the GTD's base price is about forty-two
+
+453
+00:17:52,780 --> 00:17:55,188
+percent above the G T three's two
+
+454
+00:17:55,188 --> 00:17:57,304
+hundred twenty-four thousand,
+
+455
+00:17:57,304 --> 00:17:59,128
+four hundred ninety-five.
+
+456
+00:17:59,308 --> 00:18:02,299
+Per horsepower, the Mustang costs about three
+
+457
+00:18:02,299 --> 00:18:05,489
+hundred ninety-one dollars and the Porsche about
+
+458
+00:18:05,489 --> 00:18:07,017
+four hundred forty-six.
+
+459
+00:18:07,197 --> 00:18:09,626
+So the Mustang is cheaper per unit
+
+460
+00:18:09,626 --> 00:18:11,697
+of power, though the Porsche,
+
+461
+00:18:11,697 --> 00:18:14,268
+with its naturally aspirated engine,
+
+462
+00:18:14,268 --> 00:18:16,126
+is selling something else.
+
+463
+00:18:16,475 --> 00:18:18,298
+The Porsche's price has risen.
+
+464
+00:18:18,478 --> 00:18:21,475
+Supercars dot net says the nine ninety-two
+
+465
+00:18:21,475 --> 00:18:23,687
+point one G T three launched in
+
+466
+00:18:23,687 --> 00:18:27,397
+twenty twenty-one at one hundred sixty-one thousand,
+
+467
+00:18:27,397 --> 00:18:28,895
+nine hundred dollars,
+
+468
+00:18:28,895 --> 00:18:30,965
+and that the point two car is
+
+469
+00:18:30,965 --> 00:18:33,176
+about thirty-nine percent more.
+
+470
+00:18:33,356 --> 00:18:34,699
+By our arithmetic,
+
+471
+00:18:34,699 --> 00:18:38,502
+two twenty-four ninety-five over one sixty-one nine
+
+472
+00:18:38,502 --> 00:18:41,410
+hundred is one point three eight seven,
+
+473
+00:18:41,410 --> 00:18:44,467
+so the rise is about thirty-nine percent.
+
+474
+00:18:44,647 --> 00:18:47,635
+The same article calls it a hard
+
+475
+00:18:47,635 --> 00:18:48,943
+sell, at best.
+
+476
+00:18:49,292 --> 00:18:51,624
+The same article says the point two
+
+477
+00:18:51,624 --> 00:18:53,955
+car has less torque and more weight
+
+478
+00:18:53,955 --> 00:18:55,488
+than the point one car,
+
+479
+00:18:55,488 --> 00:18:57,419
+without the Weissach package.
+
+480
+00:18:57,599 --> 00:18:59,778
+Wikipedia agrees on the figures:
+
+481
+00:18:59,778 --> 00:19:02,502
+torque down from four hundred seventy to
+
+482
+00:19:02,502 --> 00:19:04,749
+four hundred fifty newton-metres,
+
+483
+00:19:04,749 --> 00:19:06,656
+weight up from one thousand,
+
+484
+00:19:06,656 --> 00:19:09,448
+four hundred thirty-five to one thousand,
+
+485
+00:19:09,448 --> 00:19:11,218
+four hundred seventy-nine.
+
+486
+00:19:11,398 --> 00:19:12,635
+By our arithmetic,
+
+487
+00:19:12,635 --> 00:19:15,246
+that is about four percent less torque
+
+488
+00:19:15,246 --> 00:19:17,307
+and three percent more weight.
+
+489
+00:19:17,657 --> 00:19:19,805
+Fuel economy and tax.
+
+490
+00:19:19,985 --> 00:19:23,319
+Edmunds lists fifteen miles per gallon combined
+
+491
+00:19:23,319 --> 00:19:25,163
+for the automatic Porsche.
+
+492
+00:19:25,343 --> 00:19:28,284
+Motor One lists twelve combined for the
+
+493
+00:19:28,284 --> 00:19:30,622
+Mustang, with a three thousand,
+
+494
+00:19:30,622 --> 00:19:33,412
+seven hundred dollar gas-guzzler tax.
+
+495
+00:19:33,592 --> 00:19:36,558
+The Edmunds page does not mention a
+
+496
+00:19:36,558 --> 00:19:37,574
+Porsche tax.
+
+497
+00:19:37,754 --> 00:19:38,765
+Both cars are,
+
+498
+00:19:38,765 --> 00:19:39,920
+by any standard,
+
+499
+00:19:39,920 --> 00:19:42,592
+thirsty; the Porsche is a little less
+
+500
+00:19:42,592 --> 00:19:44,035
+so on these numbers.
+
+501
+00:19:44,385 --> 00:19:45,384
+And the ratings.
+
+502
+00:19:45,564 --> 00:19:49,154
+Edmunds' own score for the twenty twenty-five
+
+503
+00:19:49,154 --> 00:19:51,308
+G T three is six point nine
+
+504
+00:19:51,308 --> 00:19:52,185
+out of ten,
+
+505
+00:19:52,185 --> 00:19:55,695
+though its meta description says seven point
+
+506
+00:19:55,695 --> 00:19:56,094
+five.
+
+507
+00:19:56,274 --> 00:19:58,772
+We note the discrepancy without choosing a
+
+508
+00:19:58,772 --> 00:19:59,188
+number.
+
+509
+00:19:59,368 --> 00:20:02,507
+Our sources contain no equivalent rating for
+
+510
+00:20:02,507 --> 00:20:03,649
+the Mustang GTD,
+
+511
+00:20:03,649 --> 00:20:05,289
+and we do not give one.
+
+512
+00:20:05,469 --> 00:20:07,133
+A rating is an opinion,
+
+513
+00:20:07,133 --> 00:20:09,231
+and we are comparing figures.
+
+514
+00:20:09,580 --> 00:20:11,554
+Both names point to racing.
+
+515
+00:20:11,734 --> 00:20:13,814
+The Porsche nine eleven G T three
+
+516
+00:20:13,814 --> 00:20:16,967
+descends from the nine ninety-six homologation car
+
+517
+00:20:16,967 --> 00:20:18,479
+of nineteen ninety-nine.
+
+518
+00:20:18,659 --> 00:20:21,196
+Wikipedia lists a G T three Cup
+
+519
+00:20:21,196 --> 00:20:24,877
+at two hundred twenty-five thousand euros and
+
+520
+00:20:24,877 --> 00:20:27,413
+a nine ninety-one point two G T
+
+521
+00:20:27,413 --> 00:20:30,931
+three R at four hundred fifty-nine thousand
+
+522
+00:20:30,931 --> 00:20:32,812
+euros, excluding taxes.
+
+523
+00:20:32,992 --> 00:20:35,672
+The Porsche sells racing cars as well
+
+524
+00:20:35,672 --> 00:20:36,614
+as road cars,
+
+525
+00:20:36,614 --> 00:20:38,135
+from the same family.
+
+526
+00:20:38,485 --> 00:20:41,005
+The Mustang GTD is the road car
+
+527
+00:20:41,005 --> 00:20:43,118
+behind a racing programme.
+
+528
+00:20:43,298 --> 00:20:46,277
+Wikipedia says the Mustang G T three,
+
+529
+00:20:46,277 --> 00:20:48,613
+built by Ford and Multimatic,
+
+530
+00:20:48,613 --> 00:20:50,224
+raced in I M S A and
+
+531
+00:20:50,224 --> 00:20:52,881
+the World Endurance Championship,
+
+532
+00:20:52,881 --> 00:20:55,378
+and returned to Le Mans for the
+
+533
+00:20:55,378 --> 00:20:58,518
+first time since nineteen ninety-seven.
+
+534
+00:20:58,698 --> 00:21:01,802
+Torque Café quotes Jim Farley saying that
+
+535
+00:21:01,802 --> 00:21:03,694
+to go to Le Mans you need
+
+536
+00:21:03,694 --> 00:21:04,527
+a road car.
+
+537
+00:21:04,707 --> 00:21:06,692
+The GTD is that road car,
+
+538
+00:21:06,692 --> 00:21:09,710
+and the Dark Horse is the homologation
+
+539
+00:21:09,710 --> 00:21:10,187
+model.
+
+540
+00:21:10,536 --> 00:21:12,986
+There is a naming overlap worth noting.
+
+541
+00:21:13,166 --> 00:21:15,468
+The Porsche road car is a G
+
+542
+00:21:15,468 --> 00:21:18,367
+T three, named for a racing class.
+
+543
+00:21:18,547 --> 00:21:21,307
+The Mustang's race car is also a
+
+544
+00:21:21,307 --> 00:21:22,170
+G T three.
+
+545
+00:21:22,350 --> 00:21:25,478
+So the same category name appears on
+
+546
+00:21:25,478 --> 00:21:28,432
+a Mustang racing car and a Porsche
+
+547
+00:21:28,432 --> 00:21:31,559
+road car, while the Mustang road car
+
+548
+00:21:31,559 --> 00:21:32,950
+is called a GTD.
+
+549
+00:21:33,130 --> 00:21:34,042
+By our reading,
+
+550
+00:21:34,042 --> 00:21:36,354
+the names show which racing world each
+
+551
+00:21:36,354 --> 00:21:37,936
+company is borrowing from.
+
+552
+00:21:38,286 --> 00:21:40,028
+So, which wins?
+
+553
+00:21:40,208 --> 00:21:41,913
+On power and torque,
+
+554
+00:21:41,913 --> 00:21:42,936
+the Mustang.
+
+555
+00:21:43,116 --> 00:21:45,105
+On price per horsepower,
+
+556
+00:21:45,105 --> 00:21:46,100
+the Mustang.
+
+557
+00:21:46,280 --> 00:21:47,449
+On top speed,
+
+558
+00:21:47,449 --> 00:21:49,426
+the Mustang, slightly.
+
+559
+00:21:49,606 --> 00:21:51,434
+On weight and acceleration,
+
+560
+00:21:51,434 --> 00:21:54,413
+our sources only have the Porsche's numbers.
+
+561
+00:21:54,593 --> 00:21:56,139
+On the original lap,
+
+562
+00:21:56,139 --> 00:21:59,232
+the Porsche, by two point three seconds,
+
+563
+00:21:59,232 --> 00:22:01,629
+and the R S by nearly thirteen.
+
+564
+00:22:01,809 --> 00:22:03,487
+On the Competition lap,
+
+565
+00:22:03,487 --> 00:22:04,363
+the Mustang.
+
+566
+00:22:04,543 --> 00:22:07,533
+On a manual gearbox and engine character,
+
+567
+00:22:07,533 --> 00:22:08,409
+the Porsche.
+
+568
+00:22:08,758 --> 00:22:11,046
+The real difference is the approach.
+
+569
+00:22:11,226 --> 00:22:14,029
+Ford used a supercharged V eight,
+
+570
+00:22:14,029 --> 00:22:17,512
+a rear gearbox and active aerodynamics to
+
+571
+00:22:17,512 --> 00:22:20,315
+build a track weapon that is also
+
+572
+00:22:20,315 --> 00:22:21,419
+street-legal.
+
+573
+00:22:21,599 --> 00:22:25,047
+Porsche used a naturally aspirated flat-six that
+
+574
+00:22:25,047 --> 00:22:27,921
+revs to nine thousand and an established
+
+575
+00:22:27,921 --> 00:22:28,496
+chassis.
+
+576
+00:22:28,676 --> 00:22:31,716
+One adds technology to find speed; the
+
+577
+00:22:31,716 --> 00:22:34,596
+other refines a formula it has built
+
+578
+00:22:34,596 --> 00:22:36,756
+since nineteen ninety-nine.
+
+579
+00:22:36,936 --> 00:22:38,887
+That is our reading of the figures.
+
+580
+00:22:39,236 --> 00:22:40,270
+A caution.
+
+581
+00:22:40,450 --> 00:22:42,667
+We have not driven either car.
+
+582
+00:22:42,847 --> 00:22:45,863
+The GTD's weight and acceleration are not
+
+583
+00:22:45,863 --> 00:22:46,966
+in our sources,
+
+584
+00:22:46,966 --> 00:22:49,761
+the records come from different dates,
+
+585
+00:22:49,761 --> 00:22:52,630
+and the two Wikipedia pages disagree on
+
+586
+00:22:52,630 --> 00:22:54,028
+a Porsche lap time.
+
+587
+00:22:54,208 --> 00:22:57,348
+Some comparisons are our own arithmetic,
+
+588
+00:22:57,348 --> 00:22:58,840
+labelled each time.
+
+589
+00:22:59,020 --> 00:23:00,730
+If you have a verified figure,
+
+590
+00:23:00,730 --> 00:23:02,611
+put it in the comments with where
+
+591
+00:23:02,611 --> 00:23:03,409
+it comes from.
+
+592
+00:23:03,758 --> 00:23:05,390
+Which would you rather have,
+
+593
+00:23:05,390 --> 00:23:06,963
+the Mustang or the Porsche?
+
+594
+00:23:07,143 --> 00:23:08,594
+Tell us in the comments.
+
+595
+00:23:08,774 --> 00:23:11,545
+In the other videos of this series,
+
+596
+00:23:11,545 --> 00:23:14,632
+we reveal two secrets hidden inside the
+
+597
+00:23:14,632 --> 00:23:17,482
+Mustang GTD, work out what it really
+
+598
+00:23:17,482 --> 00:23:18,827
+costs to own one,
+
+599
+00:23:18,827 --> 00:23:21,439
+and tell why Ford built a Mustang
+
+600
+00:23:21,439 --> 00:23:22,706
+to beat Porsche.
+
+601
+00:23:22,886 --> 00:23:25,690
+Our twenty twenty-seven Truck Buyer's Guide is
+
+602
+00:23:25,690 --> 00:23:27,275
+linked in the description.
+
+603
+00:23:27,455 --> 00:23:29,997
+Subscribe to Pickup Reality.
