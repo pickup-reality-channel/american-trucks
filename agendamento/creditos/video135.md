@@ -1,0 +1,70 @@
+# Photo credits: What It Really Costs to Own a Bugatti Veyron
+
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron 9.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- Bugatti Veyron Grand Sport Vitesse.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 6.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron EB 16.4 (2006) (55217087912).jpg by Charles from Port Chester, New York, CC0
+- 2005 Bugatti Veyron Prototype 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 7.jpg by Calreyn88, CC BY-SA 4.0
+- Veyron Carbon.jpg by MrWalkr, CC BY-SA 4.0
+- Grey Bugatti Veyron 16.4.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron C4RLS0.jpg by MrWalkr, CC BY-SA 4.0
+- Comparison of new and old motorcycle oil filters.jpg by Petrb, CC BY-SA 4.0
+- Sugar is the New Oil (5622313180).jpg by University of Michigan School for Environment and Sustainability from Ann Arbor, CC BY 2.0
+- Circa 1945 Kayes half pint pump oil can Joseph Kaye and Sons Ltd Leeds England view 3.jpg by R. Henrik Nilsson, CC BY 4.0
+- Bugatti Veyron 16.4 (39761297864).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 2012 Geneva Motor Show - Bugatti Veyron (6849198234).jpg by NRMA Motoring and Services from Sydney, Australia, CC BY 2.0
+- DBSV vs. Veyron. (4285636911).jpg by Damian Morys from New York City, United States, CC BY 2.0
+- Grand Prix de l'Automobile Club de France 1936. Bugatti dans le virage conduite par la paire Veyron - Williams - btv1b107102337.jpg by unknown, Public domain
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 010.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 005.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 028.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 025.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 018.jpg by Thesupermat, CC BY-SA 3.0
+- Paris - RM Auctions - 5 février 2014 - Bugatti Veyron 16.4 Grand Sport - 2010 - 012.jpg by Thesupermat, CC BY-SA 3.0
+- Broad Arrow Tavern, Western Australia - exterior.jpg by Chuq, CC BY-SA 4.0
+- A broad arrow - geograph.org.uk - 6599518.jpg by Bob Harvey, CC BY-SA 2.0
+- USS Broad Arrow- Camouflage Design, Port Side, Adapted to U.S.S. Broad Arrow - NARA - 75840847.jpg by Unknown authorUnknown author or not provided, Public domain
+- Bugatti Veyron Wimille - versione speciale (cropped).jpg by Etienne (Li), CC BY-SA 3.0
+- Bugatti Veyron Wimille - versione speciale.jpg by Etienne (Li), CC BY-SA 3.0
+- Bugatti Veyron (6218518364).jpg by Ben, CC BY-SA 2.0
+- Bugatti Veyron Legends Editions (14972092616).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron Legends Editions (14972092616) (cropped).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron (6217996799).jpg by Ben, CC BY-SA 2.0
+- Bugatti Veyron 16.4 Chrome Blue (6200946460).jpg by Ben, CC BY-SA 2.0
+- Bugatti Veyron 16.4 Chrome Blue (6200946086).jpg by Ben, CC BY-SA 2.0
+- Bugatti Veyron Centenaire Édition - Flickr - Alexandre Prévot.jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Bugatti Veyron vs Bugatti Veyron Vitesse (10107122064).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron vs McLaren P1 (14402979385).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron 16.4 gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2009 Bugatti Veyron Centenaire Malcolm Campbell.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 3.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- CNBC, This is how much a $1.7 million Bugatti hypercar's oil change costs: https://www.cnbc.com/2018/09/18/a-bugatti-hypercars-oil-change-costs-as-much-as-buying-another-car.html
+- Motor1, Bugatti Veyron: how much does an oil change cost?: https://www.motor1.com/news/775457/bugatti-30k-oil-change/
+- Motorious, Bugatti owner breaks down the eye-watering reality of Veyron Grand Sport costs: https://www.motorious.com/articles/news/bugatti-owner-breaks-down/
+- Motorious, Record-setting $2.2M Bugatti Veyron sets the pace at Broad Arrow's inaugural Las Vegas auction: https://www.motorious.com/articles/news/record-setting-2-2m-bugatti-veyron-sets-the-pace-at-broad-arrows-inaugural-las-vegas-auction
+- autoevolution, Record-setting Bugatti Veyron Wimille hammers for $5.4 million at auction: https://www.autoevolution.com/news/record-setting-bugatti-veyron-wimille-hammers-for-54-million-at-auction-276348.html
+- Fox News, Wrecked Bugatti Veyron sells at auction for $277K: https://www.foxnews.com/auto/wrecked-bugatti-veyron-sells-at-auction-for-277g.amp
+- Car magazine, Popping my Bugatti Veyron cherry: https://carmagazine.co.uk/features/car-culture/popping-my-bugatti-veyron-cherry-this-is-what-it-feels-like-to-drive-254mph-hypercar
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
