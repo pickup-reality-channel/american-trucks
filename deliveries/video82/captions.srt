@@ -1,0 +1,2291 @@
+1
+00:00:00,000 --> 00:00:03,202
+Thirty-two years separate the McLaren F one
+
+2
+00:00:03,202 --> 00:00:04,841
+and the McLaren W one.
+
+3
+00:00:05,021 --> 00:00:07,299
+The W one has about twice the
+
+4
+00:00:07,299 --> 00:00:10,284
+horsepower, goes from zero to sixty in
+
+5
+00:00:10,284 --> 00:00:12,170
+two point seven seconds,
+
+6
+00:00:12,170 --> 00:00:14,448
+and costs several times more.
+
+7
+00:00:14,628 --> 00:00:17,420
+And yet there is one important number
+
+8
+00:00:17,420 --> 00:00:19,609
+where the old car still wins.
+
+9
+00:00:19,789 --> 00:00:21,848
+Today we compare the two,
+
+10
+00:00:21,848 --> 00:00:22,918
+line by line,
+
+11
+00:00:22,918 --> 00:00:26,871
+and explain the difference that nobody explains.
+
+12
+00:00:27,220 --> 00:00:28,068
+Here is the hint.
+
+13
+00:00:28,248 --> 00:00:31,046
+McLaren itself calls the new W one
+
+14
+00:00:31,046 --> 00:00:35,243
+the fastest-accelerating road-legal car it has ever
+
+15
+00:00:35,243 --> 00:00:35,736
+built.
+
+16
+00:00:35,916 --> 00:00:37,685
+But the F one has a top
+
+17
+00:00:37,685 --> 00:00:40,146
+speed record that the W one does
+
+18
+00:00:40,146 --> 00:00:41,838
+not even try to match.
+
+19
+00:00:42,018 --> 00:00:44,606
+So which one is really the better
+
+20
+00:00:44,606 --> 00:00:44,920
+car?
+
+21
+00:00:45,100 --> 00:00:47,355
+The honest answer depends on what you
+
+22
+00:00:47,355 --> 00:00:48,270
+mean by better.
+
+23
+00:00:48,619 --> 00:00:51,170
+Every figure in this video comes from
+
+24
+00:00:51,170 --> 00:00:52,481
+a published source,
+
+25
+00:00:52,481 --> 00:00:54,273
+listed in the description.
+
+26
+00:00:54,453 --> 00:00:56,720
+Where a number is an estimate,
+
+27
+00:00:56,720 --> 00:00:58,382
+or our own arithmetic,
+
+28
+00:00:58,382 --> 00:00:59,515
+we will say so.
+
+29
+00:00:59,695 --> 00:01:02,008
+Let's start with where these two cars
+
+30
+00:01:02,008 --> 00:01:02,633
+came from.
+
+31
+00:01:02,982 --> 00:01:04,735
+The F one came first.
+
+32
+00:01:04,915 --> 00:01:08,821
+Wikipedia says designer Gordon Murray conceived it
+
+33
+00:01:08,821 --> 00:01:11,868
+as an exercise in creating the ultimate
+
+34
+00:01:11,868 --> 00:01:13,587
+road-going sports car,
+
+35
+00:01:13,587 --> 00:01:16,712
+and describes his design concept simply:
+
+36
+00:01:16,712 --> 00:01:18,743
+low weight and high power.
+
+37
+00:01:18,923 --> 00:01:22,417
+Production ran from nineteen ninety-two to nineteen
+
+38
+00:01:22,417 --> 00:01:25,364
+ninety-eight, and only one hundred six cars
+
+39
+00:01:25,364 --> 00:01:26,597
+were manufactured.
+
+40
+00:01:26,947 --> 00:01:29,002
+The W one is the new one.
+
+41
+00:01:29,182 --> 00:01:31,983
+Wikipedia says it was unveiled on the
+
+42
+00:01:31,983 --> 00:01:33,270
+sixth of October,
+
+43
+00:01:33,270 --> 00:01:36,753
+twenty twenty-four, and calls it the successor
+
+44
+00:01:36,753 --> 00:01:38,342
+to the McLaren P one.
+
+45
+00:01:38,522 --> 00:01:41,356
+Production was scheduled to begin in twenty
+
+46
+00:01:41,356 --> 00:01:44,255
+twenty-five and was limited to three hundred
+
+47
+00:01:44,255 --> 00:01:47,154
+ninety-nine units, though the page tags that
+
+48
+00:01:47,154 --> 00:01:48,867
+date as needing an update.
+
+49
+00:01:49,217 --> 00:01:50,362
+Car and Driver,
+
+50
+00:01:50,362 --> 00:01:53,032
+in a story republished by the Daily
+
+51
+00:01:53,032 --> 00:01:55,778
+Maverick, says the W one arrives for
+
+52
+00:01:55,778 --> 00:01:59,669
+the fiftieth anniversary of McLaren's first Formula
+
+53
+00:01:59,669 --> 00:02:02,035
+One constructors' championship,
+
+54
+00:02:02,035 --> 00:02:04,705
+won with driver Emerson Fittipaldi,
+
+55
+00:02:04,705 --> 00:02:07,833
+who also won the drivers' championship in
+
+56
+00:02:07,833 --> 00:02:09,511
+nineteen seventy-four.
+
+57
+00:02:09,691 --> 00:02:11,602
+The company, the story says,
+
+58
+00:02:11,602 --> 00:02:13,581
+has Formula One on the brain.
+
+59
+00:02:13,930 --> 00:02:16,308
+McLaren's own chief executive,
+
+60
+00:02:16,308 --> 00:02:19,083
+Michael Leiters, called the W one a
+
+61
+00:02:19,083 --> 00:02:22,254
+celebration of both the iconic McLaren F
+
+62
+00:02:22,254 --> 00:02:24,315
+one and the McLaren P one,
+
+63
+00:02:24,315 --> 00:02:25,900
+according to GoAuto.
+
+64
+00:02:26,080 --> 00:02:27,898
+So the new car is meant to
+
+65
+00:02:27,898 --> 00:02:29,157
+honor the old one.
+
+66
+00:02:29,337 --> 00:02:31,869
+That is exactly why the comparison is
+
+67
+00:02:31,869 --> 00:02:34,332
+fair, and why the differences are so
+
+68
+00:02:34,332 --> 00:02:35,153
+interesting.
+
+69
+00:02:35,503 --> 00:02:36,804
+There was a middle step.
+
+70
+00:02:36,984 --> 00:02:40,021
+Car and Driver says McLaren began developing
+
+71
+00:02:40,021 --> 00:02:42,576
+the hybrid system more than ten years
+
+72
+00:02:42,576 --> 00:02:45,751
+earlier with the nine hundred three horsepower
+
+73
+00:02:45,751 --> 00:02:48,582
+P one, which launched in twenty thirteen.
+
+74
+00:02:48,762 --> 00:02:50,925
+The W one has one thousand two
+
+75
+00:02:50,925 --> 00:02:53,159
+hundred fifty-eight horsepower,
+
+76
+00:02:53,159 --> 00:02:56,115
+about thirty-nine percent more than the P
+
+77
+00:02:56,115 --> 00:02:58,062
+one, by our own arithmetic.
+
+78
+00:02:58,411 --> 00:03:00,852
+Car and Driver lists the stops along
+
+79
+00:03:00,852 --> 00:03:01,395
+the way.
+
+80
+00:03:01,575 --> 00:03:04,322
+The Speedtail hybrid made its debut in
+
+81
+00:03:04,322 --> 00:03:07,359
+twenty eighteen at two point three million
+
+82
+00:03:07,359 --> 00:03:07,937
+dollars.
+
+83
+00:03:08,117 --> 00:03:10,781
+The Artura, a less expensive hybrid,
+
+84
+00:03:10,781 --> 00:03:13,444
+came out in twenty twenty-one at two
+
+85
+00:03:13,444 --> 00:03:16,256
+hundred thirty-three thousand dollars.
+
+86
+00:03:16,436 --> 00:03:17,547
+So the W one,
+
+87
+00:03:17,547 --> 00:03:19,685
+at two point one million,
+
+88
+00:03:19,685 --> 00:03:22,763
+actually starts below the Speedtail,
+
+89
+00:03:22,763 --> 00:03:24,644
+by about nine percent,
+
+90
+00:03:24,644 --> 00:03:26,525
+by our own arithmetic.
+
+91
+00:03:26,875 --> 00:03:29,684
+The two cars also had very different
+
+92
+00:03:29,684 --> 00:03:30,230
+starts.
+
+93
+00:03:30,410 --> 00:03:33,261
+Gooding and Company says McLaren Cars was
+
+94
+00:03:33,261 --> 00:03:35,417
+set up in nineteen eighty-nine,
+
+95
+00:03:35,417 --> 00:03:37,642
+production of the F one began in
+
+96
+00:03:37,642 --> 00:03:40,910
+nineteen ninety-two, and the first cars reached
+
+97
+00:03:40,910 --> 00:03:43,344
+customers in nineteen ninety-three.
+
+98
+00:03:43,524 --> 00:03:45,743
+Motor Authority adds that the team that
+
+99
+00:03:45,743 --> 00:03:47,905
+created it came together for the first
+
+100
+00:03:47,905 --> 00:03:49,271
+time in nineteen ninety.
+
+101
+00:03:49,621 --> 00:03:51,908
+Start with the F one's engine.
+
+102
+00:03:52,088 --> 00:03:54,806
+Wikipedia says it was a BMW S
+
+103
+00:03:54,806 --> 00:03:56,493
+seventy slash two,
+
+104
+00:03:56,493 --> 00:04:00,148
+a sixty-degree V twelve of six thousand
+
+105
+00:04:00,148 --> 00:04:02,866
+sixty-four cubic centimeters,
+
+106
+00:04:02,866 --> 00:04:06,427
+designed by BMW's motorsport division.
+
+107
+00:04:06,607 --> 00:04:09,598
+It made six hundred eighteen horsepower at
+
+108
+00:04:09,598 --> 00:04:12,020
+seven thousand four hundred r p m,
+
+109
+00:04:12,020 --> 00:04:15,582
+and four hundred seventy-nine pound-feet of torque
+
+110
+00:04:15,582 --> 00:04:17,648
+at five thousand six hundred.
+
+111
+00:04:17,997 --> 00:04:19,884
+It was naturally aspirated,
+
+112
+00:04:19,884 --> 00:04:22,540
+which Gooding and Company says was one
+
+113
+00:04:22,540 --> 00:04:24,986
+of Gordon Murray's non-negotiables.
+
+114
+00:04:25,166 --> 00:04:26,699
+No turbochargers.
+
+115
+00:04:26,879 --> 00:04:27,815
+It was also,
+
+116
+00:04:27,815 --> 00:04:31,093
+Wikipedia says, a heavy piece of equipment
+
+117
+00:04:31,093 --> 00:04:32,654
+by racing standards,
+
+118
+00:04:32,654 --> 00:04:35,385
+at two hundred sixty-six kilograms,
+
+119
+00:04:35,385 --> 00:04:37,804
+five hundred eighty-six pounds.
+
+120
+00:04:37,984 --> 00:04:39,939
+But for the nineteen nineties,
+
+121
+00:04:39,939 --> 00:04:41,893
+it was extremely light for a V
+
+122
+00:04:41,893 --> 00:04:42,349
+twelve.
+
+123
+00:04:42,699 --> 00:04:44,301
+Now the W one.
+
+124
+00:04:44,481 --> 00:04:47,518
+Wikipedia says its engine is the McLaren
+
+125
+00:04:47,518 --> 00:04:48,429
+M H P eight,
+
+126
+00:04:48,429 --> 00:04:52,073
+a three thousand nine hundred eighty-eight cubic
+
+127
+00:04:52,073 --> 00:04:54,350
+centimeter twin-turbo V eight.
+
+128
+00:04:54,530 --> 00:04:57,382
+GoAuto adds that it is a ninety-degree
+
+129
+00:04:57,382 --> 00:04:59,785
+V eight with a flat-plane crank,
+
+130
+00:04:59,785 --> 00:05:02,787
+redlining at nine thousand two hundred r
+
+131
+00:05:02,787 --> 00:05:05,865
+p m, and producing six hundred eighty-two
+
+132
+00:05:05,865 --> 00:05:06,616
+kilowatts.
+
+133
+00:05:06,966 --> 00:05:10,384
+Six hundred eighty-two kilowatts is about nine
+
+134
+00:05:10,384 --> 00:05:12,390
+hundred fifteen horsepower,
+
+135
+00:05:12,390 --> 00:05:14,025
+by our own arithmetic.
+
+136
+00:05:14,205 --> 00:05:16,922
+That means the W one's gasoline engine
+
+137
+00:05:16,922 --> 00:05:20,353
+alone makes about forty-eight percent more power
+
+138
+00:05:20,353 --> 00:05:21,926
+than the entire F one.
+
+139
+00:05:22,106 --> 00:05:24,184
+And that is before the electric motor.
+
+140
+00:05:24,364 --> 00:05:27,388
+GoAuto says the engine's output per liter
+
+141
+00:05:27,388 --> 00:05:29,454
+is a new record for McLaren,
+
+142
+00:05:29,454 --> 00:05:32,920
+at one hundred seventy-one kilowatts per liter.
+
+143
+00:05:33,270 --> 00:05:35,116
+Then comes the electric part.
+
+144
+00:05:35,296 --> 00:05:38,843
+Wikipedia says the W one's E-module contributes
+
+145
+00:05:38,843 --> 00:05:41,786
+up to two hundred fifty-five kilowatts,
+
+146
+00:05:41,786 --> 00:05:45,559
+about three hundred forty-seven metric horsepower.
+
+147
+00:05:45,739 --> 00:05:48,715
+Together, the engine and motor produce one
+
+148
+00:05:48,715 --> 00:05:52,400
+thousand two hundred seventy-five metric horsepower,
+
+149
+00:05:52,400 --> 00:05:55,517
+which Wikipedia converts to one thousand two
+
+150
+00:05:55,517 --> 00:05:58,139
+hundred fifty-eight brake horsepower.
+
+151
+00:05:58,489 --> 00:06:00,544
+The torque tells the same story.
+
+152
+00:06:00,724 --> 00:06:03,910
+Wikipedia lists one thousand three hundred forty
+
+153
+00:06:03,910 --> 00:06:07,759
+newton-meters, about nine hundred eighty-eight pound-feet,
+
+154
+00:06:07,759 --> 00:06:08,689
+for the W one.
+
+155
+00:06:08,869 --> 00:06:11,073
+The F one made six hundred fifty
+
+156
+00:06:11,073 --> 00:06:12,038
+newton-meters.
+
+157
+00:06:12,218 --> 00:06:13,649
+By our own arithmetic,
+
+158
+00:06:13,649 --> 00:06:15,795
+the new car has roughly twice the
+
+159
+00:06:15,795 --> 00:06:17,226
+torque of the old one,
+
+160
+00:06:17,226 --> 00:06:18,917
+and about twice the power.
+
+161
+00:06:19,267 --> 00:06:21,682
+The power per liter shows how different
+
+162
+00:06:21,682 --> 00:06:22,982
+the philosophies are.
+
+163
+00:06:23,162 --> 00:06:25,661
+The F one made about one hundred
+
+164
+00:06:25,661 --> 00:06:27,612
+two horsepower per liter,
+
+165
+00:06:27,612 --> 00:06:29,330
+by our own arithmetic,
+
+166
+00:06:29,330 --> 00:06:31,672
+from its six point one liter V
+
+167
+00:06:31,672 --> 00:06:32,218
+twelve.
+
+168
+00:06:32,398 --> 00:06:34,319
+The W one's whole system,
+
+169
+00:06:34,319 --> 00:06:36,316
+engine and motor together,
+
+170
+00:06:36,316 --> 00:06:40,004
+makes about three hundred fifteen horsepower per
+
+171
+00:06:40,004 --> 00:06:42,232
+liter of engine displacement.
+
+172
+00:06:42,582 --> 00:06:44,718
+Even the engine speed has changed.
+
+173
+00:06:44,898 --> 00:06:47,391
+The F one's rev limiter was raised
+
+174
+00:06:47,391 --> 00:06:49,957
+to eight thousand three hundred r p
+
+175
+00:06:49,957 --> 00:06:51,496
+m for the record run,
+
+176
+00:06:51,496 --> 00:06:54,282
+Wikipedia says, and peak power came at
+
+177
+00:06:54,282 --> 00:06:56,334
+seven thousand four hundred.
+
+178
+00:06:56,514 --> 00:06:58,627
+The W one's V eight redlines at
+
+179
+00:06:58,627 --> 00:07:00,399
+nine thousand two hundred,
+
+180
+00:07:00,399 --> 00:07:03,193
+which is about eleven percent higher than
+
+181
+00:07:03,193 --> 00:07:04,419
+that raised limit,
+
+182
+00:07:04,419 --> 00:07:05,918
+by our own arithmetic.
+
+183
+00:07:06,268 --> 00:07:07,404
+Now the weight,
+
+184
+00:07:07,404 --> 00:07:09,751
+where the F one's design shows.
+
+185
+00:07:09,931 --> 00:07:13,588
+Wikipedia lists eleven hundred forty kilograms dry,
+
+186
+00:07:13,588 --> 00:07:16,600
+two thousand five hundred thirteen pounds,
+
+187
+00:07:16,600 --> 00:07:19,683
+and twelve hundred sixty kilograms ready to
+
+188
+00:07:19,683 --> 00:07:20,113
+drive.
+
+189
+00:07:20,293 --> 00:07:21,135
+The W one,
+
+190
+00:07:21,135 --> 00:07:24,083
+Wikipedia says, has a dry weight of
+
+191
+00:07:24,083 --> 00:07:27,368
+thirteen hundred ninety-nine kilograms,
+
+192
+00:07:27,368 --> 00:07:30,231
+three thousand eighty-four pounds.
+
+193
+00:07:30,581 --> 00:07:34,280
+The difference is two hundred fifty-nine kilograms,
+
+194
+00:07:34,280 --> 00:07:36,602
+about twenty-three percent more,
+
+195
+00:07:36,602 --> 00:07:38,197
+by our own arithmetic.
+
+196
+00:07:38,377 --> 00:07:40,425
+A new car that is two hundred
+
+197
+00:07:40,425 --> 00:07:43,815
+sixty kilograms heavier than a nineteen nineties
+
+198
+00:07:43,815 --> 00:07:46,075
+car sounds like a step backward.
+
+199
+00:07:46,255 --> 00:07:48,329
+But look at what the extra weight
+
+200
+00:07:48,329 --> 00:07:48,832
+carries.
+
+201
+00:07:49,182 --> 00:07:51,307
+It carries a hybrid system,
+
+202
+00:07:51,307 --> 00:07:52,723
+an electric motor,
+
+203
+00:07:52,723 --> 00:07:56,028
+a battery, and enough structure to survive
+
+204
+00:07:56,028 --> 00:07:59,333
+twice the power and far higher aerodynamic
+
+205
+00:07:59,333 --> 00:07:59,805
+loads.
+
+206
+00:07:59,985 --> 00:08:02,129
+GoAuto says the W one has a
+
+207
+00:08:02,129 --> 00:08:06,733
+best-in-class power-to-weight ratio of six hundred seventy
+
+208
+00:08:06,733 --> 00:08:08,321
+kilowatts per tonne.
+
+209
+00:08:08,501 --> 00:08:12,192
+Wikipedia says nine hundred eleven metric horsepower
+
+210
+00:08:12,192 --> 00:08:12,901
+per tonne.
+
+211
+00:08:13,251 --> 00:08:15,599
+Now the same calculation for the F
+
+212
+00:08:15,599 --> 00:08:15,875
+one.
+
+213
+00:08:16,055 --> 00:08:19,750
+Six hundred eighteen horsepower divided by eleven
+
+214
+00:08:19,750 --> 00:08:22,993
+hundred forty kilograms is about point five
+
+215
+00:08:22,993 --> 00:08:25,180
+four horsepower per kilogram.
+
+216
+00:08:25,360 --> 00:08:26,119
+The W one,
+
+217
+00:08:26,119 --> 00:08:30,066
+at twelve hundred fifty-eight horsepower on thirteen
+
+218
+00:08:30,066 --> 00:08:32,343
+hundred ninety-nine kilograms,
+
+219
+00:08:32,343 --> 00:08:33,861
+is about point nine,
+
+220
+00:08:33,861 --> 00:08:35,531
+by our own arithmetic.
+
+221
+00:08:35,711 --> 00:08:38,962
+That is roughly sixty-six percent higher.
+
+222
+00:08:39,311 --> 00:08:42,336
+Both cars used expensive materials to save
+
+223
+00:08:42,336 --> 00:08:42,841
+weight.
+
+224
+00:08:43,021 --> 00:08:45,789
+Gooding and Company says the F one
+
+225
+00:08:45,789 --> 00:08:47,254
+used carbon fiber,
+
+226
+00:08:47,254 --> 00:08:49,778
+titanium, magnesium and Kevlar.
+
+227
+00:08:49,958 --> 00:08:53,239
+Wikipedia adds the engine bay's gold foil,
+
+228
+00:08:53,239 --> 00:08:55,426
+about sixteen grams per car.
+
+229
+00:08:55,606 --> 00:08:58,649
+The W one's equivalent is its carbon
+
+230
+00:08:58,649 --> 00:09:01,016
+monocoque and forged wheels.
+
+231
+00:09:01,196 --> 00:09:02,877
+The principle is the same,
+
+232
+00:09:02,877 --> 00:09:05,074
+but the budget per gram has grown.
+
+233
+00:09:05,424 --> 00:09:06,492
+Now to speed.
+
+234
+00:09:06,672 --> 00:09:08,803
+The F one's zero to sixty time
+
+235
+00:09:08,803 --> 00:09:10,720
+is three point two seconds,
+
+236
+00:09:10,720 --> 00:09:12,354
+according to SlashGear,
+
+237
+00:09:12,354 --> 00:09:14,555
+which does not name the tester.
+
+238
+00:09:14,735 --> 00:09:17,401
+Gooding and Company gives zero to one
+
+239
+00:09:17,401 --> 00:09:20,426
+hundred kilometers per hour in three point
+
+240
+00:09:20,426 --> 00:09:21,434
+three seconds.
+
+241
+00:09:21,614 --> 00:09:23,304
+In nineteen ninety-two,
+
+242
+00:09:23,304 --> 00:09:25,434
+those numbers were unmatched.
+
+243
+00:09:25,784 --> 00:09:27,630
+The W one is quicker.
+
+244
+00:09:27,810 --> 00:09:29,006
+Car and Driver,
+
+245
+00:09:29,006 --> 00:09:31,716
+republished by the Daily Maverick,
+
+246
+00:09:31,716 --> 00:09:34,347
+says zero to sixty miles per hour
+
+247
+00:09:34,347 --> 00:09:36,738
+takes two point seven seconds.
+
+248
+00:09:36,918 --> 00:09:39,863
+Zero to one hundred twenty-four miles per
+
+249
+00:09:39,863 --> 00:09:42,808
+hour, which is two hundred kilometers per
+
+250
+00:09:42,808 --> 00:09:45,465
+hour, takes five point eight seconds,
+
+251
+00:09:45,465 --> 00:09:48,338
+and zero to one hundred eighty-six miles
+
+252
+00:09:48,338 --> 00:09:50,781
+per hour takes twelve point seven.
+
+253
+00:09:51,130 --> 00:09:53,294
+Car and Driver says that makes it
+
+254
+00:09:53,294 --> 00:09:55,588
+quicker than the McLaren Speedtail.
+
+255
+00:09:55,768 --> 00:09:58,948
+And McLaren's chief executive claimed,
+
+256
+00:09:58,948 --> 00:10:00,538
+in GoAuto's report,
+
+257
+00:10:00,538 --> 00:10:03,133
+that the W one is the company's
+
+258
+00:10:03,133 --> 00:10:08,238
+fastest-lapping and fastest-accelerating road-legal car ever.
+
+259
+00:10:08,418 --> 00:10:10,177
+So on acceleration,
+
+260
+00:10:10,177 --> 00:10:12,493
+the new car clearly wins.
+
+261
+00:10:12,842 --> 00:10:15,106
+Put the first number in perspective.
+
+262
+00:10:15,286 --> 00:10:17,523
+The W one's zero to sixty time
+
+263
+00:10:17,523 --> 00:10:19,984
+is half a second shorter than the
+
+264
+00:10:19,984 --> 00:10:22,669
+F one's, three point two against two
+
+265
+00:10:22,669 --> 00:10:23,564
+point seven.
+
+266
+00:10:23,744 --> 00:10:26,575
+That is about sixteen percent less time,
+
+267
+00:10:26,575 --> 00:10:28,133
+by our own arithmetic.
+
+268
+00:10:28,313 --> 00:10:30,267
+Thirty-two years of progress,
+
+269
+00:10:30,267 --> 00:10:32,694
+and the improvement in the first few
+
+270
+00:10:32,694 --> 00:10:35,524
+seconds is smaller than the improvement in
+
+271
+00:10:35,524 --> 00:10:35,929
+power.
+
+272
+00:10:36,278 --> 00:10:39,494
+SlashGear says the F one takes twenty-eight
+
+273
+00:10:39,494 --> 00:10:42,336
+seconds to reach two hundred miles per
+
+274
+00:10:42,336 --> 00:10:44,579
+hour, without citing a source.
+
+275
+00:10:44,759 --> 00:10:47,860
+The W one reaches one hundred eighty-six
+
+276
+00:10:47,860 --> 00:10:49,566
+in twelve point seven.
+
+277
+00:10:49,746 --> 00:10:51,691
+Those are not the same speeds,
+
+278
+00:10:51,691 --> 00:10:53,960
+so we cannot compare them directly.
+
+279
+00:10:54,140 --> 00:10:56,400
+But they show where the new car's
+
+280
+00:10:56,400 --> 00:10:57,496
+advantage grows.
+
+281
+00:10:57,676 --> 00:10:59,168
+The higher the speed,
+
+282
+00:10:59,168 --> 00:11:01,727
+the more the electric boost matters.
+
+283
+00:11:02,077 --> 00:11:04,367
+Now the number where the old car
+
+284
+00:11:04,367 --> 00:11:04,724
+wins.
+
+285
+00:11:04,904 --> 00:11:08,183
+Wikipedia says that on the thirty-first of
+
+286
+00:11:08,183 --> 00:11:10,446
+March, nineteen ninety-eight,
+
+287
+00:11:10,446 --> 00:11:13,334
+Andy Wallace drove an F one prototype
+
+288
+00:11:13,334 --> 00:11:16,456
+at Volkswagen's Ehra-Lessien test track.
+
+289
+00:11:16,636 --> 00:11:19,311
+The two-way average was two hundred forty
+
+290
+00:11:19,311 --> 00:11:20,942
+point one miles per hour,
+
+291
+00:11:20,942 --> 00:11:23,486
+with a peak of two hundred forty-three.
+
+292
+00:11:23,836 --> 00:11:25,981
+The page adds that for the run,
+
+293
+00:11:25,981 --> 00:11:28,401
+the rev limiter was raised to eight
+
+294
+00:11:28,401 --> 00:11:30,407
+thousand three hundred r p m.
+
+295
+00:11:30,587 --> 00:11:33,329
+Gooding and Company says the production F
+
+296
+00:11:33,329 --> 00:11:36,338
+one was electronically limited to two hundred
+
+297
+00:11:36,338 --> 00:11:38,077
+thirty-one miles per hour,
+
+298
+00:11:38,077 --> 00:11:40,217
+and that the car held the record
+
+299
+00:11:40,217 --> 00:11:43,092
+for the world's fastest production car from
+
+300
+00:11:43,092 --> 00:11:46,168
+nineteen ninety-eight until two thousand five.
+
+301
+00:11:46,518 --> 00:11:49,305
+The W one's top speed is lower.
+
+302
+00:11:49,485 --> 00:11:52,352
+Wikipedia gives an estimated top speed of
+
+303
+00:11:52,352 --> 00:11:55,150
+three hundred fifty kilometers per hour,
+
+304
+00:11:55,150 --> 00:11:58,157
+about two hundred seventeen miles per hour.
+
+305
+00:11:58,337 --> 00:12:01,275
+GoAuto calls it electronically limited.
+
+306
+00:12:01,455 --> 00:12:03,572
+So a car with twice the power
+
+307
+00:12:03,572 --> 00:12:06,638
+tops out slower than the nineteen nineties
+
+308
+00:12:06,638 --> 00:12:09,778
+record run, by about twenty-three miles per
+
+309
+00:12:09,778 --> 00:12:11,822
+hour, by our own arithmetic.
+
+310
+00:12:12,172 --> 00:12:12,474
+Why?
+
+311
+00:12:12,654 --> 00:12:15,502
+Because the cars are built for different
+
+312
+00:12:15,502 --> 00:12:15,858
+jobs.
+
+313
+00:12:16,038 --> 00:12:19,116
+Wikipedia says the W one has maximum
+
+314
+00:12:19,116 --> 00:12:22,879
+total downforce of one thousand kilograms in
+
+315
+00:12:22,879 --> 00:12:25,187
+internal wind tunnel tests.
+
+316
+00:12:25,367 --> 00:12:27,846
+GoAuto says it lowers its ride height
+
+317
+00:12:27,846 --> 00:12:30,794
+by thirty-seven millimeters at the front and
+
+318
+00:12:30,794 --> 00:12:32,268
+seventeen at the rear,
+
+319
+00:12:32,268 --> 00:12:34,412
+and has an active long tail rear
+
+320
+00:12:34,412 --> 00:12:37,360
+wing that extends three hundred millimeters.
+
+321
+00:12:37,710 --> 00:12:40,305
+That wing can act as a downforce
+
+322
+00:12:40,305 --> 00:12:41,764
+aid, an air brake,
+
+323
+00:12:41,764 --> 00:12:43,143
+and a D R S mode,
+
+324
+00:12:43,143 --> 00:12:47,683
+Wikipedia says, with its motors controlled electrically.
+
+325
+00:12:47,863 --> 00:12:49,815
+A car designed to make grip at
+
+326
+00:12:49,815 --> 00:12:52,222
+high speed in corners will not always
+
+327
+00:12:52,222 --> 00:12:54,760
+chase the highest straight-line number.
+
+328
+00:12:54,940 --> 00:12:58,389
+Chief executive Michael Leiters said the design
+
+329
+00:12:58,389 --> 00:13:01,764
+allows a supreme track driving experience from
+
+330
+00:13:01,764 --> 00:13:02,718
+the same car.
+
+331
+00:13:03,068 --> 00:13:05,974
+McLaren's director of product planning,
+
+332
+00:13:05,974 --> 00:13:09,252
+Jamie Corstorphine, told Car and Driver that
+
+333
+00:13:09,252 --> 00:13:11,859
+these are the first principles of a
+
+334
+00:13:11,859 --> 00:13:12,902
+real supercar.
+
+335
+00:13:13,082 --> 00:13:15,514
+Leiters called the W one a car
+
+336
+00:13:15,514 --> 00:13:18,028
+that only McLaren could create.
+
+337
+00:13:18,208 --> 00:13:20,480
+Whatever you think of the marketing,
+
+338
+00:13:20,480 --> 00:13:22,248
+both cars share a principle.
+
+339
+00:13:22,428 --> 00:13:24,037
+Build around the driver,
+
+340
+00:13:24,037 --> 00:13:25,981
+and let physics set the rest.
+
+341
+00:13:26,330 --> 00:13:27,770
+Now the way you sit.
+
+342
+00:13:27,950 --> 00:13:29,946
+The F one's most famous feature is
+
+343
+00:13:29,946 --> 00:13:32,002
+that the driver sits in the middle.
+
+344
+00:13:32,182 --> 00:13:35,053
+Wikipedia says the seat is positioned in
+
+345
+00:13:35,053 --> 00:13:36,632
+the middle of the car,
+
+346
+00:13:36,632 --> 00:13:38,785
+ahead of the fuel tank and the
+
+347
+00:13:38,785 --> 00:13:39,287
+engine.
+
+348
+00:13:39,467 --> 00:13:41,568
+Gooding and Company says it is a
+
+349
+00:13:41,568 --> 00:13:44,917
+three-seat layout, with two passengers flanking the
+
+350
+00:13:44,917 --> 00:13:45,377
+driver.
+
+351
+00:13:45,726 --> 00:13:47,584
+The W one is different.
+
+352
+00:13:47,764 --> 00:13:49,549
+GoAuto says its seats,
+
+353
+00:13:49,549 --> 00:13:53,362
+pedals, steering wheel and primary controls can
+
+354
+00:13:53,362 --> 00:13:54,416
+all be moved.
+
+355
+00:13:54,596 --> 00:13:56,950
+The articles we found do not describe
+
+356
+00:13:56,950 --> 00:13:59,113
+the seating layout in more detail.
+
+357
+00:13:59,293 --> 00:14:01,549
+So we will not claim anything about
+
+358
+00:14:01,549 --> 00:14:03,870
+it, except that the car was designed
+
+359
+00:14:03,870 --> 00:14:06,320
+around the driver's position in a very
+
+360
+00:14:06,320 --> 00:14:07,222
+different way.
+
+361
+00:14:07,572 --> 00:14:10,405
+Both cars are built around carbon fiber.
+
+362
+00:14:10,585 --> 00:14:12,962
+Gooding and Company says the F one
+
+363
+00:14:12,962 --> 00:14:14,990
+was the first road car with a
+
+364
+00:14:14,990 --> 00:14:16,808
+full carbon fiber chassis.
+
+365
+00:14:16,988 --> 00:14:19,817
+GoAuto says the W one's chassis is
+
+366
+00:14:19,817 --> 00:14:22,647
+called a McLaren Aerocell and is a
+
+367
+00:14:22,647 --> 00:14:24,561
+carbon fiber monocoque,
+
+368
+00:14:24,561 --> 00:14:29,387
+with anhedral doors optimized for aerodynamic performance.
+
+369
+00:14:29,737 --> 00:14:32,106
+Brakes show how technology moved on.
+
+370
+00:14:32,286 --> 00:14:35,564
+Gooding and Company says Murray wanted carbon
+
+371
+00:14:35,564 --> 00:14:37,094
+brakes for the F one,
+
+372
+00:14:37,094 --> 00:14:39,644
+but the technology was still in its
+
+373
+00:14:39,644 --> 00:14:40,227
+infancy.
+
+374
+00:14:40,407 --> 00:14:42,950
+The W one has carbon ceramic discs,
+
+375
+00:14:42,950 --> 00:14:46,220
+three hundred ninety millimeters at the front
+
+376
+00:14:46,220 --> 00:14:47,818
+and rear, GoAuto says,
+
+377
+00:14:47,818 --> 00:14:51,088
+with nineteen-inch forged wheels at the front
+
+378
+00:14:51,088 --> 00:14:53,631
+and twenty-inch wheels at the rear.
+
+379
+00:14:53,980 --> 00:14:56,438
+The F one's tires were two hundred
+
+380
+00:14:56,438 --> 00:14:59,764
+thirty-five forty-five seventeen at the front,
+
+381
+00:14:59,764 --> 00:15:03,307
+and three hundred fifteen forty-five seventeen at
+
+382
+00:15:03,307 --> 00:15:05,114
+the rear, Wikipedia says.
+
+383
+00:15:05,294 --> 00:15:07,745
+The W one wears Pirelli P Zero
+
+384
+00:15:07,745 --> 00:15:10,605
+Trofeo tires on wheels two or three
+
+385
+00:15:10,605 --> 00:15:11,749
+inches larger.
+
+386
+00:15:11,929 --> 00:15:14,079
+Even the tires show how much more
+
+387
+00:15:14,079 --> 00:15:15,772
+the new car has to handle.
+
+388
+00:15:16,122 --> 00:15:17,492
+And the gearbox.
+
+389
+00:15:17,672 --> 00:15:20,448
+The F one had a transversely mounted
+
+390
+00:15:20,448 --> 00:15:23,763
+six-speed manual, Gooding and Company says,
+
+391
+00:15:23,763 --> 00:15:25,613
+driving the rear wheels.
+
+392
+00:15:25,793 --> 00:15:28,883
+The W one has an eight-speed transmission
+
+393
+00:15:28,883 --> 00:15:31,898
+with an electric reverse and a hydraulic
+
+394
+00:15:31,898 --> 00:15:34,687
+electronic differential, GoAuto says.
+
+395
+00:15:34,867 --> 00:15:36,991
+One car you shift yourself.
+
+396
+00:15:37,171 --> 00:15:38,634
+The other shifts for you.
+
+397
+00:15:38,984 --> 00:15:40,853
+Design is different too.
+
+398
+00:15:41,033 --> 00:15:44,140
+Gooding and Company credits the F one's
+
+399
+00:15:44,140 --> 00:15:46,211
+exterior to Peter Stevens,
+
+400
+00:15:46,211 --> 00:15:48,042
+and describes a simple,
+
+401
+00:15:48,042 --> 00:15:51,865
+elegant shape not dictated only by aerodynamics.
+
+402
+00:15:52,045 --> 00:15:55,990
+Wikipedia credits the W one's interior to
+
+403
+00:15:55,990 --> 00:15:58,106
+designer Alex Alexiev.
+
+404
+00:15:58,286 --> 00:16:00,561
+One car was shaped to look calm.
+
+405
+00:16:00,741 --> 00:16:03,837
+The other is shaped by active aerodynamics
+
+406
+00:16:03,837 --> 00:16:05,827
+and a rear wing that moves.
+
+407
+00:16:06,176 --> 00:16:08,591
+The hybrid system raises a question.
+
+408
+00:16:08,771 --> 00:16:10,682
+How far can the W one go
+
+409
+00:16:10,682 --> 00:16:12,115
+on electric power?
+
+410
+00:16:12,295 --> 00:16:14,986
+Car and Driver says less than two
+
+411
+00:16:14,986 --> 00:16:15,476
+miles.
+
+412
+00:16:15,656 --> 00:16:18,262
+An onboard charger can recharge it in
+
+413
+00:16:18,262 --> 00:16:21,291
+twenty-two minutes, according to the story,
+
+414
+00:16:21,291 --> 00:16:24,390
+and GoAuto says recharging to eighty percent
+
+415
+00:16:24,390 --> 00:16:27,277
+can take as little as twenty-two minutes.
+
+416
+00:16:27,627 --> 00:16:30,632
+The electric part is there for performance,
+
+417
+00:16:30,632 --> 00:16:31,470
+not economy.
+
+418
+00:16:31,650 --> 00:16:34,595
+By comparison, Car and Driver says the
+
+419
+00:16:34,595 --> 00:16:36,378
+cheaper McLaren Artura,
+
+420
+00:16:36,378 --> 00:16:39,478
+with six hundred seventy-one horsepower,
+
+421
+00:16:39,478 --> 00:16:43,121
+offers nineteen miles of electric-only driving.
+
+422
+00:16:43,301 --> 00:16:45,656
+The W one gives up range because
+
+423
+00:16:45,656 --> 00:16:48,086
+it wants the electric motor to be
+
+424
+00:16:48,086 --> 00:16:49,484
+light and powerful,
+
+425
+00:16:49,484 --> 00:16:50,220
+not heavy.
+
+426
+00:16:50,570 --> 00:16:53,339
+McLaren has also said that a fully
+
+427
+00:16:53,339 --> 00:16:56,189
+electric supercar is still far off.
+
+428
+00:16:56,369 --> 00:16:59,195
+A spokesperson told Car and Driver that
+
+429
+00:16:59,195 --> 00:17:02,166
+the company does not think the technology
+
+430
+00:17:02,166 --> 00:17:05,137
+will be sufficiently mature until the end
+
+431
+00:17:05,137 --> 00:17:06,152
+of the decade,
+
+432
+00:17:06,152 --> 00:17:08,688
+and cited weight as a core concern.
+
+433
+00:17:08,868 --> 00:17:11,615
+The F one's whole philosophy was avoiding
+
+434
+00:17:11,615 --> 00:17:12,084
+weight.
+
+435
+00:17:12,433 --> 00:17:13,501
+Now the money.
+
+436
+00:17:13,681 --> 00:17:15,698
+Top Gear says the F one's new
+
+437
+00:17:15,698 --> 00:17:18,827
+price was five hundred forty thousand pounds,
+
+438
+00:17:18,827 --> 00:17:21,121
+which the Bank of England puts at
+
+439
+00:17:21,121 --> 00:17:23,555
+a little over one point one million
+
+440
+00:17:23,555 --> 00:17:26,058
+pounds in two thousand twenty money.
+
+441
+00:17:26,238 --> 00:17:29,389
+AutoMonitor gives an approximate dollar figure of
+
+442
+00:17:29,389 --> 00:17:31,834
+nine hundred seventy thousand dollars.
+
+443
+00:17:32,183 --> 00:17:34,862
+The W one starts at two point
+
+444
+00:17:34,862 --> 00:17:36,710
+one million dollars,
+
+445
+00:17:36,710 --> 00:17:38,557
+Car and Driver says.
+
+446
+00:17:38,737 --> 00:17:40,874
+GoAuto gives a price of about two
+
+447
+00:17:40,874 --> 00:17:42,557
+million pounds in Britain.
+
+448
+00:17:42,737 --> 00:17:45,156
+So the new car costs about three
+
+449
+00:17:45,156 --> 00:17:48,028
+point seven times the F one's original
+
+450
+00:17:48,028 --> 00:17:49,616
+price in raw numbers,
+
+451
+00:17:49,616 --> 00:17:52,337
+but only about one point eight times
+
+452
+00:17:52,337 --> 00:17:54,832
+its price adjusted for inflation,
+
+453
+00:17:54,832 --> 00:17:56,495
+by our own arithmetic.
+
+454
+00:17:56,844 --> 00:17:57,912
+And production?
+
+455
+00:17:58,092 --> 00:18:00,545
+The F one totals one hundred six
+
+456
+00:18:00,545 --> 00:18:02,998
+cars, with sixty-four road cars,
+
+457
+00:18:02,998 --> 00:18:05,987
+according to Wikipedia and AutoMonitor.
+
+458
+00:18:06,167 --> 00:18:08,396
+The W one is limited to three
+
+459
+00:18:08,396 --> 00:18:11,778
+hundred ninety-nine, and Car and Driver says
+
+460
+00:18:11,778 --> 00:18:14,698
+all of them were allocated to specific
+
+461
+00:18:14,698 --> 00:18:15,467
+customers.
+
+462
+00:18:15,647 --> 00:18:18,260
+That means there will be about six
+
+463
+00:18:18,260 --> 00:18:20,182
+times as many W ones as F
+
+464
+00:18:20,182 --> 00:18:21,258
+one road cars,
+
+465
+00:18:21,258 --> 00:18:22,949
+by our own arithmetic.
+
+466
+00:18:23,299 --> 00:18:25,831
+The W one was effectively sold before
+
+467
+00:18:25,831 --> 00:18:27,131
+most people saw it.
+
+468
+00:18:27,311 --> 00:18:30,987
+GoAuto says all three hundred ninety-nine examples
+
+469
+00:18:30,987 --> 00:18:33,855
+were spoken for before mere mortals got
+
+470
+00:18:33,855 --> 00:18:35,693
+a whiff of its existence.
+
+471
+00:18:35,873 --> 00:18:39,032
+Car and Driver says deliveries start in
+
+472
+00:18:39,032 --> 00:18:43,811
+twenty twenty-six, and Wikipedia's infobox lists production
+
+473
+00:18:43,811 --> 00:18:46,322
+from January twenty twenty-six.
+
+474
+00:18:46,672 --> 00:18:48,574
+And the F one's price did not
+
+475
+00:18:48,574 --> 00:18:50,016
+stay where it started.
+
+476
+00:18:50,196 --> 00:18:52,789
+Top Gear says F ones changed hands
+
+477
+00:18:52,789 --> 00:18:56,069
+for roughly the original asking price until
+
+478
+00:18:56,069 --> 00:18:57,823
+about two thousand six,
+
+479
+00:18:57,823 --> 00:19:00,645
+then the price roughly tripled by the
+
+480
+00:19:00,645 --> 00:19:03,314
+end of two thousand eight to around
+
+481
+00:19:03,314 --> 00:19:05,602
+one point five million pounds.
+
+482
+00:19:05,782 --> 00:19:08,414
+By two thousand fourteen it was five
+
+483
+00:19:08,414 --> 00:19:08,998
+million.
+
+484
+00:19:09,348 --> 00:19:11,252
+Then came the big numbers.
+
+485
+00:19:11,432 --> 00:19:14,268
+Gooding and Company reports a car sold
+
+486
+00:19:14,268 --> 00:19:17,403
+in twenty twenty-one for twenty point four
+
+487
+00:19:17,403 --> 00:19:19,269
+six five million dollars.
+
+488
+00:19:19,449 --> 00:19:23,092
+Wikipedia lists chassis zero fourteen at twenty-five
+
+489
+00:19:23,092 --> 00:19:26,035
+point three one seven five million dollars
+
+490
+00:19:26,035 --> 00:19:27,576
+in twenty twenty-five.
+
+491
+00:19:27,756 --> 00:19:30,591
+Hagerty valued a normal F one at
+
+492
+00:19:30,591 --> 00:19:33,249
+around sixteen million pounds,
+
+493
+00:19:33,249 --> 00:19:34,490
+Top Gear says.
+
+494
+00:19:34,839 --> 00:19:37,301
+That raises the obvious question.
+
+495
+00:19:37,481 --> 00:19:40,246
+Will the W one become as valuable
+
+496
+00:19:40,246 --> 00:19:41,335
+as the F one?
+
+497
+00:19:41,515 --> 00:19:42,711
+Nobody can know.
+
+498
+00:19:42,891 --> 00:19:45,077
+The F one's rise took decades,
+
+499
+00:19:45,077 --> 00:19:47,482
+and Top Gear points out that most
+
+500
+00:19:47,482 --> 00:19:50,542
+nineties supercars are worth more now than
+
+501
+00:19:50,542 --> 00:19:52,582
+when new, but the F one rose
+
+502
+00:19:52,582 --> 00:19:53,967
+far more than most.
+
+503
+00:19:54,147 --> 00:19:56,247
+We will not guess the W one's
+
+504
+00:19:56,247 --> 00:19:57,189
+future price.
+
+505
+00:19:57,538 --> 00:19:59,686
+Now a twist on price.
+
+506
+00:19:59,866 --> 00:20:02,049
+In inflation-adjusted terms,
+
+507
+00:20:02,049 --> 00:20:04,388
+the F one cost about one point
+
+508
+00:20:04,388 --> 00:20:06,883
+one million pounds per Top Gear,
+
+509
+00:20:06,883 --> 00:20:09,689
+for six hundred eighteen horsepower,
+
+510
+00:20:09,689 --> 00:20:13,821
+about seventeen hundred eighty pounds per horsepower.
+
+511
+00:20:14,001 --> 00:20:16,095
+The W one at about two million
+
+512
+00:20:16,095 --> 00:20:19,376
+pounds for one thousand two hundred fifty-eight
+
+513
+00:20:19,376 --> 00:20:22,796
+horsepower is about fifteen hundred ninety pounds
+
+514
+00:20:22,796 --> 00:20:25,449
+per horsepower, by our own arithmetic.
+
+515
+00:20:25,798 --> 00:20:27,935
+Ownership has changed as well.
+
+516
+00:20:28,115 --> 00:20:30,644
+GoAuto says the W one comes with
+
+517
+00:20:30,644 --> 00:20:32,937
+a four-year vehicle warranty,
+
+518
+00:20:32,937 --> 00:20:36,178
+a six-year warranty on the hybrid battery
+
+519
+00:20:36,178 --> 00:20:38,471
+and a four-year service plan.
+
+520
+00:20:38,651 --> 00:20:39,665
+For the F one,
+
+521
+00:20:39,665 --> 00:20:43,434
+AutoMonitor estimates an annual service at McLaren's
+
+522
+00:20:43,434 --> 00:20:47,276
+special operations division in Woking costing fifteen
+
+523
+00:20:47,276 --> 00:20:49,233
+to thirty thousand dollars,
+
+524
+00:20:49,233 --> 00:20:51,480
+and treats that as an estimate.
+
+525
+00:20:51,829 --> 00:20:53,780
+So what is the real difference?
+
+526
+00:20:53,960 --> 00:20:56,002
+The W one is better at the
+
+527
+00:20:56,002 --> 00:20:56,630
+numbers.
+
+528
+00:20:56,810 --> 00:20:58,532
+Twice the horsepower,
+
+529
+00:20:58,532 --> 00:21:03,123
+quicker acceleration, about sixty-six percent more power
+
+530
+00:21:03,123 --> 00:21:06,156
+per kilogram, and far more downforce.
+
+531
+00:21:06,336 --> 00:21:09,692
+McLaren says it is its fastest-lapping and
+
+532
+00:21:09,692 --> 00:21:12,489
+fastest-accelerating road car ever.
+
+533
+00:21:12,669 --> 00:21:14,905
+On paper, it beats the F one
+
+534
+00:21:14,905 --> 00:21:18,019
+in almost everything but weight and top
+
+535
+00:21:18,019 --> 00:21:18,498
+speed.
+
+536
+00:21:18,847 --> 00:21:20,298
+The F one is better at the
+
+537
+00:21:20,298 --> 00:21:20,577
+idea.
+
+538
+00:21:20,757 --> 00:21:23,674
+It was lighter by two hundred fifty-nine
+
+539
+00:21:23,674 --> 00:21:24,403
+kilograms.
+
+540
+00:21:24,583 --> 00:21:27,340
+It had no turbos and no electric
+
+541
+00:21:27,340 --> 00:21:27,857
+motor.
+
+542
+00:21:28,037 --> 00:21:30,168
+It put the driver in the middle,
+
+543
+00:21:30,168 --> 00:21:32,300
+and it held the top speed record
+
+544
+00:21:32,300 --> 00:21:33,366
+for seven years.
+
+545
+00:21:33,546 --> 00:21:35,220
+It was not designed to win a
+
+546
+00:21:35,220 --> 00:21:35,937
+spreadsheet.
+
+547
+00:21:36,117 --> 00:21:38,528
+It was designed to be the ultimate
+
+548
+00:21:38,528 --> 00:21:40,088
+road-going sports car.
+
+549
+00:21:40,438 --> 00:21:42,412
+And here is the final twist.
+
+550
+00:21:42,592 --> 00:21:44,682
+The F one's own numbers are no
+
+551
+00:21:44,682 --> 00:21:47,190
+longer extreme by today's standards,
+
+552
+00:21:47,190 --> 00:21:49,070
+but its value keeps rising.
+
+553
+00:21:49,250 --> 00:21:51,818
+The W one's numbers are extreme,
+
+554
+00:21:51,818 --> 00:21:53,825
+but its value is unknown.
+
+555
+00:21:54,005 --> 00:21:56,854
+Sometimes, being the first at something matters
+
+556
+00:21:56,854 --> 00:21:58,370
+more than being the best.
+
+557
+00:21:58,720 --> 00:22:00,902
+Which one would you choose,
+
+558
+00:22:00,902 --> 00:22:02,761
+the F one or the W one?
+
+559
+00:22:02,941 --> 00:22:04,427
+Tell us in the comments.
+
+560
+00:22:04,607 --> 00:22:06,953
+In the other videos of this series,
+
+561
+00:22:06,953 --> 00:22:09,098
+we reveal two things you did not
+
+562
+00:22:09,098 --> 00:22:10,505
+know about the F one,
+
+563
+00:22:10,505 --> 00:22:12,650
+work out what it really costs to
+
+564
+00:22:12,650 --> 00:22:13,589
+own one today,
+
+565
+00:22:13,589 --> 00:22:15,533
+and tell the story of the man
+
+566
+00:22:15,533 --> 00:22:16,739
+who dreamed it up.
+
+567
+00:22:17,089 --> 00:22:18,872
+And if you want to spend your
+
+568
+00:22:18,872 --> 00:22:21,392
+money on something you can actually drive
+
+569
+00:22:21,392 --> 00:22:24,342
+every day, our twenty twenty-seven Truck Buyer's
+
+570
+00:22:24,342 --> 00:22:26,493
+Guide is linked in the description.
+
+571
+00:22:26,673 --> 00:22:30,151
+Subscribe to Pickup Reality for more stories
+
+572
+00:22:30,151 --> 00:22:33,234
+about the cars and trucks people really
+
+573
+00:22:33,234 --> 00:22:34,104
+talk about.
