@@ -1,0 +1,9 @@
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- The Drive, There's a 356-mile Lexus LFA for sale in Ohio (23 Sept 2017): https://www.thedrive.com/article/14584/theres-a-356-mile-lexus-lfa-for-sale-in-ohio.md
+- Motor Authority, Pearl Yellow 2012 Lexus LFA with 72 miles sells for $808,000 on Bring a Trailer (7 July 2021): https://www.motorauthority.com/news/1132702_pearl-yellow-2012-lexus-lfa-with-72-miles-sells-for-808-000-on-bring-a-trailer
+- Motor Authority, Rare Lexus LFA Nürburgring Edition sells for $1.6M at auction (23 Aug 2021): https://www.motorauthority.com/news/1133164_rare-lexus-lfa-n-rburgring-edition-sells-for-1-6m-at-auction
+- Supercar Blondie, Super rare Lexus LFA sells for massive $845k at auction (25 April 2022): https://supercarblondie.com/cars/lexus-lfa-850-miles-sells-845k/
+- Motor16, Estrenar un Lexus LFA se paga a precio de oro (16 April 2024): https://www.motor16.com/noticias/estrenar-lexus-lfa-precio-oro-record/
+- Club Lexus, Lexus LFA Nürburgring Edition nabs nearly $1M at auction: https://clublexus.com/articles/lexus-lfa-nurburgring-edition-nabs-nearly-1m-at-auction
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom
+- Motor1, Mercedes-AMG won't allow Project One owners to flip their cars: https://www.motor1.com/news/260939/mercedes-amg-project-one/
