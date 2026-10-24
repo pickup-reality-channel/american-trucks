@@ -1,0 +1,6 @@
+- Wikipedia, Rimac Nevera: https://en.wikipedia.org/wiki/Rimac_Nevera
+- Electrek, Richard Hammond crash, Rimac Concept One (June 2017): https://electrek.co/2017/06/10/richard-hammond-crash-rimac-concept_one-all-electric-supercar/
+- CNBC, Rimac Nevera review (Sept 2023): https://www.cnbc.com/2023/09/16/rimac-nevera-ev-review-powerful-easy-to-drive.html
+- Popular Science, Driving the Rimac Nevera: https://www.popsci.com/technology/rimac-nevera-ev-first-drive/
+- Top Gear Malaysia, Rimac Nevera review: https://topgear.com.my/reviews/rimac-nevera-review-a-hypercar-sensation
+- Indigo Auto Group, Rimac extends Nevera battery warranty to 8 years (Jan 2024): https://news.indigoautogroup.com/blog-posts/rimac-has-enhanced-the-neveras-battery-warranty-to-8-years
