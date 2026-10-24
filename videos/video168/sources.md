@@ -1,0 +1,11 @@
+- Lamborghini, End of an era with the last Lamborghini Aventador, 26 Sep 2022: https://www.lamborghini.com/cn-en/%E6%96%B0%E9%97%BB/end-of-an-era-with-the-last-lamborghini-aventador
+- Motor Authority (Viknesh Vijayenthiran), Lamborghini ends Aventador production, 26 Sep 2022: https://www.motorauthority.com/news/1137269_lamborghini-ends-aventador-production-closes-chapter-on-pure-v-12-era
+- Motor1 (Christopher Smith), Lamborghini confirms Aventador Ultimae is its last pure V12 car, 7 Jul 2021: https://www.motor1.com/news/518745/lamborghini-confirms-end-of-v12/
+- Wikipedia, Lamborghini Aventador: https://en.wikipedia.org/wiki/Lamborghini_Aventador
+- Wikipedia, Lamborghini Murciélago: https://en.wikipedia.org/wiki/Lamborghini_Murci%C3%A9lago
+- Wikipedia, Lamborghini Revuelto: https://en.wikipedia.org/wiki/Lamborghini_Revuelto
+- Wikipedia, Lamborghini Huracán: https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n
+- IEEE Spectrum, 2019's Top 10 Tech Cars: Lamborghini Aventador SVJ: https://spectrum.ieee.org/2019s-top-10-tech-cars-lamborghini-aventador-svj
+- TechCrunch, Lamborghini Huracán STO: a final celebration before electrification, 23 Sep 2021: https://techcrunch.com/2021/09/23/lamborghini-huracan-sto-a-final-celebration-before-electrification/
+- Lambocars, What does it cost to own and maintain a late-model Lamborghini?, 4 May 2022: https://www.lambocars.com/cost-to-own-and-maintain-modern-lamborghini/
+- Automonitor.io, What does an Aventador SVJ actually cost to own? (unsourced estimates): https://automonitor.io/blog/how-much-does-a-lamborghini-aventador-svj-cost/
