@@ -1,0 +1,2271 @@
+1
+00:00:00,000 --> 00:00:01,959
+In nineteen eighty-eight,
+
+2
+00:00:01,959 --> 00:00:04,231
+four men sat at an airport in
+
+3
+00:00:04,231 --> 00:00:07,366
+Italy, and one of them started sketching
+
+4
+00:00:07,366 --> 00:00:07,836
+a car.
+
+5
+00:00:08,016 --> 00:00:10,861
+McLaren had never built a road car.
+
+6
+00:00:11,041 --> 00:00:13,329
+The sketch showed a three-seater with the
+
+7
+00:00:13,329 --> 00:00:14,500
+driver in the middle.
+
+8
+00:00:14,680 --> 00:00:15,988
+Four years later,
+
+9
+00:00:15,988 --> 00:00:18,835
+that sketch became the McLaren F one,
+
+10
+00:00:18,835 --> 00:00:21,297
+one of the most famous cars ever
+
+11
+00:00:21,297 --> 00:00:21,681
+made.
+
+12
+00:00:21,861 --> 00:00:24,299
+This is the insane story behind it,
+
+13
+00:00:24,299 --> 00:00:26,320
+and it starts with a boy from
+
+14
+00:00:26,320 --> 00:00:27,225
+South Africa.
+
+15
+00:00:27,575 --> 00:00:28,933
+Here is the twist.
+
+16
+00:00:29,113 --> 00:00:31,247
+The man who designed the F one
+
+17
+00:00:31,247 --> 00:00:34,236
+had already shocked the racing world once,
+
+18
+00:00:34,236 --> 00:00:36,442
+with a Formula One car that won
+
+19
+00:00:36,442 --> 00:00:39,074
+its only race and was then withdrawn.
+
+20
+00:00:39,254 --> 00:00:40,525
+And decades later,
+
+21
+00:00:40,525 --> 00:00:43,490
+he would list everything he disliked about
+
+22
+00:00:43,490 --> 00:00:44,196
+the F one,
+
+23
+00:00:44,196 --> 00:00:46,032
+and build a new car to fix
+
+24
+00:00:46,032 --> 00:00:46,243
+it.
+
+25
+00:00:46,594 --> 00:00:48,889
+Every fact in this video comes from
+
+26
+00:00:48,889 --> 00:00:51,841
+published sources, listed in the description.
+
+27
+00:00:52,021 --> 00:00:53,597
+Where sources disagree,
+
+28
+00:00:53,597 --> 00:00:54,761
+we will tell you.
+
+29
+00:00:54,941 --> 00:00:57,296
+And there is one disagreement right at
+
+30
+00:00:57,296 --> 00:01:00,022
+the start, about where that airport actually
+
+31
+00:01:00,022 --> 00:01:00,270
+was.
+
+32
+00:01:00,620 --> 00:01:04,195
+Wikipedia says Ian Gordon Murray was born
+
+33
+00:01:04,195 --> 00:01:06,462
+on the eighteenth of June,
+
+34
+00:01:06,462 --> 00:01:09,077
+nineteen forty-six, in Durban,
+
+35
+00:01:09,077 --> 00:01:10,210
+South Africa.
+
+36
+00:01:10,390 --> 00:01:12,561
+His parents were Scottish immigrants.
+
+37
+00:01:12,741 --> 00:01:16,163
+His father raced motorcycles and later prepared
+
+38
+00:01:16,163 --> 00:01:17,037
+racing cars.
+
+39
+00:01:17,217 --> 00:01:19,594
+So Murray grew up around engines,
+
+40
+00:01:19,594 --> 00:01:22,186
+in a family where racing was normal.
+
+41
+00:01:22,537 --> 00:01:25,711
+He studied mechanical engineering at what is
+
+42
+00:01:25,711 --> 00:01:28,597
+now the Durban University of Technology.
+
+43
+00:01:28,777 --> 00:01:30,567
+Then, Wikipedia says,
+
+44
+00:01:30,567 --> 00:01:34,232
+he moved to England in nineteen sixty-nine,
+
+45
+00:01:34,232 --> 00:01:36,022
+hoping to join Lotus.
+
+46
+00:01:36,202 --> 00:01:39,730
+Instead, after meeting designer Ron Tauranac,
+
+47
+00:01:39,730 --> 00:01:42,239
+he was offered a job at Brabham.
+
+48
+00:01:42,589 --> 00:01:45,201
+At Brabham, Murray rose quickly.
+
+49
+00:01:45,381 --> 00:01:48,444
+Wikipedia says Bernie Ecclestone later made him
+
+50
+00:01:48,444 --> 00:01:49,421
+chief designer.
+
+51
+00:01:49,601 --> 00:01:51,810
+So by the nineteen seventies,
+
+52
+00:01:51,810 --> 00:01:55,162
+a young South African engineer was designing
+
+53
+00:01:55,162 --> 00:01:57,524
+Formula One cars for one of the
+
+54
+00:01:57,524 --> 00:01:59,504
+sport's most famous teams.
+
+55
+00:01:59,684 --> 00:02:01,319
+And he was about to build one
+
+56
+00:02:01,319 --> 00:02:02,784
+of the most controversial.
+
+57
+00:02:03,135 --> 00:02:07,012
+Wikipedia says that in mid-nineteen seventy-seven,
+
+58
+00:02:07,012 --> 00:02:10,347
+Murray started work on the ambitious design
+
+59
+00:02:10,347 --> 00:02:12,597
+of the Brabham B T forty-six.
+
+60
+00:02:12,777 --> 00:02:15,206
+It was intended to compensate for the
+
+61
+00:02:15,206 --> 00:02:17,176
+weight of its engine and fuel,
+
+62
+00:02:17,176 --> 00:02:18,883
+and to let the team take a
+
+63
+00:02:18,883 --> 00:02:20,788
+large technical step forward.
+
+64
+00:02:20,968 --> 00:02:23,602
+The engine was an Alfa Romeo flat
+
+65
+00:02:23,602 --> 00:02:24,160
+twelve.
+
+66
+00:02:24,511 --> 00:02:26,931
+The page says the flat twelve was
+
+67
+00:02:26,931 --> 00:02:28,472
+a three-liter engine,
+
+68
+00:02:28,472 --> 00:02:31,699
+and produced about five hundred twenty brake
+
+69
+00:02:31,699 --> 00:02:34,266
+horsepower at twelve thousand r p m
+
+70
+00:02:34,266 --> 00:02:36,173
+in nineteen seventy-eight,
+
+71
+00:02:36,173 --> 00:02:39,254
+about fifty more than the Cosworth engines
+
+72
+00:02:39,254 --> 00:02:40,428
+most teams used.
+
+73
+00:02:40,608 --> 00:02:42,047
+But it came with a cost.
+
+74
+00:02:42,227 --> 00:02:43,295
+It was larger,
+
+75
+00:02:43,295 --> 00:02:45,048
+used more fuel and oil,
+
+76
+00:02:45,048 --> 00:02:48,021
+and weighed about forty kilograms more.
+
+77
+00:02:48,371 --> 00:02:51,463
+Wikipedia says Murray realized the flat twelve
+
+78
+00:02:51,463 --> 00:02:53,749
+was too wide to permit the tunnels
+
+79
+00:02:53,749 --> 00:02:56,706
+needed for really significant ground effect.
+
+80
+00:02:56,886 --> 00:02:58,607
+At Murray's instigation,
+
+81
+00:02:58,607 --> 00:03:00,543
+Alfa went on to produce a V
+
+82
+00:03:00,543 --> 00:03:03,411
+twelve engine for nineteen seventy-nine.
+
+83
+00:03:03,591 --> 00:03:04,563
+In our reading,
+
+84
+00:03:04,563 --> 00:03:06,118
+the fan car was a way of
+
+85
+00:03:06,118 --> 00:03:08,061
+getting downforce another way.
+
+86
+00:03:08,412 --> 00:03:10,478
+Murray then found a radical idea.
+
+87
+00:03:10,658 --> 00:03:13,686
+Wikipedia says his design used a complex
+
+88
+00:03:13,686 --> 00:03:16,865
+series of clutches running from the engine
+
+89
+00:03:16,865 --> 00:03:18,530
+to a large single fan.
+
+90
+00:03:18,710 --> 00:03:20,474
+The faster the engine ran,
+
+91
+00:03:20,474 --> 00:03:22,645
+the stronger the suction effect.
+
+92
+00:03:22,825 --> 00:03:25,753
+Sliding skirts sealed the gap between the
+
+93
+00:03:25,753 --> 00:03:27,110
+car and the ground.
+
+94
+00:03:27,290 --> 00:03:29,291
+The car could be seen to squat
+
+95
+00:03:29,291 --> 00:03:32,026
+on its suspension as downforce increased.
+
+96
+00:03:32,377 --> 00:03:34,195
+The team argued the fan was for
+
+97
+00:03:34,195 --> 00:03:34,664
+cooling.
+
+98
+00:03:34,844 --> 00:03:37,522
+Wikipedia says that using a fan to
+
+99
+00:03:37,522 --> 00:03:39,491
+assist cooling was legal,
+
+100
+00:03:39,491 --> 00:03:43,273
+while rules banned moveable aerodynamic devices.
+
+101
+00:03:43,453 --> 00:03:46,227
+The team claimed cooling was the primary
+
+102
+00:03:46,227 --> 00:03:49,280
+effect, and the claim gained some legitimacy
+
+103
+00:03:49,280 --> 00:03:51,847
+because the car had cooling problems.
+
+104
+00:03:52,027 --> 00:03:54,334
+The page says the original B T
+
+105
+00:03:54,334 --> 00:03:57,563
+forty-six had only about thirty percent of
+
+106
+00:03:57,563 --> 00:03:59,794
+the cooling surface required.
+
+107
+00:04:00,143 --> 00:04:01,699
+The car raced once.
+
+108
+00:04:01,879 --> 00:04:04,875
+Wikipedia says the two modified cars were
+
+109
+00:04:04,875 --> 00:04:07,651
+prepared for the Swedish Grand Prix at
+
+110
+00:04:07,651 --> 00:04:10,427
+Anderstorp on the seventeenth of June,
+
+111
+00:04:10,427 --> 00:04:12,108
+nineteen seventy-eight.
+
+112
+00:04:12,288 --> 00:04:15,176
+They qualified second and third behind the
+
+113
+00:04:15,176 --> 00:04:17,651
+championship leader, Mario Andretti.
+
+114
+00:04:17,831 --> 00:04:18,838
+In the race,
+
+115
+00:04:18,838 --> 00:04:21,941
+John Watson spun off on lap nineteen.
+
+116
+00:04:22,121 --> 00:04:23,724
+And Niki Lauda won.
+
+117
+00:04:24,074 --> 00:04:26,353
+The page says Lauda won by over
+
+118
+00:04:26,353 --> 00:04:29,000
+half a minute from Riccardo Patrese,
+
+119
+00:04:29,000 --> 00:04:31,941
+passing Andretti around the outside of a
+
+120
+00:04:31,941 --> 00:04:32,456
+corner.
+
+121
+00:04:32,636 --> 00:04:35,075
+After another driver dropped oil,
+
+122
+00:04:35,075 --> 00:04:37,218
+the Brabham was in a class of
+
+123
+00:04:37,218 --> 00:04:40,543
+its own, seemingly unaffected by the slippery
+
+124
+00:04:40,543 --> 00:04:41,134
+surface.
+
+125
+00:04:41,314 --> 00:04:43,572
+The fan car had won its first
+
+126
+00:04:43,572 --> 00:04:43,961
+race.
+
+127
+00:04:44,312 --> 00:04:45,763
+Andretti was not happy.
+
+128
+00:04:45,943 --> 00:04:48,574
+Wikipedia quotes him saying it was like
+
+129
+00:04:48,574 --> 00:04:50,598
+a bloody great vacuum cleaner.
+
+130
+00:04:50,778 --> 00:04:53,124
+Murray disputed that it threw debris.
+
+131
+00:04:53,304 --> 00:04:55,424
+He said the fan could not spit
+
+132
+00:04:55,424 --> 00:04:58,181
+anything out the back because the fan's
+
+133
+00:04:58,181 --> 00:05:01,008
+exit speed was only fifty-five miles per
+
+134
+00:05:01,008 --> 00:05:03,482
+hour, and that the radial fan would
+
+135
+00:05:03,482 --> 00:05:06,098
+have sent any stones flying sideways.
+
+136
+00:05:06,448 --> 00:05:07,367
+The win stood,
+
+137
+00:05:07,367 --> 00:05:10,126
+because the car was not considered illegal
+
+138
+00:05:10,126 --> 00:05:11,045
+when it raced.
+
+139
+00:05:11,225 --> 00:05:13,635
+But the page says Brabham withdrew it
+
+140
+00:05:13,635 --> 00:05:14,612
+after one race,
+
+141
+00:05:14,612 --> 00:05:16,240
+even though the F I A had
+
+142
+00:05:16,240 --> 00:05:17,738
+ruled it could be used.
+
+143
+00:05:17,918 --> 00:05:20,675
+The reason was concern from team owner
+
+144
+00:05:20,675 --> 00:05:23,939
+Bernie Ecclestone that upset from other teams
+
+145
+00:05:23,939 --> 00:05:26,333
+could collapse their association,
+
+146
+00:05:26,333 --> 00:05:26,695
+FOCA.
+
+147
+00:05:27,046 --> 00:05:29,812
+Wikipedia says the heads of the other
+
+148
+00:05:29,812 --> 00:05:32,279
+FOCA teams, led by Colin Chapman,
+
+149
+00:05:32,279 --> 00:05:36,092
+threatened to withdraw their support for Ecclestone
+
+150
+00:05:36,092 --> 00:05:38,261
+unless he pulled the fan car.
+
+151
+00:05:38,441 --> 00:05:40,821
+A deal was reached for Brabham to
+
+152
+00:05:40,821 --> 00:05:44,212
+withdraw it voluntarily after three more races,
+
+153
+00:05:44,212 --> 00:05:47,242
+but the sport's governing body then banned
+
+154
+00:05:47,242 --> 00:05:47,891
+fan cars.
+
+155
+00:05:48,071 --> 00:05:51,020
+It never raced again in Formula One.
+
+156
+00:05:51,371 --> 00:05:53,751
+Lauda was not sentimental about it.
+
+157
+00:05:53,931 --> 00:05:57,100
+Wikipedia says that when he accelerated through
+
+158
+00:05:57,100 --> 00:05:59,459
+corners, the car would stick to the
+
+159
+00:05:59,459 --> 00:06:01,347
+road as if it were on rails,
+
+160
+00:06:01,347 --> 00:06:03,909
+which exposed him to very high lateral
+
+161
+00:06:03,909 --> 00:06:04,786
+acceleration.
+
+162
+00:06:04,966 --> 00:06:07,937
+He later called it unpleasant to drive,
+
+163
+00:06:07,937 --> 00:06:11,060
+because of the lateral loads and reliance
+
+164
+00:06:11,060 --> 00:06:13,650
+on aerodynamics over driver skill.
+
+165
+00:06:14,001 --> 00:06:15,208
+Remember the fan.
+
+166
+00:06:15,388 --> 00:06:17,757
+Because it comes back later in this
+
+167
+00:06:17,757 --> 00:06:18,163
+story.
+
+168
+00:06:18,343 --> 00:06:20,398
+For now, the point is this.
+
+169
+00:06:20,578 --> 00:06:23,231
+Gordon Murray had already built a car
+
+170
+00:06:23,231 --> 00:06:25,885
+so effective that it was banned after
+
+171
+00:06:25,885 --> 00:06:27,462
+winning its only race.
+
+172
+00:06:27,642 --> 00:06:29,791
+And the next chapter of his career
+
+173
+00:06:29,791 --> 00:06:32,129
+would put that creativity into a very
+
+174
+00:06:32,129 --> 00:06:33,773
+different kind of machine.
+
+175
+00:06:34,123 --> 00:06:35,527
+There is an odd footnote.
+
+176
+00:06:35,707 --> 00:06:39,174
+Wikipedia says that in nineteen seventy-nine,
+
+177
+00:06:39,174 --> 00:06:41,485
+a B T forty-six ran in fan-car
+
+178
+00:06:41,485 --> 00:06:43,411
+specification once again,
+
+179
+00:06:43,411 --> 00:06:45,645
+at the Gunnar Nilsson Trophy.
+
+180
+00:06:45,825 --> 00:06:47,182
+It was not an F I A
+
+181
+00:06:47,182 --> 00:06:49,896
+event, so the car's illegality was not
+
+182
+00:06:49,896 --> 00:06:50,539
+a factor.
+
+183
+00:06:50,719 --> 00:06:52,698
+The race was a time trial,
+
+184
+00:06:52,698 --> 00:06:55,818
+and Nelson Piquet finished fourth of five
+
+185
+00:06:55,818 --> 00:06:56,199
+cars.
+
+186
+00:06:56,549 --> 00:06:59,923
+Wikipedia says that in nineteen eighty-six,
+
+187
+00:06:59,923 --> 00:07:03,063
+Murray received an offer from Ron Dennis
+
+188
+00:07:03,063 --> 00:07:06,045
+to join McLaren as technical director.
+
+189
+00:07:06,225 --> 00:07:08,652
+McLaren was one of the top teams
+
+190
+00:07:08,652 --> 00:07:09,790
+in Formula One.
+
+191
+00:07:09,970 --> 00:07:11,743
+Murray moved from Brabham,
+
+192
+00:07:11,743 --> 00:07:13,858
+and his career would be tied to
+
+193
+00:07:13,858 --> 00:07:15,972
+McLaren for nearly two decades.
+
+194
+00:07:16,322 --> 00:07:17,866
+And then came the airport.
+
+195
+00:07:18,046 --> 00:07:19,450
+Here is the disagreement.
+
+196
+00:07:19,630 --> 00:07:23,182
+Wikipedia says Murray sketched a three-seater sports
+
+197
+00:07:23,182 --> 00:07:26,323
+car in nineteen eighty-eight while waiting for
+
+198
+00:07:26,323 --> 00:07:28,782
+a flight home from the Italian Grand
+
+199
+00:07:28,782 --> 00:07:31,240
+Prix, and proposed it to Ron Dennis.
+
+200
+00:07:31,420 --> 00:07:34,144
+A longer account by Attic Capital says
+
+201
+00:07:34,144 --> 00:07:37,010
+the meeting took place at Linate Airport
+
+202
+00:07:37,010 --> 00:07:37,655
+in Milan.
+
+203
+00:07:38,005 --> 00:07:40,143
+Attic Capital says Ron Dennis,
+
+204
+00:07:40,143 --> 00:07:43,564
+Mansour Ojjeh, Creighton Brown and Gordon Murray
+
+205
+00:07:43,564 --> 00:07:46,201
+were all sitting at Linate Airport in
+
+206
+00:07:46,201 --> 00:07:47,769
+nineteen eighty-eight.
+
+207
+00:07:47,949 --> 00:07:51,365
+They discussed creating the ultimate road car,
+
+208
+00:07:51,365 --> 00:07:53,667
+but it seemed like a huge leap,
+
+209
+00:07:53,667 --> 00:07:56,489
+because McLaren had never built a road
+
+210
+00:07:56,489 --> 00:07:57,306
+car before.
+
+211
+00:07:57,486 --> 00:07:59,967
+The idea started growing in each of
+
+212
+00:07:59,967 --> 00:08:00,818
+their minds.
+
+213
+00:08:01,169 --> 00:08:03,241
+Ojjeh asked a simple question,
+
+214
+00:08:03,241 --> 00:08:05,313
+according to the same account.
+
+215
+00:08:05,493 --> 00:08:06,876
+Why do I have to go to
+
+216
+00:08:06,876 --> 00:08:08,384
+Italy to buy a supercar?
+
+217
+00:08:08,564 --> 00:08:10,993
+And Dennis later said the simple truth
+
+218
+00:08:10,993 --> 00:08:12,846
+is that all four of them that
+
+219
+00:08:12,846 --> 00:08:14,764
+day were essentially car nuts.
+
+220
+00:08:14,944 --> 00:08:17,647
+He said he appreciated being associated with
+
+221
+00:08:17,647 --> 00:08:19,858
+an achievement of which one could be
+
+222
+00:08:19,858 --> 00:08:20,226
+proud.
+
+223
+00:08:20,577 --> 00:08:22,556
+What Murray proposed was not new to
+
+224
+00:08:22,556 --> 00:08:22,782
+him.
+
+225
+00:08:22,962 --> 00:08:25,418
+Attic Capital says that in college,
+
+226
+00:08:25,418 --> 00:08:28,155
+he had doodled a three-seat sports car,
+
+227
+00:08:28,155 --> 00:08:30,470
+with one driver in the middle and
+
+228
+00:08:30,470 --> 00:08:32,645
+two passengers slightly behind.
+
+229
+00:08:32,825 --> 00:08:35,321
+That one-plus-two layout was the proposal.
+
+230
+00:08:35,501 --> 00:08:38,625
+His notebook held a four-page goal summary,
+
+231
+00:08:38,625 --> 00:08:41,677
+and the design proposal was handwritten on
+
+232
+00:08:41,677 --> 00:08:42,549
+graph paper.
+
+233
+00:08:42,899 --> 00:08:45,823
+Murray's notes specified a three and a
+
+234
+00:08:45,823 --> 00:08:49,749
+half liter, naturally aspirated engine derived from
+
+235
+00:08:49,749 --> 00:08:51,366
+a Formula One engine,
+
+236
+00:08:51,366 --> 00:08:52,674
+not turbocharged.
+
+237
+00:08:52,854 --> 00:08:55,623
+They demanded the car be stunning from
+
+238
+00:08:55,623 --> 00:08:58,612
+all angles, and that quality be instilled
+
+239
+00:08:58,612 --> 00:09:00,215
+in staff from day one.
+
+240
+00:09:00,395 --> 00:09:01,851
+The stated goal was,
+
+241
+00:09:01,851 --> 00:09:04,400
+quite simply, the world's best car.
+
+242
+00:09:04,751 --> 00:09:09,043
+Before designing, Murray tested rival supercars and
+
+243
+00:09:09,043 --> 00:09:11,653
+made notes on what he disliked,
+
+244
+00:09:11,653 --> 00:09:14,515
+an exercise he called an exorcism.
+
+245
+00:09:14,695 --> 00:09:16,723
+The Honda N S X became his
+
+246
+00:09:16,723 --> 00:09:19,455
+benchmark after a test-track visit.
+
+247
+00:09:19,635 --> 00:09:22,517
+And he treated road car regulation as
+
+248
+00:09:22,517 --> 00:09:23,141
+freedom.
+
+249
+00:09:23,321 --> 00:09:25,058
+He said it was fantastic,
+
+250
+00:09:25,058 --> 00:09:26,308
+because in effect,
+
+251
+00:09:26,308 --> 00:09:27,558
+there was not any.
+
+252
+00:09:27,909 --> 00:09:29,743
+Dennis summed up the ambition.
+
+253
+00:09:29,923 --> 00:09:32,881
+Attic Capital quotes him saying the goal
+
+254
+00:09:32,881 --> 00:09:35,395
+was not only the finest sports car
+
+255
+00:09:35,395 --> 00:09:37,169
+the world had ever seen,
+
+256
+00:09:37,169 --> 00:09:39,683
+but also the finest sports car the
+
+257
+00:09:39,683 --> 00:09:41,753
+world was ever going to see.
+
+258
+00:09:41,933 --> 00:09:43,525
+That is quite a promise,
+
+259
+00:09:43,525 --> 00:09:45,779
+for a company that had never built
+
+260
+00:09:45,779 --> 00:09:46,508
+a road car.
+
+261
+00:09:46,858 --> 00:09:50,226
+Gooding and Company says that Murray presented
+
+262
+00:09:50,226 --> 00:09:52,862
+his ideas to McLaren's joint owners,
+
+263
+00:09:52,862 --> 00:09:55,132
+Ron Dennis and Creighton Brown,
+
+264
+00:09:55,132 --> 00:09:57,842
+who were agreeable and set up McLaren
+
+265
+00:09:57,842 --> 00:09:59,965
+Cars in nineteen eighty-nine.
+
+266
+00:10:00,145 --> 00:10:02,475
+Motor Authority says the team that was
+
+267
+00:10:02,475 --> 00:10:04,498
+to create the F one came together
+
+268
+00:10:04,498 --> 00:10:06,828
+for the first time in nineteen ninety,
+
+269
+00:10:06,828 --> 00:10:09,096
+and two years later the car launched.
+
+270
+00:10:09,446 --> 00:10:12,734
+Motor Authority published photos of the original
+
+271
+00:10:12,734 --> 00:10:13,556
+clay models.
+
+272
+00:10:13,736 --> 00:10:15,736
+It says the exterior could have been
+
+273
+00:10:15,736 --> 00:10:17,068
+significantly different.
+
+274
+00:10:17,248 --> 00:10:18,686
+The headlight design,
+
+275
+00:10:18,686 --> 00:10:20,739
+it says, is much better on the
+
+276
+00:10:20,739 --> 00:10:23,340
+production car than on the clay model,
+
+277
+00:10:23,340 --> 00:10:25,872
+and one clay model has a roof-mounted
+
+278
+00:10:25,872 --> 00:10:28,268
+scoop that resembles the one on the
+
+279
+00:10:28,268 --> 00:10:29,636
+later McLaren P one.
+
+280
+00:10:29,986 --> 00:10:32,967
+The final exterior came from Peter Stevens,
+
+281
+00:10:32,967 --> 00:10:34,700
+Gooding and Company says.
+
+282
+00:10:34,880 --> 00:10:37,630
+It describes a design simpler and more
+
+283
+00:10:37,630 --> 00:10:40,453
+elegant than most supercars of its era.
+
+284
+00:10:40,633 --> 00:10:44,014
+And Wikipedia says Murray's design concept was
+
+285
+00:10:44,014 --> 00:10:47,542
+a common one among designers of high-performance
+
+286
+00:10:47,542 --> 00:10:49,894
+cars, low weight and high power,
+
+287
+00:10:49,894 --> 00:10:51,511
+pursued to an extreme.
+
+288
+00:10:51,861 --> 00:10:53,824
+Then came the engine problem.
+
+289
+00:10:54,004 --> 00:10:57,186
+Gooding and Company says McLaren's Formula One
+
+290
+00:10:57,186 --> 00:10:59,607
+cars used Honda engines in the late
+
+291
+00:10:59,607 --> 00:11:02,235
+eighties, but Honda would not build an
+
+292
+00:11:02,235 --> 00:11:03,895
+engine for the road car.
+
+293
+00:11:04,075 --> 00:11:06,306
+Murray had to shop around,
+
+294
+00:11:06,306 --> 00:11:10,853
+eventually finding a collaborator in BMW's motorsport
+
+295
+00:11:10,853 --> 00:11:14,027
+division, which built a six point one
+
+296
+00:11:14,027 --> 00:11:15,314
+liter V twelve.
+
+297
+00:11:15,663 --> 00:11:18,889
+Wikipedia says the engine made six hundred
+
+298
+00:11:18,889 --> 00:11:22,344
+eighteen horsepower, and that it was designed
+
+299
+00:11:22,344 --> 00:11:24,417
+by BMW M under Paul Rosche.
+
+300
+00:11:24,597 --> 00:11:27,467
+Gooding and Company says the original goal
+
+301
+00:11:27,467 --> 00:11:29,791
+was five hundred fifty horsepower,
+
+302
+00:11:29,791 --> 00:11:33,139
+and the engine delivered six hundred twenty-seven
+
+303
+00:11:33,139 --> 00:11:35,940
+metric horsepower without further tuning.
+
+304
+00:11:36,120 --> 00:11:39,262
+Murray's non-negotiable was that it be naturally
+
+305
+00:11:39,262 --> 00:11:39,917
+aspirated.
+
+306
+00:11:40,266 --> 00:11:42,647
+Murray's chassis was carbon fiber.
+
+307
+00:11:42,827 --> 00:11:45,634
+Gooding and Company says it was the
+
+308
+00:11:45,634 --> 00:11:48,282
+first road car with a full carbon
+
+309
+00:11:48,282 --> 00:11:50,608
+fiber chassis, with titanium,
+
+310
+00:11:50,608 --> 00:11:53,496
+magnesium and Kevlar in other areas.
+
+311
+00:11:53,676 --> 00:11:56,148
+And the engine bay was lined with
+
+312
+00:11:56,148 --> 00:11:59,893
+gold foil, which Wikipedia says used approximately
+
+313
+00:11:59,893 --> 00:12:02,140
+sixteen grams of gold per car.
+
+314
+00:12:02,489 --> 00:12:04,324
+And there was the driving position.
+
+315
+00:12:04,504 --> 00:12:07,224
+Wikipedia says the driver's seat is in
+
+316
+00:12:07,224 --> 00:12:08,798
+the middle of the car,
+
+317
+00:12:08,798 --> 00:12:10,946
+ahead of the fuel tank and the
+
+318
+00:12:10,946 --> 00:12:11,447
+engine.
+
+319
+00:12:11,627 --> 00:12:14,971
+Gooding and Company points out that Ferrari's
+
+320
+00:12:14,971 --> 00:12:17,944
+Tre Posti three sixty-five P of nineteen
+
+321
+00:12:17,944 --> 00:12:20,322
+sixty-six used a similar layout,
+
+322
+00:12:20,322 --> 00:12:22,849
+but that was a coachbuilt special,
+
+323
+00:12:22,849 --> 00:12:24,409
+not a production car.
+
+324
+00:12:24,759 --> 00:12:25,886
+Count the years.
+
+325
+00:12:26,066 --> 00:12:28,850
+From the airport meeting in nineteen eighty-eight
+
+326
+00:12:28,850 --> 00:12:30,384
+to the launch of the car in
+
+327
+00:12:30,384 --> 00:12:32,316
+nineteen ninety-two is four years,
+
+328
+00:12:32,316 --> 00:12:33,566
+by our own arithmetic.
+
+329
+00:12:33,746 --> 00:12:36,252
+From the day Murray arrived in England
+
+330
+00:12:36,252 --> 00:12:38,890
+in nineteen sixty-nine to that launch is
+
+331
+00:12:38,890 --> 00:12:40,143
+twenty-three years.
+
+332
+00:12:40,323 --> 00:12:42,290
+The F one was not a sudden
+
+333
+00:12:42,290 --> 00:12:42,668
+idea.
+
+334
+00:12:42,848 --> 00:12:44,976
+It was the result of a lifetime
+
+335
+00:12:44,976 --> 00:12:46,006
+of engineering.
+
+336
+00:12:46,356 --> 00:12:47,714
+Then there was the test.
+
+337
+00:12:47,894 --> 00:12:50,179
+Wikipedia says a test driver,
+
+338
+00:12:50,179 --> 00:12:52,859
+wearing just shorts and a T-shirt,
+
+339
+00:12:52,859 --> 00:12:55,302
+hit a rock and rolled the first
+
+340
+00:12:55,302 --> 00:12:57,193
+prototype several times.
+
+341
+00:12:57,373 --> 00:13:00,008
+The car survived well enough to continue
+
+342
+00:13:00,008 --> 00:13:00,798
+the program.
+
+343
+00:13:00,978 --> 00:13:03,229
+That crash was an early sign of
+
+344
+00:13:03,229 --> 00:13:05,843
+how strong the carbon structure was.
+
+345
+00:13:06,193 --> 00:13:09,006
+Production began in nineteen ninety-two,
+
+346
+00:13:09,006 --> 00:13:10,765
+Gooding and Company says,
+
+347
+00:13:10,765 --> 00:13:13,649
+with the first cars reaching customers in
+
+348
+00:13:13,649 --> 00:13:16,815
+nineteen ninety-three, at a starting price of
+
+349
+00:13:16,815 --> 00:13:19,277
+five hundred forty thousand pounds.
+
+350
+00:13:19,457 --> 00:13:21,781
+It also says it is alleged that
+
+351
+00:13:21,781 --> 00:13:24,105
+McLaren lost money on the F one
+
+352
+00:13:24,105 --> 00:13:24,705
+project.
+
+353
+00:13:24,885 --> 00:13:27,585
+In total, one hundred six cars were
+
+354
+00:13:27,585 --> 00:13:28,588
+manufactured.
+
+355
+00:13:28,939 --> 00:13:30,401
+Here is a twist.
+
+356
+00:13:30,581 --> 00:13:33,484
+Wikipedia's page on the T fifty says
+
+357
+00:13:33,484 --> 00:13:35,903
+Murray intended the F one as a
+
+358
+00:13:35,903 --> 00:13:38,483
+road car, was forced to race it,
+
+359
+00:13:38,483 --> 00:13:40,498
+and found it a pain to do
+
+360
+00:13:40,498 --> 00:13:40,740
+so.
+
+361
+00:13:40,920 --> 00:13:42,814
+And the page on the F one
+
+362
+00:13:42,814 --> 00:13:45,542
+GTR says Murray originally saw it as
+
+363
+00:13:45,542 --> 00:13:47,209
+the ultimate road car,
+
+364
+00:13:47,209 --> 00:13:49,558
+with no intention of racing it.
+
+365
+00:13:49,907 --> 00:13:52,337
+The racing version was not a gentle
+
+366
+00:13:52,337 --> 00:13:53,100
+conversion.
+
+367
+00:13:53,280 --> 00:13:56,667
+Wikipedia says the bodywork gained cooling ducts,
+
+368
+00:13:56,667 --> 00:13:58,809
+a large central nose duct and a
+
+369
+00:13:58,809 --> 00:14:00,675
+large adjustable rear wing,
+
+370
+00:14:00,675 --> 00:14:03,855
+and that even the nineteen ninety-five version
+
+371
+00:14:03,855 --> 00:14:06,827
+generated enough downforce to run along the
+
+372
+00:14:06,827 --> 00:14:09,453
+ceiling at one hundred miles per hour.
+
+373
+00:14:09,633 --> 00:14:12,385
+The interior was stripped and given a
+
+374
+00:14:12,385 --> 00:14:13,650
+full racing cage.
+
+375
+00:14:14,000 --> 00:14:15,904
+But racers kept asking.
+
+376
+00:14:16,084 --> 00:14:18,460
+The page says Le Mans winner John
+
+377
+00:14:18,460 --> 00:14:21,340
+Nielsen turned to Murray to convince him
+
+378
+00:14:21,340 --> 00:14:23,140
+to offer factory backing,
+
+379
+00:14:23,140 --> 00:14:26,093
+and finally Murray relented and agreed to
+
+380
+00:14:26,093 --> 00:14:28,253
+modify the F one into a racing
+
+381
+00:14:28,253 --> 00:14:28,541
+car.
+
+382
+00:14:28,721 --> 00:14:30,833
+Motor Sport adds that it was Ron
+
+383
+00:14:30,833 --> 00:14:33,143
+Dennis who first wanted to race his
+
+384
+00:14:33,143 --> 00:14:33,539
+F one.
+
+385
+00:14:33,890 --> 00:14:36,287
+In June nineteen ninety-five,
+
+386
+00:14:36,287 --> 00:14:39,016
+the F one GTR won the twenty-four
+
+387
+00:14:39,016 --> 00:14:41,413
+hours of Le Mans at its first
+
+388
+00:14:41,413 --> 00:14:42,075
+attempt.
+
+389
+00:14:42,255 --> 00:14:44,461
+Wikipedia says it was one of the
+
+390
+00:14:44,461 --> 00:14:47,012
+wettest races in the event's history,
+
+391
+00:14:47,012 --> 00:14:49,908
+with about seventeen hours of steady rain,
+
+392
+00:14:49,908 --> 00:14:52,322
+and the McLarens filled four of the
+
+393
+00:14:52,322 --> 00:14:53,563
+first five places.
+
+394
+00:14:53,743 --> 00:14:55,949
+It was the last road-legal,
+
+395
+00:14:55,949 --> 00:14:59,381
+series-produced sports car to win the race
+
+396
+00:14:59,381 --> 00:15:00,117
+outright.
+
+397
+00:15:00,467 --> 00:15:01,854
+Three years later,
+
+398
+00:15:01,854 --> 00:15:04,321
+the F one set its famous record.
+
+399
+00:15:04,501 --> 00:15:07,653
+Wikipedia says that on the thirty-first of
+
+400
+00:15:07,653 --> 00:15:09,830
+March, nineteen ninety-eight,
+
+401
+00:15:09,830 --> 00:15:13,132
+Andy Wallace drove the five-year-old XP five
+
+402
+00:15:13,132 --> 00:15:17,109
+prototype at Volkswagen's test track at Ehra-Lessien.
+
+403
+00:15:17,289 --> 00:15:20,577
+The independently measured two-way average was two
+
+404
+00:15:20,577 --> 00:15:23,141
+hundred forty point one miles per hour.
+
+405
+00:15:23,491 --> 00:15:26,053
+McLaren measured a peak of two hundred
+
+406
+00:15:26,053 --> 00:15:27,873
+forty-three miles per hour,
+
+407
+00:15:27,873 --> 00:15:30,301
+with the rev limiter raised to eight
+
+408
+00:15:30,301 --> 00:15:32,256
+thousand three hundred r p m.
+
+409
+00:15:32,436 --> 00:15:34,782
+And Gooding and Company says the car
+
+410
+00:15:34,782 --> 00:15:37,324
+held the record for the world's fastest
+
+411
+00:15:37,324 --> 00:15:40,452
+production car from nineteen ninety-eight to two
+
+412
+00:15:40,452 --> 00:15:41,364
+thousand five.
+
+413
+00:15:41,715 --> 00:15:45,509
+Murray led McLaren Cars from nineteen ninety-one
+
+414
+00:15:45,509 --> 00:15:47,170
+to two thousand four,
+
+415
+00:15:47,170 --> 00:15:48,355
+Wikipedia says.
+
+416
+00:15:48,535 --> 00:15:51,415
+In two thousand seven he established a
+
+417
+00:15:51,415 --> 00:15:53,992
+consultancy, Gordon Murray Design.
+
+418
+00:15:54,172 --> 00:15:56,903
+Later came the T twenty-five city car,
+
+419
+00:15:56,903 --> 00:15:59,849
+announced as smaller than a Smart Fortwo,
+
+420
+00:15:59,849 --> 00:16:02,149
+and the electric T twenty-seven,
+
+421
+00:16:02,149 --> 00:16:05,167
+developed with Zytek in two thousand nine.
+
+422
+00:16:05,517 --> 00:16:07,483
+In two thousand seventeen,
+
+423
+00:16:07,483 --> 00:16:11,416
+Wikipedia says, he founded Gordon Murray Automotive,
+
+424
+00:16:11,416 --> 00:16:13,307
+a low-volume car company.
+
+425
+00:16:13,487 --> 00:16:15,795
+And in August two thousand twenty,
+
+426
+00:16:15,795 --> 00:16:17,492
+it announced the T fifty.
+
+427
+00:16:17,672 --> 00:16:21,087
+The page calls it the logical successor
+
+428
+00:16:21,087 --> 00:16:22,225
+to the F one,
+
+429
+00:16:22,225 --> 00:16:24,677
+and says it uses the fan car
+
+430
+00:16:24,677 --> 00:16:28,004
+concept from the Brabham B T forty-six
+
+431
+00:16:28,004 --> 00:16:28,179
+B.
+
+432
+00:16:28,530 --> 00:16:30,915
+The T fifty page says Murray's own
+
+433
+00:16:30,915 --> 00:16:33,301
+list of what he disliked about the
+
+434
+00:16:33,301 --> 00:16:34,985
+F one stuck in his head.
+
+435
+00:16:35,165 --> 00:16:38,543
+The spine is fifty millimeters too wide.
+
+436
+00:16:38,723 --> 00:16:41,291
+The headlamps are like glow worms in
+
+437
+00:16:41,291 --> 00:16:41,719
+a jar.
+
+438
+00:16:41,899 --> 00:16:44,013
+The air conditioning was hopeless,
+
+439
+00:16:44,013 --> 00:16:45,382
+and the brakes squeak.
+
+440
+00:16:45,562 --> 00:16:48,575
+The clutch needs adjusting every five thousand
+
+441
+00:16:48,575 --> 00:16:51,261
+miles, and loading luggage in the lockers
+
+442
+00:16:51,261 --> 00:16:51,982
+was a pain.
+
+443
+00:16:52,332 --> 00:16:55,037
+So the T fifty fixes the list.
+
+444
+00:16:55,217 --> 00:16:58,468
+Wikipedia says it has a naturally aspirated
+
+445
+00:16:58,468 --> 00:17:01,492
+Cosworth V twelve of three thousand nine
+
+446
+00:17:01,492 --> 00:17:04,365
+hundred ninety-four cubic centimeters,
+
+447
+00:17:04,365 --> 00:17:08,146
+making six hundred fifty-four horsepower at eleven
+
+448
+00:17:08,146 --> 00:17:10,263
+thousand five hundred r p m,
+
+449
+00:17:10,263 --> 00:17:13,060
+with a redline of twelve thousand one
+
+450
+00:17:13,060 --> 00:17:13,665
+hundred.
+
+451
+00:17:13,845 --> 00:17:17,641
+Dry weight is nine hundred ninety-seven kilograms.
+
+452
+00:17:17,992 --> 00:17:20,453
+It keeps the F one's layout.
+
+453
+00:17:20,633 --> 00:17:22,807
+The page says it has a central
+
+454
+00:17:22,807 --> 00:17:26,430
+driving position with two passenger seats flanking
+
+455
+00:17:26,430 --> 00:17:27,227
+the driver.
+
+456
+00:17:27,407 --> 00:17:28,673
+And it has the fan.
+
+457
+00:17:28,853 --> 00:17:31,398
+Wikipedia says an eight and a half
+
+458
+00:17:31,398 --> 00:17:35,589
+kilowatt, forty centimeter aerodynamic fan is integrated
+
+459
+00:17:35,589 --> 00:17:36,637
+into the rear,
+
+460
+00:17:36,637 --> 00:17:39,182
+inspired by the Brabham fan car of
+
+461
+00:17:39,182 --> 00:17:40,904
+nineteen seventy-eight.
+
+462
+00:17:41,254 --> 00:17:43,535
+The numbers show how Murray pushed his
+
+463
+00:17:43,535 --> 00:17:44,075
+own idea.
+
+464
+00:17:44,255 --> 00:17:46,809
+Wikipedia lists the T fifty at nine
+
+465
+00:17:46,809 --> 00:17:49,363
+hundred ninety-seven kilograms dry,
+
+466
+00:17:49,363 --> 00:17:52,136
+against eleven hundred forty for the F
+
+467
+00:17:52,136 --> 00:17:52,428
+one.
+
+468
+00:17:52,608 --> 00:17:56,515
+That is one hundred forty-three kilograms lighter,
+
+469
+00:17:56,515 --> 00:17:59,016
+about twelve and a half percent,
+
+470
+00:17:59,016 --> 00:18:00,735
+by our own arithmetic.
+
+471
+00:18:00,915 --> 00:18:04,843
+Power is six hundred fifty-four horsepower against
+
+472
+00:18:04,843 --> 00:18:06,492
+six hundred eighteen,
+
+473
+00:18:06,492 --> 00:18:08,299
+about six percent more.
+
+474
+00:18:08,649 --> 00:18:10,808
+And the engine turns much faster.
+
+475
+00:18:10,988 --> 00:18:14,247
+The T fifty's redline is twelve thousand
+
+476
+00:18:14,247 --> 00:18:15,713
+one hundred r p m.
+
+477
+00:18:15,893 --> 00:18:17,989
+The F one's rev limiter was raised
+
+478
+00:18:17,989 --> 00:18:20,393
+to eight thousand three hundred for its
+
+479
+00:18:20,393 --> 00:18:21,071
+record run.
+
+480
+00:18:21,251 --> 00:18:22,938
+By our own arithmetic,
+
+481
+00:18:22,938 --> 00:18:26,160
+the new redline is about forty-six percent
+
+482
+00:18:26,160 --> 00:18:26,696
+higher.
+
+483
+00:18:26,876 --> 00:18:29,008
+Thirty years of engineering,
+
+484
+00:18:29,008 --> 00:18:31,216
+aimed at the same idea of low
+
+485
+00:18:31,216 --> 00:18:32,890
+weight and high power.
+
+486
+00:18:33,241 --> 00:18:35,666
+The page also lists the T fifty
+
+487
+00:18:35,666 --> 00:18:38,248
+S, called the Niki Lauda variant,
+
+488
+00:18:38,248 --> 00:18:42,082
+a track-only version with seven hundred sixty-one
+
+489
+00:18:42,082 --> 00:18:45,602
+horsepower, priced at three point one million
+
+490
+00:18:45,602 --> 00:18:47,167
+pounds before taxes,
+
+491
+00:18:47,167 --> 00:18:49,123
+with twenty-five planned.
+
+492
+00:18:49,303 --> 00:18:51,732
+Named for the driver who won the
+
+493
+00:18:51,732 --> 00:18:53,250
+fan car's only race.
+
+494
+00:18:53,430 --> 00:18:55,766
+Murray never forgot where the idea came
+
+495
+00:18:55,766 --> 00:18:56,066
+from.
+
+496
+00:18:56,416 --> 00:18:58,691
+Price and production were limited.
+
+497
+00:18:58,871 --> 00:19:02,290
+The page says Gordon Murray Automotive planned
+
+498
+00:19:02,290 --> 00:19:05,041
+to build one hundred customer cars at
+
+499
+00:19:05,041 --> 00:19:06,230
+its Surrey site,
+
+500
+00:19:06,230 --> 00:19:08,981
+at two point three six million pounds
+
+501
+00:19:08,981 --> 00:19:10,319
+each before taxes.
+
+502
+00:19:10,499 --> 00:19:12,707
+It says all one hundred road cars
+
+503
+00:19:12,707 --> 00:19:15,451
+were sold within forty-eight hours of the
+
+504
+00:19:15,451 --> 00:19:18,529
+premiere, and that production started in March
+
+505
+00:19:18,529 --> 00:19:19,868
+twenty twenty-three.
+
+506
+00:19:20,218 --> 00:19:22,934
+Murray's career has been recognized.
+
+507
+00:19:23,114 --> 00:19:25,451
+Wikipedia says he was awarded a C
+
+508
+00:19:25,451 --> 00:19:27,575
+B E in the twenty nineteen New
+
+509
+00:19:27,575 --> 00:19:30,266
+Year Honours for services to motoring.
+
+510
+00:19:30,446 --> 00:19:33,455
+His university made him an honorary professor
+
+511
+00:19:33,455 --> 00:19:34,792
+in two thousand two,
+
+512
+00:19:34,792 --> 00:19:37,265
+and gave him an honorary doctorate in
+
+513
+00:19:37,265 --> 00:19:38,201
+twenty eleven.
+
+514
+00:19:38,552 --> 00:19:41,937
+In twenty twenty-two he received the inaugural
+
+515
+00:19:41,937 --> 00:19:44,512
+F I A President's Innovation Medal,
+
+516
+00:19:44,512 --> 00:19:46,940
+and in twenty twenty-four the B B
+
+517
+00:19:46,940 --> 00:19:49,737
+C Top Gear Lifetime Achievement Award,
+
+518
+00:19:49,737 --> 00:19:53,416
+described as recognizing arguably the greatest and
+
+519
+00:19:53,416 --> 00:19:56,433
+most original thinker in both Formula One
+
+520
+00:19:56,433 --> 00:19:58,788
+and the wider automotive sphere.
+
+521
+00:19:59,138 --> 00:20:00,796
+And the F one he sketched at
+
+522
+00:20:00,796 --> 00:20:01,448
+an airport?
+
+523
+00:20:01,628 --> 00:20:03,416
+Top Gear quotes Murray,
+
+524
+00:20:03,416 --> 00:20:06,060
+who sold the oldest surviving car,
+
+525
+00:20:06,060 --> 00:20:09,014
+saying it became a little untenable to
+
+526
+00:20:09,014 --> 00:20:09,325
+own.
+
+527
+00:20:09,505 --> 00:20:11,519
+He used to drive it on Sunday
+
+528
+00:20:11,519 --> 00:20:14,020
+mornings, but once it was worth many
+
+529
+00:20:14,020 --> 00:20:17,006
+millions, he was reluctant to risk damaging
+
+530
+00:20:17,006 --> 00:20:17,214
+it.
+
+531
+00:20:17,394 --> 00:20:19,524
+Even its creator feared the legend he
+
+532
+00:20:19,524 --> 00:20:20,041
+had made.
+
+533
+00:20:20,392 --> 00:20:22,238
+So here is the story.
+
+534
+00:20:22,418 --> 00:20:24,785
+A boy from Durban with a racing
+
+535
+00:20:24,785 --> 00:20:25,320
+father.
+
+536
+00:20:25,500 --> 00:20:27,991
+A designer who built a fan car
+
+537
+00:20:27,991 --> 00:20:30,483
+that won its only race and was
+
+538
+00:20:30,483 --> 00:20:31,479
+then banned.
+
+539
+00:20:31,659 --> 00:20:33,842
+A meeting at a Milan airport,
+
+540
+00:20:33,842 --> 00:20:36,703
+where four car lovers decided to build
+
+541
+00:20:36,703 --> 00:20:38,660
+the best car in the world.
+
+542
+00:20:38,840 --> 00:20:41,439
+A road car its creator never meant
+
+543
+00:20:41,439 --> 00:20:43,426
+to race, that won Le Mans.
+
+544
+00:20:43,776 --> 00:20:45,923
+And an engineer who kept a list
+
+545
+00:20:45,923 --> 00:20:48,001
+of what he hated about his own
+
+546
+00:20:48,001 --> 00:20:50,910
+masterpiece, and then built another car to
+
+547
+00:20:50,910 --> 00:20:52,780
+fix it, with a fan from his
+
+548
+00:20:52,780 --> 00:20:53,958
+first famous car.
+
+549
+00:20:54,138 --> 00:20:56,147
+It is one of the most unlikely
+
+550
+00:20:56,147 --> 00:20:58,224
+stories in the history of cars.
+
+551
+00:20:58,404 --> 00:21:00,254
+And it started with a sketch on
+
+552
+00:21:00,254 --> 00:21:00,970
+graph paper.
+
+553
+00:21:01,320 --> 00:21:03,480
+Which part of Murray's story surprised you
+
+554
+00:21:03,480 --> 00:21:03,943
+the most?
+
+555
+00:21:04,123 --> 00:21:05,633
+Tell us in the comments.
+
+556
+00:21:05,813 --> 00:21:08,309
+In the other videos of this series,
+
+557
+00:21:08,309 --> 00:21:10,590
+we reveal two things you did not
+
+558
+00:21:10,590 --> 00:21:12,088
+know about the F one,
+
+559
+00:21:12,088 --> 00:21:14,441
+compare it with the new McLaren W
+
+560
+00:21:14,441 --> 00:21:16,723
+one, and work out what it really
+
+561
+00:21:16,723 --> 00:21:18,363
+costs to own one today.
+
+562
+00:21:18,713 --> 00:21:20,447
+And if you want to spend your
+
+563
+00:21:20,447 --> 00:21:22,898
+money on something you can actually drive
+
+564
+00:21:22,898 --> 00:21:25,768
+every day, our twenty twenty-seven Truck Buyer's
+
+565
+00:21:25,768 --> 00:21:27,861
+Guide is linked in the description.
+
+566
+00:21:28,041 --> 00:21:31,557
+Subscribe to Pickup Reality for more stories
+
+567
+00:21:31,557 --> 00:21:34,674
+about the cars and trucks people really
+
+568
+00:21:34,674 --> 00:21:35,553
+talk about.
