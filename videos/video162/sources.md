@@ -1,0 +1,11 @@
+- Wikipedia, Aston Martin DB5: https://en.wikipedia.org/wiki/Aston_Martin_DB5
+- Wikipedia, Aston Martin DB12: https://en.wikipedia.org/wiki/Aston_Martin_DB12
+- Kelley Blue Book, 2025 Aston Martin DB12: https://www.kbb.com/aston-martin/db12/2025/
+- Hagerty valuation tools, 1965 Aston Martin DB5 (Apr 2025): https://hagerty.com/apps/valuationtools/1965-aston_martin-db5
+- RM Sotheby's London 2022, lot 146, 1964 Aston Martin DB5: https://rmsothebys.com/auctions/lf22/lots/r0016-1964-aston-martin-db5/
+- Top Gear (Jason Barlow), Best Bond cars ever, part 1: Aston Martin DB5, 27 Sep 2021: https://www.topgear.com/car-news/big-reads/best-bond-cars-ever-part-1-aston-martin-db5
+- Carole Nash, Legacy of the James Bond DB5, 26 Sep 2017: https://www.carolenash.com/insideclassics/classic-car-news/legacy-james-bond-db5/
+- 007Travelers, Aston Martin DB5 / Goldfinger: https://www.007travelers.com/items/007-vehicle-aston-martin-db5-goldfinger/
+- auto123, James Bond's Aston Martin DB5, 27 Dec 2011: https://www.auto123.com/en/news/james-bonds-aston-martin-db5/28209/
+- CNN, James Bond Aston Martin DB5 auction: https://amp.cnn.com/cnn/style/article/aston-martin-db5-auction-scli-intl/index.html
+- Old Cars Weekly, RM Sotheby's sells James Bond Aston Martin DB5 for $6.4 million, 16 Aug 2019: https://www.oldcarsweekly.com/news/rm-sothebys-sells-james-bond-aston-martin-db5-for-6-4-million
