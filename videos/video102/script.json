@@ -1,0 +1,326 @@
+{
+ "id": "video102",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "AMG One vs Aston Martin Valkyrie: The Real Difference",
+ "scenes": [
+  {
+   "text": "Two hypercars, both limited to exactly two hundred seventy-five cars. One has a Formula One engine, a turbocharged V six with a hybrid system. The other has a naturally aspirated V twelve that Wikipedia says makes about a thousand horsepower on its own. One came from Mercedes, the other from Aston Martin and Red Bull. This is the real difference between the Mercedes-AMG One and the Aston Martin Valkyrie.",
+   "query": "Mercedes-AMG One and Aston Martin Valkyrie",
+   "caption": "AMG ONE VS ASTON MARTIN VALKYRIE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. Both were built in the same number, two hundred seventy-five. Both were late. Both cost about the same order of money. Yet the two engines could hardly be more different, and the Valkyrie's own sources disagree about how much it weighs, by more than three hundred kilograms. We will go through the numbers, and say where they conflict.",
+   "query": "Hypercars",
+   "caption": "SAME NUMBER BUILT \u00b7 VERY DIFFERENT ENGINES",
+   "cuts": 8
+  },
+  {
+   "text": "Every number in this video comes from published sources, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so.",
+   "query": "Hypercar",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "The Mercedes-AMG One began as the Project One concept, shown in twenty seventeen, according to Wikipedia. It was developed in Affalterbach, Germany, unveiled in production form on the first of June twenty twenty-two, and first delivered on the sixteenth of January twenty twenty-three. Production was limited to two hundred seventy-five cars, all hand-built.",
+   "query": "Mercedes-AMG One",
+   "caption": "AMG ONE: 275 CARS \u00b7 FIRST DELIVERY JAN 2023",
+   "cuts": 3,
+   "chapter": "Two projects with one number in common"
+  },
+  {
+   "text": "The Aston Martin Valkyrie was built by Aston Martin Lagonda with Red Bull Racing Advanced Technologies and other suppliers. It was codenamed Nebula, then A M R B zero zero one. Wikipedia credits the concept to Adrian Newey, Andy Palmer, Christian Horner and Simon Sproule. Newey was Red Bull's chief technical officer at the time and contributed directly to the design.",
+   "query": "Aston Martin Valkyrie",
+   "caption": "VALKYRIE: DESIGNED WITH ADRIAN NEWEY OF RED BULL",
+   "cuts": 3
+  },
+  {
+   "text": "The Valkyrie was first shown in July twenty sixteen as a non-working full-scale model, and the name was announced in March twenty seventeen. Production ran from November twenty twenty-one to December twenty twenty-four. The total was two hundred seventy-five: one hundred fifty coup\u00e9s, eighty-five Spiders and forty track-only A M R Pro cars.",
+   "query": "Aston Martin Valkyrie production",
+   "caption": "VALKYRIE: 150 COUP\u00c9S + 85 SPIDERS + 40 AMR PRO = 275",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, the Valkyrie's first show was a year before the AMG One concept, but its production ended in December twenty twenty-four. The AMG One's production, per Wikipedia, ran from August twenty twenty-two to twenty twenty-five. The two cars were being built at about the same time, and both were competing for the same small group of buyers.",
+   "query": "Hypercar factory",
+   "caption": "BUILT IN THE SAME ERA FOR THE SAME BUYERS",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars sold out. Wikipedia says all two hundred seventy-five AMG One cars sold, with more than four times as many orders, and that Mercedes refused to raise the limit. For the Valkyrie, the page says Aston Martin stated that all production had been sold, and that the Spider was twice oversubscribed. Demand exceeded supply on both sides.",
+   "query": "Hypercar customers",
+   "caption": "BOTH SOLD OUT \u00b7 BOTH OVERSUBSCRIBED",
+   "cuts": 3
+  },
+  {
+   "text": "The AMG One uses a one-point-six-litre turbocharged V six, the P U one oh six B, modified from the Mercedes Formula One engine. Wikipedia lists four hundred twenty-two kilowatts, or five hundred seventy-four metric horsepower, at a redline of eleven thousand r p m. It sits with a hybrid system of an M G U K and an M G U H.",
+   "query": "Mercedes-AMG One engine",
+   "caption": "AMG: 1.6 L TURBO V6 \u00b7 574 PS \u00b7 11,000 RPM",
+   "cuts": 3,
+   "chapter": "Round one: the engines"
+  },
+  {
+   "text": "The Valkyrie uses a six-point-five-litre naturally aspirated V twelve, tailored by Cosworth. Wikipedia lists about one thousand horsepower at ten thousand five hundred r p m, with a redline of eleven thousand one hundred. By our arithmetic, that is about one hundred fifty-four horsepower per litre, with no turbochargers at all.",
+   "query": "Cosworth V12 engine",
+   "caption": "VALKYRIE: 6.5 L V12 \u00b7 ~1,000 HP \u00b7 11,100 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "Compare engine only. The V twelve makes roughly one thousand horsepower, the V six five hundred sixty-six horsepower according to Wikipedia's mechanical figure. So the Valkyrie's combustion engine produces about seventy-six percent more, by our arithmetic. The AMG One's engine is smaller, turbocharged, and helped by a very large electric system to close the gap.",
+   "query": "Engine comparison",
+   "caption": "V12 MAKES ~76% MORE THAN THE V6 ALONE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The hybrid systems differ in scale. The AMG One has an M G U K of one hundred twenty kilowatts, an M G U H of ninety, and two front motors of one hundred twenty kilowatts each. The Valkyrie has an Integral Powertrain motor of about one hundred sixty horsepower and a one point three kilowatt-hour Rimac battery, in a K E R S style layout.",
+   "query": "Hybrid systems",
+   "caption": "AMG: 4 MOTORS \u00b7 VALKYRIE: ONE MOTOR (~160 HP)",
+   "cuts": 3
+  },
+  {
+   "text": "The totals are close. Wikipedia lists the AMG One at one thousand sixty-three metric horsepower, or one thousand forty-nine horsepower. For the Valkyrie it lists a combined certified output of one thousand, one hundred sixty horsepower, which is one thousand, one hundred seventy-six metric horsepower. By our arithmetic, the Valkyrie has about eleven percent more power on paper.",
+   "query": "Hypercar power",
+   "caption": "AMG 1,063 PS \u00b7 VALKYRIE 1,176 PS \u00b7 +11% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Torque is listed for the Valkyrie only on our page, nine hundred newton-metres at six thousand r p m. The AMG One's torque is not listed in the sources we used, so we do not compare it. What we can say is that the Valkyrie reaches its peak at a high r p m, a trait of naturally aspirated engines, while a turbocharged engine usually peaks lower.",
+   "query": "Engine dyno",
+   "caption": "VALKYRIE TORQUE: 900 NM @ 6,000 RPM",
+   "cuts": 3
+  },
+  {
+   "text": "The gearboxes are similar. The AMG One has a seven-speed single-clutch automated manual with a carbon clutch. The Valkyrie has a seven-speed single-clutch automated manual supplied by Ricardo. Neither uses a conventional dual-clutch. Both chose a lighter, simpler, and more race-like design, and accepted what that means for smoothness at low speed.",
+   "query": "Hypercar gearbox",
+   "caption": "BOTH: 7-SPEED SINGLE-CLUTCH AUTOMATED MANUAL",
+   "cuts": 3
+  },
+  {
+   "text": "Now the discrepancy. Wikipedia's text for the Valkyrie cites one thousand and thirty kilograms at announcement, but its specification lists a kerb weight of one thousand, three hundred forty to one thousand, three hundred fifty-five. The two numbers conflict by more than three hundred kilograms, so we use the specification and flag the original claim as an announcement target.",
+   "query": "Aston Martin Valkyrie weight",
+   "caption": "VALKYRIE WEIGHT: 1,030 KG CLAIM VS 1,340\u20131,355 KG LISTED",
+   "cuts": 3,
+   "chapter": "Round two: weight and speed"
+  },
+  {
+   "text": "The AMG One weighs one thousand, six hundred ninety-five kilograms, with a listed range up to one thousand, seven hundred forty-five. By our arithmetic, that makes the Valkyrie about three hundred forty to three hundred fifty-five kilograms lighter, or about twenty percent lighter than the AMG One at its lowest figure.",
+   "query": "Hypercar weights",
+   "caption": "VALKYRIE ~20% LIGHTER (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power-to-weight tells the story. Taking one thousand, one hundred seventy-six metric horsepower over one thousand, three hundred forty-seven kilograms, the midpoint of the listed range, gives about point eight seven horsepower per kilogram. For the AMG One, one thousand sixty-three over one thousand, six hundred ninety-five gives about point six three. This is our arithmetic.",
+   "query": "Power to weight",
+   "caption": "VALKYRIE ~0.87 PS/KG \u00b7 AMG ONE ~0.63 PS/KG (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration is listed for both. The AMG One does zero to a hundred in two point nine seconds, zero to two hundred in seven point zero, and zero to three hundred in fifteen point six, with a top speed of three hundred fifty-two, limited. The Valkyrie is listed at two point six seconds to a hundred. The page gives no top speed for the road car.",
+   "query": "Hypercar acceleration",
+   "caption": "0\u2013100: AMG 2.9 S \u00b7 VALKYRIE 2.6 S",
+   "cuts": 3
+  },
+  {
+   "text": "The Valkyrie wins on paper by three tenths of a second to a hundred, about ten percent, by our arithmetic. But note that we have no matching figures from the Valkyrie page for two hundred or three hundred kilometres per hour, so we cannot compare the harder part of the run. That is where the AMG One's figures are most impressive.",
+   "query": "Hypercar launch",
+   "caption": "VALKYRIE QUICKER TO 100 \u00b7 NO MATCHING DATA ABOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Downforce is listed for the Valkyrie at up to eighteen kilonewtons, which is eighteen hundred kilogram-force, at high speed. For the AMG One, Wikipedia says Race Plus and Strat Two raise total downforce by up to five times, but gives no kilonewton figure. So again, we can describe the approach, but we cannot compare the numbers.",
+   "query": "Hypercar aerodynamics",
+   "caption": "VALKYRIE DOWNFORCE: UP TO 18 KN",
+   "cuts": 3
+  },
+  {
+   "text": "The AMG One has a published N\u00fcrburgring record. Wikipedia says six minutes, thirty-five point one eight three in November twenty twenty-two, and six minutes, twenty-nine point zero nine in September twenty twenty-four, the first sub six-thirty lap by a road-legal production car. It also lists records at Hockenheim, the Red Bull Ring and Monza.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "AMG ONE: 6:29.09 N\u00dcRBURGRING (2024)",
+   "cuts": 3,
+   "chapter": "Round three: the track"
+  },
+  {
+   "text": "The Valkyrie's page, as we read it, lists no matching lap record. It does describe the track-only A M R Pro, which was introduced at the twenty eighteen Geneva motor show. The Pro uses the V twelve without the hybrid system, a modified engine rated at eleven hundred horsepower or more, and has a target top speed of four hundred two kilometres per hour.",
+   "query": "Aston Martin Valkyrie AMR Pro",
+   "caption": "VALKYRIE AMR PRO: 1,100+ HP \u00b7 TARGET 402 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "The Pro was originally planned for twenty-five cars, all sold, and later raised to forty. The page also says it targets three point three G of lateral grip and three point five G under braking. Those are targets, not measured results. We report them as targets. And it was driven for two laps at the twenty twenty-two Bahrain Grand Prix.",
+   "query": "Aston Martin Valkyrie AMR Pro",
+   "caption": "AMR PRO: 3.3 G LATERAL \u00b7 3.5 G BRAKING (TARGETS)",
+   "cuts": 3
+  },
+  {
+   "text": "The Valkyrie has also gone racing. The page lists a race version, the Valkyrie A M R L M H, with the hybrid system removed, which made its racing debut at the twenty twenty-five Qatar eighteen twelve kilometres. Remember that Mercedes' Tobias Moers told Top Gear he did not want to race the AMG One at Le Mans. The two companies made opposite decisions.",
+   "query": "Le Mans prototype",
+   "caption": "VALKYRIE RACED \u00b7 AMG ONE DID NOT (PER TOP GEAR)",
+   "cuts": 3
+  },
+  {
+   "text": "Money next. Wikipedia lists the AMG One at two point seven two million dollars. CarAdvice gives two point two seven million euros. For the Valkyrie, Autonews reports two point four million pounds, or three point two million dollars, and Fortune says at least three million dollars. By our arithmetic, the Valkyrie is the more expensive, by about half a million dollars.",
+   "query": "Hypercar prices",
+   "caption": "AMG ONE ~$2.7M \u00b7 VALKYRIE ~$3.0\u20133.2M",
+   "cuts": 3,
+   "chapter": "Round four: price and running costs"
+  },
+  {
+   "text": "Running costs are where Fortune, citing Bloomberg, gives a figure. It says servicing the Valkyrie could cost close to four hundred fifty thousand dollars over three years, with a slightly cheaper plan at three hundred forty thousand, from a customer email Bloomberg saw. Owners who service elsewhere risk voiding their warranties.",
+   "query": "Aston Martin Valkyrie service",
+   "caption": "VALKYRIE SERVICE: ~$450K OVER 3 YEARS (BLOOMBERG)",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, four hundred fifty thousand over three years is one hundred fifty thousand dollars a year. Fortune adds that a Bugatti Chiron costs around one hundred seventy thousand dollars to service over four years. So the Valkyrie's plan is about three and a half times the Chiron's yearly cost, by our arithmetic. An Aston Martin spokesman said the car needs motor-sport engineers.",
+   "query": "Hypercar service costs",
+   "caption": "$150K A YEAR VS ~$42.5K FOR A CHIRON (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "For the AMG One, our sources give no servicing price. They say only that the engine lasts about fifty thousand kilometres before owners must return the car for refurbishment. So we cannot compare the two on running costs. We can only say that both cars come with obligations that are closer to those of a racing team than those of an ordinary owner.",
+   "query": "Hypercar maintenance",
+   "caption": "AMG ONE: NO PUBLISHED SERVICE PRICE FOUND",
+   "cuts": 3
+  },
+  {
+   "text": "Both were late. The AMG One was originally due in early twenty nineteen, according to Autocar, and was first delivered in January twenty twenty-three. By our arithmetic, almost four years. For the Valkyrie, Wikipedia says ten cars were delivered in the fourth quarter of twenty twenty-one, fewer than planned, which made Aston Martin miss its profit target.",
+   "query": "Delayed hypercars",
+   "caption": "AMG ONE: ~4 YEARS LATE \u00b7 VALKYRIE: FEWER DELIVERIES THAN PLANNED",
+   "cuts": 3,
+   "chapter": "Round five: delays"
+  },
+  {
+   "text": "The reasons differ. For the AMG One, the sources point to emissions certification, noise rules and low-r p m airflow at about twelve hundred r p m. For the Valkyrie, Autonews cites unnamed sources saying electronics problems delayed the launch, and Fortune repeats that the launch was delayed repeatedly while the company fixed electronics issues. Neither source gives details.",
+   "query": "Hypercar engineers",
+   "caption": "AMG: ENGINE \u00b7 VALKYRIE: ELECTRONICS (UNNAMED SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "Aston Martin's finances matter too. Fortune says the company had a debt pile of about one point four billion dollars in February twenty twenty-four, and that Lawrence Stroll rescued it in twenty twenty. Bloomberg Intelligence, it says, estimated in twenty twenty-one that one Valkyrie sale contributes the same earnings as twenty-one Vantage V eight cars.",
+   "query": "Aston Martin factory",
+   "caption": "ONE VALKYRIE = 21 VANTAGES IN EARNINGS (BLOOMBERG INTELLIGENCE EST.)",
+   "cuts": 3
+  },
+  {
+   "text": "So for Aston Martin, the Valkyrie was not just a halo car. It was important to its turnaround. For Mercedes, the AMG One was a showcase of what its hybrid technology could do. Different companies, different needs, but the same result, a hypercar delivered later than first promised and sold to buyers who waited.",
+   "query": "Hypercar",
+   "caption": "A TURNAROUND CAR VS A SHOWCASE CAR (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The Valkyrie also comes in other forms. The Spider was announced in August twenty twenty-one for the twenty twenty-three model year, with a removable carbon fibre roof, and eighty-five were planned. Butterfly doors replace the coup\u00e9's gullwing doors. Wikipedia notes the Spider was twice oversubscribed. A later track-only Valkyrie L M was announced in June twenty twenty-five, limited to ten.",
+   "query": "Aston Martin Valkyrie Spider",
+   "caption": "VALKYRIE SPIDER: 85 \u00b7 VALKYRIE LM: 10",
+   "cuts": 3,
+   "chapter": "Round six: the open-top and the track toys"
+  },
+  {
+   "text": "The AMG One, by comparison, has a single body style in our sources. A carbon fibre mid-engine coup\u00e9 with butterfly doors, active front diffuser flaps, a two-part extendable rear wing and adjustable front louvres. It is a simpler range, with all two hundred seventy-five cars the same basic car, apart from what each owner specified.",
+   "query": "Mercedes-AMG One",
+   "caption": "ONE BODY STYLE \u00b7 275 OF THE SAME CAR",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more difference in character. The Valkyrie's V twelve is naturally aspirated, and Wikipedia says the Valkyrie's Le Mans hypercar project was cancelled in February twenty twenty and revived in twenty twenty-three. The AMG One is a turbocharged hybrid. One is the end of an era of large engines, the other a preview of what racing engines became.",
+   "query": "Hypercar engines",
+   "caption": "V12 ENDS AN ERA \u00b7 HYBRID V6 PREVIEWS ONE (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars have famous names attached. The Valkyrie's first shakedown at Silverstone, Wikipedia says, involved Max Verstappen and Alexander Albon, two Red Bull Formula One drivers. The AMG One was unveiled in twenty seventeen by Lewis Hamilton and Dieter Zetsche. In both cases, the companies wanted the car's link to Formula One to be visible from the start.",
+   "query": "Formula One drivers",
+   "caption": "VALKYRIE: VERSTAPPEN + ALBON \u00b7 AMG ONE: HAMILTON + ZETSCHE",
+   "cuts": 3,
+   "chapter": "Round seven: the people and the testing"
+  },
+  {
+   "text": "On the AMG One's side, Maro Engel drove the N\u00fcrburgring record lap in November twenty twenty-two, according to Wikipedia. The page also lists Gorden Wagener as head of design and Hartmut Sinkwitz for the interior. On the Valkyrie's side, Aston Martin under Miles Nurnberger oversaw much of the exterior design, while Red Bull Advanced Technologies handled the aerodynamic profile.",
+   "query": "Car designers",
+   "caption": "DESIGN: WAGENER (AMG) \u00b7 NURNBERGER + RED BULL (ASTON)",
+   "cuts": 3
+  },
+  {
+   "text": "The Valkyrie's story is also a story of an engineer. Wikipedia says Adrian Newey was Red Bull Racing's chief technical officer and contributed directly to the design. The page lists him with Andy Palmer, Christian Horner and Simon Sproule as one of the people who conceived the car. It is unusual for a Formula One designer to put his name to a road car.",
+   "query": "Adrian Newey",
+   "caption": "ADRIAN NEWEY: RED BULL'S CHIEF TECHNICAL OFFICER",
+   "cuts": 3
+  },
+  {
+   "text": "The AMG One, by contrast, is credited to the company's engineering team in Affalterbach. Ola K\u00e4llenius, according to Wikipedia, said the engine and design were based on the Formula One W oh six, while Autocar says the engine was adapted from the twenty seventeen championship car. We reported that disagreement earlier, and it remains unresolved in the sources we have.",
+   "query": "Mercedes-AMG engineers",
+   "caption": "SOURCES DISAGREE ON WHICH F1 CAR",
+   "cuts": 3
+  },
+  {
+   "text": "One feature is worth a closer look: the electric range. Wikipedia lists the AMG One's battery as an eight hundred volt lithium-ion pack, with an electric range of eighteen point one kilometres. For the Valkyrie, the page lists only a one point three kilowatt-hour battery from Rimac, and no electric range. By our arithmetic, that battery is a small fraction of a normal plug-in car's.",
+   "query": "Hybrid battery",
+   "caption": "AMG ONE: 18.1 KM ELECTRIC \u00b7 VALKYRIE: 1.3 KWH, NO RANGE LISTED",
+   "cuts": 3,
+   "chapter": "Round eight: the electric side"
+  },
+  {
+   "text": "This shows the different jobs of the hybrid systems. The Valkyrie's is described as K E R S style, a boost of power. The AMG One's can propel the car on electricity for a short distance, and its front motors give it all-wheel drive. One hybrid is a booster. The other is closer to a second powertrain.",
+   "query": "Hybrid hypercar",
+   "caption": "BOOSTER VS SECOND POWERTRAIN (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The weight of the AMG One's system is part of why it is the heavier car, though the sources do not say so directly. By our reading, it is a natural consequence of carrying a battery, four motors, and an all-wheel-drive system. The Valkyrie spends its mass budget on the engine and the carbon structure, and keeps electrical equipment small.",
+   "query": "Hypercar",
+   "caption": "WHERE EACH CAR SPENDS ITS WEIGHT (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Both firms limited supply, but in different ways. Mercedes limited the AMG One to two hundred seventy-five and turned down orders far beyond that. Aston Martin split its two hundred seventy-five between three models, one hundred fifty coup\u00e9s, eighty-five Spiders and forty A M R Pros. By our arithmetic, coup\u00e9s are fifty-five percent of the total, Spiders thirty-one percent, and the Pros fifteen percent.",
+   "query": "Hypercar production",
+   "caption": "55% COUP\u00c9 \u00b7 31% SPIDER \u00b7 15% AMR PRO (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Round nine: how many, and how they were shared out"
+  },
+  {
+   "text": "Fortune says Aston Martin delivered sixty-seven Valkyries in the first three quarters of twenty twenty-three. By our arithmetic, that is about twenty-two a quarter. At that pace, two hundred seventy-five cars take around twelve quarters, or three years. Wikipedia says production ran from November twenty twenty-one to December twenty twenty-four, which matches that estimate well.",
+   "query": "Aston Martin Valkyrie deliveries",
+   "caption": "67 DELIVERED IN 9 MONTHS OF 2023 \u2192 ~22 A QUARTER",
+   "cuts": 3
+  },
+  {
+   "text": "That matters when we ask how rare these cars really are. Two hundred seventy-five of each means there are at most five hundred fifty cars of these two models in the world, by our arithmetic. Compare that with the seven thousand, two hundred sixty-five Lamborghini Urus built in just the year twenty twenty-five, according to Wikipedia.",
+   "query": "Hypercar rarity",
+   "caption": "550 CARS VS 7,265 URUS BUILT IN ONE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "So how do they compare? On combustion power, the Valkyrie. On total power, the Valkyrie, by about eleven percent. On weight, the Valkyrie, by about twenty percent. On acceleration to a hundred, the Valkyrie. On a published N\u00fcrburgring record, the AMG One. On engine technology, the AMG One. On price, the AMG One. On servicing, we only know the Valkyrie.",
+   "query": "Mercedes-AMG One and Aston Martin Valkyrie",
+   "caption": "SCORECARD",
+   "cuts": 3,
+   "chapter": "The verdict"
+  },
+  {
+   "text": "The real difference is the idea. Mercedes took the hybrid system it used to win in Formula One and made it legal for the road. Aston Martin and Red Bull built a lightweight V twelve with minimal hybrid assistance, and a body shaped like a racing car. Both approaches produced cars that most people will only ever see in pictures.",
+   "query": "Hypercars",
+   "caption": "TWO WAYS TO BUILD A ROAD-GOING RACE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "One caution. We have not driven either car. Every figure comes from published sources, some of which conflict, and some of the comparisons are our own arithmetic. We do not claim which is better. We only claim what the numbers show, and where they stop. The Valkyrie's weight alone could change the picture, and the sources do not agree on it.",
+   "query": "Hypercars",
+   "caption": "NUMBERS, NOT A DRIVING VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you choose, the AMG One or the Valkyrie? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the AMG One, count the cost of a Formula One engine for the road, and explain why the AMG One took years longer than promised.",
+   "query": "Mercedes-AMG One and Aston Martin Valkyrie",
+   "caption": "AMG ONE OR VALKYRIE?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you would rather spend your money on something you can drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more comparisons between the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
