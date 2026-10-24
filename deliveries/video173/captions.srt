@@ -1,0 +1,2151 @@
+1
+00:00:00,000 --> 00:00:02,080
+The Ferrari Enzo is one of the
+
+2
+00:00:02,080 --> 00:00:04,369
+most famous supercars ever built,
+
+3
+00:00:04,369 --> 00:00:06,727
+but two things about it are rarely
+
+4
+00:00:06,727 --> 00:00:08,045
+explained properly.
+
+5
+00:00:08,225 --> 00:00:10,749
+One is a piece of technology that
+
+6
+00:00:10,749 --> 00:00:13,426
+Formula One itself would not allow.
+
+7
+00:00:13,606 --> 00:00:15,105
+The other is that a Maserati is
+
+8
+00:00:15,105 --> 00:00:15,975
+hiding underneath.
+
+9
+00:00:16,155 --> 00:00:19,158
+Here are two secrets inside the Ferrari
+
+10
+00:00:19,158 --> 00:00:22,161
+Enzo, and every place where our sources
+
+11
+00:00:22,161 --> 00:00:22,854
+disagree.
+
+12
+00:00:23,203 --> 00:00:26,882
+Our sources are Wikipedia's pages on the
+
+13
+00:00:26,882 --> 00:00:28,445
+Enzo and the F50,
+
+14
+00:00:28,445 --> 00:00:31,111
+RM Sotheby's catalogue pages,
+
+15
+00:00:31,111 --> 00:00:32,767
+Sports Car Market,
+
+16
+00:00:32,767 --> 00:00:35,065
+Hagerty's valuation page,
+
+17
+00:00:35,065 --> 00:00:36,629
+the magazine evo,
+
+18
+00:00:36,629 --> 00:00:40,491
+Jalopnik and the Italian site Italpassion.
+
+19
+00:00:40,671 --> 00:00:43,203
+They conflict on production totals,
+
+20
+00:00:43,203 --> 00:00:45,952
+prices and even the charity behind the
+
+21
+00:00:45,952 --> 00:00:46,603
+last car.
+
+22
+00:00:46,783 --> 00:00:48,757
+We show each version.
+
+23
+00:00:48,937 --> 00:00:52,339
+Our own arithmetic is always labelled.
+
+24
+00:00:52,688 --> 00:00:54,244
+First the basics.
+
+25
+00:00:54,424 --> 00:00:57,523
+Wikipedia says the Enzo was announced at
+
+26
+00:00:57,523 --> 00:01:00,313
+the Paris Motor Show in two thousand
+
+27
+00:01:00,313 --> 00:01:02,870
+two, and designed by Ken Okuyama,
+
+28
+00:01:02,870 --> 00:01:05,581
+then head of design at Pininfarina.
+
+29
+00:01:05,761 --> 00:01:08,339
+It was named after the company's founder.
+
+30
+00:01:08,519 --> 00:01:12,430
+RM Sotheby's adds that Ferrari's chairman Luca
+
+31
+00:01:12,430 --> 00:01:15,831
+di Montezemolo chose Enzo instead of F60
+
+32
+00:01:15,831 --> 00:01:16,936
+for the name.
+
+33
+00:01:17,285 --> 00:01:20,796
+The engine is a six litre naturally
+
+34
+00:01:20,796 --> 00:01:23,404
+aspirated V12, the F140 B.
+
+35
+00:01:23,584 --> 00:01:27,039
+Wikipedia lists six hundred sixty metric horsepower,
+
+36
+00:01:27,039 --> 00:01:29,895
+which it converts to six hundred fifty-one,
+
+37
+00:01:29,895 --> 00:01:31,888
+at seventy-eight hundred revs,
+
+38
+00:01:31,888 --> 00:01:35,276
+and six hundred fifty-seven newton-metres of torque
+
+39
+00:01:35,276 --> 00:01:36,738
+at fifty-five hundred.
+
+40
+00:01:36,918 --> 00:01:39,147
+The redline is eighty-two hundred.
+
+41
+00:01:39,327 --> 00:01:40,651
+By our arithmetic,
+
+42
+00:01:40,651 --> 00:01:43,665
+that is one hundred ten metric horsepower
+
+43
+00:01:43,665 --> 00:01:44,401
+per litre.
+
+44
+00:01:44,750 --> 00:01:48,509
+Dry weight is twelve hundred fifty-five kilograms,
+
+45
+00:01:48,509 --> 00:01:51,892
+per Wikipedia, with forty-four percent of the
+
+46
+00:01:51,892 --> 00:01:53,771
+weight on the front axle.
+
+47
+00:01:53,951 --> 00:01:55,248
+By our arithmetic,
+
+48
+00:01:55,248 --> 00:01:58,418
+that is about five hundred twenty-six metric
+
+49
+00:01:58,418 --> 00:01:59,931
+horsepower per tonne.
+
+50
+00:02:00,111 --> 00:02:02,507
+The curb weight on the same page
+
+51
+00:02:02,507 --> 00:02:05,277
+is fourteen hundred eighty kilograms.
+
+52
+00:02:05,457 --> 00:02:07,522
+The page does not say what is
+
+53
+00:02:07,522 --> 00:02:09,230
+included in each figure.
+
+54
+00:02:09,580 --> 00:02:12,239
+The first secret is in the aerodynamics.
+
+55
+00:02:12,419 --> 00:02:15,810
+Wikipedia says the Enzo used Formula One
+
+56
+00:02:15,810 --> 00:02:19,371
+technology, including a carbon-fibre body,
+
+57
+00:02:19,371 --> 00:02:23,356
+an automated gearbox and carbon-ceramic brakes.
+
+58
+00:02:23,536 --> 00:02:26,094
+Then comes the surprising line:
+
+59
+00:02:26,094 --> 00:02:28,736
+it also had active aerodynamics,
+
+60
+00:02:28,736 --> 00:02:30,469
+which, the page says,
+
+61
+00:02:30,469 --> 00:02:32,615
+Formula One did not allow.
+
+62
+00:02:32,795 --> 00:02:34,985
+So the road car used a trick
+
+63
+00:02:34,985 --> 00:02:37,880
+that the racing series had ruled out.
+
+64
+00:02:38,229 --> 00:02:40,714
+Wikipedia gives the downforce figures.
+
+65
+00:02:40,894 --> 00:02:44,164
+Three hundred forty-three kilograms at two hundred
+
+66
+00:02:44,164 --> 00:02:45,406
+kilometres an hour,
+
+67
+00:02:45,406 --> 00:02:48,283
+seven hundred seventy-five at three hundred,
+
+68
+00:02:48,283 --> 00:02:51,030
+and five hundred eighty-five at top speed.
+
+69
+00:02:51,210 --> 00:02:52,424
+By our arithmetic,
+
+70
+00:02:52,424 --> 00:02:54,719
+the jump from two hundred to three
+
+71
+00:02:54,719 --> 00:02:56,879
+hundred is a factor of two point
+
+72
+00:02:56,879 --> 00:02:59,106
+three, close to the two point two
+
+73
+00:02:59,106 --> 00:03:01,806
+five you would expect if downforce grows
+
+74
+00:03:01,806 --> 00:03:03,493
+with the square of speed.
+
+75
+00:03:03,842 --> 00:03:06,246
+The third figure is the interesting one.
+
+76
+00:03:06,426 --> 00:03:08,269
+Downforce at top speed,
+
+77
+00:03:08,269 --> 00:03:11,074
+five hundred eighty-five kilograms,
+
+78
+00:03:11,074 --> 00:03:14,360
+is lower than at three hundred kilometres
+
+79
+00:03:14,360 --> 00:03:16,844
+an hour, even though the car is
+
+80
+00:03:16,844 --> 00:03:17,966
+moving faster.
+
+81
+00:03:18,146 --> 00:03:20,398
+Wikipedia does not explain why.
+
+82
+00:03:20,578 --> 00:03:23,664
+Our inference is that the active aerodynamics
+
+83
+00:03:23,664 --> 00:03:26,338
+reduce downforce at the highest speeds,
+
+84
+00:03:26,338 --> 00:03:28,395
+but we have not found a source
+
+85
+00:03:28,395 --> 00:03:29,286
+that says so.
+
+86
+00:03:29,636 --> 00:03:31,354
+The brakes are the other headline.
+
+87
+00:03:31,534 --> 00:03:36,189
+Wikipedia calls them carbon fibre-reinforced silicon carbide
+
+88
+00:03:36,189 --> 00:03:39,371
+ceramics, with fifteen-inch Brembo discs.
+
+89
+00:03:39,551 --> 00:03:42,488
+RM Sotheby's calls them carbon-ceramic.
+
+90
+00:03:42,668 --> 00:03:45,727
+The page does not give stopping distances,
+
+91
+00:03:45,727 --> 00:03:48,349
+but RM's catalogue quotes a Road and
+
+92
+00:03:48,349 --> 00:03:51,627
+Track figure of one hundred eighty-eight feet
+
+93
+00:03:51,627 --> 00:03:54,104
+to stop from eighty miles an hour.
+
+94
+00:03:54,454 --> 00:03:57,158
+The gearbox also came from racing,
+
+95
+00:03:57,158 --> 00:03:58,192
+with caveats.
+
+96
+00:03:58,372 --> 00:04:01,898
+Wikipedia says it is an F1-style automated
+
+97
+00:04:01,898 --> 00:04:04,248
+manual with paddle shifters,
+
+98
+00:04:04,248 --> 00:04:05,759
+built by Graziano,
+
+99
+00:04:05,759 --> 00:04:08,445
+with a shift time of one hundred
+
+100
+00:04:08,445 --> 00:04:10,040
+fifty milliseconds.
+
+101
+00:04:10,220 --> 00:04:12,030
+But the same page notes it is
+
+102
+00:04:12,030 --> 00:04:15,150
+a first-generation clutchless design from the late
+
+103
+00:04:15,150 --> 00:04:18,707
+nineteen nineties, with complaints about abrupt shifting.
+
+104
+00:04:18,887 --> 00:04:20,961
+So it was racing-derived,
+
+105
+00:04:20,961 --> 00:04:22,289
+but not refined.
+
+106
+00:04:22,639 --> 00:04:25,736
+Ferrari's own wording is quoted by Sports
+
+107
+00:04:25,736 --> 00:04:28,455
+Car Market: the priority goal of the
+
+108
+00:04:28,455 --> 00:04:31,552
+Enzo project was to cut gear-change times
+
+109
+00:04:31,552 --> 00:04:34,574
+in the interest of extremely sporty use.
+
+110
+00:04:34,754 --> 00:04:36,102
+The magazine evo,
+
+111
+00:04:36,102 --> 00:04:39,196
+in its February two thousand four group
+
+112
+00:04:39,196 --> 00:04:43,479
+test, praised the car's performance and sophistication
+
+113
+00:04:43,479 --> 00:04:46,573
+but criticised its limited involvement.
+
+114
+00:04:46,753 --> 00:04:48,580
+A technology showpiece,
+
+115
+00:04:48,580 --> 00:04:49,772
+in other words,
+
+116
+00:04:49,772 --> 00:04:53,110
+that was not necessarily the most engaging
+
+117
+00:04:53,110 --> 00:04:53,428
+car.
+
+118
+00:04:53,779 --> 00:04:56,449
+The acceleration numbers hide a trick.
+
+119
+00:04:56,629 --> 00:04:59,701
+Wikipedia's zero to sixty figure of three
+
+120
+00:04:59,701 --> 00:05:03,073
+point one four seconds was measured downhill,
+
+121
+00:05:03,073 --> 00:05:05,545
+one way, with a one-foot rollout.
+
+122
+00:05:05,725 --> 00:05:08,145
+Motor Trend, without those aids,
+
+123
+00:05:08,145 --> 00:05:11,395
+recorded three point three seconds for zero
+
+124
+00:05:11,395 --> 00:05:12,076
+to sixty.
+
+125
+00:05:12,256 --> 00:05:13,556
+By our arithmetic,
+
+126
+00:05:13,556 --> 00:05:16,949
+the favourable conditions were worth about five
+
+127
+00:05:16,949 --> 00:05:17,527
+percent.
+
+128
+00:05:17,877 --> 00:05:19,190
+Road and Track,
+
+129
+00:05:19,190 --> 00:05:20,678
+via RM Sotheby's,
+
+130
+00:05:20,678 --> 00:05:23,567
+also gives zero to sixty in three
+
+131
+00:05:23,567 --> 00:05:26,806
+point three, a quarter mile in eleven
+
+132
+00:05:26,806 --> 00:05:30,746
+point one seconds at one hundred thirty-three
+
+133
+00:05:30,746 --> 00:05:33,022
+miles an hour and one g on
+
+134
+00:05:33,022 --> 00:05:34,072
+the skidpad.
+
+135
+00:05:34,252 --> 00:05:36,950
+Wikipedia lists one point oh five g
+
+136
+00:05:36,950 --> 00:05:39,957
+and a quarter mile near eleven seconds,
+
+137
+00:05:39,957 --> 00:05:42,809
+with Motor Trend at eleven point one.
+
+138
+00:05:42,989 --> 00:05:45,230
+The sources broadly agree.
+
+139
+00:05:45,580 --> 00:05:47,553
+Top speed is where they split.
+
+140
+00:05:47,733 --> 00:05:50,939
+Wikipedia says up to three hundred fifty-five
+
+141
+00:05:50,939 --> 00:05:52,292
+kilometres an hour,
+
+142
+00:05:52,292 --> 00:05:55,142
+which it gives as two hundred twenty-one
+
+143
+00:05:55,142 --> 00:05:56,139
+miles an hour.
+
+144
+00:05:56,319 --> 00:05:59,794
+RM Sotheby's says other testers cited two
+
+145
+00:05:59,794 --> 00:06:03,524
+hundred eighteen, and Sports Car Market also
+
+146
+00:06:03,524 --> 00:06:05,050
+says two eighteen.
+
+147
+00:06:05,230 --> 00:06:06,793
+By our arithmetic,
+
+148
+00:06:06,793 --> 00:06:09,485
+the gap is three miles an hour,
+
+149
+00:06:09,485 --> 00:06:11,743
+or one point four percent.
+
+150
+00:06:12,093 --> 00:06:13,506
+On the Nürburgring,
+
+151
+00:06:13,506 --> 00:06:16,929
+Wikipedia says the magazine evo recorded seven
+
+152
+00:06:16,929 --> 00:06:20,054
+minutes twenty-five point two one seconds,
+
+153
+00:06:20,054 --> 00:06:22,658
+despite a broken electronic damper.
+
+154
+00:06:22,838 --> 00:06:26,037
+The page also gives one minute twenty-one
+
+155
+00:06:26,037 --> 00:06:28,612
+point three at Bedford Autodrome,
+
+156
+00:06:28,612 --> 00:06:31,655
+about one point one seconds slower than
+
+157
+00:06:31,655 --> 00:06:33,449
+the Porsche Carrera GT.
+
+158
+00:06:33,629 --> 00:06:35,263
+So the Enzo was fast,
+
+159
+00:06:35,263 --> 00:06:37,830
+but not always the fastest in its
+
+160
+00:06:37,830 --> 00:06:38,296
+class.
+
+161
+00:06:38,647 --> 00:06:40,985
+Fuel use is a number the brochures
+
+162
+00:06:40,985 --> 00:06:41,328
+skip.
+
+163
+00:06:41,508 --> 00:06:45,422
+Wikipedia gives thirty-four litres per hundred kilometres
+
+164
+00:06:45,422 --> 00:06:46,246
+in the city,
+
+165
+00:06:46,246 --> 00:06:49,473
+twenty on the highway and twenty-nine combined.
+
+166
+00:06:49,653 --> 00:06:51,043
+By our arithmetic,
+
+167
+00:06:51,043 --> 00:06:53,822
+that is about seven miles per gallon
+
+168
+00:06:53,822 --> 00:06:56,448
+in town, twelve on the highway and
+
+169
+00:06:56,448 --> 00:06:57,606
+eight combined.
+
+170
+00:06:57,786 --> 00:07:00,557
+At the current regular gasoline price,
+
+171
+00:07:00,557 --> 00:07:04,130
+a hundred miles costs roughly fifty-three dollars
+
+172
+00:07:04,130 --> 00:07:04,787
+combined.
+
+173
+00:07:05,137 --> 00:07:07,822
+The second secret is that the Enzo
+
+174
+00:07:07,822 --> 00:07:09,560
+exists in other forms.
+
+175
+00:07:09,740 --> 00:07:12,558
+Wikipedia says the Maserati MC12,
+
+176
+00:07:12,558 --> 00:07:15,462
+built in two thousand four and two
+
+177
+00:07:15,462 --> 00:07:18,963
+thousand five, was derived from the Enzo,
+
+178
+00:07:18,963 --> 00:07:20,757
+with the same engine,
+
+179
+00:07:20,757 --> 00:07:22,464
+chassis and gearbox.
+
+180
+00:07:22,644 --> 00:07:24,409
+Maserati built fifty.
+
+181
+00:07:24,589 --> 00:07:28,675
+Racing homologation required twenty-five road cars,
+
+182
+00:07:28,675 --> 00:07:30,838
+so the MC12 was in effect a
+
+183
+00:07:30,838 --> 00:07:34,202
+Ferrari underneath with Maserati bodywork.
+
+184
+00:07:34,553 --> 00:07:37,348
+Wikipedia gives the MC12's zero to one
+
+185
+00:07:37,348 --> 00:07:40,290
+hundred as three point eight seconds and
+
+186
+00:07:40,290 --> 00:07:43,012
+its top speed as three hundred thirty
+
+187
+00:07:43,012 --> 00:07:44,409
+kilometres an hour.
+
+188
+00:07:44,589 --> 00:07:45,729
+By our arithmetic,
+
+189
+00:07:45,729 --> 00:07:48,134
+that is seven percent below the Enzo's
+
+190
+00:07:48,134 --> 00:07:49,779
+recorded three fifty-five.
+
+191
+00:07:49,959 --> 00:07:52,517
+Yet the page says the MC12 posted
+
+192
+00:07:52,517 --> 00:07:54,997
+faster lap times on Top Gear and
+
+193
+00:07:54,997 --> 00:07:56,547
+at the Nordschleife,
+
+194
+00:07:56,547 --> 00:07:59,026
+and puts that down to tyre grip.
+
+195
+00:07:59,377 --> 00:08:01,548
+A racing variant followed.
+
+196
+00:08:01,728 --> 00:08:05,583
+The MC12 Versione Corse had seven hundred
+
+197
+00:08:05,583 --> 00:08:09,344
+fifty-five metric horsepower and no ABS.
+
+198
+00:08:09,524 --> 00:08:12,483
+Wikipedia says twelve were sold at one
+
+199
+00:08:12,483 --> 00:08:13,962
+million euros each,
+
+200
+00:08:13,962 --> 00:08:17,233
+plus three more for testing and publicity.
+
+201
+00:08:17,413 --> 00:08:18,738
+By our arithmetic,
+
+202
+00:08:18,738 --> 00:08:21,682
+that is twelve million euros of customer
+
+203
+00:08:21,682 --> 00:08:24,847
+sales, not counting the three cars Maserati
+
+204
+00:08:24,847 --> 00:08:25,215
+kept.
+
+205
+00:08:25,565 --> 00:08:27,666
+Then there is the FXX.
+
+206
+00:08:27,846 --> 00:08:30,895
+Wikipedia says it was loosely based on
+
+207
+00:08:30,895 --> 00:08:32,420
+the Enzo, with a 6.
+
+208
+00:08:32,600 --> 00:08:35,182
+3 litre engine of about eight hundred
+
+209
+00:08:35,182 --> 00:08:38,321
+metric horsepower and zero to ninety-seven in
+
+210
+00:08:38,321 --> 00:08:39,996
+two point eight seconds.
+
+211
+00:08:40,176 --> 00:08:42,659
+It cost an initial one point three
+
+212
+00:08:42,659 --> 00:08:45,361
+million euros and was kept by Ferrari
+
+213
+00:08:45,361 --> 00:08:47,479
+for client use on track only.
+
+214
+00:08:47,659 --> 00:08:50,631
+The program ran until two thousand nine.
+
+215
+00:08:50,981 --> 00:08:53,500
+The FXX produced a famous lap.
+
+216
+00:08:53,680 --> 00:08:57,212
+Wikipedia says Michael Schumacher set one minute
+
+217
+00:08:57,212 --> 00:08:59,714
+ten point seven seconds in the FXX
+
+218
+00:08:59,714 --> 00:09:02,069
+for a two thousand nine Top Gear
+
+219
+00:09:02,069 --> 00:09:04,645
+test, and that the record was later
+
+220
+00:09:04,645 --> 00:09:07,809
+removed because the car was not road-legal.
+
+221
+00:09:07,989 --> 00:09:09,779
+The Stig's usual driver,
+
+222
+00:09:09,779 --> 00:09:12,687
+Ben Collins, was not a selected client,
+
+223
+00:09:12,687 --> 00:09:15,222
+so Schumacher wore the white suit.
+
+224
+00:09:15,573 --> 00:09:18,976
+Wikipedia also lists the FXX Evoluzione at
+
+225
+00:09:18,976 --> 00:09:23,189
+eight hundred sixty metric horsepower at ninety-five
+
+226
+00:09:23,189 --> 00:09:26,106
+hundred revs, zero to one hundred in
+
+227
+00:09:26,106 --> 00:09:28,861
+two point five seconds and a shift
+
+228
+00:09:28,861 --> 00:09:31,049
+time of sixty milliseconds.
+
+229
+00:09:31,229 --> 00:09:32,488
+By our arithmetic,
+
+230
+00:09:32,488 --> 00:09:35,145
+that is thirty percent more power than
+
+231
+00:09:35,145 --> 00:09:37,523
+the road Enzo's six hundred sixty,
+
+232
+00:09:37,523 --> 00:09:39,761
+with a shift time less than half
+
+233
+00:09:39,761 --> 00:09:42,978
+the road car's one hundred fifty milliseconds.
+
+234
+00:09:43,328 --> 00:09:45,487
+One more variant is a one-off.
+
+235
+00:09:45,667 --> 00:09:50,558
+Wikipedia says American collector James Glickenhaus commissioned
+
+236
+00:09:50,558 --> 00:09:53,462
+the Ferrari P four five by Pininfarina
+
+237
+00:09:53,462 --> 00:09:57,665
+on the last unregistered US-specification Enzo chassis,
+
+238
+00:09:57,665 --> 00:10:01,944
+keeping the Enzo's drivetrain and identification number.
+
+239
+00:10:02,124 --> 00:10:04,456
+The name, the page notes,
+
+240
+00:10:04,456 --> 00:10:07,440
+is sometimes cited as 612 P four
+
+241
+00:10:07,440 --> 00:10:10,891
+five, but the official one is Ferrari
+
+242
+00:10:10,891 --> 00:10:13,409
+P four five by Pininfarina.
+
+243
+00:10:13,759 --> 00:10:15,803
+A third thing worth knowing is how
+
+244
+00:10:15,803 --> 00:10:16,766
+you got an Enzo.
+
+245
+00:10:16,946 --> 00:10:20,475
+RM Sotheby's says only existing Ferrari owners
+
+246
+00:10:20,475 --> 00:10:22,009
+were invited to buy,
+
+247
+00:10:22,009 --> 00:10:24,771
+generally buyers of the F40 and F50.
+
+248
+00:10:24,951 --> 00:10:28,960
+Wikipedia agrees that invitations went to owners
+
+249
+00:10:28,960 --> 00:10:30,129
+of those cars.
+
+250
+00:10:30,309 --> 00:10:32,298
+There was no list to join; you
+
+251
+00:10:32,298 --> 00:10:34,883
+were chosen, according to both sources.
+
+252
+00:10:35,233 --> 00:10:37,706
+The production count is a mess.
+
+253
+00:10:37,886 --> 00:10:40,952
+RM says three hundred forty-nine cars were
+
+254
+00:10:40,952 --> 00:10:44,018
+planned, all sold before production began,
+
+255
+00:10:44,018 --> 00:10:46,355
+and fifty more were later built,
+
+256
+00:10:46,355 --> 00:10:48,764
+making three hundred ninety-nine.
+
+257
+00:10:48,944 --> 00:10:51,598
+Wikipedia says the run was announced as
+
+258
+00:10:51,598 --> 00:10:53,367
+three hundred ninety-nine.
+
+259
+00:10:53,547 --> 00:10:56,066
+Then a four hundredth car was built,
+
+260
+00:10:56,066 --> 00:10:58,585
+and Wikipedia's text says a total of
+
+261
+00:10:58,585 --> 00:11:01,384
+four hundred ninety-eight were produced.
+
+262
+00:11:01,735 --> 00:11:02,831
+By our arithmetic,
+
+263
+00:11:02,831 --> 00:11:06,057
+the gap between Wikipedia's four hundred ninety-eight
+
+264
+00:11:06,057 --> 00:11:08,371
+and the other sources' four hundred is
+
+265
+00:11:08,371 --> 00:11:09,467
+ninety-eight cars.
+
+266
+00:11:09,647 --> 00:11:12,442
+The page does not say whether the
+
+267
+00:11:12,442 --> 00:11:15,237
+larger figure includes the mules,
+
+268
+00:11:15,237 --> 00:11:17,693
+the FXX or other derivatives.
+
+269
+00:11:17,873 --> 00:11:20,526
+It does list three development mules,
+
+270
+00:11:20,526 --> 00:11:22,677
+and the Maserati MC12's fifty,
+
+271
+00:11:22,677 --> 00:11:24,685
+but that would not add up to
+
+272
+00:11:24,685 --> 00:11:26,406
+ninety-eight on its own.
+
+273
+00:11:26,756 --> 00:11:29,577
+The American share is also disputed.
+
+274
+00:11:29,757 --> 00:11:31,910
+Hagerty says four hundred built,
+
+275
+00:11:31,910 --> 00:11:34,668
+including eighty for the American market.
+
+276
+00:11:34,848 --> 00:11:37,484
+Italpassion, describing an auction lot,
+
+277
+00:11:37,484 --> 00:11:40,660
+says four hundred ninety-eight produced and one
+
+278
+00:11:40,660 --> 00:11:43,161
+hundred eleven for the United States.
+
+279
+00:11:43,341 --> 00:11:44,794
+By our arithmetic,
+
+280
+00:11:44,794 --> 00:11:48,427
+the two American figures differ by thirty-one
+
+281
+00:11:48,427 --> 00:11:51,899
+cars, or thirty-nine percent of the smaller
+
+282
+00:11:51,899 --> 00:11:52,222
+one.
+
+283
+00:11:52,573 --> 00:11:54,999
+The last car has its own conflict.
+
+284
+00:11:55,179 --> 00:11:58,637
+RM Sotheby's says the four hundredth Enzo
+
+285
+00:11:58,637 --> 00:12:01,252
+was built for Pope John Paul II
+
+286
+00:12:01,252 --> 00:12:03,445
+and auctioned for charity.
+
+287
+00:12:03,625 --> 00:12:06,112
+Wikipedia says it was built in two
+
+288
+00:12:06,112 --> 00:12:09,037
+thousand four and donated to the Vatican
+
+289
+00:12:09,037 --> 00:12:12,182
+for charity, later selling at Sotheby's for
+
+290
+00:12:12,182 --> 00:12:14,376
+one point one million dollars.
+
+291
+00:12:14,556 --> 00:12:17,102
+Its own cited sources refer to a
+
+292
+00:12:17,102 --> 00:12:18,295
+donation to St.
+
+293
+00:12:18,475 --> 00:12:20,785
+Jude Children's Research Hospital.
+
+294
+00:12:21,135 --> 00:12:22,337
+By our arithmetic,
+
+295
+00:12:22,337 --> 00:12:24,942
+one point one million dollars was about
+
+296
+00:12:24,942 --> 00:12:27,681
+one point seven times the Enzo's original
+
+297
+00:12:27,681 --> 00:12:30,754
+list price of six hundred forty-three thousand
+
+298
+00:12:30,754 --> 00:12:32,691
+three hundred thirty dollars,
+
+299
+00:12:32,691 --> 00:12:34,161
+per Sports Car Market.
+
+300
+00:12:34,341 --> 00:12:36,538
+The page does not say whether it
+
+301
+00:12:36,538 --> 00:12:38,599
+was bought by a private buyer,
+
+302
+00:12:38,599 --> 00:12:40,796
+or what that buyer paid in fees.
+
+303
+00:12:40,976 --> 00:12:43,020
+We keep the figure as reported.
+
+304
+00:12:43,370 --> 00:12:46,422
+Hagerty's valuation page puts a good Enzo
+
+305
+00:12:46,422 --> 00:12:49,846
+at three million six hundred thousand dollars,
+
+306
+00:12:49,846 --> 00:12:53,122
+with zero percent change over twelve months.
+
+307
+00:12:53,302 --> 00:12:55,381
+The most recent sale it lists is
+
+308
+00:12:55,381 --> 00:12:58,174
+two million eight hundred sixty thousand at
+
+309
+00:12:58,174 --> 00:13:00,708
+Mecum on the sixteenth of August twenty
+
+310
+00:13:00,708 --> 00:13:01,487
+twenty-four.
+
+311
+00:13:01,667 --> 00:13:04,179
+Its three-year auction range runs from two
+
+312
+00:13:04,179 --> 00:13:06,990
+million one hundred eighty-one thousand to four
+
+313
+00:13:06,990 --> 00:13:09,562
+million four hundred twenty-seven thousand.
+
+314
+00:13:09,912 --> 00:13:12,920
+Hagerty lists the all-time highest Enzo sale
+
+315
+00:13:12,920 --> 00:13:15,723
+at four million five hundred ten thousand
+
+316
+00:13:15,723 --> 00:13:18,389
+dollars and the lowest at eight hundred
+
+317
+00:13:18,389 --> 00:13:20,372
+thirty thousand five hundred.
+
+318
+00:13:20,552 --> 00:13:23,165
+But Italpassion says a record of six
+
+319
+00:13:23,165 --> 00:13:25,851
+point oh five million dollars was set
+
+320
+00:13:25,851 --> 00:13:28,029
+at Monterey in twenty fifteen.
+
+321
+00:13:28,209 --> 00:13:31,368
+These conflict, and neither page explains how
+
+322
+00:13:31,368 --> 00:13:34,106
+a sale above Hagerty's maximum could be
+
+323
+00:13:34,106 --> 00:13:35,651
+missing from its data.
+
+324
+00:13:36,001 --> 00:13:37,603
+And one sale looks low.
+
+325
+00:13:37,783 --> 00:13:41,061
+RM Sotheby's California sale in twenty fifteen
+
+326
+00:13:41,061 --> 00:13:43,412
+lists a two thousand four Enzo as
+
+327
+00:13:43,412 --> 00:13:46,405
+sold for one million eight hundred seventy
+
+328
+00:13:46,405 --> 00:13:47,616
+thousand dollars.
+
+329
+00:13:47,796 --> 00:13:49,046
+By our arithmetic,
+
+330
+00:13:49,046 --> 00:13:51,891
+that is thirty-one percent of the claimed
+
+331
+00:13:51,891 --> 00:13:54,182
+Monterey record in the same year.
+
+332
+00:13:54,362 --> 00:13:56,908
+The catalogue page does not give a
+
+333
+00:13:56,908 --> 00:13:59,678
+date, estimate or notes on mileage or
+
+334
+00:13:59,678 --> 00:14:03,197
+condition, so we cannot explain the difference.
+
+335
+00:14:03,547 --> 00:14:06,704
+For context, Sports Car Market reported in
+
+336
+00:14:06,704 --> 00:14:09,786
+October twenty eighteen that an Enzo sold
+
+337
+00:14:09,786 --> 00:14:12,267
+at RM London for two million five
+
+338
+00:14:12,267 --> 00:14:16,702
+hundred thirty thousand seven hundred seventy-four dollars,
+
+339
+00:14:16,702 --> 00:14:19,559
+and said Enzo prices seldom sell under
+
+340
+00:14:19,559 --> 00:14:22,115
+two million and top out just below
+
+341
+00:14:22,115 --> 00:14:23,167
+three million.
+
+342
+00:14:23,347 --> 00:14:24,868
+By our arithmetic,
+
+343
+00:14:24,868 --> 00:14:29,260
+Hagerty's present typical value is forty-two percent
+
+344
+00:14:29,260 --> 00:14:31,033
+above that 2018 sale.
+
+345
+00:14:31,384 --> 00:14:33,067
+And what did it cost new?
+
+346
+00:14:33,247 --> 00:14:35,780
+Sports Car Market gives an original list
+
+347
+00:14:35,780 --> 00:14:38,756
+price of six hundred forty-three thousand three
+
+348
+00:14:38,756 --> 00:14:40,213
+hundred thirty dollars.
+
+349
+00:14:40,393 --> 00:14:41,908
+By our arithmetic,
+
+350
+00:14:41,908 --> 00:14:45,359
+Hagerty's three point six million is five
+
+351
+00:14:45,359 --> 00:14:47,127
+point six times that.
+
+352
+00:14:47,307 --> 00:14:49,727
+Evo, in its two thousand four test,
+
+353
+00:14:49,727 --> 00:14:52,078
+gave a price of about four hundred
+
+354
+00:14:52,078 --> 00:14:55,051
+twenty thousand pounds in two thousand two.
+
+355
+00:14:55,231 --> 00:14:58,423
+Another site's list prices of six fifty
+
+356
+00:14:58,423 --> 00:15:01,860
+and six fifty-nine thousand are unsourced.
+
+357
+00:15:02,210 --> 00:15:04,357
+The Enzo's looks divided people.
+
+358
+00:15:04,537 --> 00:15:07,782
+Wikipedia says Bloomberg Businessweek put it on
+
+359
+00:15:07,782 --> 00:15:10,060
+a list of the fifty ugliest cars,
+
+360
+00:15:10,060 --> 00:15:13,236
+while Sports Car International ranked it third
+
+361
+00:15:13,236 --> 00:15:15,445
+among the top sports cars of the
+
+362
+00:15:15,445 --> 00:15:17,862
+two thousands in two thousand four,
+
+363
+00:15:17,862 --> 00:15:20,623
+and Motor Trend Classic ranked it fourth
+
+364
+00:15:20,623 --> 00:15:22,556
+among the greatest Ferraris.
+
+365
+00:15:22,736 --> 00:15:25,591
+Jalopnik argued in twenty ten that it
+
+366
+00:15:25,591 --> 00:15:26,672
+had aged well.
+
+367
+00:15:27,022 --> 00:15:29,771
+Evo's February two thousand four group test
+
+368
+00:15:29,771 --> 00:15:31,305
+ranked it third of four,
+
+369
+00:15:31,305 --> 00:15:34,055
+behind the Ferrari two eighty-eight GTO and
+
+370
+00:15:34,055 --> 00:15:35,973
+the F50, and ahead of the F40.
+
+371
+00:15:36,153 --> 00:15:38,715
+The magazine said an Enzo would pulverise
+
+372
+00:15:38,715 --> 00:15:40,714
+a GTO around Fiorano but that on
+
+373
+00:15:40,714 --> 00:15:43,026
+real roads the GTO was more engaging.
+
+374
+00:15:43,206 --> 00:15:44,903
+That is the real secret:
+
+375
+00:15:44,903 --> 00:15:47,378
+the fastest Ferrari of the four was
+
+376
+00:15:47,378 --> 00:15:48,651
+not the favourite.
+
+377
+00:15:49,001 --> 00:15:51,806
+RM Sotheby's makes a sobering remark:
+
+378
+00:15:51,806 --> 00:15:54,687
+an alarming number of the four hundred
+
+379
+00:15:54,687 --> 00:15:57,796
+have been written off by inexperienced or
+
+380
+00:15:57,796 --> 00:16:01,814
+cavalier drivers, which makes well-kept examples more
+
+381
+00:16:01,814 --> 00:16:02,573
+desirable.
+
+382
+00:16:02,753 --> 00:16:04,517
+The page gives no count.
+
+383
+00:16:04,697 --> 00:16:06,610
+So we cannot say how many of
+
+384
+00:16:06,610 --> 00:16:07,771
+the cars survive,
+
+385
+00:16:07,771 --> 00:16:10,161
+only that the cars are scarcer than
+
+386
+00:16:10,161 --> 00:16:12,279
+the production figure suggests.
+
+387
+00:16:12,629 --> 00:16:14,742
+There were secret test cars.
+
+388
+00:16:14,922 --> 00:16:18,112
+Wikipedia says three development mules,
+
+389
+00:16:18,112 --> 00:16:19,830
+called M1, M2 and M3,
+
+390
+00:16:19,830 --> 00:16:22,776
+were built using the bodywork of the
+
+391
+00:16:22,776 --> 00:16:24,903
+Ferrari three forty-eight,
+
+392
+00:16:24,903 --> 00:16:27,193
+to hide what was underneath.
+
+393
+00:16:27,373 --> 00:16:29,560
+The third mule sold at auction in
+
+394
+00:16:29,560 --> 00:16:32,078
+June two thousand five for one hundred
+
+395
+00:16:32,078 --> 00:16:34,728
+ninety-five thousand five hundred euros,
+
+396
+00:16:34,728 --> 00:16:37,245
+which the page converts to two hundred
+
+397
+00:16:37,245 --> 00:16:40,028
+thirty-six thousand three hundred dollars.
+
+398
+00:16:40,379 --> 00:16:41,572
+By our arithmetic,
+
+399
+00:16:41,572 --> 00:16:44,356
+that mule sold for thirty-seven percent of
+
+400
+00:16:44,356 --> 00:16:46,809
+the Enzo's original list price of six
+
+401
+00:16:46,809 --> 00:16:50,653
+hundred forty-three thousand three hundred thirty dollars.
+
+402
+00:16:50,833 --> 00:16:53,672
+A prototype dressed as an older Ferrari
+
+403
+00:16:53,672 --> 00:16:56,220
+sold for far less than the finished
+
+404
+00:16:56,220 --> 00:16:56,511
+car.
+
+405
+00:16:56,691 --> 00:17:00,514
+Today, Hagerty's typical Enzo value is fifteen
+
+406
+00:17:00,514 --> 00:17:02,426
+times the mule's price.
+
+407
+00:17:02,776 --> 00:17:04,819
+A film cameo came early.
+
+408
+00:17:04,999 --> 00:17:08,190
+Wikipedia says the actress Demi Moore drove
+
+409
+00:17:08,190 --> 00:17:10,194
+an Enzo show car on a beach
+
+410
+00:17:10,194 --> 00:17:12,347
+in the film Charlie's Angels:
+
+411
+00:17:12,347 --> 00:17:15,390
+Full Throttle before the Paris unveiling.
+
+412
+00:17:15,570 --> 00:17:17,832
+The page gives no detail on the
+
+413
+00:17:17,832 --> 00:17:20,166
+car's status or whether it was a
+
+414
+00:17:20,166 --> 00:17:21,479
+running prototype.
+
+415
+00:17:21,659 --> 00:17:23,643
+It is a one-line trivia item,
+
+416
+00:17:23,643 --> 00:17:25,421
+and we pass it on as that.
+
+417
+00:17:25,771 --> 00:17:28,603
+Maserati explored even more versions.
+
+418
+00:17:28,783 --> 00:17:32,396
+Wikipedia mentions the Birdcage seventy-fifth,
+
+419
+00:17:32,396 --> 00:17:37,421
+a concept commemorating Pininfarina's seventy-fifth anniversary,
+
+420
+00:17:37,421 --> 00:17:40,405
+and says a planned MC13 was cancelled.
+
+421
+00:17:40,585 --> 00:17:43,350
+It also describes the Millechili,
+
+422
+00:17:43,350 --> 00:17:47,289
+a lightweight prototype using an F430 aluminium
+
+423
+00:17:47,289 --> 00:17:50,054
+space frame and a hybrid V10 over
+
+424
+00:17:50,054 --> 00:17:52,903
+six hundred ten metric horsepower.
+
+425
+00:17:53,083 --> 00:17:55,115
+It was never meant for production.
+
+426
+00:17:55,465 --> 00:17:57,845
+The Enzo's size is documented too.
+
+427
+00:17:58,025 --> 00:18:01,531
+Wikipedia lists a wheelbase of twenty-six fifty
+
+428
+00:18:01,531 --> 00:18:04,814
+millimetres, a length of forty-seven oh two,
+
+429
+00:18:04,814 --> 00:18:07,425
+a width of twenty thirty-five and a
+
+430
+00:18:07,425 --> 00:18:09,588
+height of eleven forty-seven.
+
+431
+00:18:09,768 --> 00:18:11,093
+By our arithmetic,
+
+432
+00:18:11,093 --> 00:18:13,081
+that is a car fifteen and a
+
+433
+00:18:13,081 --> 00:18:14,185
+half feet long,
+
+434
+00:18:14,185 --> 00:18:16,982
+six and two-thirds feet wide and under
+
+435
+00:18:16,982 --> 00:18:18,086
+four feet tall,
+
+436
+00:18:18,086 --> 00:18:20,368
+riding on nineteen-inch wheels.
+
+437
+00:18:20,718 --> 00:18:22,575
+The paint choices were limited.
+
+438
+00:18:22,755 --> 00:18:26,006
+Wikipedia lists Giallo Modena yellow,
+
+439
+00:18:26,006 --> 00:18:28,202
+black, Bianco Fuji white,
+
+440
+00:18:28,202 --> 00:18:32,682
+Argento Nürburgring silver and Grigio Titanio grey.
+
+441
+00:18:32,862 --> 00:18:35,126
+Two of the cars in our sources
+
+442
+00:18:35,126 --> 00:18:36,710
+are red, Rosso Corsa,
+
+443
+00:18:36,710 --> 00:18:39,654
+so that colour was clearly available on
+
+444
+00:18:39,654 --> 00:18:40,257
+request.
+
+445
+00:18:40,437 --> 00:18:42,531
+The page does not say how many
+
+446
+00:18:42,531 --> 00:18:44,834
+cars were painted in each colour,
+
+447
+00:18:44,834 --> 00:18:47,067
+so we can't say which is rarest.
+
+448
+00:18:47,417 --> 00:18:50,725
+A real car shows what ownership means.
+
+449
+00:18:50,905 --> 00:18:53,842
+A PistonHeads listing for a two thousand
+
+450
+00:18:53,842 --> 00:18:56,485
+three Enzo, one of thirty-one in the
+
+451
+00:18:56,485 --> 00:19:00,009
+United Kingdom, records its first annual service
+
+452
+00:19:00,009 --> 00:19:03,167
+at forty-nine hundred kilometres in May two
+
+453
+00:19:03,167 --> 00:19:05,810
+thousand four, and a service in July
+
+454
+00:19:05,810 --> 00:19:10,141
+twenty eighteen at seventeen thousand fifty-four kilometres
+
+455
+00:19:10,141 --> 00:19:13,298
+that included a clutch replacement and four
+
+456
+00:19:13,298 --> 00:19:14,033
+new tyres.
+
+457
+00:19:14,383 --> 00:19:15,683
+By our arithmetic,
+
+458
+00:19:15,683 --> 00:19:18,717
+that car covered about twelve thousand one
+
+459
+00:19:18,717 --> 00:19:21,823
+hundred fifty kilometres in fourteen years,
+
+460
+00:19:21,823 --> 00:19:25,074
+or roughly eight hundred seventy kilometres a
+
+461
+00:19:25,074 --> 00:19:25,435
+year.
+
+462
+00:19:25,615 --> 00:19:28,087
+The listing says the current owner has
+
+463
+00:19:28,087 --> 00:19:30,689
+driven it only about four hundred sixty.
+
+464
+00:19:30,869 --> 00:19:33,634
+So a clutch swap at seventeen thousand
+
+465
+00:19:33,634 --> 00:19:35,962
+kilometres is a sign of how hard
+
+466
+00:19:35,962 --> 00:19:37,490
+these gearboxes work,
+
+467
+00:19:37,490 --> 00:19:39,746
+but our sources do not say that
+
+468
+00:19:39,746 --> 00:19:40,401
+directly.
+
+469
+00:19:40,751 --> 00:19:43,885
+Sports Car Market adds a collector's view.
+
+470
+00:19:44,065 --> 00:19:46,796
+In twenty eighteen it said the number
+
+471
+00:19:46,796 --> 00:19:48,494
+of Enzos does not grow,
+
+472
+00:19:48,494 --> 00:19:51,667
+but the number of supercar collectors does,
+
+473
+00:19:51,667 --> 00:19:54,398
+and rated the car investment grade B.
+
+474
+00:19:54,578 --> 00:19:56,674
+It listed the Bugatti Veyron,
+
+475
+00:19:56,674 --> 00:19:59,494
+Porsche nine eighteen and McLaren P one
+
+476
+00:19:59,494 --> 00:20:00,650
+as alternatives.
+
+477
+00:20:00,830 --> 00:20:03,013
+That is an analyst's opinion,
+
+478
+00:20:03,013 --> 00:20:04,217
+not a guarantee,
+
+479
+00:20:04,217 --> 00:20:07,302
+and the Hagerty figures show zero percent
+
+480
+00:20:07,302 --> 00:20:09,259
+change over the past year.
+
+481
+00:20:09,609 --> 00:20:12,061
+We should also mention what the Enzo
+
+482
+00:20:12,061 --> 00:20:12,674
+replaced.
+
+483
+00:20:12,854 --> 00:20:16,453
+Wikipedia lists the F50 as its predecessor.
+
+484
+00:20:16,633 --> 00:20:17,957
+By our arithmetic,
+
+485
+00:20:17,957 --> 00:20:21,487
+the Enzo's engine is twenty-eight percent larger
+
+486
+00:20:21,487 --> 00:20:24,355
+than the F50's four point seven litres,
+
+487
+00:20:24,355 --> 00:20:27,224
+and its six hundred sixty horsepower is
+
+488
+00:20:27,224 --> 00:20:30,828
+twenty-seven percent above the F50's five hundred
+
+489
+00:20:30,828 --> 00:20:31,343
+twenty.
+
+490
+00:20:31,523 --> 00:20:33,910
+The next video compares the two in
+
+491
+00:20:33,910 --> 00:20:34,402
+detail.
+
+492
+00:20:34,752 --> 00:20:37,677
+The British press shows another price curve.
+
+493
+00:20:37,857 --> 00:20:40,898
+Evo's online edition lists the Enzo at
+
+494
+00:20:40,898 --> 00:20:44,418
+about four hundred twenty thousand pounds in
+
+495
+00:20:44,418 --> 00:20:45,778
+two thousand two,
+
+496
+00:20:45,778 --> 00:20:48,259
+with a value today of one point
+
+497
+00:20:48,259 --> 00:20:51,139
+six to two point six million pounds.
+
+498
+00:20:51,319 --> 00:20:52,644
+By our arithmetic,
+
+499
+00:20:52,644 --> 00:20:54,925
+that is a rise of between three
+
+500
+00:20:54,925 --> 00:20:57,574
+point eight and six point two times,
+
+501
+00:20:57,574 --> 00:20:59,119
+depending on the car,
+
+502
+00:20:59,119 --> 00:21:01,548
+with no year given for the value.
+
+503
+00:21:01,898 --> 00:21:05,604
+The Mecum result from August twenty twenty-four,
+
+504
+00:21:05,604 --> 00:21:08,770
+two million eight hundred sixty thousand,
+
+505
+00:21:08,770 --> 00:21:12,785
+was twenty-one percent below Hagerty's typical value
+
+506
+00:21:12,785 --> 00:21:14,869
+of three point six million,
+
+507
+00:21:14,869 --> 00:21:16,259
+by our arithmetic.
+
+508
+00:21:16,439 --> 00:21:19,266
+Hagerty does not say what condition or
+
+509
+00:21:19,266 --> 00:21:20,828
+mileage that car had.
+
+510
+00:21:21,008 --> 00:21:23,670
+So the spread between the recent sale
+
+511
+00:21:23,670 --> 00:21:26,475
+and the typical value is another reason
+
+512
+00:21:26,475 --> 00:21:28,634
+to treat any single price as a
+
+513
+00:21:28,634 --> 00:21:29,425
+data point.
+
+514
+00:21:29,775 --> 00:21:31,783
+To recap what we could not confirm.
+
+515
+00:21:31,963 --> 00:21:34,629
+We have no source explaining the drop
+
+516
+00:21:34,629 --> 00:21:36,503
+in downforce at top speed.
+
+517
+00:21:36,683 --> 00:21:39,748
+We have no reconciliation of the production
+
+518
+00:21:39,748 --> 00:21:40,247
+totals.
+
+519
+00:21:40,427 --> 00:21:43,474
+We have no explanation for Hagerty's missing
+
+520
+00:21:43,474 --> 00:21:44,305
+record sale.
+
+521
+00:21:44,485 --> 00:21:46,907
+We have no independent test of the
+
+522
+00:21:46,907 --> 00:21:48,119
+Enzo's top speed.
+
+523
+00:21:48,299 --> 00:21:50,090
+And we have no data on how
+
+524
+00:21:50,090 --> 00:21:51,398
+many Enzos survive.
+
+525
+00:21:51,578 --> 00:21:53,421
+Each of those is flagged where it
+
+526
+00:21:53,421 --> 00:21:53,924
+appeared.
+
+527
+00:21:54,274 --> 00:21:56,538
+So the two secrets again.
+
+528
+00:21:56,718 --> 00:22:00,551
+The Enzo carried active aerodynamics that Formula
+
+529
+00:22:00,551 --> 00:22:01,724
+One had banned,
+
+530
+00:22:01,724 --> 00:22:03,680
+and it was the base for a
+
+531
+00:22:03,680 --> 00:22:06,888
+Maserati, a track-only FXX and a one-off.
+
+532
+00:22:07,068 --> 00:22:09,141
+Everything else, the prices,
+
+533
+00:22:09,141 --> 00:22:10,252
+the Pope's car,
+
+534
+00:22:10,252 --> 00:22:11,807
+the production count,
+
+535
+00:22:11,807 --> 00:22:14,324
+is more complicated than it looks.
+
+536
+00:22:14,504 --> 00:22:16,031
+If this was useful,
+
+537
+00:22:16,031 --> 00:22:19,165
+subscribe to Pickup Reality and tell us
+
+538
+00:22:19,165 --> 00:22:20,692
+what to check next.
