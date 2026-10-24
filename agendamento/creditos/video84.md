@@ -1,0 +1,196 @@
+# Photo credits: The Insane Story Behind the McLaren F1
+
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0
+- 1995 McLaren F1 HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 GTR Longtail GIMS 2024 1X7A2265.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren F1 HDK (15431191211).jpg by Axion23, CC BY 2.0
+- McLaren F1 4.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 5.jpg by Calreyn88, CC BY-SA 4.0
+- 1994 McLaren F1-1 (29891722143).jpg by naeem mayet, CC BY 2.0
+- 2024 Gordon Murray T50.jpg by Calreyn88, CC BY-SA 4.0
+- Gordon Murray Automotive T50 14.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T50 2023.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T33S 2025.jpg by Calreyn88, CC BY 4.0
+- 2024 Gordon Murray T50 5.jpg by Calreyn88, CC BY-SA 4.0
+- Carlos Pace Brabham BT45 1976 British Grand Prix front view.jpg by Gillfoto, CC BY-SA 4.0
+- Gordon Murray Automotive T50 gfos25.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T50 2024.jpg by Calreyn88, CC BY 4.0
+- 1996 McLaren F1 GTR BMW.jpg by MrWalkr, CC BY-SA 4.0
+- Silver McLaren F1 with prototype mirrors.jpg by Joe Cheng, CC BY 2.0
+- McLaren F1 Villeneuve Mont-Tremblant.jpg by John Chapman (Pyrope), CC BY-SA 3.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Paradise Valley Pinetown Durban.jpg by MissMakhanya89, CC BY-SA 4.0
+- Durban Central.jpg by Nzukiso Jalubani, CC BY-SA 4.0
+- Downtown Durban (54333041206).jpg by Dennis Sylvester Hurd, CC BY 2.0
+- Rindt's car at 1969 Dutch Grand Prix.jpg by Evers, Joost / Anefo / neg. stroken, 1945-1989, 2.24.01.05, item number 922-5527, CC BY-SA 3.0 nl
+- Rindt at 1969 Dutch Grand Prix (2).jpg by Evers, Joost / Anefo / neg. stroken, 1945-1989, 2.24.01.05, item number 922-5544, CC BY-SA 3.0 nl
+- Drivers at 1969 Dutch Grand Prix.jpg by Evers, Joost / Anefo / neg. stroken, 1945-1989, 2.24.01.05, item number 922-5522, CC BY-SA 3.0 nl
+- 1969 Piers Courage, Brabham-Ford.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Brabham BT42 at Goodwood 2012.jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0
+- Grand Prix Zandvoort , training, Jack Brabham in zijn Pepco Brabham, Bestanddeelnr 919-3823.jpg by Eric Koch for Anefo, CC0
+- 1978 Brabham-Alfa Romeo BT46B Fan Car.jpg by Calreyn88, CC BY-SA 4.0
+- 1978 Brabham-Alfa Romeo BT46B.jpg by Calreyn88, CC BY-SA 4.0
+- 1978 Brabham-Alfa Romeo BT46B Fan Car mod.jpg by Quelle: 	Calreyn88       /   Bildbearbeitung & Retusche von Auge=mit, CC BY-SA 4.0
+- 1976 Alfa Romeo Tipo 33 SC 12 3litre flat 12 cylinder 520hp engine pic2.JPG by Alf van Beem, Public domain
+- 1976 Alfa Romeo Tipo 33 SC 12 3litre flat 12 cylinder 520hp engine pic1.JPG by Alf van Beem, Public domain
+- 2011 NEC Classic Car Show Alfa Romeo Arna DSC 2210.jpg by Tony Harrison, CC BY-SA 2.0
+- 12th century Mahadeva temple, Itagi, Karnataka India - 79.jpg by P. Madhusudan, CC0
+- Secma F16 - Circuit Val de Vienne - 15-11-2014 - Image Picture Photography - Organisateur - Club AGC86 Vienne - www.agc86.fr (15619630749).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0
+- Secma F16 - Circuit Val de Vienne - 15-11-2014 - Image Picture Photography - Organisateur - Club AGC86 Vienne - www.agc86.fr (15182521753).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0
+- Niki Lauda - Brabham BT46 at Druids at the 1978 British Grand Prix (50049697253).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Niki Lauda - Brabham BT46 heads up towards Druids at the 1978 British Grand Prix (50050265451).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- John Watson - Brabham BT46 leads Patrick Depailler - Tyrrell 008 round Druids at the 1978 British Grand Prix (50049696083).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Brabham BT46B Fan Cover at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- 1978 Brabham-Alfa Romeo BT46B noBG.jpg by Quelle: 	Calreyn88       /   Freisteller, Bildbearbeitung & Retusche von Auge=mit, CC BY-SA 4.0
+- Lauda Brabham.jpg by 50DAG2026, CC BY-SA 4.0
+- 1956-08-12 Kristianstad start.jpg by Unknown photographer, Public domain
+- Racing car (2558743239).jpg by nakhon100, CC BY 2.0
+- Tamiya TyrrellP34.JPG by Peteski, CC BY-SA 3.0
+- Niki Lauda - Brabham BT48 at Druids Bend at the 1979 Race of Champions (50141071882).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Monaco 1978 - Niki Lauda - 02.jpg by Lapin74jp, CC BY-SA 4.0
+- Lauda Druids.jpg by 50DAG2026, CC BY-SA 4.0
+- Mario Andretti 1978 Car.jpg by Carey Akin, CC BY-SA 2.0
+- Mario Andretti 1978 World Championship Winning Lotus 79 (49379922591).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Mario Andretti - Lotus 79 at the 1978 British Grand Prix (50049698533).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Hungaroring, Bernard Charles Ecclestone bust (Ank kumar) 01.jpg by Ank kumar, CC BY-SA 4.0
+- Hungaroring, Sculpture Park (Ank kumar) 12.jpg by Ank kumar, CC BY-SA 4.0
+- Hungaroring, Bernie Ecclestone bust (Ank kumar) 02.jpg by Ank kumar, CC BY-SA 4.0
+- Colin Chapman, de manager van autocoureur Jim Clark, die door de Zandvoortse p, Bestanddeelnr 917-9798.jpg by Joost Evers / Anefo, CC0
+- Colin Chapman, de manager van autocoureur Jim Clark, die door de Zandvoortse p, Bestanddeelnr 100-1110.jpg by Joost Evers / Anefo, CC0
+- Colin Chapman - 7 Tottenham Lane Hornsey N8 7EL.jpg by Spudgun67, CC BY-SA 4.0
+- FRIEDHOF NIKI LAUDA Wien (c) Werner Knorr.jpg by Team-Fotograf, CC BY-SA 4.0
+- NIKI LAUDA Letzte Grüße (c) Werner Knorr.jpg by Team-Fotograf, CC BY-SA 4.0
+- Niki Lauda Stars and Cars 2014 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Brabham BT49 2017 (34825039742).jpg by https://www.flickr.com/photos/95472204@N03/, CC BY 2.0
+- Brabham-Alfa Romeo BT48 1979 noBG.jpg by Quelle: 	Calreyn88       /   Freisteller, Bildbearbeitung & Retusche von Auge=mit, CC BY-SA 4.0
+- Brabham BT48 in the pit garage at the 1979 Race of Champions (50140833276).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Nelson Piquet - Brabham BT48 at the 1979 Race of Champions (50140832791).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Nelson Piquet - Brabham BT48 at Druids Bend at the 1979 Race of Champions (50141071982).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 1980-05-24 Nelson Piquet im BMW M1, Nürburgring Südkehre.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Dennis Hof, Heidi Fleiss, Ron Jeremy.jpg by Daniel Dacumos, from Valencia, USA, robotgoboom at Flickr., CC BY-SA 2.0
+- ESML TCB Band Dennis Jale.jpg by Elisabeth S. Meyer-Lassahn, CC BY-SA 3.0
+- US Navy 090828-N-3592S-128 Lt. Gen. Dennis Hejlik, commanding general of the 2nd Marine Expeditionary Force, gives last-minute advice to Capt. Ron Reis.jpg by U.S. Navy photo by Mass Communication Specialist 1st Class James R. Stilipec, Public domain
+- Linate Airport, Milan, Italy.jpg by Ptrump16, CC BY-SA 4.0
+- Air Malta A319 9H-AEG at Milan Linate Airport 2.jpg by Ptrump16, CC BY-SA 4.0
+- Air Malta A319 9H-AEG at Milan Linate Airport 3.jpg by Ptrump16, CC BY-SA 4.0
+- Aspire Executive Lounge Perth Airport, 2026 (15).jpg by Bahnfrend, CC BY-SA 4.0
+- Virgin Australia Lounge Perth Airport Terminal 1 - Domestic, June 2022 02.jpg by Calistemon, CC BY-SA 4.0
+- Virgin Australia Lounge Perth Airport Terminal 1 - Domestic, June 2022 01.jpg by Calistemon, CC BY-SA 4.0
+- Yacht Kogo 09.jpg by Axou, CC BY-SA 3.0
+- 1993 McLaren F1 (64712).jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 11.jpg by Ank kumar, CC BY-SA 4.0
+- Mclaren-F1.jpg by Accord14, CC BY-SA 4.0
+- Sonoma historic motorsport festival 652010.jpg by kris wilson, CC BY 2.0
+- Mclaren F1.jpg by Calreyn88, CC BY-SA 4.0
+- 1995 Honda NSX Type T.jpg by TTTNIS, CC0
+- Honda NSX 9.jpg by Calreyn88, CC BY-SA 4.0
+- Honda NSX Mulhouse 1.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 02.jpg by Hullian111, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0
+- McLaren MP4-14 at Formula 1 Exhibition, London 03.jpg by Hullian111, CC BY-SA 4.0
+- Off-road Car - geograph.org.uk - 2896391.jpg by Colin Smith, CC BY-SA 2.0
+- Beaulieu National Motor Museum 18-09-2012 (11752321146).jpg by Karen Roe, CC BY 2.0
+- Hulme, Denis, McLaren M7A 1969-08-01.jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 06.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 10.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 12.jpg by Ank kumar, CC BY-SA 4.0
+- Peter Stevens - View of a village with animals and people at work.jpg by Pieter Stevens, Public domain
+- Military intelligence ID of Peter H. Stevens in Saigon.jpg by Peter Stevens, Public domain
+- Stevens pass building 2.jpg by Peter Stevens from Seattle, CC BY 2.0
+- McLaren MP4-4 and Honda RA168E engine Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- McLaren MP4-6 and Honda RA121E engine Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- McLaren MP4-4 engine cover Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- 1996 McLaren F1 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- BMW 850 V12.JPG by Beemwej, CC BY 3.0
+- BMW M70 engine (E31) IMG 5560.jpg by Alexander Migl, CC BY-SA 4.0
+- McLaren MP4-12C. (16594153930).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- McLaren F1 door mechanism.jpg by Joe Cheng, CC BY 2.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 13.jpg by Ank kumar, CC BY-SA 4.0
+- Orange McLaren F1 interior.jpg by Eliot from Las Vegas, CC BY-SA 2.0
+- 1996 McLaren F1 interior.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- McLaren F1 Le Mans interior (42707018544).jpg by Phil Guest from Bournemouth, UK, CC BY-SA 2.0
+- McLaren2007.JPG by Siztrust, CC BY-SA 3.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 08.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren F1 GT, GIMS. 2015 (Ank Kumar, INFOSYS Limited) 07.jpg by Ank kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- British Racing Green McLaren F1 GTR Longtail at Geneva International Motor Show 2015 (Ank Kumar, Infosys) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- McLaren F1 (1994) (55082189081).jpg by Charles from Port Chester, New York, CC0
+- McLaren F1 (1994) (55082448019).jpg by Charles from Port Chester, New York, CC0
+- McLaren F1 (1995) (52960712368).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0166).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren F1 GTR 95 P440 CPJ Ritz.jpg by Sovxx, Public domain
+- McLaren F1 GTR (74764).jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 GTR bodywork in the pits at the 1996 Le Mans (51816388528).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- McLaren F1 GTR (96035).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 GTR (64879).jpg by Calreyn88, CC BY-SA 4.0
+- Hall of fame Le Mans-Nielsen.JPG by OldLion, CC BY-SA 4.0
+- Nissan R390 GT1 - John Nielsen, Franck Lagorce & Michael Krumm at the 1998 Le Mans (51840387633).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Nissan R390 GT1 - John Nielsen, Franck Lagorce & Michael Krumm at the 1998 Le Mans (51841015759).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- 1995 McLaren F1 GTR Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0
+- 1994 McLaren F1 GTR 5R Le mans.jpg by MrWalkr, CC BY-SA 4.0
+- The winning Mclaren F1 GTR -59 of Yannick Dalmas, Masanori Sekiya & J.J.Lehto at Ford Chicane at Le Mans 1995 (49627439822).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Ehra Testgelande.JPG by Vanellus, CC BY-SA 3.0
+- 1997 McLaren F1 FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 GTR 3.jpg by Calreyn88, CC BY-SA 4.0
+- Mclaren F1 at Goodwood Festival of Speed - geograph.org.uk - 5009278.jpg by Oast House Archive, CC BY-SA 2.0
+- Gordon Murray Design T.25 RAC Future Car Challenge 2.jpg by Dominic Alves, CC BY 2.0
+- Gordon Murray Design T.27 RAC Future Car Challenge 3.jpg by Dominic Alves, CC BY 2.0
+- Yamaha Motiv Gordon Murray Design 2013 Tokyo Motor Show.jpg by Morio, CC BY-SA 3.0
+- GMA T.50 at PB 2022.jpg by Prova MO, CC BY-SA 4.0
+- 2024 Gordon Murray Automotive T.50.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Gordon Murray Automotive T.50 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2023 Gordon Murray Automotive T.50 Pre Series Prototype 2 HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- GMA T.50 engine compartment at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- 2024 GMA T.50.jpg by MrWalkr, CC BY-SA 4.0
+- Cosworth GMA engine at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Cosworth GMA engine 2 at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- BMW, Mercedes-Benz und Bentley Arnage (6734879129).jpg by Tobias Nordhausen from Sondershausen, Deutschland, CC BY 2.0
+- 2024 GMA T.50 BSO24.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 GMA T.50 Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 GMA T.50 BS O24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren F1 (93700).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (10999).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (19209).jpg by Calreyn88, CC BY-SA 4.0
+- Lauda at 1978 Dutch Grand Prix (cropped).jpg by Original:  Suyk, Koen / neg. stroken, 1945-1989, 2.24.01.05, item number 929-8747 for Anefo / Derivative work:  Danyele, CC BY-SA 3.0 nl
+- Lauda at 1978 Dutch Grand Prix.jpg by Suyk, Koen / neg. stroken, 1945-1989, 2.24.01.05, item number 929-8747 for Anefo, CC BY-SA 3.0 nl
+- Jody Scheckter - Wolf WR5, Alan Jones - Williams FW06, Niki Lauda - Brabham BT46 & Riccardo Patrese - Arrows FA1 at the 1978 British Grand Prix (50050267196).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Goodwood edited-62 (53863543885).jpg by Michele Borioli, CC BY 2.0
+- GMA T.33 Spider at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Gordon Murray Automotive T33 2025 2.jpg by Calreyn88, CC BY 4.0
+- 2024 Gordon Murray T50 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Gordon Murray T33 Mule.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Gordon Murray T50 2.jpg by Calreyn88, CC BY-SA 4.0
+- RobertMurrayPicture.JPG by Sepa91, CC BY-SA 4.0
+- Air Mens Memorial St Edward's Leek.jpg by Memorialman, CC BY-SA 4.0
+- Gordon Murray Automotive T50 2025.jpg by Calreyn88, CC BY 4.0
+- Carlos Pace Brabham BT45 1976 British Grand Prix.jpg by Gillfoto, CC BY-SA 3.0
+- Rétromobile 2011 - Duckhams 'Gordon Murray' - 1972- 001.jpg by Thesupermat, CC BY-SA 3.0
+- Gordon Murray Automotive T50 2025 2.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T50 gfos25 9.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T33S 2025 4.jpg by Calreyn88, CC BY 4.0
+- Gordon Murray Automotive T50 gfos25 8.jpg by Calreyn88, CC BY 4.0
+- 1997 McLaren F1.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren F1 GTR (11509).jpg by Calreyn88, CC BY-SA 4.0
+- 1997 McLaren F1 GTR Longtail (57133).jpg by Calreyn88, CC BY-SA 4.0
+- 1996 McLaren F1 Chassis No 63 6.1 Rear.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren F1 (29055325197).jpg by Neil, CC BY 2.0
+- McLaren F1 (36651950826).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Gordon Murray: https://en.wikipedia.org/wiki/Gordon_Murray
+- Wikipedia, Brabham BT46: https://en.wikipedia.org/wiki/Brabham_BT46
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Wikipedia, Gordon Murray Automotive T.50: https://en.wikipedia.org/wiki/Gordon_Murray_Automotive_T.50
+- Attic Capital, Gordon Murray and the McLaren F1: https://atticcapital.com/gordon-murray-mclaren-f1/
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- Motor Authority, A look back at the original clay models for the McLaren F1: https://www.motorauthority.com/news/1081316_a-look-back-at-the-original-clay-models-for-the-mclaren-f1
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
