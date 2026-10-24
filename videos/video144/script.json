@@ -9,317 +9,368 @@
    "query": "Ram 1500 TRX",
    "caption": "WHY RAM KILLED THE TRX (AND WHAT CAME NEXT)",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "We read Wikipedia, KBB, Edmunds, Motor1, SlashGear, Hagerty, the Auto Wire, the Autoblog interview with Ram's chief executive, and Ram's own release. The key question, why it was killed, has no single official answer in what we found. So we show who said what, and we mark every interpretation as an interpretation.",
    "query": "Ram 1500 TRX",
    "caption": "SOURCES: WIKIPEDIA \u00b7 KBB \u00b7 EDMUNDS \u00b7 MOTOR1 \u00b7 SLASHGEAR \u00b7 HAGERTY \u00b7 THE AUTO WIRE \u00b7 AUTOBLOG/THE DRIVE \u00b7 RAM RELEASE \u00b7 INTERPRETATIONS ARE LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "The announcement came on the thirtieth of August twenty twenty-three. Kelley Blue Book reports that Ram brand chief Tim Kuniskis said: This current chapter in Ram's high-performance trucks is coming to a close, but it's not the end of TRX's story. He added that there would be more news at a later date.",
-   "query": "TRX announcement",
+   "query": "Ram 1500 TRX",
    "caption": "30 AUG 2023: KUNISKIS: 'THIS CURRENT CHAPTER ... IS COMING TO A CLOSE, BUT IT'S NOT THE END OF TRX'S STORY' \u00b7 'MORE NEWS TO COME AT A LATER DATE' (KBB)",
    "cuts": 5,
-   "chapter": "The announcement"
+   "chapter": "The announcement",
+   "orig_query": "TRX announcement"
   },
   {
    "text": "The vehicle announced was the TRX Final Edition. KBB says it started at one hundred seventeen thousand, six hundred twenty-five dollars plus a mandatory nineteen ninety-five destination fee, and was limited to four thousand examples. Orders would open in the fourth quarter of twenty twenty-three, and production would end at the close of the year.",
-   "query": "Final Edition",
+   "query": "Ram 1500 TRX",
    "caption": "FINAL EDITION: $117,625 + $1,995 DEST = $119,620 (OUR SUM) \u00b7 4,000 UNITS \u00b7 ORDERS Q4 2023 \u00b7 'PRODUCTION ENDS AT THE CLOSE OF 2023' (KBB)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Final Edition"
   },
   {
    "text": "Edmunds, on the thirteenth of September, quoted Ram's own words: the Final Edition was one last chance to buy before the Hellcat engine was axed from the lineup. Edmunds also noted that Stellantis had previously announced the Hellcat motor would not last past twenty twenty-three. So the end had been signalled before the TRX's own announcement.",
-   "query": "Edmunds on the Hellcat",
+   "query": "Dodge Challenger Hellcat engine",
    "caption": "EDMUNDS, 13 SEPT 2023: RAM: 'ONE LAST CHANCE' BEFORE THE HELLCAT ENGINE IS 'AXED' \u00b7 STELLANTIS HAD 'PREVIOUSLY ANNOUNCED' THE HELLCAT MOTOR WOULDN'T LAST PAST 2023",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds on the Hellcat"
   },
   {
    "text": "KBB adds context: parent company Stellantis was trimming its Hemi-powered lineup, with the Dodge Charger, Dodge Challenger and Chrysler three hundred ending after twenty twenty-three. SlashGear says the Charger and Challenger ended around twenty twenty-two. Those dates disagree, and our sources do not settle which is right.",
-   "query": "Other Hemi cars",
+   "query": "Ram 1500 TRX front",
    "caption": "KBB: CHARGER, CHALLENGER, CHRYSLER 300 ENDING AFTER 2023 \u00b7 SLASHGEAR: CHARGER/CHALLENGER ENDED 'AROUND 2022' \u00b7 DISAGREE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Other Hemi cars"
   },
   {
    "text": "Look at the Final Edition's details. Motor1 lists three exclusive colours, Delmonico Red, Night Edge Blue and Harvest Sunshine, a Final Edition logo on the instrument cluster, and Patina stitching on the dash and seats. Its price was one hundred nineteen thousand, six hundred twenty dollars including destination, against ninety-seven thousand, seven hundred thirty for the standard truck.",
-   "query": "Final Edition details",
+   "query": "Ram 1500 TRX",
    "caption": "COLOURS: DELMONICO RED \u00b7 NIGHT EDGE BLUE \u00b7 HARVEST SUNSHINE \u00b7 CLUSTER LOGO \u00b7 PATINA STITCHING \u00b7 $119,620 vs $97,730 STANDARD (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Final Edition details"
   },
   {
    "text": "Why? Wikipedia gives a direct answer: the TRX was discontinued after the twenty twenty-four model year because it could not be modified to meet tougher emissions standards. That sentence is the clearest statement we found. But it is Wikipedia's wording, and we could not find Ram or Stellantis saying it in those words.",
-   "query": "Wikipedia's reason",
+   "query": "Ram 1500 TRX",
    "caption": "WIKIPEDIA: 'COULD NOT BE MODIFIED TO MEET TOUGHER EMISSIONS STANDARDS' \u00b7 RAM/STELLANTIS SAYING SO IN THOSE WORDS: NOT FOUND IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "The reasons"
+   "chapter": "The reasons",
+   "orig_query": "Wikipedia's reason"
   },
   {
    "text": "SlashGear is more careful. It says Ram did not officially give specific reasons, and that everything it offers is the author's inference. Its theory links the TRX's end to Stellantis reducing emissions and moving toward electrified vehicles. It quotes Stellantis' goal to reach carbon net zero by twenty thirty-eight, and it does not name any specific emissions rule.",
-   "query": "SlashGear's reasoning",
+   "query": "Ram 1500 TRX",
    "caption": "SLASHGEAR: 'RAM DID NOT OFFICIALLY GIVE SPECIFIC REASONS' \u00b7 AUTHOR'S THEORY: EMISSIONS + ELECTRIFICATION \u00b7 STELLANTIS GOAL: CARBON NET ZERO BY 2038 (QUOTED) \u00b7 NO SPECIFIC RULE NAMED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "SlashGear's reasoning"
   },
   {
    "text": "Hagerty, on the eighth of November twenty twenty-three, quoted Kuniskis about the name. He said: We're not calling it a TRX because I would never call it the same name and have it down in power from what it is today. And he said the TRX name will go on the shelf. The Hemi was also being retired.",
-   "query": "Kuniskis on the name",
+   "query": "Ram 1500 TRX",
    "caption": "HAGERTY, 8 NOV 2023, KUNISKIS: 'WE'RE NOT CALLING IT A TRX BECAUSE I WOULD NEVER CALL IT THE SAME NAME AND HAVE IT DOWN IN POWER' \u00b7 THE TRX NAME 'WILL GO ON THE SHELF' \u00b7 HEMI BEING RETIRED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Kuniskis on the name"
   },
   {
    "text": "Hagerty also quotes Ram's chief engineer, Alan Falkowski, tying the Hurricane engine to Stellantis' emissions targets. He said that half of the company's vehicles were expected to be electrified by twenty thirty, so combustion engines still need improving. Hagerty names no specific regulation. So the corporate reasoning is about targets, not about a single rule.",
-   "query": "Falkowski on emissions",
+   "query": "Ram 1500 TRX",
    "caption": "ALAN FALKOWSKI, CHIEF ENGINEER (HAGERTY): HURRICANE TIED TO EMISSIONS TARGETS \u00b7 ~HALF OF STELLANTIS VEHICLES ELECTRIFIED BY 2030 \u00b7 NO SPECIFIC REGULATION NAMED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Falkowski on emissions"
   },
   {
    "text": "Add the fuel figures. KBB lists the TRX at ten miles per gallon in the city, fourteen highway and twelve combined. Wikipedia says the American Council for an Energy-Efficient Economy ranked it the worst-performing mass-market vehicle for twenty twenty-one, twenty twenty-two and twenty twenty-three. Neither source says that Ram cited those numbers as a reason.",
-   "query": "Efficiency context",
+   "query": "Ram 1500 TRX",
    "caption": "EPA 10/14/12 MPG (KBB) \u00b7 ACEEE WORST-PERFORMING MASS-MARKET VEHICLE 2021\u20132023 (WIKIPEDIA) \u00b7 NO SOURCE SAYS RAM CITED THESE AS THE REASON",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Efficiency context"
   },
   {
    "text": "So our reading, labelled as ours: the sources give several reasons that fit together, a company-wide plan to cut emissions, the Hellcat engine's announced retirement, a shift to the Hurricane six, and a truck with a twelve miles per gallon rating. But no source we read gives Ram's own full statement of why. We will not claim more than that.",
-   "query": "Our reading",
+   "query": "Dodge Challenger Hellcat engine",
    "caption": "OUR READING (NOT A SOURCED CLAIM): COMPANY EMISSIONS PLAN + HELLCAT RETIREMENT + HURRICANE SHIFT + 12 MPG FIT TOGETHER \u00b7 RAM'S OWN FULL STATEMENT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Our reading"
   },
   {
    "text": "Production did not end when the announcement said. KBB reported that production would end at the close of twenty twenty-three. Wikipedia says the last TRX was produced on the sixteenth of February twenty twenty-four. By our arithmetic, that is forty-seven days after the end of the year, though the two statements may not describe exactly the same milestone.",
-   "query": "Last TRX date",
+   "query": "Ram 1500 TRX",
    "caption": "KBB (AUG 2023): PRODUCTION ENDS 'AT THE CLOSE OF 2023' \u00b7 WIKIPEDIA: LAST TRX BUILT 16 FEB 2024 \u2192 +47 DAYS (OUR ARITHMETIC; MILESTONES MAY DIFFER)",
    "cuts": 3,
-   "chapter": "The last truck"
+   "chapter": "The last truck",
+   "orig_query": "Last TRX date"
   },
   {
    "text": "How long did the first run last? Wikipedia's infobox gives production from December twenty twenty to February twenty twenty-four. By our arithmetic, that is thirty-eight months, or three years and two months. It also lists about eleven and a half thousand units across all trims and editions, by our sum from the page's figures, many of them approximate.",
-   "query": "How long it ran",
+   "query": "Ram TRX rear",
    "caption": "DEC 2020 \u2192 FEB 2024 = 38 MONTHS = 3 YR 2 MO (WIKIPEDIA INFOBOX; OUR ARITHMETIC) \u00b7 ~11,494 UNITS IN OUR SUM OF WIKIPEDIA'S FIGURES (SEVERAL APPROXIMATE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How long it ran"
   },
   {
    "text": "The Final Edition alone, at four thousand, was a large share of that. By our arithmetic, it is about thirty-five percent of the page's listed units. Ram's last act, in other words, was to build more of one edition than any other, and it did so with a sticker about twenty-two percent above the standard truck.",
-   "query": "Final Edition share",
+   "query": "Ram 1500 TRX",
    "caption": "4,000 \u00f7 11,494 = 34.8% OF LISTED UNITS \u00b7 $119,620 vs $97,730 = +22.4% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Final Edition share"
   },
   {
    "text": "Hagerty gives yet another price. It says the TRX started at eighty-seven thousand, six hundred ninety-five dollars. Motor1 gives ninety-seven thousand, seven hundred thirty for the twenty twenty-four standard truck, and MotorTrend gave eighty-five thousand, seven hundred eighty-five for twenty twenty-three. Three sources, three starting prices, and we do not know which model year Hagerty meant.",
-   "query": "TRX price conflict",
+   "query": "Ram 1500 TRX",
    "caption": "HAGERTY (NOV 2023): TRX 'STARTED AT $87,695' \u00b7 MOTOR1: 2024 STANDARD $97,730 \u00b7 MOTORTREND: 2023 BASE $85,785 \u00b7 MODEL YEAR OF HAGERTY FIGURE NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX price conflict"
   },
   {
    "text": "The replacement had a name before it had a spec sheet. Hagerty quoted Kuniskis calling the Ram 1500 RHO essentially a TRX, with the Hurricane engine in place of the supercharged Hemi. He said it should cost less than the TRX because it would be down on power. Hagerty expected it sometime in the third quarter of twenty twenty-four.",
-   "query": "RHO announced",
+   "query": "Ram 1500 TRX",
    "caption": "HAGERTY, 8 NOV 2023: KUNISKIS: RHO 'ESSENTIALLY A TRX' WITH HURRICANE \u00b7 PRICE TO BE LOWER \u00b7 EXPECTED Q3 2024",
    "cuts": 3,
-   "chapter": "The replacement"
+   "chapter": "The replacement",
+   "orig_query": "RHO announced"
   },
   {
    "text": "The engine is the three litre Hurricane inline-six. Hagerty says the standard version makes four hundred twenty horsepower and four hundred sixty-nine pound-feet, and the high-output version five hundred forty and five hundred twenty-one, with up to twenty-eight psi of boost. By our arithmetic, the high-output version has one hundred twenty more horsepower, twenty-nine percent.",
-   "query": "Hurricane engine",
+   "query": "Ram 1500 TRX",
    "caption": "STANDARD HURRICANE 420 HP / 469 LB-FT \u00b7 HIGH OUTPUT 540 HP / 521 LB-FT, UP TO 28 PSI (HAGERTY) \u00b7 +120 HP = +28.6% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hurricane engine"
   },
   {
    "text": "Against the TRX, the RHO gives up power. By our arithmetic, five hundred forty is one hundred sixty-two horsepower, or twenty-three percent, below seven hundred two. Its torque, five hundred twenty-one, is one hundred twenty-nine pound-feet, or twenty percent, below six hundred fifty. Motor1 calls the RHO a different market, with less power and likely a lower price.",
-   "query": "RHO vs TRX",
+   "query": "Ram 1500 TRX",
    "caption": "540 vs 702 HP = \u2212162 (\u221223.1%) \u00b7 521 vs 650 LB-FT = \u2212129 (\u221219.8%) (OUR ARITHMETIC) \u00b7 MOTOR1: 'A DIFFERENT MARKET'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "RHO vs TRX"
   },
   {
    "text": "SlashGear lists the twenty twenty-five RHO starting at sixty-nine thousand, nine hundred ninety-five dollars, with up to fifteen miles per gallon combined. By our arithmetic, that is twenty-seven thousand, seven hundred thirty-five dollars below the standard TRX at ninety-seven thousand, seven hundred thirty, and it rates three miles per gallon better than the TRX's twelve.",
-   "query": "RHO price and mpg",
+   "query": "Ram 1500 TRX",
    "caption": "RHO $69,995, UP TO 15 MPG COMBINED (SLASHGEAR) \u00b7 $97,730 \u2212 $69,995 = $27,735 (\u221228.4%) \u00b7 15 \u2212 12 = 3 MPG (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "RHO price and mpg"
   },
   {
    "text": "Wikipedia says the RHO is not a direct successor, and that Ram is phasing out the six point two, six point four and five point seven litre Hemi engines in favour of the Hurricane, except in the heavy-duty trucks. Yahoo's Auto Wire says the twenty twenty-six Ram 1500 still offers a five point seven Hemi with eTorque at three hundred ninety-five horsepower.",
-   "query": "Hemi phase-out",
+   "query": "Ram 1500 TRX",
    "caption": "WIKIPEDIA: RHO 'NOT A DIRECT SUCCESSOR' \u00b7 6.2/6.4/5.7 HEMIS BEING PHASED OUT FOR HURRICANE (EXCEPT HD) \u00b7 AUTO WIRE: 2026 RAM 1500 STILL OFFERS 5.7 HEMI eTORQUE, 395 HP",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hemi phase-out"
   },
   {
    "text": "There is one more price comparison. Autoblog reports that the twenty twenty-seven TRX, at ninety-nine thousand, nine hundred ninety-five dollars, is about twenty-six thousand more than the base RHO. By our arithmetic, that implies a base RHO around seventy-four thousand. That differs from SlashGear's sixty-nine thousand, nine hundred ninety-five, probably because they describe different model years.",
-   "query": "RHO price drift",
+   "query": "Ram 1500 TRX",
    "caption": "AUTOBLOG: 2027 TRX \u2248 $26,000 MORE THAN BASE RHO \u2192 RHO \u2248 $73,995 (OUR ARITHMETIC) vs SLASHGEAR $69,995 \u00b7 $4,000 APART \u00b7 MODEL YEARS LIKELY DIFFER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "RHO price drift"
   },
   {
    "text": "Between the end and the return, the word that appears is shelf. Hagerty, in November twenty twenty-three, quotes Kuniskis saying the TRX name will go on the shelf. And American Cars And Racing, in July twenty twenty-five, reports he described the TRX as on the shelf when production ended, rather than discontinued. The same word, twenty months apart.",
-   "query": "On the shelf",
+   "query": "Ram 1500 TRX",
    "caption": "KUNISKIS: 'WILL GO ON THE SHELF' (HAGERTY, NOV 2023) \u00b7 'ON THE SHELF', NOT DISCONTINUED (AMERICAN CARS AND RACING, JULY 2025) \u00b7 20 MONTHS APART (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "On the shelf"
+   "chapter": "On the shelf",
+   "orig_query": "On the shelf"
   },
   {
    "text": "Wikipedia says that in July twenty twenty-five, Stellantis chief executive Antonio Filosa confirmed the TRX would return. And Motor1 and others say the return came alongside the revival of Ram's SRT performance division. Autoblog adds that Kuniskis said his early twenty twenty-five priorities were reviving the Hemi V-8 and reigniting SRT.",
-   "query": "The return confirmed",
+   "query": "Ram 1500 TRX",
    "caption": "JULY 2025: STELLANTIS CEO ANTONIO FILOSA CONFIRMS TRX RETURN (WIKIPEDIA) \u00b7 RETURN TIED TO SRT REVIVAL (MOTOR1) \u00b7 KUNISKIS: EARLY-2025 PRIORITIES = REVIVE HEMI + SRT (AOL/AUTOBLOG)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The return confirmed"
   },
   {
    "text": "On the sixth of January twenty twenty-six, the Auto Wire reported on a fifteen-second Ram teaser with the tagline Power Will Be Reborn, saying Ram had confirmed only a reveal on the first of January. The dates do not fit: the article is dated five days after the reveal it describes. We use it only for the rumour it records, a figure of seven hundred ninety-seven horsepower.",
-   "query": "The teaser",
+   "query": "Ram 1500 TRX",
    "caption": "AUTO WIRE (YAHOO), 6 JAN 2026: 15-SEC TEASER 'POWER WILL BE REBORN' \u00b7 REVEAL 'JAN 1' (ARTICLE IS DATED 5 DAYS AFTER IT) \u00b7 RUMOUR: 797 HP (UNNAMED SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The teaser"
   },
   {
    "text": "The rumour was higher than the truth. The release says seven hundred seventy-seven. By our arithmetic, the rumour was twenty horsepower, or two and a half percent, too high. It is a small reminder that preview numbers are not announcements, and that the first TRX also had a pre-launch figure of seven hundred seven that turned out to be seven hundred two.",
-   "query": "Rumour vs reality",
+   "query": "Ram 1500 TRX",
    "caption": "RUMOUR 797 vs ANNOUNCED 777 \u2192 +20 HP = +2.6% \u00b7 FIRST TRX: 707 REPORTED vs 702 ACTUAL (AUTO WIRE; RAM; WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rumour vs reality"
   },
   {
    "text": "Ram unveiled the twenty twenty-seven Ram 1500 SRT TRX on the first of January twenty twenty-six, with seven hundred seventy-seven horsepower and six hundred eighty pound-feet, according to Ram's release. By our arithmetic, that is twenty-two months and sixteen days after the last TRX was built on the sixteenth of February twenty twenty-four.",
-   "query": "Reveal",
+   "query": "Ram 1500 TRX",
    "caption": "UNVEILED 1 JAN 2026: 777 HP / 680 LB-FT (RAM) \u00b7 16 FEB 2024 \u2192 1 JAN 2026 = 22 MONTHS 16 DAYS (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The return"
+   "chapter": "The return",
+   "orig_query": "Reveal"
   },
   {
    "text": "AOL's article, which carries Ram's release, says the original TRX left production after twenty twenty-four as Stellantis shifted toward more efficient powertrains and electrification. It says the change followed the drastic shift in United States emissions regulations, but it does not name the rules. We repeat that wording as the article's own, and we do not know which rules it means.",
-   "query": "Regulation shift",
+   "query": "Ram 1500 TRX",
    "caption": "AOL: TRX LEFT PRODUCTION AS STELLANTIS SHIFTED TO EFFICIENCY/ELECTRIFICATION; RETURN 'FOLLOWED THE DRASTIC SHIFT IN U.S. EMISSIONS REGULATIONS' \u00b7 NO RULE NAMED \u00b7 WE DO NOT KNOW WHICH",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Regulation shift"
   },
   {
    "text": "Autoblog reports that Kuniskis told The Drive that anyone who wants a daily driver should choose the RHO: If you want to drive this every single day as your only truck, the RHO is a way better option. For a weekend performance truck with price no object, he said, choose the TRX. He also ruled out a rumoured single-cab variant with a six point four litre Hemi and a manual gearbox.",
-   "query": "Kuniskis on who the TRX is for",
+   "query": "Ram 1500 TRX",
    "caption": "KUNISKIS (THE DRIVE, VIA AUTOBLOG, 14 JAN 2026): DAILY DRIVER \u2192 RHO 'A WAY BETTER OPTION' \u00b7 WEEKEND PERFORMANCE TRUCK \u2192 TRX \u00b7 RULED OUT SINGLE-CAB 6.4 HEMI MANUAL RUMOUR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Kuniskis on who the TRX is for"
   },
   {
    "text": "Ram's release claims the new truck is the fastest and most powerful production gas pickup in the world. It claims zero to sixty in three point five seconds with launch control. And the AOL article says that is one second faster than the outgoing model, though earlier tests by Cars dot com and MotorTrend measured four point one and three point nine, so the true improvement is smaller than a second.",
-   "query": "2027 claims",
+   "query": "Ram 1500 TRX",
    "caption": "RAM CLAIMS: FASTEST/MOST POWERFUL GAS PICKUP \u00b7 0\u201360 3.5 S \u00b7 AOL: '1 S FASTER' THAN OLD TRX \u00b7 MEASURED OLD TRX: 4.1 S (CARS.COM) AND 3.9 S (MOTORTREND) \u2192 0.4\u20130.6 S IMPROVEMENT ON THOSE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 claims"
   },
   {
    "text": "The price is where the TRX story rejoins the money. Ram's release says ninety-nine thousand, nine hundred ninety-five dollars plus twenty-five ninety-five, and AOL gives one hundred two thousand, five hundred ninety. AOL says the Raptor R starts at one hundred thirteen thousand, five hundred twenty-five, while Autoblog's page estimated it at one hundred ten thousand, nine hundred thirty. We cannot settle which number is current.",
-   "query": "2027 TRX price vs Raptor R",
+   "query": "Ram 1500 TRX",
    "caption": "TRX $99,995 + $2,595 = $102,590 (RAM; AOL) \u00b7 RAPTOR R $113,525 (AOL) vs $110,930 (AUTOBLOG) \u00b7 $2,595 DIFFERENCE BETWEEN THE RAPTOR R FIGURES (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX price vs Raptor R"
   },
   {
    "text": "When asked by The Drive how long the TRX will stay on the market, Kuniskis answered: Call Washington. We do not know exactly what he meant, and our sources do not explain it. In context, it reads as a reference to regulation. But that is our interpretation, and it is the only place in our sources where he comes close to naming the cause.",
-   "query": "Call Washington",
+   "query": "Ram 1500 TRX",
    "caption": "KUNISKIS (THE DRIVE, JUNE 2026): 'CALL WASHINGTON' \u00b7 MEANING NOT EXPLAINED \u00b7 'REFERS TO REGULATION' = OUR INTERPRETATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Call Washington"
   },
   {
    "text": "Timing. Ram's release says the truck arrives in the second half of twenty twenty-six, and The Drive reports order books opened on a Monday, in an article dated the twenty-second of June. By our arithmetic, from the end of production in February twenty twenty-four to the order opening, that is about two years and four months.",
-   "query": "Order opening",
+   "query": "Ram 1500 TRX",
    "caption": "ARRIVAL 2H 2026 (RAM) \u00b7 ORDERS OPEN MONDAY 22 JUNE 2026 (THE DRIVE) \u00b7 16 FEB 2024 \u2192 22 JUN 2026 \u2248 2 YR 4 MO (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Order opening"
   },
   {
    "text": "Put the key numbers in a row. The first TRX, seven hundred two horsepower, in twenty twenty-one. The RHO that replaced it, five hundred forty. The revived TRX, seven hundred seventy-seven. By our arithmetic, the new truck has seventy-five horsepower more than the old one, and two hundred thirty-seven more than the RHO, or forty-four percent more.",
-   "query": "Power across the story",
+   "query": "Ram 1500 TRX",
    "caption": "TRX 702 \u2192 RHO 540 \u2192 TRX 2027 777 \u00b7 777 \u2212 702 = +75 \u00b7 777 \u2212 540 = +237 = +43.9% (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The numbers across the story"
+   "chapter": "The numbers across the story",
+   "orig_query": "Power across the story"
   },
   {
    "text": "The Auto Wire says Ford raised the Raptor R to seven hundred twenty horsepower starting with the twenty twenty-four model year. That puts the Raptor R's increase in the same window as the TRX's gap. By our arithmetic, while the TRX was away, the Ford gained twenty horsepower, and the returning Ram answered with fifty-seven more than that.",
-   "query": "Raptor R during the gap",
+   "query": "Ram 1500 TRX",
    "caption": "AUTO WIRE: RAPTOR R TO 720 HP FROM MY2024 \u00b7 +20 HP vs 700 \u00b7 2027 TRX 777 \u2212 720 = +57 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Raptor R during the gap"
   },
   {
    "text": "And the story keeps a loop: Wikipedia says the twenty twenty-seven power increase was meant to make the TRX more competitive with the Raptor R. Ram's release says the numbers beat the nearest competitor by fifty-seven horsepower and forty pound-feet. By our arithmetic, that matches the Ford's seven hundred twenty and six hundred forty exactly.",
-   "query": "Power increase and rival",
+   "query": "Ram 1500 TRX",
    "caption": "WIKIPEDIA: INCREASE 'MORE COMPETITIVE WITH THE RAPTOR R' \u00b7 RAM: +57 HP / +40 LB-FT vs NEAREST RIVAL \u2192 720 / 640 = RAPTOR R FIGURES (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power increase and rival"
   },
   {
    "text": "A last piece of the story is how much the TRX name matters. Kuniskis said he would never call a lesser truck the same name. Ram then launched the RHO under a different name, and brought the TRX name back only when the power exceeded the original. Whether that was a plan from the start, our sources cannot tell us. It is consistent with his words.",
-   "query": "Name discipline",
+   "query": "Ram 1500 TRX",
    "caption": "KUNISKIS (HAGERTY): WOULD NEVER USE THE NAME 'DOWN IN POWER' \u00b7 RHO LAUNCHED UNDER OTHER NAME \u00b7 TRX NAME RETURNED AT 777 HP > 702 HP \u00b7 WHETHER PLANNED: NOT STATED (OUR OBSERVATION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Name discipline"
   },
   {
    "text": "To judge why the TRX mattered, go back to what it beat. SlashGear says the TRX's seven hundred two horsepower and six hundred fifty pound-feet were two hundred fifty-two horsepower and one hundred forty pound-feet more than the twenty twenty-one Ford F one fifty Raptor. By our arithmetic, that checks out against the Raptor's four hundred fifty and five hundred ten, and it is fifty-six percent more horsepower.",
-   "query": "What the TRX beat",
+   "query": "Ford F-150 Raptor",
    "caption": "TRX 702 / 650 vs 2021 RAPTOR 450 / 510 \u2192 +252 HP (+56.0%) \u00b7 +140 LB-FT (SLASHGEAR; WIKIPEDIA; OUR ARITHMETIC CHECK)",
    "cuts": 3,
-   "chapter": "What the TRX was up against"
+   "chapter": "What the TRX was up against",
+   "orig_query": "What the TRX beat"
   },
   {
    "text": "Measured numbers are a mess. Ram claimed zero to sixty in four point five seconds. Cars dot com measured four point one. MotorTrend measured three point nine on a twenty twenty-three truck. SlashGear cites a Car and Driver test of three point seven, with a quarter mile of twelve point three, though we could not open that test ourselves. Four numbers, a spread of eight tenths.",
-   "query": "TRX 0-60 spread",
+   "query": "Ram 1500 TRX",
    "caption": "0\u201360: 4.5 S (RAM CLAIM) \u00b7 4.1 S (CARS.COM) \u00b7 3.9 S (MOTORTREND) \u00b7 3.7 S (CAR AND DRIVER, CITED BY SLASHGEAR; NOT VERIFIED) \u2192 SPREAD 0.8 S (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX 0-60 spread"
   },
   {
    "text": "Then the Hellephant. Wikipedia says a one thousand horsepower crate engine of that name was shown at SEMA in twenty eighteen, and that Mopar said it was not for street use. By our arithmetic, the new factory TRX is two hundred twenty-three horsepower short of it. It shows that the Hemi family had power in reserve, and that the production number was a decision.",
-   "query": "The Hellephant",
+   "query": "Ram 1500 TRX",
    "caption": "HELLEPHANT: 1,000 HP CRATE ENGINE, SEMA 2018, 'NOT FOR STREET USE' (WIKIPEDIA) \u00b7 1,000 \u2212 777 = 223 HP (OUR ARITHMETIC) \u00b7 'PRODUCTION NUMBER WAS A DECISION' = OUR OBSERVATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Hellephant"
   },
   {
    "text": "Look at the whole span. The concept appeared in October twenty sixteen. The last of the first generation was built in February twenty twenty-four, about seven years and four months later. And the revived truck was unveiled in January twenty twenty-six, about nine years and three months after the concept. The TRX name has been alive, in one form or another, for about nine years.",
-   "query": "TRX timeline",
+   "query": "Ram 1500 TRX",
    "caption": "CONCEPT OCT 2016 \u2192 LAST TRX 16 FEB 2024 \u2248 7 YR 4 MO \u2192 REVIVAL 1 JAN 2026 \u2248 9 YR 3 MO AFTER CONCEPT (OUR ARITHMETIC; CONCEPT DAY NOT GIVEN)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX timeline"
   },
   {
    "text": "Remember the numbers behind the end. Edmunds estimates fuel as thirty-seven percent of the TRX's five-year cost to own, the largest single line, and the truck is rated twelve miles per gallon combined. The truck's owners accepted that. But a company that sells hundreds of thousands of other vehicles, and has a corporate emissions goal, may weigh it differently. That is our reading.",
-   "query": "Fuel as the weak point",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS: FUEL = 37.3% OF TRX 5-YR COST ($38,093 OF $102,208) \u00b7 12 MPG COMBINED (KBB) \u00b7 COMPANY-LEVEL WEIGHING = OUR READING, NOT A SOURCED CLAIM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel as the weak point"
   },
   {
    "text": "A note on the names. Wikipedia calls the returning truck both the Ram 1500 TRX and the Ram 1500 SRT TRX. Ram's release says the twenty twenty-seven Ram 1500 SRT TRX. Motor1 says new SRT and T-Rex badging. The page of Wikipedia also says the TRX would return for the twenty twenty-six model year, then says it was unveiled on the first of January twenty twenty-six as a twenty twenty-seven model. Both statements are on the page.",
-   "query": "Names and model years",
+   "query": "Ram 1500 TRX",
    "caption": "WIKIPEDIA: 'RAM 1500 TRX' AND 'RAM 1500 SRT TRX' \u00b7 RETURN 'FOR MY2026' (JULY 2025) vs UNVEILED 1 JAN 2026 AS MY2027 \u00b7 RAM RELEASE: 2027 RAM 1500 SRT TRX",
    "cuts": 3,
-   "chapter": "Names, dates and loose ends"
+   "chapter": "Names, dates and loose ends",
+   "orig_query": "Names and model years"
   },
   {
    "text": "Production timing is loose too. American Cars And Racing reported in July twenty twenty-five, citing Mopar Insiders, that production was reportedly scheduled to start in late January twenty twenty-six. Ram's release says arrival in the second half of the year. And The Drive says orders opened on a Monday in June. By our arithmetic, from late January to the order opening on the twenty-second of June is about five months.",
-   "query": "Production start reports",
+   "query": "Ram 1500 TRX",
    "caption": "REPORTED PRODUCTION START: LATE JAN 2026 (AMERICAN CARS AND RACING, CITING MOPAR INSIDERS) \u00b7 ARRIVAL 2H 2026 (RAM) \u00b7 ORDERS 22 JUNE 2026 (THE DRIVE) \u2192 \u2248 5 MONTHS (OUR ARITHMETIC) \u00b7 ACTUAL START: NOT CONFIRMED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Production start reports"
   },
   {
    "text": "The Ram 1500 range matters here too. The Auto Wire says the twenty twenty-six Ram 1500 offers the five point seven litre Hemi with eTorque at three hundred ninety-five horsepower, and the twin-turbo inline-six at five hundred forty. By our arithmetic, five hundred forty is one hundred forty-five more than the Hemi. Neither is a supercharged V8, which is the engine that made the TRX what it was.",
-   "query": "2026 Ram 1500 range",
+   "query": "Ram 1500 TRX",
    "caption": "2026 RAM 1500: 5.7 HEMI eTORQUE 395 HP \u00b7 TWIN-TURBO I6 540 HP (AUTO WIRE) \u00b7 540 \u2212 395 = 145 HP (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2026 Ram 1500 range"
   },
   {
    "text": "Kuniskis's slogan deserves a note. In Ram's release he said SRT does not limbo; we high-jump, and seven twenty-one was not going to cut it. By our arithmetic, seven twenty-one is exactly one horsepower more than the Raptor R's seven hundred twenty. The release does not explain the number, so that link is our inference, but the arithmetic is suggestive.",
-   "query": "The 721",
+   "query": "Ford F-150 Raptor",
    "caption": "KUNISKIS (RAM RELEASE): 'SRT DOESN'T LIMBO; WE HIGH-JUMP\u2014AND 721 WASN'T GOING TO CUT IT' \u00b7 721 = RAPTOR R'S 720 + 1 (OUR ARITHMETIC) \u00b7 LINK = OUR INFERENCE; RELEASE DOES NOT EXPLAIN 721",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The 721"
   },
   {
    "text": "And Ford's side of the loop. Forbes reports that Ford racing executive Will Ford said hybrid might allow Ford to keep the V8 alive a little longer. Ford chief executive Jim Farley spoke of more hybridization on the performance side. Both companies are working in the same regulatory climate, and both are still trying to keep a supercharged V8 truck on sale.",
-   "query": "Ford's side",
+   "query": "Ram 1500 TRX front",
    "caption": "FORBES, 25 JAN 2026: WILL FORD: HYBRID 'MIGHT ALLOW US TO KEEP THE V8 ALIVE A LITTLE LONGER' \u00b7 JIM FARLEY: 'MORE HYBRIDIZATION ... ON THE PERFORMANCE SIDE' \u00b7 'SAME CLIMATE' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ford's side"
   },
   {
    "text": "What is missing. Ram's own, complete explanation of why the TRX ended. The specific regulation that Wikipedia and AOL refer to. Why production ran about six weeks beyond the announced end of the year. Why the Hellcat engine, announced as ending in twenty twenty-three, returned. And any statement about how long the new truck will stay on sale.",
    "query": "Ram 1500 TRX",
    "caption": "NOT IN OUR SOURCES: RAM'S FULL OWN EXPLANATION \u00b7 THE SPECIFIC REGULATION \u00b7 WHY PRODUCTION RAN PAST YEAR-END \u00b7 WHY THE HELLCAT RETURNED \u00b7 HOW LONG THE 2027 TRX WILL LAST",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "So the story, as the record gives it. Ram announced an ending in twenty twenty-three, built a Final Edition of four thousand, shelved the name, sold a weaker truck under a new name, and brought the TRX back at a higher power once the company decided to revive its Hemi and its SRT division. The cause that links them is probably regulation, but nobody we found says so in full.",
    "query": "Ram 1500 TRX",
    "caption": "SEQUENCE: 2023 END ANNOUNCED \u2192 4,000 FINAL EDITION \u2192 NAME SHELVED \u2192 RHO 540 HP \u2192 2025 RETURN CONFIRMED \u2192 2026 777 HP \u00b7 CAUSE: 'PROBABLY REGULATION' = OUR READING, NOT SOURCED IN FULL",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "Did Ram do the right thing by bringing it back? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the TRX, compare it with the Raptor R, and add up what it really costs to own. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
    "query": "Ram 1500 TRX",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   }
  ]
 }

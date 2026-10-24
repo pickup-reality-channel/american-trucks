@@ -9,330 +9,383 @@
    "query": "Ferrari Purosangue",
    "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE FERRARI PUROSANGUE",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "We read Wikipedia, Motor1, Robb Report, Carscoops, autoevolution, Autocar, Autoblog and a Czech business site that analysed Ferrari's results. Ferrari's own performance figures are claims, and we mark them as claims. Prices conflict between sources, and we show every one. And our own arithmetic is always labelled as ours.",
-   "query": "Ferrari Purosangue",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 \u00b7 ROBB REPORT \u00b7 CARSCOOPS \u00b7 AUTOEVOLUTION \u00b7 AUTOCAR \u00b7 AOL/AUTOBLOG \u00b7 AUTOHLED \u00b7 FERRARI FIGURES ARE CLAIMS \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "Motor1's Brian Silvestro, reviewing the Purosangue in July twenty twenty-four, describes its suspension in detail. The dampers are Multimatic's True Active Spool Valve type, which use electric motors to control damping and ride height. The left and right sides work independently, and the review says there are no sway bars.",
-   "query": "Active suspension",
+   "query": "Ferrari Purosangue",
    "caption": "MOTOR1 (BRIAN SILVESTRO, 2 JULY 2024): MULTIMATIC 'TRUE ACTIVE SPOOL VALVE' DAMPERS \u00b7 ELECTRIC MOTORS CONTROL DAMPING AND RIDE HEIGHT \u00b7 LEFT/RIGHT INDEPENDENT \u00b7 NO SWAY BARS",
    "cuts": 5,
-   "chapter": "Thing one: the suspension with no anti-roll bars"
+   "chapter": "Thing one: the suspension with no anti-roll bars",
+   "orig_query": "Active suspension"
   },
   {
    "text": "The review says that in soft mode the car is composed but firm, and that hard mode stiffens the dampers and greatly reduces body roll. Silvestro writes that it handles more like a sports sedan than a crossover. We cannot measure that ourselves, and the review reports no cornering numbers, so it is one reviewer's judgement.",
-   "query": "Suspension modes",
+   "query": "Ferrari Purosangue interior",
    "caption": "SOFT: 'COMPOSED BUT FIRM' \u00b7 HARD: 'STIFFENS THE DAMPERS AND GREATLY REDUCES BODY ROLL' \u00b7 'HANDLES MORE LIKE A SPORTS SEDAN THAN A CROSSOVER' (MOTOR1) \u00b7 NO CORNERING DATA GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Suspension modes"
   },
   {
    "text": "The same review gives its verdict. It calls the Purosangue the best SUV-shaped vehicle he has ever driven, and says it is not even close. It names the Cadillac CT five V Blackwing and the BMW M five CS as the closest rivals, and says the Ferrari is more enjoyable on twisty roads. The review does not compare it with the Rolls-Royce Cullinan.",
-   "query": "Motor1 verdict",
+   "query": "Rolls-Royce Cullinan",
    "caption": "MOTOR1: 'BEST SUV-SHAPED VEHICLE I'VE EVER DRIVEN, AND IT'S NOT EVEN CLOSE' \u00b7 CLOSEST RIVALS: CADILLAC CT5-V BLACKWING, BMW M5 CS \u00b7 NO CULLINAN COMPARISON",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Motor1 verdict"
   },
   {
    "text": "Wikipedia gives the base hardware. A six point five litre naturally aspirated V12, called the F one forty IA, with seven hundred fifteen horsepower, seven hundred twenty-five metric, at seventy-seven fifty rpm, and five hundred twenty-eight pound-feet at sixty-two fifty. It drives all four wheels through an eight-speed dual-clutch gearbox, with a redline of eighty-two fifty.",
-   "query": "Purosangue powertrain",
+   "query": "Lamborghini Urus",
    "caption": "6.5 L (6,496 CC) F140 IA V12: 715 HP (725 PS) @ 7,750 RPM \u00b7 528 LB-FT @ 6,250 RPM \u00b7 REDLINE 8,250 \u00b7 8-SPEED DCT \u00b7 AWD (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Purosangue powertrain"
   },
   {
    "text": "By our arithmetic, seven hundred fifteen horsepower from six point five litres is one hundred ten horsepower per litre, with no turbochargers. Ferrari's claims, per Wikipedia: zero to one hundred kilometres per hour in three point three seconds, zero to two hundred in ten point six, and a top speed of over three hundred ten kilometres per hour. By our arithmetic, the gap from one hundred to two hundred is seven point three seconds.",
-   "query": "Purosangue performance claims",
+   "query": "Ferrari Purosangue",
    "caption": "715 \u00f7 6.5 \u2248 110 HP/LITRE, NO TURBOS \u00b7 FERRARI CLAIMS: 0\u2013100 3.3 S \u00b7 0\u2013200 10.6 S \u00b7 >310 KM/H \u00b7 10.6 \u2212 3.3 = 7.3 S (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Purosangue performance claims"
   },
   {
    "text": "Motor1 lists zero to sixty at three point two seconds, but labels it as estimated, not measured. Its spec sheet gives a top speed of one hundred ninety-two miles per hour, which is three hundred nine kilometres an hour by our arithmetic. Wikipedia's figure is over three hundred ten. The numbers are close but not identical, and all of them come from Ferrari's side.",
-   "query": "Estimated vs claimed",
+   "query": "Rolls-Royce Cullinan",
    "caption": "MOTOR1: 0\u201360 3.2 S 'ESTIMATED, NOT MEASURED' \u00b7 TOP SPEED 192 MPH \u2248 309 KM/H (OUR ARITHMETIC) vs WIKIPEDIA >310 KM/H \u00b7 ALL FROM FERRARI'S SIDE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Estimated vs claimed"
   },
   {
    "text": "The second thing. Robb Report says Ferrari temporarily closed the Purosangue's order book about two and a half months after its debut, because interest far outpaced what it could build. The waiting list was roughly two years. And Enrico Galliera, Ferrari's chief marketing officer, said: We had such an interest without delivering one single car.",
-   "query": "Orders closed",
+   "query": "Ferrari Purosangue",
    "caption": "ROBB REPORT: ORDER BOOK CLOSED ~2.5 MONTHS AFTER DEBUT \u00b7 WAITING LIST ~2 YEARS \u00b7 ENRICO GALLIERA (CMO): 'WE HAD SUCH AN INTEREST WITHOUT DELIVERING ONE SINGLE CAR'",
    "cuts": 3,
-   "chapter": "Thing two: the order book that closed"
+   "chapter": "Thing two: the order book that closed",
+   "orig_query": "Orders closed"
   },
   {
    "text": "Carscoops adds that on the earnings call in May twenty twenty-three, chief executive Benedetto Vigna said Ferrari was preparing to reopen orders. He said the company had been caught by positive surprise by the strong interest. Anyone who ordered then would wait until at least twenty twenty-six. Motor1 later reported that order books were at their highest levels.",
-   "query": "Orders reopened",
+   "query": "Ferrari Purosangue interior",
    "caption": "CARSCOOPS (5 MAY 2023): VIGNA: 'CAUGHT BY POSITIVE SURPRISE' \u00b7 ORDERS REOPENING \u00b7 DELIVERY 2026 AT EARLIEST \u00b7 MOTOR1 (Q3 2023): ORDER BOOKS 'AT HIGHEST LEVELS'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Orders reopened"
   },
   {
    "text": "There was a promise attached. Robb Report, Carscoops and Motor1 all say the Purosangue will make up no more than twenty percent of Ferrari's output. Carscoops says Vigna also pledged not to extend the model's life cycle, despite the demand. That means the promise is a ceiling on volume and a limit on time, both stated by the company.",
-   "query": "The 20 percent cap",
+   "query": "Ferrari Purosangue",
    "caption": "PUROSANGUE \u2264 20% OF FERRARI OUTPUT (ROBB REPORT; CARSCOOPS; MOTOR1) \u00b7 VIGNA: NO EXTENSION OF LIFE CYCLE DESPITE DEMAND (CARSCOOPS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The 20 percent cap"
   },
   {
    "text": "Put numbers on that cap. A Czech business site reports that Ferrari delivered thirteen thousand, six hundred forty cars in twenty twenty-five. By our arithmetic, twenty percent of that is two thousand, seven hundred twenty-eight. That is a ceiling, not a count, and the article does not say how many Purosangues were delivered.",
-   "query": "What 20 percent means",
+   "query": "Ferrari Purosangue",
    "caption": "13,640 DELIVERIES IN 2025 (AUTOHLED) \u00d7 20% = 2,728 MAX (OUR ARITHMETIC) \u00b7 ACTUAL PUROSANGUE COUNT: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "What 20 percent means"
   },
   {
    "text": "An analyst once guessed at the volume. In August twenty seventeen, Autocar quoted analyst Max Warburton estimating two thousand to three thousand units a year for the model he called the FUV. By our arithmetic, that is almost exactly the range implied by the twenty percent cap on twenty twenty-five deliveries. It is an estimate made five years before the car appeared.",
-   "query": "Analyst estimate",
+   "query": "Ferrari Purosangue",
    "caption": "WARBURTON (AUTOCAR, 4 AUG 2017): 2,000\u20133,000 UNITS A YEAR \u00b7 CAP ON 2025 DELIVERIES = UP TO 2,728 (OUR ARITHMETIC) \u00b7 ESTIMATE MADE 5 YEARS BEFORE THE CAR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Analyst estimate"
   },
   {
    "text": "Early shipments give a sense of Ferrari's scale. Carscoops reports three thousand, five hundred sixty-seven units shipped in the first quarter of twenty twenty-three, up nine point seven percent. If twenty percent of a quarter like that were Purosangues, by our arithmetic it would be about seven hundred fourteen cars. That is a hypothetical ceiling, since the car was still ramping up.",
-   "query": "Quarter ceiling",
+   "query": "Ferrari Purosangue",
    "caption": "Q1 2023 SHIPMENTS 3,567 (+9.7%) (CARSCOOPS) \u00d7 20% \u2248 714 (OUR ARITHMETIC; HYPOTHETICAL CEILING; MODEL STILL RAMPING UP)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Quarter ceiling"
   },
   {
    "text": "Third, the name. Wikipedia says Purosangue is Italian for the horse breed, with a link to Purosangue Orientale, the Arabian type. In twenty twenty, Ferrari tried to trademark the name, but the Purosangue Foundation blocked it. Ferrari sued, and the case went to court on the fifth of March twenty twenty-one.",
-   "query": "Trademark dispute",
+   "query": "Ferrari Purosangue",
    "caption": "PUROSANGUE = HORSE BREED (PUROSANGUE ORIENTALE) \u00b7 2020: FERRARI TRADEMARK ATTEMPT BLOCKED BY THE PUROSANGUE FOUNDATION \u00b7 COURT 5 MARCH 2021 (WIKIPEDIA) \u00b7 OUTCOME OF THE CASE: NOT GIVEN",
    "cuts": 3,
-   "chapter": "The name and the trademark"
+   "chapter": "The name and the trademark",
+   "orig_query": "Trademark dispute"
   },
   {
    "text": "The page does not tell us how the case ended. But Ferrari kept the name for the car, which was revealed on the thirteenth of September twenty twenty-two. Wikipedia also says Ferrari does not call it an SUV, but an FUV, a Ferrari Utility Vehicle, and has denied building an SUV on multiple occasions.",
-   "query": "Name and FUV",
+   "query": "Ferrari Purosangue interior",
    "caption": "REVEAL 13 SEPT 2022 (WIKIPEDIA) \u00b7 FERRARI: 'FUV', NOT SUV \u00b7 VIGNA AT UNVEILING (BLOOMBERG, VIA AUTOEVOLUTION): 'IT'S A FERRARI ... PLEASE DON'T CALL IT AN SUV, BECAUSE IT ISN'T'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Name and FUV"
   },
   {
    "text": "Wikipedia also records an award. The Purosangue won the Compasso d'Oro industrial design award in twenty twenty-four. The page gives no jury statement or reasons, so we do not know what the judges praised. The design itself came from the Ferrari Styling Centre under Flavio Manzoni, according to the infobox.",
-   "query": "Design award",
+   "query": "Ferrari Purosangue",
    "caption": "COMPASSO D'ORO 2024 (WIKIPEDIA) \u00b7 JURY REASONS: NOT GIVEN \u00b7 DESIGN: FERRARI STYLING CENTRE, FLAVIO MANZONI (INFOBOX)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Design award"
   },
   {
    "text": "The rear doors are unusual. Wikipedia says they open from the front, with a fixed B-pillar, to help access to the rear seats. The infobox calls them coach doors, while the text calls them front-opening or suicide-style. Autoevolution adds that the car has two individual rear seats and two front displays instead of one central screen.",
-   "query": "Doors and seats",
+   "query": "Lamborghini Urus",
    "caption": "REAR DOORS FRONT-HINGED, FIXED B-PILLAR (WIKIPEDIA; INFOBOX SAYS 'COACH DOORS') \u00b7 TWO INDIVIDUAL REAR SEATS \u00b7 TWO FRONT DISPLAYS (AUTOEVOLUTION)",
    "cuts": 3,
-   "chapter": "Doors, seats and space"
+   "chapter": "Doors, seats and space",
+   "orig_query": "Doors and seats"
   },
   {
    "text": "Motor1 says the cabin has four seats, there is no rear bench option, and the cargo area is sixteen point seven cubic feet. The reviewer calls it a real trunk that handled a road trip. Cars dot com lists seventeen cubic feet to the first row of seats and nine to the second, and four seats in total.",
-   "query": "Space",
+   "query": "Ferrari Purosangue",
    "caption": "CARGO 16.7 CU FT, NO REAR BENCH OPTION (MOTOR1) \u00b7 CARS.COM: 17 CU FT (TO SEAT 1) / 9 CU FT (TO SEAT 2) \u00b7 4 SEATS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Space"
   },
   {
    "text": "The criticisms. Motor1 dislikes the touch-capacitive steering wheel and climate controls, and says they should have no place in cars. It also notes that with Apple CarPlay active, the gauge cluster shows only speed, gear and fuel level, and no tachometer. For a car with an eighty-two fifty rpm redline, that detail is awkward.",
-   "query": "Interior criticisms",
+   "query": "Rolls-Royce Cullinan",
    "caption": "MOTOR1: TOUCH-CAPACITIVE WHEEL/CLIMATE CONTROLS 'SHOULDN'T HAVE A PLACE IN CARS' \u00b7 WITH CARPLAY THE CLUSTER SHOWS ONLY SPEED, GEAR, FUEL: NO TACHOMETER \u00b7 REDLINE 8,250 RPM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Interior criticisms"
   },
   {
    "text": "Dimensions, from Wikipedia: length four thousand, nine hundred seventy-three millimetres, width two thousand, twenty-eight, height fifteen eighty-nine, wheelbase three thousand eighteen. Kerb weight two thousand, one hundred seventy kilograms, which is forty-seven eighty-four pounds by our arithmetic, matching Motor1's spec sheet. Weight distribution, says Motor1, is forty-nine front, fifty-one rear.",
-   "query": "Dimensions and weight",
+   "query": "Ferrari Purosangue rear",
    "caption": "L 4,973 \u00b7 W 2,028 \u00b7 H 1,589 \u00b7 WB 3,018 MM \u00b7 KERB 2,170 KG = 4,784 LB (OUR ARITHMETIC; MOTOR1 AGREES) \u00b7 49/51 DISTRIBUTION (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Dimensions and weight"
   },
   {
    "text": "By our arithmetic, seven hundred fifteen horsepower on two thousand, one hundred seventy kilograms is about three hundred thirty horsepower per tonne. Motor1 describes the car as handling more like a sports sedan, and the Ferrari's V12 is, in the reviewer's words, special. We do not have a measured power-to-weight comparison from any source.",
-   "query": "Power per tonne",
+   "query": "Ferrari Purosangue interior",
    "caption": "715 HP \u00f7 2.170 t \u2248 330 HP/TONNE (OUR ARITHMETIC) \u00b7 MOTOR1: 'THE V-12 ENGINE IS SPECIAL'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power per tonne"
   },
   {
    "text": "Fuel economy is where the V12 shows. Wikipedia lists the EPA rating as eleven miles per gallon in the city, fifteen on the highway and twelve combined, which it converts to nineteen point six litres per hundred kilometres combined. By our arithmetic, that conversion is correct. The Cullinan's combined rating is fourteen miles per gallon, in the Cars dot com comparison.",
-   "query": "Fuel economy",
+   "query": "Rolls-Royce Cullinan",
    "caption": "EPA 11/15/12 MPG; 12 MPG = 19.6 L/100 KM (WIKIPEDIA; 235.2 \u00f7 12 = 19.6 CHECKS) \u00b7 CULLINAN 12/19/14 (CARS.COM)",
    "cuts": 3,
-   "chapter": "Fuel and the V12 question"
+   "chapter": "Fuel and the V12 question",
+   "orig_query": "Fuel economy"
   },
   {
    "text": "Motor1's reviewer argues Ferrari could have used its twin-turbo V8 instead and still sold as many cars. That is an opinion, and Ferrari has not said so. But it points at the heart of the car: the naturally aspirated V12 peaks late, at sixty-two fifty rpm for torque, so you must rev it to build speed, which the reviewer says makes it more engaging.",
-   "query": "V12 vs V8",
+   "query": "Lamborghini Urus",
    "caption": "MOTOR1 OPINION: COULD HAVE USED THE TWIN-TURBO V8 AND SOLD AS MANY \u00b7 V12 TORQUE PEAKS LATE (6,250 RPM) \u00b7 'MORE ENGAGING' = REVIEWER'S VIEW",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "V12 vs V8"
   },
   {
    "text": "And the sound. Motor1 says the V12 has a high-pitched exhaust note from its quad tips. Ferrari's own redline is eighty-two fifty, and Wikipedia's power peak is at seventy-seven fifty. By our arithmetic, that leaves five hundred rpm between the power peak and the redline.",
-   "query": "Rev range",
+   "query": "Ferrari Purosangue",
    "caption": "POWER PEAK 7,750 RPM \u00b7 REDLINE 8,250 RPM \u2192 500 RPM BETWEEN (WIKIPEDIA; OUR ARITHMETIC) \u00b7 MOTOR1: HIGH-PITCHED NOTE, QUAD TIPS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rev range"
   },
   {
    "text": "Prices conflict, so we list them. Robb Report: three hundred ninety thousand euros, about four hundred three thousand dollars. AOL: three hundred ninety-eight thousand, three hundred fifty dollars including a five thousand dollar destination charge, before any gas guzzler tax. Carscoops: four hundred thirty thousand dollars. Motor1: four hundred twenty-three thousand, six eighty-six for the twenty twenty-five model.",
-   "query": "Purosangue prices",
+   "query": "Rolls-Royce Cullinan",
    "caption": "ROBB REPORT \u20ac390,000 (~$403,000) \u00b7 AOL 2024 $398,350 INCL. $5,000 DEST. \u00b7 CARSCOOPS $430,000 \u00b7 MOTOR1 2025 BASE $423,686 \u00b7 CARS.COM 2026 $423,636",
    "cuts": 3,
-   "chapter": "The price, in six versions"
+   "chapter": "The price, in six versions",
+   "orig_query": "Purosangue prices"
   },
   {
    "text": "By our arithmetic, the gap between AOL's twenty twenty-four price and Motor1's twenty twenty-five price is twenty-five thousand, three hundred thirty-six dollars, or six point four percent. It could reflect a model-year increase, but none of the sources say so. And Motor1's as-tested price for its review car was five hundred six thousand, three hundred five.",
-   "query": "Price drift",
+   "query": "Ferrari Purosangue rear",
    "caption": "$423,686 \u2212 $398,350 = $25,336 = +6.4% (OUR ARITHMETIC; REASON NOT STATED) \u00b7 MOTOR1 REVIEW CAR AS TESTED $506,305",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price drift"
   },
   {
    "text": "Put the starting price in context with the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, three hundred ninety-eight thousand, three hundred fifty is four point eight years of that income, before tax. And Kelley Blue Book's August twenty twenty-six average new vehicle price of fifty thousand, eighty-nine makes it about eight times the average.",
-   "query": "Price in context",
+   "query": "Ferrari Purosangue interior",
    "caption": "$398,350 \u00f7 $83,730 \u2248 4.8 YEARS OF MEDIAN HOUSEHOLD INCOME \u00b7 \u00f7 $50,089 AVERAGE NEW VEHICLE \u2248 7.95\u00d7 (CENSUS; KBB; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price in context"
   },
   {
    "text": "The car's internal code was F one seventy-five, according to Wikipedia. Development started in twenty seventeen. The page says Ferrari officially confirmed the project in September twenty eighteen, after Sergio Marchionne, then Ferrari's chief executive, had hinted at it. A test mule based on a GTC4Lusso appeared online on the twenty-second of October twenty eighteen.",
-   "query": "F175 timeline",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "CODE F175 \u00b7 DEVELOPMENT START 2017 \u00b7 OFFICIAL CONFIRMATION SEPT 2018 \u00b7 TEST MULE (GTC4LUSSO-BASED) SPOTTED 22 OCT 2018 (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "The long road to the reveal"
+   "chapter": "The long road to the reveal",
+   "orig_query": "F175 timeline"
   },
   {
    "text": "Leaked images appeared in February twenty twenty-two, and a month later Ferrari showed a partial image. The car was revealed in Maranello on the thirteenth of September twenty twenty-two, as a twenty twenty-three model. By our arithmetic, the span from the first spy photo to the reveal is three years, ten months and twenty-two days.",
-   "query": "Leaks to reveal",
+   "query": "Maranello Ferrari factory",
    "caption": "LEAKS FEB 2022 \u00b7 PARTIAL IMAGE A MONTH LATER \u00b7 REVEAL 13 SEPT 2022 (WIKIPEDIA) \u00b7 22 OCT 2018 \u2192 13 SEPT 2022 = 3 YR 10 MO 22 D (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Leaks to reveal"
   },
   {
    "text": "From the start of development in twenty seventeen to the reveal in September twenty twenty-two is about five years. And from the interview in which Marchionne said you would have to shoot him first, in twenty sixteen, it is about six years. Marchionne died two years after that interview, autoevolution says, so he never saw the car.",
-   "query": "Years to build",
+   "query": "Ferrari Purosangue",
    "caption": "2017 \u2192 SEPT 2022 \u2248 5 YEARS \u00b7 2016 'SHOOT ME FIRST' \u2192 SEPT 2022 \u2248 6 YEARS \u00b7 MARCHIONNE DIED ~2 YEARS AFTER THE INTERVIEW (AUTOEVOLUTION; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Years to build"
   },
   {
    "text": "Wikipedia says the Purosangue shares a platform with the Ferrari Roma, and autoevolution says the Roma is related to the Portofino. The transmission is a Magna eight-speed dual-clutch unit. Wikipedia describes the layout as a front mid-engine, all-wheel-drive car, so the V12 sits behind the front axle, not above it.",
-   "query": "Platform and gearbox",
+   "query": "Ferrari Roma",
    "caption": "SHARES PLATFORM WITH ROMA (WIKIPEDIA); ROMA RELATED TO PORTOFINO (AUTOEVOLUTION) \u00b7 MAGNA 8DCL900 8-SPEED DCT \u00b7 FRONT MID-ENGINE, AWD (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Platform and gearbox"
   },
   {
    "text": "Autocar's report from August twenty seventeen shows how the story looked before the car existed. Marchionne said an SUV-like vehicle would probably happen, but Ferrari style, and that no decision had been made. A Ferrari spokesman said Ferrari would not be launching an SUV. The same company was saying both things in the same month.",
-   "query": "Mixed signals in 2017",
+   "query": "Ferrari Purosangue rear",
    "caption": "AUTOCAR, 4 AUG 2017: MARCHIONNE: 'WILL PROBABLY HAPPEN, BUT ... FERRARI STYLE'; 'NO DECISION HAS BEEN MADE YET' \u00b7 UNNAMED SPOKESMAN: FERRARI 'WILL NOT BE LAUNCHING AN SUV'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Mixed signals in 2017"
   },
   {
    "text": "Enrico Galliera, Ferrari's commercial chief, told Autocar in the same period: We are not producing an SUV, because an SUV is not a sports car. He also ruled out a four-door model. And in an Autocar India interview he said the GTC4Lusso is our idea of an SUV. The Purosangue, five years later, has four doors.",
-   "query": "Galliera in 2017",
+   "query": "Ferrari Purosangue",
    "caption": "GALLIERA (AUTOCAR UK, 2017): 'WE ARE NOT PRODUCING AN SUV, BECAUSE AN SUV IS NOT A SPORTS CAR' \u00b7 RULED OUT A 4-DOOR \u00b7 AUTOCAR INDIA: 'GTC4LUSSO IS OUR IDEA OF AN SUV' \u00b7 2022: PUROSANGUE HAS FOUR DOORS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Galliera in 2017"
   },
   {
    "text": "The business backdrop matters. Carscoops reports Ferrari's core earnings rose twenty-seven percent in the first quarter of twenty twenty-three, with adjusted EBITDA of five hundred thirty-seven million euros and a margin of thirty-seven point six percent. By our arithmetic, that implies revenue of about one point four three billion euros for the quarter.",
-   "query": "Ferrari Q1 2023",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "ADJ. EBITDA \u20ac537M, MARGIN 37.6%, +27% (CARSCOOPS) \u00b7 \u20ac537M \u00f7 0.376 \u2248 \u20ac1.43B QUARTERLY REVENUE (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The money around the car"
+   "chapter": "The money around the car",
+   "orig_query": "Ferrari Q1 2023"
   },
   {
    "text": "The Czech business site Autohled reports Ferrari's twenty twenty-five revenue at seven point one four six billion euros on thirteen thousand, six hundred forty cars. By our arithmetic, that is about five hundred twenty-four thousand euros per car. That figure includes Formula One, sponsorship and brand income, so it is not the average price of a car.",
-   "query": "Ferrari revenue per car",
+   "query": "Lamborghini Urus",
    "caption": "2025 REVENUE \u20ac7.146B \u00f7 13,640 CARS \u2248 \u20ac524K PER CAR, INCLUDING F1/SPONSORSHIP/BRAND (AUTOHLED; OUR CHECK) \u00b7 NOT AN AVERAGE CAR PRICE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari revenue per car"
   },
   {
    "text": "Vigna, quoted by Motor1 in late twenty twenty-three, said order books were at their highest levels, and that internal combustion still has a lot to do. Motor1 notes the lineup then had seven combustion models and four hybrids, a new Maranello factory was set to open in June twenty twenty-four, and the first electric Ferrari was on track for late twenty twenty-five.",
-   "query": "Ferrari lineup 2023",
+   "query": "Maranello Ferrari factory",
    "caption": "VIGNA (MOTOR1, Q3 2023): ORDER BOOKS 'AT HIGHEST LEVELS' \u00b7 'ICE STILL HAS A LOT TO DO' \u00b7 7 ICE + 4 HYBRID MODELS \u00b7 NEW FACTORY JUNE 2024 \u00b7 FIRST EV LATE 2025",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari lineup 2023"
   },
   {
    "text": "Autohled lists the Luce as the brand's first fully electric model in twenty twenty-five, alongside the F eighty hypercar, whose deliveries began in the fourth quarter. The Purosangue is not mentioned as a share of the total. So we know the cap, twenty percent, and the lineup, but not how close the car is to that ceiling.",
-   "query": "Ferrari 2025 lineup",
+   "query": "Ferrari Purosangue",
    "caption": "AUTOHLED: LUCE = FIRST FULLY ELECTRIC FERRARI (2025) \u00b7 F80 DELIVERIES BEGAN Q4 2025 \u00b7 PUROSANGUE SHARE OF DELIVERIES: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari 2025 lineup"
   },
   {
    "text": "The AOL article notes that Ferrari buyers often add five or six figures in options, and that the adaptive suspension comes as standard. Motor1's review car cost five hundred six thousand, three hundred five dollars as tested. By our arithmetic, against the twenty twenty-four starting price, that is one hundred seven thousand, nine hundred fifty-five dollars of options and extras.",
-   "query": "Options",
+   "query": "Ferrari Purosangue rear",
    "caption": "MOTOR1 REVIEW CAR $506,305 AS TESTED \u2212 $398,350 (AOL 2024 BASE) = $107,955 = 27.1% (OUR ARITHMETIC; MODEL YEARS MAY DIFFER)",
    "cuts": 3,
-   "chapter": "Extras and fine print"
+   "chapter": "Extras and fine print",
+   "orig_query": "Options"
   },
   {
    "text": "Against Motor1's own twenty twenty-five base price of four hundred twenty-three thousand, six hundred eighty-six, the same car carries eighty-two thousand, six hundred nineteen dollars of extras, or nineteen and a half percent. The two bases differ, so the range of options spending is nineteen to twenty-seven percent, depending on which base you trust.",
-   "query": "Options, second base",
+   "query": "Ferrari Purosangue interior",
    "caption": "$506,305 \u2212 $423,686 = $82,619 = 19.5% (OUR ARITHMETIC) \u00b7 RANGE 19.5%\u201327.1% DEPENDING ON BASE PRICE USED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Options, second base"
   },
   {
    "text": "AOL also says the price excludes any gas guzzler tax, because the government had not yet classified the car. Wikipedia's page on the Rolls-Royce Cullinan says that car is not exempt from the tax, since it is classified as a station wagon. We found no source stating the final tax for the Purosangue, so the real cost may be higher.",
-   "query": "Gas guzzler tax",
+   "query": "Rolls-Royce Cullinan",
    "caption": "AOL: PRICE EXCLUDES GAS GUZZLER TAX (CAR NOT YET CLASSIFIED) \u00b7 CULLINAN NOT EXEMPT (CLASSIFIED AS STATION WAGON) (WIKIPEDIA) \u00b7 PUROSANGUE FINAL TAX: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gas guzzler tax"
   },
   {
    "text": "Sources disagree on weight, too. Wikipedia and Motor1 give four thousand, seven hundred eighty-four pounds. Cars dot com lists a base curb weight of forty-eight fifty. By our arithmetic, that is sixty-six pounds, or one point four percent, more. It is small, but it is another reminder that even a Ferrari's published numbers do not always agree.",
-   "query": "Weight disagreement",
+   "query": "Lamborghini Urus",
    "caption": "WIKIPEDIA/MOTOR1 4,784 LB vs CARS.COM 4,850 LB \u2192 +66 LB = +1.4% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight disagreement"
   },
   {
    "text": "A last comparison, to set up the rest of this series. The Rolls-Royce Cullinan is five thousand, three hundred forty-one millimetres long and weighs two thousand, six hundred sixty kilograms, according to Wikipedia. By our arithmetic, it is three hundred sixty-eight millimetres longer than the Purosangue, seven percent, and four hundred ninety kilograms heavier, twenty-three percent.",
-   "query": "Cullinan teaser",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN 5,341 MM / 2,660 KG vs PUROSANGUE 4,973 MM / 2,170 KG \u2192 +368 MM (+7.4%) \u00b7 +490 KG (+22.6%) (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cullinan teaser"
   },
   {
    "text": "Autoevolution says the unveiling price was alleged to be almost four hundred thousand dollars, and quotes Vigna at the unveiling as saying: It's a Ferrari. Please don't call it an SUV, because it isn't. We have kept the word SUV in this video's title for clarity. Ferrari's word is FUV, and Wikipedia says the company has denied building an SUV on multiple occasions.",
-   "query": "Calling it an SUV",
+   "query": "Rolls-Royce Cullinan",
    "caption": "AUTOEVOLUTION (17 SEPT 2022): ALLEGED PRICE ~ $400,000 \u00b7 VIGNA: 'IT'S A FERRARI ... PLEASE DON'T CALL IT AN SUV, BECAUSE IT ISN'T' \u00b7 FERRARI TERM: FUV (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Calling it an SUV"
   },
   {
    "text": "Marchionne's most direct statement came at a press conference at the New York Stock Exchange. NBC reports he said: We're dead serious about this. He also said Ferrari needed to learn how to master the relationship between exclusivity and scarcity of product. Drive dot com adds that it would be the only four-door Ferrari, built in limited numbers, and that Bloomberg reported about thirty months to settle the final production details.",
-   "query": "Marchionne at the NYSE",
+   "query": "Ferrari Purosangue rear",
    "caption": "MARCHIONNE (NYSE PRESS CONFERENCE; NBC; DRIVE.COM.AU): 'WE'RE DEAD SERIOUS ABOUT THIS' \u00b7 'MASTER ... EXCLUSIVITY AND SCARCITY OF PRODUCT' \u00b7 ONLY 4-DOOR FERRARI, LIMITED NUMBERS \u00b7 ~30 MONTHS TO FINALISE (BLOOMBERG) \u00b7 ARTICLES GIVE NO DATE",
    "cuts": 3,
-   "chapter": "Pressure and more numbers"
+   "chapter": "Pressure and more numbers",
+   "orig_query": "Marchionne at the NYSE"
   },
   {
    "text": "NBC set the market context. Light trucks, it says, were nearly two thirds of new vehicle sales in the United States. Bentley's Bentayga was rapidly becoming its top seller. Aston Martin showed the DBX concept at Geneva in twenty fifteen, and believed it could virtually double the company's size. Lamborghini and Rolls-Royce were developing utility vehicles of their own.",
-   "query": "Market pressure",
+   "query": "Rolls-Royce Cullinan",
    "caption": "NBC: LIGHT TRUCKS ~2/3 OF US NEW-VEHICLE SALES \u00b7 BENTAYGA RAPIDLY BECOMING BENTLEY'S TOP SELLER \u00b7 ASTON MARTIN DBX CONCEPT GENEVA 2015, COULD 'VIRTUALLY DOUBLE' ASTON'S SIZE \u00b7 LAMBORGHINI AND ROLLS-ROYCE DEVELOPING UTILITY VEHICLES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Market pressure"
   },
   {
    "text": "For the rest of the practical numbers, Cars dot com lists the Purosangue with a basic warranty of three years, a wheelbase of one hundred nineteen inches, and an overall length of one hundred ninety-six. The Cullinan on the same page has four years, one hundred thirty inches and two hundred ten. By our arithmetic, the Rolls is eleven inches longer in wheelbase and fourteen in length.",
-   "query": "Cars.com spec comparison",
+   "query": "Rolls-Royce Cullinan",
    "caption": "PUROSANGUE: 3-YR WARRANTY \u00b7 119-IN WHEELBASE \u00b7 196-IN LENGTH \u00b7 CULLINAN: 4-YR \u00b7 130 IN \u00b7 210 IN \u2192 +11 IN WHEELBASE, +14 IN LENGTH (CARS.COM; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cars.com spec comparison"
   },
   {
    "text": "Check Wikipedia's fuel conversions. Eleven miles per gallon in the city is twenty-one point four litres per hundred kilometres, by our arithmetic, and fifteen on the highway is fifteen point seven. Both match the page. At the regular gasoline price of four dollars, twenty-eight cents a gallon from the Energy Information Administration, twelve miles per gallon costs about thirty-six cents a mile.",
-   "query": "Fuel check",
+   "query": "Lamborghini Urus",
    "caption": "235.2 \u00f7 11 = 21.4 \u00b7 \u00f7 15 = 15.7 L/100 KM \u2713 (OUR CHECK OF WIKIPEDIA) \u00b7 $4.284 \u00f7 12 = $0.357/MILE (EIA REGULAR, 19 OCT 2026; OUR ARITHMETIC) \u00b7 REQUIRED FUEL GRADE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel check"
   },
   {
    "text": "Specific output is another way to see the engine. The Purosangue makes about one hundred ten horsepower per litre. By our arithmetic, the Cullinan's six point seven five litre twin-turbo, at five hundred sixty-three horsepower, makes about eighty-three. Ferrari gets thirty-two percent more per litre, and does it without forced induction, though it needs to spin to eighty-two fifty to do it.",
-   "query": "Specific output",
+   "query": "Rolls-Royce Cullinan",
    "caption": "PUROSANGUE 715 \u00f7 6.5 \u2248 110.0 HP/L \u00b7 CULLINAN 563 \u00f7 6.75 \u2248 83.4 HP/L \u2192 +31.9% (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Specific output"
   },
   {
    "text": "Torque tells the opposite story. Five hundred twenty-eight pound-feet from the Ferrari at sixty-two fifty rpm, against six hundred twenty-seven from the Rolls-Royce at sixteen hundred. By our arithmetic, the Cullinan has nineteen percent more torque, and reaches its peak at a quarter of the engine speed. The two engines are built for different kinds of driving.",
-   "query": "Torque comparison",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI 528 LB-FT @ 6,250 RPM vs ROLLS-ROYCE 627 LB-FT @ 1,600 RPM \u2192 +18.8% TORQUE; PEAK AT 25.6% OF THE RPM (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque comparison"
   },
   {
    "text": "What is missing. How the trademark case ended. How many Purosangues have been delivered. Why the price rose between sources. A measured, independent zero to sixty or lap time. Ferrari's own explanation of why the car has no anti-roll bars. And how the cap of twenty percent is audited, if at all.",
    "query": "Ferrari Purosangue",
    "caption": "NOT IN OUR SOURCES: TRADEMARK OUTCOME \u00b7 UNITS DELIVERED \u00b7 REASON FOR PRICE DIFFERENCES \u00b7 INDEPENDENT MEASURED PERFORMANCE \u00b7 FERRARI'S SUSPENSION RATIONALE \u00b7 HOW THE 20% CAP IS CHECKED",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "So the two things stand. The Purosangue's suspension has electric-motor-controlled dampers and, in Motor1's account, no sway bars. And Ferrari closed its order book before delivering one car, then promised that the model would never exceed one fifth of output. Both are in our sources. The reasons behind them are not.",
    "query": "Ferrari Purosangue",
    "caption": "TWO THINGS: ACTIVE DAMPERS, NO SWAY BARS (MOTOR1) \u00b7 ORDERS CLOSED BEFORE DELIVERIES; 20% CAP (ROBB REPORT; CARSCOOPS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "Would you want a Ferrari with four doors? Tell us in the comments. In the other videos of this series, we compare the Purosangue with the Rolls-Royce Cullinan, ask whether a normal person can afford one, and tell why Ferrari swore it would never build an SUV. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Ferrari Purosangue",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari Purosangue"
   }
  ]
 }

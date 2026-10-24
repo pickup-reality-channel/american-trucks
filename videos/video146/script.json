@@ -6,339 +6,393 @@
  "scenes": [
   {
    "text": "One is a Ferrari with four doors that asks you not to call it an SUV. The other is a Rolls-Royce named after a famous diamond. The Ferrari Purosangue and the Rolls-Royce Cullinan cost about the same, but on paper they are almost opposites. This is the real difference between them, and the places where our sources do not agree.",
-   "query": "Ferrari Purosangue vs Rolls-Royce Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI PUROSANGUE vs ROLLS-ROYCE CULLINAN: THE REAL DIFFERENCE",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ferrari Purosangue vs Rolls-Royce Cullinan"
   },
   {
    "text": "We read Wikipedia for both cars, Motor1, The Drive, Autoblog, Cars dot com, Robb Report, Carscoops and AOL. Ferrari's and Rolls-Royce's performance figures are the companies' own claims. Prices differ from source to source and year to year, so we show them all. And our own arithmetic is always labelled as ours.",
-   "query": "Ferrari Purosangue vs Rolls-Royce Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 \u00b7 THE DRIVE \u00b7 AUTOBLOG \u00b7 CARS.COM \u00b7 ROBB REPORT \u00b7 CARSCOOPS \u00b7 AOL \u00b7 COMPANY FIGURES ARE CLAIMS \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ferrari Purosangue vs Rolls-Royce Cullinan"
   },
   {
    "text": "Rolls-Royce got there first. Wikipedia says that at the Frankfurt show in twenty fifteen, chief executive Torsten M\u00fcller-\u00d6tv\u00f6s said the SUV would be revealed in twenty eighteen and sold in twenty nineteen. Testing reportedly began in January twenty sixteen. The name Cullinan was confirmed on the thirteenth of February twenty eighteen.",
-   "query": "Cullinan timeline",
+   "query": "Rolls-Royce Cullinan",
    "caption": "2015: TORSTEN M\u00dcLLER-\u00d6TV\u00d6S: REVEAL 2018, SALE 2019 \u00b7 TESTING REPORTEDLY FROM 2 JAN 2016 \u00b7 NAME CONFIRMED 13 FEB 2018 (WIKIPEDIA)",
    "cuts": 5,
-   "chapter": "Two companies, two timelines"
+   "chapter": "Two companies, two timelines",
+   "orig_query": "Cullinan timeline"
   },
   {
    "text": "The Cullinan was unveiled in May twenty eighteen at the Concorso d'Eleganza Villa d'Este in Italy, with a global launch in autumn that year in Jackson Hole, Wyoming. Wikipedia says that in twenty nineteen demand from established buyers exceeded supply, despite higher production and more hiring. The Series II production was announced in August twenty twenty-four.",
-   "query": "Cullinan launch",
+   "query": "Rolls-Royce Cullinan",
    "caption": "UNVEILED MAY 2018, VILLA D'ESTE \u00b7 LAUNCH AUTUMN 2018, JACKSON HOLE \u00b7 2019 DEMAND EXCEEDED SUPPLY \u00b7 SERIES II PRODUCTION ANNOUNCED AUG 2024 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cullinan launch"
   },
   {
    "text": "Ferrari's road was later and quieter. The car's code, F one seventy-five, started in twenty seventeen, and the reveal was on the thirteenth of September twenty twenty-two. By our arithmetic, the Cullinan was unveiled four years and four months before the Purosangue. Ferrari's chief executive Vigna asked that it not be called an SUV, because it is a Ferrari.",
-   "query": "Four years apart",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN MAY 2018 \u2192 PUROSANGUE 13 SEPT 2022 \u2248 4 YR 4 MO (OUR ARITHMETIC) \u00b7 VIGNA: 'PLEASE DON'T CALL IT AN SUV' (AUTOEVOLUTION) \u00b7 CODE F175, START 2017 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Four years apart"
   },
   {
    "text": "Both firms say demand is high. Ferrari closed the Purosangue's order book before delivering one car, with a waiting list of about two years, and caps it at twenty percent of output. Rolls-Royce said in twenty nineteen that demand from established buyers exceeded supply. Neither source gives a unit count for either car.",
-   "query": "Demand claims",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: ORDER BOOK CLOSED, ~2-YEAR WAIT, 20% CAP (ROBB REPORT; CARSCOOPS) \u00b7 ROLLS-ROYCE 2019: DEMAND EXCEEDED SUPPLY (WIKIPEDIA) \u00b7 UNIT COUNTS FOR EITHER: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Demand claims"
   },
   {
    "text": "Wikipedia calls the Cullinan the second best-selling Rolls-Royce of all time, after the Silver Shadow, though it gives no sales figures. The Drive quotes the Rolls-Royce average buyer age as forty-two. We found no equivalent figure for Ferrari, so the two companies' customers are not compared in this video.",
-   "query": "Who buys them",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN = 2ND BEST-SELLING ROLLS-ROYCE EVER, AFTER SILVER SHADOW; NO UNIT FIGURES (WIKIPEDIA) \u00b7 AVERAGE ROLLS-ROYCE BUYER AGE 42 (THE DRIVE) \u00b7 FERRARI EQUIVALENT: NOT FOUND",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Who buys them"
   },
   {
    "text": "Start with the Ferrari. Wikipedia lists a six point five litre naturally aspirated V12 making seven hundred fifteen horsepower at seventy-seven fifty rpm and five hundred twenty-eight pound-feet at sixty-two fifty. The Rolls-Royce has a six point seven five litre twin-turbo V12 making five hundred sixty-three horsepower at five thousand rpm and six hundred twenty-seven pound-feet at sixteen hundred.",
-   "query": "The two V12s",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI 6.5 L NA V12: 715 HP @ 7,750 \u00b7 528 LB-FT @ 6,250 \u00b7 ROLLS-ROYCE 6.75 L TWIN-TURBO V12: 563 HP @ 5,000 \u00b7 627 LB-FT @ 1,600 (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Two engines"
+   "chapter": "Two engines",
+   "orig_query": "The two V12s"
   },
   {
    "text": "By our arithmetic, the Ferrari makes one hundred fifty-two more horsepower, which is twenty-seven percent more than the Rolls-Royce. The Rolls makes ninety-nine more pound-feet, nineteen percent more than the Ferrari. And it reaches its peak torque at sixteen hundred rpm, where the Ferrari is turning only at about a quarter of its redline.",
-   "query": "Power and torque gap",
+   "query": "Rolls-Royce Cullinan",
    "caption": "715 \u2212 563 = +152 HP (+27.0%) \u00b7 627 \u2212 528 = +99 LB-FT (+18.8% FOR ROLLS) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power and torque gap"
   },
   {
    "text": "The Black Badge version of the Cullinan makes six hundred horsepower in metric units, five hundred ninety-one in the American measure, and nine hundred newton-metres, or six hundred sixty-four pound-feet. Autoblog lists five hundred ninety-two horsepower. By our arithmetic, even the Black Badge gives away about one hundred twenty-three horsepower to the Ferrari.",
-   "query": "Black Badge",
+   "query": "Rolls-Royce Cullinan",
    "caption": "BLACK BADGE: 600 PS / 591 HP (WIKIPEDIA); 592 HP (AUTOBLOG) \u00b7 664 LB-FT \u00b7 715 \u2212 592 = 123 HP BEHIND THE FERRARI (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Black Badge"
   },
   {
    "text": "Specific output makes the contrast. The Ferrari makes about one hundred ten horsepower a litre with no turbochargers. The Rolls-Royce makes about eighty-three. By our arithmetic, that is thirty-two percent more per litre for the Ferrari. The Rolls-Royce gets its strength at low revs from boost. The Ferrari asks you to rev it to the eighty-two fifty redline.",
-   "query": "Output per litre",
+   "query": "Rolls-Royce Cullinan",
    "caption": "715 \u00f7 6.5 \u2248 110.0 \u00b7 563 \u00f7 6.75 \u2248 83.4 HP/L \u2192 +31.9% (OUR ARITHMETIC) \u00b7 REDLINE 8,250 RPM (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Output per litre"
   },
   {
    "text": "Both use eight-speed automatic gearboxes and all-wheel drive. The Ferrari's is a dual-clutch unit from Magna, according to Wikipedia. The Rolls-Royce's is a ZF eight-speed automatic, the only option, with permanent all-wheel drive. Motor1 says the Ferrari's V12 peaks late, so you must rev it to build speed, which it calls more engaging.",
-   "query": "Gearboxes and drive",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: MAGNA 8DCL900 8-SPEED DCT, AWD \u00b7 ROLLS-ROYCE: ZF 8HP 8-SPEED AUTOMATIC (ONLY OPTION), PERMANENT AWD (WIKIPEDIA) \u00b7 MOTOR1: 'MORE ENGAGING' = REVIEWER'S VIEW",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gearboxes and drive"
   },
   {
    "text": "The sizes. The Purosangue is four thousand, nine hundred seventy-three millimetres long, two thousand, twenty-eight wide, fifteen eighty-nine high, with a three thousand, eighteen millimetre wheelbase. The Cullinan is five thousand, three hundred forty-one long, two thousand wide, eighteen thirty-five high, with a wheelbase of three thousand, two hundred ninety-five. These are Wikipedia's figures.",
-   "query": "Dimensions",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI L 4,973 \u00b7 W 2,028 \u00b7 H 1,589 \u00b7 WB 3,018 MM \u00b7 ROLLS-ROYCE L 5,341 \u00b7 W 2,000 \u00b7 H 1,835 \u00b7 WB 3,295 MM (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Size and weight"
+   "chapter": "Size and weight",
+   "orig_query": "Dimensions"
   },
   {
    "text": "By our arithmetic, the Rolls is three hundred sixty-eight millimetres longer, seven percent, and two hundred forty-six millimetres taller, fifteen and a half percent. Its wheelbase is two hundred seventy-seven millimetres longer, nine percent. But the Ferrari is twenty-eight millimetres wider. A Ferrari that is wider than a Rolls-Royce is one of the surprises on this list.",
-   "query": "Size gaps",
+   "query": "Rolls-Royce Cullinan",
    "caption": "LENGTH +368 MM (+7.4%) \u00b7 HEIGHT +246 MM (+15.5%) \u00b7 WHEELBASE +277 MM (+9.2%) \u00b7 WIDTH \u221228 MM (FERRARI WIDER, +1.4%) (OUR ARITHMETIC FROM WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Size gaps"
   },
   {
    "text": "Weight is the big difference. Wikipedia gives the Purosangue a kerb weight of two thousand, one hundred seventy kilograms and the Cullinan two thousand, six hundred sixty. By our arithmetic, the Rolls is four hundred ninety kilograms heavier, twenty-three percent more. Other sources give the Cullinan sixty-one eighty-five pounds, The Drive, or sixty-one seventy-three, Autoblog and Cars dot com.",
-   "query": "Weights",
+   "query": "Rolls-Royce Cullinan",
    "caption": "KERB: FERRARI 2,170 KG (4,784 LB) \u00b7 ROLLS 2,660 KG (5,864 LB) (WIKIPEDIA) \u00b7 ROLLS 6,085 LB (THE DRIVE) \u00b7 6,173 LB (AUTOBLOG; CARS.COM) \u00b7 +490 KG = +22.6% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weights"
   },
   {
    "text": "Using the heaviest figures, the Rolls-Royce is one thousand, three hundred eighty-nine pounds heavier than the Ferrari's four thousand, seven hundred eighty-four. By our arithmetic, that is twenty-nine percent more. It is the weight of a small car. Autoblog says the Cullinan's weight limits its agility, and Motor1 says the Ferrari handles like a sports sedan.",
-   "query": "Weight, heavy case",
+   "query": "Rolls-Royce Cullinan",
    "caption": "6,173 \u2212 4,784 = 1,389 LB = +29.0% (OUR ARITHMETIC) \u00b7 AUTOBLOG: WEIGHT 'LIMITS AGILITY' (ROLLS) \u00b7 MOTOR1: FERRARI 'LIKE A SPORTS SEDAN'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight, heavy case"
   },
   {
    "text": "Power per weight, by our arithmetic. The Ferrari has about three hundred thirty horsepower per tonne. The Rolls-Royce, on Wikipedia's weight, has about two hundred twelve. That means the Ferrari has fifty-six percent more power for each tonne it carries. Pounds per horsepower, the Ferrari is six point seven, and the Rolls ten point four.",
-   "query": "Power to weight",
+   "query": "Rolls-Royce Cullinan",
    "caption": "715 \u00f7 2.170 = 329.5 \u00b7 563 \u00f7 2.660 = 211.7 HP/TONNE \u2192 +55.7% \u00b7 4,784 \u00f7 715 = 6.7 \u00b7 5,864 \u00f7 563 = 10.4 LB/HP (OUR ARITHMETIC; WIKIPEDIA WEIGHTS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "Speed claims. Ferrari claims zero to one hundred kilometres per hour in three point three seconds, zero to two hundred in ten point six, and a top speed over three hundred ten. Autoblog lists the Cullinan at five seconds flat to sixty, or four point nine for the Black Badge. Wikipedia gives its top speed as two hundred fifty, limited.",
-   "query": "Speed claims",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: 0\u2013100 3.3 S \u00b7 0\u2013200 10.6 S \u00b7 >310 KM/H (CLAIMS) \u00b7 ROLLS: 0\u201360 5.0 S (4.9 BLACK BADGE) (AUTOBLOG) \u00b7 TOP SPEED 250 KM/H (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Speed"
+   "chapter": "Speed",
+   "orig_query": "Speed claims"
   },
   {
    "text": "By our arithmetic, one point seven seconds separates the claims, though Ferrari's is to one hundred kilometres per hour and Rolls-Royce's to sixty miles per hour. Sixty miles per hour is slightly slower, about ninety-seven kilometres per hour, so the real gap is a little larger. And the Ferrari's top speed is sixty kilometres per hour higher, twenty-four percent.",
-   "query": "Speed gaps",
+   "query": "Rolls-Royce Cullinan",
    "caption": "5.0 \u2212 3.3 = 1.7 S (DIFFERENT SPEED TARGETS: 100 KM/H vs 60 MPH \u2248 96.6 KM/H) \u00b7 310 \u2212 250 = +60 KM/H = +24% (OUR ARITHMETIC; CLAIMS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Speed gaps"
   },
   {
    "text": "Motor1 estimated the Purosangue's zero to sixty at three point two seconds, labelled as an estimate, not measured. Its spec sheet lists a top speed of one hundred ninety-two miles per hour. We found no independent measured acceleration for either car, and no track comparison. So the speed gap is a gap between claims.",
-   "query": "No independent numbers",
+   "query": "Ferrari Purosangue",
    "caption": "MOTOR1: 0\u201360 3.2 S ESTIMATED; TOP 192 MPH (SPEC SHEET) \u00b7 INDEPENDENT MEASURED TIMES, EITHER CAR: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No independent numbers"
   },
   {
    "text": "The Drive's Jerry Perez, reviewing the Cullinan Series II on Pikes Peak Highway in July twenty twenty-five, wrote: If I told you this seventeen and a half foot long SUV cornered like a sports car, I'd be lying. He praised its tyre grip and four-wheel steering, and said the steering is calibrated for smooth driving rather than quick reflexes.",
-   "query": "The Drive on the Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "THE DRIVE (JERRY PEREZ, 10 JULY 2025): 'IF I TOLD YOU THIS 17.5-FOOT-LONG SUV CORNERED LIKE A SPORTS CAR, I'D BE LYING' \u00b7 PRAISED GRIP, 4-WHEEL STEERING \u00b7 STEERING CALIBRATED FOR SMOOTHNESS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Drive on the Cullinan"
   },
   {
    "text": "The Ferrari's suspension, from Motor1, uses Multimatic active dampers with electric motors, independent left and right, with no sway bars. The Rolls-Royce, from Wikipedia, has a double-wishbone front and five-link rear, self-levelling air suspension, electronically controlled dampers, and electrically actuated active anti-roll bars. Both are active systems, built for opposite aims.",
-   "query": "Suspension",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: MULTIMATIC ACTIVE DAMPERS (ELECTRIC MOTORS), INDEPENDENT SIDES, NO SWAY BARS (MOTOR1) \u00b7 ROLLS: DOUBLE-WISHBONE / 5-LINK, AIR SUSPENSION, ELECTRONIC DAMPERS, ACTIVE ANTI-ROLL BARS (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Suspension and chassis"
+   "chapter": "Suspension and chassis",
+   "orig_query": "Suspension"
   },
   {
    "text": "The Rolls-Royce also has a Flagbearer stereo camera that scans the road ahead and adjusts the suspension, working up to one hundred kilometres per hour, and four-wheel steering as on the Phantom. Its off-road mode raises the ride height by forty millimetres. Motor1 says the Purosangue has no off-road capability. The Drive's drive route was paved.",
-   "query": "Chassis technology",
+   "query": "Rolls-Royce Cullinan",
    "caption": "ROLLS: 'FLAGBEARER' STEREO CAMERA TO 100 KM/H \u00b7 4-WHEEL STEERING \u00b7 OFF-ROAD MODE +40 MM (WIKIPEDIA) \u00b7 FERRARI: 'NO OFF-ROAD CAPABILITY' (MOTOR1) \u00b7 THE DRIVE'S ROUTE: PAVED (PIKES PEAK HIGHWAY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Chassis technology"
   },
   {
    "text": "The platforms. Wikipedia says the Cullinan sits on Rolls-Royce's aluminium spaceframe, the Architecture of Luxury, which debuted on the Phantom. The Purosangue, it says, shares a platform with the Ferrari Roma. One began as a larger car's structure, and the other as a coupe's. That is Wikipedia's account, and neither company explains it further.",
-   "query": "Platforms",
+   "query": "Rolls-Royce Cullinan",
    "caption": "ROLLS: ALUMINIUM SPACEFRAME 'ARCHITECTURE OF LUXURY' (DEBUTED ON PHANTOM VIII) \u00b7 FERRARI: SHARES PLATFORM WITH ROMA (WIKIPEDIA) \u00b7 NEITHER COMPANY'S EXPLANATION IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Platforms"
   },
   {
    "text": "Seating. The Ferrari has four seats, with two individual seats in the back and no rear bench option, according to Motor1. The Rolls-Royce offers four or five seats, with a lounge or individual layout, though Cars dot com's page lists both four and five. Wikipedia also mentions two-or-three-across rear seating, a glass partition, and cocktail-suite seats in the boot.",
-   "query": "Seating",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: 4 SEATS, NO REAR BENCH OPTION (MOTOR1) \u00b7 ROLLS: 4 OR 5 SEATS (AUTOBLOG; CARS.COM LISTS BOTH) \u00b7 OPTIONS: GLASS PARTITION, 'COCKTAIL SUITE' BOOT SEATS (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Inside"
+   "chapter": "Inside",
+   "orig_query": "Seating"
   },
   {
    "text": "Cargo space, from Cars dot com: seventeen cubic feet behind the first row of the Ferrari, nine behind the second, and twenty-one cubic feet for the Rolls-Royce. By our arithmetic, the Rolls has twenty-four percent more space with the rear seats folded, and more than double the Ferrari's with the rear seats in use. Motor1 calls the Ferrari's trunk real, and says it held luggage for a road trip.",
-   "query": "Cargo",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CARS.COM: FERRARI 17 CU FT (TO SEAT 1) / 9 (TO SEAT 2) \u00b7 ROLLS 21 / 21 \u00b7 21 vs 17 = +23.5% (SEATS FOLDED) \u00b7 21 vs 9 = +133% (REAR SEATS IN USE) (OUR ARITHMETIC) \u00b7 MOTOR1: 'REAL TRUNK'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cargo"
   },
   {
    "text": "Technology. The Rolls-Royce Series II has a digital gauge cluster and the new Spirit infotainment system, which The Drive found fairly intuitive after three days, but Autoblog says trails newer BMW systems. The Ferrari has two front displays, and Motor1 criticises its touch-capacitive controls, and a cluster that loses the tachometer when CarPlay is on.",
-   "query": "Technology",
+   "query": "Rolls-Royce Cullinan",
    "caption": "ROLLS SERIES II: DIGITAL CLUSTER + 'SPIRIT' SYSTEM \u2014 THE DRIVE: 'FAIRLY INTUITIVE'; AUTOBLOG: TRAILS NEWER BMW SYSTEMS \u00b7 FERRARI: TWO FRONT DISPLAYS; TOUCH-CAPACITIVE CONTROLS CRITICISED; NO TACHOMETER WITH CARPLAY (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Technology"
   },
   {
    "text": "At launch, Wikipedia says some critics noted that the Cullinan lacked automatic climate control and partially autonomous cruise control, found on less expensive SUVs. We do not know whether those gaps were fixed in the Series II. The Drive praised the interior craftsmanship as one of the most intricate it had seen on any vehicle.",
-   "query": "Interior verdicts",
+   "query": "Rolls-Royce Cullinan",
    "caption": "LAUNCH CRITICISM: NO AUTOMATIC CLIMATE CONTROL / PARTIALLY AUTONOMOUS CRUISE (WIKIPEDIA) \u00b7 SERIES II FIXES: NOT STATED \u00b7 THE DRIVE: INTERIOR CRAFTSMANSHIP 'ONE OF THE MOST INTRICATE'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Interior verdicts"
   },
   {
    "text": "Now the price, which is not as simple as it looks. For twenty twenty-five, The Drive lists the Cullinan Series II at four hundred five thousand dollars, and Motor1 lists the Purosangue at four hundred twenty-three thousand, six hundred eighty-six. By our arithmetic, the Rolls-Royce is eighteen thousand, six hundred eighty-six dollars cheaper, four point four percent.",
-   "query": "2025 prices",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN SERIES II $405,000 (THE DRIVE) vs PUROSANGUE $423,686 (MOTOR1) \u2192 ROLLS $18,686 CHEAPER = 4.4% (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The price flips"
+   "chapter": "The price flips",
+   "orig_query": "2025 prices"
   },
   {
    "text": "For twenty twenty-six, Autoblog lists the Cullinan Series II at four hundred thirty-two thousand, three hundred fifty, and Cars dot com lists the Purosangue at four hundred twenty-three thousand, six hundred thirty-six. Now the Ferrari is eight thousand, seven hundred fourteen dollars cheaper, two percent. The ordering has flipped, though the sources and years differ.",
-   "query": "2026 prices",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN SERIES II $432,350 (AUTOBLOG) vs PUROSANGUE $423,636 (CARS.COM) \u2192 FERRARI $8,714 CHEAPER = 2.1% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2026 prices"
   },
   {
    "text": "For twenty twenty-seven, Cars dot com lists the Cullinan at four hundred twenty-nine thousand, six hundred and the Purosangue still at four hundred twenty-three thousand, six hundred thirty-six. Autoblog's twenty twenty-seven page says four hundred thirty-five thousand, nine hundred fifty. Three Cullinan prices from three pages, spanning six thousand, three hundred fifty dollars.",
-   "query": "2027 prices",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN 2027: $429,600 (CARS.COM) vs $435,950 (AUTOBLOG) \u2192 $6,350 APART \u00b7 PUROSANGUE $423,636 (CARS.COM) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 prices"
   },
   {
    "text": "And how far have they come? Wikipedia gives the Cullinan's launch price as approximately three hundred twenty-five thousand dollars. By our arithmetic, Autoblog's four hundred thirty-five thousand, nine hundred fifty is a hundred ten thousand, nine hundred fifty more, or thirty-four percent. The Ferrari had its first US price at three hundred ninety-eight thousand, three hundred fifty in twenty twenty-four.",
-   "query": "Price growth",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN LAUNCH ~$325,000 \u2192 $435,950 (2027) = +$110,950 = +34.1% (WIKIPEDIA; AUTOBLOG; OUR ARITHMETIC) \u00b7 PUROSANGUE FIRST US PRICE $398,350 (AOL) \u2192 $423,636 (2026) = +6.3%",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price growth"
   },
   {
    "text": "Black Badge pricing: Autoblog lists the twenty twenty-six Black Badge Cullinan Series II at five hundred two thousand, three hundred fifty and the twenty twenty-seven at five hundred four thousand, nine hundred fifty. By our arithmetic, that is sixty-nine thousand dollars more than the standard Cullinan of twenty twenty-seven. The Ferrari has no sibling trim in our sources.",
-   "query": "Black Badge price",
+   "query": "Rolls-Royce Cullinan",
    "caption": "BLACK BADGE: $502,350 (2026) \u00b7 $504,950 (2027) vs STANDARD $435,950 \u2192 +$69,000 (+15.8%) (AUTOBLOG; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Black Badge price"
   },
   {
    "text": "Put the starting prices in context with the Census Bureau's median household income of eighty-three thousand, seven hundred thirty dollars. By our arithmetic, four hundred twenty-three thousand, six hundred thirty-six is five years of it, and four hundred thirty-five thousand, nine hundred fifty is five point two years. Both are about eight and a half times the average new vehicle.",
-   "query": "Prices vs income",
+   "query": "Ferrari Purosangue interior",
    "caption": "$423,636 \u00f7 $83,730 = 5.06 YR \u00b7 $435,950 \u00f7 $83,730 = 5.21 YR \u00b7 \u00f7 $50,089 AVG NEW = 8.5\u00d7 / 8.7\u00d7 (CENSUS; KBB; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Prices vs income"
   },
   {
    "text": "Options. The Drive's Cullinan cost five hundred seventy-two thousand, five hundred fifty dollars as tested, against four hundred five thousand base. By our arithmetic, that is one hundred sixty-seven thousand, five hundred fifty in options, forty-one percent. Three items are priced: the Duality Twill interior at seventeen thousand, the Twilight Purple paint at thirteen thousand, the Shooting Star Headliner at nine thousand.",
-   "query": "Cullinan options",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$572,550 AS TESTED \u2212 $405,000 BASE = $167,550 = +41.4% \u00b7 INTERIOR $17,000 + PAINT $13,000 + HEADLINER $9,000 = $39,000 FOR THREE ITEMS (THE DRIVE; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Options and ownership"
+   "chapter": "Options and ownership",
+   "orig_query": "Cullinan options"
   },
   {
    "text": "Motor1's Ferrari reached five hundred six thousand, three hundred five dollars as tested, which is eighty-two thousand, six hundred nineteen above its base, nineteen and a half percent. Rolls-Royce's president for North America, Colbeth, said, in The Drive: We are not here to judge the customer, but guide them through the creation process. Options are a big part of both brands.",
-   "query": "Ferrari options",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI $506,305 \u2212 $423,686 = $82,619 = +19.5% \u00b7 ROLLS-ROYCE NA PRESIDENT COLBETH: 'WE ARE NOT HERE TO JUDGE THE CUSTOMER, BUT GUIDE THEM THROUGH THE CREATION PROCESS' (MOTOR1; THE DRIVE; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari options"
   },
   {
    "text": "Fuel economy. Autoblog and Cars dot com give the Cullinan twelve city, nineteen highway and fourteen combined. Autoblog's twenty twenty-seven page says eleven, eighteen and thirteen. The Ferrari is eleven, fifteen and twelve. By our arithmetic, at fifteen thousand miles a year, the Ferrari burns about one hundred seventy-nine gallons more than a Rolls rated at fourteen.",
-   "query": "Fuel economy",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI 11/15/12 \u00b7 ROLLS 12/19/14 (2026) OR 11/18/13 (2027, AUTOBLOG) \u00b7 15,000 MI: 1,250 GAL vs 1,071 GAL \u2192 +179 GAL (OUR ARITHMETIC; MILEAGE ASSUMED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel economy"
   },
   {
    "text": "At four dollars, twenty-eight cents a gallon for regular, from the Energy Information Administration, that is about seven hundred sixty-five dollars a year. Autoblog says the Rolls needs premium gasoline, and our sources have no premium price or Ferrari fuel grade, so the real figure may be higher. Fuel is small beside the purchase price of either car.",
-   "query": "Fuel cost gap",
+   "query": "Rolls-Royce Cullinan",
    "caption": "179 GAL \u00d7 $4.284 \u2248 $765/YEAR (REGULAR PRICE, EIA 19 OCT 2026; OUR ARITHMETIC) \u00b7 ROLLS NEEDS PREMIUM (AUTOBLOG) \u00b7 PREMIUM PRICE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel cost gap"
   },
   {
    "text": "Warranty. Autoblog lists the Rolls-Royce with a basic warranty, powertrain, roadside assistance and maintenance each for four years and unlimited miles, and corrosion for six. Cars dot com lists the Ferrari's basic warranty as three years. We have no source on the Ferrari's maintenance plan, so we cannot compare the cost of keeping each one serviced.",
-   "query": "Warranty",
+   "query": "Rolls-Royce Cullinan",
    "caption": "ROLLS: 4 YR / UNLIMITED MI (BASIC, POWERTRAIN, ROADSIDE, MAINTENANCE) \u00b7 6 YR CORROSION (AUTOBLOG) \u00b7 FERRARI: 3-YR BASIC (CARS.COM) \u00b7 FERRARI MAINTENANCE PLAN: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Warranty"
   },
   {
    "text": "Tax. AOL says the Purosangue's price excludes any gas guzzler tax because the government had not yet classified the car. Wikipedia says the Cullinan is not exempt, because it is classed as a station wagon. We did not find the final amount for either, so any difference in tax is not in our numbers.",
-   "query": "Gas guzzler tax",
+   "query": "Rolls-Royce Cullinan",
    "caption": "PUROSANGUE: PRICE EXCLUDES TAX, CLASSIFICATION PENDING (AOL) \u00b7 CULLINAN: NOT EXEMPT (WIKIPEDIA) \u00b7 AMOUNTS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gas guzzler tax"
   },
   {
    "text": "Rarity is where the cars differ in the sources. Wikipedia says the Cullinan Blue Shadow, a Black Badge special edition inspired by the K\u00e1rm\u00e1n line, was limited to sixty-two cars. Autoblog's twenty twenty-seven page mentions a four-unit Cullinan Yachting and a five-unit Black Badge by Cyril Kongo. The Cullinan is a regular production car, but with tiny one-offs.",
-   "query": "Cullinan special editions",
+   "query": "Rolls-Royce Cullinan",
    "caption": "BLUE SHADOW: 62 UNITS (WIKIPEDIA) \u00b7 CULLINAN YACHTING: 4 UNITS \u00b7 BLACK BADGE BY CYRIL KONGO: 5 UNITS (AUTOBLOG 2027) \u00b7 ALL SMALL RUNS OF A REGULAR CAR",
    "cuts": 3,
-   "chapter": "Special editions and rarity"
+   "chapter": "Special editions and rarity",
+   "orig_query": "Cullinan special editions"
   },
   {
    "text": "The Ferrari's rarity is a rule, not a trim. Robb Report, Carscoops and Motor1 all say it is capped at twenty percent of Ferrari's output. By our arithmetic, that is up to two thousand, seven hundred twenty-eight cars on thirteen thousand, six hundred forty deliveries in twenty twenty-five. The Cullinan's volume has no published cap in our sources.",
-   "query": "Ferrari cap",
+   "query": "Rolls-Royce Cullinan",
    "caption": "20% \u00d7 13,640 (2025 DELIVERIES, AUTOHLED) = 2,728 MAX (OUR ARITHMETIC) \u00b7 CULLINAN VOLUME CAP: NONE IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari cap"
   },
   {
    "text": "Awards. Wikipedia says the Purosangue won the Compasso d'Oro industrial design award in twenty twenty-four. Its Cullinan page lists no awards. The Drive's quick take on the Cullinan is: It's a whole lotta money, but it's a whole lotta car. Autoblog's verdict calls it the highest level of luxury SUV available.",
-   "query": "Awards and verdicts",
+   "query": "Rolls-Royce Cullinan",
    "caption": "PUROSANGUE: COMPASSO D'ORO 2024 (WIKIPEDIA) \u00b7 CULLINAN: NO AWARDS LISTED \u00b7 THE DRIVE: 'A WHOLE LOTTA MONEY, BUT A WHOLE LOTTA CAR' \u00b7 AUTOBLOG: 'HIGHEST LEVEL OF LUXURY SUV AVAILABLE'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Awards and verdicts"
   },
   {
    "text": "A quick conversion for scale. By our arithmetic, five thousand, three hundred forty-one millimetres is seventeen and a half feet, which matches The Drive's phrase about a seventeen and a half foot long SUV. The Ferrari's four thousand, nine hundred seventy-three millimetres is sixteen point three feet. The Rolls is about fourteen inches longer, which is the Cars dot com figure too.",
-   "query": "Length in feet",
+   "query": "Rolls-Royce Cullinan",
    "caption": "5,341 MM = 17.5 FT \u00b7 4,973 MM = 16.3 FT \u2192 +1.2 FT (\u2248 14 IN) (WIKIPEDIA; OUR ARITHMETIC; THE DRIVE: '17.5-FOOT-LONG')",
    "cuts": 3,
-   "chapter": "Beyond the spec sheet"
+   "chapter": "Beyond the spec sheet",
+   "orig_query": "Length in feet"
   },
   {
    "text": "Torque per tonne is almost a tie. By our arithmetic, the Ferrari delivers about two hundred forty-three pound-feet for each tonne of its weight, and the Rolls-Royce about two hundred thirty-six, a gap of just three percent. The Ferrari's advantage is all in horsepower, which depends on engine speed, and the Rolls-Royce's torque arrives at a quarter of the revs.",
-   "query": "Torque per tonne",
+   "query": "Rolls-Royce Cullinan",
    "caption": "528 \u00f7 2.170 \u2248 243 \u00b7 627 \u00f7 2.660 \u2248 236 LB-FT/TONNE \u2192 FERRARI +3.2% (OUR ARITHMETIC; WIKIPEDIA WEIGHTS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque per tonne"
   },
   {
    "text": "The Black Badge changes that little. At five hundred ninety-two horsepower and two thousand, six hundred sixty kilograms, by our arithmetic, it makes about two hundred twenty-three horsepower per tonne, against the Ferrari's three hundred thirty. Autoblog's review of the standard car says the Cullinan's appeal is luxury, comfort and customisation rather than speed.",
-   "query": "Black Badge power to weight",
+   "query": "Rolls-Royce Cullinan",
    "caption": "592 \u00f7 2.660 \u2248 222.6 vs 329.5 HP/TONNE (OUR ARITHMETIC) \u00b7 AUTOBLOG: APPEAL = 'LUXURY, COMFORT AND CUSTOMIZATION RATHER THAN SPEED'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Black Badge power to weight"
   },
   {
    "text": "A lighter car that uses more fuel. The Ferrari is eighteen percent lighter than the Rolls-Royce but is rated twelve miles per gallon, against fourteen. By our arithmetic, that means the Ferrari uses about seventeen percent more fuel for every mile. The engine, not the weight, is what decides the fuel economy here, at least on the sources' own ratings.",
-   "query": "Lighter but thirstier",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI 12 MPG vs ROLLS 14 MPG \u2192 (1/12) \u00f7 (1/14) = 1.167 \u2192 +16.7% FUEL PER MILE \u00b7 18.4% LIGHTER (OUR ARITHMETIC; EPA FIGURES VIA WIKIPEDIA/CARS.COM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lighter but thirstier"
   },
   {
    "text": "The Series II update, in twenty twenty-four, changed the look and the technology but not the powertrain. Wikipedia lists a new front bumper, new headlights, an illuminated grille, twenty-three-inch wheels, new interior materials, a digital gauge cluster and a new infotainment system. Autoblog's twenty twenty-seven page says the Cullinan remains unchanged apart from special series and one-off cars.",
-   "query": "Series II changes",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SERIES II (2024): NEW BUMPER, HEADLIGHTS, ILLUMINATED GRILLE, 23-IN WHEELS, NEW INTERIOR MATERIALS, DIGITAL CLUSTER, NEW INFOTAINMENT \u00b7 NO POWERTRAIN CHANGE (WIKIPEDIA) \u00b7 2027 'REMAINS UNCHANGED' (AUTOBLOG)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Series II changes"
   },
   {
    "text": "What The Drive disliked about the Cullinan: the steering is calibrated for smooth driving rather than quick reflexes, throttle and steering inputs take time to get used to on a vehicle this size, and the seat colour palette may not suit everyone. What it liked: the craftsmanship, four-wheel steering, self-levelling air suspension, and Pirelli P Zero grip that let it carry more speed than the reviewer was comfortable with.",
-   "query": "The Drive's pros and cons",
+   "query": "Rolls-Royce Cullinan",
    "caption": "THE DRIVE: DISLIKED \u2014 STEERING TUNED FOR SMOOTHNESS, TIME TO ADAPT TO SIZE, SEAT PALETTE \u00b7 LIKED \u2014 CRAFTSMANSHIP, 4-WHEEL STEERING, AIR SUSPENSION, PIRELLI PZERO GRIP",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Drive's pros and cons"
   },
   {
    "text": "The Cullinan's name, Wikipedia says, comes from the Cullinan diamond. The page describes that stone in two ways: as the largest gem-quality rough diamond ever discovered, and, elsewhere, as the largest diamond ever found, at three thousand one hundred carats. The page does not reconcile the two descriptions. The Ferrari's name, Wikipedia says, is that of a horse breed.",
-   "query": "Names",
+   "query": "Rolls-Royce Cullinan",
    "caption": "CULLINAN = NAMED AFTER THE CULLINAN DIAMOND: 'LARGEST GEM-QUALITY ROUGH DIAMOND EVER DISCOVERED' vs 'LARGEST DIAMOND EVER FOUND AT 3100 CARATS' \u2014 WIKIPEDIA DOES NOT RECONCILE \u00b7 PUROSANGUE = HORSE BREED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Names"
   },
   {
    "text": "Both firms also sell the idea of a long wait. Ferrari's order book covered the entire twenty twenty-five production year, according to Motor1, with orders then going to twenty twenty-six. Rolls-Royce said in twenty nineteen that demand exceeded supply. Our sources do not say how long the wait for a Cullinan is today, or whether either wait still exists.",
-   "query": "Waiting times",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: ORDER BOOK COVERED ALL OF 2025; NEW ORDERS \u2192 2026 (MOTOR1, Q3 2023) \u00b7 ROLLS 2019: DEMAND > SUPPLY (WIKIPEDIA) \u00b7 CURRENT WAITS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Waiting times"
   },
   {
    "text": "What is missing. A test that put the two cars side by side. Independent measured acceleration for either. Unit sales for the Cullinan and the Purosangue. A like-for-like year price comparison from one source. Ferrari's maintenance costs. And a final gas guzzler tax for either car.",
-   "query": "Purosangue vs Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "NOT IN OUR SOURCES: SIDE-BY-SIDE TEST \u00b7 MEASURED ACCELERATION \u00b7 UNIT SALES \u00b7 SAME-SOURCE PRICE COMPARISON \u00b7 FERRARI MAINTENANCE COSTS \u00b7 FINAL GAS GUZZLER TAX",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Purosangue vs Cullinan"
   },
   {
    "text": "So the real difference, on the paper we have, is this. The Ferrari has twenty-seven percent more power, a body eighteen percent lighter, and claimed speed to match, with an engine that wants revs. The Rolls-Royce has more torque at lower revs, more cargo space, a longer warranty, and a ride built around comfort. The price gap flips with the year.",
-   "query": "Purosangue vs Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI: +27% POWER, \u221218.4% WEIGHT (vs ROLLS: 490 \u00f7 2,660), CLAIMED FASTER \u00b7 ROLLS: +19% TORQUE LOWER DOWN, +24% CARGO (SEATS FOLDED), 4-YR WARRANTY \u00b7 PRICE ORDER FLIPS BY YEAR/SOURCE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Purosangue vs Cullinan"
   },
   {
    "text": "Which would you take, the Ferrari or the Rolls-Royce? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Purosangue, ask whether a normal person can afford one, and tell why Ferrari swore it would never build an SUV. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Purosangue vs Cullinan",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Purosangue vs Cullinan"
   }
  ]
 }

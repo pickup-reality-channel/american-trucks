@@ -9,304 +9,353 @@
    "query": "Ferrari Purosangue",
    "caption": "CAN A NORMAL PERSON AFFORD A FERRARI SUV?",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "We read Cars dot com, Motor1, AOL, Autoevolution, Yahoo's Modern Car Collector, Kelley Blue Book, the Energy Information Administration, the Census Bureau, a Ferrari dealer, and an Italian parts shop. Several of these are estimates, not receipts. We label estimates, and our own arithmetic is always labelled as ours.",
-   "query": "Ferrari Purosangue",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SOURCES: CARS.COM \u00b7 MOTOR1 \u00b7 AOL \u00b7 AUTOEVOLUTION \u00b7 MODERN CAR COLLECTOR (YAHOO) \u00b7 KBB \u00b7 EIA \u00b7 CENSUS \u00b7 A FERRARI DEALER \u00b7 AN ITALIAN PARTS SHOP \u00b7 ESTIMATES ARE LABELLED \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "First, define normal. The Census Bureau reports a median household income of eighty-three thousand, seven hundred thirty dollars for twenty twenty-four. Half of households earn less. By our arithmetic, that is six thousand, nine hundred seventy-eight dollars a month before tax. And Kelley Blue Book says the average new vehicle cost fifty thousand, eighty-nine dollars in August twenty twenty-six.",
-   "query": "The median household",
+   "query": "Ferrari Purosangue rear",
    "caption": "MEDIAN HOUSEHOLD INCOME 2024: $83,730 (CENSUS) \u2248 $6,978/MONTH GROSS (OUR ARITHMETIC) \u00b7 AVERAGE NEW VEHICLE AUG 2026: $50,089 (KBB)",
    "cuts": 5,
-   "chapter": "What does normal mean?"
+   "chapter": "What does normal mean?",
+   "orig_query": "The median household"
   },
   {
    "text": "Now the Ferrari's price. AOL listed the twenty twenty-four Purosangue at three hundred ninety-eight thousand, three hundred fifty dollars, including a five thousand dollar destination charge. Motor1 listed the twenty twenty-five at four hundred twenty-three thousand, six hundred eighty-six. Cars dot com lists the twenty twenty-six at four hundred twenty-three thousand, six hundred thirty-six.",
-   "query": "Purosangue prices",
+   "query": "Ferrari Purosangue",
    "caption": "2024: $398,350 INCL. $5,000 DEST. (AOL) \u00b7 2025: $423,686 (MOTOR1) \u00b7 2026: $423,636 (CARS.COM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Purosangue prices"
   },
   {
    "text": "By our arithmetic, the twenty twenty-six price is five point one years of median household income, and the twenty twenty-four price is four point eight years, before tax. Against the average new vehicle, the twenty twenty-six Ferrari is eight and a half times as expensive. These compare a price with an income, and they ignore tax, savings and everything else.",
-   "query": "Price in incomes",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "$423,636 \u00f7 $83,730 = 5.06 YR \u00b7 $398,350 \u00f7 $83,730 = 4.76 YR \u00b7 $423,636 \u00f7 $50,089 = 8.46\u00d7 (OUR ARITHMETIC; GROSS INCOME, NO TAX)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price in incomes"
   },
   {
    "text": "A way to feel it: spread over sixty months with no interest, by our arithmetic, the twenty twenty-six price would be seven thousand, sixty-one dollars a month. That is a hundred and one percent of the median household's monthly pre-tax income. It is a hypothetical, since nobody lends at zero percent, but it shows the scale.",
-   "query": "Zero-interest payment",
+   "query": "Lamborghini Urus",
    "caption": "$423,636 \u00f7 60 = $7,061/MONTH vs MEDIAN GROSS $6,978/MONTH \u2192 101.2% (OUR ARITHMETIC; HYPOTHETICAL: NO INTEREST, NO TAX)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Zero-interest payment"
   },
   {
    "text": "Compare it with other vehicles in this series. The twenty twenty-seven Ram TRX, at about one hundred two thousand, five hundred ninety dollars delivered, is one point two years of median income. By our arithmetic, the Ferrari is about four times the TRX. And the Rolls-Royce Cullinan, at four hundred twenty-nine thousand, six hundred on Cars dot com, costs about the same as the Ferrari.",
-   "query": "Compared with other series cars",
+   "query": "Rolls-Royce Cullinan",
    "caption": "RAM TRX 2027 $102,590 \u2248 1.2 YR \u00b7 FERRARI $423,636 \u00f7 $102,590 = 4.13\u00d7 \u00b7 CULLINAN $429,600 (CARS.COM) \u2248 5.1 YR (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Compared with other series cars"
   },
   {
    "text": "Options change the number. Motor1's review car cost five hundred six thousand, three hundred five dollars as tested. By our arithmetic, against the twenty twenty-five base, that is eighty-two thousand, six hundred nineteen dollars of extras, nineteen and a half percent. AOL notes that Ferrari buyers often add five or six figures of options.",
-   "query": "Options on the review car",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$506,305 \u2212 $423,686 = $82,619 = +19.5% (MOTOR1; OUR ARITHMETIC) \u00b7 AOL: BUYERS OFTEN ADD 5\u20136 FIGURES OF OPTIONS",
    "cuts": 3,
-   "chapter": "The sticker is not the price"
+   "chapter": "The sticker is not the price",
+   "orig_query": "Options on the review car"
   },
   {
    "text": "A used example shows more. Autoevolution describes a twenty twenty-three Purosangue with an original price of five hundred fifteen thousand, six hundred fifty-five dollars. By our arithmetic, that is one hundred seventeen thousand, three hundred five above the twenty twenty-four starting price in the AOL piece, or twenty-nine and a half percent. The model years differ, so options and price rises cannot be separated.",
-   "query": "A 2023 car's original price",
+   "query": "Ferrari Purosangue",
    "caption": "2023 CAR ORIGINAL PRICE $515,655 (AUTOEVOLUTION) \u2212 $398,350 (AOL 2024 BASE) = $117,305 = +29.4% (OUR ARITHMETIC; MODEL YEARS DIFFER \u2192 OPTIONS vs PRICE RISE NOT SEPARABLE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A 2023 car's original price"
   },
   {
    "text": "An extreme case. Yahoo's Modern Car Collector describes a twenty twenty-six Tailor Made Purosangue on Bring a Trailer, with a total suggested price of eight hundred eighty-four thousand, six hundred forty-six dollars, including nearly three hundred fifty thousand dollars in options. By our arithmetic, that is ten and a half years of median household income.",
-   "query": "A Tailor Made car",
+   "query": "Ferrari Purosangue",
    "caption": "2026 TAILOR MADE: MSRP $884,646 INCL. 'NEARLY $350,000' IN OPTIONS (MODERN CAR COLLECTOR) \u00b7 $884,646 \u00f7 $83,730 = 10.6 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A Tailor Made car"
   },
   {
    "text": "The article's own numbers do not fully add up. By our arithmetic, eight hundred eighty-four thousand, six hundred forty-six minus the four hundred twenty-three thousand, six hundred thirty-six base is four hundred sixty-one thousand, ten dollars. The article accounts for nearly three hundred fifty thousand of it in options. The remaining hundred and eleven thousand or so is not itemised in our source.",
-   "query": "Unexplained difference",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "$884,646 \u2212 $423,636 = $461,010 \u00b7 \u2212 ~$350,000 OPTIONS \u2248 $111,000 NOT ITEMISED (OUR ARITHMETIC; BASE FROM CARS.COM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Unexplained difference"
   },
   {
    "text": "AOL also says its starting price excludes any gas guzzler tax, because the government had not yet classified the car. The Rolls-Royce Cullinan, by comparison, is not exempt from the tax, according to Wikipedia. We found no final tax figure for the Purosangue, so the true cost of a new one may be above these sticker prices.",
-   "query": "Gas guzzler tax",
+   "query": "Rolls-Royce Cullinan",
    "caption": "AOL: PRICE EXCLUDES GAS GUZZLER TAX (CAR NOT YET CLASSIFIED) \u00b7 CULLINAN NOT EXEMPT (WIKIPEDIA) \u00b7 PUROSANGUE FINAL TAX: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gas guzzler tax"
   },
   {
    "text": "AOL republishes a calculation from a YouTube creator, The Economics Man, in a video dated the tenth of September twenty twenty-six. On a four hundred twenty-four thousand dollar price, with twenty percent down, about three hundred thirty-nine thousand is financed. At nine percent over a hundred forty-four months, the monthly payment approaches thirty-eight sixty, and total interest is about two hundred seventeen thousand.",
-   "query": "A loan example",
+   "query": "Ferrari Purosangue",
    "caption": "AOL / 'THE ECONOMICS MAN' (YOUTUBE, 10 SEPT 2026): $424,000 PRICE \u00b7 20% DOWN \u2192 ~$339,000 FINANCED \u00b7 9% \u00b7 144 MONTHS \u2192 ~$3,860/MONTH \u00b7 ~$217,000 INTEREST",
    "cuts": 3,
-   "chapter": "Paying with a loan"
+   "chapter": "Paying with a loan",
+   "orig_query": "A loan example"
   },
   {
    "text": "We checked the arithmetic, and it holds. Twenty percent down is eighty-four thousand, eight hundred dollars, leaving three hundred thirty-nine thousand, two hundred. At nine percent a year over twelve years, our calculation gives a payment of thirty-eight sixty, and about two hundred sixteen thousand, seven hundred in interest. The assumptions of nine percent and twelve years are the creator's, not ours.",
-   "query": "Loan arithmetic checked",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$424,000 \u00d7 20% = $84,800 DOWN \u00b7 $339,200 FINANCED \u00b7 9%/12 MONTHLY RATE, 144 PAYMENTS \u2192 $3,860.20 \u2192 TOTAL INTEREST \u2248 $216,700 (OUR CALCULATION; ASSUMPTIONS ARE THE CREATOR'S)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Loan arithmetic checked"
   },
   {
    "text": "Put that payment next to income. By our arithmetic, thirty-eight sixty a month is fifty-five percent of the median household's monthly pre-tax income. And the down payment of eighty-four thousand, eight hundred is about one year of median household income. Total paid, down payment and loan, comes to about six hundred forty thousand, seven hundred dollars, more than one and a half times the price.",
-   "query": "Loan vs income",
+   "query": "Ferrari Purosangue rear",
    "caption": "$3,860 \u00f7 $6,978 = 55.3% OF MEDIAN GROSS MONTHLY INCOME \u00b7 $84,800 \u2248 1.01 YR OF INCOME \u00b7 $84,800 + $555,869 = $640,669 = 1.51\u00d7 PRICE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Loan vs income"
   },
   {
    "text": "By our arithmetic, the interest alone is about fifty-one percent of the price, or sixty-four percent of the amount borrowed. A different rate or term would change all of this. We have no source for Ferrari's own financing rates, so nine percent is an assumption from a video, not a published offer.",
-   "query": "Interest share",
+   "query": "Ferrari Purosangue interior",
    "caption": "$216,669 \u00f7 $424,000 = 51.1% OF PRICE \u00b7 \u00f7 $339,200 = 63.9% OF LOAN (OUR ARITHMETIC) \u00b7 FERRARI'S OWN RATES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Interest share"
   },
   {
    "text": "Maintenance first. Kelley Blue Book says Ferrari's factory maintenance program covers scheduled servicing for the first seven years. Its schedule lists oil and filter, a brake inspection, belts, and spark plugs at year four. KBB gives no prices of its own, only that some dealers charge eight hundred, twelve hundred and nineteen ninety-five dollars for vehicles beyond the program.",
-   "query": "Seven-year program",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "KBB: FACTORY MAINTENANCE COVERS 7 YEARS \u00b7 SPARK PLUGS + BELT AT YEAR 4 / 37,500 MI \u00b7 BEYOND PROGRAM, SOME DEALERS CHARGE $800 / $1,200 / $1,995 (KBB; INTERVALS NOT SPECIFIED)",
    "cuts": 3,
-   "chapter": "Running costs"
+   "chapter": "Running costs",
+   "orig_query": "Seven-year program"
   },
   {
    "text": "A Ferrari dealer in Illinois, Lake Forest Sportscars, publishes general figures for its brand, not specific to the Purosangue. After the seven-year program, annual maintenance runs fifteen hundred to three thousand dollars. Milestone services run thirty-five hundred to seven thousand. Tyres are twelve hundred to thirty-five hundred a set. A full rotor-and-pad job on carbon-ceramic brakes is twenty-five to sixty thousand.",
-   "query": "Dealer figures",
+   "query": "Ferrari Purosangue",
    "caption": "LAKE FOREST SPORTSCARS (DEALER, APRIL 2026), GENERAL FERRARI FIGURES: ANNUAL MAINT $1,500\u20133,000 AFTER 7 YR \u00b7 MILESTONES $3,500\u20137,000 \u00b7 TYRES $1,200\u20133,500/SET \u00b7 FULL BRAKE JOB $25,000\u201360,000 \u00b7 NO PUROSANGUE FIGURES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Dealer figures"
   },
   {
    "text": "An Italian parts shop, Autoricambi Tritella, gives estimates for the Purosangue in euros. Insurance, ten to fifteen thousand a year. Annual service, fifteen hundred to three thousand. A tyre set, twenty-five hundred to four thousand, lasting ten to fifteen thousand kilometres. Carbon-ceramic brakes, up to twenty thousand. Major engine or gearbox work, ten to thirty thousand. These are the shop's estimates with no stated method.",
-   "query": "Parts shop estimates",
+   "query": "Ferrari Purosangue",
    "caption": "AUTORICAMBI TRITELLA (ITALIAN PARTS RETAILER), EUROS: INSURANCE \u20ac10\u201315K \u00b7 SERVICE \u20ac1.5\u20133K \u00b7 TYRES \u20ac2.5\u20134K PER 10\u201315K KM \u00b7 CERAMIC BRAKES UP TO \u20ac20K \u00b7 MAJOR WORK \u20ac10\u201330K \u00b7 'ESTIMATES', NO METHOD",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Parts shop estimates"
   },
   {
    "text": "The shop's own total is about forty to fifty thousand euros a year, not including significant extra work on brakes or engine. It also assumes fuel consumption of fifteen to eighteen litres per hundred kilometres. By our arithmetic, that is eight to twenty-four percent less than the nineteen point six litres of the American combined rating, so its fuel line may be low.",
-   "query": "Shop total and fuel",
+   "query": "Rolls-Royce Cullinan",
    "caption": "SHOP TOTAL ~\u20ac40,000\u201350,000/YEAR, EXCLUDING BIG BRAKE/ENGINE JOBS \u00b7 ASSUMES 15\u201318 L/100 KM vs EPA 19.6 \u2192 \u22128% TO \u221223% (OUR ARITHMETIC) \u00b7 SHOP'S TABLE IS LABELLED 2024 BUT DATED 2025\u20132026",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Shop total and fuel"
   },
   {
    "text": "Insurance has three published estimates. AOL's creator says five to twelve thousand dollars a year. The Italian shop says ten to fifteen thousand euros. The Ferrari dealer's general figure for most models is three thousand to seventy-eight hundred dollars, which it does not apply to the Purosangue. None is an insurer's quote, and the right number depends on the driver, the state, and the car's agreed value.",
-   "query": "Insurance estimates",
+   "query": "Ferrari Purosangue",
    "caption": "CREATOR (AOL): $5,000\u201312,000/YEAR \u00b7 SHOP: \u20ac10,000\u201315,000 \u00b7 DEALER (GENERAL): $3,000\u20137,800 FOR MOST MODELS \u00b7 NONE IS AN INSURER'S QUOTE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Insurance estimates"
   },
   {
    "text": "Fuel is simple to compute. The rating is twelve miles per gallon combined, and the Energy Information Administration says regular gasoline averaged four dollars, twenty-eight cents for the week of the nineteenth of October. By our arithmetic, three thousand miles a year is two hundred fifty gallons and about one thousand seventy-one dollars. Ten thousand miles is thirty-five seventy, and fifteen thousand is fifty-three fifty-five.",
-   "query": "Fuel cost",
+   "query": "Ferrari Purosangue interior",
    "caption": "12 MPG \u00b7 $4.284/GAL (EIA, 19 OCT 2026) \u00b7 3,000 MI = 250 GAL = $1,071 \u00b7 10,000 MI = 833 GAL = $3,570 \u00b7 15,000 MI = 1,250 GAL = $5,355 (OUR ARITHMETIC; REGULAR PRICE; FUEL GRADE NOT IN SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel cost"
   },
   {
    "text": "Storage and care, again from the Ferrari dealer's general figures: climate-controlled storage of two hundred to six hundred dollars a month, and detailing of five hundred to fifteen hundred a quarterly session. By our arithmetic, storage alone is twenty-four hundred to seventy-two hundred dollars a year, for owners who pay for it. The dealer's page gives no Purosangue figures.",
-   "query": "Storage and detailing",
+   "query": "Ferrari Purosangue",
    "caption": "DEALER (GENERAL): STORAGE $200\u2013600/MONTH \u2192 $2,400\u20137,200/YEAR (OUR ARITHMETIC) \u00b7 DETAILING $500\u20131,500 PER QUARTERLY SESSION \u00b7 NOT PUROSANGUE-SPECIFIC",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Storage and detailing"
   },
   {
    "text": "The headline claim in the AOL article is that owning a Ferrari could cost about fifty thousand dollars a year when depreciation and operating expenses are combined. It comes from the creator's example for the Purosangue, not from a survey. His operating cost after the maintenance period is fifteen to thirty thousand a year, plus insurance of five to twelve thousand.",
-   "query": "The fifty thousand dollar claim",
+   "query": "Ferrari Purosangue",
    "caption": "AOL: 'ABOUT $50,000 A YEAR' DEPRECIATION + OPERATING COSTS (CREATOR'S EXAMPLE, NOT A SURVEY) \u00b7 OPERATING $15,000\u201330,000/YEAR AFTER MAINTENANCE PERIOD \u00b7 INSURANCE $5,000\u201312,000",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The fifty thousand dollar claim"
   },
   {
    "text": "By our arithmetic, operating cost plus insurance is twenty thousand to forty-two thousand dollars a year. That is twenty-four to fifty percent of a median household's income, before the car loses any value. And if the headline fifty thousand is the total, depreciation in that example would be roughly eight to thirty thousand a year. The creator does not break it down.",
-   "query": "Running cost vs income",
+   "query": "Ferrari Purosangue",
    "caption": "$15K+$5K = $20,000 \u00b7 $30K+$12K = $42,000/YEAR = 23.9%\u201350.2% OF $83,730 \u00b7 $50,000 \u2212 $20\u201342K \u2248 $8\u201330K DEPRECIATION IMPLIED (OUR ARITHMETIC; CREATOR GIVES NO BREAKDOWN)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Running cost vs income"
   },
   {
    "text": "The creator also says that at three thousand miles a year, fifty thousand dollars works out to about seventeen dollars a mile. By our arithmetic, fifty thousand over three thousand is sixteen dollars sixty-seven. For comparison, fuel at twelve miles per gallon is about thirty-six cents a mile, so on this example fuel is a small part of the cost per mile.",
-   "query": "Cost per mile",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$50,000 \u00f7 3,000 MI = $16.67/MI (CREATOR: ~$17) \u00b7 FUEL $4.284 \u00f7 12 = $0.357/MI = 2.1% OF THAT (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cost per mile"
   },
   {
    "text": "Depreciation is the biggest unknown. Autoevolution reports on a twenty twenty-three Purosangue with seven thousand, five hundred seventy-four miles, offered on Bring a Trailer in July twenty twenty-six. The highest bid was four hundred forty-three thousand, five hundred dollars, below the seller's undisclosed reserve. The car's original price was five hundred fifteen thousand, six hundred fifty-five.",
-   "query": "A used Purosangue",
+   "query": "Ferrari Purosangue",
    "caption": "2023 PUROSANGUE, 7,574 MI, BRING A TRAILER, JULY 2026: TOP BID $443,500 (BELOW UNDISCLOSED RESERVE) vs ORIGINAL PRICE $515,655 (AUTOEVOLUTION, 8 JULY 2026)",
    "cuts": 3,
-   "chapter": "What it is worth later"
+   "chapter": "What it is worth later",
+   "orig_query": "A used Purosangue"
   },
   {
    "text": "By our arithmetic, the top bid is seventy-two thousand, one hundred fifty-five dollars, or fourteen percent, below the original price. The author speculates that the reserve was four hundred fifty thousand or more. Even at four hundred fifty thousand, the car would have sold for about twelve and a half percent under its original price after roughly three years.",
-   "query": "Used vs original",
+   "query": "Ferrari Purosangue interior",
    "caption": "$515,655 \u2212 $443,500 = $72,155 = 14.0% \u00b7 AT $450,000 RESERVE: \u2212$65,655 = 12.7% (OUR ARITHMETIC; AUTHOR SPECULATES RESERVE \u2265 $450,000)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Used vs original"
   },
   {
    "text": "If we spread seventy-two thousand over roughly three years, by our arithmetic, that is about twenty-four thousand dollars a year. That sits inside the eight-to-thirty-thousand range implied by the creator's fifty thousand dollar figure. It is one car, with an unknown delivery date, so it is an illustration and not a depreciation rate.",
-   "query": "Depreciation per year",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "$72,155 \u00f7 ~3 YEARS \u2248 $24,000/YEAR (OUR ARITHMETIC; ONE CAR; DELIVERY DATE NOT GIVEN) \u00b7 CONSISTENT WITH IMPLIED ~$8\u201330K",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Depreciation per year"
   },
   {
    "text": "The Tailor Made car shows the risk of options. At the time of writing, its bid on Bring a Trailer was five hundred thirty-seven thousand dollars, against a suggested price of eight hundred eighty-four thousand, six hundred forty-six. By our arithmetic, that is three hundred forty-seven thousand, six hundred forty-six lower, thirty-nine percent. It had only fifty miles, and the auction closed on the twenty-eighth of September.",
-   "query": "Tailor Made bid",
+   "query": "Lamborghini Urus",
    "caption": "2026 TAILOR MADE, 50 MI, NO RESERVE: BID $537,000 vs MSRP $884,646 \u2192 \u2212$347,646 = \u221239.3% (OUR ARITHMETIC) \u00b7 BID WAS 'AT TIME OF WRITING'; FINAL PRICE NOT IN OUR SOURCE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tailor Made bid"
   },
   {
    "text": "The bid was still higher than the base price. By our arithmetic, five hundred thirty-seven thousand is a hundred thirteen thousand, three hundred sixty-four above the twenty twenty-six base of four hundred twenty-three thousand, six hundred thirty-six, or twenty-seven percent. So the market paid something for the extras, but not close to what they cost. The final price is not in our source.",
-   "query": "Bid vs base",
+   "query": "Ferrari Purosangue",
    "caption": "$537,000 \u2212 $423,636 = $113,364 = +26.8% ABOVE BASE (OUR ARITHMETIC) \u00b7 EXTRAS (~$350K LISTED) RECOVERED ONLY IN PART \u00b7 FINAL BID NOT IN OUR SOURCE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bid vs base"
   },
   {
    "text": "Autoevolution's author, who is an opinion writer, expects all the Purosangues to sell below their original price in the used market, because they lack special features, and says the Urus, Cayenne and Bentayga are better practical SUVs. That is an opinion, not a measurement. But the one reported bid agrees with the direction, at least for a car that is not a limited edition.",
-   "query": "Opinion on resale",
+   "query": "Lamborghini Urus",
    "caption": "AUTOEVOLUTION AUTHOR (8 JULY 2026): EXPECTS ALL TO SELL BELOW ORIGINAL PRICE; CALLS URUS/CAYENNE/BENTAYGA BETTER PRACTICAL SUVs (OPINION) \u00b7 ONE REPORTED BID IS CONSISTENT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Opinion on resale"
   },
   {
    "text": "A normal person buying used faces the same scale. By our arithmetic, four hundred forty-three thousand, five hundred dollars is five point three years of median household income. A used car with almost eight thousand miles is still a very large purchase. And a bid is not a sale: this car did not sell.",
-   "query": "Used price in incomes",
+   "query": "Ferrari Purosangue rear",
    "caption": "$443,500 \u00f7 $83,730 = 5.30 YEARS (OUR ARITHMETIC) \u00b7 BID DID NOT MEET RESERVE \u2192 NO SALE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Used price in incomes"
   },
   {
    "text": "There is a second barrier that money may not solve. Robb Report says Ferrari closed the Purosangue's order book about two and a half months after its debut, with a waiting list of roughly two years. Ferrari says the model will not exceed twenty percent of its output. Motor1 reported order books covered the whole of twenty twenty-five.",
-   "query": "Allocation",
+   "query": "Ferrari Purosangue",
    "caption": "ROBB REPORT: ORDER BOOK CLOSED ~2.5 MONTHS AFTER DEBUT, ~2-YEAR WAIT \u00b7 CAP 20% OF OUTPUT \u00b7 MOTOR1: ORDER BOOK COVERED ALL OF 2025",
    "cuts": 3,
-   "chapter": "Access and scarcity"
+   "chapter": "Access and scarcity",
+   "orig_query": "Allocation"
   },
   {
    "text": "By our arithmetic, twenty percent of Ferrari's thirteen thousand, six hundred forty deliveries in twenty twenty-five is at most twenty-seven hundred twenty-eight cars worldwide. Our sources do not say how Ferrari decides who may buy one, or whether new orders are open today. So even with the money, a buyer's access is not guaranteed by anything we found.",
-   "query": "Who gets one",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "20% \u00d7 13,640 = 2,728 MAX (OUR ARITHMETIC; AUTOHLED) \u00b7 ALLOCATION RULES / CURRENT ORDER STATUS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Who gets one"
   },
   {
    "text": "Now combine the loan with the running costs. The loan example gives thirty-eight sixty a month. The operating and insurance range from the creator is twenty to forty-two thousand a year. By our arithmetic, that is sixteen sixty-seven to thirty-five hundred dollars a month. Together, five thousand, five hundred twenty-seven to seven thousand, three hundred sixty dollars a month, before depreciation.",
-   "query": "Loan plus running costs",
+   "query": "Lamborghini Urus",
    "caption": "LOAN $3,860 + RUNNING $1,667\u2013$3,500/MONTH = $5,527\u2013$7,360/MONTH (OUR ARITHMETIC; CREATOR'S RANGES; EXCLUDES DEPRECIATION, TAX, FUEL)",
    "cuts": 3,
-   "chapter": "Putting the pieces together"
+   "chapter": "Putting the pieces together",
+   "orig_query": "Loan plus running costs"
   },
   {
    "text": "Against the median household's six thousand, nine hundred seventy-eight dollars a month before tax, by our arithmetic, that is seventy-nine percent at the low end and one hundred five percent at the high end. These figures use gross income, so take-home pay would make the share larger. It is an illustration of scale, not a budget for any real household.",
-   "query": "Share of median income",
+   "query": "Ferrari Purosangue",
    "caption": "$5,527 \u00f7 $6,978 = 79.2% \u00b7 $7,360 \u00f7 $6,978 = 105.5% OF MEDIAN GROSS MONTHLY INCOME (OUR ARITHMETIC; BEFORE TAX; ILLUSTRATION ONLY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Share of median income"
   },
   {
    "text": "Look inside the first loan payment. At nine percent a year, the monthly rate is zero point seven five percent. On three hundred thirty-nine thousand, two hundred dollars, by our arithmetic, the first month's interest is twenty-five forty-four. That is about sixty-six percent of the thirty-eight sixty payment. Only about thirteen hundred sixteen dollars reduces what is owed.",
-   "query": "First payment",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$339,200 \u00d7 0.75% = $2,544 INTEREST IN MONTH 1 \u00b7 $2,544 \u00f7 $3,860 = 65.9% \u00b7 ~$1,316 PRINCIPAL (OUR ARITHMETIC; CREATOR'S 9% / 144-MONTH ASSUMPTIONS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "First payment"
   },
   {
    "text": "One brake job deserves its own comparison. The Ferrari dealer's general range for a full carbon-ceramic rotor and pad job is twenty-five to sixty thousand dollars. By our arithmetic, that is thirty to seventy-two percent of a year of median household income, for one repair. The Italian shop says up to twenty thousand euros. The two sources disagree widely, and neither is a quote.",
-   "query": "One brake job",
+   "query": "Ferrari Purosangue rear",
    "caption": "DEALER (GENERAL FERRARI): $25,000\u201360,000 = 29.9%\u201371.7% OF $83,730 (OUR ARITHMETIC) \u00b7 ITALIAN SHOP: UP TO \u20ac20,000 \u00b7 NEITHER IS A QUOTE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "One brake job"
   },
   {
    "text": "How does the headline figure compare with a truck we have covered? Edmunds estimated five years of ownership of a twenty twenty-three Ram TRX at one hundred two thousand, two hundred eight dollars, including depreciation, fuel, insurance and repairs. By our arithmetic, five years of the Ferrari example at fifty thousand a year is two hundred fifty thousand, about two and a half times that. The methods differ, so this is a rough comparison.",
-   "query": "Ferrari example vs a TRX",
+   "query": "Ferrari Purosangue interior",
    "caption": "EDMUNDS 5-YR TRUE COST TO OWN, 2023 RAM TRX: $102,208 \u00b7 FERRARI EXAMPLE $50,000 \u00d7 5 = $250,000 \u00b7 $250,000 \u00f7 $102,208 = 2.45\u00d7 (OUR ARITHMETIC; DIFFERENT METHODS AND CARS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari example vs a TRX"
   },
   {
    "text": "Price per horsepower is another way to see what the money buys. The Purosangue has seven hundred fifteen horsepower, according to Wikipedia. By our arithmetic, its twenty twenty-six base price is about five hundred ninety-two dollars per horsepower. The Cullinan has five hundred sixty-three horsepower, and at four hundred twenty-nine thousand, six hundred it is about seven hundred sixty-three dollars per horsepower.",
-   "query": "Price per horsepower",
+   "query": "Rolls-Royce Cullinan",
    "caption": "FERRARI $423,636 \u00f7 715 HP = $592/HP \u00b7 CULLINAN $429,600 \u00f7 563 HP = $763/HP (OUR ARITHMETIC; HP FROM WIKIPEDIA; PRICES FROM CARS.COM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price per horsepower"
   },
   {
    "text": "The two prices are close. By our arithmetic, the Cullinan costs one point four percent more than the Purosangue, about five thousand nine hundred sixty-four dollars. For a buyer asking about affordability, the rival does not change the answer. Both sit at roughly five years of median household income, which is why the video comparing them is a different question from this one.",
-   "query": "Rival price gap",
+   "query": "Rolls-Royce Cullinan",
    "caption": "$429,600 \u2212 $423,636 = $5,964 = +1.4% (CARS.COM; OUR ARITHMETIC) \u00b7 BOTH \u2248 5.1 YEARS OF MEDIAN INCOME",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rival price gap"
   },
   {
    "text": "Fuel deserves a last note. At twelve miles per gallon, the Ferrari uses a gallon every twelve miles. By our arithmetic, five years at fifteen thousand miles a year is sixty-two hundred fifty gallons and twenty-six thousand, seven hundred seventy-five dollars at today's price. Edmunds reports thirty-eight thousand dollars of fuel for the TRX over five years, but we do not have its mileage assumption in our notes.",
-   "query": "Five years of fuel",
+   "query": "Ferrari Purosangue",
    "caption": "12 MPG \u00b7 15,000 MI \u00d7 5 = 75,000 MI = 6,250 GAL \u00d7 $4.284 = $26,775 (OUR ARITHMETIC; TODAY'S PRICE, REGULAR GRADE) \u00b7 EDMUNDS TRX FUEL $38,093 (MILEAGE ASSUMPTION NOT IN OUR NOTES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Five years of fuel"
   },
   {
    "text": "Weight and fuel go together. Wikipedia lists the Purosangue's kerb weight as twenty-one hundred seventy kilograms, or forty-seven eighty-four pounds. Cars dot com lists the base curb weight at forty-eight fifty. These are close, and the difference of sixty-six pounds, by our arithmetic, is under one and a half percent. Neither number includes passengers or luggage.",
-   "query": "Weight",
+   "query": "Ferrari Purosangue",
    "caption": "WIKIPEDIA 2,170 KG = 4,784 LB \u00b7 CARS.COM 4,850 LB \u00b7 DIFFERENCE 66 LB = 1.4% (OUR ARITHMETIC; CURB WEIGHT, NO PASSENGERS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight"
   },
   {
    "text": "And the engine matters for cost. Wikipedia lists a six point five litre V twelve making seven hundred fifteen horsepower, with an eight-speed dual-clutch gearbox. Our sources say nothing about how many miles that engine and gearbox last, or what a failure costs, which is exactly the number a buyer of an older car would want. The shop's ten-to-thirty-thousand-euro range for major work is its only figure.",
-   "query": "Engine and gearbox",
+   "query": "Ferrari Purosangue rear",
    "caption": "6.5 L V12 \u00b7 715 HP \u00b7 8-SPEED DCT (WIKIPEDIA) \u00b7 ENGINE/GEARBOX LIFE AND FAILURE COST: NOT IN OUR SOURCES \u00b7 ONLY FIGURE: SHOP \u20ac10,000\u201330,000 FOR MAJOR WORK",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Engine and gearbox"
   },
   {
    "text": "So can a normal person afford a Ferrari SUV? On published numbers, the sticker is about five years of a median household's pre-tax income. A twelve-year loan at the creator's assumptions costs more than half of monthly pre-tax income. And estimates of running costs run from twenty to forty-two thousand dollars a year before depreciation. By these figures, not on a median income.",
-   "query": "Ferrari Purosangue",
+   "query": "Ferrari Purosangue interior",
    "caption": "STICKER \u2248 5.1 YR OF MEDIAN INCOME \u00b7 LOAN EXAMPLE \u2248 55% OF MONTHLY GROSS \u00b7 RUNNING COSTS $20,000\u201342,000/YEAR (OUR ARITHMETIC FROM PUBLISHED ESTIMATES)",
    "cuts": 3,
-   "chapter": "The honest answer"
+   "chapter": "The honest answer",
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "We should be careful about what that means. We are not giving financial advice, and we are not saying that anyone should or should not buy one. The numbers show scale. Some buyers earn far more than the median, and our sources say nothing about Ferrari's customers. The question has an answer for each household, and it depends on things we do not know.",
-   "query": "Ferrari Purosangue",
+   "query": "Rolls-Royce Cullinan interior",
    "caption": "NOT FINANCIAL ADVICE \u00b7 NUMBERS SHOW SCALE ONLY \u00b7 FERRARI CUSTOMER INCOME/PROFILE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "What is missing. A Ferrari price list for Purosangue maintenance beyond year seven. An insurer's quote. A published depreciation curve. The final price of the Tailor Made car. Ferrari's own financing offers. And any figure for the Purosangue's gas guzzler tax. Every running-cost number in this video is an estimate from someone with an interest in the answer.",
    "query": "Ferrari Purosangue",
    "caption": "NOT IN OUR SOURCES: POST-YEAR-7 SERVICE PRICE LIST \u00b7 INSURER'S QUOTE \u00b7 DEPRECIATION CURVE \u00b7 FINAL TAILOR MADE PRICE \u00b7 FERRARI FINANCING OFFERS \u00b7 GAS GUZZLER TAX AMOUNT",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Ferrari Purosangue"
   },
   {
    "text": "If you own a Purosangue, or have a published bill, share it in the comments, and we will update the description. What is the most you would spend on a car? In the other videos of this series, we reveal two things you did not know about the Purosangue, compare it with the Cullinan, and tell why Ferrari swore it would never build an SUV. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
    "query": "Ferrari Purosangue",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ferrari Purosangue"
   }
  ]
 }

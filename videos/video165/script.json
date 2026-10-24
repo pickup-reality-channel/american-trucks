@@ -6,306 +6,355 @@
  "scenes": [
   {
    "text": "The Lamborghini Aventador SVJ has a rear wing that is designed to stall on purpose, and a production count that two sources cannot agree on. It also set a N\u00fcrburgring record that is quoted three slightly different ways. Two things most people do not know about the Aventador SVJ, with every figure sourced and every disagreement shown.",
-   "query": "Aventador SVJ",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE LAMBORGHINI AVENTADOR SVJ",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Aventador SVJ"
   },
   {
    "text": "Our sources are Wikipedia's Aventador and Hurac\u00e1n pages, an IEEE Spectrum review, an Autocar road test republished by Yahoo, Auto Bild from September twenty eighteen, and the cost pages we flag as weaker. They disagree on weight, price, power and production. We show each version. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "SOURCES: WIKIPEDIA \u00b7 IEEE SPECTRUM \u00b7 AUTOCAR (VIA YAHOO) \u00b7 AUTO BILD (19 SEP 2018) \u00b7 AUTOMONITOR (UNSOURCED, FLAGGED) \u00b7 DISAGREEMENTS SHOWN \u00b7 OUR ARITHMETIC LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "Thing one. The SVJ's active aerodynamics, which Lamborghini calls ALA. Wikipedia says the SVJ is the first production V12 Lamborghini to have it. It includes a disconnected front splitter, a bonnet air outlet, a large carbon rear wing with a central fin, underbody vortex generators and a big rear diffuser.",
-   "query": "ALA",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: SVJ = FIRST PRODUCTION V12 LAMBORGHINI WITH ALA \u00b7 DISCONNECTED FRONT SPLITTER \u00b7 BONNET AIR OUTLET \u00b7 CARBON REAR WING WITH CENTRAL FIN \u00b7 UNDERBODY VORTEX GENERATORS \u00b7 LARGE REAR DIFFUSER",
    "cuts": 5,
-   "chapter": "Thing one: the wing that stalls on purpose"
+   "chapter": "Thing one: the wing that stalls on purpose",
+   "orig_query": "ALA"
   },
   {
    "text": "IEEE Spectrum explains the trick. The wing is made of a polymer stiffened with carbon fibre, which allows hollow internal air channels. When ALA is active, the wing stalls and drag drops, which helps acceleration. That is the sense in which the wing stalls on purpose: it gives up downforce to cut drag when the car does not need grip.",
-   "query": "Stall on purpose",
+   "query": "Lamborghini Aventador SVJ rear",
    "caption": "IEEE SPECTRUM: WING = POLYMER STIFFENED WITH CARBON FIBRE, HOLLOW INTERNAL AIR CHANNELS \u00b7 WHEN ALA IS ACTIVE THE WING STALLS AND DRAG DROPS, AIDING ACCELERATION \u00b7 'GIVES UP DOWNFORCE TO CUT DRAG' = OUR PARAPHRASE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Stall on purpose"
   },
   {
    "text": "Auto Bild, in September twenty eighteen, describes the same system more simply. Front flaps closed give maximum downforce. Front flaps open give lower drag, for higher top speed and acceleration. The enlarged rear wing is part of the system, and the roadster would later get an update called ALA two point oh.",
-   "query": "Flaps",
+   "query": "Lamborghini Hurac\u00e1n STO rear",
    "caption": "AUTO BILD (19 SEP 2018): FRONT FLAPS CLOSED = MAX DOWNFORCE; OPEN = LOWER DRAG \u00b7 ENLARGED REAR WING PART OF THE SYSTEM \u00b7 ROADSTER LATER GETS 'ALA 2.0'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Flaps"
   },
   {
    "text": "Wikipedia says the system works with a second-generation control unit, called LDVA two point oh, that adjusts the car every half a second. IEEE Spectrum adds that above seventy-one kilometres per hour, the rear flaps open and close independently when turning, to adjust downforce on each side and help the car rotate through corners. Adjustments take under half a second.",
-   "query": "Aero vectoring",
+   "query": "Lamborghini Aventador interior",
    "caption": "WIKIPEDIA: LDVA 2.0 ADJUSTS THE CAR EVERY 0.5 S \u00b7 IEEE SPECTRUM: ABOVE 71 KM/H (44 MPH) REAR FLAPS OPEN/CLOSE INDEPENDENTLY IN TURNS; ADJUSTMENTS < 0.5 S",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aero vectoring"
   },
   {
    "text": "Both numbers are the same speed, by our arithmetic: seventy-one kilometres per hour is forty-four miles per hour. IEEE gives both. The key idea is that the wing acts on each side of the car separately, a form of torque vectoring through air. Auto Bild notes the car has no conventional torque vectoring, because the engineer cited brake overheating as the reason.",
-   "query": "Air as torque vectoring",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "71 KM/H = 44.1 MPH (OUR CONVERSION; IEEE GIVES BOTH) \u00b7 AUTO BILD: NO TORQUE VECTORING \u2014 ENGINEER CITED BRAKE OVERHEATING \u00b7 'A FORM OF TORQUE VECTORING THROUGH AIR' = OUR ANALOGY, NOT A SOURCE CLAIM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Air as torque vectoring"
   },
   {
    "text": "How much extra downforce? Here the sources disagree. Wikipedia says forty percent more downforce than the Aventador SV and one percent lower drag coefficient. IEEE Spectrum says a thirty percent gain in downforce over the SV, much of it from ALA two point oh. By our arithmetic, the two claims differ by ten percentage points. Neither source explains why.",
-   "query": "Downforce conflict",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "WIKIPEDIA: +40% DOWNFORCE vs SV, DRAG COEFFICIENT 1% LOWER \u00b7 IEEE SPECTRUM: +30% vs SV \u00b7 DIFFERENCE 10 PERCENTAGE POINTS (OUR ARITHMETIC) \u00b7 REASON: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Downforce conflict"
   },
   {
    "text": "The rest of the chassis supports the aero. IEEE Spectrum lists rear-wheel steering, an all-wheel-drive system that can switch to rear-wheel-only mode, and magnetorheological dampers at all four corners. Auto Bild says that in Sport mode, eighty percent of the power goes to the rear axle. These details describe a car designed to be driven at its limit.",
-   "query": "The chassis",
+   "query": "Lamborghini Aventador",
    "caption": "IEEE SPECTRUM: REAR-WHEEL STEERING \u00b7 AWD THAT CAN GO RWD-ONLY \u00b7 MAGNETORHEOLOGICAL DAMPERS \u00b7 AUTO BILD: SPORT MODE 80% OF POWER TO REAR AXLE \u00b7 'DESIGNED TO BE DRIVEN AT ITS LIMIT' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The chassis"
   },
   {
    "text": "Pirelli developed an exclusive tyre compound, IEEE says, in twenty-inch front and twenty-one-inch rear sizes. Auto Bild says the record lap used the optional Pirelli P Zero Trofeo R tyres. So the standard car's tyres and the record car's tyres may not be the same, though neither source says what the standard fitment was in the record run.",
-   "query": "Tyres",
+   "query": "Lamborghini Aventador SVJ rear",
    "caption": "IEEE SPECTRUM: EXCLUSIVE PIRELLI COMPOUND, 20 IN FRONT / 21 IN REAR \u00b7 AUTO BILD: RECORD SETUP USED OPTIONAL PIRELLI P ZERO TROFEO R TYRES \u00b7 WHETHER STANDARD TYRES DIFFER FROM THE RECORD TYRES: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyres"
   },
   {
    "text": "The N\u00fcrburgring lap. Wikipedia: six minutes forty-four point nine seven, in July twenty eighteen, driven by Marco Mapelli, beating the Porsche nine eleven GT2 RS. Auto Bild gives the same time and says Lamborghini calls it the record for road-legal production cars, beating the GT2 RS's six forty-seven point three by about two seconds. Autocar repeats the time.",
-   "query": "The record",
+   "query": "N\u00fcrburgring Nordschleife",
    "caption": "WIKIPEDIA: 6:44.97, JULY 2018, MARCO MAPELLI, BEAT THE 911 GT2 RS \u00b7 AUTO BILD: 'RECORD FOR ROAD-LEGAL PRODUCTION CARS, ACCORDING TO LAMBORGHINI'; GT2 RS 6:47.3 \u00b7 AUTOCAR: SAME TIME",
    "cuts": 3,
-   "chapter": "The lap"
+   "chapter": "The lap",
+   "orig_query": "The record"
   },
   {
    "text": "By our arithmetic, six forty-seven point three minus six forty-four point nine seven is two point three three seconds. That is about zero point six percent of the lap. Autocar compares it with the Hurac\u00e1n Performante's six fifty-two point oh one, which the SVJ beat by seven point oh four seconds, or one point eight percent.",
-   "query": "How big a margin",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "6:47.3 \u2212 6:44.97 = 2.33 S (0.58%) \u00b7 6:52.01 \u2212 6:44.97 = 7.04 S (1.77%) (OUR ARITHMETIC; AUTO BILD, AUTOCAR, WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How big a margin"
   },
   {
    "text": "IEEE Spectrum goes further. It says the SVJ's lap was about a minute faster than its predecessor and calls it the fastest production car ever tested on that circuit. Those are the outlet's wording. Wikipedia's note about the Hurac\u00e1n says only that the Performante prototype did six fifty-two point oh one and the GT2 RS later did six forty-seven point three.",
-   "query": "Predecessor",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "IEEE SPECTRUM: 'ABOUT A MINUTE FASTER THAN ITS PREDECESSOR'; 'FASTEST PRODUCTION CAR EVER TESTED' ON THAT CIRCUIT (OUTLET'S WORDING) \u00b7 WIKIPEDIA (HURAC\u00c1N): PERFORMANTE PROTOTYPE 6:52.01; 911 GT2 RS 6:47.3",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Predecessor"
   },
   {
    "text": "A caution about records. Lamborghini calls this a record for road-legal production cars, in Auto Bild's account, and the record is tied to specific tyres and conditions. Our sources do not list whether the lap was later beaten. We have no information about later laps by other cars, and we do not claim the time still stands today.",
-   "query": "Still a record?",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "AUTO BILD: RECORD CLAIM IS LAMBORGHINI'S; TIED TO OPTIONAL TROFEO R TYRES \u00b7 LATER LAPS BY OTHER CARS: NOT IN OUR SOURCES \u2192 WE DO NOT CLAIM THE RECORD STANDS TODAY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Still a record?"
   },
   {
    "text": "The IEEE Spectrum author drove the car at Circuito do Estoril and reached two hundred eighty kilometres per hour, which is one hundred seventy-four miles per hour. The author did not reach the claimed three hundred fifty top speed, which is two hundred seventeen miles per hour, and the article does not say why. It is a reminder that claims and drives are different things.",
-   "query": "Estoril",
+   "query": "Lamborghini Aventador",
    "caption": "IEEE SPECTRUM: AUTHOR REACHED 280 KM/H (174 MPH) AT CIRCUITO DO ESTORIL \u00b7 CLAIMED TOP SPEED 350 KM/H (217 MPH) \u00b7 280 \u00f7 350 = 80% (OUR ARITHMETIC) \u00b7 REASON NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Estoril"
   },
   {
    "text": "Thing two. The SVJ's own figures differ between sources. Start with the weight. Wikipedia says one thousand five hundred twenty-five kilograms dry and seventeen seventy with fluids in the United States. Autocar says a claimed kerb weight of fifteen twenty-five without fluids and seventeen seventy as tested. Auto Bild says fifteen twenty-five, fifteen thirty-five and over sixteen hundred.",
-   "query": "Weights",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: 1,525 KG DRY; 1,770 KG WITH FLUIDS (U.S.) \u00b7 AUTOCAR: 1,525 KG CLAIMED, WITHOUT FLUIDS; 1,770 KG AS TESTED \u00b7 AUTO BILD: 1,525 KG ('GESCH\u00d6NT' DRY), 1,535 KG EMPTY, 'OVER 1,600 KG' \u00b7 WIKIPEDIA TABLE: 1,525\u20131,575 KG RANGE",
    "cuts": 3,
-   "chapter": "Thing two: the numbers nobody agrees on"
+   "chapter": "Thing two: the numbers nobody agrees on",
+   "orig_query": "Weights"
   },
   {
    "text": "By our arithmetic, the gap between dry and tested weights is two hundred forty-five kilograms, sixteen percent more. That is a large difference for the same car. Auto Bild's own description of the dry figure as flattering is one outlet's view. Power to weight depends on which you use, as the next scene shows.",
-   "query": "Weight gap",
+   "query": "Lamborghini Hurac\u00e1n STO rear",
    "caption": "1,770 \u2212 1,525 = 245 KG (+16.1%) (OUR ARITHMETIC) \u00b7 AUTO BILD 'GESCH\u00d6NT' = 'FLATTERING' (OUTLET'S VIEW)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight gap"
   },
   {
    "text": "Power to weight, by our arithmetic. With seven hundred fifty-nine horsepower and fifteen twenty-five kilograms, it is zero point four nine eight horsepower per kilogram, which matches Autocar's claim of four ninety-eight per tonne. With the tested seventeen seventy, it is zero point four two nine. The difference is fourteen percent, from the weight alone.",
-   "query": "Power to weight",
+   "query": "Lamborghini Aventador interior",
    "caption": "759 \u00f7 1,525 = 0.498 HP/KG (AUTOCAR CLAIM: 498 BHP/TONNE) \u00b7 759 \u00f7 1,770 = 0.429 HP/KG \u00b7 0.429 \u00f7 0.498 = \u221213.8% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "Next, power itself. Wikipedia and Auto Bild give seven hundred seventy metric horsepower, which Wikipedia converts to seven hundred fifty-nine horsepower and five hundred sixty-six kilowatts. Autocar uses seven fifty-nine brake horsepower at eighty-five hundred revs. Torque is seven hundred twenty newton-metres, or five hundred thirty-one pound-feet. These agree, as the metric and imperial units differ only by conversion.",
-   "query": "Power and torque",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA + AUTO BILD: 770 PS (566 KW; 759 HP) @ 8,500 RPM; 720 N\u00b7M @ 6,750 \u00b7 AUTOCAR: 759 BHP; 531 LB-FT \u00b7 720 N\u00b7M = 531 LB-FT (OUR CONVERSION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power and torque"
   },
   {
    "text": "The 0\u2013100 time differs slightly. Wikipedia and Auto Bild give two point eight seconds to one hundred kilometres per hour. IEEE Spectrum says two point nine. Autocar's measured zero to sixty miles per hour is two point nine. Wikipedia adds zero to two hundred in eight point six. By our arithmetic, two point eight and two point nine are a difference of three and a half percent.",
-   "query": "0\u2013100",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "WIKIPEDIA + AUTO BILD: 0\u2013100 KM/H 2.8 S \u00b7 IEEE: 2.9 S \u00b7 AUTOCAR (TESTED): 0\u201360 MPH 2.9 S; 0\u2013100 MPH 6.1 S; 0\u2013150 MPH 13.2 S \u00b7 WIKIPEDIA: 0\u2013200 KM/H 8.6 S \u00b7 2.9 \u00f7 2.8 = +3.6% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "0\u2013100"
   },
   {
    "text": "Top speed: Wikipedia lists three hundred fifty kilometres per hour as official, two hundred seventeen miles per hour, and says Sport Auto measured three hundred fifty-four on the Aventador in general. Auto Bild says over three hundred fifty. Autocar does not give a top speed. The measured figure in Wikipedia refers to the Aventador family, and we cannot tell whether it was an SVJ.",
-   "query": "Top speed",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: SVJ 350 KM/H (217 MPH); AVENTADOR TOP SPEED SECTION \u2014 SPORT AUTO MEASURED 354 KM/H (CAR NOT SPECIFIED IN THE PASSAGE) \u00b7 AUTO BILD: 'OVER 350' \u00b7 AUTOCAR: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top speed"
   },
   {
    "text": "Braking is another place with competing numbers. Wikipedia and Auto Bild do not give a stopping distance for the SVJ in the passages we used, though Auto Bild says about thirty metres from one hundred kilometres per hour. Autocar measured seventy to zero miles per hour in forty point eight metres, compared with the McLaren Senna's thirty-seven point four and the Ferrari eight twelve Superfast's forty-two point one.",
-   "query": "Braking",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "AUTO BILD: ~30 M FROM 100 KM/H (CLAIM) \u00b7 AUTOCAR: 70\u20130 MPH 40.8 M (400 MM FRONT / 380 MM REAR CARBON-CERAMIC) \u00b7 SENNA 37.4 M \u00b7 812 SUPERFAST 42.1 M \u00b7 100\u20130 KM/H AND 70\u20130 MPH ARE DIFFERENT MEASURES \u2014 NOT COMPARABLE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Braking"
   },
   {
    "text": "Prices vary by market. IEEE Spectrum gives a base price of five hundred seventeen thousand seven hundred seventy dollars. Auto Bild gives three hundred forty-nine thousand one hundred sixteen euros for the coupe and four hundred sixty thousand five hundred thirty-eight euros for the roadster. Autocar says the car starts at three hundred sixty thousand pounds and can easily top four hundred thousand.",
-   "query": "Prices",
+   "query": "Lamborghini Hurac\u00e1n STO rear",
    "caption": "IEEE SPECTRUM: $517,770 BASE \u00b7 AUTO BILD (2018): \u20ac349,116 COUP\u00c9; \u20ac460,538 ROADSTER \u00b7 AUTOCAR (2025): FROM \u00a3360,000; TEST CAR WELL OVER \u00a3400,000 AFTER OPTIONS \u00b7 AUTOMONITOR (UNSOURCED): ROADSTER $573,966",
    "cuts": 3,
-   "chapter": "Prices and production"
+   "chapter": "Prices and production",
+   "orig_query": "Prices"
   },
   {
    "text": "We cannot convert those figures honestly because our sources give no exchange rates and different taxes apply in each market. What we can say, by our arithmetic, is that Auto Bild's roadster costs thirty-two percent more than its coup\u00e9, and that Autocar's test car cost at least eleven percent more than the starting price, once options were added.",
-   "query": "Roadster premium",
+   "query": "Lamborghini Aventador interior",
    "caption": "\u20ac460,538 \u00f7 \u20ac349,116 = +31.9% \u00b7 \u00a3400,000 \u00f7 \u00a3360,000 = +11.1% (OUR ARITHMETIC) \u00b7 EXCHANGE RATES AND TAX TREATMENT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Roadster premium"
   },
   {
    "text": "Production is the third thing that does not agree. Wikipedia lists nine hundred coup\u00e9s and eight hundred roadsters, plus sixty-three SVJ 63 coup\u00e9s and sixty-three SVJ 63 roadsters. The nine hundred figure is flagged as needing a citation. Auto Bild says nine hundred units plus a sixty-three-car SVJ 63. Autocar says nine hundred planned.",
-   "query": "Production",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: 900 COUP\u00c9S ([CITATION NEEDED]), 800 ROADSTERS, 63 SVJ 63 COUP\u00c9S, 63 SVJ 63 ROADSTERS \u00b7 AUTO BILD: 900 + SVJ 63 (63 UNITS); ROADSTER ~800 \u00b7 AUTOCAR: 900 PLANNED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Production"
   },
   {
    "text": "By our arithmetic, nine hundred plus eight hundred plus sixty-three plus sixty-three is eighteen hundred twenty-six cars. The weaker Automonitor page gives that same sum, but also quotes a related blurb saying only seventeen hundred sixty-three were built. The difference is sixty-three cars, exactly the size of one SVJ 63 run. We cannot tell which is right.",
-   "query": "The sum",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "900 + 800 + 63 + 63 = 1,826 (OUR ARITHMETIC) \u00b7 AUTOMONITOR (UNSOURCED): ALSO CITES 1,763 \u00b7 1,826 \u2212 1,763 = 63 (OUR ARITHMETIC) \u00b7 WHICH IS RIGHT: NOT SETTLED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The sum"
   },
   {
    "text": "In the context of the whole model, Wikipedia says total Aventador production was eleven thousand eight hundred thirty-one cars, with a peak of twelve hundred eighty-six in twenty seventeen. By our arithmetic, the SVJ family would be about fifteen percent of the total, if the eighteen twenty-six figure is right. The Aventador was originally planned for four thousand units.",
-   "query": "Share of the model",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: TOTAL AVENTADOR 11,831 (COUP\u00c9 6,196; ROADSTER 3,196 THROUGH 2019); PEAK 1,286 (2017); ORIGINALLY PLANNED 4,000 \u00b7 1,826 \u00f7 11,831 = 15.4% (OUR ARITHMETIC; ASSUMES 1,826 IS CORRECT)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Share of the model"
   },
   {
    "text": "The SVJ is not the only extreme Aventador. Wikipedia lists the SV, with seven hundred fifty metric horsepower and one horsepower for every two kilograms, built as six hundred coup\u00e9s and five hundred roadsters until July twenty seventeen. The SVJ followed in twenty eighteen, and the final Ultimae in twenty twenty-one, with seven hundred eighty metric horsepower, limited to six hundred cars.",
-   "query": "The family",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA: SV 750 PS, 600 COUP\u00c9S + 500 ROADSTERS, ENDED JULY 2017 \u00b7 SVJ 2018, 770 PS \u00b7 ULTIMAE (LP 780-4, 2021) 780 PS, LIMITED TO 600 (350 COUP\u00c9S, 250 ROADSTERS)",
    "cuts": 3,
-   "chapter": "Where it sits in the story"
+   "chapter": "Where it sits in the story",
+   "orig_query": "The family"
   },
   {
    "text": "By our arithmetic, the power rose from seven hundred metric horsepower in the original to seven eighty in the Ultimae, an increase of eleven percent over the car's life. The SVJ's seven seventy was ten percent above the original. In that sense, the SVJ delivered nearly all of the Aventador's power growth, and the Ultimae added only ten more horsepower.",
-   "query": "Power growth",
+   "query": "Lamborghini Aventador Ultimae",
    "caption": "700 \u2192 780 PS = +11.4% \u00b7 700 \u2192 770 PS = +10.0% \u00b7 770 \u2192 780 = +10 PS (+1.3%) (OUR ARITHMETIC; WIKIPEDIA FIGURES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power growth"
   },
   {
    "text": "The engine behind it is the same family. Wikipedia describes a six point five litre sixty-degree V12 weighing about two hundred thirty-five kilograms, with a seven-speed single-clutch automated manual gearbox. Autocar's review criticised that gearbox, and the interior ergonomics and ride comfort, while praising the engine's character and the car's dynamic precision.",
-   "query": "The engine",
+   "query": "Lamborghini Aventador interior",
    "caption": "WIKIPEDIA: L539 6.5 L (6,498 CC) 60\u00b0 V12, ~235 KG; 7-SPEED GRAZIANO ISR SINGLE-CLUTCH AUTOMATED MANUAL \u00b7 AUTOCAR: PRAISED ENGINE + DYNAMIC PRECISION; CRITICISED GEARBOX, INTERIOR ERGONOMICS, RIDE \u00b7 NOT AWARDED FIVE STARS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The engine"
   },
   {
    "text": "Efficiency numbers from Autocar: eleven point nine miles per gallon and four hundred fifty-two grams of carbon dioxide per kilometre. Wikipedia gives the original Aventador at seventeen point two litres per 100 kilometres and 398 grams. By our arithmetic, seventeen point two litres per 100 kilometres is about thirteen point seven miles per gallon, so the two figures are for different cars and tests.",
-   "query": "Fuel",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "AUTOCAR (SVJ): 11.9 MPG; 452 G/KM \u00b7 WIKIPEDIA (LP 700-4): 17.2 L/100 KM; 398 G/KM \u00b7 17.2 L/100 KM = 13.7 US MPG (OUR CONVERSION) \u00b7 DIFFERENT CARS AND TEST METHODS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel"
   },
   {
    "text": "Cabin noise was measured by Autocar at ninety-six decibels at 8,500 revs in third gear, second only to the McLaren Senna. The roofline is sixty millimetres lower than a McLaren 720S, it says. Heated seats cost three thousand pounds and the Sensonum sound system three thousand one hundred fifty-six. By our arithmetic, those two options alone are sixty-one hundred fifty-six pounds.",
-   "query": "Details",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "AUTOCAR: 96 DB AT 8,500 RPM IN 3RD, SECOND ONLY TO THE SENNA \u00b7 ROOFLINE 60 MM LOWER THAN A 720S \u00b7 HEATED SEATS \u00a33,000 \u00b7 SENSONUM \u00a33,156 \u00b7 \u00a33,000 + \u00a33,156 = \u00a36,156 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Details"
   },
   {
    "text": "What came next? Wikipedia describes the Ultimae, the final Aventador variant, introduced in twenty twenty-one as the LP seven eighty-four, with seven hundred eighty metric horsepower and seven hundred twenty newton-metres. It weighs fifteen hundred fifty kilograms, does zero to one hundred in two point eight four seconds, and reaches three hundred fifty-four kilometres per hour, which is two hundred twenty miles per hour.",
-   "query": "The Ultimae",
+   "query": "Lamborghini Aventador Ultimae",
    "caption": "WIKIPEDIA: ULTIMAE (LP 780-4, 2021) \u2014 780 PS (574 KW; 769 HP) \u00b7 720 N\u00b7M \u00b7 1,550 KG \u00b7 0\u2013100 KM/H 2.84 S \u00b7 354 KM/H (220 MPH)",
    "cuts": 3,
-   "chapter": "After the SVJ"
+   "chapter": "After the SVJ",
+   "orig_query": "The Ultimae"
   },
   {
    "text": "It was limited to six hundred units, three hundred fifty coup\u00e9s and two hundred fifty roadsters. But Wikipedia's delivery table shows seven hundred ninety-eight in twenty twenty-one and seven hundred fifty-three in twenty twenty-two across the whole Aventador line, without a split. By our arithmetic, those two years add up to fifteen hundred fifty-one, and the page does not explain how that squares with six hundred.",
-   "query": "Ultimae numbers",
+   "query": "Lamborghini Aventador SVJ rear",
    "caption": "WIKIPEDIA: ULTIMAE LIMITED TO 600 (350 COUP\u00c9S + 250 ROADSTERS) \u00b7 TABLE: 798 (2021) + 753 (2022) = 1,551 (OUR ARITHMETIC) FOR THE WHOLE AVENTADOR LINE, NO BODY-STYLE SPLIT \u00b7 GAP NOT EXPLAINED ON THE PAGE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ultimae numbers"
   },
   {
    "text": "The end of the line has a twist. Wikipedia says that in February twenty twenty-two, a fire aboard the Felicity Ace destroyed fifteen cars, and Lamborghini restarted Ultimae production. The last car, built in July twenty twenty-two, was styled as a homage to a nineteen sixty-eight Miura P four hundred. The page's infobox, though, gives the end of production as September.",
-   "query": "The last car",
+   "query": "Lamborghini Miura",
    "caption": "WIKIPEDIA: FELICITY ACE FIRE, FEB 2022 \u2014 15 CARS DESTROYED; ULTIMAE PRODUCTION RESTARTED \u00b7 LAST CAR JULY 2022, HOMAGE TO A 1968 MIURA P400 \u00b7 INFOBOX: PRODUCTION ENDED SEPT 2022 (CONFLICT WITH TEXT)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The last car"
   },
   {
    "text": "The last Ultimae coup\u00e9 sold for over one point six million dollars at RM Sotheby's in April twenty twenty-two, with a one-of-one digital token, Wikipedia says. By our arithmetic, that is three times the SVJ's original five hundred seventeen thousand seven hundred seventy dollar base price, though the two cars are different and the auction included the token.",
-   "query": "The last Ultimae sale",
+   "query": "Lamborghini Aventador Ultimae",
    "caption": "WIKIPEDIA: LAST ULTIMAE COUP\u00c9 > $1.6 M, RM SOTHEBY'S, APRIL 2022, WITH A 1-OF-1 NFT \u00b7 $1.6 M \u00f7 $517,770 = 3.1\u00d7 (OUR ARITHMETIC; DIFFERENT CARS; TOKEN INCLUDED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The last Ultimae sale"
   },
   {
    "text": "Used SVJs are another data point. A Lamborghini enthusiast site, in May twenty twenty-two, listed used Aventador prices from three hundred fifteen thousand dollars for a twenty sixteen car up to nine hundred seventy-five thousand for a twenty twenty SVJ Roadster. By our arithmetic, the SVJ Roadster at that price was seventy percent above its original base of five hundred seventy-three thousand nine hundred sixty-six.",
-   "query": "Used prices",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "LAMBOCARS (4 MAY 2022): USED AVENTADOR LISTINGS $315,000 (2016) TO $975,000 (2020 SVJ ROADSTER) \u00b7 AUTOMONITOR (UNSOURCED) ROADSTER MSRP $573,966 \u00b7 $975,000 \u00f7 $573,966 = +69.9% (OUR ARITHMETIC; LISTING, NOT A SALE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Used prices"
   },
   {
    "text": "Automonitor's page, which cites no sources, estimates the SVJ coup\u00e9 market at five hundred fifty to seven hundred fifty thousand dollars, and the SVJ 63 at eight hundred fifty thousand to one point two million. We use these only as flagged estimates. Its own table shows a coup\u00e9 average of five hundred thirty thousand in twenty twenty rising to six hundred sixty thousand in a twenty twenty-five estimate.",
-   "query": "Weak estimates",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "AUTOMONITOR (UNSOURCED, INTERNALLY INCONSISTENT): COUP\u00c9 $550\u2013750K \u00b7 SVJ 63 COUP\u00c9 $850K\u20131.2M+ \u00b7 AVERAGE VALUE 2020 $530K \u2192 2025 EST. $660K \u2192 +24.5% (OUR ARITHMETIC) \u00b7 BAT NAMED AS SOURCE, NO DATA SHOWN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weak estimates"
   },
   {
    "text": "The wider story is the end of an era. IEEE Spectrum, writing in twenty nineteen, says Lamborghini was developing a gas-electric V12 hybrid successor to the Aventador. Wikipedia names that successor as the Revuelto, which arrived in twenty twenty-three. So the SVJ sits among the last naturally aspirated V12 Lamborghinis, though our sources do not state that as a ranking.",
-   "query": "What replaced it",
+   "query": "Lamborghini Revuelto",
    "caption": "IEEE SPECTRUM (2019): HYBRID V12 SUCCESSOR IN DEVELOPMENT \u00b7 WIKIPEDIA: SUCCESSOR = REVUELTO (2023) \u00b7 'AMONG THE LAST NATURALLY ASPIRATED V12s' = OUR INFERENCE FROM THESE TWO FACTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "What replaced it"
   },
   {
    "text": "A few last numbers on the SVJ roadster, from Wikipedia and Auto Bild. The roadster version of the base car weighs sixteen twenty-five kilograms, fifty more than the coup\u00e9, and its roof panels weigh six kilograms each. For the SVJ Roadster, Auto Bild says around eight hundred units, zero to one hundred in two point nine seconds, launching in late summer twenty nineteen.",
-   "query": "The roadster",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA (BASE ROADSTER): 1,625 KG, 50 KG MORE THAN COUP\u00c9; ROOF PANELS 6 KG EACH \u00b7 AUTO BILD (SVJ ROADSTER): ~800 UNITS; 0\u2013100 KM/H 2.9 S; LAUNCH LATE SUMMER 2019",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The roadster"
   },
   {
    "text": "By our arithmetic, the roadster's two point nine seconds is only point one slower than the coup\u00e9's two point eight, or three and a half percent. That is tiny for a car that gives up a fixed roof, and shows how much of the performance comes from the engine and aerodynamics rather than the body. The sources do not give the SVJ Roadster's weight.",
-   "query": "Open-top penalty",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "AUTO BILD: COUP\u00c9 2.8 S; ROADSTER 2.9 S \u00b7 +0.1 S = +3.6% (OUR ARITHMETIC) \u00b7 SVJ ROADSTER WEIGHT: NOT IN OUR SOURCES \u00b7 'PERFORMANCE COMES FROM ENGINE AND AERO' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Open-top penalty"
   },
   {
    "text": "IEEE Spectrum says the engine uses titanium connecting rods and reduced internal friction. Wikipedia says it displaces sixty-four ninety-eight cubic centimetres and weighs about two hundred thirty-five kilograms. By our arithmetic, seven hundred fifty-nine horsepower from six point five litres is one hundred sixteen point eight horsepower per litre, and about three point two horsepower per kilogram of engine.",
-   "query": "Engine maths",
+   "query": "Lamborghini Aventador interior",
    "caption": "IEEE: TITANIUM CONNECTING RODS, REDUCED INTERNAL FRICTION \u00b7 WIKIPEDIA: 6,498 CC, ~235 KG \u00b7 759 \u00f7 6.5 = 116.8 HP/L \u00b7 759 \u00f7 235 = 3.23 HP/KG OF ENGINE (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The engine and the acceleration, in numbers"
+   "chapter": "The engine and the acceleration, in numbers",
+   "orig_query": "Engine maths"
   },
   {
    "text": "The SVJ makes its peak power at eighty-five hundred revs and its peak torque at sixty-seven fifty. By our arithmetic, that means the engine must rev well past six and a half thousand to deliver its best, which Autocar's note on cabin noise at eighty-five hundred in third gear, ninety-six decibels, supports. Naturally aspirated engines make power by revving, and this one does.",
-   "query": "High revs",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "WIKIPEDIA + AUTOCAR: PEAK POWER 8,500 RPM; PEAK TORQUE 6,750 RPM \u00b7 AUTOCAR: 96 DB AT 8,500 RPM IN 3RD \u00b7 'MUST REV PAST 6,500' = OUR READING OF THE TORQUE PEAK",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "High revs"
   },
   {
    "text": "Autocar's own acceleration times give a feel for the car's reach. Zero to sixty in two point nine seconds, zero to a hundred miles per hour in six point one, zero to one fifty in thirteen point two. By our arithmetic, the step from sixty to one hundred takes three point two seconds, and from one hundred to one fifty takes seven point one.",
-   "query": "Splitting the run",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "AUTOCAR: 0\u201360 MPH 2.9 S \u00b7 0\u2013100 MPH 6.1 S \u00b7 0\u2013150 MPH 13.2 S \u00b7 6.1 \u2212 2.9 = 3.2 S (60\u2192100) \u00b7 13.2 \u2212 6.1 = 7.1 S (100\u2192150) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Splitting the run"
   },
   {
    "text": "Wikipedia's metric figures are two point eight to one hundred and eight point six to two hundred kilometres per hour. By our arithmetic, the step from one hundred to two hundred takes five point eight seconds. That is a longer time than the first hundred, which is typical for any car, but it is still very short for a hundred kilometres per hour of extra speed.",
-   "query": "100 to 200",
+   "query": "Lamborghini Aventador",
    "caption": "WIKIPEDIA: 0\u2013100 2.8 S; 0\u2013200 KM/H 8.6 S \u00b7 8.6 \u2212 2.8 = 5.8 S (OUR ARITHMETIC) \u00b7 'TYPICAL FOR ANY CAR' = OUR GENERAL OBSERVATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "100 to 200"
   },
   {
    "text": "IEEE Spectrum says the author's drive reached two hundred eighty kilometres per hour. Using Autocar's tested zero to one hundred fifty miles per hour of thirteen point two seconds, that is two hundred forty-one kilometres per hour, so the Estoril run went beyond it. We do not know how long it took the IEEE author to reach two eighty, as the article does not say.",
-   "query": "Estoril speed",
+   "query": "Lamborghini Aventador SVJ rear",
    "caption": "AUTOCAR: 150 MPH = 241 KM/H IN 13.2 S (OUR CONVERSION) \u00b7 IEEE: 280 KM/H AT ESTORIL; TIME TO REACH IT: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Estoril speed"
   },
   {
    "text": "Tyres, again. Those exclusive Pirelli tyres are twenty inches at the front and twenty-one at the rear. Lambocars says Lamborghini tyres in general cost fifteen hundred to two thousand dollars a set, though not specifically for the SVJ. The weaker Automonitor page claims three thousand five hundred to five thousand. Those two ranges overlap not at all, and neither is a measured SVJ price.",
-   "query": "Tyre prices",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "IEEE: 20 IN FRONT / 21 IN REAR \u00b7 LAMBOCARS (2022): LAMBORGHINI TYRES $1,500\u20132,000/SET (NOT SVJ-SPECIFIC) \u00b7 AUTOMONITOR (UNSOURCED): $3,500\u20135,000/SET \u00b7 RANGES DO NOT OVERLAP (OUR OBSERVATION) \u00b7 SVJ-SPECIFIC PRICE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyre prices"
   },
   {
    "text": "What is missing. Which downforce figure is right, thirty or forty percent. The SVJ's true production count. A dated source saying whether the N\u00fcrburgring time was later beaten. The standard tyre fitment on the record run. A reconciled weight, on a like-for-like basis. And an official price list across markets. If you have a primary document for any of these, put it in the comments.",
-   "query": "Aventador SVJ",
+   "query": "Lamborghini Aventador SVJ",
    "caption": "NOT IN OUR SOURCES: RECONCILED DOWNFORCE (30% vs 40%) \u00b7 FINAL PRODUCTION COUNT (1,826 vs 1,763) \u00b7 WHETHER THE RING LAP WAS LATER BEATEN \u00b7 STANDARD vs RECORD TYRES \u00b7 LIKE-FOR-LIKE WEIGHT \u00b7 OFFICIAL MULTI-MARKET PRICE LIST",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Aventador SVJ"
   },
   {
    "text": "So the two things are these. The SVJ's wing deliberately gives up grip to cut drag, then takes it back through corners, and its record lap used optional tyres. And its figures, from weight to production, differ depending on who you ask. In the other videos this week, we compare the SVJ with the Hurac\u00e1n STO, count what it costs, and tell why it was the last of its kind. Subscribe to Pickup Reality.",
-   "query": "Aventador SVJ",
+   "query": "Lamborghini Hurac\u00e1n STO",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aventador SVJ"
   }
  ]
 }

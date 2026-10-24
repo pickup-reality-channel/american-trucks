@@ -6,334 +6,387 @@
  "scenes": [
   {
    "text": "Two six-wheeled pickups, one from Germany and Austria, one from Texas. The Mercedes G 63 AMG 6x6 had about five hundred thirty-six horsepower and was priced at three hundred seventy-nine thousand euros. The Hennessey VelociRaptor 6x6 claims about six hundred horsepower and started at three hundred forty-nine thousand dollars. Which is the real difference between them? We compare only what our sources actually say.",
-   "query": "G63 6x6 vs VelociRaptor 6x6",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES G63 AMG 6x6 vs HENNESSEY VELOCIRAPTOR 6x6: THE DIFFERENCE NOBODY EXPLAINS",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "G63 6x6 vs VelociRaptor 6x6"
   },
   {
    "text": "Our sources are Wikipedia, Gear Patrol, The Drive, Motor Authority, Digital Trends, DuPont Registry, Ford Authority, CarAdvice, Carscoops and MercedesBlog. For the Hennessey, several figures differ by outlet, and some basic ones, such as weight, are missing entirely. We show the gaps. Our own arithmetic is labelled.",
-   "query": "Two 6x6 pickups",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "SOURCES: WIKIPEDIA \u00b7 GEAR PATROL \u00b7 THE DRIVE \u00b7 MOTOR AUTHORITY \u00b7 DIGITAL TRENDS \u00b7 DUPONT REGISTRY \u00b7 FORD AUTHORITY \u00b7 CARADVICE \u00b7 CARSCOOPS \u00b7 MERCEDESBLOG \u00b7 GAPS ARE SHOWN \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Two 6x6 pickups"
   },
   {
    "text": "Start with where each came from. Wikipedia says the Mercedes is derived from a six-wheel-drive Gel\u00e4ndewagen developed for the Australian Army, and was built by Magna Steyr in Graz, Austria. It was a factory product, introduced for the G-Wagen's thirtieth anniversary, and built from 2013 to 2015.",
-   "query": "The Mercedes",
+   "query": "Magna Steyr Graz",
    "caption": "WIKIPEDIA: ARMY-DERIVED 6x6 GEL\u00c4NDEWAGEN \u00b7 BUILT BY MAGNA STEYR, GRAZ \u00b7 30TH ANNIVERSARY OF G-WAGEN \u00b7 2013\u20132015",
    "cuts": 5,
-   "chapter": "Two different starting points"
+   "chapter": "Two different starting points",
+   "orig_query": "The Mercedes"
   },
   {
    "text": "The Hennessey is different in kind. According to The Drive, in October twenty sixteen, Hennessey took a Ford F-150 Raptor and added a second rear axle for six-wheel drive. DuPont Registry says the conversions are done at Hennessey Performance in Sealy, Texas. So it is a modified Ford, not a new vehicle from a manufacturer.",
-   "query": "The Hennessey",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "THE DRIVE (5 OCT 2016): FORD F-150 RAPTOR + SECOND REAR AXLE \u00b7 DUPONT REGISTRY: CONVERSIONS AT HENNESSEY PERFORMANCE, SEALY, TEXAS \u00b7 A CONVERSION, NOT A MANUFACTURER'S VEHICLE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Hennessey"
   },
   {
    "text": "That difference decides how to read every number. The Mercedes figures come from Mercedes-linked specification tables, as reported by Wikipedia and magazines. The Hennessey figures are the tuner's own claims, repeated by outlets. Digital Trends says explicitly that Hennessey says the truck will do zero to sixty in four point nine seconds. It is a claim, not a test.",
-   "query": "Claims vs specs",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DIGITAL TRENDS (19 DEC 2017): 'HENNESSEY SAYS THE VELOCIRAPTOR 6\u00d76 WILL DO 0 TO 60 MPH IN 4.9 SECONDS' \u2192 TUNER'S CLAIM \u00b7 MERCEDES NUMBERS: SPEC TABLES AS REPORTED, ALSO MANUFACTURER-TYPE FIGURES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Claims vs specs"
   },
   {
    "text": "When was the Hennessey shown? The Drive reported the idea on the fifth of October twenty sixteen. Motor Authority reported the first example at SEMA, on the thirty-first of October twenty seventeen. So the Hennessey arrived about four years after the Mercedes began, by our arithmetic, since Wikipedia says the Mercedes launched in early twenty thirteen.",
-   "query": "Timeline",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "THE DRIVE 5 OCT 2016 \u00b7 MOTOR AUTHORITY 31 OCT 2017 (FIRST CAR AT SEMA) \u00b7 MERCEDES LAUNCH EARLY 2013 (WIKIPEDIA) \u2192 ~4 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Timeline"
   },
   {
    "text": "Digital Trends names the Mercedes as a rival of the Hennessey, together with the Kahn Design Land Rover Defender based Flying Huntsman. Motor Authority says the Hennessey is entirely worthy of competing against equally nutty six-wheelers from across the pond. So the press itself framed them as competitors, even though one is a factory car and the other a conversion.",
-   "query": "The press framing",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DIGITAL TRENDS: RIVALS = MERCEDES G63 AMG 6\u00d76 AND KAHN DESIGN'S FLYING HUNTSMAN \u00b7 MOTOR AUTHORITY: 'ENTIRELY WORTHY OF COMPETING AGAINST EQUALLY NUTTY 6-WHEELERS FROM ACROSS THE POND'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The press framing"
   },
   {
    "text": "The Mercedes uses a 5.5-litre twin-turbo V8. Wikipedia lists five hundred forty-three PS, which is five hundred thirty-six horsepower, and five hundred sixty-one pound-feet, with a seven-speed automatic. The Hennessey keeps Ford's 3.5-litre twin-turbo EcoBoost V6, according to Digital Trends and Motor Authority, with a ten-speed automatic.",
-   "query": "Engines",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: 5.5 L TWIN-TURBO V8 \u00b7 543 PS / 536 HP / 561 LB-FT \u00b7 7-SPEED (WIKIPEDIA) \u00b7 HENNESSEY: FORD 3.5 L TWIN-TURBO V6 \u00b7 10-SPEED AUTO (DIGITAL TRENDS, MOTOR AUTHORITY)",
    "cuts": 3,
-   "chapter": "Engines and power"
+   "chapter": "Engines and power",
+   "orig_query": "Engines"
   },
   {
    "text": "Hennessey's own power figure varies by outlet. Digital Trends says six hundred horsepower and six hundred two pound-feet. Motor Authority says six hundred five horsepower and six hundred twenty-two. The Drive says past six hundred. All say the stock Raptor makes four hundred fifty horsepower, and Digital Trends and Motor Authority give five hundred ten pound-feet.",
-   "query": "Hennessey power",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DIGITAL TRENDS: 600 HP / 602 LB-FT \u00b7 MOTOR AUTHORITY: 605 HP / 622 LB-FT \u00b7 THE DRIVE: 'PAST 600 HP' \u00b7 STOCK RAPTOR: 450 HP / 510 LB-FT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey power"
   },
   {
    "text": "By our arithmetic, six hundred horsepower is twelve percent more than the Mercedes's five hundred thirty-six, and six hundred five is thirteen percent more. On torque, six hundred two is seven percent above five hundred sixty-one, and six hundred twenty-two is eleven percent above. So on paper the Hennessey has more of both.",
-   "query": "Power compared",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "600 \u00f7 536 = +11.9% \u00b7 605 \u00f7 536 = +12.9% \u00b7 602 \u00f7 561 = +7.3% \u00b7 622 \u00f7 561 = +10.9% (OUR ARITHMETIC; HENNESSEY FIGURES ARE THE TUNER'S)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power compared"
   },
   {
    "text": "And the upgrade over the donor truck. By our arithmetic, going from four hundred fifty to six hundred is a thirty-three percent increase, and to six hundred five is thirty-four percent. Torque rises from five hundred ten to six hundred two or six hundred twenty-two, which is eighteen or twenty-two percent. The package is called HPE600, and The Drive says it replaces the Raptor's turbos with bigger turbos.",
-   "query": "Gain over a stock Raptor",
+   "query": "Ford F-150 Raptor",
    "caption": "450 \u2192 600 = +33.3% \u00b7 450 \u2192 605 = +34.4% \u00b7 510 \u2192 602 = +18.0% \u00b7 510 \u2192 622 = +22.0% (OUR ARITHMETIC) \u00b7 THE DRIVE: BIGGER TURBOS \u00b7 PACKAGE NAME: HPE600",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gain over a stock Raptor"
   },
   {
    "text": "What goes in with the power? Motor Authority lists custom turbochargers, a high-flow exhaust, a bigger intercooler and full ECU tuning. DuPont Registry mentions an upgraded intercooler and plumbing and a retuned ECU. Neither source gives a dyno sheet. And no source reports the Hennessey's top speed or its fuel consumption.",
-   "query": "What the upgrade includes",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MOTOR AUTHORITY: CUSTOM TURBOS \u00b7 HIGH-FLOW EXHAUST \u00b7 BIGGER INTERCOOLER \u00b7 FULL ECU TUNING \u00b7 DUPONT: INTERCOOLER, PLUMBING, ECU \u00b7 DYNO / TOP SPEED / FUEL ECONOMY FOR THE HENNESSEY: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "What the upgrade includes"
   },
   {
    "text": "A telling comparison is engine size. Wikipedia lists the Mercedes engine at five thousand, four hundred sixty-one cubic centimetres. The Hennessey's Ford V6 is 3.5 litres, per Digital Trends. By our arithmetic, the Ford engine is about thirty-six percent smaller. Yet its claimed power is higher.",
-   "query": "Engine size",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES 5,461 CC (WIKIPEDIA) \u00b7 HENNESSEY 3.5 L (DIGITAL TRENDS) \u00b7 3.5 \u00f7 5.461 = 64% \u2192 36% SMALLER (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Small engine, big claim"
+   "chapter": "Small engine, big claim",
+   "orig_query": "Engine size"
   },
   {
    "text": "By our arithmetic, the Mercedes makes about ninety-eight horsepower per litre, five hundred thirty-six over five point four six one. The Hennessey, at six hundred five horsepower from 3.5 litres, makes about one hundred seventy-three, or roughly one point eight times as much. Turbocharging explains the idea, but both engines are turbocharged, and our sources do not explain why the gap is so large.",
-   "query": "Power per litre",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "536 \u00f7 5.461 = 98.2 HP/L \u00b7 605 \u00f7 3.5 = 172.9 HP/L \u2192 1.76\u00d7 (OUR ARITHMETIC; HENNESSEY POWER IS A CLAIM) \u00b7 BOTH TWIN-TURBO \u00b7 REASON FOR GAP: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power per litre"
   },
   {
    "text": "On torque per litre the picture is similar. Five hundred sixty-one pound-feet over five point four six one is about one hundred three. Six hundred twenty-two over 3.5 is about one hundred seventy-eight. By our arithmetic the ratio is one point seven times. Remember that peak numbers say nothing about how the engine behaves when it moves four tonnes in low range.",
-   "query": "Torque per litre",
+   "query": "Mercedes-Benz G-Class",
    "caption": "561 \u00f7 5.461 = 102.7 LB-FT/L \u00b7 622 \u00f7 3.5 = 177.7 LB-FT/L \u2192 1.73\u00d7 (OUR ARITHMETIC; PEAK FIGURES ONLY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque per litre"
   },
   {
    "text": "There is also the gearbox. The Mercedes has seven forward speeds, per Wikipedia, and the Hennessey ten, per Digital Trends. By our arithmetic, that is three more ratios. The source says the Ford ten-speed automatic sends power to all six wheels. More gears can help a smaller engine stay in its power band, but our sources do not test it.",
-   "query": "Gearboxes",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: 7-SPEED 7G-TRONIC (WIKIPEDIA) \u00b7 HENNESSEY: 10-SPEED AUTOMATIC, POWER TO ALL SIX WHEELS (DIGITAL TRENDS) \u00b7 10 \u2212 7 = 3 MORE RATIOS (OUR ARITHMETIC) \u00b7 BENEFIT: NOT TESTED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gearboxes"
   },
   {
    "text": "And the Brabus version of the Mercedes closes the power gap. Carscoops reports seven hundred horsepower and seven hundred eight pound-feet. By our arithmetic, that is about sixteen percent more power than the Hennessey's six hundred five, and fourteen percent more torque than its six hundred twenty-two. But that was a one-off tuning package on a used car.",
-   "query": "Brabus Mercedes vs Hennessey",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "BRABUS: 700 HP / 708 LB-FT (CARSCOOPS) vs HENNESSEY 605 / 622 \u2192 +15.7% POWER, +13.8% TORQUE (OUR ARITHMETIC) \u00b7 BRABUS = TUNED USED CAR, NOT A FACTORY SPEC",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Brabus Mercedes vs Hennessey"
   },
   {
    "text": "Acceleration is the clearest claim. Wikipedia lists the Mercedes at seven point eight seconds to sixty miles per hour. Hennessey claims four point nine. By our arithmetic, that is two point nine seconds less, a thirty-seven percent shorter time. But a claim and a table entry are not a head-to-head test, and the Mercedes's own page also lists seven point nine seconds to a hundred kilometres per hour.",
-   "query": "Zero to sixty",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "MERCEDES 7.8 S (WIKIPEDIA TABLE) vs HENNESSEY 4.9 S (CLAIM, DIGITAL TRENDS) \u00b7 7.8 \u2212 4.9 = 2.9 S = 37.2% LESS (OUR ARITHMETIC) \u00b7 NO HEAD-TO-HEAD TEST IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "Speed"
+   "chapter": "Speed",
+   "orig_query": "Zero to sixty"
   },
   {
    "text": "Top speed is where we have only half the picture. The Mercedes is limited to one hundred miles per hour, or one hundred sixty-one kilometres per hour, according to Wikipedia. We found no top speed for the Hennessey in any of our sources. So we cannot say which truck is faster flat out, only which accelerates faster on paper.",
-   "query": "Top speed",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: LIMITED TO 100 MPH (161 KM/H) \u00b7 HENNESSEY TOP SPEED: NOT IN OUR SOURCES \u2192 NO COMPARISON POSSIBLE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top speed"
   },
   {
    "text": "There is a plausible reason to expect the Hennessey to be quicker: the figures. By our arithmetic, the Mercedes carries about seven point six kilograms per horsepower, using Wikipedia's four thousand eighty-three kilograms and five hundred thirty-six horsepower. For the Hennessey we cannot compute the same number, because no source gives its weight.",
-   "query": "Power to weight",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES 4,083 KG \u00f7 536 HP = 7.6 KG/HP (OUR ARITHMETIC) \u00b7 HENNESSEY WEIGHT: NOT IN OUR SOURCES \u2192 RATIO CANNOT BE COMPUTED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "That missing weight matters. A donor Raptor is a full-size pickup, and a second rear axle adds mass. We do not know how much. Wikipedia lists the Mercedes at nine thousand and one pounds. The Drive describes one car at nine thousand fifty. The Hennessey's weight is simply not in what we read, so any claim about relative weight is a guess.",
-   "query": "The missing weight",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES 9,001 LB (WIKIPEDIA) \u00b7 9,050 LB (THE DRIVE, ONE CAR) \u00b7 HENNESSEY WEIGHT: NOT IN OUR SOURCES \u00b7 ANY CLAIM ABOUT IT WOULD BE A GUESS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The missing weight"
   },
   {
    "text": "Drivetrain. Wikipedia describes the Mercedes with portal axles similar to those on Unimog vehicles, five electronic differential locks, and a thirty, forty, thirty power split. Gear Patrol says up to one hundred percent lock-up across all six wheels. Those are the features that make it a military-derived machine, and they are the reason for its height.",
-   "query": "Mercedes drivetrain",
+   "query": "Mercedes Unimog",
    "caption": "WIKIPEDIA: PORTAL AXLES SIMILAR TO UNIMOG \u00b7 FIVE ELECTRONIC DIFF LOCKS \u00b7 30:40:30 SPLIT \u00b7 GEAR PATROL: UP TO 100% LOCK-UP ACROSS SIX WHEELS",
    "cuts": 3,
-   "chapter": "Hardware and capability"
+   "chapter": "Hardware and capability",
+   "orig_query": "Mercedes drivetrain"
   },
   {
    "text": "The Hennessey list is shorter in our sources. Motor Authority mentions locking rear axles, upgraded Fox suspension, custom twenty-inch wheels, off-road tyres, flared wheel arches, a sport bar and LED lights. DuPont Registry lists six-by-six locking rear axles, Fox suspension, custom bumpers, a roll bar and LED lights, with optional armouring.",
-   "query": "Hennessey hardware",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MOTOR AUTHORITY: LOCKING REAR AXLES \u00b7 FOX SUSPENSION \u00b7 20-IN WHEELS \u00b7 OFF-ROAD TYRES \u00b7 FLARES \u00b7 SPORT BAR \u00b7 LED LIGHTS \u00b7 DUPONT: 6x6 LOCKING REAR AXLES \u00b7 FOX \u00b7 BUMPERS \u00b7 ROLL BAR \u00b7 LED \u00b7 OPTIONAL ARMOURING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey hardware"
   },
   {
    "text": "No source gives the Hennessey's ground clearance, wading depth, tyre diameter or axle type. The Mercedes has four hundred sixty millimetres of clearance, a thousand millimetres of wading depth and thirty-seven inch tyres, per Wikipedia. By our arithmetic, a twenty-inch wheel is not itself a limit, since tyre height depends on the sidewall. But we have no tyre size.",
-   "query": "Missing off-road numbers",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: 460 MM CLEARANCE \u00b7 1,000 MM WADING \u00b7 37-IN TYRES (WIKIPEDIA) \u00b7 HENNESSEY: CLEARANCE, WADING, TYRE SIZE, AXLE TYPE \u2014 NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Missing off-road numbers"
   },
   {
    "text": "The Mercedes has a tyre pressure system, according to Wikipedia: a compressor and four twenty-litre tanks that let the driver change pressure in under twenty seconds. Road and Track mentions a central tyre pressure system too. For the Hennessey, none of our sources mention one. That is a gap in the sources, not proof that it has none.",
-   "query": "Tyre pressure system",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: COMPRESSOR + 4 \u00d7 20 L TANKS, <20 S PRESSURE CHANGE (WIKIPEDIA) \u00b7 HENNESSEY: NOT MENTIONED IN OUR SOURCES (A GAP IN SOURCES, NOT PROOF OF ABSENCE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyre pressure system"
   },
   {
    "text": "There is also what Ford provides. The Hennessey starts from the Raptor, a four-door SuperCrew, and keeps its engine, according to Motor Authority and Digital Trends. By our arithmetic, that means a large share of parts, such as the engine and gearbox, come from a mass-market truck. The Mercedes's engine also comes from another Mercedes, the G 63.",
-   "query": "Donor parts",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "MOTOR AUTHORITY: BASED ON F-150 RAPTOR SUPERCREW \u00b7 DIGITAL TRENDS: SAME 3.5 L ECOBOOST V6 \u00b7 WIKIPEDIA: MERCEDES ENGINE FROM THE G63 \u00b7 PARTS SHARING DETAIL: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Donor parts"
   },
   {
    "text": "Price. The Mercedes was three hundred seventy-nine thousand euros, according to CarAdvice and Carscoops. Carscoops converts that to about five hundred eleven thousand dollars in twenty thirteen. Gear Patrol quoted about five hundred twenty-six thousand dollars, and CarAdvice nearly five hundred fifty thousand. We use the euro price and the Carscoops dollar figure.",
-   "query": "Mercedes price",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "\u20ac379,000 (CARADVICE, CARSCOOPS) \u2248 $511,000 IN 2013 (CARSCOOPS) \u00b7 GEAR PATROL ~$526,000 \u00b7 CARADVICE 'NEARLY $550,000' \u00b7 WE USE \u20ac379,000 / $511,000",
    "cuts": 3,
-   "chapter": "Price"
+   "chapter": "Price",
+   "orig_query": "Mercedes price"
   },
   {
    "text": "The Hennessey's price changed. The Drive, in October twenty sixteen, said a base price of two hundred ninety-five thousand dollars, with the HPE600 power package at twenty-two thousand, five hundred more. By October twenty seventeen, Motor Authority said the twenty eighteen model started at three hundred forty-nine thousand, including the donor Raptor and the engine tune.",
-   "query": "Hennessey price",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "THE DRIVE (OCT 2016): $295,000 + $22,500 HPE600 \u00b7 MOTOR AUTHORITY (OCT 2017): 2018 MODEL FROM $349,000 INCL. DONOR RAPTOR AND ENGINE TUNE \u00b7 DIGITAL TRENDS: FROM $349,000 INCL. DONOR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey price"
   },
   {
    "text": "By our arithmetic, the move from two hundred ninety-five to three hundred forty-nine thousand is an eighteen percent rise. If the 2016 price plus the power package, three hundred seventeen thousand, five hundred, is the right comparison, the rise is ten percent. Our sources do not say what changed between the two announcements.",
-   "query": "The price change",
+   "query": "Ford F-150 Raptor",
    "caption": "$349,000 \u00f7 $295,000 = +18.3% \u00b7 $349,000 \u00f7 $317,500 = +9.9% (OUR ARITHMETIC) \u00b7 REASON FOR THE CHANGE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The price change"
   },
   {
    "text": "Now compare the two. Taking the five hundred eleven thousand dollar figure for the Mercedes and three hundred forty-nine thousand for the Hennessey, by our arithmetic, the Mercedes cost forty-six percent more, a gap of one hundred sixty-two thousand dollars. But the euro price was set in twenty thirteen and the Hennessey price in twenty seventeen, so inflation would shrink the gap.",
-   "query": "Mercedes vs Hennessey price",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$511,000 \u2212 $349,000 = $162,000 = +46.4% (OUR ARITHMETIC; 2013 vs 2017 PRICES; NO INFLATION ADJUSTMENT IN OUR SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Mercedes vs Hennessey price"
   },
   {
    "text": "Price per horsepower follows. By our arithmetic, the Mercedes at five hundred eleven thousand dollars and five hundred thirty-six horsepower is about nine hundred fifty-three dollars per horsepower. The Hennessey at three hundred forty-nine thousand and six hundred five horsepower is about five hundred seventy-seven. This ignores the donor truck's value and the buyers' reasons.",
-   "query": "Price per horsepower",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$511,000 \u00f7 536 = $953/HP \u00b7 $349,000 \u00f7 605 = $577/HP (OUR ARITHMETIC; CLAIMED HENNESSEY POWER; NO ADJUSTMENT FOR DIFFERENT YEARS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price per horsepower"
   },
   {
    "text": "The Hennessey's price included the donor truck, which a normal Raptor buyer would buy anyway. DuPont's 2016 figure of two hundred ninety-five thousand includes the Raptor four-door, too. Our sources do not give the Raptor's price then, so we cannot separate the cost of the conversion from the cost of the truck. We do not guess.",
-   "query": "Donor included",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DUPONT: $295,000 INCLUDES THE RAPTOR 4-DOOR \u00b7 MOTOR AUTHORITY: $349,000 INCLUDES DONOR \u00b7 RAPTOR PRICE THEN: NOT IN OUR SOURCES \u2192 CONVERSION COST CANNOT BE ISOLATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Donor included"
   },
   {
    "text": "Hennessey offered extras. Motor Authority says an optional package adds twenty-two thousand dollars for an upgraded Brembo brake system, larger wheels and interior upgrades. By our arithmetic, that is six point three percent on top of the three hundred forty-nine thousand dollar start, giving three hundred seventy-one thousand. The Mercedes would still cost thirty-eight percent more.",
-   "query": "Hennessey options",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MOTOR AUTHORITY: OPTIONAL PACKAGE +$22,000 (BREMBO BRAKES, LARGER WHEELS, INTERIOR) \u00b7 $22,000 \u00f7 $349,000 = 6.3% \u00b7 $371,000 \u00b7 $511,000 \u00f7 $371,000 = +37.7% (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Options and quotes"
+   "chapter": "Options and quotes",
+   "orig_query": "Hennessey options"
   },
   {
    "text": "DuPont Registry lists optional Brembo brakes, additional wheels, tyres and LED lighting, interior options, electronics and armouring. It gives no prices for those, apart from the twenty-two thousand five hundred dollar HPE600 package. So the final price of a fully optioned Hennessey is not in our sources.",
-   "query": "Other options",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DUPONT REGISTRY: OPTIONS = BREMBO BRAKES \u00b7 WHEELS \u00b7 TYRES \u00b7 LED LIGHTING \u00b7 INTERIOR \u00b7 ELECTRONICS \u00b7 ARMOURING \u00b7 PRICES (EXCEPT HPE600 $22,500): NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Other options"
   },
   {
    "text": "John Hennessey's own words, as DuPont Registry quotes them, are that the truck is pure aggression on wheels, all six of them, and that the new twenty seventeen Raptor is going to be one of the best all-around trucks ever built. Those are sales statements. We note them because they show how the maker presented it.",
-   "query": "Hennessey's pitch",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "DUPONT REGISTRY QUOTES HENNESSEY: 'PURE AGGRESSION ON WHEELS \u2013 ALL SIX OF THEM' \u00b7 'ONE OF THE BEST ALL-AROUND TRUCKS EVER BUILT' (ABOUT THE 2017 RAPTOR) \u00b7 MARKETING STATEMENTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey's pitch"
   },
   {
    "text": "Gear Patrol, writing about the Mercedes in March twenty thirteen, was more jokey than boastful, but did note it had room for four, with diamond-quilted leather and carbon fibre trim. The Hennessey is based on a four-door SuperCrew, per Motor Authority, but no source says how many people it seats. So the practical comparison of seats is incomplete.",
-   "query": "Seats",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "GEAR PATROL: MERCEDES SEATS FOUR + BENCH SEATS IN BED \u00b7 HENNESSEY: BASED ON 4-DOOR SUPERCREW (MOTOR AUTHORITY) \u00b7 HENNESSEY SEATING COUNT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Seats"
   },
   {
    "text": "Timing explains something. CarAdvice reported on the thirteenth of April twenty fifteen that Mercedes was ending production that week. Wikipedia says the last delivery was in May twenty fifteen. The Hennessey was first reported in October twenty sixteen. By our arithmetic, that is about seventeen or eighteen months after the Mercedes sold out.",
-   "query": "The gap in time",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "CARADVICE 13 APR 2015: PRODUCTION ENDING \u00b7 WIKIPEDIA: LAST DELIVERY MAY 2015 \u00b7 THE DRIVE 5 OCT 2016: HENNESSEY 6x6 REPORTED \u2192 ~17\u201318 MONTHS (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Timing"
+   "chapter": "Timing",
+   "orig_query": "The gap in time"
   },
   {
    "text": "Whether Hennessey aimed at buyers the Mercedes had left behind is our inference, and we flag it as such. No source says so. What we can say is that when the Hennessey appeared, the Mercedes was no longer on sale new, and the Drive and Motor Authority both described the new truck in terms of its power and price.",
-   "query": "An inference, flagged",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "OUR INFERENCE (NOT FROM A SOURCE): HENNESSEY APPEARED AFTER THE MERCEDES WAS GONE \u00b7 NO SOURCE STATES HENNESSEY'S INTENT TO TARGET THE MERCEDES' BUYERS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "An inference, flagged"
   },
   {
    "text": "The Hennessey's own timeline is short. The Drive's announcement was on the fifth of October twenty sixteen. Motor Authority's report of the first car at SEMA came on the thirty-first of October twenty seventeen. By our arithmetic, that is about one year. Digital Trends followed in December twenty seventeen, and Ford Authority wrote in February twenty nineteen about used examples.",
-   "query": "Hennessey timeline",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "5 OCT 2016 ANNOUNCEMENT \u2192 31 OCT 2017 FIRST CAR AT SEMA \u2248 1 YEAR \u00b7 DIGITAL TRENDS 19 DEC 2017 \u00b7 FORD AUTHORITY FEB 2019 (USED EXAMPLES) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey timeline"
   },
   {
    "text": "Add the two production runs. By our arithmetic, roughly one hundred Mercedes plus fifty planned Hennessey trucks is about one hundred fifty six-wheeled pickups across both programmes in our sources. It is a tiny group. Our sources do not count other six-wheelers, such as the Kahn Flying Huntsman, so the true world total is not known.",
-   "query": "A tiny club",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "~100 + 50 PLANNED = ~150 (OUR ARITHMETIC; HENNESSEY COUNT IS A PLAN) \u00b7 OTHER 6x6 PICKUPS (E.G. FLYING HUNTSMAN) NOT COUNTED \u00b7 WORLD TOTAL: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A tiny club"
   },
   {
    "text": "Production. Wikipedia and other sources put the Mercedes at roughly one hundred units, with the last customer delivery in May twenty fifteen. Motor Authority says just fifty Hennessey VelociRaptor 6x6 trucks were planned for the twenty eighteen model year. Digital Trends says fifty copies. The word planned matters, because we found no count of how many were delivered.",
-   "query": "Production",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MERCEDES: ~100 (WIKIPEDIA, CARADVICE, THE DRIVE) \u00b7 HENNESSEY: 'JUST 50 ARE PLANNED FOR THE 2018 MODEL YEAR' (MOTOR AUTHORITY) \u00b7 DIGITAL TRENDS: 50 COPIES \u00b7 DELIVERED COUNT: NOT IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "Numbers built"
+   "chapter": "Numbers built",
+   "orig_query": "Production"
   },
   {
    "text": "By our arithmetic, fifty is half of one hundred, so the Hennessey was planned at half the Mercedes's run, but in one model year against about two years. Ford Authority, in February twenty nineteen, reported a twenty seventeen truck with six thousand miles asked three hundred fifty-five thousand dollars, and said a dealer had access to another. That suggests more than one existed.",
-   "query": "Rarity compared",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "50 vs ~100 = HALF (OUR ARITHMETIC; 1 MODEL YEAR vs ~2 YEARS OF PRODUCTION) \u00b7 FORD AUTHORITY (FEB 2019): 2017 TRUCK, 6,000 MI, ASKING $355,000 \u00b7 DEALER SAID IT HAD ACCESS TO ANOTHER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rarity compared"
   },
   {
    "text": "Where were they sold? Motor Authority says the Hennessey could be ordered directly from Hennessey or through select Ford dealers. For the Mercedes, Wikipedia names Malaysia and South Africa as buyers, fifteen and ten units. The Hennessey's customers are not named in our sources, apart from the dealership Ford Authority did not identify.",
-   "query": "Where they went",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "HENNESSEY: ORDER VIA HENNESSEY OR SELECT FORD DEALERS (MOTOR AUTHORITY) \u00b7 MERCEDES: MALAYSIA 15 (NAZA WORLD), SOUTH AFRICA 10 (WIKIPEDIA) \u00b7 HENNESSEY CUSTOMERS: NOT NAMED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Where they went"
   },
   {
    "text": "Used prices. The Drive reported a twenty fourteen Mercedes 6x6 sold for nine hundred one thousand, three hundred thirty-seven dollars on Bring a Trailer in November twenty twenty. Motor Authority said used listings ranged from nine hundred seventy-five thousand to one point six million. A Brabus car went for one million, one hundred seventy thousand in May twenty twenty-two, per MercedesBlog.",
-   "query": "Mercedes used prices",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "THE DRIVE (10 NOV 2020): $901,337 \u00b7 MOTOR AUTHORITY (3 NOV 2020): LISTINGS $975,000\u2013$1.6 M \u00b7 MERCEDESBLOG (18 MAY 2022): BRABUS CAR $1,170,000",
    "cuts": 3,
-   "chapter": "What they sell for now"
+   "chapter": "What they sell for now",
+   "orig_query": "Mercedes used prices"
   },
   {
    "text": "The Hennessey is cheaper secondhand. Ford Authority says a twenty eighteen model sold at its buy-now price of three hundred seventy-five thousand dollars on eBay, though the writer was unsure of the exact figure. A twenty seventeen truck with six thousand miles was listed at three hundred fifty-five thousand. These are listing prices, not verified sales.",
-   "query": "Hennessey used prices",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "FORD AUTHORITY (FEB 2019): 2018 MODEL SOLD AT 'BUY NOW' $375,000 (WRITER UNSURE OF EXACT AMOUNT) \u00b7 2017 TRUCK, 6,000 MI, LISTED $355,000 \u00b7 LISTING PRICES, NOT VERIFIED SALES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey used prices"
   },
   {
    "text": "By our arithmetic, the Hennessey's used price of three hundred seventy-five thousand is seven percent above its three hundred forty-nine thousand start. The Mercedes's nine hundred one thousand is seventy-six percent above its five hundred eleven thousand start. So, on these few data points, the German truck grew in value far more than the Texan one.",
-   "query": "Value change",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$375,000 \u00f7 $349,000 = +7.4% \u00b7 $901,337 \u00f7 $511,000 = +76.4% (OUR ARITHMETIC; FEW DATA POINTS; DIFFERENT YEARS AND SALE TYPES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Value change"
   },
   {
    "text": "Let us widen that value comparison. By our arithmetic, the Mercedes's nine hundred one thousand dollar sale is about two point four times the Hennessey's three hundred seventy-five thousand dollar buy-now price. At launch, the Mercedes cost one point four six times as much. So in these data points, the gap grew rather than shrank.",
-   "query": "Gap widened",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "$901,337 \u00f7 $375,000 = 2.40\u00d7 vs LAUNCH 1.46\u00d7 (OUR ARITHMETIC; FEW DATA POINTS; DIFFERENT SALE TYPES AND DATES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Gap widened"
   },
   {
    "text": "The twenty seventeen Hennessey with six thousand miles was listed at three hundred fifty-five thousand dollars, per Ford Authority. By our arithmetic, that is one point seven percent above the three hundred forty-nine thousand start price and eleven point eight percent above the two thousand sixteen figure of base plus HPE600. Again, that is a list price, not a sale.",
-   "query": "A listing vs start prices",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$355,000 \u00f7 $349,000 = +1.7% \u00b7 $355,000 \u00f7 $317,500 = +11.8% (OUR ARITHMETIC; LISTING PRICE, NOT A SALE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A listing vs start prices"
   },
   {
    "text": "Why the difference? Our sources do not say. One possibility we can mention is the Mercedes's factory origin and sold-out status, which Wikipedia and CarAdvice describe, but that is our reading, not a finding. The Hennessey sales we found are from early twenty nineteen, while the Mercedes sales are from late twenty twenty and after. Timing differs, too.",
-   "query": "Why different?",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "REASON: NOT IN OUR SOURCES \u00b7 POSSIBLE FACTORS (OUR READING): FACTORY ORIGIN, SOLD-OUT STATUS, TIMING \u00b7 HENNESSEY SALES FEB 2019 vs MERCEDES SALES NOV 2020 ONWARD",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Why different?"
   },
   {
    "text": "So, what is the real difference? One: origin. A factory military-derived vehicle against a Texas conversion of a Ford. Two: engine. A five and a half litre V8 against a three and a half litre V6, with the Hennessey claiming more power. Three: price, with the Mercedes at about forty-six percent more at launch. Four: what the sources do not show for the Hennessey.",
-   "query": "The real differences",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "1) FACTORY ARMY-DERIVED vs TEXAS CONVERSION OF A FORD \u00b7 2) 5.5 L V8 (536 HP) vs 3.5 L V6 (600\u2013605 HP CLAIMED) \u00b7 3) ~46% PRICE GAP AT LAUNCH (OUR ARITHMETIC) \u00b7 4) HENNESSEY GAPS IN THE SOURCES",
    "cuts": 3,
-   "chapter": "So what is the real difference?"
+   "chapter": "So what is the real difference?",
+   "orig_query": "The real differences"
   },
   {
    "text": "A fair way to put it: the Hennessey is the faster claim and the cheaper truck, while the Mercedes is the more heavily documented machine, with measured clearance, wading depth, portal axles and a pressure system. Which is better depends on what a buyer wants, and our sources contain no head-to-head test. We will not invent one.",
-   "query": "Fair summary",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "HENNESSEY: FASTER CLAIM, LOWER PRICE \u00b7 MERCEDES: MORE DOCUMENTED HARDWARE \u00b7 HEAD-TO-HEAD TEST: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fair summary"
   },
   {
    "text": "What is missing. The Hennessey's weight, ground clearance, tyre size, wading depth, top speed and fuel consumption. A delivered count for either truck. A single test where both were driven on the same day. If you have these numbers from an owner manual or a build sheet, share them in the comments, and we will update the description.",
-   "query": "G63 6x6 vs VelociRaptor 6x6",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "NOT IN OUR SOURCES: HENNESSEY WEIGHT \u00b7 CLEARANCE \u00b7 TYRE SIZE \u00b7 WADING \u00b7 TOP SPEED \u00b7 FUEL USE \u00b7 DELIVERED COUNTS \u00b7 ANY HEAD-TO-HEAD TEST",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "G63 6x6 vs VelociRaptor 6x6"
   },
   {
    "text": "Which would you rather own, the army-derived Mercedes or the Texas conversion? Tell us in the comments. In the other videos of this series we show two things you did not know about the Mercedes, ask what a six-wheel truck really costs, and tell the story behind it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "G63 6x6 vs VelociRaptor 6x6",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "G63 6x6 vs VelociRaptor 6x6"
   }
  ]
 }

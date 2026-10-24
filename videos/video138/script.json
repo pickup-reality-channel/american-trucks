@@ -6,290 +6,336 @@
  "scenes": [
   {
    "text": "The Porsche nine eighteen Spyder and the Ferrari LaFerrari arrived within months of each other in twenty thirteen, both hybrids, both limited, both the fastest road cars their makers had ever built. But the numbers show two very different ideas of what a hybrid hypercar should be. One leans on its electric motors, the other on a huge V12. Here is the comparison, side by side, with every figure sourced.",
-   "query": "Porsche 918 Spyder and Ferrari LaFerrari",
+   "query": "Ferrari LaFerrari",
    "caption": "PORSCHE 918 vs LAFERRARI: THE DIFFERENCE NOBODY EXPLAINS",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Porsche 918 Spyder and Ferrari LaFerrari"
   },
   {
    "text": "We use Wikipedia's pages for both cars, Porsche's own press release, evo, Motorious, Sotheby's, RM Sotheby's, Broad Arrow and the duPont Registry. Where a figure is a manufacturer claim, we say so. Where two sources disagree, we show both. And where we compare numbers measured in different units or on different tracks, we warn you before we do the sum.",
-   "query": "Porsche 918 and Ferrari LaFerrari research",
+   "query": "Ferrari LaFerrari",
    "caption": "SOURCES: WIKIPEDIA \u00b7 PORSCHE PRESS RELEASE (COMPANY SOURCE) \u00b7 EVO \u00b7 MOTORIOUS \u00b7 SOTHEBY'S \u00b7 RM SOTHEBY'S \u00b7 BROAD ARROW \u00b7 DUPONT REGISTRY",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Porsche 918 and Ferrari LaFerrari research"
   },
   {
    "text": "Evo's Harry Metcalfe calls the nine eighteen, the McLaren P1 and the LaFerrari the first plug-in hybrid supercars, and the Holy Trinity. He says the Porsche is the cleverest and technically the most impressive. Of the Ferrari, he says its naturally aspirated V12 is the focus: the electric motor never seems to help, and the car feels as if the engine had been enlarged to ten litres.",
-   "query": "Holy Trinity",
+   "query": "Ferrari LaFerrari",
    "caption": "METCALFE (EVO): 918 'THE CLEVEREST AND TECHNICALLY THE MOST IMPRESSIVE' \u00b7 LAFERRARI: ELECTRIC MOTOR 'NEVER SEEMS TO HELP' \u00b7 FEELS LIKE A 10-LITRE ENGINE",
    "cuts": 5,
-   "chapter": "Two ideas of a hybrid"
+   "chapter": "Two ideas of a hybrid",
+   "orig_query": "Holy Trinity"
   },
   {
    "text": "That is one writer's opinion, and we label it as such. But the specification sheets support the contrast. The Porsche pairs a four point six litre V8 with two electric motors. The Ferrari pairs a six point three litre V12 with a single hybrid unit. The Porsche was built to use electricity as a core part of its performance. The Ferrari, on its numbers, uses it as a supplement.",
-   "query": "918 vs LaFerrari design",
+   "query": "Porsche 918 Spyder rear",
    "caption": "918: 4.6 L V8 + 2 ELECTRIC MOTORS \u00b7 LAFERRARI: 6.3 L V12 + 1 HY-KERS UNIT (WIKIPEDIA) \u00b7 'CORE vs SUPPLEMENT' IS OUR READING OF THE NUMBERS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 vs LaFerrari design"
   },
   {
    "text": "Both were unveiled with fanfare. Wikipedia says the nine eighteen debuted as a concept at the Geneva Motor Show in March twenty ten and went into production on the eighteenth of September, twenty thirteen. The LaFerrari was shown at the twenty thirteen Geneva show. The name means the Ferrari in Italian, Wikipedia says, and was meant to be the definitive Ferrari. It succeeds the Enzo, and the F eighty is its successor.",
-   "query": "LaFerrari origins",
+   "query": "Ferrari LaFerrari",
    "caption": "918: CONCEPT MARCH 2010, PRODUCTION SEPT 18, 2013 \u00b7 LAFERRARI: GENEVA 2013 \u00b7 NAME = 'THE FERRARI' \u00b7 SUCCEEDS THE ENZO; SUCCESSOR F80 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari origins"
   },
   {
    "text": "There is a styling footnote. Wikipedia says Pininfarina had no input in the LaFerrari's design. It was the first Ferrari since the nineteen seventy-three Dino three oh eight GT four without Pininfarina styling, ending a collaboration dating to nineteen fifty-one. By our arithmetic, that collaboration lasted about sixty-two years, so the LaFerrari marks a break in how Ferrari designs its cars.",
-   "query": "LaFerrari design",
+   "query": "Ferrari LaFerrari",
    "caption": "NO PININFARINA INPUT \u00b7 FIRST FERRARI WITHOUT IT SINCE THE 1973 DINO 308 GT4 \u00b7 COLLABORATION SINCE 1951 \u2248 62 YEARS (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari design"
   },
   {
    "text": "Engines. The nine eighteen's four point six litre V8, Wikipedia says, makes six hundred eight metric horsepower at eighty-seven hundred rpm and five hundred forty newton-metres. The LaFerrari's six point three litre F one forty V12 makes eight hundred metric horsepower at nine thousand rpm and seven hundred newton-metres. By our arithmetic, the Ferrari's engine makes thirty-two percent more power than the Porsche's, and thirty percent more torque.",
-   "query": "Engines compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918 V8: 608 PS / 540 N\u00b7M \u00b7 LAFERRARI V12: 800 PS / 700 N\u00b7M \u2192 +31.6% POWER \u00b7 +29.6% TORQUE (WIKIPEDIA; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Engines and electric power"
+   "chapter": "Engines and electric power",
+   "orig_query": "Engines compared"
   },
   {
    "text": "Per litre, the numbers reverse. By our arithmetic, six hundred eight over four point five nine three litres is about one hundred thirty-two metric horsepower per litre, and eight hundred over six point two six two is about one hundred twenty-eight. The smaller Porsche engine is slightly more efficient per litre, which fits Porsche's own claim that it is the highest of any naturally aspirated Porsche engine.",
-   "query": "Specific output",
+   "query": "Ferrari LaFerrari",
    "caption": "918: 608 \u00f7 4.593 L \u2248 132 PS/L \u00b7 LAFERRARI: 800 \u00f7 6.262 L \u2248 128 PS/L (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Specific output"
   },
   {
    "text": "Electric. Wikipedia lists the Porsche's two motors at one hundred fifteen and ninety-five kilowatts, two hundred ten kilowatts or two hundred eighty-six metric horsepower in total. The Ferrari's HY-KERS unit is one hundred sixty-three metric horsepower and provides short bursts of extra power. By our arithmetic, the Porsche's electric power is seventy-six percent greater than the Ferrari's, and makes up thirty-two percent of its system output, against seventeen percent for the Ferrari.",
-   "query": "Electric power compared",
+   "query": "McLaren P1",
    "caption": "918: 210 KW (286 PS) = 32% OF 887 PS \u00b7 LAFERRARI: 163 PS = 17% OF 963 PS \u00b7 286 vs 163 = +75.5% (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Electric power compared"
   },
   {
    "text": "System output. Wikipedia lists the nine eighteen at eight hundred eighty-seven metric horsepower and twelve hundred eighty newton-metres, and the LaFerrari at nine hundred sixty-three metric horsepower and nine hundred newton-metres. By our arithmetic, the Ferrari has eight point six percent more power, and the Porsche has forty-two percent more torque. RM Sotheby's, in a twenty twenty-six sale, gives the LaFerrari's output as nine hundred forty-nine horsepower, which is the same figure expressed differently.",
-   "query": "System output compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918: 887 PS / 1,280 N\u00b7M \u00b7 LAFERRARI: 963 PS / 900 N\u00b7M \u2192 FERRARI +8.6% POWER \u00b7 PORSCHE +42.2% TORQUE (WIKIPEDIA; OUR ARITHMETIC) \u00b7 RM SOTHEBY'S: 949 HP FOR LAFERRARI",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "System output compared"
   },
   {
    "text": "A check on that last point. Nine hundred sixty-three metric horsepower is nine hundred fifty mechanical horsepower, by our arithmetic, so RM Sotheby's nine hundred forty-nine is within one horsepower, a rounding difference. The Porsche's eight hundred eighty-seven metric is eight hundred seventy-five. So on the same basis, the Ferrari has seventy-five horsepower more, eight and a half percent.",
-   "query": "Power unit conversion",
+   "query": "Porsche 918 Spyder interior",
    "caption": "963 PS = 950 HP \u00b7 887 PS = 875 HP \u2192 +75 HP (+8.6%) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power unit conversion"
   },
   {
    "text": "Revs. Wikipedia lists the Ferrari engine's peak power at nine thousand rpm. Porsche's release says its V8 can run to nine thousand one hundred fifty. So both engines are happy at very high revs, and both are naturally aspirated, which was unusual for hypercars then and is rarer now. The Ferrari uses twelve cylinders to get there, and the Porsche eight, and the sources do not say which sounds better.",
-   "query": "High-revving engines",
+   "query": "McLaren P1 rear",
    "caption": "LAFERRARI PEAK POWER 9,000 RPM (WIKIPEDIA) \u00b7 918 UP TO 9,150 RPM (PORSCHE) \u00b7 BOTH NATURALLY ASPIRATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "High-revving engines"
   },
   {
    "text": "Weight. Wikipedia lists the LaFerrari with a claimed dry weight of about twelve hundred fifty-five kilograms and a kerb weight of fifteen hundred eighty-five. The nine eighteen's curb weight is sixteen hundred thirty-four to seventeen hundred twenty kilograms, Wikipedia says, and Porsche says about sixteen hundred forty with the Weissach package. By our arithmetic, the Porsche is forty-nine to one hundred thirty-five kilograms heavier than the Ferrari's kerb weight.",
-   "query": "Weight compared",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI DRY ~1,255 KG \u00b7 KERB 1,585 KG \u00b7 918 CURB 1,634\u20131,720 KG (~1,640 WITH WEISSACH) \u2192 +49 TO +135 KG vs LAFERRARI KERB (WIKIPEDIA, PORSCHE; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Weight"
+   "chapter": "Weight",
+   "orig_query": "Weight compared"
   },
   {
    "text": "Power to weight. By our arithmetic, the LaFerrari's nine hundred fifty horsepower over a kerb weight of one point five eight five tonnes is about five hundred ninety-nine horsepower per tonne. The nine eighteen's eight hundred seventy-five over one point six four tonnes is about five hundred thirty-three. So the Ferrari leads on power to weight by about twelve percent, on these figures.",
-   "query": "Power to weight",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI 950 \u00f7 1.585 t \u2248 599 HP/t \u00b7 918 875 \u00f7 1.64 t \u2248 533 HP/t \u2192 +12.4% FOR FERRARI (OUR ARITHMETIC; KERB/CURB WEIGHTS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "There is a catch. The two weight figures are not necessarily measured the same way. Kerb weight conventions differ, and the Ferrari's is listed on Wikipedia without a source we could check, while the Porsche's comes from Porsche's own release for the Weissach car. So the twelve percent is indicative. The sources do not give a weight for a standard-spec nine eighteen from Porsche, only a range from Wikipedia.",
-   "query": "Weight comparison caveat",
+   "query": "Porsche Weissach",
    "caption": "KERB/CURB CONVENTIONS MAY DIFFER \u00b7 LAFERRARI KERB WEIGHT UNSOURCED ON WIKIPEDIA \u00b7 918 FIGURE FROM PORSCHE'S WEISSACH SPEC",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight comparison caveat"
   },
   {
    "text": "Acceleration. Wikipedia lists the LaFerrari at zero to one hundred kilometres per hour in two point six seconds and zero to two hundred in under six point nine. The nine eighteen's official zero to sixty is two point six, though Car and Driver measured two point two and Motor Trend two point four. Careful: sixty miles per hour is ninety-seven kilometres per hour, so the Porsche's time is for a slightly lower speed.",
-   "query": "Acceleration compared",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI 0\u2013100 KM/H 2.6 s \u00b7 0\u2013200 UNDER 6.9 s \u00b7 918 0\u201360 MPH 2.6 s OFFICIAL (2.2 C/D, 2.4 MOTOR TREND) \u00b7 60 MPH = 96.6 KM/H (WIKIPEDIA; OUR CONVERSION)",
    "cuts": 3,
-   "chapter": "Speed and the claims that failed"
+   "chapter": "Speed and the claims that failed",
+   "orig_query": "Acceleration compared"
   },
   {
    "text": "Now the claim that failed. Wikipedia says Ferrari's claim of zero to three hundred kilometres per hour in fifteen seconds was debunked, and the verified time is twenty-one point nine nine seconds. By our arithmetic, the verified time is six point nine nine seconds longer than claimed, or forty-seven percent. Wikipedia's McLaren P1 page lists that car's claim as sixteen point five. The sources do not name who verified the Ferrari time.",
-   "query": "LaFerrari 0\u2013300 claim",
+   "query": "McLaren P1",
    "caption": "CLAIMED 15 s \u2192 VERIFIED 21.99 s: +6.99 s (+46.6%) \u00b7 P1 CLAIM 16.5 s (WIKIPEDIA; OUR ARITHMETIC) \u00b7 WHO VERIFIED: NOT NAMED IN OUR SOURCE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari 0\u2013300 claim"
   },
   {
    "text": "Top speed. Wikipedia says Ferrari states in excess of three hundred fifty kilometres per hour for the LaFerrari. The nine eighteen's official figure is three hundred forty-five, two hundred fourteen miles per hour, and an independent test reached three hundred fifty-two, two hundred eighteen point seven. By our arithmetic, that is within seven kilometres per hour, and since Ferrari only states in excess of three fifty, we cannot say which car is faster.",
-   "query": "Top speed compared",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI: 'IN EXCESS OF 350 KM/H' \u00b7 918: 345 KM/H OFFICIAL \u00b7 352 KM/H INDEPENDENT TEST (WIKIPEDIA) \u2192 NOT RESOLVABLE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top speed compared"
   },
   {
    "text": "Lap times. Wikipedia lists the LaFerrari's Fiorano lap, claimed by Ferrari, as one minute nineteen point seven. The nine eighteen's six fifty-seven is a Nordschleife time. These are two different tracks, so no comparison is possible, and we found no LaFerrari N\u00fcrburgring time in our sources. The sources compare cars on their own terms: Ferrari's home track, Porsche's famous lap.",
-   "query": "Lap times compared",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI FIORANO 1:19.70 (FERRARI CLAIM) \u00b7 918 NORDSCHLEIFE 6:57 \u00b7 DIFFERENT TRACKS \u2014 NOT COMPARABLE \u00b7 LAFERRARI N\u00dcRBURGRING TIME: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lap times compared"
   },
   {
    "text": "Aerodynamics. Wikipedia says the LaFerrari's active aerodynamics are managed by twenty-one onboard computers, but gives no downforce figure for the road car. The Porsche's release describes Porsche Active Aerodynamics with three modes, a Race mode with a steep wing angle and extended spoiler, and underfloor flaps. Neither source gives a comparable downforce number, so we cannot compare the two on aero.",
-   "query": "Aerodynamics compared",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI: ACTIVE AERO, 21 COMPUTERS, NO DOWNFORCE FIGURE \u00b7 918: PAA, 3 MODES, NO DOWNFORCE FIGURE IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aerodynamics compared"
   },
   {
    "text": "Efficiency. Wikipedia lists the nine eighteen's carbon dioxide at seventy-nine grams per kilometre and three litres per hundred kilometres on the NEDC test, an electric range of nineteen kilometres under the EPA, and a total range of six hundred eighty kilometres. For the LaFerrari, Ferrari claims three hundred thirty grams per kilometre, and a forty percent reduction in fuel consumption, the source does not say compared with what.",
-   "query": "Efficiency compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918: 79 G/KM CO\u2082 (NEDC) \u00b7 EV RANGE 19 KM (EPA) \u00b7 TOTAL RANGE 680 KM \u00b7 LAFERRARI: 330 G/KM CO\u2082 (FERRARI CLAIM) \u00b7 '40% REDUCTION' \u2014 BASELINE NOT STATED (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Fuel, range and emissions"
+   "chapter": "Fuel, range and emissions",
+   "orig_query": "Efficiency compared"
   },
   {
    "text": "By our arithmetic, the LaFerrari's claimed emissions are about four point two times the nine eighteen's. Both are NEDC-style claims, but the Porsche has a plug-in battery that the NEDC test rewards, and the Ferrari's HY-KERS unit does not appear to be plug-in. The sources do not say how the two were measured, so the ratio shows the difference in design more than in efficiency.",
-   "query": "Emissions compared",
+   "query": "Ferrari LaFerrari",
    "caption": "330 \u00f7 79 \u2248 4.2\u00d7 (OUR ARITHMETIC) \u00b7 TEST BASIS NOT FULLY STATED \u2014 PLUG-IN vs NON-PLUG-IN DESIGN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Emissions compared"
   },
   {
    "text": "The Ferrari's battery. Wikipedia does not state the LaFerrari's battery capacity, and the sources do not give an electric range. The Porsche's is a 6.8 kilowatt-hour pack. So here the comparison is simple: one car has a published battery size and an EPA electric range, and the other has neither in our sources. That alone shows a different attitude towards the electric part of the system.",
-   "query": "Battery compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918: 6.8 KWH, 19 KM EPA ELECTRIC RANGE \u00b7 LAFERRARI: BATTERY SIZE AND EV RANGE NOT STATED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Battery compared"
   },
   {
    "text": "Production. Wikipedia says the nine eighteen was limited to nine hundred eighteen units. The LaFerrari coup\u00e9 was limited to four hundred ninety-nine units, with a five hundredth car auctioned for charity on the third of December, twenty sixteen, by RM Sotheby's for seven million dollars. The open-top Aperta had two hundred initially sold, nine reserved for the seventieth anniversary and one more auctioned: two hundred ten in all.",
-   "query": "Production compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918: 918 UNITS \u00b7 LAFERRARI COUP\u00c9: 499 + 500TH CAR ($7M, CHARITY, DEC 3, 2016) \u00b7 APERTA: 200 + 9 + 1 = 210 (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Rarity and price"
+   "chapter": "Rarity and price",
+   "orig_query": "Production compared"
   },
   {
    "text": "By our arithmetic, the Porsche was built in a run 1.84 times as large as the LaFerrari coup\u00e9's. Counting all LaFerrari variants, the five hundred coup\u00e9s and two hundred ten Apertas make seven hundred ten, so the Porsche run is still 1.29 times as large. Wikipedia says all two hundred Apertas were pre-sold to customers by invitation.",
-   "query": "Production maths",
+   "query": "Ferrari LaFerrari",
    "caption": "918 \u00f7 499 = 1.84 \u00b7 918 \u00f7 710 = 1.29 (OUR ARITHMETIC) \u00b7 APERTA: ALL 200 PRE-SOLD BY INVITATION (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Production maths"
   },
   {
    "text": "Price. Wikipedia says the nine eighteen started at about seven hundred eighty-one thousand euros in Europe, eight hundred forty-five thousand dollars in the United States and seven hundred eleven thousand pounds in Britain. It says only that each LaFerrari cost more than one million euros. By our arithmetic, one million over seven hundred eighty-one thousand is one point two eight, so the Ferrari cost at least twenty-eight percent more than the Porsche in Europe. The real gap could be larger, since our sources give no more precise LaFerrari price. The Porsche's Weissach package added eighty-four thousand dollars, and Sotheby's lists one LaFerrari with one hundred twenty-seven thousand, two hundred forty-one dollars in factory options.",
-   "query": "Price compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918 \u2248 \u20ac781,000 / $845,000 / \u00a3711,000 \u00b7 LAFERRARI > \u20ac1,000,000 \u2192 AT LEAST \u2248 +28% IN EUROPE; WEISSACH +$84,000; ONE LAFERRARI $127,241 IN OPTIONS (WIKIPEDIA, SOTHEBY'S; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price compared"
   },
   {
    "text": "The third car of the trinity, the McLaren P1, gives a useful midpoint. Wikipedia says three hundred seventy-five standard P1s were built, plus fifty-eight P1 GTRs, from October twenty thirteen to December twenty fifteen. Its three point eight litre twin-turbo V8 makes seven hundred thirty-seven metric horsepower and its electric motor one hundred seventy-nine, for nine hundred sixteen combined and nine hundred newton-metres.",
    "query": "McLaren P1",
    "caption": "P1: 375 BUILT (+58 GTR) \u00b7 OCT 2013 \u2013 DEC 2015 \u00b7 3.8 L TWIN-TURBO V8 737 PS + ELECTRIC 179 PS = 916 PS \u00b7 900 N\u00b7M (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "The third car"
+   "chapter": "The third car",
+   "orig_query": "McLaren P1"
   },
   {
    "text": "By our arithmetic, the P1's system output of nine hundred sixteen sits between the Porsche's eight hundred eighty-seven and the Ferrari's nine hundred sixty-three. Its electric motor, at one hundred seventy-nine, is slightly stronger than the Ferrari's one hundred sixty-three, and well below the Porsche's two hundred eighty-six. Its torque matches the Ferrari's nine hundred, with the Porsche's twelve eighty far above both.",
-   "query": "Trinity power compared",
+   "query": "McLaren P1",
    "caption": "SYSTEM: 918 887 \u00b7 P1 916 \u00b7 LAFERRARI 963 PS \u00b7 ELECTRIC: 918 286 \u00b7 P1 179 \u00b7 LAFERRARI 163 PS \u00b7 TORQUE: 918 1,280 \u00b7 P1 900 \u00b7 LAFERRARI 900 N\u00b7M (WIKIPEDIA; OUR COMPARISON)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Trinity power compared"
   },
   {
    "text": "Weight on the P1's page is inconsistent. The infobox lists a kerb weight of fourteen hundred ninety kilograms, the text gives fifteen hundred forty-seven, citing Autocar, and the dry weight is thirteen hundred ninety-five. Using the text figure, the P1 is lighter than the Ferrari's kerb weight of fifteen eighty-five by thirty-eight kilograms, and lighter than the Porsche's sixteen forty by ninety-three, by our arithmetic.",
-   "query": "McLaren P1 weight",
+   "query": "McLaren P1",
    "caption": "P1: INFOBOX 1,490 KG \u00b7 TEXT 1,547 KG (AUTOCAR) \u00b7 DRY 1,395 KG \u00b7 vs LAFERRARI KERB 1,585 (\u221238 KG) \u00b7 vs 918 ~1,640 (\u221293 KG) (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "McLaren P1 weight"
   },
   {
    "text": "Speed. Wikipedia lists the P1's zero to one hundred kilometres per hour at two point eight seconds and its zero to three hundred at sixteen point five seconds, McLaren's claims, with a top speed electronically limited to three hundred fifty kilometres per hour, two hundred seventeen miles per hour. The Ferrari's claimed fifteen seconds was quicker than McLaren's claim, but its verified twenty-one point nine nine was far slower. The Porsche's zero to three hundred is not given in our sources.",
-   "query": "McLaren P1 performance",
+   "query": "McLaren P1",
    "caption": "P1: 0\u2013100 KM/H 2.8 s \u00b7 0\u2013300 KM/H 16.5 s (MCLAREN CLAIM) \u00b7 LIMITED TO 350 KM/H (217 MPH) \u00b7 918 0\u2013300: NOT IN OUR SOURCES (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "McLaren P1 performance"
   },
   {
    "text": "Wikipedia also notes that McLaren announced a sub-seven-minute N\u00fcrburgring lap for the P1 without publishing the exact time, and that the six forty-three point two two time belongs to the P1 LM prototype in April twenty seventeen, which was not road legal during the run. So the P1's lap is the least documented of the three, and we do not rank it.",
-   "query": "McLaren P1 N\u00fcrburgring",
+   "query": "McLaren P1",
    "caption": "P1: SUB-7-MINUTE LAP ANNOUNCED, TIME NOT PUBLISHED \u00b7 6:43.22 BELONGS TO THE P1 LM PROTOTYPE (APRIL 2017), NOT ROAD LEGAL (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "McLaren P1 N\u00fcrburgring"
   },
   {
    "text": "A word on reliability. Wikipedia says the nine eighteen has been the subject of half a dozen recalls, including issues with control arms and seat belts. It says eighty-five LaFerrari coup\u00e9s from the twenty fourteen and twenty fifteen model years were recalled for headrest and tyre-pressure system issues. By our arithmetic, that is about seventeen percent of the four hundred ninety-nine coup\u00e9s.",
-   "query": "Recalls compared",
+   "query": "Ferrari LaFerrari",
    "caption": "918: ~6 RECALLS (CONTROL ARMS, SEAT BELTS) \u00b7 LAFERRARI: 85 COUP\u00c9S RECALLED (HEADREST, TYRE-PRESSURE SYSTEM) = 17.0% OF 499 (WIKIPEDIA; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Reliability and service"
+   "chapter": "Reliability and service",
+   "orig_query": "Recalls compared"
   },
   {
    "text": "Service costs. Motorious, describing a delivery-mileage twenty fifteen LaFerrari to be sold at Broad Arrow's Z\u00fcrich auction, says recent work at Rossocorsa, Ferrari's official dealer in Milan, included a new high-voltage battery and a fix for the sticky button switchgear issue, with an invoice above two hundred thousand euros. It says a buyer inherits a LaFerrari with its largest looming expense already covered.",
-   "query": "LaFerrari service cost",
+   "query": "Ferrari LaFerrari",
    "caption": "RECENT WORK AT ROSSOCORSA, MILAN: NEW HIGH-VOLTAGE BATTERY + 'STICKY BUTTON' FIX \u00b7 INVOICE > \u20ac200,000 (MOTORIOUS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari service cost"
   },
   {
    "text": "That one article is the only LaFerrari service figure in our sources, and it is a single car's invoice. The car, Motorious says, had just ninety-two kilometres, was offered without reserve against an estimate of five and a half to seven and a half million Swiss francs, and had a special series Yellow Book documenting early ownership. We found no nine eighteen service invoice at all.",
-   "query": "LaFerrari delivery-mileage car",
+   "query": "Ferrari LaFerrari",
    "caption": "CHASSIS 214333: 92 KM \u00b7 NO RESERVE \u00b7 EST. CHF 5.5M\u20137.5M \u00b7 YELLOW BOOK (MOTORIOUS) \u00b7 918 SERVICE INVOICES: NONE FOUND",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari delivery-mileage car"
   },
   {
    "text": "Resale. Sotheby's lists seven recent LaFerrari sales between February twenty twenty-five and January twenty twenty-six. A two thousand fifteen coup\u00e9 with fifty-four miles and one hundred twenty-seven thousand dollars of options sold for five million, two hundred thirty thousand dollars in August twenty twenty-five. A two thousand fifteen coup\u00e9 with one thousand nine hundred thirty-eight miles sold for five million, four hundred seventy-seven thousand, five hundred in January twenty twenty-six.",
-   "query": "LaFerrari auction results",
+   "query": "Ferrari LaFerrari",
    "caption": "2015 COUP\u00c9 (54 MI, $127,241 OPTIONS): $5,230,000, AUG 2025 \u00b7 2015 COUP\u00c9 (1,938 MI): $5,477,500, JAN 2026 (SOTHEBY'S, RM SOTHEBY'S)",
    "cuts": 3,
-   "chapter": "What they sell for now"
+   "chapter": "What they sell for now",
+   "orig_query": "LaFerrari auction results"
   },
   {
    "text": "Others were lower. A two thousand fourteen LaFerrari delivered new to Kuwait with three thousand seven hundred one kilometres sold for three million, three hundred eighty thousand dollars in December twenty twenty-five. A twenty fourteen car in Grigio Ferro with sixteen hundred thirteen kilometres sold for three million, three hundred twenty-three thousand, seven hundred fifty Swiss francs in October. So coup\u00e9s sold anywhere from about three to five and a half million.",
-   "query": "LaFerrari auction range",
+   "query": "Ferrari LaFerrari",
    "caption": "2014 (KUWAIT, 3,701 KM): $3,380,000, DEC 2025 \u00b7 2014 (1,613 KM): CHF 3,323,750 (~$4.17M PER SOTHEBY'S TABLE), OCT 2025 (SOTHEBY'S)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari auction range"
   },
   {
    "text": "The Aperta, the open-top car, sold for more. Sotheby's lists a two thousand seventeen Aperta at six million, seven hundred fifteen thousand dollars in August twenty twenty-five, with under twenty-three hundred miles. And Wikipedia says the last Aperta sold at auction in twenty seventeen for ten million dollars. Hagerty, per Motorious, lists a number three good-condition twenty fifteen LaFerrari at five million, six hundred fifty thousand, up seventy-three point eight percent in a year.",
-   "query": "LaFerrari Aperta and Hagerty",
+   "query": "Ferrari LaFerrari",
    "caption": "APERTA $6,715,000 (AUG 2025) \u00b7 LAST APERTA $10M (2017) \u00b7 HAGERTY #3 (GOOD) 2015 LAFERRARI $5.65M, +73.8% IN ONE YEAR (SOTHEBY'S, WIKIPEDIA, MOTORIOUS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari Aperta and Hagerty"
   },
   {
    "text": "And the Porsche. The duPont Registry reports a standard nine eighteen with four hundred twenty miles sold for two point nine six million in June twenty twenty-six, and a Weissach with twelve sixty-seven miles for four million six hundred eighty thousand in April, plus a one-of-one Pure Orange car for six point oh five million at Mecum in January. By our arithmetic, the LaFerrari coup\u00e9 that sold for five point four seven eight million is about one point eight five times the standard nine eighteen's two point nine six. These are single sales with different mileage, so this is not a market index, but the gap is real in the sales we found.",
-   "query": "918 vs LaFerrari resale",
+   "query": "Ferrari LaFerrari",
    "caption": "918: $2.96M STANDARD \u00b7 $4.68M WEISSACH \u00b7 $6.05M RECORD \u00b7 LAFERRARI COUP\u00c9 $5.478M \u2248 1.85\u00d7 THE STANDARD 918 (DUPONT REGISTRY, SOTHEBY'S; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 vs LaFerrari resale"
   },
   {
    "text": "One more Ferrari detail. Wikipedia says the FXX-K Evo's downforce is twenty-three percent above the FXX-K's and seventy-five percent above the road car's. By our arithmetic, that implies the FXX-K, the track version, has about forty-two percent more downforce than the road car. The page gives no road-car downforce number, so these are ratios only, and we cannot convert them into kilograms.",
-   "query": "LaFerrari FXX-K downforce",
+   "query": "McLaren P1",
    "caption": "FXX-K EVO = 1.23\u00d7 FXX-K = 1.75\u00d7 ROAD CAR \u2192 FXX-K \u2248 1.42\u00d7 ROAD CAR (WIKIPEDIA; OUR ARITHMETIC) \u00b7 NO ABSOLUTE DOWNFORCE FIGURE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari FXX-K downforce"
   },
   {
    "text": "The Aperta against the coup\u00e9. Sotheby's lists a two thousand seventeen Aperta at six million, seven hundred fifteen thousand dollars, and the highest coup\u00e9 at five million, four hundred seventy-seven thousand, five hundred. By our arithmetic, the Aperta is twenty-three percent higher. The Aperta run is two hundred ten cars against four hundred ninety-nine coup\u00e9s, a smaller run, though the cars differ in mileage and year as well.",
-   "query": "LaFerrari Aperta vs coup\u00e9",
+   "query": "Porsche 918 Spyder rear",
    "caption": "APERTA $6,715,000 vs COUP\u00c9 $5,477,500 \u2192 +22.6% \u00b7 210 vs 499 UNITS (SOTHEBY'S, WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari Aperta vs coup\u00e9"
   },
   {
    "text": "Hagerty's figure deserves a closer look. Motorious says Hagerty lists a number three, good condition, twenty fifteen LaFerrari at five million, six hundred fifty thousand dollars, up seventy-three point eight percent over the past year. By our arithmetic, that means the same valuation was about three point two five million a year earlier. That is consistent with several of the three-million-dollar sales in Sotheby's list.",
-   "query": "Hagerty LaFerrari value",
+   "query": "Ferrari LaFerrari",
    "caption": "$5.65M \u00f7 1.738 \u2248 $3.25M A YEAR EARLIER (HAGERTY VIA MOTORIOUS; OUR ARITHMETIC) \u00b7 SOTHEBY'S LIST INCLUDES SALES AT $3.38M\u2013$4.17M",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hagerty LaFerrari value"
   },
   {
    "text": "A caution about Sotheby's own table. The article's currency conversions do not always match its text, and for one car the text says three million, five hundred forty-eight thousand, seven hundred fifty euros while the table says three point six nine five million dollars. We therefore use the dollar sales that are stated plainly, and mark the converted ones. The article also gives no original price for any car.",
-   "query": "Sotheby's list caveats",
+   "query": "McLaren P1 rear",
    "caption": "SOTHEBY'S TABLE: SOME CHF/EUR\u2192USD CONVERSIONS DO NOT MATCH THE TEXT \u00b7 NO ORIGINAL PRICES GIVEN \u00b7 WE USE STATED USD SALES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Sotheby's list caveats"
   },
   {
    "text": "The Porsche's most expensive sale is a different case. The duPont Registry says the one-of-one Pure Orange nine eighteen sold for six million, fifty thousand dollars at Mecum Kissimmee in January twenty twenty-six, beating a previous record of three million, nine hundred thirty-seven thousand, five hundred. By our arithmetic, the new record was fifty-four percent higher. A paint-to-sample car is the Porsche market's equivalent of the Aperta.",
-   "query": "Porsche 918 record",
+   "query": "Porsche 918 Spyder",
    "caption": "$6,050,000 vs PREVIOUS RECORD $3,937,500 = +53.7% (DUPONT REGISTRY; OUR ARITHMETIC) \u00b7 'PAINT-TO-SAMPLE \u2248 APERTA' IS OUR ANALOGY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Porsche 918 record"
   },
   {
    "text": "What we could not find. A LaFerrari N\u00fcrburgring lap. The LaFerrari's battery size or electric range. Who verified the twenty-one point nine nine second zero to three hundred time. A downforce figure for either car. And a weight measured the same way for both. If you have a reliable source for any of them, share the link in the comments, and we will update the description.",
-   "query": "Porsche 918 and Ferrari LaFerrari",
+   "query": "Ferrari LaFerrari",
    "caption": "NOT IN OUR SOURCES: LAFERRARI N\u00dcRBURGRING TIME \u00b7 BATTERY/EV RANGE \u00b7 VERIFIER OF 21.99 s \u00b7 DOWNFORCE \u00b7 SAME-BASIS WEIGHTS",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Porsche 918 and Ferrari LaFerrari"
   },
   {
    "text": "So which is better? On the numbers: the Ferrari has more power and a lower weight, the Porsche has more torque, more electric power, a published battery, lower emissions, and a famous lap time. Evo's Metcalfe liked both, and called the Porsche the cleverest. The market currently values the LaFerrari more highly. That is a result, not a verdict.",
-   "query": "Porsche 918 vs Ferrari LaFerrari",
+   "query": "Ferrari LaFerrari",
    "caption": "FERRARI: POWER, WEIGHT, RESALE \u00b7 PORSCHE: TORQUE, ELECTRIC POWER, EMISSIONS, 6:57 LAP, LARGER RUN \u00b7 MARKET: LAFERRARI HIGHER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Porsche 918 vs Ferrari LaFerrari"
   },
   {
    "text": "Which one would you rather have? Tell us in the comments. In the other videos of this series, we reveal two secrets inside the Porsche nine eighteen, count what it really costs to own one, and tell the story of the hypercar holy trinity. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Porsche 918 Spyder and Ferrari LaFerrari",
+   "query": "Porsche 918 Spyder rear",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Porsche 918 Spyder and Ferrari LaFerrari"
   }
  ]
 }

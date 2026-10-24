@@ -6,326 +6,378 @@
  "scenes": [
   {
    "text": "Three cars, three companies, and one year. In twenty thirteen Ferrari, McLaren and Porsche each showed a hybrid hypercar, and the world gave them a single nickname: the Holy Trinity. But nobody, in the sources we found, says who named it, or whether any of the three companies was racing the others. This is the story as the record actually tells it, with the dates, the numbers, and the gaps.",
-   "query": "Hypercar Holy Trinity",
+   "query": "Porsche 918 Spyder",
    "caption": "THE STORY OF THE HYPERCAR HOLY TRINITY",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Hypercar Holy Trinity"
   },
   {
    "text": "We read Wikipedia's pages on all three cars, evo, Top Gear magazine's history of the nickname, Carwow, and a fan-maintained wiki for the Grand Tour episode. We name each source, we flag the ones that are only community or marketing material, and where two sources disagree we show both. Our own arithmetic is always labelled as ours.",
-   "query": "Hypercar Holy Trinity",
+   "query": "Ferrari LaFerrari",
    "caption": "SOURCES: WIKIPEDIA (3 CARS) \u00b7 EVO \u00b7 TOP GEAR MAGAZINE (INDIA) \u00b7 CARWOW \u00b7 GRAND TOUR FAN WIKI \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Hypercar Holy Trinity"
   },
   {
    "text": "The nickname did not start in twenty thirteen. Top Gear magazine's Indian edition, in a history published in January twenty twenty-three, names a trinity for each decade. For the nineteen eighties: the Ferrari F40, the Porsche 959, and the Ferrari 288 GTO. The article also says the choice has always been very debatable.",
-   "query": "Trinities of the 1980s",
+   "query": "McLaren P1",
    "caption": "TOP GEAR MAGAZINE (INDIA), JAN 2023: 1980s = FERRARI F40 \u00b7 PORSCHE 959 \u00b7 FERRARI 288 GTO \u00b7 'ALWAYS VERY DEBATABLE'",
    "cuts": 5,
-   "chapter": "A nickname with a long history"
+   "chapter": "A nickname with a long history",
+   "orig_query": "Trinities of the 1980s"
   },
   {
    "text": "For the nineteen nineties it names the McLaren F1, the Ferrari F50 and the Jaguar XJ220. For the two thousands, the Ferrari Enzo, the Porsche Carrera GT, and the Mercedes-Benz SLR McLaren. And for the twenty tens, the three cars of this video. By our count, that is five trinities across forty years of cars, one a decade, in this one source.",
-   "query": "Trinities by decade",
+   "query": "Porsche 918 Spyder rear",
    "caption": "1990s: McLAREN F1 \u00b7 FERRARI F50 \u00b7 JAGUAR XJ220 \u00b7 2000s: ENZO \u00b7 CARRERA GT \u00b7 SLR McLAREN \u00b7 2010s: LAFERRARI \u00b7 P1 \u00b7 918 (TOP GEAR MAG INDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Trinities by decade"
   },
   {
    "text": "The article does not say when the term was first used, or who coined it. We looked for the origin and did not find one in the sources we read. So we cannot tell you that the Holy Trinity was named by a magazine, a manufacturer, or an owner. What we can tell you is that the same shape, three rival cars of the same era, had already been used many times before.",
-   "query": "Origin of the term",
+   "query": "Porsche 918 Spyder interior",
    "caption": "ORIGIN OF 'HOLY TRINITY': NOT STATED IN THE SOURCES WE READ \u00b7 THE PATTERN OF A TRIO PER ERA IS (TOP GEAR MAG INDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Origin of the term"
   },
   {
    "text": "The earlier trinities also show a habit worth noticing: limited editions grow. The same article says the F40 was planned at four hundred cars and about thirteen hundred were built. The Enzo was planned at three hundred ninety-nine plus one for the Pope, and four hundred ninety-three were built. By our arithmetic, that is more than three times the plan for the F40 and nearly one and a quarter times for the Enzo.",
-   "query": "Limited runs grow",
+   "query": "McLaren P1 rear",
    "caption": "F40: PLANNED 400, BUILT ~1,300+ (\u00d73.25) \u00b7 ENZO: PLANNED 399+1, BUILT 493 (\u00d71.23) (TOP GEAR MAG INDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Limited runs grow"
   },
   {
    "text": "Porsche's story starts earliest. Wikipedia says the nine eighteen was first shown as a concept at the Geneva Motor Show in March twenty ten. On the twenty-eighth of July twenty ten, Porsche's supervisory board approved series development, after two thousand declarations of interest.",
-   "query": "918 origin",
+   "query": "Porsche 918 Spyder",
    "caption": "MARCH 2010 CONCEPT, GENEVA \u00b7 28 JULY 2010 BOARD APPROVAL \u00b7 2,000 DECLARATIONS OF INTEREST (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Porsche's road to the 918"
+   "chapter": "Porsche's road to the 918",
+   "orig_query": "918 origin"
   },
   {
    "text": "Two thousand declarations of interest for what became nine hundred eighteen cars. By our arithmetic, that is about two point two declarations for each car eventually built. Wikipedia does not say these were orders, or deposits, so it is a measure of interest and not of demand that was turned away.",
-   "query": "918 interest vs cars",
+   "query": "Ferrari LaFerrari",
    "caption": "2,000 \u00f7 918 \u2248 2.2 DECLARATIONS OF INTEREST PER CAR (OUR ARITHMETIC) \u00b7 NOT ORDERS OR DEPOSITS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 interest vs cars"
   },
   {
    "text": "In twenty eleven, Wikipedia says, Porsche unveiled a racing variant, the nine eighteen RSR, at the Detroit show. It used flywheel kinetic energy recovery rather than a plug-in battery. The road car that followed took a different route, with a battery that charged from a socket. The page does not explain the reason for the change.",
-   "query": "918 RSR 2011",
+   "query": "McLaren P1",
    "caption": "2011: 918 RSR AT DETROIT \u00b7 FLYWHEEL KERS, NOT PLUG-IN (WIKIPEDIA) \u00b7 REASON FOR DIFFERENT ROAD-CAR ROUTE: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 RSR 2011"
   },
   {
    "text": "The production version was unveiled at the Frankfurt Motor Show in September twenty thirteen. Production began on the eighteenth of September. U.S. sales began in June twenty fourteen, and the car sold out in December twenty fourteen. Production ended in June twenty fifteen, as scheduled.",
-   "query": "918 production",
+   "query": "Porsche 918 Spyder rear",
    "caption": "FRANKFURT SEPT 2013 \u00b7 PRODUCTION 18 SEPT 2013 \u00b7 US SALES JUNE 2014 \u00b7 SOLD OUT DEC 2014 \u00b7 END JUNE 2015 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 production"
   },
   {
    "text": "Work out the timeline. From the concept in March twenty ten to the start of production on the eighteenth of September twenty thirteen is three years and six months. From the board's approval on the twenty-eighth of July twenty ten, it is three years, one month and twenty-one days. By our arithmetic, that is the longest road of the three, though our sources give the other two cars' starts at different points.",
-   "query": "918 development time",
+   "query": "Porsche 918 Spyder interior",
    "caption": "MAR 2010 \u2192 18 SEPT 2013 = 3 YR 6 MO \u00b7 28 JUL 2010 \u2192 18 SEPT 2013 = 3 YR 1 MO 21 D (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 development time"
   },
   {
    "text": "Wikipedia names two people on the nine eighteen's design: Michael Mauer and Hakan Saraco\u011flu. It also gives order counts by country: about two hundred ninety-seven in the United States, about one hundred each for China and Germany, and thirty-five for Canada. Registrations reached two hundred two in the United States by May twenty fifteen.",
-   "query": "918 designers and orders",
+   "query": "McLaren P1 rear",
    "caption": "DESIGN: MICHAEL MAUER, HAKAN SARACO\u011eLU \u00b7 ORDERS: US ~297 \u00b7 CHINA/GERMANY ~100 EACH \u00b7 CANADA 35 \u00b7 US REGISTRATIONS 202 BY MAY 2015 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "918 designers and orders"
   },
   {
    "text": "McLaren's road was shorter in public. Wikipedia says the first teaser appeared in September twenty twelve, and a pre-production concept was shown at the Paris Motor Show that month. Quoted figures included six hundred kilograms of downforce and a drag coefficient of point three four. The production version came at Geneva in twenty thirteen.",
-   "query": "P1 reveal",
+   "query": "Porsche 918 Spyder",
    "caption": "SEPT 2012: TEASER + PARIS CONCEPT (600 KG DOWNFORCE, Cd 0.34) \u00b7 GENEVA 2013: PRODUCTION VERSION (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "McLaren's road to the P1"
+   "chapter": "McLaren's road to the P1",
+   "orig_query": "P1 reveal"
   },
   {
    "text": "Then the cars sold quickly. In August twenty thirteen, the allocations for the Americas, Asia-Pacific and the Middle East were sold out. Production began in October twenty thirteen, with the first retail delivery in Woking, England. By mid-November, Europe sold out too, and only twelve cars had been built.",
-   "query": "P1 sales",
+   "query": "Ferrari LaFerrari",
    "caption": "AUG 2013: AMERICAS/APAC/MIDDLE EAST SOLD OUT \u00b7 OCT 2013: PRODUCTION + FIRST DELIVERY (WOKING) \u00b7 MID-NOV 2013: EUROPE SOLD OUT, 12 BUILT (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "P1 sales"
   },
   {
    "text": "Twelve cars built, and the whole run already sold. By our arithmetic, twelve of three hundred seventy-five is three point two percent. That means that when the last buyers signed, ninety-seven percent of the cars did not yet exist. The first United States delivery came in May twenty fourteen, and production ended in December twenty fifteen.",
-   "query": "P1 sold before built",
+   "query": "McLaren P1",
    "caption": "12 \u00f7 375 = 3.2% BUILT AT SELL-OUT \u2192 96.8% NOT YET BUILT (OUR ARITHMETIC) \u00b7 FIRST US DELIVERY MAY 2014 \u00b7 END DEC 2015 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "P1 sold before built"
   },
   {
    "text": "By our arithmetic, production ran about twenty-six months, which is roughly fourteen and a half cars a month on average. That is a calculation from the start and end dates, not a figure McLaren published, and the pace surely varied. Wikipedia gives the regional shares as thirty-four percent of cars for the United States and twenty-six percent for Europe.",
-   "query": "P1 production pace",
+   "query": "Porsche 918 Spyder rear",
    "caption": "OCT 2013 \u2192 DEC 2015 \u2248 26 MONTHS \u00b7 375 \u00f7 26 \u2248 14.4 CARS/MONTH (OUR ARITHMETIC) \u00b7 US 34% \u00b7 EUROPE 26% (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "P1 production pace"
   },
   {
    "text": "Wikipedia names Frank Stephenson as the P1's exterior stylist and says he drew inspiration for parts of the car from a sailfish. It calls the P1 the spiritual successor of the McLaren F1, sharing its mid-engine, rear-wheel-drive layout and carbon monocoque. And it says McLaren claimed the P1 was five and a half seconds faster than the F1 to three hundred kilometres per hour.",
-   "query": "P1 lineage",
+   "query": "McLaren P1",
    "caption": "STYLIST: FRANK STEPHENSON (SAILFISH INSPIRATION) \u00b7 SPIRITUAL SUCCESSOR TO McLAREN F1 \u00b7 CLAIMED 5.5 S QUICKER TO 300 KM/H THAN THE F1 (WIKIPEDIA; McLAREN CLAIM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "P1 lineage"
   },
   {
    "text": "Ferrari's own project name was F one fifty, according to Wikipedia. In twenty eleven, nine conceptual design studies were considered. In April twenty eleven they were cut to five: three from Ferrari's own Styling Centre and two from Pininfarina. Two full-size concepts were built, called the Manta and the Tensostruttura, and the final car resembles the Manta.",
-   "query": "LaFerrari F150",
+   "query": "McLaren P1 rear",
    "caption": "PROJECT F150 \u00b7 2011: 9 STUDIES \u2192 5 IN APRIL (3 FERRARI CENTRO STILE, 2 PININFARINA) \u00b7 FULL-SIZE: MANTA, TENSOSTRUTTURA \u00b7 FINAL \u2248 MANTA (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "Ferrari's road to the LaFerrari"
+   "chapter": "Ferrari's road to the LaFerrari",
+   "orig_query": "LaFerrari F150"
   },
   {
    "text": "The page says the design came from the Ferrari Styling Centre under Flavio Manzoni, and that the carbon monocoque was designed by Rory Byrne, Ferrari's Formula One technical director. It also says development drew on testing of the FXX prototype and on research from the Millechili Project at the University of Modena.",
-   "query": "LaFerrari people",
+   "query": "Porsche 918 Spyder",
    "caption": "DESIGN: FERRARI STYLING CENTRE (FLAVIO MANZONI) \u00b7 MONOCOQUE: RORY BYRNE (F1 TECHNICAL DIRECTOR) \u00b7 FXX TESTING + MILLECHILI PROJECT, MODENA (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari people"
   },
   {
    "text": "The car was unveiled at the Geneva Motor Show in twenty thirteen. The name means the Ferrari in Italian, meant as the definitive Ferrari. Production was four hundred ninety-nine coup\u00e9s, at more than one million euros each. The Aperta, an open-top version, followed in twenty sixteen with two hundred cars sold by invitation.",
-   "query": "LaFerrari reveal",
+   "query": "Ferrari LaFerrari",
    "caption": "GENEVA 2013 \u00b7 'LAFERRARI' = 'THE FERRARI' \u00b7 499 COUP\u00c9S, >\u20ac1M EACH \u00b7 APERTA UNVEILED PARIS 2016, 200 SOLD BY INVITATION (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari reveal"
   },
   {
    "text": "Here the sources give us a clean comparison of reveal places. The McLaren production car and the Ferrari were both unveiled at Geneva in twenty thirteen, while the Porsche production car came at Frankfurt in September. Evo's Harry Metcalfe says the three arrived within months of each other in late twenty thirteen. Of the two production starts we could date, the Porsche's on the eighteenth of September and the McLaren's in October, they fall about a month apart.",
-   "query": "Reveal calendar",
+   "query": "McLaren P1",
    "caption": "MCLAREN + FERRARI: GENEVA 2013 \u00b7 PORSCHE PRODUCTION CAR: FRANKFURT, SEPT 2013 \u00b7 'WITHIN MONTHS OF EACH OTHER' (EVO, HARRY METCALFE) \u00b7 PRODUCTION: 918 18 SEPT, P1 OCT 2013",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Reveal calendar"
   },
   {
    "text": "We could not find a production start date for the LaFerrari in the pages we read, only the model years: two thousand thirteen to two thousand sixteen for the coup\u00e9. So we cannot say who actually delivered first. That matters, because the nickname implies a race, and the sources we read do not tell us there was one.",
-   "query": "Who delivered first",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI PRODUCTION START DATE: NOT IN OUR SOURCES (COUP\u00c9 MY 2013\u20132016) \u00b7 FIRST-DELIVERY ORDER: NOT ESTABLISHED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Who delivered first"
   },
   {
    "text": "Evo's Harry Metcalfe, writing for the magazine's twenty-fifth anniversary, called these the first plug-in hybrid supercars. He calls the nine eighteen the cleverest and technically the most impressive. The P1 he calls the maddest: a heavily boosted three point eight litre V8 hidden by an electric motor that fills in while boost builds.",
-   "query": "evo on the trio",
+   "query": "McLaren P1",
    "caption": "EVO (HARRY METCALFE): FIRST PLUG-IN HYBRID SUPERCARS \u00b7 918 = CLEVEREST \u00b7 P1 = MADDEST (3.8 L V8 + ELECTRIC FILL-IN)",
    "cuts": 3,
-   "chapter": "Three recipes"
+   "chapter": "Three recipes",
+   "orig_query": "evo on the trio"
   },
   {
    "text": "And the LaFerrari. Metcalfe says its electric assistance is barely noticeable, and jokes that the magnificent six point three litre V12 felt as if it had been enlarged to ten litres. Notice what that says: the Ferrari used its hybrid system to make a naturally aspirated engine feel bigger, where the others used theirs in a more visible way.",
-   "query": "LaFerrari recipe",
+   "query": "Ferrari LaFerrari",
    "caption": "METCALFE: LAFERRARI ELECTRIC HELP 'BARELY NOTICEABLE'; 6.3 L V12 FELT 'ENLARGED TO 10 LITRES' (EVO) \u00b7 COMPARISON TO OTHERS IS OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "LaFerrari recipe"
   },
   {
    "text": "The power figures sit close together. Carwow lists the P1 at nine hundred sixteen horsepower, the nine eighteen at eight hundred eighty-seven, and the LaFerrari at nine hundred sixty-three. By our arithmetic, the three add up to two thousand, seven hundred sixty-six, which is exactly the combined figure Carwow prints. The LaFerrari leads the P1 by forty-seven and the Porsche by seventy-six.",
-   "query": "Power of the trio",
+   "query": "Ferrari LaFerrari",
    "caption": "P1 916 \u00b7 918 887 \u00b7 LAFERRARI 963 HP = 2,766 COMBINED (CARWOW) \u00b7 963\u2212916 = 47 \u00b7 963\u2212887 = 76 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power of the trio"
   },
   {
    "text": "The weights are further apart. Carwow gives one thousand, four hundred ninety kilograms for the P1, one thousand, five hundred eighty-five for the LaFerrari, and one thousand, six hundred seventy-five for the nine eighteen. By our arithmetic, the Porsche is one hundred eighty-five kilograms heavier than the McLaren, about twelve percent. It has the least power-to-weight of the three on these numbers, yet it won the track test you are about to hear about.",
-   "query": "Weight of the trio",
+   "query": "Ferrari LaFerrari",
    "caption": "P1 1,490 \u00b7 LAFERRARI 1,585 \u00b7 918 1,675 KG (CARWOW) \u00b7 1,675\u22121,490 = 185 KG = 12.4% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight of the trio"
   },
   {
    "text": "The three cars met on television. The first episode of The Grand Tour, released on the eighteenth of November twenty sixteen on Amazon Prime, was titled The Holy Trinity. A fan-maintained wiki records it, so we treat the details as community-sourced. Clarkson drove the P1, Hammond the nine eighteen, and May the LaFerrari.",
-   "query": "The Grand Tour episode",
+   "query": "Ferrari LaFerrari",
    "caption": "EPISODE 1, SERIES 1: 'THE HOLY TRINITY', 18 NOV 2016, AMAZON PRIME \u00b7 CLARKSON P1 \u00b7 HAMMOND 918 \u00b7 MAY LAFERRARI (GRAND TOUR FAN WIKI; COMMUNITY SOURCE)",
    "cuts": 3,
-   "chapter": "The Grand Tour test"
+   "chapter": "The Grand Tour test",
+   "orig_query": "The Grand Tour episode"
   },
   {
    "text": "The wiki says the first contest was an electric-only drag race between the Porsche and the McLaren, and that the Porsche won. May sat it out, because the LaFerrari could not run on electric power alone. That detail is the same difference Metcalfe described, seen on a drag strip.",
-   "query": "Electric-only drag race",
+   "query": "Ferrari LaFerrari",
    "caption": "ELECTRIC-ONLY DRAG: 918 BEAT P1 \u00b7 LAFERRARI CANNOT RUN ON ELECTRIC ALONE, SO IT SAT OUT (GRAND TOUR FAN WIKI; COMMUNITY SOURCE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Electric-only drag race"
   },
   {
    "text": "The lap times, as listed: the Porsche nine eighteen, one fifty-four point two. The Ferrari LaFerrari, one fifty-four point four. The McLaren P1, one fifty-five point five. By our arithmetic, the gap from first to second is two tenths of a second, and from second to third one point one. First to last is one point three seconds, about one point one percent of the lap.",
-   "query": "Lap times",
+   "query": "Ferrari LaFerrari",
    "caption": "918 1:54.2 \u00b7 LAFERRARI 1:54.4 \u00b7 P1 1:55.5 (FAN WIKI) \u00b7 GAPS 0.2 S AND 1.1 S \u00b7 TOTAL 1.3 S \u2248 1.1% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lap times"
   },
   {
    "text": "The speed traps tell a different story. The wiki lists the P1 as fastest at two hundred thirty-five point nine kilometres per hour, then the nine eighteen at two hundred thirty-one point nine, and the LaFerrari at two hundred thirty-one point four. By our arithmetic, the P1 was four kilometres per hour faster than the Porsche in that zone, yet finished last on the lap.",
-   "query": "Speed traps",
+   "query": "McLaren P1",
    "caption": "MAX ZONE: P1 235.9 \u00b7 918 231.9 \u00b7 LAFERRARI 231.4 KM/H (FAN WIKI) \u00b7 P1 \u2212 918 = 4.0 KM/H (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Speed traps"
   },
   {
    "text": "Carwow also describes an earlier track test where the Porsche finished first, the Ferrari second and the McLaren last. It does not say which test it means, and it is a separate article from the wiki. We therefore treat it as a second sign of the same order, but not as an independent measurement, and not as a verdict on the cars.",
-   "query": "Earlier test same order",
+   "query": "Porsche 918 Spyder",
    "caption": "CARWOW: 'EARLIER TOP GEAR TRACK TEST' = PORSCHE, FERRARI, McLAREN \u00b7 WHICH TEST: NOT STATED \u00b7 NOT INDEPENDENT CONFIRMATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Earlier test same order"
   },
   {
    "text": "There was a wager on top. The wiki says Clarkson had bet that his house would be destroyed if the P1 came last, and since it did, Hammond and May were to do it. We include this because it is part of the Holy Trinity's story in popular memory, and we mark it as the entertainment it was, not as engineering evidence.",
-   "query": "The house bet",
+   "query": "McLaren P1",
    "caption": "BET: IF P1 SLOWEST, HAMMOND AND MAY DESTROY CLARKSON'S HOUSE (GRAND TOUR FAN WIKI) \u00b7 ENTERTAINMENT, NOT ENGINEERING EVIDENCE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The house bet"
   },
   {
    "text": "The N\u00fcrburgring is the other arena. Wikipedia says that in September twenty thirteen a nine eighteen with the Weissach package lapped the twenty point six kilometre track in six fifty-seven, cutting the previous record by fourteen seconds. It describes the car as the first street-legal production car to break the seven-minute barrier.",
-   "query": "918 N\u00fcrburgring",
+   "query": "N\u00fcrburgring Nordschleife",
    "caption": "SEPT 2013: 918 WEISSACH 6:57 \u00b7 20.6 KM \u00b7 PREVIOUS RECORD \u221214 S \u00b7 'FIRST STREET-LEGAL PRODUCTION CAR UNDER 7:00' (WIKIPEDIA; PORSCHE CLAIM)",
    "cuts": 3,
-   "chapter": "The N\u00fcrburgring"
+   "chapter": "The N\u00fcrburgring",
+   "orig_query": "918 N\u00fcrburgring"
   },
   {
    "text": "By our arithmetic, six fifty-seven is four hundred seventeen seconds, so the record it replaced was four hundred thirty-one, or seven eleven. McLaren, Wikipedia says, announced that the P1 had gone under seven minutes, but did not publish the exact time. So the road car's lap, as far as our sources go, was never officially given.",
-   "query": "Previous record",
+   "query": "McLaren P1",
    "caption": "6:57 = 417 S \u2192 PREVIOUS RECORD 417+14 = 431 S = 7:11 (OUR ARITHMETIC) \u00b7 McLAREN: 'SUB-7' CLAIMED, EXACT TIME NOT PUBLISHED (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Previous record"
   },
   {
    "text": "The famous number is six forty-three point two two. Wikipedia says the prototype P1 LM, driven by Kenny Br\u00e4ck, set it on the twenty-seventh of April twenty seventeen, announced on the twenty-sixth of May. But it is a prototype. Wikipedia is inconsistent on whether it was road-legal, saying in one place it was not, and in another that it used road-legal tyres but lacked a front number plate.",
-   "query": "P1 LM lap",
+   "query": "McLaren P1",
    "caption": "P1 LM (XP1 LM) 6:43.22 \u00b7 KENNY BR\u00c4CK \u00b7 27 APRIL 2017, ANNOUNCED 26 MAY 2017 \u00b7 WIKIPEDIA INCONSISTENT ON ROAD-LEGALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "P1 LM lap"
   },
   {
    "text": "By our arithmetic, six forty-three point two two is thirteen point seven eight seconds quicker than six fifty-seven, three point three percent. But the two laps were four years apart, in different cars with different rules, so the comparison is not like for like. We show it because the figures are often quoted together, and they should not be.",
-   "query": "Lap comparison",
+   "query": "McLaren P1 rear",
    "caption": "6:57 \u2212 6:43.22 = 13.78 S = 3.3% (OUR ARITHMETIC) \u00b7 4 YEARS APART \u00b7 DIFFERENT CARS/RULES: NOT LIKE FOR LIKE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lap comparison"
   },
   {
    "text": "The sibling cars followed. Ferrari's FXX-K, a track car based on the LaFerrari, was unveiled at Yas Marina in late twenty fourteen. Forty were built, with one thousand, fifty combined horsepower in Ferrari's metric units, by Wikipedia's account. In October twenty seventeen, Ferrari unveiled the FXX-K Evo aerodynamic package in Florence.",
-   "query": "FXX-K",
+   "query": "Ferrari LaFerrari",
    "caption": "FXX-K: UNVEILED LATE 2014, YAS MARINA \u00b7 40 BUILT \u00b7 1,050 PS \u00b7 FXX-K EVO: 28 OCT 2017, FLORENCE (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "What came after"
+   "chapter": "What came after",
+   "orig_query": "FXX-K"
   },
   {
    "text": "McLaren built a P1 GTR as a homage to the F1 GTR, and the prototype P1 LM set that N\u00fcrburgring lap. The Aperta joined the LaFerrari line in twenty sixteen. And the Porsche nine eighteen's heir, as Wikipedia lists it, is the Mission X concept, presented in June twenty twenty-three, with production planned for twenty twenty-five. Wikipedia names the Ferrari F eighty and the McLaren W one as the other successors.",
-   "query": "Successors",
+   "query": "McLaren P1",
    "caption": "McLAREN P1 GTR (HOMAGE TO F1 GTR) \u00b7 PORSCHE MISSION X CONCEPT JUNE 2023, PRODUCTION PLANNED 2025 \u00b7 FERRARI F80 \u00b7 McLAREN W1 (WIKIPEDIA) \u00b7 WHETHER EACH REACHED PRODUCTION: NOT CHECKED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Successors"
   },
   {
    "text": "Add the three production runs. Three hundred seventy-five P1s, four hundred ninety-nine LaFerrari coup\u00e9s, and nine hundred eighteen Porsches. By our arithmetic, that is one thousand, seven hundred ninety-two cars. Add the two hundred ten Apertas, and you reach two thousand and two. The Porsche alone is fifty-one percent of the coup\u00e9-and-P1 total.",
-   "query": "Totals",
+   "query": "McLaren P1",
    "caption": "375 + 499 + 918 = 1,792 \u00b7 + 210 APERTA = 2,002 \u00b7 918 \u00f7 1,792 = 51.2% (OUR ARITHMETIC; WIKIPEDIA PRODUCTION FIGURES)",
    "cuts": 3,
-   "chapter": "The totals"
+   "chapter": "The totals",
+   "orig_query": "Totals"
   },
   {
    "text": "So the most numerous of the three is the one that was least like a limited edition. Nine hundred eighteen is two point four times the P1. And the nine eighteen sold out later in the public record: its sell-out is dated December twenty fourteen, while the P1's allocations were sold by November twenty thirteen. We therefore cannot rank them by scarcity alone.",
-   "query": "Scarcity",
+   "query": "McLaren P1",
    "caption": "918 \u00f7 375 = 2.45\u00d7 (OUR ARITHMETIC) \u00b7 P1 SOLD OUT BY NOV 2013 \u00b7 918 SOLD OUT DEC 2014 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Scarcity"
   },
   {
    "text": "The Top Gear magazine article says that all three used hybrid powertrains, which it calls a major bet by manufacturers. It also calls the nine eighteen the most practical, the P1 sold to preferred customers before final prototyping, and the LaFerrari Ferrari's first proper hybrid and its most powerful car at the time. Those are the article's words.",
-   "query": "A major bet",
+   "query": "Ferrari LaFerrari",
    "caption": "'ALL THREE USED HYBRID POWERTRAINS, A MAJOR BET' \u00b7 918 MOST PRACTICAL \u00b7 P1 SOLD TO PREFERRED CUSTOMERS BEFORE FINAL PROTOTYPING \u00b7 LAFERRARI FERRARI'S FIRST PROPER HYBRID (TOP GEAR MAG INDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A major bet"
   },
   {
    "text": "Where are the cars now? From our earlier video: a standard nine eighteen sold for two million, nine hundred sixty thousand dollars in June twenty twenty-six, and the Sotheby's list had a LaFerrari at five million, four hundred seventy-seven thousand, five hundred in January. Carwow gives lower numbers, over one million pounds for the Porsche and over three million for the Ferrari, so we use the auction results.",
-   "query": "Values today",
+   "query": "Ferrari LaFerrari",
    "caption": "918 $2.96M (DUPONT, JUNE 2026) \u00b7 LAFERRARI $5,477,500 (SOTHEBY'S, JAN 2026) \u00b7 CARWOW: 918 >\u00a31M, LAFERRARI >\u00a33M (LOWER) \u00b7 WE USE AUCTION RESULTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Values today"
   },
   {
    "text": "Launch prices were set in three currencies. Wikipedia gives the nine eighteen at eight hundred forty-five thousand dollars in the United States and seven hundred eighty-one thousand euros in Europe. It gives the LaFerrari at more than one million euros. Carwow says the P1 was around eight hundred sixty thousand pounds new. We do not convert them, because the dates and exchange rates are not given.",
-   "query": "Launch prices",
+   "query": "Ferrari LaFerrari",
    "caption": "918: $845,000 / \u20ac781,000 \u00b7 LAFERRARI: >\u20ac1M (WIKIPEDIA) \u00b7 P1: ~\u00a3860,000 NEW (CARWOW) \u00b7 DIFFERENT CURRENCIES AND DATES: NOT CONVERTED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Launch prices"
   },
   {
    "text": "Power to weight, using Carwow's figures. By our arithmetic, the P1 has about six hundred fifteen horsepower per tonne, the LaFerrari about six hundred eight, and the nine eighteen about five hundred thirty. On paper that is an order of P1, LaFerrari, Porsche, and the lap times above came out in exactly the reverse order. Power to weight does not decide a lap.",
-   "query": "Power to weight",
+   "query": "Ferrari LaFerrari",
    "caption": "916\u00f71.490 \u2248 615 \u00b7 963\u00f71.585 \u2248 608 \u00b7 887\u00f71.675 \u2248 530 HP/TONNE (CARWOW FIGURES; OUR ARITHMETIC) \u00b7 LAP ORDER: 918, LAFERRARI, P1",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "Torque tells a different tale. Carwow lists the nine eighteen at twelve hundred eighty newton-metres, against nine hundred for both the P1 and the LaFerrari. By our arithmetic, the Porsche has forty-two percent more. Our sources do not explain whether that helped on the day, so we leave it as a number.",
-   "query": "Torque",
+   "query": "Ferrari LaFerrari",
    "caption": "918 1,280 N\u00b7M vs 900 (P1) AND 900 (LAFERRARI) \u2192 +42% (CARWOW; OUR ARITHMETIC) \u00b7 EFFECT ON TRACK RESULT: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque"
   },
   {
    "text": "Claims did not always match measurements. Wikipedia says Ferrari claimed fifteen seconds to three hundred kilometres per hour for the LaFerrari, and that this was later debunked, with a verified time of twenty-one point nine nine. McLaren's own figure for the P1 is sixteen and a half. By our arithmetic, the verified Ferrari time is five and a half seconds slower than the McLaren claim, which is itself a claim.",
-   "query": "Claims vs measurements",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI 0\u2013300: CLAIMED 15 S, VERIFIED 21.99 S \u00b7 P1 0\u2013300: McLAREN FIGURE 16.5 S \u00b7 21.99 \u2212 16.5 = 5.49 S (WIKIPEDIA; OUR ARITHMETIC) \u00b7 P1 FIGURE IS A MAKER CLAIM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Claims vs measurements"
   },
   {
    "text": "And the cars were not trouble-free. Wikipedia says eighty-five LaFerrari coup\u00e9s were recalled for headrest and tyre-pressure issues, plus a two thousand fifteen recall for a driver's airbag. By our arithmetic, eighty-five is seventeen percent of four hundred ninety-nine. It lists a January twenty sixteen recall of one hundred twenty-two P1s, over a faulty secondary bonnet latch.",
-   "query": "Recalls: Ferrari and McLaren",
+   "query": "Ferrari LaFerrari",
    "caption": "LAFERRARI: 85 COUP\u00c9S = 17.0% OF 499 (HEADREST, TYRE-PRESSURE) + 2015 AIRBAG RECALL \u00b7 P1: 122 CARS, JAN 2016, BONNET LATCH = 32.5% OF 375 (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Recalls: Ferrari and McLaren"
   },
   {
    "text": "The Porsche had its own. Autoblog reported in May twenty fifteen a precautionary recall of two hundred twenty-three nine eighteens in the United States, for a carbon-fibre part that could damage the radiator fan's wiring. Motor1 later reported three hundred six vehicles recalled for front lower control arms that might crack. All three makers fixed these free of charge, according to the reports.",
-   "query": "Recalls: Porsche",
+   "query": "McLaren P1 rear",
    "caption": "918: MAY 2015, 223 US CARS, FAN WIRING HARNESS (AUTOBLOG) \u00b7 NHTSA 16V885: 306 VEHICLES, FRONT LOWER CONTROL ARMS (MOTOR1) \u00b7 FIXES FREE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Recalls: Porsche"
   },
   {
    "text": "Two charity sales close the story. Wikipedia says the five hundredth LaFerrari was auctioned on the third of December twenty sixteen by RM Sotheby's for seven million dollars, to the National Italian American Foundation's earthquake relief fund. The last Aperta sold in twenty seventeen for ten million dollars, also for charity. Those are the highest prices in the sources we read.",
-   "query": "Charity LaFerraris",
+   "query": "Ferrari LaFerrari",
    "caption": "500TH LAFERRARI: $7M, RM SOTHEBY'S, 3 DEC 2016 (NIAF EARTHQUAKE RELIEF) \u00b7 LAST APERTA: $10M, 2017, CHARITY (WIKIPEDIA) \u00b7 HIGHEST PRICES IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Charity LaFerraris"
   },
   {
    "text": "What is missing. Who first called these cars the Holy Trinity. Whether any of the three companies built its car to beat the others. Which of the three finished its development first. The LaFerrari's production start date. An official N\u00fcrburgring time for the road-going P1. And any independent test that put all three on the same track on the same day.",
-   "query": "Hypercar Holy Trinity",
+   "query": "Ferrari LaFerrari",
    "caption": "NOT IN OUR SOURCES: WHO COINED THE NAME \u00b7 WHETHER ANY MAKER TARGETED THE OTHERS \u00b7 LAFERRARI PRODUCTION START \u00b7 OFFICIAL P1 ROAD-CAR 'RING TIME \u00b7 INDEPENDENT SAME-DAY TEST",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Hypercar Holy Trinity"
   },
   {
    "text": "So the honest version of the story is this. Three companies, working separately, reached the same idea at nearly the same time: a hybrid hypercar for the road. The press grouped them, as it had grouped others before. The record shows a shared moment, not a duel. The legend of a rivalry is, as far as our sources go, a legend the public built.",
-   "query": "Hypercar Holy Trinity",
+   "query": "McLaren P1",
    "caption": "SHARED MOMENT, NOT PROVEN DUEL \u00b7 THE RIVALRY NARRATIVE: NOT DOCUMENTED IN OUR SOURCES (OUR READING)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hypercar Holy Trinity"
   },
   {
    "text": "Which of the three would you choose, and why? Tell us in the comments. In the other videos of this series, we reveal two secrets inside the Porsche nine eighteen, compare it with the LaFerrari, and add up what it really costs to own. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Hypercar Holy Trinity",
+   "query": "Ferrari LaFerrari",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hypercar Holy Trinity"
   }
  ]
 }

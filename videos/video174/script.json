@@ -6,328 +6,380 @@
  "scenes": [
   {
    "text": "The Ferrari Enzo and the Ferrari F50 are separated by seven years and one big idea. One is a six-litre machine with a paddle gearbox and active aerodynamics. The other is a four-point-seven litre car with a manual gearshift, no power steering and no anti-lock brakes. A magazine ranked the older one higher. This is the real difference, with every number sourced.",
-   "query": "Enzo vs F50",
+   "query": "Ferrari F50",
    "caption": "FERRARI ENZO vs F50: THE REAL DIFFERENCE",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Enzo vs F50"
   },
   {
    "text": "Our sources are Wikipedia's pages on both cars, RM Sotheby's catalogue pages, Sports Car Market, Hagerty's valuation pages, the magazine evo, Jalopnik, the DuPont Registry and the Italian site Italpassion. They disagree on prices, dates and production counts, and we show each version. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Ferrari F50",
    "caption": "SOURCES: WIKIPEDIA (F50, ENZO) \u00b7 RM SOTHEBY'S \u00b7 SPORTS CAR MARKET \u00b7 HAGERTY \u00b7 EVO (FEB 2004 / ONLINE OCT 2024) \u00b7 JALOPNIK (13 JUL 2010) \u00b7 DUPONT REGISTRY (3 MAR 2025) \u00b7 ITALPASSION \u00b7 CONFLICTS SHOWN",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "They are neighbours in Ferrari's hypercar line. Wikipedia lists the F40 as the F50's predecessor and the Enzo as its successor. The F50 was built from nineteen ninety-five to nineteen ninety-seven, with the last car leaving the line in July nineteen ninety-seven. The Enzo, announced at the Paris Motor Show in two thousand two, followed five years later.",
-   "query": "Lineage",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): PREDECESSOR F40, SUCCESSOR ENZO \u00b7 BUILT 1995\u20131997, LAST CAR JULY 1997 \u00b7 WIKIPEDIA (ENZO): ANNOUNCED PARIS MOTOR SHOW 2002 \u00b7 JULY 1997 \u2192 2002 \u2248 5 YEARS (OUR ARITHMETIC)",
    "cuts": 5,
-   "chapter": "Two cars, one lineage"
+   "chapter": "Two cars, one lineage",
+   "orig_query": "Lineage"
   },
   {
    "text": "The F50 was designed at Pininfarina by Pietro Camardella and Lorenzo Ramaciotti, according to Wikipedia, evolving from the nineteen eighty-nine Ferrari Mythos concept. The Enzo was designed by Ken Okuyama, then Pininfarina's head of design. Both came from the same studio, but from different designers and a different generation.",
-   "query": "Designers",
+   "query": "Pininfarina",
    "caption": "WIKIPEDIA (F50): PIETRO CAMARDELLA + LORENZO RAMACIOTTI (PININFARINA); FROM 1989 MYTHOS CONCEPT (REFERENCES ALSO MENTION GINO FINIZIO, UNEXPLAINED) \u00b7 WIKIPEDIA (ENZO): KEN OKUYAMA",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Designers"
   },
   {
    "text": "The F50 debut date is a small conflict. Wikipedia says the car was introduced in nineteen ninety-five. RM Sotheby's catalogue says it debuted at the nineteen ninety-six Geneva Motor Show. A pre-production show appearance and a formal launch might explain the gap, but neither source says so, so we simply report both.",
-   "query": "When did it debut?",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): INTRODUCED 1995 \u00b7 RM SOTHEBY'S (MONTEREY 2021, LOT 243): DEBUTED 1996 GENEVA MOTOR SHOW \u00b7 EXPLANATION: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "When did it debut?"
   },
   {
    "text": "Ferrari's chairman had a line about the F50. RM Sotheby's quotes Luca di Montezemolo telling Motor Trend it would be the first and last Formula One car with two seats. Wikipedia says the F50's engine was developed from the three and a half litre V12 of the nineteen ninety Ferrari six forty-one Formula One car, which dates the F1 link to about five years before launch.",
-   "query": "An F1 car for the road",
+   "query": "Ferrari F50",
    "caption": "RM SOTHEBY'S: MONTEZEMOLO TO MOTOR TREND \u2014 'THE FIRST AND LAST FORMULA 1 CAR WITH TWO SEATS' \u00b7 WIKIPEDIA (F50): V12 FROM THE 3.5 L V12 OF THE 1990 FERRARI 641 F1 CAR \u00b7 1990 \u2192 1995 = 5 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "An F1 car for the road"
   },
   {
    "text": "The engine's ancestry is disputed. RM Sotheby's says it was closely related to a Formula One engine blueprint that Scuderia Ferrari used until the nineteen ninety-one season. Evo's table says it derives from the four twelve T two car, which raced in nineteen ninety-four. Wikipedia names the six forty-one. We cannot tell which is right, so we show all three.",
-   "query": "Which F1 engine?",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: 641 (1990) \u00b7 RM SOTHEBY'S: F1 BLUEPRINT USED 'UNTIL THE 1991 SEASON' \u00b7 EVO: 412T2 \u00b7 WIKIPEDIA ALSO CALLS THE ENGINE 'TIPO 036-DERIVED' \u2192 ORIGIN UNRESOLVED (412T2 YEAR NOT IN OUR SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Which F1 engine?"
   },
   {
    "text": "The F50's engine was a four point seven litre V12, the F130 B, with sixty valves, five per cylinder. Wikipedia lists five hundred twenty metric horsepower, or five hundred thirteen, at eighty-five hundred revs and four hundred seventy-one newton-metres at sixty-five hundred. The redline was eighty-five hundred, with fuel cut-off at eighty-six forty, and the engine weighed one hundred ninety-eight kilograms.",
-   "query": "F50 engine",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): 4.7 L (4,698.5 CC) 65\u00b0 V12, 60 VALVES \u00b7 520 PS (513 HP) @ 8,500 \u00b7 471 N\u00b7M (347 LB-FT) @ 6,500 \u00b7 REDLINE 8,500; CUT-OFF 8,640 \u00b7 ENGINE 198 KG",
    "cuts": 3,
-   "chapter": "The engines"
+   "chapter": "The engines",
+   "orig_query": "F50 engine"
   },
   {
    "text": "The Enzo's engine was a six litre V12, the F140 B, making six hundred sixty metric horsepower at seventy-eight hundred revs and six hundred fifty-seven newton-metres at fifty-five hundred. Redline is eighty-two hundred. The two engines are a different generation in every way, and the Enzo's peak power comes seven hundred revs lower than the F50's.",
-   "query": "Enzo engine",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA (ENZO): F140 B 6.0 L (5,998.8 CC) 65\u00b0 V12 \u00b7 660 PS @ 7,800 \u00b7 657 N\u00b7M @ 5,500 \u00b7 REDLINE 8,200 \u00b7 8,500 \u2212 7,800 = 700 RPM (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Enzo engine"
   },
   {
    "text": "By our arithmetic, the Enzo's engine is twenty-eight percent bigger, its power twenty-seven percent higher and its torque thirty-nine percent higher. Evo's journalists said the Enzo has about a hundred thirty-eight horsepower more than the F50. The F50 compensates with revs: it is a car that makes its power at the top end, while the Enzo has torque lower down.",
-   "query": "Bigger and stronger",
+   "query": "Ferrari Enzo",
    "caption": "6.0 vs 4.7 L: +27.7% \u00b7 660 vs 520 PS: +26.9% \u00b7 657 vs 471 N\u00b7M: +39.5% (OUR ARITHMETIC) \u00b7 EVO: 651 BHP vs 513 BHP = 138 BHP MORE \u00b7 'TORQUE LOWER DOWN' = OUR READING OF THE PEAK-TORQUE RPM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bigger and stronger"
   },
   {
    "text": "Evo describes the F50's engine as thunderous, never-ending power that is tractable at tickover and bonkers at the red line. The quotes come from Hayman in the magazine's two thousand four test. The F50 was praised for its gearshift, which the author called one of the finest shifts he had tried, and for an engine magnified by the car's light build.",
-   "query": "How the F50 feels",
+   "query": "Ferrari F50",
    "caption": "EVO (FEB 2004 TEST): HAYMAN \u2014 'THUNDEROUS, NEVER-ENDING POWER, TRACTABLE AT TICKOVER, BONKERS AT THE RED LINE' \u00b7 AUTHOR: 'ONE OF THE FINEST SHIFTS' HE'D TRIED; POWER 'MAGNIFIED BY THE F50'S LIGHT BUILD'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How the F50 feels"
   },
   {
    "text": "The biggest everyday difference is the gearbox. The F50 has a six-speed manual with a dry twin-plate clutch and a limited-slip differential, per Wikipedia. The Enzo has an automated manual with paddle shifters and LED shift lights, built by Graziano, with a shift time of one hundred fifty milliseconds. One is something you operate, and the other something you command.",
-   "query": "Manual vs paddles",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): 6-SPEED MANUAL, DRY TWIN-PLATE CLUTCH, LSD \u00b7 WIKIPEDIA (ENZO): F1-STYLE AUTOMATED MANUAL, PADDLES, LED SHIFT LIGHTS, GRAZIANO, 150 MS \u00b7 'OPERATE vs COMMAND' = OUR PHRASING",
    "cuts": 3,
-   "chapter": "The gearbox"
+   "chapter": "The gearbox",
+   "orig_query": "Manual vs paddles"
   },
   {
    "text": "Evo's Enzo notes show the cost. Bovingdon criticised the lack of feedback, with steering feel, of which the Enzo has none. Meaden said there is just not enough to do other than hang on tight and concentrate on braking points. The F50, by contrast, has no power steering, no traction control and no anti-lock brakes, evo reported, so the driver does everything.",
-   "query": "Involvement",
+   "query": "Ferrari Enzo",
    "caption": "EVO: BOVINGDON \u2014 'STEERING FEEL, OF WHICH THE ENZO HAS NONE' \u00b7 MEADEN \u2014 'NOT ENOUGH TO DO OTHER THAN HANG ON TIGHT AND CONCENTRATE ON YOUR BRAKING POINTS' \u00b7 F50: NO POWER STEERING, TRACTION CONTROL OR ABS (EVO) \u00b7 ENZO HAS TRACTION CONTROL (EVO)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Involvement"
   },
   {
    "text": "Wikipedia agrees about the F50's steering, calling it an unassisted TRW rack-and-pinion with three point three turns lock to lock, and about the brakes: Brembo four-piston calipers and ventilated discs, with no anti-lock system. The Enzo's page does not mention power steering. Our sources do not say whether the Enzo's steering is assisted, so we leave that open.",
-   "query": "Steering and brakes",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA (F50): UNASSISTED TRW RACK-AND-PINION, 3.3 TURNS LOCK-TO-LOCK \u00b7 BREMBO 4-PISTON CALIPERS, VENTILATED DISCS, NO ABS \u00b7 ENZO STEERING ASSIST: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Steering and brakes"
   },
   {
    "text": "The Enzo's brakes are carbon-ceramic, with fifteen-inch Brembo discs, per Wikipedia. The two cars' braking figures are not directly comparable: Wikipedia lists the F50's seventy-to-zero distance as one hundred seventy-six feet, and RM Sotheby's quotes Road and Track for the Enzo from eighty miles an hour as one hundred eighty-eight feet. Different start speeds make the numbers incomparable.",
-   "query": "Braking numbers",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA (F50): 70\u20130 MPH = 176 FT (54 M) \u00b7 RM SOTHEBY'S (R&T, ENZO): 80\u20130 MPH = 188 FT \u00b7 DIFFERENT SPEEDS \u2192 NOT COMPARABLE \u00b7 WIKIPEDIA (ENZO): C/SIC CERAMIC, 15-IN BREMBO DISCS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Braking numbers"
   },
   {
    "text": "Zero to sixty first. Wikipedia lists three point eight seconds for the F50 and three point one four for the Enzo, but the Enzo's was measured downhill with a one-foot rollout. Motor Trend recorded three point three for the Enzo without those aids. By our arithmetic, the Enzo is half a second, or thirteen percent, quicker on the fairer pair of numbers.",
-   "query": "0\u201360",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: F50 0\u201397 KM/H 3.8 S \u00b7 ENZO 3.14 S (DOWNHILL, 1-FT ROLLOUT) \u00b7 MOTOR TREND ENZO 3.3 S \u00b7 3.8 \u2212 3.3 = 0.5 S (13.2%) (OUR ARITHMETIC; F50 TEST CONDITIONS NOT STATED)",
    "cuts": 3,
-   "chapter": "Performance, side by side"
+   "chapter": "Performance, side by side",
+   "orig_query": "0\u201360"
   },
   {
    "text": "Evo's table gives zero to sixty-two as three point nine seconds for the F50 and three point seven for the Enzo, a gap of only two tenths. The magazine tests are from the same group test. So depending on whose numbers you use, the Enzo's acceleration advantage up to sixty is between two tenths and two thirds of a second.",
-   "query": "Evo's gap",
+   "query": "Ferrari Enzo",
    "caption": "EVO TABLE: F50 0\u201362 MPH 3.9 S \u00b7 ENZO 3.7 S \u00b7 3.9 \u2212 3.7 = 0.2 S \u00b7 RANGE ACROSS SOURCES: 0.2 S \u2013 0.66 S (3.8 \u2212 3.14) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Evo's gap"
   },
   {
    "text": "The gap widens with speed. Wikipedia lists zero to one hundred sixty-one kilometres an hour, which is a hundred miles an hour, in eight point five seconds for the F50 and six point six for the Enzo. By our arithmetic, the Enzo is one point nine seconds, or twenty-two percent, quicker.",
-   "query": "0\u2013100 mph",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: 0\u2013161 KM/H (100 MPH) \u2014 F50 8.5 S \u00b7 ENZO 6.6 S \u00b7 8.5 \u2212 6.6 = 1.9 S (22.4%) (OUR ARITHMETIC) \u00b7 REASON FOR WIDENING GAP: NOT DISCUSSED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "0\u2013100 mph"
   },
   {
    "text": "The quarter mile makes the same point. Wikipedia gives the F50 twelve point one seconds at one hundred ninety-eight kilometres an hour, which it converts to one hundred twenty-three miles an hour. Road and Track's Enzo ran eleven point one at one hundred thirty-three. By our arithmetic, that is a full second quicker and ten miles an hour faster at the line.",
-   "query": "Quarter mile",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): 1/4 MILE 12.1 S @ 198 KM/H (123 MPH) \u00b7 RM SOTHEBY'S (R&T ENZO): 11.1 S @ 133 MPH \u00b7 12.1 \u2212 11.1 = 1.0 S; 133 \u2212 123 = 10 MPH (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Quarter mile"
   },
   {
    "text": "Top speed: Wikipedia says three hundred twenty-five kilometres an hour is claimed for the F50, about two hundred two miles an hour. RM Sotheby's and Evo agree on two hundred two. The Enzo's recorded speed is up to three hundred fifty-five kilometres an hour on Wikipedia, while RM and Sports Car Market say two hundred eighteen miles an hour. By our arithmetic, that is a gap of sixteen miles an hour.",
-   "query": "Top speed",
+   "query": "Ferrari F50",
    "caption": "F50: 325 KM/H (202 MPH) CLAIMED (WIKIPEDIA, RM, EVO) \u00b7 ENZO: 355 KM/H (221 MPH) WIKIPEDIA \u00b7 218 MPH RM + SCM \u00b7 217 MPH+ EVO \u00b7 218 \u2212 202 = 16 MPH (OUR ARITHMETIC; F50 FIGURE IS A CLAIM, NOT A TEST)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top speed"
   },
   {
    "text": "Grip is closer. Wikipedia lists the F50's skidpad at point nine five g, and the Enzo's at one point oh five, while Road and Track's figure for the Enzo was one point oh one. By our arithmetic, the Enzo holds between six and ten percent more lateral grip, which may be linked to the Enzo's downforce, though our sources do not say. They give no F50 downforce figure.",
-   "query": "Skidpad",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: F50 0.95 G \u00b7 ENZO 1.05 G \u00b7 RM (R&T): ENZO 1.01 G \u00b7 1.01 \u00f7 0.95 = +6.3% \u00b7 1.05 \u00f7 0.95 = +10.5% (OUR ARITHMETIC) \u00b7 'MAY BE LINKED TO DOWNFORCE' = OUR INFERENCE \u00b7 F50 DOWNFORCE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Skidpad"
   },
   {
    "text": "On track, the F50's recorded Fiorano lap is one minute twenty-seven point oh oh seconds, per Wikipedia, and RM Sotheby's says the F50 was four seconds faster than the F40 there. Our sources give no Fiorano time for the Enzo, so we cannot compare them on Ferrari's own circuit. We do have the Enzo's Nordschleife time of seven twenty-five, but not the F50's.",
-   "query": "Lap times",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): FIORANO 1:27.00; TSUKUBA 1:05.81; SUZUKA 2:25.525; SUGO 1:38.573 \u00b7 RM SOTHEBY'S: F50 4 S FASTER THAN F40 AT FIORANO \u00b7 ENZO: NORDSCHLEIFE 7:25.21 (EVO) \u00b7 ENZO FIORANO TIME + F50 NORDSCHLEIFE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lap times"
   },
   {
    "text": "Weight is awkward because the sources use different bases. Wikipedia gives the F50 a curb weight of twelve hundred thirty kilograms and the Enzo a dry weight of twelve fifty-five, with a curb weight of fourteen eighty. Evo gives both cars as dry, twelve thirty and twelve fifty-five. By our arithmetic, on Evo's numbers the Enzo is just two percent heavier.",
-   "query": "Weights",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: F50 1,230 KG CURB \u00b7 ENZO 1,255 KG DRY / 1,480 KG CURB \u00b7 EVO: F50 1,230 KG DRY \u00b7 ENZO 1,255 KG DRY \u00b7 1,255 \u00f7 1,230 = +2.0% (OUR ARITHMETIC) \u00b7 F50 BASIS CONFLICT: WIKIPEDIA CURB vs EVO DRY",
    "cuts": 3,
-   "chapter": "Weight, size and structure"
+   "chapter": "Weight, size and structure",
+   "orig_query": "Weights"
   },
   {
    "text": "Power-to-weight follows. By our arithmetic from Evo's weights, the F50 makes four hundred twenty-three metric horsepower per tonne, and the Enzo five hundred twenty-six, a gap of twenty-four percent. Evo's own table gives four twenty-four and five twenty-seven brake horsepower per ton. The Wikipedia page for the F50 gives two point six nine kilograms per horsepower, which does not match its own weight and power.",
-   "query": "Power to weight",
+   "query": "Ferrari F50",
    "caption": "520 \u00f7 1.230 = 423 PS/T \u00b7 660 \u00f7 1.255 = 526 PS/T \u00b7 526 \u00f7 423 = +24.4% (OUR ARITHMETIC) \u00b7 EVO: 424 vs 527 BHP/TON \u00b7 WIKIPEDIA F50: '2.69 KG/PS' vs 1,230 \u00f7 520 = 2.37 (PAGE INCONSISTENT)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "Structurally, both are carbon-fibre cars. Wikipedia describes the F50's central tub as carbon-fibre with a Nomex honeycomb core and a torsional stiffness of thirty-four thousand five hundred seventy newton-metres per degree. It uses push-rod double-wishbone suspension at both ends with electronically adaptive dampers. The Enzo uses a carbon-fibre body and chassis, but its page gives no stiffness figure.",
-   "query": "Structure",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): CARBON TUB WITH NOMEX HONEYCOMB \u00b7 34,570 N\u00b7M/DEG \u00b7 PUSH-ROD DOUBLE WISHBONES, BILSTEIN MONOTUBE DAMPERS, ELECTRONIC ADAPTIVE DAMPING \u00b7 ENZO: CARBON-FIBRE BODY + CHASSIS (RM) \u00b7 ENZO STIFFNESS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Structure"
   },
   {
    "text": "The Enzo is the bigger car. Wikipedia lists the F50 at four thousand four hundred eighty millimetres long, nineteen eighty-six wide and eleven twenty high on a wheelbase of twenty-five eighty. The Enzo is four thousand seven hundred two long, twenty thirty-five wide, eleven forty-seven high, with a wheelbase of twenty-six fifty. By our arithmetic, the Enzo is five percent longer.",
-   "query": "Size",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: F50 L 4,480 \u00b7 W 1,986 \u00b7 H 1,120 \u00b7 WB 2,580 MM \u00b7 ENZO L 4,702 \u00b7 W 2,035 \u00b7 H 1,147 \u00b7 WB 2,650 MM \u00b7 +222 MM LENGTH (+5.0%) \u00b7 +49 MM WIDTH (+2.5%) \u00b7 +27 MM HEIGHT (+2.4%) \u00b7 +70 MM WHEELBASE (+2.7%) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Size"
   },
   {
    "text": "The aerodynamics differ in kind. Wikipedia lists the Enzo's downforce, three hundred forty-three kilograms at two hundred kilometres an hour and seven hundred seventy-five at three hundred, and says it used active aerodynamics that Formula One did not allow. The F50 page gives no downforce figure and mentions no active system. That is a reported difference in the pages, not a proven absence on the F50.",
-   "query": "Aerodynamics",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (ENZO): 343 KG @ 200 KM/H \u00b7 775 KG @ 300 KM/H \u00b7 ACTIVE AERO 'WHICH F1 DID NOT ALLOW' \u00b7 F50: NO DOWNFORCE FIGURE OR ACTIVE SYSTEM IN OUR SOURCES (ABSENCE IN THE PAGE \u2260 ABSENCE ON THE CAR)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aerodynamics"
   },
   {
    "text": "The F50 is the rarer car on paper. Wikipedia, RM Sotheby's, the DuPont Registry and Hagerty all give three hundred forty-nine. The Enzo is four hundred by Hagerty and Sports Car Market, and four ninety-eight by Wikipedia. By our arithmetic, the F50 run is thirteen percent smaller than the four hundred Enzos, and thirty percent smaller than four ninety-eight.",
-   "query": "Rarity",
+   "query": "Ferrari F50",
    "caption": "F50: 349 (WIKIPEDIA, RM, DUPONT, HAGERTY, SCM) \u00b7 ENZO: 400 (HAGERTY, SCM) / 399 + 1 (RM) / 498 (WIKIPEDIA, ITALPASSION) \u00b7 349 \u00f7 400 = 87.3% (\u221212.7%) \u00b7 349 \u00f7 498 = 70.1% (\u221229.9%) (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Production"
+   "chapter": "Production",
+   "orig_query": "Rarity"
   },
   {
    "text": "Sports Car Market says the F50's run was one less than the market demanded, meaning that demand fell just short of the number built. It adds that the first owners leased rather than bought their cars, which limited speculation but also dampened enthusiasm. Its summary: the F40 hit a hot button which the F50 simply missed.",
-   "query": "Demand",
+   "query": "Ferrari F50",
    "caption": "SCM (F50 PROFILE): 349 BUILT, 'ONE LESS THAN THE MARKET DEMANDED' \u00b7 FIRST OWNERS LEASED, NOT BOUGHT \u00b7 'THE F40 HIT A HOT BUTTON WHICH THE F50 SIMPLY MISSED'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Demand"
   },
   {
    "text": "The Enzo was the opposite, at first. RM Sotheby's says its three hundred forty-nine planned cars were all sold before production began, with fifty more later built. Buyers had to be invited, generally from among owners of the F40 and F50. So the F50 was a car you could buy, and the Enzo was a car you had to be chosen for.",
-   "query": "Chosen buyers",
+   "query": "Ferrari F50",
    "caption": "RM SOTHEBY'S (ENZO): 349 PLANNED, ALL SOLD BEFORE PRODUCTION; 50 MORE BUILT; INVITED OWNERS, 'GENERALLY BUYERS OF THE F50 AND F40' \u00b7 'CAR YOU COULD BUY vs CAR YOU HAD TO BE CHOSEN FOR' = OUR SUMMARY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Chosen buyers"
   },
   {
    "text": "US allocation: RM says fifty-five of the F50s were earmarked for the American market. By our arithmetic, that is sixteen percent of production. Hagerty says eighty of four hundred Enzos, or twenty percent, went to America. Italpassion says one hundred eleven of four ninety-eight, twenty-two percent. So the Enzo's American share was larger on either set of numbers.",
-   "query": "US share",
+   "query": "Ferrari Enzo",
    "caption": "RM: F50 55 EARMARKED FOR US \u00b7 55 \u00f7 349 = 15.8% \u00b7 HAGERTY: ENZO 80 OF 400 = 20.0% \u00b7 ITALPASSION: 111 OF 498 = 22.3% (OUR ARITHMETIC) \u00b7 'EARMARKED' \u2260 NECESSARILY DELIVERED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "US share"
   },
   {
    "text": "Colours: Wikipedia gives the F50 totals by paint. Rosso Corsa on three hundred two cars, yellow Giallo Modena on thirty-one, Rosso Barchetta on eight, Argento N\u00fcrburgring on four and Nero Daytona on four. By our arithmetic, nearly eighty-seven percent of F50s were red. The Enzo page lists five colours but gives no counts.",
-   "query": "Colours",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA (F50): ROSSO CORSA 302 \u00b7 GIALLO MODENA 31 \u00b7 ROSSO BARCHETTA 8 \u00b7 ARGENTO N\u00dcRBURGRING 4 \u00b7 NERO DAYTONA 4 = 349 \u00b7 302 \u00f7 349 = 86.5% (OUR ARITHMETIC) \u00b7 ENZO: 5 COLOURS LISTED, NO COUNTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Colours"
   },
   {
    "text": "The F50 also had a racing sibling. Wikipedia says the F50 GT, developed with Dallara and Michelotto for the BPR series, made about seven hundred fifty brake horsepower at ten thousand five hundred revs. Six chassis were planned, three cars were sold, and the remaining three tubs were reportedly destroyed. The Enzo's racing relative, the FXX, was track-only and sold to selected clients.",
-   "query": "Racing versions",
+   "query": "Ferrari F50",
    "caption": "WIKIPEDIA: F50 GT ~750 BHP @ 10,500 \u00b7 6 CHASSIS PLANNED \u00b7 3 CARS (001, 002, 003) SOLD \u00b7 3 TUBS 'REPORTEDLY DESTROYED' \u00b7 FXX: \u20ac1.3 M, TRACK-ONLY, CLIENT USE, TO 2009",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Racing versions"
   },
   {
    "text": "The F50's original price is contested. The DuPont Registry says the manufacturer's price was four hundred fifty thousand dollars. Hagerty's page lists four hundred eighty-seven thousand. Evo gives three hundred forty-two thousand seven hundred pounds for the British price in nineteen ninety-five. Sports Car Market's profile shows four hundred seventy-five thousand, but in a table labelled for an F40, so we do not rely on it.",
-   "query": "F50 price new",
+   "query": "Ferrari F50",
    "caption": "DUPONT REGISTRY (3 MAR 2025): MSRP $450,000 \u00b7 HAGERTY: MSRP $487,000 \u00b7 EVO: \u00a3342,700 (1995) \u00b7 SCM PROFILE: $475,000 IN A TABLE LABELLED 1996 FERRARI F40 \u2192 NOT USED \u00b7 487,000 \u2212 450,000 = $37,000 (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "What they cost new"
+   "chapter": "What they cost new",
+   "orig_query": "F50 price new"
   },
   {
    "text": "For the Enzo, Sports Car Market gives a list price of six hundred forty-three thousand three hundred thirty dollars, and Evo gives about four hundred twenty thousand pounds in two thousand two. By our arithmetic, the Enzo cost between thirty-two and forty-three percent more than the F50 in the American figures, and twenty-three percent more in pounds.",
-   "query": "Enzo price new",
+   "query": "Ferrari Enzo",
    "caption": "SCM: ENZO $643,330 \u00b7 EVO: c.\u00a3420,000 (2002) \u00b7 643,330 \u00f7 487,000 = +32.1% \u00b7 643,330 \u00f7 450,000 = +43.0% \u00b7 420 \u00f7 342.7 = +22.6% (OUR ARITHMETIC; DIFFERENT YEARS, CURRENCIES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Enzo price new"
   },
   {
    "text": "Hagerty's valuation pages now show almost the same number for both. The F50 is three million six hundred fifty thousand dollars, with a plus four point three percent change, though the page does not label either figure. The Enzo's typical value is three million six hundred thousand, with no change over twelve months. By our arithmetic, the difference is one point four percent.",
-   "query": "Hagerty values",
+   "query": "Ferrari F50",
    "caption": "HAGERTY: F50 $3,650,000 (+4.3%, LABELS NOT SHOWN; GRAPH DATED OCT 2025) \u00b7 ENZO #3 'GOOD' $3,600,000 (12-MONTH 0%) \u00b7 3.65 \u00f7 3.60 = +1.4% (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "What they cost now"
+   "chapter": "What they cost now",
+   "orig_query": "Hagerty values"
   },
   {
    "text": "Auction results tell a different story. A nineteen ninety-five F50 sold for three million nine hundred sixty-five thousand at RM Monterey in twenty twenty-one, a car with about eighty-four hundred miles. A low-mileage one made five million five hundred thirty-two thousand five hundred in Miami in March twenty twenty-five, a record at the time, according to the DuPont Registry.",
-   "query": "F50 auctions",
+   "query": "Ferrari F50",
    "caption": "RM SOTHEBY'S (MONTEREY 2021): $3,965,000, #76/349, ~8,375 MI \u00b7 DUPONT REGISTRY: RM MIAMI MARCH 2025 $5,532,500, 1,351 MI, #154/349 \u00b7 PREVIOUS RECORD $5,505,000 MONTEREY 2024 \u00b7 5.5325 \u00f7 3.965 = +39.5% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "F50 auctions"
   },
   {
    "text": "The record has gone higher since. Italpassion, describing the RM Sotheby's Phoenix sale in January twenty twenty-six, says an F50 set an absolute model record of nine point two four five million dollars at Monterey in August twenty twenty-five. It lists an estimate of seven to nine million for the F50 on offer. We do not have the Phoenix result.",
-   "query": "A new record",
+   "query": "Ferrari F50",
    "caption": "ITALPASSION (RM PHOENIX, 23 JAN 2026): F50 RECORD $9.245 M MONTEREY AUG 2025 \u00b7 LOT ESTIMATE $7\u20139 M (CHASSIS 104064, #60/349, 8,195 MI) \u00b7 PHOENIX RESULT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A new record"
   },
   {
    "text": "By our arithmetic, that record is one hundred fifty-three percent above the Enzo's highest recorded sale of six point oh five million, per Italpassion, and two point one times Hagerty's highest Enzo auction in three years of four million four hundred twenty-seven thousand. Against Hagerty's typical F50 value, the record car sold at two and a half times.",
-   "query": "Record versus record",
+   "query": "Ferrari Enzo",
    "caption": "9.245 \u00f7 6.05 = +52.8% \u00b7 9.245 \u00f7 4.427 = 2.09\u00d7 \u00b7 9.245 \u00f7 3.65 = 2.5\u00d7 (OUR ARITHMETIC) \u00b7 ENZO RECORD: ITALPASSION $6.05 M vs HAGERTY $4.51 M MAX (CONFLICT) \u00b7 F50 RECORD CAR'S MILEAGE: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Record versus record"
   },
   {
    "text": "Look at how far the F50 has come. Sports Car Market recorded an F50 selling for five hundred eleven thousand six hundred seventy-six dollars at RM London in October two thousand eight. By our arithmetic, the August twenty twenty-five record is eighteen times that, or about nineteen percent a year across seventeen years. Different cars, different mileages, so this is a market move, not a return.",
-   "query": "From $511,676",
+   "query": "Ferrari F50",
    "caption": "SCM: F50 $511,676 RM LONDON 29 OCT 2008 (\u00a3319,000; ~$622,000 A FEW MONTHS EARLIER) \u00b7 9,245,000 \u00f7 511,676 = 18.1\u00d7 \u00b7 18.1^(1/17) \u2212 1 = 18.6%/YR (OUR ARITHMETIC; DIFFERENT CARS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "From $511,676"
   },
   {
    "text": "And the Enzo. Hagerty's three point six million is five point six times the Enzo's list price. The F50's three point six five million is eight point one times the DuPont Registry's four hundred fifty thousand. By our arithmetic, the F50 has appreciated faster against its original price, though the F50 price is itself uncertain, and the Enzo's list price excludes options.",
-   "query": "Appreciation",
+   "query": "Ferrari F50",
    "caption": "ENZO: 3,600,000 \u00f7 643,330 = 5.6\u00d7 \u00b7 F50: 3,650,000 \u00f7 450,000 = 8.1\u00d7 (\u00f7 487,000 = 7.5\u00d7) (OUR ARITHMETIC) \u00b7 F50 NEW PRICE UNCERTAIN \u00b7 OPTIONS: NOT IN LIST PRICE (ASSUMED, NOT STATED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Appreciation"
   },
   {
    "text": "Evo ranked the cars in February two thousand four: the Ferrari two eighty-eight GTO first, the F50 second, the Enzo third and the F40 fourth. Bovingdon called the F50 the most engaging physically and emotionally of the four, and said Ferrari perfected what we think of as a supercar when it made the F50. The Enzo was faster, but ranked lower.",
-   "query": "Evo's ranking",
+   "query": "Ferrari F50",
    "caption": "EVO (BARKER; ISSUE 64, FEB 2004): 288 GTO > F50 > ENZO > F40 \u00b7 BOVINGDON: F50 'MOST ENGAGING PHYSICALLY AND EMOTIONALLY OF THE FOUR'; 'FERRARI PERFECTED WHAT WE THINK OF AS A SUPERCAR WHEN IT MADE THE F50'",
    "cuts": 3,
-   "chapter": "What the magazines said"
+   "chapter": "What the magazines said",
+   "orig_query": "Evo's ranking"
   },
   {
    "text": "Jalopnik, in July twenty ten, called the F50 the unloved middle child of Ferrari's hypercar line, said some found it less hardcore than the F40 and less advanced than the Enzo, and concluded that nothing was wrong with it. It said the F50's design contained Ferrari's early-nineties knowledge. Opinion has shifted since, as the prices above show.",
-   "query": "The unloved child",
+   "query": "Ferrari F50",
    "caption": "JALOPNIK (PETR\u00c1NY, 13 JUL 2010): 'UNLOVED MIDDLE CHILD'; LESS HARDCORE THAN F40, LESS ADVANCED THAN ENZO (SOME SAY); AUTHOR: 'WHAT'S WRONG WITH IT? NOTHING.' \u00b7 'OPINION HAS SHIFTED' = OUR READING OF PRICES, NOT JALOPNIK'S CLAIM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The unloved child"
   },
   {
    "text": "The Enzo's own reviews were mixed on looks. Wikipedia lists Bloomberg Businessweek putting it among its fifty ugliest cars, while Sports Car International ranked it third among the top sports cars of the two thousands. Jalopnik said the Enzo had aged well. RM Sotheby's says an alarming number of Enzos have been written off, which, it argues, makes survivors more desirable.",
-   "query": "The Enzo's reception",
+   "query": "Ferrari Enzo",
    "caption": "WIKIPEDIA: BLOOMBERG BUSINESSWEEK 'FIFTY UGLIEST'; SPORTS CAR INTERNATIONAL #3 OF THE 2000s (2004); MOTOR TREND CLASSIC #4 \u00b7 JALOPNIK: ENZO 'AGED WELL' \u00b7 RM: 'ALARMING NUMBER' WRITTEN OFF",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Enzo's reception"
   },
   {
    "text": "Cost of ownership is where the F50 shows its age. The Drive reported that a clutch job on an F50 requires removing the entire rear subframe and transaxle. Parts were about five thousand dollars from a two thousand eight forum post, and the labour rate at one UK shop starts around fourteen hundred dollars, so the article's own minimum estimate was about seven thousand dollars.",
-   "query": "F50 clutch",
+   "query": "Ferrari F50",
    "caption": "THE DRIVE (CHIN, 26 NOV 2019): F50 CLUTCH JOB \u2014 REAR SUBFRAME + TRANSAXLE REMOVED \u00b7 PARTS ~$5,000 (2008 FERRARICHAT) \u00b7 LABOUR RATE ~$1,415 (THESUPERCARROOMS) \u00b7 ARTICLE'S MINIMUM TOTAL ~$7,000 \u00b7 SHOP'S ACTUAL PRICE: NOT RELEASED",
    "cuts": 3,
-   "chapter": "Keeping them alive"
+   "chapter": "Keeping them alive",
+   "orig_query": "F50 clutch"
   },
   {
    "text": "The Drive also says a major F50 service replaces the fuel bladders, at about eighteen thousand dollars, per a twenty ten forum thread. And the RM Sotheby's catalogue for a twenty twenty-one F50 lists work in August twenty seventeen, a new fuel bladder, tyres and brake lines, for nearly fifty-one thousand dollars. Forum numbers are unverified, but the catalogue one comes from a seller's records.",
-   "query": "Fuel bladders",
+   "query": "Ferrari F50",
    "caption": "THE DRIVE: FIA-STANDARD FUEL BLADDERS ~$18,000 (2010 FERRARICHAT, UNVERIFIED) \u00b7 RM SOTHEBY'S: AUG 2017 NEW FUEL BLADDER, TYRES, BRAKE LINES \u2248 $51,000 (SELLER'S RECORDS, PER CATALOGUE) \u00b7 51,000 \u00f7 18,000 = 2.8\u00d7 (OUR ARITHMETIC; SCOPE DIFFERS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel bladders"
   },
   {
    "text": "For the Enzo, the best-sourced figures are limited. Sports Car Market says a tune-up starts at three thousand dollars, and that one car had a sixteen thousand dollar service before its sale. A UK Enzo's records show a clutch replacement at seventeen thousand kilometres in two thousand eighteen, without a price. Websites list bigger numbers, but without sources, so we leave them out.",
-   "query": "Enzo costs",
+   "query": "Ferrari Enzo",
    "caption": "SCM (2018): TUNE-UP FROM $3,000 \u00b7 $16,000 SERVICE ON ONE CAR \u00b7 PISTONHEADS LISTING: JULY 2018 CLUTCH REPLACEMENT @ 17,054 KM (NO PRICE) \u00b7 UNSOURCED WEBSITE FIGURES: NOT USED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Enzo costs"
   },
   {
    "text": "Putting the two together, our sources show the F50 needing its fuel bladders and clutch work, and the Enzo needing a clutch and gearbox service. But no source here compares the two cars' running costs head to head, so we cannot say which is cheaper to keep. Anyone who tells you otherwise is guessing, or relying on figures we could not verify.",
-   "query": "Which costs more?",
+   "query": "Ferrari F50",
    "caption": "NO SOURCE COMPARES F50 vs ENZO RUNNING COSTS \u00b7 F50: CLUTCH ~$7,000 MIN; BLADDERS ~$18,000\u2013$51,000 SERVICE \u00b7 ENZO: TUNE-UP FROM $3,000; $16,000 SERVICE \u00b7 CLAIMS BEYOND THIS: UNSOURCED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Which costs more?"
   },
   {
    "text": "So which is better? Round by round: the Enzo wins on power, torque, acceleration, top speed and grip. The F50 wins on involvement, according to evo, on the magazine ranking, and on rarity, by a modest margin. Prices today are almost the same, and the F50's record is higher. The answer depends on whether you want speed or feel.",
-   "query": "Scorecard",
+   "query": "Ferrari F50",
    "caption": "ENZO: POWER, TORQUE, 0\u2013100, TOP SPEED, GRIP \u00b7 F50: INVOLVEMENT, EVO RANKING (2004), RARITY (349 vs 400+), HIGHEST AUCTION RECORD \u00b7 HAGERTY VALUES WITHIN 1.4% \u00b7 'SPEED vs FEEL' = OUR FRAMING",
    "cuts": 3,
-   "chapter": "The verdict"
+   "chapter": "The verdict",
+   "orig_query": "Scorecard"
   },
   {
    "text": "The real difference, then, is philosophy. The F50 was a supercar you operated with a manual lever and no electronic safety net. The Enzo replaced it with automation, ceramic brakes and active aero. That's our reading of the sources, not a statement from Ferrari. Each choice made the car faster in one way and less engaging in another.",
-   "query": "Philosophy",
+   "query": "Ferrari F50",
    "caption": "F50: MANUAL, NO ABS / TRACTION CONTROL / POWER STEERING \u00b7 ENZO: AUTOMATED MANUAL, C/SIC BRAKES, ACTIVE AERO, TRACTION CONTROL \u00b7 SUMMARY IS OUR READING \u00b7 SUMMARY IS OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Philosophy"
   },
   {
    "text": "What we could not confirm: the F50's real original price, with figures of four fifty, four eighty-seven and three hundred forty-two thousand pounds; the Enzo's true production total; which Formula One engine the F50 came from; the Enzo's Fiorano time; the Enzo's steering assistance; and a like-for-like running-cost comparison. We flagged each as it came up.",
-   "query": "Gaps",
+   "query": "Ferrari Enzo",
    "caption": "NOT RESOLVED: F50 NEW PRICE ($450K / $487K / \u00a3342.7K) \u00b7 ENZO TOTAL (400 vs 498) \u00b7 F50 ENGINE ANCESTRY (641 / 412T2 / 'UNTIL 1991') \u00b7 ENZO FIORANO TIME \u00b7 ENZO STEERING ASSIST \u00b7 F50 vs ENZO RUNNING COSTS \u00b7 F50 DEBUT 1995 vs 1996",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Gaps"
   },
   {
    "text": "That is the difference between the Ferrari Enzo and the F50 as far as the evidence goes. One is quicker, and the other more involving. If this helped, subscribe to Pickup Reality, and tell us which two exotic cars you want compared next. Every source is in the description.",
-   "query": "Subscribe",
+   "query": "Ferrari F50",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Subscribe"
   }
  ]
 }

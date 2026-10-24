@@ -6,333 +6,386 @@
  "scenes": [
   {
    "text": "Two Japanese six-cylinder sports cars arrived within two years of each other. One was a hand-built Toyota that cost more than a Porsche. The other was a Datsun that cost little more than half a Jaguar. This is the Toyota 2000GT against the Datsun 240Z, and the differences nobody explains clearly.",
-   "query": "2000GT vs 240Z",
+   "query": "Datsun 240Z",
    "caption": "TOYOTA 2000GT vs DATSUN 240Z",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "2000GT vs 240Z"
   },
   {
    "text": "Our sources are Wikipedia's pages on the Toyota 2000GT, the Nissan S30 and the Nissan Z, Shannons Club, Hagerty, Classic and Sports Car, and Sports Car Market. They disagree in places, and some numbers we wanted are simply not in them, such as the 240Z's launch price. We show those gaps. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Datsun 240Z",
    "caption": "SOURCES: WIKIPEDIA (2000GT, NISSAN S30, NISSAN Z) \u00b7 SHANNONS CLUB \u00b7 HAGERTY \u00b7 CLASSIC & SPORTS CAR \u00b7 SPORTS CAR MARKET \u00b7 GAPS AND DISAGREEMENTS SHOWN",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "They share a surprising origin. Wikipedia says Nissan partnered with Yamaha on a sports car prototype in nineteen sixty-one, then scrapped it by nineteen sixty-four because Yamaha's twin-cam engine fell short. Yamaha took the design to Toyota, which built the 2000GT. Nissan later built its own car, the 240Z.",
-   "query": "Same roots",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (NISSAN Z): NISSAN + YAMAHA PROTOTYPE 1961 \u00b7 SCRAPPED BY 1964 (YAMAHA DOHC ENGINE BELOW EXPECTATIONS) \u00b7 YAMAHA \u2192 TOYOTA \u2192 2000GT \u00b7 NISSAN \u2192 LATER 240Z",
    "cuts": 5,
-   "chapter": "Two cars, one idea"
+   "chapter": "Two cars, one idea",
+   "orig_query": "Same roots"
   },
   {
    "text": "Shannons Club adds that Nissan consulted the German designer Albrecht Goertz from May nineteen sixty-three, and that his A550X prototype carried many styling themes of the 240Z. It says Goertz then moved to Toyota. Hagerty reports a dispute over design credit for the 240Z that led to a threatened lawsuit. Neither source gives the outcome.",
-   "query": "Goertz",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: GOERTZ CONSULTED FROM MAY 1963; A550X HAD MANY 240Z STYLING THEMES; HE MOVED TO TOYOTA \u00b7 HAGERTY: DESIGN-CREDIT DISPUTE \u2192 THREATENED LAWSUIT \u00b7 OUTCOME: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Goertz"
   },
   {
    "text": "The timeline matters. Wikipedia says the 2000GT was shown in nineteen sixty-five and built from May nineteen sixty-seven to August nineteen seventy. The 240Z was shown at the Tokyo show on the eighteenth of October nineteen sixty-nine, and the American car was released four days later. By our arithmetic, the two were on sale together for about ten months.",
-   "query": "Overlap",
+   "query": "Datsun 240Z",
    "caption": "2000GT PRODUCTION MAY 1967 \u2013 AUG 1970 \u00b7 240Z TOKYO SHOW 18 OCT 1969; US RELEASE 22 OCT 1969 \u00b7 OCT 1969 \u2192 AUG 1970 \u2248 10 MONTHS OF OVERLAP (OUR ARITHMETIC; 240Z BUILT UNTIL 1978)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Overlap"
   },
   {
    "text": "The Datsun, in other words, was built in the shadow of the Toyota. Shannons says the Toyota sold few cars but gained publicity, which pushed Nissan to take the Goertz prototype toward production. So when we compare the two, we are comparing a car with a prestige mission against a car that learned from it.",
-   "query": "A reaction",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: TOYOTA SOLD FEW BUT GAINED PUBLICITY \u2192 NISSAN MOVED PROTOTYPE TOWARD PRODUCTION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A reaction"
   },
   {
    "text": "The Toyota's engine was a one thousand nine hundred eighty-eight cubic centimetre inline six, the 3M, with a Crown block, a Yamaha twin-cam head and three Mikuni-Solex carburettors. It made one hundred fifty metric horsepower at sixty-six hundred revs and one hundred seventy-five newton-metres, per Wikipedia.",
-   "query": "Toyota 3M",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (2000GT): 1,988 CC INLINE-SIX \u00b7 CROWN BLOCK \u00b7 YAMAHA DOHC HEAD \u00b7 3 MIKUNI-SOLEX CARBS \u00b7 150 PS @ 6,600 RPM \u00b7 175 N\u00b7M @ 5,000",
    "cuts": 3,
-   "chapter": "Round one: the engines"
+   "chapter": "Round one: the engines",
+   "orig_query": "Toyota 3M"
   },
   {
    "text": "The Datsun's American engine was the L24, a two point four litre inline six with single overhead cam and twin SU-type carburettors, rated one hundred fifty-one horsepower on the SAE gross scale at fifty-six hundred revs, per Wikipedia. Hagerty calls it somewhat Mercedes-derived, a claim the page does not explain. Wikipedia lists torque at one hundred forty-six pound-feet.",
-   "query": "Datsun L24",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (S30): L24 2.4 L I6 \u00b7 TWIN HITACHI SU-TYPE CARBS \u00b7 151 HP SAE GROSS (153 PS) @ 5,600 RPM \u00b7 146 LB-FT \u00b7 HAGERTY: 'SOMEWHAT MERCEDES-DERIVED' (UNEXPLAINED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Datsun L24"
   },
   {
    "text": "On paper they look almost equal. The Toyota is listed at one hundred forty-eight horsepower, the Datsun at one hundred fifty-one. But the Datsun's figure is on the SAE gross scale, and Wikipedia gives Toyota's in metric horsepower, so the two are not directly comparable. Our sources do not say how Toyota measured. By our arithmetic, the Datsun's engine is twenty-one percent larger.",
-   "query": "Equal on paper",
+   "query": "Datsun 240Z",
    "caption": "2000GT 148 HP vs 240Z 151 HP (SAE GROSS) \u00b7 MEASUREMENT BASES DIFFER \u00b7 TOYOTA'S TEST METHOD: NOT IN OUR SOURCES (NO CLAIM MADE ABOUT WHICH SCALE FLATTERS MORE) \u00b7 2.4 \u00f7 1.988 = +20.7% DISPLACEMENT (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Equal on paper"
   },
   {
    "text": "Torque tells a similar story, with a unit conversion. The Toyota's one hundred seventy-five newton-metres is about one hundred twenty-nine pound-feet by our arithmetic, against the Datsun's one hundred forty-six, which is thirteen percent more. Again the two figures may not share a measurement method, so treat the gap as rough.",
-   "query": "Torque",
+   "query": "Datsun 240Z",
    "caption": "175 N\u00b7M \u00d7 0.7376 = 129 LB-FT \u00b7 146 \u00f7 129 = +13% (OUR ARITHMETIC; CONVERSION FACTOR 0.7376 STANDARD) \u00b7 SAME TEST METHOD? NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque"
   },
   {
    "text": "The two-litre Japanese Fairlady Z is the fairer match for the Toyota. Wikipedia says it used a two litre single-cam L20A making one hundred thirty horsepower on the Japanese JIS scale. By our arithmetic, the Toyota's one hundred fifty is fifteen percent higher, and the Toyota was the only one of the two with a twin-cam head.",
-   "query": "The Japanese Z",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN Z): JAPAN \u2014 2.0 L SOHC L20A, 130 HP JIS (97 KW) \u00b7 2000GT 150 PS \u00b7 150 \u00f7 130 = +15% (OUR ARITHMETIC; JIS vs TOYOTA RATING BASIS NOT CONFIRMED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Japanese Z"
   },
   {
    "text": "Nissan did build a twin-cam Z. Hagerty and Wikipedia describe the Fairlady Z432, using the S20 racing engine from the Skyline GT-R. It cost twice the base Z in Japan and sold poorly, per Hagerty. Wikipedia puts production near four hundred twenty. So the closest match to the 2000GT was a Datsun that almost nobody bought.",
-   "query": "The Z432",
+   "query": "Datsun 240Z",
    "caption": "HAGERTY: Z432 \u2014 S20 DOHC 24-VALVE ENGINE FROM SKYLINE GT-R \u00b7 TWICE THE PRICE OF BASE Z IN JAPAN \u00b7 SOLD POORLY \u00b7 WIKIPEDIA (S30): ~420 BUILT \u00b7 Z432R UNDER 50",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Z432"
   },
   {
    "text": "Performance is where the sources thin out. For the Toyota, Wikipedia gives a claimed top speed of one hundred thirty-five miles an hour and a claimed thirty-one miles per gallon, and no zero to sixty time at all. Classic and Sports Car mentions the Project two eighty A prototype at one hundred thirty-seven.",
-   "query": "Toyota claims",
+   "query": "Toyota 2000GT",
    "caption": "WIKIPEDIA (2000GT): 135 MPH CLAIMED \u00b7 31 MPG CLAIMED \u00b7 NO 0\u201360 TIME \u00b7 C&SC: PROJECT 280A 148 BHP, 137 MPH",
    "cuts": 3,
-   "chapter": "Round two: performance"
+   "chapter": "Round two: performance",
+   "orig_query": "Toyota claims"
   },
   {
    "text": "For the Datsun, Wikipedia lists zero to sixty in eight seconds, a top speed of one hundred twenty-five and about twenty-one miles per gallon. But a magazine test quoted by Shannons, Modern Motor in April nineteen seventy-one, recorded ten seconds and one hundred nineteen miles an hour. The sources do not explain the two-second gap.",
-   "query": "Datsun numbers",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (S30): 0\u201360 8.0 S \u00b7 125 MPH \u00b7 ~21 MPG \u00b7 SHANNONS: MODERN MOTOR (APR 1971) 10.0 S, 119 MPH \u00b7 10.0 \u2212 8.0 = 2.0 S (OUR ARITHMETIC) \u00b7 REASON FOR GAP: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Datsun numbers"
   },
   {
    "text": "Shannons adds that some testers put the Datsun's zero to sixty within half a second of a Porsche 911S and a Ferrari Dino 246. So the 240Z was quick for its class. But the Toyota has no matching test in our sources, so we cannot say which was faster. Any article that claims a clear winner is going beyond the evidence we found.",
-   "query": "No clear winner",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: SOME TESTERS \u2014 240Z 0\u201360 WITHIN 0.5 S OF PORSCHE 911S AND FERRARI DINO 246 \u00b7 2000GT TEST TIMES: NOT IN OUR SOURCES \u2192 NO VERIFIED HEAD-TO-HEAD",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No clear winner"
   },
   {
    "text": "Top speed has the same problem. By our arithmetic, the Toyota's claimed one hundred thirty-five is eight percent above Wikipedia's one hundred twenty-five for the Datsun, and fourteen percent above Modern Motor's measured one hundred nineteen. But one is a manufacturer claim, and the other a magazine test, so we are comparing different kinds of evidence.",
-   "query": "Claim versus test",
+   "query": "Datsun 240Z",
    "caption": "135 \u00f7 125 = +8% \u00b7 135 \u00f7 119 = +13.4% (OUR ARITHMETIC) \u00b7 2000GT = CLAIMED; 240Z = WIKIPEDIA FIGURE / MAGAZINE TEST \u2192 DIFFERENT EVIDENCE TYPES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Claim versus test"
   },
   {
    "text": "Weight is the missing number. The Toyota weighed eleven hundred twenty kilograms, per Wikipedia. For the Datsun, our sources give no curb weight, only Shannons saying it weighed little more than most four-cylinder rivals with a hundred horsepower or less. So we cannot compute a power-to-weight ratio for it, and we will not guess.",
-   "query": "Weight gap",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (2000GT): 1,120 KG \u00b7 240Z CURB WEIGHT: NOT IN OUR SOURCES \u00b7 SHANNONS: 'LITTLE MORE THAN MOST 4-CYLINDER RIVALS WITH 100 BHP OR LESS' \u00b7 POWER-TO-WEIGHT FOR 240Z: CANNOT COMPUTE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight gap"
   },
   {
    "text": "Size, at least, we can compare for one car. The Toyota is only eleven hundred sixty millimetres tall and four thousand one hundred seventy-five long. Our sources give no dimensions for the 240Z. Hagerty says the original concept was sized for two Americans, roughly the size of a contemporary Porsche 911, but the page gives no numbers.",
-   "query": "Size",
+   "query": "Porsche 911",
    "caption": "WIKIPEDIA (2000GT): L 4,175 MM \u00b7 H 1,160 MM \u00b7 240Z DIMENSIONS: NOT IN OUR SOURCES \u00b7 HAGERTY: CONCEPT 'ROUGHLY THE SIZE OF A CONTEMPORARY PORSCHE 911' (NO NUMBERS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Size"
   },
   {
    "text": "Now the difference everyone notices. Wikipedia gives the 2000GT's nineteen sixty-eight American price as about seven thousand one hundred fifty dollars. Sports Car Market says six thousand eight hundred. The Jaguar E-Type was five thousand five hundred thirty-nine and the Porsche 911S six thousand seven hundred ninety.",
-   "query": "The Toyota's price",
+   "query": "Jaguar E-Type",
    "caption": "WIKIPEDIA (2000GT), 1968 US: ~$7,150 \u00b7 SCM: $6,800 \u00b7 E-TYPE $5,539 \u00b7 911S $6,790",
    "cuts": 3,
-   "chapter": "Round three: price and volume"
+   "chapter": "Round three: price and volume",
+   "orig_query": "The Toyota's price"
   },
   {
    "text": "The Datsun's launch price is not in any source we could open. We looked. What we do have is Shannons saying it offered about ninety percent of the E-Type's performance and appeal for little more than half the price. If that holds in the United States, the price was somewhat above two thousand seven hundred seventy dollars, by our arithmetic, but that is an inference.",
-   "query": "The Datsun's price",
+   "query": "Datsun 240Z",
    "caption": "240Z US LAUNCH PRICE: NOT IN OUR SOURCES \u00b7 SHANNONS: 'ABOUT 90% OF E-TYPE PERFORMANCE \u2026 LITTLE MORE THAN HALF THE PRICE' \u00b7 5,539 \u00f7 2 = $2,770 (OUR ARITHMETIC) \u2192 '>$2,770' IS AN INFERENCE, NOT A PRICE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Datsun's price"
   },
   {
    "text": "Under that inference, the Toyota cost no more than about two point six times the Datsun. By our arithmetic, seven thousand one hundred fifty divided by two thousand seven hundred seventy is two point six. Because the Datsun's real price is higher than the half-price figure, the true ratio is lower. We cannot give a better number from our sources.",
-   "query": "A rough ratio",
+   "query": "Datsun 240Z",
    "caption": "7,150 \u00f7 2,770 = 2.6\u00d7 (OUR ARITHMETIC) \u2192 UPPER BOUND ON RATIO, SINCE SHANNONS SAYS 'LITTLE MORE THAN' HALF \u00b7 TRUE RATIO UNKNOWN \u00b7 INFERENCE ON AN INFERENCE \u2014 TREAT AS ROUGH",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A rough ratio"
   },
   {
    "text": "Volume is where the figures are solid. Wikipedia's page on the S30 says over forty-five thousand 240Zs were sold in America through the nineteen seventy-one model year, more than fifty thousand in nineteen seventy-two and forty thousand in nineteen seventy-three. By our arithmetic, that is at least a hundred thirty-five thousand in the United States alone.",
-   "query": "Datsun volume",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (S30): US 240Z \u2014 45,000+ THRU MY1971 \u00b7 50,000+ 1972 \u00b7 40,000 1973 \u00b7 SUM \u2265 135,000 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Datsun volume"
   },
   {
    "text": "Against that, Toyota built three hundred fifty-one 2000GTs in total, by Wikipedia's infobox, with Sports Car Market saying three hundred fifty-four. By our arithmetic, the Datsun sold at least three hundred eighty-five cars for every Toyota built. And Shannons calls the 240Z the best-selling sports car in the world.",
-   "query": "385 to one",
+   "query": "Datsun 240Z",
    "caption": "2000GT: 351 (WIKIPEDIA INFOBOX; TEXT 337) / 354 (SCM) \u00b7 135,000 \u00f7 351 = 385\u00d7 \u00b7 \u00f7 354 = 381\u00d7 (OUR ARITHMETIC; US-ONLY DATSUN FIGURE, MINIMUM) \u00b7 SHANNONS: 'WORLD'S BEST-SELLING SPORTS CAR'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "385 to one"
   },
   {
    "text": "There is a catch in the Datsun's own numbers. One Wikipedia page says the S30 totals are not given, while another notes that the whole Z line passed one million units by Shannons' account, and the 280ZX alone reached four hundred fourteen thousand six hundred twenty-eight. Our sources give no total for the original S30 run, so we only have the American minimum.",
-   "query": "No S30 total",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN Z): NO WORLDWIDE S30 TOTAL \u00b7 SHANNONS: Z LINE > 1,000,000; 280ZX 1978\u201384 = 414,628 \u00b7 ORIGINAL S30 TOTAL: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No S30 total"
   },
   {
    "text": "The badge story helps explain how the Datsun sold. Wikipedia says Yutaka Katayama, the head of Nissan in the United States, had all the Nissan, Fairlady Z and four-three-two badges replaced with the Datsun name, and blocked dealer shipments until it was done. The same page says he understood the need for an affordable sports car sold internationally.",
-   "query": "Katayama",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN Z): KATAYAMA, PRESIDENT OF NISSAN USA \u2014 REPLACED ALL NISSAN / FAIRLADY Z / 432 BADGING WITH 'DATSUN'; BLOCKED DEALER SHIPMENTS UNTIL CHANGED \u00b7 RECOGNISED NEED FOR AN AFFORDABLE INTERNATIONAL SPORTS CAR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Katayama"
   },
   {
    "text": "Hagerty says American buyers faced waiting lists that lasted years, and that the car matched Porsche and Ferrari Dino performance at a fraction of the cost. It does not give a number for the waiting list, so we treat it as a general claim. Still, it points to demand outrunning supply, the opposite of the Toyota's situation.",
-   "query": "Waiting lists",
+   "query": "Porsche 911",
    "caption": "HAGERTY: WAITING LISTS 'FOR YEARS'; PERFORMANCE MATCHED DINOS AND 911s 'AT A FRACTION OF THE COST' \u00b7 WAITING-LIST SIZE: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Waiting lists"
   },
   {
    "text": "The Toyota raced early. Wikipedia lists third in the nineteen sixty-six Japanese Grand Prix and wins in the Suzuka one thousand kilometres in nineteen sixty-six, then the Fuji twenty-four hours and Fuji one thousand kilometres in nineteen sixty-seven. In America, the Shelby team finished fourth in the nineteen sixty-eight SCCA National Championship.",
-   "query": "Toyota racing",
+   "query": "Shelby Cobra",
    "caption": "WIKIPEDIA (2000GT): 1966 JAPAN GP 3RD \u00b7 1966 SUZUKA 1000 KM \u00b7 1967 FUJI 24 H + 1000 KM \u00b7 C&SC: 1968 SCCA NATIONAL CHAMPIONSHIP 4TH (4 WINS, 8 SECONDS, 6 THIRDS)",
    "cuts": 3,
-   "chapter": "Round four: on the track"
+   "chapter": "Round four: on the track",
+   "orig_query": "Toyota racing"
   },
   {
    "text": "The Datsun raced longer. Wikipedia says John Morton won the SCCA C Production championship in nineteen seventy and nineteen seventy-one, and that Shekhar Mehta won the East African Safari Rally in a 240Z in nineteen seventy-three. By our arithmetic, that is two national titles and a famous rally win within four years of launch.",
-   "query": "Datsun racing",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (S30): JOHN MORTON \u2014 SCCA C PRODUCTION 1970 + 1971 \u00b7 1973 EAST AFRICAN SAFARI RALLY \u2014 SHEKHAR MEHTA \u00b7 2 TITLES + 1 RALLY WIN IN \u2264 4 YEARS (OUR ARITHMETIC: 1969 \u2192 1973)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Datsun racing"
   },
   {
    "text": "Comparing the two is awkward. The Toyota-Shelby cars ran a single season, according to Wikipedia, with three cars. The Datsun competed for several years. So one record is a short, sharp campaign, and the other a long one. The sources do not say how the cars would have compared on the same circuit, so we declare no winner here either.",
-   "query": "Short versus long",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (2000GT): SHELBY \u2014 3 CARS, ONE SEASON (1968) \u00b7 DATSUN \u2014 1970, 1971 TITLES; 1973 SAFARI \u00b7 HEAD-TO-HEAD RESULTS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Short versus long"
   },
   {
    "text": "Shannons quotes two period magazines about the Datsun. Road and Track, in April nineteen seventy, predicted it would establish a market of its own. Car and Driver, in June nineteen seventy, wrote that Datsun had not invented the overhead-cam engine, or disc brakes, or independent suspension. Shannons' excerpt cuts off there, so we do not know how the sentence ends.",
-   "query": "Period reviews",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: ROAD & TRACK (APR 1970) \u2014 WOULD 'ESTABLISH A MARKET OF ITS OWN' \u00b7 CAR & DRIVER (JUNE 1970): 'DATSUN DIDN'T INVENT THE OVERHEAD-CAM ENGINE, OR DISC BRAKES, OR INDEPENDENT SUSPENSION\u2026' (EXCERPT ENDS THERE)",
    "cuts": 3,
-   "chapter": "What the press said at the time"
+   "chapter": "What the press said at the time",
+   "orig_query": "Period reviews"
   },
   {
    "text": "We could not find period reviews of the Toyota in our sources, so we cannot say how the press compared them. What we have instead is the market's verdict. Wikipedia says only about sixty 2000GTs reached North America, while Shannons says the Datsun became the best-selling sports car in the world.",
-   "query": "No Toyota reviews",
+   "query": "Datsun 240Z",
    "caption": "2000GT PERIOD REVIEWS: NOT IN OUR SOURCES \u00b7 WIKIPEDIA (2000GT): ~60 TO NORTH AMERICA \u00b7 SHANNONS: 240Z BEST-SELLING SPORTS CAR IN THE WORLD",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No Toyota reviews"
   },
   {
    "text": "Toyota's own financial result is also stark: Wikipedia says Toyota made no profit on the 2000GT. For Nissan, the sources describe the Z as a halo car meant to improve the company's image, with product planners wanting a stylish, fast, relatively cheap GT using parts shared with other Nissan vehicles. The two companies were solving different problems.",
-   "query": "Different goals",
+   "query": "Toyota 2000GT interior",
    "caption": "WIKIPEDIA (2000GT): NO PROFIT \u00b7 WIKIPEDIA (NISSAN Z): 'HALO CAR'; PLANNERS WANTED STYLISH, FAST, RELATIVELY INEXPENSIVE GT WITH PARTS SHARED WITH OTHER NISSANS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Different goals"
   },
   {
    "text": "Today the roles reverse. The 2000GT is a seven-figure car. Classic and Sports Car says the Toyota-Shelby sold for two million five hundred thirty-five thousand dollars at Amelia Island in March twenty twenty-two, and that two other nineteen sixty-seven cars made one million one hundred fifty-five thousand dollars each at the same sale.",
-   "query": "Toyota values",
+   "query": "Shelby Cobra",
    "caption": "C&SC: TOYOTA-SHELBY MF10-10001 $2,535,000 (4 MAR 2022) \u00b7 TWO OTHER 1967 CARS $1,155,000 EACH \u00b7 SCM: 27 APR 2013 $1,155,000",
    "cuts": 3,
-   "chapter": "Round five: what they are worth now"
+   "chapter": "Round five: what they are worth now",
+   "orig_query": "Toyota values"
   },
   {
    "text": "For the ordinary Datsun 240Z, our sources give no price. Shannons says Z cars, especially the 240Z, are increasing in value, without figures. The only Datsun price we have is the Z432R, which sold for one point one seven million Australian dollars in January twenty twenty. That was a very rare racing-engined car, not a typical 240Z.",
-   "query": "Datsun values",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: Z CARS 'NOW INCREASING IN VALUE' (NO FIGURES) \u00b7 WIKIPEDIA (S30): Z432R A$1.17 M \u2248 US$837K (JAN 2020) \u00b7 ORDINARY 240Z AUCTION PRICES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Datsun values"
   },
   {
    "text": "By our arithmetic, the Toyota-Shelby sold for three times the rare Datsun's price. But the comparison is unfair in both directions: one is a Carroll Shelby team race car with documented history, the other a homologation special. Neither sale tells us what an everyday 2000GT or 240Z is worth, and our sources do not include Hagerty valuations for either.",
-   "query": "Three times",
+   "query": "Datsun 240Z",
    "caption": "2,535 \u00f7 837 = 3.0\u00d7 (OUR ARITHMETIC) \u00b7 SHELBY RACE CAR vs HOMOLOGATION SPECIAL \u2014 NOT LIKE-FOR-LIKE \u00b7 HAGERTY VALUATIONS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Three times"
   },
   {
    "text": "A note on rarity. By our arithmetic, a collector competing for a 2000GT is choosing among three hundred fifty-one possible cars, while a 240Z buyer has a hundred thirty-five thousand American cars to choose from, at minimum. When supply is that different, a gap in price does not tell you which car is better. It tells you which is scarcer.",
-   "query": "Scarcity",
+   "query": "Datsun 240Z",
    "caption": "351 vs \u2265135,000 (OUR ARITHMETIC, SEE ABOVE) \u00b7 'PRICE GAP = SCARCITY, NOT QUALITY' = OUR OPINION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Scarcity"
   },
   {
    "text": "The Datsun kept evolving; the Toyota did not. Wikipedia says the 260Z arrived in nineteen seventy-four and the 280Z in nineteen seventy-five. The 280Z used Bosch fuel injection and made one hundred seventy horsepower on the SAE gross scale. The 2000GT ended in August nineteen seventy, with no direct successor in our sources.",
-   "query": "Evolution",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN Z): 260Z 1974; 280Z 1975 (NORTH AMERICA), 2.8 L, BOSCH FUEL INJECTION, 170 HP SAE GROSS \u00b7 WIKIPEDIA (2000GT): ENDED AUG 1970 \u00b7 2000GT SUCCESSOR: NOT IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "Later years"
+   "chapter": "Later years",
+   "orig_query": "Evolution"
   },
   {
    "text": "The 260Z has two different power figures in our sources. The S30 page says one hundred sixty-two horsepower gross, while the Z page says one hundred fifty-four, or one hundred thirty-nine in most American markets. By our arithmetic, the two American-style figures differ by twenty-three horsepower, so which is right depends on the market and rating, and neither page says which.",
-   "query": "260Z conflict",
+   "query": "Toyota 2000GT interior",
    "caption": "WIKIPEDIA (S30): 260Z 162 HP GROSS \u00b7 WIKIPEDIA (NISSAN Z): 154 HP (OTHER MARKETS) OR 139 HP SAE GROSS (MOST US MARKETS) \u00b7 162 \u2212 139 = 23 HP (OUR ARITHMETIC) \u00b7 RATING BASIS: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "260Z conflict"
   },
   {
    "text": "Shannons tested the later cars too: the 260Z two-plus-two took ten point eight seconds to sixty and reached one hundred eighteen, in a September nineteen seventy-four Modern Motor test. By our arithmetic, that is eight tenths of a second slower than the original's ten second test from the same magazine, though a heavier car and a different test day can both matter.",
-   "query": "Slower 260Z",
+   "query": "Toyota 2000GT rear",
    "caption": "SHANNONS: MODERN MOTOR SEPT 1974 \u2014 260Z 2+2: 10.8 S, 118 MPH \u00b7 APR 1971 \u2014 ORIGINAL Z 10.0 S, 119 MPH \u00b7 10.8 \u2212 10.0 = 0.8 S (OUR ARITHMETIC) \u00b7 REASONS (WEIGHT, CONDITIONS): NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Slower 260Z"
   },
   {
    "text": "Under the Datsun's legacy, Shannons says the Z line passed a million cars. That is the number that shows what the 240Z started. Wikipedia attributes to Nissan the aim of a halo car, and the sales say the car did more than that. The Toyota, meanwhile, remains a rare and expensive reminder that Japan could build a supercar first.",
-   "query": "Legacy",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: Z LINE > 1,000,000 \u00b7 WIKIPEDIA (NISSAN Z): HALO-CAR INTENT \u00b7 'JAPAN BUILT A SUPERCAR FIRST' = OUR INTERPRETATION, BUT SEE 2000GT 1967 vs 240Z 1969 DATES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Legacy"
   },
   {
    "text": "Here is a way to see the two cars on one scale. The Toyota's claimed thirty-one miles per gallon against the Datsun's twenty-one, both from Wikipedia. At the government's regular gasoline price of four dollars twenty-eight cents a gallon for the week of the nineteenth of October, a hundred miles costs thirteen dollars eighty-two in the Toyota and twenty dollars forty in the Datsun, by our arithmetic.",
-   "query": "Fuel cost",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA: 2000GT 31 MPG (CLAIMED) \u00b7 240Z ~21 MPG \u00b7 EIA REGULAR GASOLINE $4.284/GAL (WEEK OF 19 OCT 2026) \u00b7 100 \u00f7 31 \u00d7 4.284 = $13.82 \u00b7 100 \u00f7 21 \u00d7 4.284 = $20.40 (OUR ARITHMETIC; CLAIMED vs UNSPECIFIED BASIS)",
    "cuts": 3,
-   "chapter": "The numbers side by side"
+   "chapter": "The numbers side by side",
+   "orig_query": "Fuel cost"
   },
   {
    "text": "The mileage claims are shaky. Thirty-one miles per gallon is a claim for the Toyota with no test behind it in our sources, and Wikipedia does not state how the Datsun's twenty-one was measured. By our arithmetic, the claim is forty-eight percent better. We include the fuel cost only as an illustration of what the claimed numbers would mean today.",
-   "query": "A shaky claim",
+   "query": "Datsun 240Z",
    "caption": "31 \u00f7 21 = +47.6% (OUR ARITHMETIC) \u00b7 BOTH FIGURES UNTESTED / BASIS UNSTATED IN OUR SOURCES \u2192 ILLUSTRATION ONLY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A shaky claim"
   },
   {
    "text": "Look at the production lives. Wikipedia says the 2000GT was built from May nineteen sixty-seven to August nineteen seventy, about three and a quarter years. The S30 Z-car was built from nineteen sixty-nine to nineteen seventy-eight, nine years, with the Z-badged line changing from the 240Z to the 260Z and 280Z along the way.",
-   "query": "Production lives",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA: 2000GT MAY 1967 \u2013 AUG 1970 \u2248 3.25 YEARS \u00b7 S30 1969\u20131978 = 9 YEARS (WIKIPEDIA, NISSAN S30) \u00b7 260Z 1974 \u00b7 280Z 1975",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Production lives"
   },
   {
    "text": "By our arithmetic, spread over the 2000GT's thirty-nine months of production, three hundred fifty-one cars is nine cars a month. The Datsun's American minimum of a hundred thirty-five thousand over the four model years shown is about twenty-eight hundred cars a month. That is a pace more than three hundred times faster.",
-   "query": "Cars per month",
+   "query": "Datsun 240Z",
    "caption": "351 \u00f7 39 MONTHS = 9.0/MONTH \u00b7 135,000 \u00f7 48 MONTHS = 2,813/MONTH \u00b7 2,813 \u00f7 9 = 312\u00d7 (OUR ARITHMETIC; 39 MONTHS = MAY 1967 \u2013 AUG 1970; 48 MONTHS = ASSUMED 4 MODEL-YEAR WINDOW 1970\u201373)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cars per month"
   },
   {
    "text": "The Datsun launched in different places at different times. Shannons says the Australian launch was in October nineteen seventy, a year after Tokyo, and that there the car cost a little more than half the price of an E-Type. It also says that by June nineteen seventy-one, Wheels magazine had listed fourteen running changes to the car, showing how quickly Datsun refined it.",
-   "query": "Quick changes",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: AUSTRALIAN LAUNCH OCT 1970 \u00b7 THERE, PRICE \u2248 'A LITTLE MORE THAN HALF' OF AN E-TYPE \u00b7 WHEELS (JUNE 1971): 14 RUNNING CHANGES \u00b7 'SHOWS HOW QUICKLY DATSUN REFINED IT' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Quick changes"
   },
   {
    "text": "Shannons also notes that a T-bar targa roof became an option in nineteen eighty, long after the 2000GT was gone, and that the Fairlady first appeared in January nineteen sixty, before the E-Type's debut in nineteen sixty-one. In America, Hagerty says the predecessor was the Datsun 2000 Roadster. The Z was the end of a long line, the Toyota a one-off.",
-   "query": "A long line",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: T-BAR TARGA OPTION 1980 \u00b7 FAIRLADY DEBUT JAN 1960 \u00b7 E-TYPE DEBUT 1961 \u00b7 HAGERTY: US PREDECESSOR = DATSUN 2000 ROADSTER \u00b7 'END OF A LONG LINE vs ONE-OFF' = OUR SUMMARY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A long line"
   },
   {
    "text": "One more contrast from the Toyota's side. Wikipedia says a pair of 2000GT roadsters were built for the James Bond film You Only Live Twice, and that Daniel Craig calls it his favourite Bond car. Our sources show no equivalent film role for the Datsun. Fame, for the Toyota, came through cinema, and for the Datsun through showroom floors.",
-   "query": "Film versus showroom",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "WIKIPEDIA (2000GT): TWO TOPLESS ONE-OFFS FOR YOU ONLY LIVE TWICE (1967) \u00b7 CRAIG'S FAVOURITE \u00b7 DATSUN FILM ROLE: NOT IN OUR SOURCES \u00b7 'CINEMA vs SHOWROOM' = OUR FRAMING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Film versus showroom"
   },
   {
    "text": "Then there is the matter of who the cars were for. The Toyota's American price, around seven thousand dollars, put it next to the Porsche 911S, which Wikipedia lists at six thousand seven hundred ninety. The Datsun, on Shannons' evidence, was priced against the Jaguar and the MGB class. One was an exotic, and the other a bargain, and both came from the same country.",
-   "query": "Who they were for",
+   "query": "Porsche 911",
    "caption": "WIKIPEDIA (2000GT): ~$7,150 vs 911S $6,790 \u00b7 SHANNONS: 240Z BENCHMARKED AGAINST E-TYPE, MGB, ALFA SPIDER, HEALEY 3000, TRIUMPH TR, PORSCHE 911 (LIST OF COMPETITORS) \u00b7 'EXOTIC vs BARGAIN' = OUR FRAMING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Who they were for"
   },
   {
    "text": "A closing check on the evidence itself. Of the numbers in this video, the strongest are the American sales figures for the Datsun and the auction results for the Toyota, because both name a source and a date. The weakest are the performance claims, where one car has a manufacturer claim and the other a range of magazine tests. Weigh each comparison accordingly.",
-   "query": "How strong is the evidence?",
+   "query": "Datsun 240Z",
    "caption": "STRONGEST: 240Z US SALES (WIKIPEDIA) \u00b7 2000GT AUCTION RESULTS (SCM, C&SC, HAGERTY) \u00b7 WEAKEST: PERFORMANCE (2000GT CLAIMS vs 240Z 8.0 S / 10.0 S) \u00b7 'STRONGEST / WEAKEST' = OUR ASSESSMENT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How strong is the evidence?"
   },
   {
    "text": "Round by round: on the engine, the Toyota had the twin-cam head and the Datsun had the bigger block. On performance, our sources give no verified head-to-head. On price and volume, the Datsun wins clearly. On exclusivity and auction value, the Toyota wins clearly. On racing, both had real results.",
-   "query": "Scorecard",
+   "query": "Datsun 240Z",
    "caption": "ENGINE: 2000GT TWIN-CAM HEAD / 240Z LARGER (+20.7%) \u00b7 PERFORMANCE: NO VERIFIED HEAD-TO-HEAD \u00b7 PRICE/VOLUME: 240Z \u00b7 EXCLUSIVITY/AUCTIONS: 2000GT \u00b7 RACING: BOTH",
    "cuts": 3,
-   "chapter": "Who wins?"
+   "chapter": "Who wins?",
+   "orig_query": "Scorecard"
   },
   {
    "text": "So the difference nobody explains is simple. These two cars were never really competitors. The Toyota was a showpiece made at a loss in the hundreds. The Datsun was a product made in the hundreds of thousands. They share a family tree through Yamaha, but they answer different questions: what can Japan build, and what can Japan sell.",
-   "query": "The real difference",
+   "query": "Datsun 240Z",
    "caption": "2000GT: 351 BUILT, NO PROFIT, ~$7,150 \u00b7 240Z: \u2265135,000 IN US ALONE, 'BEST-SELLING SPORTS CAR' \u00b7 'WHAT CAN JAPAN BUILD vs WHAT CAN JAPAN SELL' = OUR FRAMING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The real difference"
   },
   {
    "text": "To be clear about the gaps. We have no verified launch price for the Datsun 240Z, no curb weight, no dimensions, and no total S30 production. We have no independent test of the Toyota's speed. We have no Hagerty valuation figures for either car. Every one of those would change parts of this comparison.",
-   "query": "Gaps",
+   "query": "Datsun 240Z",
    "caption": "NOT IN OUR SOURCES: 240Z LAUNCH PRICE \u00b7 240Z CURB WEIGHT / DIMENSIONS \u00b7 S30 WORLDWIDE TOTAL \u00b7 INDEPENDENT 2000GT TEST \u00b7 HAGERTY VALUATIONS FOR EITHER CAR \u00b7 WAITING-LIST SIZE",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Gaps"
   },
   {
    "text": "If you want the single most important fact from this video, it is the ratio. At least three hundred eighty-five Datsuns sold in America for every Toyota built, by our arithmetic. Everything else follows from that. If you found this useful, subscribe to Pickup Reality, and tell us which exotic car you want us to compare next.",
-   "query": "Subscribe",
+   "query": "Datsun 240Z",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Subscribe"
   }
  ]
 }

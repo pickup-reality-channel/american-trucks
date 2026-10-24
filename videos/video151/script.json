@@ -6,321 +6,372 @@
  "scenes": [
   {
    "text": "A Mercedes G 63 AMG 6x6 cost about five hundred eleven thousand dollars new, and one sold at auction in twenty twenty for over nine hundred thousand. So what does a six-wheel truck really cost? The purchase price is only the start. In this video we work through fuel, tyres, mileage limits and resale, using published numbers, and we show where the sources go quiet.",
-   "query": "G63 6x6",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "THE REAL COST OF A SIX-WHEEL TRUCK",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "G63 6x6"
   },
   {
    "text": "Our sources are Autocar, Fox News, Wikipedia, Gear Patrol, The Drive, Motor Authority, Carscoops, MercedesBlog, Ford Authority, DuPont Registry, a tyre retailer, and the Energy Information Administration. Some figures are estimates, and some of our calculations rest on assumptions that we state. Our own arithmetic is labelled.",
-   "query": "Six-wheel costs",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "SOURCES: AUTOCAR \u00b7 FOX NEWS \u00b7 WIKIPEDIA \u00b7 GEAR PATROL \u00b7 THE DRIVE \u00b7 MOTOR AUTHORITY \u00b7 CARSCOOPS \u00b7 MERCEDESBLOG \u00b7 FORD AUTHORITY \u00b7 DUPONT REGISTRY \u00b7 A TYRE RETAILER \u00b7 EIA \u00b7 ESTIMATES AND ASSUMPTIONS ARE LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Six-wheel costs"
   },
   {
    "text": "Start with what it cost new. CarAdvice and Carscoops give three hundred seventy-nine thousand euros. Carscoops converts that to five hundred eleven thousand dollars in twenty thirteen. Autocar, in its February twenty fourteen review, gave three hundred seventy thousand pounds. By our arithmetic, the pound figure is about two point four percent below the euro one, before exchange rates.",
-   "query": "Price when new",
+   "query": "Mercedes-Benz G-Class",
    "caption": "\u20ac379,000 (CARADVICE, CARSCOOPS) \u2248 $511,000 IN 2013 (CARSCOOPS) \u00b7 AUTOCAR (23 FEB 2014): \u00a3370,000 \u00b7 \u00a3370,000 \u00f7 379,000 = 97.6% \u2014 DIFFERENT CURRENCIES, NUMBERS ONLY (OUR ARITHMETIC)",
    "cuts": 5,
-   "chapter": "The sticker"
+   "chapter": "The sticker",
+   "orig_query": "Price when new"
   },
   {
    "text": "Other outlets differ. Gear Patrol quoted about five hundred twenty-six thousand dollars in March twenty thirteen, and CarAdvice nearly five hundred fifty thousand. Autocar, as relayed by Fox News, said it would be priced second only to a battery-powered AMG sports car, which the Fox piece lists at five hundred fifty thousand dollars. We use the euro price and the Carscoops dollar figure.",
-   "query": "Other price figures",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "GEAR PATROL (MAR 2013): ~$526,000 \u00b7 CARADVICE: 'NEARLY $550,000' \u00b7 FOX NEWS (4 MAR 2013, CITING AUTOCAR): SECOND ONLY TO AMG E-CELL, LISTED AT $550,000 \u00b7 WE USE \u20ac379,000 / $511,000",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Other price figures"
   },
   {
    "text": "Autocar also says the price was more than three times that of the standard G 63 AMG. We do not have the G 63's price in our notes, so we cannot check that ratio. What we can say is that the 6x6 was not a trim level: it was a different product at a different order of price, and sold out as such.",
-   "query": "Versus a normal G63",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "AUTOCAR: PRICE 'MORE THAN THREE TIMES THAT OF THE G 63 AMG' \u00b7 G 63 PRICE: NOT IN OUR NOTES \u2192 RATIO NOT CHECKED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Versus a normal G63"
   },
   {
    "text": "Now the Hennessey VelociRaptor 6x6. The Drive said two hundred ninety-five thousand dollars in October twenty sixteen, plus twenty-two thousand, five hundred for the HPE600 power package. Motor Authority said the twenty eighteen model started at three hundred forty-nine thousand, including the donor Raptor and the tune. An optional package added twenty-two thousand more.",
-   "query": "Hennessey price",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "THE DRIVE (OCT 2016): $295,000 + $22,500 HPE600 \u00b7 MOTOR AUTHORITY (OCT 2017): FROM $349,000 INCL. DONOR + TUNE; OPTIONAL PACKAGE +$22,000",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey price"
   },
   {
    "text": "By our arithmetic, the Mercedes cost about one hundred sixty-two thousand dollars, or forty-six percent, more than the Hennessey's start price. Fully optioned, the Hennessey would be three hundred seventy-one thousand, which narrows the gap to thirty-eight percent. These are launch prices four years apart, in different currencies. So treat the comparison as rough.",
-   "query": "Launch price gap",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$511,000 \u2212 $349,000 = $162,000 = +46.4% \u00b7 $349,000 + $22,000 = $371,000 \u2192 +37.7% (OUR ARITHMETIC; 2013 vs 2017; EURO CONVERTED BY CARSCOOPS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Launch price gap"
   },
   {
    "text": "Fuel is the first running cost. Fox News, in March twenty thirteen, said fuel economy had not been determined for the 6x6, noting the 4x4 G 63 gets thirteen miles per gallon combined and suggesting the 6x6 would not be much better. Autocar later estimated around fifteen miles per gallon on the European test cycle.",
-   "query": "Fuel economy estimates",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "FOX NEWS (4 MAR 2013): 6x6 FUEL ECONOMY 'NOT DETERMINED'; 4x4 G63 = 13 MPG COMBINED, 6x6 'WON'T BE MUCH BETTER' \u00b7 AUTOCAR (23 FEB 2014): ~15 MPG (EST), EUROPEAN TEST CYCLE",
    "cuts": 3,
-   "chapter": "Fuel"
+   "chapter": "Fuel",
+   "orig_query": "Fuel economy estimates"
   },
   {
    "text": "There is a catch. Autocar does not say whether that fifteen is in British or American gallons. A British gallon is larger. By our arithmetic, fifteen British miles per gallon would be about twelve and a half American. Wikipedia's G-Class page lists fifteen point six litres per hundred kilometres, which converts to fifteen American miles per gallon, but the cell is partly garbled.",
-   "query": "Which gallon?",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "AUTOCAR: '15 MPG' \u2014 UNIT NOT STATED \u00b7 15 UK MPG \u2248 12.5 US MPG (OUR CONVERSION) \u00b7 WIKIPEDIA G-CLASS PAGE: 15.6 L/100 KM = 15.1 US MPG (CELL PARTLY GARBLED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Which gallon?"
   },
   {
    "text": "We therefore model fuel with three assumptions: twelve and a half, thirteen and fifteen miles per gallon. For the price, the Energy Information Administration says regular gasoline averaged four dollars, twenty-eight cents a gallon in the week of the nineteenth of October twenty twenty-six. We do not know what fuel the 6x6 recommends, so premium would cost more.",
-   "query": "Fuel model assumptions",
+   "query": "Mercedes-AMG G 63 6x6 rear",
    "caption": "ASSUMED 12.5 / 13 / 15 MPG \u00b7 EIA 19 OCT 2026: REGULAR $4.284/GAL \u00b7 RECOMMENDED FUEL GRADE: NOT IN OUR SOURCES (PREMIUM WOULD COST MORE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel model assumptions"
   },
   {
    "text": "Fox News says the 6x6 has two twenty-one gallon tanks. Autocar says an overall capacity of one hundred fifty-nine litres, which matches. By our arithmetic, forty-two gallons at four dollars, twenty-eight cents is one hundred eighty dollars for a fill-up, and at thirteen miles per gallon that is about five hundred forty-six miles of range.",
-   "query": "A full tank",
+   "query": "Ford F-150 Raptor",
    "caption": "FOX NEWS: TWO 21-GAL TANKS \u00b7 AUTOCAR: 159 L OVERALL \u00b7 42 \u00d7 $4.284 = $179.93 \u00b7 42 \u00d7 13 = 546 MI (OUR ARITHMETIC; REGULAR GRADE PRICE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A full tank"
   },
   {
    "text": "By our arithmetic, the cost per mile is about thirty-four cents at twelve and a half miles per gallon, thirty-three at thirteen, and twenty-nine at fifteen. These are fuel only. The numbers rest on the average regular price and on estimates of consumption, not a test of the truck.",
-   "query": "Fuel cost per mile",
+   "query": "Hennessey VelociRaptor",
    "caption": "$4.284 \u00f7 12.5 = $0.343/MI \u00b7 \u00f7 13 = $0.330/MI \u00b7 \u00f7 15 = $0.286/MI (OUR ARITHMETIC; ESTIMATED CONSUMPTION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel cost per mile"
   },
   {
    "text": "Then the year. Motor Authority says the United States Show or Display exemption allows up to twenty-five hundred miles a year. By our arithmetic, that costs about seven hundred fourteen to eight hundred fifty-seven dollars in fuel annually. A driver covering ten thousand miles, like the Japanese owner The Drive describes, would spend about twenty-eight fifty-six to thirty-four twenty-seven.",
-   "query": "Fuel per year",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "2,500 MI/YR: $714\u2013$857 \u00b7 10,000 MI/YR: $2,856\u2013$3,427 (OUR ARITHMETIC; $4.284/GAL; 12.5\u201315 MPG) \u00b7 SHOW OR DISPLAY LIMIT: MOTOR AUTHORITY (R&T)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel per year"
   },
   {
    "text": "So fuel is not the main cost of this truck. By our arithmetic, even the highest fuel figure we calculated, thirty-four twenty-seven a year, is less than one percent of the five hundred eleven thousand dollar launch price. That is typical for very expensive vehicles driven little, though our sources do not compare it with other cars.",
-   "query": "Fuel is small",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$3,427 \u00f7 $511,000 = 0.67% (OUR ARITHMETIC) \u00b7 COMPARISON WITH OTHER VEHICLES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel is small"
   },
   {
    "text": "Range is easy to check. Autocar says two tanks hold one hundred fifty-nine litres, and Fox News says two twenty-one gallon tanks. At the American thirteen miles per gallon, that is about five hundred forty-six miles. At twelve and a half it is five hundred twenty-five. Autocar's fifteen British miles per gallon on one hundred fifty-nine litres gives the same five hundred twenty-four, by our arithmetic.",
-   "query": "Range",
+   "query": "Mercedes-Benz G-Class",
    "caption": "159 L = 42 US GAL \u00b7 42 \u00d7 12.5 = 525 MI \u00b7 42 \u00d7 13 = 546 MI \u00b7 159 L = 35.0 UK GAL \u00d7 15 = 524 MI (OUR ARITHMETIC; ESTIMATED CONSUMPTION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Range"
   },
   {
    "text": "Per hundred miles, fuel costs about thirty-three dollars at thirteen miles per gallon, by our arithmetic. By that measure, the cost of one set of six tyres, forty-five twenty-seven, equals the fuel for about thirteen thousand, seven hundred miles. Again we use a proxy tyre and an assumed consumption, so this is a scale and not a forecast.",
-   "query": "Fuel per 100 miles",
+   "query": "Mercedes-AMG G 63 6x6 rear",
    "caption": "$0.330 \u00d7 100 = $33 PER 100 MI \u00b7 $4,527 \u00f7 $0.33 = 13,718 MI OF FUEL (OUR ARITHMETIC; PROXY TYRE; ASSUMED 13 MPG)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel per 100 miles"
   },
   {
    "text": "Tyres next. Wikipedia lists thirty-seven inch tyres on eighteen inch beadlock wheels, and Carscoops describes a Brabus car on Nitto Ridge Grappler tyres. A retailer lists the Nitto Ridge Grappler in thirty-eight by thirteen point five R eighteen at seven hundred fifty-four dollars forty-eight cents each. Its overall diameter is thirty-seven point seven inches.",
-   "query": "Tyre price",
+   "query": "Brabus G-Class",
    "caption": "WIKIPEDIA: 37-IN TYRES, 18-IN BEADLOCK WHEELS \u00b7 CARSCOOPS: NITTO RIDGE GRAPPLER \u00b7 TYRE RETAILER: 38\u00d713.50R18 = $754.48 EACH, OVERALL DIAMETER 37.7 IN (SIZE ASSUMED CLOSE ENOUGH \u2014 OUR ASSUMPTION)",
    "cuts": 3,
-   "chapter": "Tyres"
+   "chapter": "Tyres",
+   "orig_query": "Tyre price"
   },
   {
    "text": "We do not know that this is the exact tyre a 6x6 wears, so we use it as a proxy and flag it. By our arithmetic, six tyres at seven hundred fifty-four dollars forty-eight come to forty-five hundred twenty-seven dollars. With a matching spare, seven tyres would be fifty-two eighty-one. Mounting, balancing and shipping are not included.",
-   "query": "A set of six",
+   "query": "Hennessey VelociRaptor",
    "caption": "6 \u00d7 $754.48 = $4,527 \u00b7 7 \u00d7 $754.48 = $5,281 (OUR ARITHMETIC; PROXY SIZE; EXCLUDES FITTING, SHIPPING, TAX)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A set of six"
   },
   {
    "text": "Put the tyres in perspective. By our arithmetic, forty-five twenty-seven is about nine-tenths of one percent of the five hundred eleven thousand dollar launch price. The more important unknown is how long the tyres last. Our sources give no tyre life for the 6x6, and at low mileage age, not wear, may decide when they are replaced.",
-   "query": "Tyres in perspective",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "$4,527 \u00f7 $511,000 = 0.89% (OUR ARITHMETIC) \u00b7 TYRE LIFE FOR THE 6x6: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyres in perspective"
   },
   {
    "text": "The retailer shows a load rating of one hundred twenty-eight and a maximum single load of thirty-nine hundred seventy pounds per tyre. By our arithmetic, six tyres could carry up to twenty-three thousand eight hundred twenty pounds, well above the truck's weight of about nine thousand. This says the tyre is heavy duty, not what the truck's own rating is.",
-   "query": "Tyre load",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "RETAILER: LOAD INDEX 128, MAX 3,970 LB PER TYRE \u00b7 6 \u00d7 3,970 = 23,820 LB (OUR ARITHMETIC) vs TRUCK ~9,000 LB (WIKIPEDIA 9,001; THE DRIVE 9,050) \u00b7 TRUCK'S OWN AXLE RATINGS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyre load"
   },
   {
    "text": "The Hennessey is different. Motor Authority says it comes with custom twenty-inch wheels and off-road tyres, but gives no size. So we cannot price its tyres at all from our sources. This is a case where the cheaper truck may not be cheaper to run, but we have no evidence either way and do not claim it.",
-   "query": "Hennessey tyres",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MOTOR AUTHORITY: CUSTOM 20-IN WHEELS, OFF-ROAD TYRES \u2014 SIZE NOT GIVEN \u2192 TYRE COST NOT COMPUTABLE \u00b7 RUNNING-COST COMPARISON WITH MERCEDES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hennessey tyres"
   },
   {
    "text": "The Show or Display exemption shapes the whole cost picture in the United States. Motor Authority, citing a listing, says it allows limited road use up to twenty-five hundred miles per year. MercedesBlog adds that an NHTSA inspection is required until the car is twenty-five years old. The Drive says G and K Automotive Conversion made one road legal in Santa Ana.",
-   "query": "The legal route",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "MOTOR AUTHORITY (R&T): SHOW OR DISPLAY, ~2,500 MI/YEAR \u00b7 MERCEDESBLOG: NHTSA INSPECTION UNTIL 25 YEARS OLD \u00b7 THE DRIVE: G&K AUTOMOTIVE CONVERSION, SANTA ANA, MADE A CAR ROAD LEGAL",
    "cuts": 3,
-   "chapter": "Mileage and the law"
+   "chapter": "Mileage and the law",
+   "orig_query": "The legal route"
   },
   {
    "text": "No source gives what the import and conversion cost. That is a real part of the bill for any American buyer, and it is missing. So is the compliance work, registration, and the cost of inspections. We can only say that the legal route exists, and that the truck was never sold new in the United States according to our sources.",
-   "query": "Import costs missing",
+   "query": "Ford F-150 Raptor",
    "caption": "IMPORT, CONVERSION, INSPECTION AND REGISTRATION COSTS: NOT IN OUR SOURCES \u00b7 US NEW SALES: NONE REPORTED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Import costs missing"
   },
   {
    "text": "The mileage limit has a nice effect on running costs. By our arithmetic, at twenty-five hundred miles a year, a car imported at five years old could cover at most twelve thousand, five hundred miles under that limit by age ten. The Brabus car in MercedesBlog covered eight thousand miles in eight years, a thousand a year, well under the allowance.",
-   "query": "Mileage ceiling",
+   "query": "Brabus G-Class",
    "caption": "2,500 MI/YR \u00d7 5 = 12,500 MI (OUR ARITHMETIC) \u00b7 MERCEDESBLOG: BRABUS CAR 8,000 MI IN 8 YEARS = 1,000 MI/YEAR (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Mileage ceiling"
   },
   {
    "text": "The Japanese car The Drive describes is the contrast: forty-eight thousand, nine hundred ninety miles, only about twenty-five hundred in America. The Drive estimates nearly nine thousand, five hundred miles a year under its earlier owner. Fuel and tyres for that use would be several times higher than the American numbers above, and our sources do not give its maintenance bills.",
-   "query": "A car that was driven",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "THE DRIVE: 48,990 MI TOTAL, ~2,500 IN US \u00b7 AUTHOR'S ESTIMATE ~9,500 MI/YEAR UNDER JAPANESE OWNER \u00b7 MAINTENANCE BILLS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A car that was driven"
   },
   {
    "text": "A word on weight, which drives wear on brakes and tyres. The sources disagree. Fox News said eight thousand three hundred pounds in March twenty thirteen. Autocar listed three thousand seven hundred seventy-five kilograms. Wikipedia lists four thousand eighty-three kilograms. The Drive says nine thousand fifty pounds for one car.",
-   "query": "Four weights",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "FOX NEWS (2013): 8,300 LB \u00b7 AUTOCAR (2014): 3,775 KG \u00b7 WIKIPEDIA: 4,083 KG \u00b7 THE DRIVE: 9,050 LB (ONE CAR)",
    "cuts": 3,
-   "chapter": "Weight, and what it means"
+   "chapter": "Weight, and what it means",
+   "orig_query": "Four weights"
   },
   {
    "text": "By our arithmetic, Autocar's figure is about eight thousand three hundred twenty-two pounds, which matches Fox News. Wikipedia's is nine thousand and one pounds. The difference is eight percent. Early figures were probably from a prototype, but that is our guess, since Autocar's steering comment is about a prototype. The finished truck is the one in the nine thousand pound range.",
-   "query": "Why the weights differ",
+   "query": "Mercedes-Benz G-Class",
    "caption": "3,775 KG = 8,322 LB \u00b7 4,083 KG = 9,001 LB \u2192 +8.2% (OUR ARITHMETIC) \u00b7 AUTOCAR: 'VAGUE' STEERING ON THE PROTOTYPE \u00b7 PROTOTYPE EXPLANATION = OUR GUESS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Why the weights differ"
   },
   {
    "text": "Now the number that overturns the usual logic: resale. The Drive reports a twenty fourteen G 63 AMG 6x6 sold for nine hundred one thousand, three hundred thirty-seven dollars on Bring a Trailer in November twenty twenty. By our arithmetic, that is three hundred ninety thousand, three hundred thirty-seven dollars more than the Carscoops launch equivalent of five hundred eleven thousand.",
-   "query": "Resale above new",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "THE DRIVE (10 NOV 2020): $901,337 \u00b7 $901,337 \u2212 $511,000 = $390,337 (+76.4%) (OUR ARITHMETIC; 2013 EURO-TO-DOLLAR EQUIVALENT)",
    "cuts": 3,
-   "chapter": "What it is worth"
+   "chapter": "What it is worth",
+   "orig_query": "Resale above new"
   },
   {
    "text": "Over roughly seven years and eight months, from March twenty thirteen to November twenty twenty, that is an average gain of about seven point seven percent a year, by our arithmetic. This ignores import costs, taxes, dealer fees and the price actually paid by the first buyer in each market. It also compares a euro-based price with a dollar sale.",
-   "query": "Yearly gain",
+   "query": "Ford F-150 Raptor",
    "caption": "(901,337 \u00f7 511,000)^(1/7.7) \u2212 1 \u2248 7.7%/YEAR (OUR ARITHMETIC; MAR 2013 \u2192 NOV 2020; EXCLUDES IMPORT COSTS, TAXES, FEES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Yearly gain"
   },
   {
    "text": "The Brabus-tuned car shows the other side. MercedesBlog says it sold in May twenty twenty-two for one million, one hundred seventy thousand, which was one hundred eighty thousand less than its previous price of one million, three hundred fifty thousand. By our arithmetic, that is a thirteen percent drop in about five months for the dealer who held it.",
-   "query": "A falling price",
+   "query": "Brabus G-Class",
    "caption": "MERCEDESBLOG (18 MAY 2022): $1,170,000 vs PREVIOUS $1,350,000 \u2192 \u2212$180,000 = \u221213.3% \u00b7 PREVIOUS SALE DEC 2021 \u2192 ~5 MONTHS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A falling price"
   },
   {
    "text": "Carscoops adds that in December twenty twenty-one this car had eight thousand miles and was set to sell for at least one point one million. It says you would not find a G 63 AMG 6x6 for less than a million dollars. MercedesBlog shows it sold below the earlier price. A resale market for a hundred cars is thin, and one sale moves it.",
-   "query": "A thin market",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "CARSCOOPS (21 DEC 2021): 8,000 MI, 'AT LEAST $1.1 MILLION'; 'YOU WON'T FIND ONE FOR LESS THAN $1 MILLION' \u00b7 ~100 CARS BUILT \u2192 FEW SALES (WIKIPEDIA, OTHERS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A thin market"
   },
   {
    "text": "Motor Authority's November twenty twenty piece lists used examples from nine hundred seventy-five thousand to one point six million. A bid then was five hundred sixty-seven thousand. The writer says it was not far above the original sticker. By our arithmetic, a bid at that level is eleven percent above five hundred eleven thousand, and the final sale reached nine hundred one thousand.",
-   "query": "Bids to sales",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "MOTOR AUTHORITY (3 NOV 2020): BID $567,000 AT PUBLICATION; LISTINGS $975,000\u2013$1.6 M \u00b7 THE DRIVE (10 NOV 2020): FINAL $901,337 \u00b7 $901,337 \u00f7 $567,000 = 1.59\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bids to sales"
   },
   {
    "text": "The Hennessey is more modest. Ford Authority reports a twenty eighteen model at its buy-now price of three hundred seventy-five thousand dollars on eBay, though it is not sure of the exact amount, and a twenty seventeen truck with six thousand miles at three hundred fifty-five thousand. By our arithmetic, that is seven percent above the three hundred forty-nine thousand start for the first.",
-   "query": "The Hennessey on resale",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "FORD AUTHORITY (FEB 2019): 2018 MODEL 'BUY NOW' $375,000 (EXACT SALE UNCERTAIN) \u00b7 2017 TRUCK, 6,000 MI, LISTED $355,000 \u00b7 $375,000 \u00f7 $349,000 = +7.4% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Hennessey on resale"
   },
   {
    "text": "Try the per-mile view, which exposes the real price of low mileage. By our arithmetic, if an owner kept the Mercedes for ten years at twenty-five hundred miles a year, that is twenty-five thousand miles. Dividing the five hundred eleven thousand dollar launch price by that gives about twenty dollars and forty cents a mile, before any resale and before fuel or tyres.",
-   "query": "Price per mile driven",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "$511,000 \u00f7 25,000 MI = $20.44/MI (OUR ARITHMETIC; 10 YEARS \u00d7 2,500 MI; BEFORE RESALE, FUEL, TYRES)",
    "cuts": 3,
-   "chapter": "The cost per mile"
+   "chapter": "The cost per mile",
+   "orig_query": "Price per mile driven"
   },
   {
    "text": "Resale changes that, if the market holds. By our arithmetic, buying at five hundred eleven and selling at nine hundred one thousand would leave a gain of three hundred ninety thousand, so the net cost of the truck over the period would be negative, before running costs. That depends on a single sale, taxes, and import costs we do not know.",
-   "query": "Net of resale",
+   "query": "Ford F-150 Raptor",
    "caption": "$901,337 \u2212 $511,000 = +$390,337 GAIN \u2192 NEGATIVE NET PURCHASE COST (OUR ARITHMETIC; ONE SALE; TAXES AND IMPORT COSTS UNKNOWN)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Net of resale"
   },
   {
    "text": "Now the buyer of the nine hundred one thousand dollar car. By our arithmetic, spread over the same twenty-five thousand miles, that is thirty-six dollars and five cents a mile before resale. Whether that car holds its value is an open question. Our sources show the Brabus car falling thirteen percent in five months in twenty twenty-one and twenty twenty-two.",
-   "query": "Cost per mile for a later buyer",
+   "query": "Brabus G-Class",
    "caption": "$901,337 \u00f7 25,000 = $36.05/MI (OUR ARITHMETIC; BEFORE RESALE) \u00b7 BRABUS CAR: \u221213.3% IN ~5 MONTHS (MERCEDESBLOG)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cost per mile for a later buyer"
   },
   {
    "text": "Price per pound is an odd but accurate measure. At the nine thousand and one pounds Wikipedia lists, the five hundred eleven thousand dollar price works out at about fifty-seven dollars a pound, by our arithmetic. At the Hennessey's three hundred forty-nine thousand dollars we cannot do the same sum, because no source gives its weight.",
-   "query": "Price per pound",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "$511,000 \u00f7 9,001 LB = $56.77/LB (OUR ARITHMETIC; WIKIPEDIA WEIGHT) \u00b7 HENNESSEY WEIGHT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price per pound"
   },
   {
    "text": "Autocar's February twenty fourteen review adds some context to the cost. It said the 6x6 was remarkably easy to drive and that it felt invincible in the dunes, but called the steering vague on the prototype. It also noted the tyre compressor takes about twenty seconds to inflate from half a bar to one point eight bar, although the gallery text says two bar.",
-   "query": "Autocar's drive",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "AUTOCAR: 'REMARKABLY EASY TO DRIVE' \u00b7 'FEELS INVINCIBLE' IN THE DUNES \u00b7 STEERING 'VAGUE' ON THE PROTOTYPE \u00b7 COMPRESSOR ~20 S FROM 0.5 BAR TO 1.8 BAR (GALLERY TEXT SAYS 2.0)",
    "cuts": 3,
-   "chapter": "What the early drives said"
+   "chapter": "What the early drives said",
+   "orig_query": "Autocar's drive"
   },
   {
    "text": "Autocar also estimated zero to sixty-two miles per hour in six seconds, and said insiders suggested less than that, with a top speed electronically governed to one hundred miles per hour. Wikipedia lists seven point eight seconds to sixty. By our arithmetic, that is a gap of one point eight seconds, a measure of how uncertain the early figures were.",
-   "query": "Early performance figures",
+   "query": "Mercedes-Benz G-Class",
    "caption": "AUTOCAR (2014): 0\u201362 MPH 6.0 S (EST), 'LESS THAN SIX' PER INSIDERS \u00b7 WIKIPEDIA: 0\u201360 7.8 S \u00b7 7.8 \u2212 6.0 = 1.8 S (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Early performance figures"
   },
   {
    "text": "Why does that matter for cost? Because speed claims and weight claims were repeated for years, and buyers paid the prices on the strength of them. The sources we have show that the first numbers and the later ones differ by almost ten percent on weight. A careful buyer would want a measured figure, and none is in our notes.",
-   "query": "Why early figures matter",
+   "query": "Mercedes-AMG G 63 6x6 rear",
    "caption": "WEIGHT: 8,322 LB (AUTOCAR) vs 9,001 LB (WIKIPEDIA) = 8.2% \u00b7 0\u201360: 6.0 vs 7.8 S \u00b7 MEASURED FIGURES FROM A TEST: NOT IN OUR NOTES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Why early figures matter"
   },
   {
    "text": "There is one more Mercedes price in the sources. Wikipedia says fifteen right-hand-drive units in Malaysia were bought by Naza World at three point two million ringgit before tax. By our arithmetic, fifteen units at that price would be forty-eight million ringgit. The article behind that figure concerns a Brabus car, so we flag it, and we do not convert it to dollars.",
-   "query": "A Malaysian price",
+   "query": "Brabus G-Class",
    "caption": "WIKIPEDIA: MALAYSIA \u2014 15 UNITS, NAZA WORLD, RM3.2 MILLION BEFORE TAX \u00b7 15 \u00d7 3.2 = RM48 MILLION (OUR ARITHMETIC) \u00b7 CITED ARTICLE CONCERNS A BRABUS CAR \u2014 CAUTION \u00b7 NOT CONVERTED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A Malaysian price"
   },
   {
    "text": "The costs we could not find matter most. Insurance. Servicing at a Mercedes dealer for an army-derived six-axle drivetrain. Storage for a truck almost twenty feet long. Transport. Parts for portal axles. We looked, and found no owner-published bills or independent estimates for any of them in the sources we can cite.",
-   "query": "Missing costs",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "NOT IN OUR SOURCES: INSURANCE \u00b7 SERVICE COSTS \u00b7 STORAGE \u00b7 TRANSPORT \u00b7 PARTS PRICES \u00b7 OWNER-PUBLISHED BILLS \u00b7 INDEPENDENT ESTIMATES",
    "cuts": 3,
-   "chapter": "The costs nobody published"
+   "chapter": "The costs nobody published",
+   "orig_query": "Missing costs"
   },
   {
    "text": "Length is one reason. Wikipedia lists the Mercedes at fifty-eight seventy-five millimetres, which by our arithmetic is nineteen point three feet, and about two metres ten wide. Tight garages and ordinary parking spaces may not suit that, but our sources do not discuss parking costs, so we leave it there.",
-   "query": "Size and storage",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "WIKIPEDIA: 5,875 MM LONG = 19.3 FT \u00b7 2,110 MM WIDE = 6.9 FT (OUR CONVERSION) \u00b7 PARKING / STORAGE COSTS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Size and storage"
   },
   {
    "text": "Autocar's tester, Greg Kable, wrote that the truck is a fun thing to drive in the right conditions but a super-exclusive proposition for all but the mega-rich. He also called it remarkably easy to drive. That is his opinion in a February twenty fourteen review. It does not give a running cost, but it reflects who the price was for.",
-   "query": "The reviewer's view",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "AUTOCAR (GREG KABLE, 23 FEB 2014): 'A FUN THING TO DRIVE IN THE RIGHT CONDITIONS' \u00b7 'SUPER-EXCLUSIVE PROPOSITION FOR ALL BUT THE MEGA-RICH' \u00b7 'REMARKABLY EASY TO DRIVE' (OPINION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The reviewer's view"
   },
   {
    "text": "Production was small. Fox News, citing Autocar, said Mercedes expected to build twenty to thirty units a year. Wikipedia says around one hundred were built over two years, and that more were sold than anticipated. By our arithmetic, that is about fifty a year, roughly two times the expected rate. A planned small run became a larger one.",
-   "query": "Planned vs actual",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "FOX NEWS (CITING AUTOCAR, 2013): 20\u201330 UNITS/YEAR EXPECTED \u00b7 WIKIPEDIA: ~100 OVER 2013\u20132015 \u2192 ~50/YEAR = 1.7\u20132.5\u00d7 EXPECTED (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 'MORE THAN ORIGINALLY ANTICIPATED'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Planned vs actual"
   },
   {
    "text": "Let us build a simple sheet from what we have, for an American owner at twenty-five hundred miles a year. Purchase, five hundred eleven thousand at launch. Fuel, seven hundred fourteen to eight hundred fifty-seven a year. One set of tyres, about forty-five hundred. Everything else, insurance and service, unknown. By our arithmetic that is the cheap part.",
-   "query": "A partial sheet",
+   "query": "Mercedes-AMG G 63 6x6 rear",
    "caption": "PURCHASE $511,000 (2013 EQUIVALENT) \u00b7 FUEL $714\u2013$857/YEAR \u00b7 TYRES ~$4,527 PER SET (PROXY) \u00b7 INSURANCE, SERVICE, IMPORT, STORAGE: UNKNOWN (OUR SUMMARY)",
    "cuts": 3,
-   "chapter": "A simple cost sheet"
+   "chapter": "A simple cost sheet",
+   "orig_query": "A partial sheet"
   },
   {
    "text": "Over five years, by our arithmetic, fuel is three thousand, five hundred seventy to forty-two eighty-five. Add one tyre set at forty-five twenty-seven and the known running cost is roughly eight thousand to nine thousand dollars. Against a resale gain of three hundred ninety thousand that the Drive's sale implies, these are small, but the unknowns could be larger.",
-   "query": "Five years of known costs",
+   "query": "Ford F-150 Raptor",
    "caption": "FUEL 5 \u00d7 $714\u2013$857 = $3,570\u2013$4,285 \u00b7 + TYRES $4,527 = $8,097\u2013$8,812 (OUR ARITHMETIC; KNOWN ITEMS ONLY) \u00b7 RESALE GAIN IMPLIED: $390,337 (ONE SALE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Five years of known costs"
   },
   {
    "text": "A buyer today faces a different calculation. The entry ticket is now nine hundred thousand dollars and up, based on the used sales in our sources, and that is before import. By our arithmetic, nine hundred one thousand is one hundred seventy-six percent of the old five hundred eleven. Whether it keeps rising is unknown, since our sources record only past sales.",
-   "query": "Buying today",
+   "query": "Hennessey VelociRaptor",
    "caption": "RECENT USED REFERENCES: $901,337 (2020), $1,170,000 (2022 BRABUS) \u00b7 $901,337 \u00f7 $511,000 = 176% (OUR ARITHMETIC) \u00b7 FUTURE PRICES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Buying today"
   },
   {
    "text": "The Hennessey sheet is shorter. Purchase, three hundred forty-nine thousand, plus optional twenty-two thousand. Fuel, unknown. Tyres, unknown. Weight, unknown. The only other number we found is the used price, around three hundred fifty-five to three hundred seventy-five thousand in early twenty nineteen. So for the cheaper truck, we know even less about the true cost.",
-   "query": "The Hennessey sheet",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "HENNESSEY: PURCHASE $349,000 (+$22,000 OPTION) \u00b7 FUEL / TYRES / WEIGHT / INSURANCE / SERVICE: NOT IN OUR SOURCES \u00b7 USED: $355,000\u2013$375,000 (FORD AUTHORITY, FEB 2019)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Hennessey sheet"
   },
   {
    "text": "What is missing. Any measured fuel economy for either truck. Insurance and service bills. The cost of importing and certifying a car in the United States. Tyre life. A depreciation curve rather than a few sales. If you have owned one of these, share a real number in the comments, and we will update the description.",
-   "query": "Six-wheel costs",
+   "query": "Hennessey VelociRaptor 6x6",
    "caption": "NOT IN OUR SOURCES: MEASURED FUEL ECONOMY \u00b7 INSURANCE \u00b7 SERVICE BILLS \u00b7 IMPORT AND CERTIFICATION COSTS \u00b7 TYRE LIFE \u00b7 DEPRECIATION CURVE",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Six-wheel costs"
   },
   {
    "text": "So what does a six-wheel truck really cost? The sticker was five hundred eleven thousand dollars for the Mercedes and three hundred forty-nine thousand for the Hennessey. Running costs that we can compute are small beside that. And the used market, at least for the Mercedes, has so far paid more than new. Subscribe to Pickup Reality, and the twenty twenty-seven Truck Buyer's Guide is linked in the description.",
-   "query": "Six-wheel costs",
+   "query": "Mercedes-Benz G63 AMG 6x6",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Six-wheel costs"
   }
  ]
 }

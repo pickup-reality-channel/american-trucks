@@ -9,323 +9,375 @@
    "query": "Ram 1500 TRX",
    "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE RAM TRX",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "We read Wikipedia, Motor1, Motor Authority, Edmunds, Kelley Blue Book, Ford Authority's report of a MotorTrend test, and Ram's own press release. Where figures conflict, and for this truck they often do, we show both. Anything we calculate is labelled as our arithmetic, and anything Ram or Ford says about its own truck is marked as a claim.",
    "query": "Ram 1500 TRX",
    "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 \u00b7 MOTOR AUTHORITY \u00b7 EDMUNDS \u00b7 KBB \u00b7 FORD AUTHORITY (MOTORTREND TEST) \u00b7 RAM PRESS RELEASE (CLAIMS) \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "Wikipedia lists the production truck at seven hundred two horsepower and six hundred fifty pound-feet of torque. A reference on the same page is titled: the twenty twenty-one Ram 1500 TRX Launch Edition is a ninety-two thousand, ten dollar truck limited to seven hundred two units. Ram announced the Launch Edition on the seventeenth of August twenty twenty.",
-   "query": "TRX Launch Edition",
+   "query": "Ram 1500 TRX",
    "caption": "702 HP \u00b7 650 LB-FT \u00b7 LAUNCH EDITION: 702 UNITS, $92,010 (REFERENCE TITLE) \u00b7 ANNOUNCED 17 AUG 2020 (WIKIPEDIA)",
    "cuts": 5,
-   "chapter": "Thing one: the number 702"
+   "chapter": "Thing one: the number 702",
+   "orig_query": "TRX Launch Edition"
   },
   {
    "text": "Our sources do not say that the unit count was chosen to match the horsepower. They give the two numbers, and no explanation. So we leave it there: seven hundred two trucks, seven hundred two horsepower, and no statement from Ram in our sources about whether it was deliberate.",
-   "query": "702 coincidence",
+   "query": "Ram 1500 TRX",
    "caption": "WHETHER 702 UNITS WAS CHOSEN TO MATCH 702 HP: NOT STATED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "702 coincidence"
   },
   {
    "text": "Put the Launch Edition price in context with the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, ninety-two thousand, ten is one point one years of median household income, before tax. That is a very different ratio from the exotic cars in the other videos of this series.",
-   "query": "Launch Edition vs income",
+   "query": "Ford Raptor R",
    "caption": "$92,010 \u00f7 $83,730 \u2248 1.1 YEARS OF MEDIAN HOUSEHOLD INCOME (CENSUS 2024; OUR ARITHMETIC) \u00b7 GROSS, BEFORE TAX",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Launch Edition vs income"
   },
   {
    "text": "Now the full production picture, from Wikipedia, whose own table flags several of these as uncited or approximate. The Launch Edition, seven hundred two. Base TRX, one thousand, seven hundred seven across three years: six hundred sixty-four, eight hundred twenty-five, and two hundred eighteen. Then the limited editions, starting with the Ignition Edition at one thousand and three.",
-   "query": "TRX production table",
+   "query": "Ram 1500 TRX",
    "caption": "LAUNCH 702 \u00b7 BASE 1,707 (664 IN 2021, 825 IN 2022, 218 IN 2023) \u00b7 IGNITION (2022) 1,003 (WIKIPEDIA; SEVERAL FIGURES FLAGGED UNCITED OR APPROXIMATE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX production table"
   },
   {
    "text": "Next on the list: the Sandblast Edition at one thousand, two hundred two. The Lunar Edition, about one thousand. The Havoc Edition, about fifteen hundred. The Final Edition, four thousand. And a Special Edition of about three hundred eighty, which Wikipedia marks with a question mark. Add every figure on the page and the total depends on which of these you trust.",
-   "query": "TRX limited editions",
+   "query": "Ram 1500 TRX",
    "caption": "SANDBLAST (2022) 1,202 \u00b7 LUNAR (2023) ~1,000 \u00b7 HAVOC (2023) ~1,500 \u00b7 FINAL (2024) 4,000 \u00b7 SPECIAL (2024) ~380 (?) (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX limited editions"
   },
   {
    "text": "By our arithmetic, adding every listed figure gives about eleven thousand, four hundred ninety-four trucks. That sum is ours, it includes approximate and uncited numbers, and no source we read gives a grand total. The page also gives no 2024 count for the base trim apart from the editions, so the real total could differ.",
-   "query": "TRX total estimate",
+   "query": "Ford F-150 Raptor R",
    "caption": "702+1,707+1,003+1,202+~1,000+~1,500+4,000+~380 \u2248 11,494 (OUR ARITHMETIC; INCLUDES APPROXIMATE/UNCITED FIGURES) \u00b7 NO OFFICIAL TOTAL FOUND \u00b7 NO 2024 BASE COUNT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX total estimate"
   },
   {
    "text": "One more consequence. By our arithmetic, the Final Edition alone is about thirty-five percent of that sum, while the Launch Edition is about six percent. So the truck that began as a hyper-limited run of seven hundred two ended with a last edition nearly six times as large. The word limited stretched a long way over the TRX's life.",
-   "query": "Limited stretched",
+   "query": "Ram 1500 TRX",
    "caption": "4,000 \u00f7 11,494 \u2248 34.8% \u00b7 702 \u00f7 11,494 \u2248 6.1% \u00b7 4,000 \u00f7 702 \u2248 5.7\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Limited stretched"
   },
   {
    "text": "The second thing. Wikipedia says the American Council for an Energy-Efficient Economy ranked the TRX the worst-performing mass-market vehicle for twenty twenty-one, twenty twenty-two and twenty twenty-three. Three years in a row. It also says Forbes listed it among its dirtiest vehicles for twenty twenty-one, though that appears only in a reference title.",
-   "query": "TRX efficiency ranking",
+   "query": "Ram 1500 TRX",
    "caption": "ACEEE: 'WORST-PERFORMING MASS-MARKET VEHICLE' 2021, 2022, 2023 (WIKIPEDIA) \u00b7 FORBES 'DIRTY BAKER'S DOZEN' 2021 (REFERENCE TITLE ONLY)",
    "cuts": 3,
-   "chapter": "Thing two: the efficiency ranking"
+   "chapter": "Thing two: the efficiency ranking",
+   "orig_query": "TRX efficiency ranking"
   },
   {
    "text": "What does that look like at the pump? Kelley Blue Book lists the EPA rating at ten miles per gallon in the city, fourteen on the highway, and twelve combined. By our arithmetic, a truck driven fifteen thousand miles a year at twelve miles per gallon burns twelve hundred fifty gallons. Fifteen thousand miles is our assumption, not a figure from the sources.",
-   "query": "TRX fuel economy",
+   "query": "Ford Raptor R",
    "caption": "EPA 10 CITY / 14 HWY / 12 COMBINED MPG (KBB) \u00b7 15,000 MI \u00f7 12 MPG = 1,250 GALLONS (OUR ARITHMETIC; 15,000 MI IS AN ASSUMPTION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX fuel economy"
   },
   {
    "text": "Edmunds estimates five years of fuel for a twenty twenty-three TRX at thirty-eight thousand, ninety-three dollars. By our arithmetic, that is about seventy-six hundred dollars a year. Edmunds' page does not tell us the mileage or fuel price behind that, so it is an estimate from their model, and the biggest line in their whole cost table.",
-   "query": "TRX five-year fuel",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS 5-YEAR FUEL $38,093 \u2192 ~$7,619/YEAR (OUR ARITHMETIC) \u00b7 MILEAGE AND FUEL PRICE ASSUMPTIONS NOT SHOWN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX five-year fuel"
   },
   {
    "text": "Here is Edmunds' full five-year table for the TRX. Depreciation, twenty-one thousand, two hundred ninety-three. Insurance, seven thousand, eight hundred fifteen. Maintenance, eighty-five ninety-three. Repairs, thirty-one sixty. Fuel, thirty-eight ninety-three. Financing, fourteen nine ninety-six. Taxes and fees, eighty-two fifty-eight. Total: one hundred two thousand, two hundred eight.",
-   "query": "TRX five-year cost",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS 5-YR TRUE COST TO OWN: DEPR $21,293 \u00b7 INS $7,815 \u00b7 MAINT $8,593 \u00b7 REPAIRS $3,160 \u00b7 FUEL $38,093 \u00b7 FINANCING $14,996 \u00b7 TAX/FEES $8,258 = $102,208",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX five-year cost"
   },
   {
    "text": "By our arithmetic, fuel is thirty-seven percent of the total, and depreciation only twenty-one percent. For most cars, depreciation is the largest cost. For the TRX, on Edmunds' numbers, fuel is the largest by almost eighteen thousand dollars. That is the second thing: the truck's biggest cost to own is not the price, it is what goes in the tank.",
-   "query": "Fuel beats depreciation",
+   "query": "Ram 1500 TRX",
    "caption": "$38,093 \u00f7 $102,208 = 37.3% \u00b7 $21,293 \u00f7 $102,208 = 20.8% \u00b7 DIFFERENCE $16,800 (OUR ARITHMETIC; EDMUNDS ESTIMATES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel beats depreciation"
   },
   {
    "text": "A fair caution. Edmunds prices a used, twenty twenty-three truck at a total cash price of seventy-four thousand, seventy-eight dollars, which is not its sticker price. Kelley Blue Book, for a twenty twenty-one TRX, lists a current resale value of fifty-four thousand, five hundred dollars and says it has depreciated twenty percent in three years. The two sites measure different things.",
-   "query": "Edmunds vs KBB basis",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS: TOTAL CASH PRICE $74,078 (USED-BASED, NOT MSRP) \u00b7 KBB 2021 TRX: RESALE $54,500, \u221220% IN 3 YEARS \u00b7 DIFFERENT BASES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds vs KBB basis"
   },
   {
    "text": "How did it start? Wikipedia says the Rebel TRX concept debuted in October twenty sixteen at the State Fair of Texas, as an engineering, design and consumer-interest study. That concept used a supercharged six point two litre Hemi, detuned to five hundred seventy-five horsepower.",
-   "query": "TRX concept 2016",
+   "query": "Ram 1500 TRX",
    "caption": "OCT 2016: REBEL TRX CONCEPT, STATE FAIR OF TEXAS \u00b7 SUPERCHARGED 6.2 HEMI DETUNED TO 575 HP (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "From concept to showroom"
+   "chapter": "From concept to showroom",
+   "orig_query": "TRX concept 2016"
   },
   {
    "text": "The page says Ram announced production for the twenty twenty-one model year on the first of June twenty eighteen. By our arithmetic, that is one year and eight months after the concept. Then the Launch Edition was announced on the seventeenth of August twenty twenty, which is a further two years and two and a half months. So the concept took about three years and ten months to reach an announced production truck.",
-   "query": "Concept to production",
+   "query": "Ram 1500 TRX",
    "caption": "OCT 2016 \u2192 1 JUNE 2018 \u2248 1 YR 8 MO \u00b7 \u2192 17 AUG 2020 \u2248 +2 YR 2.5 MO \u00b7 TOTAL \u2248 3 YR 10 MO (OUR ARITHMETIC; WIKIPEDIA DATES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Concept to production"
   },
   {
    "text": "The production truck produced seven hundred two horsepower, against the concept's five hundred seventy-five. By our arithmetic, that is one hundred twenty-seven more horsepower, a gain of twenty-two percent. Wikipedia lists pre-launch reports of seven hundred seven, which was not the final figure, and that reminds us how much of the early numbers were reporting rather than announcement.",
-   "query": "Concept vs production power",
+   "query": "Ram 1500 TRX front",
    "caption": "702 \u2212 575 = +127 HP = +22.1% (OUR ARITHMETIC) \u00b7 PRE-LAUNCH REPORTS: 707 HP (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Concept vs production power"
   },
   {
    "text": "One engine that did not become a production truck: a one thousand horsepower crate engine called Hellephant, shown at SEMA twenty eighteen. Wikipedia says Mopar stated it was not for street use. It is not part of the production TRX, but it shows how much power the Hemi family had in reserve.",
-   "query": "Hellephant engine",
+   "query": "Ram 1500 TRX",
    "caption": "HELLEPHANT: 1,000 HP CRATE ENGINE, SEMA 2018 \u00b7 MOPAR: NOT FOR STREET USE \u00b7 NOT PART OF PRODUCTION TRX (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hellephant engine"
   },
   {
    "text": "Go back to the beginning of the price story. Ram's press release for the first TRX gave a base price of sixty-nine thousand, nine hundred ninety-five dollars, plus a sixteen ninety-five destination charge. Orders opened on the eighteenth of August twenty twenty. By our arithmetic, the base truck cost seventy-one thousand, six hundred ninety dollars delivered, or point nine times the median household income.",
-   "query": "TRX original price",
+   "query": "Ram 1500 TRX",
    "caption": "RAM PRESS RELEASE (2020): BASE $69,995 + $1,695 DEST = $71,690 \u00b7 ORDERS OPENED 18 AUG 2020 \u00b7 $71,690 \u00f7 $83,730 \u2248 0.86 YEARS OF MEDIAN INCOME (CENSUS; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The original price and the original claims"
+   "chapter": "The original price and the original claims",
+   "orig_query": "TRX original price"
   },
   {
    "text": "The same release gave the Launch Edition from eighty-eight thousand, five hundred seventy dollars plus destination. Add the sixteen ninety-five, and by our arithmetic you reach ninety thousand, two hundred sixty-five. The Wikipedia reference title says ninety-two thousand, ten, which is one thousand, seven hundred forty-five dollars more. Our sources do not say what accounts for the difference, such as options.",
-   "query": "Launch Edition price check",
+   "query": "Ram TRX rear",
    "caption": "RELEASE: LAUNCH EDITION FROM $88,570 + $1,695 = $90,265 (OUR SUM) vs WIKIPEDIA REFERENCE TITLE $92,010 \u2192 $1,745 APART \u00b7 CAUSE NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Launch Edition price check"
   },
   {
    "text": "Now compare the first base price with the last. The base twenty twenty-one TRX, delivered, was seventy-one thousand, six hundred ninety. Motor1 gives the twenty twenty-four base as ninety-seven thousand, seven hundred thirty. By our arithmetic, that is twenty-six thousand, forty dollars more, an increase of thirty-six percent in four model years. The destination charges may be treated differently in the two figures.",
-   "query": "TRX price creep",
+   "query": "Ram 1500 TRX",
    "caption": "$97,730 \u2212 $71,690 = $26,040 = +36.3% (2020 RELEASE vs MOTOR1 2024; OUR ARITHMETIC) \u00b7 DESTINATION TREATMENT MAY DIFFER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX price creep"
   },
   {
    "text": "The first release quotes Mike Koval Junior, then head of the Ram brand. He called the Launch Edition limited in number, but seemingly limitless in performance. The release gave seven hundred two horsepower, and a top speed of one hundred eighteen miles per hour. It did not give torque, a zero-to-sixty time or a quarter-mile time.",
-   "query": "Koval and the first claims",
+   "query": "Ram 1500 TRX",
    "caption": "MIKE KOVAL JR., HEAD OF RAM BRAND (2020 RELEASE): 'LIMITED IN NUMBER, BUT SEEMINGLY LIMITLESS IN PERFORMANCE' \u00b7 702 HP \u00b7 118 MPH \u00b7 NO 0\u201360 OR QUARTER-MILE GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Koval and the first claims"
   },
   {
    "text": "A detail about that top speed. The one hundred eighteen mile per hour figure appears in the twenty twenty release, and again in the twenty twenty-six release for the seven hundred seventy-seven horsepower truck. By our arithmetic, seventy-five more horsepower changed the claimed top speed by exactly zero. Both are company claims, and the sources do not say why it did not change.",
-   "query": "118 mph unchanged",
+   "query": "Ram 1500 TRX front",
    "caption": "2020 RELEASE: 118 MPH AT 702 HP \u00b7 2026 RELEASE: 118 MPH AT 777 HP \u00b7 +75 HP, +0 MPH CLAIMED (OUR ARITHMETIC; BOTH ARE COMPANY CLAIMS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "118 mph unchanged"
   },
   {
    "text": "Our copy of that first release also contains a line that does not fit. A brand description in the same document gives the TRX as seven hundred seventy-seven horsepower, while the specifications say seven hundred two. We take the specification, because every other source agrees, and we note that corporate documents reused over time can carry mixed figures.",
-   "query": "Press release inconsistency",
+   "query": "Ram 1500 TRX",
    "caption": "2020 RELEASE TEXT: BRAND SECTION SAYS 777 HP; SPECS SAY 702 HP (TEXT AS RETRIEVED) \u00b7 WE USE 702 (ALL OTHER SOURCES AGREE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Press release inconsistency"
   },
   {
    "text": "Independent testing exists. Cars dot com's road test editor Brian Normile took a twenty twenty-one TRX to a drag strip and published the results on the sixth of July twenty twenty-one. Ram suggested launch control at twenty-two hundred rpm, but he could not get a clean launch with it, so his best of three runs used a brake torque launch to about twenty-five hundred.",
-   "query": "Cars.com drag test",
+   "query": "Ram 1500 TRX",
    "caption": "CARS.COM, BRIAN NORMILE, 6 JULY 2021 \u00b7 DRAG STRIP \u00b7 RAM-SUGGESTED LAUNCH CONTROL AT 2,200 RPM NOT CLEAN \u2192 BRAKE-TORQUE LAUNCH ~2,500 RPM \u00b7 BEST OF 3 RUNS",
    "cuts": 3,
-   "chapter": "What independent tests measured"
+   "chapter": "What independent tests measured",
+   "orig_query": "Cars.com drag test"
   },
   {
    "text": "The results. Zero to sixty in four point one seconds, without rollout. The quarter mile in twelve point five five seconds at just under one hundred seven miles per hour, with a one-foot rollout. Ram's own claims were four point five seconds and twelve point nine at one hundred eight. By our arithmetic, the truck beat the zero-to-sixty claim by nine percent.",
-   "query": "TRX measured",
+   "query": "Ram 1500 TRX",
    "caption": "MEASURED: 0\u201360 4.1 S (NO ROLLOUT) \u00b7 1/4 MILE 12.55 S @ <107 MPH (1-FT ROLLOUT) \u00b7 RAM CLAIMS: 4.5 S \u00b7 12.9 S @ 108 MPH \u00b7 0.4/4.5 = 8.9% QUICKER THAN CLAIM (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX measured"
   },
   {
    "text": "The tester recorded his conditions: tyres at thirty-eight psi, as the door sticker says; transmission, steering and stability control in Sport; suspension in Street. The weight he listed was six thousand, three hundred fifty pounds, the same as Wikipedia's curb weight, though he does not say whether it was curb or tested weight. The article does not compare with any other truck here.",
-   "query": "TRX test conditions",
+   "query": "Ram TRX interior",
    "caption": "38 PSI TYRES \u00b7 SPORT MODES, SUSPENSION IN STREET \u00b7 WEIGHT 6,350 LB (CURB OR TESTED NOT STATED) (CARS.COM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX test conditions"
   },
   {
    "text": "Set that beside the later MotorTrend result. Ford Authority reports MotorTrend measured a twenty twenty-three TRX at three point nine to sixty. By our arithmetic, that is two tenths quicker than the Cars dot com figure. But one measurement excludes rollout, the other we cannot check, and the trucks and days differ. So we do not call either one the TRX's true time.",
-   "query": "Two measured 0-60 times",
+   "query": "Ram 1500 TRX",
    "caption": "CARS.COM 2021: 4.1 S \u00b7 MOTORTREND 2023 (VIA FORD AUTHORITY): 3.9 S \u00b7 GAP 0.2 S (OUR ARITHMETIC) \u00b7 METHODS AND TRUCKS DIFFER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Two measured 0-60 times"
   },
   {
    "text": "Power to weight, by our arithmetic. Seven hundred two horsepower over six thousand, three hundred fifty pounds is about one hundred eleven horsepower per thousand pounds. For the twenty twenty-seven truck, seven hundred seventy-seven over the same weight would be about one hundred twenty-two, but our sources do not give the new truck's weight, so that second figure is only an illustration.",
-   "query": "TRX power to weight",
+   "query": "Ram 1500 TRX front",
    "caption": "702 \u00f7 6.350 \u2248 110.6 HP PER 1,000 LB \u00b7 777 \u00f7 6.350 \u2248 122.4 (ILLUSTRATION ONLY: 2027 WEIGHT NOT GIVEN) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX power to weight"
   },
   {
    "text": "Kelley Blue Book tracks the depreciation of a twenty twenty-one TRX, year by year. Seven thousand, eight hundred nine in the first row, then fifty-seven sixty-seven, forty-eight seventy-two, and thirty-one twenty-seven. The current resale value is fifty-four thousand, five hundred dollars. KBB says that is a loss of thirteen thousand, seven hundred sixty-six, or twenty percent, in three years.",
-   "query": "KBB TRX depreciation",
+   "query": "Ram 1500 TRX",
    "caption": "KBB 2021 TRX: YEARLY DEPRECIATION $7,809 \u00b7 $5,767 \u00b7 $4,872 \u00b7 $3,127 \u00b7 RESALE NOW $54,500 \u00b7 \u2212$13,766 (20%) IN 3 YEARS",
    "cuts": 3,
-   "chapter": "What the used market says"
+   "chapter": "What the used market says",
+   "orig_query": "KBB TRX depreciation"
   },
   {
    "text": "Check that against the table. The last three yearly losses add up to thirteen thousand, seven hundred sixty-six, which matches. And by our arithmetic, thirteen thousand, seven hundred sixty-six over the value of sixty-eight thousand, two hundred sixty-six at the start of that period is twenty point two percent. The numbers agree with each other, which is not always the case for this truck.",
-   "query": "KBB arithmetic check",
+   "query": "Ford F-150 Raptor R",
    "caption": "$5,767+$4,872+$3,127 = $13,766 \u2713 \u00b7 $13,766 \u00f7 $68,266 = 20.2% (OUR ARITHMETIC ON KBB TABLE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "KBB arithmetic check"
   },
   {
    "text": "Kelley Blue Book also lists private-party values by condition. Excellent, fifty-five thousand, four hundred twenty dollars. Good, fifty-two thousand, six hundred twenty. Fair, forty-eight thousand, eight hundred twenty. And trade-in values are lower: forty-seven thousand, two hundred fifty for a good one. By our arithmetic, selling privately instead of trading in a good truck is worth five thousand, three hundred seventy dollars.",
-   "query": "KBB value ladder",
+   "query": "Ram TRX rear",
    "caption": "PRIVATE PARTY: EXCELLENT $55,420 \u00b7 GOOD $52,620 \u00b7 FAIR $48,820 \u00b7 TRADE-IN (GOOD) $47,250 \u2192 PRIVATE \u2212 TRADE = $5,370 (KBB; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "KBB value ladder"
   },
   {
    "text": "One more number from Wikipedia's production table. The base TRX count fell from eight hundred twenty-five in twenty twenty-two to two hundred eighteen in twenty twenty-three. By our arithmetic, that is a drop of seventy-four percent. In the same year, the page lists the Lunar Edition at about one thousand and the Havoc Edition at about fifteen hundred. It does not explain the shift.",
-   "query": "Base TRX decline",
+   "query": "Ram 1500 TRX",
    "caption": "BASE TRX: 825 (2022) \u2192 218 (2023) = \u221273.6% (OUR ARITHMETIC) \u00b7 2023 EDITIONS: LUNAR ~1,000 \u00b7 HAVOC ~1,500 (WIKIPEDIA; UNCITED/APPROXIMATE) \u00b7 CAUSE NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Base TRX decline"
   },
   {
    "text": "The dimensions, from Wikipedia. Curb weight six thousand, three hundred fifty pounds, which is two thousand, eight hundred eighty kilograms. Wheelbase one hundred forty-five point one inches. Length two hundred thirty-two point nine inches. Width eighty-eight inches, and height eighty point nine. The page lists an eight-speed ZF automatic.",
-   "query": "TRX dimensions",
+   "query": "Ford Raptor R",
    "caption": "CURB 6,350 LB (2,880 KG) \u00b7 WHEELBASE 145.1 IN \u00b7 LENGTH 232.9 IN \u00b7 WIDTH 88 IN \u00b7 HEIGHT 80.9 IN \u00b7 8-SPEED AUTO (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "The hardware"
+   "chapter": "The hardware",
+   "orig_query": "TRX dimensions"
   },
   {
    "text": "By our arithmetic, eighty-eight inches is seven feet, four inches wide, and two hundred thirty-two point nine inches is nineteen feet, five inches long. For comparison, those are the dimensions the page gives and no other source we read states different ones. We note them because width matters on trails and in parking spaces.",
-   "query": "TRX size in feet",
+   "query": "Ram 1500 TRX front",
    "caption": "88 IN = 7 FT 4 IN \u00b7 232.9 IN = 19 FT 5 IN (OUR ARITHMETIC; WIKIPEDIA DIMENSIONS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX size in feet"
   },
   {
    "text": "The page contradicts itself on one detail. The infobox lists the eight-speed ZF 8HP95 gearbox, while the concept section names a TorqueFlite 8HP70. Ram's own 2027 press release says TorqueFlite 8HP95. The difference matters only to engineers, but it shows how much of this truck's public record is inconsistent.",
-   "query": "TRX gearbox discrepancy",
+   "query": "Ram 1500 TRX",
    "caption": "WIKIPEDIA INFOBOX: ZF 8HP95 \u00b7 CONCEPT SECTION: 8HP70 \u00b7 RAM 2027 PRESS RELEASE: TORQUEFLITE 8HP95",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX gearbox discrepancy"
   },
   {
    "text": "The 2027 truck's hardware, from Ram's press release, which is a company source. Standard thirty-five-inch tyres. Front independent suspension with thirteen inches of travel. A Dana sixty rear axle with a full-floating design and an electronic locker, and up to fourteen inches of rear travel. Bilstein Black Hawk adaptive shocks. Ground clearance eleven point eight inches.",
-   "query": "2027 TRX hardware",
+   "query": "Ram 1500 TRX",
    "caption": "RAM PRESS RELEASE (COMPANY SOURCE): 35-IN TYRES \u00b7 FRONT TRAVEL 13 IN \u00b7 REAR TRAVEL UP TO 14 IN \u00b7 DANA 60 REAR + E-LOCKER \u00b7 BILSTEIN BLACK HAWK e2 \u00b7 CLEARANCE 11.8 IN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX hardware"
   },
   {
    "text": "Wikipedia says the TRX was discontinued after the twenty twenty-four model year because it could not be modified to meet tougher emissions standards. The last TRX was produced on the sixteenth of February twenty twenty-four. By our arithmetic, that is three years and about six months after the Launch Edition's announcement date, counting only the announcement and not deliveries.",
-   "query": "TRX ends",
+   "query": "Ram 1500 TRX",
    "caption": "DISCONTINUED AFTER MY2024: COULD NOT BE MODIFIED FOR TOUGHER EMISSIONS \u00b7 LAST TRX 16 FEB 2024 (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "The end of the first run"
+   "chapter": "The end of the first run",
+   "orig_query": "TRX ends"
   },
   {
    "text": "Motor1 says the twenty twenty-four Final Edition costs one hundred nineteen thousand, six hundred twenty dollars including a nineteen ninety-five destination charge, against ninety-seven thousand, seven hundred thirty for the standard truck. By our arithmetic, the Final Edition is twenty-one thousand, eight hundred ninety dollars more, or twenty-two percent.",
-   "query": "Final Edition price",
+   "query": "Ram TRX interior",
    "caption": "FINAL EDITION $119,620 (INCL. $1,995 DEST.) vs STANDARD 2024 TRX $97,730 \u2192 +$21,890 = +22.4% (MOTOR1; OUR ARITHMETIC) \u00b7 DESTINATION TREATMENT MAY DIFFER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Final Edition price"
   },
   {
    "text": "Motor1 says the Final Edition reaches sixty miles per hour in four point five seconds, which is the same figure Ram claimed for the original truck in twenty twenty-one, so it is probably a claim and not a measurement. MotorTrend, as reported by Ford Authority, measured a twenty twenty-three TRX at three point nine. Different trucks and tests, a gap of six tenths. We show both.",
-   "query": "TRX 0-60 discrepancy",
+   "query": "Ram 1500 TRX",
    "caption": "MOTOR1: FINAL EDITION 0\u201360 IN 4.5 S \u00b7 MOTORTREND (VIA FORD AUTHORITY): 2023 TRX 3.9 S \u00b7 DIFFERENT TRUCKS/TESTS \u00b7 GAP 0.6 S (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX 0-60 discrepancy"
   },
   {
    "text": "Motor1 also says Ram's replacement for the TRX, the Ram 1500 RHO, uses a five hundred forty horsepower twin-turbo inline-six, less than the TRX. Wikipedia says the RHO uses the Hurricane engine and is not a direct successor, and that Ram is phasing out the Hemi in favour of it.",
-   "query": "RHO",
+   "query": "Ram 1500 TRX",
    "caption": "RAM 1500 RHO: 540 HP TWIN-TURBO 3.0 INLINE-SIX (MOTOR1) \u00b7 'NOT A DIRECT SUCCESSOR' \u00b7 HEMI BEING PHASED OUT FOR HURRICANE (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "RHO"
   },
   {
    "text": "Then the truck came back. In July twenty twenty-five, Wikipedia says, Stellantis chief executive Antonio Filosa confirmed it for the twenty twenty-six model year. American Cars And Racing, citing Mopar Insiders, had reported that Ram brand chief Tim Kuniskis described the TRX as on the shelf when production ended, rather than discontinued.",
-   "query": "TRX returns",
+   "query": "Ram 1500 TRX",
    "caption": "JULY 2025: STELLANTIS CEO ANTONIO FILOSA CONFIRMS RETURN (WIKIPEDIA) \u00b7 KUNISKIS: 'ON THE SHELF', NOT DISCONTINUED (AMERICAN CARS AND RACING, CITING MOPAR INSIDERS)",
    "cuts": 3,
-   "chapter": "The return"
+   "chapter": "The return",
+   "orig_query": "TRX returns"
   },
   {
    "text": "Ram unveiled the twenty twenty-seven Ram 1500 SRT TRX on the first of January twenty twenty-six. Power rose to seven hundred seventy-seven horsepower and six hundred eighty pound-feet. By our arithmetic, that is seventy-five horsepower, or ten point seven percent, more than the old truck. Ram says it is the fastest and most powerful production gas pickup in the world, which is a company claim.",
-   "query": "2027 TRX",
+   "query": "Ram 1500 TRX",
    "caption": "UNVEILED 1 JAN 2026: 777 HP / 680 LB-FT \u00b7 +75 HP = +10.7% vs 702 (OUR ARITHMETIC) \u00b7 'FASTEST AND MOST POWERFUL PRODUCTION GAS PICKUP' = RAM CLAIM (PRESS RELEASE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX"
   },
   {
    "text": "Ram claims zero to sixty in three point five seconds with launch control and a top speed of one hundred eighteen miles per hour. It also says the figures beat the next nearest competitor by fifty-seven horsepower and forty pound-feet. By our arithmetic, that implies a rival at seven hundred twenty horsepower and six hundred forty pound-feet, but Ram does not name it.",
-   "query": "Ram's rival claim",
+   "query": "Ram 1500 TRX",
    "caption": "0\u201360: 3.5 S (RAM CLAIM, LAUNCH CONTROL) \u00b7 TOP SPEED 118 MPH \u00b7 '57 HP AND 40 LB-FT' AHEAD OF NEAREST RIVAL \u2192 720 HP / 640 LB-FT (OUR ARITHMETIC; RIVAL NOT NAMED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram's rival claim"
   },
   {
    "text": "Ram's torque claim does not quite match the older figure. The release says six hundred eighty, up forty from twenty twenty-four. By our arithmetic, that implies six hundred forty last time. But Wikipedia and Motor1 give six hundred fifty, and Motor Authority gives six hundred sixty-three. Three sources, three different starting points.",
-   "query": "Torque discrepancy",
+   "query": "Ram 1500 TRX",
    "caption": "RAM RELEASE: 680, 'UP 40' \u2192 IMPLIES 640 \u00b7 WIKIPEDIA, MOTOR1: 650 \u00b7 MOTOR AUTHORITY: 663 (OUR ARITHMETIC ON RAM CLAIM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Torque discrepancy"
   },
   {
    "text": "Price is another disagreement. Ram's release gives a starting price of ninety-nine thousand, nine hundred ninety-five dollars plus twenty-five ninety-five destination. By our arithmetic, that is one hundred two thousand, five hundred ninety. The Drive reports one hundred two thousand, seven ninety including a twenty-seven ninety-five destination fee, and Motor1 reports one hundred two thousand, two ninety.",
-   "query": "2027 TRX price",
+   "query": "Ram 1500 TRX",
    "caption": "RAM: $99,995 + $2,595 DEST = $102,590 (OUR SUM) \u00b7 THE DRIVE: $102,790 INCL. $2,795 DEST \u00b7 MOTOR1: $102,290 \u00b7 SPREAD $500 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX price"
   },
   {
    "text": "A caution on dates. The press release is dated the first of January twenty twenty-six, and says the truck arrives in the second half of the year. The Drive's article is dated the twenty-second of June twenty twenty-six, and says order books opened on Monday. So the reveal and the order opening were nearly six months apart, on these sources.",
-   "query": "2027 TRX timing",
+   "query": "Ram 1500 TRX front",
    "caption": "RELEASE 1 JAN 2026: ARRIVAL 2H 2026 \u00b7 THE DRIVE 22 JUN 2026: ORDER BOOKS OPENED THAT MONDAY \u00b7 GAP \u2248 5.7 MONTHS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX timing"
   },
   {
    "text": "Kuniskis, in Ram's release, said the team started twenty twenty-five with a rallying cry: the last tenth. He also said SRT does not limbo, it high-jumps, and seven twenty-one was not going to cut it. The release does not explain what seven twenty-one refers to. The Drive quotes him on how long the TRX will stay on sale: call Washington.",
-   "query": "Kuniskis quotes",
+   "query": "Ram 1500 TRX",
    "caption": "KUNISKIS (RAM PRESS RELEASE): 'THE LAST TENTH' \u00b7 'SRT DOESN'T LIMBO; WE HIGH-JUMP\u2014AND 721 WASN'T GOING TO CUT IT' (721 NOT EXPLAINED) \u00b7 THE DRIVE: 'CALL WASHINGTON'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Kuniskis quotes"
   },
   {
    "text": "What is missing. Why the Launch Edition was limited to seven hundred two. A confirmed grand total of TRXs built. Ram's reason, in its own words, why it could not meet the new emissions rules. A recall history we could verify. Independent, same-day tests of the twenty twenty-seven truck. And the real fuel bill of a TRX owner.",
    "query": "Ram 1500 TRX",
    "caption": "NOT IN OUR SOURCES: WHY 702 UNITS \u00b7 OFFICIAL TOTAL BUILT \u00b7 RAM'S OWN EMISSIONS EXPLANATION \u00b7 VERIFIED RECALL LIST \u00b7 INDEPENDENT TESTS OF THE 2027 TRX \u00b7 REAL OWNER FUEL BILLS",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "So the two things stand. The Launch Edition shares its number with the engine's output, and the truck was ranked the least efficient mass-market vehicle three years running. Both are in our sources, and neither is proof of an intention or a cause. They are simply two facts about a truck that was built to be loud.",
-   "query": "Ram 1500 TRX",
+   "query": "Ram TRX rear",
    "caption": "TWO THINGS: 702 UNITS / 702 HP (NO STATED REASON) \u00b7 ACEEE WORST-PERFORMING 2021\u20132023 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "Would you buy a TRX, knowing what it costs to run? Tell us in the comments. In the other videos of this series, we compare the TRX with the Ford Raptor R, add up what it really costs to own, and tell why Ram killed it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
    "query": "Ram 1500 TRX",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   }
  ]
 }

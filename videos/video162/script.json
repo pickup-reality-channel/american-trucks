@@ -6,317 +6,367 @@
  "scenes": [
   {
    "text": "Sixty years separate two Aston Martins that share a badge and a purpose. The nineteen sixty-three DB5 made two hundred eighty-two horsepower and needed eight seconds to reach sixty. The current DB12 makes six hundred seventy-one, and does it in three point six. But the numbers hide the real difference, and one of them runs the opposite way to what you expect. Every figure here is sourced.",
-   "query": "DB5 vs DB12",
+   "query": "Aston Martin DB12",
    "caption": "ASTON MARTIN DB5 vs DB12: THE DIFFERENCE NOBODY EXPLAINS",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "DB5 vs DB12"
   },
   {
    "text": "Our sources are Wikipedia's pages on the DB5 and the DB12, Kelley Blue Book's pricing page for the twenty twenty-five DB12, the Hagerty valuation page, an RM Sotheby's catalogue, Top Gear and several others. Where they disagree, we show both figures. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Aston Martin DB12",
    "caption": "SOURCES: WIKIPEDIA (DB5, DB12) \u00b7 KBB (2025 DB12) \u00b7 HAGERTY (APR 2025) \u00b7 RM SOTHEBY'S \u00b7 TOP GEAR \u00b7 AUTO123 \u00b7 007TRAVELERS \u00b7 DISAGREEMENTS SHOWN \u00b7 OUR ARITHMETIC LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "The DB5 has a four-litre inline six, three thousand nine hundred ninety-five cubic centimetres, with three SU carburettors, says Wikipedia. It makes two hundred eighty-two brake horsepower at fifty-five hundred revs and two hundred eighty-eight pound-feet of torque. The DB12 has a four-litre twin-turbo V8 making six hundred seventy-one horsepower and five hundred ninety pound-feet. Same displacement, different world.",
-   "query": "Same four litres",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB5): 4.0 L (3,995 CC) I6, 3 SU CARBS, 282 BHP @ 5,500, 288 LB-FT \u00b7 WIKIPEDIA (DB12): 4.0 L TWIN-TURBO V8, 680 PS (671 HP), 800 N\u00b7M (590 LB-FT)",
    "cuts": 5,
-   "chapter": "Round one: the engine"
+   "chapter": "Round one: the engine",
+   "orig_query": "Same four litres"
   },
   {
    "text": "By our arithmetic, the DB12 makes two point four times the DB5's horsepower and two point oh five times its torque from the same four litres. That is the effect of turbochargers and sixty years of engineering. Wikipedia does not say how much of the gain comes from each change, and neither do our other sources, so we do not break it down.",
-   "query": "From the same four litres",
+   "query": "Aston Martin DB12",
    "caption": "671 \u00f7 282 = 2.38\u00d7 POWER \u00b7 590 \u00f7 288 = 2.05\u00d7 TORQUE (OUR ARITHMETIC) \u00b7 BREAKDOWN OF THE GAIN: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "From the same four litres"
   },
   {
    "text": "Per litre, by our arithmetic, the DB5 makes about seventy-one horsepower from each litre, and the DB12 about one hundred sixty-eight. That uses the displacement of four litres for both. The DB12 page lists the engine code as A E twenty-three in its infobox but names a Mercedes-Benz M one seventy-seven in the text, so even the engine's origin is stated two ways.",
-   "query": "Per litre",
+   "query": "Aston Martin DB12",
    "caption": "282 \u00f7 4.0 = 70.5 HP/L \u00b7 671 \u00f7 4.0 = 167.8 HP/L (OUR ARITHMETIC) \u00b7 WIKIPEDIA (DB12): INFOBOX ENGINE CODE 'AE23' vs TEXT 'MERCEDES-BENZ M177' \u2014 CONFLICT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Per litre"
   },
   {
    "text": "The DB5 also had a hotter version. Wikipedia says sixty-five Vantage coupes were built from nineteen sixty-four with three Weber carburettors and three hundred twenty-five brake horsepower. RM Sotheby's, describing a Vantage-spec car, rates it at three hundred fourteen. The DB12 has its own upgrade, the DB12 S, unveiled on the eighth of October twenty twenty-five, with seven hundred metric horsepower.",
-   "query": "The hot versions",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA: DB5 VANTAGE 325 BHP (65 COUP\u00c9S) \u00b7 RM SOTHEBY'S (LOT 146): VANTAGE-SPEC 314 HP \u2014 CONFLICT \u00b7 DB12 S: 700 PS (690 HP), UNVEILED 8 OCT 2025",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The hot versions"
   },
   {
    "text": "By our arithmetic, the DB5 Vantage added about fifteen percent to the standard car's output, from two eighty-two to three twenty-five. The DB12 S adds about three percent, from six eighty to seven hundred metric horsepower. Torque stays at eight hundred newton-metres on the S. Upgrades have become smaller in percentage terms, even as the base car grew much stronger.",
-   "query": "Upgrade size",
+   "query": "Aston Martin DB12",
    "caption": "325 \u00f7 282 = +15.2% \u00b7 700 \u00f7 680 = +2.9% (OUR ARITHMETIC) \u00b7 DB12 S TORQUE UNCHANGED AT 800 N\u00b7M (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Upgrade size"
   },
   {
    "text": "Acceleration. Wikipedia lists the DB5 at eight seconds to sixty miles per hour and a top speed of one hundred forty-five. The DB12 coupe does zero to one hundred kilometres per hour in three point six seconds, and Kelley Blue Book lists zero to sixty in three point six as well. Its top speed is two hundred two miles per hour, or three hundred twenty-five kilometres per hour.",
-   "query": "Speed",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB5): 0\u201360 MPH 8 S; 145 MPH \u00b7 WIKIPEDIA (DB12): 0\u2013100 KM/H 3.6 S (COUP\u00c9), 3.7 S (VOLANTE); 202 MPH (325 KM/H) \u00b7 KBB: 0\u201360 MPH 3.6 S",
    "cuts": 3,
-   "chapter": "Round two: performance"
+   "chapter": "Round two: performance",
+   "orig_query": "Speed"
   },
   {
    "text": "By our arithmetic, the DB12 reaches sixty in less than half the time, 2.2 times faster off the line, and has a top speed thirty-nine percent higher. A caution: sixty miles per hour is ninety-seven kilometres per hour, not one hundred, so Wikipedia's zero to one hundred and Kelley Blue Book's zero to sixty are not strictly the same measure, though both say three point six.",
-   "query": "How much faster",
+   "query": "Aston Martin DB12",
    "caption": "8 \u00f7 3.6 = 2.2\u00d7 \u00b7 202 \u00f7 145 = +39.3% (OUR ARITHMETIC) \u00b7 60 MPH = 96.6 KM/H (OUR CONVERSION) \u2192 0\u2013100 KM/H AND 0\u201360 MPH ARE NOT IDENTICAL; BOTH SOURCES SAY 3.6",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How much faster"
   },
   {
    "text": "The DB5's numbers vary by source. A 007 Travelers page gives zero to one hundred kilometres per hour in eight point one seconds, and a top speed of two hundred thirty-two kilometres per hour. Auto123 quotes a company top speed of one hundred forty-seven. The writer there notes that carmakers of the era often exaggerated. In short, the DB5's figures are claims from sixty years ago.",
-   "query": "Old-car figures",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "007TRAVELERS: 0\u2013100 KM/H 8.1 S; 232 KM/H \u00b7 AUTO123 (27 DEC 2011): 147 MPH PER THE COMPANY; WRITER: ERA FIGURES OFTEN EXAGGERATED (OPINION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Old-car figures"
   },
   {
    "text": "Power to weight, by our arithmetic. The DB5: two hundred eighty-two horsepower and fifteen hundred two kilograms is zero point one eight eight horsepower per kilogram. The DB12 coupe: six seventy-one and sixteen eighty-five is zero point three nine eight. That is two point one times the DB5's, so the power gain outruns the weight gain.",
-   "query": "Power to weight",
+   "query": "Aston Martin DB12",
    "caption": "282 \u00f7 1,502 = 0.188 HP/KG \u00b7 671 \u00f7 1,685 = 0.398 HP/KG \u00b7 0.398 \u00f7 0.188 = 2.1\u00d7 (OUR ARITHMETIC; WIKIPEDIA WEIGHTS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power to weight"
   },
   {
    "text": "And here is the surprise. The DB12 is heavier. Wikipedia gives its kerb weight as sixteen eighty-five kilograms for the coupe and seventeen ninety-six for the Volante. The DB5 is fifteen hundred two. By our arithmetic, the modern car is one hundred eighty-three kilograms heavier, twelve percent more, and the Volante is two hundred ninety-four heavier, nearly twenty percent more.",
-   "query": "The heavier one",
+   "query": "Aston Martin DB5 Volante",
    "caption": "WIKIPEDIA: DB12 1,685 KG (COUP\u00c9); 1,796 KG (VOLANTE) \u00b7 DB5 1,502 KG \u00b7 1,685 \u2212 1,502 = 183 KG (+12.2%) \u00b7 1,796 \u2212 1,502 = 294 KG (+19.6%) (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Round three: weight"
+   "chapter": "Round three: weight",
+   "orig_query": "The heavier one"
   },
   {
    "text": "Kelley Blue Book gives different weights: three thousand nine hundred forty-two pounds for the coupe and forty-one eighty-four for the Volante. By our arithmetic, that is seventeen eighty-eight kilograms and eighteen ninety-eight. Wikipedia's figure, thirty-seven fifteen pounds, is therefore about two hundred twenty-seven pounds lighter. The sources conflict, and we cannot say which is a dry or a kerb weight.",
-   "query": "Weight conflict",
+   "query": "Aston Martin DB5 Volante",
    "caption": "KBB: 3,942 LB (COUP\u00c9), 4,184 LB (VOLANTE) = 1,788 KG; 1,898 KG (OUR CONVERSIONS) \u00b7 WIKIPEDIA: 3,715 LB (1,685 KG) \u00b7 DIFFERENCE 227 LB (103 KG) \u00b7 DEFINITION OF 'WEIGHT' IN EACH SOURCE: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Weight conflict"
   },
   {
    "text": "The older car is also lighter than its own spec sheets sometimes say. The 007 Travelers page gives fourteen sixty-five kilograms, against Wikipedia's fifteen hundred two. By our arithmetic, the difference is thirty-seven kilograms, or two and a half percent. Whichever you pick, the DB12 is heavier than the DB5, by between one hundred eighty-three and three hundred twenty-three kilograms.",
-   "query": "DB5 weight range",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "007TRAVELERS: 1,465 KG \u00b7 WIKIPEDIA: 1,502 KG \u00b7 37 KG = 2.5% \u00b7 DB12 MINUS DB5 RANGE: 1,685 \u2212 1,502 = 183 KG TO 1,788 \u2212 1,465 = 323 KG (OUR ARITHMETIC; MIXES SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "DB5 weight range"
   },
   {
    "text": "Why is the modern car heavier? Our sources do not say. The Wikipedia entry notes the DB12 is front mid-engined and rear-wheel drive with an eight-speed automatic, and that the Volante has an eight-layer fabric roof. Safety systems, infotainment and a larger body are plausible causes, but that is our inference, not a documented reason.",
-   "query": "Why?",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB12): 8-SPEED AUTOMATIC, FRONT MID-ENGINE, RWD; VOLANTE ROOF 8-LAYER FABRIC \u00b7 REASON FOR THE EXTRA WEIGHT: NOT IN OUR SOURCES \u00b7 'SAFETY, INFOTAINMENT, SIZE' = OUR INFERENCE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Why?"
   },
   {
    "text": "Size next. Wikipedia lists the DB5 at forty-five seventy millimetres long, sixteen eighty wide and a wheelbase of twenty-four eighty-nine. The DB12 is forty-seven twenty-five long, nineteen eighty wide and twenty-eight oh five on the wheelbase, with a height of twelve ninety-five. The DB5's height is not in the passages we used.",
-   "query": "Dimensions",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB5): L 4,570 \u00b7 W 1,680 \u00b7 WB 2,489 MM \u00b7 WIKIPEDIA (DB12): L 4,725 \u00b7 W 1,980 \u00b7 WB 2,805 \u00b7 H 1,295 MM \u00b7 DB5 HEIGHT: NOT IN THE PASSAGES WE USED",
    "cuts": 3,
-   "chapter": "Round four: size"
+   "chapter": "Round four: size",
+   "orig_query": "Dimensions"
   },
   {
    "text": "By our arithmetic, the DB12 is one hundred fifty-five millimetres longer, but three hundred millimetres wider and three hundred sixteen millimetres longer in the wheelbase. That is about six inches longer, nearly twelve inches wider and twelve and a half inches in the wheelbase. The modern car grew mostly in width, which is why it feels so much bigger.",
-   "query": "Growth",
+   "query": "Aston Martin DB12",
    "caption": "4,725 \u2212 4,570 = 155 MM (6.1 IN) \u00b7 1,980 \u2212 1,680 = 300 MM (11.8 IN) \u00b7 2,805 \u2212 2,489 = 316 MM (12.4 IN) (OUR ARITHMETIC AND CONVERSIONS) \u00b7 'FEELS BIGGER' = OUR OBSERVATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Growth"
   },
   {
    "text": "Seats are a question. Kelley Blue Book lists four seats for the DB12, and Wikipedia's headline for the DB12 S calls it the brand's fastest four-seater. The DB5's seat count is not stated in the passages we used. We do not claim it is a two-plus-two, because our sources do not say so, though the shooting brake and convertible variants are well documented.",
-   "query": "Seats",
+   "query": "Aston Martin DB12",
    "caption": "KBB: DB12 SEATING 4 \u00b7 WIKIPEDIA CITATION: DB12 S 'FASTEST FOUR-SEATER' \u00b7 DB5 SEAT COUNT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Seats"
   },
   {
    "text": "The DB12's cargo capacity, by Kelley Blue Book, is nine point three cubic feet for the coupe and seven point three for the Volante. Fuel tank twenty point six gallons. The DB5's boot and tank sizes are not in our sources. Top Gear's account does mention that a crew member had to squeeze into the DB5's boot to trigger the smoke screen, which says little about capacity.",
-   "query": "Luggage",
+   "query": "Aston Martin DB12",
    "caption": "KBB: DB12 CARGO 9.3 CU FT (COUP\u00c9), 7.3 (VOLANTE); FUEL TANK 20.6 GAL \u00b7 DB5 BOOT / TANK: NOT IN OUR SOURCES \u00b7 TOP GEAR: CREW MEMBER SQUEEZED INTO THE BOOT FOR THE SMOKE SCREEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Luggage"
   },
   {
    "text": "Transmission. The DB5 had a five-speed ZF manual, with a three-speed Borg-Warner automatic as an option later changed to the Model eight, says Wikipedia. The DB12 has an eight-speed ZF automatic, the eight H P seventy-five. The DB12 S recalibrates it for fifty percent faster shifts. By our arithmetic, the modern car's top gear count is eight versus five.",
-   "query": "Gearboxes",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB5): 5-SPEED ZF MANUAL; 3-SPEED BORG-WARNER AUTO OPTIONAL (LATER MODEL 8) \u00b7 WIKIPEDIA (DB12): 8-SPEED ZF 8HP75 AUTOMATIC; DB12 S RECALIBRATED FOR 50% FASTER SHIFTS \u00b7 8 vs 5 GEARS",
    "cuts": 3,
-   "chapter": "Round five: the gearbox and the roof"
+   "chapter": "Round five: the gearbox and the roof",
+   "orig_query": "Gearboxes"
   },
   {
    "text": "The DB12 Volante has an eight-layer fabric roof that opens in fourteen seconds and closes in sixteen, at speeds up to thirty-one miles per hour, according to Wikipedia. It says the Volante's torsional rigidity is five percent better than the DB11 Volante's. The DB5 convertible's roof details are not in our sources.",
-   "query": "The roof",
+   "query": "Aston Martin DB5 Volante",
    "caption": "WIKIPEDIA: DB12 VOLANTE \u2014 8-LAYER FABRIC ROOF; OPENS 14 S, CLOSES 16 S, UP TO 31 MPH (50 KM/H); TORSIONAL RIGIDITY +5% vs DB11 VOLANTE \u00b7 DB5 CONVERTIBLE ROOF: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The roof"
   },
   {
    "text": "Convertibles are a good place to compare. Wikipedia says one hundred twenty-three DB5 convertibles were built in nineteen sixty-three to sixty-five, nineteen of them left-hand drive and twelve with the factory Vantage engine. Then thirty-seven short-chassis Volantes followed between October nineteen sixty-five and October sixty-six. The DB12 Volante was unveiled on the fourteenth of August twenty twenty-three.",
-   "query": "Open cars",
+   "query": "Aston Martin DB5 Volante",
    "caption": "WIKIPEDIA: DB5 CONVERTIBLES 123 (19 LHD, 12 VANTAGE) \u00b7 37 SHORT-CHASSIS VOLANTES (OCT 1965\u2013OCT 1966) \u00b7 DB12 VOLANTE UNVEILED 14 AUG 2023",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Open cars"
   },
   {
    "text": "The DB12's designer, according to Wikipedia, is Aston Martin's head of design Marek Reichman. It was assembled in Gaydon, Warwickshire, and is the first Aston Martin to wear the brand's new logo. The DB5's body, says Top Gear, was a Touring design finessed by Federico Formenti. RM Sotheby's calls it Superleggera construction, licensed from Touring of Milan.",
-   "query": "Who shaped them",
+   "query": "Aston Martin Gaydon",
    "caption": "WIKIPEDIA (DB12): MAREK REICHMAN; ASSEMBLED AT GAYDON; FIRST WITH THE NEW LOGO \u00b7 TOP GEAR: DB5 BODY \u2014 TOURING DESIGN, FINESSED BY FEDERICO FORMENTI \u00b7 RM SOTHEBY'S: SUPERLEGGERA CONSTRUCTION LICENSED FROM TOURING OF MILAN",
    "cuts": 3,
-   "chapter": "Round six: the people and the shape"
+   "chapter": "Round six: the people and the shape",
+   "orig_query": "Who shaped them"
   },
   {
    "text": "The DB12 was unveiled on the twenty-fourth of May twenty twenty-three at the Cannes Film Festival, says Wikipedia. The DB5 reached fame through a film too, but sixty years earlier. Whether the choice of Cannes was meant to echo the Bond connection is not stated in our sources, and Wikipedia mentions no Goldfinger edition of the DB12.",
-   "query": "Cannes",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: DB12 UNVEILED 24 MAY 2023, CANNES FILM FESTIVAL; NO GOLDFINGER EDITION MENTIONED \u00b7 INTENT BEHIND CANNES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cannes"
   },
   {
    "text": "The DB5, Carole Nash says, was named after industrialist Sir David Brown. The DB12 carries the same two letters. Our sources do not say what the DB in DB12 stands for, or whether the DB12 is named in his honour, though the lineage is plausible. We mark that as an inference. Production years: the DB5, nineteen sixty-three to sixty-five; the DB12, twenty twenty-three to the present.",
-   "query": "The initials",
+   "query": "Aston Martin DB12",
    "caption": "CAROLE NASH: DB5 NAMED AFTER SIR DAVID BROWN \u00b7 DB12 NAME ORIGIN: NOT IN OUR SOURCES (LINEAGE = OUR INFERENCE) \u00b7 PRODUCTION: DB5 1963\u201365; DB12 2023\u2013PRESENT (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The initials"
   },
   {
    "text": "Now the price, where the direction flips again. A new DB5 cost four thousand one hundred seventy-five pounds, per RM Sotheby's and 007 Travelers, though Auto123 says four thousand two hundred forty-eight. A new DB12 coupe has a manufacturer's suggested retail price of two hundred forty-nine thousand dollars, and the Volante two hundred sixty-nine, according to Kelley Blue Book for the twenty twenty-five model.",
-   "query": "New prices",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "RM SOTHEBY'S + 007TRAVELERS: DB5 \u00a34,175 NEW \u00b7 AUTO123: \u00a34,248 \u00b7 KBB (2025): DB12 COUP\u00c9 MSRP $249,000; VOLANTE $269,000 \u00b7 WIKIPEDIA: NO PRICE; FORBES CITATION HEADLINE $245,000",
    "cuts": 3,
-   "chapter": "Round seven: the price"
+   "chapter": "Round seven: the price",
+   "orig_query": "New prices"
   },
   {
    "text": "Today the roles reverse. Hagerty's April twenty twenty-five guide shows six hundred fifty-nine thousand dollars for a nineteen sixty-five DB5, a ten point two percent rise. By our arithmetic, that is two point six five times the DB12's sticker price. The Hagerty page does not label the condition, and elsewhere cites about eight hundred sixty thousand for a good-condition car of average spec.",
-   "query": "Today",
+   "query": "Aston Martin DB12",
    "caption": "HAGERTY (APR 2025): $659,000, +10.2%; CONDITION UNLABELLED; ALSO ~$860,667 FOR GOOD CONDITION, AVERAGE SPEC \u00b7 $659,000 \u00f7 $249,000 = 2.65\u00d7 \u00b7 $860,667 \u00f7 $249,000 = 3.5\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Today"
   },
   {
    "text": "Kelley Blue Book lists a fair purchase price of two hundred ninety-nine thousand dollars for the coupe, above its sticker, and two hundred fifty-six thousand for the Volante, below its sticker. That is odd, since the Volante's MSRP is higher. We report the numbers as published and cannot explain them. By our arithmetic, the coupe's fair purchase price is twenty percent above its MSRP.",
-   "query": "KBB's odd numbers",
+   "query": "Aston Martin DB5 Volante",
    "caption": "KBB: COUP\u00c9 FPP $299,000 vs MSRP $249,000 (+20.1%); VOLANTE FPP $256,000 vs MSRP $269,000 (\u22124.8%) (OUR ARITHMETIC) \u00b7 EXPLANATION: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "KBB's odd numbers"
   },
   {
    "text": "There is also the third car: the DB5 Goldfinger Continuation. Wikipedia says twenty-five were built, from July twenty twenty, at about two point seven five million pounds each, with two hundred ninety brake horsepower. CNN converts that to three and a half million dollars. By our arithmetic, a continuation car costs fourteen times a new DB12 coupe.",
-   "query": "Continuation",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: 25 CARS; ~\u00a32.75 M; 290 BHP \u00b7 CNN: \u00a32.75 M \u2248 $3.5 M \u00b7 $3.5 M \u00f7 $249,000 = 14.1\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Continuation"
   },
   {
    "text": "Fuel economy: Kelley Blue Book lists fifteen miles per gallon in the city, twenty-two on the highway and seventeen combined for the DB12, on premium fuel. With the twenty point six gallon tank, by our arithmetic, seventeen combined gives about three hundred fifty miles. The DB5's consumption and tank size are not in our sources.",
-   "query": "Fuel",
+   "query": "Aston Martin DB12",
    "caption": "KBB: DB12 15 CITY / 22 HWY / 17 COMBINED MPG, PREMIUM \u00b7 TANK 20.6 GAL \u00b7 17 \u00d7 20.6 = 350 MI (OUR ARITHMETIC) \u00b7 DB5 MPG / TANK: NOT IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "Round eight: daily life"
+   "chapter": "Round eight: daily life",
+   "orig_query": "Fuel"
   },
   {
    "text": "The DB12's warranty is three years with unlimited mileage, says Kelley Blue Book. The DB5 has no warranty, which is not in our sources and is our statement of the obvious for a sixty-year-old car. What our sources do show is an RM Sotheby's DB5 with a new air-conditioning system, LED headlamps and electronic ignition added during restoration.",
-   "query": "Ownership",
+   "query": "Aston Martin DB12",
    "caption": "KBB: DB12 WARRANTY 3 YEARS / UNLIMITED MILES \u00b7 DB5 WARRANTY: OUR OBVIOUS STATEMENT, NOT FROM SOURCES \u00b7 RM SOTHEBY'S LOT 146: A/C, LED HEADLAMPS, ELECTRONIC IGNITION ADDED BY CLAYTON CLASSICS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ownership"
   },
   {
    "text": "The DB12 supports Android Auto and Apple CarPlay, Wikipedia says. The DB5 offered chrome wire wheels, electric windows and full leather trim, per Carole Nash. By our arithmetic, that is a gap of exactly sixty years in the technology of the infotainment system, and about one hundred fifty-five millimetres in the length of the car.",
-   "query": "Technology",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB12): ANDROID AUTO + APPLE CARPLAY \u00b7 CAROLE NASH (DB5): CHROME WIRE WHEELS, ELECTRIC WINDOWS, FULL LEATHER \u00b7 2023 \u2212 1963 = 60 YEARS (OUR ARITHMETIC) \u00b7 INFOTAINMENT 'GAP' = OUR FRAMING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Technology"
   },
   {
    "text": "Let us convert price into performance, using the sticker of the DB12 and the Hagerty figure for the DB5, with every caveat above. The DB12 coupe at two hundred forty-nine thousand dollars and six seventy-one horsepower comes to three hundred seventy-one dollars per horsepower, by our arithmetic. The DB5 at six hundred fifty-nine thousand and two hundred eighty-two is twenty-three hundred thirty-seven.",
-   "query": "Dollars per horsepower",
+   "query": "Aston Martin DB12",
    "caption": "$249,000 \u00f7 671 = $371/HP \u00b7 $659,000 \u00f7 282 = $2,337/HP (OUR ARITHMETIC; DB12 MSRP vs DB5 HAGERTY APR 2025, CONDITION UNLABELLED)",
    "cuts": 3,
-   "chapter": "Round nine: cost per unit of performance"
+   "chapter": "Round nine: cost per unit of performance",
+   "orig_query": "Dollars per horsepower"
   },
   {
    "text": "That makes the DB5 about six point three times as expensive per horsepower. Per kilogram, the DB12 is one hundred forty-eight dollars and the DB5 is four hundred thirty-nine. Nobody buys a DB5 for the horsepower, of course. This arithmetic mostly shows how little the engine figure explains about the price. Rarity, history and film fame drive it.",
-   "query": "Per kilogram",
+   "query": "Aston Martin DB12",
    "caption": "$2,337 \u00f7 $371 = 6.3\u00d7 \u00b7 $249,000 \u00f7 1,685 KG = $148/KG \u00b7 $659,000 \u00f7 1,502 KG = $439/KG (OUR ARITHMETIC) \u00b7 'RARITY, HISTORY, FILM FAME' = OUR READING; NO SOURCE ISOLATES THE PRICE DRIVERS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Per kilogram"
   },
   {
    "text": "For scale against ordinary incomes, the Census Bureau puts the median U.S. household income for twenty twenty-four at eighty-three thousand seven hundred thirty dollars. By our arithmetic, a DB12 coupe's sticker is about three years of that income, and the Hagerty DB5 figure is nearly eight. Median household income is gross and before tax, so this is only a sense of scale.",
-   "query": "Years of income",
+   "query": "Aston Martin DB12",
    "caption": "CENSUS 2024 MEDIAN HOUSEHOLD INCOME $83,730 \u00b7 $249,000 \u00f7 $83,730 = 3.0 YR \u00b7 $659,000 \u00f7 $83,730 = 7.9 YR (OUR ARITHMETIC; GROSS INCOME)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Years of income"
   },
   {
    "text": "Against the average new vehicle price of fifty thousand and eighty-nine dollars, from Kelley Blue Book for August twenty twenty-six, the DB12 coupe is almost five average new cars, and the DB5 about thirteen. A DB5 buyer in nineteen sixty-three, paying four thousand one hundred seventy-five pounds, faced a very different ratio, but our sources give no average car price for that year.",
-   "query": "Average new cars",
+   "query": "Aston Martin DB12",
    "caption": "KBB: AVERAGE NEW VEHICLE AUG 2026 $50,089 \u00b7 $249,000 \u00f7 $50,089 = 5.0 \u00b7 $659,000 \u00f7 $50,089 = 13.2 (OUR ARITHMETIC) \u00b7 1963 AVERAGE CAR PRICE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Average new cars"
   },
   {
    "text": "Where are they built? Wikipedia says the DB12 is assembled at Gaydon in Warwickshire. Ecurie says the Goldfinger gadgets were installed at Aston Martin's Newport Pagnell plant, where Adam and Stears visited in late nineteen sixty-three. Our sources do not say the DB5 was built at Newport Pagnell, only that the film modifications were discussed and carried out there.",
-   "query": "Factories",
+   "query": "Newport Pagnell",
    "caption": "WIKIPEDIA: DB12 ASSEMBLED AT GAYDON, WARWICKSHIRE \u00b7 ECURIE: ADAM AND STEARS VISITED NEWPORT PAGNELL LATE 1963 \u00b7 WHERE ROAD DB5s WERE BUILT: NOT STATED IN THE PASSAGES WE USED",
    "cuts": 3,
-   "chapter": "Round ten: how each car is made"
+   "chapter": "Round ten: how each car is made",
+   "orig_query": "Factories"
   },
   {
    "text": "One engineering detail marks the old car. The DB5's bodywork was made with Superleggera construction, licensed from Touring of Milan, says RM Sotheby's, and Carole Nash adds a magnesium-alloy body. Wikipedia's DB12 page does not describe the DB12's body materials in the passages we used, so we cannot compare materials, only note what each source says.",
-   "query": "Materials",
+   "query": "Aston Martin DB12",
    "caption": "RM SOTHEBY'S: SUPERLEGGERA LIGHTWEIGHT CONSTRUCTION \u00b7 CAROLE NASH: MAGNESIUM-ALLOY BODY \u00b7 DB12 BODY MATERIALS: NOT IN THE PASSAGES WE USED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Materials"
   },
   {
    "text": "And the engine: the DB5's was an all-aluminium four-litre, enlarged from the DB4's three point seven, according to Carole Nash and Wikipedia. The DB12's V8 is, by Wikipedia's text, a Mercedes-Benz unit. By our arithmetic, the displacement grew by about eight percent from the DB4 to the DB5 and then stayed at four litres for sixty years.",
-   "query": "Engines",
+   "query": "Aston Martin DB11",
    "caption": "WIKIPEDIA + CAROLE NASH: DB5 ALL-ALUMINIUM 4.0 L, ENLARGED FROM THE DB4'S 3.7 L \u00b7 WIKIPEDIA (DB12): V8 NAMED M177 IN TEXT (MERCEDES-BENZ) \u00b7 4.0 \u00f7 3.7 = +8.1% (OUR ARITHMETIC) \u00b7 'STAYED AT 4 L' REFERS ONLY TO THE ENGINES DISCUSSED HERE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Engines"
   },
   {
    "text": "The V12 is gone. Wikipedia says the five point two litre V12 from the previous model is no longer offered on the DB12. So the lineage changed in a different way: the DB12 dropped the twelve-cylinder engine that Aston Martin had used in its predecessor, the DB11, while the DB5 stayed with its inline six. Neither car's engine layout is the same as the other.",
-   "query": "No V12",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA (DB12): 5.2 L V12 FROM THE PREVIOUS MODEL NO LONGER OFFERED \u00b7 PREDECESSOR: DB11 \u00b7 DB5: INLINE-6 \u00b7 DB12: V8",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No V12"
   },
   {
    "text": "In terms of production, the DB5 total is 1,059, says Wikipedia's infobox. The DB12 is still in production, and our sources give no count. Wikipedia lists model years twenty twenty-four onward. By our arithmetic, if the DB12 matched the DB5's total over its first three years, it would need to sell about three hundred fifty cars a year. We have no sales data to compare.",
-   "query": "Production",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA: DB5 1,059 BUILT (1963\u201365) \u00b7 DB12 2023\u2013PRESENT, MODEL YEARS 2024\u2013 \u00b7 DB12 PRODUCTION COUNT: NOT IN OUR SOURCES \u00b7 1,059 \u00f7 3 = 353/YEAR (OUR ARITHMETIC; HYPOTHETICAL)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Production"
   },
   {
    "text": "Let us summarise, with the figures our sources give. Power: two hundred eighty-two against six hundred seventy-one. Torque: two eighty-eight against five ninety pound-feet. Zero to sixty: eight seconds against three point six. Top speed: one forty-five against two hundred two. Weight: fifteen hundred two against sixteen eighty-five kilograms. Length: forty-five seventy against forty-seven twenty-five millimetres.",
-   "query": "Side by side",
+   "query": "Aston Martin DB5 engine",
    "caption": "DB5 vs DB12 (WIKIPEDIA): 282 vs 671 HP \u00b7 288 vs 590 LB-FT \u00b7 0\u201360 8.0 vs 3.6 S \u00b7 145 vs 202 MPH \u00b7 1,502 vs 1,685 KG \u00b7 4,570 vs 4,725 MM",
    "cuts": 3,
-   "chapter": "Seven numbers side by side"
+   "chapter": "Seven numbers side by side",
+   "orig_query": "Side by side"
   },
   {
    "text": "By our arithmetic, that gives ratios of two point four, two point oh, two point two, one point four, one point one and one point oh three. The DB12 is far ahead on power, torque and acceleration, moderately ahead on top speed, and only slightly ahead on weight and length, where it is bigger, not better. We state the ratios, not a verdict.",
-   "query": "The ratios",
+   "query": "Aston Martin DB12",
    "caption": "671/282 = 2.38 \u00b7 590/288 = 2.05 \u00b7 8/3.6 = 2.22 \u00b7 202/145 = 1.39 \u00b7 1,685/1,502 = 1.12 \u00b7 4,725/4,570 = 1.03 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The ratios"
   },
   {
    "text": "A word about where the figures come from. The DB5 numbers are claims from the nineteen sixties, repeated in encyclopedias and magazines. The DB12 numbers are the maker's figures, repeated by Wikipedia and Kelley Blue Book. We have no independent track test of either car in our sources, so every number here is a claim, and we have tried to say so.",
-   "query": "Claims, not tests",
+   "query": "Aston Martin DB12",
    "caption": "NO INDEPENDENT TEST DATA FOR EITHER CAR IN OUR SOURCES \u00b7 DB5 FIGURES: 1960s CLAIMS \u00b7 DB12 FIGURES: MAKER'S FIGURES VIA WIKIPEDIA AND KBB",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Claims, not tests"
   },
   {
    "text": "Finally, a note on timing. The DB5 was built for just three years, from nineteen sixty-three to nineteen sixty-five, and then replaced. The DB12 arrived in twenty twenty-three and, by Wikipedia's account, already has a Volante and an S version. By our arithmetic, the DB12 lineup grew by two variants in its first two and a half years, and the DB5's lifetime was shorter than that.",
-   "query": "Lifetimes",
+   "query": "Aston Martin DB12",
    "caption": "WIKIPEDIA: DB5 1963\u201365 (\u22483 YEARS) \u00b7 DB12 UNVEILED 24 MAY 2023; VOLANTE 14 AUG 2023; DB12 S 8 OCT 2025 \u00b7 2 VARIANTS IN ~2.4 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Lifetimes"
   },
   {
    "text": "So what is the real difference? The DB12 is quicker in every measurable way except weight. It is wider, more powerful and cheaper than a DB5 in the market today. The DB5 is lighter, rarer, with 1,059 built, and carries a film history. One is a performance product; the other is a collectible.",
-   "query": "The difference",
+   "query": "Aston Martin DB12",
    "caption": "DB12 FASTER, WIDER, MORE POWERFUL; DB5 LIGHTER (183\u2013323 KG) \u00b7 1,059 DB5s BUILT (WIKIPEDIA) \u00b7 'SAFER' AND 'COLLECTIBLE' = OUR INFERENCE / FRAMING",
    "cuts": 3,
-   "chapter": "What each car is for"
+   "chapter": "What each car is for",
+   "orig_query": "The difference"
   },
   {
    "text": "The DB5's film connection runs deep. Wikipedia says four DB5s were made for Goldfinger, and the Thunderball promotional car sold for six point four million dollars in twenty nineteen. The DB12 has no such history in our sources. By our arithmetic, that single Bond car sold for twenty-five times the DB12 coupe's sticker price.",
-   "query": "The Bond factor",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: 4 GOLDFINGER DB5s \u00b7 OLD CARS WEEKLY / CNN: 2008/R $6.385 M (AUG 2019) \u00b7 $6.385 M \u00f7 $249,000 = 25.6\u00d7 (OUR ARITHMETIC) \u00b7 DB12 FILM HISTORY: NONE IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Bond factor"
   },
   {
    "text": "Drive each, and you would feel the weight differently. We cannot report how they feel, since none of our sources compares them on the road. Top Gear scored the DB5 six out of ten for speed, eight for skids, and ten for gadgets and star status. Those are the magazine's opinions about a car from a different era, not data.",
-   "query": "Feel",
+   "query": "Aston Martin DB5 engine",
    "caption": "TOP GEAR SCORES (OPINION): SPEED 6 \u00b7 PULLING POWER 9 \u00b7 SKIDS 8 \u00b7 STUNTS 6 \u00b7 GADGETS 10 \u00b7 STAR STATUS 10 = 49 \u00b7 ROAD COMPARISON OF THE TWO CARS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Feel"
   },
   {
    "text": "What is missing. A dry-weight figure for either car on the same basis. The DB5's height, seat count and fuel economy. The DB12's exact power-to-price against rivals. Why the DB12 is heavier. A road test of the two together. And the DB12 S's price. If you have primary documents for any of these, put them in the comments.",
-   "query": "Aston Martin DB5 vs DB12",
+   "query": "Aston Martin DB12",
    "caption": "NOT IN OUR SOURCES: LIKE-FOR-LIKE WEIGHTS \u00b7 DB5 HEIGHT / SEATS / MPG \u00b7 REASON FOR DB12 WEIGHT \u00b7 SIDE-BY-SIDE ROAD TEST \u00b7 DB12 S PRICE",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Aston Martin DB5 vs DB12"
   },
   {
    "text": "So the difference nobody explains is this. The newer car is faster, wider and much more powerful, but it is also heavier. The older car costs more today than the new one, and it is worth that because of rarity and a film. In the other videos we tell the Bond story, count the cost of a real DB5, and reveal its hidden secrets. Subscribe to Pickup Reality.",
-   "query": "Aston Martin DB5 vs DB12",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aston Martin DB5 vs DB12"
   }
  ]
 }

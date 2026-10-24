@@ -6,325 +6,377 @@
  "scenes": [
   {
    "text": "Most people know the Toyota 2000GT as the Japanese car from a James Bond film. Far fewer know how it started, or what it cost the company that built it. Here are two things you probably did not know about the Toyota 2000GT, and along the way, every place where our sources disagree with each other.",
-   "query": "Toyota 2000GT",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE TOYOTA 2000GT",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Toyota 2000GT"
   },
   {
    "text": "Our sources are Wikipedia's pages on the Toyota 2000GT, the Nissan S30 and the Nissan Z-car, Classic and Sports Car on the twenty twenty-two Gooding sale, Hagerty, Sports Car Market, Shannons Club and Luxury Entertainment Partners. Where they conflict, we show both versions. Our own arithmetic is always labelled.",
-   "query": "Sources",
+   "query": "Toyota 2000GT interior",
    "caption": "SOURCES: WIKIPEDIA (TOYOTA 2000GT, NISSAN S30, NISSAN Z) \u00b7 CLASSIC & SPORTS CAR (MAR 2022) \u00b7 HAGERTY \u00b7 SPORTS CAR MARKET \u00b7 SHANNONS CLUB \u00b7 LEP \u00b7 DISAGREEMENTS SHOWN",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "The first thing you probably did not know is that Toyota was not the first company offered this car. Wikipedia's page on the Nissan Z says Nissan partnered with Yamaha, which produced a prototype called the YX-30 in nineteen sixty-one. By nineteen sixty-four, the page says, Nissan had scrapped the project.",
-   "query": "Nissan said no first",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (NISSAN Z-CAR): NISSAN + YAMAHA \u2192 YX-30 PROTOTYPE, 1961 \u00b7 BY 1964 NISSAN HAD SCRAPPED THE PROJECT",
    "cuts": 5,
-   "chapter": "Thing one: Toyota was Nissan's second choice"
+   "chapter": "Thing one: Toyota was Nissan's second choice",
+   "orig_query": "Nissan said no first"
   },
   {
    "text": "The reason, according to that same page, was that Yamaha's twin-cam two litre engine did not meet Nissan's expectations. Yamaha then took the design to Toyota. The result, says Wikipedia, was the Toyota 2000GT. So the car that became Japan's first supercar began as a design that another Japanese carmaker had walked away from.",
-   "query": "The reason",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (NISSAN Z-CAR): YAMAHA'S DOHC 2.0 L ENGINE 'DID NOT MEET NISSAN'S EXPECTATIONS' \u00b7 YAMAHA TOOK THE DESIGN TO TOYOTA \u2192 TOYOTA 2000GT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The reason"
   },
   {
    "text": "The story has a second layer. The Shannons Club article says Nissan hired a German aristocrat, Albrecht Goertz, as a consultant from May nineteen sixty-three. He built a Nissan prototype called the A550X, with many styling themes later seen on the Datsun 240Z. It says Goertz then moved to Toyota and developed the 2000GT.",
-   "query": "Goertz",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS CLUB: ALBRECHT GOERTZ CONSULTED BY NISSAN FROM MAY 1963 \u00b7 BUILT A550X PROTOTYPE WITH MANY 240Z STYLING THEMES \u00b7 THEN MOVED TO TOYOTA AND DEVELOPED THE 2000GT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Goertz"
   },
   {
    "text": "Our sources do not tell this story the same way. The Hagerty article says Yamaha's A550X concept was rejected by Nissan, and that Toyota also passed on it at first, but saw Yamaha as a possible partner, which led to the 2000GT. The Wikipedia page on the Toyota 2000GT does not mention Goertz at all in the passages we read.",
-   "query": "Sources differ",
+   "query": "Yamaha Iwata",
    "caption": "HAGERTY: YAMAHA'S A550X REJECTED BY NISSAN; TOYOTA 'ALSO PASSED' BUT SAW YAMAHA AS A PARTNER \u2192 2000GT \u00b7 SHANNONS: GOERTZ MOVED TO TOYOTA \u00b7 WIKIPEDIA (2000GT): NO GOERTZ MENTION IN WHAT WE READ",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Sources differ"
   },
   {
    "text": "So there are three versions of the handover. In one, Nissan scrapped Yamaha's project, and Yamaha went to Toyota. In another, Goertz himself moved. In a third, Toyota first said no, then came back. They are not necessarily contradictory, but none of our sources explains how they fit together, and we will not guess at the order.",
-   "query": "Three versions",
+   "query": "Yamaha Iwata",
    "caption": "VERSION 1: NISSAN SCRAPPED, YAMAHA \u2192 TOYOTA \u00b7 VERSION 2: GOERTZ MOVED TO TOYOTA \u00b7 VERSION 3: TOYOTA FIRST PASSED, THEN PARTNERED \u00b7 HOW THEY FIT: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Three versions"
   },
   {
    "text": "What the sources agree on is the outcome. Shannons says Toyota sold few 2000GTs but gained publicity, and that this pushed Nissan to take the Goertz prototype toward production. The Wikipedia page on the S30 says the same thing from the other side: the 2000GT's success prompted Nissan to continue developing its own sports car, which became the 240Z.",
-   "query": "A rival made by a rejection",
+   "query": "Datsun 240Z",
    "caption": "SHANNONS: TOYOTA SOLD FEW BUT GAINED PUBLICITY \u2192 PUSHED NISSAN TO PRODUCE THE GOERTZ PROTOTYPE \u00b7 HAGERTY: 2000GT'S SUCCESS PROMPTED NISSAN TO CONTINUE \u2192 240Z",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A rival made by a rejection"
   },
   {
    "text": "The dates support that. Wikipedia says the Toyota 2000GT was shown at the Tokyo Motor Show in nineteen sixty-five, and production ran from May nineteen sixty-seven to August nineteen seventy. The Datsun 240Z was shown at the Tokyo Motor Show on the eighteenth of October nineteen sixty-nine, per Shannons. By our arithmetic, that is four years after the 2000GT's first appearance.",
-   "query": "Four years later",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (2000GT): TOKYO MOTOR SHOW 1965 \u00b7 PRODUCTION MAY 1967 \u2013 AUG 1970 \u00b7 SHANNONS: 240Z AT TOKYO MOTOR SHOW 18 OCT 1969 \u00b7 1965 \u2192 1969 = 4 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Four years later"
   },
   {
    "text": "There is one more detail. Wikipedia says Yamaha, the motorcycle and engine maker, built the 2000GT cars at its factory at Iwata, in Shizuoka prefecture. So the car sold under a Toyota badge was assembled by a company better known for motorcycles, using a design that Nissan had dropped. That is the first thing most people do not know.",
-   "query": "Built by Yamaha",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (2000GT): YAMAHA BUILT THE CARS AT IWATA, SHIZUOKA \u00b7 TOYOTA-BADGED \u00b7 NISSAN HAD DROPPED THE DESIGN (WIKIPEDIA, NISSAN Z)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Built by Yamaha"
   },
   {
    "text": "The second thing you probably did not know is that the car that made Toyota look like a serious sports car maker lost the company money. Wikipedia's page says that only about sixty cars reached North America, and that Toyota made no profit from the 2000GT. The car was a statement, not a business.",
-   "query": "No profit",
+   "query": "Toyota 2000GT side",
    "caption": "WIKIPEDIA (2000GT): ABOUT 60 CARS REACHED NORTH AMERICA \u00b7 TOYOTA MADE NO PROFIT",
    "cuts": 3,
-   "chapter": "Thing two: Toyota did not make money on it"
+   "chapter": "Thing two: Toyota did not make money on it",
+   "orig_query": "No profit"
   },
   {
    "text": "The plan was far larger than the result. Classic and Sports Car, writing about the twenty twenty-two Gooding sale, says Toyota hoped to build a thousand cars a year, but in the end built three hundred fifty-one. Production ran for about three and a quarter years. By our arithmetic, a thousand a year over that time would have been about three thousand two hundred fifty cars.",
-   "query": "A plan for a thousand a year",
+   "query": "Toyota 2000GT front",
    "caption": "CLASSIC & SPORTS CAR (MAR 2022): TOYOTA HOPED FOR 1,000 A YEAR, BUILT 351 \u00b7 MAY 1967 \u2013 AUG 1970 \u2248 3.25 YEARS \u00b7 1,000 \u00d7 3.25 = ~3,250 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A plan for a thousand a year"
   },
   {
    "text": "By our arithmetic, three hundred fifty-one cars is about eleven percent of that hoped-for volume. Or put another way, one year of the original plan would have been nearly three times the entire production run. The sources do not say whether the thousand a year was a target on paper, or something Toyota actually tooled up for.",
-   "query": "Eleven percent",
+   "query": "Toyota 2000GT",
    "caption": "351 \u00f7 3,250 = 10.8% \u00b7 1,000 \u00f7 351 = 2.8\u00d7 (OUR ARITHMETIC) \u00b7 WHETHER 1,000/YEAR WAS A FORMAL TARGET: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Eleven percent"
   },
   {
    "text": "The count of cars is itself disputed. Wikipedia's infobox gives three hundred fifty-one, split into two hundred thirty-three MF10, one hundred nine MF10L and nine MF12L cars. But its text says three hundred thirty-seven regular production units. Sports Car Market says three hundred fifty-four were built. Neither page reconciles the figures.",
-   "query": "How many were built?",
+   "query": "Toyota 2000GT interior",
    "caption": "WIKIPEDIA (2000GT) INFOBOX: 233 MF10 + 109 MF10L + 9 MF12L = 351 \u00b7 SAME PAGE TEXT: 337 'REGULAR' UNITS \u00b7 SPORTS CAR MARKET: 354 BUILT \u00b7 NO RECONCILIATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "How many were built?"
   },
   {
    "text": "By our arithmetic, the spread between three hundred thirty-seven and three hundred fifty-four is seventeen cars, about five percent. The left-hand-drive count is also contested. Sports Car Market's table lists eighty-four left-hand-drive cars, while its text says sixty-two. Luxury Entertainment Partners also describes a car as one of sixty-two US-market cars.",
-   "query": "More conflicts",
+   "query": "Toyota 2000GT rear",
    "caption": "354 \u2212 337 = 17 (5.0%) (OUR ARITHMETIC) \u00b7 SCM: 84 LHD IN TABLE vs 62 IN TEXT \u00b7 LEP: 'ONE OF 62 US-MARKET CARS' \u00b7 WIKIPEDIA: ~60 TO NORTH AMERICA",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "More conflicts"
   },
   {
    "text": "Why would a company make a car it could not sell at a profit? The price gives a clue. Wikipedia says the 2000GT cost about seven thousand one hundred fifty dollars in the United States in nineteen sixty-eight. Sports Car Market gives an original list price of six thousand eight hundred. We cannot tell which is right, or whether one is a base price and the other a delivered one.",
-   "query": "The price",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA (2000GT): US PRICE 1968 \u2248 $7,150 \u00b7 SPORTS CAR MARKET: ORIGINAL LIST PRICE $6,800 \u00b7 DIFFERENCE $350 (OUR ARITHMETIC) \u00b7 BASIS OF EACH FIGURE: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The price"
   },
   {
    "text": "Wikipedia puts the 2000GT's price in context. In nineteen sixty-eight, a Jaguar E-Type cost five thousand five hundred thirty-nine dollars, a Porsche 911S six thousand seven hundred ninety, and a Ferrari 365 GTB/4 nineteen thousand seven hundred. By our arithmetic, the Toyota cost twenty-nine percent more than the Jaguar and five percent more than the Porsche.",
-   "query": "Against its rivals",
+   "query": "Jaguar E-Type",
    "caption": "WIKIPEDIA (2000GT), 1968 US PRICES: 2000GT ~$7,150 \u00b7 E-TYPE $5,539 \u00b7 911S $6,790 \u00b7 FERRARI 365 GTB/4 $19,700 \u00b7 7,150 \u00f7 5,539 = +29.1% \u00b7 7,150 \u00f7 6,790 = +5.3% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Against its rivals"
   },
   {
    "text": "Against the Ferrari, the picture is reversed. By our arithmetic, the 2000GT cost thirty-six percent of the Ferrari's price, so the Ferrari cost two point eight times as much. Toyota priced its car above the Jaguar and Porsche but well below Ferrari. The sources do not say how Toyota chose that price, or what each car cost to build.",
-   "query": "Against Ferrari",
+   "query": "Jaguar E-Type",
    "caption": "7,150 \u00f7 19,700 = 36.3% \u00b7 19,700 \u00f7 7,150 = 2.8\u00d7 (OUR ARITHMETIC) \u00b7 TOYOTA'S PRICING LOGIC AND BUILD COST: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Against Ferrari"
   },
   {
    "text": "So the second thing most people do not know is the gap between the image and the books. The car looked like a triumph, and it later became one. But at the time, according to Wikipedia, Toyota earned nothing from it. The profit, if you want to call it that, came later, and it went to the people who owned the cars, not to Toyota.",
-   "query": "Image versus books",
+   "query": "Toyota 2000GT",
    "caption": "WIKIPEDIA (2000GT): TOYOTA MADE NO PROFIT \u00b7 LATER AUCTION GAINS WENT TO OWNERS (OUR READING OF THE AUCTION DATA THAT FOLLOWS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Image versus books"
   },
   {
    "text": "To understand why anyone wanted it, look at the car. Wikipedia lists a length of four thousand one hundred seventy-five millimetres, a width of sixteen hundred, and a height of only eleven hundred sixty, with a two thousand three hundred thirty wheelbase. It weighed eleven hundred twenty kilograms.",
-   "query": "Small and low",
+   "query": "Toyota 2000GT interior",
    "caption": "WIKIPEDIA (2000GT): L 4,175 MM \u00b7 W 1,600 MM \u00b7 H 1,160 MM \u00b7 WHEELBASE 2,330 MM \u00b7 1,120 KG \u00b7 1,160 MM = 45.7 IN (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "The car itself"
+   "chapter": "The car itself",
+   "orig_query": "Small and low"
   },
   {
    "text": "The engine was a one thousand nine hundred eighty-eight cubic centimetre inline six, called the 3M. Wikipedia says it started from the block of the Toyota Crown's engine, with a twin-cam head developed by Yamaha and three two-barrel Mikuni-Solex carburettors. So even the engine was a collaboration, a Toyota block with a Yamaha head.",
-   "query": "The 3M engine",
+   "query": "Yamaha Iwata",
    "caption": "WIKIPEDIA (2000GT): 1,988 CC 3M INLINE-SIX \u00b7 CROWN S50 BLOCK \u00b7 YAMAHA DOHC HEAD \u00b7 THREE 2-BARREL MIKUNI-SOLEX CARBURETTORS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The 3M engine"
   },
   {
    "text": "It made a hundred fifty metric horsepower at sixty-six hundred revs, which Wikipedia converts to one hundred forty-eight horsepower, and one hundred seventy-five newton-metres of torque at five thousand. Sports Car Market says one hundred fifty horsepower at seven thousand revs. By our arithmetic, that is about seventy-six metric horsepower per litre, and one hundred thirty-four per tonne.",
-   "query": "The numbers",
+   "query": "Toyota 2000GT engine",
    "caption": "WIKIPEDIA: 150 PS (148 HP) @ 6,600 RPM; 175 N\u00b7M @ 5,000 \u00b7 SCM: 150 HP @ 7,000 RPM \u00b7 150 \u00f7 1.988 = 75.5 PS/L \u00b7 150 \u00f7 1.12 = 133.9 PS/TONNE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The numbers"
   },
   {
    "text": "Wikipedia gives a claimed top speed of one hundred thirty-five miles an hour, and says it was a claim, with the figure tied to a particular axle ratio. It also claims thirty-one miles per gallon, and gives no zero to sixty time. Classic and Sports Car mentions an early development car, Project two eighty A, at a hundred forty-eight brake horsepower and one hundred thirty-seven miles an hour.",
-   "query": "Claimed speed",
+   "query": "Toyota 2000GT side",
    "caption": "WIKIPEDIA (2000GT): TOP SPEED 135 MPH CLAIMED (4.375 AXLE) \u00b7 FUEL ECONOMY 31 MPG CLAIMED \u00b7 NO 0\u201360 TIME \u00b7 CLASSIC & SPORTS CAR: PROJECT 280A, 148 BHP, 137 MPH \u00b7 LEP: 146 MPH, 150 BHP",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Claimed speed"
   },
   {
    "text": "The top speed itself is disputed. Wikipedia says one hundred thirty-five, Classic and Sports Car says one hundred thirty-seven for the prototype, and Luxury Entertainment Partners says one hundred forty-six. By our arithmetic, the spread is eleven miles an hour. None of the three says who measured it, so we treat them all as claims rather than test results.",
-   "query": "Three top speeds",
+   "query": "Toyota 2000GT front",
    "caption": "135 vs 137 (PROTOTYPE) vs 146 MPH \u00b7 146 \u2212 135 = 11 MPH (OUR ARITHMETIC) \u00b7 WHO MEASURED: NOT STATED \u2192 CLAIMS, NOT TESTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Three top speeds"
   },
   {
    "text": "It was not only a show car. Wikipedia lists a third place at the nineteen sixty-six Japanese Grand Prix, a win at the nineteen sixty-six Suzuka one thousand kilometres, and wins in nineteen sixty-seven at the Fuji twenty-four hours and the Fuji one thousand kilometres. The car was entered in real races in its first seasons.",
-   "query": "Racing record",
+   "query": "Suzuka Circuit",
    "caption": "WIKIPEDIA (2000GT): 1966 JAPANESE GP 3RD \u00b7 1966 SUZUKA 1000 KM WIN \u00b7 1967 24 HOURS OF FUJI WIN \u00b7 1967 FUJI 1000 KM WIN",
    "cuts": 3,
-   "chapter": "It could really race"
+   "chapter": "It could really race",
+   "orig_query": "Racing record"
   },
   {
    "text": "Wikipedia also describes a speed-record attempt at Yatabe in nineteen sixty-six, saying the car broke thirteen records in seventy-two hours. Our sources do not give the individual records, the drivers, or the speeds, so we can report the headline only. The page uses the figure seventy-two, which is three days, and we have no other source to compare it with.",
-   "query": "Yatabe",
+   "query": "Yatabe test track",
    "caption": "WIKIPEDIA (2000GT): 1966 YATABE TEST \u2014 13 RECORDS IN 72 HOURS \u00b7 72 H = 3 DAYS (OUR ARITHMETIC) \u00b7 INDIVIDUAL RECORDS, DRIVERS, SPEEDS: NOT IN OUR SOURCES \u00b7 SINGLE-SOURCE CLAIM",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Yatabe"
   },
   {
    "text": "The Shelby racing program is better documented. Classic and Sports Car says Carroll Shelby's team ran three Toyota-Shelby cars in the nineteen sixty-eight SCCA championship, with chassis numbers 10001, 10005 and 10006, driven by Dave Jordan and Scooter Patrick. It finished fourth in the National Championship, with four wins, eight seconds and six thirds.",
-   "query": "Shelby's team",
+   "query": "Shelby Cobra",
    "caption": "CLASSIC & SPORTS CAR: 3 TOYOTA-SHELBY CARS (MF10-10001, -10005, -10006) \u00b7 DRIVERS DAVE JORDAN, SCOOTER PATRICK \u00b7 1968 SCCA NATIONAL CHAMPIONSHIP: 4TH \u00b7 4 WINS, 8 SECONDS, 6 THIRDS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Shelby's team"
   },
   {
    "text": "By our arithmetic, four wins, eight seconds and six thirds make eighteen podium finishes in one season. Wikipedia adds that the Shelby cars ran in the SCCA's C Production class, and only for one season. Our sources do not say why the program ended after a year, so we leave that question open.",
-   "query": "Eighteen podiums",
+   "query": "Shelby Cobra",
    "caption": "4 + 8 + 6 = 18 PODIUMS (OUR ARITHMETIC) \u00b7 WIKIPEDIA: SCCA CP CLASS, 3 CARS, ONE SEASON \u00b7 REASON IT ENDED: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Eighteen podiums"
   },
   {
    "text": "Of course, the other reason people know the 2000GT is James Bond. Wikipedia says it appeared in You Only Live Twice in nineteen sixty-seven, and that two topless one-off cars were built for the film. The page notes that Daniel Craig has named it his favourite Bond car, a detail the page does not date.",
-   "query": "You Only Live Twice",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "WIKIPEDIA (2000GT): FEATURED IN YOU ONLY LIVE TWICE (1967) \u00b7 TWO TOPLESS ONE-OFFS BUILT FOR THE FILM \u00b7 DANIEL CRAIG'S FAVOURITE BOND CAR (UNDATED)",
    "cuts": 3,
-   "chapter": "The Bond car"
+   "chapter": "The Bond car",
+   "orig_query": "You Only Live Twice"
   },
   {
    "text": "A note on what we cannot say. Our sources do not explain why the film cars were topless, how much they cost to build, or where they are today. Many articles online repeat stories about the filming, but we only found the single line on Wikipedia in the pages we read, so we leave the stories out. The Bond link is real, but thin in our sources.",
-   "query": "What we skip",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "TOPLESS CONVERSION REASON, BUILD COST, CURRENT WHEREABOUTS OF FILM CARS: NOT IN OUR SOURCES \u00b7 ONLINE FILMING ANECDOTES NOT VERIFIED \u2192 OMITTED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "What we skip"
   },
   {
    "text": "Now the part that shows what the car became. Sports Car Market lists auction results for the 2000GT over three decades. In nineteen ninety-two, two cars failed to sell, with bids of sixty thousand and forty-two thousand five hundred dollars. In August nineteen ninety-eight, one sold for seventy-seven thousand five hundred. In March nineteen ninety-nine, another sold for sixty-nine thousand three hundred.",
-   "query": "The nineties",
+   "query": "Toyota 2000GT",
    "caption": "SPORTS CAR MARKET: 1992 \u2014 TWO NO-SALES AT $60,000 AND $42,500 \u00b7 AUG 1998 \u2014 $77,500 \u00b7 MAR 1999 \u2014 $69,300",
    "cuts": 3,
-   "chapter": "From cheap to priceless"
+   "chapter": "From cheap to priceless",
+   "orig_query": "The nineties"
   },
   {
    "text": "Then the prices climbed. Sports Car Market lists one hundred fifty-one thousand dollars in October two thousand, two hundred twenty-five thousand six hundred in July two thousand six, and six hundred twenty-seven thousand in August two thousand twelve. By our arithmetic, that is a rise from the March nineteen ninety-nine sale of nine times in thirteen years.",
-   "query": "The climb",
+   "query": "Toyota 2000GT interior",
    "caption": "SCM: OCT 2000 $151,000 \u00b7 JUL 2006 $225,600 \u00b7 AUG 2012 $627,000 \u00b7 627,000 \u00f7 69,300 = 9.0\u00d7 (MAR 1999 \u2192 AUG 2012, 13.4 YEARS) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The climb"
   },
   {
    "text": "On the twenty-seventh of April twenty thirteen, at RM Auctions in Fort Worth, a car owned by Don Davis sold for one million one hundred fifty-five thousand dollars, according to Sports Car Market, a record for a Japanese car. By our arithmetic, that was eighty-four percent more than the August twenty twelve sale, eight months earlier.",
-   "query": "The record",
+   "query": "Toyota 2000GT rear",
    "caption": "SCM: 27 APR 2013, RM FORT WORTH (DON DAVIS CAR) $1,155,000 \u2014 RECORD FOR A JAPANESE CAR \u00b7 1,155,000 \u00f7 627,000 = +84.2% \u00b7 AUG 2012 \u2192 APR 2013 = 8 MONTHS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The record"
   },
   {
    "text": "By our arithmetic, the million-dollar sale was more than fifteen times the nineteen ninety-eight price of seventy-seven thousand five hundred, in fifteen years. The sources do not say whether the same cars were sold repeatedly, so these are not returns on one car. They are a record of what different cars fetched at different sales.",
-   "query": "Fifteen times",
+   "query": "Toyota 2000GT engine",
    "caption": "1,155,000 \u00f7 77,500 = 14.9\u00d7 (AUG 1998 \u2192 APR 2013, ~14.7 YEARS) (OUR ARITHMETIC) \u00b7 SAME CAR RESOLD? NOT STATED \u2192 NOT A RETURN ON ONE CAR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fifteen times"
   },
   {
    "text": "The most recent big result in our sources is from the Gooding sale at Amelia Island on the fourth of March twenty twenty-two. Classic and Sports Car says the Toyota-Shelby car, chassis ten thousand one, sold for two million five hundred thirty-five thousand dollars. Its estimate was two point seven five to three point five million, so it sold below the low estimate.",
-   "query": "Amelia Island 2022",
+   "query": "Shelby Cobra",
    "caption": "CLASSIC & SPORTS CAR: GOODING AMELIA ISLAND, 4 MAR 2022 \u00b7 MF10-10001 SOLD $2,535,000 \u00b7 ESTIMATE $2.75\u20133.5 M \u00b7 BELOW LOW ESTIMATE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Amelia Island 2022"
   },
   {
    "text": "By our arithmetic, that is eight percent below the low estimate, and two point two times the two thirteen Fort Worth price. Hagerty says it was a record for a Japanese car at auction, beating the one point seven five million paid for a nineteen eighty-nine Mazda 767B at Amelia in twenty seventeen. By our arithmetic, the Toyota was forty-five percent higher.",
-   "query": "A new record",
+   "query": "Mazda 767B",
    "caption": "2.535 \u00f7 2.75 = 92.2% (\u22127.8%) \u00b7 2,535,000 \u00f7 1,155,000 = 2.2\u00d7 \u00b7 HAGERTY: RECORD FOR JAPANESE CAR AT AUCTION; PREVIOUS 1989 MAZDA 767B $1.75 M (AMELIA 2017) \u00b7 2.535 \u00f7 1.75 = +44.9% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A new record"
   },
   {
    "text": "The records leapfrogged each other. Per Sports Car Market, a 2000GT set the Japanese-car record at one million one hundred fifty-five thousand in twenty thirteen. Hagerty says the Mazda 767B took it with one point seven five million in twenty seventeen. Then the Toyota-Shelby took it back in twenty twenty-two. By our arithmetic, the Mazda beat the 2013 record by fifty-two percent.",
-   "query": "Leapfrog",
+   "query": "Mazda 767B",
    "caption": "2013: 2000GT $1,155,000 (SCM) \u2192 2017: MAZDA 767B $1.75 M (HAGERTY) \u2192 2022: TOYOTA-SHELBY $2.535 M \u00b7 1.75 \u00f7 1.155 = +51.5% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Leapfrog"
   },
   {
    "text": "One more number from Classic and Sports Car. It says the 2000GT holds the top eighteen Toyota auction prices, and that two other nineteen sixty-seven cars sold at that sale for one million one hundred fifty-five thousand dollars each. By our arithmetic, there is no other Toyota model among the eighteen most expensive Toyotas ever sold at auction, according to that source.",
-   "query": "Top eighteen",
+   "query": "Toyota 2000GT interior",
    "caption": "CLASSIC & SPORTS CAR: 2000GTs HOLD THE TOP 18 TOYOTA AUCTION PRICES \u00b7 TWO OTHER 1967 CARS SOLD $1,155,000 EACH AT THAT SALE \u00b7 CLAIM IS THE MAGAZINE'S, NOT INDEPENDENTLY CHECKED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top eighteen"
   },
   {
    "text": "The Datsun 240Z arrived because of the 2000GT, as we saw. Wikipedia says the American version was released on the twenty-second of October nineteen sixty-nine, with a two point four litre inline six making one hundred fifty-one horsepower on the old SAE gross measure. The 2000GT's one hundred forty-eight horsepower is a different measurement, so the two numbers are not directly comparable.",
-   "query": "The 240Z arrives",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN S30): US 240Z RELEASED 22 OCT 1969 \u00b7 2.4 L L24 I6 \u00b7 151 HP SAE GROSS \u00b7 2000GT 150 PS = 148 HP (WIKIPEDIA) \u00b7 DIFFERENT MEASUREMENT BASES \u2192 NOT DIRECTLY COMPARABLE",
    "cuts": 3,
-   "chapter": "What the 2000GT set in motion"
+   "chapter": "What the 2000GT set in motion",
+   "orig_query": "The 240Z arrives"
   },
   {
    "text": "The sales gap is enormous. Wikipedia's page on the S30 says over forty-five thousand 240Zs were sold in the United States through the nineteen seventy-one model year, over fifty thousand in nineteen seventy-two and forty thousand in nineteen seventy-three. By our arithmetic, that is at least one hundred thirty-five thousand cars in about four years, against three hundred fifty-one 2000GTs.",
-   "query": "A different scale",
+   "query": "Datsun 240Z",
    "caption": "WIKIPEDIA (NISSAN S30): US 240Z \u2014 45,000+ THRU MY1971 \u00b7 50,000+ 1972 \u00b7 40,000 1973 \u00b7 45 + 50 + 40 = 135 THOUSAND MINIMUM \u00b7 135,000 \u00f7 351 = 385\u00d7 (OUR ARITHMETIC; 'OVER' MEANS TRUE FIGURE IS HIGHER)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A different scale"
   },
   {
    "text": "Shannons Club says the 240Z offered about ninety percent of the Jaguar E-Type's performance and appeal for little more than half the price, and became the best-selling sports car in the world. That is the opposite business from Toyota's. One company chased prestige at a loss, and the other chased volume with a car priced to sell.",
-   "query": "Prestige versus volume",
+   "query": "Jaguar E-Type",
    "caption": "SHANNONS CLUB: 240Z \u2248 90% OF E-TYPE PERFORMANCE AND APPEAL FOR 'LITTLE MORE THAN HALF THE PRICE' \u00b7 'WORLD'S BEST-SELLING SPORTS CAR' \u00b7 240Z US LAUNCH PRICE: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Prestige versus volume"
   },
   {
    "text": "Hagerty adds a final twist. It says the 240Z changed how the world saw Japanese carmakers, from makers of curious cars to world-class automakers. That is Hagerty's opinion, not a measurement. But if it is right, the 2000GT's role was to open the door, and the Datsun walked through it with far more cars.",
-   "query": "Opening the door",
+   "query": "Datsun 240Z",
    "caption": "HAGERTY: 240Z MOVED JAPANESE CARMAKERS 'FROM MANUFACTURERS OF CURIOUS CARS TO WORLD-CLASS AUTOMAKERS' (OPINION, NOT A MEASUREMENT) \u00b7 'DOOR-OPENER' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Opening the door"
   },
   {
    "text": "Nissan answered the 2000GT in Japan with a car most people never saw. Hagerty describes the Fairlady Z432, which used the twin-cam S20 racing engine from the Skyline GT-R, cost twice as much as the base Z in Japan, and sold poorly. Wikipedia puts production of the Z432 at about four hundred twenty, and the even rarer Z432R at under fifty.",
-   "query": "Nissan's own halo",
+   "query": "Nissan Fairlady Z432",
    "caption": "HAGERTY: Z432 USED THE DOHC S20 ENGINE; TWICE THE PRICE OF BASE Z IN JAPAN; SOLD POORLY \u00b7 WIKIPEDIA (S30): Z432 ~420 BUILT; Z432R UNDER 50",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Nissan's own halo"
   },
   {
    "text": "One Z432R sold for one point one seven million Australian dollars in January twenty twenty, about eight hundred thirty-seven thousand US dollars, according to Wikipedia. By our arithmetic, the Toyota-Shelby sale was three times that figure. So the same story repeats: a rare Japanese car with racing hardware, ignored when new, and expensive decades later.",
-   "query": "A rare rival",
+   "query": "Shelby Cobra",
    "caption": "WIKIPEDIA (S30): Z432R SOLD A$1.17 M (\u2248 US$837K) JAN 2020 \u00b7 2,535 \u00f7 837 = 3.0\u00d7 (OUR ARITHMETIC) \u00b7 'IGNORED WHEN NEW' APPLIES TO Z432 PER HAGERTY ('SOLD POORLY'), NOT SPECIFIC TO THE Z432R",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A rare rival"
   },
   {
    "text": "Classic and Sports Car gives the history of the car sold in twenty twenty-two. Chassis ten thousand one was the first serial-numbered Toyota-Shelby, built on the twenty-seventh of September nineteen sixty-six in Solar Red. It was one of three Shelby-run cars, and the magazine says Project two eighty A had started in the summer of nineteen sixty-four.",
-   "query": "Chassis 10001",
+   "query": "Shelby Cobra",
    "caption": "CLASSIC & SPORTS CAR: MF10-10001 FIRST SERIAL-NUMBERED CAR, BUILT 27 SEP 1966, SOLAR RED \u00b7 PROJECT 280A STARTED SUMMER 1964 \u00b7 1964 \u2192 1966 \u2248 2 YEARS (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Details of the famous cars"
+   "chapter": "Details of the famous cars",
+   "orig_query": "Chassis 10001"
   },
   {
    "text": "Luxury Entertainment Partners listed chassis one hundred, a left-hand-drive car in Solar Red, at nine hundred twelve thousand five hundred dollars, about six hundred ninety-six thousand pounds. The listing calls it a nineteen seventy-six model year. But Wikipedia says production ended in August nineteen seventy. That is a conflict we cannot resolve, and it may be a listing error.",
-   "query": "A listing conflict",
+   "query": "Toyota 2000GT engine",
    "caption": "LEP: CHASSIS 100, LHD, SOLAR RED, $912,500 (\u2248 \u00a3696K) \u00b7 LISTING SAYS '1976 MODEL YEAR' \u00b7 WIKIPEDIA (2000GT): PRODUCTION ENDED AUG 1970 \u2192 CONFLICT, UNRESOLVED (POSSIBLE LISTING ERROR \u2014 OUR GUESS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A listing conflict"
   },
   {
    "text": "The same listing says the car took part in rallies, including the Copperstate one thousand in twenty ten, and names owners Otto Linton and Brown Maloney. By our arithmetic, this car at nine hundred twelve thousand dollars was about a quarter below the Fort Worth record, so the market for the ordinary cars sits between the headline prices.",
-   "query": "An everyday car",
+   "query": "Toyota 2000GT side",
    "caption": "LEP: OWNER HISTORY OTTO LINTON, BROWN MALONEY; 2010 COPPERSTATE 1000 RALLY \u00b7 912,500 \u00f7 1,155,000 = 79% (\u221221%) (OUR ARITHMETIC) \u00b7 LISTING PRICE = ASKING, NOT A SALE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "An everyday car"
   },
   {
    "text": "Classic and Sports Car adds context on the Gooding sale. Of ninety-nine lots offered, ninety-three sold for a total of sixty-nine million two hundred nine thousand four hundred eighty dollars. By our arithmetic, the Toyota-Shelby alone was almost four percent of the entire sale, and the average lot made about seven hundred forty-four thousand dollars.",
-   "query": "The sale in context",
+   "query": "Shelby Cobra",
    "caption": "CLASSIC & SPORTS CAR: 99 LOTS, 93 SOLD, $69,209,480 \u00b7 2,535,000 \u00f7 69,209,480 = 3.7% \u00b7 69,209,480 \u00f7 93 = $744,187 AVERAGE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The sale in context"
   },
   {
    "text": "A last number about expectations. Sports Car Market quotes a dealer, Braden, saying in two thousand one that good cars would stay around one hundred thousand to one hundred fifty thousand dollars. By our arithmetic, the two thirteen record was seven point seven times the top of that range. Predictions about collectible cars often fail, and this one did.",
-   "query": "A prediction",
+   "query": "Toyota 2000GT",
    "caption": "SCM: BRADEN, 2001 \u2014 GOOD CARS WOULD STAY AT $100,000\u2013150,000 \u00b7 1,155,000 \u00f7 150,000 = 7.7\u00d7 \u00b7 \u00f7 100,000 = 11.6\u00d7 (OUR ARITHMETIC) \u00b7 'PREDICTIONS OFTEN FAIL' = OUR COMMENT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A prediction"
   },
   {
    "text": "Here is what we could not confirm. We have no verified figure for what the 2000GT cost Toyota to build, so the claim of no profit rests on one line of Wikipedia. We have no official total of cars sold in each country. We have no independent test of the top speed, and no zero to sixty time. And the Goertz story is told three ways.",
-   "query": "Gaps",
+   "query": "Albrecht Goertz",
    "caption": "NOT IN OUR SOURCES: BUILD COST / LOSS PER CAR \u00b7 UNITS PER COUNTRY \u00b7 INDEPENDENT TOP-SPEED OR 0\u201360 TEST \u00b7 HOW THE GOERTZ / NISSAN / TOYOTA HANDOVER FIT TOGETHER \u00b7 'NO PROFIT' = ONE WIKIPEDIA LINE",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Gaps"
   },
   {
    "text": "So the two things, again. First, the 2000GT began as a design another Japanese carmaker dropped, and it ended up in Toyota's hands through Yamaha. Second, Toyota built three hundred fifty-one of them against a hope of a thousand a year, and made no profit. Everything else, the racing, the Bond film, the auction records, came afterwards.",
-   "query": "The two things",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "1) A DESIGN NISSAN DROPPED \u2192 YAMAHA \u2192 TOYOTA \u00b7 2) 351 BUILT vs HOPED 1,000 A YEAR \u00b7 NO PROFIT \u00b7 THE FAME AND AUCTION PRICES CAME LATER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The two things"
   },
   {
    "text": "If you want to go deeper, the next video compares the 2000GT with the Datsun 240Z, the car it indirectly inspired. All sources are in the description. If this was useful, subscribe to Pickup Reality, and tell us which exotic car you want us to check next.",
-   "query": "Subscribe",
+   "query": "Datsun 240Z",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Subscribe"
   }
  ]
 }

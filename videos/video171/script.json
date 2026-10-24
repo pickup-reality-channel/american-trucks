@@ -6,320 +6,371 @@
  "scenes": [
   {
    "text": "A new Toyota 2000GT went on sale in nineteen sixty-eight for about seven thousand dollars. Today a good one costs more than a brand-new Ferrari Roma, a 296, a Purosangue, a Twelve Cilindri and even the SF90. This video checks that claim number by number, shows what the car costs to buy and to keep alive, and flags every figure we could not find.",
-   "query": "Costs more than a Ferrari",
+   "query": "Toyota 2000GT",
    "caption": "WHY A TOYOTA 2000GT COSTS MORE THAN A NEW FERRARI",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Costs more than a Ferrari"
   },
   {
    "text": "Our sources are Hagerty's valuation pages, Classic and Sports Car, Sports Car Market, Wikipedia, the car magazine The Manual and the site Supercars dot net for new Ferrari prices, and restoration reports from BusinessDay in South Africa and Toyota's UK magazine. We show conflicts. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Toyota 2000GT interior",
    "caption": "SOURCES: HAGERTY VALUATIONS \u00b7 CLASSIC & SPORTS CAR \u00b7 SPORTS CAR MARKET \u00b7 WIKIPEDIA \u00b7 THE MANUAL (9 OCT 2024) \u00b7 SUPERCARS.NET (NOV 2024) \u00b7 BUSINESSDAY SA (18 OCT 2022) \u00b7 TOYOTA UK MAGAZINE (2012) \u00b7 CONFLICTS SHOWN",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "Start with the benchmark. The Manual, in October twenty twenty-four, listed starting prices for new Ferraris. The Roma was two hundred forty-seven thousand three hundred eight dollars. The two ninety-six GTB was three hundred forty-two thousand two hundred five. The Purosangue was four hundred two thousand fifty, and the twelve Cilindri four hundred sixty-four thousand.",
-   "query": "Ferrari prices",
+   "query": "Toyota 2000GT rear",
    "caption": "THE MANUAL (9 OCT 2024), STARTING PRICES: ROMA $247,308 \u00b7 296 GTB $342,205 \u00b7 PUROSANGUE $402,050 \u00b7 12 CILINDRI $464,000",
    "cuts": 5,
-   "chapter": "What a new Ferrari costs"
+   "chapter": "What a new Ferrari costs",
+   "orig_query": "Ferrari prices"
   },
   {
    "text": "The same list has the Roma Spider at two hundred eighty-one thousand nine hundred twenty, the two ninety-six GTS at three hundred seventy-five thousand nine hundred fifty, the twelve Cilindri Spider at five hundred five thousand four hundred, the SF90 Stradale at five hundred twenty-eight thousand seven hundred sixty-four, and the SF90 Spider at five hundred eighty-three thousand nine hundred fifty.",
-   "query": "The rest of the range",
+   "query": "Toyota 2000GT engine",
    "caption": "THE MANUAL: ROMA SPIDER $281,920 \u00b7 296 GTS $375,950 \u00b7 12 CILINDRI SPIDER $505,400 \u00b7 SF90 STRADALE $528,764 \u00b7 SF90 SPIDER $583,950 (MOST EXPENSIVE ON THE LIST)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The rest of the range"
   },
   {
    "text": "A second source gives slightly different numbers. Supercars dot net, last modified in November twenty twenty-four, lists the two ninety-six GTB at three hundred forty-three thousand, the twelve Cilindri at four hundred twelve thousand, the Purosangue at four hundred twenty-eight thousand six hundred eighty-six, and the SF90 Spider at five hundred ninety thousand. These conflict with The Manual, and neither explains why.",
-   "query": "Two lists differ",
+   "query": "Toyota 2000GT side",
    "caption": "SUPERCARS.NET (MOD. 24 NOV 2024): 296 GTB $343,000 \u00b7 12CILINDRI $412,000 \u00b7 PUROSANGUE $428,686 \u00b7 SF90 SPIDER $590,000 \u00b7 vs THE MANUAL: $342,205 / $464,000 / $402,050 / $583,950 \u00b7 REASON: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Two lists differ"
   },
   {
    "text": "By our arithmetic, the twelve Cilindri differs by fifty-two thousand dollars between the two lists, which is the biggest gap. Both are late twenty twenty-four figures, so current prices may be different. Neither source includes options, dealer markups or taxes. We use them as a benchmark, not as the price any buyer will actually pay today.",
-   "query": "Caveats",
+   "query": "Toyota 2000GT front",
    "caption": "12 CILINDRI: $464,000 \u2212 $412,000 = $52,000 (OUR ARITHMETIC) \u00b7 LISTS DATE FROM LATE 2024; OPTIONS, MARKUPS, TAXES NOT INCLUDED \u00b7 CURRENT 2026 PRICES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Caveats"
   },
   {
    "text": "Supercars dot net also lists the special models. The SF90 XX Stradale is eight hundred ninety thousand dollars, and its Spider nine hundred ninety-five thousand. The Daytona SP3 is two million two hundred twenty-three thousand nine hundred thirty-five, and the F80 is three point one million. These are limited-series cars, and the page says not many buyers can realistically get them.",
-   "query": "The special series",
+   "query": "Toyota 2000GT",
    "caption": "SUPERCARS.NET: SF90 XX STRADALE $890,000 \u00b7 XX SPIDER $995,000 \u00b7 DAYTONA SP3 (ICONA) $2,223,935 \u00b7 F80 $3,100,000 \u00b7 PAGE: TRACK-FOCUSED XX CARS 'NOT REALISTICALLY AVAILABLE TO MOST BUYERS'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The special series"
   },
   {
    "text": "How much do the two Ferrari lists differ? By our arithmetic, the Purosangue is twenty-six thousand six hundred thirty-six dollars apart, the SF90 Spider about six thousand, and the two ninety-six GTB under eight hundred. Even using the more expensive Supercars dot net figures throughout, the standard-range top is five hundred ninety thousand, below the typical 2000GT's eight hundred forty-four.",
-   "query": "List differences",
+   "query": "Toyota 2000GT interior",
    "caption": "PUROSANGUE 428,686 \u2212 402,050 = $26,636 \u00b7 SF90 SPIDER 590,000 \u2212 583,950 = $6,050 \u00b7 296 GTB 343,000 \u2212 342,205 = $795 (OUR ARITHMETIC) \u00b7 HIGHEST STANDARD-RANGE FIGURE $590,000 < $844,000",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "List differences"
   },
   {
    "text": "The range inside the Ferrari list matters too. By our arithmetic, the most expensive standard car on The Manual's list, the SF90 Spider, costs two point four times the cheapest, the Roma, a spread of about three hundred thirty-seven thousand dollars. The typical 2000GT is above the whole range, which is why the comparison holds whichever new Ferrari you pick.",
-   "query": "The Ferrari range",
+   "query": "Toyota 2000GT rear",
    "caption": "583,950 \u00f7 247,308 = 2.4\u00d7 \u00b7 583,950 \u2212 247,308 = $336,642 (OUR ARITHMETIC) \u00b7 TYPICAL 2000GT $844,000 > ENTIRE STANDARD RANGE ON BOTH LISTS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Ferrari range"
   },
   {
    "text": "Now the Toyota. Hagerty's valuation page for the nineteen sixty-seven car says a car in good condition with average specification is eight hundred forty-four thousand dollars, down one point one percent over twelve months. Its page for the nineteen sixty-nine car says to expect around eight hundred eighty-nine thousand five hundred. Neither page lists the other condition grades.",
-   "query": "Hagerty value",
+   "query": "Toyota 2000GT engine",
    "caption": "HAGERTY (1967 PAGE): #3 'GOOD, AVERAGE SPEC' $844,000; 12-MONTH CHANGE \u22121.1% \u00b7 HAGERTY (1969 PAGE): ~$889,500 (FAQ ONLY) \u00b7 #1, #2, #4 GRADES: NOT LISTED ON THE PAGES WE READ",
    "cuts": 3,
-   "chapter": "What a 2000GT costs"
+   "chapter": "What a 2000GT costs",
+   "orig_query": "Hagerty value"
   },
   {
    "text": "Hagerty also lists past sales for the nineteen sixty-seven car. The most recent was nine hundred ninety-five thousand nine hundred fifty-three dollars at Bonhams on the ninth of September twenty twenty-three. Over three years the highest was one million one hundred fifty-five thousand and the lowest six hundred eighty-one thousand seventeen. Hagerty counts five auction sales in three years and forty-five on record.",
-   "query": "Hagerty past sales",
+   "query": "Toyota 2000GT side",
    "caption": "HAGERTY (1967 PAGE): MOST RECENT $995,953 BONHAMS 9 SEP 2023 \u00b7 3-YEAR HIGH $1,155,000 \u00b7 LOW $681,017 \u00b7 5 AUCTION SALES IN 3 YEARS \u00b7 45 SALES ON RECORD",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hagerty past sales"
   },
   {
    "text": "By our arithmetic, the typical car at eight hundred forty-four thousand costs three point four times a new Roma, one point eight times a Twelve Cilindri and one point four times an SF90 Spider at The Manual's price. Even the lowest sale in Hagerty's three-year window, six hundred eighty-one thousand, is seventeen percent above the SF90 Spider.",
-   "query": "The comparison",
+   "query": "Toyota 2000GT front",
    "caption": "844,000 \u00f7 247,308 = 3.4\u00d7 \u00b7 \u00f7 464,000 = 1.8\u00d7 \u00b7 \u00f7 583,950 = 1.4\u00d7 \u00b7 681,017 \u00f7 583,950 = +16.6% (OUR ARITHMETIC, USING THE MANUAL'S PRICES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The comparison"
   },
   {
    "text": "So the headline is true for ordinary Ferraris. But we should be exact. By our arithmetic, the typical Toyota is below the SF90 XX at eight hundred ninety thousand, and far below the Daytona SP3 at two point two million. It beats every Ferrari on The Manual's list and the standard range on Supercars dot net, not every Ferrari that exists.",
-   "query": "The honest limit",
+   "query": "Toyota 2000GT",
    "caption": "844,000 < SF90 XX $890,000 (\u22125.2%) \u00b7 844,000 vs SP3 $2,223,935 = 38% (OUR ARITHMETIC) \u00b7 CLAIM HOLDS FOR STANDARD-RANGE FERRARIS ONLY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The honest limit"
   },
   {
    "text": "At the top end the picture flips. The Toyota-Shelby that sold at Amelia Island in March twenty twenty-two for two million five hundred thirty-five thousand dollars is above every Ferrari on both lists except the three million one hundred thousand F80. By our arithmetic, it cost ten times a new Roma and four point three times an SF90 Spider, and fourteen percent more than the Daytona SP3.",
-   "query": "The best car",
+   "query": "Shelby Cobra",
    "caption": "C&SC: TOYOTA-SHELBY $2,535,000 (4 MAR 2022) \u00b7 2,535,000 \u00f7 247,308 = 10.3\u00d7 \u00b7 \u00f7 583,950 = 4.3\u00d7 \u00b7 \u00f7 2,223,935 = +14.0% (SP3) \u00b7 F80 $3.1 M IS 1.22\u00d7 THE TOYOTA (OUR ARITHMETIC) \u00b7 AUCTION RESULT vs LIST PRICE \u2192 NOT LIKE-FOR-LIKE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The best car"
   },
   {
    "text": "This is a strange outcome because the car was never cheap. Wikipedia says the 2000GT cost about seven thousand one hundred fifty dollars in the United States in nineteen sixty-eight, and Sports Car Market says six thousand eight hundred. A Ferrari 365 GTB/4 cost nineteen thousand seven hundred that year, a Jaguar E-Type five thousand five hundred thirty-nine.",
-   "query": "1968 prices",
+   "query": "Jaguar E-Type",
    "caption": "WIKIPEDIA (2000GT), 1968 US: 2000GT ~$7,150 \u00b7 FERRARI 365 GTB/4 $19,700 \u00b7 E-TYPE $5,539 \u00b7 SCM: 2000GT LIST $6,800 (CONFLICT)",
    "cuts": 3,
-   "chapter": "What it cost in 1968"
+   "chapter": "What it cost in 1968",
+   "orig_query": "1968 prices"
   },
   {
    "text": "So in nineteen sixty-eight the Ferrari cost two point eight times the Toyota. Today the typical Toyota costs three point four times the cheapest new Ferrari, the Roma. The two Ferraris are different models, so this is a comparison of price ranks, not of like cars. But the ordering has flipped, and the Toyota now sits above cars that were once far more expensive.",
-   "query": "The flip",
+   "query": "Toyota 2000GT engine",
    "caption": "1968: 19,700 \u00f7 7,150 = 2.8\u00d7 (FERRARI 365 GTB/4 HIGHER) \u00b7 TODAY: 844,000 \u00f7 247,308 = 3.4\u00d7 (TOYOTA HIGHER THAN A NEW ROMA) (OUR ARITHMETIC; DIFFERENT FERRARI MODELS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The flip"
   },
   {
    "text": "By our arithmetic, the Hagerty value of eight hundred forty-four thousand is one hundred eighteen times the nineteen sixty-eight price. The Shelby sale is three hundred fifty-five times. Over fifty-eight years, that works out to an average of about eight and a half percent a year for the Hagerty value, and ten and a half percent a year for the Shelby sale, before inflation, insurance, storage or repairs. We adjust for inflation shortly.",
-   "query": "Long-run growth",
+   "query": "Shelby Cobra",
    "caption": "844,000 \u00f7 7,150 = 118\u00d7 \u00b7 2,535,000 \u00f7 7,150 = 355\u00d7 \u00b7 1968 \u2192 2026 = 58 YEARS \u00b7 118^(1/58) \u2212 1 = 8.6%/YR \u00b7 355^(1/58) \u2212 1 = 10.7%/YR (OUR ARITHMETIC, NOMINAL, BEFORE INFLATION AND COSTS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Long-run growth"
   },
   {
    "text": "The nineteen sixty-eight price is not a clean starting line. One source says seven thousand one hundred fifty and another six thousand eight hundred, and the Hagerty figure is for an average car while the Shelby car had a famous history. So the growth rates are rough. They show direction and scale, not a precise return on any single car.",
-   "query": "Rough rates",
+   "query": "Shelby Cobra",
    "caption": "STARTING PRICE UNCERTAIN ($6,800 vs $7,150) \u00b7 END PRICE: AVERAGE CAR vs FAMOUS RACE CAR \u00b7 RATES = ORDER OF MAGNITUDE ONLY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rough rates"
   },
   {
    "text": "For scale against ordinary budgets, the Census Bureau's median household income for twenty twenty-four was eighty-three thousand seven hundred thirty dollars. By our arithmetic, a typical 2000GT at Hagerty's value is about ten years of that income, and the Shelby car about thirty years, and a new Roma about three years.",
-   "query": "In years of income",
+   "query": "Shelby Cobra",
    "caption": "CENSUS MEDIAN HOUSEHOLD INCOME 2024: $83,730 \u00b7 844,000 \u00f7 83,730 = 10.1 YEARS \u00b7 2,535,000 \u00f7 83,730 = 30.3 YEARS \u00b7 247,308 \u00f7 83,730 = 3.0 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "In years of income"
   },
   {
    "text": "Sports Car Market shows how slowly this began. In nineteen ninety-two two cars failed to sell at sixty thousand and forty-two thousand five hundred dollars. In August nineteen ninety-eight one sold for seventy-seven thousand five hundred, in March nineteen ninety-nine for sixty-nine thousand three hundred, and in October two thousand for one hundred fifty-one thousand.",
-   "query": "Cheap in the nineties",
+   "query": "Toyota 2000GT interior",
    "caption": "SCM: 1992 NO-SALES AT $60,000 AND $42,500 \u00b7 AUG 1998 $77,500 \u00b7 MAR 1999 $69,300 \u00b7 OCT 2000 $151,000",
    "cuts": 3,
-   "chapter": "The price history"
+   "chapter": "The price history",
+   "orig_query": "Cheap in the nineties"
   },
   {
    "text": "In July two thousand six one sold for two hundred twenty-five thousand six hundred, and in August two thousand twelve for six hundred twenty-seven thousand. On the twenty-seventh of April twenty thirteen, a car sold at RM Auctions in Fort Worth for one million one hundred fifty-five thousand, a record for a Japanese car, per Sports Car Market.",
-   "query": "Reaching a million",
+   "query": "Toyota 2000GT rear",
    "caption": "SCM: JUL 2006 $225,600 \u00b7 AUG 2012 $627,000 \u00b7 27 APR 2013 $1,155,000 (RM FORT WORTH, DON DAVIS CAR) \u2014 RECORD FOR A JAPANESE CAR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Reaching a million"
   },
   {
    "text": "By our arithmetic, the Fort Worth price was nearly seventeen times the March nineteen ninety-nine sale of sixty-nine thousand three hundred. The 2022 Shelby sale of two point five million is nearly thirty-seven times that same price. These are different cars at different sales, so they show how a market moved, not what any one owner earned.",
-   "query": "Sale to sale",
+   "query": "Shelby Cobra",
    "caption": "1,155,000 \u00f7 69,300 = 16.7\u00d7 \u00b7 2,535,000 \u00f7 69,300 = 36.6\u00d7 (OUR ARITHMETIC) \u00b7 DIFFERENT CARS, DIFFERENT SALES \u2192 MARKET MOVE ONLY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Sale to sale"
   },
   {
    "text": "The market has since cooled. Hagerty's page shows a twelve-month change of minus one point one percent for the nineteen sixty-seven car. Its typical value of eight hundred forty-four thousand is twenty-seven percent below the one point one five five million top price in its three-year window. So the headline prices are the exceptions, and the typical car sits well under them.",
-   "query": "Cooling",
+   "query": "Toyota 2000GT side",
    "caption": "HAGERTY: 12-MONTH \u22121.1% \u00b7 844,000 \u00f7 1,155,000 = 73% (\u221227%) (OUR ARITHMETIC) \u00b7 HAGERTY'S 3-YEAR TOP SALE $1,155,000 (SAME FIGURE AS 2013 AND AS TWO 2022 CARS \u2014 COINCIDENCE NOT EXPLAINED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Cooling"
   },
   {
    "text": "A dealer's forecast shows how hard it is to call. Sports Car Market quotes Braden saying in two thousand one that good cars would stay at one hundred thousand to one hundred fifty thousand dollars. By our arithmetic, Hagerty's typical value today is five point six times the top of that range, and the 2013 record was seven point seven times.",
-   "query": "A failed forecast",
+   "query": "Toyota 2000GT front",
    "caption": "SCM: BRADEN, 2001 \u2014 GOOD CARS $100,000\u2013150,000 \u00b7 844,000 \u00f7 150,000 = 5.6\u00d7 \u00b7 1,155,000 \u00f7 150,000 = 7.7\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A failed forecast"
   },
   {
    "text": "Why does the Toyota cost so much? Start with scarcity. Wikipedia's infobox says three hundred fifty-one cars were built, though its text says three hundred thirty-seven and Sports Car Market says three hundred fifty-four. Only about sixty reached North America. Our sources give no annual production figure for any current Ferrari, so we cannot compare volumes directly.",
-   "query": "Scarcity",
+   "query": "Toyota 2000GT",
    "caption": "WIKIPEDIA: 351 (INFOBOX) / 337 (TEXT) \u00b7 SCM: 354 \u00b7 ~60 TO NORTH AMERICA \u00b7 ANNUAL PRODUCTION OF ANY CURRENT FERRARI: NOT IN OUR SOURCES \u2192 NO VOLUME COMPARISON",
    "cuts": 3,
-   "chapter": "Why so expensive"
+   "chapter": "Why so expensive",
+   "orig_query": "Scarcity"
   },
   {
    "text": "Hagerty counts only five auction sales of the nineteen sixty-seven car in three years. By our arithmetic, that is fewer than two public sales a year of the model, worldwide, in that dataset. A buyer who wants one often has no choice but to wait, and sellers know it. That is our reading; Hagerty does not make the argument itself.",
-   "query": "Few for sale",
+   "query": "Toyota 2000GT interior",
    "caption": "HAGERTY: 5 AUCTION SALES IN 3 YEARS \u00b7 5 \u00f7 3 = 1.7/YEAR (OUR ARITHMETIC) \u00b7 'BUYERS WAIT, SELLERS KNOW' = OUR READING, NOT HAGERTY'S",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Few for sale"
   },
   {
    "text": "Second, the history. Classic and Sports Car says the 2000GTs hold the top eighteen Toyota auction prices, and Hagerty says the Shelby sale was a record for a Japanese car at auction. A car that is the most valuable of its country's cars carries a collector premium that has nothing to do with how well it drives.",
-   "query": "Status",
+   "query": "Shelby Cobra",
    "caption": "C&SC: 2000GTs HOLD TOP 18 TOYOTA AUCTION PRICES \u00b7 HAGERTY: $2.535 M = RECORD FOR A JAPANESE CAR AT AUCTION \u00b7 'PREMIUM UNRELATED TO DRIVING' = OUR OPINION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Status"
   },
   {
    "text": "Third, the film. Wikipedia says two topless 2000GTs were built for You Only Live Twice, and that Daniel Craig calls it his favourite Bond car. Our sources do not say how much the film added to prices, so we cannot put a number on it. We simply note that the car is famous for more than its specification.",
-   "query": "The Bond effect",
+   "query": "Toyota 2000GT You Only Live Twice",
    "caption": "WIKIPEDIA: 2 TOPLESS ONE-OFFS (1967); CRAIG'S FAVOURITE \u00b7 DOLLAR EFFECT OF THE FILM ON PRICES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Bond effect"
   },
   {
    "text": "Fourth, the build. BusinessDay in South Africa describes an aluminium body, the first Japanese car with a limited-slip differential and power-assisted disc brakes, and a two litre straight six making one hundred ten kilowatts. These are the article's claims. Wikipedia says Toyota made no profit, so the car was clearly not priced to cover a cost like that.",
-   "query": "Hand-built",
+   "query": "Toyota 2000GT side",
    "caption": "BUSINESSDAY SA (18 OCT 2022): ALUMINIUM BODY \u00b7 'FIRST JAPANESE CAR' WITH LSD AND POWER DISC BRAKES (ARTICLE'S CLAIM) \u00b7 110 KW / 175 NM \u00b7 WIKIPEDIA: NO PROFIT \u00b7 COST TO BUILD: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Hand-built"
   },
   {
    "text": "Buying is only half the cost. Toyota South Africa restored a nineteen sixty-eight car over about two years, bumper to bumper, with a local firm, Generation Old School, according to BusinessDay. The engine was fully stripped and rebuilt, because rubber parts leaked and rust had clogged most coolant passages. The article gives no restoration cost.",
-   "query": "A two-year restoration",
+   "query": "Toyota 2000GT front",
    "caption": "BUSINESSDAY SA: 1968 CAR \u00b7 ~2 YEARS \u00b7 GENERATION OLD SCHOOL (BENONI) \u00b7 ENGINE STRIPPED + REBUILT (LEAKING RUBBER, RUST-CLOGGED COOLANT PASSAGES) \u00b7 RESTORATION COST: NOT GIVEN",
    "cuts": 3,
-   "chapter": "The cost of keeping one alive"
+   "chapter": "The cost of keeping one alive",
+   "orig_query": "A two-year restoration"
   },
   {
    "text": "One example shows the parts problem. The article says the windscreen had to be custom-made by a local glass company after international suppliers quoted astronomical prices. It does not say how much. It also reports that in July twenty twenty, Toyota's Gazoo Racing announced a Heritage Parts Project to reproduce replacement parts for the 2000GT. Part prices are not given.",
-   "query": "Parts",
+   "query": "Toyota GR Yaris",
    "caption": "BUSINESSDAY SA: WINDSCREEN CUSTOM-MADE LOCALLY AFTER 'ASTRONOMICAL PRICES' QUOTED ABROAD (AMOUNT NOT GIVEN) \u00b7 GAZOO RACING GR HERITAGE PARTS PROJECT ANNOUNCED JULY 2020 \u00b7 PART PRICES: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Parts"
   },
   {
    "text": "Toyota's UK magazine described another rebuild. The car was found in Portugal in two thousand eleven, after starting life in Mozambique, and was restored by JD Classics. The engine builder Piff estimated two hundred fifty to three hundred hours for the engine alone, and had pistons made by a NASCAR company. By our arithmetic, that is six to seven and a half forty-hour weeks.",
-   "query": "Engine rebuild",
+   "query": "Toyota 2000GT interior",
    "caption": "TOYOTA UK MAGAZINE (6 DEC 2012): MOZAMBIQUE \u2192 PORTUGAL 2011 (EBAY) \u2192 JD CLASSICS \u00b7 ENGINE BY PIFF: 250\u2013300 HOURS \u00b7 NEW PISTONS FROM A NASCAR COMPANY \u00b7 250 \u00f7 40 = 6.3 WEEKS; 300 \u00f7 40 = 7.5 WEEKS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Engine rebuild"
   },
   {
    "text": "That magazine also said in twenty twelve that a top-quality 2000GT was worth more than five hundred thousand pounds. It did not disclose what the restoration cost. So in three separate sources about restoring this car, none gives a total bill. We can say the work is long and specialist; we cannot say what it costs.",
-   "query": "No bill",
+   "query": "Toyota 2000GT rear",
    "caption": "TOYOTA UK (2012): TOP-QUALITY 2000GT 'WORTH MORE THAN \u00a3500,000' \u00b7 RESTORATION COST: 'NOT DISCLOSED' \u00b7 NO RESTORATION BILL IN ANY OF OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "No bill"
   },
   {
    "text": "Risk is a cost too. A Japanese website reported in June twenty fourteen that a 2000GT in Japan was crushed by a falling beech tree. The owner decided to rebuild it. The article gave no repair cost; readers in the comments guessed about half a million dollars, but those guesses were unverified, and we treat them as such.",
-   "query": "A tree falls",
+   "query": "Toyota 2000GT engine",
    "caption": "JAPANESE NOSTALGIC CAR (19 JUN 2014): 2000GT IN JAPAN CRUSHED BY AN AGED BEECH TREE; OWNER TO REBUILD \u00b7 NO REPAIR COST GIVEN \u00b7 COMMENTER GUESS ~$500,000 = UNVERIFIED \u00b7 ARTICLE ALSO SAYS 337 UNITS BUILT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A tree falls"
   },
   {
    "text": "Ordinary running costs are another gap. Sports Car Market mentions a tune-up price of four hundred fifty dollars, but undated. We found no source for insurance on a 2000GT, no source for yearly service cost and none for storage. For a new Ferrari, Hagerty and others publish those. For the Toyota, the honest answer is that our sources do not include them.",
-   "query": "Running costs",
+   "query": "Toyota 2000GT side",
    "caption": "SCM: TUNE-UP $450 (UNDATED) \u00b7 INSURANCE / ANNUAL SERVICE / STORAGE FOR A 2000GT: NOT IN OUR SOURCES \u00b7 NEW-FERRARI RUNNING COSTS: NOT IN THIS VIDEO'S SOURCES EITHER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Running costs"
   },
   {
    "text": "The same car costs different amounts in different places. BusinessDay values the South African 2000GT at about thirty million rand, with pristine examples reaching up to forty million rand at auction. We do not convert, because we have no exchange rate source. The article also says only three came to South Africa, and this is the sole survivor.",
-   "query": "South Africa",
+   "query": "Toyota 2000GT front",
    "caption": "BUSINESSDAY SA (18 OCT 2022): VALUE ~R30 M; PRISTINE UP TO R40 M AT AUCTION \u00b7 3 CAME TO SOUTH AFRICA; THIS ONE SURVIVES; 30,000 KM \u00b7 NO CURRENCY CONVERSION (NO RATE SOURCE)",
    "cuts": 3,
-   "chapter": "Prices elsewhere"
+   "chapter": "Prices elsewhere",
+   "orig_query": "South Africa"
   },
   {
    "text": "In the United Kingdom, Luxury Entertainment Partners listed a left-hand-drive car at about six hundred ninety-six thousand pounds, nine hundred twelve thousand five hundred dollars. It carries a nineteen seventy-six model year claim, which conflicts with Wikipedia's August nineteen seventy end of production. By our arithmetic, that asking price sits eight percent above Hagerty's typical value.",
-   "query": "A dealer listing",
+   "query": "Toyota 2000GT",
    "caption": "LEP: CHASSIS 100, \u2248 \u00a3696K = $912,500 (ASKING PRICE) \u00b7 '1976 MODEL YEAR' vs WIKIPEDIA PRODUCTION END AUG 1970 \u2192 CONFLICT \u00b7 912,500 \u00f7 844,000 = +8.1% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A dealer listing"
   },
   {
    "text": "And the Hagerty numbers show the model is sensitive to the year. The nineteen sixty-nine page says eight hundred eighty-nine thousand five hundred, against eight hundred forty-four thousand for nineteen sixty-seven. By our arithmetic, the later car is five percent higher. Hagerty does not explain the gap, and the pages do not list what differs in spec.",
-   "query": "Year by year",
+   "query": "Toyota 2000GT interior",
    "caption": "HAGERTY: 1969 ~$889,500 vs 1967 $844,000 \u00b7 +5.4% (OUR ARITHMETIC) \u00b7 REASON AND SPEC DIFFERENCES: NOT GIVEN \u00b7 1969 PAGE LACKS A 12-MONTH CHANGE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Year by year"
   },
   {
    "text": "Hagerty's page also shows the lowest price on record for the model as two thousand one hundred fifty dollars, a figure from the model stats covering nineteen sixty-seven to nineteen seventy. It has no date or chassis. By our arithmetic, today's typical value is three hundred ninety-three times that figure. We would not read much into it without knowing what that car was.",
-   "query": "A very low number",
+   "query": "Toyota 2000GT rear",
    "caption": "HAGERTY (MODEL STATS 1967\u201370): LOWEST RECORDED $2,150 (NO DATE / CHASSIS) \u00b7 844,000 \u00f7 2,150 = 392.6\u00d7 (OUR ARITHMETIC) \u00b7 CONTEXT UNKNOWN \u2192 DO NOT OVER-READ",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A very low number"
   },
   {
    "text": "A caution about every auction number in this video. Our sources do not say whether the prices include the buyer's premium, the fee an auction house adds to the winning bid. If they do not, the true cost of the Shelby car and the others was higher than reported. If they do, the figures stand. We cannot tell which applies to each result.",
-   "query": "Buyer's premium",
+   "query": "Shelby Cobra",
    "caption": "AUCTION PRICES (C&SC, SCM, HAGERTY): WHETHER BUYER'S PREMIUM IS INCLUDED \u2014 NOT STATED IN OUR SOURCES \u00b7 TRUE COST TO BUYER COULD BE HIGHER",
    "cuts": 3,
-   "chapter": "What the prices leave out"
+   "chapter": "What the prices leave out",
+   "orig_query": "Buyer's premium"
   },
   {
    "text": "Inflation matters here. Wikipedia converts the nineteen sixty-eight price of seven thousand one hundred fifty dollars to about sixty-six thousand one hundred ninety-seven dollars in twenty twenty-five money. By our arithmetic, Hagerty's typical value is twelve point seven times that, and the Shelby sale is thirty-eight times. Over fifty-seven years, that is about four and a half, and six and a half, percent a year after inflation.",
-   "query": "After inflation",
+   "query": "Shelby Cobra",
    "caption": "WIKIPEDIA (2000GT): $7,150 (1968) \u2248 $66,197 IN 2025 DOLLARS \u00b7 844,000 \u00f7 66,197 = 12.7\u00d7 \u00b7 2,535,000 \u00f7 66,197 = 38.3\u00d7 \u00b7 1968 \u2192 2025 = 57 YEARS \u00b7 12.7^(1/57) \u2212 1 = 4.6%/YR \u00b7 38.3^(1/57) \u2212 1 = 6.6%/YR (OUR ARITHMETIC; WIKIPEDIA'S INFLATION METHOD NOT STATED; 2025 vs 2026 PRICES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "After inflation"
   },
   {
    "text": "The sale in context helps. Classic and Sports Car says that at the Gooding Amelia Island sale, ninety-three of ninety-nine lots sold for sixty-nine million two hundred nine thousand four hundred eighty dollars. By our arithmetic, that is an average of about seven hundred forty-four thousand per lot, so the Toyota-Shelby cost three point four times the average car at a sale of expensive cars.",
-   "query": "A sale of expensive cars",
+   "query": "Shelby Cobra",
    "caption": "C&SC: 99 LOTS, 93 SOLD, $69,209,480 \u00b7 \u00f7 93 = $744,187 AVERAGE \u00b7 2,535,000 \u00f7 744,187 = 3.4\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A sale of expensive cars"
   },
   {
    "text": "Two other nineteen sixty-seven cars sold at that same sale for one million one hundred fifty-five thousand each. By our arithmetic, the Shelby car cost two point two times as much as they did, for the same model, because of its racing history. Its estimate had been even higher, two point seven five to three point five million, and it sold eight percent under the low end.",
-   "query": "Provenance premium",
+   "query": "Shelby Cobra",
    "caption": "C&SC: TWO OTHER 1967 CARS $1,155,000 EACH \u00b7 2,535,000 \u00f7 1,155,000 = 2.2\u00d7 \u00b7 ESTIMATE $2.75\u20133.5 M \u00b7 2.535 \u00f7 2.75 = 92.2% (\u22127.8%) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Provenance premium"
   },
   {
    "text": "A thought experiment, with a warning. If all three hundred fifty-one cars were worth Hagerty's typical eight hundred forty-four thousand, the total would be about two hundred ninety-six million dollars. Of course, not every car survives, and our sources do not say how many do. So treat this as an upper limit on a hypothetical, not a real market size.",
-   "query": "A hypothetical total",
+   "query": "Toyota 2000GT interior",
    "caption": "351 \u00d7 $844,000 = $296.2 M (OUR ARITHMETIC) \u00b7 SURVIVING CARS: NOT IN OUR SOURCES \u2192 UPPER BOUND ON A HYPOTHETICAL ONLY \u00b7 GOODING SALE TOTAL $69.2 M \u2248 23% OF IT",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A hypothetical total"
   },
   {
    "text": "Compare the Bonhams result too. The nine hundred ninety-five thousand nine hundred fifty-three dollars paid in September twenty twenty-three was eighteen percent above Hagerty's typical eight hundred forty-four thousand. So a good auction car can fetch more than the typical value. Hagerty does not say what condition that car was in, so we cannot explain the gap.",
-   "query": "Bonhams versus typical",
+   "query": "Toyota 2000GT rear",
    "caption": "HAGERTY: BONHAMS 9 SEP 2023 $995,953 \u00b7 995,953 \u00f7 844,000 = +18.0% (OUR ARITHMETIC) \u00b7 CONDITION OF THAT CAR: NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bonhams versus typical"
   },
   {
    "text": "BusinessDay's South African figures show a spread by condition. It values the restored car at about thirty million rand and says pristine ones have reached forty million. By our arithmetic, a pristine example is thirty-three percent above the typical value. So within a single market, condition separates prices by a third.",
-   "query": "Condition spread",
+   "query": "Toyota 2000GT engine",
    "caption": "BUSINESSDAY SA: R30 M TYPICAL vs UP TO R40 M PRISTINE \u00b7 40 \u00f7 30 = +33% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Condition spread"
   },
   {
    "text": "As for the car itself, BusinessDay says the engine makes one hundred ten kilowatts, which by our arithmetic is about one hundred fifty metric horsepower, close to Wikipedia's figure. It gives a top speed of two hundred fifteen kilometres an hour, about one hundred thirty-four miles an hour, and zero to one hundred in about ten seconds. You are not paying for speed.",
-   "query": "Not paying for speed",
+   "query": "Toyota 2000GT side",
    "caption": "BUSINESSDAY SA: 110 KW \u00d7 1.3596 = 149.6 PS \u00b7 175 NM \u00b7 0\u2013100 KM/H ~10 S \u00b7 215 KM/H = 133.6 MPH (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 150 PS, 135 MPH CLAIMED \u00b7 'NOT PAYING FOR SPEED' = OUR OPINION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Not paying for speed"
   },
   {
    "text": "So does a Toyota 2000GT cost more than a new Ferrari? On the evidence we have, a typical good car at about eight hundred forty-four thousand dollars costs more than every standard-range Ferrari on the two late twenty twenty-four lists, from the Roma to the SF90 Spider. It costs less than the track-focused SF90 XX, the Daytona SP3 and the F80.",
-   "query": "Verdict",
+   "query": "Toyota 2000GT front",
    "caption": "TYPICAL 2000GT $844,000 (HAGERTY) > ROMA ... SF90 SPIDER ($247K\u2013$590K) \u00b7 < SF90 XX $890K \u00b7 < SP3 $2.22 M \u00b7 < F80 $3.1 M \u00b7 LISTS FROM LATE 2024",
    "cuts": 3,
-   "chapter": "The verdict on the headline"
+   "chapter": "The verdict on the headline",
+   "orig_query": "Verdict"
   },
   {
    "text": "The best cars cost far more. The record Toyota-Shelby sold for two point five three five million, above the SP3 list price and below the F80. And all of this is a market price, not a worth. As Hagerty's own twelve-month figure of minus one point one percent shows, these prices can fall as well as rise.",
-   "query": "Top versus typical",
+   "query": "Shelby Cobra",
    "caption": "TOYOTA-SHELBY $2,535,000 (AUCTION, 2022) \u00b7 HAGERTY 12-MONTH \u22121.1% \u00b7 'MARKET PRICE, NOT WORTH' = OUR FRAMING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Top versus typical"
   },
   {
    "text": "Here is what we could not find. We have no current twenty twenty-six Ferrari prices. We have no insurance, storage or service costs for the Toyota. We have no restoration bills. We have no price for the film cars. We have no explanation for the Hagerty gap between nineteen sixty-seven and nineteen sixty-nine. And we have no data on how many 2000GTs are in private hands today.",
-   "query": "Gaps",
+   "query": "Toyota 2000GT interior",
    "caption": "NOT IN OUR SOURCES: 2026 FERRARI PRICES \u00b7 2000GT INSURANCE / STORAGE / SERVICE \u00b7 RESTORATION BILLS \u00b7 FILM CAR PRICES \u00b7 1967 vs 1969 VALUE GAP REASON \u00b7 CARS IN PRIVATE HANDS TODAY",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Gaps"
   },
   {
    "text": "The takeaway is simple. A car that lost money for Toyota in nineteen sixty-seven now costs more than most new Ferraris, because only three hundred fifty-one were built and the world kept wanting them. If this video was useful, subscribe to Pickup Reality, and tell us which exotic car's real cost you want us to check next.",
-   "query": "Subscribe",
+   "query": "Toyota 2000GT rear",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Subscribe"
   }
  ]
 }

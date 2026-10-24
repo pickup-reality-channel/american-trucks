@@ -6,312 +6,362 @@
  "scenes": [
   {
    "text": "The most famous car in cinema was not built the way you think. The original script gave Bond's Aston Martin only a smokescreen. The ejector seat was a compressed-air mock-up. The headlights that blind Bond in the film are reflections from a giant mirror. And the car that started it all has been missing since nineteen ninety-seven. Two secrets hidden inside the Aston Martin DB5, with every claim sourced.",
-   "query": "Aston Martin DB5",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "2 SECRETS HIDDEN INSIDE THE ASTON MARTIN DB5",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Aston Martin DB5"
   },
   {
    "text": "Our sources are Wikipedia's DB5 page, Top Gear, the James Bond Dossier, the Ecurie article on the Thunderball cars, Carole Nash, NBC News, CNN, Old Cars Weekly, InsideHook, an RM Sotheby's catalogue and a travel-site specification page. They disagree in places, and we show the disagreements. Our own arithmetic is labelled.",
-   "query": "Sources",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "SOURCES: WIKIPEDIA \u00b7 TOP GEAR \u00b7 JAMES BOND DOSSIER \u00b7 ECURIE \u00b7 CAROLE NASH \u00b7 NBC \u00b7 CNN \u00b7 OLD CARS WEEKLY \u00b7 INSIDEHOOK \u00b7 RM SOTHEBY'S \u00b7 007TRAVELERS \u00b7 DISAGREEMENTS SHOWN",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Sources"
   },
   {
    "text": "Secret one. The Bond Dossier says the initial Goldfinger script gave the DB5 only a smokescreen. The rest, the guns, the slashers, the ejector seat, grew out of the production. Top Gear says production designer Ken Adam sketched the car and discussed it with special effects supervisor John Stears. So the legend started as a single gadget and then multiplied.",
-   "query": "One gadget",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "JAMES BOND DOSSIER: INITIAL SCRIPT GAVE THE DB5 ONLY A SMOKESCREEN \u00b7 TOP GEAR (J. BARLOW, 27 SEP 2021): KEN ADAM SKETCHED THE CAR, DISCUSSED IT WITH SPECIAL EFFECTS SUPERVISOR JOHN STEARS",
    "cuts": 5,
-   "chapter": "Secret one: the gadgets were smaller than the legend"
+   "chapter": "Secret one: the gadgets were smaller than the legend",
+   "orig_query": "One gadget"
   },
   {
    "text": "Where did the ideas come from? Top Gear quotes Adam saying his frustration with parking damage to his own Jaguar influenced the design, including rear guns and bumpers that became like boxing gloves. The Bond Dossier says director Guy Hamilton proposed the revolving number plates after receiving parking tickets. Two gadgets, according to these sources, came from parking trouble.",
-   "query": "Parking trouble",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "TOP GEAR: ADAM'S PARKING-DAMAGE FRUSTRATION WITH HIS JAGUAR INFLUENCED REAR GUNS AND BOXING-GLOVE BUMPERS \u00b7 BOND DOSSIER: HAMILTON PROPOSED REVOLVING PLATES AFTER PARKING TICKETS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Parking trouble"
   },
   {
    "text": "The Bond Dossier says the tyre slashers were inspired by the scythed chariots in Ben-Hur. Carole Nash says Stears took inspiration for the machine guns and the bulletproof rear screen from the wings of a Second World War Spitfire. These are the sources' accounts of inspiration. We have no production notes of our own to confirm them, so we attribute each one.",
-   "query": "Inspirations",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: TYRE SLASHERS \u2190 SCYTHED CHARIOTS IN 'BEN-HUR' \u00b7 CAROLE NASH (26 SEP 2017): GUNS AND REAR SCREEN \u2190 WINGS OF A WWII SPITFIRE \u00b7 PRODUCTION NOTES: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Inspirations"
   },
   {
    "text": "The full gadget list in the Bond Dossier: a homer that tracks a target on a hidden screen, extending front bumpers that Adam designed but were never shown on screen, tyre slashers, a smokescreen, an oil slick, a bulletproof screen, revolving number plates, an ejector seat and front machine guns. By our count, that is nine items, and one of them never appeared in the film.",
-   "query": "The list",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: HOMER \u00b7 EXTENDING BUMPERS (NEVER SHOWN ON SCREEN; ON THE CORGI MODEL) \u00b7 TYRE SLASHERS \u00b7 SMOKESCREEN \u00b7 OIL SLICK \u00b7 BULLETPROOF SCREEN \u00b7 REVOLVING PLATES \u00b7 EJECTOR SEAT \u00b7 FRONT MACHINE GUNS = 9 (OUR COUNT)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The list"
   },
   {
    "text": "The oil slick had an earlier idea. The Bond Dossier says dropping nails was abandoned because it was too easy to copy. In the film, according to the same article, the oil slick sends a pursuing Mercedes over a cliff, and the smokescreen blinds another Mercedes, which crashes into a tree. We take the article's word for what the film shows.",
-   "query": "Oil and nails",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: NAILS IDEA DROPPED AS TOO EASY TO COPY \u00b7 OIL SLICK SENDS A MERCEDES OVER A CLIFF \u00b7 SMOKESCREEN \u2192 MERCEDES HITS A TREE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Oil and nails"
   },
   {
    "text": "Now the ejector seat. The Bond Dossier says Adam stated the device came from a jet fighter and was fully functional, though the filming used a compressed-air mock-up. So the seat in the film was not the real thing. Those two statements sit side by side in the article, and we report both. Whether a working seat was ever installed is not settled by our sources.",
-   "query": "The ejector seat",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: ADAM \u2014 THE DEVICE CAME FROM A JET FIGHTER AND WAS FULLY FUNCTIONAL \u00b7 FILMING USED A COMPRESSED-AIR MOCK-UP \u00b7 WHETHER A WORKING SEAT WAS EVER FITTED: NOT SETTLED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The ejector seat"
   },
   {
    "text": "The machine guns have their own secret. The Bond Dossier says they fire from behind the headlights, but the lights that blind Bond in the film are reflections from a giant mirror. It is a piece of film trickery rather than a car feature. Top Gear scored the DB5 ten out of ten for gadgets, which is its opinion of the car, not a measurement.",
-   "query": "The mirror",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: GUNS FIRE FROM BEHIND THE HEADLIGHTS; THE 'LIGHTS' THAT BLIND BOND ARE REFLECTIONS FROM A GIANT MIRROR \u00b7 TOP GEAR SCORE: GADGETS 10/10 (OPINION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The mirror"
   },
   {
    "text": "How long did the conversion take? Top Gear says a small team converted the car in six weeks, using pneumatics, hydraulics and acetylene and oxygen tanks. A crew member had to squeeze into the boot to trigger the smoke screen. The Bond Dossier also says Stears tricked out the car over six weeks. Two sources, one figure.",
-   "query": "Six weeks",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "TOP GEAR: CONVERTED IN SIX WEEKS WITH PNEUMATICS, HYDRAULICS, ACETYLENE AND OXYGEN TANKS; A CREW MEMBER IN THE BOOT TRIGGERED THE SMOKE SCREEN \u00b7 BOND DOSSIER: STEARS, SIX WEEKS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Six weeks"
   },
   {
    "text": "The Ecurie article lists the gadgets fitted to the first Bond car: hydraulic over-rider rams front and rear, a Browning thirty-calibre machine gun in each front wing, tyre slashers in the wheel hubs, a retractable rear screen, a radar-tracking scope in the dash, dispensers for oil, caltrops and smoke, revolving plates and an ejection system for the passenger seat.",
-   "query": "The first car's kit",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "ECURIE: HYDRAULIC OVER-RIDER RAMS \u00b7 BROWNING .30 CAL IN EACH FRONT WING \u00b7 WHEEL-HUB TYRE SLASHERS \u00b7 RETRACTABLE REAR BULLETPROOF SCREEN \u00b7 IN-DASH RADAR-TRACKING SCOPE \u00b7 OIL / CALTROP / SMOKE DISPENSERS \u00b7 REVOLVING PLATES \u00b7 PASSENGER-SEAT EJECTION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The first car's kit"
   },
   {
    "text": "Ecurie adds two things fitted but not used on screen: a driver's door telephone to MI6 and a hidden weapons compartment under the driver's seat. It also says the first car's gadgets were basic, built only to work for one take. So the legendary car was, in its first form, a film prop designed to work once.",
-   "query": "Unused kit",
+   "query": "Aston Martin DB5 engine",
    "caption": "ECURIE: ALSO FITTED, NOT USED ON SCREEN \u2014 DRIVER'S DOOR TELEPHONE TO MI6; HIDDEN WEAPONS COMPARTMENT UNDER THE DRIVER'S SEAT \u00b7 FIRST CAR'S GADGETS 'BASIC, BUILT ONLY TO WORK FOR ONE TAKE'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Unused kit"
   },
   {
    "text": "Even the Carole Nash article mentions that a stunt car, labelled FMP seven B, had its German ZF gearbox fail during filming in Switzerland, so it was useless for a high-speed chase. The car the film made famous was therefore supported by a stunt car with a broken gearbox. That is one article's account, and the other sources do not repeat it.",
-   "query": "A broken gearbox",
+   "query": "Aston Martin DB5",
    "caption": "CAROLE NASH: STUNT CAR FMP 7B \u2014 ZF GEARBOX FAILED DURING FILMING IN SWITZERLAND \u00b7 OTHER SOURCES DO NOT REPEAT THIS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A broken gearbox"
   },
   {
    "text": "Secret two is about the cars themselves. Most people picture one DB5. Wikipedia says four were made for Goldfinger: two used in filming and two for promotion. Ecurie says Eon wanted two near-identical cars, a lightweight stunt car and a car with Stears' gadgetry for interior shots. The number depends on whether you count the Thunderball cars.",
-   "query": "Four cars",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: GOLDFINGER \u2014 4 DB5s MADE (2 FILMING, 2 PROMOTION) \u00b7 ECURIE: EON WANTED 2 NEAR-IDENTICAL CARS (STUNT + GADGET) \u00b7 COUNT DEPENDS ON WHETHER THUNDERBALL CARS ARE INCLUDED",
    "cuts": 3,
-   "chapter": "Secret two: which cars were which"
+   "chapter": "Secret two: which cars were which",
+   "orig_query": "Four cars"
   },
   {
    "text": "The first Bond car was a DB5 prototype, chassis prefix DP slash two sixteen slash one, finished in Snow Shadow Grey, says Ecurie. Wikipedia says it was Dubonnet Red, fitted with gadgets and later stripped. Those descriptions conflict. We show both and do not decide which is right, since neither source gives a photograph or a build sheet.",
-   "query": "Colour conflict",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "ECURIE: DP/216/1 \u2014 SNOW SHADOW GREY \u00b7 WIKIPEDIA: DP/216/1 \u2014 DUBONNET RED \u00b7 BUILD SHEET / PHOTO: NOT IN OUR SOURCES \u2192 CONFLICT SHOWN, NOT RESOLVED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Colour conflict"
   },
   {
    "text": "Wikipedia says that car later appeared in The Cannonball Run in nineteen eighty-one, and was stolen in nineteen ninety-seven. It says the car was reported missing in twenty twenty-one. Carole Nash says it was stolen in Florida in nineteen ninety-seven, after being stripped of its gadgets and sold, with later owners fitting non-original weaponry. NBC says many believe it was destroyed.",
-   "query": "Missing since 1997",
+   "query": "Aston Martin DB5 rear",
    "caption": "WIKIPEDIA: DP/216/1 IN THE CANNONBALL RUN (1981); STOLEN 1997; REPORTED MISSING 2021 \u00b7 CAROLE NASH: STOLEN IN FLORIDA 1997 \u00b7 NBC: 'MANY BELIEVE IT WAS DESTROYED'",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Missing since 1997"
   },
   {
    "text": "By our arithmetic, the car has been missing for twenty-nine years as of this year, nineteen ninety-seven to twenty twenty-six. It was the original, the car that Connery drove, if the sources are right about its identity. Whether it is still out there is something no source can tell us, and we will not guess.",
-   "query": "29 years",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "2026 \u2212 1997 = 29 YEARS (OUR ARITHMETIC) \u00b7 CURRENT WHEREABOUTS: UNKNOWN IN ALL OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "29 years"
   },
   {
    "text": "A second car adds a twist. Wikipedia says filming car DB5 slash fourteen eighty-six slash R had no gadgets during shooting. Gadgets were added afterwards for promotion, and it sold at RM Auctions in twenty ten for four point six million dollars. Ecurie says it was originally unmodified and had the gadgets added later. So the car many remember as the Bond car was a plain car in the film.",
-   "query": "The plain car",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: DB5/1486/R \u2014 NO GADGETS DURING SHOOTING; GADGETS ADDED AFTERWARDS FOR PROMOTION; RM AUCTIONS 2010, $4.6 M \u00b7 ECURIE: 1486/R ORIGINALLY UNMODIFIED, GADGETS ADDED LATER",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The plain car"
   },
   {
    "text": "The price of that sale is itself disputed. Wikipedia and InsideHook say four point six million dollars. NBC News reported two point six million pounds, or four point one million dollars, at RM in London, with an estimate above three and a half million pounds, bought by Harry Yeaggy of Ohio. By our arithmetic, the gap is about eleven percent.",
-   "query": "Price conflict",
+   "query": "Aston Martin DB5",
    "caption": "WIKIPEDIA / INSIDEHOOK: $4.6 M (2010) \u00b7 NBC: \u00a32.6 M ($4.1 M), EST. > \u00a33.5 M ($5.5 M), BUYER HARRY YEAGGY, RM LONDON \u00b7 $4.6 M vs $4.1 M = 11% GAP (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Price conflict"
   },
   {
    "text": "NBC describes the car as silver, first driven by Sean Connery in Goldfinger and also used in Thunderball. It says the car came with a signed photo of Connery in Switzerland and film memorabilia. It also says Yeaggy might display it publicly in a city like Los Angeles or Moscow. Those plans, from 2010, are a statement of intent, not a record of where the car went.",
-   "query": "The buyer's plans",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "NBC: SILVER DB5 \u00b7 SIGNED PHOTO OF CONNERY IN SWITZERLAND \u00b7 HARRY YEAGGY \u2014 POSSIBLE PUBLIC DISPLAY (LOS ANGELES / MOSCOW) \u00b7 WHERE THE CAR IS TODAY: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The buyer's plans"
   },
   {
    "text": "Then comes the Thunderball pair. Ecurie says Eon ordered two more DB5s for Thunderball: chassis two thousand eight slash R, the featured car, and two thousand seventeen slash R. Both had Adam's modifications installed by Aston Martin to work repeatedly, and they were sent to the United States, one to each coast, for promotion.",
-   "query": "Thunderball cars",
+   "query": "Aston Martin DB5 interior",
    "caption": "ECURIE: EON ORDERED 2 MORE DB5s \u2014 DB5/2008/R (FEATURED) AND DB5/2017/R \u00b7 ADAM'S MODIFICATIONS INSTALLED TO WORK REPEATEDLY \u00b7 SENT TO THE U.S., ONE EAST COAST, ONE WEST",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Thunderball cars"
   },
   {
    "text": "Ecurie says 2017/R was a pace car at Laguna Seca, driven by Jackie Stewart. CNN says the other car was one of two built in nineteen sixty-five for a U.S. tour promoting Thunderball and has had three owners in over fifty years. Old Cars Weekly says the same car, 2008/R, is one of three surviving James Bond DB5s.",
-   "query": "Tour cars",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "ECURIE: 2017/R \u2014 PACE CAR AT LAGUNA SECA DRIVEN BY JACKIE STEWART \u00b7 CNN: 2008/R \u2014 ONE OF 2 BUILT IN 1965 FOR A U.S. THUNDERBALL TOUR; 3 OWNERS IN 50+ YEARS \u00b7 OLD CARS WEEKLY: ONE OF 3 SURVIVING BOND DB5s",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tour cars"
   },
   {
    "text": "That car's journey: Ecurie says Danjaq, Eon's Swiss financier, offered the cars for sale in nineteen sixty-nine, and Anthony Bamford bought both. B. H. Atchley of the Smokey Mountain Car Museum in Tennessee later bought 2008/R, and displayed it for thirty-five years in a bolted wire-mesh cage, started regularly. RM Auctions offered it in two thousand six.",
-   "query": "The cage",
+   "query": "Aston Martin DB12 interior",
    "caption": "ECURIE: DANJAQ SOLD CARS 1969; ANTHONY BAMFORD BOUGHT BOTH; B.H. ATCHLEY (SMOKEY MOUNTAIN CAR MUSEUM, TN) DISPLAYED 2008/R FOR 35 YEARS IN A BOLTED WIRE-MESH CAGE, STARTED REGULARLY; RM AUCTIONS OFFERED IT 2006",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The cage"
   },
   {
    "text": "Then the restoration. Roos Engineering in Switzerland restored the car, and Ecurie says all thirteen Adam modifications were refurbished. Old Cars Weekly says the gadgetry was shown working at the Monterey presentation in August twenty nineteen. RM Sotheby's sold it for six million three hundred eighty-five thousand dollars. Six parties bid over four and a half minutes.",
-   "query": "Sold for $6.4 M",
+   "query": "Aston Martin DB5 engine",
    "caption": "ECURIE: ROOS ENGINEERING (SWITZERLAND) \u2014 ALL 13 ADAM MODIFICATIONS REFURBISHED \u00b7 OLD CARS WEEKLY: $6,385,000, RM SOTHEBY'S MONTEREY, AUG 2019; 6 BIDDERS OVER 4.5 MIN; GADGETS SHOWN WORKING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Sold for $6.4 M"
   },
   {
    "text": "CNN, covering the same sale, gives the pre-sale estimate as four to six million dollars, and the final as six point four. By our arithmetic, the result was sixty percent above the low estimate and about seven percent above the high one. CNN also says the car had a Browning thirty-caliber machine gun in each fender, which matches Ecurie's list.",
-   "query": "Versus the estimate",
+   "query": "Aston Martin DB5",
    "caption": "CNN: ESTIMATE $4\u20136 M; SOLD $6.4 M \u00b7 $6.4 \u00f7 $4 = +60%; $6.4 \u00f7 $6 = +6.7% (OUR ARITHMETIC) \u00b7 BROWNING .30 CAL IN EACH FENDER (CONSISTENT WITH ECURIE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Versus the estimate"
   },
   {
    "text": "Why does any of this matter? The Bond Dossier says Aston Martin sales reportedly rose almost fifty percent after the film's release. The word reportedly matters: the article does not give the sales figures behind it. Carole Nash adds that the Corgi toy version became the biggest-selling toy of nineteen sixty-four. Neither claim comes with a table of numbers in our sources.",
-   "query": "The sales effect",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "BOND DOSSIER: ASTON MARTIN SALES 'REPORTEDLY' UP ALMOST 50% AFTER THE FILM \u00b7 CAROLE NASH: CORGI DB5 = BIGGEST-SELLING TOY OF 1964 \u00b7 UNDERLYING SALES FIGURES: NOT IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "What the film did for the car"
+   "chapter": "What the film did for the car",
+   "orig_query": "The sales effect"
   },
   {
    "text": "The road car was real. Wikipedia says 1,059 DB5 coupes and convertibles were built between nineteen sixty-three and nineteen sixty-five, including one hundred twenty-three convertibles. Sixty-five were Vantage coupes, with three Weber carburettors and three hundred twenty-five horsepower. By our arithmetic, the four Goldfinger cars were less than half a percent of the production run.",
-   "query": "The real production",
+   "query": "Aston Martin DB5 Volante",
    "caption": "WIKIPEDIA: 1,059 BUILT 1963\u201365 \u00b7 123 CONVERTIBLES \u00b7 65 VANTAGE COUP\u00c9S (325 BHP) \u00b7 4 \u00f7 1,059 = 0.38% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The real production"
   },
   {
    "text": "The film cars were so unrepresentative that the real DB5 was a gentler machine. Wikipedia lists a four-litre inline six making two hundred eighty-two brake horsepower at fifty-five hundred revs, a top speed of one hundred forty-five miles per hour and zero to sixty in eight seconds. Carole Nash notes the car had electric windows and a magnesium-alloy body, and full leather trim.",
-   "query": "The real car",
+   "query": "Aston Martin DB5 rear",
    "caption": "WIKIPEDIA: 4.0 L I6, 282 BHP @ 5,500, 145 MPH, 0\u201360 IN 8 S \u00b7 CAROLE NASH: CHROME WIRE WHEELS, MAGNESIUM-ALLOY BODY, FULL LEATHER TRIM, ELECTRIC WINDOWS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The real car"
   },
   {
    "text": "Specs vary by source. Wikipedia gives a kerb weight of fifteen hundred two kilograms and a width of sixteen eighty millimetres. A travel-site specification page gives fourteen sixty-five kilograms and fifteen eighty. Its zero to one hundred is eight point one seconds, against Wikipedia's zero to sixty in eight. These are small differences, but they show how loosely old-car figures are quoted.",
-   "query": "Spec conflicts",
+   "query": "Aston Martin DB12 interior",
    "caption": "WIKIPEDIA: 1,502 KG, W 1,680 MM, 0\u201360 MPH 8 S \u00b7 007TRAVELERS: 1,465 KG, W 1,580 MM, 0\u2013100 KM/H 8.1 S \u00b7 DIFFERENCE 37 KG (2.5%) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Spec conflicts"
   },
   {
    "text": "Power figures vary too. Wikipedia's text says two hundred eighty-two brake horsepower, while it also mentions a net figure of two hundred ten. The 007 Travelers page says one hundred forty-seven miles per hour, per the company, and a writer there notes that carmakers of the era often exaggerated. That is the writer's opinion, but it is a useful caution.",
-   "query": "Power conflicts",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: 282 BHP (TEXT); NET 210 BHP ALSO GIVEN \u00b7 AUTO123 (27 DEC 2011): 147 MPH PER THE COMPANY; WRITER NOTES ERA EXAGGERATION (OPINION) \u00b7 WIKIPEDIA TOP SPEED 145 MPH",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Power conflicts"
   },
   {
    "text": "What did a DB5 cost new? The RM Sotheby's catalogue for a nineteen sixty-four car says four thousand one hundred seventy-five pounds at launch. The 007 Travelers page agrees, listing four thousand one hundred seventy-five in nineteen sixty-three. The auto123 article says four thousand two hundred forty-eight pounds. That is a seventy-three pound difference, about one point seven percent, by our arithmetic.",
-   "query": "New price",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "RM SOTHEBY'S (LONDON 2022, LOT 146) + 007TRAVELERS: \u00a34,175 \u00b7 AUTO123: \u00a34,248 \u00b7 DIFFERENCE \u00a373 = 1.7% (OUR ARITHMETIC) \u00b7 WHICH ONE IS RIGHT: NOT SETTLED IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "The price when new"
+   "chapter": "The price when new",
+   "orig_query": "New price"
   },
   {
    "text": "The 007 Travelers page also lists a price of two hundred thousand pounds in two thousand six. By our arithmetic, that is forty-eight times the launch price of four thousand one hundred seventy-five. Then the Hagerty guide, in April twenty twenty-five, shows six hundred fifty-nine thousand dollars with a ten point two percent rise over the period. That page does not say which condition the figure is for.",
-   "query": "Value over time",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "007TRAVELERS: \u00a3200,000 (2006) \u00b7 \u00a3200,000 \u00f7 \u00a34,175 = 47.9\u00d7 (OUR ARITHMETIC) \u00b7 HAGERTY (APR 2025): $659,000, +10.2% (07/24\u2013APR 2025); CONDITION NOT LABELLED; SAME PAGE ALSO CITES ~$860,667 FOR A GOOD-CONDITION AVERAGE-SPEC CAR",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Value over time"
   },
   {
    "text": "And the Top Gear piece from September twenty twenty-one says a fully restored DB5 is worth about a million dollars. The auto123 article in twenty eleven said a good used DB5 was close to two hundred fifty thousand dollars. By our arithmetic, that is a four-fold rise between those two statements, though they come from different outlets and describe cars of different condition.",
-   "query": "Four-fold?",
+   "query": "Aston Martin DB5 interior",
    "caption": "TOP GEAR (2021): FULLY RESTORED ~ $1 M \u00b7 AUTO123 (2011): GOOD USED ~ $250,000 \u00b7 $1 M \u00f7 $250,000 = 4\u00d7 (OUR ARITHMETIC; DIFFERENT OUTLETS AND CONDITIONS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Four-fold?"
   },
   {
    "text": "The newest film connection is No Time to Die. Wikipedia says eight replica stunt cars were built for it, and one stunt car sold for two point nine two million pounds at a twenty twenty-two charity auction. That is a car built for a film in the twenty-first century, selling for more than most original DB5s, by our reading of the figures above.",
-   "query": "A stunt car",
+   "query": "Aston Martin DB5 rear",
    "caption": "WIKIPEDIA: NO TIME TO DIE \u2014 8 REPLICA STUNT CARS; ONE SOLD \u00a32.92 M AT A 2022 CHARITY AUCTION \u00b7 'MORE THAN MOST ORIGINAL DB5s' = OUR COMPARISON WITH THE HAGERTY $659,000 FIGURE",
    "cuts": 3,
-   "chapter": "The film cars today"
+   "chapter": "The film cars today",
+   "orig_query": "A stunt car"
   },
   {
    "text": "There is also the continuation series. Wikipedia says Aston Martin built twenty-five Goldfinger-themed cars, with the first off the line in early July twenty twenty, at an intended price of about two point seven five million pounds. The continuation cars use two hundred ninety brake horsepower, according to Wikipedia. We could not find more detail on the series, so we stop there.",
-   "query": "Continuation",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "WIKIPEDIA: 25 GOLDFINGER-THEMED CONTINUATION CARS \u00b7 FIRST OFF THE LINE EARLY JULY 2020 \u00b7 ~\u00a32.75 M EACH \u00b7 290 BHP \u00b7 FURTHER DETAIL: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Continuation"
   },
   {
    "text": "One more auction. InsideHook, in June twenty eighteen, wrote about the GoldenEye DB5 headed to Bonhams at Goodwood, with an expert's projection of three to five million dollars. The article says that car sold in two thousand one for two hundred ten thousand six hundred dollars, then a record. By our arithmetic, that is a rise of more than thirteen to twenty-three times, depending on the final price.",
-   "query": "The GoldenEye car",
+   "query": "Aston Martin DB5 engine",
    "caption": "INSIDEHOOK (15 JUN 2018): GOLDENEYE DB5 AT BONHAMS (GOODWOOD) \u2014 EXPERT PROJECTION $3\u20135 M; 2001 SALE $210,600 \u00b7 $3 M \u00f7 $210,600 = 14.2\u00d7; $5 M \u00f7 $210,600 = 23.7\u00d7 (OUR ARITHMETIC; FINAL 2018 PRICE NOT IN OUR SOURCES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The GoldenEye car"
   },
   {
    "text": "Not every DB5 is a movie car, and the ordinary ones have their own records. RM Sotheby's London catalogued a nineteen sixty-four DB5, chassis fourteen oh six slash R, built on the twenty-first of January and dispatched on the seventh of February nineteen sixty-four. It was restored in twenty fifteen and twenty sixteen by specialists Pugsley and Lewis, with a bare-metal respray in Goodwood Green.",
-   "query": "A road car",
+   "query": "Aston Martin DB5",
    "caption": "RM SOTHEBY'S LONDON 2022, LOT 146: DB5/1406/R \u00b7 BUILT 21 JAN 1964 \u00b7 DISPATCHED 7 FEB 1964 \u00b7 RESTORED 2015\u201316 BY PUGSLEY AND LEWIS \u00b7 BARE-METAL RESPRAY IN GOODWOOD GREEN",
    "cuts": 3,
-   "chapter": "Ordinary DB5s and what they sell for"
+   "chapter": "Ordinary DB5s and what they sell for",
+   "orig_query": "A road car"
   },
   {
    "text": "The catalogue says the matching-numbers six-cylinder engine was rebuilt, along with the rear axle, and the interior retrimmed in tan leather. Later work at Clayton Classics added a high-output alternator, LED headlamps, electronic ignition and a twin-evaporator air-conditioning system. So an ordinary restored DB5 can carry modern conveniences that the factory never fitted.",
-   "query": "Modern upgrades",
+   "query": "Aston Martin DB12",
    "caption": "RM SOTHEBY'S LOT 146: ENGINE + REAR AXLE REBUILT \u00b7 TAN LEATHER RETRIM \u00b7 CLAYTON CLASSICS \u2014 HIGH-OUTPUT ALTERNATOR, LED HEADLAMPS, ELECTRONIC IGNITION, TWIN-EVAPORATOR A/C",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Modern upgrades"
   },
   {
    "text": "The estimate was six hundred twenty-five to six hundred seventy-five thousand pounds, or eight hundred fifty to nine hundred thousand dollars, and the car is listed as not sold. By our arithmetic, the midpoint of the estimate is six hundred fifty thousand pounds, close to the Hagerty guide's six hundred fifty-nine thousand dollars, though one is pounds and the other dollars.",
-   "query": "Not sold",
+   "query": "Aston Martin DB5 interior",
    "caption": "RM SOTHEBY'S LOT 146: ESTIMATE \u00a3625,000\u2013675,000 ($850,000\u2013900,000); NOT SOLD \u00b7 MIDPOINT \u00a3650,000 (OUR ARITHMETIC) \u00b7 HAGERTY APR 2025: $659,000 \u2014 DIFFERENT CURRENCIES, NOT A LIKE-FOR-LIKE COMPARISON",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Not sold"
   },
   {
    "text": "The same catalogue says the car was owned by Prince Sadruddin Aga Khan, who bought it in nineteen eighty-eight and kept it about ten years. It also says an export licence is required if the car leaves the UK. Provenance and paperwork, in other words, are part of what a buyer pays for, and part of what limits who can buy.",
-   "query": "Provenance",
+   "query": "Aston Martin DB5 rear",
    "caption": "RM SOTHEBY'S LOT 146: PRINCE SADRUDDIN AGA KHAN OWNED IT FROM 1988 FOR ABOUT 10 YEARS \u00b7 EXPORT LICENCE REQUIRED IF IT LEAVES THE UK \u00b7 'WHAT A BUYER PAYS FOR' = OUR READING",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Provenance"
   },
   {
    "text": "Then the rare body styles. Wikipedia says there was one factory shooting brake prototype for David Brown, and eleven or twelve coupes modified by Harold Radford, with the infobox listing thirteen. The Monterey nineteen sixty-five shooting brake sold for one point seven six five million dollars, against an estimate of one to one point four million, according to Old Cars Weekly.",
-   "query": "Shooting brake",
+   "query": "Aston Martin DB12 interior",
    "caption": "WIKIPEDIA: 1 FACTORY PROTOTYPE + 11 OR 12 RADFORD CONVERSIONS (INFOBOX: 13) \u00b7 OLD CARS WEEKLY: MONTEREY 2019 \u2014 $1,765,000 vs ESTIMATE $1\u20131.4 M; ONE OF 12; 3 PRIVATE OWNERS; RECORD FOR A SHOOTING-BRAKE BODY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Shooting brake"
   },
   {
    "text": "By our arithmetic, the shooting brake beat the top of its estimate by about twenty-six percent. And it sold for roughly two and three-quarter times the Hagerty figure for a standard DB5. The page that quotes the Hagerty price does not give the condition, so this is only a rough scale. Rarity, not just the badge, drives these prices.",
-   "query": "Rarity premium",
+   "query": "Aston Martin DB5 engine",
    "caption": "$1.765 M \u00f7 $1.4 M = +26.1% \u00b7 $1.765 M \u00f7 $659,000 = 2.7\u00d7 (OUR ARITHMETIC; HAGERTY CONDITION NOT LABELLED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Rarity premium"
   },
   {
    "text": "There is also the cost of getting one right. Wikipedia mentions a nineteen sixty-five Vantage restored over three years and two and a half thousand hours at a cost of four hundred thousand pounds. It was bought second-hand for nine hundred pounds in nineteen seventy-three. By our arithmetic, that is one hundred sixty pounds for every hour of work.",
-   "query": "A restoration",
+   "query": "Aston Martin DB5",
    "caption": "WIKIPEDIA: 1965 VANTAGE RESTORED OVER 3 YEARS, 2,500 HOURS, \u00a3400,000 \u00b7 BOUGHT 1973 FOR \u00a3900 \u00b7 \u00a3400,000 \u00f7 2,500 = \u00a3160/HR (OUR ARITHMETIC) \u00b7 ESTIMATED VALUE AFTER RESTORATION \u00a31 M",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "A restoration"
   },
   {
    "text": "By our arithmetic again, the restoration cost was four hundred forty-four times the purchase price of nine hundred pounds, and the post-restoration estimate of one million pounds is about eleven hundred times the original purchase price. Those are striking ratios, but they combine costs and values from different decades, so treat them as curiosities.",
-   "query": "Ratios",
+   "query": "Aston Martin DB12",
    "caption": "\u00a3400,000 \u00f7 \u00a3900 = 444\u00d7 \u00b7 \u00a31,000,000 \u00f7 \u00a3900 = 1,111\u00d7 (OUR ARITHMETIC; 1973 PRICE vs RECENT COST AND ESTIMATE \u2014 NOT INFLATION-ADJUSTED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ratios"
   },
   {
    "text": "Let us line up the film cars by what the sources say. The first gadget car, missing since nineteen ninety-seven. The plain filming car, sold in twenty ten for four point six million dollars. The Thunderball promotional car, sold in twenty nineteen for six point four. And the stunt replica from the latest film, sold in twenty twenty-two for two point nine two million pounds.",
-   "query": "Film-car results",
+   "query": "Aston Martin DB5 interior",
    "caption": "WIKIPEDIA / CNN / OLD CARS WEEKLY: DP/216/1 MISSING SINCE 1997 \u00b7 1486/R $4.6 M (2010) \u00b7 2008/R $6.385 M (2019) \u00b7 NTTD STUNT CAR \u00a32.92 M (2022)",
    "cuts": 3,
-   "chapter": "Putting the numbers together"
+   "chapter": "Putting the numbers together",
+   "orig_query": "Film-car results"
   },
   {
    "text": "By our arithmetic, the nineteen sixty-five car's price was thirty-nine percent above the two thousand ten sale, in nominal dollars. Nine years separated them. Adjusting for inflation is beyond what our sources provide, so we leave the figure nominal. The cars also differ: one was modified after filming, the other was built with its gadgets from new.",
-   "query": "Nine years apart",
+   "query": "Aston Martin DB5 rear",
    "caption": "$6.385 M \u00f7 $4.6 M = 1.39 \u2192 +38.8% (OUR ARITHMETIC; NOMINAL DOLLARS; 2010 \u2192 2019 = 9 YEARS) \u00b7 INFLATION DATA: NOT IN OUR SOURCES \u00b7 2008/R GADGETS FROM NEW; 1486/R ADDED LATER (ECURIE; OLD CARS WEEKLY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Nine years apart"
   },
   {
    "text": "A last comparison with the standard car. Six point three eight five million dollars divided by the Hagerty figure of six hundred fifty-nine thousand is about nine point seven. By our arithmetic, the Bond provenance was worth roughly nine and a half standard DB5s in that comparison. The Hagerty condition is unlabelled, so this is only a rough multiple.",
-   "query": "The Bond premium",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "$6.385 M \u00f7 $659,000 = 9.7\u00d7 (OUR ARITHMETIC; HAGERTY CONDITION UNLABELLED; DIFFERENT YEARS 2019 vs 2025)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The Bond premium"
   },
   {
    "text": "The chase scenes were shot over about five months. Top Gear says the night-time chase filming began on the ninth of March nineteen sixty-four at Black Park, next to Pinewood, and Connery's last scene was shot there on the twenty-first of July. The last pick-up shots were filmed on the twelfth of August, the day Ian Fleming died.",
-   "query": "The shoot",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "TOP GEAR: CHASE FILMING BEGAN 9 MAR 1964 (BLACK PARK, 500 ACRES NEXT TO PINEWOOD) \u00b7 CONNERY'S LAST SCENE 21 JULY \u00b7 LAST PICK-UPS 12 AUG 1964, THE DAY FLEMING DIED \u00b7 9 MAR \u2192 12 AUG \u2248 5 MONTHS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "The shoot"
   },
   {
    "text": "What is missing. The whereabouts of the first gadget car. A reconciled colour for it. The exact cost of building the gadgets. The final price of the GoldenEye car. A reconciled launch price. A neutral, dated source for the almost fifty percent sales claim. If you hold a primary document for any of these, add it in the comments and we will credit it.",
    "query": "Aston Martin DB5",
    "caption": "NOT IN OUR SOURCES: WHEREABOUTS OF DP/216/1 \u00b7 COLOUR CONFLICT \u00b7 GADGET BUILD COST \u00b7 GOLDENEYE CAR FINAL PRICE \u00b7 LAUNCH PRICE (\u00a34,175 vs \u00a34,248) \u00b7 SOURCE FOR ~50% SALES RISE",
    "cuts": 3,
-   "chapter": "What the sources do not say"
+   "chapter": "What the sources do not say",
+   "orig_query": "Aston Martin DB5"
   },
   {
    "text": "So the two secrets are these. The gadgets began as a single smokescreen and grew through the production, with some of the most famous tricks done by mirror and compressed air. And the car you picture is several different cars, one of them missing for twenty-nine years. In the other videos this week we compare the DB5 with the DB12, count its cost, and tell the Bond story. Subscribe to Pickup Reality.",
-   "query": "Aston Martin DB5",
+   "query": "Aston Martin DB5 James Bond",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Aston Martin DB5"
   }
  ]
 }

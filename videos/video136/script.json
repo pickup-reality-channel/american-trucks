@@ -9,272 +9,316 @@
    "query": "Bugatti Veyron",
    "caption": "WHY THE BUGATTI VEYRON ALMOST NEVER HAPPENED",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "We read Wikipedia's pages on the Veyron, the Chiron, the EB one ten and Bugatti Automobiles, Motor One's twenty-year feature, Top Gear, Car magazine, and Jalopnik. When two sources give different dates or numbers, we show both. Where we do the arithmetic, we label it as ours. And where a claim is a quote, we say who said it.",
-   "query": "Bugatti Veyron story",
+   "query": "Bugatti Chiron",
    "caption": "SOURCES: WIKIPEDIA \u00b7 MOTOR1 \u00b7 TOP GEAR \u00b7 CAR MAGAZINE \u00b7 JALOPNIK \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Bugatti Veyron story"
   },
   {
    "text": "The story starts with an earlier failure. Wikipedia says Romano Artioli's side paid for the Bugatti brand on the eleventh of May, nineteen eighty-seven, and founded Bugatti Automobili in Italy on the fourteenth of October. The brand had been absent from the car industry for nearly forty years, since nineteen fifty-two. The result was the EB one ten, unveiled on the fourteenth of September, nineteen ninety-one, near Paris.",
-   "query": "Bugatti EB110",
+   "query": "Bugatti Veyron interior",
    "caption": "BRAND BOUGHT MAY 11, 1987 \u00b7 BUGATTI AUTOMOBILI FOUNDED OCT 14, 1987 \u00b7 EB110 UNVEILED SEPT 14, 1991 \u00b7 BRAND ABSENT SINCE 1952 (WIKIPEDIA)",
    "cuts": 5,
-   "chapter": "A brand that had already failed"
+   "chapter": "A brand that had already failed",
+   "orig_query": "Bugatti EB110"
   },
   {
    "text": "The EB one ten was quick. Wikipedia lists the GT at five hundred sixty metric horsepower, zero to one hundred in three point four six seconds, and a top speed of three hundred forty-two kilometres per hour, and the Super Sport at six hundred twelve, three point two six seconds and three hundred fifty-five. A hundred and thirty-nine were built. By our arithmetic, that is less than a third of the four hundred fifty Veyrons that came later.",
-   "query": "Bugatti EB110 performance",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "GT 560 PS / 342 KM/H / 0\u2013100 IN 3.46 s \u00b7 SUPER SPORT 612 PS / 355 KM/H / 3.26 s \u00b7 139 BUILT (WIKIPEDIA) \u00b7 139 \u00f7 450 = 31% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti EB110 performance"
   },
   {
    "text": "It did not last. Wikipedia says production ran from nineteen ninety-one until nineteen ninety-five, when the company was liquidated. The causes it cites are Artioli's purchase of Lotus Cars for about thirty million pounds, or fifty million dollars, spending on the EB one twelve four-door saloon, and missed supplier payments since nineteen ninety-three. So a revived Bugatti had gone bankrupt within four years of its launch.",
-   "query": "Bugatti EB110 collapse",
+   "query": "Bugatti Veyron engine",
    "caption": "PRODUCTION 1991\u20131995, THEN LIQUIDATED \u00b7 CAUSES: LOTUS PURCHASE (~\u00a330M/$50M), EB112 SALOON SPENDING, MISSED SUPPLIER PAYMENTS SINCE 1993 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti EB110 collapse"
   },
   {
    "text": "The leftovers were scattered. Wikipedia says Dauer Racing bought the semi-finished cars and parts, Dauer Sportwagen built the last car in two thousand two, and Dauer itself went bankrupt in two thousand eight. B Engineering used remaining chassis for its Edonis sports car, and provided spare parts and service for the original EB one ten until twenty twenty-three. Michael Schumacher owned a yellow Super Sport from early nineteen ninety-four to two thousand three.",
-   "query": "Bugatti EB110 aftermath",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "DAUER RACING BOUGHT STOCK \u00b7 LAST CAR 2002 \u00b7 DAUER BANKRUPT 2008 \u00b7 B ENGINEERING PARTS UNTIL 2023 \u00b7 SCHUMACHER OWNED A SUPER SPORT 1994\u20132003 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti EB110 aftermath"
   },
   {
    "text": "Motor One tells the same part briefly. Bugatti was revived in nineteen eighty-seven under Romano Artioli, whose EB one ten arrived in nineteen ninety-one. The EB one ten was a failure, it says, and Artioli sold Bugatti to the Volkswagen Group. So the name that Volkswagen bought was a name that had just gone through a bankruptcy, which is a risky thing to build a supercar on.",
-   "query": "Bugatti before Volkswagen",
+   "query": "Bugatti Veyron",
    "caption": "REVIVED 1987 (ARTIOLI) \u00b7 EB110 1991 'A FAILURE' \u00b7 SOLD TO VOLKSWAGEN GROUP (MOTOR1) \u00b7 THE 'RISKY' FRAMING IS OURS",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti before Volkswagen"
   },
   {
    "text": "One more detail of the EB one ten story. Wikipedia says Michael Schumacher bought a yellow Super Sport in early nineteen ninety-four, and after a crash into a truck he blamed inadequate brakes. He kept the car until two thousand three. We include it because it shows how the EB one ten lived on in public memory, and because the Veyron's engineers had to deliver brakes, tyres and cooling to a level the EB one ten never had to.",
-   "query": "Bugatti EB110 Michael Schumacher",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "SCHUMACHER'S EB110 SUPER SPORT (EARLY 1994): AFTER A CRASH INTO A TRUCK HE BLAMED 'INADEQUATE BRAKES' \u00b7 KEPT IT UNTIL 2003 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti EB110 Michael Schumacher"
   },
   {
    "text": "Where it was reborn matters too. Wikipedia says the EB one ten was launched near the Grande Arche in Paris on the fourteenth of September, nineteen ninety-one, followed by a launch day in Molsheim. Volkswagen's Bugatti bought the Ch\u00e2teau Saint-Jean, an eighteen fifty-six building that had been Ettore Bugatti's guest house in Dorlisheim, as its headquarters, and officially inaugurated the new Molsheim atelier on the third of September, two thousand five.",
-   "query": "Bugatti Molsheim",
+   "query": "Molsheim Bugatti",
    "caption": "EB110 LAUNCH PARIS SEPT 14, 1991 + MOLSHEIM SEPT 15 \u00b7 CH\u00c2TEAU SAINT-JEAN (1856, ETTORE BUGATTI'S GUEST HOUSE) AS HQ \u00b7 NEW ATELIER INAUGURATED SEPT 3, 2005 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Molsheim"
   },
   {
    "text": "Time without a Bugatti. By our arithmetic, the brand was absent from nineteen fifty-two to nineteen ninety-one, thirty-nine years, then produced the EB one ten from nineteen ninety-one to nineteen ninety-five, and was absent again from nineteen ninety-five until the Veyron's production in September two thousand five, about ten years. So for most of half a century, a new Bugatti was not on sale anywhere, and the Veyron ended that.",
-   "query": "Bugatti timeline",
+   "query": "Bugatti Veyron rear",
    "caption": "NO BUGATTI 1952\u20131991 (39 YEARS) \u00b7 EB110 1991\u20131995 \u00b7 NO BUGATTI ON SALE 1995 \u2192 SEPT 2005 (~10 YEARS) (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti timeline"
   },
   {
    "text": "Now Ferdinand Pi\u00ebch. Motor One says Pi\u00ebch, grandson of Ferdinand Porsche, chaired the Volkswagen Group from nineteen ninety-three and is credited with the Porsche nine seventeen, a five-cylinder diesel at Mercedes, and the Audi five-cylinder and Quattro. In nineteen ninety-seven, it says, he pitched an eighteen-cylinder W-engine car of a thousand metric horsepower and four hundred kilometres per hour to Volkswagen's engine head on a Shinkansen train.",
-   "query": "Ferdinand Pi\u00ebch",
+   "query": "Volkswagen Wolfsburg",
    "caption": "PI\u00cbCH, VW GROUP CHAIRMAN FROM 1993 \u00b7 1997 PITCH: 18-CYLINDER W ENGINE, 1,000 PS, 400 KM/H, ON A SHINKANSEN TRAIN (MOTOR1)",
    "cuts": 3,
-   "chapter": "A pitch on a train"
+   "chapter": "A pitch on a train",
+   "orig_query": "Ferdinand Pi\u00ebch"
   },
   {
    "text": "Volkswagen bought Bugatti in nineteen ninety-eight, Motor One says. Wikipedia's Veyron page says the Group acquired the Bugatti name in May nineteen ninety-eight, and its Bugatti Automobiles page says Volkswagen established Bugatti Automobiles as a wholly-owned French subsidiary on the twenty-second of December, nineteen ninety-eight, taking over the name and design rights from Artioli. The two Wikipedia dates describe different steps.",
-   "query": "Volkswagen buys Bugatti",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "VW ACQUIRED THE NAME MAY 1998 (WIKIPEDIA, VEYRON) \u00b7 SUBSIDIARY ESTABLISHED DEC 22, 1998 (WIKIPEDIA, BUGATTI AUTOMOBILES) \u00b7 'BOUGHT IN 1998' (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Volkswagen buys Bugatti"
   },
   {
    "text": "Motor One says Italdesign built the EB one eighteen coup\u00e9, the EB two eighteen four-door, and the nineteen ninety-nine EB eighteen three Chiron, and that Bugatti then designed the EB eighteen four Veyron in-house. So there were several Bugatti concepts before the Veyron, and the Veyron was not the only idea Volkswagen tried. The sources do not say what happened to the others.",
-   "query": "Bugatti concepts before the Veyron",
+   "query": "Bugatti Chiron",
    "caption": "ITALDESIGN: EB118 COUP\u00c9, EB218 FOUR-DOOR, 1999 EB18/3 CHIRON \u00b7 EB18/4 VEYRON DESIGNED IN-HOUSE (MOTOR1) \u00b7 FATE OF THE OTHERS: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti concepts before the Veyron"
   },
   {
    "text": "The Veyron concept appeared at the Tokyo Motor Show in October nineteen ninety-nine, Wikipedia says. The EB sixteen four was shown in two thousand with the W sixteen used in production. At the two thousand Geneva Motor Show, Motor One says, Pi\u00ebch announced a target of one thousand one metric horsepower and four hundred kilometres per hour. Wikipedia's Bugatti page says the concept claimed a top speed of four hundred seven.",
-   "query": "Veyron concept",
+   "query": "Volkswagen Wolfsburg",
    "caption": "TOKYO OCT 1999 (EB 18/4) \u00b7 2000 EB 16/4 WITH PRODUCTION W16 \u00b7 TARGET 1,001 PS / 400 KM/H (MOTOR1) vs 'CLAIMED 407 KM/H' (WIKIPEDIA, BUGATTI PAGE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron concept"
   },
   {
    "text": "Look at the target. One thousand one metric horsepower is nine hundred eighty-seven horsepower, and four hundred kilometres per hour is about two hundred forty-eight and a half miles per hour. By our arithmetic, that is seventy-nine percent more power than the EB one ten GT's five hundred sixty, and a top speed fifty-eight kilometres per hour above the EB one ten GT's three hundred forty-two. The leap was enormous.",
-   "query": "Veyron vs EB110 targets",
+   "query": "Bugatti Veyron interior",
    "caption": "1,001 vs 560 PS = +78.8% \u00b7 400 vs 342 KM/H = +58 KM/H (+17%) \u00b7 400 KM/H = 248.5 MPH (WIKIPEDIA, MOTOR1; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron vs EB110 targets"
   },
   {
    "text": "Dr. Franz-Josef Paefgen, former Bugatti president, is quoted by Motor One: the Veyron is a typical Pi\u00ebch car because he is totally dedicated to engineering challenges. Bob Lutz recalled that Pi\u00ebch told body engineers they would be fired in six weeks if they did not improve the Mark four Golf's panel gaps, and that they did. These are anecdotes, but they describe the pressure on the project.",
-   "query": "Pi\u00ebch's management style",
+   "query": "Volkswagen Wolfsburg",
    "caption": "PAEFGEN: 'A TYPICAL PI\u00cbCH CAR\u2026 TOTALLY DEDICATED TO ENGINEERING CHALLENGES' \u00b7 LUTZ: ENGINEERS TOLD 'FIRED IN SIX WEEKS' OVER GOLF PANEL GAPS (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Pi\u00ebch's management style"
   },
   {
    "text": "Motor One says that Karl-Heinz Neumann was Volkswagen's engine head when Pi\u00ebch pitched him in nineteen ninety-seven. Wikipedia's Bugatti page says Neumann became president of the formally incorporated Bugatti company on the twenty-second of December, two thousand. By our arithmetic, that is three years later. So the person who heard the pitch on the train later ran the company, according to our two sources, though neither connects the two facts.",
-   "query": "Karl-Heinz Neumann",
+   "query": "Volkswagen Wolfsburg",
    "caption": "1997: VW ENGINE HEAD (MOTOR1) \u00b7 DEC 22, 2000: PRESIDENT OF BUGATTI (WIKIPEDIA, BUGATTI PAGE) \u00b7 NEITHER SOURCE LINKS THE TWO",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Karl-Heinz Neumann"
   },
   {
    "text": "The engine changed. Motor One says the plan moved from a naturally aspirated W eighteen to a quad-turbocharged W sixteen. Wikipedia describes the final engine as seven thousand nine hundred ninety-three cubic centimetres, quad-turbocharged, with sixty-four valves and one thousand one metric horsepower in the standard car. By our arithmetic, the production car matches the target exactly: one thousand one.",
-   "query": "Veyron engine redesign",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "W18 (NA) \u2192 QUAD-TURBO W16 \u00b7 7,993 CC, 64 VALVES, 1,001 PS (MOTOR1, WIKIPEDIA) \u00b7 TARGET = PRODUCTION: 1,001 PS (OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "An engine that had to change"
+   "chapter": "An engine that had to change",
+   "orig_query": "Veyron engine redesign"
   },
   {
    "text": "Parts failed at speed. Motor One quotes chief engineer Dr. Wolfgang Schreiber, who recalled that above two hundred twenty-three miles per hour the driveshaft seals expanded and shredded, and the rear constant-velocity boots flung out their oil and failed. These problems appear only at speeds that no road car had run in series, and the sources do not say how long they took to fix.",
-   "query": "Veyron engineering failures",
+   "query": "Bugatti Veyron",
    "caption": "ABOVE 223 MPH: DRIVESHAFT SEALS SHREDDED \u00b7 REAR CV BOOTS FLUNG OUT OIL (DR. WOLFGANG SCHREIBER, MOTOR1) \u00b7 TIME TO FIX: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron engineering failures"
   },
   {
    "text": "Tyres were a limit too. Car magazine quotes Andy Wallace, Bugatti's official driver, recalling that Michelin said above two hundred forty-eight miles per hour the radials would simply explode. The Michelin PAX tyres that were used are designed to last about fifteen minutes at top speed, the magazine says. Wikipedia lists ten radiators to keep the engine and transmission cool.",
-   "query": "Veyron tyres and cooling",
+   "query": "Bugatti Veyron 16.4",
    "caption": "MICHELIN: ABOVE 248 MPH RADIALS 'WOULD SIMPLY EXPLODE' (WALLACE, CAR MAGAZINE) \u00b7 PAX TYRES ~15 MIN AT TOP SPEED \u00b7 10 RADIATORS (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron tyres and cooling"
   },
   {
    "text": "The solutions are visible in the finished car. The speed key lowers the front ride height from one hundred twenty-five to sixty-five millimetres, according to Top Gear, closes the diffuser flaps and lowers the wing, and the car refuses to enter the mode if the tyre pressure is slightly wrong. Car magazine says the wing at fifty-five degrees alone generates zero point eight g of braking. These are answers to problems that the sources hint at.",
-   "query": "Veyron solutions",
+   "query": "Bugatti Veyron interior",
    "caption": "SPEED KEY: FRONT RIDE HEIGHT 125 \u2192 65 MM, DIFFUSER FLAPS CLOSED, WING LOWERED (TOP GEAR) \u00b7 WING AT 55\u00b0 \u2248 0.8 G BRAKING (CAR MAGAZINE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron solutions"
   },
   {
    "text": "All this took time. Wikipedia says Volkswagen Group decided to build the car in two thousand one, the first roadworthy prototype was completed in August two thousand three, and production began in September two thousand five after technical problems caused repeated delays. By our arithmetic, that is two years and one month from prototype to production, and four years from the build decision.",
-   "query": "Veyron delays",
+   "query": "Bugatti Veyron rear",
    "caption": "BUILD DECISION 2001 \u2192 PROTOTYPE AUG 2003 \u2192 PRODUCTION SEPT 2005 \u00b7 REPEATED DELAYS DUE TO TECHNICAL PROBLEMS (WIKIPEDIA) \u00b7 PROTOTYPE \u2192 PRODUCTION = 2 YEARS 1 MONTH (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron delays"
   },
   {
    "text": "By our arithmetic, the whole programme from Pi\u00ebch's nineteen ninety-seven pitch to the first production cars in September two thousand five is about eight years. From the October nineteen ninety-nine Tokyo concept, it is five years and eleven months. And Wikipedia's Bugatti page says the new Molsheim factory was officially inaugurated on the third of September, two thousand five, as production began.",
-   "query": "Veyron programme length",
+   "query": "Volkswagen Wolfsburg",
    "caption": "1997 PITCH \u2192 SEPT 2005 \u2248 8 YEARS \u00b7 OCT 1999 \u2192 SEPT 2005 = 5 YEARS 11 MONTHS (OUR ARITHMETIC) \u00b7 MOLSHEIM FACTORY INAUGURATED SEPT 3, 2005 (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron programme length"
   },
   {
    "text": "Compare the two cars on Wikipedia's numbers. The EB one ten GT weighs sixteen hundred twenty kilograms and the Veyron eighteen eighty-eight, by our arithmetic two hundred sixty-eight kilograms, or sixteen and a half percent, more. The Veyron's zero to one hundred is a full second quicker, two point four six against three point four six, twenty-nine percent less. And its record average is fifty-three kilometres per hour above the EB one ten Super Sport's three hundred fifty-five.",
-   "query": "EB110 vs Veyron",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "WEIGHT 1,620 vs 1,888 KG = +268 KG (+16.5%) \u00b7 0\u2013100: 3.46 \u2192 2.46 s (\u221228.9%) \u00b7 408.47 \u2212 355 = 53.5 KM/H (+15.1%) (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "EB110 vs Veyron"
   },
   {
    "text": "The proof came in April two thousand five. Wikipedia says the Veyron averaged four hundred eight point four seven kilometres per hour on the nineteenth of April, and Top Gear says test driver Uwe Novacki reached four hundred eleven that day, with a track display showing four hundred twenty-seven that was later shown to be inaccurate. The official T\u00dcV S\u00fcd figure, after runs both ways, was four hundred seven.",
-   "query": "Veyron record",
+   "query": "Bugatti Veyron",
    "caption": "APRIL 19, 2005: 408.47 KM/H AVERAGE (WIKIPEDIA) \u00b7 NOVACKI 411 KM/H \u00b7 DISPLAY 427 KM/H (INACCURATE) \u00b7 T\u00dcV S\u00dcD OFFICIAL 407 KM/H (TOP GEAR)",
    "cuts": 3,
-   "chapter": "The record that proved it"
+   "chapter": "The record that proved it",
+   "orig_query": "Veyron record"
   },
   {
    "text": "By our arithmetic, the official figure beat the four hundred kilometre target by seven kilometres per hour, and the Wikipedia average by eight point four seven. Either way, the goal was reached, and the record was real. The Veyron then went on to the Super Sport, whose four hundred thirty-one point oh seven two kilometres per hour average was confirmed by Guinness in April twenty thirteen, Wikipedia says.",
-   "query": "Veyron goal reached",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "407 \u2212 400 = 7 KM/H \u00b7 408.47 \u2212 400 = 8.47 KM/H ABOVE THE TARGET \u00b7 SUPER SPORT 431.072 KM/H, GUINNESS APRIL 2013 (OUR ARITHMETIC, WIKIPEDIA, TOP GEAR)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron goal reached"
   },
   {
    "text": "Gordon Murray, quoted by Motor One from a two thousand six Road and Track test, called the Veyron's massive technical achievement a statement for Volkswagen. He also said he felt a little responsible for starting the top-speed race with the McLaren F1. And Chris Harris said: we were all a bit sniffy about this car when it was unveiled. So the sceptics did not stay sceptical.",
-   "query": "Veyron reception",
+   "query": "Bugatti Veyron interior",
    "caption": "MURRAY: 'MASSIVE TECHNICAL ACHIEVEMENT\u2026 A STATEMENT FOR VW AG' \u00b7 'A LITTLE RESPONSIBLE' FOR THE TOP-SPEED RACE \u00b7 HARRIS: 'A BIT SNIFFY' (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron reception"
   },
   {
    "text": "Jeremy Clarkson's verdict, quoted by Wikipedia: the greatest car ever made and the greatest car we will ever see in our lifetime. Top Gear lap times on Wikipedia: one minute eighteen point three in two thousand eight for the standard car, one sixteen point eight in two thousand ten for the Super Sport. The car was not only fast in a straight line, and the reaction shows the gamble paid off on reputation.",
-   "query": "Veyron verdicts",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "CLARKSON: 'THE GREATEST CAR EVER MADE\u2026' \u00b7 TOP GEAR LAP: 1:18.3 (2008) \u00b7 SUPER SPORT 1:16.8 (2010) (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron verdicts"
   },
   {
    "text": "A small date puzzle. Wikipedia's Ultimate Aero page says the Bugatti ended the SSC record on the fourth of July, twenty ten. But Wikipedia's Bugatti Automobiles page says the Super Sport set its road-legal production-car record of four hundred thirty-one point oh seven two on the twenty-sixth of June, twenty ten. So one page gives a run date and another a record-ending date, and they are eight days apart.",
-   "query": "Veyron Super Sport record date",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "RUN DATE JUNE 26, 2010 (BUGATTI AUTOMOBILES PAGE) vs RECORD-ENDING DATE JULY 4, 2010 (SSC ULTIMATE AERO PAGE) \u2014 8 DAYS APART (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron Super Sport record date"
   },
   {
    "text": "Reputation was one thing. Money was another. Clarkson said, per Wikipedia, that the production cost was five million pounds and customers paid one million. Motor One says Volkswagen reportedly lost about six point two five million dollars on each of the four hundred fifty cars. Jalopnik, in September twenty thirteen, traced the figure to an Economist infographic, and says it does not explain how the loss was calculated.",
-   "query": "Veyron losses",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "CLARKSON: \u00a35M COST vs \u00a31M PRICE (WIKIPEDIA) \u00b7 ~$6.25M LOSS PER CAR (MOTOR1) \u00b7 THE ECONOMIST, VIA JALOPNIK, SEPT 2013 \u2014 METHOD NOT EXPLAINED",
    "cuts": 3,
-   "chapter": "The money"
+   "chapter": "The money",
+   "orig_query": "Veyron losses"
   },
   {
    "text": "By our arithmetic, four hundred fifty cars at six point two five million is about two point eight billion dollars. That is our multiplication of a reported estimate, not a reported total. Jalopnik gives no total, no calculation, and no response from Volkswagen. So treat it as an order of magnitude, a very large loss on a car that sold for around one point seven million.",
-   "query": "Veyron total loss estimate",
+   "query": "Bugatti Veyron",
    "caption": "450 \u00d7 $6.25M \u2248 $2.81 BILLION \u2014 MULTIPLICATION OF A REPORTED ESTIMATE; NO SOURCE GIVES A TOTAL (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron total loss estimate"
   },
   {
    "text": "Motor One calls the car a vanity project. That is its word. Wikipedia's Bugatti page adds a later datapoint: in twenty twenty, Volkswagen Group chief executive Herbert Diess reportedly viewed the unprofitable brand as ballast. The page gives no loss figures, and reports revenue of three hundred nineteen point five million euros and net income of eight point four million for twenty twenty-one. So the brand was reported unprofitable at one time and profitable in a later year.",
-   "query": "Bugatti finances",
+   "query": "Bugatti Veyron 16.4",
    "caption": "'VANITY PROJECT' (MOTOR1) \u00b7 2020: DIESS REPORTEDLY VIEWED THE BRAND AS 'BALLAST' \u00b7 2021: REVENUE \u20ac319.5M, NET INCOME \u20ac8.4M (WIKIPEDIA, BUGATTI PAGE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti finances"
   },
   {
    "text": "Sales ran longer than planned. Wikipedia's Veyron page lists four hundred fifty Veyrons over more than ten years, with the last one sold in May twenty fourteen. Its Bugatti page says annual output was raised to seventy units when production began, and that about seven hundred cars have been sold since two thousand five. By our arithmetic, seven hundred minus four hundred fifty leaves about two hundred fifty for the Chiron era to that point.",
-   "query": "Bugatti sales",
+   "query": "Bugatti Chiron",
    "caption": "450 VEYRONS \u00b7 OUTPUT RAISED TO 70/YEAR AT LAUNCH \u00b7 ~700 CARS SOLD SINCE 2005 (WIKIPEDIA) \u00b7 700 \u2212 450 \u2248 250 (OUR ARITHMETIC; DATE OF THE 700 NOT STATED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti sales"
   },
   {
    "text": "Back to the money. If the reported loss of six point two five million dollars per car is added to the roughly one point seven million dollar price, by our arithmetic the implied cost to build was about seven point nine five million per car. Clarkson's claim of five million pounds is of the same order of size, though it is in pounds, from a presenter, and not an accounting figure. Both point to a car that cost several times its price.",
-   "query": "Veyron implied cost",
+   "query": "Bugatti Veyron rear",
    "caption": "$1.7M PRICE + $6.25M LOSS \u2248 $7.95M IMPLIED COST PER CAR \u00b7 CLARKSON: \u00a35M \u2014 SAME ORDER OF SIZE, DIFFERENT CURRENCY AND NOT AN ACCOUNTING FIGURE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron implied cost"
   },
   {
    "text": "Clarkson's claim implies four million pounds lost per car, five minus one. By our arithmetic, over four hundred fifty cars that is one point eight billion pounds, if the claim were right for every car. We stress the conditional. It is a presenter's remark, quoted on Wikipedia, and the Economist-based estimate is another source. They are consistent in scale, and neither is an audited number.",
-   "query": "Veyron Clarkson maths",
+   "query": "Bugatti Veyron engine",
    "caption": "\u00a35M \u2212 \u00a31M = \u00a34M PER CAR \u00d7 450 = \u00a31.8 BILLION IF EVERY CAR MATCHED THE CLAIM (OUR ARITHMETIC; NOT AN AUDITED FIGURE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron Clarkson maths"
   },
   {
    "text": "The factory's real pace. Wikipedia says output was raised to seventy units a year when production began. By our arithmetic, four hundred fifty Veyrons between September two thousand five and May twenty fourteen is about fifty-two a year. So the factory built roughly three quarters of its stated annual capacity. We do not know why, and the sources do not say whether it was demand, supply or deliberate pacing.",
-   "query": "Veyron production pace",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "CAPACITY 70/YEAR \u00b7 ACTUAL \u2248 450 \u00f7 8.7 YEARS \u2248 52/YEAR \u2248 74% OF CAPACITY (WIKIPEDIA; OUR ARITHMETIC) \u00b7 REASON NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron production pace"
   },
   {
    "text": "And the sales table. Wikipedia's annual sales for two thousand five to two thousand thirteen total four hundred seven, with car number four hundred fifty sold in May twenty fourteen, a footnote says. By our arithmetic, the table leaves forty-three cars unaccounted for. The table and the total do not line up cleanly, and the page does not explain the difference.",
-   "query": "Veyron sales table",
+   "query": "Bugatti Veyron",
    "caption": "2005\u20132013 SALES TABLE: 407 \u00b7 TOTAL 450 \u2192 43 NOT SHOWN IN THE TABLE (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron sales table"
   },
   {
    "text": "The Chiron followed. Wikipedia's Bugatti page says it was unveiled at the Geneva Motor Show on the twenty-ninth of February, twenty sixteen, with fifteen hundred metric horsepower and sixteen hundred newton-metres, limited to five hundred cars at two point four million euros, with first deliveries in March twenty seventeen. By February twenty twenty, it says, two hundred fifty had been built, half of the planned number.",
    "query": "Bugatti Chiron",
    "caption": "UNVEILED FEB 29, 2016 \u00b7 1,500 PS / 1,600 N\u00b7M \u00b7 500 CARS \u00b7 \u20ac2.4M \u00b7 FIRST DELIVERY MARCH 2017 \u00b7 250 BUILT BY FEB 2020 (WIKIPEDIA)",
    "cuts": 3,
-   "chapter": "What came after"
+   "chapter": "What came after",
+   "orig_query": "Bugatti Chiron"
   },
   {
    "text": "In twenty twenty-one, Wikipedia says, Bugatti and Rimac's sports car operations merged, and in November twenty twenty-one Bugatti became part of Bugatti Rimac, with Rimac Group holding fifty-five percent and Porsche forty-five. Mate Rimac became chief executive on the first of November. By our arithmetic, the brand that Volkswagen bought in nineteen ninety-eight was no longer wholly Volkswagen's twenty-three years later.",
-   "query": "Bugatti Rimac",
+   "query": "Bugatti Veyron interior",
    "caption": "NOV 2021: BUGATTI RIMAC \u2014 RIMAC GROUP 55%, PORSCHE AG 45% \u00b7 MATE RIMAC CEO NOV 1, 2021 (WIKIPEDIA) \u00b7 1998 \u2192 2021 = 23 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Rimac"
   },
   {
    "text": "The Veyron's true successor in spirit, per Wikipedia, is the Tourbillon, announced on the twentieth of June, twenty twenty-four: Bugatti's first hybrid, with a naturally aspirated V sixteen from Cosworth, a three-motor hybrid system, and eighteen hundred metric horsepower, redlining at nine thousand rpm, with a planned production of two hundred fifty. By our arithmetic, that is twenty percent more power than the Chiron.",
-   "query": "Bugatti Tourbillon",
+   "query": "Bugatti Chiron",
    "caption": "TOURBILLON (JUNE 20, 2024): V16 BY COSWORTH + 3-MOTOR HYBRID \u00b7 1,800 PS \u00b7 9,000 RPM \u00b7 250 PLANNED \u00b7 +20% vs CHIRON'S 1,500 PS (WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Tourbillon"
   },
   {
    "text": "So did the Veyron almost never happen? Here is what the sources support. The brand had gone bankrupt just before. The project needed a chairman who demanded the impossible. The engine was redesigned, parts failed, and production was delayed by technical problems. And the car reportedly lost millions on every sale. None of that says it was nearly cancelled. It says it was hard, and the title is our framing.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Veyron engine",
    "caption": "SOURCED: BRAND BANKRUPTCY (1995) \u00b7 CHAIRMAN'S TARGET \u00b7 ENGINE REDESIGN \u00b7 PART FAILURES \u00b7 REPEATED DELAYS \u00b7 REPORTED LOSSES \u2014 NO SOURCE SAYS 'NEARLY CANCELLED'",
    "cuts": 3,
-   "chapter": "So did it almost never happen?"
+   "chapter": "So did it almost never happen?",
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "What our sources do not say. They do not say whether Volkswagen ever considered cancelling the project. They do not give development costs. They do not explain the Economist's loss estimate. They do not say how many prototypes failed. And they do not reconcile the different dates for the brand's acquisition. If you have a reliable source for any of these, share the link in the comments.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "NOT IN OUR SOURCES: CANCELLATION TALKS \u00b7 DEVELOPMENT COST \u00b7 METHOD BEHIND THE LOSS ESTIMATE \u00b7 PROTOTYPE FAILURES \u00b7 ACQUISITION DATE RECONCILIATION",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "What is solid is the result. A car with one thousand one metric horsepower and a record of four hundred seven kilometres per hour, from a brand that had collapsed, built by a company that, according to reports, lost millions on each. The Veyron proved a point about engineering, and the cost of proving it is part of the story. Whether it was worth it is for you to decide.",
    "query": "Bugatti Veyron",
    "caption": "1,001 PS \u00b7 407 KM/H OFFICIAL \u00b7 FROM A COLLAPSED BRAND \u00b7 REPORTED LOSS ~$6.25M PER CAR (SOURCES ABOVE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "Was the Veyron a triumph or an expensive vanity project? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Veyron, compare it with the Chiron, and count what it really costs to own one. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Chiron",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   }
  ]
 }

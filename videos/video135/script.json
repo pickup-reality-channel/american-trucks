@@ -9,278 +9,323 @@
    "query": "Bugatti Veyron",
    "caption": "WHAT IT REALLY COSTS TO OWN A BUGATTI VEYRON",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "We read Wikipedia, CNBC, Motor One, Motorious, Fox News, and the auction reports. The costs vary a lot between sources, so we show every figure with who said it. Where we do the arithmetic, it is labelled as ours. And where there is no published number, such as insurance, we say that plainly, because for the Veyron the missing numbers matter as much as the printed ones.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Veyron 16.4",
    "caption": "SOURCES: WIKIPEDIA \u00b7 CNBC \u00b7 MOTOR1 \u00b7 MOTORIOUS \u00b7 FOX NEWS \u00b7 AUCTION REPORTS \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "Start with the sticker. Wikipedia says the standard and Grand Sport base price was one million, two hundred twenty-five thousand euros, or about one point seven million dollars. The Super Sport and Grand Sport Vitesse started at one million, nine hundred twelve thousand, five hundred euros, or about two point seven million dollars. A tuned Mansory Linea Vivere cost two point three million dollars.",
-   "query": "Bugatti Veyron prices",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "\u20ac1,225,000 (~$1.7M) STANDARD/GRAND SPORT \u00b7 \u20ac1,912,500 (~$2.7M) SUPER SPORT/VITESSE \u00b7 MANSORY LINEA VIVERE $2.3M (WIKIPEDIA)",
    "cuts": 5,
-   "chapter": "The purchase price"
+   "chapter": "The purchase price",
+   "orig_query": "Bugatti Veyron prices"
   },
   {
    "text": "Put those in context using the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, the one point seven million dollar base price is twenty point three years of median household income, and the two point seven million dollar Super Sport is thirty-two point two years. These are gross incomes before tax.",
-   "query": "Veyron price vs median income",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "$1.7M \u2248 20.3 YEARS \u00b7 $2.7M \u2248 32.2 YEARS OF MEDIAN HOUSEHOLD INCOME ($83,730, CENSUS) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron price vs median income"
   },
   {
    "text": "Against the average new vehicle, fifty thousand, eighty-nine dollars in August twenty twenty-six according to Kelley Blue Book, the base Veyron is about thirty-four times as much, by our arithmetic. The Super Sport's price is about fifty-four. And compared with the Ford Mustang GTD at three hundred twenty-seven thousand, nine hundred sixty dollars, the base Veyron price is about five times.",
-   "query": "Veyron price vs average new vehicle",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "$1.7M \u2248 33.9\u00d7 AVERAGE NEW VEHICLE ($50,089, KBB) \u00b7 $2.7M \u2248 53.9\u00d7 \u00b7 \u2248 5.2\u00d7 MUSTANG GTD ($327,960, MOTOR1) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron price vs average new vehicle"
   },
   {
    "text": "Jeremy Clarkson, quoted by Wikipedia, said the production cost was five million pounds and customers paid one million. Motor One says Volkswagen reportedly lost about six point two five million dollars on each of the four hundred fifty it sold. Jalopnik traces that figure to an Economist infographic from September twenty thirteen, and says it does not explain the method. So the buyer got a car that cost far more to make than they paid.",
-   "query": "Veyron economics",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "CLARKSON: \u00a35M COST vs \u00a31M PRICE (WIKIPEDIA) \u00b7 ~$6.25M LOSS PER CAR (MOTOR1; JALOPNIK CITING THE ECONOMIST, METHOD NOT EXPLAINED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron economics"
   },
   {
    "text": "That gap matters for ownership in an unexpected way. If the manufacturer lost money on every car, its service pricing is not the same as a profit-making brand's. We have no source linking the two, so this is not a claim. It is a question: when a maker lost millions per car, is the cost of parts and labour a reflection of the real cost? Our sources do not answer it.",
-   "query": "Veyron economics and service",
+   "query": "Bugatti Veyron",
    "caption": "WAS SERVICE PRICING SHAPED BY THE LOSSES? \u2014 NO SOURCE LINKS THE TWO",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron economics and service"
   },
   {
    "text": "Tyres first, because they are the most quoted cost. Wikipedia says the Michelin PAX run-flat tyres cost twenty-five thousand dollars per set, and that mounting them on the wheels was only available in France, at seventy thousand dollars. Car magazine adds that the PAX tyres are designed to last about fifteen minutes at top speed. So the set that costs twenty-five thousand has a defined limit.",
-   "query": "Veyron tyres",
+   "query": "Bugatti Veyron 16.4",
    "caption": "PAX TYRES $25,000 PER SET \u00b7 MOUNTING (FRANCE ONLY) $70,000 (WIKIPEDIA) \u00b7 DESIGNED FOR ~15 MINUTES AT TOP SPEED (CAR MAGAZINE)",
    "cuts": 3,
-   "chapter": "Tyres and wheels"
+   "chapter": "Tyres and wheels",
+   "orig_query": "Veyron tyres"
   },
   {
    "text": "CNBC, in September twenty eighteen, quotes Bugatti dealer staff saying tyres alone are currently around thirty-eight thousand dollars. Motor One says a set of Veyron tyres can cost thirty thousand. And Motorious, in April twenty twenty-six, reports a YouTuber owner saying roughly forty-five thousand dollars for a full set. So four sources give four different figures for the same item.",
-   "query": "Veyron tyre prices",
+   "query": "Bugatti Veyron interior",
    "caption": "$25,000 (WIKIPEDIA) \u00b7 $30,000 (MOTOR1) \u00b7 $38,000 (CNBC, 2018, CROSTA) \u00b7 ~$45,000 (MOTORIOUS, APRIL 2026, OWNER'S ACCOUNT)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron tyre prices"
   },
   {
    "text": "By our arithmetic, the highest figure is eighty percent above the lowest: forty-five over twenty-five. The sources are from different years, and prices change, so the spread may reflect time, not disagreement. But even the lowest figure is more than the price of an average new vehicle at fifty thousand, eighty-nine dollars, in half. A set of tyres costs half a new car.",
-   "query": "Veyron tyre price spread",
+   "query": "Bugatti Veyron rear",
    "caption": "$45,000 \u00f7 $25,000 = 1.8 (+80%) \u00b7 $25,000 \u2248 49.9% OF THE AVERAGE NEW VEHICLE ($50,089) (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron tyre price spread"
   },
   {
    "text": "Add the mounting. Wikipedia's seventy thousand dollar figure for mounting in France, on top of twenty-five thousand for the tyres, is ninety-five thousand dollars, by our arithmetic. Kelley Blue Book's table lists the Corvette ZR1 at one hundred seventy-eight thousand, one hundred ninety-five dollars, so one tyre change on a Veyron, on those figures, is about fifty-three percent of a ZR1's price.",
-   "query": "Veyron tyre mounting",
+   "query": "Bugatti Veyron engine",
    "caption": "$25,000 + $70,000 = $95,000 \u2248 53% OF A ZR1's $178,195 TABLE PRICE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron tyre mounting"
   },
   {
    "text": "The wheels and the tyres are not the only parts that wear. Wikipedia says parts shared with other Volkswagen Group models can wear quickly under the car's heavy loads, though this makes independent repairs easier. So there are two kinds of parts on a Veyron: those unique to it, which are very expensive, and those shared with Volkswagen cars, which wear out faster than they would in a normal car.",
-   "query": "Veyron shared parts",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "SHARED VW GROUP PARTS CAN WEAR QUICKLY UNDER HEAVY LOADS \u2014 BUT INDEPENDENT REPAIRS EASIER (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron shared parts"
   },
   {
    "text": "The oil change is the legend. Motor One tells of a twenty oh eight Veyron brought to Apple Autos in Minnesota, where Austin Paseka, a video and media specialist, quoted the oil change at probably around thirty thousand dollars, for about twenty-seven hours of labour. The article says the Veyron has sixteen drain plugs, and that the job requires removing underbody panels, the rear fender and the deck lid.",
-   "query": "Veyron oil change",
+   "query": "Bugatti Veyron",
    "caption": "2008 VEYRON AT APPLE AUTOS, MINNESOTA: 'PROBABLY AROUND $30,000' \u00b7 ~27 HOURS \u00b7 16 DRAIN PLUGS (AUSTIN PASEKA, MOTOR1)",
    "cuts": 3,
-   "chapter": "Service and oil"
+   "chapter": "Service and oil",
+   "orig_query": "Veyron oil change"
   },
   {
    "text": "Motor One adds that Carscoops has reported an average Veyron oil change of twenty-one to twenty-five thousand dollars, and puts it at about two thousand dollars per drain plug. By our arithmetic, sixteen plugs at two thousand is thirty-two thousand, so the per-plug figure and the thirty thousand estimate are in the same range. Only certified centres can do the work, and the process can take up to a week.",
-   "query": "Veyron oil change range",
+   "query": "Bugatti Veyron 16.4",
    "caption": "CARSCOOPS (VIA MOTOR1): $21,000\u2013$25,000 \u00b7 ~$2,000 PER PLUG \u00d7 16 = $32,000 (OUR ARITHMETIC) \u00b7 CERTIFIED CENTRES ONLY \u00b7 UP TO A WEEK (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron oil change range"
   },
   {
    "text": "For comparison, Motor One lists a Lamborghini Hurac\u00e1n oil change at about twelve hundred dollars, a Ferrari four eighty-eight at about fifteen hundred, and a McLaren seven twenty S at more than two thousand at some dealerships. By our arithmetic, a twenty-one thousand dollar Veyron oil change is seventeen and a half times a Hurac\u00e1n's, and a thirty thousand dollar one is twenty-five times.",
-   "query": "Oil change comparison",
+   "query": "Bugatti Veyron interior",
    "caption": "HURAC\u00c1N ~$1,200 \u00b7 488 ~$1,500 \u00b7 720S >$2,000 (MOTOR1) \u00b7 VEYRON $21,000 \u2248 17.5\u00d7 HURAC\u00c1N \u00b7 $30,000 = 25\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Oil change comparison"
   },
   {
    "text": "And now the disagreement. Motorious, in April twenty twenty-six, reports a YouTuber who owns a Veyron Grand Sport saying an oil change runs between three thousand and four thousand dollars. By our arithmetic, that is one tenth to one fifth of the Carscoops range. The article does not say why. It could be a different shop, a different year, or a different scope of work, but our sources do not tell us.",
-   "query": "Veyron oil change disagreement",
+   "query": "Bugatti Veyron rear",
    "caption": "OWNER'S ACCOUNT (MOTORIOUS, APRIL 2026): $3,000\u2013$4,000 vs $21,000\u2013$30,000 ELSEWHERE \u00b7 REASON NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron oil change disagreement"
   },
   {
    "text": "The same owner says an annual service approaches twenty thousand dollars, Motorious reports. CNBC, in twenty eighteen, quotes Bugatti dealer staff saying the oil is changed once a year, whether the car has been driven or not, as part of a service that covers all fluids. By our arithmetic, twenty thousand a year is about one point two percent of a one point seven million dollar price every year.",
-   "query": "Veyron annual service",
+   "query": "Bugatti Veyron engine",
    "caption": "ANNUAL SERVICE 'APPROACHES $20,000' (MOTORIOUS) \u00b7 ONCE A YEAR, DRIVEN OR NOT (CNBC 2018) \u00b7 $20,000 \u00f7 $1.7M \u2248 1.2% PER YEAR (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron annual service"
   },
   {
    "text": "Parts of the maintenance are not about money alone. Motor One says Bugatti's maintenance guide calls for inspecting hydraulic lines, gaskets and proprietary fluids, and that only certified centres can do the work. CNBC says the service is meant to keep the car running at its highest output and efficiency. So an owner cannot simply take a Veyron to any garage, which limits the choices on price.",
-   "query": "Veyron service rules",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "INSPECTIONS OF HYDRAULIC LINES, GASKETS, PROPRIETARY FLUIDS \u00b7 CERTIFIED CENTRES ONLY (MOTOR1) \u00b7 SERVICE KEEPS 'HIGHEST OUTPUT AND EFFICIENCY' (CNBC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron service rules"
   },
   {
    "text": "Bigger parts cost more. Wikipedia says a replacement transmission costs just over one hundred twenty thousand dollars. By our arithmetic, that is seven percent of the base price, and about two and a half times the highest tyre quote. The page does not say how often a transmission needs replacing, so we cannot turn it into an annual cost.",
-   "query": "Veyron transmission",
+   "query": "Bugatti Veyron",
    "caption": "REPLACEMENT TRANSMISSION JUST OVER $120,000 \u2248 7.1% OF $1.7M (WIKIPEDIA; OUR ARITHMETIC) \u00b7 REPLACEMENT INTERVAL: NOT STATED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron transmission"
   },
   {
    "text": "Fuel. Wikipedia gives the Veyron's EPA fuel economy as eight miles per gallon in the city and fourteen on the highway, and three miles per gallon at top speed, which is one point four gallons a minute. By our arithmetic, ten thousand miles at eight miles per gallon would burn twelve hundred fifty gallons, and at fourteen about seven hundred fourteen. Multiply by the price of fuel where you live.",
-   "query": "Veyron fuel economy",
+   "query": "Bugatti Veyron 16.4",
    "caption": "EPA: 8 CITY \u00b7 14 HIGHWAY \u00b7 3 MPG AT TOP SPEED (1.4 GAL/MIN) \u00b7 10,000 MI \u2192 1,250 GAL (CITY) \u00b7 ~714 GAL (HIGHWAY) (WIKIPEDIA; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Fuel"
+   "chapter": "Fuel",
+   "orig_query": "Veyron fuel economy"
   },
   {
    "text": "At top speed, the tank is a short-lived resource. Car magazine says the car drains its hundred litre tank in twelve minutes at full speed. By our arithmetic, that is about eight and a third litres a minute, or two point two gallons, which is higher than Wikipedia's one point four. The two sources disagree, and we cannot tell which is right, but neither suggests top speed is a cheap place to be.",
-   "query": "Veyron top-speed fuel",
+   "query": "Bugatti Veyron interior",
    "caption": "CAR MAGAZINE: 100 L IN 12 MIN \u2248 2.2 GAL/MIN vs WIKIPEDIA 1.4 GAL/MIN \u2014 DISAGREE (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron top-speed fuel"
   },
   {
    "text": "Insurance. We found no published Veyron insurance figure in the sources we read. Storage, battery maintenance, registration, and the cost of an annual inspection also appear in none of them. So a large part of the ownership bill is simply not documented in our sources. If you know of a reliable published figure, share the link in the comments, and we will add it.",
-   "query": "Veyron insurance and storage",
+   "query": "Bugatti Veyron rear",
    "caption": "INSURANCE \u00b7 STORAGE \u00b7 REGISTRATION \u00b7 BATTERY: NO PUBLISHED FIGURES IN OUR SOURCES",
    "cuts": 3,
-   "chapter": "Insurance, storage and the rest"
+   "chapter": "Insurance, storage and the rest",
+   "orig_query": "Veyron insurance and storage"
   },
   {
    "text": "One more cost, the rental. CNBC reports that Royalty Exotic Cars rents a Bugatti Veyron for twenty thousand dollars including taxes for twenty-four hours, and that the company does not rent Bugattis for recreational driving, but for film productions, photo shoots, trade shows and conventions. By our arithmetic, a day's rental is about one point two percent of the original price of one point seven million.",
-   "query": "Veyron rental",
+   "query": "Bugatti Veyron engine",
    "caption": "RENTAL $20,000 PER 24 HOURS INCL. TAXES (ROYALTY EXOTIC CARS, CNBC 2018) \u00b7 \u2248 1.2% OF $1.7M (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron rental"
   },
   {
    "text": "Now resale, where the story is surprising. Motorious reports that a twenty ten Bugatti Veyron coupe sold for two million, two hundred five thousand dollars at Broad Arrow Auctions' inaugural Las Vegas auction on the thirty-first of October, twenty twenty-five, including the buyer's premium, against a pre-sale estimate of one point five to one point eight million. The article calls it a world record for a standard Veyron at auction.",
-   "query": "Veyron auction 2025",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "2010 VEYRON COUPE: $2,205,000 INCL. PREMIUM \u00b7 EST. $1.5M\u2013$1.8M \u00b7 BROAD ARROW, LAS VEGAS, OCT 31, 2025 \u00b7 'WORLD RECORD FOR A STANDARD VEYRON AT AUCTION' (MOTORIOUS)",
    "cuts": 3,
-   "chapter": "What it sells for later"
+   "chapter": "What it sells for later",
+   "orig_query": "Veyron auction 2025"
   },
   {
    "text": "By our arithmetic, the price was twenty-two and a half percent above the high end of the estimate, and about thirty percent above the base price of one point seven million dollars that Wikipedia quotes for a new car. The price is a sale result including fees, and the car was a twenty ten model, so the comparison with a base price is rough, but a used Veyron selling above its new price is notable.",
-   "query": "Veyron auction vs new price",
+   "query": "Bugatti Veyron",
    "caption": "$2,205,000 vs $1.8M HIGH ESTIMATE = +22.5% \u00b7 vs $1.7M BASE = +29.7% (OUR ARITHMETIC; DIFFERENT YEARS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron auction vs new price"
   },
   {
    "text": "Motorious quotes Broad Arrow's Alexander Weaver: we saw tremendous demand for original, unmodified Veyrons, this result reinforced that momentum. The auction's total sales were thirteen million, seven hundred sixteen thousand, eight hundred forty dollars, with eighty-two percent of lots sold. By our arithmetic, the Veyron was sixteen percent of the whole auction's sales.",
-   "query": "Broad Arrow Las Vegas 2025",
+   "query": "Bugatti Veyron 16.4",
    "caption": "WEAVER: 'TREMENDOUS DEMAND FOR ORIGINAL, UNMODIFIED VEYRONS' \u00b7 AUCTION TOTAL $13,716,840 \u00b7 82% SOLD \u00b7 VEYRON \u2248 16.1% OF TOTAL (MOTORIOUS; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Broad Arrow Las Vegas 2025"
   },
   {
    "text": "A year later came a bigger number. A report dated the thirtieth of September, twenty twenty-six, says a twenty fourteen Veyron Grand Sport Vitesse called Jean-Pierre Wimille, chassis ending seven nine five zero six three, hammered at RM Sotheby's for four million, five hundred five thousand Swiss francs, about five point four million dollars, against an estimate of 2.4 to 2.8 million francs. It had 3,766 kilometres on it.",
-   "query": "Veyron Wimille auction",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "2014 GRAND SPORT VITESSE 'JEAN-PIERRE WIMILLE': CHF 4,505,000 (~$5.4M) \u00b7 EST. CHF 2.4\u20132.8M \u00b7 3,766 KM \u00b7 RM SOTHEBY'S, SEPT 2026 (AUTOEVOLUTION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron Wimille auction"
   },
   {
    "text": "The report says the hammer was sixty-one percent above the high estimate, and by our arithmetic four million five hundred five thousand over two point eight million is indeed sixty-one percent above. It calls the car the most expensive Veyron ever sold at public auction, beating the one-off Grand Sport Sang Bleu, which sold for a little over three million dollars in twenty twenty-four. Bidding lasted under three minutes.",
-   "query": "Veyron Wimille record",
+   "query": "Bugatti Veyron rear",
    "caption": "HAMMER = +60.9% ABOVE HIGH ESTIMATE (OUR ARITHMETIC) \u00b7 BEAT THE ONE-OFF SANG BLEU (~$3M+, 2024) \u00b7 BIDDING UNDER 3 MINUTES (AUTOEVOLUTION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron Wimille record"
   },
   {
    "text": "It was a special car: the opening of a series of six Grand Sport Vitesse editions, three units each, each honouring a pre-war Bugatti racing figure, and it was delivered new to a Dubai-based client. By our arithmetic, the five point four million dollar result is about twice the two point seven million dollar Grand Sport Vitesse list price in Wikipedia. A special edition with low mileage is not a typical Veyron.",
-   "query": "Veyron Wimille context",
+   "query": "Bugatti Veyron Super Sport",
    "caption": "ONE OF SIX EDITIONS, 3 UNITS EACH \u00b7 FIRST OWNER IN DUBAI \u00b7 $5.4M \u2248 2.0\u00d7 THE $2.7M LIST PRICE (AUTOEVOLUTION, WIKIPEDIA; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron Wimille context"
   },
   {
    "text": "The other end of the market. Fox News reported in August twenty fourteen that a crashed twenty oh eight Veyron with thirty-one thousand, nine hundred twenty-four kilometres sold in Switzerland for two hundred fifty-four thousand francs, about two hundred seventy-seven thousand dollars, after a single-vehicle accident on an Austrian highway. The seller estimated repairs at eight hundred to eight hundred fifty-five thousand dollars.",
-   "query": "Wrecked Veyron",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "2008 VEYRON, 31,924 KM, CRASHED IN AUSTRIA: SOLD CHF 254,000 (~$277,344) \u00b7 REPAIR ESTIMATE $800,000\u2013$855,000 (FOX NEWS, AUG 2014)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Wrecked Veyron"
   },
   {
    "text": "By our arithmetic, the repair estimate was between 2.9 and 3.1 times the sale price. Fox calls the sale the deal of a century, and wonders who would bid. The car had damage to the front, rear, doors, sills, underbody and suspension, with engine and transmission at risk. That is the price of a crash: a Veyron's repair bill can be a multiple of what a wrecked one sells for.",
-   "query": "Wrecked Veyron repair cost",
+   "query": "Bugatti Veyron",
    "caption": "$800,000 \u00f7 $277,344 = 2.9\u00d7 \u00b7 $855,000 \u00f7 $277,344 = 3.1\u00d7 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Wrecked Veyron repair cost"
   },
   {
    "text": "Convert the tyre and service bills into the yardstick we used earlier. A tyre change with mounting in France, ninety-five thousand dollars on Wikipedia's figures, is one point one three years of median household income, by our arithmetic. A thirty thousand dollar oil change is about four months of that income, and a twenty-one thousand dollar one about three months. These are gross figures, before tax.",
-   "query": "Veyron bills vs income",
+   "query": "Bugatti Veyron 16.4",
    "caption": "$95,000 \u00f7 $83,730 \u2248 1.13 YEARS \u00b7 $30,000 \u2248 4.3 MONTHS \u00b7 $21,000 \u2248 3.0 MONTHS OF MEDIAN HOUSEHOLD INCOME (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron bills vs income"
   },
   {
    "text": "An illustration, clearly labelled as ours and not a forecast. Take a year with one oil change and one set of tyres. The lowest figures in our sources are three thousand for the oil and twenty-five thousand for the tyres, twenty-eight thousand in total. The highest are thirty thousand and forty-five thousand, seventy-five thousand. By our arithmetic, that is between one point six and four point four percent of the one point seven million dollar price.",
-   "query": "Veyron one-year illustration",
+   "query": "Bugatti Veyron interior",
    "caption": "ILLUSTRATION, NOT A FORECAST: $3K + $25K = $28K (1.6% OF $1.7M) TO $30K + $45K = $75K (4.4%) (OUR ARITHMETIC FROM THE RANGE OF QUOTES)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron one-year illustration"
   },
   {
    "text": "Why not a real annual total? Because our sources do not say how often tyres are changed, how many miles an owner drives, or what the insurance and storage cost. A car driven rarely could go years on one set of tyres, though a tyre of that age may not be safe, and we have no source on tyre age limits. So any annual figure we gave would be a guess, and we do not guess.",
-   "query": "Veyron annual cost",
+   "query": "Bugatti Veyron rear",
    "caption": "TYRE CHANGE INTERVAL \u00b7 MILEAGE \u00b7 INSURANCE \u00b7 STORAGE: NOT IN OUR SOURCES \u2192 NO ANNUAL TOTAL GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron annual cost"
   },
   {
    "text": "The top-speed tyre arithmetic is amusing but useful. If a set is designed for about fifteen minutes at top speed, as Car magazine says, and covers sixty-three and a half miles at two hundred fifty-four miles per hour, then a twenty-five thousand dollar set works out at about three hundred ninety-four dollars per mile at that speed, by our arithmetic, and a forty-five thousand dollar set at about seven hundred nine.",
-   "query": "Veyron top-speed tyre cost",
+   "query": "Bugatti Veyron engine",
    "caption": "$25,000 \u00f7 63.5 MI \u2248 $394/MILE \u00b7 $45,000 \u00f7 63.5 MI \u2248 $709/MILE AT TOP SPEED (OUR ARITHMETIC; ILLUSTRATION ONLY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron top-speed tyre cost"
   },
   {
    "text": "And the fuel in the same fifteen minutes. At one point four gallons a minute, Wikipedia's figure, that is twenty-one gallons, by our arithmetic. At Car magazine's rate of about two point two gallons a minute, it would be about thirty-three. Either way, a fifteen-minute run at top speed burns twenty to thirty gallons and uses up a set of tyres worth tens of thousands of dollars.",
-   "query": "Veyron top-speed fuel",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "15 MIN \u00d7 1.4 GAL/MIN = 21 GAL \u00b7 15 MIN \u00d7 2.2 GAL/MIN \u2248 33 GAL (OUR ARITHMETIC FROM WIKIPEDIA AND CAR MAGAZINE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron top-speed fuel"
   },
   {
    "text": "Back to the thirty thousand dollar oil change, for twenty-seven hours of labour. By our arithmetic, that is about eleven hundred dollars per hour, but that is an all-in figure that includes oil, filters and everything else, not a labour rate. We have no breakdown. And twenty-seven hours is a week of work in a shop with other cars waiting, which explains why Motor One says the job can take up to a week.",
-   "query": "Veyron oil change per hour",
+   "query": "Bugatti Veyron",
    "caption": "$30,000 \u00f7 27 H \u2248 $1,111/H ALL-IN (NOT A LABOUR RATE; OUR ARITHMETIC) \u00b7 UP TO A WEEK (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron oil change per hour"
   },
   {
    "text": "Rental gives a different view of cost. At twenty thousand dollars a day, CNBC's figure for Royalty Exotic Cars, the original one point seven million dollar price equals eighty-five days of rental, by our arithmetic. The company says the rentals are for films, photo shoots and trade shows, not recreational driving.",
-   "query": "Veyron rental maths",
+   "query": "Bugatti Veyron 16.4",
    "caption": "$1.7M \u00f7 $20,000 = 85 DAYS OF RENTAL (OUR ARITHMETIC) \u00b7 RENTALS FOR FILMS, PHOTO SHOOTS, TRADE SHOWS (ROYALTY EXOTIC CARS, CNBC 2018)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron rental maths"
   },
   {
    "text": "Price over time, in the sources. New, about one point seven million dollars. Wrecked in twenty fourteen, two hundred seventy-seven thousand. A twenty ten coupe in October twenty twenty-five, two point two oh five million. A twenty fourteen special edition in September twenty twenty-six, about five point four million. The one-off Sang Bleu a little over three million in twenty twenty-four. These are different cars, so it is not a trend line.",
-   "query": "Veyron prices over time",
+   "query": "Bugatti Veyron interior",
    "caption": "NEW ~$1.7M \u00b7 WRECK 2014 $277K \u00b7 2010 COUPE OCT 2025 $2.205M \u00b7 SANG BLEU 2024 ~$3M+ \u00b7 WIMILLE SEPT 2026 ~$5.4M \u2014 DIFFERENT CARS, NOT A TREND",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron prices over time"
   },
   {
    "text": "There is one more cost we should not forget, the cost of being wrong about a number. The oil change figures vary tenfold, the tyre figures by eighty percent, the fuel figures by more than fifty. Anyone budgeting for a Veyron on one article would be misled. The responsible approach is to get written quotes from certified Bugatti service centres, and the sources suggest that is the only route anyway.",
-   "query": "Veyron cost uncertainty",
+   "query": "Bugatti Veyron rear",
    "caption": "OIL $3K\u2013$30K (10\u00d7) \u00b7 TYRES $25K\u2013$45K (+80%) \u00b7 FUEL RATE 1.4\u20132.2 GAL/MIN (+57%) \u00b7 CERTIFIED CENTRES ONLY (MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron cost uncertainty"
   },
   {
    "text": "Finally, the Chiron. Wikipedia says its base price was two point four million euros, and Bugatti's press release says the Chiron Super Sport has a WLTP combined consumption of twenty-one point five litres per hundred kilometres. Our sources do not give Chiron service or tyre costs. So the Veyron, for all its reputation, is simply the better documented of the two when it comes to what it costs to keep.",
-   "query": "Veyron vs Chiron cost documentation",
+   "query": "Bugatti Chiron",
    "caption": "CHIRON BASE \u20ac2.4M (WIKIPEDIA) \u00b7 SUPER SPORT 21.5 L/100 KM (BUGATTI) \u00b7 CHIRON SERVICE/TYRE COSTS: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Veyron vs Chiron cost documentation"
   },
   {
    "text": "So what does it really cost to own a Bugatti Veyron? On the figures we can show: one point seven million dollars new for the base car, twenty-five to forty-five thousand for a set of tyres depending on who you ask, an annual service approaching twenty thousand, an oil change quoted anywhere between three thousand and thirty thousand, a transmission above one hundred twenty thousand, and fuel at eight to fourteen miles per gallon.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Veyron Grand Sport",
    "caption": "NEW $1.7M \u00b7 TYRES $25K\u2013$45K \u00b7 ANNUAL SERVICE ~$20K \u00b7 OIL CHANGE $3K\u2013$30K \u00b7 TRANSMISSION >$120K \u00b7 8\u201314 MPG",
    "cuts": 3,
-   "chapter": "The honest total"
+   "chapter": "The honest total",
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "Our reference price for this video is one point seven million dollars, the base price of the standard Veyron in Wikipedia. It is a published new-car figure. The used market has since gone far above it for good cars, and far below it for wrecks. And between the two sits a service bill that no two sources describe the same way, which is the main lesson of this video.",
    "query": "Bugatti Veyron",
    "caption": "REFERENCE PRICE: $1.7 MILLION (WIKIPEDIA)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "What our sources do not say. Insurance. Storage. Registration. How often tyres, transmissions or other big parts need replacing. Whether the oil change quotes differ by year, shop or scope. And what a typical Veyron costs to run in a year. If you have a reliable published source for any of them, share it in the comments, and we will update the description.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Veyron 16.4",
    "caption": "NOT PUBLISHED: INSURANCE \u00b7 STORAGE \u00b7 REGISTRATION \u00b7 PART REPLACEMENT INTERVALS \u00b7 WHY OIL CHANGE QUOTES DIFFER \u00b7 TYPICAL ANNUAL RUNNING COST",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   },
   {
    "text": "Would you take a Veyron at today's auction prices, knowing what the service might cost? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Veyron, compare it with the Chiron, and tell why it almost never happened. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
-   "query": "Bugatti Veyron",
+   "query": "Bugatti Chiron",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Bugatti Veyron"
   }
  ]
 }

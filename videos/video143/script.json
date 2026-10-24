@@ -9,310 +9,360 @@
    "query": "Ram 1500 TRX",
    "caption": "WHAT IT REALLY COSTS TO OWN A RAM TRX",
    "cuts": 8,
-   "chapter": "Intro"
+   "chapter": "Intro",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "We read Edmunds, Kelley Blue Book, the Energy Information Administration, the federal recall database, tyre retailers, Ram's own releases, and several magazines. Edmunds and Kelley Blue Book are estimates, not receipts. Where we do the arithmetic, it is labelled as ours, and where there is no published number, we say so.",
    "query": "Ram 1500 TRX",
    "caption": "SOURCES: EDMUNDS \u00b7 KBB \u00b7 EIA \u00b7 NHTSA RECALLS \u00b7 TYRE RETAILERS \u00b7 RAM RELEASES \u00b7 MAGAZINES \u00b7 COMMUNITY FORUM (LABELLED) \u00b7 OUR ARITHMETIC IS LABELLED",
-   "cuts": 8
+   "cuts": 8,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "Start with the sticker, which has changed a lot. Ram's release for the first truck gave sixty-nine thousand, nine hundred ninety-five dollars plus a sixteen ninety-five destination charge. By our arithmetic, that is seventy-one thousand, six hundred ninety dollars, or point nine years of the Census Bureau's median household income of eighty-three thousand, seven hundred thirty.",
-   "query": "TRX 2021 price",
+   "query": "Ram 1500 TRX",
    "caption": "2021 TRX: $69,995 + $1,695 = $71,690 (RAM RELEASE; OUR SUM) \u00b7 \u00f7 $83,730 MEDIAN HOUSEHOLD INCOME (CENSUS 2024) \u2248 0.86 YEARS (OUR ARITHMETIC)",
    "cuts": 5,
-   "chapter": "The purchase price"
+   "chapter": "The purchase price",
+   "orig_query": "TRX 2021 price"
   },
   {
    "text": "MotorTrend's comparison listed the twenty twenty-three base TRX at eighty-five thousand, seven hundred eighty-five. Motor1 listed the twenty twenty-four standard truck at ninety-seven thousand, seven hundred thirty, and the Final Edition at one hundred nineteen thousand, six hundred twenty with destination. By our arithmetic, those are one point zero, one point two and one point four years of median household income.",
-   "query": "TRX 2023-24 prices",
+   "query": "Ram 1500 TRX",
    "caption": "2023 BASE $85,785 (MOTORTREND) \u2248 1.02 YR \u00b7 2024 STANDARD $97,730 \u2248 1.17 YR \u00b7 2024 FINAL EDITION $119,620 \u2248 1.43 YR OF MEDIAN INCOME (MOTOR1; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX 2023-24 prices"
   },
   {
    "text": "KBB confirms the Final Edition arithmetic: a starting price of one hundred seventeen thousand, six hundred twenty-five dollars plus a mandatory nineteen ninety-five destination fee. By our arithmetic, that totals one hundred nineteen thousand, six hundred twenty, which agrees with Motor1. It was limited to four thousand trucks and announced on the thirtieth of August twenty twenty-three.",
-   "query": "Final Edition price check",
+   "query": "Ford Raptor R",
    "caption": "KBB: $117,625 + $1,995 DEST = $119,620 \u2713 (OUR SUM) \u00b7 LIMITED TO 4,000 \u00b7 ANNOUNCED 30 AUG 2023 (KBB; MOTOR1)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Final Edition price check"
   },
   {
    "text": "The twenty twenty-seven truck starts at ninety-nine thousand, nine hundred ninety-five dollars plus a twenty-five ninety-five destination charge, in Ram's release. The Drive and Motor1 report slightly different totals, one hundred two thousand, seven ninety and one hundred two thousand, two ninety. By our arithmetic, Ram's own total is one hundred two thousand, five hundred ninety, which is one point two years of median income.",
-   "query": "2027 TRX price",
+   "query": "Ram 1500 TRX",
    "caption": "RAM: $99,995 + $2,595 = $102,590 (OUR SUM) \u00b7 THE DRIVE $102,790 \u00b7 MOTOR1 $102,290 \u00b7 $102,590 \u00f7 $83,730 \u2248 1.23 YEARS (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX price"
   },
   {
    "text": "Against the average new vehicle, fifty thousand, eighty-nine dollars in August twenty twenty-six according to Kelley Blue Book, the twenty twenty-seven TRX starts at about two times the average. By our arithmetic, the ninety-nine thousand, nine hundred ninety-five starting price is one point nine nine times the average, and the Final Edition was two point four times.",
-   "query": "TRX vs average new vehicle",
+   "query": "Ram 1500 TRX",
    "caption": "$99,995 \u00f7 $50,089 = 1.99\u00d7 \u00b7 $119,620 \u00f7 $50,089 = 2.39\u00d7 (KBB AUG 2026 AVERAGE; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX vs average new vehicle"
   },
   {
    "text": "Depreciation first, using Kelley Blue Book's twenty twenty-one TRX page. The current resale value is fifty-four thousand, five hundred dollars and the trade-in value forty-eight thousand. KBB says the truck lost thirteen thousand, seven hundred sixty-six dollars, or twenty percent, in the last three years. Those values are valid through the twenty-third of October twenty twenty-six.",
-   "query": "KBB TRX depreciation",
+   "query": "Ram 1500 TRX",
    "caption": "KBB 2021 TRX: RESALE $54,500 \u00b7 TRADE-IN $48,000 \u00b7 \u2212$13,766 (20%) IN 3 YEARS \u00b7 VALUES VALID THROUGH 23 OCT 2026",
    "cuts": 3,
-   "chapter": "What it loses in value"
+   "chapter": "What it loses in value",
+   "orig_query": "KBB TRX depreciation"
   },
   {
    "text": "The yearly pattern is useful. KBB lists seven thousand, eight hundred nine for twenty twenty-three, fifty-seven sixty-seven for twenty twenty-four, forty-eight seventy-two for twenty twenty-five, and thirty-one twenty-seven for the current year so far. By our arithmetic, each year's loss is smaller than the one before. That is the normal shape of depreciation.",
-   "query": "Depreciation by year",
+   "query": "Ram TRX rear",
    "caption": "KBB: 2023 $7,809 \u00b7 2024 $5,767 \u00b7 2025 $4,872 \u00b7 NOW $3,127 (EACH SMALLER THAN THE LAST) (KBB; OUR OBSERVATION)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Depreciation by year"
   },
   {
    "text": "Compare the first sticker with today's resale. A base twenty twenty-one TRX at seventy-one thousand, six hundred ninety delivered, against fifty-four thousand, five hundred now. By our arithmetic, that is a loss of seventeen thousand, one hundred ninety dollars, or twenty-four percent. It is rough, since we do not know the trim of KBB's example, and Launch Edition trucks cost more.",
-   "query": "TRX loss vs original sticker",
+   "query": "Ram 1500 TRX",
    "caption": "$71,690 \u2212 $54,500 = $17,190 = 24.0% (OUR ARITHMETIC; TRIM OF KBB EXAMPLE UNKNOWN; LAUNCH EDITION COST MORE)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX loss vs original sticker"
   },
   {
    "text": "Edmunds uses a different method. Its page for the twenty twenty-three TRX gives a total cash price of seventy-four thousand, seventy-eight dollars, based on the used private-party value, and five-year depreciation of twenty-one thousand, two hundred ninety-three. By our arithmetic, that is twenty-nine percent of that cash price, or about forty-two hundred fifty-nine dollars a year.",
-   "query": "Edmunds depreciation",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS 2023 TRX: CASH PRICE $74,078 \u00b7 5-YR DEPRECIATION $21,293 = 28.7% = $4,259/YEAR (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds depreciation"
   },
   {
    "text": "Edmunds also shows a suggested price of seventy-five thousand, five hundred eighty-eight dollars for a used twenty twenty-four TRX, in a widget on its article about the TRX ending. By our arithmetic, against the ninety-seven thousand, seven hundred thirty standard price, that is a drop of twenty-two thousand, one hundred forty-two, or twenty-three percent. The widget has no date, so we treat it as a rough guide.",
-   "query": "Used 2024 TRX",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS WIDGET (UNDATED): USED 2024 TRX $75,588 vs $97,730 NEW \u2192 \u2212$22,142 = \u221222.7% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Used 2024 TRX"
   },
   {
    "text": "Selling method matters. KBB lists private-party values for a good-condition truck of fifty-two thousand, six hundred twenty dollars, and a trade-in value of forty-seven thousand, two hundred fifty. By our arithmetic, selling privately instead of trading in is worth five thousand, three hundred seventy dollars, more than ten percent of the trade-in value.",
-   "query": "Private vs trade-in",
+   "query": "Ram 1500 TRX",
    "caption": "KBB GOOD CONDITION: PRIVATE $52,620 vs TRADE-IN $47,250 \u2192 $5,370 = 11.4% OF TRADE-IN (KBB; OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Private vs trade-in"
   },
   {
    "text": "Fuel is the line that surprises people. KBB lists the EPA rating of the TRX at ten miles per gallon in the city, fourteen on the highway and twelve combined. The Energy Information Administration says the average U.S. price of regular gasoline for the week of the nineteenth of October twenty twenty-six was four dollars, twenty-eight point four cents a gallon.",
-   "query": "TRX fuel inputs",
+   "query": "Ram 1500 TRX",
    "caption": "EPA 10 CITY / 14 HWY / 12 COMBINED MPG (KBB) \u00b7 EIA REGULAR GASOLINE, WEEK OF 19 OCT 2026: $4.284/GALLON",
    "cuts": 3,
-   "chapter": "Fuel"
+   "chapter": "Fuel",
+   "orig_query": "TRX fuel inputs"
   },
   {
    "text": "By our arithmetic, at twelve miles per gallon and four dollars, twenty-eight cents, each mile costs thirty-five point seven cents. At ten, it is forty-two point eight cents, and at fourteen, thirty point six. A hundred miles of mixed driving, at the combined rating, costs thirty-five dollars seventy. These are our calculations from the two published inputs.",
-   "query": "Fuel cost per mile",
+   "query": "Ram TRX rear",
    "caption": "$4.284 \u00f7 12 = $0.357/MI \u00b7 \u00f7 10 = $0.428 \u00b7 \u00f7 14 = $0.306 \u00b7 100 MI \u2248 $35.70 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel cost per mile"
   },
   {
    "text": "Now the yearly cost, under assumptions we state. At twelve thousand miles a year, one thousand gallons, or four thousand, two hundred eighty-four dollars. At fifteen thousand, twelve hundred fifty gallons, or fifty-three fifty-five. At twenty thousand, sixteen sixty-seven gallons, or seven thousand, one hundred forty. The mileages are our assumptions, not figures from any source.",
-   "query": "Fuel cost per year",
+   "query": "Ram TRX interior",
    "caption": "12,000 MI \u2192 1,000 GAL \u2192 $4,284 \u00b7 15,000 MI \u2192 1,250 GAL \u2192 $5,355 \u00b7 20,000 MI \u2192 1,667 GAL \u2192 $7,140 (OUR ARITHMETIC; MILEAGES ARE ASSUMPTIONS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel cost per year"
   },
   {
    "text": "Edmunds puts five-year fuel for the TRX at thirty-eight thousand, ninety-three dollars. By our arithmetic, that is seventy-six hundred eighteen dollars a year. At today's price, our calculation says that would need about twenty-one thousand, three hundred miles a year at twelve miles per gallon. Edmunds does not show its mileage or fuel price, so the difference may be either.",
-   "query": "Edmunds vs our fuel estimate",
+   "query": "Ram 1500 TRX",
    "caption": "$38,093 \u00f7 5 = $7,619/YEAR \u2192 \u00f7 $4.284 = 1,778 GAL \u2192 \u00d7 12 = ~21,300 MI/YEAR (OUR ARITHMETIC) \u00b7 EDMUNDS' ASSUMPTIONS NOT SHOWN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds vs our fuel estimate"
   },
   {
    "text": "At fifteen thousand miles a year and today's price held constant, five years of fuel would be twenty-six thousand, seven hundred seventy-five dollars. That is our figure, not Edmunds'. It is eleven thousand, three hundred eighteen less than Edmunds' estimate. Even at our lower figure, fuel would be larger than the five-year insurance and repair costs added together.",
-   "query": "Five-year fuel at 15,000 miles",
+   "query": "Ram 1500 TRX front",
    "caption": "$5,355 \u00d7 5 = $26,775 (OUR ARITHMETIC; PRICE HELD CONSTANT) \u00b7 EDMUNDS $38,093 \u2212 $26,775 = $11,318 \u00b7 INSURANCE $7,815 + REPAIRS $3,160 = $10,975 < $26,775",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Five-year fuel at 15,000 miles"
   },
   {
    "text": "Edmunds' five-year table for the TRX lists insurance at seven thousand, eight hundred fifteen dollars. By our arithmetic, that is fifteen hundred sixty-three dollars a year, or about one hundred thirty dollars a month. The page does not say where the driver lives, their age, or their record, which are the things that decide an insurance quote.",
-   "query": "TRX insurance",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS 5-YR INSURANCE $7,815 \u2192 $1,563/YEAR \u2192 ~$130/MONTH (OUR ARITHMETIC) \u00b7 DRIVER PROFILE AND STATE NOT SHOWN",
    "cuts": 3,
-   "chapter": "Insurance, maintenance and repairs"
+   "chapter": "Insurance, maintenance and repairs",
+   "orig_query": "TRX insurance"
   },
   {
    "text": "Maintenance is listed at eighty-five ninety-three, and repairs at thirty-one sixty. By our arithmetic, that is seventeen hundred nineteen dollars a year for maintenance and six hundred thirty-two for repairs. We note that Edmunds shows exactly the same repairs figure, thirty-one sixty, for the Ford Raptor R and the standard Raptor, which suggests a formula rather than a truck-specific measurement.",
-   "query": "Maintenance and repairs",
+   "query": "Ford F-150 Raptor",
    "caption": "MAINT $8,593 \u2192 $1,719/YEAR \u00b7 REPAIRS $3,160 \u2192 $632/YEAR (OUR ARITHMETIC) \u00b7 SAME $3,160 SHOWN FOR RAPTOR R AND RAPTOR (EDMUNDS) \u2192 LIKELY A FORMULA",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Maintenance and repairs"
   },
   {
    "text": "Taxes and fees are eighty-two fifty-eight, and financing is fourteen thousand, nine hundred ninety-six. By our arithmetic, financing alone is about fifteen percent of the five-year total, and about twenty percent of the cash price. Edmunds does not show the loan rate or down payment, so this line depends heavily on assumptions we cannot see.",
-   "query": "Taxes and financing",
+   "query": "Ram TRX rear",
    "caption": "TAX/FEES $8,258 \u00b7 FINANCING $14,996 = 14.7% OF $102,208 \u00b7 20.2% OF $74,078 CASH PRICE (OUR ARITHMETIC) \u00b7 RATE AND DOWN PAYMENT NOT SHOWN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Taxes and financing"
   },
   {
    "text": "Add the table back up. Depreciation, twenty-one thousand, two hundred ninety-three. Insurance, seventy-eight fifteen. Maintenance, eighty-five ninety-three. Repairs, thirty-one sixty. Fuel, thirty-eight ninety-three. Financing, fourteen nine ninety-six. Taxes and fees, eighty-two fifty-eight. By our arithmetic, that totals one hundred two thousand, two hundred eight, which matches Edmunds' total.",
-   "query": "Edmunds total",
+   "query": "Ram TRX interior",
    "caption": "$21,293 + $7,815 + $8,593 + $3,160 + $38,093 + $14,996 + $8,258 = $102,208 \u2713 (EDMUNDS; OUR SUM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds total"
   },
   {
    "text": "Per year, that is twenty thousand, four hundred forty-two dollars. By our arithmetic, that is about seventeen hundred a month, or fifty-six dollars a day. If the driver covers fifteen thousand miles a year, our assumption, it is one dollar thirty-six a mile. These are Edmunds' estimates divided by our assumptions, so treat the per-mile figure as an illustration.",
-   "query": "TRX yearly and per-mile",
+   "query": "Ford Raptor R",
    "caption": "$102,208 \u00f7 5 = $20,442/YEAR \u2248 $1,703/MONTH \u2248 $56/DAY \u00b7 \u00f7 15,000 MI = $1.36/MI (OUR ARITHMETIC; MILEAGE ASSUMED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX yearly and per-mile"
   },
   {
    "text": "For a sense of scale, the average new vehicle costs fifty thousand, eighty-nine dollars. By our arithmetic, the TRX's estimated five-year cost to own is two point zero four times that, and it is one point two two years of a median household's income. Those are comparisons of different things, a price against a cost, and we give them only for scale.",
-   "query": "TRX cost vs average car",
+   "query": "Ram 1500 TRX",
    "caption": "$102,208 \u00f7 $50,089 = 2.04\u00d7 \u00b7 $102,208 \u00f7 $83,730 = 1.22 YEARS OF MEDIAN INCOME (OUR ARITHMETIC; A COST vs A PRICE: SCALE ONLY)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX cost vs average car"
   },
   {
    "text": "Tyres are a hidden cost on a truck with thirty-five-inch rubber. Ram's first release lists Goodyear Wrangler Territory all-terrains on eighteen-inch wheels. A tyre retailer, Tires Easy, lists the matching size, three twenty-five sixty-five eighteen, from one hundred ninety-seven dollars sixty per tyre for an unknown-brand all-terrain to four hundred sixty-two dollars twelve for a Goodyear Duratrac.",
-   "query": "TRX tyre prices",
+   "query": "Ram 1500 TRX",
    "caption": "SIZE LT325/65R18 \u00b7 TIRES EASY LISTINGS: $197.60 (LANDGOLDEN A/T) TO $462.12 (GOODYEAR DURATRAC) PER TYRE \u00b7 RAM ORIGINAL: GOODYEAR WRANGLER TERRITORY AT ON 18-IN WHEELS",
    "cuts": 3,
-   "chapter": "Tyres and wheels"
+   "chapter": "Tyres and wheels",
+   "orig_query": "TRX tyre prices"
   },
   {
    "text": "The retailer's Goodyear Wrangler Territory R T, which is a different model from the Territory A T on the truck, is three hundred forty-three dollars five cents. By our arithmetic, a set of four is one thousand, three hundred seventy-two dollars twenty, and the cheapest listing's set is seven hundred ninety dollars forty. These exclude installation and a federal excise tax fee on some listings.",
-   "query": "Tyre sets",
+   "query": "Ford F-150 Raptor R",
    "caption": "TERRITORY RT $343.05 \u00d7 4 = $1,372.20 \u00b7 CHEAPEST $197.60 \u00d7 4 = $790.40 (OUR ARITHMETIC) \u00b7 EXCLUDES INSTALLATION; SOME LISTINGS ADD $13.60 FET \u00b7 RT \u2260 OEM AT MODEL",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyre sets"
   },
   {
    "text": "A community forum, which we treat as unverified, has a different picture. One poster in March twenty twenty-one said a dealer quoted a thousand dollars for each beadlock wheel, five hundred fifty for a tyre, and about forty for a sensor, or seven thousand, nine hundred ten dollars for a set of five without installation. Another poster, who said he was a Goodyear dealer, said the factory tyre cost him two hundred thirteen.",
-   "query": "Forum dealer quotes",
+   "query": "Ram TRX rear",
    "caption": "FORUM (UNVERIFIED), MARCH 2021: WHEEL $1,000 \u00b7 TYRE $550 \u00b7 SENSOR ~$40 \u00b7 SET OF 5 $7,910 \u00b7 ANOTHER POSTER (SAID HE WAS A GOODYEAR DEALER): FACTORY TYRE $213 COST, $263 MOUNTED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Forum dealer quotes"
   },
   {
    "text": "Check the forum arithmetic. Five wheels at a thousand, five tyres at five fifty, and four sensors at forty make seven thousand, nine hundred ten, as the poster said. By our arithmetic, the tyres alone at five hundred fifty are twenty-seven hundred fifty for five. The two forum quotes differ by a factor of two, and we cannot verify either.",
-   "query": "Forum arithmetic",
+   "query": "Ram TRX interior",
    "caption": "5\u00d7$1,000 + 5\u00d7$550 + 4\u00d7$40 = $7,910 \u2713 (OUR SUM) \u00b7 $550 vs $263 MOUNTED \u2192 2.1\u00d7 APART \u00b7 COMMUNITY CLAIMS, UNVERIFIED",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Forum arithmetic"
   },
   {
    "text": "One warranty note: Tire Rack's page for the Wrangler Territory A T lists no treadwear warranty for any size. Tires Easy shows fifty to sixty thousand mile warranties for several cheaper brands. We did not find a published life for the original tyre on a TRX, so how often an owner buys a set is, in our sources, unknown.",
-   "query": "Tyre life",
+   "query": "Ram 1500 TRX",
    "caption": "TIRE RACK: TERRITORY AT TREADWEAR WARRANTY 'NONE' \u00b7 TIRES EASY: 50\u201360K-MILE WARRANTIES ON SOME CHEAPER BRANDS \u00b7 TRX TYRE LIFE: NOT PUBLISHED IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Tyre life"
   },
   {
    "text": "Where does each part of Edmunds' total sit? By our arithmetic, fuel is thirty-seven percent, depreciation twenty-one, financing fifteen, maintenance eight, taxes and fees eight, insurance almost eight, and repairs three. Those add up to one hundred percent. The truck's price is only part of the story, and the part you pay at the pump is the biggest.",
-   "query": "Shares of the TRX total",
+   "query": "Ram 1500 TRX front",
    "caption": "FUEL 37.3% \u00b7 DEPRECIATION 20.8% \u00b7 FINANCING 14.7% \u00b7 MAINTENANCE 8.4% \u00b7 TAXES/FEES 8.1% \u00b7 INSURANCE 7.6% \u00b7 REPAIRS 3.1% = 100% OF $102,208 (EDMUNDS; OUR ARITHMETIC)",
    "cuts": 3,
-   "chapter": "Comparing the lines"
+   "chapter": "Comparing the lines",
+   "orig_query": "Shares of the TRX total"
   },
   {
    "text": "Compare the TRX with the Raptor R line by line, from Edmunds. Insurance is three hundred forty-five dollars higher for the Ram, 4.6 percent more. Maintenance is seventeen hundred thirty lower, almost seventeen percent less. The Ford's estimate of ten thousand, three hundred twenty-three for maintenance is higher, but Edmunds does not explain why.",
-   "query": "TRX vs Raptor R line items",
+   "query": "Ram 1500 TRX",
    "caption": "INSURANCE: TRX $7,815 vs R $7,470 (+$345, +4.6%) \u00b7 MAINTENANCE: TRX $8,593 vs R $10,323 (\u2212$1,730, \u221216.8%) (EDMUNDS; OUR ARITHMETIC) \u00b7 REASON NOT GIVEN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX vs Raptor R line items"
   },
   {
    "text": "Edmunds also lists the standard Raptor with the V6 at ninety-five thousand, two hundred sixty-five dollars over five years. By our arithmetic, the TRX costs six thousand, nine hundred forty-three more than that. Fuel accounts for most of it: twenty-eight thousand, five hundred eighty-five for the V6 against thirty-eight thousand, ninety-three for the TRX, a difference of nine thousand, five hundred eight.",
-   "query": "TRX vs standard Raptor",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS STANDARD RAPTOR (V6) $95,265 vs TRX $102,208 \u2192 +$6,943 \u00b7 FUEL $28,585 vs $38,093 \u2192 +$9,508 (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX vs standard Raptor"
   },
   {
    "text": "What does twelve miles per gallon cost compared with sixteen, the combined rating Autoblog lists for the V6 Raptor? By our arithmetic, at fifteen thousand miles a year, that is one thousand, two hundred fifty gallons against nine hundred thirty-eight, a difference of three hundred twelve and a half gallons. At four dollars, twenty-eight cents, it is about thirteen hundred thirty-nine dollars a year.",
-   "query": "12 mpg vs 16 mpg",
+   "query": "Ford F-150 Raptor",
    "caption": "15,000 MI: 12 MPG = 1,250 GAL \u00b7 16 MPG = 937.5 GAL \u2192 312.5 GAL \u00d7 $4.284 \u2248 $1,339/YEAR (OUR ARITHMETIC; 16 MPG FROM AUTOBLOG; MILEAGE ASSUMED)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "12 mpg vs 16 mpg"
   },
   {
    "text": "The fuel price is a swing factor. By our arithmetic, each one dollar change in the price of a gallon changes a TRX owner's yearly bill by twelve hundred fifty dollars, at fifteen thousand miles. Edmunds does not tell us the price it assumed, so a different price would change its five-year number by thousands.",
-   "query": "Fuel price sensitivity",
+   "query": "Ram 1500 TRX",
    "caption": "15,000 MI \u00f7 12 MPG = 1,250 GAL \u2192 $1.00/GAL = $1,250/YEAR; 5 YR = $6,250 (OUR ARITHMETIC; EDMUNDS' PRICE ASSUMPTION NOT SHOWN)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Fuel price sensitivity"
   },
   {
    "text": "Taxes and fees are also worth a look. Edmunds lists eighty-two fifty-eight on a cash price of seventy-four thousand, seventy-eight. By our arithmetic, that is eleven point one percent. It depends on the state and county, and the page does not say which one it assumes, so a buyer in a low-tax state would see a smaller number.",
-   "query": "Taxes and fees share",
+   "query": "Ford Raptor R",
    "caption": "$8,258 \u00f7 $74,078 = 11.1% (OUR ARITHMETIC; LOCATION NOT STATED) \u00b7 VARIES BY STATE",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Taxes and fees share"
   },
   {
    "text": "Destination charges have risen too. The first release listed sixteen ninety-five. The Final Edition carried nineteen ninety-five. Ram's twenty twenty-seven release lists twenty-five ninety-five, and The Drive reports twenty-seven ninety-five. By our arithmetic, Ram's figure is nine hundred dollars, or fifty-three percent, above the first.",
-   "query": "Destination charges",
+   "query": "Ram 1500 TRX",
    "caption": "$1,695 (2020) \u2192 $1,995 (2023\u201324) \u2192 $2,595 (RAM 2027) / $2,795 (THE DRIVE) \u00b7 $2,595 \u2212 $1,695 = $900 = +53.1% (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Destination charges"
   },
   {
    "text": "Options add more. MotorTrend's TRX cost eighty-five thousand, seven hundred eighty-five as a base truck and one hundred three thousand, nine hundred eighty as tested. By our arithmetic, the options added eighteen thousand, one hundred ninety-five dollars, or twenty-one percent. Motor1 estimated that matching a Raptor R's equipment would take about twenty thousand dollars in options.",
-   "query": "Options",
+   "query": "Ford F-150 Raptor",
    "caption": "MOTORTREND TRX: $85,785 BASE \u2192 $103,980 AS TESTED = +$18,195 = +21.2% (OUR ARITHMETIC) \u00b7 MOTOR1: ~$20,000 IN OPTIONS TO MATCH A RAPTOR R",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Options"
   },
   {
    "text": "Edmunds' cash price for the Raptor R is ninety-nine thousand, nine hundred seventy-nine dollars, against seventy-four thousand, seventy-eight for the TRX. By our arithmetic, that is a difference of twenty-five thousand, nine hundred one, or thirty-five percent of the TRX's price. But Edmunds' cash prices come from used values plus typical options, so they do not match the sticker comparison.",
-   "query": "Edmunds cash prices",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS CASH PRICE: RAPTOR R $99,979 vs TRX $74,078 \u2192 +$25,901 = +35.0% (OUR ARITHMETIC; USED-VALUE-BASED, NOT STICKER)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Edmunds cash prices"
   },
   {
    "text": "There is also an environmental cost that Wikipedia records. The American Council for an Energy-Efficient Economy ranked the TRX the worst-performing mass-market vehicle for twenty twenty-one, twenty twenty-two and twenty twenty-three. That is not a cost to the owner's wallet. But it is a cost that the ranking says the truck carries, and it comes from the same twelve miles per gallon.",
-   "query": "ACEEE ranking",
+   "query": "Ram 1500 TRX",
    "caption": "ACEEE: 'WORST-PERFORMING MASS-MARKET VEHICLE' 2021, 2022, 2023 (WIKIPEDIA) \u00b7 SAME 12 MPG COMBINED (KBB) \u00b7 NOT A WALLET COST",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "ACEEE ranking"
   },
   {
    "text": "Finally, one thing the TRX owners are paying for that we cannot price: the limited editions. The Final Edition was capped at four thousand trucks, and the Launch Edition at seven hundred two. Our sources have no resale data for either, so we cannot say whether those badges kept their value better than the standard truck.",
-   "query": "Limited editions and value",
+   "query": "Ram 1500 TRX",
    "caption": "FINAL EDITION 4,000 \u00b7 LAUNCH EDITION 702 (RAM; MOTOR1) \u00b7 RESALE DATA FOR EITHER: NOT IN OUR SOURCES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Limited editions and value"
   },
   {
    "text": "Recalls do not cost the owner anything, but they say something about reliability. The federal safety database lists fifteen recalls for the twenty twenty-one Ram 1500, across all trims. By our reading of the list, none mention the TRX or the supercharged six point two litre engine by name. That is not the same as saying none of those trucks were included.",
-   "query": "NHTSA recalls",
+   "query": "Ram 1500 TRX",
    "caption": "NHTSA LIST FOR 2021 RAM 1500: 15 RECALLS, ALL TRIMS \u00b7 NONE NAMES THE TRX OR THE SUPERCHARGED 6.2 \u00b7 NOT PROOF THE TRX WAS EXCLUDED",
    "cuts": 3,
-   "chapter": "Recalls"
+   "chapter": "Recalls",
+   "orig_query": "NHTSA recalls"
   },
   {
    "text": "They are mostly software and small parts. Four rearview-display recalls. A wrong-sized spare. Side-curtain airbags with the wrong gas amount. A brake pedal clip, with owners told not to drive until repaired. Tailgate strikers. A stability control software fault. A mirror glass. Two driver airbag recalls. And seat belt anchors in July twenty twenty-six. Two others apply to diesel and eTorque engines.",
-   "query": "Recall contents",
+   "query": "Ram 1500 TRX front",
    "caption": "NHTSA: REARVIEW DISPLAY \u00d74 (21V438, 21V918, 22V638, 23V059) \u00b7 SPARE TYRE \u00b7 SIDE AIR BAGS \u00b7 BRAKE PEDAL CLIP (DO NOT DRIVE) \u00b7 TAILGATE \u00b7 ESC SOFTWARE \u00b7 MIRROR \u00b7 2 DRIVER AIRBAGS \u00b7 SEAT BELT ANCHORS (JULY 2026) \u00b7 2 FOR DIESEL/eTORQUE ENGINES",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Recall contents"
   },
   {
    "text": "By our arithmetic, the fifteen recalls break down as five in twenty twenty-one, three in twenty twenty-two, two each in twenty twenty-three, twenty twenty-four and twenty twenty-five, and one in twenty twenty-six. That is a count of campaign records, not of defective trucks, and the database does not show how many TRXs each campaign covered.",
-   "query": "Recalls by year",
+   "query": "Ram 1500 TRX",
    "caption": "2021: 5 \u00b7 2022: 3 \u00b7 2023: 2 \u00b7 2024: 2 \u00b7 2025: 2 \u00b7 2026: 1 = 15 (NHTSA LIST; OUR COUNT) \u00b7 TRXs PER CAMPAIGN: NOT SHOWN",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Recalls by year"
   },
   {
    "text": "Build the picture under stated assumptions. A twenty twenty-three TRX bought at Edmunds' cash price of seventy-four thousand, seventy-eight dollars, driven fifteen thousand miles a year for five years, would cost, by our arithmetic using our own fuel figure, about ninety thousand, eight hundred ninety dollars. We subtract Edmunds' thirty-eight thousand, ninety-three of fuel from its total, leaving sixty-four thousand, one hundred fifteen, and add our twenty-six thousand, seven hundred seventy-five. It is our scenario, not a published estimate.",
-   "query": "Our version of the total",
+   "query": "Ram 1500 TRX",
    "caption": "$102,208 \u2212 $38,093 + $26,775 = $90,890 (OUR ARITHMETIC: EDMUNDS LINES WITH FUEL AT $4.284 \u00d7 15,000 MI \u00d7 5 YR \u00f7 12 MPG)",
    "cuts": 3,
-   "chapter": "Putting it together"
+   "chapter": "Putting it together",
+   "orig_query": "Our version of the total"
   },
   {
    "text": "Either way, the answer is of the same order. Between ninety and one hundred two thousand dollars over five years, with depreciation already inside the total. That is eighteen to twenty thousand dollars a year. By our arithmetic, at the low end, it is about twenty-two percent of a median household's annual income every year, for five years.",
-   "query": "Range of totals",
+   "query": "Ram TRX rear",
    "caption": "$90,890\u2013$102,208 OVER 5 YR \u2192 $18,178\u2013$20,442/YEAR \u00b7 $18,178 \u00f7 $83,730 = 21.7% OF MEDIAN HOUSEHOLD INCOME PER YEAR (OUR ARITHMETIC)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Range of totals"
   },
   {
    "text": "Compare it with the TRX's rival. In a separate video, we showed Edmunds' five-year figure for the Ford Raptor R at one hundred nineteen thousand, four hundred nineteen. By our arithmetic, the TRX is seventeen thousand, two hundred eleven cheaper, mostly because of depreciation, financing, and the purchase price, with identical fuel and repair lines in the two tables.",
-   "query": "TRX vs Raptor R cost",
+   "query": "Ram 1500 TRX",
    "caption": "EDMUNDS RAPTOR R $119,419 vs TRX $102,208 \u2192 $17,211 (OUR ARITHMETIC) \u00b7 FUEL AND REPAIRS IDENTICAL IN BOTH TABLES (EDMUNDS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "TRX vs Raptor R cost"
   },
   {
    "text": "And the new truck? We found no cost-to-own table for the twenty twenty-seven TRX. It is more powerful, seven hundred seventy-seven horsepower against seven hundred two, and Ram has not published a fuel economy figure in the sources we read. So we can say the sticker has risen, but we cannot say the running costs have.",
-   "query": "2027 TRX running costs",
+   "query": "Ram 1500 TRX",
    "caption": "NO COST-TO-OWN OR EPA FIGURES FOUND FOR THE 2027 TRX \u00b7 777 HP vs 702 HP \u00b7 STICKER ~$99,995 START (RAM)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "2027 TRX running costs"
   },
   {
    "text": "What is missing. Ram's own service price list for the TRX. A real owner's annual bill. The tyre life of the original tyres. An EPA rating for the twenty twenty-seven truck. A recall list specific to the TRX. And what Edmunds assumed for mileage, fuel price and financing, which decides the largest lines in its table.",
    "query": "Ram 1500 TRX",
    "caption": "NOT IN OUR SOURCES: RAM SERVICE PRICE LIST \u00b7 REAL OWNER BILLS \u00b7 ORIGINAL TYRE LIFE \u00b7 2027 EPA RATING \u00b7 TRX-SPECIFIC RECALL LIST \u00b7 EDMUNDS' MILEAGE/FUEL/FINANCING ASSUMPTIONS",
    "cuts": 3,
-   "chapter": "What our sources do not say"
+   "chapter": "What our sources do not say",
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "So the honest answer is a range, built from estimates. About ninety to one hundred two thousand dollars over five years, with fuel as the largest single line and the purchase price second, if you count depreciation. If you own a TRX, or have a published bill, share it in the comments, and we will update the description.",
    "query": "Ram 1500 TRX",
    "caption": "RANGE: ~$90,900\u2013$102,200 / 5 YR (OUR ARITHMETIC FROM EDMUNDS + EIA + KBB) \u00b7 FUEL IS THE LARGEST LINE (EDMUNDS)",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   },
   {
    "text": "What is the most you have paid to fill up a truck? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the TRX, compare it with the Raptor R, and tell why Ram killed it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
    "query": "Ram 1500 TRX",
    "caption": "SUBSCRIBE: PICKUP REALITY",
-   "cuts": 3
+   "cuts": 3,
+   "orig_query": "Ram 1500 TRX"
   }
  ]
 }
