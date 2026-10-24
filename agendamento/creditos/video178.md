@@ -1,0 +1,108 @@
+# Photo credits: Czinger 21C vs McLaren Senna: The Difference Nobody Explains
+
+- 2024 Czinger 21C 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Czinger 21C (40203).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Czinger 21C (22782).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C (26224).jpg by Calreyn88, CC BY-SA 4.0
+- Czinger 21C brake at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- McLaren Senna, GIMS 2018, Le Grand-Saconnex (1X7A0404).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, GIMS 2018, Le Grand-Saconnex (1X7A0442).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0454).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0468).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0424).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0436).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0434).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0429).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0425).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0502).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- McLaren Senna 17.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 16.jpg by Calreyn88, CC BY-SA 4.0
+- Czinger 21C FOS2022.jpg by MrWalkr, CC BY-SA 4.0
+- Czinger 21C chassis at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C chassis rear at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- VW I.D. Buggy Genf 2019 1Y7A5934.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1287).jpg by Matti Blume, CC BY-SA 4.0
+- Hyundai Santa Fe, GIMS 2018, Le Grand-Saconnex (1X7A1735).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren MP4-4 and Honda RA168E engine Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- McLaren MP4-4 engine cover Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- McLaren Senna (2019) (53774737954).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Czinger 21C blackbird engine at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C front suspension at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C blackbird rear at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- McLaren Senna (2019) (55218001541).jpg by Charles from Port Chester, New York, CC0
+- McLaren Senna (2019) (53774737979).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Senna (2019) (55217997796).jpg by Charles from Port Chester, New York, CC0
+- Czinger 21C rear suspension at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C Blackbird at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C blackbird interior at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- McLaren Senna Shmee150 2.jpg by Tristan Surtel, CC BY-SA 4.0
+- McLaren Senna Shmee150.jpg by Tristan Surtel, CC BY-SA 4.0
+- McLaren Senna GTR.jpg by Calreyn88, CC BY-SA 4.0
+- Czinger 21C chassis front at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- DSCF1455 (52536770055).jpg by Stacy Sheff from Los Angeles, USA, CC0
+- IMGP1458 (53877764626).jpg by David Merrett from Daventry, England, CC BY 2.0
+- IMGP1461 (53878172870).jpg by David Merrett from Daventry, England, CC BY 2.0
+- IMGP1459 (53878172875).jpg by David Merrett from Daventry, England, CC BY 2.0
+- McLaren Senna Sempre.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna Sempre 3.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 18.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 14.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna Sempre 2.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 21.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna rear quarter SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren Senna prototype 3.jpg by Tristan Surtel, CC BY-SA 4.0
+- McLaren Senna prototype 7.jpg by Tristan Surtel, CC BY-SA 4.0
+- McLaren Senna prototype 2.jpg by Tristan Surtel, CC BY-SA 4.0
+- McLaren Senna GTR rear spoiler, with a life-size Lego McLaren 720s and Gabriel in the background, Brooklands Museum, Surrey, UK julesvernex2.jpg by Jules Verne Times Two, CC BY-SA 4.0
+- 2019 McLaren Senna, rear left (Greenwich 2019).jpg by Mr.choppers, CC BY-SA 3.0
+- McLaren Senna 13.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna Sempre 4.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 20.jpg by Calreyn88, CC BY-SA 4.0
+- Turn 5 Laguna Seca Raceway during Race 2 of MotoAmerica Junior Cup 2022.jpg by VagrantInquisitor, CC BY-SA 4.0
+- Military Appreciation Day at Mazda Raceway Laguna Seca (37083889620).jpg by Presidio of Monterey, Public domain
+- Laguna Seca's Corkscrew - 2014 (2).jpg by 菅野崇, CC BY-SA 3.0
+- McLaren Senna 19.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Senna 15.jpg by Calreyn88, CC BY-SA 4.0
+- 2019 McLaren Senna 8.jpg by Calreyn88, CC BY-SA 4.0
+- Boss 302 Laguna Seca edition.2011.jpg by Wileewilee, CC BY-SA 3.0
+- Choura Events Large Tented Structure at WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- Choura Events Double Decker Tented Structure for WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- Choura Events builds large tent for car show WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- Audi NA Laguna Seca.jpg by Tinou Bao from San Francisco, USA, CC BY 2.0
+- Laguna Seca February 2019 Courtesy of Gary Jahns.jpg by Schmiebel, CC BY-SA 4.0
+- Circuit of the americas cota (52781066233).jpg by Zach Catanzareti Photo, CC BY 2.0
+- Circuit of the Americas aerial view from WN4430.jpg by Spheroidite, CC0
+- Cirque du Soleil at Circuit of the Americas 2015.jpg by Larry D. Moore, CC BY 4.0
+- 2019 McLaren Senna 10.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren P1 GTR Senna Prototype 03.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren Senna GTR Concept at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- McLaren P1 GTR Senna Prototype 05.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren Senna (2019) (53773497262).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Senna (2019) (53774737984).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Honda RACING Gallery 1992 McLaren MP4-7A Ayrton Senna.jpg by BWard 1997, CC BY 4.0
+- McLaren P1 GTR Senna Prototype 07.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren P1 GTR Senna Prototype 06.jpg by Ank kumar, CC BY-SA 4.0
+- McLaren P1 GTR Senna Prototype 20.jpg by Ank kumar, CC BY-SA 4.0
+- Lotus sculpture at Goodwood Festival of Speed.jpg by Bruno Postle, CC BY-SA 2.0
+- 2019 McLaren Senna (Teddy Vlock), rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- McLaren MP4-5 (Senna) rear Honda Collection Hall.jpg by Morio, CC BY-SA 3.0
+- 2020 McLaren Senna GTR, Lanzante conversion, rear left.jpg by Mr.choppers, CC BY-SA 3.0
+- Senna helmet, Motortreff Bella Italia 2024, Munich (P1190404).jpg by Matti Blume, CC BY-SA 4.0
+- Ayrton Senna during the race in Spa-Francorchamps on 25 August 1991.jpg by George Voudouris, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Czinger 21C: https://en.wikipedia.org/wiki/Czinger_21C
+- Wikipedia, McLaren Senna: https://en.wikipedia.org/wiki/McLaren_Senna
+- Autocar, McLaren Senna: https://autocar.co.uk/node/87569
+- GoAuto (Tim Nicholson), McLaren hypercar takes Senna name, 11 Dec 2017: https://goauto.com.au/amp/68161/mclaren-hypercar-takes-senna-name.html
+- Superyachts.com, The McLaren Senna: The Ultimate Road-Legal Track Car: https://www.superyachts.com/lifestyle/story/the-mclaren-senna-the-ultimate-road-legal-track-car-5590
+- duPont Registry (Andrew Nabors), 2021 McLaren Senna Breaks Four Consecutive U.S. Track Records, 27 Aug 2020: https://news.dupontregistry.com/news/2021-mclaren-senna-breaks-four-consecutive-u-s-track-records
+- ASME, 3D Printing Meets High Performance in Czinger Hypercars, 27 Mar 2025: https://www.asme.org/topics-resources/content/3d-printing-meets-high-performance-in-czinger-hypercars
+- Backfire News via Yahoo Autos, 3D Printed Car Sets New Lap Record at Laguna Seca, 19 Mar 2024: https://autos.yahoo.com/3d-printed-car-sets-lap-183000639.html
+- GTPlanet, Czinger's 21C is a 270mph, 3D-Printed, V8 Hybrid Hypercar, 21 Feb 2020: https://www.gtplanet.net/czingers-21c-is-a-270mph-3d-printed-v8-hybrid-hypercar/
+- FastCar, Czinger 21C Laguna Seca lap record: https://www.fastcar.co.uk/?p=59698
