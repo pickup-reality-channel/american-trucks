@@ -1,0 +1,111 @@
+# Photo credits: 2 Secrets Hidden Inside the Ford Mustang GTD
+
+- 2024 Ford Mustang GTD 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD at Pebble Beach Concours 2023.jpg by Prova MO, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Ford Mustang GTD.jpg by Calreyn88, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53621605874).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (54926166505).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 4.0
+- Ford Mustang GTD (2024) (53621721145).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53620395797).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (53877996363).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Ford Mustang GTD (2024) (53620395782).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481618).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ford Mustang GTD (2024) (53621481583).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mustang GTD (54337064503).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- 2026 Ford Mustang GTD (55107992816).jpg by Mustang Joe, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913822).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209792665).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643139).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang VII Convertible Autofrühling Ulm IMG 9339.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Mustang S650 5.0 GT Shadow Black 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang S650 5.0 GT interior.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang S650 5.0 GT Race Red 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang GTD Spirit of America Edition (2025) (55209643094).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55213913877).jpg by Charles from Port Chester, New York, CC0
+- Ford Mustang GTD Spirit of America Edition (2025) (55208491817).jpg by Charles from Port Chester, New York, CC0
+- 1985 Ford GT40 Mk I Tribute (16577348725).jpg by Sicnag, CC BY 2.0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, front left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2024 Ford Mustang 2.3 EcoBoost in Race Red, rear left, 06-26-2024.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ford Mustang Mach-E GT IAA 2021 1X7A0176.jpg by Alexander Migl, CC BY-SA 4.0
+- 2018 Ford Mustang GT 5.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2018 Ford Mustang GT 5.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Ford Mustang VII Sindelfingen 2024 IMG 9164.jpg by Alexander-93, CC BY-SA 4.0
+- Paley Mustang WGI24 01.jpg by SmackJam, CC BY-SA 4.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200572.jpg by Ermell, CC BY-SA 4.0
+- Mustang GTD (53970047150).jpg by MIDWST.BLUR, CC BY 2.0
+- 1966 Ford Mustang coupe white 002.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 001.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- 1966 Ford Mustang coupe white 003.jpg by Hans-Jürgen Neubert, CC BY 4.0
+- Prag, Wenzelsplatz, Ford Mustang -- 2019 -- 101913.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Ford Mustang 5312121.jpg by Ermell, CC BY-SA 4.0
+- 1968 Ford Mustang V8, EMS 23, Essen (P1160889-RR).jpg by Matti Blume, CC BY-SA 4.0
+- MultimaticTechnicalCentreMarkham.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- MultimaticVan.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- MultimaticMarkhamOffice.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- Ford Mustang Kulmbach 2018 6170295.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, Classic Days 2019, Berlin (CDB90099).jpg by Matti Blume, CC BY-SA 4.0
+- Ford Mustang Oldtimertreffen Ebern 2019 6200300.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang, ADAC Deutschland Klassik 2025, Schwetzingen (20250726-P1048595).jpg by Matti Blume, CC BY-SA 4.0
+- Ford Mustang, Bj. 66, Lenkrad und Armaturenbrett (Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Ford Mustang Sachs Franken Classic 2018 P5201303.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang VI Mach 1 1X7A0304.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-59-14.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford GT Mustang-20210225-RM-170121.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang convertible Oldtimertreffen Ebern 2019 6200138.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-58-20.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford Mustang 5312665.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang cockpit 5312643.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2-door Hardtop Coupé- 6280159.jpg by Ermell, CC BY-SA 4.0
+- 1968 Ford Mustang Kulmbach-20220626-RM-155832.jpg by Ermell, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- 2009 Dodge Viper ACR 2.jpg by Calreyn88, CC BY 4.0
+- 2009 Dodge Viper ACR 1.jpg by Calreyn88, CC BY 4.0
+- 2009 Dodge Viper ACR.jpg by Calreyn88, CC BY 4.0
+- Mercedes-AMG GT Black Series IMG 0324.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG GT Black Series IMG 0331.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG GT Black Series Classic-Gala 2025 DSC 0767.jpg by Alexander-93, CC BY-SA 4.0
+- Ford Mustang convertible 5312550.jpg by Ermell, CC BY-SA 4.0
+- Ford Mustang 2014-09-07 12-59-00.jpg by Berthold Werner, CC BY-SA 3.0
+- Ford Mustang Cabrio cockpit Kulmbach 2018 61703212.jpg by Ermell, CC BY-SA 4.0
+- 2023 Ford Mustang GT3 2.jpg by Calreyn88, CC0
+- Ford Mustang GT3.jpg by Ford Media, CC BY-SA 4.0
+- Ford Mustang GT3 88 Lone Star Le Mans WEC Proton Competition.jpg by Dylantk0ch, CC BY 4.0
+- Jim Farley portrait photo, 2024.jpg by FordPhotographer, CC BY-SA 4.0
+- Jim Farley in race suit next to Shelby Cobra.jpg by FordPhotographer, CC BY-SA 4.0
+- Farley PO jeh.JPG by Jim.henderson, Public domain
+- All Blacks Souvenir Book, 1928 (14715643906).jpg by Archives New Zealand from New Zealand, CC BY-SA 2.0
+- LÉ Eithne (P31) - Dublin Maritime Festival 2010 (4669981691).jpg by William Murphy, CC BY-SA 2.0
+- Super Street Mustang.JPG by GSenkow, CC BY-SA 3.0
+- Richmond Raceway, Richmond - 4 2 23 (52793597470).jpg by Virginia Office of the Governor, CC BY 2.0
+- 220504-F-PF238-0149.jpg by Brian Valencia, Public domain
+- Ford Mustang Dark Horse SC Coupé (2026) (55209643189).jpg by Charles from Port Chester, New York, CC0
+- 2026 Ford Mustang SC.jpg by Mustang Joe, CC0
+- Ford Mustang Dark Horse Rutesheimer Autoschau 2025 DSC 9229.jpg by Alexander Migl, CC BY-SA 4.0
+- 2024 Ford Mustang GT Fastback Dark Horse 01.jpg by Rutger van der Maar, CC BY 2.0
+- 2024 Ford Mustang GT Fastback Dark Horse 02.jpg by Rutger van der Maar, CC BY 2.0
+- 2024 Ford Mustang GT Fastback Dark Horse.jpg by Rutger van der Maar, CC BY 2.0
+- 1965 Ford Mustang conv 6-cylinder 3-speed 3of3.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- 1965 Ford Mustang conv 6-cylinder 3-speed 1of3.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- 1965 Ford Mustang conv 6-cylinder 3-speed 2of3.jpg by CZmarlin  — Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, CC BY-SA 4.0
+- Porsche 911 GT2 RS 997 (5213910504).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- American la France, Bj. 1918, Nürb'r. Südschleife.JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 1979 AMC Spirit AMX Nurburgring winner at 2017 AMO meet 5of5.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 GT3 RS (2022) 1X7A7164.jpg by Alexander-93, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ford Mustang (seventh generation) and Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- Kelley Blue Book, Ford drops details on GTD, the uber Mustang: https://www.kbb.com/car-news/ford-drops-details-on-gtd-the-uber-mustang
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- AutoGuide, Ford Mustang GTD joins Nürburgring's sub-seven-minute club: https://www.autoguide.com/auto/manufacturers/ford/ford-mustang-gtd-joins-nrburgring-s-sub-seven-minute-club-44615074
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/
+- Motor1, The Ford Mustang GTD is even more expensive than we thought: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Wikipedia, Porsche 911 GT3: https://en.wikipedia.org/wiki/Porsche_911_GT3
