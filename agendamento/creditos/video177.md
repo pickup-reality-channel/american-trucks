@@ -1,0 +1,63 @@
+# Photo credits: 2 Things You Didn't Know About the Czinger 21C
+
+- 2024 Czinger 21C 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C 5.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Czinger 21C (40203).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Czinger 21C (22782).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Czinger 21C (26224).jpg by Calreyn88, CC BY-SA 4.0
+- Czinger 21C brake at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C front suspension at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C chassis front at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C FOS2022.jpg by MrWalkr, CC BY-SA 4.0
+- Czinger 21C chassis at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C blackbird rear at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C chassis rear at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C rear suspension at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C Blackbird at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C blackbird interior at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Czinger 21C blackbird engine at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- DSCF1455 (52536770055).jpg by Stacy Sheff from Los Angeles, USA, CC0
+- IMGP1458 (53877764626).jpg by David Merrett from Daventry, England, CC BY 2.0
+- IMGP1461 (53878172870).jpg by David Merrett from Daventry, England, CC BY 2.0
+- IMGP1459 (53878172875).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Iss071e522123 (8-21-2024) --- A metal specimen 3D printed on the ground for ESA’s Metal 3D Printer investigation.jpg by NASA Johnson Space Center, Public domain
+- Printrbot Simple Metal - personal 3D printer (14164937223).jpg by Creative Tools from Halmdstad, Sweden, CC BY 2.0
+- MELT 3D printer ESA401434.jpg by European Space Agency, CC BY-SA 3.0 igo
+- McLaren Senna, GIMS 2018, Le Grand-Saconnex (1X7A0404).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, GIMS 2018, Le Grand-Saconnex (1X7A0442).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0454).jpg by Matti Blume, CC BY-SA 4.0
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0
+- 1995 McLaren F1 HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- Turn 5 Laguna Seca Raceway during Race 2 of MotoAmerica Junior Cup 2022.jpg by VagrantInquisitor, CC BY-SA 4.0
+- Military Appreciation Day at Mazda Raceway Laguna Seca (37083889620).jpg by Presidio of Monterey, Public domain
+- Laguna Seca's Corkscrew - 2014 (2).jpg by 菅野崇, CC BY-SA 3.0
+- Laguna Seca's Corkscrew - 2014 (1).jpg by 菅野崇, CC BY-SA 3.0
+- Dani Pedrosa 2012 Laguna Seca 3.jpg by Raniel Diaz, CC BY 2.0
+- Lorenzo leading the pack 2012 Laguna Seca 6.jpg by Raniel Diaz, CC BY 2.0
+- Boss 302 Laguna Seca edition.2011.jpg by Wileewilee, CC BY-SA 3.0
+- Choura Events Large Tented Structure at WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- Choura Events Double Decker Tented Structure for WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0468).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0424).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Senna GTR, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0436).jpg by Matti Blume, CC BY-SA 4.0
+- Choura Events builds large tent for car show WeatherTech Raceway Laguna Seca.jpg by Vision360media, CC BY-SA 4.0
+- Audi NA Laguna Seca.jpg by Tinou Bao from San Francisco, USA, CC BY 2.0
+- Laguna Seca February 2019 Courtesy of Gary Jahns.jpg by Schmiebel, CC BY-SA 4.0
+- Lotus sculpture at Goodwood Festival of Speed.jpg by Bruno Postle, CC BY-SA 2.0
+- VW I.D. Buggy Genf 2019 1Y7A5934.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1287).jpg by Matti Blume, CC BY-SA 4.0
+- Hyundai Santa Fe, GIMS 2018, Le Grand-Saconnex (1X7A1735).jpg by Matti Blume, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Czinger 21C: https://en.wikipedia.org/wiki/Czinger_21C
+- ASME, 3D Printing Meets High Performance in Czinger Hypercars (27 Mar 2025): https://www.asme.org/topics-resources/content/3d-printing-meets-high-performance-in-czinger-hypercars
+- Backfire News via Yahoo Autos, 3D Printed Car Sets New Lap Record at Laguna Seca (19 Mar 2024): https://autos.yahoo.com/3d-printed-car-sets-lap-183000639.html
+- GTPlanet, Czinger's 21C is a 270mph, 3D-Printed, V8 Hybrid Hypercar (21 Feb 2020): https://www.gtplanet.net/czingers-21c-is-a-270mph-3d-printed-v8-hybrid-hypercar/
+- FastCar, Czinger 21C Laguna Seca lap record: https://www.fastcar.co.uk/?p=59698
+- Facfox, How Divergent Blade Became Czinger 21C: https://facfox.com/news/how-divergent-blade-became-czinger-21c-a-hypercar-built-without-tools
+- CSQ, How the Czingers and Their 3D Printed Supercar Are Catalyzing a New Age of Product Development (Sep 2022): https://csq.com/2022/09/lukas-czinger-kevin-czinger-vehicles-supercar-divergent-3d-printing/
+- duPont Registry, 2021 McLaren Senna Breaks Four Consecutive U.S. Track Records (27 Aug 2020): https://news.dupontregistry.com/news/2021-mclaren-senna-breaks-four-consecutive-u-s-track-records
