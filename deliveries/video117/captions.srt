@@ -1,0 +1,2391 @@
+1
+00:00:00,000 --> 00:00:03,541
+Most Lamborghinis are named after fighting bulls.
+
+2
+00:00:03,721 --> 00:00:05,044
+The Miura, the Espada,
+
+3
+00:00:05,044 --> 00:00:05,706
+the Diablo.
+
+4
+00:00:05,886 --> 00:00:07,430
+The Countach is not.
+
+5
+00:00:07,610 --> 00:00:09,884
+Its name is a word of astonishment,
+
+6
+00:00:09,884 --> 00:00:11,833
+and the story of where it came
+
+7
+00:00:11,833 --> 00:00:13,717
+from is only half documented.
+
+8
+00:00:13,897 --> 00:00:15,721
+And the car that wears it was
+
+9
+00:00:15,721 --> 00:00:17,356
+designed with a periscope,
+
+10
+00:00:17,356 --> 00:00:19,620
+because the driver could not see out
+
+11
+00:00:19,620 --> 00:00:20,375
+of the back.
+
+12
+00:00:20,555 --> 00:00:22,440
+These are two things you may not
+
+13
+00:00:22,440 --> 00:00:24,561
+know about the Lamborghini Countach.
+
+14
+00:00:24,911 --> 00:00:26,732
+We will take them one at a
+
+15
+00:00:26,732 --> 00:00:27,783
+time: the name,
+
+16
+00:00:27,783 --> 00:00:29,044
+and the periscope.
+
+17
+00:00:29,224 --> 00:00:31,328
+Along the way we will also look
+
+18
+00:00:31,328 --> 00:00:33,569
+at what the sources say about the
+
+19
+00:00:33,569 --> 00:00:36,285
+prototype that was destroyed on purpose,
+
+20
+00:00:36,285 --> 00:00:37,507
+the scissor doors,
+
+21
+00:00:37,507 --> 00:00:38,593
+and the numbers.
+
+22
+00:00:38,773 --> 00:00:41,615
+Every fact comes from a published source,
+
+23
+00:00:41,615 --> 00:00:43,417
+listed in the description.
+
+24
+00:00:43,597 --> 00:00:45,405
+Where sources disagree,
+
+25
+00:00:45,405 --> 00:00:46,348
+we tell you.
+
+26
+00:00:46,528 --> 00:00:48,205
+Where we do the maths,
+
+27
+00:00:48,205 --> 00:00:48,967
+we say so.
+
+28
+00:00:49,317 --> 00:00:53,159
+Ferruccio Lamborghini named his cars after bulls.
+
+29
+00:00:53,339 --> 00:00:56,093
+Wikipedia says the Miura was named after
+
+30
+00:00:56,093 --> 00:00:58,502
+a family of Spanish fighting bulls,
+
+31
+00:00:58,502 --> 00:01:00,980
+and that he visited their ranch near
+
+32
+00:01:00,980 --> 00:01:03,045
+Seville in nineteen sixty-two.
+
+33
+00:01:03,225 --> 00:01:05,293
+The list continues:
+
+34
+00:01:05,293 --> 00:01:07,796
+Islero, Espada, Jarama,
+
+35
+00:01:07,796 --> 00:01:10,516
+Urraco, Jalpa and Diablo.
+
+36
+00:01:10,696 --> 00:01:13,229
+The page says the Countach broke that
+
+37
+00:01:13,229 --> 00:01:14,667
+tradition completely.
+
+38
+00:01:15,017 --> 00:01:18,694
+The name comes from a Piedmontese exclamation
+
+39
+00:01:18,694 --> 00:01:21,309
+of astonishment, Wikipedia says.
+
+40
+00:01:21,489 --> 00:01:23,532
+The page spells it contacc.
+
+41
+00:01:23,712 --> 00:01:26,012
+The designer, Marcello Gandini,
+
+42
+00:01:26,012 --> 00:01:27,421
+spells it countach,
+
+43
+00:01:27,421 --> 00:01:29,794
+and says the word was first used
+
+44
+00:01:29,794 --> 00:01:31,426
+as a joke by a worker,
+
+45
+00:01:31,426 --> 00:01:32,687
+and then adopted.
+
+46
+00:01:32,867 --> 00:01:33,753
+He calls it,
+
+47
+00:01:33,753 --> 00:01:35,526
+in the page's quotation,
+
+48
+00:01:35,526 --> 00:01:38,184
+the only true story behind the word.
+
+49
+00:01:38,364 --> 00:01:40,835
+The name was coined in late nineteen
+
+50
+00:01:40,835 --> 00:01:43,032
+seventy or nineteen seventy-one.
+
+51
+00:01:43,381 --> 00:01:45,158
+Now the part that is not settled.
+
+52
+00:01:45,338 --> 00:01:47,176
+Gandini says the word,
+
+53
+00:01:47,176 --> 00:01:48,513
+as he spells it,
+
+54
+00:01:48,513 --> 00:01:51,520
+literally means plague or contagion,
+
+55
+00:01:51,520 --> 00:01:54,278
+but is used to express amazement.
+
+56
+00:01:54,458 --> 00:01:58,189
+The Wikipedia article itself describes it only
+
+57
+00:01:58,189 --> 00:02:00,947
+as an exclamation of astonishment.
+
+58
+00:02:01,127 --> 00:02:04,002
+So two descriptions of the same word,
+
+59
+00:02:04,002 --> 00:02:05,556
+in the same article,
+
+60
+00:02:05,556 --> 00:02:07,188
+do not match exactly.
+
+61
+00:02:07,368 --> 00:02:09,760
+We report both rather than choosing.
+
+62
+00:02:10,109 --> 00:02:12,636
+There is also the popular story that
+
+63
+00:02:12,636 --> 00:02:15,863
+Nuccio Bertone saw the prototype and exclaimed
+
+64
+00:02:15,863 --> 00:02:16,495
+the word.
+
+65
+00:02:16,675 --> 00:02:19,807
+Wikipedia marks that story as needing a
+
+66
+00:02:19,807 --> 00:02:20,529
+citation.
+
+67
+00:02:20,709 --> 00:02:21,739
+In other words,
+
+68
+00:02:21,739 --> 00:02:23,728
+the page does not support it.
+
+69
+00:02:23,908 --> 00:02:25,717
+It is a good story and it
+
+70
+00:02:25,717 --> 00:02:26,586
+may be true,
+
+71
+00:02:26,586 --> 00:02:28,685
+but we have no source for it,
+
+72
+00:02:28,685 --> 00:02:30,350
+so we do not tell it as
+
+73
+00:02:30,350 --> 00:02:30,712
+fact.
+
+74
+00:02:30,892 --> 00:02:33,693
+Gandini's version is the one the page
+
+75
+00:02:33,693 --> 00:02:34,224
+quotes.
+
+76
+00:02:34,573 --> 00:02:35,711
+Why does this matter?
+
+77
+00:02:35,891 --> 00:02:38,993
+Because retellings of the Countach story are
+
+78
+00:02:38,993 --> 00:02:40,756
+full of confident claims.
+
+79
+00:02:40,936 --> 00:02:43,030
+A name that sounds like a story
+
+80
+00:02:43,030 --> 00:02:43,908
+attracts one.
+
+81
+00:02:44,088 --> 00:02:46,177
+The honest version is short:
+
+82
+00:02:46,177 --> 00:02:49,087
+the word is a Piedmontese expression of
+
+83
+00:02:49,087 --> 00:02:51,998
+amazement, a worker's joke was adopted,
+
+84
+00:02:51,998 --> 00:02:54,982
+it was coined around nineteen seventy or
+
+85
+00:02:54,982 --> 00:02:58,042
+seventy-one, and that is what our sources
+
+86
+00:02:58,042 --> 00:02:58,937
+can support.
+
+87
+00:02:59,287 --> 00:03:01,470
+Why was the car built at all?
+
+88
+00:03:01,650 --> 00:03:05,686
+Wikipedia says Ferruccio Lamborghini wanted a successor
+
+89
+00:03:05,686 --> 00:03:06,639
+to the Miura,
+
+90
+00:03:06,639 --> 00:03:09,648
+which by nineteen seventy had lost ground
+
+91
+00:03:09,648 --> 00:03:12,436
+to rivals such as the Ferrari Daytona.
+
+92
+00:03:12,616 --> 00:03:14,139
+The chief engineer,
+
+93
+00:03:14,139 --> 00:03:17,986
+Paolo Stanzani, started work in nineteen seventy
+
+94
+00:03:17,986 --> 00:03:20,391
+under the project name L P one
+
+95
+00:03:20,391 --> 00:03:20,952
+twelve.
+
+96
+00:03:21,132 --> 00:03:22,956
+Test driver Bob Wallace,
+
+97
+00:03:22,956 --> 00:03:27,136
+assistant engineer Massimo Parenti and Marcello Gandini
+
+98
+00:03:27,136 --> 00:03:29,340
+of Bertone also worked on it.
+
+99
+00:03:29,689 --> 00:03:31,175
+The first prototype,
+
+100
+00:03:31,175 --> 00:03:32,735
+the L P five hundred,
+
+101
+00:03:32,735 --> 00:03:35,409
+appeared at the Geneva Motor Show in
+
+102
+00:03:35,409 --> 00:03:36,969
+nineteen seventy-one.
+
+103
+00:03:37,149 --> 00:03:40,057
+The production L P four hundred followed
+
+104
+00:03:40,057 --> 00:03:41,874
+in nineteen seventy-four.
+
+105
+00:03:42,054 --> 00:03:43,340
+By our arithmetic,
+
+106
+00:03:43,340 --> 00:03:46,270
+that is three years between the prototype
+
+107
+00:03:46,270 --> 00:03:48,556
+and the car customers could buy.
+
+108
+00:03:48,736 --> 00:03:52,151
+The prototype's bodywork came from Bertone,
+
+109
+00:03:52,151 --> 00:03:54,533
+and its chassis from Marchesi,
+
+110
+00:03:54,533 --> 00:03:57,710
+which also built the production chassis.
+
+111
+00:03:58,060 --> 00:04:01,038
+The Miura, which the Countach was meant
+
+112
+00:04:01,038 --> 00:04:03,253
+to replace, is a car with its
+
+113
+00:04:03,253 --> 00:04:04,016
+own story.
+
+114
+00:04:04,196 --> 00:04:07,819
+Wikipedia says the engineers Giampaolo Dallara,
+
+115
+00:04:07,819 --> 00:04:10,901
+Paolo Stanzani and Bob Wallace built the
+
+116
+00:04:10,901 --> 00:04:13,676
+Miura prototype in their spare time,
+
+117
+00:04:13,676 --> 00:04:14,986
+largely at night,
+
+118
+00:04:14,986 --> 00:04:16,758
+in nineteen sixty-five.
+
+119
+00:04:16,938 --> 00:04:20,123
+Ferruccio Lamborghini approved it after seeing the
+
+120
+00:04:20,123 --> 00:04:22,734
+development car, and gave the engineers a
+
+121
+00:04:22,734 --> 00:04:23,370
+free hand.
+
+122
+00:04:23,720 --> 00:04:27,619
+The Miura was the first high-performance production
+
+123
+00:04:27,619 --> 00:04:29,683
+road car with a mid-engine,
+
+124
+00:04:29,683 --> 00:04:33,276
+rear-wheel-drive layout, according to the page.
+
+125
+00:04:33,456 --> 00:04:34,792
+Its three thousand,
+
+126
+00:04:34,792 --> 00:04:38,310
+nine hundred twenty-nine cubic centimetre V twelve
+
+127
+00:04:38,310 --> 00:04:40,491
+sat sideways behind the driver.
+
+128
+00:04:40,671 --> 00:04:43,377
+The Countach kept the mid-engine idea,
+
+129
+00:04:43,377 --> 00:04:45,443
+but turned the engine around.
+
+130
+00:04:45,623 --> 00:04:47,361
+We will come back to that in
+
+131
+00:04:47,361 --> 00:04:48,665
+the comparison video.
+
+132
+00:04:49,015 --> 00:04:50,559
+Now the second thing.
+
+133
+00:04:50,739 --> 00:04:53,293
+The Countach prototype had a periscope.
+
+134
+00:04:53,473 --> 00:04:57,078
+Wikipedia says that because rear visibility was
+
+135
+00:04:57,078 --> 00:05:00,530
+poor, the prototype used a periscope supplied
+
+136
+00:05:00,530 --> 00:05:02,064
+by Donnelly Mirrors.
+
+137
+00:05:02,244 --> 00:05:05,134
+It had originally been developed for an
+
+138
+00:05:05,134 --> 00:05:06,172
+E S V project,
+
+139
+00:05:06,172 --> 00:05:09,210
+an experimental safety vehicle programme.
+
+140
+00:05:09,390 --> 00:05:12,112
+The production L P four hundred kept
+
+141
+00:05:12,112 --> 00:05:12,339
+it.
+
+142
+00:05:12,519 --> 00:05:15,410
+Later models used conventional mirrors.
+
+143
+00:05:15,759 --> 00:05:18,291
+That is where the name Periscopio comes
+
+144
+00:05:18,291 --> 00:05:18,616
+from.
+
+145
+00:05:18,796 --> 00:05:22,474
+The RM Sotheby's catalogue calls the first-series
+
+146
+00:05:22,474 --> 00:05:25,252
+cars the L P four hundred Periscopio,
+
+147
+00:05:25,252 --> 00:05:28,030
+and says about one hundred fifty were
+
+148
+00:05:28,030 --> 00:05:31,183
+built, according to the Countach Register.
+
+149
+00:05:31,363 --> 00:05:32,670
+By our arithmetic,
+
+150
+00:05:32,670 --> 00:05:35,573
+that is about ninety-five percent of the
+
+151
+00:05:35,573 --> 00:05:38,477
+one hundred fifty-seven L P four hundred
+
+152
+00:05:38,477 --> 00:05:40,001
+cars Wikipedia lists.
+
+153
+00:05:40,181 --> 00:05:42,038
+The two sources are close,
+
+154
+00:05:42,038 --> 00:05:43,037
+not identical.
+
+155
+00:05:43,387 --> 00:05:46,580
+The page also describes another trick for
+
+156
+00:05:46,580 --> 00:05:47,358
+reversing.
+
+157
+00:05:47,538 --> 00:05:49,682
+Many drivers park by sitting on the
+
+158
+00:05:49,682 --> 00:05:51,580
+wide sill with the door raised,
+
+159
+00:05:51,580 --> 00:05:54,091
+and reversing while looking over the back
+
+160
+00:05:54,091 --> 00:05:55,561
+of the car from outside.
+
+161
+00:05:55,741 --> 00:05:57,807
+That is not a sales brochure.
+
+162
+00:05:57,987 --> 00:06:00,223
+It is a practical workaround,
+
+163
+00:06:00,223 --> 00:06:03,383
+and it appears in the encyclopaedia entry
+
+164
+00:06:03,383 --> 00:06:05,696
+because owners actually do it.
+
+165
+00:06:06,046 --> 00:06:08,336
+Rear visibility is the price of the
+
+166
+00:06:08,336 --> 00:06:08,728
+shape.
+
+167
+00:06:08,908 --> 00:06:12,294
+Wikipedia gives the dimensions of the production
+
+168
+00:06:12,294 --> 00:06:14,550
+L P four hundred as four hundred
+
+169
+00:06:14,550 --> 00:06:16,384
+fourteen centimetres long,
+
+170
+00:06:16,384 --> 00:06:19,487
+one hundred eighty-nine wide and one hundred
+
+171
+00:06:19,487 --> 00:06:20,263
+seven tall.
+
+172
+00:06:20,443 --> 00:06:21,743
+By our arithmetic,
+
+173
+00:06:21,743 --> 00:06:24,776
+it is eighty-two centimetres wider than it
+
+174
+00:06:24,776 --> 00:06:25,354
+is tall.
+
+175
+00:06:25,534 --> 00:06:27,662
+With the engine behind the driver,
+
+176
+00:06:27,662 --> 00:06:29,352
+a low, wide car with a high
+
+177
+00:06:29,352 --> 00:06:31,105
+rear deck is hard to see out
+
+178
+00:06:31,105 --> 00:06:31,293
+of.
+
+179
+00:06:31,642 --> 00:06:34,152
+The scissor doors are the most famous
+
+180
+00:06:34,152 --> 00:06:35,780
+feature of the Countach,
+
+181
+00:06:35,780 --> 00:06:37,680
+yet they did not start here.
+
+182
+00:06:37,860 --> 00:06:41,261
+Wikipedia says they first appeared on Marcello
+
+183
+00:06:41,261 --> 00:06:45,476
+Gandini's nineteen sixty-eight Alfa Romeo Carabo concept.
+
+184
+00:06:45,656 --> 00:06:48,849
+The doors hinge horizontally at the front,
+
+185
+00:06:48,849 --> 00:06:50,750
+lift up and tilt forward,
+
+186
+00:06:50,750 --> 00:06:52,575
+supported by gas struts.
+
+187
+00:06:52,755 --> 00:06:54,805
+The Countach made the idea famous,
+
+188
+00:06:54,805 --> 00:06:56,493
+but it was not the first car
+
+189
+00:06:56,493 --> 00:06:57,156
+to show it.
+
+190
+00:06:57,505 --> 00:06:59,142
+There was a safety question.
+
+191
+00:06:59,322 --> 00:07:03,367
+Wikipedia says engineers studied a removable kick-out
+
+192
+00:07:03,367 --> 00:07:07,029
+windscreen and explosive bolts so that occupants
+
+193
+00:07:07,029 --> 00:07:09,319
+could escape after a rollover.
+
+194
+00:07:09,499 --> 00:07:13,063
+Neither idea was used on production cars.
+
+195
+00:07:13,243 --> 00:07:15,874
+So the dramatic doors came without a
+
+196
+00:07:15,874 --> 00:07:18,067
+documented emergency solution,
+
+197
+00:07:18,067 --> 00:07:20,332
+a detail that is easy to forget
+
+198
+00:07:20,332 --> 00:07:22,159
+when looking at a poster.
+
+199
+00:07:22,509 --> 00:07:26,375
+Wikipedia also says the Countach prototype was
+
+200
+00:07:26,375 --> 00:07:28,140
+destroyed on purpose.
+
+201
+00:07:28,320 --> 00:07:31,054
+The L P five hundred was crash-tested
+
+202
+00:07:31,054 --> 00:07:33,862
+at MIRA in England on the twenty-first
+
+203
+00:07:33,862 --> 00:07:36,226
+of March, nineteen seventy-four,
+
+204
+00:07:36,226 --> 00:07:38,665
+to obtain European type approval.
+
+205
+00:07:38,845 --> 00:07:41,487
+The show car that introduced the world
+
+206
+00:07:41,487 --> 00:07:42,599
+to the Countach,
+
+207
+00:07:42,599 --> 00:07:43,642
+in other words,
+
+208
+00:07:43,642 --> 00:07:44,894
+was not preserved.
+
+209
+00:07:45,074 --> 00:07:46,594
+It was used up so that the
+
+210
+00:07:46,594 --> 00:07:48,290
+production car could be sold.
+
+211
+00:07:48,639 --> 00:07:52,174
+The prototype was shown in nineteen seventy-one
+
+212
+00:07:52,174 --> 00:07:55,257
+and crashed on the twenty-first of March,
+
+213
+00:07:55,257 --> 00:07:58,941
+nineteen seventy-four, so by our arithmetic about
+
+214
+00:07:58,941 --> 00:08:01,573
+three years passed between the two.
+
+215
+00:08:01,753 --> 00:08:04,209
+The page does not give the exact
+
+216
+00:08:04,209 --> 00:08:05,514
+date of the show,
+
+217
+00:08:05,514 --> 00:08:07,279
+so this is approximate.
+
+218
+00:08:07,459 --> 00:08:08,636
+The point stands:
+
+219
+00:08:08,636 --> 00:08:10,921
+the car that made the name famous
+
+220
+00:08:10,921 --> 00:08:13,552
+was destroyed in the process of making
+
+221
+00:08:13,552 --> 00:08:14,936
+production possible.
+
+222
+00:08:15,286 --> 00:08:16,406
+Now the figures,
+
+223
+00:08:16,406 --> 00:08:18,154
+from the Wikipedia table.
+
+224
+00:08:18,334 --> 00:08:20,198
+The L P four hundred has a
+
+225
+00:08:20,198 --> 00:08:24,285
+three thousand, nine hundred twenty-nine cubic centimetre
+
+226
+00:08:24,285 --> 00:08:27,440
+V twelve rated at three hundred seventy-five
+
+227
+00:08:27,440 --> 00:08:30,236
+metric horsepower at eight thousand r p
+
+228
+00:08:30,236 --> 00:08:33,462
+m, and three hundred sixty-one newton-metres.
+
+229
+00:08:33,642 --> 00:08:36,130
+Dry weight is one thousand,
+
+230
+00:08:36,130 --> 00:08:38,065
+sixty-five kilograms.
+
+231
+00:08:38,245 --> 00:08:40,519
+Zero to a hundred in five point
+
+232
+00:08:40,519 --> 00:08:41,473
+four seconds.
+
+233
+00:08:41,653 --> 00:08:44,033
+One hundred fifty-seven were built.
+
+234
+00:08:44,382 --> 00:08:47,053
+Top speed is where things get interesting.
+
+235
+00:08:47,233 --> 00:08:50,421
+The table gives two hundred eighty-eight kilometres
+
+236
+00:08:50,421 --> 00:08:51,546
+per hour measured,
+
+237
+00:08:51,546 --> 00:08:53,734
+with three hundred fifteen claimed.
+
+238
+00:08:53,914 --> 00:08:55,224
+By our arithmetic,
+
+239
+00:08:55,224 --> 00:08:57,769
+the claim is nine percent above the
+
+240
+00:08:57,769 --> 00:09:01,333
+measurement, or twenty-seven kilometres per hour.
+
+241
+00:09:01,513 --> 00:09:04,638
+Wikipedia also lists a Walter Wolf special
+
+242
+00:09:04,638 --> 00:09:07,688
+at three hundred fifteen or three hundred
+
+243
+00:09:07,688 --> 00:09:09,176
+twenty-four claimed.
+
+244
+00:09:09,356 --> 00:09:12,177
+Claims and measurements are different things.
+
+245
+00:09:12,526 --> 00:09:14,907
+The L P four hundred S followed.
+
+246
+00:09:15,087 --> 00:09:18,310
+Wikipedia lists three hundred forty-nine or three
+
+247
+00:09:18,310 --> 00:09:20,416
+hundred fifty metric horsepower,
+
+248
+00:09:20,416 --> 00:09:22,981
+depending on whether you read the table
+
+249
+00:09:22,981 --> 00:09:23,771
+or the text,
+
+250
+00:09:23,771 --> 00:09:26,863
+with two hundred fifty-four kilometres per hour
+
+251
+00:09:26,863 --> 00:09:29,955
+measured and two hundred seventy-nine point six
+
+252
+00:09:29,955 --> 00:09:30,481
+claimed.
+
+253
+00:09:30,661 --> 00:09:33,214
+Two hundred thirty-seven were built,
+
+254
+00:09:33,214 --> 00:09:34,987
+in three series of fifty,
+
+255
+00:09:34,987 --> 00:09:37,256
+one hundred five and eighty-two.
+
+256
+00:09:37,436 --> 00:09:39,190
+It was slower than the car it
+
+257
+00:09:39,190 --> 00:09:39,735
+replaced.
+
+258
+00:09:40,084 --> 00:09:43,402
+Our arithmetic: fifty plus one hundred five
+
+259
+00:09:43,402 --> 00:09:46,797
+plus eighty-two is two hundred thirty-seven,
+
+260
+00:09:46,797 --> 00:09:48,571
+which matches the page.
+
+261
+00:09:48,751 --> 00:09:51,835
+The S measured about thirty-four kilometres per
+
+262
+00:09:51,835 --> 00:09:53,738
+hour slower than the L P four
+
+263
+00:09:53,738 --> 00:09:55,706
+hundred, about twelve percent.
+
+264
+00:09:55,886 --> 00:09:58,303
+The page explains part of this:
+
+265
+00:09:58,303 --> 00:10:02,436
+the optional rear wing improved high-speed stability,
+
+266
+00:10:02,436 --> 00:10:04,697
+but cut top speed by at least
+
+267
+00:10:04,697 --> 00:10:06,880
+sixteen kilometres per hour.
+
+268
+00:10:07,230 --> 00:10:08,531
+Then the engine grew.
+
+269
+00:10:08,711 --> 00:10:10,575
+The L P five hundred S has
+
+270
+00:10:10,575 --> 00:10:11,722
+a four thousand,
+
+271
+00:10:11,722 --> 00:10:15,379
+seven hundred fifty-four cubic centimetre V twelve,
+
+272
+00:10:15,379 --> 00:10:16,383
+the page says,
+
+273
+00:10:16,383 --> 00:10:20,183
+with three hundred seventy-five metric horsepower and
+
+274
+00:10:20,183 --> 00:10:23,409
+two hundred ninety-three kilometres per hour.
+
+275
+00:10:23,589 --> 00:10:25,888
+Three hundred twenty-one were built.
+
+276
+00:10:26,068 --> 00:10:29,810
+The five thousand Quattrovalvole has five thousand,
+
+277
+00:10:29,810 --> 00:10:33,478
+one hundred sixty-seven cubic centimetres and four
+
+278
+00:10:33,478 --> 00:10:36,193
+hundred fifty-five metric horsepower,
+
+279
+00:10:36,193 --> 00:10:38,467
+and six hundred ten were built.
+
+280
+00:10:38,817 --> 00:10:42,435
+The last version was the twenty-fifth Anniversary,
+
+281
+00:10:42,435 --> 00:10:44,389
+restyled by Horacio Pagani,
+
+282
+00:10:44,389 --> 00:10:47,283
+with six hundred fifty-seven built and a
+
+283
+00:10:47,283 --> 00:10:50,466
+listed top speed of two hundred ninety-eight
+
+284
+00:10:50,466 --> 00:10:51,914
+kilometres per hour.
+
+285
+00:10:52,094 --> 00:10:53,349
+Add them up,
+
+286
+00:10:53,349 --> 00:10:55,233
+by our arithmetic:
+
+287
+00:10:55,233 --> 00:10:57,955
+one, plus one fifty-seven,
+
+288
+00:10:57,955 --> 00:11:00,257
+plus two thirty-seven,
+
+289
+00:11:00,257 --> 00:11:02,560
+plus three twenty-one,
+
+290
+00:11:02,560 --> 00:11:03,920
+plus six ten,
+
+291
+00:11:03,920 --> 00:11:06,118
+plus six fifty-seven.
+
+292
+00:11:06,298 --> 00:11:08,407
+The total is one thousand,
+
+293
+00:11:08,407 --> 00:11:10,516
+nine hundred eighty-three,
+
+294
+00:11:10,516 --> 00:11:12,382
+which matches the page.
+
+295
+00:11:12,731 --> 00:11:15,355
+Notice the shape of that production curve.
+
+296
+00:11:15,535 --> 00:11:18,727
+Wikipedia says substantially more than half the
+
+297
+00:11:18,727 --> 00:11:20,968
+cars were built in the final five
+
+298
+00:11:20,968 --> 00:11:21,375
+years.
+
+299
+00:11:21,555 --> 00:11:22,818
+By our arithmetic,
+
+300
+00:11:22,818 --> 00:11:26,397
+the Quattrovalvole and the anniversary car together
+
+301
+00:11:26,397 --> 00:11:28,151
+account for one thousand,
+
+302
+00:11:28,151 --> 00:11:30,185
+two hundred sixty-seven cars,
+
+303
+00:11:30,185 --> 00:11:32,852
+about sixty-four percent of the total.
+
+304
+00:11:33,032 --> 00:11:35,643
+The car became more popular as it
+
+305
+00:11:35,643 --> 00:11:36,039
+aged.
+
+306
+00:11:36,388 --> 00:11:38,420
+How long was the Countach made?
+
+307
+00:11:38,600 --> 00:11:42,888
+Wikipedia says nineteen seventy-four to nineteen ninety,
+
+308
+00:11:42,888 --> 00:11:44,649
+which is sixteen years.
+
+309
+00:11:44,829 --> 00:11:47,705
+But the same article also refers to
+
+310
+00:11:47,705 --> 00:11:49,759
+a nineteen-year lifespan,
+
+311
+00:11:49,759 --> 00:11:51,567
+which, by our reading,
+
+312
+00:11:51,567 --> 00:11:55,429
+counts from the nineteen seventy-one prototype.
+
+313
+00:11:55,609 --> 00:11:57,254
+Two numbers for one car,
+
+314
+00:11:57,254 --> 00:11:59,926
+because it depends on whether you start
+
+315
+00:11:59,926 --> 00:12:01,777
+the clock at the show or at
+
+316
+00:12:01,777 --> 00:12:02,668
+the showroom.
+
+317
+00:12:03,017 --> 00:12:05,630
+Here is why the long production matters.
+
+318
+00:12:05,810 --> 00:12:08,880
+The Countach started as a Bertone show
+
+319
+00:12:08,880 --> 00:12:12,192
+car, passed through the Wolf special era,
+
+320
+00:12:12,192 --> 00:12:14,373
+a series of engine growths,
+
+321
+00:12:14,373 --> 00:12:17,686
+a grey-market period in the United States
+
+322
+00:12:17,686 --> 00:12:19,463
+and a Pagani facelift.
+
+323
+00:12:19,643 --> 00:12:22,440
+It was effectively several cars with one
+
+324
+00:12:22,440 --> 00:12:22,789
+name.
+
+325
+00:12:22,969 --> 00:12:25,286
+Treating it as a single model,
+
+326
+00:12:25,286 --> 00:12:26,599
+as many lists do,
+
+327
+00:12:26,599 --> 00:12:29,457
+hides how much changed under the same
+
+328
+00:12:29,457 --> 00:12:30,307
+silhouette.
+
+329
+00:12:30,656 --> 00:12:32,765
+The page also notes that the V
+
+330
+00:12:32,765 --> 00:12:35,997
+twelve itself dates from nineteen sixty-three,
+
+331
+00:12:35,997 --> 00:12:38,667
+and was designed by Giotto Bizzarrini.
+
+332
+00:12:38,847 --> 00:12:40,288
+By our arithmetic,
+
+333
+00:12:40,288 --> 00:12:42,849
+the engine in the last Countach,
+
+334
+00:12:42,849 --> 00:12:44,849
+built in nineteen ninety,
+
+335
+00:12:44,849 --> 00:12:47,810
+was twenty-seven years old in design.
+
+336
+00:12:47,990 --> 00:12:50,084
+That is not a flaw; the engine
+
+337
+00:12:50,084 --> 00:12:52,458
+grew from three point nine to five
+
+338
+00:12:52,458 --> 00:12:53,644
+point two litres.
+
+339
+00:12:53,824 --> 00:12:55,764
+It is a reminder that the car's
+
+340
+00:12:55,764 --> 00:12:56,639
+shape was new,
+
+341
+00:12:56,639 --> 00:12:58,016
+but its heart was not.
+
+342
+00:12:58,365 --> 00:13:02,604
+The United States was Lamborghini's largest market,
+
+343
+00:13:02,604 --> 00:13:05,929
+Wikipedia says, yet the Countach was not
+
+344
+00:13:05,929 --> 00:13:08,838
+built to U S or Canadian standards.
+
+345
+00:13:09,018 --> 00:13:11,571
+Owners paid to modify cars during the
+
+346
+00:13:11,571 --> 00:13:14,469
+grey-market era, which the page dates from
+
+347
+00:13:14,469 --> 00:13:17,644
+nineteen seventy-six to nineteen eighty-eight.
+
+348
+00:13:17,824 --> 00:13:21,318
+The first U S-specification factory model was
+
+349
+00:13:21,318 --> 00:13:25,511
+the nineteen eighty-five five thousand Quattrovalvole,
+
+350
+00:13:25,511 --> 00:13:29,006
+with larger bumpers and Bosch K-Jetronic fuel
+
+351
+00:13:29,006 --> 00:13:29,782
+injection.
+
+352
+00:13:30,132 --> 00:13:32,634
+A Countach was also used as the
+
+353
+00:13:32,634 --> 00:13:36,022
+Monaco Grand Prix safety car from nineteen
+
+354
+00:13:36,022 --> 00:13:38,604
+eighty to nineteen eighty-three,
+
+355
+00:13:38,604 --> 00:13:39,734
+the page says.
+
+356
+00:13:39,914 --> 00:13:42,977
+And cars older than twenty-five years are
+
+357
+00:13:42,977 --> 00:13:45,292
+exempt from U S federal design,
+
+358
+00:13:45,292 --> 00:13:47,309
+safety and emissions rules.
+
+359
+00:13:47,489 --> 00:13:49,857
+For a car that was never officially
+
+360
+00:13:49,857 --> 00:13:52,090
+sold in the United States for its
+
+361
+00:13:52,090 --> 00:13:55,067
+first decade, that exemption is an important
+
+362
+00:13:55,067 --> 00:13:56,894
+part of its American story.
+
+363
+00:13:57,243 --> 00:14:00,122
+The Cannonball Run is mentioned too,
+
+364
+00:14:00,122 --> 00:14:03,400
+but only as using a nineteen seventy-nine
+
+365
+00:14:03,400 --> 00:14:05,719
+U S-model L P four hundred S.
+
+366
+00:14:05,899 --> 00:14:08,889
+The page says the upper front spoiler
+
+367
+00:14:08,889 --> 00:14:11,799
+on that car is unique to grey-market
+
+368
+00:14:11,799 --> 00:14:12,203
+cars.
+
+369
+00:14:12,383 --> 00:14:14,182
+That is all it says.
+
+370
+00:14:14,362 --> 00:14:17,648
+The film associations that fans remember are
+
+371
+00:14:17,648 --> 00:14:19,888
+not documented in our sources,
+
+372
+00:14:19,888 --> 00:14:21,456
+so we leave them out.
+
+373
+00:14:21,806 --> 00:14:25,445
+Wikipedia lists several Countach projects that went
+
+374
+00:14:25,445 --> 00:14:26,230
+no further.
+
+375
+00:14:26,410 --> 00:14:27,655
+The L one fifty,
+
+376
+00:14:27,655 --> 00:14:31,625
+from nineteen eighty-four to nineteen eighty-seven,
+
+377
+00:14:31,625 --> 00:14:34,894
+was an update that Patrick Mimran rejected
+
+378
+00:14:34,894 --> 00:14:36,139
+on cost grounds.
+
+379
+00:14:36,319 --> 00:14:37,095
+The Q V X,
+
+380
+00:14:37,095 --> 00:14:38,956
+in nineteen eighty-five,
+
+381
+00:14:38,956 --> 00:14:41,283
+was a Group C racing car using
+
+382
+00:14:41,283 --> 00:14:45,084
+a five point seven litre Countach-derived engine,
+
+383
+00:14:45,084 --> 00:14:47,023
+not built by the factory.
+
+384
+00:14:47,203 --> 00:14:48,341
+And a one-off,
+
+385
+00:14:48,341 --> 00:14:52,161
+the Evoluzione, was destroyed in crash testing.
+
+386
+00:14:52,510 --> 00:14:55,134
+The Evoluzione has disputed numbers.
+
+387
+00:14:55,314 --> 00:14:57,987
+The text says about five hundred metric
+
+388
+00:14:57,987 --> 00:15:00,591
+horsepower, a top speed of about three
+
+389
+00:15:00,591 --> 00:15:03,606
+hundred twenty kilometres per hour and three
+
+390
+00:15:03,606 --> 00:15:07,923
+hundred ninety-seven kilograms lighter than the Quattrovalvole.
+
+391
+00:15:08,103 --> 00:15:11,714
+The table says four hundred fifty-five horsepower,
+
+392
+00:15:11,714 --> 00:15:13,231
+three hundred thirty,
+
+393
+00:15:13,231 --> 00:15:14,459
+and one thousand,
+
+394
+00:15:14,459 --> 00:15:15,614
+fifty kilograms.
+
+395
+00:15:15,794 --> 00:15:17,635
+We cannot reconcile them,
+
+396
+00:15:17,635 --> 00:15:18,592
+so we say so.
+
+397
+00:15:18,942 --> 00:15:21,102
+And there were turbo Countachs.
+
+398
+00:15:21,282 --> 00:15:24,919
+Max Bobnar, Lamborghini's Swiss distributor,
+
+399
+00:15:24,919 --> 00:15:29,301
+commissioned two between nineteen eighty and nineteen
+
+400
+00:15:29,301 --> 00:15:30,210
+eighty-two.
+
+401
+00:15:30,390 --> 00:15:32,533
+The L P five hundred S Turbo,
+
+402
+00:15:32,533 --> 00:15:35,489
+shown at Geneva in nineteen eighty-four,
+
+403
+00:15:35,489 --> 00:15:37,041
+weighed one thousand,
+
+404
+00:15:37,041 --> 00:15:39,332
+five hundred fifteen kilograms,
+
+405
+00:15:39,332 --> 00:15:42,731
+with a claimed seven hundred fifty-nine metric
+
+406
+00:15:42,731 --> 00:15:45,687
+horsepower in the text and seven hundred
+
+407
+00:15:45,687 --> 00:15:47,387
+forty-six in the table,
+
+408
+00:15:47,387 --> 00:15:49,752
+and a claimed top speed of three
+
+409
+00:15:49,752 --> 00:15:51,230
+hundred thirty-five.
+
+410
+00:15:51,579 --> 00:15:53,312
+Who was the man behind the name
+
+411
+00:15:53,312 --> 00:15:53,983
+on the nose?
+
+412
+00:15:54,163 --> 00:15:58,040
+Wikipedia says Ferruccio Lamborghini was born on
+
+413
+00:15:58,040 --> 00:16:00,221
+the twenty-eighth of April,
+
+414
+00:16:00,221 --> 00:16:03,209
+nineteen sixteen in Renazzo di Cento,
+
+415
+00:16:03,209 --> 00:16:05,471
+to a family of wine growers.
+
+416
+00:16:05,651 --> 00:16:07,802
+He was drawn more to farm machinery
+
+417
+00:16:07,802 --> 00:16:08,786
+than to farming.
+
+418
+00:16:08,966 --> 00:16:11,415
+He was drafted into the Italian air
+
+419
+00:16:11,415 --> 00:16:14,004
+force in nineteen forty and served as
+
+420
+00:16:14,004 --> 00:16:16,454
+a mechanic on the island of Rhodes.
+
+421
+00:16:16,803 --> 00:16:19,242
+After the war he returned to Italy
+
+422
+00:16:19,242 --> 00:16:20,820
+in nineteen forty-six.
+
+423
+00:16:21,000 --> 00:16:23,836
+The page says he bought surplus military
+
+424
+00:16:23,836 --> 00:16:27,734
+vehicles and converted them into agricultural machines.
+
+425
+00:16:27,914 --> 00:16:29,304
+His first tractors,
+
+426
+00:16:29,304 --> 00:16:31,352
+around nineteen forty-seven,
+
+427
+00:16:31,352 --> 00:16:34,059
+used engines from Morris trucks and a
+
+428
+00:16:34,059 --> 00:16:36,692
+fuel atomiser that let them start on
+
+429
+00:16:36,692 --> 00:16:39,106
+petrol and run on cheaper diesel.
+
+430
+00:16:39,286 --> 00:16:42,804
+He founded Lamborghini Trattori in nineteen forty-eight.
+
+431
+00:16:43,154 --> 00:16:45,337
+The tractor money paid for the dream.
+
+432
+00:16:45,517 --> 00:16:48,659
+Wikipedia says his income let him buy
+
+433
+00:16:48,659 --> 00:16:51,547
+fast cars, among them Alfa Romeos,
+
+434
+00:16:51,547 --> 00:16:54,774
+Lancias, a Mercedes three hundred S L,
+
+435
+00:16:54,774 --> 00:16:56,133
+a Jaguar E-Type,
+
+436
+00:16:56,133 --> 00:16:59,614
+two Maserati thirty-five hundred G Ts and
+
+437
+00:16:59,614 --> 00:17:02,247
+several Ferrari two fifty G Ts.
+
+438
+00:17:02,427 --> 00:17:05,824
+He opened Automobili Lamborghini in nineteen sixty-three
+
+439
+00:17:05,824 --> 00:17:07,280
+at Sant'Agata Bolognese.
+
+440
+00:17:07,460 --> 00:17:11,065
+A heating business followed in nineteen fifty-nine
+
+441
+00:17:11,065 --> 00:17:14,310
+and a hydraulics firm in nineteen sixty-nine.
+
+442
+00:17:14,659 --> 00:17:17,467
+The famous story says he started making
+
+443
+00:17:17,467 --> 00:17:20,490
+cars after Enzo Ferrari insulted him about
+
+444
+00:17:20,490 --> 00:17:21,138
+a clutch.
+
+445
+00:17:21,318 --> 00:17:24,393
+Wikipedia describes that tale as being as
+
+446
+00:17:24,393 --> 00:17:26,643
+much the stuff of legend as of
+
+447
+00:17:26,643 --> 00:17:27,018
+fact.
+
+448
+00:17:27,198 --> 00:17:29,584
+In a nineteen ninety-one interview,
+
+449
+00:17:29,584 --> 00:17:30,538
+the page says,
+
+450
+00:17:30,538 --> 00:17:33,059
+he recalled being told he could drive
+
+451
+00:17:33,059 --> 00:17:35,581
+a tractor but never handle a Ferrari.
+
+452
+00:17:35,761 --> 00:17:38,372
+The page also says his motives are
+
+453
+00:17:38,372 --> 00:17:41,367
+unclear, and notes an author who argues
+
+454
+00:17:41,367 --> 00:17:43,748
+economic motives were stronger.
+
+455
+00:17:44,098 --> 00:17:46,069
+We tell you that not to spoil
+
+456
+00:17:46,069 --> 00:17:46,953
+a good story,
+
+457
+00:17:46,953 --> 00:17:49,263
+but because the story is the first
+
+458
+00:17:49,263 --> 00:17:52,458
+thing people repeat about the Countach's maker.
+
+459
+00:17:52,638 --> 00:17:55,534
+The sources support the clutch complaint and
+
+460
+00:17:55,534 --> 00:17:59,023
+the quotation from the nineteen ninety-one interview.
+
+461
+00:17:59,203 --> 00:18:01,080
+They do not settle why he really
+
+462
+00:18:01,080 --> 00:18:02,547
+entered the car business.
+
+463
+00:18:02,727 --> 00:18:05,159
+So the safest version is that both
+
+464
+00:18:05,159 --> 00:18:07,664
+the legend and the economics may be
+
+465
+00:18:07,664 --> 00:18:08,451
+part of it.
+
+466
+00:18:08,800 --> 00:18:12,063
+One more Countach story is better documented.
+
+467
+00:18:12,243 --> 00:18:15,014
+Wikipedia says Walter Wolf bought an L
+
+468
+00:18:15,014 --> 00:18:17,932
+P four hundred in nineteen seventy-five.
+
+469
+00:18:18,112 --> 00:18:21,023
+The page says Dallara built a special
+
+470
+00:18:21,023 --> 00:18:23,776
+version of chassis one one two zero
+
+471
+00:18:23,776 --> 00:18:26,451
+one four eight with the five litre
+
+472
+00:18:26,451 --> 00:18:28,969
+engine from the L P five hundred
+
+473
+00:18:28,969 --> 00:18:32,981
+prototype, rated at four hundred fifty-three metric
+
+474
+00:18:32,981 --> 00:18:35,263
+horsepower at seven thousand,
+
+475
+00:18:35,263 --> 00:18:36,757
+nine hundred r p m.
+
+476
+00:18:37,107 --> 00:18:38,520
+It had a rear wing,
+
+477
+00:18:38,520 --> 00:18:41,121
+which the page calls a precursor of
+
+478
+00:18:41,121 --> 00:18:43,202
+the optional wing on the L P
+
+479
+00:18:43,202 --> 00:18:44,317
+four hundred S.
+
+480
+00:18:44,497 --> 00:18:47,048
+Its claimed top speed was three hundred
+
+481
+00:18:47,048 --> 00:18:50,383
+fifteen or three hundred twenty-four kilometres per
+
+482
+00:18:50,383 --> 00:18:52,346
+hour, depending on the source.
+
+483
+00:18:52,526 --> 00:18:55,459
+The wing improved stability but cost at
+
+484
+00:18:55,459 --> 00:18:58,017
+least sixteen kilometres per hour.
+
+485
+00:18:58,197 --> 00:19:00,773
+Two more Wolf specials were built,
+
+486
+00:19:00,773 --> 00:19:04,258
+one shown at Geneva in nineteen seventy-eight.
+
+487
+00:19:04,607 --> 00:19:07,337
+There is a small contradiction on that
+
+488
+00:19:07,337 --> 00:19:07,696
+page.
+
+489
+00:19:07,876 --> 00:19:09,140
+The Geneva car,
+
+490
+00:19:09,140 --> 00:19:11,754
+chassis one one two one two one
+
+491
+00:19:11,754 --> 00:19:14,451
+zero, is called the very first L
+
+492
+00:19:14,451 --> 00:19:15,884
+P four hundred S,
+
+493
+00:19:15,884 --> 00:19:18,751
+but its number falls in the second
+
+494
+00:19:18,751 --> 00:19:21,870
+series, after chassis one one two one
+
+495
+00:19:21,870 --> 00:19:23,050
+one zero zero.
+
+496
+00:19:23,230 --> 00:19:24,704
+We cannot resolve it.
+
+497
+00:19:24,884 --> 00:19:25,803
+We flag it,
+
+498
+00:19:25,803 --> 00:19:29,393
+because it shows how even a well-documented
+
+499
+00:19:29,393 --> 00:19:30,980
+car has loose ends.
+
+500
+00:19:31,329 --> 00:19:33,489
+Now what the early cars sell for.
+
+501
+00:19:33,669 --> 00:19:37,579
+RM Sotheby's Arizona sale of twenty twenty-six
+
+502
+00:19:37,579 --> 00:19:41,064
+offered a nineteen seventy-seven L P four
+
+503
+00:19:41,064 --> 00:19:44,804
+hundred Periscopio, chassis one one two zero
+
+504
+00:19:44,804 --> 00:19:45,825
+two six two.
+
+505
+00:19:46,005 --> 00:19:48,833
+It sold for eight hundred eighty-five thousand
+
+506
+00:19:48,833 --> 00:19:49,325
+dollars.
+
+507
+00:19:49,505 --> 00:19:51,648
+The page does not say whether that
+
+508
+00:19:51,648 --> 00:19:53,476
+includes the buyer's premium.
+
+509
+00:19:53,656 --> 00:19:56,651
+It was built right-hand drive for Australia
+
+510
+00:19:56,651 --> 00:19:58,880
+and bought new by the singer Rod
+
+511
+00:19:58,880 --> 00:19:59,437
+Stewart.
+
+512
+00:19:59,787 --> 00:20:02,133
+The same chassis had sold before.
+
+513
+00:20:02,313 --> 00:20:04,945
+The Jalopy reports that it made seven
+
+514
+00:20:04,945 --> 00:20:08,573
+hundred seventy-five thousand euros at RM Sotheby's
+
+515
+00:20:08,573 --> 00:20:11,134
+Paris in February twenty twenty-one,
+
+516
+00:20:11,134 --> 00:20:13,766
+after failing to reach its reserve at
+
+517
+00:20:13,766 --> 00:20:17,038
+Artcurial's Retromobile sale in twenty twenty,
+
+518
+00:20:17,038 --> 00:20:20,239
+where the estimate was eight hundred thousand
+
+519
+00:20:20,239 --> 00:20:22,444
+to one point two million euros.
+
+520
+00:20:22,624 --> 00:20:24,552
+We do not convert currencies,
+
+521
+00:20:24,552 --> 00:20:26,414
+so we cannot say how much it
+
+522
+00:20:26,414 --> 00:20:26,746
+rose.
+
+523
+00:20:27,095 --> 00:20:28,993
+Hagerty's valuation page,
+
+524
+00:20:28,993 --> 00:20:31,271
+from April twenty twenty-five,
+
+525
+00:20:31,271 --> 00:20:34,307
+shows one million dollars for a nineteen
+
+526
+00:20:34,307 --> 00:20:37,116
+seventy-five L P four hundred in good
+
+527
+00:20:37,116 --> 00:20:39,924
+condition with average specification.
+
+528
+00:20:40,104 --> 00:20:42,398
+It does not list the other condition
+
+529
+00:20:42,398 --> 00:20:42,844
+levels.
+
+530
+00:20:43,024 --> 00:20:45,171
+Together with the auction result,
+
+531
+00:20:45,171 --> 00:20:47,837
+that suggests the early cars trade around
+
+532
+00:20:47,837 --> 00:20:50,048
+the high six figures to a million.
+
+533
+00:20:50,228 --> 00:20:52,416
+That is our reading of two data
+
+534
+00:20:52,416 --> 00:20:53,897
+points, not an index.
+
+535
+00:20:54,247 --> 00:20:57,284
+RM Sotheby's also sold a nineteen eighty-nine
+
+536
+00:20:57,284 --> 00:21:00,590
+twenty-fifth Anniversary car in Arizona in twenty
+
+537
+00:21:00,590 --> 00:21:04,638
+twenty-four for four hundred seventy-eight thousand dollars.
+
+538
+00:21:04,818 --> 00:21:08,157
+It had 15,430 kilometres and had been
+
+539
+00:21:08,157 --> 00:21:11,947
+with one owner since nineteen ninety-nine.
+
+540
+00:21:12,127 --> 00:21:14,961
+The page says invoices since two thousand
+
+541
+00:21:14,961 --> 00:21:18,002
+one total over sixty-eight thousand dollars.
+
+542
+00:21:18,182 --> 00:21:19,487
+By our arithmetic,
+
+543
+00:21:19,487 --> 00:21:22,170
+that is about fourteen percent of the
+
+544
+00:21:22,170 --> 00:21:25,070
+sale price spent on service over roughly
+
+545
+00:21:25,070 --> 00:21:26,448
+twenty-three years.
+
+546
+00:21:26,797 --> 00:21:29,027
+Back to the car the Countach replaced.
+
+547
+00:21:29,207 --> 00:21:32,529
+Wikipedia says the Miura rolling chassis appeared
+
+548
+00:21:32,529 --> 00:21:35,308
+at the nineteen sixty-five Turin show and
+
+549
+00:21:35,308 --> 00:21:38,156
+showgoers placed orders before there was a
+
+550
+00:21:38,156 --> 00:21:38,495
+body.
+
+551
+00:21:38,675 --> 00:21:41,430
+Bertone finished the body just days before
+
+552
+00:21:41,430 --> 00:21:44,120
+the nineteen sixty-six Geneva Motor Show.
+
+553
+00:21:44,300 --> 00:21:46,613
+The engineers had not checked whether the
+
+554
+00:21:46,613 --> 00:21:48,758
+engine fitted the engine bay properly.
+
+555
+00:21:49,107 --> 00:21:51,163
+So the page says they filled it
+
+556
+00:21:51,163 --> 00:21:53,750
+with ballast and kept the bonnet locked
+
+557
+00:21:53,750 --> 00:21:54,413
+at Geneva.
+
+558
+00:21:54,593 --> 00:21:57,930
+Sales head Ubaldo Sgarzi turned away journalists
+
+559
+00:21:57,930 --> 00:21:59,945
+who wanted to see the engine.
+
+560
+00:22:00,125 --> 00:22:03,400
+Marcello Gandini's styling and the mid-engine layout
+
+561
+00:22:03,400 --> 00:22:05,604
+made the Miura the highlight of the
+
+562
+00:22:05,604 --> 00:22:05,919
+show.
+
+563
+00:22:06,099 --> 00:22:08,664
+The Countach would be designed by the
+
+564
+00:22:08,664 --> 00:22:10,812
+same stylist, five years later.
+
+565
+00:22:11,162 --> 00:22:13,478
+So, two things you may not have
+
+566
+00:22:13,478 --> 00:22:13,926
+known.
+
+567
+00:22:14,106 --> 00:22:16,149
+First, the name is not a bull.
+
+568
+00:22:16,329 --> 00:22:20,042
+It is a Piedmontese exclamation of astonishment,
+
+569
+00:22:20,042 --> 00:22:22,594
+a worker's joke that was adopted,
+
+570
+00:22:22,594 --> 00:22:25,766
+and the story about Bertone exclaiming it
+
+571
+00:22:25,766 --> 00:22:28,009
+is unsupported in our source.
+
+572
+00:22:28,189 --> 00:22:31,108
+Second, the original production car had a
+
+573
+00:22:31,108 --> 00:22:34,170
+periscope, because the driver could not see
+
+574
+00:22:34,170 --> 00:22:35,309
+out of the back,
+
+575
+00:22:35,309 --> 00:22:38,870
+and the prototype was crash-tested to destruction.
+
+576
+00:22:39,219 --> 00:22:41,070
+The numbers add up to a car
+
+577
+00:22:41,070 --> 00:22:42,714
+that changed constantly.
+
+578
+00:22:42,894 --> 00:22:46,439
+One thousand, nine hundred eighty-three units,
+
+579
+00:22:46,439 --> 00:22:49,830
+six variants, a sixteen-year production run,
+
+580
+00:22:49,830 --> 00:22:52,759
+and measured top speeds well below the
+
+581
+00:22:52,759 --> 00:22:53,761
+claimed ones.
+
+582
+00:22:53,941 --> 00:22:56,142
+Where the sources disagreed,
+
+583
+00:22:56,142 --> 00:22:57,006
+we said so.
+
+584
+00:22:57,186 --> 00:22:58,975
+If you know a figure we missed,
+
+585
+00:22:58,975 --> 00:23:00,764
+put it in the comments with the
+
+586
+00:23:00,764 --> 00:23:01,168
+source.
+
+587
+00:23:01,519 --> 00:23:03,554
+Which would you have wanted,
+
+588
+00:23:03,554 --> 00:23:06,244
+the Periscopio or the Quattrovalvole?
+
+589
+00:23:06,424 --> 00:23:07,840
+Tell us in the comments.
+
+590
+00:23:08,020 --> 00:23:10,492
+In the other videos of this series,
+
+591
+00:23:10,492 --> 00:23:13,247
+we compare the Countach with the Miura,
+
+592
+00:23:13,247 --> 00:23:15,507
+work out what it really costs to
+
+593
+00:23:15,507 --> 00:23:17,344
+own a classic Lamborghini,
+
+594
+00:23:17,344 --> 00:23:19,745
+and tell how a tractor maker ended
+
+595
+00:23:19,745 --> 00:23:21,511
+up building the Countach.
+
+596
+00:23:21,691 --> 00:23:24,613
+Our twenty twenty-seven Truck Buyer's Guide is
+
+597
+00:23:24,613 --> 00:23:26,265
+linked in the description.
+
+598
+00:23:26,445 --> 00:23:28,907
+Subscribe to Pickup Reality.
