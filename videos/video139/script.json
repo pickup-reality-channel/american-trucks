@@ -1,0 +1,321 @@
+{
+ "id": "video139",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "The Real Cost of Owning a Porsche 918",
+ "scenes": [
+  {
+   "text": "A Porsche nine eighteen Spyder cost eight hundred forty-five thousand dollars new. One sold in twenty twenty-six for nearly three million. And the people who publish its running costs disagree about almost everything: a replacement battery is quoted at fifty to eighty thousand dollars by one source, and eighty to one hundred fifty thousand by another. This is what it really costs to own a Porsche nine eighteen, and what nobody has actually published.",
+   "query": "Porsche 918 Spyder",
+   "caption": "WHAT IT REALLY COSTS TO OWN A PORSCHE 918",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We read Wikipedia, Porsche's own press material, two specialist guides, the recall reports, and the auction results. Here is the catch. Porsche publishes no price list for nine eighteen service, and the two guides we found are a magazine-style buyer's guide and a repair shop's marketing page. So every running-cost figure in this video is an estimate from someone, and we always say whose.",
+   "query": "Porsche 918 Spyder",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 PORSCHE \u00b7 STUTTCARS \u00b7 REPASI MOTORWERKS (A SHOP) \u00b7 RECALL REPORTS \u00b7 AUCTIONS \u00b7 RUNNING COSTS = THIRD-PARTY ESTIMATES",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the sticker. Wikipedia gives the base price as about eight hundred forty-five thousand dollars in the United States, or seven hundred eighty-one thousand euros. The Weissach package added eighty-four thousand dollars. By our arithmetic, a Weissach car started at nine hundred twenty-nine thousand dollars before any individual options.",
+   "query": "Porsche 918 price",
+   "caption": "BASE ~$845,000 / \u20ac781,000 \u00b7 WEISSACH PACKAGE +$84,000 \u2192 ~$929,000 (WIKIPEDIA; OUR ARITHMETIC)",
+   "cuts": 5,
+   "chapter": "The purchase price"
+  },
+  {
+   "text": "Put that in context with the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, the base price was ten point one years of median household income, and the Weissach starting price eleven point one years. These are gross incomes, before tax.",
+   "query": "918 price vs median income",
+   "caption": "$845,000 \u2248 10.1 YEARS \u00b7 $929,000 \u2248 11.1 YEARS OF MEDIAN HOUSEHOLD INCOME ($83,730, CENSUS) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against the average new vehicle, fifty thousand, eighty-nine dollars in August twenty twenty-six according to Kelley Blue Book, the base nine eighteen was sixteen point nine times as much. That is our arithmetic, and it compares a twenty fifteen list price with a twenty twenty-six average, so it is only a rough sense of scale.",
+   "query": "918 price vs average new car",
+   "caption": "$845,000 \u00f7 $50,089 \u2248 16.9\u00d7 (KBB AUG 2026; OUR ARITHMETIC) \u00b7 2015 PRICE vs 2026 AVERAGE: ROUGH SCALE ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "How many cars were there? Nine hundred eighteen, as the name says, with two hundred ninety-four for the United States according to Wikipedia. Production ran from September twenty thirteen to June twenty fifteen, and the car sold out in December twenty fourteen. Stuttcars says about two hundred thirty were Weissach cars. That figure comes from the guide itself, so we treat it as an estimate.",
+   "query": "918 production",
+   "caption": "918 UNITS \u00b7 294 US (WIKIPEDIA) \u00b7 SOLD OUT DEC 2014 \u00b7 ~230 WEISSACH (STUTTCARS, UNSOURCED ESTIMATE)",
+   "cuts": 3
+  },
+  {
+   "text": "This is the part that changes the whole question. The duPont Registry says a standard nine eighteen sold for two million, nine hundred sixty thousand dollars in June twenty twenty-six. That car had four hundred twenty miles. By our arithmetic, that is three point five times the base price.",
+   "query": "918 resale",
+   "caption": "STANDARD 2015, 420 MI: $2,960,000 = 3.5\u00d7 $845,000 BASE (DUPONT REGISTRY; OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What it is worth now"
+  },
+  {
+   "text": "A Weissach car in Riviera Blue, with one thousand, two hundred sixty-seven miles, sold at Broad Arrow on the twenty-fifth of April for four million, six hundred eighty thousand dollars. By our arithmetic, that is five times the nine hundred twenty-nine thousand dollar starting price, though the actual car was probably optioned above that, and the sources do not give its original sticker.",
+   "query": "918 Weissach resale",
+   "caption": "WEISSACH, 1,267 MI: $4,680,000 (BROAD ARROW, 25 APRIL 2026) \u2248 5.0\u00d7 $929,000 STARTING PRICE (OUR ARITHMETIC) \u00b7 ORIGINAL STICKER NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "The record belongs to a one-of-one Pure Orange car, sold at Mecum Kissimmee in January twenty twenty-six for six million, fifty thousand dollars, according to the duPont Registry. Against the base price, our arithmetic says seven point two times. But it was a special order, so its original price was higher, and the comparison is only an upper bound.",
+   "query": "918 record",
+   "caption": "$6,050,000 \u00b7 MECUM KISSIMMEE, JAN 2026 (DUPONT REGISTRY) \u2248 7.2\u00d7 BASE PRICE (OUR ARITHMETIC) \u00b7 SPECIAL ORDER: ORIGINAL PRICE HIGHER",
+   "cuts": 3
+  },
+  {
+   "text": "Now the median, which is less dramatic than the headlines. The duPont Registry puts the median for standard cars at two million, one hundred sixty-eight thousand, eight hundred thirty-six dollars across forty-eight price points. For Weissach cars, three million, thirty-two thousand, five hundred. By our arithmetic, that is two point six times and three point three times the starting prices.",
+   "query": "918 median values",
+   "caption": "MEDIAN STANDARD $2,168,836 (48 PRICE POINTS) \u2248 2.6\u00d7 BASE \u00b7 WEISSACH $3,032,500 \u2248 3.3\u00d7 $929,000 (DUPONT; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Stuttcars gives a price ladder by mileage, again as its own estimate. Under one thousand miles, two point two to two point five million dollars. One to five thousand miles, one point nine to two point two. Five to ten thousand, one point six to one point nine. Over ten thousand, one point five to one point seven. The ladder shows what mileage might cost an owner, and it also shows that the six-figure running costs we are about to see are small beside the value of the car.",
+   "query": "918 value by mileage",
+   "caption": "STUTTCARS ESTIMATES: <1,000 MI $2.2\u20132.5M \u00b7 1\u20135K $1.9\u20132.2M \u00b7 5\u201310K $1.6\u20131.9M \u00b7 10K+ $1.5\u20131.7M (GUIDE'S OWN FIGURES)",
+   "cuts": 3
+  },
+  {
+   "text": "Check that against the auction. The four hundred twenty-mile car at two point nine six million is above Stuttcars' top estimate for cars under a thousand miles, which is two point five million. So the guide's ladder is already behind the market, or the car was exceptional. Our sources do not say which.",
+   "query": "Guide vs auction",
+   "caption": "420-MILE CAR $2.96M vs GUIDE'S <1,000-MILE RANGE $2.2\u20132.5M (STUTTCARS; DUPONT) \u00b7 WHICH IS RIGHT: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The mileage on these cars is itself a cost. The June twenty twenty-six car had four hundred twenty miles after roughly eleven years. By our arithmetic, that is about thirty-eight miles a year. The Riviera Blue car, at one thousand, two hundred sixty-seven, is about one hundred fifteen miles a year. Those are rough, since the cars were not necessarily delivered in the same month.",
+   "query": "918 mileage",
+   "caption": "420 MI \u00f7 ~11 YEARS \u2248 38 MI/YEAR \u00b7 1,267 MI \u00f7 ~11 \u2248 115 MI/YEAR (OUR ARITHMETIC; DELIVERY DATES NOT GIVEN)",
+   "cuts": 3,
+   "chapter": "The mileage question"
+  },
+  {
+   "text": "Stuttcars recommends that the car be driven at least once a month. A shop that works on nine eighteens says the same kind of thing in a different way: its low-mileage owner budget assumes two to three thousand miles a year. We note that a car driven only thirty-eight miles a year is a car that is, in practice, being stored rather than used.",
+   "query": "918 usage",
+   "caption": "GUIDE: DRIVE AT LEAST MONTHLY (STUTTCARS) \u00b7 SHOP'S 'LOW-MILEAGE' BUDGET = 2,000\u20133,000 MI/YEAR (REPASI) \u00b7 38 MI/YEAR = STORED, NOT USED (OUR OBSERVATION)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the running costs. Two sources, two very different pictures. Stuttcars, the buyer's guide, says an annual service at an authorized Porsche dealer costs five to ten thousand dollars. It adds that twenty thousand dollars or more a year is a reasonable planning figure, and in its own FAQ it says ten thousand or more. The guide contradicts itself, so we show both.",
+   "query": "918 annual service, guide",
+   "caption": "STUTTCARS: ANNUAL SERVICE $5,000\u201310,000 \u00b7 'PLAN FOR $20,000+' \u00b7 FAQ: $10,000+ (THE GUIDE'S OWN FIGURES; INTERNALLY INCONSISTENT)",
+   "cuts": 3,
+   "chapter": "Routine service"
+  },
+  {
+   "text": "Repasi Motorwerks, a Porsche specialist in Connecticut, gives a much lower baseline: two thousand, eight hundred fifty to four thousand, four hundred dollars for an annual service. That includes oil and filter at eight hundred to twelve hundred, a multi-point inspection at one thousand to fifteen hundred, and a brake fluid flush at four to six hundred. This is the shop's own price estimate, published on a page that sells its services.",
+   "query": "918 annual service, shop",
+   "caption": "REPASI MOTORWERKS: ANNUAL $2,850\u20134,400 \u00b7 OIL $800\u20131,200 \u00b7 INSPECTION $1,000\u20131,500 \u00b7 BRAKE FLUID $400\u2013600 (SHOP ESTIMATE; MARKETING PAGE)",
+   "cuts": 3
+  },
+  {
+   "text": "Put the two side by side. The guide's five to ten thousand dollar range, against the shop's two thousand, eight hundred fifty to four thousand, four hundred. By our arithmetic, the guide's low end is about 1.8 times the shop's low end, and the guide's high end is about 2.3 times the shop's. Neither source says why they differ, and neither cites a Porsche price list.",
+   "query": "Service estimate gap",
+   "caption": "GUIDE $5,000\u201310,000 vs SHOP $2,850\u20134,400 \u2192 LOW END \u00d71.75 \u00b7 HIGH END \u00d72.27 (OUR ARITHMETIC) \u00b7 NEITHER CITES A PRICE LIST",
+   "cuts": 3
+  },
+  {
+   "text": "The shop also lists bigger services. At two years: spark plugs, air filter, and transmission fluid, totalling sixty-five hundred to ten thousand dollars. At four years: coolant, drive belt, brake fluid and a hybrid system exam, ten to sixteen thousand dollars. These are, again, its estimates.",
+   "query": "918 interval services",
+   "caption": "REPASI: 2-YEAR SERVICE $6,500\u201310,000 \u00b7 4-YEAR SERVICE $10,000\u201316,000 (SHOP ESTIMATES)",
+   "cuts": 3
+  },
+  {
+   "text": "What does that mean per mile? Repasi's budget for a low-mileage owner, two to three thousand miles a year, is seventy-two hundred to ten thousand, eight hundred dollars a year. By our arithmetic, if the owner drives three thousand miles, that is two dollars forty a mile at the low end, and if the owner drives two thousand, five dollars forty a mile at the high end.",
+   "query": "918 service cost per mile",
+   "caption": "$7,200 \u00f7 3,000 MI = $2.40/MI \u00b7 $10,800 \u00f7 2,000 MI = $5.40/MI (REPASI BUDGET; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Tyres. Stuttcars gives five to seven thousand dollars for a full set of Michelin Pilot Sport Cup Twos. Repasi gives twenty-five hundred to four thousand dollars for a standard set, thirty-five hundred to fifty-five hundred for a high-performance set, and over six thousand for track compounds. The ranges overlap, but they are not describing the same set.",
+   "query": "918 tyres",
+   "caption": "GUIDE: PS CUP 2 SET $5,000\u20137,000 \u00b7 SHOP: STANDARD $2,500\u20134,000 \u00b7 HIGH-PERF $3,500\u20135,500 \u00b7 TRACK $6,000+ (ESTIMATES)",
+   "cuts": 3,
+   "chapter": "Tyres and brakes"
+  },
+  {
+   "text": "Brakes are where the numbers jump. Repasi lists front rotors at twelve to sixteen thousand dollars and rear rotors at ten to fourteen thousand. Add front pads at eighteen hundred to twenty-five hundred and rear pads at fifteen hundred to twenty-two hundred. By our arithmetic, a full set of rotors and pads comes to about twenty-five thousand to thirty-five thousand dollars on the shop's own list.",
+   "query": "918 brakes, shop",
+   "caption": "REPASI: ROTORS FRONT $12\u201316K + REAR $10\u201314K \u00b7 PADS FRONT $1.8\u20132.5K + REAR $1.5\u20132.2K \u2192 ~$25,300\u201334,700 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Stuttcars gives a different set of numbers. Brake pads and rotors, if needed, fifteen to thirty thousand dollars in its costs section. In its FAQ, twenty-five to forty thousand for the carbon-ceramic rotors and pads. And in the brake section, over forty thousand for rotors alone, with pads and labour on top, for a total above fifty thousand. The guide gives three numbers for the same job.",
+   "query": "918 brakes, guide",
+   "caption": "STUTTCARS: $15\u201330K (COSTS) \u00b7 $25\u201340K (FAQ, PCCB) \u00b7 $50K+ (BRAKE SECTION) \u00b7 THREE FIGURES FOR ONE JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Whichever list you believe, a brake job on a nine eighteen is the price of a new family car or more. By our arithmetic, even the shop's lowest total is about half the average new vehicle price of fifty thousand, eighty-nine dollars, and the guide's highest figure is more than that average. Neither source says how often a brake job is needed, which depends on how the car is driven.",
+   "query": "918 brakes vs average car",
+   "caption": "$25,300 \u2248 0.5\u00d7 \u00b7 $50,000+ \u2248 1.0\u00d7+ THE $50,089 AVERAGE NEW VEHICLE (KBB; OUR ARITHMETIC) \u00b7 FREQUENCY NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "The battery is the number that frightens buyers. Wikipedia and Porsche describe a six point eight kilowatt-hour lithium-ion pack, about seven in Porsche's wording, with three hundred twelve cells, and a seven-year battery warranty. By our arithmetic, a car delivered in twenty fifteen would have been out of that warranty by twenty twenty-two. Whether it counts from delivery or registration, our sources do not say.",
+   "query": "918 battery warranty",
+   "caption": "6.8 kWh \u00b7 312 CELLS \u00b7 7-YEAR BATTERY WARRANTY (WIKIPEDIA; PORSCHE) \u00b7 2015 + 7 = 2022 (OUR ARITHMETIC) \u00b7 START DATE OF WARRANTY NOT STATED",
+   "cuts": 3,
+   "chapter": "The battery"
+  },
+  {
+   "text": "What does a replacement cost? Stuttcars says fifty to eighty thousand dollars, attributing the top figure to unnamed experts. Repasi says complete replacement is eighty to one hundred fifty thousand. Only the ends touch. The shop adds module replacement at fifteen to thirty thousand, and battery conditioning, which it recommends every six to eight years, at twenty-five hundred to five thousand.",
+   "query": "918 battery cost",
+   "caption": "GUIDE: REPLACEMENT $50\u201380K \u00b7 SHOP: COMPLETE $80\u2013150K \u00b7 MODULES $15\u201330K \u00b7 CONDITIONING $2.5\u20135K (ESTIMATES; ONLY ENDPOINTS OVERLAP)",
+   "cuts": 3
+  },
+  {
+   "text": "Porsche has not published a price for the pack in anything we found. The only invoice we have seen is for a different car: a Motorious article on a LaFerrari says it had a new high-voltage battery and a service invoice of more than two hundred thousand euros. So the nine eighteen figures stay as estimates. By our arithmetic, the shop's top figure of one hundred fifty thousand dollars is about eighteen percent of the car's original base price.",
+   "query": "No published battery price",
+   "caption": "NO PORSCHE PRICE FOUND \u00b7 LAFERRARI: NEW HV BATTERY + INVOICE >\u20ac200,000 (MOTORIOUS) \u00b7 $150,000 \u00f7 $845,000 = 17.8% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the electric range. The EPA rating for the nine eighteen is twelve miles on electricity alone, while Porsche's own claim was over thirty kilometres. By our arithmetic, twelve miles is about nineteen kilometres. The difference between claim and rating is a reminder that the hybrid system's real-world performance is not exactly what the brochure says.",
+   "query": "918 electric range",
+   "caption": "EPA EV RANGE 12 MI (~19 KM) vs PORSCHE CLAIM >30 KM (WIKIPEDIA; PORSCHE) \u00b7 12 MI \u00d7 1.609 = 19.3 KM (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Insurance. Stuttcars quotes fifteen to thirty thousand dollars or more, and says it asked brokers on Long Island. It does not say whether that is per year, though the context suggests so. Repasi says eight to twenty-five thousand dollars annually. Neither is an insurer's quote, and both depend on the owner, the state, and the agreed value of the car.",
+   "query": "918 insurance",
+   "caption": "GUIDE: $15,000\u201330,000+ (LONG ISLAND BROKERS; PERIOD NOT STATED) \u00b7 SHOP: $8,000\u201325,000 A YEAR \u00b7 NEITHER IS AN INSURER'S QUOTE",
+   "cuts": 3,
+   "chapter": "Insurance and storage"
+  },
+  {
+   "text": "Storage. Repasi says climate-controlled storage costs four hundred to two thousand dollars a month. By our arithmetic, that is four thousand, eight hundred to twenty-four thousand dollars a year. For a car that is driven thirty-eight miles a year, storage may be a large part of the bill, but only for owners who pay for it rather than keep the car at home.",
+   "query": "918 storage",
+   "caption": "REPASI: $400\u20132,000/MONTH \u2192 $4,800\u201324,000/YEAR (OUR ARITHMETIC) \u00b7 ONLY FOR OWNERS WHO PAY FOR STORAGE",
+   "cuts": 3
+  },
+  {
+   "text": "The recalls are a different kind of cost, because the manufacturer pays. In May twenty fifteen, Autoblog reported a global precautionary recall: a carbon-fibre component could damage the radiator fan's wiring harness. It covered two hundred twenty-three cars in the United States, those built through the end of April twenty fifteen. The fix was free and took about half a day.",
+   "query": "918 recall 2015",
+   "caption": "MAY 2015 RECALL: CARBON PART CAN DAMAGE FAN WIRING HARNESS \u00b7 223 US CARS BUILT THROUGH APRIL 2015 \u00b7 FREE, ~HALF A DAY (AUTOBLOG)",
+   "cuts": 3,
+   "chapter": "Recalls"
+  },
+  {
+   "text": "By our arithmetic, two hundred twenty-three of the two hundred ninety-four United States cars is seventy-six percent. So three out of four cars on American roads needed that visit. The article does not give a global figure, and it does not say how many of the cars were found to have damaged harnesses.",
+   "query": "918 recall share",
+   "caption": "223 \u00f7 294 = 75.9% OF US CARS (OUR ARITHMETIC) \u00b7 GLOBAL FIGURE AND NUMBER ACTUALLY DAMAGED: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "A later recall, NHTSA campaign sixteen V eight eight five, covered three hundred six vehicles, built between the sixth of November twenty thirteen and the twenty-seventh of July twenty fifteen. The front lower control arms may crack at the ball joint. Dealers replaced them free of charge. Motor1, which reported it, does not give a repair cost.",
+   "query": "918 recall control arms",
+   "caption": "NHTSA 16V885: 306 VEHICLES, BUILT 6 NOV 2013 \u2013 27 JUL 2015 \u00b7 FRONT LOWER CONTROL ARMS MAY CRACK AT BALL JOINT \u00b7 FREE (MOTOR1) \u00b7 NO REPAIR COST GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Stuttcars also mentions a twenty-sixteen recall for coolant pipe bonding, repaired under warranty, with no dollar figure. We keep it separate, because we could not verify it in a primary source. The point is the same in every case: recalls cost the owner nothing, but they show that the car needed attention in the first years.",
+   "query": "918 other recalls",
+   "caption": "STUTTCARS: 2016 COOLANT PIPE BONDING, REPAIRED UNDER WARRANTY (NO PRIMARY SOURCE FOUND; NO COST GIVEN) \u00b7 ABOUT 6 RECALLS IN ALL (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Parts. Stuttcars gives a list of estimates, and again they are the guide's own. Carbon body panels, ten to twenty thousand dollars each. A rear carbon bumper, over fifteen thousand. A headlight assembly, eight to twelve thousand per unit. The Weissach exhaust system, fifteen to twenty-five thousand. Nothing here comes from Porsche, and the guide does not cite a source.",
+   "query": "918 parts",
+   "caption": "STUTTCARS ESTIMATES: CARBON PANEL $10\u201320K \u00b7 REAR BUMPER $15K+ \u00b7 HEADLIGHT $8\u201312K EACH \u00b7 WEISSACH EXHAUST $15\u201325K (NO SOURCE CITED)",
+   "cuts": 3,
+   "chapter": "Parts and body"
+  },
+  {
+   "text": "Even so, the headlight number is worth a moment. By our arithmetic, a pair at eight to twelve thousand each is sixteen to twenty-four thousand dollars, which is a third to a half of the average new vehicle price. Whether a collision repair actually costs that much depends on the insurer, the shop, and parts supply, none of which our sources describe.",
+   "query": "918 headlights",
+   "caption": "2 \u00d7 $8\u201312K = $16\u201324K \u2248 0.32\u20130.48\u00d7 $50,089 AVERAGE NEW VEHICLE (OUR ARITHMETIC) \u00b7 REAL REPAIR COST DEPENDS ON INSURER/SHOP/PARTS (NOT IN SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel. The EPA rated the nine eighteen at twenty-two miles per gallon on petrol alone, and fifty kilowatt-hours per one hundred miles on electricity. Porsche's European figure was three litres per one hundred kilometres, with seventy-nine grams of CO two per kilometre. We did not find a published real-world fuel bill, and we will not guess one.",
+   "query": "918 fuel",
+   "caption": "EPA 22 MPG (GAS ONLY) \u00b7 50 kWh/100 MI (ELECTRIC) \u00b7 NEDC 3 L/100 KM, 79 g/KM CO\u2082 (WIKIPEDIA) \u00b7 NO REAL-WORLD FUEL BILL FOUND",
+   "cuts": 3,
+   "chapter": "Fuel and energy"
+  },
+  {
+   "text": "By our arithmetic, at two thousand to three thousand miles a year and twenty-two miles per gallon on petrol, the car would burn about ninety-one to one hundred thirty-six gallons a year. We do not attach a price, because our sources do not give a fuel price for the period. The point is that fuel is small compared to everything else on this list.",
+   "query": "918 annual fuel volume",
+   "caption": "2,000\u20133,000 MI \u00f7 22 MPG \u2248 91\u2013136 GALLONS/YEAR, GAS ONLY (OUR ARITHMETIC) \u00b7 NO FUEL PRICE USED",
+   "cuts": 3
+  },
+  {
+   "text": "Time to add it up, with every assumption stated. The guide's version: annual service of five to ten thousand dollars plus insurance of fifteen to thirty thousand. By our arithmetic, that is twenty to forty thousand dollars a year, before tyres, brakes, storage and the battery.",
+   "query": "918 yearly total, guide",
+   "caption": "STUTTCARS: SERVICE $5\u201310K + INSURANCE $15\u201330K = $20,000\u201340,000/YEAR (OUR ARITHMETIC) \u00b7 EXCLUDES TYRES, BRAKES, STORAGE, BATTERY",
+   "cuts": 3,
+   "chapter": "Putting it together"
+  },
+  {
+   "text": "The shop's version for a low-mileage owner: its own budget of seventy-two hundred to ten thousand, eight hundred, plus insurance at eight to twenty-five thousand, plus storage at four thousand, eight hundred to twenty-four thousand. By our arithmetic, twenty thousand to fifty-nine thousand, eight hundred dollars a year. An active owner, at thirteen to twenty-two thousand, comes to about twenty-five thousand, eight hundred to seventy-one thousand.",
+   "query": "918 yearly total, shop",
+   "caption": "SHOP BUDGET $7.2\u201310.8K + INSURANCE $8\u201325K + STORAGE $4.8\u201324K = $20,000\u201359,800/YEAR \u00b7 ACTIVE OWNER $13\u201322K \u2192 $25,800\u201371,000 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Notice that both sets of sources, built independently, give a low end of about twenty thousand dollars a year. That is our arithmetic and a coincidence of two estimates, not a confirmed figure. The high end is far less certain, and depends on whether the owner pays for storage and how much the car is driven.",
+   "query": "918 yearly total comparison",
+   "caption": "BOTH LOW ENDS \u2248 $20,000/YEAR (OUR ARITHMETIC; ESTIMATES, NOT CONFIRMED) \u00b7 HIGH END: $40,000 (GUIDE) TO $71,000 (SHOP, ACTIVE OWNER)",
+   "cuts": 3
+  },
+  {
+   "text": "Now compare that to what the car did. The standard car sold for two million, nine hundred sixty thousand, against a base price of eight hundred forty-five thousand. By our arithmetic, that is a gain of two million, one hundred fifteen thousand dollars. Spread over eleven years, about one hundred ninety-two thousand a year, which is several times the twenty to sixty thousand running cost.",
+   "query": "918 gain vs running cost",
+   "caption": "$2,960,000 \u2212 $845,000 = $2,115,000 \u00b7 \u00f7 11 YEARS \u2248 $192,000/YEAR vs $20\u201360K RUNNING COST (OUR ARITHMETIC) \u00b7 GAINS ARE UNREALISED UNTIL SOLD",
+   "cuts": 3
+  },
+  {
+   "text": "That comparison needs three warnings. The gain is on paper until the car is sold. It ignores the cost of money tied up in the purchase, which our sources do not discuss. And the original buyers got their cars only if Porsche chose them, so most people could never have paid the list price at all. We are describing what the numbers say, not advising anyone to buy.",
+   "query": "Warnings on the gain",
+   "caption": "PAPER GAIN ONLY \u00b7 IGNORES COST OF CAPITAL (NOT IN SOURCES) \u00b7 LIST-PRICE ACCESS WAS NOT OPEN TO ALL (WIKIPEDIA: SOLD OUT BEFORE END OF PRODUCTION) \u00b7 NOT FINANCIAL ADVICE",
+   "cuts": 3
+  },
+  {
+   "text": "The duPont Registry's index adds a growth rate: about ten percent a year for standard cars and about six percent for Weissach cars. By our arithmetic, ten percent of the two million, one hundred sixty-eight thousand median is about two hundred seventeen thousand a year. That is a statistic about the index, not a forecast of what any car will do.",
+   "query": "918 index growth",
+   "caption": "DUPONT INDEX: ~10%/YEAR STANDARD \u00b7 ~6%/YEAR WEISSACH \u00b7 10% \u00d7 $2,168,836 \u2248 $216,900 (OUR ARITHMETIC) \u00b7 INDEX STATISTIC, NOT A FORECAST",
+   "cuts": 3
+  },
+  {
+   "text": "Per day, then. By our arithmetic, twenty thousand dollars a year is fifty-four dollars eighty a day, and fifty-nine thousand, eight hundred is one hundred sixty-four dollars a day. That is every day, including the days when the car does not move. It is the same arithmetic as before, applied to the shop and guide estimates, and it is not a measured cost.",
+   "query": "918 cost per day",
+   "caption": "$20,000 \u00f7 365 \u2248 $54.80/DAY \u00b7 $59,800 \u00f7 365 \u2248 $163.84/DAY (OUR ARITHMETIC FROM THIRD-PARTY ESTIMATES)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the worst case on the shop's own list: a complete battery at one hundred fifty thousand dollars, plus a full set of brake rotors and pads at about thirty-four thousand, seven hundred. By our arithmetic, that is one hundred eighty-four thousand, seven hundred dollars, or six point two percent of the two point nine six million dollar auction price. Two jobs, both at the top of the shop's range.",
+   "query": "918 worst-case repairs",
+   "caption": "$150,000 + ~$34,700 = ~$184,700 = 6.2% OF $2,960,000 (REPASI TOP FIGURES; OUR ARITHMETIC) \u00b7 BOTH AT TOP OF RANGE",
+   "cuts": 3
+  },
+  {
+   "text": "How does the battery compare with routine service? Using the shop's own numbers, a complete battery at eighty thousand dollars equals eighteen years of its baseline annual service at four thousand, four hundred dollars. At one hundred fifty thousand and the lowest baseline of two thousand, eight hundred fifty, it is fifty-three years. Those are our ratios, not Repasi's.",
+   "query": "Battery vs routine service",
+   "caption": "$80,000 \u00f7 $4,400 \u2248 18.2 YEARS \u00b7 $150,000 \u00f7 $2,850 \u2248 52.6 YEARS OF BASELINE ANNUAL SERVICE (REPASI FIGURES; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the Weissach premium, which Stuttcars puts at two hundred fifty thousand dollars or more. The duPont medians give a way to check it. By our arithmetic, three million, thirty-two thousand, five hundred minus two million, one hundred sixty-eight thousand, eight hundred thirty-six is eight hundred sixty-three thousand, six hundred sixty-four dollars. So on the medians, the premium is more than three times the guide's figure.",
+   "query": "Weissach premium check",
+   "caption": "$3,032,500 \u2212 $2,168,836 = $863,664 vs GUIDE '$250K+' \u2192 ~3.5\u00d7 (DUPONT; STUTTCARS; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. Porsche publishes no service price list for the nine eighteen. No insurer's quote. No owner's actual annual bill. No price for the battery pack from Porsche. The two cost sources contradict each other and, in the guide's case, itself. No figure for how often the brakes need replacing, or whether the pack really ages out at a given mileage.",
+   "query": "Porsche 918 Spyder",
+   "caption": "NOT PUBLISHED: PORSCHE SERVICE PRICES \u00b7 INSURER QUOTES \u00b7 OWNER BILLS \u00b7 OFFICIAL BATTERY PRICE \u00b7 BRAKE REPLACEMENT INTERVALS \u00b7 BATTERY AGEING DATA",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "So the honest answer to what it really costs to own a Porsche nine eighteen is a range. Our arithmetic from the two outside sources says about twenty thousand dollars a year at the low end, and up to roughly seventy thousand for an active owner who pays for storage, before a battery or brake job. The car's value, meanwhile, has risen far more than that.",
+   "query": "Porsche 918 Spyder",
+   "caption": "ESTIMATE: ~$20,000/YEAR LOW END \u00b7 UP TO ~$71,000 ACTIVE OWNER + STORAGE \u00b7 BATTERY/BRAKES EXTRA (OUR ARITHMETIC FROM THIRD-PARTY ESTIMATES)",
+   "cuts": 3
+  },
+  {
+   "text": "If you own a nine eighteen, or know someone who does, and can share a real invoice or a published source, tell us in the comments, and we will update the description. What is the highest bill you have heard of for a hypercar? In the other videos of this series, we reveal two things you did not know about the nine eighteen, compare it with the LaFerrari, and tell the story of the Holy Trinity. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Porsche 918 Spyder",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

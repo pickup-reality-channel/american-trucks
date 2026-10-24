@@ -1,0 +1,11 @@
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- Stuttcars, Porsche 918 Buyer's Guide: https://www.stuttcars.com/porsche-buyers-guides/porsche-918-buyers-guide/
+- Repasi Motorwerks, 918 Spyder Annual Maintenance Cost (a repair shop's own page): https://repasimotorwerks.com/blog/918-spyder-annual-maintenance-cost
+- Autoblog, Porsche 918 Spyder recalled over bad wiring harness: https://www.autoblog.com/2015/05/22/porsche-918-spyder-recall/
+- Motor1, Porsche 918 recalled for cracked suspension: https://www.motor1.com/news/132292/porsche-918-recalled-again/
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction
+- Motorious, Delivery-mileage 2015 Ferrari LaFerrari heads to Broad Arrow's Zürich auction: https://www.motorious.com/articles/all/delivery-mileage-2015-ferrari-laferrari-heads-to-broad-arrows-zurich-auction/
+- Kelley Blue Book, average new vehicle price: https://www.kbb.com/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
