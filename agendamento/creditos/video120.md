@@ -1,0 +1,140 @@
+# Photo credits: How a Tractor Maker Ended Up Building the Countach
+
+- Ferruccio Lamborghini Museum.jpg by TKOIII, CC BY-SA 4.0
+- Ferruccio Lamborghini autograph.jpg by Ferruccio Lamborghini, Public domain
+- Lamborghini Espada-Chassis.jpg by Countachinfo.de, CC BY-SA 4.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE in the Ferruccio Lamborghini Museum.jpg by TKOIII, CC BY 4.0
+- Blue Lamborghini Urraco.jpg by TKOIII, CC BY-SA 4.0
+- Brown Lamborghini Urraco.jpg by TKOIII, CC BY-SA 4.0
+- Brown Lamborghini Urraco rear.jpg by TKOIII, CC BY-SA 4.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE in the Ferruccio Lamborghini Museum (rear).jpg by TKOIII, CC BY 4.0
+- Silver Lamborghini Espada.jpg by TKOIII, CC BY-SA 4.0
+- Lamborghini Jalpa Prototyp Vollcabrio.jpg by Countachinfo.de, CC BY-SA 4.0
+- Lamborghini Espada-Prototyp Heck.jpg by Countachinfo.de, CC BY-SA 4.0
+- Lamborghini Jalpa Prototyp Vollcabrio Heck.jpg by Countachinfo.de, CC BY-SA 4.0
+- Lamborghini Espada-Prototyp mit Flügeltüren.jpg by Countachinfo.de, CC BY-SA 4.0
+- Ford Thunderbird in Italy.jpg by TKOIII, CC BY-SA 4.0
+- Lamborghini Espada-Chassis (cropped).jpg by Countachinfo.de, CC BY-SA 4.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE (plaque).jpg by TKOIII, CC BY 4.0
+- Chiesa di San Sebastiano, Renazzo 01.jpg by Mongolo1984, CC BY-SA 4.0
+- Santo (?) chiesa di San Sebastiano (Renazzo, Cento).jpg by Mongolo1984, CC BY-SA 4.0
+- Chiesa di San Sebastiano (Renazzo, Cento), interno 01.jpg by Mongolo1984, CC BY-SA 4.0
+- San Luigi Gonzaga, chiesa di San Sebastiano (Renazzo, Cento).jpg by Mongolo1984, CC BY-SA 4.0
+- La Rocca Cento, Fe 01.JPG by Silvy1967!, CC BY-SA 3.0
+- Metalworks Institute - Campus Studios - Studio 6 - Music College Diploma.jpg by MetalworksInstitute, CC BY-SA 4.0
+- Tupolew Tu-144 CCCR-77107 near the German Russian Institute of Advanced Technologies in Kazan, Tatarstan, Russia.jpg by Mathias Magdowski, CC BY-SA 4.0
+- KPS Institute of Polytechnic.jpg by KPS Institute of Polytechnic, CC BY-SA 4.0
+- Overtourism in the Port of Rhodes, Greece, 2024.jpg by Julian Lupyan, CC0
+- Charaki Feraclos Castle Rhodes Greece.jpg by Ввласенко, CC BY-SA 3.0
+- Village of Rhodes, South Africa.jpg by SA-Venues.com, CC BY 2.0
+- 2 June 1946, establishment of a Republic, and end of the monarchy in Italy.jpg by Albarubescens, CC BY-SA 4.0
+- 1944-46 Italian passport.jpg by Huddyhuddy, CC BY-SA 4.0
+- Stefan Orzechowski (centre) - visit to 15th Batalion of Polish Armed Forces, Modena, Italy, 1946.jpeg by It's my own faithful copy of picture from the following book: Stefan Orzechowski: Historia walk 5 Kresowej Dywizji Piechoty, Warszawa, 1998, Bellona Publishers, p. unnumbered, CC BY-SA 4.0
+- Lamborghini Carioca Traktor (51964743748).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
+- Ferrari 250 GT 2+2 Classic-Gala 2025 DSC 0846.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 250 GT 2+2 Classic-Gala 2025 DSC 0851 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 250 GT Berlinetta Tour Auto 2014 Circuit de Dijon Prenois 06.jpg by François de Dijon, CC BY-SA 3.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Poplars - Sant'Agata Bolognese, Bologna, Italy - February 12, 2013 01.jpg by Giorgio Galeotti, CC BY 4.0
+- Weeping Willow - Sant'Agata Bolognese, Bologna, Italy 05.jpg by Giorgio Galeotti, CC BY 4.0
+- 6274 - Luzern - Verkehrshaus - Lamborghini Miura.JPG by Andrew Bossi, CC BY-SA 2.5
+- 1971 Lamborghini Miura P400 SV.jpg by Chelsea Jay, CC BY-SA 4.0
+- Lamborghini Miura P400 S GIMS 2024 1X7A2379.jpg by Alexander-93, CC BY-SA 4.0
+- Municipality of Maranello in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- Maranello notte rossa2.jpg by Maranellolover, CC BY-SA 4.0
+- Ferruccio Lamborghini's own Ferrari 250 GTE (interior).jpg by TKOIII, CC BY 4.0
+- Lamborghini Espada-Prototyp mit Flügeltüren (cropped).jpg by Countachinfo.de, CC BY-SA 4.0
+- Silver Lamborghini Espada (cropped).jpg by TKOIII, CC BY-SA 4.0
+- 1948-05-02 Mille Miglia Fiat 500 Lamborghini Baglioni.jpg by Unknown photographer, Public domain
+- Lamborghini Diablo SV-R side.jpg by Ed Callow;Cropped and minor alterations by uploader Mr.choppers, CC BY 2.0
+- Lamborghini Diablo SV-R rear.jpg by Ed Callow, CC BY 2.0
+- Lamborghini Veneno, Car Zero (profile).jpg by 2013-03-05_Geneva_Motor_Show_7894.JPG: Norbert Aepli, Switzerland (User:Noebu)
+derivative work: Keraunoscopia, CC BY-SA 3.0
+- Lamborghini Miura P400 S Classic-Days 2022 DSC 0086.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Miura P400 (1967) Classic-Gala 2022 1X7A0082.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Miura P400 S Classic-Days 2022 DSC 0089.jpg by Alexander Migl, CC BY-SA 4.0
+- The Beast of Turin (22405066914).jpg by Thomas's Pics, CC BY 2.0
+- 1911 Fiat S76 Tipo 12 The Beast Of Turin (22676378479).jpg by Thomas's Pics, CC BY 2.0
+- Ford Saguaro rear by Ghia.jpg by Erremm, CC BY-SA 4.0
+- 2017-03-07 Geneva Motor Show 0894.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0892.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- 2017-03-07 Geneva Motor Show 0895.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Lamborghini Lambo V12 Vision Gran Turismo GIMS 2024 1X7A2041.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Lambo V12 Vision Gran Turismo, GIMS 2024, Le Grand-Saconnex (GIMS0157).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Lambo V12 Vision Gran Turismo GIMS 2024 1X7A2043.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini 573-60 N.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- Beypouey 65 Lamborghini 550 DT 2012.jpg by JLPC, CC BY-SA 3.0
+- Lamborghini Sprint 674-75 Multispeed.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- SAME Explorer II 90 Turbo.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- SAME Virtus 135 Agritechnica 2023 (DSC04932).jpg by MarcelX42, CC BY-SA 4.0
+- SAME Dorado 95 Agritechnica 2023 (DSC04937).jpg by MarcelX42, CC BY-SA 4.0
+- View of center of Bologna 13.jpg by Daniel Ventura, CC BY-SA 3.0
+- Geneva Motor Show 2011 - Rolls Royce (5586384630).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- British Motor Museum 09-2016 (30068948325).jpg by Karen Roe, CC BY 2.0
+- Lancia Stratos (49817653007).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Lamborghini Countach LP 5000S 1983.jpg by Palauenc05, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8019.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Countach, BAS 24, Brussels (P1170237-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Countach LP500S IMG 4464.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Countach LP500S IMG 4466.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8009.jpg by Alexander-93, CC BY-SA 4.0
+- The Lamborghini Bull (51353101568).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Pez murciélago orbicular (Platax orbicularis), mar Rojo, Egipto, 2023-04-19, DD 01.jpg by Diego Delso, CC BY-SA 4.0
+- 12-08 Trips-Fahrt 82-3.jpg by 12-08_Trips-Fahrt_82.JPG: Achim Raschka (talk)
+derivative work: Regi51, CC BY-SA 3.0
+- Lago Trasimeno vito con il drone.jpg by Wikiriello, CC BY-SA 4.0
+- Trasimeno Lake.jpg by Michela Mariotti, CC BY-SA 4.0
+- Lake Trasimeno Italy.jpg by Phacelias, CC BY-SA 4.0
+- Perugia panoramic.jpg by Luca Vanzella, CC BY-SA 2.0
+- Perugia-Piazza-del-Comune.jpg by Edward Stephenson, CC BY 2.0
+- Perugia (110).jpg by Elekes Andor, CC BY 4.0
+- Museo Lamborghini (6).jpg by Joseolgon, CC BY-SA 4.0
+- VALENTINO BALBONI & BRIGITTA BULGARI in LAMBORGHINI.jpg by Stefano Mecchia, CC BY 2.0
+- Lamborghini Museum .jpg by Valentina 84, CC BY-SA 4.0
+- Lamborghini Countach LP 500 S (1982) (52865640777).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach LP 400 Periscopio (1975) (52866385009).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach LP 400 Periscopio (1975) (52866384989).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach 25th Anniversary IMG 2994.jpg by Alexander Migl, CC BY-SA 4.0
+- 1990 Lamborghini Countach 25th Anniversary HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- White 1990 Lamborghini Countach 25th Anniversary SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 IMG 8034.jpg by Alexander-93, CC BY-SA 4.0
+- 1990 Lamborghini Countach Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 1984 Lamborghini Countach LP5000S.jpg by MrWalkr, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach 25th Anniversary - 1989 - 005.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach LP400S - 1980 - 013.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Lamborghini Countach LP400S - 1980 - 010.jpg by Thesupermat, CC BY-SA 4.0
+- 1984 Lamborghini Countach 5000 S Chassis ZA9C0005003LA12681.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach (7874143660).jpg by Andrew Bone from Weymouth, England, CC BY 2.0
+- Lamborghini Countach LP400 S (30608348783).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Lamborghini Countach LP 400 S (1982) (52866218576).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach LP 400 Periscopio (1975) (52866606445).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach LP 400 S (1982) (52866218571).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Countach LP400S ver.wolf of circuit with its door open.JPG by Tokumeigakarinoaoshima, CC0
+- Lamborghini Countach 5000 quattrovalvole (22091109052).jpg by 先従隗始, CC0
+- Lamborghini Countach 5000 quattrovalvole (22091109032).jpg by 先従隗始, CC0
+- British Motor Museum 09-2016 (29860802530).jpg by Karen Roe, CC BY 2.0
+- 2014-03-04 Geneva Motor Show 1286.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- 2014-03-04 Geneva Motor Show 1284.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- 2014-03-04 Geneva Motor Show 1287.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- Periodista Horacio Pagani.jpg by Victor Santa Maria, CC BY 2.0
+- Alberto Garnerone Pagani.jpg by Thecarguyfromitaly, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 3.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Countach LPI 800-4 white - Bburago 1-24.jpg by CSR2Forever, CC BY-SA 4.0
+- Classic Cuban Cars in Havana.jpg by Joe Ross from Lansing, Michigan, CC BY-SA 2.0
+- 016 Classic American cars in Havana, Cuba - old cars in Cuba.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0
+- Flickr - Duncan~ - Classic Cars.jpg by Duncan Harris from Nottingham, UK, CC BY 2.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ferruccio Lamborghini: https://en.wikipedia.org/wiki/Ferruccio_Lamborghini
+- Wikipedia, Lamborghini Countach: https://en.wikipedia.org/wiki/Lamborghini_Countach
+- Wikipedia, Lamborghini Miura: https://en.wikipedia.org/wiki/Lamborghini_Miura
+- RM Sotheby's, 1977 Lamborghini Countach LP400 Periscopio (Arizona 2026): https://rmsothebys.com/auctions/az26/lots/r0060-1977-lamborghini-countach-lp400-periscopio-by-bertone
+- RM Sotheby's, 1971 Lamborghini Miura SV (Paris 2026, lot 150): https://rmsothebys.com/auctions/pa26/lots/r0090-1971-lamborghini-miura-sv
+- Hagerty valuation tools, 1975 Lamborghini Countach LP400: https://hagerty.com/apps/valuationtools/1975-lamborghini-countach-lp400
