@@ -1,0 +1,2271 @@
+1
+00:00:00,000 --> 00:00:02,920
+The Porsche nine eighteen Spyder hides two
+
+2
+00:00:02,920 --> 00:00:05,424
+secrets that you cannot see from the
+
+3
+00:00:05,424 --> 00:00:07,163
+outside, and one you can.
+
+4
+00:00:07,343 --> 00:00:09,613
+The exhaust pipes come out of the
+
+5
+00:00:09,613 --> 00:00:10,644
+top of the car,
+
+6
+00:00:10,644 --> 00:00:11,814
+above the engine,
+
+7
+00:00:11,814 --> 00:00:14,840
+and Porsche says no other production vehicle
+
+8
+00:00:14,840 --> 00:00:15,528
+does that.
+
+9
+00:00:15,708 --> 00:00:17,612
+The rear wheels steer.
+
+10
+00:00:17,792 --> 00:00:20,306
+And a button on the steering wheel
+
+11
+00:00:20,306 --> 00:00:23,264
+called Hot Lap spends the battery's last
+
+12
+00:00:23,264 --> 00:00:25,408
+reserves for a few fast laps.
+
+13
+00:00:25,588 --> 00:00:26,860
+These are the facts,
+
+14
+00:00:26,860 --> 00:00:28,514
+with every figure sourced.
+
+15
+00:00:28,863 --> 00:00:32,500
+We use Porsche's own twenty thirteen press
+
+16
+00:00:32,500 --> 00:00:35,097
+release as published by 911uk,
+
+17
+00:00:35,097 --> 00:00:38,386
+a March twenty twelve report from Auto
+
+18
+00:00:38,386 --> 00:00:39,598
+one two three,
+
+19
+00:00:39,598 --> 00:00:43,235
+and Wikipedia, Car and Driver's figures as
+
+20
+00:00:43,235 --> 00:00:44,793
+quoted there, evo,
+
+21
+00:00:44,793 --> 00:00:46,871
+and the duPont Registry.
+
+22
+00:00:47,051 --> 00:00:50,522
+Where Porsche's own figures changed over time,
+
+23
+00:00:50,522 --> 00:00:51,428
+we show how.
+
+24
+00:00:51,608 --> 00:00:53,417
+Where sources disagree,
+
+25
+00:00:53,417 --> 00:00:54,440
+we show both.
+
+26
+00:00:54,620 --> 00:00:56,650
+And all arithmetic is ours,
+
+27
+00:00:56,650 --> 00:00:57,627
+and labelled.
+
+28
+00:00:57,978 --> 00:00:58,906
+Secret one.
+
+29
+00:00:59,086 --> 00:01:02,057
+Porsche's press release says the exhaust has
+
+30
+00:01:02,057 --> 00:01:03,677
+what it calls top pipes,
+
+31
+00:01:03,677 --> 00:01:05,973
+ending in the upper rear body just
+
+32
+00:01:05,973 --> 00:01:07,120
+above the engine.
+
+33
+00:01:07,300 --> 00:01:10,062
+The release says this layout reduces back
+
+34
+00:01:10,062 --> 00:01:12,824
+pressure and keeps the engine bay cooler,
+
+35
+00:01:12,824 --> 00:01:14,441
+which helps the battery.
+
+36
+00:01:14,621 --> 00:01:17,630
+And Porsche states that no other production
+
+37
+00:01:17,630 --> 00:01:19,520
+vehicle uses this solution.
+
+38
+00:01:19,700 --> 00:01:21,320
+That is Porsche's claim,
+
+39
+00:01:21,320 --> 00:01:23,144
+not an independent finding,
+
+40
+00:01:23,144 --> 00:01:24,832
+but it is a striking one.
+
+41
+00:01:25,181 --> 00:01:27,952
+The March twenty twelve report from Auto
+
+42
+00:01:27,952 --> 00:01:30,723
+one two three describes the same feature
+
+43
+00:01:30,723 --> 00:01:33,355
+as an upward-venting top pipes system.
+
+44
+00:01:33,535 --> 00:01:35,168
+So it was in the car from
+
+45
+00:01:35,168 --> 00:01:36,278
+the early stages,
+
+46
+00:01:36,278 --> 00:01:38,237
+and not a late styling choice.
+
+47
+00:01:38,417 --> 00:01:40,574
+The reason the exhaust matters is the
+
+48
+00:01:40,574 --> 00:01:41,041
+battery.
+
+49
+00:01:41,221 --> 00:01:43,763
+A lithium-ion pack works best in a
+
+50
+00:01:43,763 --> 00:01:45,707
+narrow temperature window,
+
+51
+00:01:45,707 --> 00:01:48,848
+and Porsche says optimum performance is at
+
+52
+00:01:48,848 --> 00:01:51,240
+twenty to forty degrees Celsius.
+
+53
+00:01:51,590 --> 00:01:52,830
+By our arithmetic,
+
+54
+00:01:52,830 --> 00:01:55,448
+a twenty-degree window is a narrow one
+
+55
+00:01:55,448 --> 00:01:57,445
+for a car that can make eight
+
+56
+00:01:57,445 --> 00:02:01,027
+hundred eighty-seven metric horsepower in the engine
+
+57
+00:02:01,027 --> 00:02:02,887
+bay of a mid-engined coupé.
+
+58
+00:02:03,067 --> 00:02:05,631
+The press release says the battery is
+
+59
+00:02:05,631 --> 00:02:08,957
+liquid-cooled and has three hundred twelve cells
+
+60
+00:02:08,957 --> 00:02:11,798
+and about seven kilowatt-hours of energy.
+
+61
+00:02:11,978 --> 00:02:14,256
+Moving the exhaust to the top frees
+
+62
+00:02:14,256 --> 00:02:16,275
+the engine bay from some of the
+
+63
+00:02:16,275 --> 00:02:18,619
+heat, and that is the stated reason.
+
+64
+00:02:18,968 --> 00:02:21,067
+The engine behind the pipes has a
+
+65
+00:02:21,067 --> 00:02:21,639
+pedigree.
+
+66
+00:02:21,819 --> 00:02:25,496
+Porsche's release says the four point six
+
+67
+00:02:25,496 --> 00:02:28,277
+litre V8 is derived from the RS
+
+68
+00:02:28,277 --> 00:02:30,878
+Spyder race car's power unit,
+
+69
+00:02:30,878 --> 00:02:34,017
+makes six hundred eight horsepower,
+
+70
+00:02:34,017 --> 00:02:36,888
+and can run to nine thousand one
+
+71
+00:02:36,888 --> 00:02:38,502
+hundred fifty rpm.
+
+72
+00:02:38,682 --> 00:02:40,961
+It adds that the output of about
+
+73
+00:02:40,961 --> 00:02:44,237
+one hundred thirty-two horsepower per litre is
+
+74
+00:02:44,237 --> 00:02:47,513
+the highest of any naturally aspirated Porsche
+
+75
+00:02:47,513 --> 00:02:50,646
+engine, against the Carrera GT's one hundred
+
+76
+00:02:50,646 --> 00:02:50,931
+six.
+
+77
+00:02:51,280 --> 00:02:52,604
+Check that arithmetic.
+
+78
+00:02:52,784 --> 00:02:56,138
+Six hundred eight horsepower divided by four
+
+79
+00:02:56,138 --> 00:02:58,959
+point five nine three litres is about
+
+80
+00:02:58,959 --> 00:03:00,713
+one hundred thirty-two,
+
+81
+00:03:00,713 --> 00:03:03,686
+so Porsche's per-litre number is right.
+
+82
+00:03:03,866 --> 00:03:05,148
+By our arithmetic,
+
+83
+00:03:05,148 --> 00:03:08,209
+that is twenty-four percent better than the
+
+84
+00:03:08,209 --> 00:03:10,275
+Carrera GT's one hundred six.
+
+85
+00:03:10,455 --> 00:03:13,889
+Wikipedia lists the same engine's peak power
+
+86
+00:03:13,889 --> 00:03:16,075
+at eighty-seven hundred rpm,
+
+87
+00:03:16,075 --> 00:03:18,886
+which is below the nine thousand one
+
+88
+00:03:18,886 --> 00:03:22,789
+hundred fifty maximum engine speed Porsche quotes,
+
+89
+00:03:22,789 --> 00:03:26,302
+so the two numbers describe different things.
+
+90
+00:03:26,653 --> 00:03:29,218
+More engine details from the release.
+
+91
+00:03:29,398 --> 00:03:33,243
+Dry-sump lubrication and carbon fibre parts,
+
+92
+00:03:33,243 --> 00:03:35,253
+including the oil tank,
+
+93
+00:03:35,253 --> 00:03:38,137
+air filter box and air induction,
+
+94
+00:03:38,137 --> 00:03:39,186
+save weight.
+
+95
+00:03:39,366 --> 00:03:42,140
+Titanium connecting rods are used.
+
+96
+00:03:42,320 --> 00:03:45,790
+The seven-speed PDK gearbox is rotated one
+
+97
+00:03:45,790 --> 00:03:49,260
+hundred eighty degrees to lower the centre
+
+98
+00:03:49,260 --> 00:03:50,169
+of gravity.
+
+99
+00:03:50,349 --> 00:03:52,421
+So the pipes are only one of
+
+100
+00:03:52,421 --> 00:03:55,529
+several unusual choices in the engine bay,
+
+101
+00:03:55,529 --> 00:03:58,119
+and each is described by Porsche as
+
+102
+00:03:58,119 --> 00:04:00,043
+a weight or heat decision.
+
+103
+00:04:00,393 --> 00:04:02,529
+Secret two is at the other end.
+
+104
+00:04:02,709 --> 00:04:05,973
+Porsche's release says each rear wheel steers
+
+105
+00:04:05,973 --> 00:04:08,874
+up to three degrees in either direction.
+
+106
+00:04:09,054 --> 00:04:11,341
+At low speeds the rear wheels turn
+
+107
+00:04:11,341 --> 00:04:12,687
+opposite the fronts,
+
+108
+00:04:12,687 --> 00:04:14,975
+which tightens the turning circle.
+
+109
+00:04:15,155 --> 00:04:17,430
+At higher speeds they turn in the
+
+110
+00:04:17,430 --> 00:04:19,429
+same direction as the fronts,
+
+111
+00:04:19,429 --> 00:04:22,945
+which improves stability during quick lane changes.
+
+112
+00:04:23,125 --> 00:04:24,532
+By our arithmetic,
+
+113
+00:04:24,532 --> 00:04:26,956
+three degrees is a small angle,
+
+114
+00:04:26,956 --> 00:04:29,380
+but at the rear axle it changes
+
+115
+00:04:29,380 --> 00:04:30,788
+how the car turns.
+
+116
+00:04:31,138 --> 00:04:33,623
+The Auto one two three report from
+
+117
+00:04:33,623 --> 00:04:37,059
+March twenty twelve calls it adaptive real-axle
+
+118
+00:04:37,059 --> 00:04:39,764
+steering, which looks like a typo for
+
+119
+00:04:39,764 --> 00:04:40,495
+rear-axle.
+
+120
+00:04:40,675 --> 00:04:43,113
+We mention the typo because it shows
+
+121
+00:04:43,113 --> 00:04:45,551
+how early the feature was announced.
+
+122
+00:04:45,731 --> 00:04:47,862
+The sources do not give the speed
+
+123
+00:04:47,862 --> 00:04:50,187
+at which the rear wheels change from
+
+124
+00:04:50,187 --> 00:04:51,931
+opposite to same direction.
+
+125
+00:04:52,111 --> 00:04:54,117
+So we can describe the principle,
+
+126
+00:04:54,117 --> 00:04:55,455
+but not the threshold.
+
+127
+00:04:55,804 --> 00:04:58,314
+The car is also adaptive in its
+
+128
+00:04:58,314 --> 00:04:58,637
+air.
+
+129
+00:04:58,817 --> 00:05:02,393
+Porsche Active Aerodynamics has three modes,
+
+130
+00:05:02,393 --> 00:05:06,050
+from maximum efficiency to maximum downforce.
+
+131
+00:05:06,230 --> 00:05:07,201
+In Race mode,
+
+132
+00:05:07,201 --> 00:05:09,813
+Porsche says, the rear wing sits at
+
+133
+00:05:09,813 --> 00:05:10,858
+a steep angle,
+
+134
+00:05:10,858 --> 00:05:12,351
+the spoiler extends,
+
+135
+00:05:12,351 --> 00:05:15,487
+and underfloor flaps open to create ground
+
+136
+00:05:15,487 --> 00:05:17,353
+effect at the front axle.
+
+137
+00:05:17,533 --> 00:05:19,136
+In the efficient modes,
+
+138
+00:05:19,136 --> 00:05:21,995
+the air inlets under the headlights close
+
+139
+00:05:21,995 --> 00:05:24,785
+after pull-away, and reopen at about one
+
+140
+00:05:24,785 --> 00:05:27,713
+hundred thirty kilometres per hour or when
+
+141
+00:05:27,713 --> 00:05:29,178
+cooling demand rises.
+
+142
+00:05:29,527 --> 00:05:30,874
+Here is a conversion.
+
+143
+00:05:31,054 --> 00:05:34,245
+One hundred thirty kilometres per hour is
+
+144
+00:05:34,245 --> 00:05:36,735
+about eighty-one miles per hour,
+
+145
+00:05:36,735 --> 00:05:38,136
+by our arithmetic.
+
+146
+00:05:38,316 --> 00:05:39,863
+So below highway speed,
+
+147
+00:05:39,863 --> 00:05:42,418
+the inlets are closed in the efficient
+
+148
+00:05:42,418 --> 00:05:44,435
+modes, and above it they open.
+
+149
+00:05:44,615 --> 00:05:46,743
+The car adapts its shape to the
+
+150
+00:05:46,743 --> 00:05:48,047
+speed and the mode,
+
+151
+00:05:48,047 --> 00:05:50,930
+which makes it a moving aerodynamic device
+
+152
+00:05:50,930 --> 00:05:52,440
+and not a fixed shape.
+
+153
+00:05:52,789 --> 00:05:53,741
+Now the button.
+
+154
+00:05:53,921 --> 00:05:56,859
+Porsche's release says there are five drive
+
+155
+00:05:56,859 --> 00:05:59,113
+modes selected by a map switch on
+
+156
+00:05:59,113 --> 00:06:00,411
+the steering wheel.
+
+157
+00:06:00,591 --> 00:06:03,002
+E-Power is the default when the battery
+
+158
+00:06:03,002 --> 00:06:04,486
+is sufficiently charged,
+
+159
+00:06:04,486 --> 00:06:07,206
+with the combustion engine running only when
+
+160
+00:06:07,206 --> 00:06:07,639
+needed.
+
+161
+00:06:07,819 --> 00:06:10,141
+Hybrid focuses on efficiency.
+
+162
+00:06:10,321 --> 00:06:13,199
+Sport Hybrid keeps the engine running as
+
+163
+00:06:13,199 --> 00:06:14,350
+the main source,
+
+164
+00:06:14,350 --> 00:06:15,789
+with electric boost.
+
+165
+00:06:15,969 --> 00:06:18,407
+Race Hybrid uses the engine for high
+
+166
+00:06:18,407 --> 00:06:20,439
+loads and charges the battery.
+
+167
+00:06:20,619 --> 00:06:23,297
+And Hot Lap is a button inside
+
+168
+00:06:23,297 --> 00:06:24,369
+Race Hybrid.
+
+169
+00:06:24,718 --> 00:06:26,537
+Hot Lap, Porsche says,
+
+170
+00:06:26,537 --> 00:06:29,761
+pushes the battery to its maximum power
+
+171
+00:06:29,761 --> 00:06:32,241
+output for a few fast laps and
+
+172
+00:06:32,241 --> 00:06:35,051
+uses all available battery energy.
+
+173
+00:06:35,231 --> 00:06:36,822
+That is the sentence.
+
+174
+00:06:37,002 --> 00:06:38,363
+By our arithmetic,
+
+175
+00:06:38,363 --> 00:06:41,009
+with a seven kilowatt-hour battery,
+
+176
+00:06:41,009 --> 00:06:43,580
+there is not much energy to spend:
+
+177
+00:06:43,580 --> 00:06:46,378
+a car using two hundred ten kilowatts
+
+178
+00:06:46,378 --> 00:06:50,159
+of electric power would drain seven kilowatt-hours
+
+179
+00:06:50,159 --> 00:06:51,747
+in about two minutes.
+
+180
+00:06:52,096 --> 00:06:53,919
+We should be clear about that sum.
+
+181
+00:06:54,099 --> 00:06:56,609
+It assumes the full two hundred ten
+
+182
+00:06:56,609 --> 00:06:59,190
+kilowatts from both electric motors,
+
+183
+00:06:59,190 --> 00:07:01,700
+one hundred fifteen at the rear and
+
+184
+00:07:01,700 --> 00:07:03,493
+ninety-five at the front,
+
+185
+00:07:03,493 --> 00:07:04,855
+as Wikipedia lists,
+
+186
+00:07:04,855 --> 00:07:07,365
+and that all of the battery's seven
+
+187
+00:07:07,365 --> 00:07:09,157
+kilowatt-hours is usable.
+
+188
+00:07:09,337 --> 00:07:11,926
+Neither assumption is in our sources.
+
+189
+00:07:12,106 --> 00:07:14,272
+It is only a sense of scale:
+
+190
+00:07:14,272 --> 00:07:16,361
+the Hot Lap button is a few
+
+191
+00:07:16,361 --> 00:07:17,599
+minutes of help,
+
+192
+00:07:17,599 --> 00:07:18,759
+not a long one.
+
+193
+00:07:19,108 --> 00:07:22,037
+Porsche's figures for the nine eighteen changed
+
+194
+00:07:22,037 --> 00:07:24,653
+during development, and the sources let us
+
+195
+00:07:24,653 --> 00:07:25,401
+follow them.
+
+196
+00:07:25,581 --> 00:07:27,034
+In March twenty twelve,
+
+197
+00:07:27,034 --> 00:07:29,623
+Auto one two three reports Porsche saying
+
+198
+00:07:29,623 --> 00:07:32,338
+more than seven hundred seventy horsepower.
+
+199
+00:07:32,518 --> 00:07:34,874
+By the twenty thirteen press release it
+
+200
+00:07:34,874 --> 00:07:36,686
+was over eight hundred eighty.
+
+201
+00:07:36,866 --> 00:07:40,177
+And Wikipedia lists the production system output
+
+202
+00:07:40,177 --> 00:07:43,488
+at eight hundred eighty-seven metric horsepower,
+
+203
+00:07:43,488 --> 00:07:46,317
+or eight hundred seventy-five horsepower.
+
+204
+00:07:46,666 --> 00:07:47,852
+By our arithmetic,
+
+205
+00:07:47,852 --> 00:07:50,948
+the production figure is about fourteen percent
+
+206
+00:07:50,948 --> 00:07:53,122
+more than the first announcement.
+
+207
+00:07:53,302 --> 00:07:56,713
+The March twenty twelve article also lists
+
+208
+00:07:56,713 --> 00:07:59,717
+a five hundred seventy horsepower V8,
+
+209
+00:07:59,717 --> 00:08:02,479
+which does not obviously add up to
+
+210
+00:08:02,479 --> 00:08:06,296
+seven hundred seventy with two electric motors,
+
+211
+00:08:06,296 --> 00:08:09,707
+and the article itself seems inconsistent.
+
+212
+00:08:09,887 --> 00:08:12,674
+The production V8 is rated at six
+
+213
+00:08:12,674 --> 00:08:13,857
+hundred eight.
+
+214
+00:08:14,037 --> 00:08:17,244
+So the engine grew by thirty-eight horsepower
+
+215
+00:08:17,244 --> 00:08:19,952
+between the early report and the final
+
+216
+00:08:19,952 --> 00:08:20,237
+car.
+
+217
+00:08:20,586 --> 00:08:22,665
+The lap time moved even more.
+
+218
+00:08:22,845 --> 00:08:25,973
+The March twenty twelve report says Porsche
+
+219
+00:08:25,973 --> 00:08:29,465
+expected a Nordschleife lap of seven twenty-two,
+
+220
+00:08:29,465 --> 00:08:32,667
+against seven thirty-two for the Carrera GT.
+
+221
+00:08:32,847 --> 00:08:35,908
+The twenty thirteen release says a lap
+
+222
+00:08:35,908 --> 00:08:38,969
+of seven fourteen was set in September
+
+223
+00:08:38,969 --> 00:08:42,111
+twenty twelve during prototype testing,
+
+224
+00:08:42,111 --> 00:08:45,736
+about twenty seconds quicker than the Carrera
+
+225
+00:08:45,736 --> 00:08:45,978
+GT.
+
+226
+00:08:46,158 --> 00:08:49,110
+And Wikipedia says a production car with
+
+227
+00:08:49,110 --> 00:08:52,284
+the Weissach Package ran six fifty-seven in
+
+228
+00:08:52,284 --> 00:08:54,203
+September twenty thirteen.
+
+229
+00:08:54,553 --> 00:08:55,797
+By our arithmetic,
+
+230
+00:08:55,797 --> 00:08:59,319
+six fifty-seven is twenty-five seconds quicker than
+
+231
+00:08:59,319 --> 00:09:01,874
+the first target of seven twenty-two,
+
+232
+00:09:01,874 --> 00:09:05,258
+and seventeen seconds quicker than the prototype.
+
+233
+00:09:05,438 --> 00:09:08,918
+Wikipedia describes it as the first street-legal
+
+234
+00:09:08,918 --> 00:09:11,672
+production car to break seven minutes.
+
+235
+00:09:11,852 --> 00:09:14,741
+We note that the Mustang GTD's Nürburgring
+
+236
+00:09:14,741 --> 00:09:16,255
+record, in the series,
+
+237
+00:09:16,255 --> 00:09:18,868
+used the same threshold as its target,
+
+238
+00:09:18,868 --> 00:09:21,345
+and that the nine eighteen got there
+
+239
+00:09:21,345 --> 00:09:22,789
+eleven years earlier.
+
+240
+00:09:23,138 --> 00:09:25,426
+Electric range also shifted.
+
+241
+00:09:25,606 --> 00:09:28,579
+The March twenty twelve report says twenty-five
+
+242
+00:09:28,579 --> 00:09:29,274
+kilometres.
+
+243
+00:09:29,454 --> 00:09:33,303
+Porsche's twenty thirteen release says over thirty
+
+244
+00:09:33,303 --> 00:09:35,689
+kilometres in ideal conditions.
+
+245
+00:09:35,869 --> 00:09:39,857
+Wikipedia lists the EPA all-electric range as
+
+246
+00:09:39,857 --> 00:09:42,870
+nineteen kilometres, twelve miles.
+
+247
+00:09:43,050 --> 00:09:44,260
+By our arithmetic,
+
+248
+00:09:44,260 --> 00:09:47,219
+the EPA figure is about thirty-seven percent
+
+249
+00:09:47,219 --> 00:09:50,178
+lower than Porsche's thirty-kilometre claim.
+
+250
+00:09:50,358 --> 00:09:54,414
+The difference between a manufacturer's ideal conditions
+
+251
+00:09:54,414 --> 00:09:56,732
+and a regulator's test is large.
+
+252
+00:09:57,082 --> 00:10:00,716
+Porsche's electric-only performance claims are modest.
+
+253
+00:10:00,896 --> 00:10:03,597
+The release says that in E-Power mode,
+
+254
+00:10:03,597 --> 00:10:06,226
+zero to one hundred takes under seven
+
+255
+00:10:06,226 --> 00:10:08,500
+seconds, with a top speed of one
+
+256
+00:10:08,500 --> 00:10:10,916
+hundred fifty kilometres per hour.
+
+257
+00:10:11,096 --> 00:10:12,377
+By our arithmetic,
+
+258
+00:10:12,377 --> 00:10:14,939
+that is ninety-three miles per hour.
+
+259
+00:10:15,119 --> 00:10:16,945
+And the charging figures:
+
+260
+00:10:16,945 --> 00:10:19,866
+about four hours from a ten-amp 230-volt
+
+261
+00:10:19,866 --> 00:10:22,860
+socket, about two hours with the Charging
+
+262
+00:10:22,860 --> 00:10:26,293
+Dock, and twenty-five minutes with the optional
+
+263
+00:10:26,293 --> 00:10:28,192
+DC Speed Charging Station.
+
+264
+00:10:28,541 --> 00:10:28,843
+Weight.
+
+265
+00:10:29,023 --> 00:10:32,245
+Wikipedia lists the nine eighteen's curb weight
+
+266
+00:10:32,245 --> 00:10:35,741
+as sixteen hundred thirty-four to seventeen hundred
+
+267
+00:10:35,741 --> 00:10:36,906
+twenty kilograms.
+
+268
+00:10:37,086 --> 00:10:40,752
+Porsche's release says about sixteen hundred forty
+
+269
+00:10:40,752 --> 00:10:42,512
+in the Weissach package,
+
+270
+00:10:42,512 --> 00:10:45,518
+with the package reducing gross weight by
+
+271
+00:10:45,518 --> 00:10:47,570
+about thirty-five kilograms.
+
+272
+00:10:47,750 --> 00:10:50,844
+The duPont Registry says the Weissach package
+
+273
+00:10:50,844 --> 00:10:53,044
+reduced weight by ninety pounds.
+
+274
+00:10:53,224 --> 00:10:54,687
+By our arithmetic,
+
+275
+00:10:54,687 --> 00:10:58,426
+thirty-five kilograms is seventy-seven pounds,
+
+276
+00:10:58,426 --> 00:11:01,189
+so the sources differ by thirteen.
+
+277
+00:11:01,538 --> 00:11:04,557
+The Weissach package was a factory option.
+
+278
+00:11:04,737 --> 00:11:08,865
+Wikipedia says it cost eighty-four thousand dollars
+
+279
+00:11:08,865 --> 00:11:12,102
+in the United States and added magnesium
+
+280
+00:11:12,102 --> 00:11:14,854
+wheels, an extended rear diffuser,
+
+281
+00:11:14,854 --> 00:11:18,657
+Alcantara interior parts and carbon fibre trim.
+
+282
+00:11:18,837 --> 00:11:21,700
+The duPont Registry also puts the factory
+
+283
+00:11:21,700 --> 00:11:23,934
+premium at eighty-four thousand.
+
+284
+00:11:24,114 --> 00:11:25,347
+By our arithmetic,
+
+285
+00:11:25,347 --> 00:11:27,470
+that is ten percent of the nine
+
+286
+00:11:27,470 --> 00:11:31,100
+eighteen's starting price of eight hundred forty-five
+
+287
+00:11:31,100 --> 00:11:32,264
+thousand dollars.
+
+288
+00:11:32,614 --> 00:11:33,729
+Acceleration.
+
+289
+00:11:33,909 --> 00:11:37,688
+Wikipedia says Porsche's official zero to sixty
+
+290
+00:11:37,688 --> 00:11:39,697
+is two point six seconds,
+
+291
+00:11:39,697 --> 00:11:42,833
+while Car and Driver measured two point
+
+292
+00:11:42,833 --> 00:11:45,647
+two and Motor Trend two point four.
+
+293
+00:11:45,827 --> 00:11:49,123
+Top speed: Porsche lists three hundred forty-five
+
+294
+00:11:49,123 --> 00:11:50,468
+kilometres per hour,
+
+295
+00:11:50,468 --> 00:11:52,890
+two hundred fourteen miles per hour,
+
+296
+00:11:52,890 --> 00:11:55,917
+and an independent test reached three hundred
+
+297
+00:11:55,917 --> 00:11:58,876
+fifty-two, two hundred eighteen point seven.
+
+298
+00:11:59,056 --> 00:12:01,368
+So the car beat its own official
+
+299
+00:12:01,368 --> 00:12:03,607
+figures in independent testing.
+
+300
+00:12:03,957 --> 00:12:05,346
+By our arithmetic,
+
+301
+00:12:05,346 --> 00:12:07,892
+Car and Driver's two point two is
+
+302
+00:12:07,892 --> 00:12:11,827
+fifteen percent quicker than Porsche's official two
+
+303
+00:12:11,827 --> 00:12:14,913
+point six, and the independent top speed
+
+304
+00:12:14,913 --> 00:12:17,150
+is seven kilometres per hour,
+
+305
+00:12:17,150 --> 00:12:19,387
+two percent, above Porsche's.
+
+306
+00:12:19,567 --> 00:12:23,069
+Manufacturers often publish conservative numbers,
+
+307
+00:12:23,069 --> 00:12:25,214
+but our sources do not say why
+
+308
+00:12:25,214 --> 00:12:26,429
+Porsche did here.
+
+309
+00:12:26,609 --> 00:12:28,549
+What they do show is a car
+
+310
+00:12:28,549 --> 00:12:32,504
+that underpromised on straight-line numbers while the
+
+311
+00:12:32,504 --> 00:12:34,294
+lap time claim was kept.
+
+312
+00:12:34,644 --> 00:12:36,258
+Fuel and emissions.
+
+313
+00:12:36,438 --> 00:12:40,352
+Wikipedia lists carbon dioxide at seventy-nine grams
+
+314
+00:12:40,352 --> 00:12:42,986
+per kilometre and fuel use of three
+
+315
+00:12:42,986 --> 00:12:46,599
+litres per hundred kilometres under the European
+
+316
+00:12:46,599 --> 00:12:47,352
+NEDC test.
+
+317
+00:12:47,532 --> 00:12:51,253
+The EPA rated gasoline-only combined economy at
+
+318
+00:12:51,253 --> 00:12:55,688
+twenty-two miles per gallon and all-electric consumption
+
+319
+00:12:55,688 --> 00:12:59,014
+at fifty kilowatt-hours per hundred miles.
+
+320
+00:12:59,194 --> 00:13:00,379
+By our arithmetic,
+
+321
+00:13:00,379 --> 00:13:03,474
+the NEDC figure converts to about seventy-eight
+
+322
+00:13:03,474 --> 00:13:04,593
+miles per gallon,
+
+323
+00:13:04,593 --> 00:13:07,161
+which is far from the EPA's twenty-two,
+
+324
+00:13:07,161 --> 00:13:08,807
+because the tests differ.
+
+325
+00:13:09,156 --> 00:13:12,071
+The nine eighteen was the successor to
+
+326
+00:13:12,071 --> 00:13:13,222
+the Carrera GT,
+
+327
+00:13:13,222 --> 00:13:15,983
+Porsche said in March twenty twelve.
+
+328
+00:13:16,163 --> 00:13:19,785
+Auto one two three quotes Porsche's comparisons:
+
+329
+00:13:19,785 --> 00:13:22,351
+zero to one hundred in under three
+
+330
+00:13:22,351 --> 00:13:25,370
+seconds against three point nine for the
+
+331
+00:13:25,370 --> 00:13:28,011
+Carrera GT, and a Nordschleife lap,
+
+332
+00:13:28,011 --> 00:13:30,577
+then forecast at seven twenty-two,
+
+333
+00:13:30,577 --> 00:13:32,464
+against seven thirty-two.
+
+334
+00:13:32,644 --> 00:13:33,872
+By our arithmetic,
+
+335
+00:13:33,872 --> 00:13:36,941
+the nine eighteen's acceleration claim was at
+
+336
+00:13:36,941 --> 00:13:40,898
+least twenty-three percent quicker than its predecessor's.
+
+337
+00:13:41,248 --> 00:13:42,746
+The electric motors.
+
+338
+00:13:42,926 --> 00:13:46,295
+Wikipedia lists a one hundred fifteen kilowatt
+
+339
+00:13:46,295 --> 00:13:49,444
+rear motor and a ninety-five kilowatt front
+
+340
+00:13:49,444 --> 00:13:52,373
+motor, adding two hundred ten kilowatts,
+
+341
+00:13:52,373 --> 00:13:55,595
+or two hundred eighty-six metric horsepower,
+
+342
+00:13:55,595 --> 00:13:56,254
+in total.
+
+343
+00:13:56,434 --> 00:14:00,092
+The V8 is four hundred forty-seven kilowatts.
+
+344
+00:14:00,272 --> 00:14:01,598
+By our arithmetic,
+
+345
+00:14:01,598 --> 00:14:03,734
+the two add up to six hundred
+
+346
+00:14:03,734 --> 00:14:07,271
+fifty-seven kilowatts, five more than the listed
+
+347
+00:14:07,271 --> 00:14:10,144
+system output of six hundred fifty-two,
+
+348
+00:14:10,144 --> 00:14:12,796
+because the engine and the motors do
+
+349
+00:14:12,796 --> 00:14:14,122
+not peak together.
+
+350
+00:14:14,472 --> 00:14:15,053
+Torque.
+
+351
+00:14:15,233 --> 00:14:17,807
+Wikipedia lists the V8 at five hundred
+
+352
+00:14:17,807 --> 00:14:20,788
+forty newton-metres and the system at twelve
+
+353
+00:14:20,788 --> 00:14:21,804
+hundred eighty.
+
+354
+00:14:21,984 --> 00:14:23,228
+By our arithmetic,
+
+355
+00:14:23,228 --> 00:14:25,855
+the combined torque is two point three
+
+356
+00:14:25,855 --> 00:14:27,998
+seven times the engine's alone.
+
+357
+00:14:28,178 --> 00:14:29,583
+The electric motors,
+
+358
+00:14:29,583 --> 00:14:32,605
+which deliver their torque from standstill,
+
+359
+00:14:32,605 --> 00:14:34,221
+make up the difference,
+
+360
+00:14:34,221 --> 00:14:35,977
+and that is part of why a
+
+361
+00:14:35,977 --> 00:14:38,506
+car with a fairly ordinary V8 torque
+
+362
+00:14:38,506 --> 00:14:40,403
+figure accelerates so fast.
+
+363
+00:14:40,753 --> 00:14:41,392
+Balance.
+
+364
+00:14:41,572 --> 00:14:44,562
+Porsche's release says the axle load split
+
+365
+00:14:44,562 --> 00:14:48,192
+is fifty-seven percent rear and forty-three percent
+
+366
+00:14:48,192 --> 00:14:50,755
+front, with the centre of gravity at
+
+367
+00:14:50,755 --> 00:14:52,393
+about wheel hub height.
+
+368
+00:14:52,573 --> 00:14:53,806
+By our arithmetic,
+
+369
+00:14:53,806 --> 00:14:56,614
+at about sixteen hundred forty kilograms,
+
+370
+00:14:56,614 --> 00:15:00,040
+that is roughly nine hundred thirty-five kilograms
+
+371
+00:15:00,040 --> 00:15:02,369
+on the rear axle and seven hundred
+
+372
+00:15:02,369 --> 00:15:03,602
+five on the front.
+
+373
+00:15:03,782 --> 00:15:05,748
+The release does not say how the
+
+374
+00:15:05,748 --> 00:15:08,205
+split changes with the battery's charge.
+
+375
+00:15:08,555 --> 00:15:12,159
+Evo's Harry Metcalfe names the nine eighteen,
+
+376
+00:15:12,159 --> 00:15:15,362
+the McLaren P1 and the Ferrari LaFerrari
+
+377
+00:15:15,362 --> 00:15:18,165
+the first plug-in hybrid supercars,
+
+378
+00:15:18,165 --> 00:15:20,247
+known as the Holy Trinity.
+
+379
+00:15:20,427 --> 00:15:22,841
+He calls the Porsche the cleverest and
+
+380
+00:15:22,841 --> 00:15:24,873
+technically the most impressive.
+
+381
+00:15:25,053 --> 00:15:27,275
+He says the three arrived in late
+
+382
+00:15:27,275 --> 00:15:30,304
+twenty thirteen, within months of each other,
+
+383
+00:15:30,304 --> 00:15:32,997
+and that they were fantastic machines to
+
+384
+00:15:32,997 --> 00:15:35,084
+drive despite their complexity.
+
+385
+00:15:35,434 --> 00:15:37,362
+A word on reliability.
+
+386
+00:15:37,542 --> 00:15:40,485
+Wikipedia says the nine eighteen has been
+
+387
+00:15:40,485 --> 00:15:43,142
+the subject of half a dozen different
+
+388
+00:15:43,142 --> 00:15:46,516
+recalls, including issues with control arms and
+
+389
+00:15:46,516 --> 00:15:47,306
+seat belts.
+
+390
+00:15:47,486 --> 00:15:50,272
+It gives no count of affected cars.
+
+391
+00:15:50,452 --> 00:15:53,605
+Porsche's release also gives a seven-year global
+
+392
+00:15:53,605 --> 00:15:55,839
+warranty for the traction battery.
+
+393
+00:15:56,019 --> 00:15:57,233
+By our arithmetic,
+
+394
+00:15:57,233 --> 00:15:59,863
+a car delivered in twenty fifteen would
+
+395
+00:15:59,863 --> 00:16:02,696
+have passed that seven-year mark in twenty
+
+396
+00:16:02,696 --> 00:16:03,438
+twenty-two.
+
+397
+00:16:03,787 --> 00:16:05,853
+What that means for an owner today
+
+398
+00:16:05,853 --> 00:16:07,189
+is not in our sources.
+
+399
+00:16:07,369 --> 00:16:09,997
+We do not know the battery's replacement
+
+400
+00:16:09,997 --> 00:16:12,164
+cost, its real-world degradation,
+
+401
+00:16:12,164 --> 00:16:14,858
+or whether Porsche extended the warranty.
+
+402
+00:16:15,038 --> 00:16:17,725
+We note only that the seven-year clock
+
+403
+00:16:17,725 --> 00:16:19,635
+for early cars has run out,
+
+404
+00:16:19,635 --> 00:16:22,181
+and that the LaFerrari we cover next
+
+405
+00:16:22,181 --> 00:16:24,869
+had a new high-voltage battery fitted,
+
+406
+00:16:24,869 --> 00:16:27,628
+with a recent invoice above two hundred
+
+407
+00:16:27,628 --> 00:16:30,386
+thousand euros, according to Motorious.
+
+408
+00:16:30,735 --> 00:16:31,908
+Where they were driven.
+
+409
+00:16:32,088 --> 00:16:35,256
+The duPont Registry says two hundred ninety-four
+
+410
+00:16:35,256 --> 00:16:37,763
+of the nine hundred eighteen cars were
+
+411
+00:16:37,763 --> 00:16:39,809
+delivered in the United States.
+
+412
+00:16:39,989 --> 00:16:41,314
+By our arithmetic,
+
+413
+00:16:41,314 --> 00:16:43,817
+the other six hundred twenty-four,
+
+414
+00:16:43,817 --> 00:16:46,467
+sixty-eight percent, went elsewhere.
+
+415
+00:16:46,647 --> 00:16:48,654
+Wikipedia gives three prices:
+
+416
+00:16:48,654 --> 00:16:51,975
+about seven hundred eighty-one thousand euros in
+
+417
+00:16:51,975 --> 00:16:55,573
+Europe, eight hundred forty-five thousand dollars in
+
+418
+00:16:55,573 --> 00:16:56,818
+the United States,
+
+419
+00:16:56,818 --> 00:16:59,793
+and seven hundred eleven thousand pounds in
+
+420
+00:16:59,793 --> 00:17:00,347
+Britain.
+
+421
+00:17:00,696 --> 00:17:02,020
+Start to finish.
+
+422
+00:17:02,200 --> 00:17:05,215
+Wikipedia says the nine eighteen was first
+
+423
+00:17:05,215 --> 00:17:07,728
+shown as a concept at the eightieth
+
+424
+00:17:07,728 --> 00:17:10,456
+Geneva Motor Show in March twenty ten,
+
+425
+00:17:10,456 --> 00:17:14,261
+and the supervisory board approved series development
+
+426
+00:17:14,261 --> 00:17:17,061
+on the twenty-eighth of July that year.
+
+427
+00:17:17,241 --> 00:17:18,743
+By our arithmetic,
+
+428
+00:17:18,743 --> 00:17:22,333
+production began three years and six months
+
+429
+00:17:22,333 --> 00:17:23,835
+after the concept.
+
+430
+00:17:24,015 --> 00:17:26,672
+The car sold out in December twenty
+
+431
+00:17:26,672 --> 00:17:30,164
+fourteen, fifteen months into a production run
+
+432
+00:17:30,164 --> 00:17:31,910
+that lasted twenty-one.
+
+433
+00:17:32,259 --> 00:17:34,011
+Put the price in context,
+
+434
+00:17:34,011 --> 00:17:37,443
+using the Census Bureau's median household income
+
+435
+00:17:37,443 --> 00:17:39,054
+for twenty twenty-four,
+
+436
+00:17:39,054 --> 00:17:42,697
+eighty-three thousand, seven hundred thirty dollars.
+
+437
+00:17:42,877 --> 00:17:44,124
+By our arithmetic,
+
+438
+00:17:44,124 --> 00:17:47,102
+the nine eighteen's starting price of eight
+
+439
+00:17:47,102 --> 00:17:50,427
+hundred forty-five thousand dollars is ten point
+
+440
+00:17:50,427 --> 00:17:52,990
+one years of median household income,
+
+441
+00:17:52,990 --> 00:17:56,384
+and with the eighty-four thousand dollar Weissach
+
+442
+00:17:56,384 --> 00:17:59,363
+package, nine hundred twenty-nine thousand,
+
+443
+00:17:59,363 --> 00:18:01,372
+it is eleven point one years.
+
+444
+00:18:01,721 --> 00:18:05,070
+Compare its Nürburgring lap with the Mustang
+
+445
+00:18:05,070 --> 00:18:08,039
+GTD's, which we cover elsewhere in this
+
+446
+00:18:08,039 --> 00:18:08,571
+series.
+
+447
+00:18:08,751 --> 00:18:11,920
+Wikipedia gives the nine eighteen with the
+
+448
+00:18:11,920 --> 00:18:14,636
+Weissach package at six fifty-seven,
+
+449
+00:18:14,636 --> 00:18:16,069
+with no hundredths,
+
+450
+00:18:16,069 --> 00:18:18,257
+in September twenty thirteen,
+
+451
+00:18:18,257 --> 00:18:20,520
+and the GTD's first lap at six
+
+452
+00:18:20,520 --> 00:18:23,688
+fifty-seven point six eight five in August
+
+453
+00:18:23,688 --> 00:18:25,121
+twenty twenty-four.
+
+454
+00:18:25,301 --> 00:18:26,686
+By our arithmetic,
+
+455
+00:18:26,686 --> 00:18:29,300
+the GTD was within seven tenths of
+
+456
+00:18:29,300 --> 00:18:32,146
+a second, if the nine eighteen's time
+
+457
+00:18:32,146 --> 00:18:34,299
+was exactly six fifty-seven.
+
+458
+00:18:34,649 --> 00:18:37,188
+And the nine eighteen's value growth,
+
+459
+00:18:37,188 --> 00:18:38,423
+by our arithmetic.
+
+460
+00:18:38,603 --> 00:18:41,978
+From eight hundred forty-five thousand new to
+
+461
+00:18:41,978 --> 00:18:44,903
+the two point nine six million standard
+
+462
+00:18:44,903 --> 00:18:47,678
+car sold in June twenty twenty-six is
+
+463
+00:18:47,678 --> 00:18:49,403
+three point five times,
+
+464
+00:18:49,403 --> 00:18:52,328
+about twelve percent a year over eleven
+
+465
+00:18:52,328 --> 00:18:52,778
+years.
+
+466
+00:18:52,958 --> 00:18:55,738
+The duPont Registry says its index grew
+
+467
+00:18:55,738 --> 00:18:58,233
+ten percent a year for the standard
+
+468
+00:18:58,233 --> 00:19:00,656
+variant since June twenty fifteen.
+
+469
+00:19:00,836 --> 00:19:03,256
+The two figures are close but not
+
+470
+00:19:03,256 --> 00:19:06,115
+identical, because one is a single sale
+
+471
+00:19:06,115 --> 00:19:07,802
+and the other an index.
+
+472
+00:19:08,151 --> 00:19:09,405
+For the Weissach,
+
+473
+00:19:09,405 --> 00:19:10,659
+the gap is wider.
+
+474
+00:19:10,839 --> 00:19:14,108
+From nine hundred twenty-nine thousand with the
+
+475
+00:19:14,108 --> 00:19:16,542
+package to the four point six eight
+
+476
+00:19:16,542 --> 00:19:19,324
+million dollar Riviera Blue sale is five
+
+477
+00:19:19,324 --> 00:19:20,715
+point oh four times,
+
+478
+00:19:20,715 --> 00:19:23,498
+about sixteen percent a year over nearly
+
+479
+00:19:23,498 --> 00:19:25,723
+eleven years, by our arithmetic.
+
+480
+00:19:25,903 --> 00:19:28,875
+The duPont Registry says six percent a
+
+481
+00:19:28,875 --> 00:19:31,221
+year for the Weissach variant.
+
+482
+00:19:31,401 --> 00:19:34,259
+The sale was a paint-to-sample car with
+
+483
+00:19:34,259 --> 00:19:36,238
+low mileage, so it is not a
+
+484
+00:19:36,238 --> 00:19:37,484
+typical Weissach.
+
+485
+00:19:37,834 --> 00:19:38,670
+Production.
+
+486
+00:19:38,850 --> 00:19:43,059
+Wikipedia says the supervisory board approved series
+
+487
+00:19:43,059 --> 00:19:46,378
+development on the twenty-eighth of July,
+
+488
+00:19:46,378 --> 00:19:50,101
+twenty ten, production began on the eighteenth
+
+489
+00:19:50,101 --> 00:19:52,529
+of September, twenty thirteen,
+
+490
+00:19:52,529 --> 00:19:54,958
+ran until June twenty fifteen,
+
+491
+00:19:54,958 --> 00:19:57,548
+and the car sold out in December
+
+492
+00:19:57,548 --> 00:19:58,843
+twenty fourteen.
+
+493
+00:19:59,023 --> 00:20:01,987
+The duPont Registry says nine hundred eighteen
+
+494
+00:20:01,987 --> 00:20:03,018
+cars were built,
+
+495
+00:20:03,018 --> 00:20:05,919
+with two hundred ninety-four delivered in the
+
+496
+00:20:05,919 --> 00:20:08,496
+United States, about thirty-two percent.
+
+497
+00:20:08,846 --> 00:20:10,153
+By our arithmetic,
+
+498
+00:20:10,153 --> 00:20:12,693
+that is just under three years from
+
+499
+00:20:12,693 --> 00:20:15,742
+board approval to the start of production,
+
+500
+00:20:15,742 --> 00:20:18,645
+and about twenty-one months of building.
+
+501
+00:20:18,825 --> 00:20:21,299
+The car sold out about six months
+
+502
+00:20:21,299 --> 00:20:23,098
+before production ended.
+
+503
+00:20:23,278 --> 00:20:26,144
+And the number nine hundred eighteen is
+
+504
+00:20:26,144 --> 00:20:28,496
+the name: the car was limited to
+
+505
+00:20:28,496 --> 00:20:30,627
+the same number as its model.
+
+506
+00:20:30,807 --> 00:20:33,636
+Wikipedia says the starting price was eight
+
+507
+00:20:33,636 --> 00:20:36,860
+hundred forty-five thousand dollars in the United
+
+508
+00:20:36,860 --> 00:20:37,320
+States.
+
+509
+00:20:37,670 --> 00:20:39,215
+Now what it is worth.
+
+510
+00:20:39,395 --> 00:20:42,675
+The duPont Registry reports a standard 2015
+
+511
+00:20:42,675 --> 00:20:46,031
+nine eighteen with four hundred twenty miles
+
+512
+00:20:46,031 --> 00:20:48,701
+sold for two point nine six million
+
+513
+00:20:48,701 --> 00:20:51,295
+dollars in June twenty twenty-six.
+
+514
+00:20:51,475 --> 00:20:54,700
+A Riviera Blue Weissach with one thousand
+
+515
+00:20:54,700 --> 00:20:58,083
+two hundred sixty-seven miles sold at Broad
+
+516
+00:20:58,083 --> 00:21:01,624
+Arrow's Air Water Auction on the twenty-fifth
+
+517
+00:21:01,624 --> 00:21:05,164
+of April, twenty twenty-six for four million,
+
+518
+00:21:05,164 --> 00:21:07,996
+six hundred eighty thousand dollars,
+
+519
+00:21:07,996 --> 00:21:09,412
+including premium.
+
+520
+00:21:09,762 --> 00:21:10,962
+And the record,
+
+521
+00:21:10,962 --> 00:21:12,880
+per the duPont Registry:
+
+522
+00:21:12,880 --> 00:21:16,398
+six million, fifty thousand dollars at Mecum
+
+523
+00:21:16,398 --> 00:21:19,515
+Kissimmee in January twenty twenty-six,
+
+524
+00:21:19,515 --> 00:21:23,752
+for a one-of-one Pure Orange paint-to-sample example.
+
+525
+00:21:23,932 --> 00:21:25,235
+By our arithmetic,
+
+526
+00:21:25,235 --> 00:21:27,622
+that is seven point one six times
+
+527
+00:21:27,622 --> 00:21:30,372
+the nine eighteen's new price of eight
+
+528
+00:21:30,372 --> 00:21:32,977
+hundred forty-five thousand dollars.
+
+529
+00:21:33,157 --> 00:21:36,612
+The standard car's median across forty-eight price
+
+530
+00:21:36,612 --> 00:21:38,133
+points is two million,
+
+531
+00:21:38,133 --> 00:21:40,414
+one hundred sixty-eight thousand,
+
+532
+00:21:40,414 --> 00:21:42,141
+eight hundred thirty-six,
+
+533
+00:21:42,141 --> 00:21:44,215
+about two and a half times the
+
+534
+00:21:44,215 --> 00:21:44,906
+new price.
+
+535
+00:21:45,086 --> 00:21:46,953
+These are one-way reports,
+
+536
+00:21:46,953 --> 00:21:48,604
+with premiums included.
+
+537
+00:21:48,953 --> 00:21:50,056
+What we could not find.
+
+538
+00:21:50,236 --> 00:21:52,566
+The speed at which the rear wheels
+
+539
+00:21:52,566 --> 00:21:53,731
+change direction.
+
+540
+00:21:53,911 --> 00:21:57,401
+How much of the battery's seven kilowatt-hours
+
+541
+00:21:57,401 --> 00:21:59,298
+Hot Lap can actually use.
+
+542
+00:21:59,478 --> 00:22:04,049
+Independent confirmation that no other production vehicle
+
+543
+00:22:04,049 --> 00:22:05,573
+has top-exit pipes.
+
+544
+00:22:05,753 --> 00:22:07,843
+And the cost of running a nine
+
+545
+00:22:07,843 --> 00:22:10,490
+eighteen, which we cover in a separate
+
+546
+00:22:10,490 --> 00:22:10,908
+video.
+
+547
+00:22:11,088 --> 00:22:13,064
+If you have a reliable source,
+
+548
+00:22:13,064 --> 00:22:14,710
+share it in the comments.
+
+549
+00:22:15,060 --> 00:22:17,139
+So the two secrets stand.
+
+550
+00:22:17,319 --> 00:22:19,548
+The exhaust exits from the top,
+
+551
+00:22:19,548 --> 00:22:21,418
+and the rear wheels steer,
+
+552
+00:22:21,418 --> 00:22:23,864
+and behind both is a hybrid system
+
+553
+00:22:23,864 --> 00:22:25,806
+that Porsche kept refining.
+
+554
+00:22:25,986 --> 00:22:28,848
+Porsche's own claims about the pipes are
+
+555
+00:22:28,848 --> 00:22:30,351
+exactly that, claims.
+
+556
+00:22:30,531 --> 00:22:33,143
+The lap time and the independent measurements
+
+557
+00:22:33,143 --> 00:22:34,827
+are the part you can lean on.
+
+558
+00:22:35,007 --> 00:22:36,934
+Which secret surprised you more?
+
+559
+00:22:37,114 --> 00:22:38,646
+Tell us in the comments.
+
+560
+00:22:38,996 --> 00:22:41,330
+In the other videos of this series,
+
+561
+00:22:41,330 --> 00:22:43,797
+we compare the nine eighteen with the
+
+562
+00:22:43,797 --> 00:22:46,797
+Ferrari LaFerrari, count what it really costs
+
+563
+00:22:46,797 --> 00:22:47,531
+to own one,
+
+564
+00:22:47,531 --> 00:22:49,798
+and tell the story of the hypercar
+
+565
+00:22:49,798 --> 00:22:50,664
+holy trinity.
+
+566
+00:22:50,844 --> 00:22:53,760
+Our twenty twenty-seven Truck Buyer's Guide is
+
+567
+00:22:53,760 --> 00:22:55,407
+linked in the description.
+
+568
+00:22:55,587 --> 00:22:58,223
+Subscribe to Pickup Reality.
