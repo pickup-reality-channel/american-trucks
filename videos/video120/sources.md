@@ -1,0 +1,6 @@
+- Wikipedia, Ferruccio Lamborghini: https://en.wikipedia.org/wiki/Ferruccio_Lamborghini
+- Wikipedia, Lamborghini Countach: https://en.wikipedia.org/wiki/Lamborghini_Countach
+- Wikipedia, Lamborghini Miura: https://en.wikipedia.org/wiki/Lamborghini_Miura
+- RM Sotheby's, 1977 Lamborghini Countach LP400 Periscopio (Arizona 2026): https://rmsothebys.com/auctions/az26/lots/r0060-1977-lamborghini-countach-lp400-periscopio-by-bertone
+- RM Sotheby's, 1971 Lamborghini Miura SV (Paris 2026, lot 150): https://rmsothebys.com/auctions/pa26/lots/r0090-1971-lamborghini-miura-sv
+- Hagerty valuation tools, 1975 Lamborghini Countach LP400: https://hagerty.com/apps/valuationtools/1975-lamborghini-countach-lp400
