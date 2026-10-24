@@ -1,0 +1,308 @@
+{
+ "id": "video124",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind America's Fastest Corvette",
+ "scenes": [
+  {
+   "text": "In October twenty twenty-four, the president of General Motors strapped into a Corvette ZR1 on a banked oval in northern Germany and held it at two hundred thirty-three miles per hour. Chevrolet called it the fastest car an American automaker has ever built. But the Corvette has chased speed records for more than thirty-five years, and one of the fastest Corvettes ever was not built by Chevrolet at all. This is the story behind America's fastest Corvette.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "THE INSANE STORY BEHIND AMERICA'S FASTEST CORVETTE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The story runs through a cancelled plan, a British engine, a boat-engine factory in Oklahoma, a rival in Connecticut, a fan with a three point seven million dollar cheque, and a new rival in the form of the Ford Mustang. We will tell it in order, label what is claim and what is measurement, and say where our sources disagree.",
+   "query": "Corvette ZR1",
+   "caption": "A BRITISH ENGINE, A BOAT FACTORY AND A RIVAL IN CONNECTICUT",
+   "cuts": 8
+  },
+  {
+   "text": "Every fact comes from a published source, listed in the description. Where we do the maths, we say so. Where a number is a claim, we label it a claim. And where we have no source, we say that too.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "EVERY CLAIM IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Wikipedia says the ZR1 name first appeared in nineteen seventy as a special engine package for the third-generation Corvette, alongside a ZR2. The page gives one number for it: only fifty-three of those packages were optioned across the nineteen seventy to nineteen seventy-two model years. By our arithmetic, that is fewer than eighteen a year. It was a rare, obscure box on an order form.",
+   "query": "Chevrolet Corvette C3",
+   "caption": "1970\u201372: ZR1 / ZR2 ENGINE PACKAGES \u00b7 ONLY 53 OPTIONED",
+   "cuts": 3,
+   "chapter": "1970: the name starts as an option"
+  },
+  {
+   "text": "For almost two decades after that, the name was dormant. Then, in the late nineteen eighties, General Motors had a new ambition. Wikipedia says the goal of the fourth-generation ZR1 was to create the world's fastest production car. That sentence is the whole premise of the story we are telling. The ZR1 name returned as a statement of intent, not as an option.",
+   "query": "Chevrolet Corvette C4",
+   "caption": "THE GOAL: THE WORLD'S FASTEST PRODUCTION CAR (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The first step was an acquisition. Wikipedia says General Motors acquired Group Lotus in nineteen eighty-six. Lotus then designed the ZR-1's engine, the L T five, a five point seven litre aluminium V eight with double overhead camshafts and thirty-two valves. The page says the prototype was nicknamed King of the Hill. By our arithmetic, the Lotus purchase came four years before the car reached customers.",
+   "query": "Group Lotus",
+   "caption": "1986: GM BUYS GROUP LOTUS \u00b7 LOTUS DESIGNS THE LT5 \u00b7 PROTOTYPE: 'KING OF THE HILL'",
+   "cuts": 3,
+   "chapter": "1986 to 1990: King of the Hill"
+  },
+  {
+   "text": "The engine's output was three hundred seventy-five horsepower from nineteen ninety to ninety-two and four hundred five from nineteen ninety-three, after Lotus revised the heads, exhaust and valvetrain. Wikipedia lists torque of three hundred seventy and three hundred eighty-five pound-feet. A ZF six-speed manual gearbox, Bilstein adaptive suspension and wide Goodyear tyres completed the package, and the car was about two hundred pounds heavier than a standard Corvette.",
+   "query": "Chevrolet Corvette ZR-1 engine",
+   "caption": "LT5: 375 HP (1990\u201392) \u2192 405 HP (1993\u201395) \u00b7 ZF 6-SPEED \u00b7 +200 LB OVER A STANDARD C4",
+   "cuts": 3
+  },
+  {
+   "text": "The engines were assembled by Mercury Marine, Wikipedia says, through its MerCruiser division in Stillwater, Oklahoma, which did most of the drilling and boring and the hand assembly before shipping them to the Corvette plant in Bowling Green, Kentucky. Mercury kept two L T fives of its own: one for its president's ZR1 and one for a speedboat called the Wette Vette, tuned to four hundred twenty horsepower.",
+   "query": "Mercury Marine",
+   "caption": "MERCURY MARINE ASSEMBLED THE LT5 IN OKLAHOMA \u00b7 TWO KEPT: A PRESIDENT'S ZR1 AND THE 'WETTE VETTE' SPEEDBOAT",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the proof. On the first of March, nineteen ninety, at Fort Stockton, Texas, the ZR-1 set FIA-verified records, Wikipedia says: one hundred seventy-five point six miles per hour over one hundred miles, one seventy-five point five over five hundred, one seventy-four point four over a thousand, and one seventy-five point eight eight five over twenty-four hours, covering four thousand, two hundred twenty-one miles. Three of those were listed as world records.",
+   "query": "Fort Stockton Texas",
+   "caption": "MARCH 1, 1990: FIA-VERIFIED RECORDS \u00b7 24 HOURS AT 175.885 MPH \u00b7 4,221 MILES",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, a car that averages one hundred seventy-six miles an hour for twenty-four hours is not a car that scraped to a top speed once. It is a car whose engine, tyres and cooling could survive a full day at that pace. The page adds that the Volkswagen W twelve concept later broke those records, so the title of fastest was not held forever.",
+   "query": "Chevrolet Corvette ZR-1 record",
+   "caption": "A DAY AT ~176 MPH (OUR ARITHMETIC) \u00b7 RECORDS LATER BROKEN BY THE VW W12 CONCEPT",
+   "cuts": 3
+  },
+  {
+   "text": "The magazines tested it too. Road and Track, as cited by Wikipedia, recorded four point nine seconds to sixty, a thirteen point four second quarter mile and a top speed of one hundred seventy-nine miles per hour. Car and Driver recorded four point five seconds to sixty and twelve point eight at one hundred eleven. The ZR-1 ended up with six thousand, nine hundred thirty-nine cars built over six model years.",
+   "query": "Chevrolet Corvette ZR-1 test",
+   "caption": "R&T: 4.9 S, 13.4 S, 179 MPH \u00b7 C&D: 4.5 S, 12.8 S AT 111 MPH \u00b7 6,939 BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "While GM was building its record car, an outside company was making a faster one. Wikipedia's page on Callaway Cars says Reeves Callaway's firm converted Corvettes with twin turbochargers under a regular production order code, B2K, from nineteen eighty-seven to nineteen ninety-one, at its workshop in Old Lyme, Connecticut. The nineteen eighty-seven car was priced at just over fifty thousand dollars and was listed at one hundred seventy-eight miles per hour.",
+   "query": "Callaway Cars Old Lyme",
+   "caption": "CALLAWAY TWIN TURBO (RPO B2K) 1987\u201391 \u00b7 OLD LYME, CONNECTICUT \u00b7 1987: 345 HP, 178 MPH",
+   "cuts": 3,
+   "chapter": "1988: the challenger from Connecticut"
+  },
+  {
+   "text": "Then came the SledgeHammer. On the twenty-sixth of October, nineteen eighty-eight, according to Wikipedia, John Lingenfelter drove a Callaway Corvette to two hundred fifty-four point seven six miles per hour at the Transportation Research Center in Ohio, a record that stood until nineteen ninety-nine. The page says the car made eight hundred ninety-eight horsepower and seven hundred seventy-two pound-feet, and did zero to sixty in three point nine seconds.",
+   "query": "Callaway SledgeHammer",
+   "caption": "OCT 26, 1988: SLEDGEHAMMER 254.76 MPH \u00b7 898 HP \u00b7 772 LB-FT \u00b7 DRIVER JOHN LINGENFELTER",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, that is about twenty-two miles per hour faster than the two hundred thirty-three the new ZR1 achieved in twenty twenty-four, and about forty-two percent faster than the nineteen ninety ZR-1's one hundred seventy-nine. The SledgeHammer was a modified car from an outside shop, not a car you could buy from a Chevrolet dealer in that form, which is the difference GM's claim rests on.",
+   "query": "Callaway SledgeHammer",
+   "caption": "254.76 vs 233 MPH: +21.8 MPH \u00b7 vs 179 MPH: +42% (OUR ARITHMETIC) \u00b7 A MODIFIED CAR, NOT A DEALER-SOLD ZR1",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's own page has a loose end here: it gives October as the month of the record, but also says the world street-legal record was set in November nineteen eighty-eight. The sales numbers conflict as well: the page says Callaway sold five hundred ten twin-turbo cars over five years, but the yearly figures add up to four hundred forty-four. We use the speed and flag the rest.",
+   "query": "Callaway Twin Turbo",
+   "caption": "SOURCE CONFLICTS: OCTOBER vs NOVEMBER 1988 \u00b7 510 vs 444 CARS SOLD",
+   "cuts": 3
+  },
+  {
+   "text": "After the C4, the name went quiet again, then came back with the sixth generation. Wikipedia says the ZR1 was added for the two thousand nine model year, with a supercharged six point two litre L S nine V eight making six hundred thirty-eight horsepower and six hundred four pound-feet. The internal name was Blue Devil, reportedly after the then chief executive's university, Duke. GM confirmed the project in April two thousand seven.",
+   "query": "Chevrolet Corvette C6 ZR1",
+   "caption": "2009 ZR1: 6.2 L SUPERCHARGED LS9 \u00b7 638 HP \u00b7 604 LB-FT \u00b7 CODENAME 'BLUE DEVIL'",
+   "cuts": 3,
+   "chapter": "2009: the Blue Devil"
+  },
+  {
+   "text": "Motor Trend, the page says, measured three point three seconds to sixty and an eleven point two second quarter mile at one hundred thirty point five miles per hour. The ZR1 had carbon-ceramic brakes, magnetic ride control and carbon-fibre body panels, and its curb weight was three thousand, three hundred fifty pounds. Its top speed of two hundred five miles per hour was a design target, not a tested result.",
+   "query": "Chevrolet Corvette C6 ZR1",
+   "caption": "MOTOR TREND: 3.3 S TO 60 \u00b7 11.2 S AT 130.5 MPH \u00b7 3,350 LB \u00b7 205 MPH = DESIGN TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "A detail from Design News: the sixth-generation ZR1 produced so much lift at Virginia International Raceway that its traction control activated over crests and limited the top speed. The seventh generation corrected this, the article says, and the C8's mid-engine design improved aerodynamics further. So the story of the fastest Corvette is partly a story of keeping the car on the ground.",
+   "query": "Virginia International Raceway",
+   "caption": "C6 ZR1: LIFT AT VIR TRIGGERED TRACTION CONTROL AT SPEED (DESIGN NEWS)",
+   "cuts": 3
+  },
+  {
+   "text": "The seventh-generation ZR1 followed in the two thousand nineteen model year. It was unveiled at the Dubai Motor Show in twenty seventeen, Wikipedia says, and went on sale in the second quarter of twenty eighteen. Its supercharged six point two litre L T five made seven hundred fifty-five horsepower and seven hundred fifteen pound-feet, and it weighed three thousand, five hundred sixty pounds.",
+   "query": "Chevrolet Corvette C7 ZR1",
+   "caption": "2019 ZR1: 755 HP \u00b7 715 LB-FT \u00b7 3,560 LB \u00b7 DUBAI 2017 UNVEIL",
+   "cuts": 3,
+   "chapter": "2019: the last front-engine ZR1"
+  },
+  {
+   "text": "Wikipedia gives its top speed as two hundred fourteen point eight eight miles per hour with the low rear wing, though a cited source is titled two hundred twelve miles per hour official. We report both. The optional ZTK package added a higher rear wing with about sixty percent more downforce than the Z06 with the Z07 package, and about nine hundred fifty pounds of downforce at top speed.",
+   "query": "Chevrolet Corvette C7 ZR1",
+   "caption": "214.88 MPH (TEXT) vs '212 MPH OFFICIAL' (CITED TITLE) \u00b7 ZTK \u2248 950 LB DOWNFORCE",
+   "cuts": 3
+  },
+  {
+   "text": "Production in the nineteen model year was two thousand, nine hundred fifty-three, two thousand, four hundred forty-one coupes and five hundred twelve convertibles, about eight and a half percent of that year's Corvettes. By our arithmetic, that is sixteen times the one hundred eighty ZR1s listed for twenty twenty-five. The new car's first year was a partial one, so the comparison is only a scale.",
+   "query": "Chevrolet Corvette C7 ZR1 production",
+   "caption": "C7 2019: 2,953 BUILT (\u2248 16\u00d7 THE 180 LISTED FOR MY2025 \u2014 PARTIAL YEAR, OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Meanwhile the biggest change in Corvette history was underway. Wikipedia says GM and Chevrolet began developing the mid-engine C8 around twenty sixteen. It was originally planned for the twenty eighteen model year, then pushed to twenty nineteen and twenty twenty. The page says the C8 is GM's first rear mid-engine sports car since the Pontiac Fiero, and the first mid-engine Corvette.",
+   "query": "Chevrolet Corvette C8",
+   "caption": "C8 DEVELOPMENT FROM ~2016 \u00b7 PLANNED FOR 2018, PUSHED TO 2019 THEN 2020",
+   "cuts": 3,
+   "chapter": "2016 to 2020: the mid-engine gamble"
+  },
+  {
+   "text": "The coupe debuted on the eighteenth of July, twenty nineteen, at the Kennedy Space Center. The convertible followed in October in Tustin, California. Production officially began on the third of February, twenty twenty, after delays from the twenty nineteen G M strike, the page says. The base price was under sixty thousand dollars.",
+   "query": "Kennedy Space Center",
+   "caption": "COUPE DEBUT JULY 18, 2019 \u00b7 PRODUCTION FEB 3, 2020 \u00b7 BASE UNDER $60,000",
+   "cuts": 3
+  },
+  {
+   "text": "The sales were strong. Wikipedia's table lists twenty thousand, three hundred sixty-eight Stingrays for twenty twenty, twenty-six thousand, two hundred sixteen for twenty twenty-one, and twenty-five thousand, eight hundred thirty-one for twenty twenty-two. By our arithmetic, that is seventy-two thousand, four hundred fifteen in the first three model years. We use only the model-specific columns, because the totals in that table appear unreliable.",
+   "query": "Chevrolet Corvette C8 sales",
+   "caption": "STINGRAY: 20,368 (2020) + 26,216 (2021) + 25,831 (2022) = 72,415 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the faster versions. The Z06, from twenty twenty-three, has a five point five litre naturally aspirated flat-plane V eight with six hundred seventy horsepower at eight thousand, four hundred r p m. The E-Ray, from the twenty twenty-four model year, adds an electric motor for six hundred fifty-five combined horsepower and all-wheel drive. The ZR1 was meant to sit above both.",
+   "query": "Chevrolet Corvette Z06 and E-Ray",
+   "caption": "Z06 (2023): 670 HP NA FLAT-PLANE V8 \u00b7 E-RAY (2024): 655 HP HYBRID AWD",
+   "cuts": 3
+  },
+  {
+   "text": "The new ZR1's engine is a twin-turbocharged version of the flat-plane crank five point five litre V eight, the L T seven, rated at one thousand, sixty-four horsepower and eight hundred twenty-eight pound-feet. Wikipedia calls it the most powerful V eight Chevrolet has built. It sends its power to the rear wheels through an eight-speed dual-clutch gearbox. There is no all-wheel drive on the ZR1, only on the ZR1X.",
+   "query": "Chevrolet Corvette ZR1 LT7",
+   "caption": "LT7: 5.5 L TWIN-TURBO FLAT-PLANE V8 \u00b7 1,064 HP \u00b7 828 LB-FT \u00b7 RWD",
+   "cuts": 3,
+   "chapter": "2024: the oval in Germany"
+  },
+  {
+   "text": "Now the record run. GM's press release, dated the fifteenth of October, twenty twenty-four, says GM president Mark Reuss drove a ZR1 to a two-way average of two hundred thirty-three miles per hour at the A T P high-speed oval in Papenburg, Germany. The speed was averaged over northbound and southbound straights. The car ran at redline in sixth gear, with an engineer in the passenger seat analysing data.",
+   "query": "ATP Papenburg",
+   "caption": "OCT 2024: 233 MPH TWO-WAY AVERAGE \u00b7 ATP HIGH-SPEED OVAL, PAPENBURG \u00b7 DRIVER: MARK REUSS",
+   "cuts": 3
+  },
+  {
+   "text": "GM says it was a standard 2025 ZR1 coupe with the standard chassis and aero package, a standard spoiler, carbon-fibre ground effects, Michelin Pilot Sport four S tyres and aluminium wheels. It also says Chevrolet developed a Top Speed Mode, for closed courses only, which adjusts the chassis controls. Design News says the car produced about twelve hundred pounds of downforce at top speed. Five engineers and both development cars exceeded two hundred thirty miles per hour in multiple runs.",
+   "query": "Corvette ZR1 top speed run",
+   "caption": "STANDARD ZR1 COUPE \u00b7 'TOP SPEED MODE' (CLOSED COURSE ONLY) \u00b7 ~1,200 LB DOWNFORCE \u00b7 BOTH DEVELOPMENT CARS OVER 230 MPH",
+   "cuts": 3
+  },
+  {
+   "text": "GM calls the ZR1 the fastest car it has produced and the fastest ever built by an American automaker, and says the speed is unmatched by any current production car priced under one million dollars. Those are the company's claims, not independent findings. Design News adds that the record was an increase of nineteen miles per hour over the previous-generation ZR1, which is consistent with the figures in Wikipedia.",
+   "query": "Corvette ZR1 claim",
+   "caption": "GM'S CLAIM: FASTEST AMERICAN-BUILT PRODUCTION CAR \u00b7 UNMATCHED UNDER $1M \u00b7 +19 MPH OVER THE C7",
+   "cuts": 3
+  },
+  {
+   "text": "Lead development engineer Chris Barber is quoted by Design News as saying it is a real production car, and that \"we're going to make a lot of these, you're going to see them on the road.\" The sentence matters because of the SledgeHammer: a record for a car you can order is a different thing from a record for a one-off. By our reading, that is the distinction GM is making.",
+   "query": "Chris Barber",
+   "caption": "'THIS IS A REAL PRODUCTION CAR' \u2014 LEAD DEVELOPMENT ENGINEER (DESIGN NEWS)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed is not the only claim. Wikipedia says Chevrolet claims zero to sixty in two point five seconds for the ZR1, or two point three with the ZTK package, and a quarter mile of nine point seven seconds, or nine point six at one hundred fifty-two miles per hour with ZTK. Car and Driver, reported by The Drive, measured two point two seconds to sixty and nine point five at one hundred forty-nine miles per hour.",
+   "query": "Corvette ZR1 acceleration",
+   "caption": "CLAIMED 2.5 / 2.3 S (ZTK) \u00b7 9.7 / 9.6 S \u00b7 MEASURED BY C&D: 2.2 S, 9.5 S AT 149 MPH",
+   "cuts": 3,
+   "chapter": "The other numbers behind the speed"
+  },
+  {
+   "text": "By our arithmetic, the original ZR-1 took four point five seconds to sixty in Car and Driver's test, and the new ZR1 took two point two. That is a drop of two point three seconds, about fifty-one percent. In the quarter mile, the original took twelve point eight and the new one nine point five, a drop of three point three seconds, about twenty-six percent. Both were measured by the same magazine.",
+   "query": "Corvette ZR1 progress",
+   "caption": "C&D 0\u201360: 4.5 \u2192 2.2 S (\u221251%) \u00b7 QUARTER: 12.8 \u2192 9.5 S (\u221226%) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A note on the testing ground. GM says Chevrolet engineers previously set top speeds at the Papenburg oval for the sixth and seventh generation ZR1s and the sixth generation Camaro ZL1. So the track in Germany is a regular place for these runs. By our arithmetic, the 2024 record is nineteen miles per hour above the previous ZR1's, while the previous ZR1 was itself listed at two hundred fourteen point eight eight, a difference of about eighteen.",
+   "query": "ATP Papenburg",
+   "caption": "PAPENBURG: SITE OF EARLIER C6 / C7 ZR1 AND CAMARO ZL1 RUNS \u00b7 233 vs 214.88 = +18 MPH (OUR ARITHMETIC) vs '+19' (GM)",
+   "cuts": 3
+  },
+  {
+   "text": "The small difference is worth noting. GM and Design News say nineteen miles per hour, which implies a previous figure of two hundred fourteen. Wikipedia says two hundred fourteen point eight eight, with a cited source calling it two hundred twelve. Depending on which you pick, the increase is eighteen, nineteen or twenty-one. It is the kind of mismatch that appears in every record story, and we flag it.",
+   "query": "Corvette ZR1 top speed",
+   "caption": "INCREASE OVER THE C7: 18 / 19 / 21 MPH DEPENDING ON THE SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Then there is the brake and aero side. Wikipedia says the ZR1X has Alcon ten-piston front and six-piston rear calipers with carbon-ceramic rotors, and Chevrolet claims one point nine g of deceleration from one hundred eighty to one hundred twenty miles per hour. It also claims one g of lateral and longitudinal grip with its carbon-fibre splitter, dive planes and high-downforce rear wing. Those are claims, from the manufacturer.",
+   "query": "Chevrolet Corvette ZR1X brakes",
+   "caption": "ZR1X: ALCON 10-/6-PISTON CARBON-CERAMIC BRAKES \u00b7 1.9 G CLAIMED \u00b7 1.0 G GRIP CLAIMED",
+   "cuts": 3
+  },
+  {
+   "text": "The point of the numbers is that a record is a system. Engine, cooling, tyres, brakes and aerodynamics all have to work together, and in the sixth-generation car, lift at speed was enough to trigger traction control. The C8 team had to solve that, and the Papenburg run, with about twelve hundred pounds of downforce on the standard car, is the result, according to Design News.",
+   "query": "Corvette ZR1 engineering",
+   "caption": "A RECORD IS A SYSTEM: ENGINE + COOLING + TYRES + BRAKES + AERO (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "And the road car? Wikipedia says the ZR1 started production in spring twenty twenty-five, with one hundred eighty built in the first model year. GM Authority reports dealer prices from one hundred ninety-nine thousand dollars to three hundred forty thousand. That spread, for the same car, is a measure of demand: a car that holds the American speed record is not easy to buy at sticker.",
+   "query": "Chevrolet Corvette ZR1 demand",
+   "caption": "180 BUILT IN MY2025 \u00b7 ASKING PRICES ~$199K\u2013$340K (GM AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed is one test, and a lap is another. Wikipedia says the ZR1 lapped the N\u00fcrburgring Nordschleife in six minutes, fifty point seven six three seconds. The Z06 managed seven eleven point eight two six. By our arithmetic, the ZR1 is about twenty-one seconds, or nearly five percent, faster than the Z06 around the same circuit. That is the effect of nearly four hundred extra horsepower and aerodynamic work.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "ZR1: 6:50.763 \u00b7 Z06: 7:11.826 \u00b7 ZR1 \u2248 21 S (4.9%) FASTER (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The lap record and the Mustang"
+  },
+  {
+   "text": "Then the hybrid ZR1X. It pairs the same twin-turbo V eight with an upgraded E-Ray electric motor on the front axle, for a combined one thousand, two hundred fifty horsepower and all-wheel drive. Wikipedia lists a N\u00fcrburgring time of six forty-nine point two seven five. By our arithmetic, that is one and a half seconds quicker than the ZR1, in lap time. Chevrolet also claims under two seconds to sixty and a quarter mile under nine seconds.",
+   "query": "Chevrolet Corvette ZR1X",
+   "caption": "ZR1X: 1,250 HP \u00b7 6:49.275 (1.5 S QUICKER THAN ZR1) \u00b7 CLAIMED <2 S TO 60, <9 S QUARTER",
+   "cuts": 3
+  },
+  {
+   "text": "And then a rival. The same Wikipedia page says the ZR1X's lap placed it as the second-fastest American car around the N\u00fcrburgring, behind the Ford Mustang GTD Competition, which set six forty point eight in April twenty twenty-six. By our arithmetic, the Mustang was about eight and a half seconds quicker than the ZR1X and about ten seconds quicker than the ZR1. America's fastest Corvette is not America's fastest car.",
+   "query": "Ford Mustang GTD",
+   "caption": "MUSTANG GTD COMPETITION 6:40.8 (APR 2026) \u00b7 8.5 S QUICKER THAN ZR1X \u00b7 10 S THAN ZR1 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The page's wording on this changes. It describes the ZR1X's lap as setting a record that beat the Mustang GTD, then, later, as second-fastest behind the Mustang GTD Competition. We read that as two different dates and two different cars, not a contradiction. It shows how fast the record moves. A title held in the morning can be gone by the afternoon, and that is the nature of this contest.",
+   "query": "N\u00fcrburgring American record",
+   "caption": "THE AMERICAN RECORD CHANGED HANDS: ZR1X \u2192 MUSTANG GTD COMPETITION (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The last twist is about money. GM Authority reports that Rick Hendrick, of the Hendrick Automotive Group, paid three point seven million dollars at a Barrett-Jackson auction for ZR1 vehicle identification number zero zero one, and that the full hammer price was donated to the Red Cross. His dealership in North Carolina displays the car. By our arithmetic, that is about twenty-one times the base price of one hundred seventy-four thousand, nine hundred ninety-five dollars.",
+   "query": "Rick Hendrick",
+   "caption": "ZR1 VIN 001: $3.7M AT BARRETT-JACKSON, PROCEEDS TO THE RED CROSS (GM AUTHORITY) \u2248 21\u00d7 BASE PRICE (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The most expensive ZR1"
+  },
+  {
+   "text": "For a buyer who is not Rick Hendrick, the price starts at one hundred seventy-four thousand, nine hundred ninety-five dollars, according to GM, and a fully loaded 3LZ coupe comes to at least two hundred thirty-two thousand, seven hundred fifty-five, according to Motor One. Some dealers have reportedly asked for markups of fifty to one hundred fifty thousand dollars. We cover the money in the cost video of this series.",
+   "query": "Chevrolet Corvette ZR1 price",
+   "caption": "BASE $174,995 \u00b7 LOADED \u2265 $232,755 \u00b7 REPORTED MARKUPS $50K\u2013$150K (SEE THE COST VIDEO)",
+   "cuts": 3
+  },
+  {
+   "text": "Look at the pattern. In nineteen seventy, fifty-three ZR1 packages across three years. In nineteen ninety, a Lotus-designed engine that held about one hundred seventy-six miles per hour for a day. In two thousand nine, six hundred thirty-eight horsepower and a lift problem at speed. In two thousand nineteen, seven hundred fifty-five horsepower. In twenty twenty-five, one thousand, sixty-four. Each generation set out to be the fastest Corvette, and each succeeded for a while.",
+   "query": "Chevrolet Corvette ZR1 history",
+   "caption": "1970: 53 PACKAGES \u00b7 1990: 405 HP \u00b7 2009: 638 HP \u00b7 2019: 755 HP \u00b7 2025: 1,064 HP",
+   "cuts": 3,
+   "chapter": "What the story tells us"
+  },
+  {
+   "text": "By our arithmetic, from the nineteen ninety ZR-1's 179 miles per hour measured to the 2024 ZR1's 233 tested, the top speed rose by 54 miles per hour, about thirty percent, in thirty-four years. Over the same span, power rose from 375 to 1,064 horsepower, a factor of nearly 2.8. Doubling speed would require far more than doubling power, because of drag, which is why records get harder to break.",
+   "query": "Chevrolet Corvette ZR1 progress",
+   "caption": "179 \u2192 233 MPH (+30%) \u00b7 375 \u2192 1,064 HP (\u00d72.8) OVER 34 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now what the sources do not say. They do not say how much of the ZR1's development cost went into the top-speed run, whether GM ever intended to go after the SledgeHammer's number, or what the C8 would reach with the high-downforce package. GM's top-speed car had the standard aero package, so the figure is for that configuration. We do not know more than that.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "NOT IN OUR SOURCES: DEVELOPMENT COST \u00b7 TARGETS \u00b7 TOP SPEED WITH OTHER AERO",
+   "cuts": 3
+  },
+  {
+   "text": "So what is America's fastest Corvette? If you mean the fastest production Corvette that GM has tested, the answer in our sources is the twenty twenty-five ZR1 at two hundred thirty-three. If you mean the fastest Corvette ever to run, it may be the Callaway SledgeHammer at two hundred fifty-four point seven six, though that was a modified car. If you mean the fastest lap, the ZR1X, until the Mustang came.",
+   "query": "America's fastest Corvette",
+   "caption": "ZR1 233 MPH (PRODUCTION, GM-TESTED) \u00b7 SLEDGEHAMMER 254.76 MPH (MODIFIED, 1988) \u00b7 ZR1X 6:49.275 (LAP)",
+   "cuts": 3
+  },
+  {
+   "text": "Which do you think counts as the fastest Corvette, the ZR1 you can order or the SledgeHammer from nineteen eighty-eight? Tell us in the comments. In the other videos of this series, we reveal two things you may not know about the ZR1, compare it with the Ferrari two ninety-six G T B, and ask whether a normal person can afford one. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

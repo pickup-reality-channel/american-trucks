@@ -1,0 +1,10 @@
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Wikipedia, Chevrolet Corvette ZR1: https://en.wikipedia.org/wiki/Chevrolet_Corvette_ZR1
+- Wikipedia, Chevrolet Corvette (C4): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C4)
+- Wikipedia, Chevrolet Corvette (C6): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)
+- Wikipedia, Chevrolet Corvette (C7): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C7)
+- Wikipedia, Callaway Cars: https://en.wikipedia.org/wiki/Callaway_Cars
+- General Motors, Corvette ZR1 hits 233 mph with GM President Mark Reuss driving: https://news.gm.com/home.detail.html/Pages/news/us/en/2024/oct/1015-zr1.html
+- Design News, GM president pilots Corvette ZR1 to 233 mph top speed: https://www.designnews.com/automotive-engineering/gm-president-pilots-corvette-zr1-to-233-mph-top-speed
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- Motor1, Chevrolet Corvette ZR1 configurator fully loaded price: https://www.motor1.com/news/750492/chevrolet-corvette-zr1-configurator-fully-loaded-price/
