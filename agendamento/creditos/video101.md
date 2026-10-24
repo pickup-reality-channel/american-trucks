@@ -1,0 +1,139 @@
+# Photo credits: 2 Secrets Hidden Inside the Mercedes-AMG One
+
+- Mercedes-AMG One IAA 2023 1X7A0454.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3473).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032097).jpg by Matti Blume, CC BY-SA 4.0
+- AMG Mercedes-Benz C204 (DTM).jpg by Stefan Krause, Germany, CC BY-SA 3.0
+- Mercedes-AMG One, Techno-Classica 2025, Essen (P1045566).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GLE 43 (P1070799).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, IAA 2017 (1Y7A2959).jpg by MB-one, CC BY-SA 4.0
+- Mercedes-AMG HPP F1 M10 EQ Power+.jpg by 5225C, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 EQ Power+ at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 Engine at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 ERS Battery at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Ferrari Tipo 065-6 Engine and Mercedes AMG F1 W10 EQ Power+ MGU-K at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (1996) (52871121586).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (1996) (52871498525).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mercedes-AMG One (2025) (55311042854).jpg by Charles from Port Chester, New York, CC0
+- Mercedes-Benz, IAA 2017, Frankfurt (1Y7A3021).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG E 53 Coupe, Friedrichshafen (P1130454).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG E 53 Coupe, Friedrichshafen (P1130453).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG CLS, BAS 24, Brussels (P1170334-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz CL 65 AMG, TC 24, Essen (TCE42747-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes, No.10 Lewis Hamilton (10458044675).jpg by Takayuki Suzuki from Kanagawa, Japan, CC BY-SA 2.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 04.jpg by Ank kumar, CC BY-SA 4.0
+- Lewis Hamilton Mercedes W08(Ank Kumar, Infosys Limited) 03.jpg by Ank kumar, CC BY-SA 4.0
+- Mercedes-AMG R190 GT R Roadster Speedlegend IAA 2021 1X7A0124.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz C63 AMG Affalterbach Edition.jpg by Shane K, CC BY-SA 2.0
+- Mercedes-Benz C63 AMG Affalterbach Edition-02.jpg by Shane K, CC BY-SA 2.0
+- Mercedes-AMG GT, EMS 2024, Essen (P1031874).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG GT, EMS 2024, Essen (P1031864).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz C 55 T AMG (S202) One of 772 DSC 8897.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-AMG One (2025) (55311225055).jpg by Charles from Port Chester, New York, CC0
+- Mercedes-AMG One (2025) (55310812271).jpg by Charles from Port Chester, New York, CC0
+- 2024-08-24 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3369 by Stepro.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- Mercedes-AMG GT R, BAS 24, Brussels (P1170229-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz C 55 T AMG (S202) One of 772 DSC 8899.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-AMG One IAA 2021 1X7A0108.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz S63 AMG W221 (5223955349).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Mercedes AMG Powertrain (52849595779).jpg by Steve, CC BY-SA 2.0
+- Mercedes-AMG GT Track Series Coupé (C190, 2022) (52571422042).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lewis Hamilton engine failure 2016 Malaysian GP 1.jpg by Morio, CC BY-SA 4.0
+- Lewis Hamilton engine failure 2016 Malaysian GP 3.jpg by Morio, CC BY-SA 4.0
+- Lewis Hamilton engine failure 2016 Malaysian GP 2.jpg by Morio, CC BY-SA 4.0
+- Mercedes F1 W05 Hybrid front 2015 Malaysia.jpg by Morio, CC BY-SA 4.0
+- Mercedes F1 W05 Hybrid Replika - tył (MSP15).JPG by Jakub "Flyz1" Maciejewski, CC BY-SA 3.0
+- Mercedes F1 W05 Hybrid.jpg by Mclarensenna, Public domain
+- Mercedes-AMG One, EMS 2024, Essen (P1032166).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032165).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032170).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva Motor Show 2011 - Mercedes SLS AMG E-Cell (5559795194).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Mercedes SLS AMG E-Cell (5559225001).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Mercedes-AMG G 63, GIMS 2018, Le Grand-Saconnex (1X7A0541).jpg by Matti Blume, CC BY-SA 4.0
+- 1991 Mercedes-Benz 560 SEC AMG in Blue-Black Metallic, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- Mercedes-Benz E 60 AMG, TC 24, Essen (TCE42735).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032171).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, EMS 2024, Essen (P1031692).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (2001) (52573611024).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Mercedes-Benz SL-Klasse (R129) SL 55 AMG (2001) (52573339756).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Étape 21 Tour France 2026 Rue Saint Éleuthère - Paris XVIII (FR75) - 2026-07-26 - 21.jpg by Chabe01, CC BY-SA 4.0
+- 1963 Humber Sceptre Mk I Saloon (12231549756).jpg by Sicnag, CC BY 2.0
+- 1966 Humber Sceptre Mk II Saloon (12230988855).jpg by Sicnag, CC BY 2.0
+- Flickr - ronsaunders47 - SUZUKI GT250. 250cc TWO STROKE TWIN.UK.jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032169).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG ONE (53048132806).jpg by Andrew Basterfield, CC BY-SA 2.0
+- Orange Mercedes-AMG One Monaco Low.jpg by MrWalkr, CC BY-SA 4.0
+- GIMS 2018, Le Grand-Saconnex (1X7A0709).jpg by Matti Blume, CC BY-SA 4.0
+- Ola Källenius, Britta Seeger, Dieter Zetsche - Daimler Genf 2019 1Y7A5210.jpg1Y7A5181.jpg by Alexander Migl, CC BY-SA 4.0
+- Daimler at IAA 2019 + Ola Källenius.jpg by Spielvogel
+
+For a gallery of some more of my uploaded pictures you may see:  here., CC BY-SA 3.0
+- Participation of Ursula von der Leyen, President of the European Commission, in the Strategic Dialogue on Steel (P-065802-00-08).jpg by Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Dati Bendo, CC BY 4.0
+- GIMS 2018, Le Grand-Saconnex (1X7A0729).jpg by Matti Blume, CC BY-SA 4.0
+- GIMS 2018, Le Grand-Saconnex (1X7A0533).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes Benz 300 SL Gullwing (8649257974).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 13-06-21-heiligendamm-by-RalfR-01.jpg by Ralf Roletschek, CC BY-SA 3.0
+- Mercedes-Benz G63 AMG V8 BITURBO SUV (50703492437).jpg by silver-novice ~ ne res adversae impediant from Birkenhead, ENGLAND, CC BY 2.0
+- Mercedes C Class (W204 C-Class) front.jpg by Pedro Simões from Lisboa, Portugal, CC BY 2.0
+- 2023 Mercedes-AMG One FOS25.jpg by MrWalkr, CC BY-SA 4.0
+- Mercedes-AMG One at the 2022 Goodwood Festival of Speed.jpg by Andrew Basterfield, CC BY-SA 2.0
+- 2023 Mercedes AMG One 1.jpg by Calreyn88, CC0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Osaka Auto Messe 2014 (53) SUBARU WRX STI NBR 2013 CHALLENGE.JPG by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2014 (52) SUBARU WRX STI NBR 2013 CHALLENGE.JPG by Tokumeigakarinoaoshima, CC0
+- Osaka Auto Messe 2014 (207) GAZOO Racing TOYOTA 86.JPG by Tokumeigakarinoaoshima, CC0
+- Circuit de bicross en construction.jpg by Syced, CC0
+- Killarney Race Track in Tableview Cape Town.jpg by SkyPixels, CC BY-SA 4.0
+- Snetterton Racing Circuit (9096594820).jpg by John Fielding from Norwich, UK, CC BY 2.0
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-Benz SLS AMG Roadster, IAA 2011, Frankfurt am Main (DSC03249).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz C32 AMG F1 Medical Car rear Mercedes-Benz Museum.jpg by Morio, CC BY-SA 3.0
+- 2019 Formula One Test Days - Valtteri Bottas Mercedes F1 W10.jpg by Artes Max from Spain, CC BY-SA 2.0
+- Formula 1 Safety Car Mercedes-AMG GT R.jpg by Michał Obrochta, CC BY-SA 4.0
+- Sebastien Buemi driving medical car.jpg by Morio, CC BY-SA 3.0
+- Geneva Motor Show 2011 - BMW M3 Coupe Convertible Interior (5561672640).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - BMW M3 Coupe Engine (5561685236).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Geneva Motor Show 2011 - BMW M3 Coupe (5560939950).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Mercedes F1 W03 Petronas Schumacher (2).jpg by Hydro, CC BY-SA 4.0
+- Mercedes F1 car 04.jpg by Ank kumar, CC BY-SA 4.0
+- Mercedes F1 car 06.jpg by Ank kumar, CC BY-SA 4.0
+- Mercedes AMG GT S - oohh! Freizeitmesse Hamburg 2018 01.jpg by Frank Schwichtenberg, CC BY-SA 4.0
+- Mercedes AMG GT S - oohh! Freizeitmesse Hamburg 2018 02.jpg by Frank Schwichtenberg, CC BY-SA 4.0
+- 2024-08-25 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3888 by Stepro.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- Calendar 2.jpg by পাপৰি বৰা, CC BY-SA 4.0
+- Close-up of calendar in Spanish - Calendario en español.jpg by Maximopi, CC BY-SA 4.0
+- Calendar of Wurmprecht, February and March.jpg by Wurmprecht, Public domain
+- 2020 Formula One tests Barcelona, Mercedes-AMG F1 W11 EQ Performance, Hamilton.jpg by Artes Max from Spain, CC BY-SA 2.0
+- Valtteri Bottas-Mercedes AMG-2019 (5).jpg by Alberto-g-rovi, CC BY 3.0
+- Valtteri Bottas-Mercedes AMG-2019 (4).jpg by Alberto-g-rovi, CC BY 3.0
+- Le Mans - Cathedrale St Julien ext autumn.jpg by Selbymay, CC BY-SA 3.0
+- Entrée ville Le Mans-24h.jpg by OldLion, CC BY-SA 4.0
+- Silver CL 55 AMG (C215 fl) fr.jpg by Morten Schwend from Berlin, Deutschland, CC BY-SA 2.0
+- 2011-03-22 fire at the Élysée Montmartre 17-18.jpg by Coyau, CC BY-SA 3.0
+- The rearview of Mercedes AMG Petronas F1 W05.JPG by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- The frontview of Mercedes AMG Petronas F1 W05.JPG by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Turbocharged Ford Indianapolis Engine (54585070437).jpg by Tomás Del Coro, CC BY-SA 4.0
+- Japan Airlines 777 Engine Failure on Departure (2 of 2) (51599589068).jpg by Glenn Beltz from Goleta, CA, USA, CC BY 2.0
+- The Excelsior revving up its engine - geograph.org.uk - 4167380.jpg by Alan Hunt, CC BY-SA 2.0
+- Mercedes-AMG GLE 53, GIMS 2019, Le Grand-Saconnex (GIMS0599).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes, Paris Motor Show 2018, Paris (1Y7A1314).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-Benz, Paris Motor Show 2018, Paris (1Y7A1320).jpg by Matti Blume, CC BY-SA 4.0
+- Sydney (AU), Coast, Australian Fur Seals -- 2019 -- 3489.jpg by Dietmar Rabich, CC BY-SA 4.0
+- New Zealand fur seal (Arctocephalus forsteri) female with suckling pup Kangaroo Island.jpg by Charles J. Sharp, CC BY-SA 4.0
+- ANZ Bank South Dunedin, 12 Dec 2025.jpg by Andykatib, CC0
+- Aston Martin Valkyrie, BAS 24, Brussels (P1170224-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Valkyrie, EMS 2023, Essen (P1160761-RR).jpg by MB-one, CC BY-SA 4.0
+- Aston Martin Valkyrie, TC 24, Essen (TCE42947).jpg by Matti Blume, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- CarAdvice, Mercedes-AMG One delayed nine months: https://www.caradvice.com.au/news/mercedes-amg-one-delayed/
+- CarAdvice, Mercedes CEO: We were drunk when AMG One hypercar was approved: https://www.caradvice.com.au/news/mercedes-ceo-drunk-when-amg-one-approved/
+- Wikipedia, Aston Martin Valkyrie: https://en.wikipedia.org/wiki/Aston_Martin_Valkyrie

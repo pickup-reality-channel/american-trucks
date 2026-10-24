@@ -1,0 +1,132 @@
+# Photo credits: Why Lamborghini Bet Everything on an SUV
+
+- Lamborghini Urus Performante 1X7A6805.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6798.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8524.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A6796.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 8521.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus rear view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus front view dllu.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini Urus oblique view dllu 01.jpg by Dllu, CC BY-SA 4.0
+- Lamborghini LM002 Gen1 1986-1992 frontleft 2012-03-22 A.jpg by Detectandpreserve, CC BY-SA 3.0
+- Lamborghini LM002 Miami.jpg by Joseph Zadeh, CC BY-SA 4.0
+- 1991 Lamborghini LM002 FOS23.jpg by MrWalkr, CC BY-SA 4.0
+- 1991 Lamborghini LM002 LC23.jpg by MrWalkr, CC BY-SA 4.0
+- 1991 Lamborghini LM002 LC 23.jpg by MrWalkr, CC BY-SA 4.0
+- Lamborghini LM002 Gen1 Type129 1986-1993 1988 frontleft 2013-03-17 U.JPG by Detectandpreserve, CC BY-SA 3.0
+- 1990 Lamborghini LM002 in Red, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- 1989 Lamborghini LM002 in Long Island, front view.jpg by Vetatur Fumare, CC BY-SA 2.0
+- Lamborghini Urus 19.09.20 JM (2).jpg by Johannes Maximilian, CC BY-SA 4.0
+- Lamborghini Urus at IAA 2019 IMG 0175.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus, BAS 24, Brussels (P1170506).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus 1X7A1637.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Mansory IMG 9587.jpg by Alexander-93, CC BY-SA 4.0
+- Ferruccio Lamborghini Museum.jpg by TKOIII, CC BY-SA 4.0
+- Ferruccio Lamborghini autograph.jpg by Ferruccio Lamborghini, Public domain
+- Lamborghini Espada-Chassis.jpg by Countachinfo.de, CC BY-SA 4.0
+- Lamborghini Urraco P250 fl.jpg by Herranderssvensson, CC BY-SA 4.0
+- 1972 Lamborghini Espada 3.9.jpg by Vauxford, CC BY-SA 4.0
+- Lamborghini Countach LP 400 Periscopio (1975) (52866385009).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Typical Lamborghini owner (9081126364).jpg by Vetatur Fumare, CC BY-SA 2.0
+- 1967 Lamborghini Miura P400 opened up LC24.jpg by MrWalkr, CC BY-SA 4.0
+- Auto patrulla Lamborghini de la Policía Nacional de Panamá (2011).jpg by AnelGTR, CC BY-SA 3.0
+- Lamborghini x3 (16691728755).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- Lamborghini LM002 at Meilenwerk.JPG by Berlin13407 at de.wikipedia, CC BY-SA 3.0
+- 1991 Lamborghini LM002.jpg by Calreyn88, CC0
+- Lamborghini LM002 American (1990) (53624305975).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1987 Lamborghini LM-002 V12 5.1 (Ank Kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Miami Concours parking.jpg by Joseph Zadeh, CC BY-SA 4.0
+- 1987 Lamborghini LM-002 V12 5.1 (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Lamborghini LM002 American (1990) (53624195339).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini LM002 at Meilenwerk-2.JPG by Lamborghini_LM002_at_Meilenwerk.JPG: Berlin13407 at de.wikipedia
+derivative work: Mario Link, CC BY-SA 3.0
+- Lamborghini LM002 American (1990) (53618558197).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini LM002 (26872467637).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Lamborghini LM002 American (1990) (53624195324).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini LM002 (36335666002).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY-SA 2.0
+- Lamborghini LM002 American (1990) (53624067558).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini LM002 Gen1 1986-1992 sideleft 2012-03-22 A.jpg by Detectandpreserve, CC BY-SA 3.0
+- Lamborghini LM002 Gen1 1986-1992 back 2012-03-22 A.jpg by Detectandpreserve, CC BY-SA 3.0
+- P1080941-Lamborghini Urus Concept.jpg by Y.Leclercq, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6804.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A6803.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini LM002 Gen1 1986-1992 backright 2012-03-22 A.jpg by Detectandpreserve, CC BY-SA 3.0
+- Lamborghini LM002 Gen1 Type129 1986-1993 1988 backleft 2013-03-17 U.JPG by Detectandpreserve, CC BY-SA 3.0
+- P1080941-Lamborghini Urus Concept (cropped).jpg by Y.Leclercq, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A1655.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A7434.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus (2019) (52571953520).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621749741).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus Performante (2024) (53621749681).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Lamborghini Urus S 1X7A7433.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus S 1X7A7428.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus Performante 1X7A7426.jpg by Alexander-93, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9099.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9097.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus SE DSC 9100.jpg by Alexander Migl, CC BY-SA 4.0
+- Bos primigenius siciliae.jpg by Ghedo, CC BY-SA 4.0
+- Bos primigenius 456.jpg by Ghedoghedo, CC BY-SA 4.0
+- Em - Bos primigenius Star Carr - 1.jpg by Emőke Dénes, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1505).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A0035).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1485).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Urus Performante Verde Gea Lucido (1).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Urus Performante Verde Gea Lucido (3).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Urus Performante Verde Gea Lucido (2).jpg by Damian B Oh, CC BY-SA 4.0
+- Lamborghini Islero, Techno Classica 2018, Essen (IMG 9696).jpg by Matti Blume, CC BY-SA 4.0
+- Festival automobile international 2018 - Lamborghini Terzo Millennio - 015 (cropped).jpg by Thesupermat, CC BY-SA 4.0
+- Lamborghini Urus 20180306 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Grand Prix 75 Target - Flickr - Joost J. Bakker IJmuiden.jpg by Joost J. Bakker, CC BY 2.0
+- 1986 Lamborghini Jalpa in Nero Tenebre, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Lamborghini Sian at IAA 2019 IMG 0332.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Sián IAA 2019 JM 1094.jpg by Johannes Maximilian, CC BY-SA 4.0
+- Lamborghini Sian at IAA 2019 IMG 0775.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Urus IAA 2019 JM 1087.jpg by Johannes Maximilian, CC BY-SA 4.0
+- 2019 Lamborghini Urus 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus at IAA 2019 IMG 0757.jpg by Alexander Migl, CC BY-SA 4.0
+- 1986 Lamborghini Countach 5000QV engine at Greenwich.jpg by Mr.choppers, CC BY-SA 3.0
+- 1999 Lamborghini Diablo VT Roadster in Giallo, rear right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1999 Lamborghini Diablo VT Roadster in Giallo, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 20XX Lamborghini Urus.jpg by Alexandre Prevot, CC BY-SA 2.0
+- Lamborghini Urus 002.jpg by Jengtingchen, CC BY-SA 4.0
+- Lamborghini Gallardo LP 550-2 Bicolore.jpg by Pierre André Leclercq, CC BY 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto MYLE Festival 2025 DSC 9447 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Huracan 2025 MCAS Beaufort Air Show.jpg by Lance Cpl. Kayla LeClaire, Public domain
+- Lamborghini Huracan Performante at Exotics Racing in Las Vegas.jpg by Joshua Kleinholz, Public domain
+- President Donald Trump delivers remarks at the Tonino Lamborghini International Convention Center in Sharm El Sheikh (54855575883).jpg by Daniel Torok, Public domain
+- Lamborghini Asterion Concept 20170101 175758.jpg by MB-one, CC BY-SA 4.0
+- Lamborghini Aventador - Asterion - Huracán.jpg by Blood Destructor, CC BY-SA 3.0
+- Lamborghini Asterion - 2014 Paris Motor Show 02.jpg by Ben from LONDON, United Kingdom, CC BY-SA 2.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Poplars - Sant'Agata Bolognese, Bologna, Italy - February 12, 2013 01.jpg by Giorgio Galeotti, CC BY 4.0
+- Weeping Willow - Sant'Agata Bolognese, Bologna, Italy 05.jpg by Giorgio Galeotti, CC BY 4.0
+- Lamborghini Moskau.jpg by Achim Hepp, CC BY-SA 2.0
+- XBOX E3 2016 Lamborghini (2).jpg by Guywelch2000, CC BY 4.0
+- XBOX E3 2016 Lamborghini (1).jpg by Guywelch2000, CC BY 4.0
+- 2020 Lamborghini Urus Auto (46701).jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus 001.jpg by Jengtingchen, CC BY-SA 4.0
+- 2020 Lamborghini Urus Auto.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Asterion 004.JPG by Arnaud 25, CC BY-SA 4.0
+- Lamborghini Asterion 006.JPG by Arnaud 25, CC BY-SA 4.0
+- Lamborghini Asterion 002.JPG by Arnaud 25, CC BY-SA 4.0
+- Lamborghini Urus SE 001.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Urus SE 002.jpg by JustAnotherCarDesigner, CC0
+- Lamborghini Urus SE 2025.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 Lamborghini Urus SE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Lamborghini Urus SE 2025 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2025 Lamborghini Urus SE - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6987.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985.jpg by Alexander Migl, CC BY-SA 4.0
+- Lamborghini Revuelto DSC 6985 (cropped).jpg by Alexander Migl, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Lamborghini: https://en.wikipedia.org/wiki/Lamborghini
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Wikipedia, Lamborghini LM002: https://en.wikipedia.org/wiki/Lamborghini_LM002
+- Carscoops, Lamborghini sold nearly 5,000 Urus SUVs last year (January 2020): https://www.carscoops.com/2020/01/lamborghini-sales-soar-43-percent-in-2019-thanks-to-urus-suv/
+- Yahoo Autos, We're not selling mobility: how Stephan Winkelmann transformed Lamborghini: https://autos.yahoo.com/people-and-culture/articles/were-not-selling-mobility-stephan-083648052.html
