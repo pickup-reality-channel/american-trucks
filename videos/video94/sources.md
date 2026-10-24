@@ -1,0 +1,6 @@
+- Wikipedia, Dodge Viper: https://en.wikipedia.org/wiki/Dodge_Viper
+- Wikipedia, Chevrolet Corvette (C6): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)
+- Autoblog, 2009 Corvette ZR1 starts at $103,300: https://www.autoblog.com/2008/06/17/2009-corvette-zr1-pricing-and-performance-numbers-released/
+- Vette Vues, C6 Corvette ZR1 History (2009–2013): https://vette-vues.com/c6-corvette-zr1-history/
+- Good Car Bad Car, Dodge Viper sales figures: https://www.goodcarbadcar.net/dodge-viper-sales-figures/
+- Classic.com, Dodge Viper ACR VX I market: https://www.classic.com/m/dodge/viper/5th-gen/acr/
