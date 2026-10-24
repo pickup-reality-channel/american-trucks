@@ -1,0 +1,2219 @@
+1
+00:00:00,000 --> 00:00:01,897
+Two American supercars,
+
+2
+00:00:01,897 --> 00:00:05,526
+both with a six-speed Tremec manual gearbox.
+
+3
+00:00:05,706 --> 00:00:08,180
+One has a supercharged six point two
+
+4
+00:00:08,180 --> 00:00:09,142
+litre V eight.
+
+5
+00:00:09,322 --> 00:00:11,516
+The other has an eight point four
+
+6
+00:00:11,516 --> 00:00:12,314
+litre V ten,
+
+7
+00:00:12,314 --> 00:00:14,175
+and no turbochargers at all.
+
+8
+00:00:14,355 --> 00:00:16,127
+One is the Chevrolet Corvette Z R
+
+9
+00:00:16,127 --> 00:00:17,844
+one, the other the Dodge Viper A
+
+10
+00:00:17,844 --> 00:00:18,059
+C R.
+
+11
+00:00:18,239 --> 00:00:21,199
+And according to published Nürburgring times,
+
+12
+00:00:21,199 --> 00:00:23,239
+the car with less power was the
+
+13
+00:00:23,239 --> 00:00:24,752
+one that lapped faster.
+
+14
+00:00:24,932 --> 00:00:27,301
+This is the real difference between them.
+
+15
+00:00:27,651 --> 00:00:29,183
+Here is the twist.
+
+16
+00:00:29,363 --> 00:00:31,112
+The Z R one had more power
+
+17
+00:00:31,112 --> 00:00:33,601
+than the Viper that it raced against.
+
+18
+00:00:33,781 --> 00:00:36,231
+It was also almost the same weight
+
+19
+00:00:36,231 --> 00:00:37,960
+as the track-only Viper.
+
+20
+00:00:38,140 --> 00:00:40,051
+Yet the numbers show a gap of
+
+21
+00:00:40,051 --> 00:00:42,093
+seven and a half seconds on the
+
+22
+00:00:42,093 --> 00:00:44,398
+Nürburgring, in the Viper's favour.
+
+23
+00:00:44,578 --> 00:00:46,560
+We will show you where those numbers
+
+24
+00:00:46,560 --> 00:00:48,431
+come from, and why you should read
+
+25
+00:00:48,431 --> 00:00:49,257
+them carefully.
+
+26
+00:00:49,607 --> 00:00:52,037
+Every number in this video comes from
+
+27
+00:00:52,037 --> 00:00:54,994
+published sources, listed in the description.
+
+28
+00:00:55,174 --> 00:00:56,929
+Where sources disagree,
+
+29
+00:00:56,929 --> 00:00:58,227
+we will tell you.
+
+30
+00:00:58,407 --> 00:01:00,399
+Where we do the maths ourselves,
+
+31
+00:01:00,399 --> 00:01:01,333
+we will say so.
+
+32
+00:01:01,513 --> 00:01:03,359
+Let us meet the two cars.
+
+33
+00:01:03,709 --> 00:01:06,173
+The Corvette Z R one is part
+
+34
+00:01:06,173 --> 00:01:08,285
+of the sixth generation,
+
+35
+00:01:08,285 --> 00:01:09,165
+the C six.
+
+36
+00:01:09,345 --> 00:01:12,546
+Wikipedia says GM confirmed the programme in
+
+37
+00:01:12,546 --> 00:01:14,364
+April two thousand seven,
+
+38
+00:01:14,364 --> 00:01:17,273
+and officially introduced the car on the
+
+39
+00:01:17,273 --> 00:01:20,328
+nineteenth of December two thousand seven.
+
+40
+00:01:20,508 --> 00:01:22,261
+Inside General Motors,
+
+41
+00:01:22,261 --> 00:01:24,572
+it was code named Blue Devil,
+
+42
+00:01:24,572 --> 00:01:27,122
+after Rick Wagoner's university,
+
+43
+00:01:27,122 --> 00:01:27,521
+Duke.
+
+44
+00:01:27,871 --> 00:01:29,731
+The Z R one name was not
+
+45
+00:01:29,731 --> 00:01:30,042
+new.
+
+46
+00:01:30,222 --> 00:01:32,811
+Wikipedia says it had been used on
+
+47
+00:01:32,811 --> 00:01:36,086
+developmental cars in nineteen seventy-one,
+
+48
+00:01:36,086 --> 00:01:38,752
+and on the top-line C four Corvette
+
+49
+00:01:38,752 --> 00:01:39,742
+Z R dash one.
+
+50
+00:01:39,922 --> 00:01:42,254
+So when GM called its new car
+
+51
+00:01:42,254 --> 00:01:43,058
+a Z R one,
+
+52
+00:01:43,058 --> 00:01:45,872
+it was reviving a name with decades
+
+53
+00:01:45,872 --> 00:01:47,561
+of history behind it.
+
+54
+00:01:47,912 --> 00:01:49,206
+The Dodge Viper,
+
+55
+00:01:49,206 --> 00:01:50,987
+as Wikipedia explains,
+
+56
+00:01:50,987 --> 00:01:54,629
+began with Chrysler president Bob Lutz asking
+
+57
+00:01:54,629 --> 00:01:56,166
+for a modern Cobra.
+
+58
+00:01:56,346 --> 00:01:57,202
+The A C R,
+
+59
+00:01:57,202 --> 00:01:59,770
+short for American Club Racer,
+
+60
+00:01:59,770 --> 00:02:02,852
+started as a package on the nineteen
+
+61
+00:02:02,852 --> 00:02:04,393
+ninety-nine G T S,
+
+62
+00:02:04,393 --> 00:02:06,875
+and grew into a car built for
+
+63
+00:02:06,875 --> 00:02:07,817
+track days.
+
+64
+00:02:07,997 --> 00:02:09,936
+The A C R that matches the
+
+65
+00:02:09,936 --> 00:02:11,576
+Z R one in time is the
+
+66
+00:02:11,576 --> 00:02:14,932
+fourth generation, from two thousand eight to
+
+67
+00:02:14,932 --> 00:02:15,752
+twenty ten.
+
+68
+00:02:16,103 --> 00:02:17,925
+That timing matters for fairness.
+
+69
+00:02:18,105 --> 00:02:20,277
+The Corvette Z R one was built
+
+70
+00:02:20,277 --> 00:02:23,027
+from two thousand nine to two thousand
+
+71
+00:02:23,027 --> 00:02:23,678
+thirteen.
+
+72
+00:02:23,858 --> 00:02:27,257
+The fourth-generation Viper ended in July twenty
+
+73
+00:02:27,257 --> 00:02:29,877
+ten, and the fifth generation came in
+
+74
+00:02:29,877 --> 00:02:31,010
+twenty thirteen.
+
+75
+00:02:31,190 --> 00:02:32,702
+So the Z R one met the
+
+76
+00:02:32,702 --> 00:02:34,625
+old Viper in its last years,
+
+77
+00:02:34,625 --> 00:02:36,549
+and the new one right at the
+
+78
+00:02:36,549 --> 00:02:37,924
+end of its own life.
+
+79
+00:02:38,274 --> 00:02:40,561
+Start with the Z R one's engine.
+
+80
+00:02:40,741 --> 00:02:42,955
+Wikipedia lists the L S nine,
+
+81
+00:02:42,955 --> 00:02:45,703
+a supercharged six point two litre V
+
+82
+00:02:45,703 --> 00:02:49,443
+eight with six hundred thirty-eight horsepower at
+
+83
+00:02:49,443 --> 00:02:51,886
+six thousand five hundred r p m,
+
+84
+00:02:51,886 --> 00:02:55,016
+and six hundred four pound-feet of torque
+
+85
+00:02:55,016 --> 00:02:57,459
+at three thousand eight hundred.
+
+86
+00:02:57,639 --> 00:03:01,014
+Vette Vues adds an Eaton supercharger running
+
+87
+00:03:01,014 --> 00:03:02,514
+ten and a half p s i
+
+88
+00:03:02,514 --> 00:03:03,189
+of boost.
+
+89
+00:03:03,539 --> 00:03:05,849
+The Viper's engine was the opposite.
+
+90
+00:03:06,029 --> 00:03:09,952
+Wikipedia lists the fourth generation's eight thousand
+
+91
+00:03:09,952 --> 00:03:13,440
+three hundred eighty-two cubic centimetre V ten,
+
+92
+00:03:13,440 --> 00:03:16,564
+with six hundred horsepower at six thousand
+
+93
+00:03:16,564 --> 00:03:17,872
+one hundred r p m,
+
+94
+00:03:17,872 --> 00:03:20,851
+and five hundred sixty pound-feet at five
+
+95
+00:03:20,851 --> 00:03:21,505
+thousand.
+
+96
+00:03:21,685 --> 00:03:23,616
+It was naturally aspirated,
+
+97
+00:03:23,616 --> 00:03:27,049
+which means no supercharger and no turbocharger.
+
+98
+00:03:27,399 --> 00:03:28,467
+Do the arithmetic.
+
+99
+00:03:28,647 --> 00:03:30,151
+By our own arithmetic,
+
+100
+00:03:30,151 --> 00:03:31,860
+the Z R one has about six
+
+101
+00:03:31,860 --> 00:03:35,415
+percent more power than the fourth-generation Viper,
+
+102
+00:03:35,415 --> 00:03:38,492
+six hundred thirty-eight against six hundred.
+
+103
+00:03:38,672 --> 00:03:41,176
+It has about eight percent more torque,
+
+104
+00:03:41,176 --> 00:03:44,001
+six hundred four against five hundred sixty.
+
+105
+00:03:44,181 --> 00:03:45,957
+The Corvette, on paper,
+
+106
+00:03:45,957 --> 00:03:47,734
+is the stronger engine.
+
+107
+00:03:48,084 --> 00:03:49,633
+But it does that with a much
+
+108
+00:03:49,633 --> 00:03:50,464
+smaller engine.
+
+109
+00:03:50,644 --> 00:03:51,904
+By our arithmetic,
+
+110
+00:03:51,904 --> 00:03:54,636
+the Viper's eight point four litres are
+
+111
+00:03:54,636 --> 00:03:58,278
+about thirty-five percent bigger than the Corvette's
+
+112
+00:03:58,278 --> 00:03:59,258
+six point two.
+
+113
+00:03:59,438 --> 00:04:01,560
+Per litre, the Z R one makes
+
+114
+00:04:01,560 --> 00:04:04,212
+about one hundred three horsepower,
+
+115
+00:04:04,212 --> 00:04:06,636
+and the Viper about seventy-two.
+
+116
+00:04:06,816 --> 00:04:09,738
+The supercharger does the work that displacement
+
+117
+00:04:09,738 --> 00:04:10,833
+does in the Viper.
+
+118
+00:04:11,184 --> 00:04:13,030
+Where does the power arrive?
+
+119
+00:04:13,210 --> 00:04:15,213
+The Z R one makes its peak
+
+120
+00:04:15,213 --> 00:04:18,295
+torque at three thousand eight hundred r
+
+121
+00:04:18,295 --> 00:04:20,607
+p m, while the Viper makes its
+
+122
+00:04:20,607 --> 00:04:21,917
+at five thousand.
+
+123
+00:04:22,097 --> 00:04:24,375
+Vette Vues says every L S nine
+
+124
+00:04:24,375 --> 00:04:28,323
+was meticulously hand-built at the Performance Build
+
+125
+00:04:28,323 --> 00:04:28,854
+Center.
+
+126
+00:04:29,034 --> 00:04:31,596
+The Drive says the Viper's V ten
+
+127
+00:04:31,596 --> 00:04:34,398
+was built by hand at Conner Avenue.
+
+128
+00:04:34,578 --> 00:04:37,535
+So both American engines were assembled by
+
+129
+00:04:37,535 --> 00:04:37,887
+hand.
+
+130
+00:04:38,237 --> 00:04:40,744
+And the gearbox is a surprise.
+
+131
+00:04:40,924 --> 00:04:45,052
+Wikipedia says the fourth-generation Viper used a
+
+132
+00:04:45,052 --> 00:04:47,326
+new Tremec T R six zero six
+
+133
+00:04:47,326 --> 00:04:49,179
+zero six-speed manual.
+
+134
+00:04:49,359 --> 00:04:51,833
+Vette Vues says the Z R one
+
+135
+00:04:51,833 --> 00:04:54,215
+used a Tremec T R six zero
+
+136
+00:04:54,215 --> 00:04:56,964
+six zero six-speed manual too.
+
+137
+00:04:57,144 --> 00:04:58,928
+The same gearbox family,
+
+138
+00:04:58,928 --> 00:05:01,383
+in two cars from rival companies,
+
+139
+00:05:01,383 --> 00:05:04,283
+with very different engines in front of
+
+140
+00:05:04,283 --> 00:05:04,655
+them.
+
+141
+00:05:05,006 --> 00:05:07,211
+Here is a striking coincidence.
+
+142
+00:05:07,391 --> 00:05:10,751
+The fifth-generation Viper of twenty thirteen had
+
+143
+00:05:10,751 --> 00:05:13,769
+six hundred forty horsepower and six hundred
+
+144
+00:05:13,769 --> 00:05:16,169
+pound-feet, according to Wikipedia.
+
+145
+00:05:16,349 --> 00:05:18,891
+The twenty thirteen Corvette Z R one
+
+146
+00:05:18,891 --> 00:05:22,211
+had six hundred thirty-eight horsepower and six
+
+147
+00:05:22,211 --> 00:05:23,907
+hundred four pound-feet.
+
+148
+00:05:24,087 --> 00:05:25,550
+By our arithmetic,
+
+149
+00:05:25,550 --> 00:05:28,313
+the two cars were separated by two
+
+150
+00:05:28,313 --> 00:05:30,832
+horsepower and four pound-feet.
+
+151
+00:05:31,012 --> 00:05:32,916
+From two rival companies.
+
+152
+00:05:33,266 --> 00:05:35,785
+The Z R one also had family.
+
+153
+00:05:35,965 --> 00:05:38,204
+Wikipedia lists the Z oh six,
+
+154
+00:05:38,204 --> 00:05:40,365
+with a seven litre L S seven
+
+155
+00:05:40,365 --> 00:05:43,762
+V eight making five hundred five horsepower,
+
+156
+00:05:43,762 --> 00:05:46,387
+and a weight of three thousand one
+
+157
+00:05:46,387 --> 00:05:48,086
+hundred thirty pounds.
+
+158
+00:05:48,266 --> 00:05:49,606
+By our arithmetic,
+
+159
+00:05:49,606 --> 00:05:51,989
+the Z R one has about twenty-six
+
+160
+00:05:51,989 --> 00:05:54,373
+percent more power than the Z oh
+
+161
+00:05:54,373 --> 00:05:57,426
+six, and weighs about seven percent more.
+
+162
+00:05:57,606 --> 00:06:00,183
+The extra power came with extra weight.
+
+163
+00:06:00,534 --> 00:06:02,808
+The Z oh six reached sixty in
+
+164
+00:06:02,808 --> 00:06:04,690
+three point six seconds,
+
+165
+00:06:04,690 --> 00:06:07,357
+according to a Car and Driver test
+
+166
+00:06:07,357 --> 00:06:08,926
+quoted by Wikipedia,
+
+167
+00:06:08,926 --> 00:06:11,749
+and the quarter mile in eleven point
+
+168
+00:06:11,749 --> 00:06:14,338
+seven at one hundred twenty-five.
+
+169
+00:06:14,518 --> 00:06:16,646
+The Z R one's eleven point two
+
+170
+00:06:16,646 --> 00:06:19,130
+at one hundred thirty point five is
+
+171
+00:06:19,130 --> 00:06:21,400
+about half a second and five and
+
+172
+00:06:21,400 --> 00:06:23,457
+a half miles per hour better.
+
+173
+00:06:23,637 --> 00:06:25,476
+The step from Z oh six to
+
+174
+00:06:25,476 --> 00:06:26,726
+Z R one was real.
+
+175
+00:06:27,076 --> 00:06:27,993
+Weight next.
+
+176
+00:06:28,173 --> 00:06:30,502
+Wikipedia lists the Z R one at
+
+177
+00:06:30,502 --> 00:06:33,842
+three thousand, three hundred fifty pounds,
+
+178
+00:06:33,842 --> 00:06:37,414
+or one thousand five hundred twenty kilograms.
+
+179
+00:06:37,594 --> 00:06:39,811
+Vette Vues says three thousand,
+
+180
+00:06:39,811 --> 00:06:41,669
+three hundred twenty-four.
+
+181
+00:06:41,849 --> 00:06:44,720
+The two sources differ by twenty-six pounds,
+
+182
+00:06:44,720 --> 00:06:46,482
+which is under one percent.
+
+183
+00:06:46,662 --> 00:06:48,251
+For the Viper's A C R,
+
+184
+00:06:48,251 --> 00:06:50,853
+the best published weight is for the
+
+185
+00:06:50,853 --> 00:06:52,226
+track-only A C R-X,
+
+186
+00:06:52,226 --> 00:06:55,044
+at three thousand three hundred pounds.
+
+187
+00:06:55,395 --> 00:06:57,106
+By our own arithmetic,
+
+188
+00:06:57,106 --> 00:06:59,207
+the A C R-X is lighter than
+
+189
+00:06:59,207 --> 00:07:01,697
+the Z R one by somewhere between
+
+190
+00:07:01,697 --> 00:07:03,953
+twenty-four and fifty pounds,
+
+191
+00:07:03,953 --> 00:07:06,598
+depending on which source you use.
+
+192
+00:07:06,778 --> 00:07:08,659
+That is less than two percent.
+
+193
+00:07:08,839 --> 00:07:12,362
+A track-only Viper and a road-going Corvette,
+
+194
+00:07:12,362 --> 00:07:15,963
+with a supercharger and carbon-ceramic brakes,
+
+195
+00:07:15,963 --> 00:07:17,686
+weigh almost the same.
+
+196
+00:07:18,036 --> 00:07:19,568
+Now acceleration.
+
+197
+00:07:19,748 --> 00:07:21,936
+Motor Trend tested the Z R one
+
+198
+00:07:21,936 --> 00:07:24,125
+in October two thousand eight,
+
+199
+00:07:24,125 --> 00:07:26,678
+and recorded zero to sixty in three
+
+200
+00:07:26,678 --> 00:07:29,596
+point three seconds and the quarter mile
+
+201
+00:07:29,596 --> 00:07:32,076
+in eleven point two seconds at one
+
+202
+00:07:32,076 --> 00:07:35,067
+hundred thirty point five miles per hour,
+
+203
+00:07:35,067 --> 00:07:36,745
+according to Wikipedia.
+
+204
+00:07:36,925 --> 00:07:39,891
+GM itself claimed three point four,
+
+205
+00:07:39,891 --> 00:07:41,755
+according to Autoblog.
+
+206
+00:07:42,104 --> 00:07:44,632
+The Viper's best published figure is for
+
+207
+00:07:44,632 --> 00:07:45,959
+the fifth generation.
+
+208
+00:07:46,139 --> 00:07:49,493
+Wikipedia lists zero to sixty-two miles per
+
+209
+00:07:49,493 --> 00:07:52,067
+hour in three and a half seconds,
+
+210
+00:07:52,067 --> 00:07:54,407
+and a top speed of two hundred
+
+211
+00:07:54,407 --> 00:07:54,719
+six.
+
+212
+00:07:54,899 --> 00:07:57,302
+The Z R one's top speed was
+
+213
+00:07:57,302 --> 00:07:58,815
+two hundred five,
+
+214
+00:07:58,815 --> 00:08:00,239
+according to GM.
+
+215
+00:08:00,419 --> 00:08:03,148
+Autoblog and Wikipedia both quote it.
+
+216
+00:08:03,328 --> 00:08:04,562
+By our arithmetic,
+
+217
+00:08:04,562 --> 00:08:06,755
+the two cars are within one mile
+
+218
+00:08:06,755 --> 00:08:08,332
+per hour of each other.
+
+219
+00:08:08,681 --> 00:08:11,247
+The Viper A C R sacrificed some
+
+220
+00:08:11,247 --> 00:08:11,909
+of that.
+
+221
+00:08:12,089 --> 00:08:14,822
+Wikipedia says the last A C R's
+
+222
+00:08:14,822 --> 00:08:17,467
+top speed fell by up to twenty
+
+223
+00:08:17,467 --> 00:08:18,789
+miles per hour,
+
+224
+00:08:18,789 --> 00:08:20,553
+because of the aero.
+
+225
+00:08:20,733 --> 00:08:24,245
+In exchange, it produced fifteen hundred pounds
+
+226
+00:08:24,245 --> 00:08:26,038
+of downforce in corners,
+
+227
+00:08:26,038 --> 00:08:28,877
+and two thousand with the Extreme Aero
+
+228
+00:08:28,877 --> 00:08:29,475
+Package.
+
+229
+00:08:29,655 --> 00:08:32,689
+The Corvette has no published downforce figure
+
+230
+00:08:32,689 --> 00:08:34,206
+in the sources we read.
+
+231
+00:08:34,557 --> 00:08:35,740
+So on straights,
+
+232
+00:08:35,740 --> 00:08:37,588
+the Z R one is likely the
+
+233
+00:08:37,588 --> 00:08:40,473
+stronger, with more power at nearly the
+
+234
+00:08:40,473 --> 00:08:41,360
+same weight.
+
+235
+00:08:41,540 --> 00:08:43,436
+In corners, the A C R has
+
+236
+00:08:43,436 --> 00:08:47,229
+aerodynamics that the Corvette does not advertise.
+
+237
+00:08:47,409 --> 00:08:49,232
+That sets up the track result.
+
+238
+00:08:49,412 --> 00:08:51,731
+A car with less power but more
+
+239
+00:08:51,731 --> 00:08:53,818
+downforce could, in theory,
+
+240
+00:08:53,818 --> 00:08:55,751
+be quicker on a long lap.
+
+241
+00:08:56,100 --> 00:08:57,441
+Now the lap times,
+
+242
+00:08:57,441 --> 00:08:59,525
+with every warning attached.
+
+243
+00:08:59,705 --> 00:09:02,732
+Vette Vues says that in twenty eleven,
+
+244
+00:09:02,732 --> 00:09:05,599
+driver Jim Mero set a seven nineteen
+
+245
+00:09:05,599 --> 00:09:08,625
+point six three on the Nordschleife in
+
+246
+00:09:08,625 --> 00:09:11,891
+a completely stock factory production Z R
+
+247
+00:09:11,891 --> 00:09:12,209
+one.
+
+248
+00:09:12,389 --> 00:09:15,610
+That is the best published production Corvette
+
+249
+00:09:15,610 --> 00:09:17,010
+time in our sources.
+
+250
+00:09:17,360 --> 00:09:18,475
+For the Viper,
+
+251
+00:09:18,475 --> 00:09:21,660
+Wikipedia says that on the fourteenth of
+
+252
+00:09:21,660 --> 00:09:23,651
+September, twenty eleven,
+
+253
+00:09:23,651 --> 00:09:25,562
+a two thousand ten A C R
+
+254
+00:09:25,562 --> 00:09:28,269
+set a seven twelve point one three
+
+255
+00:09:28,269 --> 00:09:28,587
+lap.
+
+256
+00:09:28,767 --> 00:09:32,019
+The page calls it the sixth-fastest street-legal
+
+257
+00:09:32,019 --> 00:09:33,103
+lap of the time,
+
+258
+00:09:33,103 --> 00:09:35,609
+though three faster laps had been set
+
+259
+00:09:35,609 --> 00:09:36,151
+earlier.
+
+260
+00:09:36,331 --> 00:09:38,492
+It was a street-legal car on the
+
+261
+00:09:38,492 --> 00:09:40,383
+same track in the same year.
+
+262
+00:09:40,734 --> 00:09:42,524
+By our own arithmetic,
+
+263
+00:09:42,524 --> 00:09:45,941
+seven nineteen point six three minus seven
+
+264
+00:09:45,941 --> 00:09:48,789
+twelve point one three is seven and
+
+265
+00:09:48,789 --> 00:09:50,010
+a half seconds.
+
+266
+00:09:50,190 --> 00:09:52,570
+That is about one point seven percent
+
+267
+00:09:52,570 --> 00:09:53,278
+of the lap.
+
+268
+00:09:53,458 --> 00:09:55,335
+A gap of seven and a half
+
+269
+00:09:55,335 --> 00:09:57,512
+seconds on a lap of more than
+
+270
+00:09:57,512 --> 00:09:59,613
+seven minutes is meaningful,
+
+271
+00:09:59,613 --> 00:10:01,039
+but it is not huge.
+
+272
+00:10:01,390 --> 00:10:02,678
+But we must be careful.
+
+273
+00:10:02,858 --> 00:10:05,083
+These two laps were set by different
+
+274
+00:10:05,083 --> 00:10:08,481
+drivers, with different tyres and different conditions,
+
+275
+00:10:08,481 --> 00:10:10,335
+and the sources do not tell us
+
+276
+00:10:10,335 --> 00:10:12,497
+whether the lengths of the lap were
+
+277
+00:10:12,497 --> 00:10:13,795
+measured identically.
+
+278
+00:10:13,975 --> 00:10:16,935
+Nürburgring times are a notorious problem.
+
+279
+00:10:17,115 --> 00:10:18,499
+They are fun to compare,
+
+280
+00:10:18,499 --> 00:10:20,517
+and they are not a controlled test.
+
+281
+00:10:20,697 --> 00:10:21,720
+We report them,
+
+282
+00:10:21,720 --> 00:10:23,833
+and we do not claim they settle
+
+283
+00:10:23,833 --> 00:10:24,447
+anything.
+
+284
+00:10:24,798 --> 00:10:26,841
+The Viper went faster still.
+
+285
+00:10:27,021 --> 00:10:30,100
+Wikipedia says the track-only A C R-X
+
+286
+00:10:30,100 --> 00:10:32,763
+did seven oh three point oh five
+
+287
+00:10:32,763 --> 00:10:35,426
+eight in February twenty twelve.
+
+288
+00:10:35,606 --> 00:10:38,293
+And a fifth-generation A C R with
+
+289
+00:10:38,293 --> 00:10:41,713
+the Extreme Aero Package did an unofficial
+
+290
+00:10:41,713 --> 00:10:44,237
+seven oh one point six seven in
+
+291
+00:10:44,237 --> 00:10:46,109
+October twenty fifteen,
+
+292
+00:10:46,109 --> 00:10:48,470
+driven by Dominik Farnbacher.
+
+293
+00:10:48,650 --> 00:10:49,738
+The Z R one,
+
+294
+00:10:49,738 --> 00:10:53,545
+by comparison, was no longer in production
+
+295
+00:10:53,545 --> 00:10:54,270
+by then.
+
+296
+00:10:54,619 --> 00:10:56,053
+By our arithmetic,
+
+297
+00:10:56,053 --> 00:10:58,045
+the late A C R's seven oh
+
+298
+00:10:58,045 --> 00:11:00,992
+one point six seven is about eighteen
+
+299
+00:11:00,992 --> 00:11:03,621
+seconds faster than the Z R one's
+
+300
+00:11:03,621 --> 00:11:06,090
+seven nineteen point six three.
+
+301
+00:11:06,270 --> 00:11:07,814
+That is about four percent.
+
+302
+00:11:07,994 --> 00:11:09,824
+Again, it is a different car,
+
+303
+00:11:09,824 --> 00:11:12,348
+a different year and a different driver.
+
+304
+00:11:12,528 --> 00:11:15,050
+But the direction of the evidence is
+
+305
+00:11:15,050 --> 00:11:17,222
+consistent: the Viper A C R was
+
+306
+00:11:17,222 --> 00:11:18,623
+quicker on the Ring.
+
+307
+00:11:18,974 --> 00:11:20,132
+On another track,
+
+308
+00:11:20,132 --> 00:11:22,108
+the Viper has a clean record.
+
+309
+00:11:22,288 --> 00:11:25,731
+Wikipedia says Kuno Wittmer drove a street-legal
+
+310
+00:11:25,731 --> 00:11:27,524
+two thousand ten A C R to
+
+311
+00:11:27,524 --> 00:11:30,249
+one fifty-nine point nine nine five on
+
+312
+00:11:30,249 --> 00:11:32,903
+the three mile Outer Course at Miller
+
+313
+00:11:32,903 --> 00:11:36,346
+Motorsports Park, the first production car under
+
+314
+00:11:36,346 --> 00:11:37,637
+two minutes there.
+
+315
+00:11:37,817 --> 00:11:39,683
+We have no Corvette time for that
+
+316
+00:11:39,683 --> 00:11:40,870
+track in our sources.
+
+317
+00:11:41,219 --> 00:11:43,059
+The Z R one was also a
+
+318
+00:11:43,059 --> 00:11:45,736
+small part of a large programme.
+
+319
+00:11:45,916 --> 00:11:48,813
+Wikipedia says the whole C six generation
+
+320
+00:11:48,813 --> 00:11:51,215
+sold two hundred fifteen thousand,
+
+321
+00:11:51,215 --> 00:11:54,535
+two hundred twenty-three cars from two thousand
+
+322
+00:11:54,535 --> 00:11:56,655
+five to two thousand thirteen.
+
+323
+00:11:56,835 --> 00:11:58,167
+By our arithmetic,
+
+324
+00:11:58,167 --> 00:11:59,498
+the four thousand,
+
+325
+00:11:59,498 --> 00:12:02,235
+six hundred eighty-four Z R ones were
+
+326
+00:12:02,235 --> 00:12:04,602
+only about two percent of those.
+
+327
+00:12:04,782 --> 00:12:06,616
+It was a halo car on a
+
+328
+00:12:06,616 --> 00:12:07,534
+big family.
+
+329
+00:12:07,883 --> 00:12:11,145
+By contrast, every Viper was a halo
+
+330
+00:12:11,145 --> 00:12:11,517
+car.
+
+331
+00:12:11,697 --> 00:12:14,249
+The Drive calls it the Dodge halo
+
+332
+00:12:14,249 --> 00:12:16,260
+car for twenty-five years.
+
+333
+00:12:16,440 --> 00:12:19,442
+Wikipedia counts thirty-one thousand,
+
+334
+00:12:19,442 --> 00:12:23,662
+nine hundred eighty-nine cars over twenty-six years.
+
+335
+00:12:23,842 --> 00:12:26,120
+That is smaller than the C six's
+
+336
+00:12:26,120 --> 00:12:28,969
+two hundred fifteen thousand by a factor
+
+337
+00:12:28,969 --> 00:12:30,037
+of about seven,
+
+338
+00:12:30,037 --> 00:12:31,319
+by our arithmetic,
+
+339
+00:12:31,319 --> 00:12:34,239
+although the Corvette's run was only nine
+
+340
+00:12:34,239 --> 00:12:35,022
+years long.
+
+341
+00:12:35,371 --> 00:12:36,660
+Now the equipment.
+
+342
+00:12:36,840 --> 00:12:37,864
+The Z R one,
+
+343
+00:12:37,864 --> 00:12:41,362
+Wikipedia says, used carbon fibre for the
+
+344
+00:12:41,362 --> 00:12:43,068
+roof, hood, fenders,
+
+345
+00:12:43,068 --> 00:12:46,140
+front splitter and rocker mouldings.
+
+346
+00:12:46,320 --> 00:12:49,919
+It had carbon-ceramic brakes with blue calipers,
+
+347
+00:12:49,919 --> 00:12:52,618
+and Magnetic Selective Ride Control,
+
+348
+00:12:52,618 --> 00:12:55,692
+in which sensors adjust the dampers based
+
+349
+00:12:55,692 --> 00:12:57,117
+on road conditions.
+
+350
+00:12:57,297 --> 00:12:59,942
+A polycarbonate window in the hood shows
+
+351
+00:12:59,942 --> 00:13:01,001
+the intercooler.
+
+352
+00:13:01,350 --> 00:13:04,554
+Vette Vues lists Brembo carbon-ceramic rotors of
+
+353
+00:13:04,554 --> 00:13:06,690
+fifteen and a half inches at the
+
+354
+00:13:06,690 --> 00:13:08,692
+front and fifteen at the rear,
+
+355
+00:13:08,692 --> 00:13:11,629
+and tyres of two eighty-five thirty nineteen
+
+356
+00:13:11,629 --> 00:13:14,699
+at the front and three thirty-five twenty-five
+
+357
+00:13:14,699 --> 00:13:15,967
+twenty at the rear.
+
+358
+00:13:16,147 --> 00:13:19,093
+Wikipedia says they were the largest wheels
+
+359
+00:13:19,093 --> 00:13:21,627
+ever fitted to a production Corvette.
+
+360
+00:13:21,977 --> 00:13:24,067
+The Viper's approach was different.
+
+361
+00:13:24,247 --> 00:13:26,099
+In the fourth generation,
+
+362
+00:13:26,099 --> 00:13:29,062
+the sources we read describe no magnetic
+
+363
+00:13:29,062 --> 00:13:31,062
+dampers and no carbon body.
+
+364
+00:13:31,242 --> 00:13:33,332
+What it had was an engine,
+
+365
+00:13:33,332 --> 00:13:34,699
+a manual gearbox,
+
+366
+00:13:34,699 --> 00:13:35,422
+and aero.
+
+367
+00:13:35,602 --> 00:13:38,856
+Wikipedia says the fifth generation moved to
+
+368
+00:13:38,856 --> 00:13:41,371
+a carbon fibre and aluminium body,
+
+369
+00:13:41,371 --> 00:13:44,255
+and added electronic stability control,
+
+370
+00:13:44,255 --> 00:13:46,474
+traction control and A B S for
+
+371
+00:13:46,474 --> 00:13:47,583
+the first time.
+
+372
+00:13:47,933 --> 00:13:51,083
+So the Corvette was the more technological
+
+373
+00:13:51,083 --> 00:13:53,407
+car, in the sense of having its
+
+374
+00:13:53,407 --> 00:13:56,107
+electronic dampers and carbon parts.
+
+375
+00:13:56,287 --> 00:13:58,771
+The Viper was the more mechanical car.
+
+376
+00:13:58,951 --> 00:14:01,517
+That distinction is the real difference.
+
+377
+00:14:01,697 --> 00:14:03,050
+Both have manuals,
+
+378
+00:14:03,050 --> 00:14:04,402
+and both are fast.
+
+379
+00:14:04,582 --> 00:14:06,090
+One of them thinks for you,
+
+380
+00:14:06,090 --> 00:14:07,765
+and the other waits for you to
+
+381
+00:14:07,765 --> 00:14:08,100
+think.
+
+382
+00:14:08,450 --> 00:14:10,111
+Size matters too.
+
+383
+00:14:10,291 --> 00:14:12,927
+Wikipedia lists the Z R one at
+
+384
+00:14:12,927 --> 00:14:16,707
+seventy-five point nine inches wide and one
+
+385
+00:14:16,707 --> 00:14:19,871
+hundred seventy-five point six long,
+
+386
+00:14:19,871 --> 00:14:22,332
+shared with the Z oh six and
+
+387
+00:14:22,332 --> 00:14:23,387
+Grand Sport.
+
+388
+00:14:23,567 --> 00:14:25,929
+The Viper's measurements are not in our
+
+389
+00:14:25,929 --> 00:14:28,048
+sources, so we do not compare them.
+
+390
+00:14:28,398 --> 00:14:30,403
+The Z R one ended with a
+
+391
+00:14:30,403 --> 00:14:31,405
+celebration.
+
+392
+00:14:31,585 --> 00:14:34,594
+Vette Vues says the two thousand thirteen
+
+393
+00:14:34,594 --> 00:14:38,190
+sixtieth anniversary edition came in Arctic White
+
+394
+00:14:38,190 --> 00:14:40,831
+with Pearl Silver Blue stripes and a
+
+395
+00:14:40,831 --> 00:14:43,033
+Diamond Blue leather interior.
+
+396
+00:14:43,213 --> 00:14:45,183
+And the same year's Z R one
+
+397
+00:14:45,183 --> 00:14:48,321
+was the Indianapolis five hundred pace car.
+
+398
+00:14:48,501 --> 00:14:49,771
+The Viper, too,
+
+399
+00:14:49,771 --> 00:14:51,465
+had been a pace car,
+
+400
+00:14:51,465 --> 00:14:55,444
+in nineteen ninety-one and nineteen ninety-six.
+
+401
+00:14:55,793 --> 00:14:57,013
+Now the price.
+
+402
+00:14:57,193 --> 00:15:00,243
+Autoblog says the two thousand nine Corvette
+
+403
+00:15:00,243 --> 00:15:02,322
+Z R one started at one hundred
+
+404
+00:15:02,322 --> 00:15:05,788
+three thousand, three hundred dollars including an
+
+405
+00:15:05,788 --> 00:15:08,977
+eight hundred fifty dollar destination charge.
+
+406
+00:15:09,157 --> 00:15:11,721
+There was a one thousand seven hundred
+
+407
+00:15:11,721 --> 00:15:13,273
+dollar gas-guzzler tax,
+
+408
+00:15:13,273 --> 00:15:15,905
+a ten thousand dollar interior package,
+
+409
+00:15:15,905 --> 00:15:18,469
+and chrome wheels at two thousand were
+
+410
+00:15:18,469 --> 00:15:19,954
+the only other option.
+
+411
+00:15:20,303 --> 00:15:23,080
+The same article lists fuel economy:
+
+412
+00:15:23,080 --> 00:15:26,165
+fourteen city and twenty highway for the
+
+413
+00:15:26,165 --> 00:15:29,790
+Corvette, thirteen and twenty-two for the Dodge
+
+414
+00:15:29,790 --> 00:15:30,253
+Viper.
+
+415
+00:15:30,433 --> 00:15:32,511
+So the Viper used more fuel in
+
+416
+00:15:32,511 --> 00:15:34,520
+town and less on the highway.
+
+417
+00:15:34,700 --> 00:15:37,202
+Nobody bought either car to save fuel,
+
+418
+00:15:37,202 --> 00:15:38,914
+but the numbers are close.
+
+419
+00:15:39,264 --> 00:15:42,283
+Production numbers show a bigger difference.
+
+420
+00:15:42,463 --> 00:15:45,141
+Vette Vues lists Z R one production
+
+421
+00:15:45,141 --> 00:15:48,124
+of one thousand four hundred fifteen in
+
+422
+00:15:48,124 --> 00:15:49,501
+two thousand nine,
+
+423
+00:15:49,501 --> 00:15:53,250
+one thousand five hundred seventy-seven in twenty
+
+424
+00:15:53,250 --> 00:15:56,310
+ten, eight hundred six in twenty eleven,
+
+425
+00:15:56,310 --> 00:15:58,988
+four hundred four in twenty twelve,
+
+426
+00:15:58,988 --> 00:16:02,583
+and four hundred eighty-two in twenty thirteen.
+
+427
+00:16:02,763 --> 00:16:04,712
+A total of four thousand,
+
+428
+00:16:04,712 --> 00:16:06,583
+six hundred eighty-four.
+
+429
+00:16:06,932 --> 00:16:09,794
+Good Car Bad Car lists United States
+
+430
+00:16:09,794 --> 00:16:13,054
+Viper sales of four hundred eighty-two in
+
+431
+00:16:13,054 --> 00:16:14,485
+two thousand nine,
+
+432
+00:16:14,485 --> 00:16:17,585
+three hundred ninety-two in twenty ten,
+
+433
+00:16:17,585 --> 00:16:21,162
+one hundred ninety-seven in twenty eleven and
+
+434
+00:16:21,162 --> 00:16:23,070
+twenty in twenty twelve.
+
+435
+00:16:23,250 --> 00:16:24,596
+By our arithmetic,
+
+436
+00:16:24,596 --> 00:16:27,361
+over the four years from two thousand
+
+437
+00:16:27,361 --> 00:16:29,006
+nine to twenty twelve,
+
+438
+00:16:29,006 --> 00:16:32,295
+the Viper sold one thousand ninety-one cars.
+
+439
+00:16:32,475 --> 00:16:34,697
+The Corvette Z R one was built
+
+440
+00:16:34,697 --> 00:16:37,141
+in nearly four times that number,
+
+441
+00:16:37,141 --> 00:16:39,438
+four thousand, two hundred two,
+
+442
+00:16:39,438 --> 00:16:42,401
+from two thousand nine to twenty twelve.
+
+443
+00:16:42,750 --> 00:16:44,730
+Those are different measures,
+
+444
+00:16:44,730 --> 00:16:46,163
+production and sales,
+
+445
+00:16:46,163 --> 00:16:48,688
+and the years do not match perfectly,
+
+446
+00:16:48,688 --> 00:16:50,599
+so we keep the claim modest.
+
+447
+00:16:50,779 --> 00:16:52,195
+But the direction is clear.
+
+448
+00:16:52,375 --> 00:16:54,277
+The Z R one was the more
+
+449
+00:16:54,277 --> 00:16:57,051
+common car, and the Viper the rarer
+
+450
+00:16:57,051 --> 00:16:57,368
+one.
+
+451
+00:16:57,548 --> 00:16:59,716
+And the Z R one's own numbers
+
+452
+00:16:59,716 --> 00:17:00,987
+fell quickly too,
+
+453
+00:17:00,987 --> 00:17:04,501
+from one thousand five hundred seventy-seven in
+
+454
+00:17:04,501 --> 00:17:07,043
+twenty ten to four hundred four in
+
+455
+00:17:07,043 --> 00:17:08,089
+twenty twelve.
+
+456
+00:17:08,439 --> 00:17:09,484
+What about today?
+
+457
+00:17:09,664 --> 00:17:11,847
+Vette Vues links to a sale of
+
+458
+00:17:11,847 --> 00:17:14,181
+a two thousand thirteen Z R one
+
+459
+00:17:14,181 --> 00:17:17,569
+at one hundred thirty-two thousand dollars at
+
+460
+00:17:17,569 --> 00:17:18,999
+Mecum Indianapolis.
+
+461
+00:17:19,179 --> 00:17:20,350
+By our arithmetic,
+
+462
+00:17:20,350 --> 00:17:23,211
+that is about twenty-eight percent above the
+
+463
+00:17:23,211 --> 00:17:25,488
+two thousand nine base price of one
+
+464
+00:17:25,488 --> 00:17:27,895
+hundred three thousand three hundred,
+
+465
+00:17:27,895 --> 00:17:29,976
+for a car sold four years later.
+
+466
+00:17:30,326 --> 00:17:32,037
+The Viper A C R has done
+
+467
+00:17:32,037 --> 00:17:32,892
+much better.
+
+468
+00:17:33,072 --> 00:17:35,740
+Classic dot com lists eight sales of
+
+469
+00:17:35,740 --> 00:17:38,630
+fifth-generation A C Rs between May and
+
+470
+00:17:38,630 --> 00:17:40,704
+November twenty twenty-five,
+
+471
+00:17:40,704 --> 00:17:44,335
+from one hundred eighty-seven thousand dollars to
+
+472
+00:17:44,335 --> 00:17:47,225
+four hundred six thousand five hundred.
+
+473
+00:17:47,405 --> 00:17:48,567
+By our arithmetic,
+
+474
+00:17:48,567 --> 00:17:51,730
+the average is two hundred ninety-three thousand,
+
+475
+00:17:51,730 --> 00:17:53,279
+eight hundred forty-six.
+
+476
+00:17:53,629 --> 00:17:55,204
+So by our arithmetic,
+
+477
+00:17:55,204 --> 00:17:57,079
+the average A C R in that
+
+478
+00:17:57,079 --> 00:17:59,554
+list sold for about two point two
+
+479
+00:17:59,554 --> 00:18:01,954
+times the Z R one's Mecum price.
+
+480
+00:18:02,134 --> 00:18:04,894
+These are very different samples,
+
+481
+00:18:04,894 --> 00:18:06,985
+the Viper A C R being the
+
+482
+00:18:06,985 --> 00:18:08,825
+rarest and last Viper,
+
+483
+00:18:08,825 --> 00:18:10,330
+with extreme aero.
+
+484
+00:18:10,510 --> 00:18:12,620
+But it shows where the market has
+
+485
+00:18:12,620 --> 00:18:13,898
+placed the two cars,
+
+486
+00:18:13,898 --> 00:18:15,816
+and the Viper has moved ahead.
+
+487
+00:18:16,166 --> 00:18:19,180
+Collectors have also paid for the Corvette's
+
+488
+00:18:19,180 --> 00:18:19,591
+story.
+
+489
+00:18:19,771 --> 00:18:22,956
+Vette Vues says the first two thousand
+
+490
+00:18:22,956 --> 00:18:24,381
+thirteen Z R one,
+
+491
+00:18:24,381 --> 00:18:26,225
+V I N zero zero one in
+
+492
+00:18:26,225 --> 00:18:27,902
+Cyber Gray Metallic,
+
+493
+00:18:27,902 --> 00:18:29,326
+went to Jay Leno.
+
+494
+00:18:29,506 --> 00:18:31,790
+And the two thousand thirteen Z R
+
+495
+00:18:31,790 --> 00:18:33,727
+one was the pace car for the
+
+496
+00:18:33,727 --> 00:18:36,426
+ninety-sixth Indianapolis five hundred.
+
+497
+00:18:36,606 --> 00:18:39,243
+A car with a documented history can
+
+498
+00:18:39,243 --> 00:18:40,298
+be worth more.
+
+499
+00:18:40,647 --> 00:18:42,238
+So who wins?
+
+500
+00:18:42,418 --> 00:18:43,866
+On engine power,
+
+501
+00:18:43,866 --> 00:18:45,766
+the Corvette Z R one,
+
+502
+00:18:45,766 --> 00:18:47,666
+by about six percent.
+
+503
+00:18:47,846 --> 00:18:50,267
+On engine efficiency per litre,
+
+504
+00:18:50,267 --> 00:18:51,282
+the Corvette.
+
+505
+00:18:51,462 --> 00:18:52,937
+On weight, a tie.
+
+506
+00:18:53,117 --> 00:18:54,934
+On straight-line speed,
+
+507
+00:18:54,934 --> 00:18:56,356
+effectively a tie.
+
+508
+00:18:56,536 --> 00:18:58,112
+On the Nürburgring,
+
+509
+00:18:58,112 --> 00:18:59,439
+the Viper A C R,
+
+510
+00:18:59,439 --> 00:19:01,762
+by seven and a half seconds,
+
+511
+00:19:01,762 --> 00:19:02,840
+with caveats.
+
+512
+00:19:03,020 --> 00:19:05,087
+On downforce, the Viper.
+
+513
+00:19:05,267 --> 00:19:07,809
+On technology, the Corvette.
+
+514
+00:19:07,989 --> 00:19:09,362
+On price today,
+
+515
+00:19:09,362 --> 00:19:10,276
+the Viper.
+
+516
+00:19:10,626 --> 00:19:12,844
+The real difference is philosophy.
+
+517
+00:19:13,024 --> 00:19:15,560
+The Corvette used a supercharger,
+
+518
+00:19:15,560 --> 00:19:18,864
+carbon parts and adjustable dampers to make
+
+519
+00:19:18,864 --> 00:19:21,476
+a smaller engine and a clever car.
+
+520
+00:19:21,656 --> 00:19:24,207
+The Viper used a huge engine and
+
+521
+00:19:24,207 --> 00:19:25,243
+aerodynamics.
+
+522
+00:19:25,423 --> 00:19:27,388
+One was made by a big company
+
+523
+00:19:27,388 --> 00:19:29,557
+with a famous engineering group.
+
+524
+00:19:29,737 --> 00:19:32,019
+The other was made by about eighty
+
+525
+00:19:32,019 --> 00:19:34,369
+people in a small plant in Detroit.
+
+526
+00:19:34,719 --> 00:19:36,298
+One final caution.
+
+527
+00:19:36,478 --> 00:19:39,364
+Every comparison here uses published figures from
+
+528
+00:19:39,364 --> 00:19:41,543
+different years, and some of them are
+
+529
+00:19:41,543 --> 00:19:42,191
+unofficial.
+
+530
+00:19:42,371 --> 00:19:44,288
+We have not driven either car,
+
+531
+00:19:44,288 --> 00:19:46,142
+and we do not claim a verdict
+
+532
+00:19:46,142 --> 00:19:47,932
+on which is better to drive.
+
+533
+00:19:48,112 --> 00:19:50,376
+We claim only what the numbers show.
+
+534
+00:19:50,556 --> 00:19:52,010
+And on the numbers,
+
+535
+00:19:52,010 --> 00:19:54,308
+the Viper A C R lapped faster,
+
+536
+00:19:54,308 --> 00:19:56,298
+while the Z R one was more
+
+537
+00:19:56,298 --> 00:19:56,988
+powerful.
+
+538
+00:19:57,337 --> 00:19:59,077
+Which would you choose,
+
+539
+00:19:59,077 --> 00:20:00,742
+the Viper A C R or the
+
+540
+00:20:00,742 --> 00:20:02,028
+Corvette Z R one?
+
+541
+00:20:02,208 --> 00:20:03,682
+Tell us in the comments.
+
+542
+00:20:03,862 --> 00:20:06,232
+In the other videos of this series,
+
+543
+00:20:06,232 --> 00:20:08,399
+we reveal two things you did not
+
+544
+00:20:08,399 --> 00:20:09,821
+know about the Viper,
+
+545
+00:20:09,821 --> 00:20:11,988
+work out what it really costs to
+
+546
+00:20:11,988 --> 00:20:12,936
+own one today,
+
+547
+00:20:12,936 --> 00:20:15,171
+and tell why the Viper was killed
+
+548
+00:20:15,171 --> 00:20:15,577
+twice.
+
+549
+00:20:15,926 --> 00:20:17,672
+And if you want to spend your
+
+550
+00:20:17,672 --> 00:20:20,139
+money on something you can actually drive
+
+551
+00:20:20,139 --> 00:20:23,027
+every day, our twenty twenty-seven Truck Buyer's
+
+552
+00:20:23,027 --> 00:20:25,133
+Guide is linked in the description.
+
+553
+00:20:25,313 --> 00:20:29,041
+Subscribe to Pickup Reality for more comparisons
+
+554
+00:20:29,041 --> 00:20:32,226
+between the cars and trucks people really
+
+555
+00:20:32,226 --> 00:20:33,080
+talk about.
