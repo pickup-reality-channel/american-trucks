@@ -1,0 +1,2231 @@
+1
+00:00:00,000 --> 00:00:02,436
+A Rimac Nevera went up for auction
+
+2
+00:00:02,436 --> 00:00:05,017
+in the spring of twenty twenty-five,
+
+3
+00:00:05,017 --> 00:00:07,955
+with only about thirteen hundred miles on
+
+4
+00:00:07,955 --> 00:00:08,672
+the clock.
+
+5
+00:00:08,852 --> 00:00:11,253
+Its window sticker said two million,
+
+6
+00:00:11,253 --> 00:00:13,786
+three hundred eleven thousand dollars.
+
+7
+00:00:13,966 --> 00:00:16,336
+The highest bid was one million,
+
+8
+00:00:16,336 --> 00:00:18,483
+two hundred seventy thousand.
+
+9
+00:00:18,663 --> 00:00:20,207
+And the car did not sell.
+
+10
+00:00:20,387 --> 00:00:23,123
+This is what an electric hypercar really
+
+11
+00:00:23,123 --> 00:00:23,533
+costs.
+
+12
+00:00:23,883 --> 00:00:25,300
+Here is the twist.
+
+13
+00:00:25,480 --> 00:00:28,320
+The electricity for all of those miles
+
+14
+00:00:28,320 --> 00:00:30,413
+cost, by our own arithmetic,
+
+15
+00:00:30,413 --> 00:00:32,655
+less than one hundred dollars.
+
+16
+00:00:32,835 --> 00:00:34,985
+The part that cost a fortune was
+
+17
+00:00:34,985 --> 00:00:35,993
+not the energy.
+
+18
+00:00:36,173 --> 00:00:37,898
+It was owning a car that the
+
+19
+00:00:37,898 --> 00:00:40,117
+market valued at roughly half of its
+
+20
+00:00:40,117 --> 00:00:40,979
+sticker price.
+
+21
+00:00:41,329 --> 00:00:43,917
+Every figure in this video comes from
+
+22
+00:00:43,917 --> 00:00:47,065
+published sources, listed in the description.
+
+23
+00:00:47,245 --> 00:00:48,938
+Where sources disagree,
+
+24
+00:00:48,938 --> 00:00:50,043
+we will say so.
+
+25
+00:00:50,223 --> 00:00:52,340
+Where we do the maths ourselves,
+
+26
+00:00:52,340 --> 00:00:53,729
+we will say that too.
+
+27
+00:00:53,909 --> 00:00:56,690
+And where nobody has published a number,
+
+28
+00:00:56,690 --> 00:00:57,872
+we will tell you,
+
+29
+00:00:57,872 --> 00:00:59,749
+and we will not invent one.
+
+30
+00:01:00,098 --> 00:01:02,328
+Start with the price on paper.
+
+31
+00:01:02,508 --> 00:01:05,514
+Wikipedia says Rimac plans to build one
+
+32
+00:01:05,514 --> 00:01:07,210
+hundred fifty Neveras.
+
+33
+00:01:07,390 --> 00:01:09,821
+CNBC puts the price at about two
+
+34
+00:01:09,821 --> 00:01:12,784
+million euros, or two point one million
+
+35
+00:01:12,784 --> 00:01:13,392
+dollars.
+
+36
+00:01:13,572 --> 00:01:16,960
+Top Gear gave one point seven million
+
+37
+00:01:16,960 --> 00:01:17,601
+pounds.
+
+38
+00:01:17,781 --> 00:01:19,278
+Those are early figures,
+
+39
+00:01:19,278 --> 00:01:20,277
+and they differ.
+
+40
+00:01:20,626 --> 00:01:22,792
+The car at the centre of this
+
+41
+00:01:22,792 --> 00:01:25,108
+story gives us a real document.
+
+42
+00:01:25,288 --> 00:01:28,690
+Autoblog reports that its window sticker shows
+
+43
+00:01:28,690 --> 00:01:31,131
+one hundred forty-seven thousand,
+
+44
+00:01:31,131 --> 00:01:34,238
+one hundred forty-five dollars in options,
+
+45
+00:01:34,238 --> 00:01:36,530
+and a total retail price of two
+
+46
+00:01:36,530 --> 00:01:39,415
+million, three hundred eleven thousand,
+
+47
+00:01:39,415 --> 00:01:40,451
+fifty dollars.
+
+48
+00:01:40,631 --> 00:01:42,558
+That is a United States price,
+
+49
+00:01:42,558 --> 00:01:44,485
+for a twenty twenty-three car.
+
+50
+00:01:44,835 --> 00:01:46,744
+Subtract the options and,
+
+51
+00:01:46,744 --> 00:01:48,424
+by our own arithmetic,
+
+52
+00:01:48,424 --> 00:01:51,325
+the car without them cost two million,
+
+53
+00:01:51,325 --> 00:01:53,845
+one hundred sixty-three thousand,
+
+54
+00:01:53,845 --> 00:01:55,830
+nine hundred five dollars.
+
+55
+00:01:56,010 --> 00:01:58,765
+So the options alone were about six
+
+56
+00:01:58,765 --> 00:02:01,757
+point four percent of the final price.
+
+57
+00:02:01,937 --> 00:02:03,164
+In a normal car,
+
+58
+00:02:03,164 --> 00:02:05,234
+that would be a big number.
+
+59
+00:02:05,414 --> 00:02:07,098
+Here, it is a small one.
+
+60
+00:02:07,447 --> 00:02:09,468
+Two options stand out.
+
+61
+00:02:09,648 --> 00:02:13,079
+Autoblog says the pearlescent Nevera Blue paint
+
+62
+00:02:13,079 --> 00:02:14,904
+cost twenty-one thousand,
+
+63
+00:02:14,904 --> 00:02:17,240
+six hundred thirty-nine dollars.
+
+64
+00:02:17,420 --> 00:02:20,804
+The Carbon Level Two package cost eighty-six
+
+65
+00:02:20,804 --> 00:02:23,342
+thousand, five hundred fifty-six.
+
+66
+00:02:23,522 --> 00:02:25,558
+Together, by our arithmetic,
+
+67
+00:02:25,558 --> 00:02:28,684
+they make about seventy-four percent of all
+
+68
+00:02:28,684 --> 00:02:30,430
+the options on this car.
+
+69
+00:02:30,779 --> 00:02:34,202
+Motor1 and autoevolution give the same options
+
+70
+00:02:34,202 --> 00:02:36,880
+in euros, at twenty thousand for the
+
+71
+00:02:36,880 --> 00:02:39,855
+paint and eighty thousand for the carbon
+
+72
+00:02:39,855 --> 00:02:40,451
+package.
+
+73
+00:02:40,631 --> 00:02:43,354
+And both quote an original sticker of
+
+74
+00:02:43,354 --> 00:02:47,109
+two million, one hundred thirty-six thousand euros.
+
+75
+00:02:47,289 --> 00:02:50,555
+Autoevolution converts that to roughly two million,
+
+76
+00:02:50,555 --> 00:02:53,373
+three hundred twenty-eight thousand dollars.
+
+77
+00:02:53,722 --> 00:02:56,021
+So even the sticker has a footnote.
+
+78
+00:02:56,201 --> 00:02:57,987
+Depending on the source,
+
+79
+00:02:57,987 --> 00:02:59,846
+and on the exchange rate,
+
+80
+00:02:59,846 --> 00:03:02,078
+the same car was priced at two
+
+81
+00:03:02,078 --> 00:03:04,161
+point three million dollars,
+
+82
+00:03:04,161 --> 00:03:06,615
+or two point three three million.
+
+83
+00:03:06,795 --> 00:03:09,258
+We use the Autoblog figure of two
+
+84
+00:03:09,258 --> 00:03:12,169
+million, three hundred eleven thousand,
+
+85
+00:03:12,169 --> 00:03:15,155
+because it comes from the window sticker
+
+86
+00:03:15,155 --> 00:03:15,677
+itself.
+
+87
+00:03:16,026 --> 00:03:17,582
+And there is a newer car.
+
+88
+00:03:17,762 --> 00:03:20,630
+TechCrunch's headline on the Nevera R,
+
+89
+00:03:20,630 --> 00:03:23,271
+shown in August twenty twenty-four,
+
+90
+00:03:23,271 --> 00:03:25,686
+says it only starts at two point
+
+91
+00:03:25,686 --> 00:03:27,271
+five million dollars.
+
+92
+00:03:27,451 --> 00:03:30,116
+So buying the latest Nevera costs more
+
+93
+00:03:30,116 --> 00:03:32,571
+than the sticker we are discussing.
+
+94
+00:03:32,920 --> 00:03:34,766
+Two more sticker numbers help.
+
+95
+00:03:34,946 --> 00:03:36,413
+The remaining options,
+
+96
+00:03:36,413 --> 00:03:37,946
+after paint and carbon,
+
+97
+00:03:37,946 --> 00:03:40,213
+total about thirty-eight thousand,
+
+98
+00:03:40,213 --> 00:03:42,013
+nine hundred fifty dollars,
+
+99
+00:03:42,013 --> 00:03:43,213
+by our arithmetic.
+
+100
+00:03:43,393 --> 00:03:45,072
+We do not know what they were,
+
+101
+00:03:45,072 --> 00:03:47,143
+because the sources do not list them.
+
+102
+00:03:47,323 --> 00:03:49,728
+And the carbon package alone was about
+
+103
+00:03:49,728 --> 00:03:52,134
+three point seven percent of the whole
+
+104
+00:03:52,134 --> 00:03:52,640
+sticker.
+
+105
+00:03:52,990 --> 00:03:54,848
+Divide the sticker by the power,
+
+106
+00:03:54,848 --> 00:03:56,299
+and you get another view.
+
+107
+00:03:56,479 --> 00:03:59,629
+Using Autoblog's figure of one thousand eight
+
+108
+00:03:59,629 --> 00:04:01,589
+hundred thirteen horsepower,
+
+109
+00:04:01,589 --> 00:04:03,969
+the sticker works out at about one
+
+110
+00:04:03,969 --> 00:04:07,610
+thousand, two hundred seventy-five dollars for every
+
+111
+00:04:07,610 --> 00:04:08,380
+horsepower.
+
+112
+00:04:08,560 --> 00:04:12,318
+With Wikipedia's one thousand eight hundred eighty-eight,
+
+113
+00:04:12,318 --> 00:04:13,966
+it is about one thousand,
+
+114
+00:04:13,966 --> 00:04:15,549
+two hundred twenty-four.
+
+115
+00:04:15,729 --> 00:04:17,691
+Both are our own arithmetic.
+
+116
+00:04:18,040 --> 00:04:20,072
+Compare that with the newer car.
+
+117
+00:04:20,252 --> 00:04:21,534
+By our arithmetic,
+
+118
+00:04:21,534 --> 00:04:22,459
+the Nevera R,
+
+119
+00:04:22,459 --> 00:04:25,022
+from two point five million dollars,
+
+120
+00:04:25,022 --> 00:04:28,724
+costs about one hundred eighty-nine thousand dollars
+
+121
+00:04:28,724 --> 00:04:30,361
+more than this sticker,
+
+122
+00:04:30,361 --> 00:04:32,141
+or roughly eight percent.
+
+123
+00:04:32,321 --> 00:04:34,852
+In return, Wikipedia says it has two
+
+124
+00:04:34,852 --> 00:04:38,016
+thousand one hundred seven metric horsepower,
+
+125
+00:04:38,016 --> 00:04:40,828
+about ten percent more than the standard
+
+126
+00:04:40,828 --> 00:04:41,110
+car.
+
+127
+00:04:41,460 --> 00:04:42,551
+Now meet the car.
+
+128
+00:04:42,731 --> 00:04:44,823
+Autoblog says it is number six of
+
+129
+00:04:44,823 --> 00:04:46,725
+the one hundred fifty planned.
+
+130
+00:04:46,905 --> 00:04:49,685
+It was ordered by the Ohio-based Triple
+
+131
+00:04:49,685 --> 00:04:52,680
+F Collection, and delivered in June twenty
+
+132
+00:04:52,680 --> 00:04:55,746
+twenty-three, in the presence of Mate Rimac
+
+133
+00:04:55,746 --> 00:04:58,526
+himself, at Rimac of Naples in Florida.
+
+134
+00:04:58,877 --> 00:05:02,275
+It has four permanent-magnet electric motors,
+
+135
+00:05:02,275 --> 00:05:04,163
+a carbon fibre monocoque,
+
+136
+00:05:04,163 --> 00:05:07,712
+and a one hundred twenty kilowatt-hour battery.
+
+137
+00:05:07,892 --> 00:05:11,444
+Autoblog quotes one thousand eight hundred thirteen
+
+138
+00:05:11,444 --> 00:05:12,211
+horsepower.
+
+139
+00:05:12,391 --> 00:05:16,117
+It rides on staggered twenty-inch polished wheels,
+
+140
+00:05:16,117 --> 00:05:19,694
+and autoevolution says they carry Michelin Pilot
+
+141
+00:05:19,694 --> 00:05:21,110
+Sport four S tyres.
+
+142
+00:05:21,460 --> 00:05:24,190
+Motor1 adds something that is easy to
+
+143
+00:05:24,190 --> 00:05:24,559
+miss.
+
+144
+00:05:24,739 --> 00:05:26,518
+It says that when the car is
+
+145
+00:05:26,518 --> 00:05:29,122
+new, Rimac offers a private driving coach
+
+146
+00:05:29,122 --> 00:05:30,266
+with the purchase.
+
+147
+00:05:30,446 --> 00:05:32,528
+That is part of what the first
+
+148
+00:05:32,528 --> 00:05:34,195
+buyer got for the money,
+
+149
+00:05:34,195 --> 00:05:36,139
+along with a charging cable,
+
+150
+00:05:36,139 --> 00:05:38,360
+two key fobs in a numbered case,
+
+151
+00:05:38,360 --> 00:05:39,193
+and a cover,
+
+152
+00:05:39,193 --> 00:05:40,721
+according to Autoblog.
+
+153
+00:05:41,071 --> 00:05:42,976
+There was even a detail about the
+
+154
+00:05:42,976 --> 00:05:43,323
+title.
+
+155
+00:05:43,503 --> 00:05:45,757
+Autoblog says it was clean,
+
+156
+00:05:45,757 --> 00:05:47,845
+and Carfax was clean too.
+
+157
+00:05:48,025 --> 00:05:50,434
+In a market where a single scratch
+
+158
+00:05:50,434 --> 00:05:51,781
+can change a price,
+
+159
+00:05:51,781 --> 00:05:53,482
+a clean history matters.
+
+160
+00:05:53,662 --> 00:05:55,403
+This was, in other words,
+
+161
+00:05:55,403 --> 00:05:57,772
+about the best used Nevera a buyer
+
+162
+00:05:57,772 --> 00:05:58,747
+could ask for.
+
+163
+00:05:59,097 --> 00:05:59,932
+And the odometer?
+
+164
+00:06:00,112 --> 00:06:04,861
+Autoblog, Carscoops and autoevolution say one thousand,
+
+165
+00:06:04,861 --> 00:06:07,624
+three hundred seventy-one miles.
+
+166
+00:06:07,804 --> 00:06:09,717
+Motor1 says one thousand,
+
+167
+00:06:09,717 --> 00:06:11,554
+three hundred forty-one.
+
+168
+00:06:11,734 --> 00:06:14,776
+That is a thirty-mile difference between sources.
+
+169
+00:06:14,956 --> 00:06:17,008
+We use the figure that most of
+
+170
+00:06:17,008 --> 00:06:17,966
+them agree on,
+
+171
+00:06:17,966 --> 00:06:20,703
+one thousand, three hundred seventy-one.
+
+172
+00:06:21,053 --> 00:06:23,131
+Do the arithmetic on that.
+
+173
+00:06:23,311 --> 00:06:26,422
+From June twenty twenty-three to the auction
+
+174
+00:06:26,422 --> 00:06:29,886
+in April twenty twenty-five is roughly twenty-two
+
+175
+00:06:29,886 --> 00:06:30,381
+months.
+
+176
+00:06:30,561 --> 00:06:34,288
+One thousand, three hundred seventy-one miles over
+
+177
+00:06:34,288 --> 00:06:37,568
+twenty-two months is about sixty-two miles a
+
+178
+00:06:37,568 --> 00:06:38,015
+month.
+
+179
+00:06:38,195 --> 00:06:40,751
+That is a hypercar that mostly sat
+
+180
+00:06:40,751 --> 00:06:41,202
+still.
+
+181
+00:06:41,552 --> 00:06:43,723
+Production adds context.
+
+182
+00:06:43,903 --> 00:06:46,210
+Wikipedia says the first car went to
+
+183
+00:06:46,210 --> 00:06:48,838
+Nico Rosberg in August twenty twenty-two,
+
+184
+00:06:48,838 --> 00:06:50,953
+and that more than fifty had been
+
+185
+00:06:50,953 --> 00:06:53,260
+delivered by May twenty twenty-four.
+
+186
+00:06:53,440 --> 00:06:54,672
+By our arithmetic,
+
+187
+00:06:54,672 --> 00:06:56,588
+that is about a third of the
+
+188
+00:06:56,588 --> 00:06:58,368
+planned one hundred fifty,
+
+189
+00:06:58,368 --> 00:07:00,421
+so most of the cars were still
+
+190
+00:07:00,421 --> 00:07:01,242
+to be built.
+
+191
+00:07:01,593 --> 00:07:03,485
+And that is why this auction mattered.
+
+192
+00:07:03,665 --> 00:07:04,946
+For a car this new,
+
+193
+00:07:04,946 --> 00:07:07,375
+there were almost no public sales to
+
+194
+00:07:07,375 --> 00:07:07,914
+compare.
+
+195
+00:07:08,094 --> 00:07:10,576
+Each result was watched by owners,
+
+196
+00:07:10,576 --> 00:07:11,963
+dealers and rivals,
+
+197
+00:07:11,963 --> 00:07:14,300
+because it told them what a used
+
+198
+00:07:14,300 --> 00:07:16,709
+electric hypercar might be worth.
+
+199
+00:07:16,889 --> 00:07:18,313
+One car, in effect,
+
+200
+00:07:18,313 --> 00:07:20,488
+was speaking for all of them.
+
+201
+00:07:20,838 --> 00:07:22,894
+The car was listed on Bring a
+
+202
+00:07:22,894 --> 00:07:23,461
+Trailer.
+
+203
+00:07:23,641 --> 00:07:27,030
+Autoblog, on the twenty-eighth of March twenty
+
+204
+00:07:27,030 --> 00:07:30,345
+twenty-five, reported the bid at one million,
+
+205
+00:07:30,345 --> 00:07:33,881
+fifty-one thousand dollars with seven days left.
+
+206
+00:07:34,061 --> 00:07:35,780
+By the first of April,
+
+207
+00:07:35,780 --> 00:07:38,202
+Carscoops reported one million,
+
+208
+00:07:38,202 --> 00:07:40,702
+one hundred fifty-five thousand.
+
+209
+00:07:41,053 --> 00:07:44,192
+Carscoops noted that the original window sticker
+
+210
+00:07:44,192 --> 00:07:47,136
+said roughly two point three million dollars.
+
+211
+00:07:47,316 --> 00:07:48,867
+By our own arithmetic,
+
+212
+00:07:48,867 --> 00:07:50,348
+a bid of one million,
+
+213
+00:07:50,348 --> 00:07:53,520
+one hundred fifty-five thousand is just under
+
+214
+00:07:53,520 --> 00:07:55,847
+fifty percent of the two million,
+
+215
+00:07:55,847 --> 00:07:59,019
+three hundred eleven thousand on the sticker.
+
+216
+00:07:59,369 --> 00:08:01,098
+Then the auction ended.
+
+217
+00:08:01,278 --> 00:08:04,220
+Autoevolution reported on the eighth of April
+
+218
+00:08:04,220 --> 00:08:06,050
+that the car failed to sell.
+
+219
+00:08:06,230 --> 00:08:08,628
+The highest bid reached one million,
+
+220
+00:08:08,628 --> 00:08:11,093
+two hundred seventy thousand dollars,
+
+221
+00:08:11,093 --> 00:08:12,825
+and the car stayed unsold.
+
+222
+00:08:13,005 --> 00:08:16,893
+Autoevolution put the blame on market conditions
+
+223
+00:08:16,893 --> 00:08:19,971
+and the depreciation of electric cars.
+
+224
+00:08:20,321 --> 00:08:21,934
+Now we have to be careful.
+
+225
+00:08:22,114 --> 00:08:24,027
+A highest bid on a car that
+
+226
+00:08:24,027 --> 00:08:25,869
+did not sell is not a sale
+
+227
+00:08:25,869 --> 00:08:26,294
+price.
+
+228
+00:08:26,474 --> 00:08:27,961
+We do not know if the owner
+
+229
+00:08:27,961 --> 00:08:29,504
+would have taken that money,
+
+230
+00:08:29,504 --> 00:08:31,267
+and we do not know what happened
+
+231
+00:08:31,267 --> 00:08:31,873
+afterwards.
+
+232
+00:08:32,053 --> 00:08:34,750
+Carscoops even said it might sell off
+
+233
+00:08:34,750 --> 00:08:37,666
+the platform if both parties could agree
+
+234
+00:08:37,666 --> 00:08:38,322
+a number.
+
+235
+00:08:38,672 --> 00:08:40,889
+But the bid is still information.
+
+236
+00:08:41,069 --> 00:08:42,652
+By our own arithmetic,
+
+237
+00:08:42,652 --> 00:08:45,819
+one million, two hundred seventy thousand is
+
+238
+00:08:45,819 --> 00:08:48,697
+about fifty-five percent of two million,
+
+239
+00:08:48,697 --> 00:08:50,856
+three hundred eleven thousand.
+
+240
+00:08:51,036 --> 00:08:53,240
+The difference is one million,
+
+241
+00:08:53,240 --> 00:08:55,959
+forty-one thousand and fifty dollars.
+
+242
+00:08:56,139 --> 00:08:58,261
+Even if you ignore every option,
+
+243
+00:08:58,261 --> 00:08:59,853
+it is a gap of more than
+
+244
+00:08:59,853 --> 00:09:00,516
+a million.
+
+245
+00:09:00,866 --> 00:09:02,712
+Spread that gap over time,
+
+246
+00:09:02,712 --> 00:09:04,558
+and the numbers are stark.
+
+247
+00:09:04,738 --> 00:09:07,774
+Twenty-two months is about six hundred seventy
+
+248
+00:09:07,774 --> 00:09:08,104
+days.
+
+249
+00:09:08,284 --> 00:09:11,790
+One million, forty-one thousand dollars divided by
+
+250
+00:09:11,790 --> 00:09:14,875
+six hundred seventy is roughly one thousand,
+
+251
+00:09:14,875 --> 00:09:17,329
+five hundred fifty dollars per day.
+
+252
+00:09:17,509 --> 00:09:19,598
+We stress that this is our own
+
+253
+00:09:19,598 --> 00:09:22,245
+arithmetic, and the car was never sold
+
+254
+00:09:22,245 --> 00:09:23,221
+at that price.
+
+255
+00:09:23,571 --> 00:09:25,461
+Divide it by miles instead,
+
+256
+00:09:25,461 --> 00:09:28,053
+and you get about seven hundred sixty
+
+257
+00:09:28,053 --> 00:09:30,153
+dollars for every mile driven.
+
+258
+00:09:30,333 --> 00:09:32,528
+Again, it is an illustration.
+
+259
+00:09:32,708 --> 00:09:34,841
+The point is not that any owner
+
+260
+00:09:34,841 --> 00:09:35,529
+paid this.
+
+261
+00:09:35,709 --> 00:09:37,968
+The point is that the gap between
+
+262
+00:09:37,968 --> 00:09:40,638
+sticker and bid dwarfs every other cost
+
+263
+00:09:40,638 --> 00:09:41,665
+we can measure.
+
+264
+00:09:42,015 --> 00:09:44,394
+Now the cost people expect to be
+
+265
+00:09:44,394 --> 00:09:44,766
+high.
+
+266
+00:09:44,946 --> 00:09:46,862
+How much does it cost to charge?
+
+267
+00:09:47,042 --> 00:09:50,265
+Wikipedia gives the battery as one hundred
+
+268
+00:09:50,265 --> 00:09:51,953
+twenty kilowatt-hours.
+
+269
+00:09:52,133 --> 00:09:55,045
+The American average residential price,
+
+270
+00:09:55,045 --> 00:09:59,152
+from the Energy Information Administration and reported
+
+271
+00:09:59,152 --> 00:10:01,691
+by This Old House for March twenty
+
+272
+00:10:01,691 --> 00:10:04,976
+twenty-five, is seventeen point oh one cents
+
+273
+00:10:04,976 --> 00:10:06,320
+per kilowatt-hour.
+
+274
+00:10:06,671 --> 00:10:08,229
+By our own arithmetic,
+
+275
+00:10:08,229 --> 00:10:10,992
+filling the whole battery at that price
+
+276
+00:10:10,992 --> 00:10:14,322
+costs about twenty dollars and forty-one cents.
+
+277
+00:10:14,502 --> 00:10:17,991
+That assumes the entire hundred twenty kilowatt-hours
+
+278
+00:10:17,991 --> 00:10:20,691
+are used, and it ignores charging losses,
+
+279
+00:10:20,691 --> 00:10:22,601
+so the real number could be a
+
+280
+00:10:22,601 --> 00:10:23,522
+little higher.
+
+281
+00:10:23,702 --> 00:10:25,409
+Treat it as an estimate.
+
+282
+00:10:25,760 --> 00:10:28,854
+The same source lists Hawaii at forty-one
+
+283
+00:10:28,854 --> 00:10:30,363
+point one one cents,
+
+284
+00:10:30,363 --> 00:10:33,231
+the highest, and Nebraska at ten point
+
+285
+00:10:33,231 --> 00:10:34,513
+eight nine cents.
+
+286
+00:10:34,693 --> 00:10:37,542
+In Hawaii, the same fill-up would be,
+
+287
+00:10:37,542 --> 00:10:38,928
+by our arithmetic,
+
+288
+00:10:38,928 --> 00:10:42,623
+about forty-nine dollars and thirty-three cents.
+
+289
+00:10:42,803 --> 00:10:46,563
+In Nebraska, about thirteen dollars and seven
+
+290
+00:10:46,563 --> 00:10:47,064
+cents.
+
+291
+00:10:47,414 --> 00:10:48,900
+How far does a charge go?
+
+292
+00:10:49,080 --> 00:10:53,121
+Wikipedia gives four hundred ninety kilometres on
+
+293
+00:10:53,121 --> 00:10:54,522
+the W L T P test,
+
+294
+00:10:54,522 --> 00:10:57,079
+about three hundred four miles.
+
+295
+00:10:57,259 --> 00:11:00,719
+Dividing twenty dollars forty-one by three hundred
+
+296
+00:11:00,719 --> 00:11:03,349
+four miles gives about six point seven
+
+297
+00:11:03,349 --> 00:11:04,248
+cents a mile.
+
+298
+00:11:04,428 --> 00:11:06,013
+That is our estimate,
+
+299
+00:11:06,013 --> 00:11:07,522
+from official range,
+
+300
+00:11:07,522 --> 00:11:08,805
+not real driving.
+
+301
+00:11:09,155 --> 00:11:11,051
+Apply that to the car in the
+
+302
+00:11:11,051 --> 00:11:11,593
+auction.
+
+303
+00:11:11,773 --> 00:11:15,444
+One thousand, three hundred seventy-one miles at
+
+304
+00:11:15,444 --> 00:11:18,580
+six point seven cents is about ninety-two
+
+305
+00:11:18,580 --> 00:11:19,191
+dollars.
+
+306
+00:11:19,371 --> 00:11:21,907
+That is the electricity for the whole
+
+307
+00:11:21,907 --> 00:11:23,003
+life of the car,
+
+308
+00:11:23,003 --> 00:11:24,168
+up to that point,
+
+309
+00:11:24,168 --> 00:11:25,676
+under our assumptions.
+
+310
+00:11:25,856 --> 00:11:28,413
+Compared with a gap of one million
+
+311
+00:11:28,413 --> 00:11:31,347
+forty-one thousand, it is less than one
+
+312
+00:11:31,347 --> 00:11:33,228
+hundredth of one percent.
+
+313
+00:11:33,578 --> 00:11:36,071
+Of course, a Nevera is not meant
+
+314
+00:11:36,071 --> 00:11:37,629
+to be driven gently.
+
+315
+00:11:37,809 --> 00:11:40,100
+Real use at high speed would drain
+
+316
+00:11:40,100 --> 00:11:41,716
+the battery much faster,
+
+317
+00:11:41,716 --> 00:11:43,939
+so the range would be shorter and
+
+318
+00:11:43,939 --> 00:11:45,623
+the cost per mile higher.
+
+319
+00:11:45,803 --> 00:11:47,783
+But even if the cost were ten
+
+320
+00:11:47,783 --> 00:11:50,037
+times higher, it would still be a
+
+321
+00:11:50,037 --> 00:11:51,608
+tiny part of the total.
+
+322
+00:11:51,788 --> 00:11:54,203
+That is the real surprise.
+
+323
+00:11:54,553 --> 00:11:57,037
+Charging time is a different cost.
+
+324
+00:11:57,217 --> 00:12:00,270
+Wikipedia says the Nevera can fast-charge to
+
+325
+00:12:00,270 --> 00:12:02,976
+eighty percent in under thirty minutes.
+
+326
+00:12:03,156 --> 00:12:06,876
+Eighty percent of a hundred twenty kilowatt-hours
+
+327
+00:12:06,876 --> 00:12:07,939
+is ninety-six.
+
+328
+00:12:08,119 --> 00:12:10,439
+Ninety-six in half an hour means an
+
+329
+00:12:10,439 --> 00:12:12,892
+average of at least about one hundred
+
+330
+00:12:12,892 --> 00:12:14,284
+ninety-two kilowatts.
+
+331
+00:12:14,464 --> 00:12:17,041
+That needs a serious public charger,
+
+332
+00:12:17,041 --> 00:12:18,330
+not a wall socket.
+
+333
+00:12:18,680 --> 00:12:21,412
+Now stretch the idea to a normal
+
+334
+00:12:21,412 --> 00:12:22,778
+year of driving.
+
+335
+00:12:22,958 --> 00:12:25,615
+If an owner drove ten thousand miles,
+
+336
+00:12:25,615 --> 00:12:27,913
+at six point seven cents a mile,
+
+337
+00:12:27,913 --> 00:12:30,928
+the electricity would be about six hundred
+
+338
+00:12:30,928 --> 00:12:33,442
+seventy dollars, by our arithmetic.
+
+339
+00:12:33,622 --> 00:12:35,617
+Even a full decade of that would
+
+340
+00:12:35,617 --> 00:12:37,987
+cost less than seven thousand dollars.
+
+341
+00:12:38,167 --> 00:12:40,449
+Against a seven-figure gap,
+
+342
+00:12:40,449 --> 00:12:42,393
+it is almost invisible.
+
+343
+00:12:42,743 --> 00:12:44,552
+Compare that with the price of a
+
+344
+00:12:44,552 --> 00:12:45,343
+single option.
+
+345
+00:12:45,523 --> 00:12:47,341
+The carbon package alone,
+
+346
+00:12:47,341 --> 00:12:51,122
+eighty-six thousand, five hundred fifty-six dollars,
+
+347
+00:12:51,122 --> 00:12:53,812
+would pay for the electricity of more
+
+348
+00:12:53,812 --> 00:12:56,648
+than a hundred twenty-five years at ten
+
+349
+00:12:56,648 --> 00:12:58,248
+thousand miles a year.
+
+350
+00:12:58,428 --> 00:13:00,737
+That is a strange sentence to write
+
+351
+00:13:00,737 --> 00:13:01,529
+about a car,
+
+352
+00:13:01,529 --> 00:13:03,838
+but it is what the arithmetic says.
+
+353
+00:13:04,188 --> 00:13:06,887
+The biggest unknown in any electric car
+
+354
+00:13:06,887 --> 00:13:07,926
+is the battery.
+
+355
+00:13:08,106 --> 00:13:11,175
+Top Gear says the Nevera's pack holds
+
+356
+00:13:11,175 --> 00:13:14,660
+six thousand, nine hundred sixty cells and
+
+357
+00:13:14,660 --> 00:13:17,231
+weighs seven hundred kilograms.
+
+358
+00:13:17,411 --> 00:13:20,688
+If it ever needed replacing outside warranty,
+
+359
+00:13:20,688 --> 00:13:22,508
+that is a lot of battery.
+
+360
+00:13:22,688 --> 00:13:25,533
+And nobody has published a replacement price
+
+361
+00:13:25,533 --> 00:13:26,438
+we could find.
+
+362
+00:13:26,789 --> 00:13:28,254
+Rimac knows this fear,
+
+363
+00:13:28,254 --> 00:13:29,587
+and has answered it.
+
+364
+00:13:29,767 --> 00:13:31,949
+According to Indigo Auto Group,
+
+365
+00:13:31,949 --> 00:13:35,469
+on the twenty-third of January twenty twenty-four,
+
+366
+00:13:35,469 --> 00:13:38,637
+Rimac extended the Nevera's warranty to eight
+
+367
+00:13:38,637 --> 00:13:40,538
+years with unlimited miles,
+
+368
+00:13:40,538 --> 00:13:43,214
+with the battery guaranteed to keep at
+
+369
+00:13:43,214 --> 00:13:46,241
+least seventy-five percent of its capacity.
+
+370
+00:13:46,591 --> 00:13:49,232
+Indigo also reports that the motors are
+
+371
+00:13:49,232 --> 00:13:51,873
+described as maintenance free for life.
+
+372
+00:13:52,053 --> 00:13:54,119
+That is a claim from the company,
+
+373
+00:13:54,119 --> 00:13:55,997
+and we have not seen it tested
+
+374
+00:13:55,997 --> 00:13:56,999
+over many years.
+
+375
+00:13:57,179 --> 00:13:59,451
+But it shows that Rimac is selling
+
+376
+00:13:59,451 --> 00:14:01,456
+the Nevera on the idea that an
+
+377
+00:14:01,456 --> 00:14:04,330
+electric hypercar has fewer parts that wear
+
+378
+00:14:04,330 --> 00:14:04,598
+out.
+
+379
+00:14:04,948 --> 00:14:07,757
+Here is the arithmetic of that warranty.
+
+380
+00:14:07,937 --> 00:14:10,867
+If the eight years count from delivery,
+
+381
+00:14:10,867 --> 00:14:13,721
+as we would expect but cannot confirm,
+
+382
+00:14:13,721 --> 00:14:16,500
+this car's coverage would run to June
+
+383
+00:14:16,500 --> 00:14:17,852
+twenty thirty-one.
+
+384
+00:14:18,032 --> 00:14:20,215
+For a car with fewer than fifteen
+
+385
+00:14:20,215 --> 00:14:23,059
+hundred miles, the mileage will not matter.
+
+386
+00:14:23,239 --> 00:14:25,817
+The real test will be the years.
+
+387
+00:14:25,997 --> 00:14:30,203
+Seventy-five percent of a hundred twenty kilowatt-hours
+
+388
+00:14:30,203 --> 00:14:32,115
+is ninety kilowatt-hours.
+
+389
+00:14:32,465 --> 00:14:34,479
+It is worth saying what a warranty
+
+390
+00:14:34,479 --> 00:14:35,367
+cannot protect.
+
+391
+00:14:35,547 --> 00:14:38,055
+It does not protect the resale price.
+
+392
+00:14:38,235 --> 00:14:40,543
+A battery can be perfectly healthy,
+
+393
+00:14:40,543 --> 00:14:42,719
+as this one almost certainly was,
+
+394
+00:14:42,719 --> 00:14:44,763
+and the car can still be valued
+
+395
+00:14:44,763 --> 00:14:46,675
+at half of its sticker price.
+
+396
+00:14:46,855 --> 00:14:48,957
+Warranty covers failures,
+
+397
+00:14:48,957 --> 00:14:51,395
+not fashions or market moods.
+
+398
+00:14:51,745 --> 00:14:53,904
+So what costs did we not find?
+
+399
+00:14:54,084 --> 00:14:56,023
+Insurance for a Nevera.
+
+400
+00:14:56,203 --> 00:14:58,525
+A price for a set of tyres.
+
+401
+00:14:58,705 --> 00:15:00,841
+A replacement price for a battery.
+
+402
+00:15:01,021 --> 00:15:02,972
+The cost of a service visit.
+
+403
+00:15:03,152 --> 00:15:05,241
+None of the sources we read gave
+
+404
+00:15:05,241 --> 00:15:07,331
+a figure, and we will not guess.
+
+405
+00:15:07,511 --> 00:15:08,504
+If you own one,
+
+406
+00:15:08,504 --> 00:15:10,821
+those are the numbers we would love
+
+407
+00:15:10,821 --> 00:15:11,284
+to see.
+
+408
+00:15:11,635 --> 00:15:13,287
+We do know what the car is
+
+409
+00:15:13,287 --> 00:15:14,049
+fitted with.
+
+410
+00:15:14,229 --> 00:15:18,027
+Autoevolution says the tyres are Michelin Pilot
+
+411
+00:15:18,027 --> 00:15:19,077
+Sport four S,
+
+412
+00:15:19,077 --> 00:15:21,662
+and that the car has a hydraulic
+
+413
+00:15:21,662 --> 00:15:25,459
+lift system, active aero elements and butterfly
+
+414
+00:15:25,459 --> 00:15:25,944
+doors.
+
+415
+00:15:26,124 --> 00:15:28,463
+Every one of those features is a
+
+416
+00:15:28,463 --> 00:15:29,559
+thing that can,
+
+417
+00:15:29,559 --> 00:15:31,314
+in principle, need care.
+
+418
+00:15:31,494 --> 00:15:33,495
+But we have no cost to attach
+
+419
+00:15:33,495 --> 00:15:34,048
+to them.
+
+420
+00:15:34,398 --> 00:15:37,305
+Autoblog also says the car has carbon
+
+421
+00:15:37,305 --> 00:15:40,448
+ceramic brakes with six-piston calipers,
+
+422
+00:15:40,448 --> 00:15:41,863
+electro-hydraulic.
+
+423
+00:15:42,043 --> 00:15:44,825
+Carbon ceramic brakes are known for being
+
+424
+00:15:44,825 --> 00:15:46,249
+expensive on any car,
+
+425
+00:15:46,249 --> 00:15:48,353
+but we did not find a published
+
+426
+00:15:48,353 --> 00:15:49,438
+price for these.
+
+427
+00:15:49,618 --> 00:15:52,678
+Honest answer: the running cost of a
+
+428
+00:15:52,678 --> 00:15:55,312
+Nevera is mostly a blank on the
+
+429
+00:15:55,312 --> 00:15:55,737
+page.
+
+430
+00:15:56,087 --> 00:15:58,443
+One auction is one data point.
+
+431
+00:15:58,623 --> 00:15:59,854
+So we looked for more.
+
+432
+00:16:00,034 --> 00:16:01,281
+The Classic Valuer,
+
+433
+00:16:01,281 --> 00:16:02,200
+a price guide,
+
+434
+00:16:02,200 --> 00:16:04,824
+lists three Neveras that went to auction
+
+435
+00:16:04,824 --> 00:16:06,071
+on Bring a Trailer.
+
+436
+00:16:06,251 --> 00:16:08,761
+One was the twenty twenty-three car we
+
+437
+00:16:08,761 --> 00:16:10,149
+have been discussing,
+
+438
+00:16:10,149 --> 00:16:11,998
+in April twenty twenty-five.
+
+439
+00:16:12,178 --> 00:16:13,478
+It did not sell.
+
+440
+00:16:13,829 --> 00:16:16,859
+A twenty twenty-four Nevera also failed to
+
+441
+00:16:16,859 --> 00:16:19,673
+sell, on the thirteenth of April twenty
+
+442
+00:16:19,673 --> 00:16:22,559
+twenty-six, according to the same guide.
+
+443
+00:16:22,739 --> 00:16:26,097
+And a twenty twenty-three Nevera Time Attack
+
+444
+00:16:26,097 --> 00:16:28,616
+car sold on the fifteenth of June
+
+445
+00:16:28,616 --> 00:16:31,287
+twenty twenty-six, for one million,
+
+446
+00:16:31,287 --> 00:16:33,653
+two hundred fifty-one thousand,
+
+447
+00:16:33,653 --> 00:16:36,172
+five hundred eighty-three pounds.
+
+448
+00:16:36,522 --> 00:16:38,972
+The guide gives a sell-through rate of
+
+449
+00:16:38,972 --> 00:16:41,938
+thirty-three percent, because one of its three
+
+450
+00:16:41,938 --> 00:16:43,035
+listed cars sold.
+
+451
+00:16:43,215 --> 00:16:45,702
+Three auctions is a tiny sample,
+
+452
+00:16:45,702 --> 00:16:47,879
+and the Time Attack car is a
+
+453
+00:16:47,879 --> 00:16:50,833
+special version, so we cannot say what
+
+454
+00:16:50,833 --> 00:16:52,932
+an average Nevera is worth.
+
+455
+00:16:53,112 --> 00:16:54,581
+But it fits a pattern:
+
+456
+00:16:54,581 --> 00:16:56,584
+bids well below the new price.
+
+457
+00:16:56,934 --> 00:16:59,075
+There is an important lesson in how
+
+458
+00:16:59,075 --> 00:16:59,871
+to read this.
+
+459
+00:17:00,051 --> 00:17:03,195
+Hypercars often hold their value because they
+
+460
+00:17:03,195 --> 00:17:03,824
+are rare.
+
+461
+00:17:04,004 --> 00:17:07,386
+Wikipedia says only one hundred fifty Neveras
+
+462
+00:17:07,386 --> 00:17:08,288
+are planned.
+
+463
+00:17:08,468 --> 00:17:10,936
+Yet these results show that rarity alone
+
+464
+00:17:10,936 --> 00:17:12,601
+does not guarantee a price.
+
+465
+00:17:12,781 --> 00:17:14,214
+A new technology,
+
+466
+00:17:14,214 --> 00:17:15,563
+and a new brand,
+
+467
+00:17:15,563 --> 00:17:17,332
+carry their own risk.
+
+468
+00:17:17,683 --> 00:17:19,828
+Think about the buyer on the other
+
+469
+00:17:19,828 --> 00:17:20,144
+side.
+
+470
+00:17:20,324 --> 00:17:23,025
+Someone who bids one million dollars on
+
+471
+00:17:23,025 --> 00:17:25,103
+a used Nevera is getting a car
+
+472
+00:17:25,103 --> 00:17:27,735
+with fewer than fifteen hundred miles,
+
+473
+00:17:27,735 --> 00:17:28,843
+a clean history,
+
+474
+00:17:28,843 --> 00:17:31,960
+and the same one hundred twenty kilowatt-hour
+
+475
+00:17:31,960 --> 00:17:32,514
+battery.
+
+476
+00:17:32,694 --> 00:17:33,773
+For that buyer,
+
+477
+00:17:33,773 --> 00:17:36,363
+the drop in price is an opportunity.
+
+478
+00:17:36,543 --> 00:17:37,756
+For the seller,
+
+479
+00:17:37,756 --> 00:17:38,807
+it is a loss.
+
+480
+00:17:39,157 --> 00:17:41,475
+There is a broader lesson here for
+
+481
+00:17:41,475 --> 00:17:43,452
+electric cars of every price.
+
+482
+00:17:43,632 --> 00:17:45,549
+Technology moves quickly,
+
+483
+00:17:45,549 --> 00:17:48,616
+and a newer version often arrives before
+
+484
+00:17:48,616 --> 00:17:50,610
+the older one is paid for.
+
+485
+00:17:50,790 --> 00:17:52,924
+The Nevera R came out in August
+
+486
+00:17:52,924 --> 00:17:56,503
+twenty twenty-four, only about fourteen months after
+
+487
+00:17:56,503 --> 00:17:59,257
+the first deliveries to American owners,
+
+488
+00:17:59,257 --> 00:18:00,496
+by our arithmetic.
+
+489
+00:18:00,846 --> 00:18:02,534
+Let us put it all together,
+
+490
+00:18:02,534 --> 00:18:03,597
+in our own words.
+
+491
+00:18:03,777 --> 00:18:05,954
+The sticker for this car was two
+
+492
+00:18:05,954 --> 00:18:09,153
+million, three hundred eleven thousand dollars.
+
+493
+00:18:09,333 --> 00:18:12,315
+The electricity for its first thirteen hundred
+
+494
+00:18:12,315 --> 00:18:14,325
+miles was about ninety dollars.
+
+495
+00:18:14,505 --> 00:18:16,560
+The unsold bid left a gap of
+
+496
+00:18:16,560 --> 00:18:18,394
+over one million dollars.
+
+497
+00:18:18,574 --> 00:18:22,162
+The tyres, insurance and service are unknown.
+
+498
+00:18:22,512 --> 00:18:24,837
+That means the cost of an electric
+
+499
+00:18:24,837 --> 00:18:27,300
+hypercar is nothing like the cost of
+
+500
+00:18:27,300 --> 00:18:28,189
+a normal car.
+
+501
+00:18:28,369 --> 00:18:29,644
+For a family car,
+
+502
+00:18:29,644 --> 00:18:31,445
+fuel and repairs matter.
+
+503
+00:18:31,625 --> 00:18:32,418
+For a Nevera,
+
+504
+00:18:32,418 --> 00:18:34,856
+according to every figure we could find,
+
+505
+00:18:34,856 --> 00:18:37,477
+the dominant cost is the difference between
+
+506
+00:18:37,477 --> 00:18:39,549
+what you pay and what someone will
+
+507
+00:18:39,549 --> 00:18:40,403
+pay you later.
+
+508
+00:18:40,753 --> 00:18:43,783
+And yet owners are not necessarily unhappy.
+
+509
+00:18:43,963 --> 00:18:46,339
+Motor1 notes that the car came with
+
+510
+00:18:46,339 --> 00:18:47,968
+a private driving coach.
+
+511
+00:18:48,148 --> 00:18:50,446
+People who buy a Nevera are buying
+
+512
+00:18:50,446 --> 00:18:53,149
+an experience, a place among one hundred
+
+513
+00:18:53,149 --> 00:18:56,055
+fifty owners, and a record-setting machine.
+
+514
+00:18:56,235 --> 00:18:58,557
+Not everything fits in a spreadsheet.
+
+515
+00:18:58,907 --> 00:19:00,288
+The records are real.
+
+516
+00:19:00,468 --> 00:19:03,968
+Wikipedia says the Nevera set twenty-three records
+
+517
+00:19:03,968 --> 00:19:07,187
+on the seventeenth of May twenty twenty-three,
+
+518
+00:19:07,187 --> 00:19:10,267
+including zero to one hundred kilometres per
+
+519
+00:19:10,267 --> 00:19:12,786
+hour in one point eight two seconds.
+
+520
+00:19:12,966 --> 00:19:14,847
+Some buyers value that.
+
+521
+00:19:15,027 --> 00:19:17,104
+Others, as the auction suggests,
+
+522
+00:19:17,104 --> 00:19:19,765
+may feel differently about the price once
+
+523
+00:19:19,765 --> 00:19:21,517
+the car has been delivered.
+
+524
+00:19:21,867 --> 00:19:23,527
+So here is our verdict.
+
+525
+00:19:23,707 --> 00:19:25,890
+If you are buying an electric hypercar,
+
+526
+00:19:25,890 --> 00:19:28,130
+do not worry about the electricity bill.
+
+527
+00:19:28,310 --> 00:19:30,554
+Worry about what the car will be
+
+528
+00:19:30,554 --> 00:19:31,886
+worth in two years.
+
+529
+00:19:32,066 --> 00:19:34,100
+If you cannot accept a loss of
+
+530
+00:19:34,100 --> 00:19:35,931
+a large share of the price,
+
+531
+00:19:35,931 --> 00:19:37,491
+in a market this young,
+
+532
+00:19:37,491 --> 00:19:39,457
+it is a decision to make with
+
+533
+00:19:39,457 --> 00:19:40,135
+open eyes.
+
+534
+00:19:40,485 --> 00:19:42,133
+One last caveat.
+
+535
+00:19:42,313 --> 00:19:44,709
+All of this comes from one car,
+
+536
+00:19:44,709 --> 00:19:47,491
+one auction, and a few price guides.
+
+537
+00:19:47,671 --> 00:19:49,239
+The market could change.
+
+538
+00:19:49,419 --> 00:19:50,804
+Rimac's newer cars,
+
+539
+00:19:50,804 --> 00:19:53,649
+the warranty, and a growing used market
+
+540
+00:19:53,649 --> 00:19:55,618
+could all move the numbers.
+
+541
+00:19:55,798 --> 00:19:58,044
+We will revisit the figures when more
+
+542
+00:19:58,044 --> 00:19:59,258
+sales are published.
+
+543
+00:19:59,608 --> 00:20:01,460
+Do you think a Nevera will hold
+
+544
+00:20:01,460 --> 00:20:02,835
+its value in ten years?
+
+545
+00:20:03,015 --> 00:20:04,490
+Tell us in the comments.
+
+546
+00:20:04,670 --> 00:20:07,046
+In the other videos of this series,
+
+547
+00:20:07,046 --> 00:20:09,220
+we reveal two things you did not
+
+548
+00:20:09,220 --> 00:20:10,714
+know about the Nevera,
+
+549
+00:20:10,714 --> 00:20:13,362
+compare it with the Bugatti Tourbillon,
+
+550
+00:20:13,362 --> 00:20:15,331
+and tell the story of the kid
+
+551
+00:20:15,331 --> 00:20:18,184
+from Croatia who ended up running Bugatti.
+
+552
+00:20:18,534 --> 00:20:20,338
+And if you want to spend your
+
+553
+00:20:20,338 --> 00:20:22,889
+money on something you can actually drive
+
+554
+00:20:22,889 --> 00:20:25,876
+every day, our twenty twenty-seven Truck Buyer's
+
+555
+00:20:25,876 --> 00:20:28,054
+Guide is linked in the description.
+
+556
+00:20:28,234 --> 00:20:31,629
+Subscribe to Pickup Reality for more honest
+
+557
+00:20:31,629 --> 00:20:34,788
+numbers about the cars and trucks people
+
+558
+00:20:34,788 --> 00:20:36,210
+really talk about.
