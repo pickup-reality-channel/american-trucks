@@ -1,0 +1,2279 @@
+1
+00:00:00,000 --> 00:00:03,079
+The Mercedes-AMG One has a Formula One
+
+2
+00:00:03,079 --> 00:00:04,133
+engine in it.
+
+3
+00:00:04,313 --> 00:00:07,471
+Not an engine inspired by Formula One.
+
+4
+00:00:07,651 --> 00:00:12,095
+A road-going version of the one-point-six-litre turbo
+
+5
+00:00:12,095 --> 00:00:15,114
+V six from Mercedes' own Formula One
+
+6
+00:00:15,114 --> 00:00:15,534
+cars.
+
+7
+00:00:15,714 --> 00:00:18,273
+And hidden inside that fact are two
+
+8
+00:00:18,273 --> 00:00:21,124
+secrets that almost nobody talks about.
+
+9
+00:00:21,304 --> 00:00:23,278
+One of them explains why the car
+
+10
+00:00:23,278 --> 00:00:24,450
+arrived years late.
+
+11
+00:00:24,630 --> 00:00:26,960
+The other explains a bill that every
+
+12
+00:00:26,960 --> 00:00:28,125
+owner has to face.
+
+13
+00:00:28,475 --> 00:00:29,844
+Here is the twist.
+
+14
+00:00:30,024 --> 00:00:32,887
+Wikipedia says the engine lasts about fifty
+
+15
+00:00:32,887 --> 00:00:36,281
+thousand kilometres, after which owners must return
+
+16
+00:00:36,281 --> 00:00:38,012
+the car to be refurbished.
+
+17
+00:00:38,192 --> 00:00:40,163
+And the other secret is a number
+
+18
+00:00:40,163 --> 00:00:41,211
+that sounds tiny.
+
+19
+00:00:41,391 --> 00:00:42,842
+It is twelve hundred.
+
+20
+00:00:43,022 --> 00:00:44,312
+Stay to the end,
+
+21
+00:00:44,312 --> 00:00:47,617
+because twelve hundred is the reason this
+
+22
+00:00:47,617 --> 00:00:48,664
+car was late.
+
+23
+00:00:49,015 --> 00:00:51,372
+Every number in this video comes from
+
+24
+00:00:51,372 --> 00:00:54,239
+published sources, listed in the description.
+
+25
+00:00:54,419 --> 00:00:56,061
+Where sources disagree,
+
+26
+00:00:56,061 --> 00:00:57,275
+we will tell you.
+
+27
+00:00:57,455 --> 00:00:59,534
+Where we do the maths ourselves,
+
+28
+00:00:59,534 --> 00:01:00,508
+we will say so.
+
+29
+00:01:00,859 --> 00:01:04,249
+The story begins in two thousand seventeen.
+
+30
+00:01:04,429 --> 00:01:07,755
+Wikipedia says the Project One concept was
+
+31
+00:01:07,755 --> 00:01:11,637
+unveiled at the International Motor Show Germany,
+
+32
+00:01:11,637 --> 00:01:14,964
+in Frankfurt, by Lewis Hamilton and Dieter
+
+33
+00:01:14,964 --> 00:01:15,597
+Zetsche.
+
+34
+00:01:15,777 --> 00:01:17,903
+It was a Formula One engine in
+
+35
+00:01:17,903 --> 00:01:18,683
+a road car,
+
+36
+00:01:18,683 --> 00:01:21,234
+and Mercedes said it would build it.
+
+37
+00:01:21,414 --> 00:01:24,032
+Nobody outside the company knew how hard
+
+38
+00:01:24,032 --> 00:01:25,733
+that would turn out to be.
+
+39
+00:01:26,082 --> 00:01:29,356
+The car was developed at Mercedes-AMG in
+
+40
+00:01:29,356 --> 00:01:31,156
+Affalterbach, Germany.
+
+41
+00:01:31,336 --> 00:01:34,631
+The production version was unveiled on the
+
+42
+00:01:34,631 --> 00:01:35,729
+first of June,
+
+43
+00:01:35,729 --> 00:01:37,141
+twenty twenty-two.
+
+44
+00:01:37,321 --> 00:01:40,913
+Production began in August twenty twenty-two,
+
+45
+00:01:40,913 --> 00:01:42,750
+according to Wikipedia,
+
+46
+00:01:42,750 --> 00:01:45,863
+and the first customer delivery came on
+
+47
+00:01:45,863 --> 00:01:47,859
+the sixteenth of January,
+
+48
+00:01:47,859 --> 00:01:51,371
+twenty twenty-three, in a livery inspired by
+
+49
+00:01:51,371 --> 00:01:53,766
+the Formula One car W twelve E
+
+50
+00:01:53,766 --> 00:01:54,724
+Performance.
+
+51
+00:01:55,075 --> 00:01:56,571
+By our own arithmetic,
+
+52
+00:01:56,571 --> 00:01:59,223
+the gap between the unveiling in twenty
+
+53
+00:01:59,223 --> 00:02:02,148
+seventeen and the first delivery in January
+
+54
+00:02:02,148 --> 00:02:05,140
+twenty twenty-three is more than five years.
+
+55
+00:02:05,320 --> 00:02:07,304
+That is a long time even for
+
+56
+00:02:07,304 --> 00:02:08,084
+a hypercar.
+
+57
+00:02:08,264 --> 00:02:10,965
+And CarAdvice, quoting the company,
+
+58
+00:02:10,965 --> 00:02:14,361
+says production was originally due in twenty
+
+59
+00:02:14,361 --> 00:02:15,055
+nineteen.
+
+60
+00:02:15,235 --> 00:02:17,517
+By our arithmetic that makes the car
+
+61
+00:02:17,517 --> 00:02:18,912
+about four years late,
+
+62
+00:02:18,912 --> 00:02:20,750
+and we will come back to why.
+
+63
+00:02:21,100 --> 00:02:23,852
+The numbers behind the car are enormous.
+
+64
+00:02:24,032 --> 00:02:28,006
+Wikipedia says only two hundred seventy-five were
+
+65
+00:02:28,006 --> 00:02:29,547
+built, all by hand.
+
+66
+00:02:29,727 --> 00:02:32,240
+The price listed on Wikipedia is two
+
+67
+00:02:32,240 --> 00:02:34,824
+point seven two million dollars each.
+
+68
+00:02:35,004 --> 00:02:37,765
+CarAdvice, in an earlier article,
+
+69
+00:02:37,765 --> 00:02:41,029
+gave two point two seven million euros.
+
+70
+00:02:41,209 --> 00:02:43,940
+Different currencies and different dates,
+
+71
+00:02:43,940 --> 00:02:45,739
+so we will say only that it
+
+72
+00:02:45,739 --> 00:02:48,071
+cost around two and a half million.
+
+73
+00:02:48,420 --> 00:02:50,673
+And the demand was larger than the
+
+74
+00:02:50,673 --> 00:02:51,137
+supply.
+
+75
+00:02:51,317 --> 00:02:55,180
+Wikipedia says Mercedes-AMG received more than four
+
+76
+00:02:55,180 --> 00:02:57,756
+times as many orders as there were
+
+77
+00:02:57,756 --> 00:03:00,559
+cars, and refused to raise the limit.
+
+78
+00:03:00,739 --> 00:03:01,988
+By our arithmetic,
+
+79
+00:03:01,988 --> 00:03:04,834
+that is more than eleven hundred requests
+
+80
+00:03:04,834 --> 00:03:07,194
+for two hundred seventy-five cars.
+
+81
+00:03:07,374 --> 00:03:09,677
+Every one of those buyers wanted the
+
+82
+00:03:09,677 --> 00:03:11,916
+same thing, which was a Formula One
+
+83
+00:03:11,916 --> 00:03:13,643
+engine they could register.
+
+84
+00:03:13,994 --> 00:03:15,758
+Now the first secret.
+
+85
+00:03:15,938 --> 00:03:17,648
+According to Wikipedia,
+
+86
+00:03:17,648 --> 00:03:19,804
+the engine in the AMG One has
+
+87
+00:03:19,804 --> 00:03:23,223
+a lifespan of about fifty thousand kilometres,
+
+88
+00:03:23,223 --> 00:03:26,271
+which is about thirty-one thousand miles.
+
+89
+00:03:26,451 --> 00:03:29,035
+After that, owners must return the car
+
+90
+00:03:29,035 --> 00:03:30,735
+for engine refurbishment.
+
+91
+00:03:30,915 --> 00:03:33,546
+Most road car engines are designed to
+
+92
+00:03:33,546 --> 00:03:36,674
+run for hundreds of thousands of kilometres.
+
+93
+00:03:36,854 --> 00:03:38,108
+This one is not.
+
+94
+00:03:38,458 --> 00:03:40,501
+The reason is what it is.
+
+95
+00:03:40,681 --> 00:03:43,575
+Wikipedia lists the engine as the P
+
+96
+00:03:43,575 --> 00:03:45,395
+U one oh six B hybrid,
+
+97
+00:03:45,395 --> 00:03:49,281
+a one-point-six-litre turbocharged V six with a
+
+98
+00:03:49,281 --> 00:03:53,912
+ninety-degree layout, modified from the Mercedes Formula
+
+99
+00:03:53,912 --> 00:03:54,822
+One engine.
+
+100
+00:03:55,002 --> 00:03:57,931
+Output from the combustion engine alone is
+
+101
+00:03:57,931 --> 00:04:00,303
+four hundred twenty-two kilowatts,
+
+102
+00:04:00,303 --> 00:04:03,582
+or five hundred seventy-four metric horsepower.
+
+103
+00:04:03,762 --> 00:04:06,481
+The redline is eleven thousand r p
+
+104
+00:04:06,481 --> 00:04:06,641
+m.
+
+105
+00:04:06,991 --> 00:04:08,811
+On top of that sits a hybrid
+
+106
+00:04:08,811 --> 00:04:09,266
+system.
+
+107
+00:04:09,446 --> 00:04:11,180
+The page lists an M G U
+
+108
+00:04:11,180 --> 00:04:14,422
+K of one hundred twenty kilowatts connected
+
+109
+00:04:14,422 --> 00:04:15,779
+to the crankshaft,
+
+110
+00:04:15,779 --> 00:04:17,060
+and an M G U H of
+
+111
+00:04:17,060 --> 00:04:20,603
+ninety kilowatts connected to the turbocharger.
+
+112
+00:04:20,783 --> 00:04:22,290
+The M G U H is the
+
+113
+00:04:22,290 --> 00:04:24,800
+part many road cars never use.
+
+114
+00:04:24,980 --> 00:04:27,977
+It recovers energy from exhaust gas,
+
+115
+00:04:27,977 --> 00:04:30,558
+the same idea as in the Formula
+
+116
+00:04:30,558 --> 00:04:32,306
+One cars of that era.
+
+117
+00:04:32,657 --> 00:04:35,529
+There are also two electric motors on
+
+118
+00:04:35,529 --> 00:04:36,693
+the front axle,
+
+119
+00:04:36,693 --> 00:04:39,332
+one hundred twenty kilowatts each.
+
+120
+00:04:39,512 --> 00:04:42,902
+Wikipedia gives the total system output as
+
+121
+00:04:42,902 --> 00:04:46,372
+one thousand sixty-three metric horsepower,
+
+122
+00:04:46,372 --> 00:04:49,439
+or one thousand forty-nine horsepower.
+
+123
+00:04:49,619 --> 00:04:52,019
+Note that the same page also lists
+
+124
+00:04:52,019 --> 00:04:54,632
+a combined figure for the four motors
+
+125
+00:04:54,632 --> 00:04:57,315
+that does not match its own individual
+
+126
+00:04:57,315 --> 00:04:59,998
+numbers, so we use the headline total.
+
+127
+00:05:00,349 --> 00:05:02,879
+The battery is an eight hundred volt
+
+128
+00:05:02,879 --> 00:05:05,902
+lithium-ion pack, and the electric range is
+
+129
+00:05:05,902 --> 00:05:08,011
+eighteen point one kilometres,
+
+130
+00:05:08,011 --> 00:05:09,346
+about eleven miles.
+
+131
+00:05:09,526 --> 00:05:13,699
+The gearbox is a seven-speed single-clutch automated
+
+132
+00:05:13,699 --> 00:05:16,748
+manual with a four-disc carbon clutch.
+
+133
+00:05:16,928 --> 00:05:18,513
+It drives the rear wheels,
+
+134
+00:05:18,513 --> 00:05:21,258
+with the front motors adding all-wheel drive.
+
+135
+00:05:21,438 --> 00:05:23,542
+This is not a road car engine
+
+136
+00:05:23,542 --> 00:05:24,921
+with a few changes.
+
+137
+00:05:25,101 --> 00:05:27,252
+It is a racing engine with road
+
+138
+00:05:27,252 --> 00:05:27,946
+equipment.
+
+139
+00:05:28,296 --> 00:05:31,245
+So what does fifty thousand kilometres mean
+
+140
+00:05:31,245 --> 00:05:32,069
+in practice?
+
+141
+00:05:32,249 --> 00:05:33,845
+By our own arithmetic,
+
+142
+00:05:33,845 --> 00:05:36,675
+a car driven five thousand kilometres a
+
+143
+00:05:36,675 --> 00:05:39,070
+year would reach the limit in ten
+
+144
+00:05:39,070 --> 00:05:39,505
+years.
+
+145
+00:05:39,685 --> 00:05:41,485
+But a hypercar driven hard on a
+
+146
+00:05:41,485 --> 00:05:43,400
+track could reach it much sooner.
+
+147
+00:05:43,580 --> 00:05:45,636
+We do not know how many owners
+
+148
+00:05:45,636 --> 00:05:46,663
+will do either,
+
+149
+00:05:46,663 --> 00:05:48,856
+and the source does not say what
+
+150
+00:05:48,856 --> 00:05:50,500
+the refurbishment costs,
+
+151
+00:05:50,500 --> 00:05:51,939
+so we will not guess.
+
+152
+00:05:52,290 --> 00:05:54,310
+There is a comparison worth making.
+
+153
+00:05:54,490 --> 00:05:57,204
+A typical road car engine is built
+
+154
+00:05:57,204 --> 00:06:00,637
+to run far beyond fifty thousand kilometres
+
+155
+00:06:00,637 --> 00:06:02,234
+without any rebuild.
+
+156
+00:06:02,414 --> 00:06:05,281
+That is why this detail surprises people.
+
+157
+00:06:05,461 --> 00:06:07,617
+The owner of an AMG One buys
+
+158
+00:06:07,617 --> 00:06:10,389
+a car with a service schedule closer
+
+159
+00:06:10,389 --> 00:06:12,546
+to a race team than a family
+
+160
+00:06:12,546 --> 00:06:13,008
+sedan.
+
+161
+00:06:13,188 --> 00:06:14,918
+The price of the engine is only
+
+162
+00:06:14,918 --> 00:06:16,647
+part of the price of owning it.
+
+163
+00:06:16,998 --> 00:06:18,477
+Now the second secret,
+
+164
+00:06:18,477 --> 00:06:20,225
+the number twelve hundred.
+
+165
+00:06:20,405 --> 00:06:24,115
+CarAdvice quotes Mercedes-AMG boss Tobias Moers,
+
+166
+00:06:24,115 --> 00:06:25,738
+speaking to Top Gear,
+
+167
+00:06:25,738 --> 00:06:28,985
+saying the company lost maybe nine months.
+
+168
+00:06:29,165 --> 00:06:31,686
+The reason, the article explains,
+
+169
+00:06:31,686 --> 00:06:34,361
+is that making a Formula One engine
+
+170
+00:06:34,361 --> 00:06:36,653
+work on the road is difficult.
+
+171
+00:06:36,833 --> 00:06:40,206
+Emissions rules require a stable idle of
+
+172
+00:06:40,206 --> 00:06:41,977
+twelve hundred r p m.
+
+173
+00:06:42,326 --> 00:06:45,491
+A Formula One engine idles at around
+
+174
+00:06:45,491 --> 00:06:47,249
+five thousand r p m.
+
+175
+00:06:47,429 --> 00:06:49,679
+A road car must idle at about
+
+176
+00:06:49,679 --> 00:06:51,541
+twelve hundred, quietly,
+
+177
+00:06:51,541 --> 00:06:55,266
+without stalling, while meeting emissions rules.
+
+178
+00:06:55,446 --> 00:06:58,507
+CarAdvice says the idle was lowered from
+
+179
+00:06:58,507 --> 00:07:01,491
+the Formula One figure of five thousand
+
+180
+00:07:01,491 --> 00:07:02,868
+to twelve hundred,
+
+181
+00:07:02,868 --> 00:07:06,006
+and the redline from fourteen thousand to
+
+182
+00:07:06,006 --> 00:07:07,230
+eleven thousand.
+
+183
+00:07:07,410 --> 00:07:10,734
+Wikipedia lists the idle as twelve hundred
+
+184
+00:07:10,734 --> 00:07:11,288
+eighty.
+
+185
+00:07:11,638 --> 00:07:13,600
+Note the small discrepancy.
+
+186
+00:07:13,780 --> 00:07:16,044
+CarAdvice says twelve hundred.
+
+187
+00:07:16,224 --> 00:07:18,789
+Wikipedia says twelve hundred eighty.
+
+188
+00:07:18,969 --> 00:07:21,349
+We think both are describing the same
+
+189
+00:07:21,349 --> 00:07:23,664
+target, but we cannot tell you which
+
+190
+00:07:23,664 --> 00:07:25,723
+is exact, so we say about twelve
+
+191
+00:07:25,723 --> 00:07:26,237
+hundred.
+
+192
+00:07:26,417 --> 00:07:28,652
+What matters is the size of the
+
+193
+00:07:28,652 --> 00:07:29,157
+change.
+
+194
+00:07:29,337 --> 00:07:30,713
+By our arithmetic,
+
+195
+00:07:30,713 --> 00:07:33,846
+the idle speed fell by about seventy-five
+
+196
+00:07:33,846 --> 00:07:34,457
+percent.
+
+197
+00:07:34,808 --> 00:07:36,468
+And that was only one of the
+
+198
+00:07:36,468 --> 00:07:37,002
+problems.
+
+199
+00:07:37,182 --> 00:07:39,186
+Another CarAdvice article,
+
+200
+00:07:39,186 --> 00:07:42,115
+quoting chief executive Ola Källenius,
+
+201
+00:07:42,115 --> 00:07:44,505
+says meeting the European W L T
+
+202
+00:07:44,505 --> 00:07:47,819
+P emissions rules with a petrol particulate
+
+203
+00:07:47,819 --> 00:07:51,288
+filter, without hurting performance too much,
+
+204
+00:07:51,288 --> 00:07:53,215
+pushed the timeline back.
+
+205
+00:07:53,395 --> 00:07:56,060
+Adapting how the engine revs for road
+
+206
+00:07:56,060 --> 00:07:58,364
+use was another major challenge.
+
+207
+00:07:58,544 --> 00:08:00,228
+Each fix took months.
+
+208
+00:08:00,578 --> 00:08:03,004
+Källenius even joked about the decision.
+
+209
+00:08:03,184 --> 00:08:05,541
+CarAdvice quotes him saying he was sure
+
+210
+00:08:05,541 --> 00:08:07,597
+the company was drunk when it said
+
+211
+00:08:07,597 --> 00:08:08,745
+yes to the project.
+
+212
+00:08:08,925 --> 00:08:11,209
+He said the idea was pitched to
+
+213
+00:08:11,209 --> 00:08:13,936
+the board about four years before the
+
+214
+00:08:13,936 --> 00:08:14,452
+reveal.
+
+215
+00:08:14,632 --> 00:08:15,517
+It is a joke,
+
+216
+00:08:15,517 --> 00:08:17,560
+and we should treat it as one,
+
+217
+00:08:17,560 --> 00:08:19,535
+but it tells you how hard the
+
+218
+00:08:19,535 --> 00:08:21,238
+engineers found the task.
+
+219
+00:08:21,588 --> 00:08:22,747
+Moers also said,
+
+220
+00:08:22,747 --> 00:08:24,631
+in the Top Gear interview,
+
+221
+00:08:24,631 --> 00:08:27,095
+that he expected a time with major
+
+222
+00:08:27,095 --> 00:08:29,197
+issues that had to be solved,
+
+223
+00:08:29,197 --> 00:08:31,950
+and that customers had been told about
+
+224
+00:08:31,950 --> 00:08:32,675
+the delay.
+
+225
+00:08:32,855 --> 00:08:34,411
+He called it not a secret.
+
+226
+00:08:34,591 --> 00:08:36,623
+That openness is worth noting.
+
+227
+00:08:36,803 --> 00:08:38,753
+The company did not hide a problem.
+
+228
+00:08:38,933 --> 00:08:40,993
+It simply took the time it needed
+
+229
+00:08:40,993 --> 00:08:43,240
+to make the engine legal and usable.
+
+230
+00:08:43,591 --> 00:08:45,413
+The result is extraordinary.
+
+231
+00:08:45,593 --> 00:08:48,922
+Wikipedia lists zero to a hundred kilometres
+
+232
+00:08:48,922 --> 00:08:51,569
+per hour in two point nine seconds,
+
+233
+00:08:51,569 --> 00:08:54,141
+zero to two hundred in seven point
+
+234
+00:08:54,141 --> 00:08:56,713
+zero, and zero to three hundred in
+
+235
+00:08:56,713 --> 00:08:58,074
+fifteen point six.
+
+236
+00:08:58,254 --> 00:09:01,068
+The top speed is three hundred fifty-two
+
+237
+00:09:01,068 --> 00:09:02,476
+kilometres per hour,
+
+238
+00:09:02,476 --> 00:09:04,094
+electronically limited.
+
+239
+00:09:04,274 --> 00:09:06,475
+These are manufacturer claims,
+
+240
+00:09:06,475 --> 00:09:07,943
+listed on that page.
+
+241
+00:09:08,293 --> 00:09:10,309
+Look at the gap between two hundred
+
+242
+00:09:10,309 --> 00:09:11,346
+and three hundred.
+
+243
+00:09:11,526 --> 00:09:13,143
+By our own arithmetic,
+
+244
+00:09:13,143 --> 00:09:15,862
+the car takes eight point six seconds
+
+245
+00:09:15,862 --> 00:09:18,141
+to go from two hundred to three
+
+246
+00:09:18,141 --> 00:09:20,199
+hundred kilometres per hour.
+
+247
+00:09:20,379 --> 00:09:22,927
+Most cars cannot reach three hundred at
+
+248
+00:09:22,927 --> 00:09:23,188
+all.
+
+249
+00:09:23,368 --> 00:09:25,955
+This is where the Formula One hybrid
+
+250
+00:09:25,955 --> 00:09:27,607
+system earns its place,
+
+251
+00:09:27,607 --> 00:09:30,984
+adding electric torque while the engine climbs.
+
+252
+00:09:31,335 --> 00:09:33,822
+On the Nürburgring Nordschleife,
+
+253
+00:09:33,822 --> 00:09:36,698
+Wikipedia says Maro Engel drove a lap
+
+254
+00:09:36,698 --> 00:09:37,864
+in six minutes,
+
+255
+00:09:37,864 --> 00:09:41,284
+thirty-five point one eight three seconds in
+
+256
+00:09:41,284 --> 00:09:43,383
+November twenty twenty-two,
+
+257
+00:09:43,383 --> 00:09:46,570
+beating the Mercedes-AMG G T Black Series
+
+258
+00:09:46,570 --> 00:09:49,446
+record by more than thirteen seconds.
+
+259
+00:09:49,626 --> 00:09:52,670
+The page notes damp patches forced some
+
+260
+00:09:52,670 --> 00:09:53,295
+lifting.
+
+261
+00:09:53,475 --> 00:09:55,093
+So the car was not even at
+
+262
+00:09:55,093 --> 00:09:55,716
+its limit.
+
+263
+00:09:56,066 --> 00:09:58,184
+In September twenty twenty-four,
+
+264
+00:09:58,184 --> 00:10:00,501
+the car improved on its own record.
+
+265
+00:10:00,681 --> 00:10:02,808
+The page lists six minutes,
+
+266
+00:10:02,808 --> 00:10:05,645
+twenty-nine point zero nine seconds,
+
+267
+00:10:05,645 --> 00:10:07,694
+about six seconds quicker,
+
+268
+00:10:07,694 --> 00:10:09,980
+and says it was the first lap
+
+269
+00:10:09,980 --> 00:10:13,369
+under six thirty by a road-legal production
+
+270
+00:10:13,369 --> 00:10:13,684
+car.
+
+271
+00:10:13,864 --> 00:10:16,039
+That is a claim on Wikipedia,
+
+272
+00:10:16,039 --> 00:10:19,263
+and records in this category are contested,
+
+273
+00:10:19,263 --> 00:10:21,213
+so we report it as stated.
+
+274
+00:10:21,563 --> 00:10:24,361
+The page lists other claimed records too.
+
+275
+00:10:24,541 --> 00:10:27,885
+The Nürburgring Grand Prix circuit in one
+
+276
+00:10:27,885 --> 00:10:30,984
+minute, fifty-six point zero nine six.
+
+277
+00:10:31,164 --> 00:10:34,514
+Hockenheim in one thirty-eight point five six
+
+278
+00:10:34,514 --> 00:10:34,961
+three.
+
+279
+00:10:35,141 --> 00:10:37,659
+The Red Bull Ring in one twenty-six
+
+280
+00:10:37,659 --> 00:10:39,169
+point eight four six.
+
+281
+00:10:39,349 --> 00:10:42,514
+And Monza in one forty-three point nine
+
+282
+00:10:42,514 --> 00:10:45,679
+zero two, in April twenty twenty-three,
+
+283
+00:10:45,679 --> 00:10:47,627
+a production-car record.
+
+284
+00:10:47,977 --> 00:10:51,203
+The car also carries Formula One ideas
+
+285
+00:10:51,203 --> 00:10:52,307
+in its shape.
+
+286
+00:10:52,487 --> 00:10:55,848
+Wikipedia lists active front diffuser flaps,
+
+287
+00:10:55,848 --> 00:10:58,751
+a two-part extendable rear wing in the
+
+288
+00:10:58,751 --> 00:10:59,897
+style of D R S,
+
+289
+00:10:59,897 --> 00:11:02,112
+and adjustable front louvres.
+
+290
+00:11:02,292 --> 00:11:05,254
+The body and chassis are carbon fibre,
+
+291
+00:11:05,254 --> 00:11:07,748
+and the car has butterfly doors.
+
+292
+00:11:07,928 --> 00:11:10,319
+Gorden Wagener was head of design,
+
+293
+00:11:10,319 --> 00:11:12,990
+and Hartmut Sinkwitz led the interior.
+
+294
+00:11:13,341 --> 00:11:17,203
+There are driving modes called Race Safe,
+
+295
+00:11:17,203 --> 00:11:18,146
+Race, E V,
+
+296
+00:11:18,146 --> 00:11:20,124
+Race Plus, Strat Two,
+
+297
+00:11:20,124 --> 00:11:21,537
+and Individual.
+
+298
+00:11:21,717 --> 00:11:23,491
+According to the page,
+
+299
+00:11:23,491 --> 00:11:26,152
+Race Plus and Strat Two raise the
+
+300
+00:11:26,152 --> 00:11:29,055
+total downforce by up to five times.
+
+301
+00:11:29,235 --> 00:11:31,759
+That is a statement about how much
+
+302
+00:11:31,759 --> 00:11:34,655
+of the car's behaviour is controlled by
+
+303
+00:11:34,655 --> 00:11:36,585
+software and active parts,
+
+304
+00:11:36,585 --> 00:11:38,441
+not by fixed metal alone.
+
+305
+00:11:38,792 --> 00:11:41,426
+The dimensions are those of a low,
+
+306
+00:11:41,426 --> 00:11:42,124
+wide car.
+
+307
+00:11:42,304 --> 00:11:45,580
+Wikipedia lists a length of four thousand,
+
+308
+00:11:45,580 --> 00:11:48,388
+seven hundred fifty-six millimetres,
+
+309
+00:11:48,388 --> 00:11:50,885
+a width of two thousand and ten,
+
+310
+00:11:50,885 --> 00:11:52,835
+a height of one thousand,
+
+311
+00:11:52,835 --> 00:11:54,551
+two hundred sixty-one,
+
+312
+00:11:54,551 --> 00:11:57,047
+and a wheelbase of two thousand,
+
+313
+00:11:57,047 --> 00:11:58,685
+seven hundred twenty.
+
+314
+00:11:58,865 --> 00:12:01,167
+The kerb weight is one thousand,
+
+315
+00:12:01,167 --> 00:12:03,612
+six hundred ninety-five kilograms,
+
+316
+00:12:03,612 --> 00:12:05,914
+with a range up to one thousand,
+
+317
+00:12:05,914 --> 00:12:07,712
+seven hundred forty-five.
+
+318
+00:12:08,062 --> 00:12:09,432
+By our arithmetic,
+
+319
+00:12:09,432 --> 00:12:13,468
+one thousand sixty-three metric horsepower divided by
+
+320
+00:12:13,468 --> 00:12:17,504
+one thousand, six hundred ninety-five kilograms gives
+
+321
+00:12:17,504 --> 00:12:21,007
+about point six three horsepower per kilogram.
+
+322
+00:12:21,187 --> 00:12:22,011
+That is high,
+
+323
+00:12:22,011 --> 00:12:24,356
+but notice what the weight tells you.
+
+324
+00:12:24,536 --> 00:12:25,808
+The hybrid system,
+
+325
+00:12:25,808 --> 00:12:27,857
+battery and motors are heavy.
+
+326
+00:12:28,037 --> 00:12:31,380
+A Formula One car carries far less.
+
+327
+00:12:31,560 --> 00:12:34,010
+The road equipment has a weight cost.
+
+328
+00:12:34,360 --> 00:12:36,148
+Which Formula One car?
+
+329
+00:12:36,328 --> 00:12:37,976
+The sources disagree.
+
+330
+00:12:38,156 --> 00:12:41,688
+Wikipedia says the engine and design are
+
+331
+00:12:41,688 --> 00:12:44,603
+based on the Mercedes-AMG F one W
+
+332
+00:12:44,603 --> 00:12:46,899
+oh six, per Ola Källenius.
+
+333
+00:12:47,079 --> 00:12:49,750
+Autocar says it is adapted from the
+
+334
+00:12:49,750 --> 00:12:53,413
+engine of Mercedes' twenty seventeen Formula One
+
+335
+00:12:53,413 --> 00:12:55,322
+championship-winning car.
+
+336
+00:12:55,502 --> 00:12:56,571
+We report both,
+
+337
+00:12:56,571 --> 00:12:59,280
+because we cannot tell from here which
+
+338
+00:12:59,280 --> 00:13:01,562
+description the company prefers.
+
+339
+00:13:01,912 --> 00:13:04,243
+Let us follow the delivery date as
+
+340
+00:13:04,243 --> 00:13:04,861
+it moved.
+
+341
+00:13:05,041 --> 00:13:08,069
+Autocar says the car was originally due
+
+342
+00:13:08,069 --> 00:13:10,010
+in early twenty nineteen.
+
+343
+00:13:10,190 --> 00:13:14,373
+CarAdvice also says production was originally due
+
+344
+00:13:14,373 --> 00:13:15,995
+in twenty nineteen.
+
+345
+00:13:16,175 --> 00:13:18,171
+In September twenty nineteen,
+
+346
+00:13:18,171 --> 00:13:20,788
+Top Gear reported that it would arrive
+
+347
+00:13:20,788 --> 00:13:23,680
+in the first quarter of twenty twenty-one,
+
+348
+00:13:23,680 --> 00:13:26,090
+in time for the new hypercar class.
+
+349
+00:13:26,440 --> 00:13:28,154
+Later, Autocar reports,
+
+350
+00:13:28,154 --> 00:13:32,104
+Mercedes-AMG confirmed the car would enter production
+
+351
+00:13:32,104 --> 00:13:35,085
+around the middle of the following year,
+
+352
+00:13:35,085 --> 00:13:37,918
+and customers were told by letter that
+
+353
+00:13:37,918 --> 00:13:40,750
+production of the first of two hundred
+
+354
+00:13:40,750 --> 00:13:44,551
+seventy-five cars would begin in twenty twenty-two.
+
+355
+00:13:44,731 --> 00:13:48,720
+Wikipedia says production did begin in August
+
+356
+00:13:48,720 --> 00:13:50,316
+twenty twenty-two.
+
+357
+00:13:50,496 --> 00:13:51,722
+So that promise,
+
+358
+00:13:51,722 --> 00:13:53,178
+at least, was kept.
+
+359
+00:13:53,528 --> 00:13:54,785
+By our arithmetic,
+
+360
+00:13:54,785 --> 00:13:57,510
+from early twenty nineteen to the first
+
+361
+00:13:57,510 --> 00:14:00,933
+delivery in January twenty twenty-three is almost
+
+362
+00:14:00,933 --> 00:14:01,701
+four years.
+
+363
+00:14:01,881 --> 00:14:04,011
+And from the Top Gear target of
+
+364
+00:14:04,011 --> 00:14:06,691
+the first quarter of twenty twenty-one,
+
+365
+00:14:06,691 --> 00:14:08,615
+the slip is about two years.
+
+366
+00:14:08,795 --> 00:14:10,774
+Each delay came with a reason,
+
+367
+00:14:10,774 --> 00:14:13,017
+and the reasons are what make this
+
+368
+00:14:13,017 --> 00:14:16,052
+story interesting, rather than just a calendar
+
+369
+00:14:16,052 --> 00:14:16,910
+of apologies.
+
+370
+00:14:17,261 --> 00:14:19,945
+Top Gear listed the causes in twenty
+
+371
+00:14:19,945 --> 00:14:20,616
+nineteen.
+
+372
+00:14:20,796 --> 00:14:24,064
+Emissions certification for the engine took a
+
+373
+00:14:24,064 --> 00:14:24,500
+while.
+
+374
+00:14:24,680 --> 00:14:26,534
+Noise control took time,
+
+375
+00:14:26,534 --> 00:14:29,470
+both inside the cabin and for drive-by
+
+376
+00:14:29,470 --> 00:14:31,634
+noise under new regulations.
+
+377
+00:14:31,814 --> 00:14:32,945
+And the engine,
+
+378
+00:14:32,945 --> 00:14:36,188
+designed for fourteen to fifteen thousand r
+
+379
+00:14:36,188 --> 00:14:38,827
+p m, had airflow problems at twelve
+
+380
+00:14:38,827 --> 00:14:39,430
+hundred.
+
+381
+00:14:39,610 --> 00:14:41,933
+These are the details behind the twelve
+
+382
+00:14:41,933 --> 00:14:42,826
+hundred secret.
+
+383
+00:14:43,176 --> 00:14:45,382
+Tobias Moers was frank about it.
+
+384
+00:14:45,562 --> 00:14:47,947
+Top Gear quotes him saying there was
+
+385
+00:14:47,947 --> 00:14:50,068
+no excuse on the company's side,
+
+386
+00:14:50,068 --> 00:14:53,050
+and that it maybe underestimated the journey.
+
+387
+00:14:53,230 --> 00:14:55,097
+It is rare for a company to
+
+388
+00:14:55,097 --> 00:14:56,964
+say that about a car it has
+
+389
+00:14:56,964 --> 00:14:57,862
+already sold.
+
+390
+00:14:58,042 --> 00:14:59,280
+And at that point,
+
+391
+00:14:59,280 --> 00:15:00,242
+Top Gear says,
+
+392
+00:15:00,242 --> 00:15:02,922
+the final engine had been specified and
+
+393
+00:15:02,922 --> 00:15:04,915
+was running on a dynamometer.
+
+394
+00:15:05,266 --> 00:15:08,333
+Autocar adds that the engine's task was
+
+395
+00:15:08,333 --> 00:15:10,298
+to meet W L T P emissions
+
+396
+00:15:10,298 --> 00:15:13,994
+with a petrol particulate filter without losing
+
+397
+00:15:13,994 --> 00:15:17,533
+performance, and called getting a Formula One
+
+398
+00:15:17,533 --> 00:15:20,521
+engine to idle at about twelve hundred
+
+399
+00:15:20,521 --> 00:15:22,880
+instead of five thousand r p m
+
+400
+00:15:22,880 --> 00:15:24,689
+a tremendous challenge.
+
+401
+00:15:24,869 --> 00:15:28,093
+Three sources, three descriptions of the same
+
+402
+00:15:28,093 --> 00:15:28,666
+problem.
+
+403
+00:15:28,846 --> 00:15:31,666
+The agreement between them is the strongest
+
+404
+00:15:31,666 --> 00:15:32,781
+evidence we have.
+
+405
+00:15:33,132 --> 00:15:35,767
+Another choice is easy to miss.
+
+406
+00:15:35,947 --> 00:15:38,130
+Top Gear says Moers did not want
+
+407
+00:15:38,130 --> 00:15:39,903
+the car to go racing at Le
+
+408
+00:15:39,903 --> 00:15:42,494
+Mans, because he did not like spending
+
+409
+00:15:42,494 --> 00:15:44,813
+heavily on a series that relied on
+
+410
+00:15:44,813 --> 00:15:46,791
+balance of performance rules.
+
+411
+00:15:46,971 --> 00:15:49,553
+And he said he was not interested
+
+412
+00:15:49,553 --> 00:15:51,353
+in a speed competition,
+
+413
+00:15:51,353 --> 00:15:54,952
+preferring the experience of driving a Formula
+
+414
+00:15:54,952 --> 00:15:57,847
+One powertrain to chasing a top speed
+
+415
+00:15:57,847 --> 00:15:58,395
+record.
+
+416
+00:15:58,745 --> 00:16:00,425
+That tells you what the car is
+
+417
+00:16:00,425 --> 00:16:00,649
+for.
+
+418
+00:16:00,829 --> 00:16:02,953
+Moers said he was content with a
+
+419
+00:16:02,953 --> 00:16:05,277
+top speed of three hundred fifty to
+
+420
+00:16:05,277 --> 00:16:07,800
+four hundred kilometres per hour and a
+
+421
+00:16:07,800 --> 00:16:08,863
+Nürburgring lap.
+
+422
+00:16:09,043 --> 00:16:11,788
+The listed top speed is three hundred
+
+423
+00:16:11,788 --> 00:16:14,904
+fifty-two, and the car did set Nürburgring
+
+424
+00:16:14,904 --> 00:16:15,498
+records.
+
+425
+00:16:15,678 --> 00:16:16,689
+By our reading,
+
+426
+00:16:16,689 --> 00:16:18,778
+the company got what it said it
+
+427
+00:16:18,778 --> 00:16:21,204
+wanted, even if later than promised.
+
+428
+00:16:21,555 --> 00:16:23,841
+Some arithmetic on the engine,
+
+429
+00:16:23,841 --> 00:16:25,746
+clearly labelled as ours.
+
+430
+00:16:25,926 --> 00:16:29,543
+Five hundred seventy-four metric horsepower from one
+
+431
+00:16:29,543 --> 00:16:32,256
+point six litres is about three hundred
+
+432
+00:16:32,256 --> 00:16:34,482
+fifty-nine horsepower per litre.
+
+433
+00:16:34,662 --> 00:16:37,105
+The electric side adds the rest of
+
+434
+00:16:37,105 --> 00:16:39,620
+the one thousand sixty-three total.
+
+435
+00:16:39,800 --> 00:16:42,477
+So about fifty-four percent of the power
+
+436
+00:16:42,477 --> 00:16:44,685
+comes from the combustion engine,
+
+437
+00:16:44,685 --> 00:16:47,697
+and about forty-six percent from the electric
+
+438
+00:16:47,697 --> 00:16:48,031
+side.
+
+439
+00:16:48,382 --> 00:16:49,241
+And the revs.
+
+440
+00:16:49,421 --> 00:16:52,931
+CarAdvice says the redline fell from fourteen
+
+441
+00:16:52,931 --> 00:16:56,207
+thousand in Formula One to eleven thousand
+
+442
+00:16:56,207 --> 00:16:57,455
+in the road car.
+
+443
+00:16:57,635 --> 00:16:58,900
+By our arithmetic,
+
+444
+00:16:58,900 --> 00:17:01,640
+that is about twenty-one percent lower.
+
+445
+00:17:01,820 --> 00:17:04,978
+The idle fell by about seventy-five percent.
+
+446
+00:17:05,158 --> 00:17:07,745
+Moderating a racing engine is not just
+
+447
+00:17:07,745 --> 00:17:09,651
+a matter of turning it down.
+
+448
+00:17:09,831 --> 00:17:12,369
+Every system around it has to work
+
+449
+00:17:12,369 --> 00:17:13,488
+in a new range.
+
+450
+00:17:13,839 --> 00:17:15,661
+Engine life is the other half.
+
+451
+00:17:15,841 --> 00:17:18,665
+Fifty thousand kilometres is a short life
+
+452
+00:17:18,665 --> 00:17:19,697
+for a road car,
+
+453
+00:17:19,697 --> 00:17:22,245
+but this is a very particular engine,
+
+454
+00:17:22,245 --> 00:17:24,793
+handled by the company that built it.
+
+455
+00:17:24,973 --> 00:17:27,012
+The owner does not rebuild it in
+
+456
+00:17:27,012 --> 00:17:27,585
+a garage.
+
+457
+00:17:27,765 --> 00:17:29,832
+The car goes back to the factory.
+
+458
+00:17:30,012 --> 00:17:32,620
+That is a very different relationship with
+
+459
+00:17:32,620 --> 00:17:35,042
+a manufacturer from the one most owners
+
+460
+00:17:35,042 --> 00:17:35,352
+have.
+
+461
+00:17:35,702 --> 00:17:36,863
+One more number.
+
+462
+00:17:37,043 --> 00:17:40,715
+Wikipedia lists a combined electric range of
+
+463
+00:17:40,715 --> 00:17:43,219
+eighteen point one kilometres.
+
+464
+00:17:43,399 --> 00:17:44,575
+By our arithmetic,
+
+465
+00:17:44,575 --> 00:17:46,338
+that is about eleven miles,
+
+466
+00:17:46,338 --> 00:17:48,232
+enough to drive out of a city
+
+467
+00:17:48,232 --> 00:17:50,713
+quietly and then switch on the engine.
+
+468
+00:17:50,893 --> 00:17:52,378
+It is a small detail,
+
+469
+00:17:52,378 --> 00:17:54,711
+but it shows the hybrid system is
+
+470
+00:17:54,711 --> 00:17:56,478
+not just there for power.
+
+471
+00:17:56,658 --> 00:17:58,797
+It also lets the car do things
+
+472
+00:17:58,797 --> 00:18:01,221
+a Formula One car never needed to.
+
+473
+00:18:01,571 --> 00:18:02,825
+Who are the owners?
+
+474
+00:18:03,005 --> 00:18:05,524
+CarAdvice says eight of the cars were
+
+475
+00:18:05,524 --> 00:18:08,315
+confirmed sold to buyers in Australia and
+
+476
+00:18:08,315 --> 00:18:09,541
+New Zealand alone.
+
+477
+00:18:09,721 --> 00:18:10,968
+By our arithmetic,
+
+478
+00:18:10,968 --> 00:18:13,322
+that is about three percent of the
+
+479
+00:18:13,322 --> 00:18:15,400
+two hundred seventy-five cars,
+
+480
+00:18:15,400 --> 00:18:17,755
+in a region far from Affalterbach.
+
+481
+00:18:17,935 --> 00:18:20,052
+It tells you the customer list was
+
+482
+00:18:20,052 --> 00:18:22,232
+global, and that the order book was
+
+483
+00:18:22,232 --> 00:18:23,415
+not a local affair.
+
+484
+00:18:23,765 --> 00:18:26,650
+Top Gear also notes that customers asked
+
+485
+00:18:26,650 --> 00:18:29,175
+Moers about racing the Project One.
+
+486
+00:18:29,355 --> 00:18:30,848
+He said no to Le Mans,
+
+487
+00:18:30,848 --> 00:18:33,360
+but the question itself is revealing.
+
+488
+00:18:33,540 --> 00:18:35,711
+People who ordered the car wanted it
+
+489
+00:18:35,711 --> 00:18:37,278
+to behave like a race car,
+
+490
+00:18:37,278 --> 00:18:38,785
+with a race car's engine,
+
+491
+00:18:38,785 --> 00:18:40,955
+and they were prepared to wait years
+
+492
+00:18:40,955 --> 00:18:41,377
+for it.
+
+493
+00:18:41,557 --> 00:18:43,786
+Patience was part of the purchase.
+
+494
+00:18:44,136 --> 00:18:47,750
+CarAdvice adds that the company's marketing head,
+
+495
+00:18:47,750 --> 00:18:51,511
+Bettina Fetzer, reportedly said a documentary about
+
+496
+00:18:51,511 --> 00:18:54,387
+the car's development was in the works.
+
+497
+00:18:54,567 --> 00:18:55,926
+That fits the story.
+
+498
+00:18:56,106 --> 00:18:58,918
+A project that begins as a Frankfurt
+
+499
+00:18:58,918 --> 00:19:00,871
+show car, slips by years,
+
+500
+00:19:00,871 --> 00:19:03,917
+and ends as a record-setting machine is
+
+501
+00:19:03,917 --> 00:19:06,495
+the kind of story a company wants
+
+502
+00:19:06,495 --> 00:19:09,151
+to tell, even after it joked about
+
+503
+00:19:09,151 --> 00:19:11,338
+having said yes while drunk.
+
+504
+00:19:11,688 --> 00:19:13,545
+Put the two secrets together.
+
+505
+00:19:13,725 --> 00:19:16,581
+The engine needs a refurbishment at about
+
+506
+00:19:16,581 --> 00:19:18,393
+fifty thousand kilometres,
+
+507
+00:19:18,393 --> 00:19:21,040
+and it took years longer than promised
+
+508
+00:19:21,040 --> 00:19:23,338
+because the idle had to drop from
+
+509
+00:19:23,338 --> 00:19:25,359
+five thousand r p m to around
+
+510
+00:19:25,359 --> 00:19:26,403
+twelve hundred.
+
+511
+00:19:26,583 --> 00:19:29,114
+Both facts come from the same cause.
+
+512
+00:19:29,294 --> 00:19:31,643
+The engine was never designed for a
+
+513
+00:19:31,643 --> 00:19:33,790
+road, and the work was making it
+
+514
+00:19:33,790 --> 00:19:35,065
+behave like it was.
+
+515
+00:19:35,415 --> 00:19:38,306
+This is a pattern in extreme cars.
+
+516
+00:19:38,486 --> 00:19:40,563
+The closer a road car stays to
+
+517
+00:19:40,563 --> 00:19:41,809
+a racing original,
+
+518
+00:19:41,809 --> 00:19:43,748
+the more it costs to run and
+
+519
+00:19:43,748 --> 00:19:46,102
+the longer it takes to make legal.
+
+520
+00:19:46,282 --> 00:19:48,627
+Mercedes chose to stay close.
+
+521
+00:19:48,807 --> 00:19:51,309
+The reward is performance that no ordinary
+
+522
+00:19:51,309 --> 00:19:52,441
+road car can reach.
+
+523
+00:19:52,621 --> 00:19:53,812
+The price is time,
+
+524
+00:19:53,812 --> 00:19:55,268
+money and maintenance,
+
+525
+00:19:55,268 --> 00:19:57,718
+and the owners accepted it with their
+
+526
+00:19:57,718 --> 00:19:58,379
+eyes open.
+
+527
+00:19:58,730 --> 00:19:59,682
+Was it worth it?
+
+528
+00:19:59,862 --> 00:20:01,510
+That depends on what you value.
+
+529
+00:20:01,690 --> 00:20:05,568
+Wikipedia reports that all two hundred seventy-five
+
+530
+00:20:05,568 --> 00:20:08,305
+cars sold, with more than four times
+
+531
+00:20:08,305 --> 00:20:09,446
+as many orders.
+
+532
+00:20:09,626 --> 00:20:10,974
+By that measure,
+
+533
+00:20:10,974 --> 00:20:12,575
+buyers decided yes.
+
+534
+00:20:12,755 --> 00:20:14,967
+But a few people at the company,
+
+535
+00:20:14,967 --> 00:20:17,111
+as the Källenius joke suggests,
+
+536
+00:20:17,111 --> 00:20:18,978
+were less sure at the time.
+
+537
+00:20:19,158 --> 00:20:21,631
+We simply report what the sources say.
+
+538
+00:20:21,981 --> 00:20:23,200
+And it was not alone.
+
+539
+00:20:23,380 --> 00:20:25,184
+Aston Martin's Valkyrie,
+
+540
+00:20:25,184 --> 00:20:27,438
+with a Cosworth V twelve and a
+
+541
+00:20:27,438 --> 00:20:30,520
+hybrid system, was built by a partnership
+
+542
+00:20:30,520 --> 00:20:33,226
+with Red Bull Racing's Adrian Newey,
+
+543
+00:20:33,226 --> 00:20:34,804
+and arrived late too.
+
+544
+00:20:34,984 --> 00:20:37,562
+In another video of this series we
+
+545
+00:20:37,562 --> 00:20:39,837
+compare the two cars directly.
+
+546
+00:20:40,017 --> 00:20:42,206
+In another, we count the real cost
+
+547
+00:20:42,206 --> 00:20:44,331
+of an engine that needs a rebuild
+
+548
+00:20:44,331 --> 00:20:46,391
+every fifty thousand kilometres.
+
+549
+00:20:46,741 --> 00:20:47,797
+A caution.
+
+550
+00:20:47,977 --> 00:20:49,655
+We have not driven the car,
+
+551
+00:20:49,655 --> 00:20:52,079
+and every figure comes from the sources
+
+552
+00:20:52,079 --> 00:20:53,260
+in the description.
+
+553
+00:20:53,440 --> 00:20:56,680
+Where Wikipedia and CarAdvice disagree,
+
+554
+00:20:56,680 --> 00:20:59,339
+on the idle speed and the price,
+
+555
+00:20:59,339 --> 00:21:00,336
+we told you.
+
+556
+00:21:00,516 --> 00:21:02,186
+We do not know the cost of
+
+557
+00:21:02,186 --> 00:21:03,792
+the engine refurbishment,
+
+558
+00:21:03,792 --> 00:21:05,462
+so we did not make one up.
+
+559
+00:21:05,642 --> 00:21:08,189
+Treat our arithmetic as arithmetic,
+
+560
+00:21:08,189 --> 00:21:09,717
+not as a measurement.
+
+561
+00:21:10,067 --> 00:21:12,352
+Which secret surprised you more,
+
+562
+00:21:12,352 --> 00:21:15,350
+the fifty thousand kilometre engine or the
+
+563
+00:21:15,350 --> 00:21:17,207
+twelve hundred r p m idle?
+
+564
+00:21:17,387 --> 00:21:18,873
+Tell us in the comments.
+
+565
+00:21:19,053 --> 00:21:21,249
+If you would rather spend your money
+
+566
+00:21:21,249 --> 00:21:23,507
+on something you can drive every day,
+
+567
+00:21:23,507 --> 00:21:26,313
+our twenty twenty-seven Truck Buyer's Guide is
+
+568
+00:21:26,313 --> 00:21:27,900
+linked in the description.
+
+569
+00:21:28,080 --> 00:21:31,380
+Subscribe to Pickup Reality for more of
+
+570
+00:21:31,380 --> 00:21:34,256
+the cars people really talk about.
