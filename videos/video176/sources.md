@@ -1,0 +1,12 @@
+- Wikipedia, Enzo Ferrari (automobile): https://en.wikipedia.org/wiki/Ferrari_Enzo
+- Wikipedia, Ferrari F50: https://en.wikipedia.org/wiki/Ferrari_F50
+- RM Sotheby's, 2003 Ferrari Enzo, London 2014: https://rmsothebys.com/auctions/lf14/lots/r192-2003-ferrari-enzo/
+- RM Sotheby's, 2003 Ferrari Enzo, Arizona 2017: https://rmsothebys.com/auctions/az17/lots/r162-2003-ferrari-enzo/
+- RM Sotheby's, 2004 Ferrari Enzo, California 2015: https://rmsothebys.com/auctions/ca15/lots/r0021-2004-ferrari-enzo/
+- RM Sotheby's, 1995 Ferrari F50, Monterey 2021: https://rmsothebys.com/auctions/mo21/lots/r0065-1995-ferrari-f50/
+- Sports Car Market, 2003 Ferrari Enzo analysis, 17 Oct 2018: https://www.sportscarmarket.com/?p=709130
+- Sports Car Market, 1996 Ferrari F50 profile: https://www.sportscarmarket.com/profile/1996-ferrari-f50
+- Hagerty Valuation Tools, 2003 Ferrari Enzo: https://hagerty.com/apps/valuationtools/2003-Ferrari-Enzo
+- evo (John Barker), Great Ferrari hypercars driven, 23 Oct 2024: https://www.evo.co.uk/ferrari/204743/great-ferrari-hypercars-driven-288-gto-f40-f50-and-enzo-head-to-head
+- Jalopnik (Máté Petrány), What the hell is wrong with the Ferrari F50?, 13 Jul 2010: https://jalopnik.com/what-the-hell-is-wrong-with-the-ferrari-f50-5500297
+- Italpassion, Quatre icônes Ferrari (F40, F50, Enzo, LaFerrari): https://www.italpassion.fr/ferrari/quatre-icones-ferrari-f40-f50-enzo-et-laferrari-dans-une-meme-vente-aux-encheres-toutes-a-des-prix-records/

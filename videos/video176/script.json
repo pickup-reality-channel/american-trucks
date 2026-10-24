@@ -1,0 +1,320 @@
+{
+ "id": "video176",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind the Ferrari Enzo",
+ "scenes": [
+  {
+   "text": "A car named after a dead man, sold only to people Ferrari chose, with a final example given to a Pope. That is the short version of the Ferrari Enzo. The long version is stranger: a road car built with Formula One technology that Formula One itself would not allow, whose numbers every source reports differently. This is the story behind the Ferrari Enzo, and where the tellers disagree.",
+   "query": "The Enzo story",
+   "caption": "THE INSANE STORY BEHIND THE FERRARI ENZO",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's pages on the Enzo and the F50, RM Sotheby's catalogue pages for four different cars, Sports Car Market, Hagerty, the magazine evo, Jalopnik, the DuPont Registry and Italpassion. Where they conflict, we show both versions. Our own arithmetic is labelled, and what we could not find is flagged.",
+   "query": "Sources",
+   "caption": "SOURCES: WIKIPEDIA (ENZO, F50) \u00b7 RM SOTHEBY'S (LONDON 2014, ARIZONA 2017, CALIFORNIA 2015, MONTEREY 2021) \u00b7 SCM \u00b7 HAGERTY \u00b7 EVO \u00b7 JALOPNIK \u00b7 DUPONT REGISTRY \u00b7 ITALPASSION \u00b7 CONFLICTS SHOWN",
+   "cuts": 8
+  },
+  {
+   "text": "Ferrari's previous hypercar, the F50, was not a hit. Sports Car Market says its production run of three hundred forty-nine was one car less than the market demanded, that first owners leased rather than bought, and that the F40 hit a hot button which the F50 simply missed. Jalopnik, in twenty ten, called the F50 the unloved middle child.",
+   "query": "The unloved F50",
+   "caption": "SCM (F50 PROFILE): 349 BUILT, 'ONE LESS THAN THE MARKET DEMANDED'; FIRST OWNERS LEASED; 'THE F40 HIT A HOT BUTTON WHICH THE F50 SIMPLY MISSED' \u00b7 JALOPNIK (13 JUL 2010): 'UNLOVED MIDDLE CHILD'",
+   "cuts": 5,
+   "chapter": "Before the Enzo: a hard act to follow"
+  },
+  {
+   "text": "The F50 had still been a serious car. Ferrari's chairman, Luca di Montezemolo, told Motor Trend it would be the first and last Formula One car with two seats, RM Sotheby's reports. Wikipedia says the last F50 left the line in July nineteen ninety-seven. By our arithmetic, the Enzo was announced about five years and two months later.",
+   "query": "The gap",
+   "caption": "RM SOTHEBY'S (F50): MONTEZEMOLO \u2014 'THE FIRST AND LAST FORMULA 1 CAR WITH TWO SEATS' \u00b7 WIKIPEDIA (F50): LAST CAR JULY 1997 \u00b7 WIKIPEDIA (ENZO): PARIS MOTOR SHOW 2002 (RM: SEPTEMBER) \u00b7 JULY 1997 \u2192 SEPT 2002 = 5 YEARS 2 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "In between, Ferrari's Formula One team was winning. RM Sotheby's Arizona catalogue credits the Enzo's Formula One link to Ferrari's manufacturers' championships in nineteen ninety-nine and two thousand and its drivers' championship in two thousand. The London catalogue says the team had just won its second consecutive drivers' and constructors' titles and was pursuing a third.",
+   "query": "Racing success",
+   "caption": "RM SOTHEBY'S (ARIZONA 2017): FERRARI 1999 + 2000 MANUFACTURERS' CHAMPIONSHIPS; 2000 DRIVERS' CHAMPIONSHIP \u00b7 RM SOTHEBY'S (LONDON 2014): TEAM 'HAD JUST WON ITS SECOND CONSECUTIVE' DRIVERS' + CONSTRUCTORS' TITLES, PURSUING A THIRD \u00b7 THE TWO CATALOGUES USE DIFFERENT FRAMINGS",
+   "cuts": 3
+  },
+  {
+   "text": "The Arizona catalogue adds that Michael Schumacher was just getting started on what it calls a still unequalled feat of five consecutive championships. That is the catalogue's framing, not a quote from Ferrari. It does not say Schumacher worked on the Enzo; Wikipedia only mentions him in connection with the later FXX track car. We cannot confirm any development role.",
+   "query": "Schumacher",
+   "caption": "RM SOTHEBY'S (ARIZONA 2017): SCHUMACHER 'JUST GETTING STARTED ON HIS HISTORIC DOMINANCE OF F1' \u00b7 'FIVE CONSECUTIVE CHAMPIONSHIPS' (CATALOGUE'S FRAMING) \u00b7 WIKIPEDIA: SCHUMACHER MENTIONED FOR THE FXX (2009) ONLY \u00b7 SCHUMACHER'S ROLE IN ENZO DEVELOPMENT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The name came from the top. RM Sotheby's says the car was named Enzo, not F60, per Montezemolo. Wikipedia says it is officially marketed as Enzo Ferrari. The Arizona catalogue says that in mid-two thousand two Montezemolo introduced the car as honouring the company's founder and as having a strong connection to Formula One.",
+   "query": "The name",
+   "caption": "RM SOTHEBY'S (CA15): NAMED 'ENZO' INSTEAD OF 'F60', PER MONTEZEMOLO \u00b7 WIKIPEDIA: 'OFFICIALLY MARKETED AS ENZO FERRARI' \u00b7 RM SOTHEBY'S (ARIZONA 2017): INTRODUCED MID-2002 AS HONOURING THE FOUNDER, STRONG F1 LINK",
+   "cuts": 3,
+   "chapter": "Naming and building the car"
+  },
+  {
+   "text": "The engine was new. The catalogue says the six litre Tipo F140 B was purpose-built for the car, and was the largest engine from Maranello since the seven twelve Can-Am race car. Wikipedia lists six hundred sixty metric horsepower. By our arithmetic, the car made a hundred ten metric horsepower per litre. The Can-Am car's size is not given in our sources.",
+   "query": "A new V12",
+   "caption": "RM SOTHEBY'S (ARIZONA 2017 + LONDON 2014): TIPO F140 B 5,998 CC, PURPOSE-BUILT; 'LARGEST MARANELLO ENGINE SINCE THE 712 CAN-AM' \u00b7 WIKIPEDIA: 660 PS \u00b7 660 \u00f7 5.9988 = 110 PS/L (OUR ARITHMETIC) \u00b7 712 CAN-AM DISPLACEMENT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The structure was carbon. The Arizona catalogue says a carbon-fibre and Nomex honeycomb tub weighing about two hundred pounds carried aluminium sub-frames. By our arithmetic, that is about ninety-one kilograms. Wikipedia describes a carbon-fibre body too, plus carbon-ceramic brakes, and active aerodynamics that Formula One did not allow.",
+   "query": "The tub",
+   "caption": "RM SOTHEBY'S (ARIZONA 2017): CARBON + NOMEX TUB ~200 LB (= 90.7 KG, OUR ARITHMETIC) WITH ALUMINIUM SUB-FRAMES \u00b7 WIKIPEDIA: CARBON-FIBRE BODY; C/SIC CERAMIC BRAKES; ACTIVE AERO 'WHICH F1 DID NOT ALLOW'",
+   "cuts": 3
+  },
+  {
+   "text": "The shape came from Ken Okuyama, who Wikipedia names as Pininfarina's head of design at the time. The Arizona catalogue says Okuyama penned the exterior, Pininfarina built the coachwork, and the design was aerodynamically perfected in Pininfarina's wind tunnel. Wikipedia lists the downforce at three hundred forty-three kilograms at two hundred kilometres an hour.",
+   "query": "The shape",
+   "caption": "WIKIPEDIA: DESIGNED BY KEN OKUYAMA, PININFARINA HEAD OF DESIGN \u00b7 RM (ARIZONA 2017): OKUYAMA PENNED EXTERIOR; PININFARINA BUILT COACHWORK; WIND-TUNNEL PERFECTED \u00b7 WIKIPEDIA: DOWNFORCE 343 KG @ 200 KM/H, 775 KG @ 300, 585 KG AT TOP SPEED",
+   "cuts": 3
+  },
+  {
+   "text": "The test cars were disguised. Wikipedia says three development mules, called M1, M2 and M3, used bodywork from the Ferrari three forty-eight. The third mule sold at auction in June two thousand five for one hundred ninety-five thousand five hundred euros, or two hundred thirty-six thousand three hundred dollars. By our arithmetic, that is thirty-seven percent of the Enzo's list price.",
+   "query": "The mules",
+   "caption": "WIKIPEDIA: MULES M1\u2013M3 USED 348 BODYWORK \u00b7 M3 SOLD JUNE 2005 \u20ac195,500 (US$236,300) \u00b7 SCM LIST $643,330 \u00b7 236,300 \u00f7 643,330 = 36.7% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The gearbox was the headline. Wikipedia says it was an F1-style automated manual with paddle shifters, built by Graziano, shifting in one hundred fifty milliseconds. RM Sotheby's London page says the car was Ferrari's fastest road car at the time. But Wikipedia also notes the gearbox was a first-generation clutchless design with complaints about abrupt shifts.",
+   "query": "The gearbox",
+   "caption": "WIKIPEDIA: F1-STYLE AUTOMATED MANUAL, GRAZIANO, 150 MS; 'FIRST-GENERATION' WITH ABRUPT-SHIFT COMPLAINTS \u00b7 RM (LONDON 2014): 'FERRARI'S FASTEST ROAD CAR AT THE TIME'",
+   "cuts": 3
+  },
+  {
+   "text": "The Enzo was unveiled at the Paris Auto Show in September two thousand two, per RM Sotheby's. Wikipedia says it was announced at the two thousand two Paris show and does not give the month. Wikipedia also records a surprising earlier appearance: the actress Demi Moore drove an Enzo show car on a beach in Charlie's Angels: Full Throttle before the Paris unveiling.",
+   "query": "Paris, 2002",
+   "caption": "RM SOTHEBY'S: UNVEILED PARIS AUTO SHOW, SEPTEMBER 2002 \u00b7 WIKIPEDIA: ANNOUNCED PARIS MOTOR SHOW 2002 (NO MONTH) \u00b7 DEMI MOORE DROVE A SHOW CAR ON A BEACH IN CHARLIE'S ANGELS: FULL THROTTLE BEFORE THE UNVEILING (WIKIPEDIA; ONE LINE, NO DETAIL)",
+   "cuts": 3,
+   "chapter": "The reveal"
+  },
+  {
+   "text": "The reception was split. Sports Car International ranked it third among the top sports cars of the two thousands, and Motor Trend Classic ranked it fourth among the greatest Ferraris, Wikipedia says. But the same page notes Bloomberg Businessweek put it among the fifty ugliest cars. Jalopnik said in twenty ten that it had aged well and would not draw design complaints today.",
+   "query": "Reception",
+   "caption": "WIKIPEDIA: SPORTS CAR INTERNATIONAL #3 OF THE 2000s (2004) \u00b7 MOTOR TREND CLASSIC #4 GREATEST FERRARIS \u00b7 BLOOMBERG BUSINESSWEEK 'FIFTY UGLIEST' \u00b7 JALOPNIK (13 JUL 2010): 'AGED WELL'",
+   "cuts": 3
+  },
+  {
+   "text": "The performance numbers were contested from the start. Road and Track, via RM Sotheby's, recorded zero to sixty in three point three seconds. RM's London catalogue claims three point six. Wikipedia lists three point one four seconds, but measured downhill with a rollout, and Motor Trend's three point three. By our arithmetic, the catalogue's claim is nine percent slower than Road and Track's test.",
+   "query": "Which 0\u201360?",
+   "caption": "RM (CA15, R&T): 3.3 S \u00b7 RM (LONDON 2014): 'CLAIMED' 3.6 S \u00b7 WIKIPEDIA: 3.14 S (DOWNHILL, 1-FT ROLLOUT); MOTOR TREND 3.3 S \u00b7 3.6 \u00f7 3.3 = +9.1% \u00b7 3.3 \u00f7 3.14 = +5.1% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed was similar. Wikipedia says up to three hundred fifty-five kilometres an hour, which is two hundred twenty-one miles an hour, while RM Sotheby's and Sports Car Market say two hundred eighteen. RM's London page compares the car to the Porsche Carrera GT and the Mercedes-Benz SLR McLaren. Wikipedia says the Carrera GT was one point one seconds quicker at Bedford Autodrome.",
+   "query": "The rivals",
+   "caption": "WIKIPEDIA: TOP SPEED UP TO 355 KM/H (221 MPH) \u00b7 RM + SCM: 218 MPH \u00b7 RM (LONDON 2014): COMPARED WITH PORSCHE CARRERA GT + MERCEDES-BENZ SLR MCLAREN \u00b7 WIKIPEDIA: BEDFORD AUTODROME WEST 1:21.3, ~1.1 S SLOWER THAN THE CARRERA GT",
+   "cuts": 3
+  },
+  {
+   "text": "You could not simply order an Enzo. RM Sotheby's London page says Ferrari invited only its best existing owners. The California page says buyers were generally owners of the F50 and F40. Wikipedia agrees that invitations went to F40 and F50 owners. By design, the people who had bought, or leased, the previous two cars got first call.",
+   "query": "By invitation",
+   "caption": "RM (LONDON 2014): 'INVITED ONLY THEIR BEST EXISTING OWNERS' \u00b7 RM (CA15): 'GENERALLY BUYERS OF THE F50 AND F40' \u00b7 WIKIPEDIA: INVITATIONS TO F40 + F50 OWNERS",
+   "cuts": 3,
+   "chapter": "Who could buy one"
+  },
+  {
+   "text": "The numbers moved. RM says three hundred forty-nine cars were planned, all allocated before production began. After many client requests, Ferrari added fifty, for three hundred ninety-nine. Wikipedia says the run was announced as three hundred ninety-nine, and the Arizona catalogue says production was capped at four hundred, with three hundred ninety-nine going to customers and the last earmarked for the Pope.",
+   "query": "349, 399, 400",
+   "caption": "RM (LONDON 2014): 349 PLANNED, ALL ALLOCATED; 'AFTER MANY CLIENT REQUESTS' +50 = 399 \u00b7 WIKIPEDIA: ANNOUNCED AS 399 \u00b7 RM (ARIZONA 2017): CAPPED AT 400; 399 TO CUSTOMERS; 400TH FOR THE POPE \u00b7 349 + 50 = 399 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Not everyone agrees on the total. Wikipedia's text says four hundred ninety-eight were built, while Hagerty, Sports Car Market and the PistonHeads listing say four hundred. Italpassion says four hundred ninety-eight, with one hundred eleven for the United States. By our arithmetic, the disputed difference is ninety-eight cars, and no source explains it.",
+   "query": "498 or 400?",
+   "caption": "WIKIPEDIA + ITALPASSION: 498 \u00b7 HAGERTY + SCM + PISTONHEADS: 400 \u00b7 498 \u2212 400 = 98 (OUR ARITHMETIC) \u00b7 REASON: NOT STATED \u00b7 HAGERTY US: 80 vs ITALPASSION US: 111",
+   "cuts": 3
+  },
+  {
+   "text": "One named first owner appears in our sources. RM Sotheby's Arizona catalogue says a two thousand three Enzo was delivered new to the fashion designer Tommy Hilfiger, through Miller Motorcars in Greenwich, Connecticut. The catalogue notes Hilfiger sponsored Scuderia Ferrari in the early two thousands and designed the drivers' uniforms. At a service in September twenty sixteen, it showed three thousand six hundred twenty miles.",
+   "query": "Tommy Hilfiger",
+   "caption": "RM SOTHEBY'S (ARIZONA 2017): FIRST AND ONLY OWNER TOMMY HILFIGER (FASHION DESIGNER), DELIVERED VIA MILLER MOTORCARS, GREENWICH CT \u00b7 HILFIGER SPONSORED SCUDERIA FERRARI IN EARLY 2000s; DESIGNED F1 DRIVERS' UNIFORMS \u00b7 3,620 MI AT SEPT 2016 SERVICE",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, that car covered about three thousand six hundred miles in thirteen years, an average of under three hundred miles a year. The catalogue sold it for two million six hundred ninety-five thousand dollars in Arizona in twenty seventeen, about four point two times the Enzo's list price of six hundred forty-three thousand three hundred thirty dollars.",
+   "query": "A garaged Enzo",
+   "caption": "3,620 MI IN ~13.5 YEARS (2003 \u2192 SEP 2016) = ~270 MI/YEAR \u00b7 RM (ARIZONA 2017): $2,695,000 \u00b7 2,695,000 \u00f7 643,330 = 4.2\u00d7 (OUR ARITHMETIC; SALE DATE WITHIN 2017 NOT GIVEN)",
+   "cuts": 3
+  },
+  {
+   "text": "The final car is the oddest part of the story. RM Sotheby's London says a four hundredth Enzo was presented to Pope John Paul II as a gift and later auctioned for charity on his behalf. The California page says it was built for him. Wikipedia says the four hundredth car was built in two thousand four and donated to the Vatican for charity.",
+   "query": "A papal Enzo",
+   "caption": "RM (LONDON 2014): 400TH 'PRESENTED TO POPE JOHN PAUL II AS A GIFT AND LATER AUCTIONED FOR CHARITY ON HIS BEHALF' \u00b7 RM (CA15): 'BUILT FOR POPE JOHN PAUL II' \u00b7 WIKIPEDIA: BUILT 2004, DONATED TO THE VATICAN FOR CHARITY",
+   "cuts": 3,
+   "chapter": "The 400th car"
+  },
+  {
+   "text": "The charity is disputed. Wikipedia says the car later sold at Sotheby's for one point one million dollars. But its own cited sources reference a donation to St. Jude Children's Research Hospital, and carry a date of December two thousand five. By our arithmetic, one point one million dollars was one point seven times the list price. We cannot resolve the charity question.",
+   "query": "Which charity?",
+   "caption": "WIKIPEDIA: SOLD AT SOTHEBY'S FOR US$1.1 M \u00b7 CITED SOURCES REFERENCE ST. JUDE CHILDREN'S RESEARCH HOSPITAL; DATED DEC 2005 \u00b7 1,100,000 \u00f7 643,330 = 1.7\u00d7 (OUR ARITHMETIC) \u00b7 CHARITY / BUYER / SALE DATE: UNRESOLVED",
+   "cuts": 3
+  },
+  {
+   "text": "Several details of the papal car are missing from our sources: the date it was handed over, the buyer, and the exact sale date. RM Sotheby's calls it a gift, Wikipedia says it was donated for charity, and the catalogue for the Arizona car says the four hundredth was earmarked for the Pope. We report each wording as it appears.",
+   "query": "Missing details",
+   "caption": "RM (LONDON 2014): 'PRESENTED \u2026 AS A GIFT' \u00b7 WIKIPEDIA: 'DONATED TO THE VATICAN FOR CHARITY' \u00b7 RM (ARIZONA 2017): 'EARMARKED FOR THE POPE' \u00b7 HANDOVER DATE, BUYER, SALE DATE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The Enzo spawned relatives. Wikipedia says Maserati built fifty MC12s from the Enzo's engine, chassis and gearbox, because racing homologation required twenty-five road cars. Ferrari's own FXX, loosely based on the Enzo, cost one point three million euros initially and stayed under Ferrari's control for use by selected clients on track. The program ran until two thousand nine.",
+   "query": "Relatives",
+   "caption": "WIKIPEDIA: MASERATI MC12 (2004\u201305) \u2014 SAME ENGINE, CHASSIS, GEARBOX \u00b7 50 BUILT \u00b7 25 ROAD CARS FOR HOMOLOGATION \u00b7 FXX (2005) \u20ac1.3 M, CLIENT TRACK USE, TO 2009",
+   "cuts": 3,
+   "chapter": "Siblings and offshoots"
+  },
+  {
+   "text": "The most famous FXX moment involved Schumacher. Wikipedia says that in a two thousand nine Top Gear test, he set a lap of one minute ten point seven seconds in the FXX, wearing the Stig's white suit because Ben Collins was not a selected client. The record was later removed, because the car was not road-legal.",
+   "query": "The white suit",
+   "caption": "WIKIPEDIA: FXX \u2014 SCHUMACHER 1:10.7, TOP GEAR 2009 \u00b7 WORE THE STIG'S WHITE SUIT (BEN COLLINS NOT A SELECTED CLIENT) \u00b7 RECORD REMOVED (NOT ROAD-LEGAL)",
+   "cuts": 3
+  },
+  {
+   "text": "A one-off followed. Wikipedia says James Glickenhaus commissioned the Ferrari P four five by Pininfarina on the last unregistered US-specification Enzo chassis, keeping the Enzo's drivetrain and identification number. By our arithmetic, that means the unique car is, in law, an Enzo that was rebodied. The page does not discuss that legal question, so we just flag it.",
+   "query": "P4/5",
+   "caption": "WIKIPEDIA: FERRARI P 4/5 BY PININFARINA (2006), COMMISSIONED BY JAMES GLICKENHAUS, LAST UNREGISTERED US-SPEC ENZO CHASSIS, KEEPS DRIVETRAIN + VIN \u00b7 'IN LAW AN ENZO' = OUR INFERENCE; LEGAL STATUS NOT DISCUSSED",
+   "cuts": 3
+  },
+  {
+   "text": "For the first years, the Enzo sold for a premium. Wikipedia says the Pope's car made one point one million dollars. By two thousand fourteen, RM Sotheby's sold a one-owner car with under nineteen hundred kilometres in London for nine hundred fifty-two thousand pounds. We do not have a currency source to convert that, so we leave the pounds as pounds.",
+   "query": "Early sales",
+   "caption": "WIKIPEDIA: 400TH CAR $1.1 M (CITED SOURCES DATE DEC 2005) \u00b7 RM SOTHEBY'S LONDON 2014 (LOT 140): \u00a3952,000, <1,900 KM, ONE OWNER, CLASSICHE \u00b7 NO EXCHANGE-RATE SOURCE \u2192 NOT CONVERTED",
+   "cuts": 3,
+   "chapter": "Life on the market"
+  },
+  {
+   "text": "Then the money rose. RM Sotheby's California sale in twenty fifteen lists a two thousand four Enzo at one million eight hundred seventy thousand dollars. Arizona, twenty seventeen, two million six hundred ninety-five thousand. Sports Car Market reports two million five hundred thirty thousand seven hundred seventy-four in London in September twenty eighteen, including the buyer's premium, and a recent Mecum result of two million eight hundred sixty thousand, from Hagerty.",
+   "query": "The climb",
+   "caption": "RM CA15: $1,870,000 \u00b7 RM ARIZONA 2017: $2,695,000 \u00b7 SCM: $2,530,774 (RM LONDON, 15 SEP 2018, INCL. PREMIUM) \u00b7 HAGERTY: $2,860,000 MECUM 16 AUG 2024 \u00b7 SALES ARE DIFFERENT CARS WITH DIFFERENT MILEAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Hagerty now puts a good Enzo at three million six hundred thousand dollars, flat for twelve months. By our arithmetic, that is about five point six times the list price and three point three times the Pope's car. Italpassion lists a claimed record of six point oh five million dollars from Monterey in twenty fifteen, which conflicts with Hagerty's highest recorded sale of four million five hundred ten thousand.",
+   "query": "Today",
+   "caption": "HAGERTY: $3,600,000 (#3 'GOOD'), 12-MONTH 0% \u00b7 3.6 \u00f7 0.64333 = 5.6\u00d7 \u00b7 3.6 \u00f7 1.1 = 3.3\u00d7 (OUR ARITHMETIC) \u00b7 ITALPASSION RECORD $6.05 M (MONTEREY 2015) vs HAGERTY HIGH $4.51 M \u2192 CONFLICT",
+   "cuts": 3
+  },
+  {
+   "text": "A January twenty twenty-six sale in Phoenix has an estimate of five to six million dollars for an Enzo with just seven hundred forty-six miles, Italpassion says. The same page puts a F50 at seven to nine million. We don't have the results. So the pre-sale numbers say collectors value a nearly unused Enzo far above Hagerty's typical figure, but those are guesses by the auction house.",
+   "query": "A fresh estimate",
+   "caption": "ITALPASSION (RM PHOENIX, 23 JAN 2026): ENZO 746 MI, ESTIMATE $5\u20136 M \u00b7 F50 ESTIMATE $7\u20139 M \u00b7 RESULTS: NOT IN OUR SOURCES \u00b7 ESTIMATES = AUCTION HOUSE'S, NOT PRICES",
+   "cuts": 3
+  },
+  {
+   "text": "There is a darker footnote. RM Sotheby's California page says that an alarming number of the four hundred have been written off by inexperienced or cavalier drivers, which makes well-kept examples more desirable. The page does not give a number, and our other sources do not either, so we cannot say how many survive.",
+   "query": "Written off",
+   "caption": "RM SOTHEBY'S (CA15): 'AN ALARMING NUMBER' OF THE 400 'WRITTEN OFF' BY 'INEXPERIENCED OR CAVALIER DRIVERS' \u00b7 COUNT / SURVIVORS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A final data point on scarcity. Hagerty records only sixty-six sales of two thousand two to two thousand four Enzos, and six public auction sales of the two thousand three model in the last three years. By our arithmetic, that is two public sales a year. For a car with about four hundred built, that is a rare event, and every sale becomes news.",
+   "query": "How often one sells",
+   "caption": "HAGERTY: 66 SALES (2002\u201304 ENZO) \u00b7 6 PUBLIC AUCTION SALES (2003 MODEL, LAST 3 YEARS) = 2/YEAR (OUR ARITHMETIC) \u00b7 ~400 BUILT \u00b7 'EVERY SALE BECOMES NEWS' = OUR OPINION",
+   "cuts": 3
+  },
+  {
+   "text": "How does the Enzo rank against its siblings? Evo's February two thousand four group test put it third of four, behind the Ferrari two eighty-eight GTO and the F50, ahead of the F40. Bovingdon complained of no steering feel. Meaden said there is not enough to do except hang on and concentrate on braking points. The fastest of the four was not the favourite.",
+   "query": "Evo's verdict",
+   "caption": "EVO (BARKER; ISSUE 64, FEB 2004): 288 GTO > F50 > ENZO > F40 \u00b7 BOVINGDON: 'STEERING FEEL, OF WHICH THE ENZO HAS NONE' \u00b7 MEADEN: 'NOT ENOUGH TO DO OTHER THAN HANG ON TIGHT\u2026' \u00b7 'FASTEST WAS NOT THE FAVOURITE' = OUR SUMMARY",
+   "cuts": 3,
+   "chapter": "The legacy"
+  },
+  {
+   "text": "And yet, the car's value has overtaken what most of its contemporaries have earned. Sports Car Market wrote in two thousand eighteen that the number of Enzos does not grow while the number of supercar collectors does. That is an analyst's view, and the same analyst said buyers would not do as well as the seller, a forecast that has so far been wrong.",
+   "query": "A collector's argument",
+   "caption": "SCM (2018): 'THE NUMBER OF ENZOS DOESN'T [GROW]' WHILE COLLECTORS DO \u00b7 'NEW OWNER WILL NOT DO NEARLY AS WELL' \u2192 HAGERTY TODAY +42% vs 2018 SALE (3,600,000 \u00f7 2,530,774, OUR ARITHMETIC) \u00b7 'WRONG SO FAR' = OUR OBSERVATION",
+   "cuts": 3
+  },
+  {
+   "text": "Motor Trend Classic's ranking of the Enzo as the fourth greatest Ferrari, and Sports Car International's third place for the decade, are from Wikipedia. Neither is dated beyond the page. Jalopnik argued the Enzo would not draw design complaints if introduced today. As a story about taste, the Enzo went from controversial to collectible within about two decades.",
+   "query": "From ugly to icon",
+   "caption": "WIKIPEDIA: MOTOR TREND CLASSIC #4 GREATEST FERRARIS (UNDATED) \u00b7 SPORTS CAR INTERNATIONAL #3 (2004) \u00b7 BLOOMBERG BUSINESSWEEK 'UGLIEST' (UNDATED) \u00b7 JALOPNIK 2010 \u00b7 'ABOUT TWO DECADES' \u2248 2002 \u2192 2026 = 24 YEARS (OUR ARITHMETIC; 'CONTROVERSIAL' PER BLOOMBERG LIST, 'COLLECTIBLE' PER RM)",
+   "cuts": 3
+  },
+  {
+   "text": "So here is the story in order. A hypercar that followed an unloved predecessor, built with technology Formula One banned, sold by invitation to chosen owners, with a four hundredth car for a Pope. Its numbers are argued over to this day: nought to sixty, top speed, production, even the charity. The one thing everyone agrees on is that it is now very valuable.",
+   "query": "The arc",
+   "caption": "F50 (UNLOVED) \u2192 ENZO 2002 \u00b7 ACTIVE AERO F1 BANNED \u00b7 INVITE-ONLY 349 \u2192 399 \u2192 400 \u00b7 POPE'S CAR \u00b7 DISPUTED: 0\u201360, TOP SPEED, PRODUCTION (400 / 498), CHARITY \u00b7 HAGERTY TODAY $3.6 M",
+   "cuts": 3
+  },
+  {
+   "text": "Even the car's dimensions disagree. Wikipedia lists the Enzo's wheelbase as twenty-six fifty millimetres. RM Sotheby's London page says twenty-six forty-nine, and its Arizona page says one hundred four point four inches, which by our arithmetic is twenty-six fifty-two millimetres. All are within three millimetres, so the disagreement is rounding, but it shows how the same car gets written up differently.",
+   "query": "Wheelbase",
+   "caption": "WIKIPEDIA: 2,650 MM \u00b7 RM (LONDON 2014): 2,649 MM \u00b7 RM (ARIZONA 2017): 104.4 IN = 2,651.8 MM (OUR ARITHMETIC) \u00b7 SPREAD 3 MM \u2192 ROUNDING",
+   "cuts": 3,
+   "chapter": "The details that do not match"
+  },
+  {
+   "text": "Weight is more serious. Wikipedia gives twelve fifty-five kilograms dry and fourteen eighty curb. Evo's table says twelve fifty-five dry, and does not give the curb figure. By our arithmetic, the difference between the dry and curb weights is two hundred twenty-five kilograms, or eighteen percent, though the page does not itemise what accounts for the difference.",
+   "query": "Dry or curb",
+   "caption": "WIKIPEDIA: 1,255 KG DRY \u00b7 1,480 KG CURB \u00b7 EVO: 1,255 KG DRY \u00b7 1,480 \u2212 1,255 = 225 KG (17.9%) (OUR ARITHMETIC) \u00b7 BREAKDOWN OF THE DIFFERENCE: NOT ITEMISED",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration shows the same pattern. Wikipedia lists zero to one hundred sixty-one kilometres an hour, a hundred miles an hour, in six point six seconds for the Enzo and eight point five for the F50. By our arithmetic, the Enzo was twenty-two percent quicker to that speed, a bigger gap than the fraction of a second that separated them to sixty.",
+   "query": "Versus the F50",
+   "caption": "WIKIPEDIA: 0\u2013161 KM/H (100 MPH) \u2014 ENZO 6.6 S \u00b7 F50 8.5 S \u00b7 1 \u2212 6.6 \u00f7 8.5 = 22.4% QUICKER (OUR ARITHMETIC) \u00b7 0\u201360: 3.14 / 3.3 vs 3.8 S",
+   "cuts": 3
+  },
+  {
+   "text": "Evo's table for the Enzo says six hundred fifty-one brake horsepower and a price of about four hundred twenty thousand pounds in two thousand two, with a value today of one point six to two point six million pounds. Sports Car Market's list price is six hundred forty-three thousand three hundred thirty dollars. We have no exchange-rate source, so we cannot say whether the two prices describe the same car.",
+   "query": "Two prices new",
+   "caption": "EVO: c.\u00a3420,000 (2002); VALUE TODAY \u00a31.6\u20132.6 M (ONLINE EDITION 23 OCT 2024) \u00b7 SCM: $643,330 \u00b7 GEARSHIFTERS (UNSOURCED): $650,000 / $659,330 \u00b7 NO EXCHANGE-RATE SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "The first owners' cars give a feel for the era. RM Sotheby's London page describes a one-owner car delivered in Italy with just under nineteen hundred kilometres, certified by Ferrari Classiche and recently serviced at Graypaul Nottingham. Sports Car Market's twenty eighteen car had under sixty-one hundred kilometres, one owner, and a sixteen thousand dollar service. Both were driven very little.",
+   "query": "Few miles",
+   "caption": "RM (LONDON 2014): ONE OWNER, <1,900 KM, CLASSICHE, SERVICED GRAYPAUL NOTTINGHAM, BUILT 2003, DELIVERED IN ITALY \u00b7 SCM (2018): <6,100 KM FROM NEW, ONE OWNER, ABOUT 4,000 MILES AT SALE, $16,000 SERVICE \u00b7 6,100 KM = 3,790 MI (OUR ARITHMETIC; SCM'S TWO MILEAGES DIFFER)",
+   "cuts": 3
+  },
+  {
+   "text": "Sports Car Market's own mileage figures don't match. It says less than sixty-one hundred kilometres from new, which is about thirty-eight hundred miles, and also about four thousand miles at sale. By our arithmetic, the two differ by two hundred miles, five percent. The article does not explain, and the gap is small, but it is one more example of numbers that don't line up.",
+   "query": "SCM's mileage",
+   "caption": "SCM: '<6,100 KM' (= 3,790 MI) vs 'ABOUT 4,000 MILES' \u00b7 4,000 \u2212 3,790 = 210 MI (5.2%) (OUR ARITHMETIC) \u00b7 REASON: NOT STATED (ROUNDING?)",
+   "cuts": 3
+  },
+  {
+   "text": "The price sequence is not smooth. By our arithmetic, the September twenty eighteen London sale was six percent below the Arizona sale a year earlier, then the August twenty twenty-four Mecum result was thirteen percent above the London one. Different cars, different mileage and different venues all matter. From the twenty fifteen California result to Hagerty's value, the average rise is about six percent a year.",
+   "query": "A noisy market",
+   "caption": "RM ARIZONA 2017 $2,695,000 \u2192 SCM LONDON SEP 2018 $2,530,774 = \u22126.1% \u00b7 \u2192 MECUM AUG 2024 $2,860,000 = +13.0% \u00b7 RM CA15 $1,870,000 \u2192 HAGERTY $3,600,000 = 1.93\u00d7 OVER ~11 YEARS = 6.1%/YR (OUR ARITHMETIC; DIFFERENT CARS)",
+   "cuts": 3
+  },
+  {
+   "text": "So this is how the Enzo's story reads in the numbers. A car sold by invitation at about six hundred forty thousand dollars, with a Pope's example selling for one point one million. A decade later, two to two and a half million dollars. And now, three and a half million or more. The price of the story keeps rising, even as the facts about the car remain disputed.",
+   "query": "In numbers",
+   "caption": "LIST $643,330 (SCM) \u2192 400TH CAR $1.1 M (WIKIPEDIA) \u2192 $1.87\u20132.70 M (2015\u20132018) \u2192 $3.6 M (HAGERTY TODAY) \u00b7 'THREE AND A HALF MILLION OR MORE' = HAGERTY $3.6 M, SOME ESTIMATES HIGHER \u00b7 'FACTS DISPUTED' = SEE CONFLICTS ABOVE",
+   "cuts": 3
+  },
+  {
+   "text": "The Enzo was followed by the LaFerrari. Italpassion says one LaFerrari offered at RM Sotheby's Phoenix, one of four hundred ninety-nine produced and delivered new in California, has a 6.3 litre V12 with a hybrid system making nine hundred forty-nine horsepower combined. By our arithmetic, that is forty-six percent more than the Enzo's six hundred fifty-one, and the production total is almost exactly the Enzo's four hundred.",
+   "query": "LaFerrari",
+   "caption": "ITALPASSION (RM PHOENIX, 23 JAN 2026, LOT 177): LAFERRARI \u2014 1 OF 499, DELIVERED NEW IN CALIFORNIA, 1,938 MI, 6.3 L V12 + HYBRID, 949 HP COMBINED \u00b7 949 \u00f7 651 = +45.8% (OUR ARITHMETIC) \u00b7 499 vs 400/498 ENZOS",
+   "cuts": 3,
+   "chapter": "What came next"
+  },
+  {
+   "text": "That LaFerrari's estimate was four and a half to five million dollars, Italpassion says, below the five to six million for the low-mileage Enzo on the same sale. By our arithmetic, the Enzo estimate is at least eleven percent higher. So in this one sale, the older, naturally aspirated car was expected to outprice its hybrid successor. Results are not in our sources.",
+   "query": "Older beats newer",
+   "caption": "ITALPASSION: LAFERRARI EST. $4.5\u20135 M \u00b7 ENZO EST. $5\u20136 M \u00b7 5.0 \u00f7 4.5 = +11.1% \u00b7 6.0 \u00f7 5.0 = +20% (OUR ARITHMETIC) \u00b7 ENZO HAS 746 MI vs LAFERRARI 1,938 MI \u00b7 RESULTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "SCM's description of the Enzo as the ultimate iteration of the naturally aspirated, limited-edition Ferrari hypercar sums up why. It also listed the Bugatti Veyron, Porsche nine eighteen and McLaren P one as alternatives for buyers. Those are the cars that followed it. Whether the Enzo's special status holds as hybrids take over is a prediction that we cannot source.",
+   "query": "The last of its kind?",
+   "caption": "SCM (2018): 'THE ULTIMATE ITERATION OF THE NATURALLY ASPIRATED, LIMITED-EDITION FERRARI HYPERCAR' \u00b7 ALTERNATIVES: VEYRON, 918, P1 \u00b7 FUTURE OF NA STATUS: PREDICTION, NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "What we could not confirm: whether Schumacher worked on the Enzo; the date the Pope received his car, and who bought it; the true production total; which charity benefited; the Enzo's true top speed; and what the Enzo's mules cost to build. And where Hagerty's record and Italpassion's differ, we do not know which is right. We flagged each one.",
+   "query": "Gaps",
+   "caption": "NOT IN OUR SOURCES / UNRESOLVED: SCHUMACHER'S ENZO ROLE \u00b7 DATE POPE RECEIVED CAR + BUYER \u00b7 400 vs 498 \u00b7 VATICAN vs ST. JUDE \u00b7 TRUE TOP SPEED \u00b7 MULE BUILD COST \u00b7 $6.05 M vs $4.51 M",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "That is the story behind the Ferrari Enzo. If you enjoyed it, subscribe to Pickup Reality, and tell us which exotic car's story you want us to check next. Every source is in the description, including the pages that disagreed with each other.",
+   "query": "Subscribe",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
