@@ -1,0 +1,6 @@
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
+- Texas Co-op Power, From Chicken Farmer to Snake Charmer: https://texascooppower.com/from-chicken-farmer-to-snake-charmer/
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, AC Ace: https://en.wikipedia.org/wiki/AC_Ace
+- Jalopnik, The very first Shelby Cobra just sold for a staggering record $13.75 million (21 Aug 2016): https://www.jalopnik.com/the-very-first-shelby-cobra-just-sold-for-a-staggering-1785559850/
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
