@@ -1,0 +1,305 @@
+{
+ "id": "video127",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "What It Really Costs to Own a Mustang GTD",
+ "scenes": [
+  {
+   "text": "The Ford Mustang GTD starts at three hundred twenty-seven thousand, nine hundred sixty dollars, with fees and tax. You cannot simply walk into a dealership and buy one. Ford makes buyers apply, and the articles we found say selected buyers cannot sell for at least two years. Its window sticker shows a gas-guzzler tax and twelve miles per gallon. This is what it really costs to own a Ford Mustang GTD, and what the published sources do not tell us.",
+   "query": "Ford Mustang GTD",
+   "caption": "WHAT IT REALLY COSTS TO OWN A MUSTANG GTD",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We will go through the price, the options, the fees, the application, the two-year rule, the fuel, and the little that is published about running costs. Every figure comes from a published source, named in the video and listed in the description. Where we do the maths ourselves, we say so. And where a source gives no figure, we will not invent one, because on the GTD that happens a lot.",
+   "query": "Ford Mustang GTD",
+   "caption": "EVERY NUMBER IS SOURCED \u00b7 WHERE THERE IS NO FIGURE, WE SAY SO",
+   "cuts": 8
+  },
+  {
+   "text": "A quick word on method. We read the Motor One report on the window sticker, the Motorious reports on the application process, Kelley Blue Book pages for the Mustang and the Corvette ZR1, Design News on the engineering, and Wikipedia for the powertrain. When two sources disagree, we show you both. When neither has a figure, we tell you plainly that we looked and found nothing.",
+   "query": "Ford Mustang GTD research",
+   "caption": "SOURCES: MOTOR1 \u00b7 MOTORIOUS \u00b7 KBB \u00b7 DESIGN NEWS \u00b7 WIKIPEDIA",
+   "cuts": 5
+  },
+  {
+   "text": "Start with the forecasts. Motor One says Ford predicted three hundred thousand dollars for the GTD nearly two years before launch, and that the price later rose to three hundred twenty-five thousand. Motorious, reporting on the application window, describes the car as priced from three hundred twenty-five thousand dollars. So for a long time, the number people quoted was a prediction, not a price.",
+   "query": "Ford Mustang GTD price forecast",
+   "caption": "FORD'S EARLY PREDICTION $300,000 \u2192 $325,000 (MOTOR1, MOTORIOUS)",
+   "cuts": 3,
+   "chapter": "How the price moved"
+  },
+  {
+   "text": "Then came the real number. Motor One reports that the twenty twenty-five Mustang GTD officially starts at three hundred twenty-seven thousand, nine hundred sixty dollars. That includes a base price of three hundred eighteen thousand, seven hundred sixty, a destination fee of five thousand, five hundred, and a gas-guzzler tax of three thousand, seven hundred. By our arithmetic, those three add up exactly to the headline.",
+   "query": "Ford Mustang GTD window sticker",
+   "caption": "BASE $318,760 + DESTINATION $5,500 + GAS-GUZZLER TAX $3,700 = $327,960 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One also says the base price is the most of any Mustang, ever. That is the outlet's phrase, and it is easy to believe. By our arithmetic, the base price is six thousand, two hundred forty dollars, or 1.9 percent, below the three hundred twenty-five thousand dollars that had been quoted. But the all-in price is two thousand, nine hundred sixty dollars, or 0.9 percent, above it.",
+   "query": "Ford Mustang GTD price",
+   "caption": "BASE \u22121.9% vs THE $325K FIGURE \u00b7 ALL-IN +0.9% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So the quoted figure was close, and the gap came down to whether you count the destination fee and the tax. Against the earlier three hundred thousand dollar prediction, the all-in price is twenty-seven thousand, nine hundred sixty dollars higher. By our arithmetic, that is 9.3 percent. Anyone who budgeted from the early prediction would have been short by that amount.",
+   "query": "Ford Mustang GTD price",
+   "caption": "ALL-IN vs $300K PREDICTION: +$27,960 (+9.3%) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Kelley Blue Book is a useful reminder of how slowly numbers update. Its Mustang page lists every trim from the EcoBoost to the Dark Horse, then says only that the GTD costs about three hundred thousand dollars, with no exact price. That is a rounded figure on a page for ordinary Mustangs. It is another reason to rely on the window sticker, not on summaries.",
+   "query": "Kelley Blue Book Mustang page",
+   "caption": "KBB MUSTANG PAGE: GTD 'ABOUT $300,000' \u2014 NO EXACT FIGURE",
+   "cuts": 3
+  },
+  {
+   "text": "Options add more. Motor One shows an owner's window sticker, shared on Facebook, with red brake calipers at fifteen hundred dollars and an exposed carbon-fibre roof at ten thousand dollars. With those two options, the total is three hundred thirty-nine thousand, four hundred sixty dollars. That is one owner's car, not a rule, but it shows how fast the number moves.",
+   "query": "Ford Mustang GTD options",
+   "caption": "SAMPLE STICKER: CALIPERS $1,500 + CARBON ROOF $10,000 \u2192 $339,460",
+   "cuts": 3,
+   "chapter": "What the options add"
+  },
+  {
+   "text": "By our arithmetic, the two options add eleven thousand, five hundred dollars, which is about three and a half percent of the all-in price. What matters is that a single option can be a five-figure line.",
+   "query": "Ford Mustang GTD options",
+   "caption": "OPTIONS ADD $11,500 = 3.5% OF THE ALL-IN PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There are other options with no published price. Motor One mentions a package with titanium paddles and a titanium shifter, exclusive exterior colours, and a Spirit of America special edition, and gives no price for any of them. Design News says the Performance package brings active aerodynamics, and the Ford announcement it cites adds magnesium wheels. None of our sources prices that package.",
+   "query": "Ford Mustang GTD Performance package",
+   "caption": "TITANIUM PADDLES \u00b7 SPECIAL COLOURS \u00b7 PERFORMANCE PACKAGE \u2014 NO PRICES IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "That is the first honest limit of this video. The true cost of a well-optioned GTD is above the figures we can show, by an amount we cannot state. If you are thinking of applying, the number to trust is the one on your own order sheet, produced by Ford's concierge team, and not any number a video can give you. We can only give you the floor.",
+   "query": "Ford Mustang GTD",
+   "caption": "THE PUBLISHED FIGURES ARE A FLOOR, NOT A CEILING",
+   "cuts": 3
+  },
+  {
+   "text": "Put the price in context, using the Census Bureau's median household income for twenty twenty-four, eighty-three thousand, seven hundred thirty dollars. By our arithmetic, the GTD's all-in price is three point nine two years of median household income, before tax. The sample sticker at three hundred thirty-nine thousand, four hundred sixty is four point oh five years.",
+   "query": "Ford Mustang GTD and median income",
+   "caption": "$327,960 \u2248 3.9 YEARS OF MEDIAN HOUSEHOLD INCOME ($83,730) \u00b7 $339,460 \u2248 4.05 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "What that price means"
+  },
+  {
+   "text": "Against the average price of a new vehicle, fifty thousand, eighty-nine dollars in August twenty twenty-six, according to Kelley Blue Book, the GTD is about six and a half times as much. By our arithmetic, that is three hundred twenty-seven nine sixty divided by fifty oh eighty-nine. It is the price of six and a half average new vehicles.",
+   "query": "Ford Mustang GTD and the average new vehicle",
+   "caption": "GTD \u2248 6.5\u00d7 THE AVERAGE NEW VEHICLE ($50,089, AUG 2026) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against other Mustangs. Kelley Blue Book lists the twenty twenty-five EcoBoost at thirty-three thousand, nine hundred fifteen dollars, the GT at forty-eight thousand, five hundred fifty-five, and the Dark Horse at sixty-six thousand, three hundred seventy-five. By our arithmetic, the GTD's base price is about nine point four times the EcoBoost, six point six times the GT, and four point eight times the Dark Horse.",
+   "query": "Ford Mustang range prices",
+   "caption": "ECOBOOST $33,915 \u00b7 GT $48,555 \u00b7 DARK HORSE $66,375 (KBB MSRP) \u00b7 GTD BASE \u2248 9.4\u00d7 / 6.6\u00d7 / 4.8\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now price per horsepower, which is crude but telling. Wikipedia lists the GTD's supercharged five point two litre V8 at eight hundred fifteen horsepower, and the Dark Horse at five hundred. By our arithmetic, the GTD's base price works out to about three hundred ninety-one dollars per horsepower, against about one hundred thirty-three for the Dark Horse. That is roughly three times as much.",
+   "query": "Ford Mustang GTD power",
+   "caption": "815 HP vs 500 HP (WIKIPEDIA) \u00b7 $391 vs $133 PER HP, BASE PRICES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The extra money does not buy only power. Motor One quotes the Monroney label figures, and the same report describes a near fifty-fifty weight distribution. Wikipedia lists a top speed of two hundred two miles per hour. Design News says the car is built around a rear transaxle, a carbon-fibre body, and race-derived suspension. So the price pays for engineering, and horsepower is only part of it.",
+   "query": "Ford Mustang GTD",
+   "caption": "815 HP \u00b7 664 LB-FT \u00b7 202 MPH TOP SPEED (WIKIPEDIA) \u00b7 NEAR 50/50 WEIGHT DISTRIBUTION (MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "Against a rival. Kelley Blue Book's Corvette ZR1 page lists a price of one hundred seventy-eight thousand, one hundred ninety-five dollars in its comparison table, without saying whether that is the base MSRP. By our arithmetic, the GTD's base price is about 1.8 times that figure, and the all-in price is about 1.84 times. We treat it as a reference point, not a verified sticker.",
+   "query": "Corvette ZR1 price comparison",
+   "caption": "ZR1 $178,195 (KBB TABLE, MSRP NOT STATED) \u00b7 GTD BASE \u2248 1.79\u00d7 \u00b7 ALL-IN \u2248 1.84\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "You cannot just order one. Kelley Blue Book reported that buyers must apply for permission, and Torque Caf\u00e9 says Ford requires an application to keep speculators away. The idea, as those articles describe it, is to put the cars with people who will use them, rather than people who will resell them for a profit. That is a policy, not a price, but it changes what buying means.",
+   "query": "Ford Mustang GTD application",
+   "caption": "BUYERS MUST APPLY \u2014 TO KEEP SPECULATORS OUT (KBB, TORQUE CAF\u00c9)",
+   "cuts": 3,
+   "chapter": "You have to apply"
+  },
+  {
+   "text": "Motorious reports that the original application round, in April twenty twenty-four, drew thousands of applicants, more than production could cover, and that decisions were finalised in late August. It gives no exact count. So we cannot say how many people were turned down, only that the demand exceeded the supply, according to that outlet, and that the cars were rationed rather than sold first-come.",
+   "query": "Ford Mustang GTD demand",
+   "caption": "APRIL 2024 ROUND: 'THOUSANDS OF APPLICANTS' \u00b7 DECISIONS LATE AUGUST (MOTORIOUS)",
+   "cuts": 3
+  },
+  {
+   "text": "Motorious, writing on the thirty-first of March, twenty twenty-six, says the window reopens on the seventeenth of April, the Mustang's sixty-second anniversary, for the twenty twenty-seven, twenty twenty-eight and twenty twenty-nine model years. It says GTD production will run through at least the end of the decade, and that applications are expected to stay open for about a month, with selections by late summer.",
+   "query": "Ford Mustang GTD reopening",
+   "caption": "WINDOW REOPENS APRIL 17, 2026 \u00b7 MY2027, 2028, 2029 \u00b7 ABOUT A MONTH OPEN (MOTORIOUS)",
+   "cuts": 3
+  },
+  {
+   "text": "The process, as Motorious describes it, has steps. Register interest online to be notified. Apply when the window opens. If selected, work with a Mustang GTD Concierge team to finalise the specification and complete the purchase. Earlier applicants are expected to have their submissions kept on file, so they would only need to update and resubmit. Ford said more details would follow.",
+   "query": "Mustang GTD Concierge team",
+   "caption": "REGISTER \u2192 APPLY \u2192 CONCIERGE TEAM FINALISES SPEC AND PURCHASE (MOTORIOUS)",
+   "cuts": 3
+  },
+  {
+   "text": "Then the rule that matters most for cost. Motor One lists a story headlined that Mustang GTD buyers cannot sell their cars for at least two years. We only saw the headline, not the article, so we cannot give you the terms, the penalty, or the exceptions. We can say that a hold of that length means the owner carries the car's costs for that period, whatever happens to its value.",
+   "query": "Ford Mustang GTD resale rule",
+   "caption": "HEADLINE: BUYERS CAN'T SELL FOR AT LEAST TWO YEARS (MOTOR1 LINK) \u00b7 TERMS NOT SEEN",
+   "cuts": 3
+  },
+  {
+   "text": "Motorious, in the reopening article, does not mention a hold period at all. So we have one outlet's headline about a two-year restriction and another outlet's detailed article that is silent on it. We think it is likely, but we cannot confirm the details, and we would rather say that than present a rumour as a rule. If Ford publishes the terms, the question becomes what they cost.",
+   "query": "Ford Mustang GTD",
+   "caption": "ONE HEADLINE SAYS TWO YEARS \u00b7 THE MOTORIOUS ARTICLE DOES NOT MENTION A HOLD",
+   "cuts": 3
+  },
+  {
+   "text": "A word on the used market. We searched for published auction or resale results for the GTD and did not find any from a reliable source. So we cannot tell you whether a GTD sells above or below its sticker. A related Motor One headline mentions that only fifty of a different, eight hundred seventy horsepower Mustang will be built per year, but we could not connect it to the GTD, so we do not use it.",
+   "query": "Ford Mustang GTD resale",
+   "caption": "NO RELIABLE RESALE DATA FOUND \u00b7 THE '50 PER YEAR' HEADLINE IS UNCONNECTED, NOT USED",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel. Motor One says the Monroney label lists twelve miles per gallon combined, seventeen highway and ten city. By our arithmetic, for every ten thousand miles driven at twelve miles per gallon, a GTD burns about eight hundred thirty-three gallons. We do not know the price of fuel in your area, so we stop there. Whatever price you assume, multiply it by eight hundred thirty-three.",
+   "query": "Ford Mustang GTD fuel economy",
+   "caption": "12 MPG COMBINED \u2192 ~833 GALLONS PER 10,000 MILES (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Fuel and tax"
+  },
+  {
+   "text": "In pure city driving, at the label's ten miles per gallon, the same ten thousand miles would take a thousand gallons, by our arithmetic. On the highway, at seventeen, about five hundred eighty-eight. The spread between city and highway is large, which means how you drive matters more to the fuel bill than almost any other choice. A car like this invites the city figure.",
+   "query": "Ford Mustang GTD fuel economy",
+   "caption": "10 MPG CITY \u2192 1,000 GAL \u00b7 17 MPG HIGHWAY \u2192 ~588 GAL PER 10,000 MILES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "For comparison, Kelley Blue Book lists the Corvette ZR1 at fourteen miles per gallon combined, and says premium fuel is recommended. By our arithmetic, that is about seven hundred fourteen gallons per ten thousand miles, one hundred nineteen fewer than the GTD. So on the label figures, the GTD is thirstier than its fastest American rival.",
+   "query": "Fuel comparison",
+   "caption": "PER 10,000 MILES: GTD ~833 GAL \u00b7 ZR1 ~714 GAL (14 MPG, KBB) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Kelley Blue Book lists the Dark Horse at seventeen miles per gallon combined. By our arithmetic, that is about five hundred eighty-eight gallons per ten thousand miles, so the GTD burns roughly forty-two percent more fuel per mile, twelve against seventeen. That is the cost of the supercharger, the downforce and the weight, though no source breaks it down for us.",
+   "query": "Ford Mustang Dark Horse fuel economy",
+   "caption": "DARK HORSE 17 MPG (KBB) vs GTD 12 MPG \u2192 \u2248 42% MORE FUEL PER MILE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The gas-guzzler tax of three thousand, seven hundred dollars is a one-time cost, already inside the all-in price. By our arithmetic, it is about 1.2 percent of the base price. It is small beside the sticker, but it is a tax you pay for the privilege of the label, and the label's twelve miles per gallon is exactly why it applies.",
+   "query": "Gas-guzzler tax",
+   "caption": "GAS-GUZZLER TAX $3,700 \u2248 1.2% OF BASE PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the hard part. We could not find a published maintenance schedule, insurance quote, depreciation figure or warranty term for the GTD. Motor One's article says outright that it does not cover warranty, insurance or maintenance. Kelley Blue Book's ordinary Mustang page lists three years or thirty-six thousand miles basic and five years or sixty thousand miles powertrain, but that is for the standard car, not the GTD.",
+   "query": "Ford Mustang warranty",
+   "caption": "STANDARD MUSTANG: 3 YR/36K BASIC \u00b7 5 YR/60K POWERTRAIN (KBB) \u00b7 GTD TERMS: NOT PUBLISHED",
+   "cuts": 3,
+   "chapter": "The running costs we can find"
+  },
+  {
+   "text": "The nearest published scale is the Corvette ZR1, which is a different car but a comparable class. Kelley Blue Book lists a five-year cost to own of one hundred seventy-four thousand, seven hundred fourteen dollars. Of that, depreciation is eighty-nine thousand, three hundred fifty-one, and out-of-pocket expenses are eighty-five thousand, three hundred sixty-three. By our arithmetic, the two parts add up to the total.",
+   "query": "Kelley Blue Book Corvette ZR1 cost to own",
+   "caption": "ZR1 5-YEAR COST TO OWN $174,714 = DEPRECIATION $89,351 + OUT-OF-POCKET $85,363",
+   "cuts": 3
+  },
+  {
+   "text": "The out-of-pocket part breaks down like this: fuel eighteen thousand, nine hundred one; insurance twenty-five thousand, eight hundred fifty-five; financing twenty thousand, four hundred seventy; state fees fourteen thousand, one hundred thirty-eight; maintenance three thousand, seven hundred six; repairs two thousand, two hundred ninety-three. We added them and they match the page. Note how small maintenance and repairs are next to insurance and financing.",
+   "query": "Kelley Blue Book Corvette ZR1 costs",
+   "caption": "FUEL $18,901 \u00b7 INSURANCE $25,855 \u00b7 FINANCING $20,470 \u00b7 FEES $14,138 \u00b7 MAINTENANCE $3,706 \u00b7 REPAIRS $2,293",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, depreciation is about half of the ZR1's listed price, at fifty point one percent, and the whole five-year cost is about ninety-eight percent of the price. Spread over sixty months, the five-year total is roughly twenty-nine hundred dollars a month. These are Kelley Blue Book's estimates for the ZR1 with its own assumptions, and they are not a forecast for any other car.",
+   "query": "Corvette ZR1 ownership maths",
+   "caption": "ZR1: DEPRECIATION \u2248 50% OF $178,195 \u00b7 5-YEAR COST \u2248 98% OF PRICE \u00b7 \u2248 $2,912 / MONTH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "We will be careful here. We are not going to multiply the GTD's price by the ZR1's ratio and call it a forecast. The GTD has a two-year hold, an application system, and a very different market, and we have no evidence that it would depreciate the same way, or that its insurance would be anywhere near the ZR1's. Use the ZR1 numbers only to see what kinds of costs exist.",
+   "query": "Ford Mustang GTD",
+   "caption": "WE DO NOT APPLY THE ZR1 RATIO TO THE GTD \u2014 NO EVIDENCE IT TRANSFERS",
+   "cuts": 3
+  },
+  {
+   "text": "What the ZR1 table does teach is the shape of ownership. For a car this expensive, insurance and financing together, about forty-six thousand dollars in Kelley Blue Book's figures, are far larger than maintenance and repairs, about six thousand. By our arithmetic, that is nearly eight times as much. The GTD is likely to have a few unusual repair bills, but the sources do not give any.",
+   "query": "Ownership cost shape",
+   "caption": "ZR1: INSURANCE + FINANCING $46,325 vs MAINTENANCE + REPAIRS $5,999 \u2248 7.7\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Insurance is the item most likely to differ for the GTD. Kelley Blue Book's numbers are averages with undisclosed assumptions, and a three hundred thousand dollar car with a carbon body will be underwritten individually. We found no published quote. If you have an insurance quote for a GTD, or know of one, share it in the comments with the source, and we will add it to the description.",
+   "query": "Ford Mustang GTD insurance",
+   "caption": "INSURANCE: NO PUBLISHED GTD FIGURE FOUND \u00b7 SHARE A SOURCED QUOTE IN THE COMMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "One more factor is what the car contains. Design News quotes Larry Holt, chief technology officer of Multimatic, saying the GTD has a dual-element rear wing with an active flap, where the race car has a single element with a fixed Gurney flap. In drag-reduction mode the flap flattens. That is a moving part on a road car, and nothing in our sources says what it costs to replace.",
+   "query": "Ford Mustang GTD rear wing",
+   "caption": "DUAL-ELEMENT ACTIVE REAR WING (HOLT, DESIGN NEWS) \u00b7 REPLACEMENT COST NOT PUBLISHED",
+   "cuts": 3,
+   "chapter": "What is inside that could cost money"
+  },
+  {
+   "text": "Holt also says the GTD opens two flaps in the front underwing, that it has inboard suspension like prototype race cars, and that it has two ride heights and two spring rates. In Track mode, he says, the front drops forty millimetres and the rear thirty. The rear spring rate doubles, and the front rises by two point eight times. The shocks are Multimatic spool-valve units.",
+   "query": "Ford Mustang GTD suspension",
+   "caption": "TRACK MODE: FRONT \u221240 MM, REAR \u221230 MM \u00b7 REAR SPRING \u00d72 \u00b7 FRONT \u00d72.8 (HOLT, DESIGN NEWS)",
+   "cuts": 3
+  },
+  {
+   "text": "Chief engineer Greg Goodall, quoted by Design News, says every GTD has a lightweight carbon-fibre body. Holt says a transaxle gearbox sits at the back, which he calls standard in race cars. None of this tells us a repair price. What it tells us is that the GTD is built from race-car parts, and such parts are usually not shared with a standard Mustang. That is our inference, not a quote.",
+   "query": "Ford Mustang GTD construction",
+   "caption": "CARBON-FIBRE BODY (GOODALL) \u00b7 REAR TRANSAXLE (HOLT) \u00b7 PARTS SHARING WITH STANDARD MUSTANGS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Design News also says the GTD can make more power than the GT3 race car, because it is not bound by racing rules, and that Ford's target was a N\u00fcrburgring lap under seven minutes. Wikipedia lists the first GTD lap at six minutes fifty-seven point six eight, driven by Dirk M\u00fcller, and a later lap of six fifty-two point oh seven two in May twenty twenty-five. A car built to lap like that is built to be driven hard.",
+   "query": "Ford Mustang GTD N\u00fcrburgring",
+   "caption": "6:57.68 (DEC 2024) \u2192 6:52.072 (MAY 2025) (WIKIPEDIA) \u00b7 TARGET: UNDER 7 MINUTES (DESIGN NEWS)",
+   "cuts": 3
+  },
+  {
+   "text": "What hard driving does to tyres and brakes is not in any source we found. Wikipedia lists the specifications of the street cars without brake or tyre details, and Design News does not cover them either. So the consumables bill, the thing that matters most to someone who tracks a car, is exactly the number we cannot give you. We can only say it exists.",
+   "query": "Ford Mustang GTD consumables",
+   "caption": "TYRE AND BRAKE COSTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Who builds it also matters for service. Torque Caf\u00e9 says Multimatic, a Canadian engineering and racing specialist, assembles the GTD. Wikipedia says Multimatic developed the Mustang GT3 racing car with Ford Performance. Our sources do not say how service, parts and support work for a Multimatic-built road car, or whether Ford dealers can handle repairs. That is a real unknown for a buyer, and we flag it as one.",
+   "query": "Multimatic",
+   "caption": "ASSEMBLED BY MULTIMATIC (TORQUE CAF\u00c9) \u00b7 SERVICE ARRANGEMENTS NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "In April twenty twenty-six, Wikipedia says, Ford revealed a GTD Competition model, a pre-production car with magnesium wheels, dive planes and a modified wing, which lapped the N\u00fcrburgring in six forty point eight three five. Wikipedia says the full list of changes is not specified, and we found no price. We mention it only because it shows that the GTD family is still growing, and the costs with it.",
+   "query": "Ford Mustang GTD Competition",
+   "caption": "GTD COMPETITION REVEALED APRIL 17, 2026 \u00b7 6:40.835 (WIKIPEDIA) \u00b7 PRICE: NOT PUBLISHED",
+   "cuts": 3
+  },
+  {
+   "text": "So what does it really cost to own a Mustang GTD? On the numbers we can verify: three hundred twenty-seven thousand, nine hundred sixty dollars all-in at base; eleven thousand, five hundred dollars more on the sample sticker's two options; twelve miles per gallon; an application you must win; and a reported two-year hold. And a long list of costs that are simply not published.",
+   "query": "Ford Mustang GTD",
+   "caption": "$327,960 ALL-IN \u00b7 +$11,500 SAMPLE OPTIONS \u00b7 12 MPG \u00b7 APPLICATION \u00b7 REPORTED 2-YEAR HOLD",
+   "cuts": 3,
+   "chapter": "The honest total"
+  },
+  {
+   "text": "Our reference price for this video is three hundred twenty-seven thousand, nine hundred sixty dollars, the official starting price including fees and tax, from Motor One. It is a documented figure from a window sticker. Your final price could be higher, with options, and your running costs cannot be known from the sources we have. This is a car where the purchase price is the only well-documented cost.",
+   "query": "Ford Mustang GTD",
+   "caption": "REFERENCE PRICE: $327,960 (MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "What our sources do not say, in one list. How many cars Ford will build. The exact terms of the hold. The GTD's warranty. Insurance. Maintenance. Tyres and brakes. Repair costs for the active aero. Depreciation or resale. We looked for each and found nothing reliable. If any of those numbers appears in a reliable source, tell us in the comments, and we will update the description.",
+   "query": "Ford Mustang GTD",
+   "caption": "NOT PUBLISHED: PRODUCTION NUMBER \u00b7 HOLD TERMS \u00b7 WARRANTY \u00b7 INSURANCE \u00b7 MAINTENANCE \u00b7 TYRES/BRAKES \u00b7 REPAIRS \u00b7 RESALE",
+   "cuts": 3
+  },
+  {
+   "text": "Would you apply for a GTD, knowing a reported two-year hold comes with it? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the Mustang GTD, compare it with the Porsche nine eleven G T three, and tell why Ford built a Mustang to beat Porsche. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford Mustang GTD",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

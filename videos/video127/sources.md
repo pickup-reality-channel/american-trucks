@@ -1,0 +1,9 @@
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Motorious, Ford reopens Mustang GTD application: https://www.motorious.com/articles/news/ford-reopens-mustang-gtd-application/
+- Kelley Blue Book, 2025 Ford Mustang: https://www.kbb.com/ford/mustang/2025/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- Kelley Blue Book, Ford drops details on GTD, the uber Mustang: https://www.kbb.com/car-news/ford-drops-details-on-gtd-the-uber-mustang
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- Wikipedia, Ford Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
