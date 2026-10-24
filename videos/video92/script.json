@@ -1,0 +1,349 @@
+{
+ "id": "video92",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind Horacio Pagani",
+ "scenes": [
+  {
+   "text": "When Horacio Pagani arrived in Italy, Lamborghini had withdrawn its job offer. According to a published interview, he took any work he could find: florist, steel welder. He and his wife lived in a tent for a few months. Eventually Lamborghini hired him as a laborer, the lowest entry-level role in the company. Today, his name is on some of the most expensive cars in the world. This is the insane story behind Horacio Pagani.",
+   "query": "Horacio Pagani",
+   "caption": "THE INSANE STORY BEHIND HORACIO PAGANI",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. A letter from a world champion opened the door in Italy, a bank loan bought an oven that his employer refused to buy, and a Mercedes engineer was shown a workshop where friends in work coats had been asked to pretend to be a larger company. All of it is in published sources, and all of it is true as far as we can verify.",
+   "query": "Pagani Zonda",
+   "caption": "A LETTER \u00b7 A LOAN \u00b7 A WORKSHOP FULL OF FRIENDS",
+   "cuts": 8
+  },
+  {
+   "text": "Every fact in this video comes from published sources, listed in the description. Where sources disagree, we will tell you. And there are a few disagreements, starting with the very first car he built.",
+   "query": "Horacio Pagani",
+   "caption": "EVERY FACT IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Wikipedia says Horacio Pagani was born on the tenth of November, nineteen fifty-five, in Casilda, in the Argentine province of Santa Fe. It describes him as an Argentine-Italian businessman and automobile engineer. The page names his parents as Luca and Maria Pagani, and says his father was a baker from Italy, though it marks that detail as needing a citation.",
+   "query": "Casilda Santa Fe Argentina",
+   "caption": "BORN 10 NOVEMBER 1955, CASILDA",
+   "cuts": 3,
+   "chapter": "A boy in rural Argentina"
+  },
+  {
+   "text": "An interview summary published by Attic Capital says he grew up in a rural area, where his family and community had little exposure to the arts or technical subjects. Wikipedia adds that he showed an interest in engineering from an early age, and felt that his rural birth town was inadequate for an engineering career.",
+   "query": "Argentine countryside",
+   "caption": "A TOWN TOO SMALL FOR HIS DREAM",
+   "cuts": 3
+  },
+  {
+   "text": "At thirteen or fourteen, according to the Attic Capital summary, he found a line from Leonardo da Vinci in a magazine at his father's home. He later quoted it: art and science can go hand in hand. That sentence would become the way he describes his entire career, in which carbon fibre and sculpture are the same craft.",
+   "query": "Leonardo da Vinci",
+   "caption": "\"ART AND SCIENCE CAN GO HAND IN HAND\"",
+   "cuts": 3
+  },
+  {
+   "text": "His passion for cars came from another magazine, the same source says. An Argentine publication called Automundo covered racing and new sports cars, and that is where he first saw Ferrari, Bertone and Lamborghini. He built model cars and drew cars as a child. In his words, these cars seemed magical to him, and he realised that it was going to be his job.",
+   "query": "Automundo magazine",
+   "caption": "A MAGAZINE CALLED AUTOMUNDO",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says he opened a small shop at a very young age and gained craftsmanship experience. By the age of twenty, the page says, he had designed and built his first Formula Three racing car. The Attic Capital summary says it was a Formula Two single-seater built from scratch. The two sources disagree on the class, so we report both.",
+   "query": "Formula 3 race car",
+   "caption": "BY 20: A RACING CAR BUILT FROM SCRATCH",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also says Renault hired him to improve the body of a racing car, and that his work offered staggering improvements. Then he visited Lamborghini and met its chief technical director, Giulio Alfieri. So even before he left Argentina, a young man from a small town had been noticed by a French carmaker and an Italian one.",
+   "query": "Renault racing car",
+   "caption": "RENAULT HIRED HIM TO IMPROVE A RACE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The Attic Capital summary says he met Juan Manuel Fangio, the five-time Formula One world champion, through Oreste Berta. At that time, the summary says, Fangio was president of Mercedes-Benz Argentina. Pagani asked him for help getting into the Italian car industry. This is the most important introduction of his life.",
+   "query": "Juan Manuel Fangio",
+   "caption": "MEETING FANGIO",
+   "cuts": 3,
+   "chapter": "The letter from Fangio"
+  },
+  {
+   "text": "Fangio wrote five letters of recommendation. The summary says he noted that it was only the second letter of recommendation he had ever written. Think about that. One of the most famous drivers in history, who almost never wrote such letters, wrote five for a young engineer from a small Argentine town.",
+   "query": "Fangio letters",
+   "caption": "5 LETTERS FROM A WORLD CHAMPION",
+   "cuts": 3
+  },
+  {
+   "text": "The letters worked. According to the same summary, Ferrari offered Pagani a job in its Formula One team. He declined because he wanted to build grand touring cars. We have no way to verify that conversation beyond the interview, but the story shows that he chose a harder path on purpose, with an offer from Ferrari on the table.",
+   "query": "Ferrari Formula One",
+   "caption": "HE TURNED DOWN A FERRARI F1 JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Instead he accepted the offer from Giulio Alfieri at Lamborghini. The summary says he married his girlfriend, Cristina, in Argentina, and then moved to Italy. Wikipedia says the move happened in nineteen eighty-two. By our own arithmetic, he was twenty-six, and in the same year he started a new life in a new country.",
+   "query": "Italy 1982",
+   "caption": "1982: MOVING TO ITALY AT 26",
+   "cuts": 3
+  },
+  {
+   "text": "Then the plan fell apart. The summary says Lamborghini withdrew the offer. Pagani went to Italy anyway and asked for any position at all. While waiting, he did odd jobs: the summary lists work as a florist and as a steel welder. And for a few months, it says, the couple lived in a tent.",
+   "query": "Modena Italy 1980s",
+   "caption": "FLORIST, WELDER, AND A TENT",
+   "cuts": 3,
+   "chapter": "The job that disappeared"
+  },
+  {
+   "text": "Lamborghini eventually hired him as a laborer, the lowest entry-level role in the company, according to the summary. Wikipedia describes it as starting with basic jobs such as sweeping floors. That is a remarkable detail. The man who would later design hypercars began his Italian career with a broom.",
+   "query": "Lamborghini factory",
+   "caption": "HIRED AS A LABORER",
+   "cuts": 3
+  },
+  {
+   "text": "But he rose quickly. The summary says he moved up through the ranks, and Wikipedia says he became chief engineer and built the Countach Evoluzione concept. Pagani's company page adds that he created and managed Lamborghini's composites department. A man with no job in the country became the person in charge of one of its most important technologies.",
+   "query": "Lamborghini Countach Evoluzione",
+   "caption": "FROM LABORER TO CHIEF ENGINEER",
+   "cuts": 3
+  },
+  {
+   "text": "Now the moment that changed his life. To make carbon fibre parts, you need an autoclave, a large pressurised oven that cures the material. Wikipedia says Pagani proposed buying one to extend production of the Evoluzione's carbon parts. Lamborghini refused, reasoning that Ferrari did not have an autoclave, so Lamborghini did not need one either.",
+   "query": "Autoclave carbon fibre",
+   "caption": "\"FERRARI DOESN'T HAVE ONE\"",
+   "cuts": 3,
+   "chapter": "The oven Lamborghini refused to buy"
+  },
+  {
+   "text": "So he did something unusual. The Attic Capital summary says he rode his bicycle to a bank in Bologna and secured a loan to buy one. Wikipedia says he borrowed capital in late nineteen eighty-seven. The summary says Italy then had only about four or five autoclaves in total, by his own account.",
+   "query": "Bank in Bologna",
+   "caption": "LATE 1987: A BANK LOAN FOR AN OVEN",
+   "cuts": 3
+  },
+  {
+   "text": "His manager, the summary says, called the plan mad, and told him to store the equipment in a rented warehouse. So the man who bought the oven did it without his employer's support. By our own reading, he was risking his savings, his job and his reputation on a machine that nobody else in the company wanted.",
+   "query": "Warehouse workshop",
+   "caption": "\"YOU ARE COMMITTED, MAD!\"",
+   "cuts": 3
+  },
+  {
+   "text": "The company page says that in nineteen eighty-eight, he founded Pagani Composite Research, which worked with Lamborghini on the Countach twenty-fifth anniversary restyling, the L M zero zero two, the P one forty concept and the Diablo. In other words, the oven that Lamborghini refused to buy ended up working for Lamborghini.",
+   "query": "Lamborghini Diablo",
+   "caption": "1988: PAGANI COMPOSITE RESEARCH",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen ninety-one, Wikipedia says, he left Lamborghini and founded the consultancy Modena Design. It made carbon fibre composites for Formula One cars and for clients including Daimler, Ferrari and Aprilia. So Ferrari, the company whose lack of an autoclave had been used as a reason, became one of his customers.",
+   "query": "Modena Design",
+   "caption": "1991: MODENA DESIGN",
+   "cuts": 3
+  },
+  {
+   "text": "Then came a recession. The Attic Capital summary says a slowdown in the auto industry around the Gulf War left Pagani with heavy equipment costs and few orders. He had debts from building his workshop and from paying staff. His own words, in the summary, are that he was jobless but had debts.",
+   "query": "Modena workshop",
+   "caption": "DEBTS, FEW ORDERS",
+   "cuts": 3,
+   "chapter": "Building a car at night"
+  },
+  {
+   "text": "That was the moment he decided to build his own car. He worked on it in the evenings, early in the mornings and at weekends, the summary says. His quote is simple: that's how the Zonda was born. Wikipedia says that in the late nineteen eighties he had already begun designing the project he called the C eight.",
+   "query": "Pagani sketches",
+   "caption": "\"THAT'S HOW THE ZONDA WAS BORN\"",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's Pagani page says he planned to call it the Fangio F one, in honour of the man who had written his letters. It adds that in nineteen ninety-two he began building a prototype, which was tested in the Dallara wind tunnel in nineteen ninety-three. Concept and bodywork were designed by late nineteen ninety-three, according to the summary.",
+   "query": "Dallara wind tunnel",
+   "caption": "1993: TESTED IN THE DALLARA WIND TUNNEL",
+   "cuts": 3
+  },
+  {
+   "text": "The company was formally founded in nineteen ninety-two, according to Wikipedia. By our arithmetic, he was thirty-six. He is listed as its founder, chairman, chief designer and chief executive. That is four jobs for one person, in a company that began with a few friends and a workshop near Modena.",
+   "query": "Pagani Automobili",
+   "caption": "1992: FOUNDED AT 36",
+   "cuts": 3
+  },
+  {
+   "text": "There was one huge problem. The summary says the car was designed for a V twelve, but initially had no engine. Developing one was financially out of reach. A tiny company with no money was trying to build a V twelve supercar, and the heart of the car did not exist.",
+   "query": "V12 engine",
+   "caption": "A V12 CAR WITH NO ENGINE",
+   "cuts": 3,
+   "chapter": "The engine problem"
+  },
+  {
+   "text": "The solution came from Fangio again. The summary says Fangio's eightieth birthday, in nineteen ninety-one in Argentina, led to the Mercedes V twelve being introduced. By then Fangio was honorary president of Mercedes-Benz Argentina. A friendship that produced five letters now helped open the door to the engine itself.",
+   "query": "Mercedes-Benz V12",
+   "caption": "FANGIO'S 80TH BIRTHDAY, 1991",
+   "cuts": 3
+  },
+  {
+   "text": "Pagani met Dieter Zetsche, a Mercedes engineer, in Stuttgart, according to the summary. Zetsche called the design timeless. Pagani answered, in his words, thank goodness it's a timeless car, because I'm the one with no money and I'm going to need a lot of time to make it. It is one of the more honest sales pitches ever recorded.",
+   "query": "Dieter Zetsche Stuttgart",
+   "caption": "\"THANK GOODNESS IT'S A TIMELESS CAR\"",
+   "cuts": 3
+  },
+  {
+   "text": "Then Zetsche wanted to inspect the workshop. And here is the part that makes this story special. Pagani asked friends to dress in work coats, so that the shop would look like a larger operation. He later said, in the summary, that he did not know if the trick had any effect, but from that moment the Mercedes relationship began.",
+   "query": "Pagani workshop 1990s",
+   "caption": "FRIENDS IN WORK COATS",
+   "cuts": 3
+  },
+  {
+   "text": "The engine itself made an impression. Pagani says, in the summary, that when he put the Mercedes V twelve on the scale, it weighed seventy kilograms less than the Lamborghini Diablo engine he had designed around, and its centre of gravity was forty to fifty millimetres lower. He says he has a weight mania.",
+   "query": "Engine on a scale",
+   "caption": "70 KG LIGHTER THAN THE DIABLO'S ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "Pagani's company page says Mercedes-Benz agreed to supply V twelve engines in nineteen ninety-four. That agreement shaped everything that followed. Pagani's cars still use Mercedes-AMG V twelve engines. The Utopia, according to Top Gear, has a bespoke twin-turbo V twelve built specially for Pagani. Thirty years later, the partnership is still running.",
+   "query": "Mercedes-AMG V12",
+   "caption": "1994: MERCEDES AGREES TO SUPPLY V12s",
+   "cuts": 3
+  },
+  {
+   "text": "Fangio died in nineteen ninety-five, according to Wikipedia. And the summary says that a month before the Geneva Motor Show launch, Pagani worried that no car could live up to Fangio's name. He dropped it, out of respect. So the car that was designed as a tribute to Fangio was renamed, and the name Fangio F one was never used.",
+   "query": "Fangio memorial",
+   "caption": "THE NAME \"FANGIO\" WAS DROPPED",
+   "cuts": 3,
+   "chapter": "What to call it"
+  },
+  {
+   "text": "Childhood friends in Argentina suggested Zonda, the summary says. It refers to the warm wind from the Andes, and also to the Autodromo El Zonda racetrack near the mountains. Wikipedia describes it as a hot air current above Argentina. So a car built in Italy was named after the place where its creator grew up.",
+   "query": "Zonda wind Andes",
+   "caption": "ZONDA: A WARM WIND FROM THE ANDES",
+   "cuts": 3
+  },
+  {
+   "text": "The full name was Zonda C twelve. The summary says the C stands for Cristina, his wife, and the twelve for the V twelve. The couple who lived in a tent when they arrived in Italy now had a car named after her. It is, in our reading, one of the most personal names in the history of supercars.",
+   "query": "Pagani Zonda C12",
+   "caption": "C = CRISTINA \u00b7 12 = V12",
+   "cuts": 3
+  },
+  {
+   "text": "It debuted at the nineteen ninety-nine Geneva Motor Show, according to Wikipedia. By our own arithmetic, Pagani was forty-three. Wikipedia's page on Pagani says the Zonda took seven years to complete. The Attic Capital summary says about six, from the completion of the design. Different starting points, and an easy way to see how long it really took.",
+   "query": "Pagani Zonda Geneva 1999",
+   "caption": "GENEVA 1999: AGE 43",
+   "cuts": 3
+  },
+  {
+   "text": "The summary quotes a book, Pagani: Hypercars d'Autore, which credits the Zonda with popularising the word hypercar. It lists four benchmarks: futuristic, provocative styling; composite materials for performance and safety; an official Mercedes-AMG V twelve; and customers able to follow their car's construction. The book says the Zonda was understood instantly at the show.",
+   "query": "Pagani Zonda",
+   "caption": "THE CAR THAT POPULARISED \"HYPERCAR\"",
+   "cuts": 3
+  },
+  {
+   "text": "The Zonda grew in many versions. Wikipedia says about one hundred forty were built by twenty nineteen, including development cars. Then came the Huayra. The company page says it was revealed in January twenty eleven, with a twin-turbo Mercedes-AMG V twelve, seven hundred forty metric horsepower. A hundred were produced, each costing one million pounds before options.",
+   "query": "Pagani Huayra",
+   "caption": "HUAYRA: 100 CARS, 2011",
+   "cuts": 3,
+   "chapter": "From one car to a legend"
+  },
+  {
+   "text": "The summary adds a striking detail about the Huayra. Pagani sent sketches to existing Zonda owners, and deposits arrived immediately, with no specifications, no prices beyond a sketch and no delivery dates. That is how much trust the company had earned. His customers paid for a drawing.",
+   "query": "Huayra sketch",
+   "caption": "DEPOSITS FOR A SKETCH",
+   "cuts": 3
+  },
+  {
+   "text": "Then the Utopia. Wikipedia says it was unveiled in Milan on the twelfth of September, twenty twenty-two, and that all ninety-nine coup\u00e9s were assigned to customers. Top Gear quotes Pagani: no heavy batteries, no hybrid power, just a wonderful V twelve. Supercar Blondie says a manual was added because customers demanded it.",
+   "query": "Pagani Utopia",
+   "caption": "UTOPIA: 99 COUP\u00c9S, ALL ASSIGNED",
+   "cuts": 3
+  },
+  {
+   "text": "The prices have moved with it. The summary quotes Pagani saying prices run from roughly three to fifteen million euros per car. Wikipedia says the Utopia coup\u00e9 starts at two point one nine million dollars and the roadster at three point four. The company page says two of the three Zonda HP Barchettas cost fifteen million dollars each.",
+   "query": "Pagani cars",
+   "caption": "\u20ac3M TO \u20ac15M PER CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The Zonda kept improving. Wikipedia's Pagani page says a Zonda R completed the N\u00fcrburgring Nordschleife on the thirtieth of June, twenty ten, in six minutes forty-seven seconds, a production-car record that beat the Ferrari five ninety-nine X X. A car from the little workshop beat Ferrari on the most famous test track in the world.",
+   "query": "N\u00fcrburgring Nordschleife",
+   "caption": "2010: ZONDA R BEATS FERRARI AT THE N\u00dcRBURGRING",
+   "cuts": 3
+  },
+  {
+   "text": "The same page says that in two thousand five, Pagani announced plans to triple production within three years and to enter the American market in two thousand seven. Remember where this began. A tent, a broom and an oven. Twenty-three years after arriving in Italy, by our arithmetic, he was planning to sell cars in the United States.",
+   "query": "United States market",
+   "caption": "2005: PLANS FOR THE US MARKET",
+   "cuts": 3
+  },
+  {
+   "text": "The Zonda even raced at Le Mans. Wikipedia's Zonda page says the Zonda G R, a racing version developed by Carsport Zonda, retired from the two thousand three twenty-four hours of Le Mans after ten laps, because of a gearbox failure. It was a short race. But the car that began as sketches in the evenings was on the grid at the most famous endurance race on Earth.",
+   "query": "Le Mans 24 Hours",
+   "caption": "2003: ZONDA GR AT LE MANS",
+   "cuts": 3
+  },
+  {
+   "text": "Pagani never forgot his first customers. The company page says the Huayra B C, unveiled in twenty sixteen, was named after Benny Caiola, Horacio Pagani's friend and the first Pagani customer. It made seven hundred sixty-four metric horsepower and weighed one thousand two hundred eighteen kilograms. Thirty were made, although Pagani had claimed a limit of twenty.",
+   "query": "Pagani Huayra BC",
+   "caption": "HUAYRA BC: NAMED AFTER THE FIRST CUSTOMER",
+   "cuts": 3
+  },
+  {
+   "text": "The Huayra's name, the company page says, comes from the Quechua god of wind, Huayra-tata. Wikipedia's page on Horacio Pagani calls it the Incan god of wind, with a note asking for a citation. So the two cars he is best known for are both named after winds, one from the Andes and one from a god of wind. A boy from Argentina never left the Andes behind.",
+   "query": "Andes mountains",
+   "caption": "ZONDA AND HUAYRA: BOTH NAMED AFTER WIND",
+   "cuts": 3
+  },
+  {
+   "text": "The Zonda ended in twenty seventeen. Wikipedia's Zonda page says the HP Barchetta was unveiled at Pebble Beach and marks the end of Zonda production. Only three were built, and Horacio Pagani kept one for himself. After all those customers, the last Zonda in the list is one that he decided to keep.",
+   "query": "Pagani Zonda HP Barchetta",
+   "caption": "THE LAST ZONDA: HE KEPT ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Let us do the maths on his timeline. He arrived in Italy in nineteen eighty-two. The Zonda was shown in nineteen ninety-nine, seventeen years later. The oven was bought in late nineteen eighty-seven, and the Utopia was unveiled in twenty twenty-two, thirty-four to thirty-five years later. All of it is our own arithmetic, from the dates in the sources.",
+   "query": "Pagani timeline",
+   "caption": "1982 \u2192 1999 \u2192 2022",
+   "cuts": 3
+  },
+  {
+   "text": "What is he like? The summary says Pagani rides a bicycle to work, prefers driving to flying, and owns a Toyota Alphard van that he uses for trips to Milan. It also says he ordered his own Ferrari, and visits the factory to check its progress. The founder of one of the world's most exclusive car brands is also a customer of Ferrari.",
+   "query": "Horacio Pagani bicycle",
+   "caption": "A BICYCLE AND A TOYOTA VAN",
+   "cuts": 3,
+   "chapter": "The man behind the cars"
+  },
+  {
+   "text": "His philosophy is also in the summary. On humility, he says: we don't have to make a better car than Ferrari or Lamborghini. And on his own cars, he says: I don't fall in love with my cars. If I fell in love with my cars, I would lose objectivity. Both quotes show a man who stays practical about his own creations.",
+   "query": "Horacio Pagani quote",
+   "caption": "\"I DON'T FALL IN LOVE WITH MY CARS\"",
+   "cuts": 3
+  },
+  {
+   "text": "And the honours have arrived. Wikipedia says that in twenty twenty-five he received an honorary master's degree in design and engineering from the Polytechnic University of Milan, and several Pagani cars were displayed in the foyer of its Bovisa campus afterwards. A man who began with a broom now has a degree from one of Italy's top engineering universities.",
+   "query": "Politecnico di Milano",
+   "caption": "2025: HONORARY MASTER'S, POLITECNICO DI MILANO",
+   "cuts": 3
+  },
+  {
+   "text": "So how does a boy from Casilda become the founder of Pagani? Look at the pattern in the sources. A magazine, a line from da Vinci, a letter from Fangio. A job offer that disappeared. A tent. A broom. An oven that his employer refused to buy, and a loan that bought it. A recession, and a car built in the evenings.",
+   "query": "Horacio Pagani",
+   "caption": "THE PATTERN",
+   "cuts": 3,
+   "chapter": "How it happened"
+  },
+  {
+   "text": "And the end of that pattern is a Mercedes engine, a workshop filled with friends in work coats, a name taken from the wind of the Andes, and a letter C for Cristina. Nothing in this story came easily. But nearly every step is documented, which is why we trust it enough to tell it.",
+   "query": "Pagani Zonda",
+   "caption": "NOTHING CAME EASILY",
+   "cuts": 3
+  },
+  {
+   "text": "One caution. Much of the early part of the story comes from interviews, and interviews are memories. The details can differ, as the Formula Three and Formula Two difference shows. We have told you where we found conflicts. If you know of a primary source that settles them, please tell us in the comments.",
+   "query": "Horacio Pagani",
+   "caption": "INTERVIEWS ARE MEMORIES",
+   "cuts": 3
+  },
+  {
+   "text": "Which part of Horacio Pagani's story surprised you the most? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the Utopia, compare it with the Zonda, and work out what it really costs to own a Pagani.",
+   "query": "Pagani Utopia",
+   "caption": "WHICH PART SURPRISED YOU?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you want to spend your money on something you can actually drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

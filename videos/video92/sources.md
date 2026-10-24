@@ -1,0 +1,7 @@
+- Wikipedia, Horacio Pagani (auto executive): https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)
+- Wikipedia, Pagani (company): https://en.wikipedia.org/wiki/Pagani_(company)
+- Wikipedia, Pagani Zonda: https://en.wikipedia.org/wiki/Pagani_Zonda
+- Wikipedia, Pagani Utopia: https://en.wikipedia.org/wiki/Pagani_Utopia
+- Attic Capital, Horacio Pagani and the Zonda (interview summary): https://atticcapital.com/horacio-pagani-zonda/
+- Top Gear, This is the brand new Pagani Utopia: https://www.topgear.com/car-news/first-look/brand-new-pagani-utopia-v12-engined-throwback
+- Supercar Blondie, The Pagani Utopia is here: https://supercarblondie.com/pagani-utopia-c10-v12-manual-supercar-revealed/
