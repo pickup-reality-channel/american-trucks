@@ -1,0 +1,2227 @@
+1
+00:00:00,000 --> 00:00:01,293
+For fifteen years,
+
+2
+00:00:01,293 --> 00:00:04,598
+two small American companies have been chasing
+
+3
+00:00:04,598 --> 00:00:07,256
+the title of the world's fastest car.
+
+4
+00:00:07,436 --> 00:00:09,909
+One is in Washington State,
+
+5
+00:00:09,909 --> 00:00:11,650
+the other in Texas.
+
+6
+00:00:11,830 --> 00:00:14,420
+Between them there have been a record,
+
+7
+00:00:14,420 --> 00:00:16,806
+a snub, a claim that was withdrawn,
+
+8
+00:00:16,806 --> 00:00:19,192
+a trailer that flipped in the wind,
+
+9
+00:00:19,192 --> 00:00:21,850
+a sell-out before the speed was proved,
+
+10
+00:00:21,850 --> 00:00:24,031
+and a crash at two hundred fifty
+
+11
+00:00:24,031 --> 00:00:25,054
+miles per hour.
+
+12
+00:00:25,234 --> 00:00:28,605
+This is the story of America's speed-record
+
+13
+00:00:28,605 --> 00:00:30,958
+war, with every claim sourced.
+
+14
+00:00:31,307 --> 00:00:34,183
+We rely on Wikipedia for the dates
+
+15
+00:00:34,183 --> 00:00:36,467
+and speeds, with Motor One,
+
+16
+00:00:36,467 --> 00:00:38,750
+Motor Authority, The Drive,
+
+17
+00:00:38,750 --> 00:00:42,302
+evo, The Supercar Blog and Hennessey's own
+
+18
+00:00:42,302 --> 00:00:44,078
+news page for detail.
+
+19
+00:00:44,258 --> 00:00:47,191
+Hennessey's page is a company source,
+
+20
+00:00:47,191 --> 00:00:48,380
+so we label it.
+
+21
+00:00:48,560 --> 00:00:51,381
+Where sources disagree we show both numbers.
+
+22
+00:00:51,561 --> 00:00:53,055
+And where we do the maths,
+
+23
+00:00:53,055 --> 00:00:54,835
+it is marked as our arithmetic.
+
+24
+00:00:55,185 --> 00:00:57,738
+The story starts in West Richland,
+
+25
+00:00:57,738 --> 00:00:58,564
+Washington.
+
+26
+00:00:58,744 --> 00:01:01,819
+Wikipedia says that on the thirteenth of
+
+27
+00:01:01,819 --> 00:01:04,126
+September, two thousand seven,
+
+28
+00:01:04,126 --> 00:01:07,278
+the SSC Ultimate Aero reached two hundred
+
+29
+00:01:07,278 --> 00:01:10,430
+fifty-six point one eight miles per hour,
+
+30
+00:01:10,430 --> 00:01:13,351
+a speed Guinness verified on the ninth
+
+31
+00:01:13,351 --> 00:01:14,197
+of October.
+
+32
+00:01:14,377 --> 00:01:16,994
+It was a record for a production
+
+33
+00:01:16,994 --> 00:01:19,938
+car, set by a small American company
+
+34
+00:01:19,938 --> 00:01:21,900
+against European giants.
+
+35
+00:01:22,080 --> 00:01:24,613
+SSC became the name in the speed
+
+36
+00:01:24,613 --> 00:01:26,434
+chase almost overnight.
+
+37
+00:01:26,783 --> 00:01:29,361
+The car had been through several versions.
+
+38
+00:01:29,541 --> 00:01:33,029
+Wikipedia lists nine hundred eleven horsepower for
+
+39
+00:01:33,029 --> 00:01:35,261
+the two thousand four base Aero,
+
+40
+00:01:35,261 --> 00:01:38,191
+eleven hundred eighty for the two thousand
+
+41
+00:01:38,191 --> 00:01:39,796
+seven Ultimate Aero TT,
+
+42
+00:01:39,796 --> 00:01:42,865
+twelve eighty-seven in two thousand nine and
+
+43
+00:01:42,865 --> 00:01:45,795
+thirteen hundred in two thousand thirteen.
+
+44
+00:01:45,975 --> 00:01:49,186
+Only twenty-four TTs were produced between two
+
+45
+00:01:49,186 --> 00:01:51,699
+thousand six and two thousand seven.
+
+46
+00:01:51,879 --> 00:01:53,865
+The first sold on eBay for four
+
+47
+00:01:53,865 --> 00:01:55,659
+hundred thirty-one thousand,
+
+48
+00:01:55,659 --> 00:01:56,941
+one hundred dollars.
+
+49
+00:01:57,290 --> 00:01:58,510
+It did not last.
+
+50
+00:01:58,690 --> 00:02:02,203
+Wikipedia says the Bugatti Veyron Super Sport
+
+51
+00:02:02,203 --> 00:02:04,857
+ended the SSC record on the fourth
+
+52
+00:02:04,857 --> 00:02:06,419
+of July, twenty ten,
+
+53
+00:02:06,419 --> 00:02:08,995
+with a certified top speed of two
+
+54
+00:02:08,995 --> 00:02:11,728
+hundred sixty-seven miles per hour.
+
+55
+00:02:11,908 --> 00:02:14,768
+Hennessey's own news page gives the Veyron
+
+56
+00:02:14,768 --> 00:02:17,969
+Super Sport's figure as two hundred sixty-eight
+
+57
+00:02:17,969 --> 00:02:19,059
+point eight six.
+
+58
+00:02:19,239 --> 00:02:22,291
+Those two numbers disagree by under two
+
+59
+00:02:22,291 --> 00:02:23,464
+miles per hour,
+
+60
+00:02:23,464 --> 00:02:25,186
+and we cannot say why,
+
+61
+00:02:25,186 --> 00:02:26,437
+so we show both.
+
+62
+00:02:26,787 --> 00:02:28,212
+By our arithmetic,
+
+63
+00:02:28,212 --> 00:02:31,220
+the Bugatti beat SSC's record by about
+
+64
+00:02:31,220 --> 00:02:32,961
+eleven miles per hour,
+
+65
+00:02:32,961 --> 00:02:35,019
+using Wikipedia's figures.
+
+66
+00:02:35,199 --> 00:02:37,896
+SSC's record had stood for under three
+
+67
+00:02:37,896 --> 00:02:38,322
+years.
+
+68
+00:02:38,502 --> 00:02:39,450
+From then on,
+
+69
+00:02:39,450 --> 00:02:43,169
+the contest was American start-ups against Bugatti.
+
+70
+00:02:43,520 --> 00:02:44,553
+Enter Hennessey.
+
+71
+00:02:44,733 --> 00:02:47,699
+Wikipedia says the Venom GT was built
+
+72
+00:02:47,699 --> 00:02:50,746
+on the Lotus Elise and Exige platform,
+
+73
+00:02:50,746 --> 00:02:54,514
+although Hennessey is not associated with Lotus
+
+74
+00:02:54,514 --> 00:02:54,915
+Cars.
+
+75
+00:02:55,095 --> 00:02:57,602
+In January twenty thirteen it took a
+
+76
+00:02:57,602 --> 00:03:00,459
+Guinness record for zero to three hundred
+
+77
+00:03:00,459 --> 00:03:01,852
+kilometres per hour,
+
+78
+00:03:01,852 --> 00:03:04,360
+in thirteen point six three seconds.
+
+79
+00:03:04,540 --> 00:03:06,516
+In April twenty thirteen,
+
+80
+00:03:06,516 --> 00:03:10,074
+it reached two hundred sixty-five point seven
+
+81
+00:03:10,074 --> 00:03:12,446
+miles per hour over two miles.
+
+82
+00:03:12,796 --> 00:03:15,401
+Then, on the fourteenth of February,
+
+83
+00:03:15,401 --> 00:03:18,659
+twenty fourteen, at the Kennedy Space Center,
+
+84
+00:03:18,659 --> 00:03:21,554
+the Venom GT reached two hundred seventy
+
+85
+00:03:21,554 --> 00:03:23,799
+point four nine miles per hour,
+
+86
+00:03:23,799 --> 00:03:26,404
+over a limited distance of two point
+
+87
+00:03:26,404 --> 00:03:27,273
+three miles.
+
+88
+00:03:27,453 --> 00:03:30,379
+It was faster than the Bugatti's certified
+
+89
+00:03:30,379 --> 00:03:32,469
+speed by a few miles per hour.
+
+90
+00:03:32,649 --> 00:03:36,027
+Hennessey announced it as the fastest production
+
+91
+00:03:36,027 --> 00:03:37,223
+car in the world.
+
+92
+00:03:37,403 --> 00:03:39,186
+That is the company's claim,
+
+93
+00:03:39,186 --> 00:03:40,714
+and it is not the end of
+
+94
+00:03:40,714 --> 00:03:41,350
+the story.
+
+95
+00:03:41,700 --> 00:03:44,613
+Wikipedia explains why it did not count:
+
+96
+00:03:44,613 --> 00:03:47,088
+the run was in one direction only,
+
+97
+00:03:47,088 --> 00:03:50,000
+and only twenty-nine cars were produced,
+
+98
+00:03:50,000 --> 00:03:53,131
+while Guinness requires at least thirty for
+
+99
+00:03:53,131 --> 00:03:54,878
+a production-car record.
+
+100
+00:03:55,058 --> 00:03:56,912
+So the Venom GT was fast,
+
+101
+00:03:56,912 --> 00:03:58,395
+and it was American,
+
+102
+00:03:58,395 --> 00:04:00,619
+and it was not a world record.
+
+103
+00:04:00,799 --> 00:04:02,716
+Hennessey's own news page,
+
+104
+00:04:02,716 --> 00:04:04,927
+marking the tenth anniversary,
+
+105
+00:04:04,927 --> 00:04:07,949
+nonetheless calls the car verified at two
+
+106
+00:04:07,949 --> 00:04:10,308
+hundred seventy point four nine,
+
+107
+00:04:10,308 --> 00:04:13,257
+and that page does not mention Guinness.
+
+108
+00:04:13,606 --> 00:04:14,984
+By our arithmetic,
+
+109
+00:04:14,984 --> 00:04:17,510
+the Venom GT was three point four
+
+110
+00:04:17,510 --> 00:04:20,265
+nine miles per hour above the Veyron
+
+111
+00:04:20,265 --> 00:04:23,174
+Super Sport's two hundred sixty-seven,
+
+112
+00:04:23,174 --> 00:04:25,623
+or one point six three above the
+
+113
+00:04:25,623 --> 00:04:27,689
+figure on Hennessey's page.
+
+114
+00:04:27,869 --> 00:04:29,705
+The margin was so small that the
+
+115
+00:04:29,705 --> 00:04:31,712
+rules mattered more than the speed.
+
+116
+00:04:31,892 --> 00:04:34,105
+A one-way run on a short runway
+
+117
+00:04:34,105 --> 00:04:37,032
+against a certified two-way figure is not
+
+118
+00:04:37,032 --> 00:04:37,960
+a fair fight,
+
+119
+00:04:37,960 --> 00:04:41,172
+and everyone in this story eventually learned
+
+120
+00:04:41,172 --> 00:04:41,529
+that.
+
+121
+00:04:41,879 --> 00:04:44,321
+The production count of the Venom GT
+
+122
+00:04:44,321 --> 00:04:45,814
+adds to the confusion.
+
+123
+00:04:45,994 --> 00:04:48,270
+Wikipedia lists eight units:
+
+124
+00:04:48,270 --> 00:04:51,358
+seven production cars and a prototype.
+
+125
+00:04:51,538 --> 00:04:54,854
+Hennessey's earlier figure was thirteen vehicles,
+
+126
+00:04:54,854 --> 00:04:58,034
+and a twenty fourteen statement said production
+
+127
+00:04:58,034 --> 00:05:00,199
+would be limited to twenty-nine.
+
+128
+00:05:00,379 --> 00:05:03,597
+Motor Authority also says the Venom GT
+
+129
+00:05:03,597 --> 00:05:04,698
+had thirteen.
+
+130
+00:05:04,878 --> 00:05:06,640
+So the car that tried to set
+
+131
+00:05:06,640 --> 00:05:09,409
+the record was counted three different ways,
+
+132
+00:05:09,409 --> 00:05:11,423
+which is a lesson the record war
+
+133
+00:05:11,423 --> 00:05:12,366
+kept repeating.
+
+134
+00:05:12,717 --> 00:05:16,083
+Both companies had already started their successors.
+
+135
+00:05:16,263 --> 00:05:20,113
+Wikipedia says SSC began developing the Tuatara
+
+136
+00:05:20,113 --> 00:05:22,816
+in twenty eleven and showed it as
+
+137
+00:05:22,816 --> 00:05:25,928
+a concept at the Pebble Beach Concours
+
+138
+00:05:25,928 --> 00:05:26,747
+that year.
+
+139
+00:05:26,927 --> 00:05:30,284
+The production version was shown in August
+
+140
+00:05:30,284 --> 00:05:33,080
+twenty eighteen, seven years later.
+
+141
+00:05:33,260 --> 00:05:35,328
+Hennessey, per Wikipedia,
+
+142
+00:05:35,328 --> 00:05:38,471
+first revealed the F5 in August twenty
+
+143
+00:05:38,471 --> 00:05:41,532
+fourteen, showed a mock-up at SEMA on
+
+144
+00:05:41,532 --> 00:05:43,351
+the first of November,
+
+145
+00:05:43,351 --> 00:05:47,322
+twenty seventeen, and began production in twenty
+
+146
+00:05:47,322 --> 00:05:47,901
+twenty.
+
+147
+00:05:48,251 --> 00:05:50,480
+Their rivals were not standing still.
+
+148
+00:05:50,660 --> 00:05:53,920
+Wikipedia says the Bugatti Chiron Super Sport
+
+149
+00:05:53,920 --> 00:05:57,253
+three hundred plus reached four hundred ninety
+
+150
+00:05:57,253 --> 00:06:00,296
+point four eight four kilometres per hour,
+
+151
+00:06:00,296 --> 00:06:03,122
+which is three hundred four point seven
+
+152
+00:06:03,122 --> 00:06:05,079
+seven three miles per hour,
+
+153
+00:06:05,079 --> 00:06:06,818
+on the second of August,
+
+154
+00:06:06,818 --> 00:06:10,948
+twenty nineteen, at Volkswagen's Ehra-Lessien test track,
+
+155
+00:06:10,948 --> 00:06:12,614
+driven by Andy Wallace.
+
+156
+00:06:12,794 --> 00:06:15,859
+The speed was verified by TÜV.
+
+157
+00:06:16,039 --> 00:06:18,849
+The variant is limited to thirty examples.
+
+158
+00:06:19,199 --> 00:06:21,691
+Wikipedia's page for that car does not
+
+159
+00:06:21,691 --> 00:06:23,790
+say whether the run was one way,
+
+160
+00:06:23,790 --> 00:06:25,954
+and it does not mention Guinness,
+
+161
+00:06:25,954 --> 00:06:27,987
+so we cannot say whether it was
+
+162
+00:06:27,987 --> 00:06:29,299
+a recognised record.
+
+163
+00:06:29,479 --> 00:06:31,567
+What we can say is that three
+
+164
+00:06:31,567 --> 00:06:34,374
+hundred four point seven seven three is
+
+165
+00:06:34,374 --> 00:06:37,109
+a speed no American production car has
+
+166
+00:06:37,109 --> 00:06:37,757
+verified.
+
+167
+00:06:37,937 --> 00:06:39,202
+By our arithmetic,
+
+168
+00:06:39,202 --> 00:06:41,590
+it is nine point seven seven three
+
+169
+00:06:41,590 --> 00:06:44,610
+miles per hour above the Tuatara's verified
+
+170
+00:06:44,610 --> 00:06:46,296
+two hundred ninety-five.
+
+171
+00:06:46,646 --> 00:06:48,225
+Look at the record's slope.
+
+172
+00:06:48,405 --> 00:06:51,595
+From SSC's two hundred fifty-six point one
+
+173
+00:06:51,595 --> 00:06:54,632
+eight in two thousand seven to Bugatti's
+
+174
+00:06:54,632 --> 00:06:57,821
+three hundred four point seven seven three
+
+175
+00:06:57,821 --> 00:07:01,238
+in two thousand nineteen is forty-eight point
+
+176
+00:07:01,238 --> 00:07:03,820
+five nine miles per hour in twelve
+
+177
+00:07:03,820 --> 00:07:05,718
+years, by our arithmetic,
+
+178
+00:07:05,718 --> 00:07:08,224
+about four miles per hour a year.
+
+179
+00:07:08,404 --> 00:07:11,322
+Bugatti's figure was a prototype run on
+
+180
+00:07:11,322 --> 00:07:13,117
+a track built for speed.
+
+181
+00:07:13,297 --> 00:07:16,040
+The American challengers had to work out
+
+182
+00:07:16,040 --> 00:07:16,931
+where to run.
+
+183
+00:07:17,281 --> 00:07:19,975
+Then came the Tuatara's big moment.
+
+184
+00:07:20,155 --> 00:07:22,728
+Wikipedia says that on the tenth of
+
+185
+00:07:22,728 --> 00:07:24,419
+October, twenty twenty,
+
+186
+00:07:24,419 --> 00:07:26,918
+SSC claimed a one-way top speed of
+
+187
+00:07:26,918 --> 00:07:30,227
+three hundred thirty-one point one five miles
+
+188
+00:07:30,227 --> 00:07:32,653
+per hour and a two-way average of
+
+189
+00:07:32,653 --> 00:07:35,299
+three hundred sixteen point one one,
+
+190
+00:07:35,299 --> 00:07:38,166
+on a seven-mile stretch of Nevada State
+
+191
+00:07:38,166 --> 00:07:40,298
+Route one sixty near Pahrump.
+
+192
+00:07:40,478 --> 00:07:43,484
+The driver was British racing driver Oliver
+
+193
+00:07:43,484 --> 00:07:43,834
+Webb.
+
+194
+00:07:44,014 --> 00:07:47,010
+SSC said it beat the Koenigsegg Agera
+
+195
+00:07:47,010 --> 00:07:50,088
+RS record by forty-six point six miles
+
+196
+00:07:50,088 --> 00:07:50,817
+per hour.
+
+197
+00:07:51,166 --> 00:07:52,622
+By our arithmetic,
+
+198
+00:07:52,622 --> 00:07:55,533
+a margin of forty-six point six over
+
+199
+00:07:55,533 --> 00:07:58,121
+the Agera RS implies an Agera RS
+
+200
+00:07:58,121 --> 00:08:01,760
+figure of about two hundred eighty-four point
+
+201
+00:08:01,760 --> 00:08:05,399
+five five, subtracting from the three hundred
+
+202
+00:08:05,399 --> 00:08:07,502
+thirty-one point one five.
+
+203
+00:08:07,682 --> 00:08:09,704
+Our sources here do not give the
+
+204
+00:08:09,704 --> 00:08:11,221
+Koenigsegg's own figure,
+
+205
+00:08:11,221 --> 00:08:13,243
+so we only note the implication.
+
+206
+00:08:13,423 --> 00:08:15,483
+The claim was big enough to be
+
+207
+00:08:15,483 --> 00:08:17,337
+obviously the fastest ever,
+
+208
+00:08:17,337 --> 00:08:19,878
+and also big enough to attract doubt.
+
+209
+00:08:20,227 --> 00:08:21,447
+Doubt came quickly.
+
+210
+00:08:21,627 --> 00:08:26,103
+Wikipedia calls the claim pending independent confirmation
+
+211
+00:08:26,103 --> 00:08:27,106
+and disputed.
+
+212
+00:08:27,286 --> 00:08:29,240
+On the thirtieth of October,
+
+213
+00:08:29,240 --> 00:08:31,821
+founder Jerod Shelby said the run had
+
+214
+00:08:31,821 --> 00:08:34,751
+been ruined after they started seeing some
+
+215
+00:08:34,751 --> 00:08:35,239
+doubts.
+
+216
+00:08:35,419 --> 00:08:37,929
+Then, on the twenty-first of July,
+
+217
+00:08:37,929 --> 00:08:41,326
+twenty twenty-one, SSC stated that the initial
+
+218
+00:08:41,326 --> 00:08:44,205
+record attempt did not reach over three
+
+219
+00:08:44,205 --> 00:08:45,903
+hundred miles per hour.
+
+220
+00:08:46,083 --> 00:08:47,924
+The claim was withdrawn,
+
+221
+00:08:47,924 --> 00:08:49,996
+in the company's own words.
+
+222
+00:08:50,345 --> 00:08:52,776
+Motor One adds that the company later
+
+223
+00:08:52,776 --> 00:08:55,930
+admitted the numbers were not entirely accurate.
+
+224
+00:08:56,110 --> 00:08:58,174
+We do not know exactly what went
+
+225
+00:08:58,174 --> 00:09:00,626
+wrong, because our sources do not say.
+
+226
+00:09:00,806 --> 00:09:02,182
+By our arithmetic,
+
+227
+00:09:02,182 --> 00:09:05,393
+nine months and eleven days passed between
+
+228
+00:09:05,393 --> 00:09:07,610
+the claim and the withdrawal.
+
+229
+00:09:07,790 --> 00:09:08,778
+In that time,
+
+230
+00:09:08,778 --> 00:09:12,199
+the three hundred sixteen figure was repeated
+
+231
+00:09:12,199 --> 00:09:15,088
+widely, and our sources cannot tell us
+
+232
+00:09:15,088 --> 00:09:17,445
+how many buyers or fans took it
+
+233
+00:09:17,445 --> 00:09:18,053
+as fact.
+
+234
+00:09:18,402 --> 00:09:20,716
+SSC's answer was to run again,
+
+235
+00:09:20,716 --> 00:09:22,721
+with independent tracking.
+
+236
+00:09:22,901 --> 00:09:26,089
+Wikipedia says that on the seventeenth of
+
+237
+00:09:26,089 --> 00:09:28,189
+January, twenty twenty-one,
+
+238
+00:09:28,189 --> 00:09:29,511
+at Space Florida,
+
+239
+00:09:29,511 --> 00:09:32,465
+the owner Larry Caplin drove a Tuatara
+
+240
+00:09:32,465 --> 00:09:35,964
+to two hundred seventy-nine point seven miles
+
+241
+00:09:35,964 --> 00:09:39,541
+per hour northbound and two hundred eighty-six
+
+242
+00:09:39,541 --> 00:09:41,174
+point one southbound,
+
+243
+00:09:41,174 --> 00:09:44,518
+a two-way average of two hundred eighty-two
+
+244
+00:09:44,518 --> 00:09:48,483
+point nine, verified by multiple satellite tracking
+
+245
+00:09:48,483 --> 00:09:49,105
+systems.
+
+246
+00:09:49,285 --> 00:09:52,269
+Motor One says that average remains the
+
+247
+00:09:52,269 --> 00:09:53,952
+production-car record.
+
+248
+00:09:54,302 --> 00:09:55,394
+Then bad luck.
+
+249
+00:09:55,574 --> 00:09:59,253
+Wikipedia says that in April twenty twenty-one,
+
+250
+00:09:59,253 --> 00:10:02,462
+a trailer carrying the Tuatara flipped in
+
+251
+00:10:02,462 --> 00:10:03,949
+high winds in Utah,
+
+252
+00:10:03,949 --> 00:10:05,280
+damaging the car.
+
+253
+00:10:05,460 --> 00:10:07,777
+The sources do not give the damage
+
+254
+00:10:07,777 --> 00:10:08,594
+or the cost.
+
+255
+00:10:08,774 --> 00:10:11,656
+Whatever happened, the next verified run came
+
+256
+00:10:11,656 --> 00:10:13,128
+more than a year later.
+
+257
+00:10:13,308 --> 00:10:15,622
+The sources do not say whether the
+
+258
+00:10:15,622 --> 00:10:17,256
+damage caused the delay,
+
+259
+00:10:17,256 --> 00:10:18,753
+and we will not guess.
+
+260
+00:10:19,103 --> 00:10:21,078
+On the fourteenth of May,
+
+261
+00:10:21,078 --> 00:10:25,105
+twenty twenty-two, again with Larry Caplin driving,
+
+262
+00:10:25,105 --> 00:10:27,000
+at Kennedy Space Center,
+
+263
+00:10:27,000 --> 00:10:30,869
+the Tuatara reached two hundred ninety-five miles
+
+264
+00:10:30,869 --> 00:10:32,211
+per hour one way,
+
+265
+00:10:32,211 --> 00:10:33,395
+Motor One says.
+
+266
+00:10:33,575 --> 00:10:37,500
+Wikipedia says two Racelogic GNSS systems and
+
+267
+00:10:37,500 --> 00:10:40,727
+a Life Racing GPS system verified it.
+
+268
+00:10:40,907 --> 00:10:44,098
+Motor One adds that a Racelogic technician
+
+269
+00:10:44,098 --> 00:10:46,985
+was on site and an independent analyst
+
+270
+00:10:46,985 --> 00:10:47,896
+was present.
+
+271
+00:10:48,076 --> 00:10:51,443
+This is the Tuatara's best verified speed.
+
+272
+00:10:51,794 --> 00:10:53,987
+Shelby told Motor One that the car
+
+273
+00:10:53,987 --> 00:10:56,180
+was not even close to reaching its
+
+274
+00:10:56,180 --> 00:10:58,438
+ceiling, and that the limit was not
+
+275
+00:10:58,438 --> 00:11:00,309
+the car but that they ran out
+
+276
+00:11:00,309 --> 00:11:00,954
+of runway.
+
+277
+00:11:01,134 --> 00:11:02,460
+By our arithmetic,
+
+278
+00:11:02,460 --> 00:11:05,480
+Space Florida's runway is two point three
+
+279
+00:11:05,480 --> 00:11:08,206
+miles, or about twelve thousand feet,
+
+280
+00:11:08,206 --> 00:11:11,153
+and at two hundred ninety-five miles per
+
+281
+00:11:11,153 --> 00:11:13,658
+hour a car covers that distance in
+
+282
+00:11:13,658 --> 00:11:15,205
+under thirty seconds,
+
+283
+00:11:15,205 --> 00:11:17,121
+even without accelerating.
+
+284
+00:11:17,301 --> 00:11:18,936
+There is not much room to get
+
+285
+00:11:18,936 --> 00:11:19,274
+there.
+
+286
+00:11:19,625 --> 00:11:23,073
+Meanwhile Hennessey's F5 was selling out.
+
+287
+00:11:23,253 --> 00:11:26,663
+Motor Authority reported in August twenty twenty-one
+
+288
+00:11:26,663 --> 00:11:28,893
+that the final build slot had been
+
+289
+00:11:28,893 --> 00:11:31,581
+claimed the week after Monterey Car Week,
+
+290
+00:11:31,581 --> 00:11:33,680
+when the car was priced from two
+
+291
+00:11:33,680 --> 00:11:35,385
+point one million dollars.
+
+292
+00:11:35,565 --> 00:11:38,379
+John Hennessey said only a final round
+
+293
+00:11:38,379 --> 00:11:39,860
+of testing remained,
+
+294
+00:11:39,860 --> 00:11:43,193
+covering acceleration, braking and stability.
+
+295
+00:11:43,373 --> 00:11:45,933
+The car was sold before its speed
+
+296
+00:11:45,933 --> 00:11:46,786
+was proved.
+
+297
+00:11:47,137 --> 00:11:49,411
+In February twenty twenty-two,
+
+298
+00:11:49,411 --> 00:11:50,548
+Motor One says,
+
+299
+00:11:50,548 --> 00:11:53,883
+the F5 reached two hundred seventy-one point
+
+300
+00:11:53,883 --> 00:11:56,157
+six miles per hour at the same
+
+301
+00:11:56,157 --> 00:11:59,492
+Space Florida runway where the Tuatara later
+
+302
+00:11:59,492 --> 00:12:01,614
+hit two hundred ninety-five.
+
+303
+00:12:01,794 --> 00:12:03,182
+By our arithmetic,
+
+304
+00:12:03,182 --> 00:12:06,653
+the Tuatara was twenty-three point four miles
+
+305
+00:12:06,653 --> 00:12:09,352
+per hour faster three months later.
+
+306
+00:12:09,532 --> 00:12:11,590
+The F5 had a verified speed,
+
+307
+00:12:11,590 --> 00:12:14,088
+but it was one that kept Hennessey
+
+308
+00:12:14,088 --> 00:12:15,999
+behind its rival's number.
+
+309
+00:12:16,349 --> 00:12:18,710
+In February twenty twenty-four,
+
+310
+00:12:18,710 --> 00:12:20,691
+Hennessey's own news page,
+
+311
+00:12:20,691 --> 00:12:23,586
+marking ten years since the Venom GT's
+
+312
+00:12:23,586 --> 00:12:25,414
+run, laid out its plans:
+
+313
+00:12:25,414 --> 00:12:28,309
+to exceed three hundred miles per hour
+
+314
+00:12:28,309 --> 00:12:30,900
+with the F5 in twenty twenty-four,
+
+315
+00:12:30,900 --> 00:12:32,347
+in both directions.
+
+316
+00:12:32,527 --> 00:12:33,903
+John Hennessey said,
+
+317
+00:12:33,903 --> 00:12:36,861
+breaking three hundred in two directions is
+
+318
+00:12:36,861 --> 00:12:38,030
+this year's goal.
+
+319
+00:12:38,210 --> 00:12:41,133
+The page says the simulated theoretical top
+
+320
+00:12:41,133 --> 00:12:44,192
+speed is three hundred twenty-eight miles per
+
+321
+00:12:44,192 --> 00:12:46,707
+hour, though Hennessey says it is not
+
+322
+00:12:46,707 --> 00:12:47,591
+chasing that.
+
+323
+00:12:47,941 --> 00:12:49,188
+The Supercar Blog,
+
+324
+00:12:49,188 --> 00:12:52,166
+summarising a Hennessey video from the same
+
+325
+00:12:52,166 --> 00:12:55,422
+month, says the company put customer deliveries
+
+326
+00:12:55,422 --> 00:12:57,362
+ahead of the record attempt,
+
+327
+00:12:57,362 --> 00:13:00,063
+with more than twenty cars delivered at
+
+328
+00:13:00,063 --> 00:13:02,280
+that point, and that the car for
+
+329
+00:13:02,280 --> 00:13:04,566
+the run was reported to be ready.
+
+330
+00:13:04,746 --> 00:13:06,937
+That is a secondary report of a
+
+331
+00:13:06,937 --> 00:13:08,563
+video we did not watch,
+
+332
+00:13:08,563 --> 00:13:09,553
+so we flag it.
+
+333
+00:13:09,733 --> 00:13:12,581
+It suggests that by early twenty twenty-four,
+
+334
+00:13:12,581 --> 00:13:15,176
+most of the twenty-four cars were already
+
+335
+00:13:15,176 --> 00:13:16,315
+with their owners.
+
+336
+00:13:16,666 --> 00:13:17,560
+Then the setback.
+
+337
+00:13:17,740 --> 00:13:20,375
+The Drive reports that during a zero
+
+338
+00:13:20,375 --> 00:13:22,863
+to two hundred fifty mile per hour
+
+339
+00:13:22,863 --> 00:13:25,059
+test on a Monday in early July
+
+340
+00:13:25,059 --> 00:13:28,792
+twenty twenty-four at the Shuttle Landing Facility,
+
+341
+00:13:28,792 --> 00:13:31,719
+a downforce issue caused the test driver
+
+342
+00:13:31,719 --> 00:13:32,891
+to lose control.
+
+343
+00:13:33,071 --> 00:13:36,034
+Hennessey said the driver walked away without
+
+344
+00:13:36,034 --> 00:13:36,496
+injury.
+
+345
+00:13:36,676 --> 00:13:37,817
+By our arithmetic,
+
+346
+00:13:37,817 --> 00:13:39,845
+that was about four months and a
+
+347
+00:13:39,845 --> 00:13:42,001
+half after the plan to reach three
+
+348
+00:13:42,001 --> 00:13:43,142
+hundred that year.
+
+349
+00:13:43,493 --> 00:13:45,455
+There was still a record to take.
+
+350
+00:13:45,635 --> 00:13:48,616
+Wikipedia says that on the thirtieth of
+
+351
+00:13:48,616 --> 00:13:50,527
+July, twenty twenty-four,
+
+352
+00:13:50,527 --> 00:13:52,897
+John Hennessey drove an F5 to a
+
+353
+00:13:52,897 --> 00:13:55,725
+half mile in fourteen point four four
+
+354
+00:13:55,725 --> 00:13:58,860
+seconds at two hundred nineteen miles per
+
+355
+00:13:58,860 --> 00:14:00,083
+hour in Florida,
+
+356
+00:14:00,083 --> 00:14:03,293
+a production-car record for that distance.
+
+357
+00:14:03,473 --> 00:14:05,844
+That was about four weeks after the
+
+358
+00:14:05,844 --> 00:14:06,724
+crash report.
+
+359
+00:14:06,904 --> 00:14:08,409
+The company kept going,
+
+360
+00:14:08,409 --> 00:14:10,698
+but the three hundred mile per hour
+
+361
+00:14:10,698 --> 00:14:12,268
+goal remained a promise.
+
+362
+00:14:12,618 --> 00:14:14,705
+In April twenty twenty-five,
+
+363
+00:14:14,705 --> 00:14:18,880
+Wikipedia says, Hennessey released the Evolution package
+
+364
+00:14:18,880 --> 00:14:22,607
+for two hundred eighty-five thousand dollars more,
+
+365
+00:14:22,607 --> 00:14:25,887
+with two thousand thirty-one horsepower on E
+
+366
+00:14:25,887 --> 00:14:26,782
+eighty-five.
+
+367
+00:14:26,962 --> 00:14:29,580
+And evo, in June twenty twenty-five,
+
+368
+00:14:29,580 --> 00:14:31,908
+reported that the F5 had not yet
+
+369
+00:14:31,908 --> 00:14:34,599
+reached three hundred miles per hour,
+
+370
+00:14:34,599 --> 00:14:37,363
+that a two-way attempt was planned for
+
+371
+00:14:37,363 --> 00:14:39,618
+possibly the next month or two,
+
+372
+00:14:39,618 --> 00:14:42,164
+and that just how fast was anyone's
+
+373
+00:14:42,164 --> 00:14:42,600
+guess.
+
+374
+00:14:42,951 --> 00:14:44,843
+Behind the numbers are people.
+
+375
+00:14:45,023 --> 00:14:48,893
+Wikipedia names Jerod Shelby as SSC's founder
+
+376
+00:14:48,893 --> 00:14:50,613
+and chief executive,
+
+377
+00:14:50,613 --> 00:14:52,333
+and Jason Castriota,
+
+378
+00:14:52,333 --> 00:14:54,397
+formerly of Pininfarina,
+
+379
+00:14:54,397 --> 00:14:56,633
+as the Tuatara's designer.
+
+380
+00:14:56,813 --> 00:15:00,080
+Oliver Webb drove the disputed Nevada run,
+
+381
+00:15:00,080 --> 00:15:02,880
+and the owner Larry Caplin drove the
+
+382
+00:15:02,880 --> 00:15:04,592
+verified Florida runs.
+
+383
+00:15:04,772 --> 00:15:08,047
+For Hennessey, John Hennessey is the founder,
+
+384
+00:15:08,047 --> 00:15:10,157
+Nathan Malinick the designer,
+
+385
+00:15:10,157 --> 00:15:13,287
+and David Donohue the official test driver,
+
+386
+00:15:13,287 --> 00:15:15,615
+according to the company's page.
+
+387
+00:15:15,966 --> 00:15:17,208
+Then the places.
+
+388
+00:15:17,388 --> 00:15:20,035
+SSC's first record was set near its
+
+389
+00:15:20,035 --> 00:15:21,699
+home in West Richland,
+
+390
+00:15:21,699 --> 00:15:22,531
+Washington.
+
+391
+00:15:22,711 --> 00:15:25,384
+The disputed Tuatara run was on a
+
+392
+00:15:25,384 --> 00:15:28,947
+seven-mile stretch of Nevada State Route one
+
+393
+00:15:28,947 --> 00:15:29,433
+sixty.
+
+394
+00:15:29,613 --> 00:15:32,010
+The verified runs were on the two
+
+395
+00:15:32,010 --> 00:15:34,987
+point three mile runway at Space Florida,
+
+396
+00:15:34,987 --> 00:15:36,730
+at Kennedy Space Center.
+
+397
+00:15:36,910 --> 00:15:40,169
+Bugatti ran on Volkswagen's test track at
+
+398
+00:15:40,169 --> 00:15:44,063
+Ehra-Lessien, and Hennessey's Spyder ran at Naval
+
+399
+00:15:44,063 --> 00:15:45,652
+Air Station Lemoore.
+
+400
+00:15:46,003 --> 00:15:47,326
+By our arithmetic,
+
+401
+00:15:47,326 --> 00:15:50,045
+the Nevada road was about three times
+
+402
+00:15:50,045 --> 00:15:52,250
+as long as the Florida runway,
+
+403
+00:15:52,250 --> 00:15:54,896
+seven miles against two point three.
+
+404
+00:15:55,076 --> 00:15:57,499
+That is one reason the Nevada claim
+
+405
+00:15:57,499 --> 00:15:58,607
+looked so large,
+
+406
+00:15:58,607 --> 00:16:00,338
+and why the Florida runs,
+
+407
+00:16:00,338 --> 00:16:02,831
+though lower, were easier to verify.
+
+408
+00:16:03,011 --> 00:16:05,027
+A longer road lets a car go
+
+409
+00:16:05,027 --> 00:16:08,387
+faster, but it also makes measurement harder.
+
+410
+00:16:08,567 --> 00:16:10,692
+The sources do not discuss this,
+
+411
+00:16:10,692 --> 00:16:12,352
+so it is our observation.
+
+412
+00:16:12,702 --> 00:16:15,801
+Hennessey also tried an open-top record.
+
+413
+00:16:15,981 --> 00:16:19,029
+Wikipedia says the Venom GT Spyder reached
+
+414
+00:16:19,029 --> 00:16:22,294
+two hundred sixty-five point five seven miles
+
+415
+00:16:22,294 --> 00:16:24,979
+per hour at Naval Air Station Lemoore
+
+416
+00:16:24,979 --> 00:16:27,083
+on the twenty-fifth of March,
+
+417
+00:16:27,083 --> 00:16:28,172
+twenty sixteen.
+
+418
+00:16:28,352 --> 00:16:29,573
+By our arithmetic,
+
+419
+00:16:29,573 --> 00:16:32,151
+the Spyder's speed was four point nine
+
+420
+00:16:32,151 --> 00:16:34,594
+two miles per hour below the coupé's
+
+421
+00:16:34,594 --> 00:16:37,036
+two hundred seventy point four nine.
+
+422
+00:16:37,216 --> 00:16:40,384
+The Spyder was listed with fourteen hundred
+
+423
+00:16:40,384 --> 00:16:43,625
+fifty-one horsepower in the sixteen figures.
+
+424
+00:16:43,975 --> 00:16:45,646
+In kilometres per hour,
+
+425
+00:16:45,646 --> 00:16:47,609
+the records read like this.
+
+426
+00:16:47,789 --> 00:16:50,693
+Wikipedia gives the Ultimate Aero as four
+
+427
+00:16:50,693 --> 00:16:52,890
+hundred twelve point two eight,
+
+428
+00:16:52,890 --> 00:16:55,582
+the Veyron Super Sport as four hundred
+
+429
+00:16:55,582 --> 00:16:58,133
+thirty, the Venom GT as four hundred
+
+430
+00:16:58,133 --> 00:17:00,117
+thirty-five point three one,
+
+431
+00:17:00,117 --> 00:17:02,951
+and the Chiron Super Sport three hundred
+
+432
+00:17:02,951 --> 00:17:05,643
+plus as four hundred ninety point four
+
+433
+00:17:05,643 --> 00:17:06,423
+eight four.
+
+434
+00:17:06,603 --> 00:17:09,543
+Motor One gives the Tuatara's verified run
+
+435
+00:17:09,543 --> 00:17:12,623
+as four hundred seventy-four point eight and
+
+436
+00:17:12,623 --> 00:17:15,634
+the F5's as four hundred thirty-seven point
+
+437
+00:17:15,634 --> 00:17:15,914
+one.
+
+438
+00:17:16,264 --> 00:17:19,580
+Hennessey's goal is five hundred kilometres per
+
+439
+00:17:19,580 --> 00:17:19,932
+hour.
+
+440
+00:17:20,112 --> 00:17:22,453
+John Hennessey said hitting it in one
+
+441
+00:17:22,453 --> 00:17:24,857
+direction would be the ultimate way of
+
+442
+00:17:24,857 --> 00:17:27,578
+celebrating the internal combustion engine.
+
+443
+00:17:27,758 --> 00:17:29,232
+By our arithmetic,
+
+444
+00:17:29,232 --> 00:17:32,017
+the Bugatti is nine point five one
+
+445
+00:17:32,017 --> 00:17:35,047
+six kilometres per hour short of five
+
+446
+00:17:35,047 --> 00:17:38,569
+hundred, the Tuatara twenty-five point two,
+
+447
+00:17:38,569 --> 00:17:41,190
+and the F5 sixty-two point nine.
+
+448
+00:17:41,370 --> 00:17:42,459
+In that sense,
+
+449
+00:17:42,459 --> 00:17:45,724
+the Americans have not reached the target,
+
+450
+00:17:45,724 --> 00:17:48,522
+and the European car is the closest.
+
+451
+00:17:48,872 --> 00:17:52,664
+Hennessey's page says the simulated theoretical top
+
+452
+00:17:52,664 --> 00:17:55,044
+speed of the F5 is three hundred
+
+453
+00:17:55,044 --> 00:17:57,126
+twenty-eight miles per hour.
+
+454
+00:17:57,306 --> 00:17:58,845
+By our arithmetic,
+
+455
+00:17:58,845 --> 00:18:02,095
+that is fifty-six point four miles per
+
+456
+00:18:02,095 --> 00:18:05,600
+hour above the F5's best verified one-way
+
+457
+00:18:05,600 --> 00:18:09,277
+speed of two hundred seventy-one point six,
+
+458
+00:18:09,277 --> 00:18:13,382
+and thirty-three above the Tuatara's two hundred
+
+459
+00:18:13,382 --> 00:18:14,408
+ninety-five.
+
+460
+00:18:14,588 --> 00:18:16,625
+A simulation is a prediction,
+
+461
+00:18:16,625 --> 00:18:17,538
+not a result,
+
+462
+00:18:17,538 --> 00:18:19,856
+and the company itself says it is
+
+463
+00:18:19,856 --> 00:18:21,542
+not chasing that figure.
+
+464
+00:18:21,892 --> 00:18:24,190
+The business side matters as well.
+
+465
+00:18:24,370 --> 00:18:27,365
+Motor Authority says SSC planned a second
+
+466
+00:18:27,365 --> 00:18:30,432
+factory four times larger than its current
+
+467
+00:18:30,432 --> 00:18:33,865
+one, with groundbreaking in twenty twenty-four,
+
+468
+00:18:33,865 --> 00:18:35,910
+but funding was not secured,
+
+469
+00:18:35,910 --> 00:18:39,269
+and Shelby was talking with private automotive
+
+470
+00:18:39,269 --> 00:18:41,460
+enthusiasts rather than banks.
+
+471
+00:18:41,640 --> 00:18:43,718
+That was a twenty twenty-two report.
+
+472
+00:18:43,898 --> 00:18:45,686
+We do not know what happened next.
+
+473
+00:18:45,866 --> 00:18:48,025
+It shows that the speed war is
+
+474
+00:18:48,025 --> 00:18:49,967
+also a fight to pay for the
+
+475
+00:18:49,967 --> 00:18:50,615
+next car.
+
+476
+00:18:50,965 --> 00:18:52,323
+Line up the facts.
+
+477
+00:18:52,503 --> 00:18:55,325
+SSC set a verified record in two
+
+478
+00:18:55,325 --> 00:18:56,648
+thousand seven.
+
+479
+00:18:56,828 --> 00:18:58,999
+Bugatti took it in twenty ten.
+
+480
+00:18:59,179 --> 00:19:02,341
+Hennessey ran faster in twenty fourteen but
+
+481
+00:19:02,341 --> 00:19:04,473
+not in a way the record rules
+
+482
+00:19:04,473 --> 00:19:05,135
+accepted.
+
+483
+00:19:05,315 --> 00:19:07,503
+SSC claimed more than it had done
+
+484
+00:19:07,503 --> 00:19:10,088
+in twenty twenty and withdrew in twenty
+
+485
+00:19:10,088 --> 00:19:10,818
+twenty-one.
+
+486
+00:19:10,998 --> 00:19:14,517
+SSC's verified two hundred ninety-five in twenty
+
+487
+00:19:14,517 --> 00:19:17,524
+twenty-two is the best American figure we
+
+488
+00:19:17,524 --> 00:19:17,964
+found.
+
+489
+00:19:18,144 --> 00:19:21,102
+Hennessey was still promising three hundred in
+
+490
+00:19:21,102 --> 00:19:22,323
+twenty twenty-five.
+
+491
+00:19:22,674 --> 00:19:23,962
+By our arithmetic,
+
+492
+00:19:23,962 --> 00:19:26,897
+the best verified American one-way speed,
+
+493
+00:19:26,897 --> 00:19:28,614
+two hundred ninety-five,
+
+494
+00:19:28,614 --> 00:19:31,621
+is nearly thirty-nine miles per hour above
+
+495
+00:19:31,621 --> 00:19:34,197
+the two thousand seven record of two
+
+496
+00:19:34,197 --> 00:19:36,631
+hundred fifty-six point one eight,
+
+497
+00:19:36,631 --> 00:19:37,848
+in fifteen years.
+
+498
+00:19:38,028 --> 00:19:40,598
+That is about two point six miles
+
+499
+00:19:40,598 --> 00:19:41,844
+per hour a year,
+
+500
+00:19:41,844 --> 00:19:43,635
+against Bugatti's four.
+
+501
+00:19:43,815 --> 00:19:45,131
+As of our sources,
+
+502
+00:19:45,131 --> 00:19:47,837
+the best American speed is still nine
+
+503
+00:19:47,837 --> 00:19:50,615
+point seven seven three miles per hour
+
+504
+00:19:50,615 --> 00:19:52,662
+short of the Bugatti figure.
+
+505
+00:19:53,013 --> 00:19:55,602
+The rules were as important as the
+
+506
+00:19:55,602 --> 00:19:56,136
+speeds.
+
+507
+00:19:56,316 --> 00:19:59,518
+Wikipedia names two problems for the Venom
+
+508
+00:19:59,518 --> 00:20:01,271
+GT: one direction only,
+
+509
+00:20:01,271 --> 00:20:04,244
+and fewer than the thirty cars Guinness
+
+510
+00:20:04,244 --> 00:20:04,930
+requires.
+
+511
+00:20:05,110 --> 00:20:08,628
+The Tuatara's January twenty twenty-one run was
+
+512
+00:20:08,628 --> 00:20:09,975
+a two-way average.
+
+513
+00:20:10,155 --> 00:20:12,569
+The Bugatti, limited to thirty,
+
+514
+00:20:12,569 --> 00:20:14,439
+matches the car minimum.
+
+515
+00:20:14,619 --> 00:20:17,802
+Whether any of these satisfied every rule,
+
+516
+00:20:17,802 --> 00:20:19,848
+our sources do not all say,
+
+517
+00:20:19,848 --> 00:20:22,349
+but they show how rules shape the
+
+518
+00:20:22,349 --> 00:20:22,955
+contest.
+
+519
+00:20:23,305 --> 00:20:25,220
+What our sources do not say.
+
+520
+00:20:25,400 --> 00:20:27,293
+They do not say whether the F5
+
+521
+00:20:27,293 --> 00:20:29,313
+has since reached three hundred.
+
+522
+00:20:29,493 --> 00:20:31,418
+They do not say what went wrong
+
+523
+00:20:31,418 --> 00:20:33,220
+in SSC's twenty twenty claim.
+
+524
+00:20:33,400 --> 00:20:35,422
+They do not give the damage from
+
+525
+00:20:35,422 --> 00:20:37,823
+the Utah trailer or the Florida crash.
+
+526
+00:20:38,003 --> 00:20:40,057
+They do not give a Guinness status
+
+527
+00:20:40,057 --> 00:20:41,870
+for the Bugatti run or for the
+
+528
+00:20:41,870 --> 00:20:43,924
+Tuatara's two hundred ninety-five.
+
+529
+00:20:44,104 --> 00:20:45,910
+And they cannot tell us who will
+
+530
+00:20:45,910 --> 00:20:46,136
+win.
+
+531
+00:20:46,316 --> 00:20:48,197
+If you have a reliable source,
+
+532
+00:20:48,197 --> 00:20:49,764
+share it in the comments.
+
+533
+00:20:50,114 --> 00:20:51,518
+Our honest summary.
+
+534
+00:20:51,698 --> 00:20:54,169
+This is a war between companies that
+
+535
+00:20:54,169 --> 00:20:56,983
+sell cars for around two million dollars,
+
+536
+00:20:56,983 --> 00:20:58,699
+and the prize is a title.
+
+537
+00:20:58,879 --> 00:21:00,727
+The sources show courage,
+
+538
+00:21:00,727 --> 00:21:02,500
+publicity, and mistakes,
+
+539
+00:21:02,500 --> 00:21:05,161
+and they show that a verified number
+
+540
+00:21:05,161 --> 00:21:07,378
+is worth more than a loud one.
+
+541
+00:21:07,558 --> 00:21:10,701
+The best-documented American speed today is two
+
+542
+00:21:10,701 --> 00:21:12,039
+hundred ninety-five.
+
+543
+00:21:12,219 --> 00:21:13,592
+Whether that stands,
+
+544
+00:21:13,592 --> 00:21:15,993
+or Hennessey reaches three hundred,
+
+545
+00:21:15,993 --> 00:21:16,817
+we will see.
+
+546
+00:21:17,167 --> 00:21:19,005
+Which team do you back,
+
+547
+00:21:19,005 --> 00:21:20,603
+Washington or Texas?
+
+548
+00:21:20,783 --> 00:21:22,234
+Tell us in the comments.
+
+549
+00:21:22,414 --> 00:21:25,072
+In the other videos of this series,
+
+550
+00:21:25,072 --> 00:21:27,503
+we reveal two things you did not
+
+551
+00:21:27,503 --> 00:21:29,325
+know about the Venom F5,
+
+552
+00:21:29,325 --> 00:21:31,755
+compare it with the SSC Tuatara,
+
+553
+00:21:31,755 --> 00:21:33,958
+and count the real cost of an
+
+554
+00:21:33,958 --> 00:21:35,325
+American hypercar.
+
+555
+00:21:35,505 --> 00:21:38,360
+Our twenty twenty-seven Truck Buyer's Guide is
+
+556
+00:21:38,360 --> 00:21:39,975
+linked in the description.
+
+557
+00:21:40,155 --> 00:21:42,802
+Subscribe to Pickup Reality.
