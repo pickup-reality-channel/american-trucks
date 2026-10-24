@@ -1,0 +1,2231 @@
+1
+00:00:00,000 --> 00:00:02,897
+Two things about the Czinger 21C that
+
+2
+00:00:02,897 --> 00:00:04,934
+most car fans do not know.
+
+3
+00:00:05,114 --> 00:00:07,978
+First, much of this hypercar was designed
+
+4
+00:00:07,978 --> 00:00:10,004
+to be made without the molds,
+
+5
+00:00:10,004 --> 00:00:12,729
+dies and fixtures that normally shape a
+
+6
+00:00:12,729 --> 00:00:13,009
+car.
+
+7
+00:00:13,189 --> 00:00:15,885
+Second, the same car has taken the
+
+8
+00:00:15,885 --> 00:00:19,851
+Laguna Seca production-car lap record three times,
+
+9
+00:00:19,851 --> 00:00:22,151
+by a bigger margin each time.
+
+10
+00:00:22,331 --> 00:00:25,025
+We checked both claims against the sources.
+
+11
+00:00:25,375 --> 00:00:29,151
+Our sources are Wikipedia's page on the
+
+12
+00:00:29,151 --> 00:00:33,509
+21C, an engineering article from the American
+
+13
+00:00:33,509 --> 00:00:36,608
+Society of Mechanical Engineers,
+
+14
+00:00:36,608 --> 00:00:38,835
+a Backfire News report,
+
+15
+00:00:38,835 --> 00:00:44,162
+GTPlanet, FastCar, Facfox and a Caltech-linked business
+
+16
+00:00:44,162 --> 00:00:46,098
+magazine called CSQ.
+
+17
+00:00:46,278 --> 00:00:47,761
+Where they disagree,
+
+18
+00:00:47,761 --> 00:00:49,540
+and they disagree a lot,
+
+19
+00:00:49,540 --> 00:00:51,096
+we show both numbers.
+
+20
+00:00:51,276 --> 00:00:54,272
+Our own arithmetic is always labelled.
+
+21
+00:00:54,621 --> 00:00:56,874
+Start with what the car is.
+
+22
+00:00:57,054 --> 00:00:59,933
+Wikipedia says the 21C is made by
+
+23
+00:00:59,933 --> 00:01:02,725
+Czinger Vehicles in Los Angeles,
+
+24
+00:01:02,725 --> 00:01:05,692
+with a planned run of eighty cars.
+
+25
+00:01:05,872 --> 00:01:07,987
+It has a two point eight eight
+
+26
+00:01:07,987 --> 00:01:09,397
+litre twin-turbo V8,
+
+27
+00:01:09,397 --> 00:01:12,570
+two electric motors driving the front wheels,
+
+28
+00:01:12,570 --> 00:01:15,319
+and a combined output of twelve hundred
+
+29
+00:01:15,319 --> 00:01:16,518
+fifty horsepower.
+
+30
+00:01:16,698 --> 00:01:17,952
+That is the headline.
+
+31
+00:01:18,132 --> 00:01:20,085
+The unusual part is how it is
+
+32
+00:01:20,085 --> 00:01:20,489
+built.
+
+33
+00:01:20,839 --> 00:01:24,937
+The American Society of Mechanical Engineers described
+
+34
+00:01:24,937 --> 00:01:28,048
+the approach in March twenty twenty-five.
+
+35
+00:01:28,228 --> 00:01:31,664
+Its article says Czinger's parts are designed
+
+36
+00:01:31,664 --> 00:01:35,557
+by a computer process called topology optimization,
+
+37
+00:01:35,557 --> 00:01:38,535
+which decides where material should be,
+
+38
+00:01:38,535 --> 00:01:41,054
+based on the stresses a part will
+
+39
+00:01:41,054 --> 00:01:41,359
+see.
+
+40
+00:01:41,539 --> 00:01:44,729
+The article says this frees engineers from
+
+41
+00:01:44,729 --> 00:01:46,855
+limits such as draft angles,
+
+42
+00:01:46,855 --> 00:01:49,817
+minimum wall thickness and tool access.
+
+43
+00:01:50,167 --> 00:01:51,687
+In a normal factory,
+
+44
+00:01:51,687 --> 00:01:53,587
+a cast part needs a mold,
+
+45
+00:01:53,587 --> 00:01:56,019
+and a stamped panel needs a die.
+
+46
+00:01:56,199 --> 00:01:58,947
+Those cost money and time before the
+
+47
+00:01:58,947 --> 00:02:00,320
+first part exists.
+
+48
+00:02:00,500 --> 00:02:03,435
+The ASME article says that with printed
+
+49
+00:02:03,435 --> 00:02:05,617
+parts, a one-off can be made,
+
+50
+00:02:05,617 --> 00:02:09,604
+instrumented, tested and improved without waiting for
+
+51
+00:02:09,604 --> 00:02:10,206
+tooling.
+
+52
+00:02:10,386 --> 00:02:12,747
+Field data can then feed back into
+
+53
+00:02:12,747 --> 00:02:13,718
+the optimizer.
+
+54
+00:02:13,898 --> 00:02:15,797
+That is the claim in the article,
+
+55
+00:02:15,797 --> 00:02:17,695
+not a measurement we could check.
+
+56
+00:02:18,044 --> 00:02:19,867
+Three parts show it best.
+
+57
+00:02:20,047 --> 00:02:22,462
+The first is the gearbox case.
+
+58
+00:02:22,642 --> 00:02:26,067
+ASME calls it the first topology-optimized,
+
+59
+00:02:26,067 --> 00:02:30,448
+additively manufactured production gearbox case to move
+
+60
+00:02:30,448 --> 00:02:32,599
+beyond the prototype stage,
+
+61
+00:02:32,599 --> 00:02:35,785
+made from a proprietary aluminium alloy.
+
+62
+00:02:35,965 --> 00:02:38,663
+The article says the design went through
+
+63
+00:02:38,663 --> 00:02:42,239
+multiple iterations, and that heat exchanger elements
+
+64
+00:02:42,239 --> 00:02:44,196
+are built into the structure.
+
+65
+00:02:44,546 --> 00:02:46,959
+The second is the rear subframe,
+
+66
+00:02:46,959 --> 00:02:49,748
+which ASME says is the largest single
+
+67
+00:02:49,748 --> 00:02:50,502
+component.
+
+68
+00:02:50,682 --> 00:02:52,628
+It is printed in sections,
+
+69
+00:02:52,628 --> 00:02:54,498
+then laser-metal printed,
+
+70
+00:02:54,498 --> 00:02:57,341
+then assembled in a robotic cell using
+
+71
+00:02:57,341 --> 00:02:58,763
+in-house adhesives.
+
+72
+00:02:58,943 --> 00:03:02,381
+The article describes the cell as fixtureless:
+
+73
+00:03:02,381 --> 00:03:06,717
+robots place parts using laser-tracked positioning instead
+
+74
+00:03:06,717 --> 00:03:08,660
+of clamping them in a jig.
+
+75
+00:03:08,840 --> 00:03:11,148
+The article does not give the number
+
+76
+00:03:11,148 --> 00:03:11,917
+of sections.
+
+77
+00:03:12,267 --> 00:03:14,322
+The third is a part called the
+
+78
+00:03:14,322 --> 00:03:15,007
+BrakeNode.
+
+79
+00:03:15,187 --> 00:03:18,266
+Wikipedia says it combines the brake caliper
+
+80
+00:03:18,266 --> 00:03:20,365
+and the upright into one unit.
+
+81
+00:03:20,545 --> 00:03:23,161
+ASME adds that it also carries the
+
+82
+00:03:23,161 --> 00:03:25,546
+brake fluid, lowers part count,
+
+83
+00:03:25,546 --> 00:03:28,777
+simplifies assembly and improves rigidity.
+
+84
+00:03:28,957 --> 00:03:30,350
+In an ordinary car,
+
+85
+00:03:30,350 --> 00:03:32,770
+a caliper bolts to a separate hub
+
+86
+00:03:32,770 --> 00:03:33,357
+carrier.
+
+87
+00:03:33,537 --> 00:03:35,697
+Here they are a single printed structure.
+
+88
+00:03:36,046 --> 00:03:38,451
+Printing metal at this scale is hard,
+
+89
+00:03:38,451 --> 00:03:40,075
+and the sources admit it.
+
+90
+00:03:40,255 --> 00:03:43,752
+ASME says early challenges included porosity,
+
+91
+00:03:43,752 --> 00:03:46,550
+meaning tiny voids inside the metal,
+
+92
+00:03:46,550 --> 00:03:48,881
+and print-orientation effects,
+
+93
+00:03:48,881 --> 00:03:51,756
+where strength depends on which way a
+
+94
+00:03:51,756 --> 00:03:52,922
+part was built.
+
+95
+00:03:53,102 --> 00:03:55,958
+The article quotes Chief Engineer Ewan Baldry
+
+96
+00:03:55,958 --> 00:03:58,815
+saying these have since been resolved through
+
+97
+00:03:58,815 --> 00:04:00,021
+process refinement.
+
+98
+00:04:00,201 --> 00:04:02,248
+We could not find test data in
+
+99
+00:04:02,248 --> 00:04:02,999
+any source.
+
+100
+00:04:03,349 --> 00:04:04,859
+The printers matter too.
+
+101
+00:04:05,039 --> 00:04:09,272
+Facfox reports that Czinger's sister company Divergent
+
+102
+00:04:09,272 --> 00:04:13,191
+bought five pre-production metal printers from SLM
+
+103
+00:04:13,191 --> 00:04:15,465
+Solutions in twenty nineteen.
+
+104
+00:04:15,645 --> 00:04:18,354
+It says the suspension and chassis parts
+
+105
+00:04:18,354 --> 00:04:21,401
+were made on commercially available SLM eight
+
+106
+00:04:21,401 --> 00:04:24,110
+hundred machines, with a build volume of
+
+107
+00:04:24,110 --> 00:04:26,616
+five hundred by two hundred eighty by
+
+108
+00:04:26,616 --> 00:04:28,783
+eight hundred fifty millimetres,
+
+109
+00:04:28,783 --> 00:04:32,711
+and that Divergent planned twenty next-generation systems.
+
+110
+00:04:33,061 --> 00:04:34,271
+By our arithmetic,
+
+111
+00:04:34,271 --> 00:04:36,556
+a part that fits that build volume
+
+112
+00:04:36,556 --> 00:04:38,975
+could be at most about eight hundred
+
+113
+00:04:38,975 --> 00:04:40,521
+fifty millimetres tall,
+
+114
+00:04:40,521 --> 00:04:42,268
+which is under three feet.
+
+115
+00:04:42,448 --> 00:04:44,446
+That is why the biggest parts,
+
+116
+00:04:44,446 --> 00:04:45,644
+like the subframe,
+
+117
+00:04:45,644 --> 00:04:47,975
+are printed in sections and joined.
+
+118
+00:04:48,155 --> 00:04:50,595
+That is our inference from the stated
+
+119
+00:04:50,595 --> 00:04:52,903
+size, not a statement from Czinger.
+
+120
+00:04:53,253 --> 00:04:56,021
+The Backfire News report adds a number
+
+121
+00:04:56,021 --> 00:04:56,968
+about labour.
+
+122
+00:04:57,148 --> 00:05:00,092
+It says each 21C takes three thousand
+
+123
+00:05:00,092 --> 00:05:02,558
+to four thousand hours of work.
+
+124
+00:05:02,738 --> 00:05:04,111
+By our arithmetic,
+
+125
+00:05:04,111 --> 00:05:05,790
+at forty hours a week,
+
+126
+00:05:05,790 --> 00:05:08,919
+that is seventy-five to one hundred weeks
+
+127
+00:05:08,919 --> 00:05:10,063
+for one person,
+
+128
+00:05:10,063 --> 00:05:12,200
+so roughly a year and a half
+
+129
+00:05:12,200 --> 00:05:14,336
+to nearly two years per car.
+
+130
+00:05:14,516 --> 00:05:15,969
+A toolless car,
+
+131
+00:05:15,969 --> 00:05:18,486
+then, is not a fast car to
+
+132
+00:05:18,486 --> 00:05:19,067
+build.
+
+133
+00:05:19,418 --> 00:05:21,240
+One more claim needs care.
+
+134
+00:05:21,420 --> 00:05:24,266
+GTPlanet, in February twenty twenty,
+
+135
+00:05:24,266 --> 00:05:27,507
+says the car is made from three-D-printed
+
+136
+00:05:27,507 --> 00:05:28,851
+carbon nanotubes.
+
+137
+00:05:29,031 --> 00:05:31,387
+No other source we read says that.
+
+138
+00:05:31,567 --> 00:05:35,459
+ASME describes aluminium alloy printed parts and
+
+139
+00:05:35,459 --> 00:05:40,080
+adhesive-bonded structure, and Wikipedia does not mention
+
+140
+00:05:40,080 --> 00:05:40,890
+nanotubes.
+
+141
+00:05:41,070 --> 00:05:43,464
+We think the GTPlanet line is an
+
+142
+00:05:43,464 --> 00:05:45,708
+error, and we do not repeat it
+
+143
+00:05:45,708 --> 00:05:46,306
+as fact.
+
+144
+00:05:46,657 --> 00:05:49,861
+The company also makes an environmental claim.
+
+145
+00:05:50,041 --> 00:05:52,702
+The CSQ article says the 21C is
+
+146
+00:05:52,702 --> 00:05:56,908
+net-zero in emissions when run on carbon-recycled
+
+147
+00:05:56,908 --> 00:05:57,680
+methanol.
+
+148
+00:05:57,860 --> 00:06:00,021
+That is a claim about a fuel,
+
+149
+00:06:00,021 --> 00:06:02,331
+not about the car as delivered,
+
+150
+00:06:02,331 --> 00:06:05,014
+and the article does not explain who
+
+151
+00:06:05,014 --> 00:06:07,994
+supplies that methanol or how the carbon
+
+152
+00:06:07,994 --> 00:06:09,261
+is accounted for.
+
+153
+00:06:09,441 --> 00:06:11,055
+We list it as a claim.
+
+154
+00:06:11,404 --> 00:06:13,258
+Even the factory is part of the
+
+155
+00:06:13,258 --> 00:06:13,796
+argument.
+
+156
+00:06:13,976 --> 00:06:17,293
+CSQ says Czinger Vehicles had fewer than
+
+157
+00:06:17,293 --> 00:06:20,362
+fifty employees in twenty twenty-two.
+
+158
+00:06:20,542 --> 00:06:23,500
+The ASME article says McLaren and Bugatti
+
+159
+00:06:23,500 --> 00:06:26,676
+have begun working with Divergent on printed
+
+160
+00:06:26,676 --> 00:06:27,902
+structural parts.
+
+161
+00:06:28,082 --> 00:06:31,041
+So the toolless method is being offered
+
+162
+00:06:31,041 --> 00:06:32,483
+to other carmakers.
+
+163
+00:06:32,663 --> 00:06:34,389
+How many parts they use,
+
+164
+00:06:34,389 --> 00:06:35,684
+and on which cars,
+
+165
+00:06:35,684 --> 00:06:36,691
+is not stated.
+
+166
+00:06:37,041 --> 00:06:38,930
+Before the second thing,
+
+167
+00:06:38,930 --> 00:06:41,054
+a small one that is easy to
+
+168
+00:06:41,054 --> 00:06:41,604
+verify.
+
+169
+00:06:41,784 --> 00:06:44,844
+Wikipedia says the 21C seats the driver
+
+170
+00:06:44,844 --> 00:06:45,943
+in the centre,
+
+171
+00:06:45,943 --> 00:06:48,924
+with a passenger seat directly behind.
+
+172
+00:06:49,104 --> 00:06:52,197
+FastCar says the driver sits centrally like
+
+173
+00:06:52,197 --> 00:06:53,491
+in the McLaren F1,
+
+174
+00:06:53,491 --> 00:06:56,512
+and quotes Czinger that this gives optimal
+
+175
+00:06:56,512 --> 00:06:59,101
+performance and weight distribution.
+
+176
+00:06:59,281 --> 00:07:00,548
+Czinger says it,
+
+177
+00:07:00,548 --> 00:07:01,974
+we cannot test it.
+
+178
+00:07:02,323 --> 00:07:04,772
+Wikipedia adds a practical reason:
+
+179
+00:07:04,772 --> 00:07:07,293
+the layout minimises cockpit width.
+
+180
+00:07:07,473 --> 00:07:10,298
+The car's overall width is two thousand
+
+181
+00:07:10,298 --> 00:07:13,630
+fifty millimetres, which is eighty point seven
+
+182
+00:07:13,630 --> 00:07:14,137
+inches.
+
+183
+00:07:14,317 --> 00:07:15,762
+By our arithmetic,
+
+184
+00:07:15,762 --> 00:07:18,493
+that is about six feet nine inches
+
+185
+00:07:18,493 --> 00:07:20,983
+across, wide for a car with one
+
+186
+00:07:20,983 --> 00:07:22,107
+seat in front.
+
+187
+00:07:22,287 --> 00:07:24,591
+The sources do not give the cabin
+
+188
+00:07:24,591 --> 00:07:26,824
+width, so we cannot say how much
+
+189
+00:07:26,824 --> 00:07:27,871
+narrower it is.
+
+190
+00:07:28,221 --> 00:07:29,754
+Now the second thing.
+
+191
+00:07:29,934 --> 00:07:33,809
+Wikipedia lists three Laguna Seca lap records
+
+192
+00:07:33,809 --> 00:07:34,842
+for the 21C,
+
+193
+00:07:34,842 --> 00:07:38,200
+all set by American driver Joel Miller.
+
+194
+00:07:38,380 --> 00:07:40,063
+August twenty twenty-one,
+
+195
+00:07:40,063 --> 00:07:42,688
+one minute twenty-five point four four.
+
+196
+00:07:42,868 --> 00:07:44,638
+August twenty twenty-four,
+
+197
+00:07:44,638 --> 00:07:47,361
+one minute twenty-four point seven five.
+
+198
+00:07:47,541 --> 00:07:50,741
+And the fifteenth of December twenty twenty-five,
+
+199
+00:07:50,741 --> 00:07:53,288
+one minute twenty-two point three zero.
+
+200
+00:07:53,638 --> 00:07:56,921
+Wikipedia says the first two used road-legal
+
+201
+00:07:56,921 --> 00:07:59,607
+Michelin Pilot Sport Cup two R tyres
+
+202
+00:07:59,607 --> 00:08:02,592
+on a high-downforce track version of the
+
+203
+00:08:02,592 --> 00:08:02,891
+car.
+
+204
+00:08:03,071 --> 00:08:04,881
+It does not name the tyres for
+
+205
+00:08:04,881 --> 00:08:07,053
+the December twenty twenty-five lap.
+
+206
+00:08:07,233 --> 00:08:09,216
+So we cannot say how much of
+
+207
+00:08:09,216 --> 00:08:12,050
+that last improvement came from the car,
+
+208
+00:08:12,050 --> 00:08:14,884
+the tyres, the driver or the conditions.
+
+209
+00:08:15,064 --> 00:08:16,515
+We flag that gap.
+
+210
+00:08:16,865 --> 00:08:18,136
+By our arithmetic,
+
+211
+00:08:18,136 --> 00:08:21,170
+the August twenty twenty-four lap was point
+
+212
+00:08:21,170 --> 00:08:23,992
+six nine seconds quicker than the twenty
+
+213
+00:08:23,992 --> 00:08:25,051
+twenty-one one.
+
+214
+00:08:25,231 --> 00:08:28,267
+The December twenty twenty-five lap was another
+
+215
+00:08:28,267 --> 00:08:30,852
+two point four five seconds quicker than
+
+216
+00:08:30,852 --> 00:08:31,175
+that.
+
+217
+00:08:31,355 --> 00:08:33,421
+In total, from first to last,
+
+218
+00:08:33,421 --> 00:08:35,843
+the car found three point one four
+
+219
+00:08:35,843 --> 00:08:38,764
+seconds, which is about three point seven
+
+220
+00:08:38,764 --> 00:08:40,759
+percent of the original lap.
+
+221
+00:08:41,108 --> 00:08:42,699
+Who held the record before?
+
+222
+00:08:42,879 --> 00:08:45,906
+Both Backfire News and FastCar say the
+
+223
+00:08:45,906 --> 00:08:49,649
+McLaren Senna, at one minute twenty-seven point
+
+224
+00:08:49,649 --> 00:08:50,286
+six two.
+
+225
+00:08:50,466 --> 00:08:52,335
+A McLaren press release,
+
+226
+00:08:52,335 --> 00:08:55,762
+reported by duPont Registry in August twenty
+
+227
+00:08:55,762 --> 00:08:59,189
+twenty, says a stock twenty twenty-one Senna
+
+228
+00:08:59,189 --> 00:09:01,370
+set that time and beat a one
+
+229
+00:09:01,370 --> 00:09:04,874
+twenty-eight record that had stood for years.
+
+230
+00:09:05,054 --> 00:09:07,685
+So the 21C's first lap beat the
+
+231
+00:09:07,685 --> 00:09:09,977
+Senna by about two seconds.
+
+232
+00:09:10,326 --> 00:09:11,638
+By our arithmetic,
+
+233
+00:09:11,638 --> 00:09:14,771
+the December twenty twenty-five lap is five
+
+234
+00:09:14,771 --> 00:09:17,685
+point three two seconds quicker than the
+
+235
+00:09:17,685 --> 00:09:20,381
+Senna's, about six point one percent.
+
+236
+00:09:20,561 --> 00:09:23,373
+Those are different cars and different years,
+
+237
+00:09:23,373 --> 00:09:25,497
+and the sources do not say whether
+
+238
+00:09:25,497 --> 00:09:26,935
+the conditions matched.
+
+239
+00:09:27,115 --> 00:09:29,145
+But as a ladder of records at
+
+240
+00:09:29,145 --> 00:09:30,335
+one famous track,
+
+241
+00:09:30,335 --> 00:09:31,666
+it is hard to miss.
+
+242
+00:09:32,015 --> 00:09:33,995
+The track is not the only place
+
+243
+00:09:33,995 --> 00:09:35,464
+the car has been timed.
+
+244
+00:09:35,644 --> 00:09:39,116
+Wikipedia lists a Goodwood Festival of Speed
+
+245
+00:09:39,116 --> 00:09:42,666
+hillclimb time of forty-eight point eight two
+
+246
+00:09:42,666 --> 00:09:45,744
+seconds, driven by Chris Ward in twenty
+
+247
+00:09:45,744 --> 00:09:49,058
+twenty-four, and a Circuit of the Americas
+
+248
+00:09:49,058 --> 00:09:51,741
+lap of two minutes ten point seven
+
+249
+00:09:51,741 --> 00:09:53,477
+in twenty twenty-four.
+
+250
+00:09:53,657 --> 00:09:55,728
+It does not name the driver for
+
+251
+00:09:55,728 --> 00:09:56,664
+the Texas lap.
+
+252
+00:09:57,013 --> 00:10:00,531
+Wikipedia calls these production-car records.
+
+253
+00:10:00,711 --> 00:10:01,988
+That wording matters.
+
+254
+00:10:02,168 --> 00:10:05,407
+A production-car record is not an absolute
+
+255
+00:10:05,407 --> 00:10:07,489
+lap record for any vehicle,
+
+256
+00:10:07,489 --> 00:10:10,341
+and the rules behind these claims are
+
+257
+00:10:10,341 --> 00:10:12,269
+not given in our sources.
+
+258
+00:10:12,449 --> 00:10:14,587
+Backfire's article, for example,
+
+259
+00:10:14,587 --> 00:10:16,592
+does not say who timed the lap
+
+260
+00:10:16,592 --> 00:10:19,264
+or whether it was officially sanctioned.
+
+261
+00:10:19,444 --> 00:10:21,546
+So we call them reported records.
+
+262
+00:10:21,895 --> 00:10:23,382
+We promised two things,
+
+263
+00:10:23,382 --> 00:10:24,740
+but there is a third.
+
+264
+00:10:24,920 --> 00:10:27,533
+The car's own numbers do not agree
+
+265
+00:10:27,533 --> 00:10:28,763
+between sources.
+
+266
+00:10:28,943 --> 00:10:29,906
+Take power.
+
+267
+00:10:30,086 --> 00:10:33,198
+Wikipedia says twelve hundred fifty horsepower.
+
+268
+00:10:33,378 --> 00:10:37,081
+GTPlanet and FastCar say twelve thirty-three.
+
+269
+00:10:37,261 --> 00:10:40,106
+Backfire News says thirteen thirty-one.
+
+270
+00:10:40,286 --> 00:10:43,922
+Czinger's special Blackbird edition is listed at
+
+271
+00:10:43,922 --> 00:10:45,058
+thirteen fifty.
+
+272
+00:10:45,238 --> 00:10:48,303
+Four figures for one family of cars.
+
+273
+00:10:48,652 --> 00:10:49,895
+Weight is worse.
+
+274
+00:10:50,075 --> 00:10:53,297
+Wikipedia gives a curb weight of sixteen
+
+275
+00:10:53,297 --> 00:10:55,311
+hundred twenty kilograms.
+
+276
+00:10:55,491 --> 00:10:58,530
+GTPlanet in twenty twenty says about twelve
+
+277
+00:10:58,530 --> 00:10:59,520
+hundred fifty.
+
+278
+00:10:59,700 --> 00:11:02,314
+FastCar says twelve hundred forty,
+
+279
+00:11:02,314 --> 00:11:03,775
+claimed by Czinger.
+
+280
+00:11:03,955 --> 00:11:07,356
+Backfire says under twenty-eight hundred pounds.
+
+281
+00:11:07,536 --> 00:11:08,842
+By our arithmetic,
+
+282
+00:11:08,842 --> 00:11:11,743
+that is a three hundred seventy kilogram
+
+283
+00:11:11,743 --> 00:11:13,629
+gap between the first two,
+
+284
+00:11:13,629 --> 00:11:15,152
+about thirty percent.
+
+285
+00:11:15,502 --> 00:11:17,047
+Top speed too.
+
+286
+00:11:17,227 --> 00:11:20,091
+GTPlanet's body text says a claimed two
+
+287
+00:11:20,091 --> 00:11:22,589
+hundred sixty-eight miles an hour,
+
+288
+00:11:22,589 --> 00:11:25,087
+and the headline says two seventy.
+
+289
+00:11:25,267 --> 00:11:28,285
+ASME's video caption says two sixty-eight.
+
+290
+00:11:28,465 --> 00:11:32,320
+FastCar says Czinger claims two hundred eighty-one.
+
+291
+00:11:32,500 --> 00:11:35,395
+Even the acceleration claims differ:
+
+292
+00:11:35,395 --> 00:11:37,567
+a zero to sixty time of one
+
+293
+00:11:37,567 --> 00:11:40,543
+point eight seconds in one source and
+
+294
+00:11:40,543 --> 00:11:43,680
+one point nine to sixty-two in another.
+
+295
+00:11:44,030 --> 00:11:45,598
+Why do the numbers move?
+
+296
+00:11:45,778 --> 00:11:47,392
+The sources do not say.
+
+297
+00:11:47,572 --> 00:11:50,466
+The earlier ones are from twenty twenty,
+
+298
+00:11:50,466 --> 00:11:52,854
+when the car was still a promise.
+
+299
+00:11:53,034 --> 00:11:55,414
+The later ones come after development.
+
+300
+00:11:55,594 --> 00:11:57,452
+Our reading, and it is only a
+
+301
+00:11:57,452 --> 00:12:00,207
+reading, is that early figures were targets
+
+302
+00:12:00,207 --> 00:12:02,769
+and later ones are closer to production.
+
+303
+00:12:02,949 --> 00:12:04,572
+No source states that,
+
+304
+00:12:04,572 --> 00:12:07,007
+so we show every number and trust
+
+305
+00:12:07,007 --> 00:12:08,557
+none of them blindly.
+
+306
+00:12:08,906 --> 00:12:11,446
+The most useful reading for a viewer
+
+307
+00:12:11,446 --> 00:12:13,703
+is this: treat the lap times and
+
+308
+00:12:13,703 --> 00:12:17,654
+the printed-parts claims as the better-documented facts,
+
+309
+00:12:17,654 --> 00:12:19,911
+because they come with a driver,
+
+310
+00:12:19,911 --> 00:12:21,886
+a track and a named article.
+
+311
+00:12:22,066 --> 00:12:23,561
+Treat top speed,
+
+312
+00:12:23,561 --> 00:12:26,083
+weight and power as claims.
+
+313
+00:12:26,263 --> 00:12:29,780
+Wikipedia itself has two conflicts inside its
+
+314
+00:12:29,780 --> 00:12:32,672
+own page, on the peak-power rev limit
+
+315
+00:12:32,672 --> 00:12:35,564
+and on how many electric motors there
+
+316
+00:12:35,564 --> 00:12:35,877
+are.
+
+317
+00:12:36,226 --> 00:12:37,925
+There is a good reason to care
+
+318
+00:12:37,925 --> 00:12:39,001
+about those motors.
+
+319
+00:12:39,181 --> 00:12:42,145
+Wikipedia says the car has one axial-flux
+
+320
+00:12:42,145 --> 00:12:45,614
+motor generator unit plus two high-output motors
+
+321
+00:12:45,614 --> 00:12:47,204
+with torque vectoring.
+
+322
+00:12:47,384 --> 00:12:49,456
+The text says two motors on the
+
+323
+00:12:49,456 --> 00:12:49,857
+front.
+
+324
+00:12:50,037 --> 00:12:53,780
+The battery is a two kilowatt-hour lithium-titanate
+
+325
+00:12:53,780 --> 00:12:54,147
+pack.
+
+326
+00:12:54,327 --> 00:12:58,490
+GTPlanet says that chemistry charges and discharges
+
+327
+00:12:58,490 --> 00:13:02,326
+faster than lithium-ion but stores less energy.
+
+328
+00:13:02,675 --> 00:13:05,456
+Put together: a two point eight eight
+
+329
+00:13:05,456 --> 00:13:08,161
+litre V8 that Wikipedia lists with a
+
+330
+00:13:08,161 --> 00:13:11,468
+bore of eighty-four millimetres and a stroke
+
+331
+00:13:11,468 --> 00:13:15,075
+of sixty-five, a seven-speed sequential gearbox,
+
+332
+00:13:15,075 --> 00:13:17,931
+and electric motors that fill in while
+
+333
+00:13:17,931 --> 00:13:19,208
+the turbos spool.
+
+334
+00:13:19,388 --> 00:13:20,655
+By our arithmetic,
+
+335
+00:13:20,655 --> 00:13:23,470
+those bore and stroke figures give about
+
+336
+00:13:23,470 --> 00:13:27,129
+two thousand eight hundred eighty cubic centimetres,
+
+337
+00:13:27,129 --> 00:13:29,944
+which matches the stated two point eight
+
+338
+00:13:29,944 --> 00:13:30,859
+eight litres.
+
+339
+00:13:31,208 --> 00:13:32,477
+A word on timing,
+
+340
+00:13:32,477 --> 00:13:34,715
+because it shapes the numbers.
+
+341
+00:13:34,895 --> 00:13:37,915
+Wikipedia says the 21C was unveiled on
+
+342
+00:13:37,915 --> 00:13:40,935
+the eleventh of March twenty twenty in
+
+343
+00:13:40,935 --> 00:13:44,035
+London, after the Geneva Motor Show was
+
+344
+00:13:44,035 --> 00:13:46,737
+cancelled because of the pandemic.
+
+345
+00:13:46,917 --> 00:13:49,995
+Deliveries were planned for the fourth quarter
+
+346
+00:13:49,995 --> 00:13:51,535
+of twenty twenty-three,
+
+347
+00:13:51,535 --> 00:13:53,676
+with most in twenty twenty-four,
+
+348
+00:13:53,676 --> 00:13:55,349
+according to the founder,
+
+349
+00:13:55,349 --> 00:13:56,286
+Kevin Czinger.
+
+350
+00:13:56,636 --> 00:14:00,055
+The Backfire article of March twenty twenty-four
+
+351
+00:14:00,055 --> 00:14:02,903
+says production was expected to start in
+
+352
+00:14:02,903 --> 00:14:05,965
+twenty twenty-two, and that a chip shortage
+
+353
+00:14:05,965 --> 00:14:06,749
+delayed it.
+
+354
+00:14:06,929 --> 00:14:09,094
+It also says three more models were
+
+355
+00:14:09,094 --> 00:14:10,888
+planned, one of them cheaper.
+
+356
+00:14:11,068 --> 00:14:13,114
+We found no source in this set
+
+357
+00:14:13,114 --> 00:14:16,048
+confirming how many cars have actually been
+
+358
+00:14:16,048 --> 00:14:18,504
+delivered, so we cannot say how many
+
+359
+00:14:18,504 --> 00:14:19,868
+of the eighty exist.
+
+360
+00:14:20,218 --> 00:14:22,552
+The Blackbird is the rarest variant.
+
+361
+00:14:22,732 --> 00:14:25,270
+Wikipedia says it is limited to four
+
+362
+00:14:25,270 --> 00:14:28,653
+examples with thirteen hundred fifty horsepower,
+
+363
+00:14:28,653 --> 00:14:30,627
+against the standard eighty.
+
+364
+00:14:30,807 --> 00:14:32,167
+By our arithmetic,
+
+365
+00:14:32,167 --> 00:14:34,812
+that is five percent of the planned
+
+366
+00:14:34,812 --> 00:14:35,114
+run.
+
+367
+00:14:35,294 --> 00:14:37,324
+The sources give no price and no
+
+368
+00:14:37,324 --> 00:14:40,368
+performance figures for the Blackbird beyond the
+
+369
+00:14:40,368 --> 00:14:41,192
+power number.
+
+370
+00:14:41,541 --> 00:14:44,142
+Start with how the power is split.
+
+371
+00:14:44,322 --> 00:14:47,215
+Facfox says the twelve hundred fifty total
+
+372
+00:14:47,215 --> 00:14:49,695
+is about nine hundred fifty from the
+
+373
+00:14:49,695 --> 00:14:52,450
+twin-turbo V8 and three hundred from the
+
+374
+00:14:52,450 --> 00:14:53,552
+electric system.
+
+375
+00:14:53,732 --> 00:14:56,474
+GTPlanet says the V8 makes over nine
+
+376
+00:14:56,474 --> 00:14:59,216
+hundred thirty and each of two front
+
+377
+00:14:59,216 --> 00:15:01,882
+motors adds one hundred sixty-five.
+
+378
+00:15:02,062 --> 00:15:03,561
+By our arithmetic,
+
+379
+00:15:03,561 --> 00:15:06,975
+nine thirty plus two times one sixty-five
+
+380
+00:15:06,975 --> 00:15:08,307
+is twelve sixty,
+
+381
+00:15:08,307 --> 00:15:10,305
+not twelve thirty-three.
+
+382
+00:15:10,655 --> 00:15:13,539
+The sources do not explain that twenty-seven
+
+383
+00:15:13,539 --> 00:15:14,522
+horsepower gap.
+
+384
+00:15:14,702 --> 00:15:16,832
+Our reading is that the engine and
+
+385
+00:15:16,832 --> 00:15:19,025
+motors do not both reach their peak
+
+386
+00:15:19,025 --> 00:15:20,216
+at the same moment,
+
+387
+00:15:20,216 --> 00:15:22,283
+so the quoted total is lower than
+
+388
+00:15:22,283 --> 00:15:23,223
+the simple sum.
+
+389
+00:15:23,403 --> 00:15:25,967
+That is a common pattern in hybrids,
+
+390
+00:15:25,967 --> 00:15:28,175
+but none of our sources says it
+
+391
+00:15:28,175 --> 00:15:29,243
+about this car,
+
+392
+00:15:29,243 --> 00:15:31,379
+so treat it as our hypothesis.
+
+393
+00:15:31,729 --> 00:15:34,748
+The engine's speed is remarkable on paper.
+
+394
+00:15:34,928 --> 00:15:38,384
+GTPlanet and FastCar both give an eleven
+
+395
+00:15:38,384 --> 00:15:40,199
+thousand rpm redline.
+
+396
+00:15:40,379 --> 00:15:43,477
+With the stroke of sixty-five millimetres that
+
+397
+00:15:43,477 --> 00:15:46,441
+Wikipedia lists, our arithmetic gives a mean
+
+398
+00:15:46,441 --> 00:15:49,404
+piston speed of about twenty-four metres per
+
+399
+00:15:49,404 --> 00:15:50,886
+second at the redline.
+
+400
+00:15:51,066 --> 00:15:53,490
+We have no comparison engine in our
+
+401
+00:15:53,490 --> 00:15:56,190
+sources, so we offer the number without
+
+402
+00:15:56,190 --> 00:15:56,883
+a verdict.
+
+403
+00:15:57,232 --> 00:15:59,798
+Aerodynamics is another conflict.
+
+404
+00:15:59,978 --> 00:16:02,765
+GTPlanet says the road car makes five
+
+405
+00:16:02,765 --> 00:16:05,777
+hundred fifty pounds of downforce at one
+
+406
+00:16:05,777 --> 00:16:08,263
+hundred fifty-five miles an hour,
+
+407
+00:16:08,263 --> 00:16:11,577
+and the track model seventeen hundred forty.
+
+408
+00:16:11,757 --> 00:16:15,277
+FastCar says twenty-five hundred kilograms at two
+
+409
+00:16:15,277 --> 00:16:17,648
+hundred miles an hour in the most
+
+410
+00:16:17,648 --> 00:16:19,013
+aggressive setting.
+
+411
+00:16:19,193 --> 00:16:20,528
+By our arithmetic,
+
+412
+00:16:20,528 --> 00:16:23,346
+five hundred fifty pounds is about two
+
+413
+00:16:23,346 --> 00:16:25,126
+hundred fifty kilograms.
+
+414
+00:16:25,475 --> 00:16:28,040
+The track version is not very different
+
+415
+00:16:28,040 --> 00:16:30,210
+in weight, according to GTPlanet,
+
+416
+00:16:30,210 --> 00:16:32,577
+which says it is only seventy pounds
+
+417
+00:16:32,577 --> 00:16:33,103
+lighter.
+
+418
+00:16:33,283 --> 00:16:34,628
+By our arithmetic,
+
+419
+00:16:34,628 --> 00:16:37,243
+that is about thirty-two kilograms,
+
+420
+00:16:37,243 --> 00:16:39,708
+roughly two and a half percent of
+
+421
+00:16:39,708 --> 00:16:42,397
+a twelve hundred fifty kilogram car.
+
+422
+00:16:42,577 --> 00:16:44,440
+If that figure is right,
+
+423
+00:16:44,440 --> 00:16:47,934
+the track model's advantage comes mostly from
+
+424
+00:16:47,934 --> 00:16:49,720
+aerodynamics and setup,
+
+425
+00:16:49,720 --> 00:16:51,505
+not from shedding mass.
+
+426
+00:16:51,855 --> 00:16:55,965
+Acceleration claims also come with different distances.
+
+427
+00:16:56,145 --> 00:16:59,260
+FastCar quotes Czinger claims of an eight
+
+428
+00:16:59,260 --> 00:17:01,540
+point one second quarter mile,
+
+429
+00:17:01,540 --> 00:17:04,503
+zero to one hundred eighty-six miles an
+
+430
+00:17:04,503 --> 00:17:07,010
+hour in eight point five seconds,
+
+431
+00:17:07,010 --> 00:17:09,897
+and zero to two hundred forty-eight in
+
+432
+00:17:09,897 --> 00:17:11,645
+twenty-seven point one.
+
+433
+00:17:11,825 --> 00:17:15,010
+GTPlanet says zero to two forty-nine in
+
+434
+00:17:15,010 --> 00:17:16,643
+twenty-nine seconds.
+
+435
+00:17:16,823 --> 00:17:18,187
+By our arithmetic,
+
+436
+00:17:18,187 --> 00:17:20,991
+that is one point nine seconds apart.
+
+437
+00:17:21,340 --> 00:17:24,727
+Wikipedia's infobox has two more figures with
+
+438
+00:17:24,727 --> 00:17:28,189
+no context: seven hundred fifty horsepower and
+
+439
+00:17:28,189 --> 00:17:31,801
+three hundred ninety-seven pound-feet of torque.
+
+440
+00:17:31,981 --> 00:17:34,415
+The page does not say whether those
+
+441
+00:17:34,415 --> 00:17:36,222
+describe the engine alone,
+
+442
+00:17:36,222 --> 00:17:38,239
+one motor, or something else.
+
+443
+00:17:38,419 --> 00:17:40,730
+Seven fifty is not twelve fifty,
+
+444
+00:17:40,730 --> 00:17:43,114
+so it clearly is not the combined
+
+445
+00:17:43,114 --> 00:17:43,620
+number.
+
+446
+00:17:43,800 --> 00:17:45,584
+We could not match it to any
+
+447
+00:17:45,584 --> 00:17:46,412
+other source.
+
+448
+00:17:46,762 --> 00:17:49,433
+Even the gearbox has two descriptions.
+
+449
+00:17:49,613 --> 00:17:54,119
+Wikipedia says a seven-speed sequential transaxle with
+
+450
+00:17:54,119 --> 00:17:56,706
+a hydraulic multi-plate clutch.
+
+451
+00:17:56,886 --> 00:18:01,136
+ASME says an automated seven-speed semi-sequential unit.
+
+452
+00:18:01,316 --> 00:18:04,086
+Those may be the same hardware described
+
+453
+00:18:04,086 --> 00:18:05,402
+in different words,
+
+454
+00:18:05,402 --> 00:18:07,411
+or they may differ in detail.
+
+455
+00:18:07,591 --> 00:18:09,595
+The sources do not settle it,
+
+456
+00:18:09,595 --> 00:18:11,738
+but both agree on seven speeds,
+
+457
+00:18:11,738 --> 00:18:13,742
+and on the fact that the case
+
+458
+00:18:13,742 --> 00:18:14,986
+itself is printed.
+
+459
+00:18:15,336 --> 00:18:17,600
+One more number from ASME is about
+
+460
+00:18:17,600 --> 00:18:18,332
+the future.
+
+461
+00:18:18,512 --> 00:18:21,386
+The article says Divergent has existed for
+
+462
+00:18:21,386 --> 00:18:22,686
+eight to ten years,
+
+463
+00:18:22,686 --> 00:18:25,697
+with a mission of toolless manufacturing for
+
+464
+00:18:25,697 --> 00:18:27,544
+primary vehicle structures.
+
+465
+00:18:27,724 --> 00:18:29,383
+It lists next steps:
+
+466
+00:18:29,383 --> 00:18:33,944
+integrating cooling, electrical and fluid networks into
+
+467
+00:18:33,944 --> 00:18:37,012
+structural parts, scaling production,
+
+468
+00:18:37,012 --> 00:18:41,408
+reducing cost and possibly printing replacement parts
+
+469
+00:18:41,408 --> 00:18:42,237
+on demand.
+
+470
+00:18:42,417 --> 00:18:43,660
+Those are plans,
+
+471
+00:18:43,660 --> 00:18:45,447
+not delivered features.
+
+472
+00:18:45,797 --> 00:18:48,427
+We left out things that sound plausible
+
+473
+00:18:48,427 --> 00:18:50,450
+but that no source in this set
+
+474
+00:18:50,450 --> 00:18:51,057
+supports.
+
+475
+00:18:51,237 --> 00:18:53,872
+How many printed parts the car has.
+
+476
+00:18:54,052 --> 00:18:55,980
+How much weight the printing saves.
+
+477
+00:18:56,160 --> 00:18:58,052
+What each part costs.
+
+478
+00:18:58,232 --> 00:19:00,456
+Whether the car handles better than a
+
+479
+00:19:00,456 --> 00:19:01,959
+conventionally built one.
+
+480
+00:19:02,139 --> 00:19:03,935
+Every one of those is a fair
+
+481
+00:19:03,935 --> 00:19:06,374
+question, and none is answered in what
+
+482
+00:19:06,374 --> 00:19:06,887
+we read.
+
+483
+00:19:07,237 --> 00:19:08,561
+There is also the name.
+
+484
+00:19:08,741 --> 00:19:11,364
+We found no source here that explains
+
+485
+00:19:11,364 --> 00:19:13,420
+what twenty-one C stands for.
+
+486
+00:19:13,600 --> 00:19:15,939
+Many people assume it refers to the
+
+487
+00:19:15,939 --> 00:19:18,746
+twenty-first century, but that is a guess,
+
+488
+00:19:18,746 --> 00:19:20,752
+not a fact from these sources.
+
+489
+00:19:20,932 --> 00:19:23,471
+When a name has no stated meaning,
+
+490
+00:19:23,471 --> 00:19:26,010
+we would rather say so than invent
+
+491
+00:19:26,010 --> 00:19:26,980
+a tidy story.
+
+492
+00:19:27,330 --> 00:19:29,294
+So here is the honest summary of
+
+493
+00:19:29,294 --> 00:19:29,908
+thing one.
+
+494
+00:19:30,088 --> 00:19:33,353
+The strongest documented fact is the toolless
+
+495
+00:19:33,353 --> 00:19:36,691
+construction approach, with three named parts:
+
+496
+00:19:36,691 --> 00:19:37,925
+the gearbox case,
+
+497
+00:19:37,925 --> 00:19:40,537
+the rear subframe and the BrakeNode.
+
+498
+00:19:40,717 --> 00:19:43,116
+The strongest quantity is the three to
+
+499
+00:19:43,116 --> 00:19:45,326
+four thousand labour hours per car.
+
+500
+00:19:45,506 --> 00:19:47,727
+Everything else about the build,
+
+501
+00:19:47,727 --> 00:19:49,948
+such as savings and part counts,
+
+502
+00:19:49,948 --> 00:19:51,961
+is either a claim or missing.
+
+503
+00:19:52,311 --> 00:19:54,111
+And the summary of thing two.
+
+504
+00:19:54,291 --> 00:19:57,678
+The strongest documented fact is the sequence
+
+505
+00:19:57,678 --> 00:19:59,258
+of Laguna Seca times:
+
+506
+00:19:59,258 --> 00:20:01,290
+one twenty-five forty-four,
+
+507
+00:20:01,290 --> 00:20:03,473
+one twenty-four seventy-five,
+
+508
+00:20:03,473 --> 00:20:05,129
+one twenty-two thirty,
+
+509
+00:20:05,129 --> 00:20:08,892
+with the Senna's one twenty-seven sixty-two before
+
+510
+00:20:08,892 --> 00:20:09,268
+them.
+
+511
+00:20:09,448 --> 00:20:11,684
+The weakest part is who certified the
+
+512
+00:20:11,684 --> 00:20:13,860
+times, and what the conditions were.
+
+513
+00:20:14,040 --> 00:20:17,000
+Those details would make the claim airtight,
+
+514
+00:20:17,000 --> 00:20:18,614
+and we do not have them.
+
+515
+00:20:18,963 --> 00:20:21,262
+Why do these two things belong together?
+
+516
+00:20:21,442 --> 00:20:23,439
+Our reading is that the lap times
+
+517
+00:20:23,439 --> 00:20:25,738
+are the proof the printed structure is
+
+518
+00:20:25,738 --> 00:20:26,585
+not a gimmick.
+
+519
+00:20:26,765 --> 00:20:28,695
+If a car built this way can
+
+520
+00:20:28,695 --> 00:20:31,267
+lap a famous circuit faster than the
+
+521
+00:20:31,267 --> 00:20:33,553
+best McLaren hypercar before it,
+
+522
+00:20:33,553 --> 00:20:36,053
+then the method deserves attention.
+
+523
+00:20:36,233 --> 00:20:37,839
+But that is our argument,
+
+524
+00:20:37,839 --> 00:20:40,216
+not Czinger's, and the sources do not
+
+525
+00:20:40,216 --> 00:20:41,179
+make it for us.
+
+526
+00:20:41,529 --> 00:20:44,081
+If you want to check any of
+
+527
+00:20:44,081 --> 00:20:47,390
+this yourself, the links are in the
+
+528
+00:20:47,390 --> 00:20:50,414
+description: the Wikipedia page,
+
+529
+00:20:50,414 --> 00:20:52,021
+the ASME article,
+
+530
+00:20:52,021 --> 00:20:54,384
+the Backfire News report,
+
+531
+00:20:54,384 --> 00:20:57,598
+GTPlanet, FastCar, Facfox and CSQ.
+
+532
+00:20:57,778 --> 00:21:00,238
+Read the weight and speed numbers with
+
+533
+00:21:00,238 --> 00:21:01,663
+the conflicts in mind,
+
+534
+00:21:01,663 --> 00:21:03,541
+and look for the date of each
+
+535
+00:21:03,541 --> 00:21:05,742
+article before you trust a figure.
+
+536
+00:21:06,092 --> 00:21:08,835
+That is the Czinger twenty-one C:
+
+537
+00:21:08,835 --> 00:21:12,159
+a hypercar built mostly without tooling,
+
+538
+00:21:12,159 --> 00:21:14,985
+and a record holder at Laguna Seca
+
+539
+00:21:14,985 --> 00:21:17,644
+whose lap time fell three times.
+
+540
+00:21:17,824 --> 00:21:19,156
+If you enjoyed it,
+
+541
+00:21:19,156 --> 00:21:21,226
+subscribe to Pickup Reality.
+
+542
+00:21:21,406 --> 00:21:23,968
+The next video puts the car against
+
+543
+00:21:23,968 --> 00:21:25,285
+the McLaren Senna,
+
+544
+00:21:25,285 --> 00:21:26,237
+head to head,
+
+545
+00:21:26,237 --> 00:21:28,140
+with every number sourced.
+
+546
+00:21:28,489 --> 00:21:30,428
+One last reminder on method.
+
+547
+00:21:30,608 --> 00:21:32,969
+Every number in this video came from
+
+548
+00:21:32,969 --> 00:21:33,952
+a named source.
+
+549
+00:21:34,132 --> 00:21:36,711
+Where we calculated something ourselves,
+
+550
+00:21:36,711 --> 00:21:37,743
+it was labelled.
+
+551
+00:21:37,923 --> 00:21:40,108
+Where two sources disagreed,
+
+552
+00:21:40,108 --> 00:21:41,278
+we showed both.
+
+553
+00:21:41,458 --> 00:21:43,458
+Where nothing was available,
+
+554
+00:21:43,458 --> 00:21:44,244
+we said so.
+
+555
+00:21:44,424 --> 00:21:46,147
+That is how we try to treat
+
+556
+00:21:46,147 --> 00:21:47,805
+every car on this channel,
+
+557
+00:21:47,805 --> 00:21:49,400
+and it is why we show the
+
+558
+00:21:49,400 --> 00:21:50,357
+gaps on screen.
