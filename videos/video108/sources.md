@@ -1,0 +1,5 @@
+- Wikipedia, Lexus LFA: https://en.wikipedia.org/wiki/Lexus_LFA
+- Lexus UK Magazine, Untold history of the Lexus LFA: https://mag.lexus.co.uk/untold-history-of-the-lexus-lfa
+- Lexus UK Magazine, Lexus LFA timeline: redefining the Japanese supercar: https://mag.lexus.co.uk/lexus-lfa-timeline/
+- The Truth About Cars, The making of the Lexus LFA supercar, chapter 1 (9 July 2012): https://thetruthaboutcars.com/2012/07/the-making-of-the-lexus-lfa-supercar-who-what-where-and-most-of-all-why-an-inside-report-chapter-1-from-a-bar-to-bar-none/
+- Lexus UK Magazine, Engineering innovations: the Lexus carbon loom: https://mag.lexus.co.uk/engineering-innovations-the-lexus-carbon-loom
