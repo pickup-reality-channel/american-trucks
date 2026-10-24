@@ -1,0 +1,356 @@
+{
+ "id": "video153",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Things You Didn't Know About the DeLorean",
+ "scenes": [
+  {
+   "text": "The DeLorean DMC-12 launched at twenty-five thousand dollars, and its name was supposed to tell you the price. Its shiny stainless steel body is not what holds the car together. Those are the two things we explain in this video. Roughly nine thousand were built, and about six and a half thousand were still on the road in twenty fifteen. Every figure here comes from a named source.",
+   "query": "DeLorean DMC-12",
+   "caption": "2 THINGS YOU DIDN'T KNOW ABOUT THE DELOREAN",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We used Wikipedia's pages on the DMC DeLorean, on John DeLorean and on DeLorean Motor Company of Texas, plus Business Insider, Yahoo Autos and ThePricer. Wikipedia's own figures sometimes disagree with each other, and we show where. Our own arithmetic is labelled as ours.",
+   "query": "DeLorean",
+   "caption": "SOURCES: WIKIPEDIA (DMC DELOREAN \u00b7 JOHN DELOREAN \u00b7 DELOREAN MOTOR COMPANY TEXAS) \u00b7 BUSINESS INSIDER \u00b7 YAHOO AUTOS \u00b7 THEPRICER \u00b7 DISAGREEMENTS ARE SHOWN \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Thing one. The twelve in DMC-12 was not a model number. According to Wikipedia, the prototype's name changed from DSV-1 to DSV-12 and then to DMC-12, with the twelve coming from a target price of twelve thousand dollars. The company was formed in nineteen seventy-three, after John DeLorean left General Motors.",
+   "query": "The name",
+   "caption": "WIKIPEDIA: DSV-1 \u2192 DSV-12 \u2192 DMC-12 \u00b7 '12' FROM A TARGET PRICE OF $12,000 \u00b7 COMPANY FORMED 1973 AFTER DELOREAN LEFT GM",
+   "cuts": 5,
+   "chapter": "Thing one: the twelve was a price"
+  },
+  {
+   "text": "The production car launched in nineteen eighty-one at twenty-five thousand dollars. By our arithmetic, that is more than double the target, one hundred eight percent higher, and the name never changed. Wikipedia gives the nineteen eighty-one price as about eighty-nine thousand dollars in twenty twenty-five money.",
+   "query": "Target vs launch price",
+   "caption": "TARGET $12,000 \u2192 1981 MSRP $25,000 = 2.08\u00d7 (+108%) (OUR ARITHMETIC) \u00b7 WIKIPEDIA: $25,000 \u2248 $89,000 IN 2025 DOLLARS",
+   "cuts": 3
+  },
+  {
+   "text": "Prices kept rising. Wikipedia lists twenty-nine thousand, eight hundred twenty-five dollars for nineteen eighty-two and thirty-four thousand for nineteen eighty-three. By our arithmetic, that is a rise of nineteen percent and then fourteen percent, or thirty-six percent in all from the launch price. A three-speed automatic added six hundred fifty dollars.",
+   "query": "Price by year",
+   "caption": "1981 $25,000 \u2192 1982 $29,825 (+19.3%) \u2192 1983 $34,000 (+14.0%) \u00b7 TOTAL +36% (OUR ARITHMETIC) \u00b7 3-SPEED AUTOMATIC +$650 (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia converts those prices to twenty twenty-five dollars: about one hundred thousand for nineteen eighty-two and one hundred ten thousand for nineteen eighty-three. By that conversion the car at the end of its life cost more than four times the original twelve thousand dollar target in today's money, by our arithmetic, though the target itself was never adjusted in the source.",
+   "query": "In today's money",
+   "caption": "WIKIPEDIA: 1982 \u2248 $100,000 \u00b7 1983 \u2248 $110,000 (2025 DOLLARS) \u00b7 $12,000 TARGET NOT CONVERTED IN THE SOURCE \u2192 NO LIKE-FOR-LIKE RATIO (OUR NOTE)",
+   "cuts": 3
+  },
+  {
+   "text": "There was a gold car too. Wikipedia says an American Express promotion offered a gold-plated DeLorean for eighty-five thousand dollars each. The plan was for a hundred. Only two were sold. By our arithmetic, that is two percent of the plan, and the page also says three cars were plated in twenty-four karat gold, with the third assembled from spare parts.",
+   "query": "The gold car",
+   "caption": "WIKIPEDIA: AMERICAN EXPRESS GOLD-PLATED DMC-12, $85,000 \u00b7 PLANNED 100 \u00b7 SOLD 2 = 2% (OUR ARITHMETIC) \u00b7 THREE CARS PLATED IN 24-KARAT GOLD (THIRD BUILT FROM SPARES)",
+   "cuts": 3
+  },
+  {
+   "text": "Why did the price double? The sources give pieces. The company needed a factory, a chassis and an engine, and none was cheap. Wikipedia lists a prototype in October nineteen seventy-six, a Lotus evaluation in nineteen seventy-eight, a show car built by Visioneering for seven hundred fifty thousand dollars in nineteen seventy-nine, and the first production car in January nineteen eighty-one.",
+   "query": "The path to production",
+   "caption": "WIKIPEDIA: PROTOTYPE 1 OCT 1976 \u00b7 PROTOTYPE 2 TO LOTUS 1978 \u00b7 VISIONEERING NADA SHOW CAR 1979, $750,000 \u00b7 FIRST PRODUCTION CAR ANNOUNCED 21 JAN 1981",
+   "cuts": 3,
+   "chapter": "Why the price rose"
+  },
+  {
+   "text": "The factory was in Dunmurry, near Belfast, Northern Ireland. John DeLorean's Wikipedia page says the Northern Ireland Development Agency gave about one hundred million pounds in incentives, and the plant employed over two thousand workers at its peak. We take those as reported. Wikipedia does not give a per-car price breakdown.",
+   "query": "The Belfast factory",
+   "caption": "WIKIPEDIA (JOHN DELOREAN): ~\u00a3100 MILLION IN INCENTIVES FROM THE NORTHERN IRELAND DEVELOPMENT AGENCY \u00b7 2,000+ WORKERS AT PEAK \u00b7 DUNMURRY, NEAR BELFAST \u00b7 PER-CAR COST BREAKDOWN: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, one hundred million pounds spread over the roughly nine thousand cars built is about eleven thousand pounds per car, in nominal money. That is only an illustration, because the funding covered the factory and was not tied to a unit price, and our sources do not convert pounds to dollars for that year.",
+   "query": "Incentive per car",
+   "caption": "\u00a3100,000,000 \u00f7 ~9,000 CARS \u2248 \u00a311,100 PER CAR (OUR ARITHMETIC; FUNDING COVERED A FACTORY, NOT A UNIT PRICE; NOT CONVERTED TO DOLLARS)",
+   "cuts": 3
+  },
+  {
+   "text": "Engine and platform choices also mattered. Wikipedia says early plans included a Wankel rotary engine and a Citro\u00ebn four-cylinder, which was judged underpowered. The car ended up with the Peugeot-Renault-Volvo 2.85-litre V6. That engine was derated to one hundred thirty horsepower, and a few European cars kept one hundred fifty-four.",
+   "query": "The engine choice",
+   "caption": "WIKIPEDIA: EARLY PLANS = WANKEL OR CITRO\u00cbN 4-CYL (JUDGED UNDERPOWERED) \u00b7 FINAL: 2.85 L V6, 130 HP @ 5,500, 153 LB-FT \u00b7 FEW EUROPEAN CARS 154 HP",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, one hundred thirty horsepower from 2.85 litres is about forty-six horsepower per litre. Wikipedia describes the engine as derated, so it made less than it could. It also lists a claimed zero to sixty of eight point eight seconds, while Road and Track measured ten point five seconds for the manual.",
+   "query": "Power and 0\u201360",
+   "caption": "130 \u00f7 2.85 = 45.6 HP/L (OUR ARITHMETIC) \u00b7 CLAIMED 0\u201360: 8.8 S \u00b7 ROAD & TRACK MEASURED: 10.5 S (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Thing two. The DeLorean is famous for its unpainted stainless steel body. But Wikipedia says the body is brushed SAE three-oh-four stainless steel over a fibreglass underbody. The structure is a steel backbone chassis with Y-frames, derived from the Lotus Esprit platform. So the shiny part is a skin, not the skeleton.",
+   "query": "Skin, not skeleton",
+   "caption": "WIKIPEDIA: BRUSHED SAE 304 STAINLESS OVER A FIBREGLASS UNDERBODY \u00b7 STEEL BACKBONE CHASSIS WITH Y-FRAMES DERIVED FROM THE LOTUS ESPRIT PLATFORM",
+   "cuts": 3,
+   "chapter": "Thing two: the steel is only the skin"
+  },
+  {
+   "text": "Colin Chapman of Lotus re-engineered the car, Wikipedia says, after the first prototype went to Lotus for evaluation in nineteen seventy-eight. Giorgetto Giugiaro of Italdesign drew the shape, drawing on his earlier Porsche Tapiro concept from nineteen seventy. The company signed with Giugiaro in March nineteen seventy-five, and a styling mock-up was shipped to Michigan that July.",
+   "query": "Chapman and Giugiaro",
+   "caption": "WIKIPEDIA: COLIN CHAPMAN (LOTUS) RE-ENGINEERED THE CAR \u00b7 GIUGIARO / ITALDESIGN CONTRACT MARCH 1975 \u00b7 MOCK-UP TO MICHIGAN 31 JULY 1975 \u00b7 BASED ON HIS 1970 PORSCHE TAPIRO",
+   "cuts": 3
+  },
+  {
+   "text": "Why stainless? Business Insider, in December twenty nineteen, said the stainless pitch was that scratches could be buffed out, and called the shimmering skin mostly marketing. The steel is a relatively common grade, three-oh-four. And Wikipedia says the car was left unpainted. We have no source stating a cost saving or weight figure for the choice.",
+   "query": "Why stainless?",
+   "caption": "BUSINESS INSIDER (DEC 2019): PITCH = SCRATCHES CAN BE BUFFED OUT; 'MOSTLY MARKETING' \u00b7 304 = 'RELATIVELY COMMON GRADE' \u00b7 COST OR WEIGHT EFFECT OF STAINLESS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The doors were also unusual. Wikipedia says the gull-wing doors used cryogenically preset torsion bars and nitrogen struts developed by Grumman Aerospace. So a car with a Northern Irish factory used an American aerospace company's engineering for its doors. Our sources do not give the cost or the failure rate of those parts.",
+   "query": "Gull-wing doors",
+   "caption": "WIKIPEDIA: GULL-WING DOORS WITH CRYOGENICALLY PRESET TORSION BARS AND NITROGEN STRUTS DEVELOPED BY GRUMMAN AEROSPACE \u00b7 COST / FAILURE RATE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Weight distribution, per Wikipedia, was thirty-five percent front and sixty-five percent rear, with a turning circle of thirty-five feet kerb to kerb. Brakes were power-assisted discs, ten inches at the front and ten and a half at the rear. The page gives no kerb weight for the car. So we cannot give you a weight in pounds.",
+   "query": "Layout and brakes",
+   "caption": "WIKIPEDIA: 35/65 FRONT/REAR \u00b7 TURNING CIRCLE 35 FT \u00b7 DISCS 10 IN FRONT, 10.5 IN REAR \u00b7 KERB WEIGHT: NOT GIVEN IN OUR COPY",
+   "cuts": 3
+  },
+  {
+   "text": "Performance claims did not hold up. Wikipedia lists a claimed top speed of one hundred thirty miles per hour, against one hundred ten tested. By our arithmetic, that is fifteen percent lower. The claimed zero to sixty of eight point eight seconds compares with a measured ten point five, which is nineteen percent slower than the claim.",
+   "query": "Claim vs test",
+   "caption": "TOP SPEED 130 CLAIMED vs 110 TESTED = \u221215.4% \u00b7 0\u201360 8.8 S CLAIMED vs 10.5 S MEASURED = +19.3% SLOWER (OUR ARITHMETIC; WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Claims versus tests"
+  },
+  {
+   "text": "Wikipedia adds that competitors typically ran zero to sixty in seven and a half to eight and a half seconds, while tested DeLoreans took nine and a half to ten and a half. Business Insider, writing about it in twenty nineteen, gave the same ten point five seconds and noted the car could not tow. It was not built to.",
+   "query": "Against rivals",
+   "caption": "WIKIPEDIA: COMPETITORS 7.5\u20138.5 S 0\u201360 \u00b7 TESTED DELOREANS 9.5\u201310.5 S \u00b7 BUSINESS INSIDER: 130 HP V6, 10.5 S, 'NOT MEANT TO TOW' \u00b7 SPECIFIC RIVAL CARS: NOT NAMED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A turbocharged version existed on paper. Wikipedia says a Legend Industries twin-turbo car did zero to sixty in five point eight seconds and the quarter mile in fourteen point seven, and that DeLorean Motor Company had ordered five thousand engines and planned a seven thousand five hundred dollar turbo option. Bankruptcy ended it.",
+   "query": "The turbo that never was",
+   "caption": "WIKIPEDIA: LEGEND INDUSTRIES TWIN-TURBO \u2014 0\u201360 5.8 S \u00b7 1/4 MILE 14.7 S \u00b7 DMC ORDERED 5,000 ENGINES \u00b7 PLANNED $7,500 OPTION \u00b7 BANKRUPTCY ENDED THE PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, five point eight seconds is thirty-four percent quicker than the claimed eight point eight and forty-five percent quicker than the measured ten point five. The page contains a timing oddity, too: it says the turbo option was planned for nineteen eighty-four, while bankruptcy came in nineteen eighty-two. We flag that as a discrepancy.",
+   "query": "Turbo arithmetic",
+   "caption": "5.8 vs 8.8 S = \u221234.1% TIME \u00b7 5.8 vs 10.5 S = \u221244.8% (OUR ARITHMETIC) \u00b7 WIKIPEDIA TIMING CONFLICT: OPTION 'IN 1984' vs BANKRUPTCY OCT 1982",
+   "cuts": 3
+  },
+  {
+   "text": "How many were built? Wikipedia estimates by VIN: six thousand seven hundred in nineteen eighty-one, nineteen ninety-nine in nineteen eighty-two, and two hundred seventy-six in nineteen eighty-three. By our arithmetic, that totals eight thousand nine hundred seventy-five. The page's introduction says an estimated nine thousand, so the two are consistent within rounding.",
+   "query": "Production",
+   "caption": "WIKIPEDIA (BY VIN): 1981 6,700 \u00b7 1982 1,999 \u00b7 1983 276 \u00b7 TOTAL 8,975 (OUR SUM) \u00b7 INTRO: 'ESTIMATED 9,000'",
+   "cuts": 3,
+   "chapter": "Built and sold"
+  },
+  {
+   "text": "But building is not selling. Wikipedia says that by the end of nineteen eighty-one about seventy-five hundred were built and three thousand sold. By our arithmetic, that is forty percent sold. October nineteen eighty-one was the best month with seven hundred twenty sold, and January nineteen eighty-two only three hundred fifty, half as many.",
+   "query": "Built vs sold",
+   "caption": "END 1981: ~7,500 BUILT vs ~3,000 SOLD = 40% (OUR ARITHMETIC) \u00b7 OCT 1981: 720 SOLD (BEST) \u00b7 JAN 1982: 350 = \u221251% (OUR ARITHMETIC) \u00b7 NOTE: 1981 MODEL-YEAR FIGURE IS 6,700 (WIKIPEDIA CONFLICT)",
+   "cuts": 3
+  },
+  {
+   "text": "In March nineteen eighty-two, telegrams asked all three hundred forty-three dealers to buy six cars each. None responded with an order, Wikipedia says. By our arithmetic, six cars from each dealer would have been two thousand and fifty-eight cars. DeLorean Motor Company had entered receivership the month before, in February nineteen eighty-two.",
+   "query": "The telegram",
+   "caption": "WIKIPEDIA: MARCH 1982 TELEGRAMS TO 343 DEALERS ASKED THEM TO BUY 6 CARS EACH \u00b7 NO ORDERS \u00b7 343 \u00d7 6 = 2,058 CARS (OUR ARITHMETIC) \u00b7 RECEIVERSHIP FEB 1982",
+   "cuts": 3
+  },
+  {
+   "text": "Quality is part of the story. Wikipedia says early cars needed up to two hundred hours of work at quality centres, and the company sent thirty factory workers to US centres. Four recalls were issued. The original eighty-amp Ducellier alternator was replaced from late nineteen eighty-one by a ninety-amp Motorola unit.",
+   "query": "Quality problems",
+   "caption": "WIKIPEDIA: UP TO 200 HOURS OF WORK PER EARLY CAR AT QUALITY CENTRES \u00b7 30 FACTORY WORKERS SENT TO US \u00b7 4 RECALLS \u00b7 80-AMP DUCELLIER \u2192 90-AMP MOTOROLA ALTERNATOR (LATE 1981)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia quotes Bruce McWilliams saying the car could never be sold in the numbers John DeLorean predicted. It also records that Top Gear writer Richard Porter described the car as dismal and Tony Davis described the build quality as woeful. Those are opinions, quoted from the page, not our judgement.",
+   "query": "What critics said",
+   "caption": "WIKIPEDIA QUOTES: McWILLIAMS \u2014 'COULD NEVER BE SOLD IN THE NUMBERS JOHN DELOREAN PREDICTED' \u00b7 RICHARD PORTER: 'DISMAL' \u00b7 TONY DAVIS: 'WOEFUL' BUILD QUALITY (OPINIONS)",
+   "cuts": 3
+  },
+  {
+   "text": "Production did not stop at once. Factory production stopped in May nineteen eighty-two, John DeLorean was arrested in October, and the company filed for bankruptcy on the twenty-sixth of October. Consolidated International then bought the unsold cars and assembled about a hundred more before final production on the twenty-fourth of December nineteen eighty-two.",
+   "query": "The end of production",
+   "caption": "WIKIPEDIA: PRODUCTION STOPPED MAY 1982 \u00b7 ARREST OCT 1982 \u00b7 BANKRUPTCY 26 OCT 1982 \u00b7 CONSOLIDATED INTERNATIONAL ASSEMBLED ~100 MORE \u00b7 FINAL PRODUCTION 24 DEC 1982",
+   "cuts": 3
+  },
+  {
+   "text": "How many survive? Wikipedia says owners estimated about sixty-five hundred were still on the road as of twenty fifteen. By our arithmetic, that is seventy-two percent of the eight thousand nine hundred seventy-five built. We do not know how that estimate was made. It is an owners' estimate, not a registry count.",
+   "query": "Survivors",
+   "caption": "WIKIPEDIA: ~6,500 ON THE ROAD AS OF 2015 (OWNERS' ESTIMATE) \u00b7 6,500 \u00f7 8,975 = 72% (OUR ARITHMETIC) \u00b7 METHOD: NOT STATED",
+   "cuts": 3,
+   "chapter": "What survives"
+  },
+  {
+   "text": "The cars from Back to the Future are a separate case. Wikipedia says six DeLoreans were used in production plus a fibreglass car for flying scenes, and that three survive. A Part Three car sold for five hundred forty-one thousand, two hundred dollars in December twenty eleven. ThePricer says the same figure, and that seven cars were built for filming.",
+   "query": "Movie cars",
+   "caption": "WIKIPEDIA: 6 DELOREANS + 1 FIBREGLASS FLYING CAR; 3 SURVIVE \u00b7 PART III CAR SOLD $541,200 (DEC 2011) \u00b7 THEPRICER: 7 CARS BUILT FOR FILMING (COUNT DIFFERS FROM 'SIX + ONE' IF THE FIBREGLASS CAR IS COUNTED SEPARATELY \u2014 OUR NOTE)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia adds that the Part Three cars had Volkswagen engines and dune buggy chassis, and the fibreglass replica used in Part Two was scrapped. So the famous time machine on screen was, in places, not a standard DeLorean underneath, which fits the theme of this video: the car's image and its engineering did not always match.",
+   "query": "Not standard underneath",
+   "caption": "WIKIPEDIA: PART III CARS HAD VOLKSWAGEN ENGINES AND DUNE-BUGGY CHASSIS \u00b7 PART II FIBREGLASS FLYING REPLICA SCRAPPED \u00b7 'THEME' LINK = OUR COMMENT",
+   "cuts": 3
+  },
+  {
+   "text": "A company in Humble, Texas, now supports the cars. Wikipedia says DeLorean Motor Company, founded by Stephen Wynne on the twelfth of May nineteen ninety-five, acquired the original manufacturer's remaining parts and sells new-old-stock, original and aftermarket parts, plus maintenance and restoration. It has no direct connection with the original firm.",
+   "query": "Parts in Texas",
+   "caption": "WIKIPEDIA (DMC TEXAS): FOUNDED 12 MAY 1995 BY STEPHEN WYNNE \u00b7 HUMBLE, TEXAS \u00b7 ACQUIRED REMAINING ORIGINAL PARTS \u00b7 NOS / OEM / AFTERMARKET PARTS, MAINTENANCE, RESTORATION \u00b7 NO DIRECT CONNECTION TO THE ORIGINAL COMPANY",
+   "cuts": 3
+  },
+  {
+   "text": "The Texas company has talked about new cars. Wikipedia says that in twenty seventeen it announced three hundred new cars at about fifty a year, at an estimated hundred thousand dollars each, and in October twenty twenty-two put that on indefinite hold. It announced the Alpha5 electric car in May twenty twenty-two. As of August twenty twenty-six, the Alpha5 had not launched.",
+   "query": "New DeLoreans?",
+   "caption": "WIKIPEDIA: 2017 \u2014 300 NEW CARS (~50/YEAR), ~$100,000 EACH \u00b7 OCT 2022 'INDEFINITE HOLD' \u00b7 ALPHA5 EV ANNOUNCED MAY 2022 \u00b7 NOT LAUNCHED AS OF AUG 2026",
+   "cuts": 3
+  },
+  {
+   "text": "And used prices today. ThePricer says a standard DeLorean now costs roughly fifty to seventy-five thousand dollars in the twenty twenty-six collector market, with project cars in the low thirties. By our arithmetic, a fifty to seventy-five thousand dollar price is two to three times the 1981 sticker price of twenty-five thousand, without adjusting for inflation.",
+   "query": "Used prices",
+   "caption": "THEPRICER (2026): ~$50,000\u2013$75,000 STANDARD \u00b7 PROJECT CARS LOW $30,000s \u00b7 $50,000\u2013$75,000 \u00f7 $25,000 = 2.0\u20133.0\u00d7 NOMINAL (OUR ARITHMETIC; NO INFLATION ADJUSTMENT)",
+   "cuts": 3
+  },
+  {
+   "text": "The sources disagree with themselves in places, and that is worth showing. First, total production: Wikipedia's introduction says an estimated nine thousand, while the model-year figures add to eight thousand nine hundred seventy-five. By our arithmetic, the difference is twenty-five cars, or less than three tenths of one percent. That is rounding, not a conflict.",
+   "query": "Disagreement one",
+   "caption": "INTRO: ~9,000 vs SUM 8,975 \u2192 25 CARS = 0.28% (OUR ARITHMETIC) \u00b7 WIKIPEDIA",
+   "cuts": 3,
+   "chapter": "Where the sources disagree"
+  },
+  {
+   "text": "Second, built versus sold. Wikipedia gives about seventy-five hundred built by the end of nineteen eighty-one, but its model-year table gives six thousand seven hundred for nineteen eighty-one. The two figures count different things, possibly cars built in the calendar year against cars assigned to the model year. The page does not explain, so neither do we.",
+   "query": "Disagreement two",
+   "caption": "WIKIPEDIA: ~7,500 BUILT BY END-1981 vs 6,700 FOR 1981 MODEL YEAR \u2192 800 DIFFERENCE (OUR ARITHMETIC) \u00b7 EXPLANATION: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Third, when production ended. Wikipedia says factory production stopped in May nineteen eighty-two, yet it gives the twenty-fourth of December as the final production date, because Consolidated International finished the remaining cars. John DeLorean's page says by February nineteen eighty-two more than half of about seven thousand cars produced were unsold.",
+   "query": "Disagreement three",
+   "caption": "FACTORY STOPPED MAY 1982 \u00b7 FINAL CARS 24 DEC 1982 (CONSOLIDATED INTERNATIONAL) \u00b7 JOHN DELOREAN PAGE: BY FEB 1982, >HALF OF ~7,000 CARS UNSOLD",
+   "cuts": 3
+  },
+  {
+   "text": "Fourth, the gold cars. Wikipedia lists five vehicle numbers for gold-plated cars, but says only two American Express cars were sold, and that three cars were plated in twenty-four karat gold. By our arithmetic, five numbers against three cars is a mismatch we cannot resolve. It may be that other cars were plated later, but the page does not say.",
+   "query": "Disagreement four",
+   "caption": "WIKIPEDIA: GOLD-PLATED VINs LISTED = 5 (4300, 4301, 20105, 1542, 16625) \u00b7 '3 CARS PLATED IN 24-KARAT GOLD' \u00b7 2 SOLD VIA AMERICAN EXPRESS \u00b7 5 vs 3 UNRESOLVED (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Fifth, power. The US car is listed at one hundred thirty horsepower, while a few European cars are listed at one hundred fifty-four. By our arithmetic, that is nineteen percent more. Wikipedia explains the lower number as a derating of the V6. It does not say why a few European cars kept the higher rating.",
+   "query": "Disagreement five",
+   "caption": "US 130 HP vs EUROPE 154 HP = +18.5% (OUR ARITHMETIC) \u00b7 WIKIPEDIA: V6 'DERATED'; WHY SOME EUROPEAN CARS KEPT 154 HP: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "A smaller story is the right-hand-drive cars. Wikipedia says about thirty early cars were sent to Wooler-Hodec, and only thirteen right-hand-drive conversions were completed. Three factory-authorised cars, called AXI, were registered in Northern Ireland. Eight post-factory conversions are known. So a car built in Belfast was mostly built for the left side of the road.",
+   "query": "Right-hand drive",
+   "caption": "WIKIPEDIA: ~30 EARLY CARS TO WOOLER-HODEC \u00b7 13 RHD CONVERSIONS COMPLETED \u00b7 3 FACTORY-AUTHORISED 'AXI' CARS REGISTERED IN N. IRELAND \u00b7 8 POST-FACTORY CONVERSIONS KNOWN",
+   "cuts": 3,
+   "chapter": "The cars that went to Britain"
+  },
+  {
+   "text": "By our arithmetic, thirteen conversions are about a seventh of one percent of the eight thousand nine hundred seventy-five cars built. Eight post-factory conversions are another nine hundredths of a percent. Together, with the three AXI cars, that is twenty-four right-hand-drive cars known, if no car is counted twice, which the page does not say.",
+   "query": "How rare RHD is",
+   "caption": "13 \u00f7 8,975 = 0.14% \u00b7 13 + 8 + 3 = 24 KNOWN IF NO OVERLAP (OUR ARITHMETIC; OVERLAP NOT STATED IN THE SOURCE)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also says about twenty-eight pilot cars were built before series production, and that the company sent them out for testing. It does not say how many survive. We note it because pilot cars are the ones collectors look for. For the first two prototypes, the sources give a different kind of record: auction prices.",
+   "query": "Pilot cars",
+   "caption": "WIKIPEDIA: ~28 PILOT CARS \u00b7 SURVIVORS: NOT STATED \u00b7 PROTOTYPE 1 AND VISIONEERING CAR: SOLD AT 1984 AUCTIONS (NEXT SCENE)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says Prototype One sold at the nineteen eighty-four bankruptcy auction for thirty-seven thousand dollars and was restored in two thousand five. The Visioneering show car sold at an auction late in nineteen eighty-four for twenty-one thousand. United Press International put the two together at fifty-eight thousand, which matches our sum of thirty-seven and twenty-one.",
+   "query": "Prototype prices",
+   "caption": "WIKIPEDIA: PROTOTYPE 1 \u2014 $37,000 (1984 BANKRUPTCY AUCTION), RESTORED 2005 \u00b7 VISIONEERING CAR \u2014 $21,000 (LATE 1984) \u00b7 UPI: $58,000 COMBINED = 37 + 21 (OUR SUM)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare that with the show car's build cost of seven hundred fifty thousand dollars in nineteen seventy-nine. By our arithmetic, selling for twenty-one thousand is under three percent of what it cost to make. Both were pre-production cars sold in a bankruptcy, so the comparison tells us about distressed sales, not what a collector would pay.",
+   "query": "A show car's fall",
+   "caption": "$750,000 (1979 BUILD) \u2192 $21,000 (1984 SALE) = 2.8% (OUR ARITHMETIC; BANKRUPTCY SALE, DIFFERENT YEARS, NOT ADJUSTED FOR INFLATION)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia's page on DeLorean Motor Company of Texas lists prices for restored cars. In two thousand seven the company announced a refurbished car built from new, original and reproduction parts plus a donor car for fifty-seven thousand, five hundred dollars. In twenty nineteen, restored cars were valued from fifty thousand dollars and up. Unrestored cars were about thirty-five thousand.",
+   "query": "Texas prices",
+   "caption": "WIKIPEDIA (DMC TEXAS): 2007 REFURBISHED CAR $57,500 \u00b7 2019 RESTORED CARS FROM $50,000 \u00b7 UNRESTORED ~$35,000 (USED MARKET)",
+   "cuts": 3,
+   "chapter": "The people who kept it alive"
+  },
+  {
+   "text": "By our arithmetic, the two thousand seven refurbished price of fifty-seven thousand, five hundred dollars is two point three times the original twenty-five thousand dollar sticker. Fifty thousand in twenty nineteen is two times. These are nominal dollars, and we did not adjust them for inflation, so they overstate real growth.",
+   "query": "Restored vs original price",
+   "caption": "$57,500 \u00f7 $25,000 = 2.30\u00d7 \u00b7 $50,000 \u00f7 $25,000 = 2.00\u00d7 (OUR ARITHMETIC; NOMINAL, NOT INFLATION-ADJUSTED)",
+   "cuts": 3
+  },
+  {
+   "text": "The company also licensed a sneaker. Wikipedia says the Nike DeLorean Dunk of two thousand ten had an estimated production of a thousand pairs, at ninety dollars. It is a small detail, but it shows how the brand moved from cars to merchandise. By our arithmetic, a thousand pairs at ninety dollars is ninety thousand dollars of retail value.",
+   "query": "A sneaker",
+   "caption": "WIKIPEDIA: NIKE DELOREAN DUNK (NOV 2010), ~1,000 PAIRS AT $90 \u00b7 1,000 \u00d7 $90 = $90,000 RETAIL (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia also notes legal disputes of the Texas company: a settlement with Sally Baldwin in October twenty fifteen, an appeals court upholding its rights in December twenty nineteen, an NBCUniversal royalty lawsuit and a Karma Automotive lawsuit in twenty twenty-two, and an Italdesign judgment of four point six million dollars against the company in early twenty twenty-six.",
+   "query": "Legal timeline",
+   "caption": "WIKIPEDIA (DMC TEXAS): SETTLEMENT WITH SALLY BALDWIN 20 OCT 2015 \u00b7 APPEALS COURT 5 DEC 2019 \u00b7 NBCUNIVERSAL + KARMA LAWSUITS 2022 \u00b7 ITALDESIGN JUDGMENT $4.6 M (EARLY 2026)",
+   "cuts": 3
+  },
+  {
+   "text": "We report those as facts on the page, without comment on who is right. The point for this video is simple: the DeLorean's afterlife has been run by a separate Texas firm with no direct connection to the original company, and some of the disputes concern the rights to the name and the design.",
+   "query": "A separate company",
+   "caption": "DMC TEXAS HAS NO DIRECT CONNECTION TO THE ORIGINAL COMPANY (WIKIPEDIA) \u00b7 DISPUTES CONCERN BRAND / DESIGN RIGHTS (AS LISTED) \u00b7 WHO IS RIGHT: NOT FOR US TO SAY",
+   "cuts": 3
+  },
+  {
+   "text": "Where do prices stand in twenty twenty-six? ThePricer, citing Classic dot com benchmarks, gives an average of fifty-nine thousand, forty-nine dollars for automatics and sixty-four thousand, eight hundred sixty-six for manuals. By our arithmetic, the manual premium is fifty-eight hundred seventeen dollars, or about ten percent. The page calls the older range of twenty-five to fifty thousand outdated.",
+   "query": "Benchmarks",
+   "caption": "THEPRICER (2026, CITING CLASSIC.COM BENCHMARKS): AUTOMATIC $59,049 \u00b7 MANUAL $64,866 \u00b7 PREMIUM $5,817 = 9.85% (OUR ARITHMETIC) \u00b7 'OLDER $25,000\u2013$50,000 RANGE IS OUTDATED'",
+   "cuts": 3,
+   "chapter": "The market now"
+  },
+  {
+   "text": "ThePricer lists three auction results. A non-running nineteen eighty-two five-speed project car, off the road nineteen years, sold for thirty-one thousand, six hundred ninety-nine dollars on Bring a Trailer on the fourth of May twenty twenty-six. A two hundred ninety-six mile car sold for seventy-seven thousand, five hundred on the sixth of August.",
+   "query": "Two 2026 sales",
+   "caption": "THEPRICER: 4 MAY 2026 \u2014 NON-RUNNING 1982 5-SPEED PROJECT, $31,699 (BRING A TRAILER), OFF THE ROAD 19 YEARS \u00b7 6 AUG 2026 \u2014 296-MILE 1982 CAR, $77,500",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the low-mileage car sold for two point four times the project car, a difference of about forty-five thousand eight hundred dollars. The first needed recommissioning, the second had barely been driven. Two sales do not make a market, but they show the width of the range between a car that needs work and one that does not.",
+   "query": "Project vs low mileage",
+   "caption": "$77,500 \u00f7 $31,699 = 2.44\u00d7 \u00b7 $77,500 \u2212 $31,699 = $45,801 (OUR ARITHMETIC; TWO SALES ONLY)",
+   "cuts": 3
+  },
+  {
+   "text": "Business Insider's March twenty twenty-four piece says the Cybertruck is the first stainless steel vehicle produced since the DeLorean, whose production ended in nineteen eighty-two. That is a neat link, and it is why the two trucks and cars are compared so often. In the next video we compare them properly, with the sources on both sides.",
+   "query": "First since the DeLorean",
+   "caption": "BUSINESS INSIDER VIA YAHOO AUTOS (10 MAR 2024): CYBERTRUCK = 'THE FIRST STAINLESS STEEL VEHICLE PRODUCED SINCE THE DELOREAN, WHOSE PRODUCTION ENDED IN 1982'",
+   "cuts": 3
+  },
+  {
+   "text": "And the film. ThePricer says the DeLorean was revived by the nineteen eighty-five film Back to the Future, in which its engine was modified to run on fusion technology. John DeLorean's page lists the film too. The car that failed in the showroom became more famous afterwards than almost any car sold in those years, though our sources do not rank it.",
+   "query": "The film effect",
+   "caption": "THEPRICER: 'REVIVED BY THE 1985 FILM BACK TO THE FUTURE' \u00b7 WIKIPEDIA (JOHN DELOREAN): FILM LISTED \u00b7 RANKING OF FAMOUS CARS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "There is one more number for scale. Business Insider says fewer than ten thousand DeLoreans were built before the drug-trafficking allegations against John DeLorean and shaky finances ended the company. Wikipedia's figure is eighty-nine hundred seventy-five. The Cybertruck, in comparison, had thirty-eight thousand, nine hundred sixty-five sales in twenty twenty-four alone, per Kelley Blue Book on Wikipedia.",
+   "query": "Scale",
+   "caption": "BUSINESS INSIDER: <10,000 DELOREANS BUILT \u00b7 WIKIPEDIA: 8,975 \u00b7 CYBERTRUCK 2024 SALES: 38,965 (KBB, VIA WIKIPEDIA) \u2192 4.3\u00d7 TOTAL DELOREAN PRODUCTION IN ONE YEAR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. The kerb weight of the car. A cost breakdown behind the price rise from twelve to twenty-five thousand dollars. The exact number of cars still on the road. Why the sources give different counts of film cars. If you own a DeLorean and have a documented number, share it in the comments and we will update the description.",
+   "query": "DeLorean",
+   "caption": "NOT IN OUR SOURCES: KERB WEIGHT \u00b7 COST BREAKDOWN OF THE PRICE RISE \u00b7 EXACT SURVIVOR COUNT \u00b7 REASON FOR DIFFERENT FILM-CAR COUNTS",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "So, two things. The twelve was a target price, and the car launched at more than double it. The stainless steel was a skin over fibreglass and a Lotus-derived chassis. In the other videos of this series we compare it with the Cybertruck, count the cost of owning one, and tell the story of John DeLorean. Subscribe to Pickup Reality. The twenty twenty-seven Truck Buyer's Guide is linked in the description.",
+   "query": "DeLorean",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

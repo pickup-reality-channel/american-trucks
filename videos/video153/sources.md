@@ -1,0 +1,5 @@
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, John DeLorean: https://en.wikipedia.org/wiki/John_DeLorean
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Business Insider via Business Insider NL, Tesla Cybertruck versus DeLorean stainless steel vehicles, Dec 2019: https://businessinsider.nl/tesla-cybertruck-versus-delorean-stainless-steel-vehicles-2019-12
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/
