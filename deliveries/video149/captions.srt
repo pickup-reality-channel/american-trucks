@@ -1,0 +1,2291 @@
+1
+00:00:00,000 --> 00:00:02,694
+A Mercedes G 63 AMG 6x6 weighs
+
+2
+00:00:02,694 --> 00:00:05,119
+about nine thousand pounds,
+
+3
+00:00:05,119 --> 00:00:08,172
+stands on thirty-seven inch tyres,
+
+4
+00:00:08,172 --> 00:00:12,124
+and was priced at three hundred seventy-nine
+
+5
+00:00:12,124 --> 00:00:14,280
+thousand euros when new.
+
+6
+00:00:14,460 --> 00:00:16,538
+Roughly one hundred were built.
+
+7
+00:00:16,718 --> 00:00:19,068
+In this video we explain two things
+
+8
+00:00:19,068 --> 00:00:21,417
+you probably did not know about it:
+
+9
+00:00:21,417 --> 00:00:23,364
+what it really is underneath,
+
+10
+00:00:23,364 --> 00:00:25,983
+and where its hardware went afterwards.
+
+11
+00:00:26,163 --> 00:00:28,729
+Every figure comes from a named source.
+
+12
+00:00:29,079 --> 00:00:32,608
+We used Wikipedia's pages on the 6x6
+
+13
+00:00:32,608 --> 00:00:34,471
+and on the G-Class,
+
+14
+00:00:34,471 --> 00:00:36,726
+Gear Patrol, The Drive,
+
+15
+00:00:36,726 --> 00:00:40,157
+Road and Track via Motor Authority,
+
+16
+00:00:40,157 --> 00:00:43,196
+CarAdvice via Driven Car Guide,
+
+17
+00:00:43,196 --> 00:00:45,843
+MercedesBlog and Carscoops.
+
+18
+00:00:46,023 --> 00:00:47,969
+They disagree in places,
+
+19
+00:00:47,969 --> 00:00:49,672
+for example on power,
+
+20
+00:00:49,672 --> 00:00:50,969
+price and dates.
+
+21
+00:00:51,149 --> 00:00:52,925
+We show the disagreements.
+
+22
+00:00:53,105 --> 00:00:56,252
+Our own maths is labelled as ours.
+
+23
+00:00:56,601 --> 00:00:57,600
+Secret one.
+
+24
+00:00:57,780 --> 00:01:00,669
+The G 63 AMG 6x6 was not
+
+25
+00:01:00,669 --> 00:01:03,678
+designed as a luxury toy.
+
+26
+00:01:03,858 --> 00:01:06,439
+Wikipedia says it is derived from a
+
+27
+00:01:06,439 --> 00:01:11,086
+six-wheel-drive Geländewagen developed for the Australian Army,
+
+28
+00:01:11,086 --> 00:01:14,109
+with development from two thousand seven.
+
+29
+00:01:14,289 --> 00:01:17,071
+Gear Patrol says it is built on
+
+30
+00:01:17,071 --> 00:01:20,033
+the military version of the G 320
+
+31
+00:01:20,033 --> 00:01:23,533
+CDI, in partnership with Magna Steyr in
+
+32
+00:01:23,533 --> 00:01:24,251
+Austria.
+
+33
+00:01:24,600 --> 00:01:26,911
+The sources disagree on the year.
+
+34
+00:01:27,091 --> 00:01:28,292
+Road and Track,
+
+35
+00:01:28,292 --> 00:01:31,814
+quoted by Motor Authority in November twenty
+
+36
+00:01:31,814 --> 00:01:35,256
+twenty, says the army vehicle was developed
+
+37
+00:01:35,256 --> 00:01:37,897
+in twenty eleven and based on the
+
+38
+00:01:37,897 --> 00:01:39,258
+G 320 CDI diesel.
+
+39
+00:01:39,438 --> 00:01:42,074
+Wikipedia says two thousand seven.
+
+40
+00:01:42,254 --> 00:01:44,599
+We cannot settle it from our sources.
+
+41
+00:01:44,779 --> 00:01:46,163
+By our arithmetic,
+
+42
+00:01:46,163 --> 00:01:48,854
+the two dates are four years apart.
+
+43
+00:01:49,203 --> 00:01:52,040
+The military version did not end when
+
+44
+00:01:52,040 --> 00:01:53,650
+the civilian one did.
+
+45
+00:01:53,830 --> 00:01:57,080
+CarAdvice, in its report of the thirteenth
+
+46
+00:01:57,080 --> 00:01:58,937
+of April twenty fifteen,
+
+47
+00:01:58,937 --> 00:02:02,419
+says the Australian Army chassis is different
+
+48
+00:02:02,419 --> 00:02:05,359
+from the AMG version and will continue
+
+49
+00:02:05,359 --> 00:02:06,520
+to be produced.
+
+50
+00:02:06,700 --> 00:02:09,687
+So the civilian 6x6 was a spin-off
+
+51
+00:02:09,687 --> 00:02:11,708
+from a working vehicle,
+
+52
+00:02:11,708 --> 00:02:13,817
+not the other way round.
+
+53
+00:02:14,166 --> 00:02:17,413
+Wikipedia says the 6x6 was introduced for
+
+54
+00:02:17,413 --> 00:02:21,214
+the thirtieth anniversary of G-Wagen production.
+
+55
+00:02:21,394 --> 00:02:23,703
+It adds that at launch it was
+
+56
+00:02:23,703 --> 00:02:27,366
+the company's largest off-road vehicle and its
+
+57
+00:02:27,366 --> 00:02:30,631
+second most expensive street-legal model,
+
+58
+00:02:30,631 --> 00:02:33,259
+after the SLS AMG Electric Drive.
+
+59
+00:02:33,439 --> 00:02:36,307
+So an army-derived truck was priced above
+
+60
+00:02:36,307 --> 00:02:38,896
+nearly everything else Mercedes sold.
+
+61
+00:02:39,245 --> 00:02:40,314
+Where was it built?
+
+62
+00:02:40,494 --> 00:02:43,782
+Wikipedia says Magna Steyr in Graz,
+
+63
+00:02:43,782 --> 00:02:44,534
+Austria.
+
+64
+00:02:44,714 --> 00:02:47,202
+Gear Patrol says the work was done
+
+65
+00:02:47,202 --> 00:02:49,544
+in partnership with Magna Steyr.
+
+66
+00:02:49,724 --> 00:02:53,814
+Wikipedia's G-Class page mentions Magna Steyr only
+
+67
+00:02:53,814 --> 00:02:56,922
+as a general assembler of the G-Class.
+
+68
+00:02:57,102 --> 00:02:59,963
+Neither page gives details of how many
+
+69
+00:02:59,963 --> 00:03:02,373
+workers or hours each unit took.
+
+70
+00:03:02,722 --> 00:03:04,777
+Start with the drivetrain,
+
+71
+00:03:04,777 --> 00:03:05,962
+from Wikipedia.
+
+72
+00:03:06,142 --> 00:03:09,117
+It has six-wheel drive with portal axles
+
+73
+00:03:09,117 --> 00:03:11,796
+similar to those on Unimog vehicles.
+
+74
+00:03:11,976 --> 00:03:14,663
+The transfer case has a high ratio
+
+75
+00:03:14,663 --> 00:03:17,192
+of zero point eight seven to one
+
+76
+00:03:17,192 --> 00:03:19,405
+and a low ratio of two point
+
+77
+00:03:19,405 --> 00:03:20,590
+one six to one.
+
+78
+00:03:20,770 --> 00:03:23,195
+Power is nominally split thirty,
+
+79
+00:03:23,195 --> 00:03:26,453
+forty and thirty percent between the front,
+
+80
+00:03:26,453 --> 00:03:28,119
+middle and rear axles.
+
+81
+00:03:28,469 --> 00:03:29,771
+By our arithmetic,
+
+82
+00:03:29,771 --> 00:03:30,927
+a thirty, forty,
+
+83
+00:03:30,927 --> 00:03:33,963
+thirty split of the five hundred sixty-one
+
+84
+00:03:33,963 --> 00:03:36,999
+pound-feet of engine torque would be about
+
+85
+00:03:36,999 --> 00:03:38,733
+one hundred sixty-eight,
+
+86
+00:03:38,733 --> 00:03:42,420
+two hundred twenty-four and one hundred sixty-eight
+
+87
+00:03:42,420 --> 00:03:44,155
+pound-feet at each axle.
+
+88
+00:03:44,335 --> 00:03:46,776
+That ignores gearing and losses,
+
+89
+00:03:46,776 --> 00:03:48,912
+so it only shows the idea of
+
+90
+00:03:48,912 --> 00:03:49,675
+the split.
+
+91
+00:03:49,855 --> 00:03:52,364
+Brabus, on its modified car,
+
+92
+00:03:52,364 --> 00:03:54,156
+also lists a thirty,
+
+93
+00:03:54,156 --> 00:03:56,217
+forty, thirty division.
+
+94
+00:03:56,567 --> 00:04:00,262
+Five electronic differential locks can lock all
+
+95
+00:04:00,262 --> 00:04:02,384
+six wheels, Wikipedia says.
+
+96
+00:04:02,564 --> 00:04:04,431
+Gear Patrol puts it as up to
+
+97
+00:04:04,431 --> 00:04:07,231
+one hundred percent lock-up across all six
+
+98
+00:04:07,231 --> 00:04:09,298
+wheels, with low-range gearing.
+
+99
+00:04:09,478 --> 00:04:13,048
+Road and Track repeats five differential locks
+
+100
+00:04:13,048 --> 00:04:15,920
+and one hundred percent lockup on all
+
+101
+00:04:15,920 --> 00:04:16,386
+axles.
+
+102
+00:04:16,566 --> 00:04:18,870
+Three outlets give the same claim,
+
+103
+00:04:18,870 --> 00:04:20,226
+which is consistent,
+
+104
+00:04:20,226 --> 00:04:21,988
+although none measured it.
+
+105
+00:04:22,338 --> 00:04:24,439
+The tyre system is unusual.
+
+106
+00:04:24,619 --> 00:04:27,922
+Wikipedia says an air compressor fills four
+
+107
+00:04:27,922 --> 00:04:31,685
+twenty-litre tanks, allowing the driver to change
+
+108
+00:04:31,685 --> 00:04:34,603
+tyre pressure in under twenty seconds.
+
+109
+00:04:34,783 --> 00:04:36,306
+By our arithmetic,
+
+110
+00:04:36,306 --> 00:04:40,113
+four twenty-litre tanks hold eighty litres in
+
+111
+00:04:40,113 --> 00:04:43,921
+total, about twenty-one US gallons by volume.
+
+112
+00:04:44,101 --> 00:04:47,166
+Road and Track also mentions a central
+
+113
+00:04:47,166 --> 00:04:48,861
+tyre-pressure system.
+
+114
+00:04:49,211 --> 00:04:50,778
+Next, the wheels.
+
+115
+00:04:50,958 --> 00:04:53,950
+Wikipedia lists thirty-seven inch tyres,
+
+116
+00:04:53,950 --> 00:04:56,942
+which is nine hundred forty millimetres,
+
+117
+00:04:56,942 --> 00:04:59,410
+on eighteen inch beadlock wheels.
+
+118
+00:04:59,590 --> 00:05:02,692
+Gear Patrol says thirty-seven inch wheels,
+
+119
+00:05:02,692 --> 00:05:05,055
+which is probably a loose use of
+
+120
+00:05:05,055 --> 00:05:05,720
+the word.
+
+121
+00:05:05,900 --> 00:05:09,220
+We follow Wikipedia and Road and Track,
+
+122
+00:05:09,220 --> 00:05:11,008
+which both say tyres.
+
+123
+00:05:11,188 --> 00:05:14,082
+The Brabus car in Carscoops wore Nitto
+
+124
+00:05:14,082 --> 00:05:15,681
+Ridge Grappler tyres.
+
+125
+00:05:16,032 --> 00:05:19,514
+Ground clearance is four hundred sixty millimetres,
+
+126
+00:05:19,514 --> 00:05:21,903
+which is eighteen point one inches,
+
+127
+00:05:21,903 --> 00:05:23,474
+according to Wikipedia.
+
+128
+00:05:23,654 --> 00:05:27,167
+Road and Track also says eighteen point
+
+129
+00:05:27,167 --> 00:05:28,158
+one inches.
+
+130
+00:05:28,338 --> 00:05:31,799
+Wading depth is one thousand millimetres,
+
+131
+00:05:31,799 --> 00:05:34,584
+or thirty-nine point four inches.
+
+132
+00:05:34,764 --> 00:05:37,272
+Those are manufacturer-type numbers,
+
+133
+00:05:37,272 --> 00:05:39,710
+and our sources do not describe any
+
+134
+00:05:39,710 --> 00:05:41,591
+independent test of either.
+
+135
+00:05:41,940 --> 00:05:42,846
+The size.
+
+136
+00:05:43,026 --> 00:05:47,099
+Wikipedia lists a length of fifty-eight seventy-five
+
+137
+00:05:47,099 --> 00:05:50,153
+millimetres, a width of twenty-one ten,
+
+138
+00:05:50,153 --> 00:05:52,581
+and a height of twenty-two ten.
+
+139
+00:05:52,761 --> 00:05:54,027
+By our arithmetic,
+
+140
+00:05:54,027 --> 00:05:56,771
+that is about nineteen point three feet
+
+141
+00:05:56,771 --> 00:05:58,952
+long, six point nine feet wide,
+
+142
+00:05:58,952 --> 00:06:01,062
+and seven point two feet tall.
+
+143
+00:06:01,242 --> 00:06:04,855
+The wheelbase, front axle to rearmost axle,
+
+144
+00:06:04,855 --> 00:06:07,880
+is forty-one ninety-six millimetres,
+
+145
+00:06:07,880 --> 00:06:10,820
+or about thirteen point eight feet.
+
+146
+00:06:11,171 --> 00:06:11,623
+Weight.
+
+147
+00:06:11,803 --> 00:06:15,745
+Wikipedia lists a kerb weight of forty-eighty-three
+
+148
+00:06:15,745 --> 00:06:18,913
+kilograms, which is nine thousand and one
+
+149
+00:06:18,913 --> 00:06:19,454
+pounds.
+
+150
+00:06:19,634 --> 00:06:22,688
+The Drive, describing a specific car in
+
+151
+00:06:22,688 --> 00:06:24,489
+November twenty twenty,
+
+152
+00:06:24,489 --> 00:06:26,995
+says nine thousand fifty pounds.
+
+153
+00:06:27,175 --> 00:06:29,764
+CarAdvice says about four tonnes.
+
+154
+00:06:29,944 --> 00:06:32,300
+These agree within about one percent,
+
+155
+00:06:32,300 --> 00:06:33,764
+and they are all heavy.
+
+156
+00:06:34,114 --> 00:06:35,983
+Put that against the engine.
+
+157
+00:06:36,163 --> 00:06:37,289
+The 5.
+
+158
+00:06:37,469 --> 00:06:41,698
+5-litre twin-turbo V8 makes five hundred thirty-six
+
+159
+00:06:41,698 --> 00:06:43,854
+horsepower, per Wikipedia.
+
+160
+00:06:44,034 --> 00:06:45,552
+By our arithmetic,
+
+161
+00:06:45,552 --> 00:06:48,841
+that is about seven point six kilograms
+
+162
+00:06:48,841 --> 00:06:50,612
+for every horsepower,
+
+163
+00:06:50,612 --> 00:06:53,647
+or about sixteen point eight pounds.
+
+164
+00:06:53,827 --> 00:06:56,501
+Our sources give no comparison car,
+
+165
+00:06:56,501 --> 00:06:58,564
+so we leave it as a number.
+
+166
+00:06:58,915 --> 00:07:00,540
+The performance numbers.
+
+167
+00:07:00,720 --> 00:07:03,658
+Wikipedia lists zero to sixty miles per
+
+168
+00:07:03,658 --> 00:07:06,219
+hour in seven point eight seconds,
+
+169
+00:07:06,219 --> 00:07:08,479
+and a top speed limited to one
+
+170
+00:07:08,479 --> 00:07:10,212
+hundred miles per hour,
+
+171
+00:07:10,212 --> 00:07:13,602
+which is one hundred sixty-one kilometres per
+
+172
+00:07:13,602 --> 00:07:13,979
+hour.
+
+173
+00:07:14,159 --> 00:07:16,899
+Its text elsewhere says zero to one
+
+174
+00:07:16,899 --> 00:07:20,265
+hundred kilometres per hour in six seconds,
+
+175
+00:07:20,265 --> 00:07:23,319
+while its table lists seven point nine.
+
+176
+00:07:23,499 --> 00:07:25,426
+The page contradicts itself.
+
+177
+00:07:25,776 --> 00:07:28,365
+Power figures also vary by outlet.
+
+178
+00:07:28,545 --> 00:07:32,051
+Wikipedia lists five hundred forty-three PS,
+
+179
+00:07:32,051 --> 00:07:35,558
+which is five hundred thirty-six horsepower,
+
+180
+00:07:35,558 --> 00:07:38,587
+and five hundred sixty-one pound-feet.
+
+181
+00:07:38,767 --> 00:07:41,587
+Road and Track says five hundred forty-four
+
+182
+00:07:41,587 --> 00:07:43,818
+horsepower and five hundred sixty.
+
+183
+00:07:43,998 --> 00:07:47,507
+CarAdvice gives four hundred five kilowatts and
+
+184
+00:07:47,507 --> 00:07:50,046
+seven hundred sixty newton-metres.
+
+185
+00:07:50,226 --> 00:07:52,815
+The differences are mostly unit rounding.
+
+186
+00:07:53,166 --> 00:07:54,768
+One number looks doubtful.
+
+187
+00:07:54,948 --> 00:07:59,038
+Wikipedia's G-Class page lists fuel consumption of
+
+188
+00:07:59,038 --> 00:08:02,883
+fifteen point six litres per hundred kilometres
+
+189
+00:08:02,883 --> 00:08:03,865
+for the 6x6,
+
+190
+00:08:03,865 --> 00:08:06,564
+but the cell is partly garbled in
+
+191
+00:08:06,564 --> 00:08:07,301
+our copy.
+
+192
+00:08:07,481 --> 00:08:08,764
+By our arithmetic,
+
+193
+00:08:08,764 --> 00:08:11,544
+that is about fifteen miles per gallon.
+
+194
+00:08:11,724 --> 00:08:15,547
+For a nine-thousand-pound truck with thirty-seven-inch tyres,
+
+195
+00:08:15,547 --> 00:08:17,302
+we do not trust it without a
+
+196
+00:08:17,302 --> 00:08:18,179
+better source.
+
+197
+00:08:18,530 --> 00:08:19,609
+How many were built?
+
+198
+00:08:19,789 --> 00:08:25,108
+Wikipedia's 6x6 page says production exceeded one
+
+199
+00:08:25,108 --> 00:08:26,953
+hundred vehicles.
+
+200
+00:08:27,133 --> 00:08:30,042
+Its G-Class page says slightly more than
+
+201
+00:08:30,042 --> 00:08:33,242
+one hundred, with the last customer delivery
+
+202
+00:08:33,242 --> 00:08:34,842
+in May twenty fifteen.
+
+203
+00:08:35,022 --> 00:08:37,228
+CarAdvice says roughly one hundred.
+
+204
+00:08:37,408 --> 00:08:39,695
+The Drive says around one hundred.
+
+205
+00:08:39,875 --> 00:08:42,661
+Road and Track says about one hundred.
+
+206
+00:08:42,841 --> 00:08:46,660
+MercedesBlog calls it a never-known-for-sure number of
+
+207
+00:08:46,660 --> 00:08:47,508
+one hundred.
+
+208
+00:08:47,859 --> 00:08:49,275
+When did it sell out?
+
+209
+00:08:49,455 --> 00:08:52,355
+CarAdvice, in April twenty fifteen,
+
+210
+00:08:52,355 --> 00:08:55,007
+says the limited run sold out in
+
+211
+00:08:55,007 --> 00:08:56,665
+about twelve months.
+
+212
+00:08:56,845 --> 00:09:00,026
+Wikipedia says Mercedes declared it sold out
+
+213
+00:09:00,026 --> 00:09:01,761
+in early twenty fifteen,
+
+214
+00:09:01,761 --> 00:09:04,075
+and that it sold more units than
+
+215
+00:09:04,075 --> 00:09:05,738
+originally anticipated.
+
+216
+00:09:05,918 --> 00:09:07,156
+By our arithmetic,
+
+217
+00:09:07,156 --> 00:09:09,563
+a twelve month sell-out from a fall
+
+218
+00:09:09,563 --> 00:09:12,452
+twenty thirteen sales start would be about
+
+219
+00:09:12,452 --> 00:09:14,033
+autumn twenty fourteen.
+
+220
+00:09:14,383 --> 00:09:17,332
+Two customer groups are named by Wikipedia.
+
+221
+00:09:17,512 --> 00:09:21,613
+In Malaysia, fifteen right-hand-drive units were bought
+
+222
+00:09:21,613 --> 00:09:22,657
+by Naza World,
+
+223
+00:09:22,657 --> 00:09:25,713
+priced at three point two million ringgit
+
+224
+00:09:25,713 --> 00:09:26,533
+before tax.
+
+225
+00:09:26,713 --> 00:09:27,890
+In South Africa,
+
+226
+00:09:27,890 --> 00:09:30,243
+a businessman ordered ten units,
+
+227
+00:09:30,243 --> 00:09:32,449
+converted to right-hand drive.
+
+228
+00:09:32,629 --> 00:09:35,596
+The Malaysian price cites an article about
+
+229
+00:09:35,596 --> 00:09:36,514
+a Brabus car,
+
+230
+00:09:36,514 --> 00:09:38,492
+so we treat it with caution.
+
+231
+00:09:38,841 --> 00:09:40,199
+By our arithmetic,
+
+232
+00:09:40,199 --> 00:09:43,065
+fifteen plus ten is twenty-five units,
+
+233
+00:09:43,065 --> 00:09:45,403
+which is roughly a quarter of a
+
+234
+00:09:45,403 --> 00:09:47,816
+production of about one hundred.
+
+235
+00:09:47,996 --> 00:09:50,929
+If the Wikipedia count is correct,
+
+236
+00:09:50,929 --> 00:09:54,293
+then those two orders alone account for
+
+237
+00:09:54,293 --> 00:09:57,226
+a large share of the world's 6x6s.
+
+238
+00:09:57,406 --> 00:09:59,785
+Our sources do not tell us where
+
+239
+00:09:59,785 --> 00:10:00,826
+the rest went,
+
+240
+00:10:00,826 --> 00:10:03,428
+except for single cars in Japan and
+
+241
+00:10:03,428 --> 00:10:04,767
+the United States.
+
+242
+00:10:05,117 --> 00:10:06,370
+What did it cost new?
+
+243
+00:10:06,550 --> 00:10:09,197
+Carscoops says a sticker price of three
+
+244
+00:10:09,197 --> 00:10:11,639
+hundred seventy-nine thousand euros,
+
+245
+00:10:11,639 --> 00:10:14,760
+the equivalent of five hundred eleven thousand
+
+246
+00:10:14,760 --> 00:10:16,999
+dollars in two thousand thirteen.
+
+247
+00:10:17,179 --> 00:10:21,413
+CarAdvice also says three hundred seventy-nine thousand
+
+248
+00:10:21,413 --> 00:10:24,878
+euros, and nearly five hundred fifty thousand
+
+249
+00:10:24,878 --> 00:10:25,724
+in dollars.
+
+250
+00:10:25,904 --> 00:10:28,615
+Gear Patrol, in March twenty thirteen,
+
+251
+00:10:28,615 --> 00:10:32,325
+said about five hundred twenty-six thousand dollars.
+
+252
+00:10:32,675 --> 00:10:34,069
+By our arithmetic,
+
+253
+00:10:34,069 --> 00:10:37,012
+the three dollar figures imply euro to
+
+254
+00:10:37,012 --> 00:10:39,878
+dollar rates of about one point three
+
+255
+00:10:39,878 --> 00:10:42,434
+five, one point four five and one
+
+256
+00:10:42,434 --> 00:10:43,750
+point three nine.
+
+257
+00:10:43,930 --> 00:10:46,863
+They differ because the outlets converted at
+
+258
+00:10:46,863 --> 00:10:48,597
+different dates and rates,
+
+259
+00:10:48,597 --> 00:10:51,330
+and CarAdvice's currency is not stated on
+
+260
+00:10:51,330 --> 00:10:51,930
+the page.
+
+261
+00:10:52,110 --> 00:10:54,836
+The only price we can state firmly
+
+262
+00:10:54,836 --> 00:10:56,118
+is the euro one,
+
+263
+00:10:56,118 --> 00:10:58,042
+repeated by two sources.
+
+264
+00:10:58,393 --> 00:10:59,739
+Used prices climbed.
+
+265
+00:10:59,919 --> 00:11:02,562
+The Drive reports a twenty fourteen car
+
+266
+00:11:02,562 --> 00:11:04,934
+sold for nine hundred one thousand,
+
+267
+00:11:04,934 --> 00:11:07,983
+three hundred thirty-seven dollars on Bring a
+
+268
+00:11:07,983 --> 00:11:10,287
+Trailer in November twenty twenty,
+
+269
+00:11:10,287 --> 00:11:12,253
+close to twice the new price,
+
+270
+00:11:12,253 --> 00:11:12,795
+it says.
+
+271
+00:11:12,975 --> 00:11:15,246
+Motor Authority, a week earlier,
+
+272
+00:11:15,246 --> 00:11:18,228
+reported a bid of five hundred sixty-seven
+
+273
+00:11:18,228 --> 00:11:21,778
+thousand, and said secondhand listings ranged from
+
+274
+00:11:21,778 --> 00:11:25,114
+nine hundred seventy-five thousand to one point
+
+275
+00:11:25,114 --> 00:11:25,966
+six million.
+
+276
+00:11:26,317 --> 00:11:29,672
+A Brabus-tuned example shows the market moving.
+
+277
+00:11:29,852 --> 00:11:32,886
+Carscoops, in December twenty twenty-one,
+
+278
+00:11:32,886 --> 00:11:35,623
+said a Brabus car with eight thousand
+
+279
+00:11:35,623 --> 00:11:37,695
+miles was set to sell for at
+
+280
+00:11:37,695 --> 00:11:40,359
+least one point one million dollars.
+
+281
+00:11:40,539 --> 00:11:43,236
+MercedesBlog, in May twenty twenty-two,
+
+282
+00:11:43,236 --> 00:11:45,241
+said it sold for one million,
+
+283
+00:11:45,241 --> 00:11:47,247
+one hundred seventy thousand,
+
+284
+00:11:47,247 --> 00:11:50,151
+which was one hundred eighty thousand less
+
+285
+00:11:50,151 --> 00:11:52,848
+than its previous price of one million,
+
+286
+00:11:52,848 --> 00:11:54,854
+three hundred fifty thousand.
+
+287
+00:11:55,203 --> 00:11:56,555
+By our arithmetic,
+
+288
+00:11:56,555 --> 00:11:58,508
+the drop from one million,
+
+289
+00:11:58,508 --> 00:12:01,137
+three hundred fifty to one million,
+
+290
+00:12:01,137 --> 00:12:04,367
+one hundred seventy is thirteen point three
+
+291
+00:12:04,367 --> 00:12:04,967
+percent.
+
+292
+00:12:05,147 --> 00:12:07,468
+And one point one seven million is
+
+293
+00:12:07,468 --> 00:12:09,926
+about two point three times the five
+
+294
+00:12:09,926 --> 00:12:12,520
+hundred eleven thousand dollar figure.
+
+295
+00:12:12,700 --> 00:12:14,046
+This is one car,
+
+296
+00:12:14,046 --> 00:12:16,990
+resold twice, which is not a market
+
+297
+00:12:16,990 --> 00:12:17,495
+index.
+
+298
+00:12:17,844 --> 00:12:21,025
+Inside, Gear Patrol says the 6x6 seats
+
+299
+00:12:21,025 --> 00:12:25,293
+four, with diamond-quilted leather seats and carbon
+
+300
+00:12:25,293 --> 00:12:28,139
+fibre trim, and bench seats in the
+
+301
+00:12:28,139 --> 00:12:29,060
+pickup bed.
+
+302
+00:12:29,240 --> 00:12:32,220
+The Drive describes a specific car with
+
+303
+00:12:32,220 --> 00:12:33,901
+Designo black leather,
+
+304
+00:12:33,901 --> 00:12:35,658
+red contrast stitching,
+
+305
+00:12:35,658 --> 00:12:39,097
+porcelain accents and an Alcantara headliner.
+
+306
+00:12:39,277 --> 00:12:41,723
+So the army truck's cabin is a
+
+307
+00:12:41,723 --> 00:12:42,620
+luxury one.
+
+308
+00:12:42,970 --> 00:12:46,039
+Gear Patrol is blunt about the idea,
+
+309
+00:12:46,039 --> 00:12:49,022
+writing that the 6x6 is clearly the
+
+310
+00:12:49,022 --> 00:12:52,943
+biggest kind of compensation for shortcomings.
+
+311
+00:12:53,123 --> 00:12:55,352
+That is a joke from a magazine,
+
+312
+00:12:55,352 --> 00:12:56,142
+not a fact,
+
+313
+00:12:56,142 --> 00:12:58,011
+and we mark it as opinion.
+
+314
+00:12:58,191 --> 00:13:00,477
+The same piece says it has enough
+
+315
+00:13:00,477 --> 00:13:02,762
+torque to warp the earth's crust,
+
+316
+00:13:02,762 --> 00:13:04,217
+which is also a joke.
+
+317
+00:13:04,397 --> 00:13:07,737
+The measured torque is five hundred sixty-one
+
+318
+00:13:07,737 --> 00:13:08,553
+pound-feet.
+
+319
+00:13:08,903 --> 00:13:11,156
+Brabus took the same truck further.
+
+320
+00:13:11,336 --> 00:13:15,648
+Carscoops describes a B63S-700 package with larger
+
+321
+00:13:15,648 --> 00:13:18,322
+turbocharger compressor wheels,
+
+322
+00:13:18,322 --> 00:13:22,634
+larger exhaust manifolds and an extra water-cooled
+
+323
+00:13:22,634 --> 00:13:27,291
+intercooler, giving seven hundred horsepower and seven
+
+324
+00:13:27,291 --> 00:13:29,447
+hundred eight pound-feet.
+
+325
+00:13:29,627 --> 00:13:30,922
+By our arithmetic,
+
+326
+00:13:30,922 --> 00:13:33,582
+that is thirty point six percent more
+
+327
+00:13:33,582 --> 00:13:36,818
+power and twenty-six percent more torque than
+
+328
+00:13:36,818 --> 00:13:39,981
+the five hundred thirty-six and five hundred
+
+329
+00:13:39,981 --> 00:13:42,282
+sixty-one of the standard truck.
+
+330
+00:13:42,632 --> 00:13:46,146
+Carscoops also lists Brembo brakes at all
+
+331
+00:13:46,146 --> 00:13:49,317
+six wheels, Ohlins gas bypass shocks,
+
+332
+00:13:49,317 --> 00:13:53,088
+stiffer springs and heavy-duty bump stops on
+
+333
+00:13:53,088 --> 00:13:53,859
+that car.
+
+334
+00:13:54,039 --> 00:13:56,391
+Our sources do not say what the
+
+335
+00:13:56,391 --> 00:13:57,908
+Brabus package cost,
+
+336
+00:13:57,908 --> 00:14:00,108
+how many cars were converted,
+
+337
+00:14:00,108 --> 00:14:02,308
+or how its zero to sixty time
+
+338
+00:14:02,308 --> 00:14:02,991
+compares.
+
+339
+00:14:03,171 --> 00:14:04,911
+The only figure for it is the
+
+340
+00:14:04,911 --> 00:14:06,352
+sale price we mentioned.
+
+341
+00:14:06,701 --> 00:14:08,838
+A note on the gearbox.
+
+342
+00:14:09,018 --> 00:14:13,139
+Wikipedia lists a seven-speed 7G-tronic automatic,
+
+343
+00:14:13,139 --> 00:14:16,849
+and Gear Patrol mentions a low-range transfer
+
+344
+00:14:16,849 --> 00:14:17,261
+case.
+
+345
+00:14:17,441 --> 00:14:18,742
+By our arithmetic,
+
+346
+00:14:18,742 --> 00:14:20,765
+a low range of two point one
+
+347
+00:14:20,765 --> 00:14:23,078
+six against a high range of zero
+
+348
+00:14:23,078 --> 00:14:26,186
+point eight seven multiplies the gearing by
+
+349
+00:14:26,186 --> 00:14:27,704
+about two point five.
+
+350
+00:14:27,884 --> 00:14:30,127
+That is how a road engine crawls
+
+351
+00:14:30,127 --> 00:14:33,282
+over rocks, though Mercedes has not published
+
+352
+00:14:33,282 --> 00:14:35,314
+a crawl speed in our sources.
+
+353
+00:14:35,664 --> 00:14:38,391
+Let us check the claim that used
+
+354
+00:14:38,391 --> 00:14:41,117
+6x6s sold for close to twice the
+
+355
+00:14:41,117 --> 00:14:41,969
+new price.
+
+356
+00:14:42,149 --> 00:14:44,658
+The Drive's sale was nine hundred one
+
+357
+00:14:44,658 --> 00:14:47,710
+thousand, three hundred thirty-seven dollars.
+
+358
+00:14:47,890 --> 00:14:51,572
+Against the five hundred eleven thousand dollar
+
+359
+00:14:51,572 --> 00:14:53,922
+equivalent, by our arithmetic,
+
+360
+00:14:53,922 --> 00:14:56,586
+that is one point seven six times.
+
+361
+00:14:56,766 --> 00:15:00,778
+Against Gear Patrol's five hundred twenty-six thousand
+
+362
+00:15:00,778 --> 00:15:02,710
+it is one point seven one.
+
+363
+00:15:02,890 --> 00:15:05,247
+So nearly twice is generous.
+
+364
+00:15:05,596 --> 00:15:09,024
+Motor Authority's bid of five hundred sixty-seven
+
+365
+00:15:09,024 --> 00:15:10,494
+thousand dollars was,
+
+366
+00:15:10,494 --> 00:15:11,753
+by our arithmetic,
+
+367
+00:15:11,753 --> 00:15:14,831
+eleven percent above the five hundred eleven
+
+368
+00:15:14,831 --> 00:15:16,440
+thousand dollar figure.
+
+369
+00:15:16,620 --> 00:15:18,056
+Its listings range,
+
+370
+00:15:18,056 --> 00:15:21,531
+from nine hundred seventy-five thousand to one
+
+371
+00:15:21,531 --> 00:15:22,891
+point six million,
+
+372
+00:15:22,891 --> 00:15:25,308
+is one point nine to three point
+
+373
+00:15:25,308 --> 00:15:27,348
+one times that same number.
+
+374
+00:15:27,528 --> 00:15:30,554
+Asking prices and sale prices are different
+
+375
+00:15:30,554 --> 00:15:33,159
+things, and these were asking prices.
+
+376
+00:15:33,508 --> 00:15:36,057
+The Brabus car's mileage is the other
+
+377
+00:15:36,057 --> 00:15:36,539
+signal.
+
+378
+00:15:36,719 --> 00:15:39,966
+MercedesBlog says it covered eight thousand miles
+
+379
+00:15:39,966 --> 00:15:40,959
+in eight years,
+
+380
+00:15:40,959 --> 00:15:43,080
+and that its new owner may drive
+
+381
+00:15:43,080 --> 00:15:44,869
+twenty-five hundred a year.
+
+382
+00:15:45,049 --> 00:15:46,339
+By our arithmetic,
+
+383
+00:15:46,339 --> 00:15:49,133
+eight thousand over eight is a thousand
+
+384
+00:15:49,133 --> 00:15:50,064
+miles a year.
+
+385
+00:15:50,244 --> 00:15:52,745
+That is the opposite of the Japanese
+
+386
+00:15:52,745 --> 00:15:55,939
+car, which The Drive estimates averaged nearly
+
+387
+00:15:55,939 --> 00:15:57,884
+nine thousand, five hundred.
+
+388
+00:15:58,233 --> 00:16:00,881
+The Drive gives one memorable measure.
+
+389
+00:16:01,061 --> 00:16:03,689
+It says the Japanese car's drive from
+
+390
+00:16:03,689 --> 00:16:05,252
+Soya Bay to Cape Sata,
+
+391
+00:16:05,252 --> 00:16:08,449
+seventeen hundred miles in thirty-nine hours,
+
+392
+00:16:08,449 --> 00:16:10,793
+is a distance it could cover more
+
+393
+00:16:10,793 --> 00:16:12,427
+than five times a year.
+
+394
+00:16:12,607 --> 00:16:13,973
+By our arithmetic,
+
+395
+00:16:13,973 --> 00:16:17,539
+seventeen hundred miles in thirty-nine hours is
+
+396
+00:16:17,539 --> 00:16:20,575
+an average of about forty-four miles per
+
+397
+00:16:20,575 --> 00:16:20,954
+hour.
+
+398
+00:16:21,134 --> 00:16:23,305
+We cannot verify the trip itself.
+
+399
+00:16:23,655 --> 00:16:25,142
+One more timing puzzle.
+
+400
+00:16:25,322 --> 00:16:27,969
+Gear Patrol said the sale would start
+
+401
+00:16:27,969 --> 00:16:29,687
+in fall twenty thirteen.
+
+402
+00:16:29,867 --> 00:16:32,118
+CarAdvice says the run sold out in
+
+403
+00:16:32,118 --> 00:16:33,443
+about twelve months.
+
+404
+00:16:33,623 --> 00:16:36,734
+Wikipedia says sold out in early twenty
+
+405
+00:16:36,734 --> 00:16:37,373
+fifteen.
+
+406
+00:16:37,553 --> 00:16:38,904
+By our arithmetic,
+
+407
+00:16:38,904 --> 00:16:42,208
+fall twenty thirteen to early twenty fifteen
+
+408
+00:16:42,208 --> 00:16:44,912
+is about fifteen to eighteen months,
+
+409
+00:16:44,912 --> 00:16:45,738
+not twelve.
+
+410
+00:16:45,918 --> 00:16:48,445
+The sources may be counting from different
+
+411
+00:16:48,445 --> 00:16:48,867
+starts.
+
+412
+00:16:49,216 --> 00:16:52,409
+Some proportions, from Wikipedia's numbers.
+
+413
+00:16:52,589 --> 00:16:56,388
+Ground clearance of four hundred sixty millimetres
+
+414
+00:16:56,388 --> 00:16:59,351
+against a tyre diameter of nine hundred
+
+415
+00:16:59,351 --> 00:17:01,479
+forty is, by our arithmetic,
+
+416
+00:17:01,479 --> 00:17:02,922
+forty-nine percent.
+
+417
+00:17:03,102 --> 00:17:05,819
+The wading depth of a thousand millimetres
+
+418
+00:17:05,819 --> 00:17:07,889
+is about two point two times the
+
+419
+00:17:07,889 --> 00:17:08,988
+ground clearance.
+
+420
+00:17:09,168 --> 00:17:11,555
+And the truck is taller than it
+
+421
+00:17:11,555 --> 00:17:13,941
+is wide, by about five percent,
+
+422
+00:17:13,941 --> 00:17:16,866
+twenty-two ten against twenty-one ten.
+
+423
+00:17:17,215 --> 00:17:19,468
+The production window was short.
+
+424
+00:17:19,648 --> 00:17:21,875
+Gear Patrol wrote about it on the
+
+425
+00:17:21,875 --> 00:17:23,967
+first of March twenty thirteen.
+
+426
+00:17:24,147 --> 00:17:27,076
+The last customer delivery left Graz in
+
+427
+00:17:27,076 --> 00:17:28,503
+May twenty fifteen,
+
+428
+00:17:28,503 --> 00:17:30,230
+according to Wikipedia.
+
+429
+00:17:30,410 --> 00:17:31,681
+By our arithmetic,
+
+430
+00:17:31,681 --> 00:17:34,506
+that is about twenty-six months from the
+
+431
+00:17:34,506 --> 00:17:36,977
+first article to the last delivery,
+
+432
+00:17:36,977 --> 00:17:39,378
+for a vehicle that appeared in two
+
+433
+00:17:39,378 --> 00:17:40,720
+films in that time.
+
+434
+00:17:41,069 --> 00:17:43,554
+A simple check on the price ranking.
+
+435
+00:17:43,734 --> 00:17:47,333
+Wikipedia calls the 6x6 the second most
+
+436
+00:17:47,333 --> 00:17:51,208
+expensive street-legal Mercedes at launch,
+
+437
+00:17:51,208 --> 00:17:54,346
+behind the SLS AMG Electric Drive.
+
+438
+00:17:54,526 --> 00:17:56,651
+It does not give that car's price,
+
+439
+00:17:56,651 --> 00:17:58,902
+and our other sources do not either.
+
+440
+00:17:59,082 --> 00:18:01,025
+So the ranking is a claim we
+
+441
+00:18:01,025 --> 00:18:03,730
+repeat, but cannot verify with a number
+
+442
+00:18:03,730 --> 00:18:04,493
+of our own.
+
+443
+00:18:04,842 --> 00:18:06,979
+Finally, a point about naming.
+
+444
+00:18:07,159 --> 00:18:11,732
+Wikipedia titles its page Mercedes-AMG G 63
+
+445
+00:18:11,732 --> 00:18:16,306
+6x6, but its infobox lists Mercedes-Benz as
+
+446
+00:18:16,306 --> 00:18:17,689
+manufacturer.
+
+447
+00:18:17,869 --> 00:18:23,126
+Sources call it G 63 AMG 6x6,
+
+448
+00:18:23,126 --> 00:18:28,202
+G63 AMG 6x6 and 6x6 G-Wagen.
+
+449
+00:18:28,382 --> 00:18:29,508
+We use the first.
+
+450
+00:18:29,688 --> 00:18:32,088
+That is not a trivial point for
+
+451
+00:18:32,088 --> 00:18:35,650
+anyone searching for parts or auction results,
+
+452
+00:18:35,650 --> 00:18:38,593
+since listings use all of these forms.
+
+453
+00:18:38,942 --> 00:18:40,080
+Secret two.
+
+454
+00:18:40,260 --> 00:18:42,211
+The hardware was reused.
+
+455
+00:18:42,391 --> 00:18:46,036
+Wikipedia says the Mercedes G 500 4x4
+
+456
+00:18:46,036 --> 00:18:50,272
+squared used the body of the long-wheelbase
+
+457
+00:18:50,272 --> 00:18:54,509
+five-door wagon on a shortened chassis from
+
+458
+00:18:54,509 --> 00:18:56,183
+the G 63 AMG 6x6.
+
+459
+00:18:56,363 --> 00:18:59,632
+Road and Track says some hardware,
+
+460
+00:18:59,632 --> 00:19:02,227
+including the portal axles,
+
+461
+00:19:02,227 --> 00:19:04,823
+was later used on the G 550
+
+462
+00:19:04,823 --> 00:19:05,976
+4x4 squared.
+
+463
+00:19:06,156 --> 00:19:09,539
+So the 6x6 acted as a testbed
+
+464
+00:19:09,539 --> 00:19:11,288
+for later cars.
+
+465
+00:19:11,638 --> 00:19:14,121
+The G 500 four by four squared
+
+466
+00:19:14,121 --> 00:19:17,680
+used a four-litre twin-turbo V8 making four
+
+467
+00:19:17,680 --> 00:19:19,916
+hundred sixteen horsepower,
+
+468
+00:19:19,916 --> 00:19:21,819
+according to Wikipedia.
+
+469
+00:19:21,999 --> 00:19:24,522
+Its table lists zero to one hundred
+
+470
+00:19:24,522 --> 00:19:27,332
+kilometres per hour in seven point four
+
+471
+00:19:27,332 --> 00:19:27,909
+seconds.
+
+472
+00:19:28,089 --> 00:19:29,643
+By our arithmetic,
+
+473
+00:19:29,643 --> 00:19:33,354
+that is one hundred twenty horsepower fewer
+
+474
+00:19:33,354 --> 00:19:34,476
+than the 6x6,
+
+475
+00:19:34,476 --> 00:19:36,807
+or twenty-two percent less,
+
+476
+00:19:36,807 --> 00:19:38,619
+in a smaller package.
+
+477
+00:19:38,970 --> 00:19:43,680
+The Mercedes-Maybach G 650 Landaulet took the
+
+478
+00:19:43,680 --> 00:19:45,251
+idea to luxury.
+
+479
+00:19:45,431 --> 00:19:48,540
+Wikipedia says it was shown at Geneva
+
+480
+00:19:48,540 --> 00:19:50,725
+in March twenty seventeen,
+
+481
+00:19:50,725 --> 00:19:54,339
+uses the extended chassis with portal axles
+
+482
+00:19:54,339 --> 00:19:57,364
+and raised suspension from the G 500
+
+483
+00:19:57,364 --> 00:20:00,221
+4x4 squared, has a V twelve making
+
+484
+00:20:00,221 --> 00:20:03,079
+six hundred twenty-one horsepower,
+
+485
+00:20:03,079 --> 00:20:06,356
+cost seven hundred forty-nine thousand,
+
+486
+00:20:06,356 --> 00:20:08,037
+seven hundred euros,
+
+487
+00:20:08,037 --> 00:20:11,147
+and was limited to ninety-nine units.
+
+488
+00:20:11,497 --> 00:20:13,018
+By our arithmetic,
+
+489
+00:20:13,018 --> 00:20:16,146
+the Maybach's price is one point nine
+
+490
+00:20:16,146 --> 00:20:19,528
+eight times the 6x6's euro launch price,
+
+491
+00:20:19,528 --> 00:20:22,994
+though they are different cars sold years
+
+492
+00:20:22,994 --> 00:20:23,501
+apart.
+
+493
+00:20:23,681 --> 00:20:25,817
+The pattern is what matters here.
+
+494
+00:20:25,997 --> 00:20:30,015
+Hardware from a military-derived six-wheeler reached a
+
+495
+00:20:30,015 --> 00:20:31,280
+luxury landaulet.
+
+496
+00:20:31,460 --> 00:20:33,954
+Whether that was planned from the start
+
+497
+00:20:33,954 --> 00:20:35,361
+is not in our sources.
+
+498
+00:20:35,711 --> 00:20:39,044
+The shortened chassis also tells us the
+
+499
+00:20:39,044 --> 00:20:41,608
+6x6's frame was not a one-off.
+
+500
+00:20:41,788 --> 00:20:44,674
+Wikipedia says the G 500 4x4 squared
+
+501
+00:20:44,674 --> 00:20:47,640
+came with raised portal axles and the
+
+502
+00:20:47,640 --> 00:20:50,206
+suspension used for the Maybach.
+
+503
+00:20:50,386 --> 00:20:52,411
+We do not know how many parts
+
+504
+00:20:52,411 --> 00:20:53,878
+are shared in detail,
+
+505
+00:20:53,878 --> 00:20:56,951
+only that Mercedes itself described the link
+
+506
+00:20:56,951 --> 00:20:59,186
+in the way Wikipedia reports it.
+
+507
+00:20:59,536 --> 00:21:03,077
+The 6x6 became a film star.
+
+508
+00:21:03,257 --> 00:21:06,900
+Wikipedia lists appearances in Beyond the Reach,
+
+509
+00:21:06,900 --> 00:21:08,343
+in twenty fourteen,
+
+510
+00:21:08,343 --> 00:21:09,785
+and Jurassic World,
+
+511
+00:21:09,785 --> 00:21:11,151
+in twenty fifteen.
+
+512
+00:21:11,331 --> 00:21:14,847
+CarAdvice also mentions the thriller Beyond the
+
+513
+00:21:14,847 --> 00:21:17,241
+Reach, starring Michael Douglas.
+
+514
+00:21:17,421 --> 00:21:19,993
+A film appearance is not evidence of
+
+515
+00:21:19,993 --> 00:21:22,494
+sales, and our sources do not claim
+
+516
+00:21:22,494 --> 00:21:23,423
+it drove any.
+
+517
+00:21:23,774 --> 00:21:25,319
+In the United States,
+
+518
+00:21:25,319 --> 00:21:27,454
+the truck was never sold new.
+
+519
+00:21:27,634 --> 00:21:29,860
+The Drive says a car came in
+
+520
+00:21:29,860 --> 00:21:32,563
+from Japan and was made road legal
+
+521
+00:21:32,563 --> 00:21:35,346
+by G and K Automotive Conversion in
+
+522
+00:21:35,346 --> 00:21:38,128
+Santa Ana under the Show or Display
+
+523
+00:21:38,128 --> 00:21:38,605
+rules.
+
+524
+00:21:38,785 --> 00:21:42,838
+Carscoops and MercedesBlog also say Show or
+
+525
+00:21:42,838 --> 00:21:43,592
+Display.
+
+526
+00:21:43,772 --> 00:21:47,114
+Motor Authority says that exemption allows up
+
+527
+00:21:47,114 --> 00:21:49,937
+to twenty-five hundred miles per year.
+
+528
+00:21:50,287 --> 00:21:53,966
+MercedesBlog adds that an NHTSA inspection is
+
+529
+00:21:53,966 --> 00:21:57,483
+required until the car is twenty-five years
+
+530
+00:21:57,483 --> 00:21:57,810
+old.
+
+531
+00:21:57,990 --> 00:21:59,254
+By our arithmetic,
+
+532
+00:21:59,254 --> 00:22:02,344
+a twenty fourteen car reaches twenty-five in
+
+533
+00:22:02,344 --> 00:22:03,679
+twenty thirty-nine.
+
+534
+00:22:03,859 --> 00:22:06,778
+At twenty-five hundred miles a year for
+
+535
+00:22:06,778 --> 00:22:10,222
+twenty-five years, that is sixty-two thousand,
+
+536
+00:22:10,222 --> 00:22:12,243
+five hundred miles at most,
+
+537
+00:22:12,243 --> 00:22:14,714
+a ceiling that most owners do not
+
+538
+00:22:14,714 --> 00:22:15,387
+approach.
+
+539
+00:22:15,738 --> 00:22:17,826
+The Drive notes that its car had
+
+540
+00:22:17,826 --> 00:22:20,111
+covered about forty-eight thousand,
+
+541
+00:22:20,111 --> 00:22:21,808
+nine hundred ninety miles,
+
+542
+00:22:21,808 --> 00:22:24,550
+only around twenty-five hundred of them in
+
+543
+00:22:24,550 --> 00:22:25,072
+America.
+
+544
+00:22:25,252 --> 00:22:28,054
+The headline says forty-seven thousand,
+
+545
+00:22:28,054 --> 00:22:30,569
+which conflicts with the body text.
+
+546
+00:22:30,749 --> 00:22:34,017
+The Drive estimates the earlier Japanese owner
+
+547
+00:22:34,017 --> 00:22:36,147
+averaged nearly nine thousand,
+
+548
+00:22:36,147 --> 00:22:37,994
+five hundred miles a year.
+
+549
+00:22:38,174 --> 00:22:40,489
+So a 6x6 can be driven a
+
+550
+00:22:40,489 --> 00:22:43,480
+lot, outside the United States.
+
+551
+00:22:43,830 --> 00:22:44,851
+What is missing.
+
+552
+00:22:45,031 --> 00:22:47,005
+An exact build count.
+
+553
+00:22:47,185 --> 00:22:48,950
+A reliable fuel figure.
+
+554
+00:22:49,130 --> 00:22:53,173
+A Mercedes statement on why the 6x6
+
+555
+00:22:53,173 --> 00:22:53,867
+ended.
+
+556
+00:22:54,047 --> 00:22:56,914
+CarAdvice says no reason was given.
+
+557
+00:22:57,094 --> 00:22:59,761
+We have no named customers beyond the
+
+558
+00:22:59,761 --> 00:23:01,202
+two Wikipedia lists,
+
+559
+00:23:01,202 --> 00:23:03,004
+and no maintenance bills.
+
+560
+00:23:03,184 --> 00:23:05,851
+Everything here describes the car as it
+
+561
+00:23:05,851 --> 00:23:07,972
+was reported, and none of it is
+
+562
+00:23:07,972 --> 00:23:08,861
+a test by us.
+
+563
+00:23:09,211 --> 00:23:11,243
+If you have owned or driven one,
+
+564
+00:23:11,243 --> 00:23:13,085
+tell us what we missed in the
+
+565
+00:23:13,085 --> 00:23:13,657
+comments.
+
+566
+00:23:13,837 --> 00:23:16,525
+In the other videos of this series
+
+567
+00:23:16,525 --> 00:23:20,083
+we compare it with the Hennessey VelociRaptor
+
+568
+00:23:20,083 --> 00:23:23,088
+6x6, ask what a six-wheel truck really
+
+569
+00:23:23,088 --> 00:23:25,618
+costs, and tell the story of how
+
+570
+00:23:25,618 --> 00:23:26,330
+it began.
+
+571
+00:23:26,510 --> 00:23:29,439
+Our twenty twenty-seven Truck Buyer's Guide is
+
+572
+00:23:29,439 --> 00:23:31,095
+linked in the description.
+
+573
+00:23:31,275 --> 00:23:33,772
+Subscribe to Pickup Reality.
