@@ -1,0 +1,11 @@
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- CNBC, This is how much a $1.7 million Bugatti hypercar's oil change costs: https://www.cnbc.com/2018/09/18/a-bugatti-hypercars-oil-change-costs-as-much-as-buying-another-car.html
+- Motor1, Bugatti Veyron: how much does an oil change cost?: https://www.motor1.com/news/775457/bugatti-30k-oil-change/
+- Motorious, Bugatti owner breaks down the eye-watering reality of Veyron Grand Sport costs: https://www.motorious.com/articles/news/bugatti-owner-breaks-down/
+- Motorious, Record-setting $2.2M Bugatti Veyron sets the pace at Broad Arrow's inaugural Las Vegas auction: https://www.motorious.com/articles/news/record-setting-2-2m-bugatti-veyron-sets-the-pace-at-broad-arrows-inaugural-las-vegas-auction
+- autoevolution, Record-setting Bugatti Veyron Wimille hammers for $5.4 million at auction: https://www.autoevolution.com/news/record-setting-bugatti-veyron-wimille-hammers-for-54-million-at-auction-276348.html
+- Fox News, Wrecked Bugatti Veyron sells at auction for $277K: https://www.foxnews.com/auto/wrecked-bugatti-veyron-sells-at-auction-for-277g.amp
+- Car magazine, Popping my Bugatti Veyron cherry: https://carmagazine.co.uk/features/car-culture/popping-my-bugatti-veyron-cherry-this-is-what-it-feels-like-to-drive-254mph-hypercar
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1: https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
