@@ -1,0 +1,9 @@
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Wikipedia, Nissan S30: https://en.wikipedia.org/wiki/Nissan_S30
+- Wikipedia, Nissan Z: https://en.wikipedia.org/wiki/Nissan_Z
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Hagerty Media, Toyota-Shelby 2000GT sale record, 7 Mar 2022
+- Sports Car Market, Toyota 2000GT profile and auction history
+- Shannons Club, Datsun Z cars: Japan's GT redefines the breed: https://club.shannons.com.au/club/news/datsun-z-cars-japans-gt-redefines-the-breed
+- Hagerty Media, Datsun 240Z / Nissan Z history
+- Luxury Entertainment Partners, 1967 Toyota 2000GT listing
