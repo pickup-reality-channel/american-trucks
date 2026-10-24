@@ -1,0 +1,2215 @@
+1
+00:00:00,000 --> 00:00:01,062
+In twenty ten,
+
+2
+00:00:01,062 --> 00:00:04,403
+Ferrari's chairman stood at the Geneva Motor
+
+3
+00:00:04,403 --> 00:00:06,833
+Show next to a green Ferrari and
+
+4
+00:00:06,833 --> 00:00:09,870
+promised that hybrid versions of all its
+
+5
+00:00:09,870 --> 00:00:12,907
+models would arrive within three or four
+
+6
+00:00:12,907 --> 00:00:13,363
+years.
+
+7
+00:00:13,543 --> 00:00:14,738
+It did not happen.
+
+8
+00:00:14,918 --> 00:00:16,746
+It took almost a decade,
+
+9
+00:00:16,746 --> 00:00:19,641
+a hypercar, the death of the company's
+
+10
+00:00:19,641 --> 00:00:21,088
+most powerful boss,
+
+11
+00:00:21,088 --> 00:00:23,525
+and a new chief executive from a
+
+12
+00:00:23,525 --> 00:00:27,181
+tobacco company before Ferrari finally built its
+
+13
+00:00:27,181 --> 00:00:28,781
+first plug-in hybrid.
+
+14
+00:00:29,131 --> 00:00:31,859
+That car was the SF90 Stradale.
+
+15
+00:00:32,039 --> 00:00:34,356
+Almost one thousand horsepower,
+
+16
+00:00:34,356 --> 00:00:36,000
+three electric motors,
+
+17
+00:00:36,000 --> 00:00:38,318
+and a battery you plug into the
+
+18
+00:00:38,318 --> 00:00:38,691
+wall.
+
+19
+00:00:38,871 --> 00:00:41,849
+Today, about half of the cars Ferrari
+
+20
+00:00:41,849 --> 00:00:43,539
+delivers are hybrids.
+
+21
+00:00:43,719 --> 00:00:46,284
+But the road from that green concept
+
+22
+00:00:46,284 --> 00:00:48,707
+to the SF90 was much stranger than
+
+23
+00:00:48,707 --> 00:00:49,918
+most people know.
+
+24
+00:00:50,269 --> 00:00:52,058
+This is the story of how the
+
+25
+00:00:52,058 --> 00:00:54,615
+most traditional sports car brand in the
+
+26
+00:00:54,615 --> 00:00:56,213
+world learned to plug in.
+
+27
+00:00:56,393 --> 00:00:58,559
+Every date and number comes from a
+
+28
+00:00:58,559 --> 00:01:00,853
+published source, and the list is in
+
+29
+00:01:00,853 --> 00:01:01,873
+the description.
+
+30
+00:01:02,223 --> 00:01:04,045
+And here is the first twist.
+
+31
+00:01:04,225 --> 00:01:07,323
+The technology that started this story did
+
+32
+00:01:07,323 --> 00:01:10,495
+not come from Ferrari's road car engineers.
+
+33
+00:01:10,675 --> 00:01:12,454
+It came from Formula One,
+
+34
+00:01:12,454 --> 00:01:14,804
+from a rule change that many fans
+
+35
+00:01:14,804 --> 00:01:16,085
+did not even like.
+
+36
+00:01:16,435 --> 00:01:18,240
+In two thousand nine,
+
+37
+00:01:18,240 --> 00:01:21,164
+Formula One allowed teams to use K
+
+38
+00:01:21,164 --> 00:01:21,680
+E R S,
+
+39
+00:01:21,680 --> 00:01:24,689
+the kinetic energy recovery system.
+
+40
+00:01:24,869 --> 00:01:27,573
+Under braking, a motor captured some of
+
+41
+00:01:27,573 --> 00:01:29,722
+the car's energy and stored it.
+
+42
+00:01:29,902 --> 00:01:32,561
+Then the driver could press a button
+
+43
+00:01:32,561 --> 00:01:34,999
+for a short burst of extra power.
+
+44
+00:01:35,179 --> 00:01:37,734
+Driven, a New Zealand outlet,
+
+45
+00:01:37,734 --> 00:01:42,227
+describes the LaFerrari's hybrid system as inspired
+
+46
+00:01:42,227 --> 00:01:44,165
+by that F1 technology.
+
+47
+00:01:44,515 --> 00:01:46,711
+For Ferrari, this was more than a
+
+48
+00:01:46,711 --> 00:01:47,510
+racing rule.
+
+49
+00:01:47,690 --> 00:01:50,391
+It forced its engineers to learn how
+
+50
+00:01:50,391 --> 00:01:51,966
+to package batteries,
+
+51
+00:01:51,966 --> 00:01:55,492
+electric motors, and control electronics into a
+
+52
+00:01:55,492 --> 00:01:58,868
+car where every kilogram and every centimeter
+
+53
+00:01:58,868 --> 00:01:59,393
+matter.
+
+54
+00:01:59,573 --> 00:02:01,552
+That knowledge would soon move from the
+
+55
+00:02:01,552 --> 00:02:02,719
+race track to the road.
+
+56
+00:02:03,069 --> 00:02:04,578
+And it worked on track.
+
+57
+00:02:04,758 --> 00:02:05,985
+In twenty nine,
+
+58
+00:02:05,985 --> 00:02:09,339
+Kimi Raikkonen won the Belgian Grand Prix
+
+59
+00:02:09,339 --> 00:02:10,893
+at Spa for Ferrari,
+
+60
+00:02:10,893 --> 00:02:12,529
+in a car using K E R
+
+61
+00:02:12,529 --> 00:02:15,393
+S, the team's only win that season.
+
+62
+00:02:15,573 --> 00:02:18,042
+The system was not used in twenty
+
+63
+00:02:18,042 --> 00:02:20,661
+ten, after teams agreed to drop it,
+
+64
+00:02:20,661 --> 00:02:23,131
+and it returned in twenty eleven.
+
+65
+00:02:23,311 --> 00:02:25,505
+But the lesson stayed in Maranello.
+
+66
+00:02:25,855 --> 00:02:27,530
+From twenty fourteen,
+
+67
+00:02:27,530 --> 00:02:29,524
+Formula One went further,
+
+68
+00:02:29,524 --> 00:02:32,715
+with turbocharged one point six liter V6
+
+69
+00:02:32,715 --> 00:02:36,385
+engines combined with powerful hybrid systems.
+
+70
+00:02:36,565 --> 00:02:39,020
+Every Ferrari race car from then on
+
+71
+00:02:39,020 --> 00:02:39,932
+was a hybrid.
+
+72
+00:02:40,112 --> 00:02:42,664
+So by the time Ferrari's road cars
+
+73
+00:02:42,664 --> 00:02:45,816
+went hybrid, its racing engineers had been
+
+74
+00:02:45,816 --> 00:02:49,193
+living with batteries and electric motors for
+
+75
+00:02:49,193 --> 00:02:49,643
+years.
+
+76
+00:02:49,994 --> 00:02:51,640
+And it came at a time when
+
+77
+00:02:51,640 --> 00:02:54,045
+the pressure on carmakers was growing.
+
+78
+00:02:54,225 --> 00:02:57,173
+Emission rules were becoming stricter,
+
+79
+00:02:57,173 --> 00:03:00,198
+and governments were asking even small,
+
+80
+00:03:00,198 --> 00:03:02,991
+luxury brands to cut carbon dioxide.
+
+81
+00:03:03,171 --> 00:03:05,519
+A Ferrari with a big V12 was
+
+82
+00:03:05,519 --> 00:03:08,790
+exactly the kind of car regulators were
+
+83
+00:03:08,790 --> 00:03:09,545
+watching.
+
+84
+00:03:09,895 --> 00:03:12,390
+So at the Geneva Motor Show in
+
+85
+00:03:12,390 --> 00:03:13,804
+March twenty ten,
+
+86
+00:03:13,804 --> 00:03:15,967
+Ferrari showed a test car.
+
+87
+00:03:16,147 --> 00:03:18,588
+It was a five ninety-nine G T
+
+88
+00:03:18,588 --> 00:03:22,462
+B Fiorano, the front-engined V12 grand tourer,
+
+89
+00:03:22,462 --> 00:03:24,819
+fitted with a hybrid system.
+
+90
+00:03:24,999 --> 00:03:28,248
+Ferrari called it the five ninety-nine HY
+
+91
+00:03:28,248 --> 00:03:30,863
+dash KERS, a Vettura Laboratorio,
+
+92
+00:03:30,863 --> 00:03:33,161
+which means a laboratory car.
+
+93
+00:03:33,511 --> 00:03:36,796
+CAR Magazine reported the details.
+
+94
+00:03:36,976 --> 00:03:40,032
+Flat lithium-ion batteries sat under the floor,
+
+95
+00:03:40,032 --> 00:03:41,527
+keeping the weight low.
+
+96
+00:03:41,707 --> 00:03:44,929
+An electric motor of about forty kilograms,
+
+97
+00:03:44,929 --> 00:03:48,150
+producing more than one hundred horsepower,
+
+98
+00:03:48,150 --> 00:03:50,398
+was mounted on the back of the
+
+99
+00:03:50,398 --> 00:03:52,795
+seven-speed dual-clutch gearbox.
+
+100
+00:03:52,975 --> 00:03:56,296
+Ferrari's target was one extra horsepower for
+
+101
+00:03:56,296 --> 00:03:59,175
+every kilogram the hybrid system added.
+
+102
+00:03:59,525 --> 00:04:03,243
+Motor Authority reported that Ferrari claimed the
+
+103
+00:04:03,243 --> 00:04:06,582
+system could cut carbon dioxide emissions by
+
+104
+00:04:06,582 --> 00:04:09,389
+as much as thirty-five percent on the
+
+105
+00:04:09,389 --> 00:04:11,211
+European combined cycle,
+
+106
+00:04:11,211 --> 00:04:14,246
+compared with a normal five ninety-nine.
+
+107
+00:04:14,426 --> 00:04:16,924
+It could give short bursts of power
+
+108
+00:04:16,924 --> 00:04:19,209
+when accelerating or overtaking,
+
+109
+00:04:19,209 --> 00:04:21,850
+and even drive the car on electricity
+
+110
+00:04:21,850 --> 00:04:23,563
+alone for brief moments.
+
+111
+00:04:23,913 --> 00:04:27,721
+CAR Magazine added an important detail.
+
+112
+00:04:27,901 --> 00:04:30,859
+Ferrari said the hybrid system added little
+
+113
+00:04:30,859 --> 00:04:33,473
+weight compared with a normal V12 five
+
+114
+00:04:33,473 --> 00:04:36,294
+ninety-nine, and that the car's center of
+
+115
+00:04:36,294 --> 00:04:38,908
+gravity was even lower than the petrol
+
+116
+00:04:38,908 --> 00:04:41,798
+model's, because the batteries sat so low.
+
+117
+00:04:41,978 --> 00:04:44,172
+For Ferrari, this was the key.
+
+118
+00:04:44,352 --> 00:04:46,081
+A hybrid did not have to make
+
+119
+00:04:46,081 --> 00:04:47,452
+the car worse to drive.
+
+120
+00:04:47,802 --> 00:04:50,934
+Ferrari was careful to call it strictly
+
+121
+00:04:50,934 --> 00:04:51,737
+a concept.
+
+122
+00:04:51,917 --> 00:04:54,003
+But its chairman at the time,
+
+123
+00:04:54,003 --> 00:04:55,441
+Luca di Montezemolo,
+
+124
+00:04:55,441 --> 00:04:56,376
+went further.
+
+125
+00:04:56,556 --> 00:04:59,976
+AutoGuide reported that he said Ferrari planned
+
+126
+00:04:59,976 --> 00:05:02,450
+to offer hybrid versions of all of
+
+127
+00:05:02,450 --> 00:05:04,706
+its models in the next three or
+
+128
+00:05:04,706 --> 00:05:05,507
+four years.
+
+129
+00:05:05,687 --> 00:05:07,684
+He called the car the start of
+
+130
+00:05:07,684 --> 00:05:08,682
+a long project.
+
+131
+00:05:09,033 --> 00:05:10,437
+Here is the twist.
+
+132
+00:05:10,617 --> 00:05:13,584
+That promise would have meant hybrid Ferraris
+
+133
+00:05:13,584 --> 00:05:16,353
+across the range by about twenty fourteen.
+
+134
+00:05:16,533 --> 00:05:20,035
+Instead, the first Ferrari hybrid would arrive
+
+135
+00:05:20,035 --> 00:05:23,080
+in twenty thirteen as one very exclusive
+
+136
+00:05:23,080 --> 00:05:26,506
+hypercar, and the first plug-in hybrid series
+
+137
+00:05:26,506 --> 00:05:29,780
+car would not arrive until twenty nineteen.
+
+138
+00:05:29,960 --> 00:05:32,297
+The long project turned out to be
+
+139
+00:05:32,297 --> 00:05:33,501
+very long indeed.
+
+140
+00:05:33,851 --> 00:05:36,583
+The first production Ferrari hybrid was not
+
+141
+00:05:36,583 --> 00:05:38,680
+a family-friendly Ferrari at all.
+
+142
+00:05:38,860 --> 00:05:40,242
+It was LaFerrari,
+
+143
+00:05:40,242 --> 00:05:42,517
+unveiled in twenty thirteen.
+
+144
+00:05:42,697 --> 00:05:45,077
+Driven lists five hundred coupes,
+
+145
+00:05:45,077 --> 00:05:47,744
+and later two hundred ten open Aperta
+
+146
+00:05:47,744 --> 00:05:51,060
+versions, built from twenty thirteen to twenty
+
+147
+00:05:51,060 --> 00:05:51,637
+sixteen.
+
+148
+00:05:51,817 --> 00:05:54,193
+It was the successor to the Enzo,
+
+149
+00:05:54,193 --> 00:05:56,856
+the most extreme Ferrari of its time.
+
+150
+00:05:57,206 --> 00:06:01,159
+LaFerrari used a big naturally aspirated V12
+
+151
+00:06:01,159 --> 00:06:03,226
+with an electric motor,
+
+152
+00:06:03,226 --> 00:06:06,641
+a hybrid system Ferrari also called HY
+
+153
+00:06:06,641 --> 00:06:09,427
+dash KERS, the same name as the
+
+154
+00:06:09,427 --> 00:06:10,685
+green concept.
+
+155
+00:06:10,865 --> 00:06:12,246
+But it was not a plug-in.
+
+156
+00:06:12,426 --> 00:06:14,783
+The battery was charged by the car
+
+157
+00:06:14,783 --> 00:06:17,694
+itself, under braking and from the engine,
+
+158
+00:06:17,694 --> 00:06:19,427
+just like in Formula One.
+
+159
+00:06:19,778 --> 00:06:22,761
+The numbers were wild for twenty thirteen.
+
+160
+00:06:22,941 --> 00:06:25,953
+LaFerrari combined a six point three liter
+
+161
+00:06:25,953 --> 00:06:29,108
+V12 of about eight hundred metric horsepower
+
+162
+00:06:29,108 --> 00:06:31,618
+with an electric motor of about one
+
+163
+00:06:31,618 --> 00:06:34,558
+hundred sixty-three, for a total of about
+
+164
+00:06:34,558 --> 00:06:36,351
+nine hundred sixty-three.
+
+165
+00:06:36,531 --> 00:06:38,863
+It was the most powerful road car
+
+166
+00:06:38,863 --> 00:06:40,913
+Ferrari had built until then,
+
+167
+00:06:40,913 --> 00:06:43,740
+and it used the battery for performance,
+
+168
+00:06:43,740 --> 00:06:45,366
+not for silent driving.
+
+169
+00:06:45,716 --> 00:06:47,260
+And here is the twist.
+
+170
+00:06:47,440 --> 00:06:48,610
+That same year,
+
+171
+00:06:48,610 --> 00:06:51,809
+McLaren launched its own hybrid hypercar,
+
+172
+00:06:51,809 --> 00:06:53,760
+the P1, built in a run of
+
+173
+00:06:53,760 --> 00:06:56,257
+three hundred seventy-five cars,
+
+174
+00:06:56,257 --> 00:06:58,051
+according to Wikipedia.
+
+175
+00:06:58,231 --> 00:07:00,635
+Porsche had the nine eighteen Spyder.
+
+176
+00:07:00,815 --> 00:07:03,421
+Three rival brands had all reached the
+
+177
+00:07:03,421 --> 00:07:04,518
+same conclusion.
+
+178
+00:07:04,698 --> 00:07:07,199
+The fastest road cars of the future
+
+179
+00:07:07,199 --> 00:07:08,413
+would be hybrids.
+
+180
+00:07:08,764 --> 00:07:11,089
+But LaFerrari was a tiny run of
+
+181
+00:07:11,089 --> 00:07:13,489
+cars for a tiny group of buyers.
+
+182
+00:07:13,669 --> 00:07:15,654
+It proved that Ferrari could make a
+
+183
+00:07:15,654 --> 00:07:17,129
+hybrid that people wanted.
+
+184
+00:07:17,309 --> 00:07:19,296
+It did not change the cars most
+
+185
+00:07:19,296 --> 00:07:21,477
+Ferrari customers actually bought.
+
+186
+00:07:21,657 --> 00:07:24,246
+For that, Ferrari needed something else.
+
+187
+00:07:24,596 --> 00:07:26,767
+There was also a technical gap.
+
+188
+00:07:26,947 --> 00:07:30,409
+LaFerrari's battery was small and designed for
+
+189
+00:07:30,409 --> 00:07:31,614
+bursts of power,
+
+190
+00:07:31,614 --> 00:07:33,947
+not for driving on electricity.
+
+191
+00:07:34,127 --> 00:07:36,740
+To build a plug-in hybrid that could
+
+192
+00:07:36,740 --> 00:07:39,352
+cover several kilometers in silence,
+
+193
+00:07:39,352 --> 00:07:41,674
+Ferrari needed a larger battery,
+
+194
+00:07:41,674 --> 00:07:42,980
+a charging system,
+
+195
+00:07:42,980 --> 00:07:45,592
+and motors strong enough to move the
+
+196
+00:07:45,592 --> 00:07:46,898
+car by themselves.
+
+197
+00:07:47,078 --> 00:07:49,436
+That meant starting much of the hybrid
+
+198
+00:07:49,436 --> 00:07:50,678
+system from scratch.
+
+199
+00:07:51,028 --> 00:07:53,577
+By then, Ferrari had a powerful new
+
+200
+00:07:53,577 --> 00:07:53,942
+boss.
+
+201
+00:07:54,122 --> 00:07:57,696
+Sergio Marchionne, who also ran Fiat Chrysler,
+
+202
+00:07:57,696 --> 00:08:01,193
+became Ferrari's chairman in twenty fourteen,
+
+203
+00:08:01,193 --> 00:08:02,980
+after Montezemolo left.
+
+204
+00:08:03,160 --> 00:08:06,013
+He was famous for his black sweaters,
+
+205
+00:08:06,013 --> 00:08:07,786
+his long working hours,
+
+206
+00:08:07,786 --> 00:08:11,101
+and his ambition to grow Ferrari's profits.
+
+207
+00:08:11,452 --> 00:08:14,701
+Under Marchionne, Ferrari was listed on the
+
+208
+00:08:14,701 --> 00:08:17,799
+New York Stock Exchange in October twenty
+
+209
+00:08:17,799 --> 00:08:20,141
+fifteen, under the ticker R A C
+
+210
+00:08:20,141 --> 00:08:22,786
+E, and was then separated from Fiat
+
+211
+00:08:22,786 --> 00:08:25,279
+Chrysler, according to Wikipedia.
+
+212
+00:08:25,459 --> 00:08:27,753
+Ferrari was no longer just a car
+
+213
+00:08:27,753 --> 00:08:28,327
+company.
+
+214
+00:08:28,507 --> 00:08:31,063
+It was a public company with investors
+
+215
+00:08:31,063 --> 00:08:32,408
+who expected growth.
+
+216
+00:08:32,758 --> 00:08:34,539
+Growth meant more cars,
+
+217
+00:08:34,539 --> 00:08:37,405
+and more cars meant more emissions to
+
+218
+00:08:37,405 --> 00:08:37,947
+manage.
+
+219
+00:08:38,127 --> 00:08:41,292
+A plug-in hybrid series car made sense
+
+220
+00:08:41,292 --> 00:08:42,458
+on both sides.
+
+221
+00:08:42,638 --> 00:08:44,734
+It could be faster than a normal
+
+222
+00:08:44,734 --> 00:08:46,896
+Ferrari, which pleased customers,
+
+223
+00:08:46,896 --> 00:08:49,255
+and it could cut official emissions,
+
+224
+00:08:49,255 --> 00:08:50,892
+which pleased regulators.
+
+225
+00:08:51,072 --> 00:08:53,773
+The idea from twenty ten was finally
+
+226
+00:08:53,773 --> 00:08:54,973
+becoming urgent.
+
+227
+00:08:55,324 --> 00:08:58,808
+Inside Maranello, the engineers had a clear
+
+228
+00:08:58,808 --> 00:08:59,213
+path.
+
+229
+00:08:59,393 --> 00:09:03,422
+Ferrari's mid-engined V8 sports car had already
+
+230
+00:09:03,422 --> 00:09:07,622
+moved to turbocharging with the four eighty-eight
+
+231
+00:09:07,622 --> 00:09:09,679
+G T B of twenty fifteen.
+
+232
+00:09:09,859 --> 00:09:12,168
+The next step was to add electric
+
+233
+00:09:12,168 --> 00:09:14,267
+motors to that V8 and make the
+
+234
+00:09:14,267 --> 00:09:15,107
+car plug-in.
+
+235
+00:09:15,287 --> 00:09:18,318
+That combination would become the heart of
+
+236
+00:09:18,318 --> 00:09:18,967
+the SF90.
+
+237
+00:09:19,318 --> 00:09:20,641
+Then came the shock.
+
+238
+00:09:20,821 --> 00:09:22,556
+In July twenty eighteen,
+
+239
+00:09:22,556 --> 00:09:26,097
+Ferrari announced that Marchionne would be unable
+
+240
+00:09:26,097 --> 00:09:27,398
+to return to work,
+
+241
+00:09:27,398 --> 00:09:30,794
+after complications following shoulder surgery.
+
+242
+00:09:30,974 --> 00:09:33,810
+Autosport reported that he died a few
+
+243
+00:09:33,810 --> 00:09:36,570
+days later, at the age of sixty-six.
+
+244
+00:09:36,750 --> 00:09:38,805
+Ferrari had lost its leader at one
+
+245
+00:09:38,805 --> 00:09:40,980
+of the most important moments in its
+
+246
+00:09:40,980 --> 00:09:41,464
+history.
+
+247
+00:09:41,814 --> 00:09:44,588
+His replacement surprised many people.
+
+248
+00:09:44,768 --> 00:09:48,592
+Bloomberg reported that Ferrari chose Louis Camilleri,
+
+249
+00:09:48,592 --> 00:09:50,504
+a veteran of Philip Morris,
+
+250
+00:09:50,504 --> 00:09:53,762
+the tobacco company behind the Marlboro brand,
+
+251
+00:09:53,762 --> 00:09:56,736
+which had sponsored Ferrari in Formula One
+
+252
+00:09:56,736 --> 00:09:57,586
+for decades.
+
+253
+00:09:57,766 --> 00:10:00,716
+John Elkann, from the Agnelli family,
+
+254
+00:10:00,716 --> 00:10:01,992
+became chairman.
+
+255
+00:10:02,342 --> 00:10:04,089
+Just two months later,
+
+256
+00:10:04,089 --> 00:10:06,394
+in September twenty eighteen,
+
+257
+00:10:06,394 --> 00:10:10,207
+Camilleri and Elkann presented Ferrari's plan to
+
+258
+00:10:10,207 --> 00:10:12,988
+investors at a capital markets day.
+
+259
+00:10:13,168 --> 00:10:16,548
+ANSA reported that Ferrari would launch fifteen
+
+260
+00:10:16,548 --> 00:10:19,784
+new models between twenty nineteen and twenty
+
+261
+00:10:19,784 --> 00:10:23,524
+twenty-two, and that Camilleri expected around sixty
+
+262
+00:10:23,524 --> 00:10:26,328
+percent of Ferrari's cars to be hybrids
+
+263
+00:10:26,328 --> 00:10:27,982
+by the end of the plan.
+
+264
+00:10:28,333 --> 00:10:31,363
+Motor1 reported that Elkann said Marchionne had
+
+265
+00:10:31,363 --> 00:10:33,942
+played a fundamental role in making this
+
+266
+00:10:33,942 --> 00:10:34,974
+future possible.
+
+267
+00:10:35,154 --> 00:10:37,737
+Ferrari's chief technology officer,
+
+268
+00:10:37,737 --> 00:10:41,353
+Michael Leiters, explained the engine technology.
+
+269
+00:10:41,533 --> 00:10:44,408
+And ANSA said the plan also included
+
+270
+00:10:44,408 --> 00:10:48,480
+the Purosangue, which Camilleri insisted should not
+
+271
+00:10:48,480 --> 00:10:49,997
+be called an S U V.
+
+272
+00:10:50,347 --> 00:10:53,036
+The capital markets day also showed how
+
+273
+00:10:53,036 --> 00:10:54,967
+fast Ferrari wanted to move.
+
+274
+00:10:55,147 --> 00:10:56,276
+At its close,
+
+275
+00:10:56,276 --> 00:11:00,009
+ANSA reported, Ferrari unveiled the Monza S
+
+276
+00:11:00,009 --> 00:11:01,572
+P one and S P two,
+
+277
+00:11:01,572 --> 00:11:05,740
+open-top limited series cars inspired by classic
+
+278
+00:11:05,740 --> 00:11:07,129
+racing Ferraris.
+
+279
+00:11:07,309 --> 00:11:11,036
+Old-school V12 roadsters on the same stage
+
+280
+00:11:11,036 --> 00:11:12,545
+as a hybrid plan.
+
+281
+00:11:12,725 --> 00:11:14,498
+It was a perfect picture of a
+
+282
+00:11:14,498 --> 00:11:16,761
+company trying to keep its past while
+
+283
+00:11:16,761 --> 00:11:17,984
+changing its future.
+
+284
+00:11:18,335 --> 00:11:19,751
+Here is the twist.
+
+285
+00:11:19,931 --> 00:11:23,312
+Sixty percent hybrids by twenty twenty-two was
+
+286
+00:11:23,312 --> 00:11:25,590
+an enormous change for Ferrari,
+
+287
+00:11:25,590 --> 00:11:27,722
+a brand built on the sound of
+
+288
+00:11:27,722 --> 00:11:28,604
+its engines.
+
+289
+00:11:28,784 --> 00:11:30,573
+And the first car of this new
+
+290
+00:11:30,573 --> 00:11:32,732
+era would have to convince the most
+
+291
+00:11:32,732 --> 00:11:34,891
+traditional customers in the world.
+
+292
+00:11:35,071 --> 00:11:37,369
+That car was the SF90.
+
+293
+00:11:37,720 --> 00:11:41,051
+On the twenty-ninth of May twenty nineteen,
+
+294
+00:11:41,051 --> 00:11:44,848
+in Maranello, Ferrari unveiled the SF90 Stradale.
+
+295
+00:11:45,028 --> 00:11:47,904
+The name honored ninety years of Scuderia
+
+296
+00:11:47,904 --> 00:11:48,465
+Ferrari.
+
+297
+00:11:48,645 --> 00:11:52,362
+Reuters reported that Camilleri called it astounding,
+
+298
+00:11:52,362 --> 00:11:54,816
+fast, and completely revolutionary,
+
+299
+00:11:54,816 --> 00:11:58,042
+and that about two thousand selected customers
+
+300
+00:11:58,042 --> 00:12:00,427
+were invited to see it and reserve
+
+301
+00:12:00,427 --> 00:12:00,707
+one.
+
+302
+00:12:01,058 --> 00:12:04,494
+Reuters called it Ferrari's first hybrid for
+
+303
+00:12:04,494 --> 00:12:08,009
+wider production, and InsideEVs called it the
+
+304
+00:12:08,009 --> 00:12:11,681
+first series production plug-in hybrid Ferrari.
+
+305
+00:12:11,861 --> 00:12:13,888
+A four liter twin-turbo V8,
+
+306
+00:12:13,888 --> 00:12:15,541
+three electric motors,
+
+307
+00:12:15,541 --> 00:12:18,244
+and a seven point nine kilowatt hour
+
+308
+00:12:18,244 --> 00:12:21,924
+battery, for about one thousand metric horsepower
+
+309
+00:12:21,924 --> 00:12:22,600
+in total.
+
+310
+00:12:22,950 --> 00:12:26,016
+Look how the green concept's ideas came
+
+311
+00:12:26,016 --> 00:12:26,409
+back.
+
+312
+00:12:26,589 --> 00:12:29,202
+The batteries sat low in the chassis.
+
+313
+00:12:29,382 --> 00:12:31,859
+An electric motor sat at the back,
+
+314
+00:12:31,859 --> 00:12:34,409
+between the engine and the gearbox.
+
+315
+00:12:34,589 --> 00:12:36,797
+But now there were two more motors
+
+316
+00:12:36,797 --> 00:12:37,641
+at the front,
+
+317
+00:12:37,641 --> 00:12:40,239
+giving the car electric all-wheel drive,
+
+318
+00:12:40,239 --> 00:12:42,317
+and a plug to charge the battery
+
+319
+00:12:42,317 --> 00:12:43,227
+from the grid.
+
+320
+00:12:43,577 --> 00:12:46,193
+The car could even drive on electricity
+
+321
+00:12:46,193 --> 00:12:46,595
+alone.
+
+322
+00:12:46,775 --> 00:12:50,800
+InsideEVs reported up to about twenty-five kilometers
+
+323
+00:12:50,800 --> 00:12:53,306
+of electric range in eDrive mode,
+
+324
+00:12:53,306 --> 00:12:55,432
+using only the front motors,
+
+325
+00:12:55,432 --> 00:12:58,318
+at up to about one hundred thirty-five
+
+326
+00:12:58,318 --> 00:12:59,836
+kilometers per hour.
+
+327
+00:13:00,016 --> 00:13:01,904
+And it had no reverse gear at
+
+328
+00:13:01,904 --> 00:13:02,164
+all.
+
+329
+00:13:02,344 --> 00:13:05,038
+Its front electric motors moved it backward.
+
+330
+00:13:05,388 --> 00:13:07,036
+The cabin changed too.
+
+331
+00:13:07,216 --> 00:13:10,440
+Autobuzz, reporting Ferrari's launch details,
+
+332
+00:13:10,440 --> 00:13:14,308
+described a sixteen-inch curved digital display behind
+
+333
+00:13:14,308 --> 00:13:17,245
+the wheel, controlled with touch pads and
+
+334
+00:13:17,245 --> 00:13:19,895
+haptic buttons on the steering wheel,
+
+335
+00:13:19,895 --> 00:13:22,402
+and no central infotainment screen.
+
+336
+00:13:22,582 --> 00:13:25,168
+And the gear selector on the center
+
+337
+00:13:25,168 --> 00:13:27,976
+tunnel was styled after the metal gate
+
+338
+00:13:27,976 --> 00:13:30,488
+of Ferrari's old manual gearboxes.
+
+339
+00:13:30,668 --> 00:13:33,292
+Past and present in the same car.
+
+340
+00:13:33,643 --> 00:13:37,022
+Ferrari also offered a track version from
+
+341
+00:13:37,022 --> 00:13:40,236
+the start, the Assetto Fiorano package,
+
+342
+00:13:40,236 --> 00:13:42,627
+with special shock absorbers,
+
+343
+00:13:42,627 --> 00:13:44,193
+carbon fiber parts,
+
+344
+00:13:44,193 --> 00:13:46,089
+and a titanium exhaust.
+
+345
+00:13:46,269 --> 00:13:49,728
+Wikipedia says it saves about thirty kilograms.
+
+346
+00:13:49,908 --> 00:13:52,693
+CarGurus later listed it at about fifty
+
+347
+00:13:52,693 --> 00:13:54,692
+thousand dollars in America.
+
+348
+00:13:54,872 --> 00:13:58,157
+Even Ferrari's first plug-in had a hardcore
+
+349
+00:13:58,157 --> 00:13:58,691
+option.
+
+350
+00:13:59,042 --> 00:14:00,817
+Here is the twist that made the
+
+351
+00:14:00,817 --> 00:14:02,478
+traditional customers listen.
+
+352
+00:14:02,658 --> 00:14:05,514
+The SF90 was faster than LaFerrari.
+
+353
+00:14:05,694 --> 00:14:07,348
+Wikipedia says it was,
+
+354
+00:14:07,348 --> 00:14:08,852
+as of twenty twenty,
+
+355
+00:14:08,852 --> 00:14:11,859
+the fastest Ferrari road car ever around
+
+356
+00:14:11,859 --> 00:14:13,588
+the Fiorano test track,
+
+357
+00:14:13,588 --> 00:14:16,370
+seven tenths of a second quicker than
+
+358
+00:14:16,370 --> 00:14:17,873
+the hybrid hypercar.
+
+359
+00:14:18,053 --> 00:14:20,515
+A plug-in series car had beaten the
+
+360
+00:14:20,515 --> 00:14:21,710
+brand's flagship.
+
+361
+00:14:22,061 --> 00:14:23,616
+For Ferrari's customers,
+
+362
+00:14:23,616 --> 00:14:25,950
+that was the argument that mattered.
+
+363
+00:14:26,130 --> 00:14:28,092
+Nobody had to be told that a
+
+364
+00:14:28,092 --> 00:14:30,405
+hybrid was good for the planet or
+
+365
+00:14:30,405 --> 00:14:31,877
+good for regulations.
+
+366
+00:14:32,057 --> 00:14:33,938
+They only had to see the lap
+
+367
+00:14:33,938 --> 00:14:34,274
+time.
+
+368
+00:14:34,454 --> 00:14:36,765
+A Ferrari with a plug was faster
+
+369
+00:14:36,765 --> 00:14:39,363
+than the hypercar many of them could
+
+370
+00:14:39,363 --> 00:14:40,085
+never buy.
+
+371
+00:14:40,265 --> 00:14:42,936
+The battery had become a performance part.
+
+372
+00:14:43,286 --> 00:14:44,783
+Then the world changed.
+
+373
+00:14:44,963 --> 00:14:48,719
+The SF90's deliveries began as the coronavirus
+
+374
+00:14:48,719 --> 00:14:50,025
+pandemic spread.
+
+375
+00:14:50,205 --> 00:14:52,622
+And on the tenth of December twenty
+
+376
+00:14:52,622 --> 00:14:56,350
+twenty, Ferrari announced that Camilleri had resigned,
+
+377
+00:14:56,350 --> 00:14:59,388
+effective immediately, for personal reasons,
+
+378
+00:14:59,388 --> 00:15:00,631
+The Race reported.
+
+379
+00:15:00,811 --> 00:15:04,236
+John Elkann became interim chief executive.
+
+380
+00:15:04,586 --> 00:15:06,614
+So in just over two years,
+
+381
+00:15:06,614 --> 00:15:08,799
+Ferrari had lost Marchionne,
+
+382
+00:15:08,799 --> 00:15:12,857
+gained Camilleri, launched its first plug-in hybrid,
+
+383
+00:15:12,857 --> 00:15:14,651
+and lost Camilleri too.
+
+384
+00:15:14,831 --> 00:15:16,918
+The SF90 was born in one of
+
+385
+00:15:16,918 --> 00:15:20,163
+the most unstable periods in the company's
+
+386
+00:15:20,163 --> 00:15:21,321
+modern history.
+
+387
+00:15:21,672 --> 00:15:23,881
+And here is a twist few people
+
+388
+00:15:23,881 --> 00:15:24,470
+noticed.
+
+389
+00:15:24,650 --> 00:15:28,104
+Michael Leiters, the chief technology officer who
+
+390
+00:15:28,104 --> 00:15:31,346
+had presented Ferrari's engine plans in twenty
+
+391
+00:15:31,346 --> 00:15:33,531
+eighteen, later left Maranello.
+
+392
+00:15:33,711 --> 00:15:36,758
+Road and Track reported in twenty twenty-two
+
+393
+00:15:36,758 --> 00:15:39,389
+that he had become the chief executive
+
+394
+00:15:39,389 --> 00:15:41,604
+of McLaren, Ferrari's old rival,
+
+395
+00:15:41,604 --> 00:15:44,443
+which was then struggling with the launch
+
+396
+00:15:44,443 --> 00:15:46,243
+of its own plug-in hybrid,
+
+397
+00:15:46,243 --> 00:15:47,005
+the Artura.
+
+398
+00:15:47,355 --> 00:15:48,878
+In twenty twenty-one,
+
+399
+00:15:48,878 --> 00:15:51,489
+Ferrari named a new chief executive,
+
+400
+00:15:51,489 --> 00:15:54,970
+Benedetto Vigna, who came from the semiconductor
+
+401
+00:15:54,970 --> 00:15:57,726
+industry rather than the car industry,
+
+402
+00:15:57,726 --> 00:15:59,394
+according to Wikipedia.
+
+403
+00:15:59,574 --> 00:16:01,954
+It was another sign that the future
+
+404
+00:16:01,954 --> 00:16:04,742
+of Ferrari would be about electronics and
+
+405
+00:16:04,742 --> 00:16:06,714
+software, as much as engines.
+
+406
+00:16:07,065 --> 00:16:09,654
+And the SF90 had its own problems.
+
+407
+00:16:09,834 --> 00:16:12,404
+In October twenty twenty-three,
+
+408
+00:16:12,404 --> 00:16:15,722
+Motor Authority reported a recall of six
+
+409
+00:16:15,722 --> 00:16:19,370
+hundred fourteen SF90s in the United States,
+
+410
+00:16:19,370 --> 00:16:22,936
+because turbo oil delivery pipes could leak
+
+411
+00:16:22,936 --> 00:16:24,346
+and cause a fire.
+
+412
+00:16:24,526 --> 00:16:26,604
+Owners were told not to drive their
+
+413
+00:16:26,604 --> 00:16:28,682
+cars until the pipes were replaced.
+
+414
+00:16:28,862 --> 00:16:30,640
+The trouble, ironically,
+
+415
+00:16:30,640 --> 00:16:33,305
+was in the old-fashioned part of the
+
+416
+00:16:33,305 --> 00:16:34,935
+car, the turbo engine.
+
+417
+00:16:35,285 --> 00:16:37,246
+Despite the turbulence,
+
+418
+00:16:37,246 --> 00:16:39,720
+the SF90 family kept growing.
+
+419
+00:16:39,900 --> 00:16:41,986
+There was the SF90 Spider,
+
+420
+00:16:41,986 --> 00:16:46,158
+which Wikipedia calls Ferrari's first plug-in hybrid
+
+421
+00:16:46,158 --> 00:16:47,121
+convertible.
+
+422
+00:16:47,301 --> 00:16:50,931
+Then in twenty twenty-three came the SF90
+
+423
+00:16:50,931 --> 00:16:53,409
+X X Stradale and X X Spider,
+
+424
+00:16:53,409 --> 00:16:57,216
+with about one thousand sixteen horsepower.
+
+425
+00:16:57,396 --> 00:17:00,470
+Evo India called it the first road-legal
+
+426
+00:17:00,470 --> 00:17:02,853
+model in Ferrari's X X program.
+
+427
+00:17:03,203 --> 00:17:07,434
+Ferrari also launched a smaller plug-in hybrid,
+
+428
+00:17:07,434 --> 00:17:09,685
+the two ninety-six G T B,
+
+429
+00:17:09,685 --> 00:17:12,026
+with a V6 instead of a V8.
+
+430
+00:17:12,206 --> 00:17:14,802
+And in October twenty twenty-four,
+
+431
+00:17:14,802 --> 00:17:17,398
+it revealed the F eighty hypercar,
+
+432
+00:17:17,398 --> 00:17:19,460
+the successor to LaFerrari,
+
+433
+00:17:19,460 --> 00:17:21,980
+with a hybrid V6 and a production
+
+434
+00:17:21,980 --> 00:17:24,881
+run of seven hundred ninety-nine cars,
+
+435
+00:17:24,881 --> 00:17:26,637
+according to Wikipedia.
+
+436
+00:17:26,988 --> 00:17:29,670
+So the hybrid idea now ran through
+
+437
+00:17:29,670 --> 00:17:30,932
+the whole range,
+
+438
+00:17:30,932 --> 00:17:33,535
+from the smaller V6 sports car to
+
+439
+00:17:33,535 --> 00:17:35,428
+the hypercar at the top.
+
+440
+00:17:35,608 --> 00:17:39,055
+Montezemolo's twenty ten promise of hybrids for
+
+441
+00:17:39,055 --> 00:17:41,768
+every model had not happened in three
+
+442
+00:17:41,768 --> 00:17:42,795
+or four years.
+
+443
+00:17:42,975 --> 00:17:44,887
+But more than a decade later,
+
+444
+00:17:44,887 --> 00:17:46,469
+it was close to reality.
+
+445
+00:17:46,820 --> 00:17:48,097
+And the numbers proved it.
+
+446
+00:17:48,277 --> 00:17:51,497
+Motor Authority reported that Ferrari delivered a
+
+447
+00:17:51,497 --> 00:17:54,980
+record thirteen thousand seven hundred fifty-two cars
+
+448
+00:17:54,980 --> 00:17:56,426
+in twenty twenty-four,
+
+449
+00:17:56,426 --> 00:17:58,989
+and that fifty-one percent of them were
+
+450
+00:17:58,989 --> 00:17:59,515
+hybrids.
+
+451
+00:17:59,695 --> 00:18:00,955
+For the first time,
+
+452
+00:18:00,955 --> 00:18:03,144
+hybrids made up more than half of
+
+453
+00:18:03,144 --> 00:18:04,537
+Ferrari's deliveries.
+
+454
+00:18:04,887 --> 00:18:05,897
+Think about that.
+
+455
+00:18:06,077 --> 00:18:07,573
+In twenty nineteen,
+
+456
+00:18:07,573 --> 00:18:10,802
+Ferrari had no plug-in hybrid series car.
+
+457
+00:18:10,982 --> 00:18:12,200
+Five years later,
+
+458
+00:18:12,200 --> 00:18:14,852
+more than half of its deliveries were
+
+459
+00:18:14,852 --> 00:18:17,289
+hybrids, and the brand still set a
+
+460
+00:18:17,289 --> 00:18:18,436
+delivery record.
+
+461
+00:18:18,616 --> 00:18:21,486
+The fear that customers would reject electric
+
+462
+00:18:21,486 --> 00:18:23,655
+motors in a Ferrari had turned out
+
+463
+00:18:23,655 --> 00:18:24,421
+to be wrong.
+
+464
+00:18:24,771 --> 00:18:27,499
+The SF90's time at the top was
+
+465
+00:18:27,499 --> 00:18:28,045
+short.
+
+466
+00:18:28,225 --> 00:18:31,483
+On the tenth of September twenty twenty-five,
+
+467
+00:18:31,483 --> 00:18:33,439
+Motoring Research reported,
+
+468
+00:18:33,439 --> 00:18:37,132
+Ferrari revealed the eight forty-nine Testarossa as
+
+469
+00:18:37,132 --> 00:18:38,290
+its replacement.
+
+470
+00:18:38,470 --> 00:18:40,735
+It keeps the same basic layout,
+
+471
+00:18:40,735 --> 00:18:43,804
+a twin-turbo V8 and three electric motors,
+
+472
+00:18:43,804 --> 00:18:47,457
+with about one thousand fifty horsepower combined.
+
+473
+00:18:47,807 --> 00:18:50,062
+It brought back two things from the
+
+474
+00:18:50,062 --> 00:18:50,384
+past.
+
+475
+00:18:50,564 --> 00:18:52,361
+One is the Testarossa name,
+
+476
+00:18:52,361 --> 00:18:54,957
+from the famous Ferrari of the nineteen
+
+477
+00:18:54,957 --> 00:18:55,556
+eighties.
+
+478
+00:18:55,736 --> 00:18:57,687
+The other is physical buttons.
+
+479
+00:18:57,867 --> 00:19:01,604
+Motoring Research reported that the eight forty-nine
+
+480
+00:19:01,604 --> 00:19:04,838
+returned to physical switches on the steering
+
+481
+00:19:04,838 --> 00:19:07,785
+wheel, instead of the SF90's haptic touch
+
+482
+00:19:07,785 --> 00:19:08,432
+controls.
+
+483
+00:19:08,612 --> 00:19:11,548
+Not every new idea from the SF90
+
+484
+00:19:11,548 --> 00:19:12,374
+survived.
+
+485
+00:19:12,724 --> 00:19:14,950
+And then came the biggest step of
+
+486
+00:19:14,950 --> 00:19:15,220
+all.
+
+487
+00:19:15,400 --> 00:19:18,318
+Ferrari's first fully electric car,
+
+488
+00:19:18,318 --> 00:19:19,069
+the Luce.
+
+489
+00:19:19,249 --> 00:19:23,414
+Electra's summary says Ferrari showed the technology
+
+490
+00:19:23,414 --> 00:19:25,817
+in October twenty twenty-five,
+
+491
+00:19:25,817 --> 00:19:28,780
+revealed the name and interior in San
+
+492
+00:19:28,780 --> 00:19:31,985
+Francisco in February twenty twenty-six,
+
+493
+00:19:31,985 --> 00:19:33,907
+with design by LoveFrom,
+
+494
+00:19:33,907 --> 00:19:36,390
+the studio of Jony Ive and Marc
+
+495
+00:19:36,390 --> 00:19:39,514
+Newson, and showed the exterior in Rome
+
+496
+00:19:39,514 --> 00:19:41,516
+in May twenty twenty-six.
+
+497
+00:19:41,867 --> 00:19:43,764
+Electra lists four motors,
+
+498
+00:19:43,764 --> 00:19:46,828
+more than one thousand horsepower in boost
+
+499
+00:19:46,828 --> 00:19:49,819
+mode, a battery of one hundred twenty-two
+
+500
+00:19:49,819 --> 00:19:53,394
+kilowatt hours, and first deliveries from October
+
+501
+00:19:53,394 --> 00:19:54,707
+twenty twenty-six.
+
+502
+00:19:54,887 --> 00:19:57,612
+From a forty kilogram motor on a
+
+503
+00:19:57,612 --> 00:19:58,889
+green test car,
+
+504
+00:19:58,889 --> 00:20:01,443
+to a Ferrari with no engine at
+
+505
+00:20:01,443 --> 00:20:03,827
+all, in about sixteen years.
+
+506
+00:20:04,177 --> 00:20:05,837
+And notice the connection.
+
+507
+00:20:06,017 --> 00:20:08,881
+The SF90's front axle used two electric
+
+508
+00:20:08,881 --> 00:20:12,333
+motors to drive the front wheels independently.
+
+509
+00:20:12,513 --> 00:20:15,115
+The Luce, according to Electra,
+
+510
+00:20:15,115 --> 00:20:16,541
+uses four motors.
+
+511
+00:20:16,721 --> 00:20:19,858
+The idea of controlling each wheel with
+
+512
+00:20:19,858 --> 00:20:23,156
+electricity, first tested at scale on the
+
+513
+00:20:23,156 --> 00:20:26,856
+SF90, became the foundation of Ferrari's first
+
+514
+00:20:26,856 --> 00:20:27,902
+electric car.
+
+515
+00:20:28,252 --> 00:20:30,948
+So here is the insane story behind
+
+516
+00:20:30,948 --> 00:20:33,406
+Ferrari's first plug-in hybrid.
+
+517
+00:20:33,586 --> 00:20:35,997
+It began with a Formula One rule
+
+518
+00:20:35,997 --> 00:20:37,128
+in twenty nine.
+
+519
+00:20:37,308 --> 00:20:39,898
+It became a green laboratory car in
+
+520
+00:20:39,898 --> 00:20:42,562
+twenty ten, with a promise that took
+
+521
+00:20:42,562 --> 00:20:43,821
+a decade to keep.
+
+522
+00:20:44,001 --> 00:20:46,013
+It passed through LaFerrari,
+
+523
+00:20:46,013 --> 00:20:47,667
+a stock market listing,
+
+524
+00:20:47,667 --> 00:20:50,686
+the sudden loss of Ferrari's most powerful
+
+525
+00:20:50,686 --> 00:20:52,914
+boss, and a new leader from the
+
+526
+00:20:52,914 --> 00:20:54,136
+tobacco industry.
+
+527
+00:20:54,486 --> 00:20:56,604
+And when it finally arrived,
+
+528
+00:20:56,604 --> 00:20:58,874
+the SF90 was not a compromise.
+
+529
+00:20:59,054 --> 00:21:02,301
+It was faster around Fiorano than LaFerrari,
+
+530
+00:21:02,301 --> 00:21:03,999
+it had no reverse gear,
+
+531
+00:21:03,999 --> 00:21:07,394
+and it could become a silent front-wheel-drive
+
+532
+00:21:07,394 --> 00:21:08,574
+car in the city.
+
+533
+00:21:08,754 --> 00:21:11,394
+It convinced the most traditional buyers in
+
+534
+00:21:11,394 --> 00:21:13,297
+the car world that a plug could
+
+535
+00:21:13,297 --> 00:21:14,525
+belong in a Ferrari.
+
+536
+00:21:14,875 --> 00:21:15,757
+What do you think?
+
+537
+00:21:15,937 --> 00:21:19,116
+Was the SF90 the most important Ferrari
+
+538
+00:21:19,116 --> 00:21:20,583
+of its generation,
+
+539
+00:21:20,583 --> 00:21:23,355
+or just a step toward the electric
+
+540
+00:21:23,355 --> 00:21:23,762
+Luce?
+
+541
+00:21:23,942 --> 00:21:25,289
+Tell us in the comments.
+
+542
+00:21:25,469 --> 00:21:28,155
+In the other videos of this series,
+
+543
+00:21:28,155 --> 00:21:30,917
+we reveal two things you didn't know
+
+544
+00:21:30,917 --> 00:21:32,068
+about the SF90,
+
+545
+00:21:32,068 --> 00:21:34,754
+compare it with the McLaren Artura,
+
+546
+00:21:34,754 --> 00:21:37,593
+and ask whether a normal person could
+
+547
+00:21:37,593 --> 00:21:38,820
+ever afford one.
+
+548
+00:21:39,171 --> 00:21:41,319
+If you are shopping for something a
+
+549
+00:21:41,319 --> 00:21:42,669
+little more practical,
+
+550
+00:21:42,669 --> 00:21:45,493
+our twenty twenty-seven Truck Buyer's Guide is
+
+551
+00:21:45,493 --> 00:21:47,089
+linked in the description.
+
+552
+00:21:47,269 --> 00:21:50,730
+Subscribe to Pickup Reality for more stories
+
+553
+00:21:50,730 --> 00:21:53,799
+about the cars and trucks people really
+
+554
+00:21:53,799 --> 00:21:54,664
+talk about.
