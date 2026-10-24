@@ -1,0 +1,4 @@
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- CarAdvice, Mercedes-AMG One delayed nine months: https://www.caradvice.com.au/news/mercedes-amg-one-delayed/
+- CarAdvice, Mercedes CEO: We were drunk when AMG One hypercar was approved: https://www.caradvice.com.au/news/mercedes-ceo-drunk-when-amg-one-approved/
+- Wikipedia, Aston Martin Valkyrie: https://en.wikipedia.org/wiki/Aston_Martin_Valkyrie
