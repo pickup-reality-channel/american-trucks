@@ -1,0 +1,320 @@
+{
+ "id": "video114",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Ferrari F40 vs Porsche 959: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two supercars from the same year, both born from the end of Group B racing. One has rear-wheel drive, a twin-turbo V eight and no radio. The other has all-wheel drive, an adjustable ride height and a flat six that Porsche built at a loss. One was made in over thirteen hundred copies. The other in fewer than three hundred. This is the real difference between the Ferrari F forty and the Porsche nine fifty-nine.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "FERRARI F40 VS PORSCHE 959",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. The Porsche was faster at Nard\u00f2, by eighteen kilometres per hour or more. It was also, on the sources we read, cheaper than it cost to build, by more than half. And the Ferrari, the simpler car, is the one that was built in larger numbers, and the one that people queued to buy. Let us go through the numbers, and where the sources disagree.",
+   "query": "Supercars of 1987",
+   "caption": "THE PORSCHE WAS FASTER \u00b7 THE FERRARI SOLD MORE",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure comes from published sources, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Group B was a racing category that produced some of the wildest cars in rally history. Wikipedia says it was cancelled, and both cars were shaped by that. For Porsche, the page says Group B was cancelled a year before the nine fifty-nine was homologated, ending the company's participation. For Ferrari, the category ended before the nineteen eighty-six season, leaving five Evoluzione cars with nowhere to race.",
+   "query": "Group B rally",
+   "caption": "GROUP B ENDED BEFORE EITHER CAR COULD RACE IT",
+   "cuts": 3,
+   "chapter": "Two answers to the end of Group B"
+  },
+  {
+   "text": "The Porsche project came first. Wikipedia says development began in nineteen eighty-one under managing director Peter Schutz, with chief engineer Helmuth Bott leading the project, originally called Gruppe B. The Group B prototype was unveiled at the nineteen eighty-three Frankfurt Motor Show. The road version debuted at Frankfurt in nineteen eighty-five, as a nineteen eighty-six model.",
+   "query": "Porsche 959 prototype",
+   "caption": "PORSCHE: STARTED 1981 \u00b7 SHOWN 1983 \u00b7 ROAD CAR 1985",
+   "cuts": 3
+  },
+  {
+   "text": "Production was delayed by more than a year, the page says, and customer deliveries began in nineteen eighty-seven. By our arithmetic, that is about six years from the start of development to the first customer car. The Ferrari, by comparison, took thirteen months from the tenth of June, nineteen eighty-six to its unveiling on the twenty-first of July, nineteen eighty-seven.",
+   "query": "Porsche 959 delivery",
+   "caption": "959: ~6 YEARS TO FIRST CUSTOMER CAR \u00b7 F40: 13 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "So the two cars arrived in the same year, nineteen eighty-seven, by completely different routes. One was a six year engineering project, the other a thirteen month adaptation. That difference shows in almost everything that follows. The Porsche is a showcase of technology. The Ferrari is a distillation of an existing recipe. Neither claim is a criticism.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "SIX YEARS VS THIRTEEN MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The F forty's engine is the F one twenty A, a two thousand, nine hundred thirty-six cubic centimetre twin-turbocharged, intercooled ninety-degree V eight. Wikipedia lists four hundred seventy-eight metric horsepower at seven thousand r p m and five hundred seventy-seven newton-metres at four thousand. The U S version is listed at four hundred eighty-four.",
+   "query": "Ferrari F40 engine",
+   "caption": "F40: 2.9 L V8 \u00b7 478 PS \u00b7 577 NM",
+   "cuts": 3,
+   "chapter": "Round one: the engines"
+  },
+  {
+   "text": "The nine fifty-nine's engine is a two thousand, eight hundred forty-nine cubic centimetre twin-turbocharged flat six, with four valves per cylinder. Wikipedia lists four hundred fifty metric horsepower at six thousand five hundred r p m and five hundred newton-metres at five thousand. It also lists the same rating as four hundred forty-four horsepower. The sequential turbos gave smoother power than Porsche's other turbo engines of the era.",
+   "query": "Porsche 959 engine",
+   "caption": "959: 2.85 L FLAT-SIX \u00b7 450 PS \u00b7 500 NM \u00b7 SEQUENTIAL TURBOS",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, the Ferrari makes about six percent more power, four seventy-eight against four fifty, and about fifteen percent more torque, five seventy-seven against five hundred. It does so with a larger displacement, about three percent more, and reaches its torque peak at four thousand r p m, a thousand lower than the Porsche. On paper, the F forty is the stronger engine.",
+   "query": "Engine comparison",
+   "caption": "F40: +6% POWER \u00b7 +15% TORQUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Per litre, the Ferrari makes about one hundred sixty-three horsepower and the Porsche about one hundred fifty-eight, by our arithmetic. The two are close. Both used turbochargers to get more than a normally aspirated engine of the same size could. The Porsche's sequential system used two turbos in sequence for smoother delivery. The Ferrari used two turbos in parallel, as the archive describes, for brute force.",
+   "query": "Turbocharged engines",
+   "caption": "F40 ~163 PS/L \u00b7 959 ~158 PS/L (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Porsche offered more. Wikipedia says an optional upgrade raised the power to five hundred thirty metric horsepower. A claimed top speed of three hundred thirty-six kilometres per hour, and zero to a hundred in three point four seconds, according to Paul Fr\u00e8re. And the nine fifty-nine S, with five hundred fifteen horsepower, of which twenty-nine were built, reached three hundred thirty-nine at Nard\u00f2 in nineteen eighty-eight.",
+   "query": "Porsche 959 S",
+   "caption": "959 OPTION: 530 PS \u00b7 959 S: 515 PS, 29 BUILT, 339 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the biggest difference. The F forty is rear-wheel drive with a five-speed manual, Wikipedia says. The nine fifty-nine has Porsche-Steuer Kupplung all-wheel drive, the P S K system, which can send up to eighty percent of the power to the rear under hard acceleration. Its six-speed manual has a first gear labelled gel\u00e4nde, German for terrain.",
+   "query": "Porsche 959 drivetrain",
+   "caption": "F40: RWD, 5-SPEED \u00b7 959: ALL-WHEEL DRIVE, 6-SPEED",
+   "cuts": 3,
+   "chapter": "Round two: drivetrain and technology"
+  },
+  {
+   "text": "The nine fifty-nine also has adjustable ride height as standard on the road car, Wikipedia says. The F forty did not, until, according to the archive, adjustable suspension became an option from nineteen ninety-one. And Sotheby's describes a U S-spec F forty as having non-adjustable suspension. So the Porsche was a technology showcase that the Ferrari did not try to be.",
+   "query": "Porsche 959 suspension",
+   "caption": "959: ADJUSTABLE RIDE HEIGHT STANDARD \u00b7 F40: OPTIONAL FROM 1991",
+   "cuts": 3
+  },
+  {
+   "text": "Look at what the F forty did not have. No door handles, no glove box, no leather, no carpets, no door panels, no sound system, according to Wikipedia. And according to Classic Motorsports, no A B S. The nine fifty-nine, by contrast, is a car in which Porsche put its latest ideas, though our sources do not list its comfort features. Porsche later built eight Komfort cars, which suggests that comfort was an issue.",
+   "query": "Ferrari F40 interior",
+   "caption": "F40: NO HANDLES, NO LEATHER, NO ABS \u00b7 959: LATEST TECHNOLOGY",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says that in nineteen ninety-two and ninety-three, eight more Komfort cars were assembled from spare parts, at seven hundred forty-seven thousand, five hundred Deutsche Marks each. Car and Driver, the page says, measured zero to sixty miles per hour in three point six seconds in Komfort trim. A Komfort version existed from the start, which means the nine fifty-nine was available with more comforts than the Ferrari ever offered.",
+   "query": "Porsche 959 Komfort",
+   "caption": "8 KOMFORT CARS ASSEMBLED 1992/93 AT DM 747,500 EACH",
+   "cuts": 3
+  },
+  {
+   "text": "Weight. Wikipedia lists the F forty at one thousand, two hundred fifty-four kilograms for Europe and one thousand, three hundred sixty-nine for the United States. The nine fifty-nine is listed at one thousand, four hundred fifty. By our arithmetic, the Ferrari is a hundred ninety-six kilograms, or about thirteen and a half percent, lighter in its European form, and eighty-one kilograms, or about five and a half percent, lighter in its U S form.",
+   "query": "Ferrari F40 weight",
+   "caption": "F40 196 KG LIGHTER (EU) OR 81 KG (US) THAN THE 959 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Round three: weight and speed"
+  },
+  {
+   "text": "Power to weight, ours. The F forty at four hundred seventy-eight horsepower and one thousand, two hundred fifty-four kilograms is about point three eight horsepower per kilogram. The Porsche at four hundred fifty over one thousand, four hundred fifty is about point three one. The F forty has about twenty-three percent better power to weight, in European form. The Porsche's all-wheel drive adds traction, but it adds weight too.",
+   "query": "Power to weight",
+   "caption": "F40 0.38 PS/KG \u00b7 959 0.31 PS/KG (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration. The earliest independent test of the F forty, Wikipedia says, was zero to a hundred kilometres per hour in four point seven seconds. The page lists the nine fifty-nine at three point four seconds, per Paul Fr\u00e8re on the five hundred thirty horsepower car, and three point seven in an Auto Motor und Sport test of the same car. Car and Driver's three point six was zero to sixty miles per hour.",
+   "query": "Porsche 959 launch",
+   "caption": "0\u2013100 KM/H: F40 4.7 S \u00b7 959 (530 PS) 3.4\u20133.7 S",
+   "cuts": 3
+  },
+  {
+   "text": "The comparison is not like for like, since the Porsche figures are for the more powerful car. But the direction is clear: the nine fifty-nine's all-wheel drive let it launch much harder. By our arithmetic, the best nine fifty-nine figure, three point four, is about twenty-eight percent quicker to a hundred than the F forty's four point seven. That is the P S K system at work.",
+   "query": "Porsche 959 acceleration",
+   "caption": "959 \u2248 28% QUICKER TO 100 THAN THE F40 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Top speed. Wikipedia lists the F forty at three hundred twenty-one kilometres per hour in the earliest test, with Road and Track at three hundred fifteen and Car and Driver at three hundred seventeen. The Porsche is listed at three hundred seventeen at launch, three hundred eighteen in an Auto Motor und Sport test, and up to three hundred thirty-nine for the S. Classic Motorsports gives two hundred two miles per hour against one ninety-seven.",
+   "query": "Nard\u00f2 test track",
+   "caption": "TOP SPEED: F40 315\u2013321 KM/H \u00b7 959 317\u2013339 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "The Nard\u00f2 comparison is the cleanest. Wikipedia says Ferrari's two cars could not exceed three hundred twenty-one kilometres per hour at Nard\u00f2, while the nine fifty-nine S reached three hundred thirty-nine. By our arithmetic, that is a difference of eighteen kilometres per hour, about five and a half percent. The page adds that the Ruf C T R reached three hundred forty-two.",
+   "query": "Nard\u00f2 Ring",
+   "caption": "NARD\u00d2: F40 321 \u00b7 959 S 339 \u00b7 RUF CTR 342 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "Note the caveat. The nine fifty-nine S was a limited version, twenty-nine built, with five hundred fifteen horsepower, and not the standard car. The standard nine fifty-nine, with four hundred fifty, is listed at three hundred seventeen to three hundred eighteen, which is about the same as the F forty's three hundred fifteen to three hundred twenty-one. So the standard cars are evenly matched in top speed.",
+   "query": "Porsche 959 S",
+   "caption": "STANDARD CARS ARE EVENLY MATCHED ON TOP SPEED",
+   "cuts": 3
+  },
+  {
+   "text": "Price. Wikipedia says the F forty's launch price was about four hundred thousand dollars. The nine fifty-nine's launch price was four hundred thirty-one thousand, five hundred fifty Deutsche Marks, which the page converts to about two hundred twenty-five thousand dollars. By our arithmetic, the Ferrari cost about seventy-eight percent more than the Porsche in dollar terms, at launch.",
+   "query": "Ferrari F40 and Porsche 959 price",
+   "caption": "F40 \u2248 $400,000 \u00b7 959 \u2248 $225,000 (DM 431,550)",
+   "cuts": 3,
+   "chapter": "Round four: price and what it cost to make"
+  },
+  {
+   "text": "But that is not the whole story. The page says the nine fifty-nine's price was less than half of Porsche's build cost for each car. By our arithmetic, that means each car cost Porsche more than four hundred fifty thousand dollars to make, since two hundred twenty-five thousand is less than half of it. The Ferrari's price was higher than the Porsche's, and so, probably, was its profit.",
+   "query": "Porsche factory",
+   "caption": "959 PRICE < HALF OF BUILD COST \u2192 BUILD COST > $450K (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia adds that Porsche lost about two hundred thousand dollars per car on U S sales because of the unfavourable exchange rate. We should be careful: the page gives the loss on U S sales, not on all sales. And it does not say how many of the two hundred ninety-two cars were sold in the United States, so we cannot compute a total. We only note that the car was a money-loser by design.",
+   "query": "Porsche 959 exchange rate",
+   "caption": "US SALES: ~$200,000 LOSS PER CAR (EXCHANGE RATE)",
+   "cuts": 3
+  },
+  {
+   "text": "For Ferrari, the sources give no cost per car. Wikipedia says the F forty's launch price was roughly five times that of the two eighty-eight G T O. Classic Motorsports says the F forty cost about one million dollars in September twenty nineteen, when its article first ran. So the market rose enormously, from four hundred thousand to a million in about thirty years, before rising further.",
+   "query": "Ferrari F40 price history",
+   "caption": "F40: ~$400K (1987) \u2192 ~$1M (2019, CLASSIC MOTORSPORTS)",
+   "cuts": 3
+  },
+  {
+   "text": "Production. Wikipedia lists the Ferrari at one thousand, three hundred eleven, with some sources saying up to one thousand, three hundred fifteen, from a plan of four hundred. The Porsche, according to the page, ended production in nineteen eighty-eight with two hundred ninety-two cars, or three hundred thirty-seven including thirty-seven prototypes and pre-production cars.",
+   "query": "Ferrari and Porsche production",
+   "caption": "F40: 1,311 \u00b7 959: 292 (337 WITH PROTOTYPES)",
+   "cuts": 3,
+   "chapter": "Round five: production and rarity"
+  },
+  {
+   "text": "By our arithmetic, the Ferrari was built in about four and a half times the number of the Porsche, one thousand, three hundred eleven over two hundred ninety-two. The nine fifty-nine S adds twenty-nine, and eight Komfort cars were assembled later. So the Porsche is the rarer car, by a wide margin, though neither is a common sight.",
+   "query": "Porsche 959 rarity",
+   "caption": "F40 \u2248 4.5\u00d7 MORE NUMEROUS THAN THE 959 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a link to demand. Wikipedia says speculators sold F forty cars for up to more than seven times list price in nineteen eighty-nine. For the Porsche, the page gives no similar figure. Our sources do not tell us whether speculators bought nine fifty-nines at similar premiums. So we leave the question there, and note that rarity alone does not decide the price.",
+   "query": "Car speculators",
+   "caption": "F40 SPECULATORS: UP TO 7\u00d7 LIST \u00b7 959: NO FIGURE IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Racing is where the Porsche's story is stronger. Wikipedia says development cars, nine fifty-three, finished first, sixth and twenty-fifth in the nineteen eighty-four Paris-Dakar. In nineteen eighty-six the nine fifty-nine finished first with Ren\u00e9 Metge, second with Jacky Ickx and sixth. A nine fifty-nine also won the nineteen eighty-five Rallye des Pharaons. In nineteen eighty-six at Le Mans, the nine sixty-one finished first in its class and seventh overall.",
+   "query": "Porsche Paris-Dakar",
+   "caption": "PARIS-DAKAR 1986: 959 FIRST (METGE), SECOND (ICKX)",
+   "cuts": 3,
+   "chapter": "Round six: racing"
+  },
+  {
+   "text": "The Ferrari raced later and on tracks. Wikipedia says the F forty L M debuted at Laguna Seca on the fifteenth of October, nineteen eighty-nine, and finished third overall. The G T E won the four hours of Anderstorp in nineteen ninety-five and ninety-six. Nineteen racing cars were built in all. The Porsche proved itself in rallies and endurance races. The Ferrari proved itself in sports car racing.",
+   "query": "Ferrari F40 racing",
+   "caption": "F40 LM: 3RD AT LAGUNA SECA 1989 \u00b7 GTE WINS 1995, 1996",
+   "cuts": 3
+  },
+  {
+   "text": "Neither car raced in Group B itself. The category ended before they could. So the cars exist as results of a competition that never fully happened. By our reading, that makes them two of the last cars of an era. The sources do not say this directly, so it is our reading, but the dates are consistent with it.",
+   "query": "Group B legacy",
+   "caption": "NEITHER RACED IN GROUP B ITSELF (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "A real-world difference concerns the United States. Wikipedia says two hundred thirteen F forty cars were destined for the U S, and Sotheby's describes a U S-spec car as one of two hundred thirteen allocated for North America. The nine fifty-nine, by contrast, could not be federalised after the nineteen eighty-eight Imported Vehicle Safety Compliance Act, because Porsche tested it only to European standards.",
+   "query": "US customs",
+   "caption": "F40: 213 US CARS \u00b7 959: COULD NOT BE FEDERALISED AFTER 1988",
+   "cuts": 3,
+   "chapter": "Round seven: can you drive it in America?"
+  },
+  {
+   "text": "Bill Gates bought a nine fifty-nine in nineteen eighty-eight, the page says, and customs stored it for thirteen years before the Show or Display law took effect on the thirteenth of August, nineteen ninety-nine. That law allowed limited use of two thousand, five hundred road miles a year. The page adds that cars over twenty-five years old are no longer subject to these restrictions.",
+   "query": "Porsche 959 in the US",
+   "caption": "13 YEARS IN CUSTOMS \u00b7 SHOW OR DISPLAY: 2,500 MILES A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "The page also says that the claim that Porsche skipped U S crash tests is a myth, because the D O T does not conduct crash tests itself. It is the sort of detail that disappears in retellings. By our reading, the Ferrari's U S allocation made it the easier car to own in America, even in nineteen eighty-seven. The Porsche had to wait.",
+   "query": "Porsche 959",
+   "caption": "THE 'SKIPPED CRASH TESTS' CLAIM IS CALLED A MYTH (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "So, which car wins? On power and torque, the Ferrari. On weight and power to weight, the Ferrari. On acceleration, the Porsche. On top speed, the standard cars are equal, and the Porsche S is faster. On technology, the Porsche. On price and what it cost to make, the Ferrari earned more, and the Porsche lost money. On rarity, the Porsche. On racing, the Porsche in rallies, the Ferrari on tracks.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "SCORECARD",
+   "cuts": 3,
+   "chapter": "The verdict"
+  },
+  {
+   "text": "The real difference is the philosophy. Porsche used the project to show what technology could do, regardless of cost. Ferrari made the simplest, fastest car it could, with what it had. Both are legends. One lost money and gave its makers technology they could use later. The other made money and gave its makers a reputation. Both cars are remembered, and neither is better in every way.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "TECHNOLOGY SHOWCASE VS DISTILLED RECIPE (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "One caution. We have not driven either car. The Porsche's figures come from different versions, the Ferrari's weights differ by source, and some comparisons are our own arithmetic. We have tried to say so each time. If you have a verified detail, tell us in the comments, with where it comes from.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "NUMBERS, NOT A DRIVING VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Before the final verdict, a word about disagreements, because the F forty is full of them. Wikipedia lists its weight at one thousand, two hundred fifty-four kilograms for Europe. The DK Engineering archive lists one thousand, two hundred two. Our arithmetic says that is a fifty-two kilogram gap, about four percent, between two published figures for the same car. We use the Wikipedia numbers above, and flag the rest.",
+   "query": "Ferrari F40 weight discrepancy",
+   "caption": "F40 WEIGHT: 1,202 KG (DK) VS 1,254 KG (WIKIPEDIA)",
+   "cuts": 3,
+   "chapter": "Round eight: where the sources disagree"
+  },
+  {
+   "text": "Boost pressure is another. The DK Engineering archive says the F forty made about five hundred brake horsepower at one point one bar of boost. Wikipedia's rating is four hundred seventy-eight metric horsepower. The sources do not explain the gap, and we do not guess. It may be a different rating method, a different version, or a rounded number. We simply report both figures as published.",
+   "query": "Ferrari F40 boost",
+   "caption": "F40 POWER: ~500 BHP AT 1.1 BAR (DK) VS 478 PS (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "Even the number of American cars is disputed. Wikipedia and Sotheby's say two hundred thirteen F forty cars were built for the United States. The DK Engineering archive says about six hundred of the thirteen hundred eleven went to the U S. Our arithmetic: two hundred thirteen is about sixteen percent of the total, six hundred is about forty-six percent. Those are very different pictures of the same market.",
+   "query": "Ferrari F40 American market",
+   "caption": "US CARS: 213 (WIKIPEDIA, SOTHEBY'S) VS ~600 (DK ENGINEERING)",
+   "cuts": 3
+  },
+  {
+   "text": "The unveiling date also differs. Wikipedia says the F forty was unveiled in Maranello on the twenty-first of July, nineteen eighty-seven. The DK Engineering archive says it was presented in June of that year. The archive adds that this was fourteen months before the death of Enzo Ferrari. Classic Motorsports says Enzo died in nineteen eighty-eight at the age of ninety. The sources agree on the year, not the month.",
+   "query": "Maranello",
+   "caption": "UNVEILING: JULY 21, 1987 (WIKIPEDIA) VS JUNE 1987 (DK ENGINEERING)",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the claim that the F forty was the first production car to pass two hundred miles per hour. The DK Engineering archive gives two hundred one. Classic Motorsports gives two hundred two. But Wikipedia's measured figures are lower, three hundred fifteen to three hundred seventeen kilometres per hour in magazine tests, which is about one ninety-six to one ninety-seven miles per hour, by our arithmetic. So the famous number depends on whose test you trust.",
+   "query": "Ferrari F40 top speed",
+   "caption": "THE 200 MPH CLAIM VS MEASURED ~196\u2013197 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The Porsche has its own disagreements. Wikipedia gives its power as four hundred fifty metric horsepower, and also as four hundred forty-four horsepower, which is the same number in different units. It lists three hundred seventeen kilometres per hour at launch, three hundred eighteen in one test, and three hundred thirty-six with the optional upgrade. These are not contradictions. They are different cars and different tests.",
+   "query": "Porsche 959 specifications",
+   "caption": "959: 450 PS = 444 HP \u00b7 317 / 318 / 336 KM/H DEPENDING ON CAR AND TEST",
+   "cuts": 3
+  },
+  {
+   "text": "What does this teach us? That a comparison between two legends is built from sources that disagree, and that the honest way to present it is with the ranges. Where we say the Ferrari is lighter, we mean on the figures we used. Where we say the Porsche accelerates faster, we mean the best published figure. If a number matters to you, check the source, and tell us if we missed one.",
+   "query": "Ferrari F40 and Porsche 959",
+   "caption": "WHY WE SHOW RANGES, NOT SINGLE NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Ownership is where the two cars part ways again. Classic Motorsports says the F forty's timing belts are replaced every three years, that the engine stays in the car, but the seats and the rear firewall come out. Fluids are changed yearly, for about one thousand dollars. Fuel bladders can leak after about ten years, though U S cars used aluminium tanks.",
+   "query": "Ferrari F40 maintenance",
+   "caption": "F40: BELTS EVERY 3 YEARS \u00b7 FLUIDS YEARLY ~$1,000 (CLASSIC MOTORSPORTS)",
+   "cuts": 3,
+   "chapter": "A word on ownership"
+  },
+  {
+   "text": "Classic Motorsports also calls the F forty cheaper to run than the F fifty, and very durable. For the nine fifty-nine, our sources have no maintenance figures at all, so we cannot compare running costs. We can only note that the Porsche's complexity, with its sequential turbos, all-wheel drive and adjustable suspension, means more systems to maintain than the Ferrari's simpler layout. That part is our reading, not a sourced fact.",
+   "query": "Porsche 959 complexity",
+   "caption": "959 MAINTENANCE COSTS: NOT IN OUR SOURCES \u00b7 COMPLEXITY IS OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "Values today. Sotheby's lists the most expensive F forty sales of twenty twenty-five. A nineteen ninety-three F forty L M by Michelotto sold for eleven million, five thousand dollars in August. Alain Prost's nineteen ninety car sold for three million, eight hundred eighty-six thousand, two hundred fifty dollars in December. For the Porsche, our sources give no auction prices, so we leave that comparison out.",
+   "query": "Ferrari F40 auction",
+   "caption": "2025: F40 LM $11.0M \u00b7 PROST'S F40 $3.89M (SOTHEBY'S)",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you rather own, the Ferrari or the Porsche? Tell us in the comments. In the other videos of this series, we reveal two secrets hidden inside the F forty, work out what it really costs to own one, and tell the story of the last car Enzo Ferrari approved. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+- Wikipedia, Ferrari F40: https://en.wikipedia.org/wiki/Ferrari_F40
+- Wikipedia, Porsche 959: https://en.wikipedia.org/wiki/Porsche_959
+- Classic Motorsports, Ferrari F40: the truth about living with a legend: https://classicmotorsports.com/articles/ferrari-f40-how-you-spend-million/
+- Sotheby's, The six most expensive Ferrari F40s: https://www.sothebys.com/en/articles/the-six-most-expensive-ferrari-f40s
+- DK Engineering, Ferrari F40 (1990) vehicle archive: https://www.dkeng.co.uk/Vehicle_Archive/797/ferrari_f40.html
