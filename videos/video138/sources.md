@@ -1,0 +1,10 @@
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Wikipedia, LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most
+- Sotheby's, The seven most expensive Ferrari LaFerraris: https://www.sothebys.com/en/articles/the-seven-most-expensive-ferrari-laferraris
+- RM Sotheby's, 2026 Arizona sale press release: https://rmsothebys.com/media-center/press-releases/rm-sotheby-s-opens-the-2026-auction-season-with-63-million-arizona-sale-led-by-ferrari-enzo-f50-and-laferrari/
+- Motorious, Delivery-mileage 2015 Ferrari LaFerrari heads to Broad Arrow's Zürich auction: https://www.motorious.com/articles/all/delivery-mileage-2015-ferrari-laferrari-heads-to-broad-arrows-zurich-auction/
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction
