@@ -1,161 +1,66 @@
 # Photo credits: G63 6x6 vs VelociRaptor 6x6: The Difference Nobody Explains
 
-- Brabus G63 AMG 6x6.jpg by Marvin Ladage, CC BY-SA 4.0
-- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
-- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
-- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
-- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2013 Ford F-150 Raptor SVT Roush 2.jpg by Calreyn88, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (2).jpg by Dinkun Chen, CC BY-SA 4.0
+- FORD F-150 SVT RAPTOR China (3).jpg by Dinkun Chen, CC BY-SA 4.0
+- 2010 Ford F-150 Raptor - Front View.jpg by Mbajoras, CC BY-SA 3.0
+- Silver Ford F-150 SVT Raptor on W Lone Mountain Rd.jpg by Noah Wulf, CC BY-SA 3.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 (thirteenth generation) IMG 0504.jpg by Alexander-93, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9230.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Lightning IAA 2023 1X7A0596.jpg by Alexander-93, CC BY-SA 4.0
+- Bureau of Land Management Ford F-150 on Rancho Dr.jpg by Noah Wulf, CC BY-SA 3.0
+- NHP Ford F-150 at Southern Command.jpg by Noah Wulf, CC BY-SA 4.0
+- Ford F-150 XL SuperCrew -- 03-10-2010.jpg by IFCAR, Public domain
+- Magna Steyr Werk Graz.jpg by Thilo Parg, CC BY-SA 3.0
+- Graz Linien Wagen 121 bei der Magna.jpg by Armin Ademovic, CC BY 4.0
+- Geneva Motor Show 2011 - Magna Steyr (5576220009).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- G-Klasse Produktion.jpg by Peteratkins, CC BY-SA 4.0
+- G-Class assembly, 2009 (36).JPG by Bahnfrend, CC BY-SA 3.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9217.jpg by Alexander Migl, CC BY-SA 4.0
+- Ford F-150 Shelby Super Snake.jpg by Calreyn88, CC BY-SA 4.0
+- Shelby, Paris Motor Show 2018, Paris (1Y7A1544).jpg by Matti Blume, CC BY-SA 4.0
+- 1991 Ford F-150.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ford F-150 (P552) Washington DC Metro Area, USA.jpg by OWS Photography, CC BY 4.0
+- Bureau of Land Management Ford F-series at W Lone Mtn & N Rancho Dr.jpg by Noah Wulf, CC BY-SA 4.0
+- Red Eighth Gen Ford F-150.jpg by Noah Wulf, CC BY-SA 4.0
+- NHP Ford F-150 at Las Vegas Motor Speedway - Aviation Nation 2019.jpg by Noah Wulf, CC BY-SA 4.0
+- 2025 Ford F-150 Supertruck.jpg by Calreyn88, CC BY-SA 4.0
+- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Mercedes-Benz Concept EQG IAA 2021 1X7A0095.jpg by Alexander Migl, CC BY-SA 4.0
+- Mercedes-Benz W 463 (2018) Professional Line 1X7A6057.jpg by Alexander Migl, CC BY-SA 4.0
 - Wheel of Mercedes-Benz G63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk.jpg by AngMoKio, CC BY-SA 4.0
+- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk (cropped).jpg by AngMoKio, CC BY-SA 4.0
+- Unimog S 404 (Sp 2014-06-15).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Mercedes-Benz Unimog на горе Олимп.jpg by Nikolai Bulykin, CC BY-SA 4.0
+- Mercedes Benz Unimog 1300 L.jpg by Qwerty242, CC BY-SA 3.0
 - Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, front right.jpg by Mr.choppers, CC BY-SA 3.0
 - Mercedes-Benz G63 AMG 6x6, Monaco diplomatic plates, rear right.jpg by Mr.choppers, CC BY-SA 3.0
-- 12th century Sita Mandir HIndu temple Deorbeeja, Bemetara district, Chhattisgarh - 1.jpg by Ms Sarah Welch, CC BY-SA 4.0
-- Ukrainian military vehicles in Iraq.JPEG by Andrew Williams, U.S. Marine Corps, Public domain
-- Concesionario de Mercedes-Benz, Múnich, Alemania, 2013-03-30, DD 25.JPG by Diego Delso, CC BY-SA 3.0
-- Mercedes-Benz prototypes amk1.jpg by user:AngMoKio, CC BY-SA 2.5
-- Mercedes-Benz W115 220D (1973).jpg by 1bumer, CC BY-SA 4.0
-- Münster, Beresa, Mercedes-Benz C-Klasse Cabrio -- 2018 -- 1757.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Mercedes-Benz A 200, GIMS 2018, Le Grand-Saconnex (1X7A0529).jpg by Matti Blume, CC BY-SA 4.0
-- US81nRoad-HennesseyOK (39393076944).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
-- Hennessey, OK- Plat of the Town of Hennessey, Oklahoma Territory in the S.E. ¼ of the N.W. ¼ of Sec. 24, Twp. 19 N. R. 7 W. - DPLA - a450dd6398634db4ca6ff978fbad80fb.jpg by Department of the Interior. General Land Office. 1849-7/16/1946, Public domain
-- Tornado im Bereich Hennessey und Stillwater, Oklahoma, 19. Mai 2010 VII.jpg by GerritR, CC BY-SA 4.0
-- THE CURRENT STRUCTURE IS EXCELLENT BUT THE CLAIMS REGARDING HISTORIC RELEVANCE ARE INACCURATE (THE MOY AND THE BUILDING NEXT DOOR)-272150.jpg by William Murphy, CC BY-SA 4.0
-- Daniel Souček U21 Czech Republic vs Greece 10-10-2019.jpg by Tadeáš Bednarz, CC BY-SA 4.0
-- 20180330 OEHB Cup Semi Finals - HBA Fivers Margareten vs. Alpla Hard - Maximilian Nicolussi 850 5575.jpg by Granada, CC BY-SA 4.0
-- A timeline of Lothian Buses - geograph.org.uk - 6281069.jpg by M J Richardson, CC BY-SA 2.0
-- A timeline of the academic degrowth discourse.jpg by Authors of the study: Martin Weiss, Claudio Cattaneo, CC BY 4.0
-- Timeline of Breg journey.jpg by Kirill Korneev, CC BY 4.0
-- Arch of the Pukará de Quitor fortress framing the Licancabur volcano (potw2501a).jpg by ESO/A. Ghizzi Panizza, CC BY 4.0
-- Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe.jpg by ESO/L. Calçada, CC BY 4.0
-- Albion Press printing Printopia 2025 MRD 08.jpg by Mike Dickison, CC BY 4.0
-- Renault 4cv engine 1961.jpg by Palauenc05, CC BY-SA 4.0
-- Union Pacific 844, Painted Rocks, NV, 2009 (crop).jpg by 04_15_09_162xp_-_Flickr_-_drewj1946.jpg: Drew  Jacksich from San Jose, CA, The Republic of California
-derivative work: Bruce1ee, CC BY-SA 2.0
-- 2007-06-15 34 Moto Guzzi PE, Fg.-Nr. SP7032.jpg by Lothar Spurzem, CC BY-SA 2.0 de
-- 5520 Hennessey Pl.jpg by Properpostman, CC BY-SA 4.0
-- Hennessey Venom GT (2011) (54559211389).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Hennessey Venom GT (2011) (54559360500).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Lactarius indigo 48568 edit.jpg by Dan Molter, CC BY-SA 3.0
-- Skull of an island fox (right) compared with that of a gray fox (left).jpg by OsteologicalsRock, CC BY-SA 3.0
-- Power Plant (Tianjin, China).jpg by Shubert Ciencia, CC BY 2.0
-- Image from page 464 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901).jpg by Internet Archive Book Images, CC0
-- Image from page 273 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901).jpg by Internet Archive Book Images, CC0
-- Image from page 8 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) Great Northern.jpg by Internet Archive Book Images, CC0
-- Newspeak WARNING - The Hale CPZ 'upgraded' with 'new parking signs & lines'.jpg by Alan Stanton, CC BY-SA 2.0
-- Scene from the working dinner 000191209.jpg by Government of Japan, CC BY 4.0
-- The two leaders in conversation 000191211.jpg by Government of Japan, CC BY 4.0
-- Engine-generator (medium size, on wheels).jpg by Fumikas Sagisavas, CC0
-- Boeing-engine-size-human-size-compare.jpg by Rupal28, CC BY-SA 4.0
-- Peugeot 407 first registered in Britain June 2006 engine displacement 1997cc.jpg by MumblesToad01, CC BY-SA 4.0
-- REIGN EXTRATERRESTRIAL 420 cfixe.jpg by Reign extraterresrial, CC BY-SA 3.0
-- Volkswagen XL1 (52175322882).jpg by Clemens Vasters from Viersen, Germany, Germany, CC BY 2.0
-- Cunningham C-3 Continental Coupé (1952) (52128859888).jpg by Charles from Port Chester, New York, CC BY 2.0
-- 1988 Ferrari 328 GTS (21337006022).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
-- Jaguar XK 180 (1999).jpg by Gordon Calder - 7 Million Views - Thanks!, CC BY 2.0
-- Audi R8 Coupé 5.2 V10 (5215065197).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
-- Belgian Army, BAS 24, Brussels (P1170140-RR).jpg by Matti Blume, CC BY-SA 4.0
-- Gearbox Frisco Entryway.jpg by DanHewittGBX, CC BY-SA 4.0
-- Modell Binärstufengetriebe.jpg by Deutsches Museum / Christian Ferstl, CC BY-SA 4.0
-- Mercedes-Benz W124 Brabus 6.5 Classic-Gala 2021 1X7A0101.jpg by Alexander Migl, CC BY-SA 4.0
-- Brabus 550 Adventure 4X42 IMG 0008.jpg by Alexander Migl, CC BY-SA 4.0
-- Brabus SL, Essen (P1170039-RR).jpg by Matti Blume, CC BY-SA 4.0
-- Clouds reflected in Tower Two-Sixty,2022-09-26.jpg by Cbaile19, CC0
-- Miss Sixty Energie West Edmonton Mall 2014.jpg by Rowanswiki, CC0
-- Golden Sixty 20240428.jpg by Will629, CC0
-- SFMM- Full Throttle 4.JPG by METRO96, CC BY-SA 3.0
-- SFMM- Full Throttle 1.JPG by METRO96, CC BY-SA 3.0
-- SFMM- Full Throttle 2.JPG by METRO96, CC BY-SA 3.0
-- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
-- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
-- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
-- Qin Iron Weight.jpg by Gary Todd, CC0
-- Han Bronze Mat or Paper Weight 05.jpg by Gary Lee Todd, Ph.D., CC0
-- Han Bronze Mat or Paper Weight 06.jpg by Gary Lee Todd, Ph.D., CC0
-- Mercedes-Benz EQV (48821230507).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
-- Mercedes-Benz S-Klasse (8423413356).jpg by Tobias Nordhausen from Sondershausen, Deutschland, CC BY 2.0
-- Mercedes-Benz S-Klasse (7027313273).jpg by Tobias Nordhausen from Sondershausen, Deutschland, CC BY 2.0
-- 2003 Toyota LandCruiser 75 series Troopcarrier & 2002 2002 Volkswagen T4 Transporter ambulances (5349812715).jpg by sv1ambo, CC BY 2.0
-- Sprengisandur bus breakdown by Bruce McAdam.jpg by Bruce McAdam from Reykjavik, Iceland, CC BY-SA 2.0
-- E1 Chinese Take-away. 071 number.jpg by sludgegulper, CC BY-SA 2.0
-- Tire pressure monitoring system 05.jpg by Comfr, CC BY-SA 4.0
-- Tire pressure monitoring system 01.jpg by Comfr, CC BY-SA 4.0
-- Tire pressure monitoring system 06.jpg by Comfr, CC BY-SA 4.0
-- The Nativity with Donors and Saints Jerome and Leonard MET DT1476.jpg by Gerard David, CC0
-- Master of the St. Lucy Legend - Triptych of Madonna and Child with Angels; Donor and His Patron Saint Peter Martyr; and Saint Jerome - Google Art Project.jpg by Master of the Legend of Saint Lucy, Public domain
-- 1960 (Donor) Austin Healey Sprite 'Lftovrs' Custom-built car 1.0.jpg by Vauxford, CC BY-SA 4.0
-- 030 - Mercedes-Benz CL63 AMG - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
-- 017 - Mercedes-Benz SLS AMG - Flickr - Price-Photography.jpg by Michael Price from Houston, USA, CC BY 2.0
-- Mercedes-Benz AMG SL56.jpg by Michael Price, CC BY 2.0
-- Hennessey Venom GT (2011) (54558151802).jpg by Charles from Port Chester, New York, CC BY 2.0
-- Teatro Circo Price - 01.jpg by Carlos Delgado, CC BY-SA 3.0
-- 2A Price Street, Birkenhead.jpg by Rodhullandemu, CC BY-SA 4.0
-- Rollier’s price sticker.jpg by WikiGrower1, CC BY 4.0
-- Liga de Desarrollo de Argentina - Ferro vs Comunicaciones.jpg by Dubstar, CC BY-SA 4.0
-- Liga de Desarrollo de Argentina - Ferro vs Comunicaciones (2).jpg by Dubstar, CC BY-SA 4.0
-- Mercedes Mone vs. Kanji.jpg by Sceptre, CC BY-SA 4.0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 56).jpg by Wright Brothers, Dayton, Ohio, CC0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 36).jpg by Wright Brothers, Dayton, Ohio, CC0
-- 1909 Wright Military Flyer - DPLA - 399d43f0c2b7de2633d60e2e812ddf78 (page 24).jpg by Wright Brothers, Dayton, Ohio, CC0
-- The Donor Window (detail).jpg by Alison Kinnaird (engraver); Robin Morton (photographer), CC BY-SA 3.0
-- Kushan donor and Bodhisatva.jpg by Uploadalt, CC BY-SA 3.0
-- Knesset Gimmel donor memorial plaque.JPG by Yoninah, CC BY-SA 3.0
-- The footbridge is still not open to pedestrians, but the goose has other options - geograph.org.uk - 2382095.jpg by Ian Greig, CC BY-SA 2.0
-- A fork in the options - geograph.org.uk - 7919121.jpg by TCExplorer, CC BY-SA 2.0
-- SXSW 2022 - Larry Sharpe with Julia Spina author of The Unlucky Investor's Guide to Options Trading.jpg by Dennis Consorte, CC BY-SA 4.0
-- 19 AW commander throws first pitch, engages with community (240811-F-EM058-1690).jpg by Airman 1st Class Sarah Ortega Corona, Public domain
-- 19 AW commander throws first pitch, engages with community (240811-F-EM058-1998).jpg by Airman 1st Class Sarah Ortega Corona, Public domain
-- Newcastle United vs Wolverhampton Wanderers, 25 February 2012.jpg by Jeff Pearson, CC BY-SA 2.0
-- Olympic Stadium Munich - Rows of Seats, April 2019 -04.jpg by Martin Falbisoner, CC BY-SA 4.0
-- Pinacoteca de São Paulo 6.jpg by Wilfredor, CC0
-- 20221219 PKP Intercity TLK 47100 Spodek compartment train.jpg by Abraham, CC BY-SA 4.0
-- Gap of Dunloe looking north.jpg by DeFacto, CC BY-SA 4.0
-- 2018-06-07 Sycamore Gap Tree (Acer pseudoplatanus), next to Hadrian’s Wall UK.jpg by Gordon Leggett, CC BY-SA 4.0
-- Selfie-time, Hope Gap, Seaford Head - geograph.org.uk - 7592971.jpg by Robin Stott, CC BY-SA 2.0
-- The flag waver of Mohamed Mahmoud Street 2 (18425536450).jpg by Alisdare Hickson from Canterbury, United Kingdom, CC BY-SA 2.0
-- A complete cast one-piece lead-alloy toy of probable 18th century date. (FindID 797385).jpg by The Portable Antiquities Scheme, Edwin Wood, 2016-08-16 15:32:38, CC BY 2.0
-- Книжка сберегательная № 290228 Петроградской государственной сберегательной кассы. С. 6–7--moneymuseum-by.jpg by Saint Petersburg/Petrograd State Savings Bank; printed form by the Expedition for the Preparation of State Papers (Э. З. Г. Б.). Individual designers and writing officials are not identified., Public domain
-- Nanowald (Tiny Forest) Oderstraße Berlin-Neukölln 01.jpg by Singlespeedfahrer, CC0
-- Former Glamorgan Staff Club, Cardiff, October 2010 (.jpg by No Swan So Fine, CC BY-SA 4.0
-- The Tiny Cupboard.jpg by Mattrosenblum, CC BY-SA 4.0
-- Ninh Hòa salt production - alt.JPG by Original: [Tycho]  talk , http://shansov.net
-derivative work: Ximonic (talk), Simo Räsänen, CC BY-SA 3.0
-- Cinecraft Production Photo - U.S. Navy - A Very Special Man (1968).jpg by 75Portlewes, CC0
-- 1 - Tokyo Shaking - Filmmaking (2020).jpg by Roussels, CC BY-SA 4.0
-- Here are some facts about the Black Throated Thrush Turdus atrogularis.jpg by Shiv's fotografia, CC BY 4.0
-- Aurora outlier, Boszhira tract. Kazakhstan, Mangistau. November 2024.jpg by Astrobond, CC BY-SA 4.0
-- Ford F100 Twin-I-Beam Pickup-Motor-04ASD.jpg by Asurnipal, CC BY-SA 4.0
-- That's where they went... (6769820283).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
-- Where the waters went - geograph.org.uk - 4951431.jpg by Anthony O'Neil, CC BY-SA 2.0
-- Where the Track Went - geograph.org.uk - 8404816.jpg by Andy Beecroft, CC BY-SA 2.0
-- Mercedes-Benz GLE (44912573644).jpg by Jason Lawrence from New York, CC BY 2.0
-- 2019 Mercedes-Benz E 300 Exclusive Line (7).jpg by Bindydad123, CC BY-SA 4.0
-- Mercedes C63 AMG Sedan (50239858586).jpg by Freggs, CC BY-SA 2.0
-- 2022 Hennessey Venom F5 Roadster.jpg by MrWalkr, CC BY-SA 4.0
-- 2022 Hennessey Venom F5.jpg by MrWalkr, CC BY-SA 4.0
-- 2022 Hennessey Venom F5 SP 22.jpg by MrWalkr, CC BY-SA 4.0
-- VCD railway station(3).jpg by GennadyL, CC0
-- VCD railway station(2).jpg by GennadyL, CC0
-- VCD railway station(1).jpg by GennadyL, CC0
-- The crisis widened the gap between digital and non-digital firms.jpg by European Investment Bank, CC BY-SA 3.0 igo
-- Bridging The Gap (21012614061).jpg by Phil Dolby, CC BY 2.0
-- Wachsende Schaedelfraktur 6mo-14moW - CR seitlich - 001.jpg by Hellerhoff, CC BY-SA 4.0
-- FIFA WC-qualification 2014 - Austria vs. Germany 2012-09-11 - Marc-André ter Stegen 01.JPG by Michael Kranewitter, CC BY-SA 3.0
-- FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Republic of Ireland national football team.jpg by Michael Kranewitter, CC BY-SA 3.0 at
-- Münster, St.-Paulus-Dom, nördliches Seitenschiff -- 2019 -- 3934-8.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Why Are They Different - Science Learning Tool - Kolkata 2009-10-29 2170.JPG by Biswarup Ganguly, CC BY 3.0
-- Wht ? Why ?.jpg by Aibel rulez, CC BY-SA 4.0
-- Why its Called a Red Tailed Hawk.jpg by Kevin Lajiness, CC BY-SA 4.0
-- The Irani cafe on the ground floor of the building was typical of such neighbourhoods. Most of them have shut shop in the city due to tempting real-estate prices and internal family differences on (3995162874).jpg by urbzoo, CC BY 2.0
-- Dülmen, Discounter Real -- 2014 -- 8056.jpg by Dietmar Rabich, CC BY-SA 4.0
-- Archbishop Josiah Fearon OUR DIFFERENCES ARE NOT THE CAUSE OF OUR PROBLEMS. THEY’RE OUR SALVATION. (22671495688).jpg by RISING Global Peace Forum, CC BY 2.0
-- Београдски сајам Хала 1, Београд (Belgrade Fair – Hall 1, Serbia).jpg by Petar Milošević, CC BY-SA 4.0
-- Rosa Bonheur, The Horse Fair, 1852–55.jpg by Rosa Bonheur, Public domain
-- Ohio State Fair Entrance.jpg by Sixflashphoto, CC BY-SA 4.0
-- Brabus G63 AMG 6x6 und Bugatti Veyron bei der GSR (2016).jpg by Marvin Ladage, CC BY-SA 4.0
-- Mercedes-Benz G63 AMG 6x6 StarsAndCars 2015 amk (cropped).jpg by AngMoKio, CC BY-SA 4.0
+- BRABUS 700 Mercedes-Benz G63 AMG 6x6.JPG by Thilo Parg, CC BY-SA 3.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14299913162).jpg by order_242 from Chile, CC BY-SA 2.0
+- Mercedes Benz G63 AMG Brabus B63S 700 6x6 (14247516394).jpg by order_242 from Chile, CC BY-SA 2.0
 - Mercedes-Benz G63 AMG 6x6 (53397824372).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0
 - G63 AMG (13842152284).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
 - Mercedes-Benz G 63 AMG 6x6.JPG by Milhouse35, CC BY-SA 3.0
 - White Mercedes-Benz G 63 AMG 6x6 rr London14.jpg by MB-one, CC BY-SA 4.0
+- Le Bar, Hôtel George-V, Paris 25 July 2015.jpg by Ben, CC BY-SA 2.0
+- Amsterdam Motor Show 2023 - 63.jpg by René Cortin, CC BY-SA 4.0
+- G63 AMG (13841787453).jpg by [https://www.flickr.com/people/89918055@N05 Manhattan Research Inc from Manhattan, CC BY-SA 2.0
+- The rearview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz G 63 AMG 6×6 (W463) rear.JPG by Tokumeigakarinoaoshima, CC0
+- G63 AMG (13842146304).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- The frontview of Mercedes-Benz G63 AMG 6×6 (W463).JPG by Tokumeigakarinoaoshima, CC0
+- Mercedes-Benz W463 G 63 AMG 6x6 at Legendy 2014.JPG by Jiří Sedláček, CC BY-SA 4.0
+- Mercedes-Benz G 6x6 in the central district ("centre ville") of Beirut 2016.jpg by Bdx, CC BY-SA 4.0
+- G63 AMG (13841792983).jpg by MANHATTAN RESEARCH INC  (MANHATTAN RESEARCH INC) from MANHATTAN , MANHATTAN, CC BY-SA 2.0
+- Mercedes-Benz G 63 AMG 6×6 (W463) front.JPG by Tokumeigakarinoaoshima, CC0
 
 ## Sources
 
