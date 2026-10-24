@@ -1,0 +1,335 @@
+{
+ "id": "video158",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Koenigsegg Gemera vs Regera: The Real Difference",
+ "scenes": [
+  {
+   "text": "Two Koenigsegg hybrids, one very different idea. The Regera has no gearbox in the usual sense, and sold out in two years. The Gemera has four seats, and took six years to reach production. They look like cousins, but the numbers say they were built for different jobs. We compare them side by side, and every figure comes from a named source.",
+   "query": "Gemera vs Regera",
+   "caption": "KOENIGSEGG GEMERA vs REGERA: THE REAL DIFFERENCE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are Wikipedia's pages on the Gemera, the Regera and Koenigsegg, a March twenty twenty-six report on AOL, Motor1, InsideHook and the RM Sotheby's catalogue for a twenty twenty Regera. Where they disagree, we show both figures. Our own maths is labelled as our arithmetic. Anything we could not find is flagged.",
+   "query": "Gemera and Regera",
+   "caption": "SOURCES: WIKIPEDIA \u00b7 AOL (30 MAR 2026) \u00b7 MOTOR1 \u00b7 INSIDEHOOK \u00b7 RM SOTHEBY'S (MONTEREY 2024) \u00b7 DISAGREEMENTS SHOWN \u00b7 OUR ARITHMETIC LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the biggest difference you can see. The Regera is a two-seater. Wikipedia lists its dimensions as four thousand five hundred sixty millimetres long, two thousand fifty wide and eleven hundred ten tall, on a wheelbase of twenty-six sixty-two. The Gemera is four thousand nine hundred seventy-five long, nineteen eighty-eight wide and twelve ninety-five tall, on a three thousand millimetre wheelbase.",
+   "query": "Size",
+   "caption": "WIKIPEDIA REGERA: L 4,560 \u00b7 W 2,050 \u00b7 H 1,110 \u00b7 WB 2,662 MM \u00b7 GEMERA: L 4,975 \u00b7 W 1,988 \u00b7 H 1,295 \u00b7 WB 3,000 MM",
+   "cuts": 5,
+   "chapter": "Round one: the seats"
+  },
+  {
+   "text": "By our arithmetic, the Gemera is four hundred fifteen millimetres longer, three hundred thirty-eight millimetres longer in the wheelbase, and one hundred eighty-five millimetres taller. But it is sixty-two millimetres narrower. In inches, that is about sixteen point three longer and seven point three taller. It is a longer, taller, slimmer car, built to fit four people.",
+   "query": "The difference",
+   "caption": "4,975 \u2212 4,560 = 415 MM \u00b7 3,000 \u2212 2,662 = 338 MM \u00b7 1,295 \u2212 1,110 = 185 MM \u00b7 1,988 \u2212 2,050 = \u221262 MM (OUR ARITHMETIC) \u00b7 415 MM = 16.3 IN; 185 MM = 7.3 IN (OUR CONVERSIONS)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia calls the Gemera the first four-seat Koenigsegg, with two doors, no B-pillar and dihedral synchro-helix doors. The Regera, according to the same encyclopedia, is a two-seat grand tourer. The Gemera's grand-touring idea was a cited headline calling it a Mega GT. The Regera's door design is not described in the paragraphs we used, so we make no claim.",
+   "query": "Seats and doors",
+   "caption": "WIKIPEDIA: GEMERA \u2014 FIRST 4-SEAT KOENIGSEGG, 2 DOORS, NO B-PILLAR, DIHEDRAL SYNCHRO-HELIX DOORS \u00b7 REGERA \u2014 2-SEAT GRAND TOURER \u00b7 REGERA DOOR DESIGN: NOT IN THE PASSAGES WE USED",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars have a five-litre twin-turbo V8 in their top form, at least on paper. Wikipedia says the Regera's V8 makes eleven hundred horsepower on regular fuel and fifteen hundred on E85. The Gemera's V8 version is also a five-litre twin-turbo on E85, and Wikipedia gives its total system output as twenty-three hundred horsepower.",
+   "query": "The engines",
+   "caption": "WIKIPEDIA: REGERA 5.0 L TWIN-TURBO V8 \u2014 1,100 HP (1,500 HP ON E85) \u00b7 GEMERA V8 VERSION \u2014 5.0 L TWIN-TURBO V8 ON E85 \u00b7 SYSTEM 2,300 HP \u00b7 2,750 N\u00b7M (2,028 LB-FT)",
+   "cuts": 3,
+   "chapter": "Round two: the engine"
+  },
+  {
+   "text": "There is a catch. The Regera's fifteen hundred horsepower is, in Wikipedia's infobox, the combined total with the electric motors. The text on the same page says one thousand seven hundred ninety-seven. And the eleven hundred and fifteen hundred figures for the V8 are quoted for the engine alone. So the Regera page contains three different power numbers.",
+   "query": "Regera's three numbers",
+   "caption": "WIKIPEDIA (REGERA): V8 1,100 HP (PUMP) / 1,500 HP (E85) \u00b7 COMBINED 1,500 HP (INFOBOX) vs 1,797 HP (TEXT) \u2192 THE PAGE GIVES MORE THAN ONE TOTAL",
+   "cuts": 3
+  },
+  {
+   "text": "The Gemera had its own version. The original three-cylinder car had a two-litre twin-turbo inline three making six hundred horsepower, and Wikipedia says it was dropped in July twenty twenty-four for lack of demand. So today, the real comparison is the V8 Gemera against the V8 Regera, and both run on E85 for their biggest numbers.",
+   "query": "Gemera engines",
+   "caption": "WIKIPEDIA: I3 (2.0 L TFG, 600 HP) DROPPED JULY 2024 \u2014 'LACK OF DEMAND' \u00b7 V8 VERSION IS THE ONE IN PRODUCTION \u00b7 INSIDEHOOK: V8-ONLY, HOLDOUTS PERSUADED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Gemera's twenty-three hundred is fifty-three percent above the Regera's fifteen hundred and twenty-eight percent above the seventeen ninety-seven. If you subtract the Gemera's eight-hundred-horsepower electric motor, you get fifteen hundred from the V8. That matches the Regera's engine on E85. In our reading, the two V8s are in the same class.",
+   "query": "Power comparison",
+   "caption": "2,300 \u00f7 1,500 = +53.3% \u00b7 2,300 \u00f7 1,797 = +28.0% \u00b7 2,300 \u2212 800 = 1,500 HP (OUR ARITHMETIC) \u00b7 'SAME CLASS' = OUR READING; NO SOURCE COMPARES THE TWO ENGINES DIRECTLY",
+   "cuts": 3
+  },
+  {
+   "text": "The electric side is where the two cars part ways. Wikipedia says the Regera has three YASA electric motors with a combined six hundred ninety-seven horsepower, a direct-drive system with a single two point seven three to one ratio, and a four-and-a-half kilowatt-hour battery from Rimac weighing seventy-five kilograms.",
+   "query": "Regera electrics",
+   "caption": "WIKIPEDIA (REGERA): 3 YASA MOTORS \u00b7 697 HP COMBINED \u00b7 DIRECT DRIVE 2.73:1 \u00b7 4.5 KWH BATTERY (RIMAC), 75 KG",
+   "cuts": 3,
+   "chapter": "Round three: how they use electricity"
+  },
+  {
+   "text": "The Gemera has an eight-hundred-fifty-volt, fourteen-kilowatt-hour battery, and a Dark Matter front motor of eight hundred horsepower. By our arithmetic, its battery is three point one times bigger than the Regera's, and its electric power eight hundred against six ninety-seven, fifteen percent higher. That is why the Gemera can drive fifty kilometres on electricity alone.",
+   "query": "Gemera electrics",
+   "caption": "WIKIPEDIA (GEMERA): 850 V, 14 KWH \u00b7 FRONT 'DARK MATTER' MOTOR 600 KW (800 HP) \u00b7 50 KM ELECTRIC RANGE \u00b7 14 \u00f7 4.5 = 3.1\u00d7 \u00b7 800 \u00f7 697 = +14.8% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Rear motors are a point of confusion. Wikipedia's Gemera text describes two rear motors of five hundred horsepower each plus the front one, but its table lists only the single front motor, and AOL says the three motors were replaced by one in twenty twenty-three. So the production Gemera most likely has one motor, though the encyclopedia page keeps both descriptions.",
+   "query": "Which Gemera?",
+   "caption": "WIKIPEDIA TEXT: FRONT 800 HP + 2 REAR 500 HP EACH \u00b7 TABLE: SINGLE MOTOR \u00b7 AOL: 2023 CHANGE TO ONE 800 HP MOTOR \u00b7 'MOST LIKELY ONE MOTOR' = OUR READING OF THESE SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Battery range matters here. The Gemera claims fourteen hundred sixty-three kilometres in total, nine hundred nine miles, with fifty kilometres on electricity alone. The Regera has no electric-only range in the sources we have: its battery is only four and a half kilowatt-hours. We have not found a published electric range for it.",
+   "query": "Electric range",
+   "caption": "WIKIPEDIA: GEMERA TOTAL RANGE 1,463 KM (909 MI), ELECTRIC 50 KM (31 MI) \u00b7 REGERA ELECTRIC-ONLY RANGE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The Regera is the car with no conventional gearbox. Wikipedia describes a direct-drive system with a single fixed ratio of two point seven three to one, linking the engine and electric motors to the wheels. We use that description as the page gives it; the encyclopedia does not explain how the clutch works, and neither do our other sources.",
+   "query": "Direct drive",
+   "caption": "WIKIPEDIA (REGERA): DIRECT DRIVE, RATIO 2.73:1 \u00b7 CLUTCH OPERATION / ENGAGEMENT DETAILS: NOT DESCRIBED IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Round four: the transmission"
+  },
+  {
+   "text": "The Gemera does have a gearbox. Wikipedia says the V8 version uses a nine-speed Light Speed Tourbillon Transmission, a modified version of the unit in the Jesko. InsideHook quotes Autoblog calling the Gemera's version smaller, lighter and better. That is the outlet's opinion, and we have no measured data on its weight.",
+   "query": "Gemera gearbox",
+   "caption": "WIKIPEDIA: GEMERA V8 \u2014 9-SPEED LIGHT SPEED TOURBILLON TRANSMISSION (LSTT), MODIFIED JESKO UNIT \u00b7 INSIDEHOOK / AUTOBLOG: 'SMALLER, LIGHTER, BETTER' (OPINION) \u00b7 TRANSMISSION WEIGHT: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "So one car relies on a single ratio and the other on nine. By our arithmetic, that is eight more gears. The sources do not say which approach is quicker, and we do not know of a head-to-head test. What they do say is the Regera's own acceleration claims, which we cover next.",
+   "query": "One ratio vs nine",
+   "caption": "9 \u2212 1 = 8 MORE GEARS (OUR ARITHMETIC) \u00b7 HEAD-TO-HEAD TEST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Acceleration numbers from Wikipedia. The Regera: zero to one hundred kilometres per hour in two point eight seconds, zero to two hundred in six point six, zero to three hundred in ten point nine, zero to four hundred in twenty. The Gemera's claim is one point nine seconds to one hundred, but for the three-cylinder car that is no longer offered.",
+   "query": "Acceleration claims",
+   "caption": "WIKIPEDIA: REGERA 0\u2013100 2.8 S \u00b7 0\u2013200 6.6 S \u00b7 0\u2013300 10.9 S \u00b7 0\u2013400 20 S \u00b7 GEMERA 0\u2013100 1.9 S (I3 VERSION, DROPPED) \u00b7 V8 GEMERA 0\u2013100: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Round five: speed claims"
+  },
+  {
+   "text": "The Regera also has a record. Wikipedia says that on the sixteenth of June twenty twenty-three at \u00d6rebro, it went from zero to four hundred and back to zero in twenty-eight point eight one seconds, regaining the record from the Rimac Nevera at twenty-nine point nine three seconds in May. In September twenty nineteen it had done thirty-one point four nine.",
+   "query": "The 0\u2013400\u20130 record",
+   "caption": "WIKIPEDIA: 23 SEP 2019 \u2014 31.49 S (R\u00c5DA) \u00b7 16 JUN 2023 \u2014 28.81 S (\u00d6REBRO), REGAINED FROM RIMAC NEVERA 29.93 S (MAY 2023)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Regera improved its own record by two point six eight seconds between twenty nineteen and twenty twenty-three, or eight and a half percent, and beat the Nevera by one point one two seconds. The Gemera has no record claimed in any of our sources, so on that scoreboard the Regera wins by default.",
+   "query": "How big a record",
+   "caption": "31.49 \u2212 28.81 = 2.68 S (\u22128.5%) \u00b7 29.93 \u2212 28.81 = 1.12 S (OUR ARITHMETIC) \u00b7 GEMERA RECORD CLAIMS: NONE IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Top speeds. Wikipedia lists a claimed four hundred kilometres per hour for the three-cylinder Gemera, and three hundred in electric mode. For the Regera, the sources we fetched list acceleration to four hundred, but no separate top-speed figure. That means we cannot say which is faster flat out, only which has more published claims.",
+   "query": "Top speed",
+   "caption": "WIKIPEDIA: GEMERA I3 400 KM/H CLAIM; 300 KM/H ELECTRIC MODE \u00b7 REGERA TOP SPEED: NOT SEPARATELY LISTED IN THE PASSAGES WE USED (0\u2013400 KM/H IN 20 S IS LISTED) \u00b7 FASTER FLAT-OUT CAR: CANNOT BE SAID",
+   "cuts": 3
+  },
+  {
+   "text": "Weight is awkward because both pages give more than one figure. For the Regera, Wikipedia lists fourteen seventy kilograms dry, fifteen ninety kerb and fifteen seventy elsewhere. For the Gemera, nineteen eighty-eight for the twenty twenty prototype and twenty forty-two for twenty twenty-three production.",
+   "query": "Weights",
+   "caption": "WIKIPEDIA: REGERA 1,470 KG DRY \u00b7 1,590 KG KERB \u00b7 1,570 KG (THREE FIGURES) \u00b7 GEMERA 1,988 KG (2020 PROTOTYPE) \u00b7 2,042 KG (2023 PRODUCTION)",
+   "cuts": 3,
+   "chapter": "Round six: weight"
+  },
+  {
+   "text": "By our arithmetic, the Gemera is at least four hundred fifty-two kilograms heavier than the Regera. The Gemera carries two extra seats, a bigger battery and a longer body. Our reading is that the weight difference is the price of space. No source states that reason.",
+   "query": "Heavier by",
+   "caption": "2,042 \u2212 1,590 = 452 KG; 2,042 \u2212 1,570 = 472 KG; 2,042 \u2212 1,470 = 572 KG (OUR ARITHMETIC; DRY vs KERB NOT LIKE-FOR-LIKE) \u00b7 'PRICE OF SPACE' = OUR READING, NOT STATED BY ANY SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Power to weight, by our arithmetic and with the caveats, comes out like this. Gemera V8: twenty-three hundred over twenty forty-two is one point one three horsepower per kilogram. Regera: fifteen hundred over fifteen ninety is zero point nine four. By that measure the Gemera wins on paper, thanks to its bigger electric system.",
+   "query": "Power to weight",
+   "caption": "GEMERA 2,300 \u00f7 2,042 = 1.13 HP/KG \u00b7 REGERA 1,500 \u00f7 1,590 = 0.94 HP/KG (OUR ARITHMETIC; MIXED SOURCE FIGURES) \u00b7 RESULT IS ONLY AS GOOD AS THE CLAIMS",
+   "cuts": 3
+  },
+  {
+   "text": "How many were made? Wikipedia's Regera infobox says eighty were built. The body of the article says eighty-five. RM Sotheby's, selling a twenty twenty car in twenty twenty-four, says eighty-five. The Regera was unveiled in Geneva in March twenty fifteen, produced from March twenty sixteen to twenty twenty-two, and sold out on the thirteenth of June twenty seventeen.",
+   "query": "Regera production",
+   "caption": "WIKIPEDIA: INFOBOX 80 BUILT \u00b7 TEXT 85 BUILT \u00b7 RM SOTHEBY'S: 85 BUILT \u00b7 UNVEILED MARCH 2015 \u00b7 PRODUCTION MARCH 2016\u20132022 \u00b7 SOLD OUT 13 JUNE 2017",
+   "cuts": 3,
+   "chapter": "Round seven: production"
+  },
+  {
+   "text": "The Gemera is limited to three hundred, according to both Wikipedia and AOL. AOL says all of them are spoken for. By our arithmetic, that is three point five times as many as the eighty-five Regeras. Koenigsegg's total output per year is not given, and neither are the deliveries to date.",
+   "query": "Gemera production",
+   "caption": "WIKIPEDIA + AOL: LIMITED TO 300 \u00b7 AOL: ALL SPOKEN FOR \u00b7 300 \u00f7 85 = 3.5\u00d7 (OUR ARITHMETIC) \u00b7 ANNUAL OUTPUT / DELIVERIES TO DATE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Timing is the sharpest contrast. By our arithmetic, the Regera sold out about two years and three months after its reveal. The Gemera was revealed on the third of March twenty twenty, was originally scheduled for production in twenty twenty-two, and began production in March twenty twenty-six, six years later, according to AOL and Wikipedia.",
+   "query": "Timeline",
+   "caption": "REGERA: MARCH 2015 \u2192 SOLD OUT 13 JUNE 2017 \u2248 2 YR 3 MO (OUR ARITHMETIC) \u00b7 GEMERA: REVEAL 3 MAR 2020 \u2192 PRODUCTION ANNOUNCED 30 MAR 2026 \u2248 6 YR (OUR ARITHMETIC) \u00b7 ORIGINALLY SCHEDULED 2022",
+   "cuts": 3
+  },
+  {
+   "text": "Prices. For the Gemera, Motor1 reported in April twenty twenty that Christian von Koenigsegg told Top Gear the U.S.-spec car starts at one point seven million dollars. InsideHook reports a rumoured four hundred thousand dollar premium for the V8. For the Regera, Wikipedia's citation titles carry nineteen hundred thousand dollars, and one point five million pounds.",
+   "query": "Prices",
+   "caption": "MOTOR1 (13 APR 2020): GEMERA U.S.-SPEC FROM $1.7 M \u00b7 INSIDEHOOK (29 JULY 2024): RUMOURED +$400,000 FOR V8 \u00b7 WIKIPEDIA REGERA CITATION TITLES: $1.9 M AND \u00a31.5 M (NO LIST PRICE IN THE TEXT)",
+   "cuts": 3,
+   "chapter": "Round eight: price"
+  },
+  {
+   "text": "So on the face of it, the Gemera's base price is lower than the Regera's quoted figure. By our arithmetic, one point seven is eleven percent below one point nine. Add the rumoured four hundred thousand for the V8 and it becomes two point one million, which is eleven percent above. Neither number is an official production price list.",
+   "query": "Which costs more?",
+   "caption": "1.7 \u00f7 1.9 = \u221210.5% \u00b7 2.1 \u00f7 1.9 = +10.5% (OUR ARITHMETIC) \u00b7 OFFICIAL PRODUCTION PRICE LISTS FOR EITHER CAR: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The used market gives a harder data point. RM Sotheby's offered a twenty twenty Regera with fifteen hundred twelve miles at Monterey in twenty twenty-four, estimating two point seven five to three point two five million dollars. It was not sold. There is no such auction record for the Gemera in our sources, since deliveries have only just begun.",
+   "query": "The auction",
+   "caption": "RM SOTHEBY'S MONTEREY 2024, LOT 240: 2020 REGERA, 1,512 MILES, CHASSIS 186, ESTIMATE $2.75\u20133.25 M, NOT SOLD \u00b7 GEMERA AUCTION RESULTS: NONE IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The same lot lists about five hundred one thousand dollars of options, including a one hundred seventy thousand dollar clear carbon finish and fifty-seven thousand dollar wheels. Wikipedia mentions upgrades of seven hundred ten thousand dollars on another auctioned Regera. By our arithmetic, options of that scale are as much as a third of the Gemera's base price.",
+   "query": "Options",
+   "caption": "RM SOTHEBY'S LOT 240: OPTIONS \u2248 $501,330 (CLEAR CARBON $170,000; TRESEX AIRCORE WHEELS $57,000) \u00b7 WIKIPEDIA: UPGRADES $710,200 ON ONE AUCTIONED CAR \u00b7 $501,330 \u00f7 $1.7 M = 29.5% (OUR ARITHMETIC; DIFFERENT CARS)",
+   "cuts": 3
+  },
+  {
+   "text": "Put it together. The Regera is a two-seat hypercar built around direct drive and records. The Gemera is a four-seat grand tourer with a gearbox, a bigger battery and a limited run of three hundred. Wikipedia and the Car and Driver headline describe the Gemera as a Mega GT. The word GT is the encyclopedia's, not ours, and the company's own definition is not in our sources.",
+   "query": "Different jobs",
+   "caption": "SYNTHESIS FROM WIKIPEDIA (REGERA, GEMERA) \u00b7 'MEGA GT' = CAR AND DRIVER HEADLINE, CITED ON WIKIPEDIA \u00b7 COMPANY'S OWN DEFINITION: NOT IN OUR SOURCES",
+   "cuts": 3,
+   "chapter": "Round nine: what each car is for"
+  },
+  {
+   "text": "Where would you win a drag race? On the evidence we have, we cannot say. The Gemera has more power on paper and more weight. The Regera has a record and a direct-drive layout. No source we found puts the two on a track together, so any declared winner would be a guess. We prefer to leave that to a real test.",
+   "query": "Who wins?",
+   "caption": "NO HEAD-TO-HEAD TEST IN OUR SOURCES \u00b7 GEMERA: MORE POWER, MORE WEIGHT \u00b7 REGERA: PUBLISHED 0\u2013400\u20130 RECORD \u00b7 ANY WINNER = GUESS",
+   "cuts": 3
+  },
+  {
+   "text": "The Regera's reputation includes one more detail, its sell-out speed. Wikipedia says it sold out on the thirteenth of June twenty seventeen. By our arithmetic, selling eighty-five cars in about twenty-seven months is about three cars a month. The Gemera's three hundred cars, over its first six years, is about four cars a month, if you count orders from the reveal.",
+   "query": "Sales pace",
+   "caption": "REGERA: ~85 CARS \u00f7 ~27 MONTHS \u2248 3.1/MONTH \u00b7 GEMERA: 300 \u00f7 ~72 MONTHS \u2248 4.2/MONTH (OUR ARITHMETIC; ASSUMES ALL 300 ORDERED SINCE REVEAL, WHICH SOURCES DO NOT STATE)",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars come from the same company. Wikipedia says Koenigsegg was founded in nineteen ninety-four by Christian von Koenigsegg, who was twenty-two, with sixty million kronor from investors. By end of twenty twenty-three it had just under eight hundred staff, and in July twenty twenty-three a new factory opened, doubling capacity.",
+   "query": "Koenigsegg",
+   "caption": "WIKIPEDIA: FOUNDED 1994 \u00b7 CHRISTIAN von KOENIGSEGG, AGE 22 \u00b7 KR 60,000,000 FROM INVESTORS \u00b7 JUST UNDER 800 STAFF (END-2023) \u00b7 NEW FACTORY JULY 2023 DOUBLED CAPACITY",
+   "cuts": 3,
+   "chapter": "The company behind both"
+  },
+  {
+   "text": "The company's lineup as of twenty twenty-six, in Wikipedia's account, is the Jesko, the Gemera and the CC850. The Regera has been out of production since twenty twenty-two. The Jesko Attack holds a Laguna Seca lap record of one minute twenty-four point eight six seconds, from August twenty twenty-four. The Gemera is not claimed to have one.",
+   "query": "The lineup",
+   "caption": "WIKIPEDIA: 2026 LINE-UP \u2014 JESKO, GEMERA, CC850 \u00b7 REGERA PRODUCTION ENDED 2022 \u00b7 JESKO ATTACK LAGUNA SECA 1:24.86 (18 AUG 2024) \u00b7 GEMERA LAP RECORD: NONE CLAIMED IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Use matters too. The Gemera is described by Wikipedia as a four-seat car with eight cup holders, four of them heated and four cooled, four touchscreens and eleven speakers. Nothing in our sources describes the Regera's cabin in comparable detail. So any comparison of comfort is one-sided: we know the Gemera's list, and we do not know the Regera's.",
+   "query": "Cabin",
+   "caption": "WIKIPEDIA (GEMERA): 8 CUP HOLDERS (4 HEATED, 4 COOLED) \u00b7 4 TOUCHSCREENS \u00b7 11 SPEAKERS \u00b7 REGERA CABIN EQUIPMENT: NOT IN THE PASSAGES WE USED",
+   "cuts": 3,
+   "chapter": "Round ten: living with them"
+  },
+  {
+   "text": "The wheels are listed for the Gemera: twenty-one inches at the front, twenty-two at the rear, on Michelin Pilot Sport 4S as standard or Cup 2R as an option. The Regera's wheel sizes are not in the passages we fetched, though RM Sotheby's lists optional Tresex AirCore wheels at fifty-seven thousand dollars. Those are the only wheel numbers we can cite for the Regera.",
+   "query": "Wheels",
+   "caption": "WIKIPEDIA (GEMERA): 21 IN FRONT, 22 IN REAR \u00b7 MICHELIN PILOT SPORT 4S / CUP 2R \u00b7 RM SOTHEBY'S (REGERA LOT 240): TRESEX AIRCORE WHEELS $57,000 (OPTION) \u00b7 REGERA WHEEL SIZES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Service costs are a fair comparison only on one side. RM Sotheby's reports that the Regera in lot two-forty had a third-year service and updates in spring twenty twenty-four costing nearly nineteen thousand dollars, including a technician flown in from Sweden. For the Gemera, no service cost is published in our sources, so we cannot compare.",
+   "query": "Service",
+   "caption": "RM SOTHEBY'S (REGERA LOT 240): THIRD-YEAR SERVICE + UPDATES, SPRING 2024, NEARLY $19,000, TECHNICIAN FLOWN FROM SWEDEN \u00b7 GEMERA SERVICE COST: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "One more point from the auction. The Regera for sale had a protective paint film applied in twenty twenty-one and clear carbon bodywork, which the catalogue lists at one hundred seventy thousand dollars. The Gemera has an optional Ghost package, but our sources do not describe it. So in finishes, we can only list the Regera's.",
+   "query": "Finishes",
+   "caption": "RM SOTHEBY'S (REGERA): PAINT FILM APPLIED 2021 \u00b7 CLEAR CARBON $170,000 \u00b7 DARK CARBON WITH GOLD DUST $62,000 \u00b7 WIKIPEDIA (GEMERA): OPTIONAL GHOST PACKAGE, CONTENTS NOT DESCRIBED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the three biggest options on that Regera, clear carbon at one hundred seventy thousand, dark carbon with gold dust at sixty-two thousand and the wheels at fifty-seven thousand, add up to two hundred eighty-nine thousand dollars. That is about fifty-eight percent of the catalogue's total options figure of five hundred one thousand.",
+   "query": "Biggest options",
+   "caption": "$170,000 + $62,000 + $57,000 = $289,000 \u00b7 $289,000 \u00f7 $501,330 = 57.6% (OUR ARITHMETIC; RM SOTHEBY'S FIGURES)",
+   "cuts": 3
+  },
+  {
+   "text": "Mileage is a quiet detail. The auctioned Regera had fifteen hundred twelve miles. By our arithmetic, over four years from its twenty twenty model year to the auction in twenty twenty-four, that is about three hundred seventy-eight miles a year. These cars are often kept more than driven, but the catalogue does not say how this one was used.",
+   "query": "Mileage",
+   "caption": "RM SOTHEBY'S LOT 240: 1,512 MILES \u00b7 2020 \u2192 2024 = 4 YEARS \u00b7 1,512 \u00f7 4 = 378 MI/YR (OUR ARITHMETIC) \u00b7 USAGE PATTERN: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "A summary of the disagreements we found. Regera build count: eighty or eighty-five. Regera combined power: fifteen hundred or seventeen ninety-seven. Regera weight: fourteen seventy dry, fifteen seventy or fifteen ninety kerb. Gemera weight: nineteen eighty-eight or twenty forty-two. Gemera motors: one or three. Gemera V8 power: twenty-three hundred or twenty-two sixty-nine.",
+   "query": "The conflicts",
+   "caption": "CONFLICTS IN OUR SOURCES: REGERA BUILT 80 / 85 \u00b7 REGERA POWER 1,500 / 1,797 HP \u00b7 REGERA WEIGHT 1,470 / 1,570 / 1,590 KG \u00b7 GEMERA WEIGHT 1,988 / 2,042 KG \u00b7 GEMERA MOTORS 1 / 3 \u00b7 GEMERA V8 2,300 / 2,269 HP",
+   "cuts": 3,
+   "chapter": "Round eleven: the numbers that do not line up"
+  },
+  {
+   "text": "Why so many? Part of the answer is time. The Gemera was revised between twenty twenty and twenty twenty-three, and the Wikipedia page keeps older and newer figures side by side. The Regera's differences look more like different counting rules. But our sources do not say why the numbers differ, so that explanation is our reading, not a fact.",
+   "query": "Why they differ",
+   "caption": "GEMERA: 2020 PROTOTYPE vs 2023 PRODUCTION FIGURES ON ONE PAGE \u00b7 REGERA: CAUSE OF DIFFERENCES NOT STATED \u00b7 'COUNTING RULES' = OUR GUESS",
+   "cuts": 3
+  },
+  {
+   "text": "For the viewer, the practical rule is simple. When you see a hypercar number quoted without a source and a date, treat it as a claim. A press release, a catalogue, and an encyclopedia page can all disagree. In this video we gave you the range of figures instead of picking the one that makes the best story.",
+   "query": "How to read the numbers",
+   "caption": "RULE OF THUMB = OUR EDITORIAL POSITION \u00b7 FIGURES SHOWN AS RANGES WHERE SOURCES DISAGREE",
+   "cuts": 3
+  },
+  {
+   "text": "One last comparison, our own. Add the production counts: eighty-five Regeras and three hundred Gemeras make three hundred eighty-five cars. By our arithmetic, the Gemera is seventy-eight percent of that combined total. If every Gemera is delivered, Koenigsegg will have built more than three times as many of this hybrid family in the Gemera as in the Regera.",
+   "query": "Combined",
+   "caption": "85 + 300 = 385 \u00b7 300 \u00f7 385 = 77.9% \u00b7 300 \u00f7 85 = 3.5\u00d7 (OUR ARITHMETIC; ASSUMES 85 REGERAS AND ALL 300 GEMERAS DELIVERED)",
+   "cuts": 3
+  },
+  {
+   "text": "One more way to compare is by what each car chose to leave out. The Regera left out a conventional multi-speed gearbox, using a single fixed ratio. The Gemera left out its original three-cylinder and its three electric motors. Both are cases of simplification, though in the Gemera's case the sources say it happened after the first reveal, not before it.",
+   "query": "What was left out",
+   "caption": "WIKIPEDIA (REGERA): FIXED 2.73:1 DIRECT DRIVE \u00b7 AOL + WIKIPEDIA (GEMERA): I3 AND 3-MOTOR LAYOUT DROPPED 2023\u20132024 \u00b7 'SIMPLIFICATION' = OUR WORD; AOL SAYS THE 2023 CHANGE CUT 'WEIGHT AND COMPLEXITY'",
+   "cuts": 3,
+   "chapter": "Round twelve: the engineering choices"
+  },
+  {
+   "text": "A note on E85. Both cars reach their headline power on E85, an ethanol blend. Wikipedia says so for the Regera's fifteen hundred and the Gemera's twenty-three hundred. On ordinary pump fuel, the Regera's V8 is rated at eleven hundred. The Gemera's pump-fuel V8 figure is not in our sources, so we cannot say how much power an owner loses on regular gas.",
+   "query": "E85",
+   "caption": "WIKIPEDIA: REGERA V8 1,100 HP (PUMP) / 1,500 HP (E85) \u00b7 GEMERA V8 SYSTEM 2,300 HP ON E85 \u00b7 GEMERA PUMP-FUEL FIGURE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the Regera loses about twenty-seven percent of its V8 power on pump fuel compared with E85: eleven hundred is seventy-three percent of fifteen hundred. That matters for buyers in places where E85 is not sold. Neither the Gemera nor the Regera page says how many owners actually run E85.",
+   "query": "Pump fuel penalty",
+   "caption": "1,100 \u00f7 1,500 = 73.3% \u2192 \u221226.7% (OUR ARITHMETIC; WIKIPEDIA FIGURES) \u00b7 OWNERS' ACTUAL FUEL USE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the question of where each car sits in the Koenigsegg story. Wikipedia's company page lists the Agera, Regera, Jesko, Gemera and CC850 among the models. The Regera arrived in twenty fifteen, the Gemera in twenty twenty. By our arithmetic, that is five years between reveals, and the Gemera's production start came eleven years after the Regera's reveal.",
+   "query": "Where they sit",
+   "caption": "WIKIPEDIA: REGERA REVEAL MARCH 2015 \u00b7 GEMERA REVEAL MARCH 2020 \u00b7 GEMERA PRODUCTION MARCH 2026 \u00b7 2015 \u2192 2020 = 5 YR \u00b7 2015 \u2192 2026 = 11 YR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So if you are choosing, ask what you want the car for. Four seats and a gearbox point to the Gemera. A two-seat record holder with direct drive points to the Regera. The prices, in the sources we found, are of similar size, from about one point seven to two point one million for the Gemera and nearly two million for the Regera. Our advice is to read the specifications, not the headlines.",
+   "query": "Choosing",
+   "caption": "GEMERA $1.7\u20132.1 M (MOTOR1; INSIDEHOOK, V8 PREMIUM RUMOURED) \u00b7 REGERA \u2248 $1.9 M (WIKIPEDIA CITATION TITLE) \u00b7 ADVICE = OUR EDITORIAL OPINION, NOT BUYING ADVICE",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. A measured head-to-head test. A reconciled weight for the production Gemera. An official production price for either car. The Regera's top speed. The V8 Gemera's zero to one hundred time. And the split of Gemeras between V8 and the old three-cylinder. If you have a primary source for any of these, put it in the comments.",
+   "query": "Gemera and Regera",
+   "caption": "NOT IN OUR SOURCES: HEAD-TO-HEAD TEST \u00b7 RECONCILED GEMERA WEIGHT \u00b7 OFFICIAL PRICES \u00b7 REGERA TOP SPEED \u00b7 V8 GEMERA 0\u2013100 \u00b7 V8/I3 SPLIT",
+   "cuts": 3,
+   "chapter": "What the sources do not say"
+  },
+  {
+   "text": "So the real difference is not speed, because the sources do not settle that. It is purpose. The Regera is a two-seat record car with direct drive and eighty-five units. The Gemera is a four-seat grand tourer with a gearbox and three hundred units. In the other videos, we count the cost of owning a Koenigsegg and tell why they build cars in a fighter-jet hangar. Subscribe to Pickup Reality.",
+   "query": "Gemera and Regera",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
