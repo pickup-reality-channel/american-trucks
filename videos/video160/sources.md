@@ -1,0 +1,6 @@
+- Wikipedia, Koenigsegg: https://en.wikipedia.org/wiki/Koenigsegg_Automotive
+- Wikipedia, Scania Wing (F 10): https://en.wikipedia.org/wiki/Scania_Wing
+- SlashGear, the story of the Koenigsegg ghost emblem
+- Jalopnik, Koenigsegg factory tour
+- Wikipedia, Koenigsegg Gemera: https://en.wikipedia.org/wiki/Koenigsegg_Gemera
+- AOL (Car and Driver), The Koenigsegg Gemera is finally starting production, 30 Mar 2026: https://www.aol.com/articles/koenigsegg-gemera-finally-starting-production-210300723.html
