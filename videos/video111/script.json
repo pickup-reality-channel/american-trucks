@@ -1,0 +1,301 @@
+{
+ "id": "video111",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "What a Real Shelby Cobra Costs Today",
+ "scenes": [
+  {
+   "text": "A Shelby Cobra four hundred twenty-seven cost seven thousand, five hundred dollars new. A Hagerty price guide dated April twenty twenty-five values a good condition one at two point two five million. That is three hundred times the original price. But a car that looks the same, a continuation Cobra, sold in March twenty twenty-four for three hundred thirty-five thousand. This is what a real Shelby Cobra costs today, and how to tell which one you are looking at.",
+   "query": "Shelby Cobra 427",
+   "caption": "WHAT A REAL SHELBY COBRA COSTS TODAY",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. The same chassis number can appear in two very different price lists. One Cobra sold in the twenty-tens for nine hundred two thousand dollars and later for one point six five five million. Another sold in two thousand five for five hundred thirty-five thousand and later for one point three two five million. And one of the cars that looks like a Cobra is not an original at all. Stay to the end.",
+   "query": "Shelby Cobra auction",
+   "caption": "SAME CAR, TWO PRICES, ONE FAKE QUESTION",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure comes from a published source, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so. This is not buying advice, and we cannot authenticate any car.",
+   "query": "Shelby Cobra",
+   "caption": "NOT BUYING ADVICE \u00b7 EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Du Pont Registry says the original release price of the four hundred twenty-seven Cobra was seven thousand, five hundred dollars, and that in nineteen sixty-six it was priced well above any other American car. Our sources do not give the new price of the smaller two hundred sixty and two hundred eighty-nine cars, so we do not compare those.",
+   "query": "Shelby Cobra 427 advert",
+   "caption": "NEW, 1966: $7,500 FOR A 427 (DU PONT REGISTRY)",
+   "cuts": 3,
+   "chapter": "What a Cobra cost new"
+  },
+  {
+   "text": "Production was small. Du Pont Registry says Shelby American built nine hundred ninety-eight Cobras in total. Wikipedia lists a hundred twenty-six Mark One cars, about five hundred twenty-eight Mark Two cars, and fifty-six Mark Three four hundred twenty-sevens, and warns that the numbers do not fit the chassis numbering. So the supply of originals is a few hundred to a thousand, depending on the source.",
+   "query": "Shelby Cobra production",
+   "caption": "998 BUILT (DU PONT) \u00b7 WIKIPEDIA'S COUNTS DIFFER",
+   "cuts": 3
+  },
+  {
+   "text": "The company itself did not do well. Wikipedia says Ford and Shelby ended imports from England in nineteen sixty-seven, and calls the Cobra a financial failure. So the cars that now sell for millions did not make a fortune for their makers. The market value today was created later, by scarcity and by the legend.",
+   "query": "Shelby American",
+   "caption": "THE COBRA WAS A FINANCIAL FAILURE FOR ITS MAKERS",
+   "cuts": 3
+  },
+  {
+   "text": "Now the prices, from Hagerty's past sales database and other sources. We start with the 427 side-oiler S slash C, chassis C S X three zero four zero, which sold at R M Auctions in Monterey in August two thousand one for four hundred fifty-one thousand dollars. It had about twenty-five thousand miles, was in good condition with a few repaints, and was described as an original factory S slash C.",
+   "query": "Shelby Cobra 427 S/C",
+   "caption": "AUG 2001: $451,000 \u00b7 427 S/C \u00b7 ~25,000 MILES",
+   "cuts": 3,
+   "chapter": "The price list, car by car"
+  },
+  {
+   "text": "Hagerty's price guide, in a chart dated April twenty twenty-five, values that car's category, a number three good condition S slash C, at two million, two hundred fifty thousand dollars, up seven point one percent. By our arithmetic, two point two five million divided by four hundred fifty-one thousand is nearly five times, over about twenty-four years.",
+   "query": "Shelby Cobra 427 S/C",
+   "caption": "GUIDE, APRIL 2025: $2.25M (#3 GOOD) \u00b7 \u2248 5\u00d7 THE 2001 SALE",
+   "cuts": 3
+  },
+  {
+   "text": "A rough annual rate, our arithmetic. Five times over twenty-four years is about seven percent a year, compounded. That is before storage, insurance, maintenance and inflation, none of which our sources price. Nor is it a promise. It compares one sale with one guide value, not a market index, and the guide figure is an estimate rather than a sale.",
+   "query": "Calculator",
+   "caption": "\u2248 7% A YEAR OVER 24 YEARS (OUR ARITHMETIC \u2014 NOT A PROMISE)",
+   "cuts": 3
+  },
+  {
+   "text": "Next, the four hundred twenty-seven that Du Pont Registry reports sold at Gooding and Company's Amelia Island auction in twenty twenty-two. A nineteen sixty-six car, chassis C S X three one nine two, for one million, fifty thousand dollars. Du Pont says original four hundred twenty-sevens start at over a million, and gives one and a half million as its spec-list figure, a discrepancy in itself.",
+   "query": "Amelia Island auction",
+   "caption": "2022: $1,050,000 \u00b7 1966 427 (CSX 3192)",
+   "cuts": 3
+  },
+  {
+   "text": "Another four hundred twenty-seven, or a four twenty-eight by its listing, chassis C S X three two nine nine, sold for one million, three hundred twenty-five thousand dollars, according to Hagerty. Its commentary says R M sold the same car in Boca Raton in two thousand five for five hundred thirty-five thousand. By our arithmetic, that is about two and a half times in the gap between the sales, which Hagerty does not date.",
+   "query": "Shelby Cobra 427",
+   "caption": "CSX 3299: $535,000 (2005) \u2192 $1,325,000 (LATER, UNDATED)",
+   "cuts": 3
+  },
+  {
+   "text": "The small-block cars. Hagerty lists a nineteen sixty-four two hundred eighty-nine, chassis C S X twenty-two oh eight, that sold for one million, six hundred fifty-five thousand dollars. The same car had sold at Gooding in Pebble Beach in twenty fifteen for nine hundred two thousand. Hagerty says the hammer bid was twenty-five percent over the high estimate, and that the car had forty-seven years with one owner.",
+   "query": "Shelby Cobra 289",
+   "caption": "CSX 2208: $902,000 (2015) \u2192 $1,655,000 (LATER, UNDATED)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, one million, six hundred fifty-five thousand over nine hundred two thousand is one point eight three, so the car gained about eighty-three percent between the two sales. We do not know the date of the second sale, so we cannot say per year. Hagerty adds that nothing in that car's history sets it apart from similar two hundred eighty-nines.",
+   "query": "Shelby Cobra 289",
+   "caption": "+83% BETWEEN TWO SALES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Two more two hundred eighty-nines from the same database. Chassis C S X twenty-four eighty-seven, Guardsman Blue, sold for one million, seventeen thousand, five hundred dollars. Chassis C S X twenty-two forty-two, Princess Blue, shows one million, two hundred forty-two thousand, five hundred. Neither page gives a sale date, so we do not know how recent they are. Both are rated excellent or better.",
+   "query": "Shelby Cobra 289",
+   "caption": "TWO MORE 289s: $1,017,500 AND $1,242,500 (UNDATED)",
+   "cuts": 3
+  },
+  {
+   "text": "Put the sourced prices for the small-block cars together and they range from just over one million to one point six five five million. Du Pont Registry says the two hundred eighty-nine is just under a million. So the prices in our sources cluster around the one million dollar mark, and the better cars with strong histories reach well above it.",
+   "query": "Shelby Cobra 289 prices",
+   "caption": "289s: ~$1.0M\u2013$1.66M IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Before you look at any price, learn to read the number, because the number is the identity. Wikipedia describes the Cobra's chassis numbers in series. The Mark One cars carry C S X numbers in the twenty-oh-one to twenty-six-oh-two range. The Mark Two cars carry C O B or C O X numbers in the sixty-oh-one range. The page itself warns that these ranges do not match the build counts exactly.",
+   "query": "Shelby Cobra chassis plate",
+   "caption": "CSX 2001\u20132602 (MK I) \u00b7 COB/COX 6001+ (MK II)",
+   "cuts": 3,
+   "chapter": "How to read a chassis number"
+  },
+  {
+   "text": "The four hundred twenty-seven cars in our sources carry C S X numbers in the three thousands. The Super Snake is three zero one five. The S slash C is three zero four zero. The nineteen sixty-six car Du Pont reports is three one nine two. The car Hagerty lists as a four twenty-eight is three two nine nine. The prototype is two thousand. All of these are from the originals' number blocks.",
+   "query": "Shelby Cobra 427",
+   "caption": "ORIGINALS: CSX 2000 \u00b7 2xxx \u00b7 3xxx \u00b7 COB/COX 6xxx",
+   "cuts": 3
+  },
+  {
+   "text": "Then there are the C S X four thousand cars and above. Wikipedia says the C S X four thousand to four thousand nine ninety-nine series are four hundred twenty-seven S slash C continuations, and lists later series at six thousand, seven thousand, eight thousand and nine thousand, including a Daytona Coupe continuation. A number in those ranges is not a nineteen sixties Cobra, whatever it looks like.",
+   "query": "Shelby Cobra continuation plate",
+   "caption": "CSX 4000\u20139000: CONTINUATION SERIES (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "A caution, though. Wikipedia also records that in nineteen ninety-three the Los Angeles Times reported forty-three duplicate titles, and Carroll Shelby's page records allegations about skipped blocks of V I N numbers to satisfy homologation, with cars later relabelled as continuation. So the number alone is not a guarantee. Documentation, the history of the car, and an expert are what a buyer needs.",
+   "query": "Shelby Cobra paperwork",
+   "caption": "A NUMBER IS NOT ENOUGH: DOCUMENTS AND AN EXPERT",
+   "cuts": 3
+  },
+  {
+   "text": "Why does a Cobra cost so much? The sources point to several reasons. First, racing. Carroll Shelby's page says the Daytona Coupe won three G T class wins in nineteen sixty-four, including Le Mans and Goodwood, and that the Cobra won the International Championship for G T Manufacturers in nineteen sixty-five. A car with that record has a story that few road cars can match.",
+   "query": "Shelby Daytona Coupe",
+   "caption": "RACING: CLASS WINS 1964 \u00b7 MANUFACTURERS' TITLE 1965",
+   "cuts": 3,
+   "chapter": "What drives the price"
+  },
+  {
+   "text": "Second, scarcity. Du Pont Registry says nine hundred ninety-eight were built. By our arithmetic, that is fewer than a seventh of the seven thousand, two hundred sixty-five Lamborghini Urus built in a single year, twenty twenty-five, according to Wikipedia. A car built in the hundreds, sixty years ago, with a fraction surviving in original condition, is rare in a way that most collectibles cannot be.",
+   "query": "Shelby Cobra",
+   "caption": "998 COBRAS VS 7,265 URUS IN ONE YEAR (OUR COMPARISON)",
+   "cuts": 3
+  },
+  {
+   "text": "Third, performance. Wikipedia lists a hundred sixty-four miles per hour for the standard four hundred twenty-seven and a hundred eighty-five for the S slash C. Du Pont lists zero to sixty in three point four seconds. In nineteen sixty-six those numbers were beyond almost any road car. Even now they are quick. Few cars from the era remain so impressive on paper.",
+   "query": "Shelby Cobra 427 performance",
+   "caption": "164\u2013185 MPH \u00b7 0\u201360 IN 3.4 S (SOURCES VARY)",
+   "cuts": 3
+  },
+  {
+   "text": "Fourth, the story. Carroll Shelby's page says a film, Ford v Ferrari, depicted him in twenty nineteen and won an Oscar. The film is not about the Cobra, but it renewed public attention on Shelby. Whether it moved prices, our sources do not say. We mention it as a plausible influence, labelled as our reading, and not as a claim.",
+   "query": "Ford v Ferrari",
+   "caption": "SHELBY ON FILM: 2019 (OUR READING ON PRICE EFFECT)",
+   "cuts": 3
+  },
+  {
+   "text": "Fifth, the lack of supply. Du Pont Registry notes that unrestored originals start at over a million, and that the continuation cars pull the A C Cobra market below that. By our reading, that suggests a two-tier market, where authentic originals trade at their own level and the other cars are measured against them, not the reverse.",
+   "query": "Shelby Cobra market",
+   "caption": "A TWO-TIER MARKET (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "A sum with the figures we have. The original Cobra four hundred twenty-seven cost seven thousand, five hundred dollars and made four hundred twenty-five horsepower, per Wikipedia and Du Pont. That is about seventeen dollars and sixty-five cents per horsepower. A good condition S slash C at two point two five million and four hundred eighty-five horsepower is about four thousand, six hundred thirty-nine dollars per horsepower.",
+   "query": "Calculator",
+   "caption": "$17.65/HP NEW \u2192 $4,639/HP AT THE 2025 GUIDE (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "A small sum on the 427"
+  },
+  {
+   "text": "The horsepower did not change. The price per horsepower rose by a factor of about two hundred sixty, by our arithmetic. That factor is the scarcity, the history and the legend, and none of it is mechanical. The same car, driven the same way, does the same things it did in nineteen sixty-six. The difference is what people will pay to own the story.",
+   "query": "Shelby Cobra 427",
+   "caption": "PRICE PER HP UP ~260\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare it with a modern car. In another video of this series, we saw a Lexus LFA sell for eight hundred ninety thousand dollars in April twenty twenty-four, about sixteen hundred dollars per horsepower. The Cobra's guide value per horsepower is about three times that. The LFA was twelve years old at that sale. The Cobra is sixty. Age, in this market, matters a lot.",
+   "query": "Lexus LFA and Shelby Cobra",
+   "caption": "LFA ~$1,609/HP VS COBRA S/C ~$4,639/HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Some Cobras sit in a different league. Wikipedia says the Super Snake, chassis C S X three zero one five, converted in nineteen sixty-six with twin Paxton superchargers and used personally by Shelby, sold for five million dollars at Barrett-Jackson in January two thousand seven. The page converts that to about seven point two seven million in two thousand twenty-four dollars.",
+   "query": "Shelby Cobra Super Snake",
+   "caption": "SUPER SNAKE: $5M (JAN 2007) \u2248 $7.27M IN 2024 DOLLARS",
+   "cuts": 3,
+   "chapter": "The famous ones"
+  },
+  {
+   "text": "And the very first car, C S X two thousand, sold for thirteen point seven five million dollars at R M Sotheby's in Monterey in August two thousand sixteen, EVO reports. Jalopnik called it a record for an American car at auction, beating an eleven million dollar G T forty. Those are unique cars. They tell you what the best of the best fetches, not what a Cobra costs.",
+   "query": "Shelby Cobra CSX2000",
+   "caption": "CSX 2000: $13.75M (AUGUST 2016)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the prototype's price is more than eight times the highest ordinary sale in our list, the one point six five five million for the two hundred eighty-nine. And it is about six times the Hagerty guide figure for a good S slash C. Provenance is the multiplier. The first car, the car Shelby used, the car with the story, outsells the typical example by a wide margin.",
+   "query": "Shelby Cobra CSX2000",
+   "caption": "PROVENANCE: THE FIRST CAR \u2248 8\u00d7 THE TYPICAL 289 SALE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the twist. Wikipedia lists continuation series of Cobras, with chassis numbers from four thousand to nine thousand. The C S X four thousand series, a four hundred twenty-seven S slash C continuation built from McCluskey chassis, took about twenty years, ending in two thousand nine. These are new cars built to the old pattern, and they are not the nineteen sixties originals.",
+   "query": "Shelby Cobra continuation",
+   "caption": "CSX4000 SERIES: A 427 S/C CONTINUATION, ~20 YEARS TO BUILD",
+   "cuts": 3,
+   "chapter": "The other Cobras"
+  },
+  {
+   "text": "Hagerty's database lists a nineteen sixty-five Shelby Cobra, chassis C S X four five six six, described as a C S X four thousand, four hundred twenty-seven S slash C, with an aluminium body, sold by R M Sotheby's in Coral Gables, Florida, on the first and second of March, twenty twenty-four, for three hundred thirty-five thousand dollars. The page does not itself say continuation. The chassis series number tells us that.",
+   "query": "Shelby Cobra continuation",
+   "caption": "MARCH 2024: $335,000 \u00b7 CSX 4566 \u00b7 427 S/C (CSX4000 SERIES)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, three hundred thirty-five thousand is about fifteen percent of the two point two five million Hagerty guide value for an original S slash C. It is about one seventh. So a car that looks nearly identical, and has the same engine size, costs a fraction of an original. That fraction is the price of authenticity.",
+   "query": "Shelby Cobra original and continuation",
+   "caption": "CONTINUATION \u2248 15% OF AN ORIGINAL S/C'S GUIDE VALUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Du Pont Registry makes the same point in words: A C Cobra prices have stayed under seven figures, partly because of continuation cars. And Wikipedia says most continuations are fibreglass, with some aluminium or carbon fibre. A buyer who confuses the two could pay a million dollars for a car worth a third of that, or the reverse. This is why chassis documentation matters most.",
+   "query": "Shelby Cobra continuation",
+   "caption": "\"PRICES HAVE STAYED UNDER SEVEN FIGURES\" \u2014 DU PONT, ON CONTINUATIONS",
+   "cuts": 3
+  },
+  {
+   "text": "And the paperwork has had its problems. Wikipedia says that in nineteen ninety-three the Los Angeles Times reported that Shelby had obtained forty-three duplicate titles for Cobras not in A C's records. Shelby said the chassis were built by McCluskey in nineteen ninety-one to ninety-two, and claimed a rival was behind the report. Carroll Shelby's page adds an allegation about skipped serial number blocks.",
+   "query": "Los Angeles Times 1993",
+   "caption": "1993: 43 DUPLICATE TITLES REPORTED \u00b7 SHELBY DISPUTED IT",
+   "cuts": 3
+  },
+  {
+   "text": "If a Cobra is out of reach, the family has cheaper members. The A C Ace shares the Cobra's ancestry, as we showed in another video. Hagerty's past sales list a nineteen fifty-nine Ace Bristol sold at Coys in London in December two thousand three for a hundred sixteen thousand, five hundred sixty-two dollars, and a nineteen fifty-six car at Bonhams in September twenty eleven for two hundred twenty-three thousand, one hundred twenty-four.",
+   "query": "AC Ace Bristol",
+   "caption": "ACE BRISTOL: $116,562 (2003) \u00b7 $223,124 (2011)",
+   "cuts": 3,
+   "chapter": "A cheaper way into the same family"
+  },
+  {
+   "text": "By our arithmetic, the two hundred twenty-three thousand dollar Ace is about ten percent of the two point two five million Cobra guide value. The cars share a chassis lineage, but the market treats them as different things. Hagerty's commentary on the 2011 sale called the price high for a standard Bristol-engined Ace, so even the cheaper cars are not cheap.",
+   "query": "AC Ace and Shelby Cobra",
+   "caption": "AN ACE BRISTOL \u2248 10% OF A COBRA S/C'S GUIDE VALUE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And there is the continuation route, with the three hundred thirty-five thousand dollar sale in March twenty twenty-four. A buyer who wants the shape, the sound and the driving experience, and who is content with a car that is not an original, has options in the low hundreds of thousands. That is still a lot of money, but it is a fraction of the original's price.",
+   "query": "Shelby Cobra continuation",
+   "caption": "THE CONTINUATION ROUTE: ONE SALE AT $335,000",
+   "cuts": 3
+  },
+  {
+   "text": "Different auction houses appear in these results, among them R M Auctions, R M Sotheby's, Gooding and Company, Bonhams and Barrett-Jackson. Each has its own fees and its own buyers, and our sources do not say whether the quoted prices include fees. So when you compare a number from one house with a number from another, keep that uncertainty in mind.",
+   "query": "Auction houses",
+   "caption": "FEES AND BUYERS DIFFER BY AUCTION HOUSE",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, a note on timing. Prices in this video span from two thousand one to twenty twenty-five. Over that period, money itself changed value, and the market for American classics changed with it. We did not adjust for inflation, since our sources give no inflation figures, apart from Wikipedia's own conversion of the Super Snake price. So treat the rises we computed as nominal.",
+   "query": "Calendar",
+   "caption": "ALL PRICES NOMINAL: NOT ADJUSTED FOR INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Now the limits. Our sources give prices for buying. They give nothing reliable for owning. We found no verified figures for insurance, storage, restoration or repair on a Cobra. Anyone who gives you a number for the annual cost has a source we did not find. We would rather say so than guess.",
+   "query": "Classic car garage",
+   "caption": "INSURANCE, STORAGE, REPAIRS: NO RELIABLE FIGURES",
+   "cuts": 3,
+   "chapter": "What we could not find"
+  },
+  {
+   "text": "There are other gaps. Several Hagerty pages we used do not date their sales. The Hagerty price guide is an estimate. Auction prices include buyer's fees in some houses and not in others, and our sources do not say which. And the condition ratings, number one to number four, mean that one car at one million and another at two can both be called real.",
+   "query": "Auction results",
+   "caption": "UNDATED SALES \u00b7 GUIDE VALUES ARE ESTIMATES \u00b7 FEES UNCLEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Condition matters, as the Hagerty commentary shows. One two hundred eighty-nine had a driver's door that did not close fully when latched, and a stretched seat, yet still fetched more than a million and a half. Another was described as drives like new. Cars in this range are valued for history and originality first, and for freshness second.",
+   "query": "Shelby Cobra 289 interior",
+   "caption": "HISTORY AND ORIGINALITY BEFORE FRESHNESS",
+   "cuts": 3
+  },
+  {
+   "text": "So what does a real Shelby Cobra cost today? On the evidence we have. About one million dollars for an original small-block car, up to about one point six five million for a strong one. About one to two point two five million for a four hundred twenty-seven, depending on version and condition. Five million and up for a famous individual car. Thirteen point seven five million for the first.",
+   "query": "Shelby Cobra",
+   "caption": "~$1M\u2013$1.66M (289) \u00b7 $1M\u2013$2.25M (427) \u00b7 $5M\u2013$13.75M (FAMOUS CARS)",
+   "cuts": 3,
+   "chapter": "What a real Cobra costs"
+  },
+  {
+   "text": "And what does a Cobra-shaped car cost? On the single sale we found, three hundred thirty-five thousand dollars for a continuation, though the sources hint at a wide range for continuations and replicas, which we did not sample. The headline is that two cars that look alike can differ by a factor of seven or more in price, and the chassis number tells you which is which.",
+   "query": "Shelby Cobra",
+   "caption": "CONTINUATION: $335,000 (ONE SALE) \u00b7 2.25M \u00f7 335K \u2248 6.7\u00d7",
+   "cuts": 3
+  },
+  {
+   "text": "A last caution. We have not bought, sold or authenticated a Cobra, and we are not advisers. These are figures reported by Hagerty, Du Pont Registry, EVO, Jalopnik and Wikipedia, some of them undated. If you are thinking of buying one, hire a specialist and read the chassis history first. If you own one and know a verified detail we missed, tell us in the comments.",
+   "query": "Shelby Cobra",
+   "caption": "NOT ADVICE \u00b7 HIRE A SPECIALIST",
+   "cuts": 3
+  },
+  {
+   "text": "Would you rather own an original or a continuation? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Cobra, compare it with the A C Ace, and tell the story of the man who built it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

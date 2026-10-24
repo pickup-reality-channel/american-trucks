@@ -1,0 +1,13 @@
+- Hagerty, 1965 Shelby Cobra 427 S/C (CSX3040), price guide April 2025: https://hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX3040/f33aeb97-e529-47a0-8f48-6136a6b53fde
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2208): https://www.hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2208/fe4f3048-b49a-429e-93ab-1ff270bd4e6b
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2487): https://www.hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2487/508d390d-cf5c-4893-a305-2d31e7849c8f
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2242): https://hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2242/1c73c862-8bba-4cf2-8456-1681a53b057e
+- Hagerty, 1967 Shelby Cobra 428 (CSX3299): https://hagerty.com/valuation-tools/past-sales/1967-shelby-cobra/CSX3299/e1f75911-e24a-4463-92e0-8ef7a889b60d
+- Hagerty, 1965 Shelby Cobra CSX4000 427 S/C (CSX4566), RM Sotheby's Coral Gables, March 2024: https://www.hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX4566/23b78ba4-8c78-4aef-9d8a-20811f33adef
+- Hagerty, 1959 AC Ace Bristol (BEX1117): https://www.hagerty.com/valuation-tools/past-sales/1959-ac-ace/BEX1117/1941242a-4d75-4ac0-bb77-074a95444bf2
+- Hagerty, 1956 AC Ace Bristol (BE172): https://www.hagerty.com/valuation-tools/past-sales/1956-ac-ace/BE172/572ff6cd-fdbd-4ac0-9fb2-66be383447e4
+- Du Pont Registry, Shelby 427 Cobra price, specs, photos and review: https://news.dupontregistry.com/blogs/specs/shelby-427-cobra-price-specs-photos-and-review
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
+- Jalopnik, The very first Shelby Cobra just sold for a staggering record $13.75 million (21 Aug 2016): https://www.jalopnik.com/the-very-first-shelby-cobra-just-sold-for-a-staggering-1785559850/
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
