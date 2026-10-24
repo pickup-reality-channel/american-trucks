@@ -1,0 +1,152 @@
+# Photo credits: The Insane Story Behind America's Speed-Record War
+
+- Industries of War - Sugar Refining - Beet sugar refinery operated at top speed - NARA - 45489863.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Sugar Refining - Beet sugar refinery operated at top speed - NARA - 45489867.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Machinery - Engines - Curtis turbine and one plane flexible type speed reduction gear for ship propulsion - NARA - 45486612.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Machinery - 20" HIGH MILL WITH 600 H.P. 2-speed Gear Drive for breaking down copper ingots - NARA - 31490501.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Machinery - VIEW OF GEAR DESIGN AND Arrangement for 20"-3 High Mill with 600 H.P. 2-speed Gear Drive - NARA - 31490497.jpg by Unknown authorUnknown author or not provided, Public domain
+- Industries of War - Cloth - Wool - American Woolen Co. - ENGLISH DRIVING SPEEDER. AMERICAN WOOLEN CO., BOSTON, Massachusetts - NARA - 31487410.jpg by American Woolen Co., Public domain
+- Lancashire 1610 Speed Hondius - Restoration.jpg by Jodocus Hondius, engraved by John Speed, and restored by Adam Cuerden
+
+
+
+
+
+
+This  is a retouched picture, which means that it has been digitally altered from its original version. Modifications: Dirt cleaned up, levels adjusted, rotated.., Public domain
+- Triumph Speed Twin (Rennversion), Bj. 1939 (2008-06-28 Sp).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- US Navy 080131-N-0000X-004 Photograph taken from a high-speed video camera during a record-setting firing of an electromagnetic railgun (EMRG) at Naval Surface Warfare Center, Dahlgren, Va., on January 31, 2008.jpg by U.S. Navy photo, Public domain
+- CHEMICAL FIRE TANKS MOUNTED on speeders. Bureau of Fire Prevention. St. Sulpice, Gironde, France - DPLA - 8f1606cabb1556c729130ed06a01713b.jpg by Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. ca. 1974-5/15/1984, Public domain
+- Montlhéry, 2-10-27, Marchand, Morel, Kiriloff sur (voiture) Voisin - btv1b53189911b.jpg by Agence Rol, Public domain
+- SSC Ultimate Aero, London 03.jpg by Ank kumar, CC BY-SA 4.0
+- SSC Ultimate Aero, London 01.jpg by Ank kumar, CC BY-SA 4.0
+- SSC Ultimate Aero, London 02.jpg by Ank kumar, CC BY-SA 4.0
+- SSC Ultimate Aero TT - 1.jpg by Nate Hawbaker, CC0
+- SSC Ultimate Aero - 14505962939.jpg by Jacob Frey 4A, CC BY 2.0
+- SSC Ultimate Aero - 7940460030.jpg by Shane K, CC BY-SA 2.0
+- SSC Ultimate Aero - 7940462386.jpg by Shane K, CC BY-SA 2.0
+- SSC Ultimate Aero.jpg by Jacob Frey 4A, CC BY 2.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Second oath of office of Barack Obama.jpg by Pete Souza, Public domain
+- "Lucky Lucy" Arrives at Hastings, Sussex (3) - geograph.org.uk - 1767775.jpg by Peter Trimming, CC BY-SA 2.0
+- "Lucky Lucy" Arrives at Hastings, Sussex (6) - geograph.org.uk - 1767793.jpg by Peter Trimming, CC BY-SA 2.0
+- Hennessy Venom GT - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- White Hennessey Venom GT (16874404491).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT (16040233465).jpg by Axion23, CC BY 2.0
+- Hennessey Venom.jpg by Adam Russell, CC BY-SA 2.0
+- White Hennessey Venom Gt (15036028446).jpg by Axion23, CC BY 2.0
+- Hennessey Venom GT.JPG by Mystfire, CC BY 3.0
+- 2011 Hennessey Venom GT in Venom Red, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2011 Hennessey Venom GT in Venom Red, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2011 Hennessey Venom GT in Venom Red, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- Hennessey Venom GT (2011) (54558151802).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Hennessey Venom GT (2011) (54559211389).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Hennessey Venom GT (2011) (54559360500).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2004 Ford BA Falcon GT Sedan (29497820184).jpg by Sicnag, CC BY 2.0
+- FPV BA GT-P Saloon.jpg by Sicnag, CC BY 2.0
+- Hennessy Venom(Ank Kumar, GIMS 2018) 01.jpg by Ank kumar, CC BY-SA 4.0
+- Sphenodon punctatus in Waikanae, New Zealand.jpg by unknown, CC BY 2.0
+- Tuatara (01).jpg by NAPARAZZI, CC BY-SA 2.0
+- Tuatara at Zealandia EcoSanctuary.jpg by Judi Lapsley Miller, CC BY 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype.jpg by Liam Walker, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0
+- The Progress of Music.JPG by Jonatan Svensson Glad, CC BY-SA 4.0
+- 111-SC-9953 - Constructional progress, Camp Humphreys, Va. Industrial R.R., bolting rails to steel ties, after which these sections are transported to the road bed and track laid at remarkable speed. This same sy(...) - NARA - 55180237.jpg by Unknown authorUnknown author or not provided, Public domain
+- "Paterson, New Jersey - Textiles - Jackson Winding and Warping Company - Picture of a high speed warper" - NARA - 518769.jpg by Lewis Hine, Public domain
+- 2019 SSC Tuatara at Pebble Beach Press Conference.jpg by SSCNA, CC BY-SA 4.0
+- SSC Tuatara Striker (2024) (54869830611).jpg by Charles from Port Chester, New York, CC0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front right.jpg by Mr.choppers, CC BY-SA 4.0
+- Koenigsegg Agera RST 2.jpg by Calreyn88, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Koenigsegg Agera S, GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green, engine.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker interior at Waveny Park 2024.jpg by Mr.choppers, CC BY-SA 3.0
+- Argazkia auto.jpg by Gontzal Cepeda, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, rear left.jpg by Mr.choppers, CC BY-SA 4.0
+- 2024 SSC Tuatara Striker in Dark Olive Green and Vibrant Orange, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- SSC Tuatara Striker (2024) (54096246544).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54000091809).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54559022692).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (53994306545).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54095915031).jpg by Charles from Port Chester, New York, CC BY 2.0
+- SSC Tuatara Striker (2024) (54870063828).jpg by Charles from Port Chester, New York, CC0
+- Shelby Auxiliary Field 1 2007-07-09 with tank and C-17.jpg by United States Air Force photo by Technical Sergeant Mike R. Smith, Public domain
+- US Navy 100924-N-5989K-205 A Sailor holds his helmet as the driver makes a high speed turn on the runways of Naval Air Station North Island.jpg by U.S. Navy photo by Seaman Paul Kelly, Public domain
+- Shelby Auxiliary Field 1 2007-07-09 C-17 training.jpg by United States Air Force photo by Technical Sergeant Mike R. Smith, Public domain
+- Hennessey Venom F5, GIMS 2018, Le Grand-Saconnex (1X7A1390).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 Back Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1389).jpg by Matti Blume, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- HK WC Wan Chai Hennessey Road evening September 2024 R12S 04.jpg by Rum Summyierp, CC0
+- HK WC Wan Chai Hennessey Road evening September 2024 R12S 06.jpg by Rum Summyierp, CC0
+- HK WC Wan Chai Hennessey Road evening September 2024 R12S 08.jpg by Rum Summyierp, CC0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 European Premiere at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Hennessey Venom F5 (76964).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 SP 22.jpg by MrWalkr, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster.jpg by MrWalkr, CC BY-SA 4.0
+- Tupolev SB High-Speed Bomber. 1934. Скоростной бомбардировщик Туполева СБ.jpg by Peer.Gynt, CC BY-SA 2.0
+- MIG 21 - Museum of Great Patriotic War (8600693937).jpg by Jorge Láscar from Australia, CC BY 2.0
+- Commission - From Foreign Nations - France - Blue Devils - French chasseurs alpines in New York to held third Liberty Loan - NARA - 26431984.jpg by Unknown authorUnknown author or not provided, Public domain
+- Steaming into the record books - geograph.org.uk - 4910001.jpg by Ian Paterson, CC BY-SA 2.0
+- Photay at Public Records Brooklyn NY March 2026.jpg by Wil540 art, CC BY 4.0
+- Merfeld, Wildpferdefang -- 2014 -- 0639.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Merfeld, Wildpferdefang -- 2014 -- 7880.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Merfeld, Wildpferdefang -- 2014 -- 7881.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Merfeld, Wildpferdefang -- 2014 -- 1037.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Hennessy Venom(Ank Kumar, GIMS 2018) 20.jpg by Ank kumar, CC BY-SA 4.0
+- Hennessy Venom(Ank Kumar, GIMS 2018) 17.jpg by Ank kumar, CC BY-SA 4.0
+- Hennessy Venom(Ank Kumar, GIMS 2018) 14.jpg by Ank kumar, CC BY-SA 4.0
+- 9-10-20, Buc, de Romanet sur Spad (record de vitesse à 292 km-h) - btv1b69158918.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- TGV World Speed Record 574 km per hour.jpg by Alain Stoll, CC BY-SA 2.0
+- Miles M2H Halk - Consagrou-se em corridas, estabeleceu recordes de velocidade e distância na década de 30(Vel Max-278 Km-h). Este exemplar participou da Guerra Civil Espanhola - Somente 4 exemplares no mun - panoramio.jpg by MARCO AURÉLIO ESPARZ…, CC BY-SA 3.0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 4).jpg by Gerhard Fieseler Werke GmbH, CC0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 2).jpg by Gerhard Fieseler Werke GmbH, CC0
+- Missile, Cruise, V-1 (Fi 103, FZG 76) - DPLA - 306fb1c5288978242e9a8cd352a5b43a (page 3).jpg by Gerhard Fieseler Werke GmbH, CC0
+- Hennesey Venom F5.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 2.jpg by Calreyn88, CC BY-SA 4.0
+- Second hot fire test Artemis 1 core stage (SSC-20210318-s00149).jpg by Danny Nowlin, Public domain
+- Second hot fire test Artemis 1 core stage(SSC-20210318-s00144).jpg by Danny Nowlin, Public domain
+- Second Hot Fire Test of SLS Rocket Core Stage (SSC-20210318-s00148).jpg by Danny Nowlin, Public domain
+- Museo del Comercio y la Industria de Salamanca en octubre de 2022 47.jpg by Emilio J. Rodríguez Posada, CC BY-SA 4.0
+- Museo del Comercio y la Industria de Salamanca en octubre de 2022 39.jpg by Emilio J. Rodríguez Posada, CC BY-SA 4.0
+- Exposición de meteoritos en Los Toruños (43255365631).jpg by Emilio J. Rodríguez Posada, CC BY-SA 2.0
+- ISS-42 Sunrise through Progress M-25M.jpg by NASA, Public domain
+- American Idol Finalist and Covington’s Collision Center High-speed Business - RUS (20180927-RD-LSC-0585).jpg by USDAgov, Public domain
+- American Idol Finalist and Covington’s Collision Center High-speed Business - RUS (20180926-RD-LSC-0166).jpg by USDAgov, Public domain
+- Australian Rules Football(GN15262).jpg by State Government Photographer, CC0
+- Australian Rules Football(GN14991).jpg by State Government Photographer, CC0
+- Australian Rules Football(GN15263).jpg by State Government Photographer, CC0
+- 2022 Hennessey Venom F5 1.jpg by Calreyn88, CC BY-SA 4.0
+- Hennessey Venom F5 Genf 2018.jpg by Alexander Migl, CC BY-SA 4.0
+- 2022 Hennessey Venom F5 Roadster 2.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, SSC Ultimate Aero: https://en.wikipedia.org/wiki/SSC_Ultimate_Aero
+- Wikipedia, SSC Tuatara: https://en.wikipedia.org/wiki/SSC_Tuatara
+- Wikipedia, Hennessey Venom GT: https://en.wikipedia.org/wiki/Hennessey_Venom_GT
+- Wikipedia, Hennessey Venom F5: https://en.wikipedia.org/wiki/Hennessey_Venom_F5
+- Wikipedia, Bugatti Chiron Super Sport 300+: https://en.wikipedia.org/wiki/Bugatti_Chiron_Super_Sport_300+
+- Motor1, SSC Tuatara owner beats personal top speed record by hitting 295 mph: https://www.motor1.com/news/587981/ssc-tuatara-295-mph/
+- Motor Authority, Hennessey Venom F5 hypercar sells out following Monterey Car Week showing: https://motorauthority.com/news/1118149_hennessey-venom-f5-hypercar-sells-out-following-monterey-car-week-showing
+- Hennessey Special Vehicles (company news), Hennessey celebrates world's fastest car accolade with 300 mph plans: https://www.hennesseyspecialvehicles.com/news/hennessey-celebrates-worlds-fastest-car-accolade-with-300mph-plans/
+- The Supercar Blog, John Hennessey breaks silence on Venom F5 300 mph speed record attempt: https://www.thesupercarblog.com/john-hennessey-breaks-silence-on-venom-f5-300-mph-speed-record-attempt/
+- The Drive, Hennessey Venom F5 crashes at 250 mph on Kennedy Space Center runway: https://www.thedrive.com/news/hennessey-venom-f5-crashes-at-250-mph-on-kennedy-space-center-runway
+- evo, Hennessey Venom F5 Evolution 2025 review: https://www.evo.co.uk/hennessey/venom-f5/207826/hennessey-venom-f5-evolution-2025-review-driving-one-of-the-worlds
