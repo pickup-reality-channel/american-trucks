@@ -1,0 +1,117 @@
+# Photo credits: 2 Things You Didn't Know About the Ram TRX
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
+- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
+- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
+- 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
+- IPhone 17 launch at Apple TRX Malaysia 10.jpg by Ahmad Ali Karim, CC0
+- IPhone 17 launch at Apple TRX Malaysia 130.jpg by Ahmad Ali Karim, CC0
+- IPhone 17 launch at Apple TRX Malaysia 109.jpg by Ahmad Ali Karim, CC0
+- IPhone 17 launch at Apple TRX Malaysia 88.jpg by Ahmad Ali Karim, CC0
+- IPhone 17 launch at Apple TRX Malaysia 16.jpg by Ahmad Ali Karim, CC0
+- Monrovia news board 2008.jpeg by Photo by Lieutenant Colonel Terry VandenDolder, U.S. Africa Command, Public domain
+- Microsoft Xbox - 2001 Launch Team Edition - Top.jpg by X GoTeamScotch x, CC BY-SA 4.0
+- Microsoft Xbox - 2001 Launch Team Edition - Angled View.jpg by X GoTeamScotch x, CC BY-SA 4.0
+- 1995 BMW 525i Sport, UK (rear) (22286662269).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- 1995 BMW 525i Sport, UK (front) (22484472771).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- TRX-2.jpg by Michal Sivan, CC BY-SA 3.0
+- US Navy 090919-N-2475A-100 Fitness Director Joshua Burkhard leads a Total Resistance Exercise (TRX) session in the hangar bay aboard the aircraft carrier USS John C. Stennis (CVN 74).jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Kenneth Abbate, Public domain
+- US Navy 120112-N-GC412-037 Sailors participate in a total resistance training (TRX) class in the hangar bay aboard the Nimitz-class aircraft carrie.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Will Tyndall, Public domain
+- Capitol Limited (22702939068).jpg by Mark Levisay from Ruckersville, VA, USA, CC BY 2.0
+- City Quay - Ropers Limited (no longer in business at this location) (3319977124).jpg by William Murphy from Dublin, Ireland, CC BY-SA 2.0
+- Antonio Canova - La morte di Priamo (1787-1792) - Plaster - Possagno, Fondazione Canova.jpg by Didier Descouens, CC BY-SA 4.0
+- Renault 5 Turbo (15858954662).jpg by Dennis Elzinga, CC BY 2.0
+- KARANSA BEATS OUR HEARTS.jpg by Nepox789, CC BY-SA 4.0
+- Top Fuel.JPG by GSenkow, CC BY-SA 3.0
+- Sun beats down on Troopers in the desert 160209-A-YX345-019.jpg by Sgt. Amber Stephens, Public domain
+- Jeremy Chardy vs Kyle Edmund RG19.jpg by DarDarCH, CC BY-SA 4.0
+- 1950 Census Enumeration District Maps - South Dakota (SD) - Edmunds County - Edmunds County - ED 23-1 to 38 - NARA - 40038099.jpg by Unknown authorUnknown author or not provided, Public domain
+- PikiWiki Israel 85174 nahal tzin in the arava.jpg by זאב שטיין, CC BY 2.5
+- Production Designer François Audouy.jpg by Marta Timmer, CC BY-SA 4.0
+- Tata H5X concept for the production Harrier model at GIMS 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Tata H5X concept for the production Harrier model at GIMS 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Memorial To Artem Ivanovich Mikoyan In Sanahin.JPG by Eduard Mkrtchyan, CC BY-SA 3.0
+- Lower Manhattan from Governors Island with a fishing boat (46294p).jpg by Rhododendrites, CC BY-SA 4.0
+- Confederate 100 Dollars.jpg by Confederate States of America., Public domain
+- 1969 Dodge Charger Hellephant (53580669402).jpg by Mustang Joe, CC0
+- TRX- Apple Store.jpg by Azreey, CC BY-SA 4.0
+- TRX in 2022-11 1.jpg by Renek78, CC BY-SA 4.0
+- TRX in 2022-11 2.jpg by Renek78, CC BY-SA 4.0
+- Sony Playstation 2 SCPH-5001 V9 - Caixa Original (traseira) Original box (back side) (18857543853).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0
+- Sony Playstation 2 SCPH-5001 V9 - Ventoinha, chave liga desliga e conectores traseiros Fan, power on off switch and back connectors (19290810088).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0
+- Sony Playstation 2 SCPH-5001 V9 - Controle Dualshock 2 Duakshock 2 controller (18857414793).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0
+- ADC TRX-2 TRX-1 cartridge on Micro Seiki DD-33 Turntable (5221040895).jpg by Piano Piano!, CC BY 2.0
+- Chris Lu, Josh Kulp, Christine Cikowski and KOVAL Distillery owner Sonat Birnecker Hart with two of her employees, 2015.jpg by US Department of Labor, CC BY 2.0
+- Matthew and Stephena M. Koval, garage, Oakham, Mass., Oct. 22, 1943 Parcel no. 104-19 - DPLA - ae2ed71c1267b265c57d443e7855cb2f.jpg by Massachusetts. Metropolitan District Water Supply Commission, Public domain
+- Matthew and Stephena M. Koval, house, Oakham, Mass., Oct. 22, 1943 Parcel no. 104-19 - DPLA - 3f86c836307d688c5e87e69692e0f78c.jpg by Massachusetts. Metropolitan District Water Supply Commission, Snow, Russell, 1902-1969, Public domain
+- Tropical Storm Imelda Flooding (48762973652).jpg by Jill Carlson (jillcarlson.org) from Roman Forest, Texas, USA, CC BY 2.0
+- Tropical Storm Imelda Flooding (48763002122).jpg by Jill Carlson (jillcarlson.org) from Roman Forest, Texas, USA, CC BY 2.0
+- Tropical Storm Imelda Flooding (48762973447).jpg by Jill Carlson (jillcarlson.org) from Roman Forest, Texas, USA, CC BY 2.0
+- The Tidal Tales of NGC 922 (iotw2439a).jpg by Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA Image Processing: J. Miller (International Gemini Observatory/NSF NOIRLab), M. Rodriguez (International Gemini Observatory/NSF NOIRLab), T.A. Rector (University of Alaska Anchorage/NSF NOIRLab) & M. Zamani (NSF NOIRLab), CC BY 4.0
+- PSR J0348+0432.jpg by ESO/L. Calçada, CC BY 4.0
+- Isaac Herzog state visit to Turkey, press release.jpg by Haim Zach, CC BY-SA 3.0
+- Aptera Car or Cycle? (3306581653).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- Way of the trackmobile! (3526034339).jpg by Franklin Campbell from Chicago, Illinois, CC BY 2.0
+- Ladbergen, Dortmund-Ems-Kanal -- 2014 -- 9826.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Lüdinghausen, Burg Lüdinghausen -- 2014 -- 7257.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Hausdülmen, Süskenbrock, Ortsansicht -- 2014 -- 0008.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Honda TRX 420 FM 2012.jpg by Qwerty242, CC BY-SA 3.0
+- Redmi Note 8 - board-4934.jpg by Raimond Spekking, CC BY-SA 4.0
+- ZTE MF165+ - board-46973.jpg by Raimond Spekking, CC BY-SA 4.0
+- Fire personnel aboard Marine Corps Logistics Base Barstow, Calif., engage in various types of workouts, but lately, they have taken 'hanging out at the gym' to a whole new level with TRX suspension training 150525-M-ZT482-282.jpg by Carlos Guerra, Public domain
+- Palazzo strozzi, allestimento della mostra su natalia goncharova, 2019, 01.jpg by Sailko, CC BY 3.0
+- Huawei P8 Lite 2017 - main board-6723.jpg by Raimond Spekking, CC BY-SA 4.0
+- Huawei Y6 (2018, ATU-L21) - board 1-2754.jpg by Raimond Spekking, CC BY-SA 4.0
+- Xbox 360 FF XIII Special Ed. bundle price tag at Target, Tanforan.JPG by BrokenSphere, CC BY-SA 3.0
+- A Map of the British Empire in America with the French and Spanish Settlements adjacent thereto. by Henry Popple. (Sheet (IA dr a-map-of-the-british-empire-in-america-with-the-french-and-spanish-settleme-5810038).jpg by Popple, Henry
+Baron, B.
+Lempriere, C.
+Toms, W.H., Public domain
+- Sony Playstation 2 SCPH-5001 V9 - Caixa Original (lado direito) Original box (right side) (19291968949).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0
+- Odenthal Kochshof 01 trx.jpg by Taraxacumo, CC BY-SA 4.0
+- Odenthal Kochshof 02 trx.jpg by Taraxacumo, CC BY-SA 4.0
+- Rho Cassiopeiae.jpg by David Ritter, CC BY-SA 4.0
+- Rho Bootis.jpg by David Ritter, CC BY-SA 4.0
+- Rho - Villa Burba Cornaggia Medici - 2024-09-14 15-54-32 004.jpg by Viaggiamocela, CC BY-SA 4.0
+- RamsSeahawksTuesday.jpg by PontiacAurora, CC BY-SA 4.0
+- Ram's Chapel reburial, Chingford Mount.jpg by sludgegulper, CC BY-SA 2.0
+- Is Shift2Rail a game changer for rail? (32369302083).jpg by International Railway Summit, CC BY-SA 2.0
+- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
+- Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
+- Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
+- '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
+- RAM pickup - Russia.jpg by GennadyL, CC0
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+
+## Sources
+
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Motor1, The Ram TRX Is Dead: https://www.motor1.com/news/694983/ram-1500-trx-dead/
+- Motor1, 2023 Ford F-150 Raptor R review (Jeff Perez): https://www.motor1.com/reviews/682058/2023-ford-f-150-raptor-r/
+- Motor Authority, 2023 Ford F-150 Raptor R roars with 700 hp for $109,145: https://www.motorauthority.com/news/1136512_2023-ford-f-150-raptor-r-price
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Motor1, 2027 Ram TRX revealed: now with 777 horsepower: https://www.motor1.com/news/783086/2025-ram-trx-horsepower-price-details/
+- American Cars And Racing, Supercharged V8-powered Ram 1500 TRX return set for January 2026: https://americancarsandracing.com/2025/07/23/ram-1500-trx-return-january/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open; pricing announced: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX? (Brian Normile): https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html

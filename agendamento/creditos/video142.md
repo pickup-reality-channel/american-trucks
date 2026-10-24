@@ -1,0 +1,163 @@
+# Photo credits: Ram TRX vs Raptor R: The Difference Nobody Explains
+
+- Ram 1500 TRX 1X7A0057.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram 1500 TRX MYLE Festival 2025 DSC 9555.jpg by Alexander Migl, CC BY-SA 4.0
+- Ram-rebel-trx-concept-cars-coffee-fca-2017.jpg by VOR707TRX, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 01.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 DT TRX Diamond Black Crystal 02.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ram 1500 TRX (13803).jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 TRX.jpg by Calreyn88, CC BY-SA 4.0
+- Ram 1500 TRX, BAS 24, Brussels (P1170525-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ram 1500 TRX (2022) (52570054859).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 22 Ram 1500 TRX Hennessey Mammoth 1000.jpg by HJUdall, CC0
+- Ram TRX.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ram 1500 TRX.jpg by Calreyn88, CC BY 4.0
+- 2021-22 RAM 1500 TRX.jpg by Carlito714, CC BY-SA 4.0
+- 23 Ram 1500 TRX (2).jpg by HJUdall, CC0
+- Ram 1500 TRX, BAS 24, Brussels (P1170524).jpg by Matti Blume, CC BY-SA 4.0
+- 23 Ram 1500 TRX (1).jpg by HJUdall, CC0
+- Origins centre 2.jpg by @weblearning, CC BY 4.0
+- Piplup and Turtwig Cosplayers at Origins '08, in Columbus OH.jpg by Benny Mazur, CC BY 2.0
+- Origins Space Telescope 2016 concept.jpg by NASA, Public domain
+- Origins Center Tour End.JPG by Nebiyu.s, CC BY-SA 4.0
+- Origins Centre and M1 highway.jpg by Heather Elke, CC BY-SA 4.0
+- Honeycombs Wilderness Study Area (34486543211).jpg by BLM Oregon & Washington, Public domain
+- Honeycombs Wilderness Study Area (34486542831).jpg by BLM Oregon & Washington, Public domain
+- Honeycombs Wilderness Study Area (33773976104).jpg by BLM Oregon & Washington, Public domain
+- 23 Ford F-150 Raptor R.jpg by HJUdall, CC0
+- Dolomedes raptor (43513206022).jpg by LiCheng Shih, CC BY 2.0
+- Dolomedes raptor (41751996600).jpg by LiCheng Shih, CC BY 2.0
+- 2009 Dodge Dakota TRX in Sunburst Orange Pearlcoat, rear left, 5-7-2022.jpg by Cutlass, CC0
+- 2009 Dodge Dakota TRX in Sunburst Orange Pearlcoat, front left, 5-7-2022.jpg by Cutlass, CC0
+- 1991 Nissan Pintara (U12) TR.X sedan (17164236919).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Nissan Qashqai e-Power Automesse Ludwigsburg 2022 1X7A5884.jpg by Alexander Migl, CC BY-SA 4.0
+- Nissan Qashqai e-Power Automesse Ludwigsburg 2022 1X7A5924.jpg by Alexander Migl, CC BY-SA 4.0
+- Chorzów Muzeum Hutnictwa power plant exterior 2022 2.jpg by Adrian Tync, CC BY-SA 4.0
+- Night Lite (194808050).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0
+- Mondial de l'Automobile 2012, Paris - France (8645280840).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Mondial de l'Automobile 2012, Paris - France (8644187019).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0
+- Dolomedes raptor (43513203622).jpg by LiCheng Shih, CC BY 2.0
+- Dolomedes raptor (41752073820).jpg by LiCheng Shih, CC BY 2.0
+- 23 Ford F-150 Raptor R (cropped).jpg by HJUdall, CC0
+- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio.jpg by Mozhar, CC BY-SA 3.0
+- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio (1).jpg by Mozhar, CC BY-SA 3.0
+- Unnamed Road, Tambon Mae Ram Phueng, Amphoe Bang Saphan, Chang Wat Prachuap Khiri Khan 77140, Thailand - panoramio (2).jpg by Mozhar, CC BY-SA 3.0
+- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA.jpg by w_lemay, CC BY-SA 2.0
+- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA - 53042913274.jpg by w_lemay, CC BY-SA 2.0
+- Cumberland Gap, Tennessee from Pinnacle Overlook, Cumberland Gap, VA - 53042149457.jpg by w_lemay, CC BY-SA 2.0
+- SEMA Las Vegas 2013 (11316966664).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
+- SEMA Las Vegas 2013 (11286894733).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
+- SEMA Las Vegas 2013 (11282588374).jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0
+- Mrs. Ford reads President Ford's concession speech - NARA - 5730760.jpg by David Hume Kennerly, Public domain
+- Causeway and ford at Kit Bridge - geograph.org.uk - 7263200.jpg by Vieve Forward, CC BY-SA 2.0
+- Ford and Stepping Stones at Kit Brow - geograph.org.uk - 4289460.jpg by John Walton, CC BY-SA 2.0
+- Dive weights - Tubular and rectangular shot bags and cylindrical tank weights P8160083.jpg by Peter Southwood, CC0
+- Metal weights for traditional scale.jpg by Eden Aviv, CC0
+- Travel clip-on dive weight P6045451.JPG by Peter Southwood, CC BY-SA 3.0
+- Remarkable bike with a kid passenger seat, and extra robust front basket.jpg by Geo Swan (talk), Public domain
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 330-PS-624 (USN 707934) (19529175409).jpg by National Museum of the U.S. Navy, Public domain
+- Baldwin Locomotive Works - 1200 diesel locomotive (S-12) 3 (26546488503).jpg by James St. John, CC BY 2.0
+- Baldwin Locomotive Works - 1200 diesel locomotive (S-12) 1 (27117851196).jpg by James St. John, CC BY 2.0
+- Weight Toy.jpg by Ameerahraheem, CC BY-SA 4.0
+- French weights with weight stamp (2).jpg by HelgeRieder, CC0
+- French weights with weight stamp (1).jpg by HelgeRieder, CC0
+- Ju IMG 1466.JPG by Lantuszka, CC BY-SA 3.0
+- Birmingham Proof House with Voyager.jpg by kitmasterbloke, CC BY 4.0
+- Medieval Coin, Catalogue Number 5 (FindID 878138-1067260).jpg by Birmingham Museums Trust, Peter Reavill, 2019-08-01 17:17:17, CC BY 2.0
+- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 2).jpg by General Atomics Aeronautical Systems, Inc, CC0
+- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 3).jpg by General Atomics Aeronautical Systems, Inc, CC0
+- General Atomics MQ-1L Predator A - DPLA - f13111e3ed333fca7acf80c9a804faf7 (page 13).jpg by General Atomics Aeronautical Systems, Inc, CC0
+- Ikea Fixa -torque limiter and motor - gears-1702.jpg by Raimond Spekking, CC BY-SA 4.0
+- Bisco L. Doxey's Patent Drawing for Machinery for Gearing and Engineering - DPLA - 89418a7ca90283617d90f7303994ef89.jpg by Department of State. Patent Office. (1836 - 1849), Public domain
+- USS Gearing (DD-710) in the Mediterranean Sea in 1960.jpg by Unknown authorUnknown author, Public domain
+- Railway wheels and tyres at Buckfastleigh, South Devon Railway - geograph.org.uk - 8396639.jpg by Gareth James, CC BY-SA 2.0
+- Porsche Cayman S with TD Pro Race 1.3 18" Wheels and Track Tyres (14511799851).jpg by Mark Seymour, CC BY 2.0
+- Old style wheels and tyres at Ilya Sorokin's Oldtimer-Gallery - IMGP2461.jpg by Alexander Plushev, CC BY 2.0
+- Bus with electronic controlled suspension, advanced emergency braking system (AEBS).jpg by Syced, CC0
+- McPherson posteriore.jpg by A7N8X, CC BY-SA 4.0
+- Suspension of transaction for Go To travel campaign coupon.jpg by Indiana jo, CC BY-SA 4.0
+- Dülmen, Kirchspiel, VW 1303 -- 2017 -- 2279.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Beroun, Arriva-buso sur Masaryk-ponto, 3.jpeg by Renardo la vulpo, CC BY-SA 4.0
+- Linz, nordmazedonischer Bus auf dem Bahnhofplatz, 1.jpeg by Renardo la vulpo, CC BY-SA 4.0
+- US Navy 060408-N-4014G-111 The guided-missile submarine USS Florida (SSGN 728) departs Norfolk Naval Shipyard and en-route her new homeport of Naval Submarine Base King's Bay, Ga.jpg by U.S. Navy photo by Photographer's Mate Airman Apprentice Patrick Gearhiser, Public domain
+- US Navy 060331-N-1464F-009 The guided-missile submarine USS Florida (SSGN 728) arrives at Naval Station Norfolk to make a brief stop for passengers during sea trials off the coast of Virginia.jpg by U.S. Navy photo by Chief Journalist Dave Fliesen, Public domain
+- US Navy 060331-N-1464F-007 The guided-missile submarine USS Florida (SSGN 728) arrives at Naval Station Norfolk to make a brief stop for passengers during sea trials off the coast of Virginia.jpg by U.S. Navy photo by Chief Journalist Dave Fliesen, Public domain
+- Gasoline prices in Massachusetts in June 2022.jpg by Sdkb, CC BY-SA 4.0
+- McClendon Price House Austin Texas 2022.jpg by Larry D. Moore, CC BY 4.0
+- 2022-06-29 18 33 24 View east along Maryland State Route 405 (Price Station Road) at Cedar Lane in Price, Queen Anne's County, Maryland.jpg by Famartin, CC BY-SA 4.0
+- Bowlus BA-100 Baby Albatross - DPLA - 7726e481325cdabf9c55dd58690d04bd (page 3).jpg by William H. Bowlus, CC0
+- Bulls-Gap-Hist.-District.jpg by Steven C. Price, CC BY-SA 3.0
+- Bulls-Gap-Gilley-Hotel.jpg by Steven C. Price, CC BY-SA 3.0
+- Gas prices Sonoma, California April 7 2026.jpg by Sarah Stierch, CC0
+- RaceTrac gas prices Jefferson Hwy Louisiana 17 Sept 2026.jpg by Infrogmation, CC BY-SA 4.0
+- Mobilization Against Oil Price Hike March 27, 2026 7688 05.jpg by Kej Andrés (Ryomaandres), CC BY-SA 4.0
+- 1952 Ford Prefect (16116031190).jpg by Charlie from United Kingdom, CC BY 2.0
+- Berjualan Masker Kain dimasa Pandemi.jpg by Herusutimbul, CC BY-SA 4.0
+- Bertahan di Masa Pandemi.jpg by Herusutimbul, CC BY-SA 4.0
+- 1981 Porsche 924 GTR (7387089932).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Wright Flyer EX Vin Fiz - Smithsonian Air and Space Museum - 2012-05-15 (7271321312).jpg by Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0
+- Curtiss JN-4D Jenny - DPLA - c36e23802b98aeb9f5231ca9dcf6c9f1 (page 13).jpg by Curtiss Aeroplane Company, Springfield Aircraft Corporation, CC0
+- A Young Woman at Her Toilet with a Maid MET LC-17 190 10-2.jpg by Gerard ter Borch, CC0
+- Nehru Trophy Boat Race 2012 7791.JPG by Manoj Karingamadathil, CC BY-SA 3.0
+- Ardnacrushna Power Station, from the Head Race Canal.jpg by The Banner, CC BY-SA 4.0
+- 2024 Hy-Vee Milwaukee Mile 250s 171 (first race--Will Power).jpg by Michael Barera, CC BY-SA 4.0
+- Cabins Inks Lake State Park 2024.jpg by Larry D. Moore, CC BY 4.0
+- Log Cabins Lexington Texas 2025.jpg by Larry D. Moore, CC BY 4.0
+- Log Cabins 5522.jpg by Chris Light, CC BY-SA 4.0
+- Science, Technology and Engineering.jpg by Geralt, CC0
+- Technology show in Kyoto 6.jpg by Syced, CC0
+- Technology show in Kyoto 5.jpg by Syced, CC0
+- Table-banquette by Annie Tribel 1968 - Design Museum Brussels Belgium.jpg by Photographer: Basile Morin
+Product designer: Annie Tribel, CC BY-SA 4.0
+- Paeonia Detail SK.jpg by Simon Koopmann, CC BY-SA 2.0 de
+- Palacio de Golestán, Teherán, Irán, 2016-09-17, DD 27-36 HDR PAN.jpg by Diego Delso, CC BY-SA 4.0
+- TargetMPG.jpg by Jimad, Public domain
+- Fuel Administration - POSTER USED BY FUEL Administration to encourage economy of fuel - NARA - 31482610.jpg by Unknown authorUnknown author or not provided, Public domain
+- Bell telephone magazine (1922) (14569346040).jpg by Internet Archive Book Images, Public domain
+- Golden Eagle (Aquila chrysaetos) (31814073408).jpg by GlacierNPS, Public domain
+- Golden Eagle (Aquila chrysaetos) (44961803514).jpg by GlacierNPS, Public domain
+- At Geneva 2024 010.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
+- At Geneva 2024 014.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
+- At Geneva 2024 339.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0
+- Edmund Fitzgerald model Sault Museum.jpg by Fungus Guy, CC BY 4.0
+- Southwold, St. Edmund's Church, Model of the Alfred Corry lifeboat - geograph.org.uk - 6074155.jpg by Michael Garlick, CC BY-SA 2.0
+- Bury St Edmunds Abbey precincts (15) - geograph.org.uk - 6641113.jpg by Michael Dibb, CC BY-SA 2.0
+- Bucks vs Raptors (373505792).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
+- Bucks vs Raptors (373505591).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
+- Bucks vs Raptors (429721800).jpg by Jeramey Jannene from Milwaukee, WI, United States of America, CC BY 2.0
+- North Fork Owyhee Wild & Scenic River (35167684686).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- North Fork Owyhee Wild & Scenic River (34821853420).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- North Fork Owyhee Wild & Scenic River (34399486783).jpg by Bureau of Land Management Oregon and Washington from Portland, America, Public domain
+- Future link and entrance to Market Lane, The Exchange TRX (2023-12-11).jpg by LegendaryLim, CC0
+- SBK Line TRX Platform 5.jpg by Slleong, CC0
+- BMW 323i (5745179838).jpg by FotoSleuth, CC BY 2.0
+- Ram 1500 TRX 1X7A0058.jpg by Alexander Migl, CC BY-SA 4.0
+- 24 Ram 1500 TRX Final Edition.jpg by HJUdall, CC0
+- Moscow, Ram 1500 TRX, Aug 2025 01.jpg by Retired electrician, CC0
+- Ram 1500 TRX 6.2 V8 4x4 2022.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2023 Ram 1500 TRX Havoc Edition in Baja Yellow Clearcoat, Front Left, 04-30-2023.jpg by Elise240SX, CC BY-SA 4.0
+- RAM pickup - Russia.jpg by GennadyL, CC0
+- 2023 Ram 1500 HEMI.jpg by Calreyn88, CC BY-SA 4.0
+- '06-'07 Dodge Ram 1500 Crew Cab TRX-4.JPG by Bull-Doser, Public domain
+- A 2022 Ram truck recovered by CBP officers at Charleston seaport.jpg by United States Customs and Border Protection, Public domain
+
+## Sources
+
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Wikipedia, Ford F-150 Raptor: https://en.wikipedia.org/wiki/Ford_F-150_Raptor
+- Motor1, 2023 Ford F-150 Raptor R matches 700 horsepower with $110,000 price tag: https://www.motor1.com/news/598778/2023-ford-f150-raptor-r-700hp-price-official/
+- Motor1, 2023 Ford F-150 Raptor R review (Jeff Perez): https://www.motor1.com/reviews/682058/2023-ford-f-150-raptor-r/
+- Motor Authority, 2023 Ford F-150 Raptor R roars with 700 hp for $109,145: https://www.motorauthority.com/news/1136512_2023-ford-f-150-raptor-r-price
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Autoblog, I test drove the 2025 Ford Raptor R (Kyle Edward): https://www.autoblog.com/reviews/i-test-drove-the-2025-ford-raptor-r-heres-the-real-verdict
+- Autoblog, 2026 Ford F-150 Raptor review, specs, pricing and warranty: https://www.autoblog.com/cars/ford/f-150-raptor/2026
+- Ford, Ford Performance Parts unleashes 900+ HP F-150 Raptor R project vehicle at SEMA: https://www.fromtheroad.ford.com/us/en/articles/2025/f-150-raptor-r-project-vehicle
+- Forbes (Michael Harley), Ford CEO hints at future V8-powered F-150 Raptor R hybrid: https://www.forbes.com/sites/michaelharley/2026/01/25/ford-ceo-hints-at-future-v8-powered-f-150-raptor-r-hybrid/
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX? (Brian Normile): https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Edmunds, 2023 Ford F-150 True Cost to Own: https://www.edmunds.com/ford/f-150/2023/cost-to-own/
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
