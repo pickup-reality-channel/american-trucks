@@ -1,0 +1,2327 @@
+1
+00:00:00,000 --> 00:00:01,584
+In twenty seventeen,
+
+2
+00:00:01,584 --> 00:00:04,119
+Lamborghini sold three thousand,
+
+3
+00:00:04,119 --> 00:00:06,257
+eight hundred fifteen cars.
+
+4
+00:00:06,437 --> 00:00:07,565
+Two years later,
+
+5
+00:00:07,565 --> 00:00:09,186
+it sold eight thousand,
+
+6
+00:00:09,186 --> 00:00:10,385
+two hundred five.
+
+7
+00:00:10,565 --> 00:00:12,684
+More than half of them were one
+
+8
+00:00:12,684 --> 00:00:14,872
+single model, and it was an SUV.
+
+9
+00:00:15,052 --> 00:00:17,556
+The company that built the Miura and
+
+10
+00:00:17,556 --> 00:00:19,920
+the Countach had bet its future on
+
+11
+00:00:19,920 --> 00:00:21,937
+a family car with five seats.
+
+12
+00:00:22,117 --> 00:00:24,985
+This is why Lamborghini bet everything on
+
+13
+00:00:24,985 --> 00:00:27,363
+the Urus, and whether the bet paid
+
+14
+00:00:27,363 --> 00:00:27,643
+off.
+
+15
+00:00:27,993 --> 00:00:29,386
+Here is the twist.
+
+16
+00:00:29,566 --> 00:00:31,087
+This was not the first time.
+
+17
+00:00:31,267 --> 00:00:34,341
+Lamborghini had built an SUV in nineteen
+
+18
+00:00:34,341 --> 00:00:38,184
+eighty-six, a military-style truck with a Countach
+
+19
+00:00:38,184 --> 00:00:41,182
+engine, and it was cancelled after only
+
+20
+00:00:41,182 --> 00:00:43,411
+three hundred one were built.
+
+21
+00:00:43,591 --> 00:00:45,680
+The Urus is the second attempt.
+
+22
+00:00:45,860 --> 00:00:48,363
+And the second attempt changed the company
+
+23
+00:00:48,363 --> 00:00:49,018
+completely.
+
+24
+00:00:49,369 --> 00:00:51,593
+Every fact in this video comes from
+
+25
+00:00:51,593 --> 00:00:54,454
+published sources, listed in the description.
+
+26
+00:00:54,634 --> 00:00:56,276
+Where sources disagree,
+
+27
+00:00:56,276 --> 00:00:57,490
+we will tell you.
+
+28
+00:00:57,670 --> 00:00:59,780
+Where we do the maths ourselves,
+
+29
+00:00:59,780 --> 00:01:00,770
+we will say so.
+
+30
+00:01:00,950 --> 00:01:03,087
+Let us start with a company that
+
+31
+00:01:03,087 --> 00:01:04,758
+has gone bankrupt before.
+
+32
+00:01:05,108 --> 00:01:07,935
+Wikipedia says Ferruccio Lamborghini,
+
+33
+00:01:07,935 --> 00:01:09,921
+who already made tractors,
+
+34
+00:01:09,921 --> 00:01:14,277
+founded Lamborghini Automobili in Sant'Agata Bolognese on
+
+35
+00:01:14,277 --> 00:01:15,728
+the seventh of May,
+
+36
+00:01:15,728 --> 00:01:17,333
+nineteen sixty-three.
+
+37
+00:01:17,513 --> 00:01:20,219
+The first series-produced car,
+
+38
+00:01:20,219 --> 00:01:22,022
+the three fifty G T,
+
+39
+00:01:22,022 --> 00:01:24,818
+followed in nineteen sixty-six,
+
+40
+00:01:24,818 --> 00:01:27,254
+the same year as the Miura.
+
+41
+00:01:27,434 --> 00:01:29,092
+It was a quick rise for a
+
+42
+00:01:29,092 --> 00:01:31,680
+company that began as a tractor maker's
+
+43
+00:01:31,680 --> 00:01:32,078
+hobby.
+
+44
+00:01:32,428 --> 00:01:34,448
+But the story was not smooth.
+
+45
+00:01:34,628 --> 00:01:38,519
+Wikipedia says that in nineteen seventy-two Ferruccio
+
+46
+00:01:38,519 --> 00:01:42,043
+sold a majority stake to Georges-Henri Rossetti,
+
+47
+00:01:42,043 --> 00:01:44,172
+sold the rest to René Leimer,
+
+48
+00:01:44,172 --> 00:01:47,329
+and fully retired in nineteen seventy-four.
+
+49
+00:01:47,509 --> 00:01:50,596
+In nineteen seventy-eight the company went bankrupt,
+
+50
+00:01:50,596 --> 00:01:53,030
+and the Mimran brothers took over through
+
+51
+00:01:53,030 --> 00:01:53,802
+receivership.
+
+52
+00:01:54,152 --> 00:01:56,752
+The ownership table is a list of
+
+53
+00:01:56,752 --> 00:01:57,402
+changes.
+
+54
+00:01:57,582 --> 00:02:01,140
+Patrick Mimran from nineteen eighty-four to nineteen
+
+55
+00:02:01,140 --> 00:02:02,029
+eighty-seven.
+
+56
+00:02:02,209 --> 00:02:06,338
+Chrysler Corporation from nineteen eighty-seven to nineteen
+
+57
+00:02:06,338 --> 00:02:07,178
+ninety-four.
+
+58
+00:02:07,358 --> 00:02:08,809
+MegaTech for a year.
+
+59
+00:02:08,989 --> 00:02:12,286
+V'Power and Mycom Setdco from nineteen ninety-five
+
+60
+00:02:12,286 --> 00:02:13,935
+to nineteen ninety-eight.
+
+61
+00:02:14,115 --> 00:02:17,028
+And Audi, part of the Volkswagen Group,
+
+62
+00:02:17,028 --> 00:02:19,119
+since nineteen ninety-eight.
+
+63
+00:02:19,299 --> 00:02:20,281
+By our count,
+
+64
+00:02:20,281 --> 00:02:23,454
+the table shows eight ownership periods in
+
+65
+00:02:23,454 --> 00:02:24,663
+sixty-two years.
+
+66
+00:02:25,013 --> 00:02:28,099
+The 2005 numbers show how small the
+
+67
+00:02:28,099 --> 00:02:29,157
+company was.
+
+68
+00:02:29,337 --> 00:02:32,222
+An article in Yahoo Autos says that
+
+69
+00:02:32,222 --> 00:02:33,952
+in two thousand five,
+
+70
+00:02:33,952 --> 00:02:38,155
+the year Stephan Winkelmann was appointed president
+
+71
+00:02:38,155 --> 00:02:39,803
+and chief executive,
+
+72
+00:02:39,803 --> 00:02:42,770
+the brand sold sixteen hundred cars.
+
+73
+00:02:42,950 --> 00:02:44,216
+Remember that number.
+
+74
+00:02:44,396 --> 00:02:45,794
+Twenty years later,
+
+75
+00:02:45,794 --> 00:02:48,960
+Wikipedia lists deliveries of ten thousand,
+
+76
+00:02:48,960 --> 00:02:50,874
+seven hundred forty-seven.
+
+77
+00:02:51,224 --> 00:02:52,779
+Now the first SUV.
+
+78
+00:02:52,959 --> 00:02:55,137
+Wikipedia says the LM002,
+
+79
+00:02:55,137 --> 00:02:57,925
+short for Lamborghini Militaire,
+
+80
+00:02:57,925 --> 00:03:01,323
+was an off-road vehicle unveiled at the
+
+81
+00:03:01,323 --> 00:03:04,720
+nineteen eighty-six Brussels Auto Show.
+
+82
+00:03:04,900 --> 00:03:06,610
+It was, the page says,
+
+83
+00:03:06,610 --> 00:03:09,642
+an unusual departure for a company then
+
+84
+00:03:09,642 --> 00:03:12,284
+mainly known for high-performance,
+
+85
+00:03:12,284 --> 00:03:14,072
+hand-built sports cars.
+
+86
+00:03:14,252 --> 00:03:16,125
+Nicknamed the Rambo-Lambo,
+
+87
+00:03:16,125 --> 00:03:19,006
+it was built from nineteen eighty-six to
+
+88
+00:03:19,006 --> 00:03:20,591
+nineteen ninety-three.
+
+89
+00:03:20,941 --> 00:03:23,390
+It had the Countach's five point two
+
+90
+00:03:23,390 --> 00:03:25,294
+litre V twelve in the front.
+
+91
+00:03:25,474 --> 00:03:28,382
+Wikipedia lists a curb weight of two
+
+92
+00:03:28,382 --> 00:03:31,048
+thousand seven hundred kilograms,
+
+93
+00:03:31,048 --> 00:03:33,310
+a five-speed manual gearbox,
+
+94
+00:03:33,310 --> 00:03:36,864
+a tubular steel frame with riveted aluminium
+
+95
+00:03:36,864 --> 00:03:40,338
+panels, and a hundred sixty-nine litre fuel
+
+96
+00:03:40,338 --> 00:03:40,741
+tank.
+
+97
+00:03:40,921 --> 00:03:44,138
+It rode on custom run-flat Pirelli Scorpion
+
+98
+00:03:44,138 --> 00:03:47,429
+tyres, with separate tread designs for mixed
+
+99
+00:03:47,429 --> 00:03:48,700
+use and for sand.
+
+100
+00:03:49,050 --> 00:03:51,023
+Its origins were military.
+
+101
+00:03:51,203 --> 00:03:54,832
+Wikipedia says the Cheetah prototype of nineteen
+
+102
+00:03:54,832 --> 00:03:58,991
+seventy-seven was Lamborghini's first military vehicle,
+
+103
+00:03:58,991 --> 00:04:01,335
+built in the hope of selling to
+
+104
+00:04:01,335 --> 00:04:03,301
+oil exploration companies,
+
+105
+00:04:03,301 --> 00:04:06,401
+and used a rear-mounted Chrysler V eight.
+
+106
+00:04:06,581 --> 00:04:08,437
+The LM001 followed,
+
+107
+00:04:08,437 --> 00:04:11,661
+then a new chassis that moved the
+
+108
+00:04:11,661 --> 00:04:14,690
+Countach V twelve to the front,
+
+109
+00:04:14,690 --> 00:04:16,937
+which became the LM002.
+
+110
+00:04:17,287 --> 00:04:20,343
+Civilian models had a luxury package,
+
+111
+00:04:20,343 --> 00:04:22,739
+Wikipedia says: full leather,
+
+112
+00:04:22,739 --> 00:04:24,474
+tinted power windows,
+
+113
+00:04:24,474 --> 00:04:28,688
+air conditioning and a roof-console premium stereo.
+
+114
+00:04:28,868 --> 00:04:31,610
+The last sixty were the LM American,
+
+115
+00:04:31,610 --> 00:04:33,971
+sold only in the United States,
+
+116
+00:04:33,971 --> 00:04:37,475
+first shown at the nineteen ninety-two Detroit
+
+117
+00:04:37,475 --> 00:04:38,237
+Auto Show.
+
+118
+00:04:38,417 --> 00:04:40,091
+A truck for the sand with a
+
+119
+00:04:40,091 --> 00:04:41,145
+leather interior.
+
+120
+00:04:41,496 --> 00:04:42,715
+How many were built?
+
+121
+00:04:42,895 --> 00:04:46,552
+Wikipedia says three hundred one in total.
+
+122
+00:04:46,732 --> 00:04:48,199
+By our own arithmetic,
+
+123
+00:04:48,199 --> 00:04:50,668
+that is about forty-three a year over
+
+124
+00:04:50,668 --> 00:04:51,469
+seven years.
+
+125
+00:04:51,649 --> 00:04:53,877
+The page says that when the end
+
+126
+00:04:53,877 --> 00:04:56,537
+was announced in nineteen ninety-one,
+
+127
+00:04:56,537 --> 00:04:59,916
+Lamborghini claimed about eight hundred orders,
+
+128
+00:04:59,916 --> 00:05:03,582
+but the complicated manufacturing process made them
+
+129
+00:05:03,582 --> 00:05:05,020
+discontinue the car,
+
+130
+00:05:05,020 --> 00:05:07,608
+so it could focus on more profitable
+
+131
+00:05:07,608 --> 00:05:08,112
+models.
+
+132
+00:05:08,461 --> 00:05:10,265
+So the first SUV failed,
+
+133
+00:05:10,265 --> 00:05:12,444
+not because nobody wanted it,
+
+134
+00:05:12,444 --> 00:05:14,698
+but because it was too hard to
+
+135
+00:05:14,698 --> 00:05:15,149
+build.
+
+136
+00:05:15,329 --> 00:05:16,664
+That lesson matters.
+
+137
+00:05:16,844 --> 00:05:20,712
+Wikipedia lists the Urus as the LM002's
+
+138
+00:05:20,712 --> 00:05:22,695
+spiritual successor.
+
+139
+00:05:22,875 --> 00:05:24,818
+And the Urus would be built a
+
+140
+00:05:24,818 --> 00:05:26,090
+very different way:
+
+141
+00:05:26,090 --> 00:05:28,435
+on the Volkswagen Group's platform,
+
+142
+00:05:28,435 --> 00:05:30,846
+with parts shared with other brands,
+
+143
+00:05:30,846 --> 00:05:32,789
+so it could be built in large
+
+144
+00:05:32,789 --> 00:05:33,324
+numbers.
+
+145
+00:05:33,675 --> 00:05:36,914
+The LM002 had a colourful life.
+
+146
+00:05:37,094 --> 00:05:40,039
+Wikipedia says a Turin coachbuilder,
+
+147
+00:05:40,039 --> 00:05:44,129
+Salvatore Diomante, built a one-off estate version
+
+148
+00:05:44,129 --> 00:05:46,174
+for the Sultan of Brunei,
+
+149
+00:05:46,174 --> 00:05:48,792
+and that Uday Hussein owned one,
+
+150
+00:05:48,792 --> 00:05:49,447
+which U.
+
+151
+00:05:49,627 --> 00:05:50,010
+S.
+
+152
+00:05:50,190 --> 00:05:52,891
+forces blew up in two thousand four
+
+153
+00:05:52,891 --> 00:05:54,358
+in a car-bomb test.
+
+154
+00:05:54,538 --> 00:05:57,608
+It appeared in films including No Holds
+
+155
+00:05:57,608 --> 00:06:00,285
+Barred, Toys and Fast and Furious.
+
+156
+00:06:00,465 --> 00:06:02,584
+It was a car people remembered,
+
+157
+00:06:02,584 --> 00:06:04,157
+even if few were built.
+
+158
+00:06:04,507 --> 00:06:07,633
+The LM002 also went racing,
+
+159
+00:06:07,633 --> 00:06:08,675
+in a way.
+
+160
+00:06:08,855 --> 00:06:12,383
+Wikipedia says the LM002 Evoluzione of nineteen
+
+161
+00:06:12,383 --> 00:06:15,685
+eighty-eight was tuned to six hundred metric
+
+162
+00:06:15,685 --> 00:06:18,012
+horsepower for the Paris-Dakar,
+
+163
+00:06:18,012 --> 00:06:20,640
+but funding ran out before it could
+
+164
+00:06:20,640 --> 00:06:21,916
+officially enter.
+
+165
+00:06:22,096 --> 00:06:25,057
+Sandro Munari drove the white car in
+
+166
+00:06:25,057 --> 00:06:28,019
+the Rallye des Pharaons in Egypt and
+
+167
+00:06:28,019 --> 00:06:28,841
+in Greece.
+
+168
+00:06:29,021 --> 00:06:31,388
+A company that could not afford its
+
+169
+00:06:31,388 --> 00:06:34,431
+own rally programme was already dreaming big.
+
+170
+00:06:34,782 --> 00:06:38,178
+Wikipedia says the Urus concept was unveiled
+
+171
+00:06:38,178 --> 00:06:40,571
+at the Beijing Auto Show on the
+
+172
+00:06:40,571 --> 00:06:42,269
+twenty-third of April,
+
+173
+00:06:42,269 --> 00:06:43,350
+twenty twelve.
+
+174
+00:06:43,530 --> 00:06:45,544
+It had a five point two litre
+
+175
+00:06:45,544 --> 00:06:47,211
+V ten from the Gallardo,
+
+176
+00:06:47,211 --> 00:06:49,919
+rated at six hundred metric horsepower,
+
+177
+00:06:49,919 --> 00:06:51,308
+and all-wheel drive.
+
+178
+00:06:51,488 --> 00:06:53,805
+It was also shown at Pebble Beach
+
+179
+00:06:53,805 --> 00:06:54,507
+that year.
+
+180
+00:06:54,687 --> 00:06:57,723
+Designer Filippo Perini is credited with the
+
+181
+00:06:57,723 --> 00:06:58,274
+concept.
+
+182
+00:06:58,625 --> 00:07:02,108
+Stephan Winkelmann described the decision in the
+
+183
+00:07:02,108 --> 00:07:03,559
+Yahoo Autos article.
+
+184
+00:07:03,739 --> 00:07:05,883
+We decided to do an SUV soon
+
+185
+00:07:05,883 --> 00:07:07,414
+after that, he said,
+
+186
+00:07:07,414 --> 00:07:09,788
+but it took years to get there.
+
+187
+00:07:09,968 --> 00:07:11,320
+By our arithmetic,
+
+188
+00:07:11,320 --> 00:07:14,024
+the production Urus was shown on the
+
+189
+00:07:14,024 --> 00:07:15,452
+fourth of December,
+
+190
+00:07:15,452 --> 00:07:18,832
+twenty seventeen, five years and eight months
+
+191
+00:07:18,832 --> 00:07:20,184
+after the concept.
+
+192
+00:07:20,364 --> 00:07:21,414
+That is long,
+
+193
+00:07:21,414 --> 00:07:23,917
+even by car industry standards.
+
+194
+00:07:24,267 --> 00:07:26,798
+The production car changed a lot.
+
+195
+00:07:26,978 --> 00:07:30,726
+Wikipedia says its exterior and powertrain differed
+
+196
+00:07:30,726 --> 00:07:33,005
+substantially from the concept,
+
+197
+00:07:33,005 --> 00:07:36,386
+and that Mitja Borkert designed the production
+
+198
+00:07:36,386 --> 00:07:36,974
+version.
+
+199
+00:07:37,154 --> 00:07:39,274
+The V ten was replaced by a
+
+200
+00:07:39,274 --> 00:07:41,630
+four litre twin-turbo V eight,
+
+201
+00:07:41,630 --> 00:07:44,535
+based on an Audi engine and assembled
+
+202
+00:07:44,535 --> 00:07:47,127
+at a Volkswagen plant in Hungary.
+
+203
+00:07:47,307 --> 00:07:50,496
+The car sits on the Volkswagen Group's
+
+204
+00:07:50,496 --> 00:07:52,090
+M L B Evo platform.
+
+205
+00:07:52,440 --> 00:07:55,330
+Winkelmann addressed the shared platform directly.
+
+206
+00:07:55,510 --> 00:07:57,541
+In the article he says it has
+
+207
+00:07:57,541 --> 00:07:58,802
+a common platform,
+
+208
+00:07:58,802 --> 00:08:01,393
+but our engineers did a fantastic job
+
+209
+00:08:01,393 --> 00:08:03,494
+creating a car which is a real
+
+210
+00:08:03,494 --> 00:08:04,334
+Lamborghini.
+
+211
+00:08:04,514 --> 00:08:06,708
+The page lists the Audi Q7,
+
+212
+00:08:06,708 --> 00:08:11,259
+Bentley Bentayga, Porsche Cayenne and Volkswagen Touareg
+
+213
+00:08:11,259 --> 00:08:13,047
+as platform relatives.
+
+214
+00:08:13,227 --> 00:08:15,324
+Sharing is how the Urus could be
+
+215
+00:08:15,324 --> 00:08:16,176
+built at all.
+
+216
+00:08:16,527 --> 00:08:17,815
+The target was clear.
+
+217
+00:08:17,995 --> 00:08:21,456
+Wikipedia says deliveries began in early twenty
+
+218
+00:08:21,456 --> 00:08:24,253
+eighteen, with a target of about three
+
+219
+00:08:24,253 --> 00:08:26,830
+thousand five hundred units a year.
+
+220
+00:08:27,010 --> 00:08:29,333
+It also says that the company aimed
+
+221
+00:08:29,333 --> 00:08:31,722
+to double its sales volume by twenty
+
+222
+00:08:31,722 --> 00:08:33,779
+nineteen after adding the Urus.
+
+223
+00:08:33,959 --> 00:08:38,144
+In 2017, Lamborghini delivered three thousand,
+
+224
+00:08:38,144 --> 00:08:40,600
+eight hundred fifteen cars.
+
+225
+00:08:40,780 --> 00:08:42,783
+Doubling that is seven thousand,
+
+226
+00:08:42,783 --> 00:08:43,973
+six hundred thirty.
+
+227
+00:08:44,323 --> 00:08:46,482
+The name has its own story.
+
+228
+00:08:46,662 --> 00:08:49,682
+Wikipedia says Urus is the ancestor of
+
+229
+00:08:49,682 --> 00:08:51,510
+modern domestic cattle,
+
+230
+00:08:51,510 --> 00:08:53,417
+also called the aurochs,
+
+231
+00:08:53,417 --> 00:08:56,119
+and that the Latin word urus meant
+
+232
+00:08:56,119 --> 00:08:58,980
+wild ox from the Gallic Wars onward.
+
+233
+00:08:59,160 --> 00:09:02,349
+Lamborghini had trademarked the name earlier,
+
+234
+00:09:02,349 --> 00:09:05,183
+and blogs in two thousand eight expected
+
+235
+00:09:05,183 --> 00:09:07,380
+it for what became the Estoque.
+
+236
+00:09:07,560 --> 00:09:09,845
+The bull is the brand's symbol,
+
+237
+00:09:09,845 --> 00:09:11,835
+and the wild ox is an older
+
+238
+00:09:11,835 --> 00:09:12,204
+bull.
+
+239
+00:09:12,554 --> 00:09:14,678
+The finished car was fast.
+
+240
+00:09:14,858 --> 00:09:18,429
+Wikipedia lists six hundred fifty metric horsepower
+
+241
+00:09:18,429 --> 00:09:20,180
+at six thousand r p m and
+
+242
+00:09:20,180 --> 00:09:23,750
+eight hundred fifty newton-metres from two thousand
+
+243
+00:09:23,750 --> 00:09:26,481
+two hundred fifty to four thousand five
+
+244
+00:09:26,481 --> 00:09:28,932
+hundred, zero to a hundred in three
+
+245
+00:09:28,932 --> 00:09:30,192
+point six seconds,
+
+246
+00:09:30,192 --> 00:09:32,643
+zero to two hundred in twelve point
+
+247
+00:09:32,643 --> 00:09:34,813
+eight, and a top speed of about
+
+248
+00:09:34,813 --> 00:09:37,544
+three hundred five kilometres per hour.
+
+249
+00:09:37,724 --> 00:09:40,102
+The page says it weighs under two
+
+250
+00:09:40,102 --> 00:09:42,336
+thousand two hundred kilograms,
+
+251
+00:09:42,336 --> 00:09:43,993
+thanks to carbon fibre.
+
+252
+00:09:44,344 --> 00:09:46,594
+The engine borrowed from the group,
+
+253
+00:09:46,594 --> 00:09:47,687
+but with changes.
+
+254
+00:09:47,867 --> 00:09:50,191
+Wikipedia says it was uprated by a
+
+255
+00:09:50,191 --> 00:09:53,950
+hundred metric horsepower and eighty newton-metres over
+
+256
+00:09:53,950 --> 00:09:55,727
+the Porsche Cayenne Turbo.
+
+257
+00:09:55,907 --> 00:09:57,530
+The Urus Performante,
+
+258
+00:09:57,530 --> 00:10:01,548
+later, made six hundred sixty-six metric horsepower,
+
+259
+00:10:01,548 --> 00:10:05,490
+was forty-seven kilograms lighter and claimed three
+
+260
+00:10:05,490 --> 00:10:08,040
+point three seconds to a hundred.
+
+261
+00:10:08,220 --> 00:10:09,393
+A race version,
+
+262
+00:10:09,393 --> 00:10:10,175
+the S T-X,
+
+263
+00:10:10,175 --> 00:10:13,459
+was said to be twenty-five percent lighter
+
+264
+00:10:13,459 --> 00:10:15,023
+than the street car.
+
+265
+00:10:15,373 --> 00:10:17,464
+In the Urus's first year,
+
+266
+00:10:17,464 --> 00:10:20,559
+2018, Wikipedia lists a total of five
+
+267
+00:10:20,559 --> 00:10:25,328
+thousand, seven hundred fifty deliveries for Lamborghini,
+
+268
+00:10:25,328 --> 00:10:27,252
+against three thousand,
+
+269
+00:10:27,252 --> 00:10:30,431
+eight hundred fifteen the year before.
+
+270
+00:10:30,611 --> 00:10:31,822
+By our arithmetic,
+
+271
+00:10:31,822 --> 00:10:34,043
+that is a jump of about fifty-one
+
+272
+00:10:34,043 --> 00:10:34,581
+percent.
+
+273
+00:10:34,761 --> 00:10:37,464
+And the Urus itself accounted for two
+
+274
+00:10:37,464 --> 00:10:40,750
+thousand, five hundred sixty-five of the cars
+
+275
+00:10:40,750 --> 00:10:42,576
+built in that first year,
+
+276
+00:10:42,576 --> 00:10:45,059
+according to the production table.
+
+277
+00:10:45,410 --> 00:10:46,129
+Did it work?
+
+278
+00:10:46,309 --> 00:10:50,557
+Wikipedia lists Lamborghini deliveries of three thousand,
+
+279
+00:10:50,557 --> 00:10:53,686
+eight hundred fifteen in twenty seventeen,
+
+280
+00:10:53,686 --> 00:10:56,965
+five thousand, seven hundred fifty in twenty
+
+281
+00:10:56,965 --> 00:10:59,126
+eighteen, and eight thousand,
+
+282
+00:10:59,126 --> 00:11:01,809
+two hundred five in twenty nineteen.
+
+283
+00:11:01,989 --> 00:11:03,549
+By our own arithmetic,
+
+284
+00:11:03,549 --> 00:11:06,030
+the volume more than doubled in two
+
+285
+00:11:06,030 --> 00:11:08,724
+years, up by about one hundred fifteen
+
+286
+00:11:08,724 --> 00:11:09,291
+percent.
+
+287
+00:11:09,471 --> 00:11:11,700
+The target of doubling was beaten.
+
+288
+00:11:12,051 --> 00:11:15,742
+Carscoops reported that the Urus contributed four
+
+289
+00:11:15,742 --> 00:11:19,282
+thousand, nine hundred sixty-two cars in twenty
+
+290
+00:11:19,282 --> 00:11:22,822
+nineteen, a whopping sixty-one percent of total
+
+291
+00:11:22,822 --> 00:11:26,363
+sales, with total volume up forty-three percent
+
+292
+00:11:26,363 --> 00:11:27,945
+on the previous year.
+
+293
+00:11:28,125 --> 00:11:31,054
+CEO Stefano Domenicali said that the year
+
+294
+00:11:31,054 --> 00:11:34,268
+two thousand nineteen was the most successful
+
+295
+00:11:34,268 --> 00:11:36,054
+in the company's history.
+
+296
+00:11:36,405 --> 00:11:39,307
+The sources count the Urus slightly differently.
+
+297
+00:11:39,487 --> 00:11:42,808
+Wikipedia's Urus table lists five thousand,
+
+298
+00:11:42,808 --> 00:11:46,283
+two hundred thirty-three for twenty nineteen,
+
+299
+00:11:46,283 --> 00:11:48,522
+which is probably production,
+
+300
+00:11:48,522 --> 00:11:50,221
+against four thousand,
+
+301
+00:11:50,221 --> 00:11:53,001
+nine hundred sixty-two in Carscoops,
+
+302
+00:11:53,001 --> 00:11:54,545
+which is deliveries.
+
+303
+00:11:54,725 --> 00:11:57,941
+A difference of two hundred seventy-one cars.
+
+304
+00:11:58,121 --> 00:12:00,182
+We use each as the source gives
+
+305
+00:12:00,182 --> 00:12:01,778
+it, and do not mix them.
+
+306
+00:12:02,129 --> 00:12:04,831
+The United States was the biggest market
+
+307
+00:12:04,831 --> 00:12:06,114
+in twenty nineteen,
+
+308
+00:12:06,114 --> 00:12:07,330
+with two thousand,
+
+309
+00:12:07,330 --> 00:12:09,898
+three hundred seventy-four deliveries,
+
+310
+00:12:09,898 --> 00:12:11,451
+according to Carscoops.
+
+311
+00:12:11,631 --> 00:12:14,541
+Then came mainland China with Hong Kong
+
+312
+00:12:14,541 --> 00:12:17,152
+and Macau at seven hundred seventy,
+
+313
+00:12:17,152 --> 00:12:20,583
+the United Kingdom at six hundred fifty-eight,
+
+314
+00:12:20,583 --> 00:12:23,717
+Japan at six hundred forty-one and Germany
+
+315
+00:12:23,717 --> 00:12:25,656
+at five hundred sixty-two.
+
+316
+00:12:26,007 --> 00:12:29,369
+Wikipedia lists Urus numbers for each year:
+
+317
+00:12:29,369 --> 00:12:32,732
+one hundred twenty-one in twenty seventeen,
+
+318
+00:12:32,732 --> 00:12:36,407
+two thousand, five hundred sixty-five in twenty
+
+319
+00:12:36,407 --> 00:12:38,675
+eighteen, then four thousand,
+
+320
+00:12:38,675 --> 00:12:41,959
+three hundred sixty-four in twenty twenty,
+
+321
+00:12:41,959 --> 00:12:45,243
+five thousand, two hundred forty in twenty
+
+322
+00:12:45,243 --> 00:12:47,276
+twenty-one, five thousand,
+
+323
+00:12:47,276 --> 00:12:50,952
+seven hundred eighty-five in twenty twenty-two,
+
+324
+00:12:50,952 --> 00:12:54,080
+and six thousand in twenty twenty-three.
+
+325
+00:12:54,430 --> 00:12:55,817
+Then six thousand,
+
+326
+00:12:55,817 --> 00:12:59,285
+six hundred eighty-one in twenty twenty-four,
+
+327
+00:12:59,285 --> 00:13:00,749
+and seven thousand,
+
+328
+00:13:00,749 --> 00:13:04,217
+two hundred sixty-five in twenty twenty-five.
+
+329
+00:13:04,397 --> 00:13:05,943
+By our own arithmetic,
+
+330
+00:13:05,943 --> 00:13:08,474
+the nine years add up to forty-three
+
+331
+00:13:08,474 --> 00:13:10,794
+thousand, two hundred fifty-four.
+
+332
+00:13:10,974 --> 00:13:13,867
+And Wikipedia says the ten thousandth Urus
+
+333
+00:13:13,867 --> 00:13:16,347
+was announced in July twenty twenty,
+
+334
+00:13:16,347 --> 00:13:19,172
+and twenty thousand by twenty twenty-two,
+
+335
+00:13:19,172 --> 00:13:21,376
+the fastest for any Lamborghini.
+
+336
+00:13:21,727 --> 00:13:24,182
+Look at the whole company in twenty
+
+337
+00:13:24,182 --> 00:13:25,024
+twenty-five.
+
+338
+00:13:25,204 --> 00:13:28,402
+Wikipedia lists deliveries of ten thousand,
+
+339
+00:13:28,402 --> 00:13:30,335
+seven hundred forty-seven.
+
+340
+00:13:30,515 --> 00:13:32,053
+By our own arithmetic,
+
+341
+00:13:32,053 --> 00:13:35,477
+seven thousand, two hundred sixty-five Urus would
+
+342
+00:13:35,477 --> 00:13:38,062
+be about sixty-eight percent of that.
+
+343
+00:13:38,242 --> 00:13:41,085
+This mixes production with deliveries,
+
+344
+00:13:41,085 --> 00:13:43,629
+so treat it as a rough indication.
+
+345
+00:13:43,809 --> 00:13:46,701
+The Yahoo article says the Urus accounts
+
+346
+00:13:46,701 --> 00:13:49,737
+for significantly more than half of annual
+
+347
+00:13:49,737 --> 00:13:50,171
+sales.
+
+348
+00:13:50,522 --> 00:13:52,331
+After the first record year,
+
+349
+00:13:52,331 --> 00:13:53,947
+the company kept growing.
+
+350
+00:13:54,127 --> 00:13:57,480
+Wikipedia lists deliveries of seven thousand,
+
+351
+00:13:57,480 --> 00:14:00,237
+four hundred thirty in twenty twenty,
+
+352
+00:14:00,237 --> 00:14:03,441
+eight thousand, four hundred five in twenty
+
+353
+00:14:03,441 --> 00:14:05,378
+twenty-one, nine thousand,
+
+354
+00:14:05,378 --> 00:14:08,805
+two hundred thirty-three in twenty twenty-two,
+
+355
+00:14:08,805 --> 00:14:10,072
+and ten thousand,
+
+356
+00:14:10,072 --> 00:14:13,202
+one hundred twelve in twenty twenty-three.
+
+357
+00:14:13,382 --> 00:14:14,959
+Then ten thousand,
+
+358
+00:14:14,959 --> 00:14:17,149
+six hundred eighty-seven,
+
+359
+00:14:17,149 --> 00:14:18,639
+and ten thousand,
+
+360
+00:14:18,639 --> 00:14:20,917
+seven hundred forty-seven.
+
+361
+00:14:21,267 --> 00:14:22,863
+By our own arithmetic,
+
+362
+00:14:22,863 --> 00:14:26,782
+deliveries in twenty twenty-five were about thirty-one
+
+363
+00:14:26,782 --> 00:14:28,960
+percent above twenty nineteen,
+
+364
+00:14:28,960 --> 00:14:32,298
+and about one hundred eighty-two percent above
+
+365
+00:14:32,298 --> 00:14:35,419
+twenty seventeen, the year before the Urus.
+
+366
+00:14:35,599 --> 00:14:36,797
+In twenty twenty,
+
+367
+00:14:36,797 --> 00:14:40,177
+deliveries dipped about nine percent from twenty
+
+368
+00:14:40,177 --> 00:14:41,938
+nineteen, then recovered.
+
+369
+00:14:42,118 --> 00:14:43,686
+The shape of the curve is up.
+
+370
+00:14:44,036 --> 00:14:47,352
+The Yahoo article quotes Winkelmann on whether
+
+371
+00:14:47,352 --> 00:14:49,515
+the SUV is a real Lamborghini.
+
+372
+00:14:49,695 --> 00:14:52,787
+Nobody who drives an Urus ever doubts
+
+373
+00:14:52,787 --> 00:14:53,956
+this, he says.
+
+374
+00:14:54,136 --> 00:14:55,343
+It is, of course,
+
+375
+00:14:55,343 --> 00:14:57,544
+the opinion of the man who made
+
+376
+00:14:57,544 --> 00:14:58,467
+the decision.
+
+377
+00:14:58,647 --> 00:15:01,246
+But his claim comes with eight hundred
+
+378
+00:15:01,246 --> 00:15:04,598
+thirty-five million euros of operating income and
+
+379
+00:15:04,598 --> 00:15:07,129
+a sixty-eight percent share of sales,
+
+380
+00:15:07,129 --> 00:15:08,771
+by our rough arithmetic.
+
+381
+00:15:08,951 --> 00:15:10,553
+That is a strong case.
+
+382
+00:15:10,903 --> 00:15:13,946
+Wikipedia gives one more number about the
+
+383
+00:15:13,946 --> 00:15:15,059
+company's size.
+
+384
+00:15:15,239 --> 00:15:17,165
+In December twenty twenty,
+
+385
+00:15:17,165 --> 00:15:19,313
+Lamborghini had one thousand,
+
+386
+00:15:19,313 --> 00:15:22,054
+seven hundred seventy-nine employees.
+
+387
+00:15:22,234 --> 00:15:23,536
+By our arithmetic,
+
+388
+00:15:23,536 --> 00:15:24,984
+with seven thousand,
+
+389
+00:15:24,984 --> 00:15:27,951
+four hundred thirty deliveries that year,
+
+390
+00:15:27,951 --> 00:15:30,628
+that is about four cars per employee.
+
+391
+00:15:30,808 --> 00:15:32,704
+It remained a small company,
+
+392
+00:15:32,704 --> 00:15:34,871
+with a very large product in its
+
+393
+00:15:34,871 --> 00:15:35,278
+range.
+
+394
+00:15:35,628 --> 00:15:37,090
+The money followed.
+
+395
+00:15:37,270 --> 00:15:40,450
+Wikipedia says that in twenty twenty-four,
+
+396
+00:15:40,450 --> 00:15:44,009
+Lamborghini reported revenue of three point one
+
+397
+00:15:44,009 --> 00:15:47,038
+billion euros and an operating income of
+
+398
+00:15:47,038 --> 00:15:49,612
+eight hundred thirty-five million.
+
+399
+00:15:49,792 --> 00:15:51,356
+By our own arithmetic,
+
+400
+00:15:51,356 --> 00:15:53,987
+that is an operating margin of nearly
+
+401
+00:15:53,987 --> 00:15:55,481
+twenty-seven percent.
+
+402
+00:15:55,661 --> 00:15:56,800
+For a carmaker,
+
+403
+00:15:56,800 --> 00:15:58,470
+that is a high figure.
+
+404
+00:15:58,650 --> 00:16:01,140
+The Yahoo article calls the Urus a
+
+405
+00:16:01,140 --> 00:16:04,362
+huge profit driver for the Volkswagen Group.
+
+406
+00:16:04,713 --> 00:16:06,657
+To put that in context,
+
+407
+00:16:06,657 --> 00:16:09,701
+Wikipedia also lists a net income of
+
+408
+00:16:09,701 --> 00:16:12,914
+ten point one million euros for twenty
+
+409
+00:16:12,914 --> 00:16:13,675
+fourteen.
+
+410
+00:16:13,855 --> 00:16:16,996
+Net income and operating income are different
+
+411
+00:16:16,996 --> 00:16:20,136
+measures, so we cannot compare them directly.
+
+412
+00:16:20,316 --> 00:16:22,457
+But the scale of the change,
+
+413
+00:16:22,457 --> 00:16:25,591
+from ten million to hundreds of millions,
+
+414
+00:16:25,591 --> 00:16:28,726
+shows why Volkswagen was happy to approve
+
+415
+00:16:28,726 --> 00:16:29,337
+the SUV.
+
+416
+00:16:29,688 --> 00:16:32,335
+The Urus also changed the factory.
+
+417
+00:16:32,515 --> 00:16:35,815
+Wikipedia says the Sant'Agata Bolognese site grew
+
+418
+00:16:35,815 --> 00:16:38,577
+from eighty thousand to one hundred sixty
+
+419
+00:16:38,577 --> 00:16:41,675
+thousand square metres when the Urus launched.
+
+420
+00:16:41,855 --> 00:16:43,389
+By our arithmetic,
+
+421
+00:16:43,389 --> 00:16:45,349
+that is exactly double.
+
+422
+00:16:45,529 --> 00:16:48,297
+A company that built a few thousand
+
+423
+00:16:48,297 --> 00:16:51,064
+sports cars now needed a second set
+
+424
+00:16:51,064 --> 00:16:53,041
+of buildings for one SUV.
+
+425
+00:16:53,392 --> 00:16:55,821
+Winkelmann has been at the helm of
+
+426
+00:16:55,821 --> 00:16:58,822
+Lamborghini for fifteen of the past twenty
+
+427
+00:16:58,822 --> 00:17:01,966
+years, according to the Yahoo Autos article,
+
+428
+00:17:01,966 --> 00:17:04,967
+which says that he transformed the company
+
+429
+00:17:04,967 --> 00:17:06,325
+beyond recognition.
+
+430
+00:17:06,505 --> 00:17:07,725
+In his own words,
+
+431
+00:17:07,725 --> 00:17:09,807
+they see themselves as brave,
+
+432
+00:17:09,807 --> 00:17:11,602
+unexpected and authentic.
+
+433
+00:17:11,782 --> 00:17:13,079
+By our arithmetic,
+
+434
+00:17:13,079 --> 00:17:16,034
+sixteen hundred cars in two thousand five
+
+435
+00:17:16,034 --> 00:17:19,205
+to ten thousand seven hundred forty-seven in
+
+436
+00:17:19,205 --> 00:17:21,511
+twenty twenty-five is about a 6.
+
+437
+00:17:21,691 --> 00:17:23,607
+7 times increase.
+
+438
+00:17:23,957 --> 00:17:26,116
+A bet this big has risks.
+
+439
+00:17:26,296 --> 00:17:29,097
+The Yahoo article makes a pointed remark
+
+440
+00:17:29,097 --> 00:17:30,427
+about other brands:
+
+441
+00:17:30,427 --> 00:17:33,787
+performance brands with similar heritage such as
+
+442
+00:17:33,787 --> 00:17:36,938
+Maserati and Lotus have struggled to maintain
+
+443
+00:17:36,938 --> 00:17:37,778
+an identity.
+
+444
+00:17:37,958 --> 00:17:40,727
+It does not say that of Lamborghini,
+
+445
+00:17:40,727 --> 00:17:43,341
+but it shows the danger of chasing
+
+446
+00:17:43,341 --> 00:17:43,879
+volume.
+
+447
+00:17:44,059 --> 00:17:46,404
+A brand can sell more cars and
+
+448
+00:17:46,404 --> 00:17:48,436
+lose what made it special.
+
+449
+00:17:48,787 --> 00:17:51,457
+The Urus also had quality problems.
+
+450
+00:17:51,637 --> 00:17:55,071
+Wikipedia says that in November twenty twenty,
+
+451
+00:17:55,071 --> 00:17:56,713
+the N H T S A recalled
+
+452
+00:17:56,713 --> 00:17:59,998
+two thousand, eight hundred thirty-one Urus,
+
+453
+00:17:59,998 --> 00:18:03,133
+from the twenty nineteen and twenty twenty
+
+454
+00:18:03,133 --> 00:18:06,418
+model years, over a fuel-line connector that
+
+455
+00:18:06,418 --> 00:18:07,612
+was a fire risk.
+
+456
+00:18:07,792 --> 00:18:11,312
+Wikipedia adds that Porsche had identified the
+
+457
+00:18:11,312 --> 00:18:13,226
+issue in twenty nineteen.
+
+458
+00:18:13,576 --> 00:18:15,412
+In May twenty twenty-four,
+
+459
+00:18:15,412 --> 00:18:17,461
+Wikipedia says, two thousand,
+
+460
+00:18:17,461 --> 00:18:20,640
+one hundred thirty-three Urus from the twenty
+
+461
+00:18:20,640 --> 00:18:24,314
+twenty-three and twenty twenty-four model years were
+
+462
+00:18:24,314 --> 00:18:27,564
+recalled because the hood latch striker rivets
+
+463
+00:18:27,564 --> 00:18:30,319
+could fail, allowing the hood to detach
+
+464
+00:18:30,319 --> 00:18:32,651
+above ninety-four miles per hour.
+
+465
+00:18:32,831 --> 00:18:36,290
+A high-volume car brings high-volume problems.
+
+466
+00:18:36,641 --> 00:18:39,149
+There is also the strategic risk of
+
+467
+00:18:39,149 --> 00:18:39,938
+dependence.
+
+468
+00:18:40,118 --> 00:18:41,494
+By our arithmetic,
+
+469
+00:18:41,494 --> 00:18:44,018
+if the Urus is roughly two thirds
+
+470
+00:18:44,018 --> 00:18:45,165
+of the company,
+
+471
+00:18:45,165 --> 00:18:47,460
+then a bad year for SUVs would
+
+472
+00:18:47,460 --> 00:18:49,754
+be a bad year for Lamborghini.
+
+473
+00:18:49,934 --> 00:18:52,721
+The twenty twenty numbers show a small
+
+474
+00:18:52,721 --> 00:18:53,894
+version of that:
+
+475
+00:18:53,894 --> 00:18:56,828
+Urus production fell from five thousand,
+
+476
+00:18:56,828 --> 00:18:59,908
+two hundred thirty-three to four thousand,
+
+477
+00:18:59,908 --> 00:19:01,741
+three hundred sixty-four.
+
+478
+00:19:02,092 --> 00:19:05,505
+Winkelmann's other big decision was about hybrids.
+
+479
+00:19:05,685 --> 00:19:08,490
+Wikipedia says the Asterion L P I
+
+480
+00:19:08,490 --> 00:19:10,105
+nine ten dash four,
+
+481
+00:19:10,105 --> 00:19:13,336
+a hybrid concept from twenty fourteen,
+
+482
+00:19:13,336 --> 00:19:15,376
+was the company's first,
+
+483
+00:19:15,376 --> 00:19:18,606
+with a claimed combined output of nine
+
+484
+00:19:18,606 --> 00:19:20,731
+hundred seven horsepower.
+
+485
+00:19:20,911 --> 00:19:23,283
+So the company that started with a
+
+486
+00:19:23,283 --> 00:19:25,096
+V twelve at the front of a
+
+487
+00:19:25,096 --> 00:19:27,397
+truck is now defined by plug-ins,
+
+488
+00:19:27,397 --> 00:19:29,420
+and the SUV came right in the
+
+489
+00:19:29,420 --> 00:19:30,884
+middle of that story.
+
+490
+00:19:31,235 --> 00:19:33,533
+Let us step back and count what
+
+491
+00:19:33,533 --> 00:19:35,832
+changed, by our own arithmetic.
+
+492
+00:19:36,012 --> 00:19:39,042
+Thirteen years separate the Beijing concept in
+
+493
+00:19:39,042 --> 00:19:42,270
+twenty twelve and the twenty twenty-five figures.
+
+494
+00:19:42,450 --> 00:19:43,608
+In those years,
+
+495
+00:19:43,608 --> 00:19:45,923
+the company moved from a V ten
+
+496
+00:19:45,923 --> 00:19:48,162
+concept to a plug-in V eight,
+
+497
+00:19:48,162 --> 00:19:51,095
+from fifteen hundred cars to more than
+
+498
+00:19:51,095 --> 00:19:53,951
+ten thousand, and from a single small
+
+499
+00:19:53,951 --> 00:19:56,498
+factory to a site twice its size.
+
+500
+00:19:56,848 --> 00:20:00,361
+The same pattern appears in the LM002
+
+501
+00:20:00,361 --> 00:20:01,596
+and the Urus.
+
+502
+00:20:01,776 --> 00:20:03,239
+Both were SUVs.
+
+503
+00:20:03,419 --> 00:20:05,695
+Both used the best engine the company
+
+504
+00:20:05,695 --> 00:20:06,310
+could get.
+
+505
+00:20:06,490 --> 00:20:08,437
+But one was built by hand on
+
+506
+00:20:08,437 --> 00:20:09,966
+a tubular steel frame,
+
+507
+00:20:09,966 --> 00:20:12,122
+and the other on a shared group
+
+508
+00:20:12,122 --> 00:20:12,748
+platform.
+
+509
+00:20:12,928 --> 00:20:15,648
+One sold three hundred one cars in
+
+510
+00:20:15,648 --> 00:20:16,608
+seven years.
+
+511
+00:20:16,788 --> 00:20:19,487
+The other sold more than seven thousand
+
+512
+00:20:19,487 --> 00:20:20,664
+in a single year,
+
+513
+00:20:20,664 --> 00:20:22,187
+in twenty twenty-five.
+
+514
+00:20:22,537 --> 00:20:24,742
+Lamborghini has kept going.
+
+515
+00:20:24,922 --> 00:20:26,861
+Wikipedia lists the Urus SE,
+
+516
+00:20:26,861 --> 00:20:29,215
+a plug-in hybrid with a four litre
+
+517
+00:20:29,215 --> 00:20:32,330
+V eight making six hundred twenty horsepower,
+
+518
+00:20:32,330 --> 00:20:34,892
+plus an electric motor of one hundred
+
+519
+00:20:34,892 --> 00:20:38,561
+eighty-nine, for a combined seven hundred ninety-nine
+
+520
+00:20:38,561 --> 00:20:41,885
+horsepower and nine hundred fifty newton-metres.
+
+521
+00:20:42,065 --> 00:20:45,259
+It describes it as the fastest production
+
+522
+00:20:45,259 --> 00:20:47,363
+SUV in the world at launch,
+
+523
+00:20:47,363 --> 00:20:49,934
+with a top speed of three hundred
+
+524
+00:20:49,934 --> 00:20:52,038
+twelve kilometres per hour.
+
+525
+00:20:52,388 --> 00:20:55,166
+The Urus SE weighs about three hundred
+
+526
+00:20:55,166 --> 00:20:57,945
+kilograms more than the Urus S because
+
+527
+00:20:57,945 --> 00:21:01,747
+of its twenty-five point nine kilowatt-hour battery,
+
+528
+00:21:01,747 --> 00:21:03,429
+according to Wikipedia.
+
+529
+00:21:03,609 --> 00:21:06,775
+Even so, it reaches a hundred kilometres
+
+530
+00:21:06,775 --> 00:21:09,704
+per hour in three point four seconds.
+
+531
+00:21:09,884 --> 00:21:11,979
+The SUV that started as a bet
+
+532
+00:21:11,979 --> 00:21:14,796
+has become a platform for the company's
+
+533
+00:21:14,796 --> 00:21:16,385
+electrification plans.
+
+534
+00:21:16,736 --> 00:21:19,104
+The wider range is changing too.
+
+535
+00:21:19,284 --> 00:21:21,584
+Wikipedia lists the Revuelto,
+
+536
+00:21:21,584 --> 00:21:24,359
+a V twelve hybrid with one thousand
+
+537
+00:21:24,359 --> 00:21:25,866
+and one horsepower,
+
+538
+00:21:25,866 --> 00:21:27,294
+and the Temerario,
+
+539
+00:21:27,294 --> 00:21:30,704
+a mid-engine plug-in hybrid unveiled on the
+
+540
+00:21:30,704 --> 00:21:32,290
+sixteenth of August,
+
+541
+00:21:32,290 --> 00:21:33,796
+twenty twenty-four.
+
+542
+00:21:33,976 --> 00:21:35,335
+In twenty twenty-one,
+
+543
+00:21:35,335 --> 00:21:38,052
+Winkelmann said all models would be hybrid
+
+544
+00:21:38,052 --> 00:21:39,863
+by two thousand twenty-four.
+
+545
+00:21:40,043 --> 00:21:42,574
+The Urus was where the strategy began.
+
+546
+00:21:42,923 --> 00:21:44,468
+So was the bet worth it?
+
+547
+00:21:44,648 --> 00:21:46,077
+On the numbers,
+
+548
+00:21:46,077 --> 00:21:46,459
+yes.
+
+549
+00:21:46,639 --> 00:21:49,679
+Deliveries went from three thousand eight hundred
+
+550
+00:21:49,679 --> 00:21:52,780
+fifteen to ten thousand seven hundred forty-seven.
+
+551
+00:21:52,960 --> 00:21:56,699
+The Urus became the best-selling Lamborghini ever.
+
+552
+00:21:56,879 --> 00:21:59,196
+The company expanded its factory,
+
+553
+00:21:59,196 --> 00:22:02,426
+and its operating income reached eight hundred
+
+554
+00:22:02,426 --> 00:22:04,251
+thirty-five million euros.
+
+555
+00:22:04,431 --> 00:22:07,087
+The sources we read describe the SUV
+
+556
+00:22:07,087 --> 00:22:09,226
+as the engine of that growth.
+
+557
+00:22:09,577 --> 00:22:11,313
+But a bet is not only about
+
+558
+00:22:11,313 --> 00:22:12,084
+the numbers.
+
+559
+00:22:12,264 --> 00:22:15,432
+A reasonable person can still ask whether
+
+560
+00:22:15,432 --> 00:22:18,290
+a Lamborghini should be a family car.
+
+561
+00:22:18,470 --> 00:22:20,827
+The sources show that sales soared and
+
+562
+00:22:20,827 --> 00:22:22,998
+that the company stayed profitable.
+
+563
+00:22:23,178 --> 00:22:25,191
+They cannot tell you whether the brand
+
+564
+00:22:25,191 --> 00:22:26,568
+lost something intangible.
+
+565
+00:22:26,748 --> 00:22:28,526
+That part is a judgement,
+
+566
+00:22:28,526 --> 00:22:30,092
+and it belongs to you.
+
+567
+00:22:30,441 --> 00:22:32,829
+Do you think Lamborghini was right to
+
+568
+00:22:32,829 --> 00:22:33,797
+build the Urus?
+
+569
+00:22:33,977 --> 00:22:35,498
+Tell us in the comments.
+
+570
+00:22:35,678 --> 00:22:38,008
+In the other videos of this series,
+
+571
+00:22:38,008 --> 00:22:40,139
+we reveal two things you did not
+
+572
+00:22:40,139 --> 00:22:41,471
+know about the Urus,
+
+573
+00:22:41,471 --> 00:22:44,068
+compare it with the Ferrari Purosangue,
+
+574
+00:22:44,068 --> 00:22:46,265
+and work out what it really costs
+
+575
+00:22:46,265 --> 00:22:46,997
+to own one.
+
+576
+00:22:47,347 --> 00:22:49,044
+And if you want to spend your
+
+577
+00:22:49,044 --> 00:22:51,443
+money on something you can actually drive
+
+578
+00:22:51,443 --> 00:22:54,251
+every day, our twenty twenty-seven Truck Buyer's
+
+579
+00:22:54,251 --> 00:22:56,299
+Guide is linked in the description.
+
+580
+00:22:56,479 --> 00:22:59,973
+Subscribe to Pickup Reality for more stories
+
+581
+00:22:59,973 --> 00:23:03,070
+about the cars and trucks people really
+
+582
+00:23:03,070 --> 00:23:03,944
+talk about.
