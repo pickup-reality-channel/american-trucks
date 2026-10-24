@@ -1,0 +1,8 @@
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren W1: https://en.wikipedia.org/wiki/McLaren_W1
+- Car and Driver via Daily Maverick, McLaren introduces $2.1 million W1 hybrid supercar (Oct 2024): https://www.dailymaverick.co.za/article/2024-10-06-mclaren-introduces-2-1-million-w1-hybrid-supercar-to-honor-f1-history/
+- GoAuto, McLaren raises hypercar bar with new W1 (Oct 2024): https://goauto.com.au/amp/mclaren/w1/mclaren-raises-hypercar-bar-with-new-w1/2024-10-08/94971.html
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
+- SlashGear, Here's How Fast The McLaren F1 Really Is: https://www.slashgear.com/1105554/heres-how-fast-the-mclaren-f1-really-is
+- AutoMonitor, McLaren F1 price history (estimates): https://automonitor.io/blog/mclaren-f1-price-history/

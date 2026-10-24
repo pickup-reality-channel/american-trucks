@@ -1,0 +1,7 @@
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Wikipedia, 1995 24 Hours of Le Mans: https://en.wikipedia.org/wiki/1995_24_Hours_of_Le_Mans
+- Motor Sport magazine, Won for the road: McLaren's unlikely 1995 Le Mans win (June 2005): https://www.motorsportmagazine.com/archive/article/june-2005/52/won-road/
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
+- SlashGear, Here's How Fast The McLaren F1 Really Is: https://www.slashgear.com/1105554/heres-how-fast-the-mclaren-f1-really-is

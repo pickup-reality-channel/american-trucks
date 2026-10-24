@@ -1,0 +1,9 @@
+- Wikipedia, Gordon Murray: https://en.wikipedia.org/wiki/Gordon_Murray
+- Wikipedia, Brabham BT46: https://en.wikipedia.org/wiki/Brabham_BT46
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Wikipedia, Gordon Murray Automotive T.50: https://en.wikipedia.org/wiki/Gordon_Murray_Automotive_T.50
+- Attic Capital, Gordon Murray and the McLaren F1: https://atticcapital.com/gordon-murray-mclaren-f1/
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- Motor Authority, A look back at the original clay models for the McLaren F1: https://www.motorauthority.com/news/1081316_a-look-back-at-the-original-clay-models-for-the-mclaren-f1
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million

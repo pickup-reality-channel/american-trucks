@@ -1,0 +1,366 @@
+{
+ "id": "video82",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "McLaren F1 vs McLaren W1: The Real Difference",
+ "scenes": [
+  {
+   "text": "Thirty-two years separate the McLaren F one and the McLaren W one. The W one has about twice the horsepower, goes from zero to sixty in two point seven seconds, and costs several times more. And yet there is one important number where the old car still wins. Today we compare the two, line by line, and explain the difference that nobody explains.",
+   "query": "McLaren F1",
+   "caption": "McLAREN F1 vs McLAREN W1",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the hint. McLaren itself calls the new W one the fastest-accelerating road-legal car it has ever built. But the F one has a top speed record that the W one does not even try to match. So which one is really the better car? The honest answer depends on what you mean by better.",
+   "query": "McLaren W1",
+   "caption": "WHICH IS BETTER?",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure in this video comes from a published source, listed in the description. Where a number is an estimate, or our own arithmetic, we will say so. Let's start with where these two cars came from.",
+   "query": "McLaren F1 and McLaren W1",
+   "caption": "EVERY FIGURE IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "The F one came first. Wikipedia says designer Gordon Murray conceived it as an exercise in creating the ultimate road-going sports car, and describes his design concept simply: low weight and high power. Production ran from nineteen ninety-two to nineteen ninety-eight, and only one hundred six cars were manufactured.",
+   "query": "McLaren F1",
+   "caption": "THE ORIGINAL: LOW WEIGHT, HIGH POWER",
+   "cuts": 3,
+   "chapter": "Two cars, one story"
+  },
+  {
+   "text": "The W one is the new one. Wikipedia says it was unveiled on the sixth of October, twenty twenty-four, and calls it the successor to the McLaren P one. Production was scheduled to begin in twenty twenty-five and was limited to three hundred ninety-nine units, though the page tags that date as needing an update.",
+   "query": "McLaren W1",
+   "caption": "THE NEW ONE: UNVEILED OCTOBER 2024",
+   "cuts": 3
+  },
+  {
+   "text": "Car and Driver, in a story republished by the Daily Maverick, says the W one arrives for the fiftieth anniversary of McLaren's first Formula One constructors' championship, won with driver Emerson Fittipaldi, who also won the drivers' championship in nineteen seventy-four. The company, the story says, has Formula One on the brain.",
+   "query": "Emerson Fittipaldi McLaren 1974",
+   "caption": "50 YEARS SINCE McLAREN'S FIRST TITLE",
+   "cuts": 3
+  },
+  {
+   "text": "McLaren's own chief executive, Michael Leiters, called the W one a celebration of both the iconic McLaren F one and the McLaren P one, according to GoAuto. So the new car is meant to honor the old one. That is exactly why the comparison is fair, and why the differences are so interesting.",
+   "query": "McLaren P1",
+   "caption": "A CELEBRATION OF THE F1 AND THE P1",
+   "cuts": 3
+  },
+  {
+   "text": "There was a middle step. Car and Driver says McLaren began developing the hybrid system more than ten years earlier with the nine hundred three horsepower P one, which launched in twenty thirteen. The W one has one thousand two hundred fifty-eight horsepower, about thirty-nine percent more than the P one, by our own arithmetic.",
+   "query": "McLaren P1 front",
+   "caption": "P1: 903 HP IN 2013",
+   "cuts": 3
+  },
+  {
+   "text": "Car and Driver lists the stops along the way. The Speedtail hybrid made its debut in twenty eighteen at two point three million dollars. The Artura, a less expensive hybrid, came out in twenty twenty-one at two hundred thirty-three thousand dollars. So the W one, at two point one million, actually starts below the Speedtail, by about nine percent, by our own arithmetic.",
+   "query": "McLaren Speedtail rear",
+   "caption": "SPEEDTAIL $2.3M, ARTURA $233K",
+   "cuts": 3
+  },
+  {
+   "text": "The two cars also had very different starts. Gooding and Company says McLaren Cars was set up in nineteen eighty-nine, production of the F one began in nineteen ninety-two, and the first cars reached customers in nineteen ninety-three. Motor Authority adds that the team that created it came together for the first time in nineteen ninety.",
+   "query": "McLaren F1 factory Woking",
+   "caption": "THE F1 TEAM FORMED IN 1990",
+   "cuts": 3
+  },
+  {
+   "text": "Start with the F one's engine. Wikipedia says it was a BMW S seventy slash two, a sixty-degree V twelve of six thousand sixty-four cubic centimeters, designed by BMW's motorsport division. It made six hundred eighteen horsepower at seven thousand four hundred r p m, and four hundred seventy-nine pound-feet of torque at five thousand six hundred.",
+   "query": "BMW S70/2 V12",
+   "caption": "F1: 6.1L V12, 618 HP",
+   "cuts": 3,
+   "chapter": "The engines"
+  },
+  {
+   "text": "It was naturally aspirated, which Gooding and Company says was one of Gordon Murray's non-negotiables. No turbochargers. It was also, Wikipedia says, a heavy piece of equipment by racing standards, at two hundred sixty-six kilograms, five hundred eighty-six pounds. But for the nineteen nineties, it was extremely light for a V twelve.",
+   "query": "BMW V12 engine",
+   "caption": "NATURALLY ASPIRATED, NO TURBOS",
+   "cuts": 3
+  },
+  {
+   "text": "Now the W one. Wikipedia says its engine is the McLaren M H P eight, a three thousand nine hundred eighty-eight cubic centimeter twin-turbo V eight. GoAuto adds that it is a ninety-degree V eight with a flat-plane crank, redlining at nine thousand two hundred r p m, and producing six hundred eighty-two kilowatts.",
+   "query": "McLaren MHP-8 V8",
+   "caption": "W1: 4.0L TWIN-TURBO V8",
+   "cuts": 3
+  },
+  {
+   "text": "Six hundred eighty-two kilowatts is about nine hundred fifteen horsepower, by our own arithmetic. That means the W one's gasoline engine alone makes about forty-eight percent more power than the entire F one. And that is before the electric motor. GoAuto says the engine's output per liter is a new record for McLaren, at one hundred seventy-one kilowatts per liter.",
+   "query": "McLaren engine dyno",
+   "caption": "THE V8 ALONE: ~915 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Then comes the electric part. Wikipedia says the W one's E-module contributes up to two hundred fifty-five kilowatts, about three hundred forty-seven metric horsepower. Together, the engine and motor produce one thousand two hundred seventy-five metric horsepower, which Wikipedia converts to one thousand two hundred fifty-eight brake horsepower.",
+   "query": "McLaren W1 hybrid powertrain",
+   "caption": "+ 255 kW ELECTRIC MOTOR",
+   "cuts": 3
+  },
+  {
+   "text": "The torque tells the same story. Wikipedia lists one thousand three hundred forty newton-meters, about nine hundred eighty-eight pound-feet, for the W one. The F one made six hundred fifty newton-meters. By our own arithmetic, the new car has roughly twice the torque of the old one, and about twice the power.",
+   "query": "McLaren W1 rear",
+   "caption": "1,340 Nm vs 650 Nm",
+   "cuts": 3
+  },
+  {
+   "text": "The power per liter shows how different the philosophies are. The F one made about one hundred two horsepower per liter, by our own arithmetic, from its six point one liter V twelve. The W one's whole system, engine and motor together, makes about three hundred fifteen horsepower per liter of engine displacement.",
+   "query": "McLaren engine comparison",
+   "caption": "~102 HP/L vs ~315 HP/L (OUR MATH)",
+   "cuts": 3
+  },
+  {
+   "text": "Even the engine speed has changed. The F one's rev limiter was raised to eight thousand three hundred r p m for the record run, Wikipedia says, and peak power came at seven thousand four hundred. The W one's V eight redlines at nine thousand two hundred, which is about eleven percent higher than that raised limit, by our own arithmetic.",
+   "query": "McLaren tachometer",
+   "caption": "9,200 RPM REDLINE",
+   "cuts": 3
+  },
+  {
+   "text": "Now the weight, where the F one's design shows. Wikipedia lists eleven hundred forty kilograms dry, two thousand five hundred thirteen pounds, and twelve hundred sixty kilograms ready to drive. The W one, Wikipedia says, has a dry weight of thirteen hundred ninety-nine kilograms, three thousand eighty-four pounds.",
+   "query": "McLaren F1 weight",
+   "caption": "1,140 KG vs 1,399 KG",
+   "cuts": 3,
+   "chapter": "The weight"
+  },
+  {
+   "text": "The difference is two hundred fifty-nine kilograms, about twenty-three percent more, by our own arithmetic. A new car that is two hundred sixty kilograms heavier than a nineteen nineties car sounds like a step backward. But look at what the extra weight carries.",
+   "query": "McLaren W1 carbon chassis",
+   "caption": "+259 KG, +23% (OUR MATH)",
+   "cuts": 3
+  },
+  {
+   "text": "It carries a hybrid system, an electric motor, a battery, and enough structure to survive twice the power and far higher aerodynamic loads. GoAuto says the W one has a best-in-class power-to-weight ratio of six hundred seventy kilowatts per tonne. Wikipedia says nine hundred eleven metric horsepower per tonne.",
+   "query": "McLaren W1 battery hybrid",
+   "caption": "RECORD POWER-TO-WEIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "Now the same calculation for the F one. Six hundred eighteen horsepower divided by eleven hundred forty kilograms is about point five four horsepower per kilogram. The W one, at twelve hundred fifty-eight horsepower on thirteen hundred ninety-nine kilograms, is about point nine, by our own arithmetic. That is roughly sixty-six percent higher.",
+   "query": "McLaren power to weight",
+   "caption": "0.54 vs 0.90 HP/KG (OUR MATH)",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars used expensive materials to save weight. Gooding and Company says the F one used carbon fiber, titanium, magnesium and Kevlar. Wikipedia adds the engine bay's gold foil, about sixteen grams per car. The W one's equivalent is its carbon monocoque and forged wheels. The principle is the same, but the budget per gram has grown.",
+   "query": "McLaren F1 gold foil",
+   "caption": "TITANIUM, KEVLAR, GOLD FOIL",
+   "cuts": 3
+  },
+  {
+   "text": "Now to speed. The F one's zero to sixty time is three point two seconds, according to SlashGear, which does not name the tester. Gooding and Company gives zero to one hundred kilometers per hour in three point three seconds. In nineteen ninety-two, those numbers were unmatched.",
+   "query": "McLaren F1 acceleration",
+   "caption": "F1: 0-60 IN 3.2 SECONDS",
+   "cuts": 3,
+   "chapter": "Acceleration"
+  },
+  {
+   "text": "The W one is quicker. Car and Driver, republished by the Daily Maverick, says zero to sixty miles per hour takes two point seven seconds. Zero to one hundred twenty-four miles per hour, which is two hundred kilometers per hour, takes five point eight seconds, and zero to one hundred eighty-six miles per hour takes twelve point seven.",
+   "query": "McLaren W1 launch",
+   "caption": "W1: 0-60 IN 2.7 SECONDS",
+   "cuts": 3
+  },
+  {
+   "text": "Car and Driver says that makes it quicker than the McLaren Speedtail. And McLaren's chief executive claimed, in GoAuto's report, that the W one is the company's fastest-lapping and fastest-accelerating road-legal car ever. So on acceleration, the new car clearly wins.",
+   "query": "McLaren Speedtail",
+   "caption": "FASTEST-ACCELERATING McLAREN EVER",
+   "cuts": 3
+  },
+  {
+   "text": "Put the first number in perspective. The W one's zero to sixty time is half a second shorter than the F one's, three point two against two point seven. That is about sixteen percent less time, by our own arithmetic. Thirty-two years of progress, and the improvement in the first few seconds is smaller than the improvement in power.",
+   "query": "McLaren F1 launch control",
+   "caption": "0.5 SECOND FASTER TO 60 (OUR MATH)",
+   "cuts": 3
+  },
+  {
+   "text": "SlashGear says the F one takes twenty-eight seconds to reach two hundred miles per hour, without citing a source. The W one reaches one hundred eighty-six in twelve point seven. Those are not the same speeds, so we cannot compare them directly. But they show where the new car's advantage grows. The higher the speed, the more the electric boost matters.",
+   "query": "McLaren speed run",
+   "caption": "F1: 200 MPH IN 28 SEC. W1: 186 MPH IN 12.7",
+   "cuts": 3
+  },
+  {
+   "text": "Now the number where the old car wins. Wikipedia says that on the thirty-first of March, nineteen ninety-eight, Andy Wallace drove an F one prototype at Volkswagen's Ehra-Lessien test track. The two-way average was two hundred forty point one miles per hour, with a peak of two hundred forty-three.",
+   "query": "Ehra-Lessien test track McLaren F1",
+   "caption": "F1: 240.1 MPH RECORD",
+   "cuts": 3,
+   "chapter": "Top speed: the twist"
+  },
+  {
+   "text": "The page adds that for the run, the rev limiter was raised to eight thousand three hundred r p m. Gooding and Company says the production F one was electronically limited to two hundred thirty-one miles per hour, and that the car held the record for the world's fastest production car from nineteen ninety-eight until two thousand five.",
+   "query": "McLaren F1 record run",
+   "caption": "THE LIMITER WAS RAISED FOR THE RECORD",
+   "cuts": 3
+  },
+  {
+   "text": "The W one's top speed is lower. Wikipedia gives an estimated top speed of three hundred fifty kilometers per hour, about two hundred seventeen miles per hour. GoAuto calls it electronically limited. So a car with twice the power tops out slower than the nineteen nineties record run, by about twenty-three miles per hour, by our own arithmetic.",
+   "query": "McLaren W1 speed",
+   "caption": "W1: 217 MPH (350 KM/H)",
+   "cuts": 3
+  },
+  {
+   "text": "Why? Because the cars are built for different jobs. Wikipedia says the W one has maximum total downforce of one thousand kilograms in internal wind tunnel tests. GoAuto says it lowers its ride height by thirty-seven millimeters at the front and seventeen at the rear, and has an active long tail rear wing that extends three hundred millimeters.",
+   "query": "McLaren W1 active rear wing",
+   "caption": "1,000 KG OF DOWNFORCE",
+   "cuts": 3
+  },
+  {
+   "text": "That wing can act as a downforce aid, an air brake, and a D R S mode, Wikipedia says, with its motors controlled electrically. A car designed to make grip at high speed in corners will not always chase the highest straight-line number. Chief executive Michael Leiters said the design allows a supreme track driving experience from the same car.",
+   "query": "McLaren W1 DRS wing",
+   "caption": "DESIGNED FOR CORNERS, NOT A RECORD",
+   "cuts": 3
+  },
+  {
+   "text": "McLaren's director of product planning, Jamie Corstorphine, told Car and Driver that these are the first principles of a real supercar. Leiters called the W one a car that only McLaren could create. Whatever you think of the marketing, both cars share a principle. Build around the driver, and let physics set the rest.",
+   "query": "McLaren design studio",
+   "caption": "\"THE FIRST PRINCIPLES OF A REAL SUPERCAR\"",
+   "cuts": 3
+  },
+  {
+   "text": "Now the way you sit. The F one's most famous feature is that the driver sits in the middle. Wikipedia says the seat is positioned in the middle of the car, ahead of the fuel tank and the engine. Gooding and Company says it is a three-seat layout, with two passengers flanking the driver.",
+   "query": "McLaren F1 central driving position",
+   "caption": "F1: DRIVER IN THE MIDDLE",
+   "cuts": 3,
+   "chapter": "The cockpit and the chassis"
+  },
+  {
+   "text": "The W one is different. GoAuto says its seats, pedals, steering wheel and primary controls can all be moved. The articles we found do not describe the seating layout in more detail. So we will not claim anything about it, except that the car was designed around the driver's position in a very different way.",
+   "query": "McLaren W1 cockpit",
+   "caption": "W1: SEATS AND PEDALS MOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Both cars are built around carbon fiber. Gooding and Company says the F one was the first road car with a full carbon fiber chassis. GoAuto says the W one's chassis is called a McLaren Aerocell and is a carbon fiber monocoque, with anhedral doors optimized for aerodynamic performance.",
+   "query": "McLaren Aerocell carbon monocoque",
+   "caption": "BOTH BUILT ON CARBON FIBER",
+   "cuts": 3
+  },
+  {
+   "text": "Brakes show how technology moved on. Gooding and Company says Murray wanted carbon brakes for the F one, but the technology was still in its infancy. The W one has carbon ceramic discs, three hundred ninety millimeters at the front and rear, GoAuto says, with nineteen-inch forged wheels at the front and twenty-inch wheels at the rear.",
+   "query": "McLaren carbon ceramic brakes",
+   "caption": "CARBON CERAMIC, 390 MM",
+   "cuts": 3
+  },
+  {
+   "text": "The F one's tires were two hundred thirty-five forty-five seventeen at the front, and three hundred fifteen forty-five seventeen at the rear, Wikipedia says. The W one wears Pirelli P Zero Trofeo tires on wheels two or three inches larger. Even the tires show how much more the new car has to handle.",
+   "query": "Pirelli tire McLaren",
+   "caption": "17-INCH WHEELS vs 19/20-INCH",
+   "cuts": 3
+  },
+  {
+   "text": "And the gearbox. The F one had a transversely mounted six-speed manual, Gooding and Company says, driving the rear wheels. The W one has an eight-speed transmission with an electric reverse and a hydraulic electronic differential, GoAuto says. One car you shift yourself. The other shifts for you.",
+   "query": "McLaren F1 gearbox shifter",
+   "caption": "6-SPEED MANUAL vs 8-SPEED",
+   "cuts": 3
+  },
+  {
+   "text": "Design is different too. Gooding and Company credits the F one's exterior to Peter Stevens, and describes a simple, elegant shape not dictated only by aerodynamics. Wikipedia credits the W one's interior to designer Alex Alexiev. One car was shaped to look calm. The other is shaped by active aerodynamics and a rear wing that moves.",
+   "query": "McLaren F1 exterior design",
+   "caption": "STEVENS (F1) vs ALEXIEV (W1)",
+   "cuts": 3
+  },
+  {
+   "text": "The hybrid system raises a question. How far can the W one go on electric power? Car and Driver says less than two miles. An onboard charger can recharge it in twenty-two minutes, according to the story, and GoAuto says recharging to eighty percent can take as little as twenty-two minutes.",
+   "query": "McLaren W1 charging",
+   "caption": "LESS THAN 2 MILES ON ELECTRIC",
+   "cuts": 3,
+   "chapter": "The electric question"
+  },
+  {
+   "text": "The electric part is there for performance, not economy. By comparison, Car and Driver says the cheaper McLaren Artura, with six hundred seventy-one horsepower, offers nineteen miles of electric-only driving. The W one gives up range because it wants the electric motor to be light and powerful, not heavy.",
+   "query": "McLaren Artura",
+   "caption": "THE ARTURA GOES 19 MILES",
+   "cuts": 3
+  },
+  {
+   "text": "McLaren has also said that a fully electric supercar is still far off. A spokesperson told Car and Driver that the company does not think the technology will be sufficiently mature until the end of the decade, and cited weight as a core concern. The F one's whole philosophy was avoiding weight.",
+   "query": "McLaren engineering lab",
+   "caption": "WEIGHT IS THE CORE CONCERN",
+   "cuts": 3
+  },
+  {
+   "text": "Now the money. Top Gear says the F one's new price was five hundred forty thousand pounds, which the Bank of England puts at a little over one point one million pounds in two thousand twenty money. AutoMonitor gives an approximate dollar figure of nine hundred seventy thousand dollars.",
+   "query": "McLaren F1 price",
+   "caption": "F1 NEW: \u00a3540,000",
+   "cuts": 3,
+   "chapter": "Price and rarity"
+  },
+  {
+   "text": "The W one starts at two point one million dollars, Car and Driver says. GoAuto gives a price of about two million pounds in Britain. So the new car costs about three point seven times the F one's original price in raw numbers, but only about one point eight times its price adjusted for inflation, by our own arithmetic.",
+   "query": "McLaren W1 price",
+   "caption": "W1 NEW: FROM $2.1 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "And production? The F one totals one hundred six cars, with sixty-four road cars, according to Wikipedia and AutoMonitor. The W one is limited to three hundred ninety-nine, and Car and Driver says all of them were allocated to specific customers. That means there will be about six times as many W ones as F one road cars, by our own arithmetic.",
+   "query": "McLaren W1 production",
+   "caption": "106 F1s vs 399 W1s",
+   "cuts": 3
+  },
+  {
+   "text": "The W one was effectively sold before most people saw it. GoAuto says all three hundred ninety-nine examples were spoken for before mere mortals got a whiff of its existence. Car and Driver says deliveries start in twenty twenty-six, and Wikipedia's infobox lists production from January twenty twenty-six.",
+   "query": "McLaren W1 customer",
+   "caption": "ALL 399 SPOKEN FOR",
+   "cuts": 3
+  },
+  {
+   "text": "And the F one's price did not stay where it started. Top Gear says F ones changed hands for roughly the original asking price until about two thousand six, then the price roughly tripled by the end of two thousand eight to around one point five million pounds. By two thousand fourteen it was five million.",
+   "query": "McLaren F1 auction history",
+   "caption": "F1 VALUE: \u00a30.5M TO \u00a35M",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the big numbers. Gooding and Company reports a car sold in twenty twenty-one for twenty point four six five million dollars. Wikipedia lists chassis zero fourteen at twenty-five point three one seven five million dollars in twenty twenty-five. Hagerty valued a normal F one at around sixteen million pounds, Top Gear says.",
+   "query": "McLaren F1 sold auction",
+   "caption": "UP TO $25.3 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "That raises the obvious question. Will the W one become as valuable as the F one? Nobody can know. The F one's rise took decades, and Top Gear points out that most nineties supercars are worth more now than when new, but the F one rose far more than most. We will not guess the W one's future price.",
+   "query": "McLaren W1 and McLaren F1",
+   "caption": "WILL THE W1 FOLLOW?",
+   "cuts": 3
+  },
+  {
+   "text": "Now a twist on price. In inflation-adjusted terms, the F one cost about one point one million pounds per Top Gear, for six hundred eighteen horsepower, about seventeen hundred eighty pounds per horsepower. The W one at about two million pounds for one thousand two hundred fifty-eight horsepower is about fifteen hundred ninety pounds per horsepower, by our own arithmetic.",
+   "query": "McLaren W1 price tag",
+   "caption": "PER HORSEPOWER, THE W1 IS CHEAPER (OUR MATH)",
+   "cuts": 3
+  },
+  {
+   "text": "Ownership has changed as well. GoAuto says the W one comes with a four-year vehicle warranty, a six-year warranty on the hybrid battery and a four-year service plan. For the F one, AutoMonitor estimates an annual service at McLaren's special operations division in Woking costing fifteen to thirty thousand dollars, and treats that as an estimate.",
+   "query": "McLaren Special Operations Woking",
+   "caption": "W1 WARRANTY: 4 YEARS. F1 SERVICE: EST. $15-30K",
+   "cuts": 3
+  },
+  {
+   "text": "So what is the real difference? The W one is better at the numbers. Twice the horsepower, quicker acceleration, about sixty-six percent more power per kilogram, and far more downforce. McLaren says it is its fastest-lapping and fastest-accelerating road car ever. On paper, it beats the F one in almost everything but weight and top speed.",
+   "query": "McLaren W1 hypercar",
+   "caption": "THE W1 WINS THE NUMBERS",
+   "cuts": 3,
+   "chapter": "The real difference"
+  },
+  {
+   "text": "The F one is better at the idea. It was lighter by two hundred fifty-nine kilograms. It had no turbos and no electric motor. It put the driver in the middle, and it held the top speed record for seven years. It was not designed to win a spreadsheet. It was designed to be the ultimate road-going sports car.",
+   "query": "McLaren F1 gold",
+   "caption": "THE F1 WINS THE IDEA",
+   "cuts": 3
+  },
+  {
+   "text": "And here is the final twist. The F one's own numbers are no longer extreme by today's standards, but its value keeps rising. The W one's numbers are extreme, but its value is unknown. Sometimes, being the first at something matters more than being the best.",
+   "query": "McLaren F1 and W1 side by side",
+   "caption": "FIRST vs BEST",
+   "cuts": 3
+  },
+  {
+   "text": "Which one would you choose, the F one or the W one? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the F one, work out what it really costs to own one today, and tell the story of the man who dreamed it up.",
+   "query": "McLaren F1",
+   "caption": "F1 OR W1?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you want to spend your money on something you can actually drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

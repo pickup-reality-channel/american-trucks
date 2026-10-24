@@ -1,0 +1,7 @@
+- Wikipedia, McLaren F1: https://en.wikipedia.org/wiki/McLaren_F1
+- Wikipedia, McLaren F1 GTR: https://en.wikipedia.org/wiki/McLaren_F1_GTR
+- Top Gear, McLaren F1s are now worth 16 million pounds: https://topgear.com.sg/features/mclaren-f1s-are-now-worth-ps16million
+- Gooding and Company coverage of F1 chassis 029, JustCars (Australia): https://www.justcars.com.au/news-and-reviews/feature-1995-mclaren-f1/924590
+- AutoMonitor, McLaren F1 price history (estimates, sources not cited): https://automonitor.io/blog/mclaren-f1-price-history/
+- Motor Sport magazine, Won for the road (June 2005): https://www.motorsportmagazine.com/archive/article/june-2005/52/won-road/
+- KTVU / Fox, Census 2023 median household income: https://ktvu.com/news/how-much-american-household-earned-2023-census

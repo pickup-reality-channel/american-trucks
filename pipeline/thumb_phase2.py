@@ -10,7 +10,7 @@ FONT = str(ROOT / "pipeline/fonts/Anton-Regular.ttf")
 W, H = 1280, 720
 YEL, RED, BLK, WHT = (255, 221, 0), (220, 20, 30), (0, 0, 0), (255, 255, 255)
 # money angle: the price on the tag (only figures quoted in that video's script)
-PRICE = {63: "$3.17M", 67: "$665K", 71: "$529K", 75: "$120K", 79: "$450K"}
+PRICE = {63: "$3.17M", 67: "$665K", 71: "$529K", 75: "$120K", 79: "$450K", 83: "$20.5M"}
 
 
 def themes():
