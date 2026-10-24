@@ -1,0 +1,2259 @@
+1
+00:00:00,000 --> 00:00:02,558
+A Mercedes G 63 AMG 6x6 cost
+
+2
+00:00:02,558 --> 00:00:06,852
+about five hundred eleven thousand dollars new,
+
+3
+00:00:06,852 --> 00:00:09,867
+and one sold at auction in twenty
+
+4
+00:00:09,867 --> 00:00:13,339
+twenty for over nine hundred thousand.
+
+5
+00:00:13,519 --> 00:00:16,557
+So what does a six-wheel truck really
+
+6
+00:00:16,557 --> 00:00:16,968
+cost?
+
+7
+00:00:17,148 --> 00:00:19,562
+The purchase price is only the start.
+
+8
+00:00:19,742 --> 00:00:22,390
+In this video we work through fuel,
+
+9
+00:00:22,390 --> 00:00:24,886
+tyres, mileage limits and resale,
+
+10
+00:00:24,886 --> 00:00:26,702
+using published numbers,
+
+11
+00:00:26,702 --> 00:00:29,122
+and we show where the sources go
+
+12
+00:00:29,122 --> 00:00:29,576
+quiet.
+
+13
+00:00:29,925 --> 00:00:32,138
+Our sources are Autocar,
+
+14
+00:00:32,138 --> 00:00:33,981
+Fox News, Wikipedia,
+
+15
+00:00:33,981 --> 00:00:36,101
+Gear Patrol, The Drive,
+
+16
+00:00:36,101 --> 00:00:38,590
+Motor Authority, Carscoops,
+
+17
+00:00:38,590 --> 00:00:41,263
+MercedesBlog, Ford Authority,
+
+18
+00:00:41,263 --> 00:00:44,305
+DuPont Registry, a tyre retailer,
+
+19
+00:00:44,305 --> 00:00:48,176
+and the Energy Information Administration.
+
+20
+00:00:48,356 --> 00:00:50,153
+Some figures are estimates,
+
+21
+00:00:50,153 --> 00:00:52,548
+and some of our calculations rest on
+
+22
+00:00:52,548 --> 00:00:54,277
+assumptions that we state.
+
+23
+00:00:54,457 --> 00:00:57,012
+Our own arithmetic is labelled.
+
+24
+00:00:57,361 --> 00:00:59,358
+Start with what it cost new.
+
+25
+00:00:59,538 --> 00:01:03,552
+CarAdvice and Carscoops give three hundred seventy-nine
+
+26
+00:01:03,552 --> 00:01:04,647
+thousand euros.
+
+27
+00:01:04,827 --> 00:01:07,946
+Carscoops converts that to five hundred eleven
+
+28
+00:01:07,946 --> 00:01:10,388
+thousand dollars in twenty thirteen.
+
+29
+00:01:10,568 --> 00:01:14,322
+Autocar, in its February twenty fourteen review,
+
+30
+00:01:14,322 --> 00:01:17,685
+gave three hundred seventy thousand pounds.
+
+31
+00:01:17,865 --> 00:01:19,259
+By our arithmetic,
+
+32
+00:01:19,259 --> 00:01:21,971
+the pound figure is about two point
+
+33
+00:01:21,971 --> 00:01:24,450
+four percent below the euro one,
+
+34
+00:01:24,450 --> 00:01:26,154
+before exchange rates.
+
+35
+00:01:26,504 --> 00:01:27,816
+Other outlets differ.
+
+36
+00:01:27,996 --> 00:01:31,244
+Gear Patrol quoted about five hundred twenty-six
+
+37
+00:01:31,244 --> 00:01:34,085
+thousand dollars in March twenty thirteen,
+
+38
+00:01:34,085 --> 00:01:37,400
+and CarAdvice nearly five hundred fifty thousand.
+
+39
+00:01:37,580 --> 00:01:40,021
+Autocar, as relayed by Fox News,
+
+40
+00:01:40,021 --> 00:01:42,690
+said it would be priced second only
+
+41
+00:01:42,690 --> 00:01:45,436
+to a battery-powered AMG sports car,
+
+42
+00:01:45,436 --> 00:01:47,952
+which the Fox piece lists at five
+
+43
+00:01:47,952 --> 00:01:50,317
+hundred fifty thousand dollars.
+
+44
+00:01:50,497 --> 00:01:52,294
+We use the euro price and the
+
+45
+00:01:52,294 --> 00:01:53,782
+Carscoops dollar figure.
+
+46
+00:01:54,132 --> 00:01:57,293
+Autocar also says the price was more
+
+47
+00:01:57,293 --> 00:02:00,541
+than three times that of the standard
+
+48
+00:02:00,541 --> 00:02:01,331
+G 63 AMG.
+
+49
+00:02:01,511 --> 00:02:03,472
+We do not have the G 63's
+
+50
+00:02:03,472 --> 00:02:04,962
+price in our notes,
+
+51
+00:02:04,962 --> 00:02:07,316
+so we cannot check that ratio.
+
+52
+00:02:07,496 --> 00:02:09,549
+What we can say is that the
+
+53
+00:02:09,549 --> 00:02:11,450
+6x6 was not a trim level:
+
+54
+00:02:11,450 --> 00:02:13,808
+it was a different product at a
+
+55
+00:02:13,808 --> 00:02:15,709
+different order of price,
+
+56
+00:02:15,709 --> 00:02:17,306
+and sold out as such.
+
+57
+00:02:17,656 --> 00:02:21,929
+Now the Hennessey VelociRaptor 6x6.
+
+58
+00:02:22,109 --> 00:02:25,811
+The Drive said two hundred ninety-five thousand
+
+59
+00:02:25,811 --> 00:02:28,488
+dollars in October twenty sixteen,
+
+60
+00:02:28,488 --> 00:02:30,457
+plus twenty-two thousand,
+
+61
+00:02:30,457 --> 00:02:33,765
+five hundred for the HPE600 power package.
+
+62
+00:02:33,945 --> 00:02:37,015
+Motor Authority said the twenty eighteen model
+
+63
+00:02:37,015 --> 00:02:40,018
+started at three hundred forty-nine thousand,
+
+64
+00:02:40,018 --> 00:02:42,688
+including the donor Raptor and the tune.
+
+65
+00:02:42,868 --> 00:02:46,269
+An optional package added twenty-two thousand more.
+
+66
+00:02:46,619 --> 00:02:47,979
+By our arithmetic,
+
+67
+00:02:47,979 --> 00:02:51,379
+the Mercedes cost about one hundred sixty-two
+
+68
+00:02:51,379 --> 00:02:54,325
+thousand dollars, or forty-six percent,
+
+69
+00:02:54,325 --> 00:02:57,196
+more than the Hennessey's start price.
+
+70
+00:02:57,376 --> 00:03:00,325
+Fully optioned, the Hennessey would be three
+
+71
+00:03:00,325 --> 00:03:02,269
+hundred seventy-one thousand,
+
+72
+00:03:02,269 --> 00:03:05,352
+which narrows the gap to thirty-eight percent.
+
+73
+00:03:05,532 --> 00:03:08,278
+These are launch prices four years apart,
+
+74
+00:03:08,278 --> 00:03:09,886
+in different currencies.
+
+75
+00:03:10,066 --> 00:03:12,492
+So treat the comparison as rough.
+
+76
+00:03:12,842 --> 00:03:15,339
+Fuel is the first running cost.
+
+77
+00:03:15,519 --> 00:03:18,759
+Fox News, in March twenty thirteen,
+
+78
+00:03:18,759 --> 00:03:22,555
+said fuel economy had not been determined
+
+79
+00:03:22,555 --> 00:03:23,666
+for the 6x6,
+
+80
+00:03:23,666 --> 00:03:26,721
+noting the 4x4 G 63 gets thirteen
+
+81
+00:03:26,721 --> 00:03:30,794
+miles per gallon combined and suggesting the
+
+82
+00:03:30,794 --> 00:03:33,479
+6x6 would not be much better.
+
+83
+00:03:33,659 --> 00:03:37,424
+Autocar later estimated around fifteen miles per
+
+84
+00:03:37,424 --> 00:03:40,091
+gallon on the European test cycle.
+
+85
+00:03:40,441 --> 00:03:41,544
+There is a catch.
+
+86
+00:03:41,724 --> 00:03:44,726
+Autocar does not say whether that fifteen
+
+87
+00:03:44,726 --> 00:03:47,216
+is in British or American gallons.
+
+88
+00:03:47,396 --> 00:03:49,544
+A British gallon is larger.
+
+89
+00:03:49,724 --> 00:03:50,966
+By our arithmetic,
+
+90
+00:03:50,966 --> 00:03:53,796
+fifteen British miles per gallon would be
+
+91
+00:03:53,796 --> 00:03:56,074
+about twelve and a half American.
+
+92
+00:03:56,254 --> 00:03:59,813
+Wikipedia's G-Class page lists fifteen point six
+
+93
+00:03:59,813 --> 00:04:02,037
+litres per hundred kilometres,
+
+94
+00:04:02,037 --> 00:04:05,298
+which converts to fifteen American miles per
+
+95
+00:04:05,298 --> 00:04:08,189
+gallon, but the cell is partly garbled.
+
+96
+00:04:08,539 --> 00:04:12,232
+We therefore model fuel with three assumptions:
+
+97
+00:04:12,232 --> 00:04:13,646
+twelve and a half,
+
+98
+00:04:13,646 --> 00:04:16,632
+thirteen and fifteen miles per gallon.
+
+99
+00:04:16,812 --> 00:04:17,822
+For the price,
+
+100
+00:04:17,822 --> 00:04:22,079
+the Energy Information Administration says regular gasoline
+
+101
+00:04:22,079 --> 00:04:23,667
+averaged four dollars,
+
+102
+00:04:23,667 --> 00:04:26,481
+twenty-eight cents a gallon in the week
+
+103
+00:04:26,481 --> 00:04:29,873
+of the nineteenth of October twenty twenty-six.
+
+104
+00:04:30,053 --> 00:04:32,484
+We do not know what fuel the
+
+105
+00:04:32,484 --> 00:04:36,218
+6x6 recommends, so premium would cost more.
+
+106
+00:04:36,567 --> 00:04:39,636
+Fox News says the 6x6 has two
+
+107
+00:04:39,636 --> 00:04:42,175
+twenty-one gallon tanks.
+
+108
+00:04:42,355 --> 00:04:45,450
+Autocar says an overall capacity of one
+
+109
+00:04:45,450 --> 00:04:47,513
+hundred fifty-nine litres,
+
+110
+00:04:47,513 --> 00:04:48,624
+which matches.
+
+111
+00:04:48,804 --> 00:04:50,051
+By our arithmetic,
+
+112
+00:04:50,051 --> 00:04:52,405
+forty-two gallons at four dollars,
+
+113
+00:04:52,405 --> 00:04:55,729
+twenty-eight cents is one hundred eighty dollars
+
+114
+00:04:55,729 --> 00:04:56,699
+for a fill-up,
+
+115
+00:04:56,699 --> 00:04:59,261
+and at thirteen miles per gallon that
+
+116
+00:04:59,261 --> 00:05:02,031
+is about five hundred forty-six miles of
+
+117
+00:05:02,031 --> 00:05:02,446
+range.
+
+118
+00:05:02,796 --> 00:05:04,142
+By our arithmetic,
+
+119
+00:05:04,142 --> 00:05:06,984
+the cost per mile is about thirty-four
+
+120
+00:05:06,984 --> 00:05:09,377
+cents at twelve and a half miles
+
+121
+00:05:09,377 --> 00:05:12,144
+per gallon, thirty-three at thirteen,
+
+122
+00:05:12,144 --> 00:05:14,163
+and twenty-nine at fifteen.
+
+123
+00:05:14,343 --> 00:05:15,596
+These are fuel only.
+
+124
+00:05:15,776 --> 00:05:18,717
+The numbers rest on the average regular
+
+125
+00:05:18,717 --> 00:05:21,583
+price and on estimates of consumption,
+
+126
+00:05:21,583 --> 00:05:23,393
+not a test of the truck.
+
+127
+00:05:23,742 --> 00:05:24,311
+Then the year.
+
+128
+00:05:24,491 --> 00:05:27,711
+Motor Authority says the United States Show
+
+129
+00:05:27,711 --> 00:05:31,081
+or Display exemption allows up to twenty-five
+
+130
+00:05:31,081 --> 00:05:32,653
+hundred miles a year.
+
+131
+00:05:32,833 --> 00:05:34,098
+By our arithmetic,
+
+132
+00:05:34,098 --> 00:05:37,050
+that costs about seven hundred fourteen to
+
+133
+00:05:37,050 --> 00:05:40,635
+eight hundred fifty-seven dollars in fuel annually.
+
+134
+00:05:40,815 --> 00:05:43,390
+A driver covering ten thousand miles,
+
+135
+00:05:43,390 --> 00:05:46,451
+like the Japanese owner The Drive describes,
+
+136
+00:05:46,451 --> 00:05:50,278
+would spend about twenty-eight fifty-six to thirty-four
+
+137
+00:05:50,278 --> 00:05:51,183
+twenty-seven.
+
+138
+00:05:51,532 --> 00:05:53,553
+So fuel is not the main cost
+
+139
+00:05:53,553 --> 00:05:54,563
+of this truck.
+
+140
+00:05:54,743 --> 00:05:56,074
+By our arithmetic,
+
+141
+00:05:56,074 --> 00:05:59,254
+even the highest fuel figure we calculated,
+
+142
+00:05:59,254 --> 00:06:01,620
+thirty-four twenty-seven a year,
+
+143
+00:06:01,620 --> 00:06:03,913
+is less than one percent of the
+
+144
+00:06:03,913 --> 00:06:07,537
+five hundred eleven thousand dollar launch price.
+
+145
+00:06:07,717 --> 00:06:10,581
+That is typical for very expensive vehicles
+
+146
+00:06:10,581 --> 00:06:13,245
+driven little, though our sources do not
+
+147
+00:06:13,245 --> 00:06:15,043
+compare it with other cars.
+
+148
+00:06:15,392 --> 00:06:17,401
+Range is easy to check.
+
+149
+00:06:17,581 --> 00:06:20,592
+Autocar says two tanks hold one hundred
+
+150
+00:06:20,592 --> 00:06:23,681
+fifty-nine litres, and Fox News says two
+
+151
+00:06:23,681 --> 00:06:25,534
+twenty-one gallon tanks.
+
+152
+00:06:25,714 --> 00:06:28,617
+At the American thirteen miles per gallon,
+
+153
+00:06:28,617 --> 00:06:31,588
+that is about five hundred forty-six miles.
+
+154
+00:06:31,768 --> 00:06:33,615
+At twelve and a half it is
+
+155
+00:06:33,615 --> 00:06:35,391
+five hundred twenty-five.
+
+156
+00:06:35,571 --> 00:06:38,800
+Autocar's fifteen British miles per gallon on
+
+157
+00:06:38,800 --> 00:06:41,958
+one hundred fifty-nine litres gives the same
+
+158
+00:06:41,958 --> 00:06:43,753
+five hundred twenty-four,
+
+159
+00:06:43,753 --> 00:06:45,044
+by our arithmetic.
+
+160
+00:06:45,394 --> 00:06:46,728
+Per hundred miles,
+
+161
+00:06:46,728 --> 00:06:50,359
+fuel costs about thirty-three dollars at thirteen
+
+162
+00:06:50,359 --> 00:06:51,619
+miles per gallon,
+
+163
+00:06:51,619 --> 00:06:52,953
+by our arithmetic.
+
+164
+00:06:53,133 --> 00:06:54,465
+By that measure,
+
+165
+00:06:54,465 --> 00:06:56,631
+the cost of one set of six
+
+166
+00:06:56,631 --> 00:06:59,214
+tyres, forty-five twenty-seven,
+
+167
+00:06:59,214 --> 00:07:02,879
+equals the fuel for about thirteen thousand,
+
+168
+00:07:02,879 --> 00:07:04,545
+seven hundred miles.
+
+169
+00:07:04,725 --> 00:07:06,984
+Again we use a proxy tyre and
+
+170
+00:07:06,984 --> 00:07:08,775
+an assumed consumption,
+
+171
+00:07:08,775 --> 00:07:10,800
+so this is a scale and not
+
+172
+00:07:10,800 --> 00:07:11,656
+a forecast.
+
+173
+00:07:12,006 --> 00:07:13,202
+Tyres next.
+
+174
+00:07:13,382 --> 00:07:17,497
+Wikipedia lists thirty-seven inch tyres on eighteen
+
+175
+00:07:17,497 --> 00:07:19,191
+inch beadlock wheels,
+
+176
+00:07:19,191 --> 00:07:22,338
+and Carscoops describes a Brabus car on
+
+177
+00:07:22,338 --> 00:07:24,516
+Nitto Ridge Grappler tyres.
+
+178
+00:07:24,696 --> 00:07:27,420
+A retailer lists the Nitto Ridge Grappler
+
+179
+00:07:27,420 --> 00:07:30,078
+in thirty-eight by thirteen point five R
+
+180
+00:07:30,078 --> 00:07:33,799
+eighteen at seven hundred fifty-four dollars forty-eight
+
+181
+00:07:33,799 --> 00:07:34,530
+cents each.
+
+182
+00:07:34,710 --> 00:07:38,206
+Its overall diameter is thirty-seven point seven
+
+183
+00:07:38,206 --> 00:07:38,715
+inches.
+
+184
+00:07:39,065 --> 00:07:41,327
+We do not know that this is
+
+185
+00:07:41,327 --> 00:07:43,588
+the exact tyre a 6x6 wears,
+
+186
+00:07:43,588 --> 00:07:45,514
+so we use it as a proxy
+
+187
+00:07:45,514 --> 00:07:46,519
+and flag it.
+
+188
+00:07:46,699 --> 00:07:47,873
+By our arithmetic,
+
+189
+00:07:47,873 --> 00:07:50,808
+six tyres at seven hundred fifty-four dollars
+
+190
+00:07:50,808 --> 00:07:54,722
+forty-eight come to forty-five hundred twenty-seven dollars.
+
+191
+00:07:54,902 --> 00:07:56,382
+With a matching spare,
+
+192
+00:07:56,382 --> 00:07:59,209
+seven tyres would be fifty-two eighty-one.
+
+193
+00:07:59,389 --> 00:08:03,267
+Mounting, balancing and shipping are not included.
+
+194
+00:08:03,616 --> 00:08:05,753
+Put the tyres in perspective.
+
+195
+00:08:05,933 --> 00:08:07,204
+By our arithmetic,
+
+196
+00:08:07,204 --> 00:08:10,806
+forty-five twenty-seven is about nine-tenths of one
+
+197
+00:08:10,806 --> 00:08:13,843
+percent of the five hundred eleven thousand
+
+198
+00:08:13,843 --> 00:08:15,256
+dollar launch price.
+
+199
+00:08:15,436 --> 00:08:18,465
+The more important unknown is how long
+
+200
+00:08:18,465 --> 00:08:19,662
+the tyres last.
+
+201
+00:08:19,842 --> 00:08:22,761
+Our sources give no tyre life for
+
+202
+00:08:22,761 --> 00:08:25,592
+the 6x6, and at low mileage age,
+
+203
+00:08:25,592 --> 00:08:28,600
+not wear, may decide when they are
+
+204
+00:08:28,600 --> 00:08:29,397
+replaced.
+
+205
+00:08:29,746 --> 00:08:32,057
+The retailer shows a load rating of
+
+206
+00:08:32,057 --> 00:08:35,029
+one hundred twenty-eight and a maximum single
+
+207
+00:08:35,029 --> 00:08:38,066
+load of thirty-nine hundred seventy pounds per
+
+208
+00:08:38,066 --> 00:08:38,396
+tyre.
+
+209
+00:08:38,576 --> 00:08:39,669
+By our arithmetic,
+
+210
+00:08:39,669 --> 00:08:42,099
+six tyres could carry up to twenty-three
+
+211
+00:08:42,099 --> 00:08:44,346
+thousand eight hundred twenty pounds,
+
+212
+00:08:44,346 --> 00:08:46,654
+well above the truck's weight of about
+
+213
+00:08:46,654 --> 00:08:47,504
+nine thousand.
+
+214
+00:08:47,684 --> 00:08:50,056
+This says the tyre is heavy duty,
+
+215
+00:08:50,056 --> 00:08:52,572
+not what the truck's own rating is.
+
+216
+00:08:52,921 --> 00:08:54,408
+The Hennessey is different.
+
+217
+00:08:54,588 --> 00:08:57,831
+Motor Authority says it comes with custom
+
+218
+00:08:57,831 --> 00:09:00,838
+twenty-inch wheels and off-road tyres,
+
+219
+00:09:00,838 --> 00:09:02,262
+but gives no size.
+
+220
+00:09:02,442 --> 00:09:04,823
+So we cannot price its tyres at
+
+221
+00:09:04,823 --> 00:09:06,436
+all from our sources.
+
+222
+00:09:06,616 --> 00:09:08,675
+This is a case where the cheaper
+
+223
+00:09:08,675 --> 00:09:10,734
+truck may not be cheaper to run,
+
+224
+00:09:10,734 --> 00:09:12,922
+but we have no evidence either way
+
+225
+00:09:12,922 --> 00:09:14,209
+and do not claim it.
+
+226
+00:09:14,559 --> 00:09:17,478
+The Show or Display exemption shapes the
+
+227
+00:09:17,478 --> 00:09:20,398
+whole cost picture in the United States.
+
+228
+00:09:20,578 --> 00:09:23,222
+Motor Authority, citing a listing,
+
+229
+00:09:23,222 --> 00:09:25,866
+says it allows limited road use up
+
+230
+00:09:25,866 --> 00:09:28,821
+to twenty-five hundred miles per year.
+
+231
+00:09:29,001 --> 00:09:32,988
+MercedesBlog adds that an NHTSA inspection is
+
+232
+00:09:32,988 --> 00:09:36,797
+required until the car is twenty-five years
+
+233
+00:09:36,797 --> 00:09:37,152
+old.
+
+234
+00:09:37,332 --> 00:09:40,069
+The Drive says G and K Automotive
+
+235
+00:09:40,069 --> 00:09:43,304
+Conversion made one road legal in Santa
+
+236
+00:09:43,304 --> 00:09:43,636
+Ana.
+
+237
+00:09:43,985 --> 00:09:46,647
+No source gives what the import and
+
+238
+00:09:46,647 --> 00:09:47,863
+conversion cost.
+
+239
+00:09:48,043 --> 00:09:49,682
+That is a real part of the
+
+240
+00:09:49,682 --> 00:09:51,448
+bill for any American buyer,
+
+241
+00:09:51,448 --> 00:09:52,583
+and it is missing.
+
+242
+00:09:52,763 --> 00:09:54,734
+So is the compliance work,
+
+243
+00:09:54,734 --> 00:09:57,918
+registration, and the cost of inspections.
+
+244
+00:09:58,098 --> 00:09:59,983
+We can only say that the legal
+
+245
+00:09:59,983 --> 00:10:02,245
+route exists, and that the truck was
+
+246
+00:10:02,245 --> 00:10:04,445
+never sold new in the United States
+
+247
+00:10:04,445 --> 00:10:06,016
+according to our sources.
+
+248
+00:10:06,365 --> 00:10:09,171
+The mileage limit has a nice effect
+
+249
+00:10:09,171 --> 00:10:10,533
+on running costs.
+
+250
+00:10:10,713 --> 00:10:12,089
+By our arithmetic,
+
+251
+00:10:12,089 --> 00:10:14,841
+at twenty-five hundred miles a year,
+
+252
+00:10:14,841 --> 00:10:17,287
+a car imported at five years old
+
+253
+00:10:17,287 --> 00:10:20,038
+could cover at most twelve thousand,
+
+254
+00:10:20,038 --> 00:10:22,943
+five hundred miles under that limit by
+
+255
+00:10:22,943 --> 00:10:23,554
+age ten.
+
+256
+00:10:23,734 --> 00:10:26,978
+The Brabus car in MercedesBlog covered eight
+
+257
+00:10:26,978 --> 00:10:29,190
+thousand miles in eight years,
+
+258
+00:10:29,190 --> 00:10:30,517
+a thousand a year,
+
+259
+00:10:30,517 --> 00:10:32,360
+well under the allowance.
+
+260
+00:10:32,710 --> 00:10:35,711
+The Japanese car The Drive describes is
+
+261
+00:10:35,711 --> 00:10:38,404
+the contrast: forty-eight thousand,
+
+262
+00:10:38,404 --> 00:10:40,404
+nine hundred ninety miles,
+
+263
+00:10:40,404 --> 00:10:43,635
+only about twenty-five hundred in America.
+
+264
+00:10:43,815 --> 00:10:46,899
+The Drive estimates nearly nine thousand,
+
+265
+00:10:46,899 --> 00:10:49,531
+five hundred miles a year under its
+
+266
+00:10:49,531 --> 00:10:50,584
+earlier owner.
+
+267
+00:10:50,764 --> 00:10:52,943
+Fuel and tyres for that use would
+
+268
+00:10:52,943 --> 00:10:55,651
+be several times higher than the American
+
+269
+00:10:55,651 --> 00:10:58,095
+numbers above, and our sources do not
+
+270
+00:10:58,095 --> 00:10:59,878
+give its maintenance bills.
+
+271
+00:11:00,227 --> 00:11:01,559
+A word on weight,
+
+272
+00:11:01,559 --> 00:11:04,535
+which drives wear on brakes and tyres.
+
+273
+00:11:04,715 --> 00:11:06,247
+The sources disagree.
+
+274
+00:11:06,427 --> 00:11:09,300
+Fox News said eight thousand three hundred
+
+275
+00:11:09,300 --> 00:11:11,489
+pounds in March twenty thirteen.
+
+276
+00:11:11,669 --> 00:11:15,748
+Autocar listed three thousand seven hundred seventy-five
+
+277
+00:11:15,748 --> 00:11:16,476
+kilograms.
+
+278
+00:11:16,656 --> 00:11:20,859
+Wikipedia lists four thousand eighty-three kilograms.
+
+279
+00:11:21,039 --> 00:11:24,020
+The Drive says nine thousand fifty pounds
+
+280
+00:11:24,020 --> 00:11:24,893
+for one car.
+
+281
+00:11:25,243 --> 00:11:26,608
+By our arithmetic,
+
+282
+00:11:26,608 --> 00:11:30,096
+Autocar's figure is about eight thousand three
+
+283
+00:11:30,096 --> 00:11:32,068
+hundred twenty-two pounds,
+
+284
+00:11:32,068 --> 00:11:33,812
+which matches Fox News.
+
+285
+00:11:33,992 --> 00:11:38,090
+Wikipedia's is nine thousand and one pounds.
+
+286
+00:11:38,270 --> 00:11:40,116
+The difference is eight percent.
+
+287
+00:11:40,296 --> 00:11:43,757
+Early figures were probably from a prototype,
+
+288
+00:11:43,757 --> 00:11:45,449
+but that is our guess,
+
+289
+00:11:45,449 --> 00:11:48,757
+since Autocar's steering comment is about a
+
+290
+00:11:48,757 --> 00:11:49,526
+prototype.
+
+291
+00:11:49,706 --> 00:11:51,899
+The finished truck is the one in
+
+292
+00:11:51,899 --> 00:11:53,955
+the nine thousand pound range.
+
+293
+00:11:54,305 --> 00:11:57,330
+Now the number that overturns the usual
+
+294
+00:11:57,330 --> 00:11:58,415
+logic: resale.
+
+295
+00:11:58,595 --> 00:12:01,642
+The Drive reports a twenty fourteen G
+
+296
+00:12:01,642 --> 00:12:04,277
+63 AMG 6x6 sold for nine hundred
+
+297
+00:12:04,277 --> 00:12:08,477
+one thousand, three hundred thirty-seven dollars on
+
+298
+00:12:08,477 --> 00:12:11,935
+Bring a Trailer in November twenty twenty.
+
+299
+00:12:12,115 --> 00:12:13,258
+By our arithmetic,
+
+300
+00:12:13,258 --> 00:12:15,669
+that is three hundred ninety thousand,
+
+301
+00:12:15,669 --> 00:12:18,715
+three hundred thirty-seven dollars more than the
+
+302
+00:12:18,715 --> 00:12:21,889
+Carscoops launch equivalent of five hundred eleven
+
+303
+00:12:21,889 --> 00:12:22,460
+thousand.
+
+304
+00:12:22,809 --> 00:12:25,658
+Over roughly seven years and eight months,
+
+305
+00:12:25,658 --> 00:12:28,711
+from March twenty thirteen to November twenty
+
+306
+00:12:28,711 --> 00:12:31,017
+twenty, that is an average gain of
+
+307
+00:12:31,017 --> 00:12:33,663
+about seven point seven percent a year,
+
+308
+00:12:33,663 --> 00:12:34,884
+by our arithmetic.
+
+309
+00:12:35,064 --> 00:12:37,039
+This ignores import costs,
+
+310
+00:12:37,039 --> 00:12:40,153
+taxes, dealer fees and the price actually
+
+311
+00:12:40,153 --> 00:12:42,508
+paid by the first buyer in each
+
+312
+00:12:42,508 --> 00:12:43,040
+market.
+
+313
+00:12:43,220 --> 00:12:46,067
+It also compares a euro-based price with
+
+314
+00:12:46,067 --> 00:12:47,063
+a dollar sale.
+
+315
+00:12:47,412 --> 00:12:50,454
+The Brabus-tuned car shows the other side.
+
+316
+00:12:50,634 --> 00:12:53,369
+MercedesBlog says it sold in May twenty
+
+317
+00:12:53,369 --> 00:12:55,262
+twenty-two for one million,
+
+318
+00:12:55,262 --> 00:12:57,295
+one hundred seventy thousand,
+
+319
+00:12:57,295 --> 00:13:00,240
+which was one hundred eighty thousand less
+
+320
+00:13:00,240 --> 00:13:02,974
+than its previous price of one million,
+
+321
+00:13:02,974 --> 00:13:05,007
+three hundred fifty thousand.
+
+322
+00:13:05,187 --> 00:13:06,404
+By our arithmetic,
+
+323
+00:13:06,404 --> 00:13:08,703
+that is a thirteen percent drop in
+
+324
+00:13:08,703 --> 00:13:11,137
+about five months for the dealer who
+
+325
+00:13:11,137 --> 00:13:11,677
+held it.
+
+326
+00:13:12,027 --> 00:13:15,600
+Carscoops adds that in December twenty twenty-one
+
+327
+00:13:15,600 --> 00:13:18,297
+this car had eight thousand miles and
+
+328
+00:13:18,297 --> 00:13:20,339
+was set to sell for at least
+
+329
+00:13:20,339 --> 00:13:21,942
+one point one million.
+
+330
+00:13:22,122 --> 00:13:24,579
+It says you would not find a
+
+331
+00:13:24,579 --> 00:13:26,859
+G 63 AMG 6x6 for less than
+
+332
+00:13:26,859 --> 00:13:28,438
+a million dollars.
+
+333
+00:13:28,618 --> 00:13:31,969
+MercedesBlog shows it sold below the earlier
+
+334
+00:13:31,969 --> 00:13:32,426
+price.
+
+335
+00:13:32,606 --> 00:13:35,345
+A resale market for a hundred cars
+
+336
+00:13:35,345 --> 00:13:37,842
+is thin, and one sale moves it.
+
+337
+00:13:38,192 --> 00:13:41,838
+Motor Authority's November twenty twenty piece lists
+
+338
+00:13:41,838 --> 00:13:45,554
+used examples from nine hundred seventy-five thousand
+
+339
+00:13:45,554 --> 00:13:47,306
+to one point six million.
+
+340
+00:13:47,486 --> 00:13:50,854
+A bid then was five hundred sixty-seven
+
+341
+00:13:50,854 --> 00:13:51,631
+thousand.
+
+342
+00:13:51,811 --> 00:13:53,693
+The writer says it was not far
+
+343
+00:13:53,693 --> 00:13:55,387
+above the original sticker.
+
+344
+00:13:55,567 --> 00:13:56,785
+By our arithmetic,
+
+345
+00:13:56,785 --> 00:13:58,749
+a bid at that level is eleven
+
+346
+00:13:58,749 --> 00:14:01,660
+percent above five hundred eleven thousand,
+
+347
+00:14:01,660 --> 00:14:04,300
+and the final sale reached nine hundred
+
+348
+00:14:04,300 --> 00:14:05,180
+one thousand.
+
+349
+00:14:05,529 --> 00:14:07,492
+The Hennessey is more modest.
+
+350
+00:14:07,672 --> 00:14:11,014
+Ford Authority reports a twenty eighteen model
+
+351
+00:14:11,014 --> 00:14:13,703
+at its buy-now price of three hundred
+
+352
+00:14:13,703 --> 00:14:16,464
+seventy-five thousand dollars on eBay,
+
+353
+00:14:16,464 --> 00:14:18,499
+though it is not sure of the
+
+354
+00:14:18,499 --> 00:14:21,551
+exact amount, and a twenty seventeen truck
+
+355
+00:14:21,551 --> 00:14:24,458
+with six thousand miles at three hundred
+
+356
+00:14:24,458 --> 00:14:25,911
+fifty-five thousand.
+
+357
+00:14:26,091 --> 00:14:27,235
+By our arithmetic,
+
+358
+00:14:27,235 --> 00:14:29,587
+that is seven percent above the three
+
+359
+00:14:29,587 --> 00:14:32,639
+hundred forty-nine thousand start for the first.
+
+360
+00:14:32,988 --> 00:14:34,686
+Try the per-mile view,
+
+361
+00:14:34,686 --> 00:14:37,387
+which exposes the real price of low
+
+362
+00:14:37,387 --> 00:14:38,004
+mileage.
+
+363
+00:14:38,184 --> 00:14:39,514
+By our arithmetic,
+
+364
+00:14:39,514 --> 00:14:41,952
+if an owner kept the Mercedes for
+
+365
+00:14:41,952 --> 00:14:44,907
+ten years at twenty-five hundred miles a
+
+366
+00:14:44,907 --> 00:14:47,936
+year, that is twenty-five thousand miles.
+
+367
+00:14:48,116 --> 00:14:51,742
+Dividing the five hundred eleven thousand dollar
+
+368
+00:14:51,742 --> 00:14:54,688
+launch price by that gives about twenty
+
+369
+00:14:54,688 --> 00:14:57,030
+dollars and forty cents a mile,
+
+370
+00:14:57,030 --> 00:14:59,749
+before any resale and before fuel or
+
+371
+00:14:59,749 --> 00:15:00,202
+tyres.
+
+372
+00:15:00,552 --> 00:15:02,050
+Resale changes that,
+
+373
+00:15:02,050 --> 00:15:03,548
+if the market holds.
+
+374
+00:15:03,728 --> 00:15:05,000
+By our arithmetic,
+
+375
+00:15:05,000 --> 00:15:07,896
+buying at five hundred eleven and selling
+
+376
+00:15:07,896 --> 00:15:10,723
+at nine hundred one thousand would leave
+
+377
+00:15:10,723 --> 00:15:13,549
+a gain of three hundred ninety thousand,
+
+378
+00:15:13,549 --> 00:15:15,527
+so the net cost of the truck
+
+379
+00:15:15,527 --> 00:15:17,929
+over the period would be negative,
+
+380
+00:15:17,929 --> 00:15:19,413
+before running costs.
+
+381
+00:15:19,593 --> 00:15:21,913
+That depends on a single sale,
+
+382
+00:15:21,913 --> 00:15:24,466
+taxes, and import costs we do not
+
+383
+00:15:24,466 --> 00:15:24,852
+know.
+
+384
+00:15:25,202 --> 00:15:27,232
+Now the buyer of the nine hundred
+
+385
+00:15:27,232 --> 00:15:28,709
+one thousand dollar car.
+
+386
+00:15:28,889 --> 00:15:30,203
+By our arithmetic,
+
+387
+00:15:30,203 --> 00:15:33,708
+spread over the same twenty-five thousand miles,
+
+388
+00:15:33,708 --> 00:15:36,701
+that is thirty-six dollars and five cents
+
+389
+00:15:36,701 --> 00:15:38,235
+a mile before resale.
+
+390
+00:15:38,415 --> 00:15:40,868
+Whether that car holds its value is
+
+391
+00:15:40,868 --> 00:15:42,060
+an open question.
+
+392
+00:15:42,240 --> 00:15:44,909
+Our sources show the Brabus car falling
+
+393
+00:15:44,909 --> 00:15:47,714
+thirteen percent in five months in twenty
+
+394
+00:15:47,714 --> 00:15:49,973
+twenty-one and twenty twenty-two.
+
+395
+00:15:50,322 --> 00:15:52,482
+Price per pound is an odd but
+
+396
+00:15:52,482 --> 00:15:53,747
+accurate measure.
+
+397
+00:15:53,927 --> 00:15:56,479
+At the nine thousand and one pounds
+
+398
+00:15:56,479 --> 00:16:00,051
+Wikipedia lists, the five hundred eleven thousand
+
+399
+00:16:00,051 --> 00:16:03,186
+dollar price works out at about fifty-seven
+
+400
+00:16:03,186 --> 00:16:04,353
+dollars a pound,
+
+401
+00:16:04,353 --> 00:16:05,665
+by our arithmetic.
+
+402
+00:16:05,845 --> 00:16:09,173
+At the Hennessey's three hundred forty-nine thousand
+
+403
+00:16:09,173 --> 00:16:11,349
+dollars we cannot do the same sum,
+
+404
+00:16:11,349 --> 00:16:13,589
+because no source gives its weight.
+
+405
+00:16:13,939 --> 00:16:17,583
+Autocar's February twenty fourteen review adds some
+
+406
+00:16:17,583 --> 00:16:19,012
+context to the cost.
+
+407
+00:16:19,192 --> 00:16:21,983
+It said the 6x6 was remarkably easy
+
+408
+00:16:21,983 --> 00:16:24,854
+to drive and that it felt invincible
+
+409
+00:16:24,854 --> 00:16:25,891
+in the dunes,
+
+410
+00:16:25,891 --> 00:16:28,762
+but called the steering vague on the
+
+411
+00:16:28,762 --> 00:16:29,560
+prototype.
+
+412
+00:16:29,740 --> 00:16:32,680
+It also noted the tyre compressor takes
+
+413
+00:16:32,680 --> 00:16:35,771
+about twenty seconds to inflate from half
+
+414
+00:16:35,771 --> 00:16:37,957
+a bar to one point eight bar,
+
+415
+00:16:37,957 --> 00:16:40,897
+although the gallery text says two bar.
+
+416
+00:16:41,246 --> 00:16:44,585
+Autocar also estimated zero to sixty-two miles
+
+417
+00:16:44,585 --> 00:16:46,327
+per hour in six seconds,
+
+418
+00:16:46,327 --> 00:16:49,448
+and said insiders suggested less than that,
+
+419
+00:16:49,448 --> 00:16:52,569
+with a top speed electronically governed to
+
+420
+00:16:52,569 --> 00:16:54,528
+one hundred miles per hour.
+
+421
+00:16:54,708 --> 00:16:58,151
+Wikipedia lists seven point eight seconds to
+
+422
+00:16:58,151 --> 00:16:58,621
+sixty.
+
+423
+00:16:58,801 --> 00:17:00,126
+By our arithmetic,
+
+424
+00:17:00,126 --> 00:17:02,041
+that is a gap of one point
+
+425
+00:17:02,041 --> 00:17:05,060
+eight seconds, a measure of how uncertain
+
+426
+00:17:05,060 --> 00:17:06,754
+the early figures were.
+
+427
+00:17:07,103 --> 00:17:08,926
+Why does that matter for cost?
+
+428
+00:17:09,106 --> 00:17:11,932
+Because speed claims and weight claims were
+
+429
+00:17:11,932 --> 00:17:13,181
+repeated for years,
+
+430
+00:17:13,181 --> 00:17:15,350
+and buyers paid the prices on the
+
+431
+00:17:15,350 --> 00:17:16,467
+strength of them.
+
+432
+00:17:16,647 --> 00:17:18,714
+The sources we have show that the
+
+433
+00:17:18,714 --> 00:17:21,156
+first numbers and the later ones differ
+
+434
+00:17:21,156 --> 00:17:23,160
+by almost ten percent on weight.
+
+435
+00:17:23,340 --> 00:17:25,752
+A careful buyer would want a measured
+
+436
+00:17:25,752 --> 00:17:27,903
+figure, and none is in our notes.
+
+437
+00:17:28,252 --> 00:17:30,526
+There is one more Mercedes price in
+
+438
+00:17:30,526 --> 00:17:31,306
+the sources.
+
+439
+00:17:31,486 --> 00:17:35,782
+Wikipedia says fifteen right-hand-drive units in Malaysia
+
+440
+00:17:35,782 --> 00:17:38,345
+were bought by Naza World at three
+
+441
+00:17:38,345 --> 00:17:41,134
+point two million ringgit before tax.
+
+442
+00:17:41,314 --> 00:17:42,461
+By our arithmetic,
+
+443
+00:17:42,461 --> 00:17:44,754
+fifteen units at that price would be
+
+444
+00:17:44,754 --> 00:17:46,538
+forty-eight million ringgit.
+
+445
+00:17:46,718 --> 00:17:49,584
+The article behind that figure concerns a
+
+446
+00:17:49,584 --> 00:17:51,401
+Brabus car, so we flag it,
+
+447
+00:17:51,401 --> 00:17:53,288
+and we do not convert it to
+
+448
+00:17:53,288 --> 00:17:53,847
+dollars.
+
+449
+00:17:54,196 --> 00:17:56,028
+The costs we could not find matter
+
+450
+00:17:56,028 --> 00:17:56,298
+most.
+
+451
+00:17:56,478 --> 00:17:57,500
+Insurance.
+
+452
+00:17:57,680 --> 00:18:00,515
+Servicing at a Mercedes dealer for an
+
+453
+00:18:00,515 --> 00:18:03,043
+army-derived six-axle drivetrain.
+
+454
+00:18:03,223 --> 00:18:05,819
+Storage for a truck almost twenty feet
+
+455
+00:18:05,819 --> 00:18:06,161
+long.
+
+456
+00:18:06,341 --> 00:18:07,316
+Transport.
+
+457
+00:18:07,496 --> 00:18:09,481
+Parts for portal axles.
+
+458
+00:18:09,661 --> 00:18:12,759
+We looked, and found no owner-published bills
+
+459
+00:18:12,759 --> 00:18:15,512
+or independent estimates for any of them
+
+460
+00:18:15,512 --> 00:18:17,370
+in the sources we can cite.
+
+461
+00:18:17,720 --> 00:18:19,392
+Length is one reason.
+
+462
+00:18:19,572 --> 00:18:23,559
+Wikipedia lists the Mercedes at fifty-eight seventy-five
+
+463
+00:18:23,559 --> 00:18:26,977
+millimetres, which by our arithmetic is nineteen
+
+464
+00:18:26,977 --> 00:18:28,187
+point three feet,
+
+465
+00:18:28,187 --> 00:18:30,323
+and about two metres ten wide.
+
+466
+00:18:30,503 --> 00:18:33,692
+Tight garages and ordinary parking spaces may
+
+467
+00:18:33,692 --> 00:18:34,684
+not suit that,
+
+468
+00:18:34,684 --> 00:18:37,377
+but our sources do not discuss parking
+
+469
+00:18:37,377 --> 00:18:39,362
+costs, so we leave it there.
+
+470
+00:18:39,711 --> 00:18:41,984
+Autocar's tester, Greg Kable,
+
+471
+00:18:41,984 --> 00:18:44,256
+wrote that the truck is a fun
+
+472
+00:18:44,256 --> 00:18:47,233
+thing to drive in the right conditions
+
+473
+00:18:47,233 --> 00:18:50,759
+but a super-exclusive proposition for all but
+
+474
+00:18:50,759 --> 00:18:51,856
+the mega-rich.
+
+475
+00:18:52,036 --> 00:18:55,200
+He also called it remarkably easy to
+
+476
+00:18:55,200 --> 00:18:55,727
+drive.
+
+477
+00:18:55,907 --> 00:18:58,110
+That is his opinion in a February
+
+478
+00:18:58,110 --> 00:18:59,646
+twenty fourteen review.
+
+479
+00:18:59,826 --> 00:19:01,743
+It does not give a running cost,
+
+480
+00:19:01,743 --> 00:19:03,719
+but it reflects who the price was
+
+481
+00:19:03,719 --> 00:19:03,959
+for.
+
+482
+00:19:04,308 --> 00:19:06,154
+Production was small.
+
+483
+00:19:06,334 --> 00:19:08,424
+Fox News, citing Autocar,
+
+484
+00:19:08,424 --> 00:19:11,850
+said Mercedes expected to build twenty to
+
+485
+00:19:11,850 --> 00:19:13,521
+thirty units a year.
+
+486
+00:19:13,701 --> 00:19:16,735
+Wikipedia says around one hundred were built
+
+487
+00:19:16,735 --> 00:19:17,770
+over two years,
+
+488
+00:19:17,770 --> 00:19:20,597
+and that more were sold than anticipated.
+
+489
+00:19:20,777 --> 00:19:22,003
+By our arithmetic,
+
+490
+00:19:22,003 --> 00:19:23,841
+that is about fifty a year,
+
+491
+00:19:23,841 --> 00:19:26,292
+roughly two times the expected rate.
+
+492
+00:19:26,472 --> 00:19:29,275
+A planned small run became a larger
+
+493
+00:19:29,275 --> 00:19:29,595
+one.
+
+494
+00:19:29,945 --> 00:19:32,105
+Let us build a simple sheet from
+
+495
+00:19:32,105 --> 00:19:32,983
+what we have,
+
+496
+00:19:32,983 --> 00:19:35,953
+for an American owner at twenty-five hundred
+
+497
+00:19:35,953 --> 00:19:36,830
+miles a year.
+
+498
+00:19:37,010 --> 00:19:40,447
+Purchase, five hundred eleven thousand at launch.
+
+499
+00:19:40,627 --> 00:19:43,892
+Fuel, seven hundred fourteen to eight hundred
+
+500
+00:19:43,892 --> 00:19:45,271
+fifty-seven a year.
+
+501
+00:19:45,451 --> 00:19:46,809
+One set of tyres,
+
+502
+00:19:46,809 --> 00:19:48,806
+about forty-five hundred.
+
+503
+00:19:48,986 --> 00:19:52,184
+Everything else, insurance and service,
+
+504
+00:19:52,184 --> 00:19:52,841
+unknown.
+
+505
+00:19:53,021 --> 00:19:55,611
+By our arithmetic that is the cheap
+
+506
+00:19:55,611 --> 00:19:55,981
+part.
+
+507
+00:19:56,331 --> 00:19:57,625
+Over five years,
+
+508
+00:19:57,625 --> 00:19:59,079
+by our arithmetic,
+
+509
+00:19:59,079 --> 00:20:00,938
+fuel is three thousand,
+
+510
+00:20:00,938 --> 00:20:04,656
+five hundred seventy to forty-two eighty-five.
+
+511
+00:20:04,836 --> 00:20:07,894
+Add one tyre set at forty-five twenty-seven
+
+512
+00:20:07,894 --> 00:20:10,525
+and the known running cost is roughly
+
+513
+00:20:10,525 --> 00:20:13,369
+eight thousand to nine thousand dollars.
+
+514
+00:20:13,549 --> 00:20:16,292
+Against a resale gain of three hundred
+
+515
+00:20:16,292 --> 00:20:19,613
+ninety thousand that the Drive's sale implies,
+
+516
+00:20:19,613 --> 00:20:20,768
+these are small,
+
+517
+00:20:20,768 --> 00:20:23,151
+but the unknowns could be larger.
+
+518
+00:20:23,500 --> 00:20:26,647
+A buyer today faces a different calculation.
+
+519
+00:20:26,827 --> 00:20:29,401
+The entry ticket is now nine hundred
+
+520
+00:20:29,401 --> 00:20:31,118
+thousand dollars and up,
+
+521
+00:20:31,118 --> 00:20:33,263
+based on the used sales in our
+
+522
+00:20:33,263 --> 00:20:35,766
+sources, and that is before import.
+
+523
+00:20:35,946 --> 00:20:37,270
+By our arithmetic,
+
+524
+00:20:37,270 --> 00:20:40,211
+nine hundred one thousand is one hundred
+
+525
+00:20:40,211 --> 00:20:43,373
+seventy-six percent of the old five hundred
+
+526
+00:20:43,373 --> 00:20:43,888
+eleven.
+
+527
+00:20:44,068 --> 00:20:46,693
+Whether it keeps rising is unknown,
+
+528
+00:20:46,693 --> 00:20:49,768
+since our sources record only past sales.
+
+529
+00:20:50,118 --> 00:20:51,999
+The Hennessey sheet is shorter.
+
+530
+00:20:52,179 --> 00:20:55,369
+Purchase, three hundred forty-nine thousand,
+
+531
+00:20:55,369 --> 00:20:57,833
+plus optional twenty-two thousand.
+
+532
+00:20:58,013 --> 00:20:59,720
+Fuel, unknown.
+
+533
+00:20:59,900 --> 00:21:01,618
+Tyres, unknown.
+
+534
+00:21:01,798 --> 00:21:03,075
+Weight, unknown.
+
+535
+00:21:03,255 --> 00:21:05,460
+The only other number we found is
+
+536
+00:21:05,460 --> 00:21:06,463
+the used price,
+
+537
+00:21:06,463 --> 00:21:09,670
+around three hundred fifty-five to three hundred
+
+538
+00:21:09,670 --> 00:21:12,810
+seventy-five thousand in early twenty nineteen.
+
+539
+00:21:12,990 --> 00:21:14,662
+So for the cheaper truck,
+
+540
+00:21:14,662 --> 00:21:16,801
+we know even less about the true
+
+541
+00:21:16,801 --> 00:21:17,135
+cost.
+
+542
+00:21:17,485 --> 00:21:18,461
+What is missing.
+
+543
+00:21:18,641 --> 00:21:21,857
+Any measured fuel economy for either truck.
+
+544
+00:21:22,037 --> 00:21:24,393
+Insurance and service bills.
+
+545
+00:21:24,573 --> 00:21:27,144
+The cost of importing and certifying a
+
+546
+00:21:27,144 --> 00:21:28,834
+car in the United States.
+
+547
+00:21:29,014 --> 00:21:30,001
+Tyre life.
+
+548
+00:21:30,181 --> 00:21:32,888
+A depreciation curve rather than a few
+
+549
+00:21:32,888 --> 00:21:33,316
+sales.
+
+550
+00:21:33,496 --> 00:21:35,521
+If you have owned one of these,
+
+551
+00:21:35,521 --> 00:21:37,873
+share a real number in the comments,
+
+552
+00:21:37,873 --> 00:21:40,160
+and we will update the description.
+
+553
+00:21:40,509 --> 00:21:43,322
+So what does a six-wheel truck really
+
+554
+00:21:43,322 --> 00:21:43,702
+cost?
+
+555
+00:21:43,882 --> 00:21:46,543
+The sticker was five hundred eleven thousand
+
+556
+00:21:46,543 --> 00:21:49,084
+dollars for the Mercedes and three hundred
+
+557
+00:21:49,084 --> 00:21:51,382
+forty-nine thousand for the Hennessey.
+
+558
+00:21:51,562 --> 00:21:53,726
+Running costs that we can compute are
+
+559
+00:21:53,726 --> 00:21:54,778
+small beside that.
+
+560
+00:21:54,958 --> 00:21:56,428
+And the used market,
+
+561
+00:21:56,428 --> 00:21:58,338
+at least for the Mercedes,
+
+562
+00:21:58,338 --> 00:22:00,543
+has so far paid more than new.
+
+563
+00:22:00,723 --> 00:22:02,723
+Subscribe to Pickup Reality,
+
+564
+00:22:02,723 --> 00:22:06,081
+and the twenty twenty-seven Truck Buyer's Guide
+
+565
+00:22:06,081 --> 00:22:08,153
+is linked in the description.
