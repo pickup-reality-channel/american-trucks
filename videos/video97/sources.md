@@ -1,0 +1,7 @@
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Wikipedia, Lamborghini LM002: https://en.wikipedia.org/wiki/Lamborghini_LM002
+- Carscoops, Lamborghini sold nearly 5,000 Urus SUVs last year (January 2020): https://www.carscoops.com/2020/01/lamborghini-sales-soar-43-percent-in-2019-thanks-to-urus-suv/
+- Yahoo Autos, We're not selling mobility: how Stephan Winkelmann transformed Lamborghini: https://autos.yahoo.com/people-and-culture/articles/were-not-selling-mobility-stephan-083648052.html
+- CARFAX, 2026 Lamborghini Urus review, pricing and specs: https://www.carfax.com/Research-Lamborghini-Urus_w9540
+- Motor1, 2024 Ferrari Purosangue is predictably expensive: https://www.motor1.com/news/652734/2024-ferrari-purosangue-suv-price/
+- VinAssessment, Lamborghini Urus prices by year: https://vinassessment.com/prices/lamborghini/urus
