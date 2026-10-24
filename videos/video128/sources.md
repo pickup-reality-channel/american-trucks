@@ -1,0 +1,7 @@
+- Torque Café, Why Ford built a race car for the road: https://archive.torquecafe.com/why-ford-built-a-race-car-for-the-road/
+- Design News, Engineering the Maximum Mustang GTD: https://www.designnews.com/automotive-engineering/engineering-the-maximum-mustang-gtd
+- Motor1, Ford Mustang GTD sets Nürburgring record for fastest American car: https://www.motor1.com/news/743739/ford-mustang-gtd-nurburgring-record/
+- The Drive, Ford Mustang GTD sets fastest Nürburgring lap time of any American car: https://www.thedrive.com/news/ford-mustang-gtd-sets-fastest-nurburgring-lap-time-of-any-american-car-ever
+- Motor1, Ford Mustang GTD price and window sticker: https://www.motor1.com/news/762588/ford-mustang-gtd-price-window-sticker/
+- Wikipedia, Ford Mustang GTD: https://en.wikipedia.org/wiki/Ford_Mustang_GTD
+- Wikipedia, Porsche 911 GT3: https://en.wikipedia.org/wiki/Porsche_911_GT3
