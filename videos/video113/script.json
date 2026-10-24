@@ -1,0 +1,308 @@
+{
+ "id": "video113",
+ "angle": "A",
+ "length_scale": 1.45,
+ "title": "2 Secrets Hidden Inside the Ferrari F40",
+ "scenes": [
+  {
+   "text": "The Ferrari F forty was built in thirteen months, from the leftovers of a racing programme that had been cancelled. And it had no door handles, no glove box, no leather and no sound system. Yet it cost about four hundred thousand dollars, roughly five times the car it replaced, and speculators sold some for more than seven times list price. These are the two secrets hidden inside the Ferrari F forty.",
+   "query": "Ferrari F40",
+   "caption": "2 SECRETS HIDDEN INSIDE THE FERRARI F40",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. Ferrari planned to build four hundred of them. It built more than thirteen hundred. And the same page that tells us all that also says only about ten percent of the cars delivered were used for regular driving. Stay to the end, because the sources disagree on several numbers, and we will show you where.",
+   "query": "Ferrari F40",
+   "caption": "PLANNED: 400 \u00b7 BUILT: 1,311+",
+   "cuts": 8
+  },
+  {
+   "text": "Every figure comes from a published source, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so.",
+   "query": "Ferrari F40",
+   "caption": "EVERY NUMBER IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Start with how it began. Wikipedia says Nicola Materazzi proposed the concept to Enzo Ferrari in nineteen eighty-four, and that the car grew out of the two eighty-eight G T O Evoluzione. The Group B racing category ended before the nineteen eighty-six season, leaving Ferrari with five Evoluzione development cars and nowhere to race them.",
+   "query": "Ferrari 288 GTO Evoluzione",
+   "caption": "1984: MATERAZZI'S PROPOSAL \u00b7 5 LEFTOVER EVOLUZIONE CARS",
+   "cuts": 3,
+   "chapter": "Secret one: a car made from leftovers"
+  },
+  {
+   "text": "Project work on the F forty began on the tenth of June, nineteen eighty-six, according to the same page. Enzo Ferrari wanted the car done in about eleven months. The car was unveiled on the twenty-first of July, nineteen eighty-seven, in Maranello. By the page's own account, development took thirteen months from inception to launch.",
+   "query": "Maranello",
+   "caption": "PROJECT BEGAN 10 JUNE 1986 \u00b7 UNVEILED 21 JULY 1987",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, from the tenth of June nineteen eighty-six to the twenty-first of July nineteen eighty-seven is thirteen months and eleven days. That agrees with the page. Compare it with the other cars in this series. The Lexus LFA took about ten and a half years from start to production. The Mercedes-AMG One took more than five years from its reveal to its first delivery.",
+   "query": "Ferrari F40 prototype",
+   "caption": "13 MONTHS (OUR ARITHMETIC) VS LFA ~10.5 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "A caution. One of our sources, Classic Motorsports, says the F forty was presented in nineteen eighty-seven for Ferrari's fortieth anniversary. Another source, a vehicle archive page, says Enzo Ferrari presented the car at Maranello in June nineteen eighty-seven. Wikipedia gives the twenty-first of July. We use July, since Wikipedia is specific, and we flag the difference.",
+   "query": "Ferrari F40 launch",
+   "caption": "SOURCES DIFFER: JUNE 1987 VS 21 JULY 1987",
+   "cuts": 3
+  },
+  {
+   "text": "The F forty was built to mark Ferrari's fortieth anniversary and was the last Ferrari that Enzo Ferrari personally approved, Wikipedia says. Classic Motorsports adds that he died in nineteen eighty-eight at the age of ninety. The vehicle archive page says the car was presented fourteen months before his death. By our arithmetic, that puts his death in about August nineteen eighty-eight.",
+   "query": "Enzo Ferrari",
+   "caption": "THE LAST FERRARI ENZO APPROVED \u00b7 HE DIED IN 1988 AT 90",
+   "cuts": 3
+  },
+  {
+   "text": "The engine was inherited too. Wikipedia describes the F one twenty A, a two thousand, nine hundred thirty-six cubic centimetre, twin-turbocharged, intercooled ninety-degree V eight, an enlarged version of the two eighty-eight G T O's engine. It claims four hundred seventy-eight metric horsepower at seven thousand r p m and five hundred seventy-seven newton-metres at four thousand. The U S version is listed at four hundred eighty-four.",
+   "query": "Ferrari F120A engine",
+   "caption": "2.9 L TWIN-TURBO V8 \u00b7 478 PS @ 7,000 RPM \u00b7 577 NM",
+   "cuts": 3
+  },
+  {
+   "text": "Other sources describe the same engine differently. The vehicle archive says about five hundred brake horsepower at seven thousand r p m, with two water-cooled I H I turbochargers at one point one bar. Classic Motorsports says four hundred seventy-eight horsepower at a factory boost of about eight point seven psi, or point six bar, and over five hundred at one bar. The sources disagree about boost, and we cannot resolve it.",
+   "query": "Ferrari F40 turbo",
+   "caption": "BOOST: 0.6 BAR (CLASSIC MOTORSPORTS) VS 1.1 BAR (ARCHIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "So the first secret is this. The most famous Ferrari of the nineteen eighties was not designed on a clean sheet. It was assembled from a cancelled racing programme, an existing engine and a very short deadline, by a team that included Materazzi as chief engineer. Pininfarina's Pietro Camardella designed the body under Aldo Brovarone's supervision, according to Wikipedia.",
+   "query": "Ferrari F40",
+   "caption": "BUILT FROM A CANCELLED RACING PROGRAMME (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Does that make it a lesser car? The evidence says no. Wikipedia lists an independent test at four point seven seconds from zero to a hundred kilometres per hour with a top speed of three hundred twenty-one kilometres per hour, about one hundred ninety-nine miles per hour. Road and Track measured three hundred fifteen, and Car and Driver three hundred seventeen. A quick project does not mean a slow car.",
+   "query": "Ferrari F40 test",
+   "caption": "0\u2013100 IN 4.7 S \u00b7 321 KM/H (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The archive page goes further. It says the F forty was the first production car to pass two hundred miles per hour, at two hundred one. The Wikipedia page, by contrast, lists measured top speeds below two hundred, one ninety-six and one ninety-seven, from magazine tests. A claim and a measurement are different things. We report both, and we note that the claim is the one that made the headlines.",
+   "query": "Ferrari F40 speed",
+   "caption": "CLAIM: 201 MPH (ARCHIVE) \u00b7 MEASURED: 196\u2013197 MPH (R&T, C&D)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the second secret. Wikipedia describes the interior. The cars had moderate air conditioning but no sound system, no door handles, no glove box, no leather, no carpets and no door panels. The first fifty cars had sliding Lexan windows. Later cars had wind-down windows. Pirelli developed a special P Zero tyre for the car.",
+   "query": "Ferrari F40 interior",
+   "caption": "NO DOOR HANDLES \u00b7 NO GLOVE BOX \u00b7 NO LEATHER \u00b7 NO CARPETS",
+   "cuts": 3,
+   "chapter": "Secret two: what was left out"
+  },
+  {
+   "text": "The body was made of Kevlar, carbon fibre and aluminium, the page says, with polycarbonate windows. The vehicle archive describes eleven composite panels of Nomex, Kevlar and carbon, a tubular steel chassis with bonded composite inserts, and a ventilated Plexiglas rear screen. It calls the F forty the first car whose bodywork was made entirely of composites.",
+   "query": "Ferrari F40 body",
+   "caption": "BODYWORK ENTIRELY COMPOSITE: KEVLAR, CARBON, NOMEX",
+   "cuts": 3
+  },
+  {
+   "text": "Weight shows the result. Wikipedia lists one thousand, two hundred fifty-four kilograms for Europe and one thousand, three hundred sixty-nine for the United States. The archive says one thousand, two hundred two. Classic Motorsports says about three thousand pounds for the U S car, which is about one thousand, three hundred sixty kilograms. Three different weights, and the differences are over a hundred and fifty kilograms.",
+   "query": "Ferrari F40 weight",
+   "caption": "1,202 / 1,254 / 1,369 KG: THREE SOURCES, THREE WEIGHTS",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the twist about price. Wikipedia says the launch price was about four hundred thousand dollars, roughly five times the price of the two eighty-eight G T O, which the page converts to about one million, one hundred thirty thousand dollars today. A car with fewer features than its predecessor cost five times as much. That is the second secret: the lack of luxury was not a discount, it was the point.",
+   "query": "Ferrari F40",
+   "caption": "$400,000 NEW \u00b7 ~5\u00d7 THE 288 GTO",
+   "cuts": 3
+  },
+  {
+   "text": "Enzo Ferrari, Classic Motorsports says, reportedly wanted drivers to be terrified when they accelerated. The driver's experience, from the owner it quotes, includes minimal turbo lag and a strong push that builds toward seven thousand, five hundred r p m, a long clutch, a dog-leg manual gearbox, strong brakes with little feel and no A B S. It is a very direct car.",
+   "query": "Ferrari F40 cockpit",
+   "caption": "NO ABS \u00b7 LITTLE BRAKE FEEL \u00b7 A VERY DIRECT CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia does not mention A B S, and implies the car lacked a steering and brake servo, based on a Ferrari test driver's comment. We take Classic Motorsports' statement that there was no A B S as one source, and Wikipedia's implication about servos as another. Neither is a complete specification, so we say only that the car was basic by design.",
+   "query": "Ferrari F40",
+   "caption": "NO ABS (CLASSIC MOTORSPORTS) \u00b7 NO SERVOS IMPLIED (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "There was a catalytic converter story too. Wikipedia says no catalytic converters were fitted until nineteen ninety, when U S rules required them. The vehicle archive says that from nineteen ninety-one, cars got catalytic converters, and adjustable suspension became an option. The U S market cars are described by Sotheby's as having non-adjustable suspension, so the options differed by market.",
+   "query": "Ferrari F40 exhaust",
+   "caption": "CATALYTIC CONVERTERS FROM 1990\u201391 \u00b7 ADJUSTABLE SUSPENSION OPTIONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Some arithmetic on the engine, all ours, from Wikipedia's figures. Four hundred seventy-eight metric horsepower from two point nine three six litres is about one hundred sixty-three horsepower per litre. That was a very high figure for a road car in nineteen eighty-seven, achieved with turbochargers. For comparison, the Lexus LFA's naturally aspirated V ten made about one hundred seventeen per litre, two decades later.",
+   "query": "Ferrari F40 engine",
+   "caption": "~163 PS PER LITRE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power to weight. Four hundred seventy-eight horsepower over the European weight of one thousand, two hundred fifty-four kilograms is about point three eight horsepower per kilogram. Over the U S weight of one thousand, three hundred sixty-nine it is point three five. These are our sums. Wikipedia itself gives no power to weight ratio for the F forty, and the weights differ between sources.",
+   "query": "Power to weight",
+   "caption": "0.38 PS/KG (EUROPE) \u00b7 0.35 PS/KG (US) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Price per horsepower, again ours. Four hundred thousand dollars over four hundred seventy-eight horsepower is about eight hundred thirty-seven dollars per horsepower. The Lexus LFA, at three hundred seventy-five thousand and five hundred fifty-three horsepower, was about six hundred seventy-eight, twenty-three years later. The F forty was not cheap even for its time, and this shows it.",
+   "query": "Calculator",
+   "caption": "F40 ~$837/HP (1987) VS LFA ~$678/HP (2010) (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The two eighty-eight G T O, by Wikipedia's account, cost about one fifth as much. By our arithmetic, one fifth of four hundred thousand is eighty thousand dollars. The page does not give the G T O's price directly, so that is a derived figure, not a quotation. The point is the multiple: a Ferrari that was five times the price of the previous one, and was sold out.",
+   "query": "Ferrari 288 GTO",
+   "caption": "288 GTO \u2248 $80,000 (DERIVED FROM 'ROUGHLY 5\u00d7')",
+   "cuts": 3
+  },
+  {
+   "text": "The dimensions are those of a compact supercar. Wikipedia lists a wheelbase of two thousand, four hundred fifty millimetres, a length of four thousand, four hundred thirty, a width of one thousand, nine hundred seventy and a height of one thousand, one hundred twenty-four. The drag coefficient is point three four. It is low and wide, and by modern standards short.",
+   "query": "Ferrari F40 side",
+   "caption": "4,430 MM LONG \u00b7 1,124 MM TALL \u00b7 Cd 0.34",
+   "cuts": 3
+  },
+  {
+   "text": "Compare it with the Mercedes-AMG One from another video of this series, since both are mid-engined hypercars. The AMG One is four thousand, seven hundred fifty-six millimetres long and one thousand, two hundred sixty-one tall, according to Wikipedia. By our arithmetic, the F forty is three hundred twenty-six millimetres shorter and a hundred thirty-seven millimetres lower. It is the smaller car in every dimension we have.",
+   "query": "Ferrari F40 and Mercedes-AMG One",
+   "caption": "F40: 326 MM SHORTER \u00b7 137 MM LOWER THAN AN AMG ONE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The tyres were special. Wikipedia says Pirelli developed a special P Zero tyre for the car. Autopian reports the replacement sizes on a surviving car as two hundred forty-five over forty on seventeen inch wheels at the front and three hundred thirty-five over thirty-five at the back. A rear tyre of three hundred thirty-five millimetres is wide even now, and was extreme in nineteen eighty-seven.",
+   "query": "Pirelli P Zero tyres",
+   "caption": "245/40 R17 FRONT \u00b7 335/35 R17 REAR",
+   "cuts": 3
+  },
+  {
+   "text": "The F forty has a front boot, Classic Motorsports says, though it is small. It also says speed bumps can scrape the carbon sills, which is costly to repair, and that the nose can wander on uneven surfaces. These are the realities behind the legend. A car that was designed to be a racer, and then made legal, is not designed for car parks.",
+   "query": "Ferrari F40 front",
+   "caption": "SPEED BUMPS CAN SCRAPE THE CARBON SILLS",
+   "cuts": 3
+  },
+  {
+   "text": "Its handling carries a warning. Classic Motorsports quotes a specialist, Philippe S\u00e9bille: if you have it at an angle when the turbos kick in, it's gone. He also says to leave the hero stuff for the race tracks, where there is run-off. The quotes are from a specialist who services these cars, and they describe a car that rewards care and punishes carelessness.",
+   "query": "Ferrari F40 turbo lag",
+   "caption": "\"IF YOU HAVE IT AT AN ANGLE WHEN THE TURBOS KICK IN, IT'S GONE\"",
+   "cuts": 3
+  },
+  {
+   "text": "Yet the same specialist calls the car very durable, and says it is definitely cheaper to run than the F fifty that followed it. That is the third surprise, if you like: the stripped, difficult F forty is described as relatively robust and economical, compared with the more sophisticated car that replaced it. We return to costs in another video of this series.",
+   "query": "Ferrari F40",
+   "caption": "\"VERY DURABLE\" \u00b7 \"CHEAPER TO RUN THAN THE F50\"",
+   "cuts": 3
+  },
+  {
+   "text": "Both secrets are really about the same thing, which is intention. A car made in thirteen months could only have what was necessary. A car with no luxuries could only be about driving. Ferrari did not apologise for either. Enzo Ferrari, who died the following year, never saw how the car would be remembered. The sources suggest it was remembered very well.",
+   "query": "Enzo Ferrari and the F40",
+   "caption": "INTENTION: ONLY WHAT WAS NECESSARY (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "A word on how we count. When we say a source says something, we mean that in the pages we read. We read Wikipedia, Classic Motorsports, Sotheby's, a vehicle archive and an Autopian article. We did not read the owner's manual, or Ferrari's own records. Where those might disagree with what we reported, they win. That is the honest limit of a video like this.",
+   "query": "Research",
+   "caption": "WHAT WE READ \u2014 AND WHAT WE DID NOT",
+   "cuts": 3
+  },
+  {
+   "text": "Now back to the numbers that will stay with you. Thirteen months from start to launch. Four hundred planned, thirteen hundred built. Four hundred thousand dollars new, five times the previous car. More than seven times list price for the speculators in nineteen eighty-nine. Ten percent used regularly. Eleven million dollars for a racing version in twenty twenty-five. Each is sourced above.",
+   "query": "Ferrari F40",
+   "caption": "13 MONTHS \u00b7 400 \u2192 1,311 \u00b7 $400K \u00b7 7\u00d7 \u00b7 10% \u00b7 $11M",
+   "cuts": 3
+  },
+  {
+   "text": "And a bonus secret: the production. Wikipedia says planned production was four hundred units, and that the total was one thousand, three hundred eleven, with some sources saying up to one thousand, three hundred fifteen. Classic Motorsports also says four hundred planned and one thousand, three hundred fifteen built. By our arithmetic, that is about three and a quarter times the plan.",
+   "query": "Ferrari F40 production",
+   "caption": "PLANNED 400 \u00b7 BUILT 1,311\u20131,315 (\u22483.3\u00d7 PLAN, OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "A bonus: the numbers nobody planned"
+  },
+  {
+   "text": "Where did they go? Wikipedia says two hundred thirteen cars were destined for the United States. The vehicle archive says about six hundred of the one thousand, three hundred eleven were for the U S A. Those cannot both be right, unless they count different things. Sotheby's, in a 2025 article, repeats the two hundred thirteen figure for the North American allocation. We use two hundred thirteen.",
+   "query": "Ferrari F40 US market",
+   "caption": "US CARS: 213 (WIKIPEDIA, SOTHEBY'S) VS ~600 (ARCHIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "Every car was Rosso Corsa and left-hand drive, Wikipedia says, though at least seven were converted to right-hand drive for the Sultan of Brunei. The production years vary by source. The infobox says nineteen eighty-seven to nineteen ninety-six, the lead says nineteen eighty-seven to ninety-three for the road car, and Classic Motorsports says nineteen eighty-seven to ninety-two.",
+   "query": "Ferrari F40 Rosso Corsa",
+   "caption": "ALL ROSSO CORSA \u00b7 LEFT-HAND DRIVE (7 CONVERTED FOR BRUNEI)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the speculators. Wikipedia says speculators sold cars for up to more than seven times list price in nineteen eighty-nine. By our arithmetic, seven times four hundred thousand is two point eight million dollars. A nineteen ninety estimate, the page adds, said only about ten percent of delivered cars were used for regular driving. The rest were stored or traded.",
+   "query": "Ferrari F40 speculators",
+   "caption": "1989: UP TO 7\u00d7 LIST (\u2248 $2.8M) \u00b7 ONLY ~10% DRIVEN REGULARLY",
+   "cuts": 3
+  },
+  {
+   "text": "The page also says Nigel Mansell's car sold for a record one million pounds in nineteen ninety, and that the same car, in a two thousand fourteen Bonhams auction, reached five hundred forty-three thousand, three hundred seventy-five pounds. By our arithmetic, that is about forty-six percent lower, in pounds, over twenty-four years. A reminder that prices go down as well as up, at least for a while.",
+   "query": "Nigel Mansell Ferrari F40",
+   "caption": "MANSELL'S CAR: \u00a31M (1990) \u2192 \u00a3543,375 (2014)",
+   "cuts": 3
+  },
+  {
+   "text": "Some more arithmetic on production. One thousand, three hundred eleven cars over five years, nineteen eighty-seven to ninety-two, is about two hundred sixty-two cars a year, by our arithmetic. The Lamborghini Urus, according to Wikipedia, was built at a rate of seven thousand, two hundred sixty-five in a single year in twenty twenty-five. The F forty's output was tiny by comparison.",
+   "query": "Ferrari factory",
+   "caption": "~262 F40S A YEAR VS 7,265 URUS IN 2025 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the ten percent. If only about ten percent of delivered cars were used for regular driving, as a nineteen ninety estimate cited by Wikipedia says, then by our arithmetic about a hundred thirty-one of the one thousand, three hundred eleven were. That is an estimate of an estimate, so treat it as a feel for scale. The great majority were collected, stored or traded.",
+   "query": "Ferrari F40 storage",
+   "caption": "~131 OF 1,311 USED REGULARLY (OUR ARITHMETIC OF AN ESTIMATE)",
+   "cuts": 3
+  },
+  {
+   "text": "The dog-leg gearbox is one more detail from the owner's account. Classic Motorsports describes a dog-leg manual that shifts slowly but precisely, with reader comments saying it has five speeds, not six as the article states. Wikipedia lists a five-speed manual, rear-wheel drive. So the article's six is likely an error, though the article remains our source for the feel of the shift.",
+   "query": "Ferrari F40 gearbox",
+   "caption": "FIVE-SPEED DOG-LEG MANUAL (WIKIPEDIA) \u00b7 ARTICLE'S 'SIX' CHALLENGED",
+   "cuts": 3
+  },
+  {
+   "text": "One last thing about the interior. The vehicle archive lists a tubular steel chassis with bonded composite inserts, mainly around the sills and the floor pan, and eleven body panels in Nomex, Kevlar and carbon. The sparse cabin was not an accident of cost. It was a consequence of a car designed around weight. Every handle and carpet was a kilogram that could be left out.",
+   "query": "Ferrari F40 chassis",
+   "caption": "EVERY HANDLE AND CARPET WAS WEIGHT (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "The road car also spawned racers. Wikipedia says the F forty L M debuted at Laguna Seca on the fifteenth of October, nineteen eighty-nine, and finished third overall. Ten competition-spec cars were built, two L M cars and eight Competizione cars. The Competizione is rated at seven hundred metric horsepower, with a reported top speed of about three hundred sixty-seven kilometres per hour.",
+   "query": "Ferrari F40 LM",
+   "caption": "F40 LM: 3RD AT LAGUNA SECA, 1989 \u00b7 COMPETIZIONE: 700 PS",
+   "cuts": 3,
+   "chapter": "The racing cars"
+  },
+  {
+   "text": "The F forty G T E, Wikipedia says, had its engine enlarged from three litres to three point five in nineteen ninety-five and three point six in nineteen ninety-six, producing six hundred twenty metric horsepower. Seven were converted by Michelotto. The G T E won the four hours of Anderstorp in nineteen ninety-five and again in ninety-six. The page counts nineteen racing cars in total.",
+   "query": "Ferrari F40 GTE",
+   "caption": "F40 GTE: 620 PS \u00b7 7 BY MICHELOTTO \u00b7 19 RACING CARS IN ALL",
+   "cuts": 3
+  },
+  {
+   "text": "Sotheby's reports that in August twenty twenty-five an F forty L M by Michelotto sold at R M Sotheby's for eleven million, five thousand dollars. It was one of nineteen Michelotto-prepared examples, with about seven hundred sixty horsepower, the most powerful F forty variant. By our arithmetic, that is about twenty-seven and a half times the original four hundred thousand dollar price of a road car.",
+   "query": "Ferrari F40 LM Michelotto",
+   "caption": "AUG 2025: F40 LM SOLD FOR $11,005,000 (RM SOTHEBY'S)",
+   "cuts": 3
+  },
+  {
+   "text": "Look back at the two secrets. A car made in thirteen months from leftovers. A car stripped of comforts that cost five times its predecessor. Both are about restraint: of time and of equipment. Ferrari did less, faster, and charged more. And the customers, as the speculators show, would pay almost any price. That combination is difficult to repeat.",
+   "query": "Ferrari F40",
+   "caption": "LESS, FASTER, AT A HIGHER PRICE (OUR READING)",
+   "cuts": 3,
+   "chapter": "The secret that did not change"
+  },
+  {
+   "text": "The Nard\u00f2 test is another reminder. Wikipedia says that at the Nard\u00f2 track, Ferrari's two cars could not exceed three hundred twenty-one kilometres per hour, while the Porsche nine fifty-nine S reached three hundred thirty-nine. The F forty's reputation does not rest on being the fastest car on paper. In another video of this series, we compare the two cars directly.",
+   "query": "Nard\u00f2 ring",
+   "caption": "NARD\u00d2: F40 321 KM/H \u00b7 959 S 339 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "One more caution. We have not driven an F forty. The sources disagree about weight, boost, production years and the number of U S cars, and we have said so. Where we did arithmetic, we labelled it. If you know a verified detail from a primary source, tell us in the comments, so that we can correct it.",
+   "query": "Ferrari F40",
+   "caption": "WEIGHT, BOOST, YEARS, US COUNT: SOURCES DISAGREE",
+   "cuts": 3
+  },
+  {
+   "text": "Which secret surprised you more, the thirteen months or the missing door handles? Tell us in the comments. In the other videos of this series, we compare the F forty with the Porsche nine fifty-nine, work out what it really costs to own one, and tell the story of the last car Enzo Ferrari approved. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
