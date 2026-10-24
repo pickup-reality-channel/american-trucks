@@ -1,0 +1,302 @@
+{
+ "id": "video123",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "Can a Normal Person Afford a Corvette ZR1?",
+ "scenes": [
+  {
+   "text": "The new Corvette ZR1 starts at one hundred seventy-four thousand, nine hundred ninety-five dollars. That is about three and a half times the average price of a new car in America today. A published five-year cost-to-own estimate puts the total at more than one hundred seventy-four thousand dollars on top of the purchase. So, can a normal person afford a Corvette ZR1? We ran the numbers.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "CAN A NORMAL PERSON AFFORD A CORVETTE ZR1?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We will use the official prices, the option list, a published five-year ownership estimate, dealer markup reports, and the Census Bureau's median household income. We will do simple arithmetic and label it as ours. We will not guess at your finances, and we will not give financial advice, because we do not know your situation. Every figure comes from a published source, listed in the description.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "PUBLISHED FIGURES + OUR OWN ARITHMETIC \u00b7 NOT FINANCIAL ADVICE",
+   "cuts": 8
+  },
+  {
+   "text": "Start with what Chevrolet says. In its January twenty twenty-five pricing announcement, G M lists the ZR1 coupe at one hundred seventy-four thousand, nine hundred ninety-five dollars, including a destination and freight charge of one thousand, six hundred ninety-five. The hardtop convertible is one hundred eighty-four thousand, nine hundred ninety-five. The 3LZ coupe is one hundred eighty-five thousand, nine hundred ninety-five, and the 3LZ convertible one hundred ninety-five thousand, nine hundred ninety-five.",
+   "query": "Chevrolet Corvette ZR1 price",
+   "caption": "ZR1 COUPE $174,995 \u00b7 CONVERTIBLE $184,995 \u00b7 3LZ COUPE $185,995 \u00b7 3LZ CONVERTIBLE $195,995",
+   "cuts": 5,
+   "chapter": "The sticker price"
+  },
+  {
+   "text": "These prices exclude tax, title, licence, dealer fees and options. The same press release says the ZTK Performance Package costs one thousand, five hundred dollars, but requires the carbon-fibre aero package, which costs eight thousand, four hundred ninety-five. By our arithmetic, getting the ZTK package therefore costs nine thousand, nine hundred ninety-five dollars in total.",
+   "query": "Corvette ZR1 ZTK package",
+   "caption": "ZTK $1,500 + REQUIRED AERO PACKAGE $8,495 = $9,995 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia lists slightly different figures: one hundred seventy-three thousand, three hundred for the 1LZ coupe and one hundred eighty-four thousand, three hundred for the 3LZ. G M's own press release mentions the one hundred seventy-three thousand, three hundred figure in a competitive table, apparently as a base price without destination. Kelley Blue Book lists one hundred seventy-eight thousand, one hundred ninety-five, unlabelled. So there are four numbers for the same car.",
+   "query": "Corvette ZR1 price discrepancy",
+   "caption": "$173,300 (WIKIPEDIA, BASE) \u00b7 $174,995 (GM, WITH DESTINATION) \u00b7 $178,195 (KBB, UNLABELLED)",
+   "cuts": 3
+  },
+  {
+   "text": "The most expensive option is carbon-fibre wheels at thirteen thousand, nine hundred ninety-five dollars, according to Motor One's configurator report. Then the carbon aero package, eight thousand, four hundred ninety-five, carbon interior, four thousand, nine hundred ninety-five, and a carbon engine brace, two thousand, eight hundred ninety-five. Dual roof, front lift, and a stack of smaller items follow.",
+   "query": "Corvette ZR1 options",
+   "caption": "OPTIONS: CARBON WHEELS $13,995 \u00b7 AERO $8,495 \u00b7 INTERIOR $4,995 \u00b7 ENGINE BRACE $2,895",
+   "cuts": 3
+  },
+  {
+   "text": "Motor One adds the totals. A fully loaded 3LZ coupe comes to at least two hundred thirty-two thousand, seven hundred fifty-five dollars, and a fully loaded 3LZ convertible two hundred thirty-eight thousand, three hundred eighty-five. By our arithmetic, the options on the loaded coupe add forty-six thousand, seven hundred sixty dollars over the base 3LZ price, which is a little under the average price of a new car.",
+   "query": "Corvette ZR1 loaded price",
+   "caption": "LOADED 3LZ COUPE \u2265 $232,755 \u00b7 CONVERTIBLE $238,385 \u00b7 OPTIONS \u2248 $46,760 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "To judge whether that is affordable, we need two yardsticks from published sources. The first is the Census Bureau: its report released on the ninth of September, twenty twenty-five puts the median U S household income for twenty twenty-four at eighty-three thousand, seven hundred thirty dollars. That is before taxes, and it is a household figure, not an individual one.",
+   "query": "U.S. Census Bureau",
+   "caption": "CENSUS (SEPT 9, 2025): 2024 MEDIAN HOUSEHOLD INCOME $83,730 (PRE-TAX)",
+   "cuts": 3,
+   "chapter": "The yardsticks"
+  },
+  {
+   "text": "The second is the average price of a new vehicle. Kelley Blue Book, through Digital Dealer, reported on the tenth of September, twenty twenty-six that the average transaction price in August was fifty thousand, eighty-nine dollars, up one point nine percent from a year earlier. This is the price people actually paid for new cars of all kinds, not a sticker price.",
+   "query": "Kelley Blue Book",
+   "caption": "KBB / DIGITAL DEALER (SEPT 2026): AUGUST 2026 AVERAGE NEW-VEHICLE PRICE $50,089 (+1.9% YEAR ON YEAR)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the arithmetic. The base ZR1, at one hundred seventy-four thousand, nine hundred ninety-five, is about two point one times the median household's yearly income. Divide one seventy-four ninety-five by eighty-three seven thirty and you get two point oh nine. The 3LZ coupe is two point two two. The fully loaded coupe is two point seven eight years of median household income, before tax.",
+   "query": "Corvette ZR1 and income",
+   "caption": "ZR1 = 2.1 YEARS OF MEDIAN HOUSEHOLD INCOME \u00b7 3LZ 2.2 \u00b7 LOADED 2.8 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Against the average new vehicle price, the base ZR1 is about three and a half times as much, one seventy-four ninety-five over fifty oh eighty-nine. The fully loaded coupe is about four point six times. By our arithmetic, one loaded ZR1 costs the same as about four and a half average new cars. That is a way of saying that the ZR1 is not an ordinary purchase, even by the standards of new cars.",
+   "query": "Corvette ZR1 and average car",
+   "caption": "BASE ZR1 \u2248 3.5\u00d7 THE AVERAGE NEW VEHICLE \u00b7 LOADED \u2248 4.6\u00d7 (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The purchase price is only part of it. Kelley Blue Book publishes a five-year cost-to-own estimate for the twenty twenty-five ZR1: one hundred seventy-four thousand, seven hundred fourteen dollars in total. That figure splits into depreciation of eighty-nine thousand, three hundred fifty-one, and out-of-pocket expenses of eighty-five thousand, three hundred sixty-three. The page lists a price of one hundred seventy-eight thousand, one hundred ninety-five.",
+   "query": "Kelley Blue Book 5-year cost",
+   "caption": "KBB 5-YEAR COST TO OWN: $174,714 = $89,351 DEPRECIATION + $85,363 OUT-OF-POCKET",
+   "cuts": 3,
+   "chapter": "The five-year bill"
+  },
+  {
+   "text": "By our arithmetic, depreciation of eighty-nine thousand, three hundred fifty-one on a price of one hundred seventy-eight thousand, one hundred ninety-five is about fifty percent. The page puts the residual value after five years at eighty-eight thousand, eight hundred forty-four. So, on this estimate, half the car's value is gone in five years, a loss of about seventeen thousand, nine hundred dollars a year.",
+   "query": "Corvette ZR1 depreciation",
+   "caption": "5-YEAR DEPRECIATION \u2248 50% \u00b7 RESIDUAL VALUE $88,844 \u00b7 \u2248 $17,900 A YEAR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The out-of-pocket items. Insurance, twenty-five thousand, eight hundred fifty-five dollars. Fuel, eighteen thousand, nine hundred one. Financing, twenty thousand, four hundred seventy. State fees, fourteen thousand, one hundred thirty-eight. Maintenance, three thousand, seven hundred six. Repairs, two thousand, two hundred ninety-three. We added them: the total is eighty-five thousand, three hundred sixty-three, which matches the page.",
+   "query": "Corvette ZR1 ownership costs",
+   "caption": "INSURANCE $25,855 \u00b7 FUEL $18,901 \u00b7 FINANCING $20,470 \u00b7 FEES $14,138 \u00b7 MAINTENANCE $3,706 \u00b7 REPAIRS $2,293",
+   "cuts": 3
+  },
+  {
+   "text": "Per year, by our arithmetic: insurance about five thousand, one hundred seventy dollars. Fuel about three thousand, seven hundred eighty. Financing about four thousand, ninety-four. Maintenance and repairs together about one thousand, two hundred. The page does not give annual figures or assumptions, such as the interest rate, the mileage or the driver's age and location, so these are averages of a five-year total.",
+   "query": "Corvette ZR1 yearly costs",
+   "caption": "\u2248 $5,170 INSURANCE \u00b7 $3,780 FUEL \u00b7 $4,090 FINANCING \u00b7 $1,200 MAINTENANCE/REPAIRS PER YEAR (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Put the total next to the income yardstick. One hundred seventy-four thousand, seven hundred fourteen dollars over five years is about thirty-four thousand, nine hundred forty-three dollars a year, by our arithmetic. Against a median household income of eighty-three thousand, seven hundred thirty, that is about forty-two percent, before tax. The out-of-pocket part alone is about seventeen thousand dollars a year, or twenty percent.",
+   "query": "Corvette ZR1 and income",
+   "caption": "COST TO OWN \u2248 $34,900 A YEAR \u2248 42% OF MEDIAN HOUSEHOLD INCOME (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Two caveats. First, income is before tax, so the real share of spendable income is higher. Second, the cost-to-own figure includes depreciation, which is a loss in value, not cash paid out. A buyer who pays cash and later sells the car would see a smaller cash outflow than the headline, though the loss still happens. We keep both, because both are costs.",
+   "query": "Corvette ZR1",
+   "caption": "INCOME IS PRE-TAX \u00b7 DEPRECIATION IS A LOSS IN VALUE, NOT CASH PAID (OUR NOTE)",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel is easy to check. G M Authority reports the E P A ratings for the twenty twenty-five ZR1: twelve miles per gallon in the city, eighteen on the highway, fourteen combined, premium fuel, and a three thousand dollar gas-guzzler tax. The Z06 has the same combined rating, with twenty on the highway. So the ZR1 is a car that drinks premium, and its buyers pay a tax for doing so.",
+   "query": "Corvette ZR1 fuel economy",
+   "caption": "EPA: 12 CITY / 18 HIGHWAY / 14 COMBINED MPG \u00b7 PREMIUM FUEL \u00b7 $3,000 GAS-GUZZLER TAX",
+   "cuts": 3
+  },
+  {
+   "text": "And the warranty. Kelley Blue Book lists a basic warranty of three years or thirty-six thousand miles, a powertrain warranty of five years or sixty thousand miles, and a corrosion warranty of three years or thirty-six thousand miles. The five-year cost-to-own estimate has maintenance and repairs of about six thousand dollars, which is small next to depreciation and insurance. For the first years, at least, the ZR1 is mostly a car that costs you in value and premiums.",
+   "query": "Corvette ZR1 warranty",
+   "caption": "WARRANTY: 3 YR / 36K BASIC \u00b7 5 YR / 60K POWERTRAIN \u00b7 MAINTENANCE + REPAIRS \u2248 $6,000 OVER 5 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "The sticker price is not always what you pay. GM Authority reported in June twenty twenty-five that a Monterey, California, dealership listed a ZR1 3LZ coupe with a sticker of two hundred six thousand, eighty dollars plus a one hundred thousand dollar markup, and other allocations at fifty thousand dollars over. The source was a Facebook post. A Reddit user in the Chicago area said the highest markup he found was one hundred fifty thousand over sticker.",
+   "query": "Chevrolet ZR1 dealer markup",
+   "caption": "JUNE 2025: STICKER $206,080 + $100K MARKUP \u00b7 OTHERS +$50K \u00b7 REDDIT: UP TO +$150K (GM AUTHORITY, UNVERIFIED)",
+   "cuts": 3,
+   "chapter": "The markup problem"
+  },
+  {
+   "text": "By our arithmetic, the Monterey example would cost about three hundred six thousand dollars, which is three point six six times the median household income. That figure is our sum, not a price GM Authority states, and the article cautions that these reports were not independently verified. We include it because it shows the upper end of what some buyers were being asked.",
+   "query": "Corvette ZR1 markup",
+   "caption": "$206,080 + $100,000 = $306,080 \u2248 3.7 YEARS OF MEDIAN INCOME (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Not every dealer asked for a premium. In December, GM Authority reported a two thousand twenty-six ZR1 3LZ coupe at a dealership in El Paso, Texas, at one hundred ninety-nine thousand, eighty-five dollars, and a Michigan dealership advertising a 3LZ at two hundred twenty-five thousand, nine hundred fifteen dollars, with no added markup. It also said some dealers were listing ZR1s at three hundred twenty to three hundred forty thousand dollars.",
+   "query": "GM Authority",
+   "caption": "DEC 2025: EL PASO 3LZ $199,085 \u00b7 MICHIGAN 3LZ $225,915 \u00b7 OTHERS $320K\u2013$340K",
+   "cuts": 3
+  },
+  {
+   "text": "The same article cautions that a listing is not the same as availability. It says a reader comment claimed waitlists of two to three years, but the article does not address availability, so we do not repeat that as fact. What the sources show is a wide range of asking prices for the same car, from about one hundred ninety-nine thousand to three hundred forty thousand dollars.",
+   "query": "Corvette ZR1 availability",
+   "caption": "ASKING PRICES FOR THE SAME CAR: ~$199K TO ~$340K (GM AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "And the most expensive ZR1 of all. GM Authority reports that Rick Hendrick, of Hendrick Automotive, paid three point seven million dollars at a Barrett-Jackson auction for ZR1 vehicle identification number zero zero one, with the full hammer price donated to the Red Cross. By our arithmetic, that is about twenty-one times the base price. It is not a price a normal buyer would pay, but it shows the ceiling.",
+   "query": "Barrett-Jackson",
+   "caption": "ZR1 VIN 001: $3.7M AT BARRETT-JACKSON (PROCEEDS TO THE RED CROSS) \u2248 21\u00d7 BASE PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "If a ZR1 is out of reach, the Corvette range offers cheaper steps. Wikipedia lists the twenty twenty-five Stingray at sixty-nine thousand, nine hundred ninety-five dollars for the coupe and seventy-six thousand, nine hundred ninety-five for the convertible. By our arithmetic, the base Stingray is about eighty-four percent of one year of median household income, against two point one years for the ZR1.",
+   "query": "Chevrolet Corvette Stingray",
+   "caption": "2025 STINGRAY COUPE $69,995 \u00b7 CONVERTIBLE $76,995 \u00b7 \u2248 0.84 YEARS OF MEDIAN INCOME (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The other Corvettes"
+  },
+  {
+   "text": "The Z06, with six hundred seventy horsepower and a naturally aspirated flat-plane V eight, started at one hundred sixteen thousand, nine hundred ninety-five dollars for twenty twenty-five, according to Car and Driver via AOL. The E-Ray hybrid started at one hundred six thousand, five hundred ninety-five for twenty twenty-four. By our arithmetic, the Z06 is about sixty-seven percent of a ZR1's base price, for sixty-three percent of its power.",
+   "query": "Chevrolet Corvette Z06 and E-Ray",
+   "caption": "Z06 $116,995 \u00b7 E-RAY $106,595 \u00b7 Z06 \u2248 67% OF ZR1 PRICE FOR \u2248 63% OF ITS POWER (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Power per dollar tells the same story. At one hundred seventy-four thousand, nine hundred ninety-five dollars and one thousand, sixty-four horsepower, the ZR1 costs about one hundred sixty-five dollars per horsepower. The Z06 at one sixteen ninety-five and six seventy horsepower costs about one hundred seventy-five. The Stingray's horsepower is not in our sources, so we leave it out. The ZR1 is the cheapest per horsepower of the three that we can compute.",
+   "query": "Corvette price per horsepower",
+   "caption": "ZR1 \u2248 $165/HP \u00b7 Z06 \u2248 $175/HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with the previous generation. Car and Driver, via AOL, lists the twenty nineteen C seven ZR1 at one hundred nineteen thousand, nine hundred ninety-five dollars. By our arithmetic, the new base price is about forty-six percent higher in nominal dollars, in six years. Whether that is a fair rise depends on inflation, which our sources do not give, so we only state the number.",
+   "query": "Chevrolet Corvette C7 ZR1",
+   "caption": "2019 C7 ZR1 $119,995 \u2192 2025 C8 ZR1 $174,995 = +46% NOMINAL (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the supercar the ZR1 is often compared with. Kelley Blue Book lists the Ferrari two ninety-six G T B at an original M S R P of three hundred thirty-eight thousand, two hundred fifty-five dollars for twenty twenty-four, and Motor One says three hundred fifty thousand. By our arithmetic, the Ferrari's original price is about four years of median household income, against two for the ZR1.",
+   "query": "Ferrari 296 GTB",
+   "caption": "296 GTB $338,255 (KBB) \u2248 4.0 YEARS OF MEDIAN INCOME vs ZR1 \u2248 2.1 (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "The Ferrari alternative"
+  },
+  {
+   "text": "Kelley Blue Book's page for the Ferrari does not give a cost-to-own figure, so we cannot compare five-year costs. We can say the ZR1's published five-year cost, at one hundred seventy-four thousand, seven hundred fourteen dollars, is about half the Ferrari's original M S R P. That is a comparison of two different things, a running total and a purchase price, so treat it as a scale, not a ranking.",
+   "query": "Ferrari 296 GTB",
+   "caption": "ZR1 5-YEAR COST ($174,714) \u2248 52% OF 296 GTB MSRP ($338,255) \u00b7 DIFFERENT QUANTITIES (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a logic to the price gap, which we explore in the comparison video. The Corvette makes about thirty percent more power than the Ferrari, according to Wikipedia's figures, and beat it in a quarter-mile drag race reported by Motor One. But the Ferrari is a plug-in hybrid with a seven point four five kilowatt-hour battery, and a different badge. Value depends on what you are buying.",
+   "query": "Corvette ZR1 and Ferrari 296 GTB",
+   "caption": "ZR1 \u2248 +30% POWER (1,064 vs 819 HP) \u00b7 QUARTER-MILE: ZR1 9.29 S vs 296 9.74 S (MOTOR1)",
+   "cuts": 3
+  },
+  {
+   "text": "There are three useful ways to read the price. First, against income: by our arithmetic, the base ZR1 is two point one years of median household income, the loaded coupe two point eight, and the reported Monterey markup car three point seven. Second, against the average new vehicle: three and a half, four and a half, and about six times. Third, against what you keep: half the car's value is gone in five years.",
+   "query": "Corvette ZR1 price",
+   "caption": "INCOME: 2.1 / 2.8 / 3.7 YEARS \u00b7 AVERAGE CAR: 3.5\u00d7 / 4.6\u00d7 / 6.1\u00d7 \u00b7 KEEP: ~50% AFTER 5 YEARS (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Three ways to read the numbers"
+  },
+  {
+   "text": "A striking coincidence in the numbers. Kelley Blue Book's five-year cost to own, one hundred seventy-four thousand, seven hundred fourteen dollars, is almost exactly the ZR1's base price of one hundred seventy-four thousand, nine hundred ninety-five. By our arithmetic, it is ninety-nine point eight percent of the price. In other words, on this estimate, owning the car for five years costs about as much as buying it.",
+   "query": "Corvette ZR1 cost to own",
+   "caption": "5-YEAR COST $174,714 \u2248 99.8% OF THE $174,995 PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "That does not mean you spend the price twice. The five-year figure counts depreciation, which is the value you lose, and out-of-pocket costs, and it assumes the car is sold at the end for its residual value of eighty-eight thousand, eight hundred forty-four dollars. If you kept the car, you would still own that value. It is a fair way to compare cars, and an unfair way to compare it with a budget.",
+   "query": "Corvette ZR1 residual value",
+   "caption": "THE ESTIMATE ASSUMES A SALE AT ~$88,844 AFTER 5 YEARS (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "Most buyers of expensive cars do not pay cash. Our sources do not give an interest rate, so we cannot compute a real payment. But we can do a simple, unrealistic calculation: the base price divided by sixty months, with no interest. By our arithmetic, that is about two thousand, nine hundred seventeen dollars a month. For the fully loaded coupe, it is about three thousand, eight hundred seventy-nine.",
+   "query": "Corvette ZR1 monthly payment",
+   "caption": "ZERO-INTEREST 60-MONTH SPLIT: BASE \u2248 $2,917/MONTH \u00b7 LOADED \u2248 $3,879/MONTH (OUR ARITHMETIC \u2014 NOT A REAL LOAN QUOTE)",
+   "cuts": 3,
+   "chapter": "If you financed it"
+  },
+  {
+   "text": "Against income, still by our arithmetic. Median household income of eighty-three thousand, seven hundred thirty dollars is about six thousand, nine hundred seventy-eight dollars a month before tax. So even with no interest at all, the base ZR1's payment would be about forty-two percent of a median household's monthly pre-tax income, and the loaded car about fifty-six percent. Real loans cost more, because they charge interest.",
+   "query": "Corvette ZR1 and monthly income",
+   "caption": "ZERO-INTEREST PAYMENT \u2248 42% (BASE) / 56% (LOADED) OF MEDIAN MONTHLY PRE-TAX INCOME (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Kelley Blue Book's estimate includes twenty thousand, four hundred seventy dollars of financing costs over five years. By our arithmetic, that is about eleven and a half percent of the page's one hundred seventy-eight thousand, one hundred ninety-five dollar price. We do not know the rate or the term KBB assumed. It simply shows that borrowing adds a visible amount to the bill.",
+   "query": "Corvette ZR1 financing",
+   "caption": "KBB FINANCING COST $20,470 \u2248 11.5% OF THE PRICE LISTED (OUR ARITHMETIC) \u00b7 RATE AND TERM NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "There are charges on top of the sticker. The G M press release says the prices exclude tax, title, licence and dealer fees. Kelley Blue Book's estimate includes fourteen thousand, one hundred thirty-eight dollars in state fees over five years. By our arithmetic, that is about eight percent of the listed price, though the page does not say which state or what it counts.",
+   "query": "Corvette ZR1 fees",
+   "caption": "STATE FEES $14,138 OVER 5 YEARS \u2248 7.9% OF THE PRICE LISTED (OUR ARITHMETIC) \u00b7 STATE NOT STATED",
+   "cuts": 3,
+   "chapter": "Taxes, fees and the guzzler tax"
+  },
+  {
+   "text": "Then the gas-guzzler tax. GM Authority says the ZR1 and the Z06 both carry a three thousand dollar tax at the E P A's ratings of twelve city, eighteen highway and fourteen combined. By our arithmetic, that is about one and seven tenths percent of the base price. It is small beside the rest, but it is a cost that a Stingray buyer, with better economy, does not face.",
+   "query": "Gas guzzler tax",
+   "caption": "$3,000 GAS-GUZZLER TAX \u2248 1.7% OF THE BASE PRICE (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The warranty comparison is worth noting. Kelley Blue Book lists the Corvette ZR1's basic cover at three years or thirty-six thousand miles. The same site lists the Ferrari two ninety-six G T B at three years with unlimited miles. For a car that costs about twice as much, the Ferrari's cover has no mileage limit, which suits drivers who actually use their cars.",
+   "query": "Warranty comparison",
+   "caption": "ZR1: 3 YR / 36,000 MILES \u00b7 296 GTB: 3 YR / UNLIMITED MILES (KBB)",
+   "cuts": 3
+  },
+  {
+   "text": "The C8 itself has become more expensive. Wikipedia says the twenty twenty base price was under sixty thousand dollars, and the twenty twenty-five coupe was sixty-nine thousand, nine hundred ninety-five. By our arithmetic, that is a rise of at least about seventeen percent in five years. The page also contains a conflict about twenty twenty-three and twenty twenty-four prices, so we only use the endpoints.",
+   "query": "Chevrolet Corvette C8 price history",
+   "caption": "BASE C8: UNDER $60,000 (2020) \u2192 $69,995 (2025) = AT LEAST ~17% (OUR ARITHMETIC) \u00b7 PAGE HAS A 2023/2024 CONFLICT",
+   "cuts": 3,
+   "chapter": "Price history of the Corvette itself"
+  },
+  {
+   "text": "The conflict: the page says the twenty twenty-three base price was sixty-five thousand, five hundred ninety-five dollars, but describes the twenty twenty-four price as rising from sixty-four thousand, five hundred. Those cannot both be right. We note it, and we avoid using either figure. When a source contradicts itself, the honest course is to say so rather than to pick a number that suits the story.",
+   "query": "Wikipedia Corvette C8 prices",
+   "caption": "2023 BASE $65,595 vs 2024 'FROM $64,500' \u2014 CONTRADICTION IN THE SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "So, can a normal person afford a Corvette ZR1? A median household would need about two years of pre-tax income for the base price alone, and about forty-two percent of a year's pre-tax income each year for five years to cover the published cost to own. That is the arithmetic. Whether it is affordable depends on savings, debts, tax and priorities, which we cannot know.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "BASE PRICE \u2248 2.1 YEARS OF MEDIAN INCOME \u00b7 5-YEAR COST \u2248 42% OF EACH YEAR'S INCOME (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "A framework, not advice"
+  },
+  {
+   "text": "What we can say is that the ZR1 is priced for buyers well above the median, and the sources agree. Kelley Blue Book's average new-vehicle price is less than a third of the cheapest ZR1's, the Census median is under half of its base price, and the dealer reports show some buyers being asked for as much as three hundred thousand dollars or more. A normal person can admire it; buying it is a different matter.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "PRICED FOR BUYERS WELL ABOVE THE MEDIAN (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "There is a cheaper route to the same badge: the Stingray, at about seventy thousand dollars. Or a used ZR1 from an earlier generation, though our sources give no used prices, so we cannot quantify that. Or simply a pickup, which for most of our channel is the practical answer. Our twenty twenty-seven Truck Buyer's Guide is linked in the description for exactly that decision.",
+   "query": "Ford F-150",
+   "caption": "CHEAPER ROUTES: STINGRAY (~$70K) \u00b7 EARLIER ZR1 (NO USED PRICES IN OUR SOURCES) \u00b7 A TRUCK \u2014 SEE THE BUYER'S GUIDE",
+   "cuts": 3
+  },
+  {
+   "text": "A caution on our method. Every figure we used is from a published source, but they come from different dates and different definitions. The cost-to-own estimate is for a twenty twenty-five car with assumptions we cannot see. The markup reports are from social media and a forum. The income figure is for twenty twenty-four. We have labelled our arithmetic, and we ask you to check the sources for your own decision.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "DIFFERENT DATES, DIFFERENT DEFINITIONS \u00b7 CHECK THE SOURCES FOR YOUR OWN DECISION",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you choose, a ZR1 at a hundred seventy-five thousand dollars, or a Stingray and a very large savings account? Tell us in the comments. In the other videos of this series, we reveal two things you may not know about the ZR1, compare it with the Ferrari two ninety-six G T B, and tell the story of America's fastest Corvette. Subscribe to Pickup Reality.",
+   "query": "Chevrolet Corvette ZR1",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

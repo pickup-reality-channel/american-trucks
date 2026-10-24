@@ -1,0 +1,11 @@
+- Chevrolet / GM, Chevrolet announces 2025 Corvette ZR1 pricing: https://news.gm.com/home.detail.html/Pages/news/us/en/2025/jan/0109-zr1.html
+- Motor1, Chevrolet Corvette ZR1 configurator fully loaded price: https://www.motor1.com/news/750492/chevrolet-corvette-zr1-configurator-fully-loaded-price/
+- Kelley Blue Book, 2025 Chevrolet Corvette ZR1 (5-year cost to own): https://www.kbb.com/chevrolet/corvette/2025/zr1/
+- Kelley Blue Book, 2024 Ferrari 296 GTB: https://www.kbb.com/ferrari/296-gtb/2024/
+- GM Authority, 2025 Corvette ZR1 fuel economy ratings released: https://gmauthority.com/blog/2025/05/2025-corvette-zr1-fuel-economy-ratings-released/
+- GM Authority, 2025 Corvette ZR1 dealer markups start rolling in: https://gmauthority.com/blog/2025/06/2025-corvette-zr1-dealer-markups-start-rolling-in/
+- GM Authority, Not all dealers are marking up the C8 Corvette ZR1: https://gmauthority.com/blog/2025/12/not-all-dealers-are-marking-up-the-c8-corvette-zr1/
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
+- Digital Dealer / Kelley Blue Book, average new-vehicle transaction price, August 2026: https://digitaldealer.com/news/kelley-blue-book-report-average-new-vehicle-transaction-price-moves-back-above-50000-in-august/173215/
+- Wikipedia, Chevrolet Corvette (C8) and Ferrari 296 GTB
+- AOL / Car and Driver data: https://www.aol.com/american-performance-cars-beat-ferraris-133047428.html
