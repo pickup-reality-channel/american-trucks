@@ -1,0 +1,5 @@
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- Top Gear, Mercedes-AMG One buying guide: https://www.topgear.com/car-reviews/mercedes-benz/amg-one/buying
+- Motor1, Mercedes-AMG won't allow Project One owners to flip their cars (2 Aug 2018): https://www.motor1.com/news/260939/mercedes-amg-project-one/
+- Motor1, This Mercedes-AMG One with 55 miles begs to be driven (12 Apr 2024): https://www.motor1.com/news/715837/amg-one-low-mileage-sale/
+- Fortune/Bloomberg, Aston Martin's most expensive Valkyrie supercar (23 Feb 2024): https://fortune.com/europe/2024/02/23/aston-martin-most-expensive-valkyrie-supercar-3-million-plus-450000-upkeep
