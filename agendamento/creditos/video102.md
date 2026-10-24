@@ -1,0 +1,139 @@
+# Photo credits: AMG One vs Aston Martin Valkyrie: The Real Difference
+
+- One scene at 2012 Pokka 1000km (138).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2012 Pokka 1000km (137).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (1060).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (1337).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (696).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (695).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (34).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (1366).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Honda NSX (NC1) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Supercars and Hypercars (16596278942).jpg by Axion23, CC BY 2.0
+- Maserati MC20 (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Ferrari Roma (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Ferrari 488 GTB (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Lamborghini Aventador LP 750-4 SV (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Ferrari 812 GTS (front three-quarter view(2)) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Lamborghini Huracán LP 610-4 (front three-quarter view) at TOKYO SUPERCAR DAY 2023 OSAKA COMIC CON.jpg by Aos.1905, CC BY-SA 4.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- Mercedes-AMG One IAA 2023 1X7A0454.jpg by Alexander-93, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3473).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG One, EMS 2024, Essen (P1032097).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Valkyrie, BAS 24, Brussels (P1170224-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Aston Martin Valkyrie, EMS 2023, Essen (P1160761-RR).jpg by MB-one, CC BY-SA 4.0
+- Aston Martin Valkyrie, TC 24, Essen (TCE42947).jpg by Matti Blume, CC BY-SA 4.0
+- 2019 Aston Martin Valkyrie AMR Pro 6.5 Front.jpg by Vauxford, CC BY-SA 4.0
+- Aston Martin Valkyrie GIMS 2024 1X7A2266.jpg by Alexander-93, CC BY-SA 4.0
+- BAS 24, Brussels (P1170498-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG HPP F1 M10 EQ Power+.jpg by 5225C, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 EQ Power+ at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Mercedes-AMG F1 M10 Engine at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0
+- Cosworth GMA engine at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- Cosworth GMA engine 2 at Quail 2023.jpg by Prova MO, CC BY-SA 4.0
+- BMW, Mercedes-Benz und Bentley Arnage (6734879129).jpg by Tobias Nordhausen from Sondershausen, Deutschland, CC BY 2.0
+- Comparison of front engine and rear engine dragster noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Researchers View the Small Low Cost Engine and the Large Quiet Engine (GRC-1972-C-00577).jpg by NASA Glenn Research Center, Public domain
+- Austin Mini four cylinder engine vs Geo Metro three cylinder engine (16536433816).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0
+- Hybrid manufacturing systems (53474579879).jpg by Oak Ridge National Laboratory, CC BY 2.0
+- Prius 2005 Hybrid battery.jpg by User:Ww2censor, CC BY-SA 4.0
+- Honda Hybrid System 01.JPG by Hatsukari715, Public domain
+- Alpine Alpenglow (53077056777).jpg by Kevin Decherf from France, CC BY-SA 2.0
+- Alpine Alpenglow (53078127503).jpg by Kevin Decherf from France, CC BY-SA 2.0
+- MAP 2024 Alpine Alpenglow Hy6 7.jpg by WikiGenesis, CC BY 4.0
+- VCR-engine dyno testing P1505 Heilbronn University.jpg by Vcrtech, CC BY-SA 4.0
+- V11 dyno print.jpg by Tutkamestari, CC BY-SA 3.0
+- Mobile bike dyno run.jpg by The359, CC BY-SA 2.0
+- 9X8LMH.JPG by BrokenGearbox, CC BY 4.0
+- GIMS 2024, Le Grand-Saconnex (GIMS0221).jpg by Matti Blume, CC BY-SA 4.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0136-2).jpg by Matti Blume, CC BY-SA 4.0
+- ESO - The Carina Nebula (by).jpg by ESO/IDA/Danish 1.5 m/R.Gendler, J-E. Ovaldsen, C. Thöne, and C. Feron., CC BY 4.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Aston Martin Valkyrie AMR Pro Auto Zuerich 2023 1X7A1482.jpg by Alexander-93, CC BY-SA 4.0
+- Aston Martin Valkyrie AMR Pro Auto Zuerich 2023 1X7A1481.jpg by Alexander-93, CC BY-SA 4.0
+- 2023 Aston Martin Valkyrie AMR Pro SCD26.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie AMR Pro at GIMS 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Aston Martin Valkyrie AMR Pro at GIMS 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Aston Martin Valkyrie AMR Pro at GIMS 2018 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Audi R8 LMP, Le Mans 2000, Front (museum mobile 2013-09-03).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Panoz LMP-1 Roadster S Winner 1999 Grand Prix of Mosport.jpg by TorontoGuy79, CC BY-SA 4.0
+- LOLA B98 10 RETROMOBILE 2023 (52677751817).jpg by ERIC  SALARD from Paris, FRANCE, CC BY-SA 2.0
+- Aston Martin Valkyrie (33910291736).jpg by Adam Court, CC BY 2.0
+- VISTA's infrared view of the Lagoon Nebula (Messier 8).jpg by ESO/VVV, CC BY 4.0
+- VST images the Lagoon Nebula.jpg by ESO/VPHAS+ team, CC BY 4.0
+- 2014 Aston Martin DB10 4.7.jpg by Vauxford, CC BY-SA 4.0
+- 2019 Aston Martin DBS Superleggera Volante 5.2.jpg by Vauxford, CC BY-SA 4.0
+- 2019 Aston Martin Vantage V8 Automatic 4.0 (1).jpg by Vauxford, CC BY-SA 4.0
+- Bugatti Veyron 16.4 Super Sport - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Bugatti Veyron Innenraum 489.JPG by Michael KR, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Aston Martin Valkyrie Spider Supercarfest24.jpg by MrWalkr, CC BY-SA 4.0
+- Aston Martin Valkyrie Spider SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- 2024 Aston Martin Valkyrie Spider SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- AMG Mercedes-Benz C204 (DTM).jpg by Stefan Krause, Germany, CC BY-SA 3.0
+- Mercedes-AMG One, Techno-Classica 2025, Essen (P1045566).jpg by Matti Blume, CC BY-SA 4.0
+- Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg by Matti Blume, CC BY-SA 4.0
+- 2026 Ferrari 849 Testarossa Assetto Fiorano in Blu Corsa.jpg by Andrew Bone from Weymouth, England, UK., CC BY 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4137).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4138).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Formula 1 Hungarian Grand Prix 2019 drivers' parade.jpg by Michał Obrochta, CC BY-SA 4.0
+- PikiWiki Israel 35716 Formula 1 driver.jpg by Asaf Livne, CC BY 2.5
+- 2017 Formula 1 Heineken Chinese Grand PrixDriver Track Parade (34160145685).jpg by emperornie, CC BY-SA 2.0
+- Car Park at Ashford Designer Outlet - geograph.org.uk - 5865157.jpg by PAUL FARMER, CC BY-SA 2.0
+- Car Park at Ashford Designer Outlet - geograph.org.uk - 3180119.jpg by Richard Rogerson, CC BY-SA 2.0
+- Road and avenue of trees in the car park, Designer Outlet, York - geograph.org.uk - 6122379.jpg by Humphrey Bolton, CC BY-SA 2.0
+- Christian Horner and Adrian Newey 2013 Catalonia test (19-22 Feb).jpg by Morio, CC BY-SA 3.0
+- Spanish Grand Prix 2009.jpg by janebelindasmith, CC BY 2.0
+- Adrian Newey at the Melbourne Walk during the 2026 Australian Grand Prix (028A8660).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Mercedes Benz 300 SL Gullwing (8649257974).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- 13-06-21-heiligendamm-by-RalfR-01.jpg by Ralf Roletschek, CC BY-SA 3.0
+- Camry Hybrid 2012 07 VA 4071 low battery indicator.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0
+- FUGA HYBRID Battery (4099957199).jpg by TTTNIS, CC BY 2.0
+- CSIRO ScienceImage 11473 CSIRO engineers refitting a plugin hybrid electric trial car with a larger battery pack and battery charger which can plug into a standard household power point or a special charging point.jpg by division, CSIRO, CC BY 3.0
+- 2015 Ferrari FXX-K in Shanghai.jpg by emperornie, CC BY-SA 2.0 it
+- Ferrari FXX K Evo - Flickr - Alexandre Prevot.jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari FXX K Evo no. 93.jpg by J Harwood Images, CC BY-SA 2.0
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron Wheel (4664245920).jpg by THOR, CC BY 2.0
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0
+- Lykan Hypersport - Abu-Dhabi Police Edition.jpeg by Schitzique, CC BY-SA 4.0
+- Lykan Hypersport - Abu-Dhabi Police Edition (2).jpeg by Schitzique, CC BY-SA 4.0
+- 2016-03-01 Geneva Motor Show 0992.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0
+- Lagoon Nebula (ESO).jpg by ESO/S. Guisard, CC BY 4.0
+- Eta Carinae Nebula 1.jpg by Hubble image: NASA, ESA, N. Smith (University of California, Berkeley), and The Hubble Heritage Team (STScI/AURA)
+CTIO data: N. Smith (University of California, Berkeley) and NOAO/AURA/NSF, Public domain
+- 2023 Aston Martin Valkyrie Rear.jpg by MrWalkr, CC BY-SA 4.0
+- One scene at 2012 Pokka 1000km (120).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2012 Pokka 1000km (119).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2019 Suzuka 300km (326).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Supercar Lineup (18092106572).jpg by Axion23, CC BY 2.0
+- Spyker C8 Aileron.jpg by Laszlo Daroczy, CC BY 2.0
+- Maserati Birdcage 75th, GIMS 2018, Le Grand-Saconnex (1X7A1395).jpg by Matti Blume, CC BY-SA 4.0
+- Ford Mustang Supercar of Chaz Mostert at the 2025 Adelaide Grand Final.jpg by Yu Chu Chin, CC BY-SA 4.0
+- Autobau supercars 24.jpg by Ank Kumar, CC BY-SA 4.0
+- Autobau supercars 38.jpg by Ank Kumar, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (683).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (684).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- One scene at 2020 FUJIMAKI GROUP SUZUKA 300km (1775).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Mercedes-AMG One: https://en.wikipedia.org/wiki/Mercedes-AMG_One
+- Wikipedia, Aston Martin Valkyrie: https://en.wikipedia.org/wiki/Aston_Martin_Valkyrie
+- Fortune/Bloomberg, Aston Martin's most expensive Valkyrie supercar (23 Feb 2024): https://fortune.com/europe/2024/02/23/aston-martin-most-expensive-valkyrie-supercar-3-million-plus-450000-upkeep
+- Automotive News Europe, Aston Martin Valkyrie deliveries delayed by electronics issues: https://europe.autonews.com/automakers/aston-martin-valkyrie-deliveries-delayed-electronics-issues-report-says
+- CarAdvice, Mercedes-AMG One delayed nine months: https://www.caradvice.com.au/news/mercedes-amg-one-delayed/
+- Autocar, Mercedes-AMG One delay: https://www.autocar.co.uk/node/102901
+- Top Gear, The Mercedes-AMG One won't compete at Le Mans (11 Sept 2019): https://www.topgear.com/car-news/frankfurt-motor-show/mercedes-amg-one-wont-compete-le-mans
