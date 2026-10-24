@@ -1,5 +1,5 @@
 """Download real photos per scene from Wikimedia Commons (several per scene for fast cuts) and record license/credit."""
-import json, sys, time, pathlib, requests
+import json, os, sys, time, pathlib, requests
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "pickup-reality-channel/1.0 (github.com/viniciushoscher-ctrl/american-trucks)"}
@@ -57,6 +57,9 @@ def pick(query, used):
     return None
 
 
+DRY = bool(os.environ.get("DRY"))  # DRY=1: only search and print which photo each scene would get (no downloads)
+
+
 def main(video):
     d = pathlib.Path("videos") / video
     script = json.loads((d / "script.json").read_text())
@@ -70,13 +73,16 @@ def main(video):
             while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
                 q = " ".join(q.split()[:-1]); m = pick(q, used)
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
+                if DRY: print("SCENE", i, k, "|", s["query"], "|", "REUSE" if last else "NONE"); last = last or True; continue
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
                 f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
             used.add(m["title"])
+            if DRY:
+                print("SCENE", i, k, "|", s["query"], "|", m["title"]); last = True; continue
             f.write_bytes(download(m["url"])); last = f
             credits.append({**m, "scene": i, "cut": k})
             print(i, k, m["title"], m["license"])
-    (d / "credits.json").write_text(json.dumps(credits, indent=2))
+    if not DRY: (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 
 if __name__ == "__main__":
