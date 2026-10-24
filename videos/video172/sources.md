@@ -1,0 +1,12 @@
+- Wikipedia, Toyota 2000GT: https://en.wikipedia.org/wiki/Toyota_2000GT
+- Wikipedia, Nissan S30: https://en.wikipedia.org/wiki/Nissan_S30
+- Wikipedia, Nissan Z: https://en.wikipedia.org/wiki/Nissan_Z
+- MotorPress via The Citizen (Matthys Ferreira), One of three 2000GTs made to ride again, 8 Mar 2021: https://www.citizen.co.za/review-online/uncategorized/2021/03/08/one-of-three-2000gts-made-to-ride-again/
+- BusinessDay, Toyota SA restores ultra-rare 2000 GT worth R30m, 18 Oct 2022: https://www.businessday.co.za/bd/life/motoring/2022-10-18-toyota-sa-restores-ultra-rare-2000-gt-worth-r30m
+- Toyota UK Magazine, Classic Toyota 2000GT returned to former glory, 6 Dec 2012: https://mag.toyota.co.uk/exclusive-toyota-2000gt-restoration/
+- Classic & Sports Car, Toyota-Shelby 2000GT at Gooding Amelia Island, 4 Mar 2022
+- Hagerty Media, Toyota-Shelby 2000GT sale record, 7 Mar 2022
+- Hagerty Valuation Tools, 1967 Toyota 2000GT: https://hagerty.com/apps/valuationtools/1967-Toyota-2000GT
+- Shannons Club, Datsun Z cars: Japan's GT redefines the breed: https://club.shannons.com.au/club/news/datsun-z-cars-japans-gt-redefines-the-breed
+- Sports Car Market, Toyota 2000GT profile and auction history
+- Japanese Nostalgic Car, Tree-damaged Toyota 2000GT arrives at repair shop, 19 Jun 2014: https://japanesenostalgiccar.com/news-tree-damaged-toyota-2000gt-arrives-at-repair-shop/
