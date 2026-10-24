@@ -1,0 +1,2227 @@
+1
+00:00:00,000 --> 00:00:02,637
+Why did the Bugatti Veyron almost never
+
+2
+00:00:02,637 --> 00:00:03,111
+happen?
+
+3
+00:00:03,291 --> 00:00:04,934
+Here is the honest version,
+
+4
+00:00:04,934 --> 00:00:06,820
+which starts with a correction.
+
+5
+00:00:07,000 --> 00:00:09,126
+None of our sources says the Veyron
+
+6
+00:00:09,126 --> 00:00:10,402
+was nearly cancelled.
+
+7
+00:00:10,582 --> 00:00:12,714
+What they do say is a story
+
+8
+00:00:12,714 --> 00:00:14,293
+of a failed revival,
+
+9
+00:00:14,293 --> 00:00:17,214
+a chairman's pitch on a bullet train,
+
+10
+00:00:17,214 --> 00:00:19,582
+an engine that was redesigned,
+
+11
+00:00:19,582 --> 00:00:22,582
+parts that failed at speeds nobody had
+
+12
+00:00:22,582 --> 00:00:24,477
+tested, delays of years,
+
+13
+00:00:24,477 --> 00:00:27,477
+and, reportedly, a loss of millions of
+
+14
+00:00:27,477 --> 00:00:29,135
+dollars on every car.
+
+15
+00:00:29,315 --> 00:00:30,608
+That is the story,
+
+16
+00:00:30,608 --> 00:00:32,403
+with every claim sourced.
+
+17
+00:00:32,754 --> 00:00:36,136
+We read Wikipedia's pages on the Veyron,
+
+18
+00:00:36,136 --> 00:00:38,672
+the Chiron, the EB one ten and
+
+19
+00:00:38,672 --> 00:00:43,154
+Bugatti Automobiles, Motor One's twenty-year feature,
+
+20
+00:00:43,154 --> 00:00:45,099
+Top Gear, Car magazine,
+
+21
+00:00:45,099 --> 00:00:46,198
+and Jalopnik.
+
+22
+00:00:46,378 --> 00:00:49,044
+When two sources give different dates or
+
+23
+00:00:49,044 --> 00:00:50,511
+numbers, we show both.
+
+24
+00:00:50,691 --> 00:00:52,819
+Where we do the arithmetic,
+
+25
+00:00:52,819 --> 00:00:54,395
+we label it as ours.
+
+26
+00:00:54,575 --> 00:00:56,511
+And where a claim is a quote,
+
+27
+00:00:56,511 --> 00:00:57,779
+we say who said it.
+
+28
+00:00:58,129 --> 00:01:01,066
+The story starts with an earlier failure.
+
+29
+00:01:01,246 --> 00:01:04,140
+Wikipedia says Romano Artioli's side paid for
+
+30
+00:01:04,140 --> 00:01:06,455
+the Bugatti brand on the eleventh of
+
+31
+00:01:06,455 --> 00:01:08,192
+May, nineteen eighty-seven,
+
+32
+00:01:08,192 --> 00:01:10,893
+and founded Bugatti Automobili in Italy on
+
+33
+00:01:10,893 --> 00:01:12,566
+the fourteenth of October.
+
+34
+00:01:12,746 --> 00:01:14,923
+The brand had been absent from the
+
+35
+00:01:14,923 --> 00:01:17,228
+car industry for nearly forty years,
+
+36
+00:01:17,228 --> 00:01:18,829
+since nineteen fifty-two.
+
+37
+00:01:19,009 --> 00:01:21,447
+The result was the EB one ten,
+
+38
+00:01:21,447 --> 00:01:24,698
+unveiled on the fourteenth of September,
+
+39
+00:01:24,698 --> 00:01:27,299
+nineteen ninety-one, near Paris.
+
+40
+00:01:27,649 --> 00:01:29,796
+The EB one ten was quick.
+
+41
+00:01:29,976 --> 00:01:32,846
+Wikipedia lists the GT at five hundred
+
+42
+00:01:32,846 --> 00:01:34,659
+sixty metric horsepower,
+
+43
+00:01:34,659 --> 00:01:37,227
+zero to one hundred in three point
+
+44
+00:01:37,227 --> 00:01:38,511
+four six seconds,
+
+45
+00:01:38,511 --> 00:01:40,928
+and a top speed of three hundred
+
+46
+00:01:40,928 --> 00:01:43,194
+forty-two kilometres per hour,
+
+47
+00:01:43,194 --> 00:01:45,762
+and the Super Sport at six hundred
+
+48
+00:01:45,762 --> 00:01:48,707
+twelve, three point two six seconds and
+
+49
+00:01:48,707 --> 00:01:50,596
+three hundred fifty-five.
+
+50
+00:01:50,776 --> 00:01:53,156
+A hundred and thirty-nine were built.
+
+51
+00:01:53,336 --> 00:01:54,465
+By our arithmetic,
+
+52
+00:01:54,465 --> 00:01:56,221
+that is less than a third of
+
+53
+00:01:56,221 --> 00:01:58,730
+the four hundred fifty Veyrons that came
+
+54
+00:01:58,730 --> 00:01:59,106
+later.
+
+55
+00:01:59,456 --> 00:02:00,814
+It did not last.
+
+56
+00:02:00,994 --> 00:02:05,183
+Wikipedia says production ran from nineteen ninety-one
+
+57
+00:02:05,183 --> 00:02:07,277
+until nineteen ninety-five,
+
+58
+00:02:07,277 --> 00:02:09,759
+when the company was liquidated.
+
+59
+00:02:09,939 --> 00:02:12,892
+The causes it cites are Artioli's purchase
+
+60
+00:02:12,892 --> 00:02:15,564
+of Lotus Cars for about thirty million
+
+61
+00:02:15,564 --> 00:02:17,884
+pounds, or fifty million dollars,
+
+62
+00:02:17,884 --> 00:02:20,626
+spending on the EB one twelve four-door
+
+63
+00:02:20,626 --> 00:02:24,211
+saloon, and missed supplier payments since nineteen
+
+64
+00:02:24,211 --> 00:02:25,125
+ninety-three.
+
+65
+00:02:25,305 --> 00:02:28,116
+So a revived Bugatti had gone bankrupt
+
+66
+00:02:28,116 --> 00:02:30,483
+within four years of its launch.
+
+67
+00:02:30,834 --> 00:02:32,563
+The leftovers were scattered.
+
+68
+00:02:32,743 --> 00:02:36,546
+Wikipedia says Dauer Racing bought the semi-finished
+
+69
+00:02:36,546 --> 00:02:37,643
+cars and parts,
+
+70
+00:02:37,643 --> 00:02:40,422
+Dauer Sportwagen built the last car in
+
+71
+00:02:40,422 --> 00:02:41,665
+two thousand two,
+
+72
+00:02:41,665 --> 00:02:44,371
+and Dauer itself went bankrupt in two
+
+73
+00:02:44,371 --> 00:02:45,468
+thousand eight.
+
+74
+00:02:45,648 --> 00:02:49,031
+B Engineering used remaining chassis for its
+
+75
+00:02:49,031 --> 00:02:50,415
+Edonis sports car,
+
+76
+00:02:50,415 --> 00:02:53,490
+and provided spare parts and service for
+
+77
+00:02:53,490 --> 00:02:56,258
+the original EB one ten until twenty
+
+78
+00:02:56,258 --> 00:02:57,258
+twenty-three.
+
+79
+00:02:57,438 --> 00:03:00,349
+Michael Schumacher owned a yellow Super Sport
+
+80
+00:03:00,349 --> 00:03:03,389
+from early nineteen ninety-four to two thousand
+
+81
+00:03:03,389 --> 00:03:03,777
+three.
+
+82
+00:03:04,127 --> 00:03:07,029
+Motor One tells the same part briefly.
+
+83
+00:03:07,209 --> 00:03:10,594
+Bugatti was revived in nineteen eighty-seven under
+
+84
+00:03:10,594 --> 00:03:13,303
+Romano Artioli, whose EB one ten arrived
+
+85
+00:03:13,303 --> 00:03:14,860
+in nineteen ninety-one.
+
+86
+00:03:15,040 --> 00:03:17,287
+The EB one ten was a failure,
+
+87
+00:03:17,287 --> 00:03:20,077
+it says, and Artioli sold Bugatti to
+
+88
+00:03:20,077 --> 00:03:21,704
+the Volkswagen Group.
+
+89
+00:03:21,884 --> 00:03:24,592
+So the name that Volkswagen bought was
+
+90
+00:03:24,592 --> 00:03:26,944
+a name that had just gone through
+
+91
+00:03:26,944 --> 00:03:29,510
+a bankruptcy, which is a risky thing
+
+92
+00:03:29,510 --> 00:03:31,149
+to build a supercar on.
+
+93
+00:03:31,499 --> 00:03:34,434
+One more detail of the EB one
+
+94
+00:03:34,434 --> 00:03:35,446
+ten story.
+
+95
+00:03:35,626 --> 00:03:39,097
+Wikipedia says Michael Schumacher bought a yellow
+
+96
+00:03:39,097 --> 00:03:42,071
+Super Sport in early nineteen ninety-four,
+
+97
+00:03:42,071 --> 00:03:44,196
+and after a crash into a truck
+
+98
+00:03:44,196 --> 00:03:46,179
+he blamed inadequate brakes.
+
+99
+00:03:46,359 --> 00:03:48,846
+He kept the car until two thousand
+
+100
+00:03:48,846 --> 00:03:49,285
+three.
+
+101
+00:03:49,465 --> 00:03:52,000
+We include it because it shows how
+
+102
+00:03:52,000 --> 00:03:53,939
+the EB one ten lived on in
+
+103
+00:03:53,939 --> 00:03:57,593
+public memory, and because the Veyron's engineers
+
+104
+00:03:57,593 --> 00:03:59,233
+had to deliver brakes,
+
+105
+00:03:59,233 --> 00:04:01,619
+tyres and cooling to a level the
+
+106
+00:04:01,619 --> 00:04:03,409
+EB one ten never had to.
+
+107
+00:04:03,759 --> 00:04:05,918
+Where it was reborn matters too.
+
+108
+00:04:06,098 --> 00:04:08,648
+Wikipedia says the EB one ten was
+
+109
+00:04:08,648 --> 00:04:11,662
+launched near the Grande Arche in Paris
+
+110
+00:04:11,662 --> 00:04:14,058
+on the fourteenth of September,
+
+111
+00:04:14,058 --> 00:04:17,535
+nineteen ninety-one, followed by a launch day
+
+112
+00:04:17,535 --> 00:04:18,463
+in Molsheim.
+
+113
+00:04:18,643 --> 00:04:22,287
+Volkswagen's Bugatti bought the Château Saint-Jean,
+
+114
+00:04:22,287 --> 00:04:25,430
+an eighteen fifty-six building that had been
+
+115
+00:04:25,430 --> 00:04:28,503
+Ettore Bugatti's guest house in Dorlisheim,
+
+116
+00:04:28,503 --> 00:04:29,932
+as its headquarters,
+
+117
+00:04:29,932 --> 00:04:33,576
+and officially inaugurated the new Molsheim atelier
+
+118
+00:04:33,576 --> 00:04:35,433
+on the third of September,
+
+119
+00:04:35,433 --> 00:04:36,719
+two thousand five.
+
+120
+00:04:37,070 --> 00:04:38,567
+Time without a Bugatti.
+
+121
+00:04:38,747 --> 00:04:40,108
+By our arithmetic,
+
+122
+00:04:40,108 --> 00:04:43,436
+the brand was absent from nineteen fifty-two
+
+123
+00:04:43,436 --> 00:04:45,175
+to nineteen ninety-one,
+
+124
+00:04:45,175 --> 00:04:48,426
+thirty-nine years, then produced the EB one
+
+125
+00:04:48,426 --> 00:04:52,434
+ten from nineteen ninety-one to nineteen ninety-five,
+
+126
+00:04:52,434 --> 00:04:55,912
+and was absent again from nineteen ninety-five
+
+127
+00:04:55,912 --> 00:04:59,391
+until the Veyron's production in September two
+
+128
+00:04:59,391 --> 00:05:01,735
+thousand five, about ten years.
+
+129
+00:05:01,915 --> 00:05:04,210
+So for most of half a century,
+
+130
+00:05:04,210 --> 00:05:06,429
+a new Bugatti was not on sale
+
+131
+00:05:06,429 --> 00:05:09,183
+anywhere, and the Veyron ended that.
+
+132
+00:05:09,533 --> 00:05:11,379
+Now Ferdinand Piëch.
+
+133
+00:05:11,559 --> 00:05:13,027
+Motor One says Piëch,
+
+134
+00:05:13,027 --> 00:05:15,124
+grandson of Ferdinand Porsche,
+
+135
+00:05:15,124 --> 00:05:18,969
+chaired the Volkswagen Group from nineteen ninety-three
+
+136
+00:05:18,969 --> 00:05:21,556
+and is credited with the Porsche nine
+
+137
+00:05:21,556 --> 00:05:24,772
+seventeen, a five-cylinder diesel at Mercedes,
+
+138
+00:05:24,772 --> 00:05:27,499
+and the Audi five-cylinder and Quattro.
+
+139
+00:05:27,679 --> 00:05:29,544
+In nineteen ninety-seven,
+
+140
+00:05:29,544 --> 00:05:33,200
+it says, he pitched an eighteen-cylinder W-engine
+
+141
+00:05:33,200 --> 00:05:36,109
+car of a thousand metric horsepower and
+
+142
+00:05:36,109 --> 00:05:39,690
+four hundred kilometres per hour to Volkswagen's
+
+143
+00:05:39,690 --> 00:05:42,226
+engine head on a Shinkansen train.
+
+144
+00:05:42,577 --> 00:05:46,031
+Volkswagen bought Bugatti in nineteen ninety-eight,
+
+145
+00:05:46,031 --> 00:05:47,046
+Motor One says.
+
+146
+00:05:47,226 --> 00:05:50,064
+Wikipedia's Veyron page says the Group acquired
+
+147
+00:05:50,064 --> 00:05:52,841
+the Bugatti name in May nineteen ninety-eight,
+
+148
+00:05:52,841 --> 00:05:55,739
+and its Bugatti Automobiles page says Volkswagen
+
+149
+00:05:55,739 --> 00:05:59,120
+established Bugatti Automobiles as a wholly-owned French
+
+150
+00:05:59,120 --> 00:06:01,776
+subsidiary on the twenty-second of December,
+
+151
+00:06:01,776 --> 00:06:04,613
+nineteen ninety-eight, taking over the name and
+
+152
+00:06:04,613 --> 00:06:06,244
+design rights from Artioli.
+
+153
+00:06:06,424 --> 00:06:09,790
+The two Wikipedia dates describe different steps.
+
+154
+00:06:10,141 --> 00:06:12,455
+Motor One says Italdesign built the EB
+
+155
+00:06:12,455 --> 00:06:13,612
+one eighteen coupé,
+
+156
+00:06:13,612 --> 00:06:15,439
+the EB two eighteen four-door,
+
+157
+00:06:15,439 --> 00:06:18,240
+and the nineteen ninety-nine EB eighteen three
+
+158
+00:06:18,240 --> 00:06:20,797
+Chiron, and that Bugatti then designed the
+
+159
+00:06:20,797 --> 00:06:22,807
+EB eighteen four Veyron in-house.
+
+160
+00:06:22,987 --> 00:06:26,326
+So there were several Bugatti concepts before
+
+161
+00:06:26,326 --> 00:06:28,849
+the Veyron, and the Veyron was not
+
+162
+00:06:28,849 --> 00:06:31,149
+the only idea Volkswagen tried.
+
+163
+00:06:31,329 --> 00:06:33,552
+The sources do not say what happened
+
+164
+00:06:33,552 --> 00:06:34,417
+to the others.
+
+165
+00:06:34,767 --> 00:06:38,079
+The Veyron concept appeared at the Tokyo
+
+166
+00:06:38,079 --> 00:06:41,640
+Motor Show in October nineteen ninety-nine,
+
+167
+00:06:41,640 --> 00:06:42,882
+Wikipedia says.
+
+168
+00:06:43,062 --> 00:06:45,753
+The EB sixteen four was shown in
+
+169
+00:06:45,753 --> 00:06:48,781
+two thousand with the W sixteen used
+
+170
+00:06:48,781 --> 00:06:49,958
+in production.
+
+171
+00:06:50,138 --> 00:06:52,873
+At the two thousand Geneva Motor Show,
+
+172
+00:06:52,873 --> 00:06:53,952
+Motor One says,
+
+173
+00:06:53,952 --> 00:06:56,831
+Piëch announced a target of one thousand
+
+174
+00:06:56,831 --> 00:07:00,357
+one metric horsepower and four hundred kilometres
+
+175
+00:07:00,357 --> 00:07:01,005
+per hour.
+
+176
+00:07:01,185 --> 00:07:04,989
+Wikipedia's Bugatti page says the concept claimed
+
+177
+00:07:04,989 --> 00:07:07,629
+a top speed of four hundred seven.
+
+178
+00:07:07,979 --> 00:07:09,047
+Look at the target.
+
+179
+00:07:09,227 --> 00:07:12,268
+One thousand one metric horsepower is nine
+
+180
+00:07:12,268 --> 00:07:14,586
+hundred eighty-seven horsepower,
+
+181
+00:07:14,586 --> 00:07:17,411
+and four hundred kilometres per hour is
+
+182
+00:07:17,411 --> 00:07:20,308
+about two hundred forty-eight and a half
+
+183
+00:07:20,308 --> 00:07:21,394
+miles per hour.
+
+184
+00:07:21,574 --> 00:07:23,082
+By our arithmetic,
+
+185
+00:07:23,082 --> 00:07:26,770
+that is seventy-nine percent more power than
+
+186
+00:07:26,770 --> 00:07:29,451
+the EB one ten GT's five hundred
+
+187
+00:07:29,451 --> 00:07:33,223
+sixty, and a top speed fifty-eight kilometres
+
+188
+00:07:33,223 --> 00:07:35,653
+per hour above the EB one ten
+
+189
+00:07:35,653 --> 00:07:38,083
+GT's three hundred forty-two.
+
+190
+00:07:38,263 --> 00:07:39,947
+The leap was enormous.
+
+191
+00:07:40,297 --> 00:07:40,877
+Dr.
+
+192
+00:07:41,057 --> 00:07:44,923
+Franz-Josef Paefgen, former Bugatti president,
+
+193
+00:07:44,923 --> 00:07:46,856
+is quoted by Motor One:
+
+194
+00:07:46,856 --> 00:07:49,630
+the Veyron is a typical Piëch car
+
+195
+00:07:49,630 --> 00:07:53,496
+because he is totally dedicated to engineering
+
+196
+00:07:53,496 --> 00:07:54,420
+challenges.
+
+197
+00:07:54,600 --> 00:07:57,403
+Bob Lutz recalled that Piëch told body
+
+198
+00:07:57,403 --> 00:08:00,058
+engineers they would be fired in six
+
+199
+00:08:00,058 --> 00:08:02,492
+weeks if they did not improve the
+
+200
+00:08:02,492 --> 00:08:04,557
+Mark four Golf's panel gaps,
+
+201
+00:08:04,557 --> 00:08:05,885
+and that they did.
+
+202
+00:08:06,065 --> 00:08:07,337
+These are anecdotes,
+
+203
+00:08:07,337 --> 00:08:09,689
+but they describe the pressure on the
+
+204
+00:08:09,689 --> 00:08:10,198
+project.
+
+205
+00:08:10,549 --> 00:08:13,509
+Motor One says that Karl-Heinz Neumann was
+
+206
+00:08:13,509 --> 00:08:16,821
+Volkswagen's engine head when Piëch pitched him
+
+207
+00:08:16,821 --> 00:08:18,583
+in nineteen ninety-seven.
+
+208
+00:08:18,763 --> 00:08:22,860
+Wikipedia's Bugatti page says Neumann became president
+
+209
+00:08:22,860 --> 00:08:26,425
+of the formally incorporated Bugatti company on
+
+210
+00:08:26,425 --> 00:08:28,701
+the twenty-second of December,
+
+211
+00:08:28,701 --> 00:08:29,688
+two thousand.
+
+212
+00:08:29,868 --> 00:08:31,250
+By our arithmetic,
+
+213
+00:08:31,250 --> 00:08:33,246
+that is three years later.
+
+214
+00:08:33,426 --> 00:08:35,509
+So the person who heard the pitch
+
+215
+00:08:35,509 --> 00:08:37,719
+on the train later ran the company,
+
+216
+00:08:37,719 --> 00:08:39,549
+according to our two sources,
+
+217
+00:08:39,549 --> 00:08:41,948
+though neither connects the two facts.
+
+218
+00:08:42,298 --> 00:08:43,877
+The engine changed.
+
+219
+00:08:44,057 --> 00:08:46,951
+Motor One says the plan moved from
+
+220
+00:08:46,951 --> 00:08:50,101
+a naturally aspirated W eighteen to a
+
+221
+00:08:50,101 --> 00:08:52,485
+quad-turbocharged W sixteen.
+
+222
+00:08:52,665 --> 00:08:56,027
+Wikipedia describes the final engine as seven
+
+223
+00:08:56,027 --> 00:08:59,986
+thousand nine hundred ninety-three cubic centimetres,
+
+224
+00:08:59,986 --> 00:09:04,319
+quad-turbocharged, with sixty-four valves and one thousand
+
+225
+00:09:04,319 --> 00:09:07,456
+one metric horsepower in the standard car.
+
+226
+00:09:07,636 --> 00:09:09,195
+By our arithmetic,
+
+227
+00:09:09,195 --> 00:09:13,177
+the production car matches the target exactly:
+
+228
+00:09:13,177 --> 00:09:14,649
+one thousand one.
+
+229
+00:09:14,999 --> 00:09:16,937
+Parts failed at speed.
+
+230
+00:09:17,117 --> 00:09:20,101
+Motor One quotes chief engineer Dr.
+
+231
+00:09:20,281 --> 00:09:23,595
+Wolfgang Schreiber, who recalled that above two
+
+232
+00:09:23,595 --> 00:09:27,120
+hundred twenty-three miles per hour the driveshaft
+
+233
+00:09:27,120 --> 00:09:29,094
+seals expanded and shredded,
+
+234
+00:09:29,094 --> 00:09:32,338
+and the rear constant-velocity boots flung out
+
+235
+00:09:32,338 --> 00:09:33,818
+their oil and failed.
+
+236
+00:09:33,998 --> 00:09:37,121
+These problems appear only at speeds that
+
+237
+00:09:37,121 --> 00:09:39,407
+no road car had run in series,
+
+238
+00:09:39,407 --> 00:09:41,692
+and the sources do not say how
+
+239
+00:09:41,692 --> 00:09:43,368
+long they took to fix.
+
+240
+00:09:43,718 --> 00:09:45,366
+Tyres were a limit too.
+
+241
+00:09:45,546 --> 00:09:48,006
+Car magazine quotes Andy Wallace,
+
+242
+00:09:48,006 --> 00:09:49,944
+Bugatti's official driver,
+
+243
+00:09:49,944 --> 00:09:53,373
+recalling that Michelin said above two hundred
+
+244
+00:09:53,373 --> 00:09:56,653
+forty-eight miles per hour the radials would
+
+245
+00:09:56,653 --> 00:09:57,771
+simply explode.
+
+246
+00:09:57,951 --> 00:10:00,810
+The Michelin PAX tyres that were used
+
+247
+00:10:00,810 --> 00:10:04,055
+are designed to last about fifteen minutes
+
+248
+00:10:04,055 --> 00:10:05,059
+at top speed,
+
+249
+00:10:05,059 --> 00:10:06,450
+the magazine says.
+
+250
+00:10:06,630 --> 00:10:09,785
+Wikipedia lists ten radiators to keep the
+
+251
+00:10:09,785 --> 00:10:12,017
+engine and transmission cool.
+
+252
+00:10:12,367 --> 00:10:15,159
+The solutions are visible in the finished
+
+253
+00:10:15,159 --> 00:10:15,432
+car.
+
+254
+00:10:15,612 --> 00:10:18,309
+The speed key lowers the front ride
+
+255
+00:10:18,309 --> 00:10:22,085
+height from one hundred twenty-five to sixty-five
+
+256
+00:10:22,085 --> 00:10:24,782
+millimetres, according to Top Gear,
+
+257
+00:10:24,782 --> 00:10:27,864
+closes the diffuser flaps and lowers the
+
+258
+00:10:27,864 --> 00:10:30,484
+wing, and the car refuses to enter
+
+259
+00:10:30,484 --> 00:10:32,950
+the mode if the tyre pressure is
+
+260
+00:10:32,950 --> 00:10:34,106
+slightly wrong.
+
+261
+00:10:34,286 --> 00:10:37,058
+Car magazine says the wing at fifty-five
+
+262
+00:10:37,058 --> 00:10:39,968
+degrees alone generates zero point eight g
+
+263
+00:10:39,968 --> 00:10:40,730
+of braking.
+
+264
+00:10:40,910 --> 00:10:43,377
+These are answers to problems that the
+
+265
+00:10:43,377 --> 00:10:44,416
+sources hint at.
+
+266
+00:10:44,766 --> 00:10:46,147
+All this took time.
+
+267
+00:10:46,327 --> 00:10:49,929
+Wikipedia says Volkswagen Group decided to build
+
+268
+00:10:49,929 --> 00:10:52,030
+the car in two thousand one,
+
+269
+00:10:52,030 --> 00:10:55,557
+the first roadworthy prototype was completed in
+
+270
+00:10:55,557 --> 00:10:57,509
+August two thousand three,
+
+271
+00:10:57,509 --> 00:11:00,961
+and production began in September two thousand
+
+272
+00:11:00,961 --> 00:11:04,938
+five after technical problems caused repeated delays.
+
+273
+00:11:05,118 --> 00:11:06,459
+By our arithmetic,
+
+274
+00:11:06,459 --> 00:11:08,769
+that is two years and one month
+
+275
+00:11:08,769 --> 00:11:10,931
+from prototype to production,
+
+276
+00:11:10,931 --> 00:11:13,837
+and four years from the build decision.
+
+277
+00:11:14,187 --> 00:11:15,488
+By our arithmetic,
+
+278
+00:11:15,488 --> 00:11:19,394
+the whole programme from Piëch's nineteen ninety-seven
+
+279
+00:11:19,394 --> 00:11:22,070
+pitch to the first production cars in
+
+280
+00:11:22,070 --> 00:11:25,107
+September two thousand five is about eight
+
+281
+00:11:25,107 --> 00:11:25,541
+years.
+
+282
+00:11:25,721 --> 00:11:29,503
+From the October nineteen ninety-nine Tokyo concept,
+
+283
+00:11:29,503 --> 00:11:32,049
+it is five years and eleven months.
+
+284
+00:11:32,229 --> 00:11:35,432
+And Wikipedia's Bugatti page says the new
+
+285
+00:11:35,432 --> 00:11:39,339
+Molsheim factory was officially inaugurated on the
+
+286
+00:11:39,339 --> 00:11:40,823
+third of September,
+
+287
+00:11:40,823 --> 00:11:42,229
+two thousand five,
+
+288
+00:11:42,229 --> 00:11:43,792
+as production began.
+
+289
+00:11:44,142 --> 00:11:47,555
+Compare the two cars on Wikipedia's numbers.
+
+290
+00:11:47,735 --> 00:11:50,106
+The EB one ten GT weighs sixteen
+
+291
+00:11:50,106 --> 00:11:53,662
+hundred twenty kilograms and the Veyron eighteen
+
+292
+00:11:53,662 --> 00:11:57,736
+eighty-eight, by our arithmetic two hundred sixty-eight
+
+293
+00:11:57,736 --> 00:12:00,774
+kilograms, or sixteen and a half percent,
+
+294
+00:12:00,774 --> 00:12:01,144
+more.
+
+295
+00:12:01,324 --> 00:12:04,038
+The Veyron's zero to one hundred is
+
+296
+00:12:04,038 --> 00:12:05,743
+a full second quicker,
+
+297
+00:12:05,743 --> 00:12:08,689
+two point four six against three point
+
+298
+00:12:08,689 --> 00:12:11,402
+four six, twenty-nine percent less.
+
+299
+00:12:11,582 --> 00:12:15,055
+And its record average is fifty-three kilometres
+
+300
+00:12:15,055 --> 00:12:17,154
+per hour above the EB one ten
+
+301
+00:12:17,154 --> 00:12:19,976
+Super Sport's three hundred fifty-five.
+
+302
+00:12:20,326 --> 00:12:23,007
+The proof came in April two thousand
+
+303
+00:12:23,007 --> 00:12:23,379
+five.
+
+304
+00:12:23,559 --> 00:12:26,737
+Wikipedia says the Veyron averaged four hundred
+
+305
+00:12:26,737 --> 00:12:29,577
+eight point four seven kilometres per hour
+
+306
+00:12:29,577 --> 00:12:31,403
+on the nineteenth of April,
+
+307
+00:12:31,403 --> 00:12:33,635
+and Top Gear says test driver Uwe
+
+308
+00:12:33,635 --> 00:12:36,678
+Novacki reached four hundred eleven that day,
+
+309
+00:12:36,678 --> 00:12:39,450
+with a track display showing four hundred
+
+310
+00:12:39,450 --> 00:12:42,088
+twenty-seven that was later shown to be
+
+311
+00:12:42,088 --> 00:12:42,832
+inaccurate.
+
+312
+00:12:43,012 --> 00:12:45,409
+The official TÜV Süd figure,
+
+313
+00:12:45,409 --> 00:12:47,207
+after runs both ways,
+
+314
+00:12:47,207 --> 00:12:49,176
+was four hundred seven.
+
+315
+00:12:49,527 --> 00:12:50,786
+By our arithmetic,
+
+316
+00:12:50,786 --> 00:12:53,654
+the official figure beat the four hundred
+
+317
+00:12:53,654 --> 00:12:56,872
+kilometre target by seven kilometres per hour,
+
+318
+00:12:56,872 --> 00:12:59,670
+and the Wikipedia average by eight point
+
+319
+00:12:59,670 --> 00:13:00,440
+four seven.
+
+320
+00:13:00,620 --> 00:13:03,026
+Either way, the goal was reached,
+
+321
+00:13:03,026 --> 00:13:04,776
+and the record was real.
+
+322
+00:13:04,956 --> 00:13:07,052
+The Veyron then went on to the
+
+323
+00:13:07,052 --> 00:13:10,405
+Super Sport, whose four hundred thirty-one point
+
+324
+00:13:10,405 --> 00:13:13,198
+oh seven two kilometres per hour average
+
+325
+00:13:13,198 --> 00:13:16,062
+was confirmed by Guinness in April twenty
+
+326
+00:13:16,062 --> 00:13:17,809
+thirteen, Wikipedia says.
+
+327
+00:13:18,159 --> 00:13:20,943
+Gordon Murray, quoted by Motor One from
+
+328
+00:13:20,943 --> 00:13:23,299
+a two thousand six Road and Track
+
+329
+00:13:23,299 --> 00:13:27,226
+test, called the Veyron's massive technical achievement
+
+330
+00:13:27,226 --> 00:13:29,153
+a statement for Volkswagen.
+
+331
+00:13:29,333 --> 00:13:31,566
+He also said he felt a little
+
+332
+00:13:31,566 --> 00:13:35,261
+responsible for starting the top-speed race with
+
+333
+00:13:35,261 --> 00:13:36,415
+the McLaren F1.
+
+334
+00:13:36,595 --> 00:13:38,122
+And Chris Harris said:
+
+335
+00:13:38,122 --> 00:13:40,203
+we were all a bit sniffy about
+
+336
+00:13:40,203 --> 00:13:42,284
+this car when it was unveiled.
+
+337
+00:13:42,464 --> 00:13:45,076
+So the sceptics did not stay sceptical.
+
+338
+00:13:45,427 --> 00:13:47,380
+Jeremy Clarkson's verdict,
+
+339
+00:13:47,380 --> 00:13:48,883
+quoted by Wikipedia:
+
+340
+00:13:48,883 --> 00:13:51,438
+the greatest car ever made and the
+
+341
+00:13:51,438 --> 00:13:53,842
+greatest car we will ever see in
+
+342
+00:13:53,842 --> 00:13:54,819
+our lifetime.
+
+343
+00:13:54,999 --> 00:13:57,329
+Top Gear lap times on Wikipedia:
+
+344
+00:13:57,329 --> 00:14:00,096
+one minute eighteen point three in two
+
+345
+00:14:00,096 --> 00:14:02,718
+thousand eight for the standard car,
+
+346
+00:14:02,718 --> 00:14:05,558
+one sixteen point eight in two thousand
+
+347
+00:14:05,558 --> 00:14:07,306
+ten for the Super Sport.
+
+348
+00:14:07,486 --> 00:14:09,560
+The car was not only fast in
+
+349
+00:14:09,560 --> 00:14:10,745
+a straight line,
+
+350
+00:14:10,745 --> 00:14:13,559
+and the reaction shows the gamble paid
+
+351
+00:14:13,559 --> 00:14:14,893
+off on reputation.
+
+352
+00:14:15,243 --> 00:14:16,589
+A small date puzzle.
+
+353
+00:14:16,769 --> 00:14:20,740
+Wikipedia's Ultimate Aero page says the Bugatti
+
+354
+00:14:20,740 --> 00:14:23,613
+ended the SSC record on the fourth
+
+355
+00:14:23,613 --> 00:14:25,303
+of July, twenty ten.
+
+356
+00:14:25,483 --> 00:14:29,357
+But Wikipedia's Bugatti Automobiles page says the
+
+357
+00:14:29,357 --> 00:14:33,469
+Super Sport set its road-legal production-car record
+
+358
+00:14:33,469 --> 00:14:36,711
+of four hundred thirty-one point oh seven
+
+359
+00:14:36,711 --> 00:14:39,241
+two on the twenty-sixth of June,
+
+360
+00:14:39,241 --> 00:14:40,111
+twenty ten.
+
+361
+00:14:40,291 --> 00:14:42,163
+So one page gives a run date
+
+362
+00:14:42,163 --> 00:14:44,369
+and another a record-ending date,
+
+363
+00:14:44,369 --> 00:14:46,375
+and they are eight days apart.
+
+364
+00:14:46,725 --> 00:14:48,721
+Reputation was one thing.
+
+365
+00:14:48,901 --> 00:14:50,120
+Money was another.
+
+366
+00:14:50,300 --> 00:14:52,620
+Clarkson said, per Wikipedia,
+
+367
+00:14:52,620 --> 00:14:55,899
+that the production cost was five million
+
+368
+00:14:55,899 --> 00:14:58,938
+pounds and customers paid one million.
+
+369
+00:14:59,118 --> 00:15:02,370
+Motor One says Volkswagen reportedly lost about
+
+370
+00:15:02,370 --> 00:15:04,929
+six point two five million dollars on
+
+371
+00:15:04,929 --> 00:15:07,419
+each of the four hundred fifty cars.
+
+372
+00:15:07,599 --> 00:15:10,413
+Jalopnik, in September twenty thirteen,
+
+373
+00:15:10,413 --> 00:15:13,731
+traced the figure to an Economist infographic,
+
+374
+00:15:13,731 --> 00:15:16,039
+and says it does not explain how
+
+375
+00:15:16,039 --> 00:15:17,770
+the loss was calculated.
+
+376
+00:15:18,120 --> 00:15:19,385
+By our arithmetic,
+
+377
+00:15:19,385 --> 00:15:21,915
+four hundred fifty cars at six point
+
+378
+00:15:21,915 --> 00:15:24,375
+two five million is about two point
+
+379
+00:15:24,375 --> 00:15:25,921
+eight billion dollars.
+
+380
+00:15:26,101 --> 00:15:28,561
+That is our multiplication of a reported
+
+381
+00:15:28,561 --> 00:15:30,467
+estimate, not a reported total.
+
+382
+00:15:30,647 --> 00:15:32,783
+Jalopnik gives no total,
+
+383
+00:15:32,783 --> 00:15:37,056
+no calculation, and no response from Volkswagen.
+
+384
+00:15:37,236 --> 00:15:39,286
+So treat it as an order of
+
+385
+00:15:39,286 --> 00:15:41,890
+magnitude, a very large loss on a
+
+386
+00:15:41,890 --> 00:15:44,572
+car that sold for around one point
+
+387
+00:15:44,572 --> 00:15:45,676
+seven million.
+
+388
+00:15:46,026 --> 00:15:48,765
+Motor One calls the car a vanity
+
+389
+00:15:48,765 --> 00:15:49,450
+project.
+
+390
+00:15:49,630 --> 00:15:50,815
+That is its word.
+
+391
+00:15:50,995 --> 00:15:54,872
+Wikipedia's Bugatti page adds a later datapoint:
+
+392
+00:15:54,872 --> 00:15:56,245
+in twenty twenty,
+
+393
+00:15:56,245 --> 00:16:00,849
+Volkswagen Group chief executive Herbert Diess reportedly
+
+394
+00:16:00,849 --> 00:16:04,160
+viewed the unprofitable brand as ballast.
+
+395
+00:16:04,340 --> 00:16:06,520
+The page gives no loss figures,
+
+396
+00:16:06,520 --> 00:16:09,683
+and reports revenue of three hundred nineteen
+
+397
+00:16:09,683 --> 00:16:12,425
+point five million euros and net income
+
+398
+00:16:12,425 --> 00:16:15,096
+of eight point four million for twenty
+
+399
+00:16:15,096 --> 00:16:15,869
+twenty-one.
+
+400
+00:16:16,049 --> 00:16:18,869
+So the brand was reported unprofitable at
+
+401
+00:16:18,869 --> 00:16:21,208
+one time and profitable in a later
+
+402
+00:16:21,208 --> 00:16:21,552
+year.
+
+403
+00:16:21,903 --> 00:16:24,143
+Sales ran longer than planned.
+
+404
+00:16:24,323 --> 00:16:27,702
+Wikipedia's Veyron page lists four hundred fifty
+
+405
+00:16:27,702 --> 00:16:30,025
+Veyrons over more than ten years,
+
+406
+00:16:30,025 --> 00:16:32,067
+with the last one sold in May
+
+407
+00:16:32,067 --> 00:16:33,193
+twenty fourteen.
+
+408
+00:16:33,373 --> 00:16:36,145
+Its Bugatti page says annual output was
+
+409
+00:16:36,145 --> 00:16:39,414
+raised to seventy units when production began,
+
+410
+00:16:39,414 --> 00:16:42,114
+and that about seven hundred cars have
+
+411
+00:16:42,114 --> 00:16:44,530
+been sold since two thousand five.
+
+412
+00:16:44,710 --> 00:16:45,843
+By our arithmetic,
+
+413
+00:16:45,843 --> 00:16:48,675
+seven hundred minus four hundred fifty leaves
+
+414
+00:16:48,675 --> 00:16:51,066
+about two hundred fifty for the Chiron
+
+415
+00:16:51,066 --> 00:16:52,199
+era to that point.
+
+416
+00:16:52,549 --> 00:16:53,605
+Back to the money.
+
+417
+00:16:53,785 --> 00:16:56,143
+If the reported loss of six point
+
+418
+00:16:56,143 --> 00:16:58,643
+two five million dollars per car is
+
+419
+00:16:58,643 --> 00:17:01,215
+added to the roughly one point seven
+
+420
+00:17:01,215 --> 00:17:02,715
+million dollar price,
+
+421
+00:17:02,715 --> 00:17:05,359
+by our arithmetic the implied cost to
+
+422
+00:17:05,359 --> 00:17:08,002
+build was about seven point nine five
+
+423
+00:17:08,002 --> 00:17:09,145
+million per car.
+
+424
+00:17:09,325 --> 00:17:12,358
+Clarkson's claim of five million pounds is
+
+425
+00:17:12,358 --> 00:17:14,235
+of the same order of size,
+
+426
+00:17:14,235 --> 00:17:15,895
+though it is in pounds,
+
+427
+00:17:15,895 --> 00:17:17,123
+from a presenter,
+
+428
+00:17:17,123 --> 00:17:19,217
+and not an accounting figure.
+
+429
+00:17:19,397 --> 00:17:21,525
+Both point to a car that cost
+
+430
+00:17:21,525 --> 00:17:23,286
+several times its price.
+
+431
+00:17:23,636 --> 00:17:28,054
+Clarkson's claim implies four million pounds lost
+
+432
+00:17:28,054 --> 00:17:30,218
+per car, five minus one.
+
+433
+00:17:30,398 --> 00:17:31,651
+By our arithmetic,
+
+434
+00:17:31,651 --> 00:17:34,155
+over four hundred fifty cars that is
+
+435
+00:17:34,155 --> 00:17:36,311
+one point eight billion pounds,
+
+436
+00:17:36,311 --> 00:17:38,607
+if the claim were right for every
+
+437
+00:17:38,607 --> 00:17:38,885
+car.
+
+438
+00:17:39,065 --> 00:17:40,621
+We stress the conditional.
+
+439
+00:17:40,801 --> 00:17:42,851
+It is a presenter's remark,
+
+440
+00:17:42,851 --> 00:17:44,370
+quoted on Wikipedia,
+
+441
+00:17:44,370 --> 00:17:48,243
+and the Economist-based estimate is another source.
+
+442
+00:17:48,423 --> 00:17:50,514
+They are consistent in scale,
+
+443
+00:17:50,514 --> 00:17:52,893
+and neither is an audited number.
+
+444
+00:17:53,242 --> 00:17:55,414
+The factory's real pace.
+
+445
+00:17:55,594 --> 00:17:58,999
+Wikipedia says output was raised to seventy
+
+446
+00:17:58,999 --> 00:18:01,770
+units a year when production began.
+
+447
+00:18:01,950 --> 00:18:03,220
+By our arithmetic,
+
+448
+00:18:03,220 --> 00:18:06,607
+four hundred fifty Veyrons between September two
+
+449
+00:18:06,607 --> 00:18:09,429
+thousand five and May twenty fourteen is
+
+450
+00:18:09,429 --> 00:18:11,052
+about fifty-two a year.
+
+451
+00:18:11,232 --> 00:18:14,467
+So the factory built roughly three quarters
+
+452
+00:18:14,467 --> 00:18:16,724
+of its stated annual capacity.
+
+453
+00:18:16,904 --> 00:18:18,220
+We do not know why,
+
+454
+00:18:18,220 --> 00:18:20,576
+and the sources do not say whether
+
+455
+00:18:20,576 --> 00:18:21,546
+it was demand,
+
+456
+00:18:21,546 --> 00:18:23,487
+supply or deliberate pacing.
+
+457
+00:18:23,837 --> 00:18:25,206
+And the sales table.
+
+458
+00:18:25,386 --> 00:18:28,634
+Wikipedia's annual sales for two thousand five
+
+459
+00:18:28,634 --> 00:18:31,669
+to two thousand thirteen total four hundred
+
+460
+00:18:31,669 --> 00:18:34,564
+seven, with car number four hundred fifty
+
+461
+00:18:34,564 --> 00:18:36,540
+sold in May twenty fourteen,
+
+462
+00:18:36,540 --> 00:18:37,670
+a footnote says.
+
+463
+00:18:37,850 --> 00:18:39,236
+By our arithmetic,
+
+464
+00:18:39,236 --> 00:18:43,086
+the table leaves forty-three cars unaccounted for.
+
+465
+00:18:43,266 --> 00:18:45,251
+The table and the total do not
+
+466
+00:18:45,251 --> 00:18:46,310
+line up cleanly,
+
+467
+00:18:46,310 --> 00:18:48,494
+and the page does not explain the
+
+468
+00:18:48,494 --> 00:18:49,222
+difference.
+
+469
+00:18:49,572 --> 00:18:50,918
+The Chiron followed.
+
+470
+00:18:51,098 --> 00:18:54,330
+Wikipedia's Bugatti page says it was unveiled
+
+471
+00:18:54,330 --> 00:18:56,556
+at the Geneva Motor Show on the
+
+472
+00:18:56,556 --> 00:18:58,351
+twenty-ninth of February,
+
+473
+00:18:58,351 --> 00:19:02,229
+twenty sixteen, with fifteen hundred metric horsepower
+
+474
+00:19:02,229 --> 00:19:04,670
+and sixteen hundred newton-metres,
+
+475
+00:19:04,670 --> 00:19:07,184
+limited to five hundred cars at two
+
+476
+00:19:07,184 --> 00:19:08,979
+point four million euros,
+
+477
+00:19:08,979 --> 00:19:12,426
+with first deliveries in March twenty seventeen.
+
+478
+00:19:12,606 --> 00:19:14,490
+By February twenty twenty,
+
+479
+00:19:14,490 --> 00:19:17,027
+it says, two hundred fifty had been
+
+480
+00:19:17,027 --> 00:19:19,491
+built, half of the planned number.
+
+481
+00:19:19,840 --> 00:19:21,519
+In twenty twenty-one,
+
+482
+00:19:21,519 --> 00:19:25,194
+Wikipedia says, Bugatti and Rimac's sports car
+
+483
+00:19:25,194 --> 00:19:29,350
+operations merged, and in November twenty twenty-one
+
+484
+00:19:29,350 --> 00:19:32,306
+Bugatti became part of Bugatti Rimac,
+
+485
+00:19:32,306 --> 00:19:36,062
+with Rimac Group holding fifty-five percent and
+
+486
+00:19:36,062 --> 00:19:37,581
+Porsche forty-five.
+
+487
+00:19:37,761 --> 00:19:41,123
+Mate Rimac became chief executive on the
+
+488
+00:19:41,123 --> 00:19:42,637
+first of November.
+
+489
+00:19:42,817 --> 00:19:43,994
+By our arithmetic,
+
+490
+00:19:43,994 --> 00:19:46,870
+the brand that Volkswagen bought in nineteen
+
+491
+00:19:46,870 --> 00:19:50,728
+ninety-eight was no longer wholly Volkswagen's twenty-three
+
+492
+00:19:50,728 --> 00:19:51,513
+years later.
+
+493
+00:19:51,862 --> 00:19:54,830
+The Veyron's true successor in spirit,
+
+494
+00:19:54,830 --> 00:19:57,407
+per Wikipedia, is the Tourbillon,
+
+495
+00:19:57,407 --> 00:20:00,141
+announced on the twentieth of June,
+
+496
+00:20:00,141 --> 00:20:03,499
+twenty twenty-four: Bugatti's first hybrid,
+
+497
+00:20:03,499 --> 00:20:06,701
+with a naturally aspirated V sixteen from
+
+498
+00:20:06,701 --> 00:20:09,669
+Cosworth, a three-motor hybrid system,
+
+499
+00:20:09,669 --> 00:20:12,714
+and eighteen hundred metric horsepower,
+
+500
+00:20:12,714 --> 00:20:15,136
+redlining at nine thousand rpm,
+
+501
+00:20:15,136 --> 00:20:18,259
+with a planned production of two hundred
+
+502
+00:20:18,259 --> 00:20:18,728
+fifty.
+
+503
+00:20:18,908 --> 00:20:20,196
+By our arithmetic,
+
+504
+00:20:20,196 --> 00:20:22,916
+that is twenty percent more power than
+
+505
+00:20:22,916 --> 00:20:23,703
+the Chiron.
+
+506
+00:20:24,053 --> 00:20:26,978
+So did the Veyron almost never happen?
+
+507
+00:20:27,158 --> 00:20:29,329
+Here is what the sources support.
+
+508
+00:20:29,509 --> 00:20:32,354
+The brand had gone bankrupt just before.
+
+509
+00:20:32,534 --> 00:20:35,400
+The project needed a chairman who demanded
+
+510
+00:20:35,400 --> 00:20:36,423
+the impossible.
+
+511
+00:20:36,603 --> 00:20:38,610
+The engine was redesigned,
+
+512
+00:20:38,610 --> 00:20:41,928
+parts failed, and production was delayed by
+
+513
+00:20:41,928 --> 00:20:43,395
+technical problems.
+
+514
+00:20:43,575 --> 00:20:46,201
+And the car reportedly lost millions on
+
+515
+00:20:46,201 --> 00:20:46,942
+every sale.
+
+516
+00:20:47,122 --> 00:20:49,035
+None of that says it was nearly
+
+517
+00:20:49,035 --> 00:20:49,653
+cancelled.
+
+518
+00:20:49,833 --> 00:20:51,008
+It says it was hard,
+
+519
+00:20:51,008 --> 00:20:52,712
+and the title is our framing.
+
+520
+00:20:53,061 --> 00:20:54,791
+What our sources do not say.
+
+521
+00:20:54,971 --> 00:20:57,570
+They do not say whether Volkswagen ever
+
+522
+00:20:57,570 --> 00:20:59,836
+considered cancelling the project.
+
+523
+00:21:00,016 --> 00:21:02,512
+They do not give development costs.
+
+524
+00:21:02,692 --> 00:21:05,469
+They do not explain the Economist's loss
+
+525
+00:21:05,469 --> 00:21:06,094
+estimate.
+
+526
+00:21:06,274 --> 00:21:08,441
+They do not say how many prototypes
+
+527
+00:21:08,441 --> 00:21:08,874
+failed.
+
+528
+00:21:09,054 --> 00:21:11,014
+And they do not reconcile the different
+
+529
+00:21:11,014 --> 00:21:12,723
+dates for the brand's acquisition.
+
+530
+00:21:12,903 --> 00:21:14,993
+If you have a reliable source for
+
+531
+00:21:14,993 --> 00:21:15,816
+any of these,
+
+532
+00:21:15,816 --> 00:21:17,779
+share the link in the comments.
+
+533
+00:21:18,129 --> 00:21:20,359
+What is solid is the result.
+
+534
+00:21:20,539 --> 00:21:23,128
+A car with one thousand one metric
+
+535
+00:21:23,128 --> 00:21:26,099
+horsepower and a record of four hundred
+
+536
+00:21:26,099 --> 00:21:28,079
+seven kilometres per hour,
+
+537
+00:21:28,079 --> 00:21:30,517
+from a brand that had collapsed,
+
+538
+00:21:30,517 --> 00:21:32,345
+built by a company that,
+
+539
+00:21:32,345 --> 00:21:33,944
+according to reports,
+
+540
+00:21:33,944 --> 00:21:35,620
+lost millions on each.
+
+541
+00:21:35,800 --> 00:21:38,741
+The Veyron proved a point about engineering,
+
+542
+00:21:38,741 --> 00:21:40,680
+and the cost of proving it is
+
+543
+00:21:40,680 --> 00:21:41,884
+part of the story.
+
+544
+00:21:42,064 --> 00:21:43,702
+Whether it was worth it is for
+
+545
+00:21:43,702 --> 00:21:44,467
+you to decide.
+
+546
+00:21:44,816 --> 00:21:47,261
+Was the Veyron a triumph or an
+
+547
+00:21:47,261 --> 00:21:49,298
+expensive vanity project?
+
+548
+00:21:49,478 --> 00:21:50,929
+Tell us in the comments.
+
+549
+00:21:51,109 --> 00:21:53,477
+In the other videos of this series,
+
+550
+00:21:53,477 --> 00:21:55,643
+we reveal two things you did not
+
+551
+00:21:55,643 --> 00:21:57,131
+know about the Veyron,
+
+552
+00:21:57,131 --> 00:21:58,958
+compare it with the Chiron,
+
+553
+00:21:58,958 --> 00:22:01,191
+and count what it really costs to
+
+554
+00:22:01,191 --> 00:22:01,732
+own one.
+
+555
+00:22:01,912 --> 00:22:04,783
+Our twenty twenty-seven Truck Buyer's Guide is
+
+556
+00:22:04,783 --> 00:22:06,405
+linked in the description.
+
+557
+00:22:06,585 --> 00:22:09,140
+Subscribe to Pickup Reality.
