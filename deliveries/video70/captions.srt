@@ -1,0 +1,2199 @@
+1
+00:00:00,000 --> 00:00:02,287
+Two plug-in hybrid supercars.
+
+2
+00:00:02,467 --> 00:00:04,437
+Both arrived in the same era,
+
+3
+00:00:04,437 --> 00:00:06,748
+both have a battery of under eight
+
+4
+00:00:06,748 --> 00:00:09,806
+kilowatt hours, both can drive on electricity
+
+5
+00:00:09,806 --> 00:00:12,253
+alone, and both have thrown away the
+
+6
+00:00:12,253 --> 00:00:13,136
+reverse gear.
+
+7
+00:00:13,316 --> 00:00:16,536
+The Ferrari SF90 Stradale and the McLaren
+
+8
+00:00:16,536 --> 00:00:18,970
+Artura look like the same idea.
+
+9
+00:00:19,150 --> 00:00:21,453
+But one costs about twice as much
+
+10
+00:00:21,453 --> 00:00:22,360
+as the other,
+
+11
+00:00:22,360 --> 00:00:25,082
+and the reason is the difference nobody
+
+12
+00:00:25,082 --> 00:00:25,710
+explains.
+
+13
+00:00:26,059 --> 00:00:29,041
+On paper, the SF90 has almost one
+
+14
+00:00:29,041 --> 00:00:32,654
+thousand horsepower and all-wheel drive.
+
+15
+00:00:32,834 --> 00:00:36,009
+The Artura has about six hundred eighty,
+
+16
+00:00:36,009 --> 00:00:38,151
+a V6, and rear-wheel drive.
+
+17
+00:00:38,331 --> 00:00:40,250
+So the easy answer is that the
+
+18
+00:00:40,250 --> 00:00:41,977
+Ferrari is simply more car.
+
+19
+00:00:42,157 --> 00:00:44,639
+But that answer misses the real story,
+
+20
+00:00:44,639 --> 00:00:46,990
+which is about what each company was
+
+21
+00:00:46,990 --> 00:00:48,036
+trying to build,
+
+22
+00:00:48,036 --> 00:00:49,669
+and what each one risked.
+
+23
+00:00:50,019 --> 00:00:52,039
+Because here is the twist.
+
+24
+00:00:52,219 --> 00:00:55,103
+The Artura was never really built to
+
+25
+00:00:55,103 --> 00:00:56,305
+fight the SF90.
+
+26
+00:00:56,485 --> 00:00:59,456
+Its true rival is a different Ferrari,
+
+27
+00:00:59,456 --> 00:01:02,582
+one that shares its engine layout almost
+
+28
+00:01:02,582 --> 00:01:03,208
+exactly.
+
+29
+00:01:03,388 --> 00:01:06,340
+And the SF90 was never Ferrari's answer
+
+30
+00:01:06,340 --> 00:01:07,172
+to McLaren.
+
+31
+00:01:07,352 --> 00:01:09,569
+It was Ferrari's new flagship,
+
+32
+00:01:09,569 --> 00:01:12,229
+aimed at a different buyer entirely.
+
+33
+00:01:12,579 --> 00:01:13,529
+Along the way,
+
+34
+00:01:13,529 --> 00:01:16,108
+you will hear about the McLaren launch
+
+35
+00:01:16,108 --> 00:01:17,195
+that went wrong,
+
+36
+00:01:17,195 --> 00:01:19,774
+the Ferrari recall that told owners to
+
+37
+00:01:19,774 --> 00:01:20,860
+park their cars,
+
+38
+00:01:20,860 --> 00:01:23,644
+and what happened to both companies after
+
+39
+00:01:23,644 --> 00:01:25,001
+these cars came out.
+
+40
+00:01:25,181 --> 00:01:27,619
+Every number here is from a published
+
+41
+00:01:27,619 --> 00:01:29,860
+source, listed in the description.
+
+42
+00:01:30,210 --> 00:01:31,823
+Start with the Ferrari.
+
+43
+00:01:32,003 --> 00:01:35,201
+The SF90 Stradale was unveiled in Maranello
+
+44
+00:01:35,201 --> 00:01:38,399
+on the twenty-ninth of May twenty nineteen,
+
+45
+00:01:38,399 --> 00:01:41,746
+Reuters reported, as the first Ferrari hybrid
+
+46
+00:01:41,746 --> 00:01:44,275
+built for wider series production.
+
+47
+00:01:44,455 --> 00:01:47,108
+The name marks ninety years of Scuderia
+
+48
+00:01:47,108 --> 00:01:48,809
+Ferrari, the racing team.
+
+49
+00:01:49,159 --> 00:01:51,935
+It combines a four liter twin-turbo V8
+
+50
+00:01:51,935 --> 00:01:53,907
+with three electric motors.
+
+51
+00:01:54,087 --> 00:01:57,912
+Wikipedia lists about seven hundred sixty-nine horsepower
+
+52
+00:01:57,912 --> 00:01:58,986
+from the engine,
+
+53
+00:01:58,986 --> 00:02:01,871
+and about nine hundred eighty-six combined,
+
+54
+00:02:01,871 --> 00:02:04,757
+with eight hundred newton meters of torque.
+
+55
+00:02:04,937 --> 00:02:07,679
+Zero to one hundred kilometers per hour
+
+56
+00:02:07,679 --> 00:02:09,719
+takes two point five seconds,
+
+57
+00:02:09,719 --> 00:02:12,320
+and top speed is three hundred forty.
+
+58
+00:02:12,671 --> 00:02:15,097
+Ferrari treated the launch like an event.
+
+59
+00:02:15,277 --> 00:02:18,620
+Reuters reported that about two thousand selected
+
+60
+00:02:18,620 --> 00:02:21,485
+customers were invited to Maranello to see
+
+61
+00:02:21,485 --> 00:02:23,122
+the car and reserve one,
+
+62
+00:02:23,122 --> 00:02:26,260
+with deliveries expected within twelve months.
+
+63
+00:02:26,440 --> 00:02:29,310
+Ferrari's chief executive at the time,
+
+64
+00:02:29,310 --> 00:02:32,179
+Louis Camilleri, called it astounding,
+
+65
+00:02:32,179 --> 00:02:34,822
+fast, and completely revolutionary.
+
+66
+00:02:35,002 --> 00:02:36,895
+This was not a quiet entry model.
+
+67
+00:02:37,075 --> 00:02:38,282
+It was a statement.
+
+68
+00:02:38,633 --> 00:02:40,293
+Now the McLaren.
+
+69
+00:02:40,473 --> 00:02:43,433
+Wikipedia says the Artura was announced on
+
+70
+00:02:43,433 --> 00:02:46,675
+the twenty-third of November twenty twenty and
+
+71
+00:02:46,675 --> 00:02:49,424
+unveiled in February twenty twenty-one.
+
+72
+00:02:49,604 --> 00:02:52,166
+It replaced the five seventy S as
+
+73
+00:02:52,166 --> 00:02:54,262
+McLaren's entry series car,
+
+74
+00:02:54,262 --> 00:02:56,901
+and it was McLaren's third hybrid,
+
+75
+00:02:56,901 --> 00:03:00,007
+after the P1 hypercar and the Speedtail.
+
+76
+00:03:00,357 --> 00:03:02,530
+And this rivalry is older than these
+
+77
+00:03:02,530 --> 00:03:03,073
+two cars.
+
+78
+00:03:03,253 --> 00:03:04,693
+In twenty thirteen,
+
+79
+00:03:04,693 --> 00:03:07,877
+McLaren and Ferrari each launched a hybrid
+
+80
+00:03:07,877 --> 00:03:08,559
+hypercar.
+
+81
+00:03:08,739 --> 00:03:10,254
+McLaren had the P1,
+
+82
+00:03:10,254 --> 00:03:12,726
+built in a run of three hundred
+
+83
+00:03:12,726 --> 00:03:14,161
+seventy-five cars.
+
+84
+00:03:14,341 --> 00:03:16,144
+Ferrari had the LaFerrari,
+
+85
+00:03:16,144 --> 00:03:17,877
+with five hundred coupes,
+
+86
+00:03:17,877 --> 00:03:19,263
+according to Driven.
+
+87
+00:03:19,443 --> 00:03:21,860
+The SF90 and the Artura are what
+
+88
+00:03:21,860 --> 00:03:25,258
+happened when both companies took that hybrid
+
+89
+00:03:25,258 --> 00:03:28,580
+idea from hypercars into their regular model
+
+90
+00:03:28,580 --> 00:03:29,033
+lines.
+
+91
+00:03:29,383 --> 00:03:31,526
+The name blends two words,
+
+92
+00:03:31,526 --> 00:03:32,762
+art and future.
+
+93
+00:03:32,942 --> 00:03:36,062
+Its engine is a three liter twin-turbo
+
+94
+00:03:36,062 --> 00:03:37,950
+V6, coded M six thirty,
+
+95
+00:03:37,950 --> 00:03:40,824
+with its two banks of cylinders set
+
+96
+00:03:40,824 --> 00:03:43,286
+at one hundred twenty degrees.
+
+97
+00:03:43,466 --> 00:03:46,577
+It makes about five hundred eighty-five metric
+
+98
+00:03:46,577 --> 00:03:48,064
+horsepower on its own.
+
+99
+00:03:48,244 --> 00:03:50,950
+An electric motor adds ninety-five more,
+
+100
+00:03:50,950 --> 00:03:53,521
+for about six hundred eighty combined,
+
+101
+00:03:53,521 --> 00:03:56,362
+with seven hundred twenty newton meters of
+
+102
+00:03:56,362 --> 00:03:56,835
+torque.
+
+103
+00:03:57,185 --> 00:03:59,433
+Why a V6 with such a wide
+
+104
+00:03:59,433 --> 00:03:59,972
+angle?
+
+105
+00:04:00,152 --> 00:04:02,869
+With the cylinder banks set one hundred
+
+106
+00:04:02,869 --> 00:04:04,331
+twenty degrees apart,
+
+107
+00:04:04,331 --> 00:04:06,421
+there is room to place the two
+
+108
+00:04:06,421 --> 00:04:08,302
+turbochargers inside the V,
+
+109
+00:04:08,302 --> 00:04:09,556
+between the banks.
+
+110
+00:04:09,736 --> 00:04:11,826
+Engineers call this a hot vee.
+
+111
+00:04:12,006 --> 00:04:13,882
+It keeps the engine short,
+
+112
+00:04:13,882 --> 00:04:15,109
+low, and compact,
+
+113
+00:04:15,109 --> 00:04:17,924
+which helps a mid-engined car carry its
+
+114
+00:04:17,924 --> 00:04:20,667
+weight lower and closer to the center.
+
+115
+00:04:21,017 --> 00:04:23,641
+Wikipedia lists zero to one hundred in
+
+116
+00:04:23,641 --> 00:04:25,022
+about three seconds,
+
+117
+00:04:25,022 --> 00:04:27,232
+and a top speed of three hundred
+
+118
+00:04:27,232 --> 00:04:29,097
+thirty kilometers per hour.
+
+119
+00:04:29,277 --> 00:04:31,513
+So the Ferrari is about half a
+
+120
+00:04:31,513 --> 00:04:33,749
+second quicker to one hundred,
+
+121
+00:04:33,749 --> 00:04:36,506
+and ten kilometers per hour faster at
+
+122
+00:04:36,506 --> 00:04:37,102
+the top.
+
+123
+00:04:37,282 --> 00:04:39,105
+Those gaps sound small.
+
+124
+00:04:39,285 --> 00:04:41,015
+The price gap is not.
+
+125
+00:04:41,364 --> 00:04:42,905
+In the United States,
+
+126
+00:04:42,905 --> 00:04:46,795
+CarGurus listed the twenty twenty-three SF90 Stradale
+
+127
+00:04:46,795 --> 00:04:50,170
+starting at about five hundred twenty thousand
+
+128
+00:04:50,170 --> 00:04:50,757
+dollars.
+
+129
+00:04:50,937 --> 00:04:53,829
+Kelley Blue Book listed the twenty twenty-five
+
+130
+00:04:53,829 --> 00:04:56,784
+Artura at about two hundred fifty-four thousand
+
+131
+00:04:56,784 --> 00:04:59,237
+dollars, and the Artura Spider at about
+
+132
+00:04:59,237 --> 00:05:01,374
+two hundred seventy-nine thousand.
+
+133
+00:05:01,724 --> 00:05:04,119
+So for the price of one SF90,
+
+134
+00:05:04,119 --> 00:05:06,844
+you could almost buy two Arturas.
+
+135
+00:05:07,024 --> 00:05:09,839
+That is the first difference nobody explains
+
+136
+00:05:09,839 --> 00:05:10,415
+properly.
+
+137
+00:05:10,595 --> 00:05:13,060
+These two cars are not competitors in
+
+138
+00:05:13,060 --> 00:05:13,927
+the showroom.
+
+139
+00:05:14,107 --> 00:05:17,001
+They sit in completely different price classes,
+
+140
+00:05:17,001 --> 00:05:18,909
+even though they share a lot of
+
+141
+00:05:18,909 --> 00:05:19,587
+technology.
+
+142
+00:05:19,937 --> 00:05:21,457
+Here is why that matters.
+
+143
+00:05:21,637 --> 00:05:24,261
+Ferrari had a cheaper hybrid planned too.
+
+144
+00:05:24,441 --> 00:05:27,052
+The two hundred ninety-six G T B,
+
+145
+00:05:27,052 --> 00:05:29,426
+revealed in twenty twenty-one,
+
+146
+00:05:29,426 --> 00:05:31,879
+uses a twin-turbo V6 with a one
+
+147
+00:05:31,879 --> 00:05:35,676
+hundred twenty degree angle between its cylinder
+
+148
+00:05:35,676 --> 00:05:37,654
+banks, a plug-in battery,
+
+149
+00:05:37,654 --> 00:05:39,395
+and an electric motor.
+
+150
+00:05:39,575 --> 00:05:42,675
+That is almost exactly the Artura's recipe.
+
+151
+00:05:43,024 --> 00:05:45,753
+Carwow Spain compared them at launch.
+
+152
+00:05:45,933 --> 00:05:48,251
+It listed the two ninety-six at eight
+
+153
+00:05:48,251 --> 00:05:50,882
+hundred thirty metric horsepower combined,
+
+154
+00:05:50,882 --> 00:05:53,201
+and the Artura at six hundred eighty.
+
+155
+00:05:53,381 --> 00:05:55,696
+It listed a starting price in Spain
+
+156
+00:05:55,696 --> 00:05:58,738
+of about two hundred sixty-nine thousand euros
+
+157
+00:05:58,738 --> 00:05:59,796
+for the Ferrari,
+
+158
+00:05:59,796 --> 00:06:02,839
+and about two hundred thirty-five thousand for
+
+159
+00:06:02,839 --> 00:06:03,632
+the McLaren.
+
+160
+00:06:03,812 --> 00:06:05,972
+Those two really are rivals.
+
+161
+00:06:06,321 --> 00:06:09,003
+So the honest comparison is this.
+
+162
+00:06:09,183 --> 00:06:11,991
+The SF90 sits above both of them,
+
+163
+00:06:11,991 --> 00:06:13,862
+as Ferrari's flagship.
+
+164
+00:06:14,042 --> 00:06:16,704
+The Artura and the two ninety-six fight
+
+165
+00:06:16,704 --> 00:06:18,547
+each other one level lower.
+
+166
+00:06:18,727 --> 00:06:21,132
+When people put the SF90 and the
+
+167
+00:06:21,132 --> 00:06:22,635
+Artura side by side,
+
+168
+00:06:22,635 --> 00:06:25,792
+they are comparing a Ferrari flagship with
+
+169
+00:06:25,792 --> 00:06:27,446
+a McLaren entry model.
+
+170
+00:06:27,626 --> 00:06:29,785
+That is the twist behind the price.
+
+171
+00:06:30,136 --> 00:06:33,576
+Carwow's launch comparison also showed how close
+
+172
+00:06:33,576 --> 00:06:36,300
+the two ninety-six and the Artura are.
+
+173
+00:06:36,480 --> 00:06:38,766
+It listed the Ferrari at two point
+
+174
+00:06:38,766 --> 00:06:41,253
+nine seconds to one hundred and three
+
+175
+00:06:41,253 --> 00:06:43,538
+hundred forty kilometers per hour,
+
+176
+00:06:43,538 --> 00:06:47,034
+with about twenty-five kilometers of electric range.
+
+177
+00:06:47,214 --> 00:06:49,688
+It listed the McLaren at three seconds,
+
+178
+00:06:49,688 --> 00:06:51,020
+three hundred thirty,
+
+179
+00:06:51,020 --> 00:06:53,367
+and about thirty kilometers of range.
+
+180
+00:06:53,547 --> 00:06:55,651
+Both weighed about one and a half
+
+181
+00:06:55,651 --> 00:06:57,053
+tonnes ready to drive.
+
+182
+00:06:57,403 --> 00:06:58,506
+Now look inside,
+
+183
+00:06:58,506 --> 00:07:01,400
+because the hybrid systems are where these
+
+184
+00:07:01,400 --> 00:07:02,709
+cars really differ.
+
+185
+00:07:02,889 --> 00:07:05,908
+The SF90 has three electric motors.
+
+186
+00:07:06,088 --> 00:07:07,994
+Two are on the front axle,
+
+187
+00:07:07,994 --> 00:07:09,826
+one for each front wheel.
+
+188
+00:07:10,006 --> 00:07:12,433
+The third sits between the V8 and
+
+189
+00:07:12,433 --> 00:07:13,315
+the gearbox.
+
+190
+00:07:13,495 --> 00:07:16,901
+That layout gives the Ferrari electric all-wheel
+
+191
+00:07:16,901 --> 00:07:17,326
+drive.
+
+192
+00:07:17,677 --> 00:07:20,715
+The Artura has just one electric motor,
+
+193
+00:07:20,715 --> 00:07:23,442
+an axial flux design built into the
+
+194
+00:07:23,442 --> 00:07:26,558
+gearbox housing, according to Wikipedia.
+
+195
+00:07:26,738 --> 00:07:29,155
+It drives the rear wheels with the
+
+196
+00:07:29,155 --> 00:07:29,652
+engine.
+
+197
+00:07:29,832 --> 00:07:31,411
+There is nothing at the front.
+
+198
+00:07:31,591 --> 00:07:34,445
+The Artura stays rear-wheel drive,
+
+199
+00:07:34,445 --> 00:07:37,887
+like almost every McLaren road car before
+
+200
+00:07:37,887 --> 00:07:38,139
+it.
+
+201
+00:07:38,490 --> 00:07:42,031
+Axial flux is worth a short explanation.
+
+202
+00:07:42,211 --> 00:07:44,113
+In a typical electric motor,
+
+203
+00:07:44,113 --> 00:07:46,764
+the magnetic field runs from the center
+
+204
+00:07:46,764 --> 00:07:47,307
+outward.
+
+205
+00:07:47,487 --> 00:07:49,225
+In an axial flux motor,
+
+206
+00:07:49,225 --> 00:07:50,963
+it runs along the axis,
+
+207
+00:07:50,963 --> 00:07:53,306
+so the motor can be shaped like
+
+208
+00:07:53,306 --> 00:07:55,573
+a thick disc instead of a long
+
+209
+00:07:55,573 --> 00:07:56,253
+cylinder.
+
+210
+00:07:56,433 --> 00:07:58,562
+That makes it short and compact,
+
+211
+00:07:58,562 --> 00:08:00,757
+which is why McLaren could fit it
+
+212
+00:08:00,757 --> 00:08:03,085
+between the engine and the gearbox.
+
+213
+00:08:03,436 --> 00:08:04,968
+And here is what they share.
+
+214
+00:08:05,148 --> 00:08:07,516
+Both cars dropped the reverse gear.
+
+215
+00:08:07,696 --> 00:08:11,181
+Design News reported that removing reverse from
+
+216
+00:08:11,181 --> 00:08:14,592
+the SF90's eight-speed gearbox saved about ten
+
+217
+00:08:14,592 --> 00:08:17,855
+kilograms, because the front motors move the
+
+218
+00:08:17,855 --> 00:08:18,819
+car backward.
+
+219
+00:08:18,999 --> 00:08:21,803
+Wikipedia says the Artura does the same
+
+220
+00:08:21,803 --> 00:08:23,816
+thing with its single motor,
+
+221
+00:08:23,816 --> 00:08:26,476
+which also replaces the reverse gear.
+
+222
+00:08:26,826 --> 00:08:30,912
+Both also use eight-speed dual-clutch gearboxes.
+
+223
+00:08:31,092 --> 00:08:33,437
+Both use small batteries.
+
+224
+00:08:33,617 --> 00:08:37,455
+InsideEVs listed the SF90's at seven point
+
+225
+00:08:37,455 --> 00:08:39,283
+nine kilowatt hours.
+
+226
+00:08:39,463 --> 00:08:42,292
+Wikipedia lists the Artura's at about seven
+
+227
+00:08:42,292 --> 00:08:45,582
+point four, weighing about eighty-eight kilograms.
+
+228
+00:08:45,762 --> 00:08:47,795
+Neither car is trying to be an
+
+229
+00:08:47,795 --> 00:08:48,676
+electric car.
+
+230
+00:08:48,856 --> 00:08:51,439
+Both use electricity to add punch,
+
+231
+00:08:51,439 --> 00:08:53,186
+and a few silent miles.
+
+232
+00:08:53,537 --> 00:08:55,093
+On electricity alone,
+
+233
+00:08:55,093 --> 00:08:57,465
+the two cars behave differently,
+
+234
+00:08:57,465 --> 00:08:59,911
+and this is the twist most people
+
+235
+00:08:59,911 --> 00:09:00,282
+miss.
+
+236
+00:09:00,462 --> 00:09:03,457
+The SF90's electric mode uses only its
+
+237
+00:09:03,457 --> 00:09:06,058
+front motors, InsideEVs reported.
+
+238
+00:09:06,238 --> 00:09:07,281
+So in eDrive,
+
+239
+00:09:07,281 --> 00:09:11,615
+a mid-engined Ferrari becomes a front-wheel-drive car,
+
+240
+00:09:11,615 --> 00:09:14,986
+with up to about twenty-five kilometers of
+
+241
+00:09:14,986 --> 00:09:17,393
+range and a top speed of about
+
+242
+00:09:17,393 --> 00:09:20,925
+one hundred thirty-five kilometers per hour.
+
+243
+00:09:21,275 --> 00:09:24,291
+The Artura's electric mode uses its rear
+
+244
+00:09:24,291 --> 00:09:27,307
+motor, so it stays rear-wheel drive even
+
+245
+00:09:27,307 --> 00:09:28,136
+in silence.
+
+246
+00:09:28,316 --> 00:09:31,435
+Wikipedia lists an electric range of about
+
+247
+00:09:31,435 --> 00:09:34,702
+thirty-one kilometers on the European cycle.
+
+248
+00:09:34,882 --> 00:09:38,094
+Kelley Blue Book lists about twenty-one miles
+
+249
+00:09:38,094 --> 00:09:39,878
+for the American version,
+
+250
+00:09:39,878 --> 00:09:42,591
+which is about thirty-four kilometers.
+
+251
+00:09:42,771 --> 00:09:44,527
+Either way, it can go a little
+
+252
+00:09:44,527 --> 00:09:46,869
+further on electricity than the Ferrari.
+
+253
+00:09:47,219 --> 00:09:49,709
+So the cheaper car has the longer
+
+254
+00:09:49,709 --> 00:09:50,841
+electric range.
+
+255
+00:09:51,021 --> 00:09:52,360
+That sounds strange,
+
+256
+00:09:52,360 --> 00:09:53,633
+but it makes sense.
+
+257
+00:09:53,813 --> 00:09:57,103
+The Ferrari spends its electricity on performance,
+
+258
+00:09:57,103 --> 00:09:59,734
+with three motors and much more combined
+
+259
+00:09:59,734 --> 00:10:00,129
+power.
+
+260
+00:10:00,309 --> 00:10:03,748
+The McLaren's single motor is less powerful,
+
+261
+00:10:03,748 --> 00:10:06,484
+so the same amount of battery lasts
+
+262
+00:10:06,484 --> 00:10:07,031
+longer.
+
+263
+00:10:07,381 --> 00:10:10,248
+Fuel economy follows the same logic.
+
+264
+00:10:10,428 --> 00:10:13,803
+CarGurus listed the SF90 coupe at up
+
+265
+00:10:13,803 --> 00:10:15,772
+to fifty-one M P G e,
+
+266
+00:10:15,772 --> 00:10:20,366
+a combined figure that includes electric driving.
+
+267
+00:10:20,546 --> 00:10:23,433
+These figures depend heavily on how often
+
+268
+00:10:23,433 --> 00:10:24,981
+the car is plugged in.
+
+269
+00:10:25,161 --> 00:10:27,885
+A plug-in hybrid that is never charged
+
+270
+00:10:27,885 --> 00:10:30,966
+simply carries its battery as extra weight.
+
+271
+00:10:31,317 --> 00:10:33,353
+Weight is where McLaren put up its
+
+272
+00:10:33,353 --> 00:10:34,312
+strongest fight.
+
+273
+00:10:34,492 --> 00:10:36,744
+The Artura is built on a new
+
+274
+00:10:36,744 --> 00:10:40,606
+carbon fiber structure called the McLaren Carbon
+
+275
+00:10:40,606 --> 00:10:43,583
+Lightweight Architecture, or M C L A.
+
+276
+00:10:43,763 --> 00:10:46,683
+Wikipedia lists its lightest curb weight at
+
+277
+00:10:46,683 --> 00:10:50,418
+about one thousand four hundred ninety-eight kilograms,
+
+278
+00:10:50,418 --> 00:10:51,437
+ready to drive.
+
+279
+00:10:51,787 --> 00:10:54,528
+Ferrari quotes the SF90 in a different
+
+280
+00:10:54,528 --> 00:10:54,817
+way.
+
+281
+00:10:54,997 --> 00:10:58,103
+InsideEVs reported a dry weight of one
+
+282
+00:10:58,103 --> 00:11:01,373
+thousand five hundred seventy kilograms,
+
+283
+00:11:01,373 --> 00:11:04,643
+which means without fluids like fuel and
+
+284
+00:11:04,643 --> 00:11:04,970
+oil.
+
+285
+00:11:05,150 --> 00:11:07,644
+A dry weight is always lower than
+
+286
+00:11:07,644 --> 00:11:08,702
+a curb weight.
+
+287
+00:11:08,882 --> 00:11:11,584
+So the SF90 is clearly the heavier
+
+288
+00:11:11,584 --> 00:11:14,365
+car, by more than the numbers first
+
+289
+00:11:14,365 --> 00:11:15,001
+suggest.
+
+290
+00:11:15,351 --> 00:11:19,064
+InsideEVs said the SF90's hybrid parts add
+
+291
+00:11:19,064 --> 00:11:22,247
+about two hundred seventy kilograms.
+
+292
+00:11:22,427 --> 00:11:24,733
+That is the price of three motors
+
+293
+00:11:24,733 --> 00:11:26,130
+and all-wheel drive.
+
+294
+00:11:26,310 --> 00:11:29,336
+The SF90 uses that extra hardware to
+
+295
+00:11:29,336 --> 00:11:32,949
+put almost one thousand horsepower onto the
+
+296
+00:11:32,949 --> 00:11:33,369
+road.
+
+297
+00:11:33,549 --> 00:11:36,204
+The Artura uses lightness instead,
+
+298
+00:11:36,204 --> 00:11:38,546
+and lets the rear tires do the
+
+299
+00:11:38,546 --> 00:11:38,936
+work.
+
+300
+00:11:39,287 --> 00:11:41,829
+So the difference in philosophy is clear.
+
+301
+00:11:42,009 --> 00:11:44,743
+Ferrari built a heavier car with more
+
+302
+00:11:44,743 --> 00:11:46,885
+power and four driven wheels.
+
+303
+00:11:47,065 --> 00:11:50,350
+McLaren built a lighter car with less
+
+304
+00:11:50,350 --> 00:11:51,593
+power and two.
+
+305
+00:11:51,773 --> 00:11:53,224
+Both are fast.
+
+306
+00:11:53,404 --> 00:11:55,320
+They just get there in opposite ways.
+
+307
+00:11:55,670 --> 00:11:58,549
+In corners, Ferrari uses its front motors
+
+308
+00:11:58,549 --> 00:12:00,023
+for torque vectoring.
+
+309
+00:12:00,203 --> 00:12:02,918
+The system can send different amounts of
+
+310
+00:12:02,918 --> 00:12:04,682
+power to each front wheel,
+
+311
+00:12:04,682 --> 00:12:06,854
+helping pull the nose of the car
+
+312
+00:12:06,854 --> 00:12:07,669
+into a turn.
+
+313
+00:12:07,849 --> 00:12:11,638
+duPont Registry described this as Ferrari's R
+
+314
+00:12:11,638 --> 00:12:13,154
+A C dash e system.
+
+315
+00:12:13,505 --> 00:12:15,293
+McLaren went a different way.
+
+316
+00:12:15,473 --> 00:12:18,251
+Wikipedia says the Artura was the first
+
+317
+00:12:18,251 --> 00:12:22,668
+modern McLaren with an electronically controlled differential,
+
+318
+00:12:22,668 --> 00:12:25,518
+which manages how power is split between
+
+319
+00:12:25,518 --> 00:12:26,943
+the two rear wheels.
+
+320
+00:12:27,123 --> 00:12:29,546
+It is a less exotic solution than
+
+321
+00:12:29,546 --> 00:12:31,235
+Ferrari's front motors,
+
+322
+00:12:31,235 --> 00:12:32,557
+but it is lighter,
+
+323
+00:12:32,557 --> 00:12:35,347
+and it keeps the car's handling closer
+
+324
+00:12:35,347 --> 00:12:38,211
+to a classic rear-wheel-drive supercar.
+
+325
+00:12:38,561 --> 00:12:40,917
+Think of the two systems like this.
+
+326
+00:12:41,097 --> 00:12:42,085
+In the Ferrari,
+
+327
+00:12:42,085 --> 00:12:44,454
+electricity is used to steer the car
+
+328
+00:12:44,454 --> 00:12:45,705
+through the corner,
+
+329
+00:12:45,705 --> 00:12:48,206
+by pushing one front wheel harder than
+
+330
+00:12:48,206 --> 00:12:48,864
+the other.
+
+331
+00:12:49,044 --> 00:12:50,123
+In the McLaren,
+
+332
+00:12:50,123 --> 00:12:53,360
+the differential uses clutches to manage grip
+
+333
+00:12:53,360 --> 00:12:54,223
+at the rear.
+
+334
+00:12:54,403 --> 00:12:56,539
+One is a new idea from the
+
+335
+00:12:56,539 --> 00:12:57,607
+electric era.
+
+336
+00:12:57,787 --> 00:13:00,296
+The other is a refined version of
+
+337
+00:13:00,296 --> 00:13:03,109
+a solution that racing cars have used
+
+338
+00:13:03,109 --> 00:13:04,021
+for decades.
+
+339
+00:13:04,372 --> 00:13:05,288
+On the track,
+
+340
+00:13:05,288 --> 00:13:07,262
+the Ferrari had the numbers.
+
+341
+00:13:07,442 --> 00:13:09,642
+Wikipedia says the SF90 was,
+
+342
+00:13:09,642 --> 00:13:11,214
+as of twenty twenty,
+
+343
+00:13:11,214 --> 00:13:14,356
+the fastest Ferrari road car ever around
+
+344
+00:13:14,356 --> 00:13:16,634
+Ferrari's Fiorano test track,
+
+345
+00:13:16,634 --> 00:13:19,463
+seven tenths of a second faster than
+
+346
+00:13:19,463 --> 00:13:20,248
+LaFerrari.
+
+347
+00:13:20,428 --> 00:13:22,691
+It also says the SF90 set the
+
+348
+00:13:22,691 --> 00:13:25,188
+fastest lap on the Top Gear test
+
+349
+00:13:25,188 --> 00:13:26,983
+track in twenty twenty,
+
+350
+00:13:26,983 --> 00:13:29,948
+one minute eleven point three seconds.
+
+351
+00:13:30,299 --> 00:13:32,581
+The Artura was not built to chase
+
+352
+00:13:32,581 --> 00:13:33,549
+those records.
+
+353
+00:13:33,729 --> 00:13:35,824
+Its job was to make a hybrid
+
+354
+00:13:35,824 --> 00:13:37,694
+McLaren usable every day,
+
+355
+00:13:37,694 --> 00:13:40,537
+with rear-wheel drive feel and a lower
+
+356
+00:13:40,537 --> 00:13:40,986
+price.
+
+357
+00:13:41,166 --> 00:13:42,996
+And that job turned out to be
+
+358
+00:13:42,996 --> 00:13:45,078
+much harder than anyone expected.
+
+359
+00:13:45,429 --> 00:13:47,560
+Here is the twist in the McLaren
+
+360
+00:13:47,560 --> 00:13:47,960
+story.
+
+361
+00:13:48,140 --> 00:13:51,047
+Road and Track reported in June twenty
+
+362
+00:13:51,047 --> 00:13:53,648
+twenty-two that Artura deliveries,
+
+363
+00:13:53,648 --> 00:13:56,326
+first expected at the end of twenty
+
+364
+00:13:56,326 --> 00:14:00,458
+twenty-one, were delayed until July twenty twenty-two.
+
+365
+00:14:00,638 --> 00:14:02,058
+At the media drive,
+
+366
+00:14:02,058 --> 00:14:04,151
+some test cars had problems,
+
+367
+00:14:04,151 --> 00:14:07,290
+including dark screens and cars going into
+
+368
+00:14:07,290 --> 00:14:10,204
+limp mode, a reduced power safety mode.
+
+369
+00:14:10,555 --> 00:14:13,599
+Road and Track also reported that a
+
+370
+00:14:13,599 --> 00:14:15,425
+test car caught fire,
+
+371
+00:14:15,425 --> 00:14:18,208
+and that McLaren blamed a nut on
+
+372
+00:14:18,208 --> 00:14:20,295
+an oil cooler fuel line.
+
+373
+00:14:20,475 --> 00:14:23,142
+For a brand launching a new hybrid
+
+374
+00:14:23,142 --> 00:14:24,632
+with a new chassis,
+
+375
+00:14:24,632 --> 00:14:25,651
+a new engine,
+
+376
+00:14:25,651 --> 00:14:27,220
+and new electronics,
+
+377
+00:14:27,220 --> 00:14:28,788
+it was a hard start.
+
+378
+00:14:29,138 --> 00:14:30,960
+And the timing was terrible.
+
+379
+00:14:31,140 --> 00:14:33,850
+Road and Track said McLaren's sales fell
+
+380
+00:14:33,850 --> 00:14:36,898
+from four thousand six hundred sixty-two cars
+
+381
+00:14:36,898 --> 00:14:39,472
+in twenty nineteen to one thousand six
+
+382
+00:14:39,472 --> 00:14:41,911
+hundred fifty-nine in twenty twenty,
+
+383
+00:14:41,911 --> 00:14:43,266
+during the pandemic,
+
+384
+00:14:43,266 --> 00:14:46,043
+then recovered only to about two thousand
+
+385
+00:14:46,043 --> 00:14:49,159
+one hundred thirty-eight in twenty twenty-one.
+
+386
+00:14:49,339 --> 00:14:52,205
+McLaren even sold its headquarters and leased
+
+387
+00:14:52,205 --> 00:14:53,670
+it back to raise money.
+
+388
+00:14:54,020 --> 00:14:55,473
+To reassure buyers,
+
+389
+00:14:55,473 --> 00:14:58,305
+McLaren offered a five-year warranty,
+
+390
+00:14:58,305 --> 00:15:00,983
+a six-year warranty on the battery,
+
+391
+00:15:00,983 --> 00:15:03,584
+and three years of free servicing,
+
+392
+00:15:03,584 --> 00:15:05,421
+Road and Track reported.
+
+393
+00:15:05,601 --> 00:15:08,826
+Kelley Blue Book still lists a five-year,
+
+394
+00:15:08,826 --> 00:15:13,310
+unlimited-mile warranty on the twenty twenty-five Artura.
+
+395
+00:15:13,490 --> 00:15:15,698
+McLaren knew it had to win back
+
+396
+00:15:15,698 --> 00:15:16,125
+trust.
+
+397
+00:15:16,475 --> 00:15:18,564
+Ferrari had its problems too.
+
+398
+00:15:18,744 --> 00:15:21,030
+In October twenty twenty-three,
+
+399
+00:15:21,030 --> 00:15:24,715
+Motor Authority reported that six hundred fourteen
+
+400
+00:15:24,715 --> 00:15:27,811
+SF90s from the twenty twenty-two to twenty
+
+401
+00:15:27,811 --> 00:15:31,423
+twenty-four model years were recalled in America,
+
+402
+00:15:31,423 --> 00:15:34,593
+because turbo oil delivery pipes could leak
+
+403
+00:15:34,593 --> 00:15:35,846
+and cause a fire.
+
+404
+00:15:36,026 --> 00:15:37,977
+Owners were told not to drive the
+
+405
+00:15:37,977 --> 00:15:40,223
+cars until the pipes were replaced for
+
+406
+00:15:40,223 --> 00:15:40,519
+free.
+
+407
+00:15:40,869 --> 00:15:42,924
+So both cars had trouble.
+
+408
+00:15:43,104 --> 00:15:45,287
+But the difference was the company behind
+
+409
+00:15:45,287 --> 00:15:45,553
+them.
+
+410
+00:15:45,733 --> 00:15:48,344
+Ferrari's recall was an issue on a
+
+411
+00:15:48,344 --> 00:15:51,492
+successful car from a profitable company.
+
+412
+00:15:51,672 --> 00:15:54,884
+McLaren's problems arrived while the whole company
+
+413
+00:15:54,884 --> 00:15:56,362
+was fighting for money.
+
+414
+00:15:56,713 --> 00:15:59,406
+And then came the most surprising twist.
+
+415
+00:15:59,586 --> 00:16:02,609
+Road and Track reported that McLaren's new
+
+416
+00:16:02,609 --> 00:16:05,201
+chief executive was Michael Leiters,
+
+417
+00:16:05,201 --> 00:16:08,584
+the former chief technology officer of Ferrari.
+
+418
+00:16:08,764 --> 00:16:11,556
+The man who had helped develop Ferrari's
+
+419
+00:16:11,556 --> 00:16:13,790
+cars was now in charge of fixing
+
+420
+00:16:13,790 --> 00:16:14,488
+McLaren's.
+
+421
+00:16:14,838 --> 00:16:16,718
+The ownership changed too.
+
+422
+00:16:16,898 --> 00:16:21,296
+Autocar New Zealand reported that Bahrain's sovereign
+
+423
+00:16:21,296 --> 00:16:24,948
+fund, Mumtalakat, took control of McLaren in
+
+424
+00:16:24,948 --> 00:16:27,022
+early twenty twenty-four.
+
+425
+00:16:27,202 --> 00:16:29,965
+Then, in October twenty twenty-four,
+
+426
+00:16:29,965 --> 00:16:33,036
+Business Day reported a deal for McLaren
+
+427
+00:16:33,036 --> 00:16:36,106
+Automotive to be bought by CYVN Holdings
+
+428
+00:16:36,106 --> 00:16:37,104
+of Abu Dhabi,
+
+429
+00:16:37,104 --> 00:16:39,637
+an investor in electric vehicles.
+
+430
+00:16:39,987 --> 00:16:42,982
+Meanwhile, the Artura kept improving.
+
+431
+00:16:43,162 --> 00:16:44,831
+For twenty twenty-five,
+
+432
+00:16:44,831 --> 00:16:47,516
+McLaren raised its power to about six
+
+433
+00:16:47,516 --> 00:16:50,854
+hundred ninety horsepower and added the Artura
+
+434
+00:16:50,854 --> 00:16:52,450
+Spider, a convertible.
+
+435
+00:16:52,630 --> 00:16:55,030
+The car that had a troubled start
+
+436
+00:16:55,030 --> 00:16:57,286
+became a more complete product.
+
+437
+00:16:57,636 --> 00:17:00,317
+The open versions repeat the price gap.
+
+438
+00:17:00,497 --> 00:17:04,210
+CarGurus listed the twenty twenty-three SF90 Spider
+
+439
+00:17:04,210 --> 00:17:07,631
+at about five hundred seventy thousand dollars,
+
+440
+00:17:07,631 --> 00:17:09,669
+with a retractable hard top.
+
+441
+00:17:09,849 --> 00:17:12,855
+Kelley Blue Book listed the twenty twenty-five
+
+442
+00:17:12,855 --> 00:17:15,925
+Artura Spider at about two hundred seventy-nine
+
+443
+00:17:15,925 --> 00:17:16,513
+thousand.
+
+444
+00:17:16,693 --> 00:17:19,841
+Once again, the Ferrari costs about twice
+
+445
+00:17:19,841 --> 00:17:20,455
+as much.
+
+446
+00:17:20,805 --> 00:17:24,241
+And Ferrari kept pushing the SF90 upward.
+
+447
+00:17:24,421 --> 00:17:28,921
+In twenty twenty-three it revealed the SF90
+
+448
+00:17:28,921 --> 00:17:31,851
+X X Stradale and X X Spider.
+
+449
+00:17:32,031 --> 00:17:35,712
+Evo India reported about one thousand sixteen
+
+450
+00:17:35,712 --> 00:17:40,291
+horsepower, seven hundred ninety-nine Stradales and five
+
+451
+00:17:40,291 --> 00:17:42,581
+hundred ninety-nine Spiders,
+
+452
+00:17:42,581 --> 00:17:45,280
+all sold, and called it the first
+
+453
+00:17:45,280 --> 00:17:48,715
+road-legal model in Ferrari's X X program.
+
+454
+00:17:48,895 --> 00:17:51,425
+McLaren had nothing like that based on
+
+455
+00:17:51,425 --> 00:17:52,157
+the Artura.
+
+456
+00:17:52,508 --> 00:17:55,433
+Ferrari moved on from the SF90 fast.
+
+457
+00:17:55,613 --> 00:17:59,113
+On the tenth of September twenty twenty-five,
+
+458
+00:17:59,113 --> 00:18:01,212
+Motoring Research reported,
+
+459
+00:18:01,212 --> 00:18:05,178
+Ferrari revealed the eight forty-nine Testarossa as
+
+460
+00:18:05,178 --> 00:18:08,756
+its replacement, with about one thousand fifty
+
+461
+00:18:08,756 --> 00:18:12,099
+horsepower, about fifty more than the SF90.
+
+462
+00:18:12,279 --> 00:18:13,544
+It keeps the V8,
+
+463
+00:18:13,544 --> 00:18:15,284
+three electric motors,
+
+464
+00:18:15,284 --> 00:18:18,130
+and a plug-in battery of about seven
+
+465
+00:18:18,130 --> 00:18:20,581
+point four five kilowatt hours.
+
+466
+00:18:20,931 --> 00:18:22,591
+And Ferrari went further.
+
+467
+00:18:22,771 --> 00:18:24,693
+Its first fully electric car,
+
+468
+00:18:24,693 --> 00:18:27,146
+the Luce, has an interior designed by
+
+469
+00:18:27,146 --> 00:18:29,533
+LoveFrom, the studio of Jony Ive and
+
+470
+00:18:29,533 --> 00:18:30,329
+Marc Newson.
+
+471
+00:18:30,509 --> 00:18:33,218
+Electra's summary lists four motors,
+
+472
+00:18:33,218 --> 00:18:36,378
+more than one thousand horsepower in boost
+
+473
+00:18:36,378 --> 00:18:39,840
+mode, and first deliveries from October twenty
+
+474
+00:18:39,840 --> 00:18:40,668
+twenty-six.
+
+475
+00:18:41,018 --> 00:18:43,653
+McLaren's future is less certain.
+
+476
+00:18:43,833 --> 00:18:47,646
+Autoevolution reported in twenty twenty-six that the
+
+477
+00:18:47,646 --> 00:18:51,385
+Artura could be dropped around twenty twenty-eight,
+
+478
+00:18:51,385 --> 00:18:53,658
+and that a new hybrid supercar,
+
+479
+00:18:53,658 --> 00:18:55,491
+code-named P thirty-four,
+
+480
+00:18:55,491 --> 00:18:58,717
+is expected to debut in twenty twenty-seven.
+
+481
+00:18:58,897 --> 00:19:01,285
+The Artura's story may end sooner than
+
+482
+00:19:01,285 --> 00:19:02,542
+its fans would like.
+
+483
+00:19:02,893 --> 00:19:04,733
+So here is the twist at the
+
+484
+00:19:04,733 --> 00:19:05,006
+end.
+
+485
+00:19:05,186 --> 00:19:07,398
+The car that cost twice as much
+
+486
+00:19:07,398 --> 00:19:10,110
+was replaced after about five years by
+
+487
+00:19:10,110 --> 00:19:12,607
+a more powerful version of the same
+
+488
+00:19:12,607 --> 00:19:12,964
+idea.
+
+489
+00:19:13,144 --> 00:19:16,154
+The cheaper car survived its troubled launch,
+
+490
+00:19:16,154 --> 00:19:18,093
+but its maker changed owners,
+
+491
+00:19:18,093 --> 00:19:20,768
+changed bosses, and is now planning what
+
+492
+00:19:20,768 --> 00:19:21,503
+comes next.
+
+493
+00:19:21,854 --> 00:19:24,484
+So what is the real difference between
+
+494
+00:19:24,484 --> 00:19:27,252
+the Ferrari SF90 and the McLaren Artura?
+
+495
+00:19:27,432 --> 00:19:28,802
+It is not just power.
+
+496
+00:19:28,982 --> 00:19:31,049
+It is the job each car had.
+
+497
+00:19:31,229 --> 00:19:33,090
+The SF90 was a flagship,
+
+498
+00:19:33,090 --> 00:19:36,037
+built to prove that Ferrari could make
+
+499
+00:19:36,037 --> 00:19:38,984
+a hybrid faster than its own hypercar.
+
+500
+00:19:39,164 --> 00:19:41,577
+Three motors, all-wheel drive,
+
+501
+00:19:41,577 --> 00:19:44,070
+almost one thousand horsepower,
+
+502
+00:19:44,070 --> 00:19:45,759
+and a price to match.
+
+503
+00:19:46,109 --> 00:19:48,533
+The Artura was an entry model,
+
+504
+00:19:48,533 --> 00:19:52,170
+built to bring hybrid technology to McLaren's
+
+505
+00:19:52,170 --> 00:19:54,352
+most affordable series car.
+
+506
+00:19:54,532 --> 00:19:56,653
+One motor, rear-wheel drive,
+
+507
+00:19:56,653 --> 00:19:58,624
+a new lightweight chassis,
+
+508
+00:19:58,624 --> 00:20:00,821
+and a price about half of the
+
+509
+00:20:00,821 --> 00:20:01,579
+Ferrari's.
+
+510
+00:20:01,759 --> 00:20:04,713
+Its real rival was the Ferrari two
+
+511
+00:20:04,713 --> 00:20:06,190
+ninety-six G T B,
+
+512
+00:20:06,190 --> 00:20:07,320
+not the SF90.
+
+513
+00:20:07,670 --> 00:20:10,862
+Even inside, the two cars feel different.
+
+514
+00:20:11,042 --> 00:20:14,201
+Autobuzz described the SF90's cockpit as a
+
+515
+00:20:14,201 --> 00:20:18,336
+sixteen-inch curved digital display behind the steering
+
+516
+00:20:18,336 --> 00:20:21,871
+wheel, controlled through touch pads and haptic
+
+517
+00:20:21,871 --> 00:20:25,405
+buttons, with no central infotainment screen at
+
+518
+00:20:25,405 --> 00:20:25,706
+all.
+
+519
+00:20:25,886 --> 00:20:28,872
+Ferrari later went back to physical buttons
+
+520
+00:20:28,872 --> 00:20:31,302
+on the eight forty-nine Testarossa,
+
+521
+00:20:31,302 --> 00:20:33,177
+Motoring Research reported.
+
+522
+00:20:33,357 --> 00:20:36,282
+The SF90's cabin was a bold experiment,
+
+523
+00:20:36,282 --> 00:20:38,233
+and not everyone liked it.
+
+524
+00:20:38,583 --> 00:20:40,823
+And they share one surprising idea.
+
+525
+00:20:41,003 --> 00:20:42,768
+Neither has a reverse gear.
+
+526
+00:20:42,948 --> 00:20:45,612
+Both rely on electric motors to back
+
+527
+00:20:45,612 --> 00:20:47,313
+out of a parking space.
+
+528
+00:20:47,493 --> 00:20:48,951
+Two rival companies,
+
+529
+00:20:48,951 --> 00:20:50,918
+two different philosophies,
+
+530
+00:20:50,918 --> 00:20:53,759
+and the same quiet decision deep inside
+
+531
+00:20:53,759 --> 00:20:54,633
+the gearbox.
+
+532
+00:20:54,984 --> 00:20:56,334
+If you could have one,
+
+533
+00:20:56,334 --> 00:20:57,747
+which would you choose?
+
+534
+00:20:57,927 --> 00:21:01,257
+The flagship Ferrari with all-wheel drive,
+
+535
+00:21:01,257 --> 00:21:05,063
+or the lighter rear-wheel-drive McLaren for half
+
+536
+00:21:05,063 --> 00:21:05,856
+the price?
+
+537
+00:21:06,036 --> 00:21:07,546
+Tell us in the comments.
+
+538
+00:21:07,726 --> 00:21:10,258
+In the other videos of this series,
+
+539
+00:21:10,258 --> 00:21:13,008
+we reveal two things most people don't
+
+540
+00:21:13,008 --> 00:21:14,455
+know about the SF90,
+
+541
+00:21:14,455 --> 00:21:16,481
+the real cost of owning one,
+
+542
+00:21:16,481 --> 00:21:19,665
+and the story behind Ferrari's first plug-in
+
+543
+00:21:19,665 --> 00:21:20,172
+hybrid.
+
+544
+00:21:20,522 --> 00:21:22,534
+And if your next vehicle is a
+
+545
+00:21:22,534 --> 00:21:24,477
+truck instead of a supercar,
+
+546
+00:21:24,477 --> 00:21:27,669
+our twenty twenty-seven Truck Buyer's Guide is
+
+547
+00:21:27,669 --> 00:21:29,473
+linked in the description.
+
+548
+00:21:29,653 --> 00:21:33,142
+Subscribe to Pickup Reality for more stories
+
+549
+00:21:33,142 --> 00:21:36,234
+about the cars and trucks people really
+
+550
+00:21:36,234 --> 00:21:37,106
+talk about.
