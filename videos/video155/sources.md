@@ -1,0 +1,8 @@
+- ThePricer, How much does the DeLorean from Back to the Future cost: https://www.thepricer.org/how-much-does-the-delorean-from-back-to-the-future-cost/
+- Classic & Sports Car (Malcolm McKay), Buyer's guide: DeLorean DMC-12, 29 Nov 2019: https://www.classicandsportscar.com/index.php/node/49041
+- Classics World, DeLorean DMC-12 buyer's guide: https://classicsworld.co.uk/guides/delorean-dmc-12-buyers-guide/
+- Petrolicious, DeLorean DMC-12 buying guide: https://petrolicious.com/blogs/articles/delorean-dmc-12-buying-guide
+- Wikipedia, DMC DeLorean: https://en.wikipedia.org/wiki/DeLorean_DMC-12
+- Wikipedia, DeLorean Motor Company (Texas): https://en.wikipedia.org/wiki/DeLorean_Motor_Company_(Texas)
+- Classic DMC store, About us: https://store.classicdmc.com/about-us
+- U.S. Energy Information Administration, Gasoline and diesel fuel update: https://www.eia.gov/petroleum/gasdiesel/

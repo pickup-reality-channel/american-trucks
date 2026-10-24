@@ -1,0 +1,337 @@
+{
+ "id": "video155",
+ "angle": "C",
+ "length_scale": 1.45,
+ "title": "What It Really Costs to Own a DeLorean Today",
+ "scenes": [
+  {
+   "text": "A DeLorean DMC-12 launched at twenty-five thousand dollars. In twenty twenty-six, one source puts the benchmark price of an automatic at fifty-nine thousand, forty-nine dollars. But what does it really cost to own one? The purchase is only the first bill. In this video we add up fuel, parts, repairs and storage using published numbers, and we flag every place where the sources go quiet.",
+   "query": "DeLorean DMC-12",
+   "caption": "WHAT IT REALLY COSTS TO OWN A DELOREAN TODAY",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Our sources are ThePricer, Classic and Sports Car, Classics World, Petrolicious, Wikipedia pages on the car and on the Texas company, the Classic DMC store, and the Energy Information Administration. Some figures are in pounds, some in dollars, and some are years old. We keep currencies separate. Our own arithmetic is labelled.",
+   "query": "DeLorean costs",
+   "caption": "SOURCES: THEPRICER \u00b7 CLASSIC & SPORTS CAR \u00b7 CLASSICS WORLD \u00b7 PETROLICIOUS \u00b7 WIKIPEDIA \u00b7 CLASSIC DMC STORE \u00b7 EIA \u00b7 CURRENCIES KEPT SEPARATE \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "Start with the price of the car. ThePricer says a standard DeLorean now costs roughly fifty to seventy-five thousand dollars in the twenty twenty-six collector market. Project cars sell in the low thirties, and exceptional low-mileage cars can exceed seventy-five thousand. It calls the older range of twenty-five to fifty thousand outdated.",
+   "query": "Price range, 2026",
+   "caption": "THEPRICER (2026): STANDARD DMC-12 \u2248 $50,000\u2013$75,000 \u00b7 PROJECT CARS IN THE LOW $30,000s \u00b7 EXCEPTIONAL CARS >$75,000 \u00b7 OLDER $25,000\u2013$50,000 RANGE 'OUTDATED'",
+   "cuts": 5,
+   "chapter": "The purchase price"
+  },
+  {
+   "text": "ThePricer cites Classic dot com benchmarks of fifty-nine thousand, forty-nine dollars for automatics and sixty-four thousand, eight hundred sixty-six for manuals. By our arithmetic, the manual premium is fifty-eight hundred seventeen dollars, or nearly ten percent. We use the automatic benchmark as our reference purchase price.",
+   "query": "Benchmarks",
+   "caption": "CLASSIC.COM BENCHMARKS VIA THEPRICER: AUTOMATIC $59,049 \u00b7 MANUAL $64,866 \u00b7 PREMIUM $5,817 = 9.85% (OUR ARITHMETIC) \u00b7 WE USE $59,049 AS REFERENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Two recent sales show the spread. On the fourth of May twenty twenty-six, a non-running nineteen eighty-two five-speed project car, off the road nineteen years, sold on Bring a Trailer for thirty-one thousand, six hundred ninety-nine dollars. On the sixth of August, a two hundred ninety-six mile nineteen eighty-two car sold for seventy-seven thousand, five hundred.",
+   "query": "Two 2026 sales",
+   "caption": "THEPRICER: 4 MAY 2026 \u2014 NON-RUNNING 1982 PROJECT, OFF ROAD 19 YEARS, $31,699 (BRING A TRAILER) \u00b7 6 AUG 2026 \u2014 296-MILE 1982 CAR, $77,500",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the low-mileage car sold for two point four times the project car. The difference is forty-five thousand, eight hundred one dollars. A buyer of the project car would still need to recommission it. ThePricer says a fifteen thousand dollar recommissioning figure is a hypothetical, not a quote, so we do not use it as a cost.",
+   "query": "Project vs low mileage",
+   "caption": "$77,500 \u00f7 $31,699 = 2.44\u00d7 \u00b7 DIFFERENCE $45,801 (OUR ARITHMETIC) \u00b7 THEPRICER: '$15,000 RECOMMISSIONING' = HYPOTHETICAL, NOT A QUOTE \u2192 NOT USED",
+   "cuts": 3
+  },
+  {
+   "text": "Dealers and builders quote different numbers. Wikipedia's page on the Texas company says that in two thousand seven it announced a refurbished car, built from new, original and reproduction parts plus a donor car, for fifty-seven thousand, five hundred dollars. In twenty nineteen, restored cars were valued from fifty thousand and up, and unrestored cars were about thirty-five thousand.",
+   "query": "Texas company prices",
+   "caption": "WIKIPEDIA (DMC TEXAS): 2007 REFURBISHED CAR $57,500 \u00b7 2019 RESTORED FROM $50,000 \u00b7 UNRESTORED ~$35,000",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with the original price. By our arithmetic, fifty-nine thousand, forty-nine is two point three six times the twenty-five thousand dollar launch price on Wikipedia, or two point two six times the twenty-six thousand, one hundred seventy-five dollars Classic and Sports Car gives. Wikipedia converts the original to about eighty-nine thousand in twenty twenty-five dollars, so in real terms the car costs less than new.",
+   "query": "Against the sticker",
+   "caption": "$59,049 \u00f7 $25,000 = 2.36\u00d7 \u00b7 \u00f7 $26,175 = 2.26\u00d7 \u00b7 $59,049 \u00f7 $89,000 (WIKIPEDIA INFLATION-ADJUSTED) = 66% (OUR ARITHMETIC; SOURCES DISAGREE ON ORIGINAL PRICE: $25,000 vs $26,175)",
+   "cuts": 3
+  },
+  {
+   "text": "British prices are in pounds. Classics World puts project cars at roughly double the old ten thousand pounds, reasonable cars needing work at twenty-five to thirty thousand, and good examples a little over forty thousand. A rare right-hand-drive car sold at Iconic Auctioneers in twenty twenty-two for eighty-five thousand, five hundred pounds. We do not convert these to dollars.",
+   "query": "UK prices",
+   "caption": "CLASSICS WORLD: PROJECTS ~\u00a320,000 (ROUGHLY DOUBLE THE OLD ~\u00a310,000) \u00b7 NEEDING WORK \u00a325,000\u2013\u00a330,000 \u00b7 GOOD \u00a340,000+ \u00b7 RHD CAR AT ICONIC AUCTIONEERS 2022: \u00a385,500 \u00b7 NOT CONVERTED",
+   "cuts": 3
+  },
+  {
+   "text": "Classic and Sports Car in November twenty nineteen listed show or rebuilt cars at thirty-five thousand pounds and up, an average at twenty-five thousand, and a restoration project at eighteen thousand. Petrolicious, an older guide, gave seven to nine thousand pounds for a project and fifteen to twenty-five thousand for a good one. By our arithmetic, that older project price is about a third of today's.",
+   "query": "Older UK guides",
+   "caption": "CLASSIC & SPORTS CAR (29 NOV 2019): SHOW \u00a335,000+ \u00b7 AVERAGE \u00a325,000 \u00b7 RESTORATION \u00a318,000 \u00b7 PETROLICIOUS (UNDATED): PROJECT \u00a37\u20139K, GOOD \u00a315\u201325K \u00b7 \u00a38,000 \u00f7 ~\u00a320,000 \u2248 0.4\u00d7 (OUR ARITHMETIC; DATES DIFFER)",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel next. Classic and Sports Car lists fuel economy of twenty to thirty miles per gallon for the DeLorean. It gives no source for that range, and says nothing about city or highway. The Texas company's page and ThePricer give no mpg at all. So we treat twenty to thirty as an estimate and model both ends.",
+   "query": "Fuel economy",
+   "caption": "CLASSIC & SPORTS CAR: 20\u201330 MPG (SOURCE FOR RANGE NOT GIVEN; CITY/HIGHWAY NOT SPLIT) \u00b7 OTHER SOURCES: NO MPG \u2192 ESTIMATE",
+   "cuts": 3,
+   "chapter": "Fuel"
+  },
+  {
+   "text": "For price, the Energy Information Administration says regular gasoline averaged four dollars, twenty-eight cents a gallon in the week of the nineteenth of October twenty twenty-six. By our arithmetic, that is about twenty-one cents a mile at twenty miles per gallon, and fourteen cents at thirty. We do not know the car's recommended fuel grade.",
+   "query": "Fuel per mile",
+   "caption": "EIA 19 OCT 2026: $4.284/GAL REGULAR \u00b7 \u00f7 20 MPG = $0.214/MI \u00b7 \u00f7 30 MPG = $0.143/MI (OUR ARITHMETIC) \u00b7 RECOMMENDED GRADE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "How far does a DeLorean actually go in a year? Our sources do not say. Classic and Sports Car notes that sub-thirty-thousand-mile cars are common in the United States, and the August twenty twenty-six sale car had two hundred ninety-six miles in forty-four years. By our arithmetic, that is under seven miles a year. We therefore model two thousand miles a year as an assumption.",
+   "query": "Mileage assumption",
+   "caption": "CLASSIC & SPORTS CAR: SUB-30,000-MILE CARS COMMON IN US \u00b7 THEPRICER: 296-MI 1982 CAR \u00b7 296 \u00f7 ~44 YEARS \u2248 6.7 MI/YEAR (OUR ARITHMETIC) \u00b7 WE ASSUME 2,000 MI/YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "At two thousand miles a year, by our arithmetic, a car at twenty miles per gallon burns a hundred gallons and costs about four hundred twenty-eight dollars. At thirty it burns about sixty-seven gallons, or two hundred eighty-six dollars. Even at five thousand miles, fuel would be seven hundred fourteen to eleven hundred seventy dollars. Fuel is a small cost for a car driven this little.",
+   "query": "Fuel per year",
+   "caption": "2,000 MI: $286\u2013$428 \u00b7 5,000 MI: $714\u2013$1,071 (OUR ARITHMETIC; $4.284/GAL; 20\u201330 MPG ESTIMATED)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, even the larger fuel bill, four hundred twenty-eight dollars, is less than three-quarters of one percent of the fifty-nine thousand dollar purchase price. Over five years at two thousand miles, that is fourteen hundred twenty-eight to twenty-one hundred forty-two dollars, if prices and use stay as modeled. Those are assumptions, not forecasts.",
+   "query": "Fuel in perspective",
+   "caption": "$428 \u00f7 $59,049 = 0.73% \u00b7 5 YEARS: $1,428\u2013$2,142 (OUR ARITHMETIC; ASSUMES CONSTANT PRICE AND 2,000 MI/YEAR)",
+   "cuts": 3
+  },
+  {
+   "text": "Parts are the good news. The Classic DMC store in Humble, Texas, says it holds more than three and a half million items in a forty thousand square foot warehouse, and that about eighty percent of the car's four thousand different parts are available as new old stock. That is the company's own claim. Classic and Sports Car calls parts supply and support excellent.",
+   "query": "Parts supply",
+   "caption": "CLASSIC DMC STORE (COMPANY CLAIM): >3.5 MILLION ITEMS \u00b7 40,000 SQ FT WAREHOUSE \u00b7 ~80% OF 4,000+ PARTS AVAILABLE AS NOS \u00b7 >800 REPRODUCTION PARTS \u00b7 CLASSIC & SPORTS CAR: 'PARTS SUPPLY AND SPECIALIST SUPPORT IS EXCELLENT'",
+   "cuts": 3,
+   "chapter": "Parts and repairs"
+  },
+  {
+   "text": "By our arithmetic, eighty percent of four thousand parts is at least thirty-two hundred part numbers. The store also lists more than eight hundred reproduction parts, such as windscreens, window regulators and interior trim. It does not publish individual prices on the about page, so we need other sources for what parts cost.",
+   "query": "How many parts",
+   "caption": "80% \u00d7 4,000 = 3,200+ PART NUMBERS (OUR ARITHMETIC) \u00b7 >800 REPRODUCTION PARTS (WINDSCREENS, WINDOW REGULATORS, TRIM) \u00b7 PRICES: NOT ON THE PAGE",
+   "cuts": 3
+  },
+  {
+   "text": "ThePricer gives one: a complete brake kit costs nine hundred fifty-five dollars and sixty cents at the official Classic DMC store, before installation. By our arithmetic, that is one point six percent of the fifty-nine thousand dollar purchase price. Classic and Sports Car notes brake parts are a mix of Ford and Jaguar components and are readily available.",
+   "query": "Brake kit",
+   "caption": "THEPRICER: COMPLETE BRAKE KIT $955.60 (CLASSIC DMC STORE, BEFORE INSTALLATION) \u00b7 $955.60 \u00f7 $59,049 = 1.6% (OUR ARITHMETIC) \u00b7 CLASSICS WORLD: BRAKE PARTS = FORD / JAGUAR MIX, READILY AVAILABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Classics World, a British guide, gives repair costs in pounds. A full re-brush of the body surface costs about a thousand pounds. A front wing is six hundred to nine hundred. A complete rear quarter panel is a hundred fifteen pounds plus shipping. A new steering rack is two to three hundred, and seat covers about five hundred eighty.",
+   "query": "UK repair prices",
+   "caption": "CLASSICS WORLD (POUNDS): FULL RE-BRUSH ~\u00a31,000 \u00b7 FRONT WING \u00a3600\u2013900 \u00b7 REAR QUARTER PANEL \u00a3115 + SHIPPING \u00b7 STEERING RACK \u00a3200\u2013300 \u00b7 SEAT COVERS ~\u00a3580",
+   "cuts": 3
+  },
+  {
+   "text": "Bigger items: a front chassis frame is about thirteen hundred pounds for the part, plus substantial labour, and a rebuild part for the control computer was three hundred thirty-five pounds at the time of writing. By our arithmetic, a new front wing and a full re-brush together would be sixteen hundred to nineteen hundred pounds, before labour or shipping.",
+   "query": "Bigger repairs",
+   "caption": "CLASSICS WORLD: FRONT CHASSIS FRAME ~\u00a31,300 PART + 'SUBSTANTIAL LABOUR' \u00b7 CONTROL COMPUTER REBUILD PART \u00a3335 \u00b7 WING + RE-BRUSH = \u00a31,600\u2013\u00a31,900 (OUR ARITHMETIC; EXCLUDES LABOUR, SHIPPING)",
+   "cuts": 3
+  },
+  {
+   "text": "Petrolicious explains why stainless repairs are special. Panels cannot be filled, so accident repairs are difficult, and replacement panels are generally available but mostly very expensive. Tarnished panels can be sanded by experts, which it says is cheaper than a conventional respray. Painted cars should be priced significantly lower, and painting stainless is specialist work.",
+   "query": "Stainless repairs",
+   "caption": "PETROLICIOUS: STAINLESS PANELS CAN'T BE FILLED \u00b7 REPLACEMENT PANELS 'MOSTLY VERY EXPENSIVE' \u00b7 SANDING TARNISH CHEAPER THAN A RESPRAY \u00b7 PAINTED CARS PRICED LOWER \u00b7 PAINTING STAINLESS = SPECIALIST WORK",
+   "cuts": 3
+  },
+  {
+   "text": "The recurring problems are listed. Petrolicious names sediment clogging the fuel metering unit, a fuel pump boot that can disintegrate, unreliable cooling fan wiring, failing exhaust manifold gaskets, and a worn roll pin that makes second gear hard to engage. The roll pin is cheap, it says, but fitting it means removing and partly dismantling the gearbox.",
+   "query": "Typical faults",
+   "caption": "PETROLICIOUS: FUEL SEDIMENT IN METERING UNIT \u00b7 FUEL PUMP BOOT \u00b7 COOLING FAN WIRING \u00b7 MANIFOLD GASKETS \u00b7 WORN ROLL PIN (CHEAP PART, GEARBOX REMOVAL TO FIT) \u00b7 REPAIR COSTS: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Classics World adds that the rear engine cradle can rot, with repairs almost always needing engine removal, and that replacing the rear crank seal requires removing the gearbox. It warns to check fuse seven, which commonly melts and is a safety issue. These jobs imply labour hours, but our sources give no hourly rates or invoices.",
+   "query": "More faults",
+   "caption": "CLASSICS WORLD: REAR ENGINE CRADLE CAN ROT (REPAIR \u2248 ENGINE OUT) \u00b7 REAR CRANK SEAL = GEARBOX OUT \u00b7 FUSE 7 MELTS (SAFETY ISSUE) \u00b7 LABOUR RATES / INVOICES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The chassis is the big risk. Petrolicious says the welded box-section chassis made by GKN was epoxy-dipped, and the resin cracks rather than flexes, allowing corrosion, with the metal thinnest ahead of the front wheels. Lowered cars often show chassis damage from grounding. Classics World says the glass-reinforced plastic tub matters only if damaged in an accident.",
+   "query": "Chassis risk",
+   "caption": "PETROLICIOUS: GKN BOX-SECTION CHASSIS, EPOXY-DIPPED; RESIN CRACKS \u2192 CORROSION; THINNEST AHEAD OF FRONT WHEELS; LOWERED CARS OFTEN SHOW GROUNDING DAMAGE \u00b7 CLASSICS WORLD: GRP TUB ONLY A CONCERN IF DAMAGED",
+   "cuts": 3
+  },
+  {
+   "text": "Engine reliability, per sources, is good. Petrolicious says well-maintained engines should last well beyond three hundred thousand miles, though many now have perished seals. Classic and Sports Car says the Douvrin V6 is capable of three hundred thousand miles with basic servicing, but most cars are low mileage, and problems come more from lack of use than from wear.",
+   "query": "The engine",
+   "caption": "PETROLICIOUS: >300,000 MI IF WELL MAINTAINED, MANY WITH PERISHED SEALS \u00b7 CLASSIC & SPORTS CAR: 'CAPABLE OF 300,000 MILES' WITH BASIC SERVICING \u00b7 MOST CARS LOW MILEAGE; PROBLEMS FROM DISUSE",
+   "cuts": 3,
+   "chapter": "Keeping it running"
+  },
+  {
+   "text": "Disuse has its own costs. Petrolicious says rarely used cars often run poorly, and idle cars can have seized brake calipers. Classic and Sports Car lists fuel blockages, brittle plastic injector pipes, corroded sensors and oxidised electrical terminals. ThePricer's project car sold after nineteen years off the road and needed recommissioning, which our sources do not price.",
+   "query": "Cost of sitting",
+   "caption": "PETROLICIOUS: RARE USE \u2192 POOR RUNNING; SEIZED CALIPERS \u00b7 CLASSIC & SPORTS CAR: FUEL BLOCKAGES, BRITTLE INJECTOR PIPES, SENSORS, OXIDISED TERMINALS \u00b7 RECOMMISSIONING PRICE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Who does the work? The Texas company says it has a seven thousand five hundred square foot service and restoration centre with six full-time technicians, and it can repair stainless steel. Indoor secured storage holds up to eighty cars. It says it has sold more than two hundred fifty certified pre-owned cars since the late nineteen nineties. The page lists no labour rates.",
+   "query": "Service center",
+   "caption": "CLASSIC DMC STORE: 7,500 SQ FT CENTRE \u00b7 6 FULL-TIME TECHNICIANS \u00b7 STAINLESS REPAIR \u00b7 INDOOR STORAGE FOR UP TO 80 CARS \u00b7 >250 CERTIFIED PRE-OWNED CARS SOLD SINCE LATE 1990s \u00b7 LABOUR RATES: NOT LISTED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, two hundred fifty cars over roughly twenty-nine years since the late nineties is about nine a year. That is only an average from a company claim, so we treat it as scale. Storage for eighty cars at one site shows how many owners rely on specialists rather than home garages, though the page does not say that directly.",
+   "query": "Scale of the specialist",
+   "caption": ">250 CARS \u00f7 ~29 YEARS \u2248 8.6/YEAR (OUR ARITHMETIC; 'LATE 1990s' START ASSUMED 1997) \u00b7 OWNER DEPENDENCE ON SPECIALISTS: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "The British owners' club gives a human view. Classic and Sports Car quotes the club's secretary, Chris Williams, who upgraded his first car to Volvo one hundred seventy horsepower spec, then kept his second standard apart from upgraded brake lines, mirrors, radiator and fans. He cleans fingerprints with Windolene and a Scotchbrite pad. That is a tip, not a cost.",
+   "query": "An owner's view",
+   "caption": "CLASSIC & SPORTS CAR: CHRIS WILLIAMS (DOC SECRETARY) \u2014 FIRST CAR TO VOLVO 170 BHP SPEC; SECOND CAR STANDARD + BRAKE LINES, MIRRORS, RADIATOR, FANS \u00b7 CLEANS FINGERPRINTS WITH WINDOLENE + SCOTCHBRITE",
+   "cuts": 3
+  },
+  {
+   "text": "The parts supply has a history, and the Classic DMC store tells it. After the nineteen eighty-two bankruptcy, the Northern Ireland factory was liquidated in nineteen eighty-three, and a company in Columbus, Ohio, acquired the remaining parts, tooling and engineering drawings. In nineteen eighty-five, Stephen Wynne and a partner formed DeLorean One, a mail-order parts and service company.",
+   "query": "Where parts came from",
+   "caption": "CLASSIC DMC STORE: 1983 FACTORY LIQUIDATED; OHIO COMPANY ACQUIRED PARTS, TOOLING, DRAWINGS \u00b7 1985 WYNNE + PARTNER FORMED DELOREAN ONE (MAIL-ORDER PARTS AND SERVICE)",
+   "cuts": 3,
+   "chapter": "Where the parts come from"
+  },
+  {
+   "text": "In nineteen eighty-eight DeLorean One opened in Houston. The partnership dissolved in nineteen ninety-five, and Wynne kept the Houston business and renamed it DeLorean Motor Company. In nineteen ninety-seven he acquired the remaining inventory, exclusive distribution rights, tooling, drawings and records. By our arithmetic, that is fourteen years from the factory closing to the owner of today's parts business.",
+   "query": "Becoming the parts source",
+   "caption": "CLASSIC DMC STORE: 1988 HOUSTON OFFICE \u00b7 1995 RENAMED DELOREAN MOTOR COMPANY \u00b7 1997 ACQUIRED INVENTORY, DISTRIBUTION RIGHTS, TOOLING, DRAWINGS, RECORDS \u00b7 1983 \u2192 1997 = 14 YEARS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The move to the present site was physical. The store says the Ohio warehouse closed in two thousand one and two thousand two, with more than sixty tractor-trailer loads moved to a new facility on a two and a half acre site, completed in two thousand two. Wikipedia lists the company's founding date as the twelfth of May nineteen ninety-five, which matches the renaming year.",
+   "query": "A big move",
+   "caption": "CLASSIC DMC STORE: OHIO WAREHOUSE CLOSED 2001\u20132002 \u00b7 >60 TRACTOR-TRAILER LOADS \u00b7 NEW FACILITY ON 2.5-ACRE SITE (2002) \u00b7 WIKIPEDIA: COMPANY FOUNDED 12 MAY 1995",
+   "cuts": 3
+  },
+  {
+   "text": "There is a wrinkle in the company histories. Wikipedia says the Texas company has no direct connection with the original firm, while its own store says its roots trace to the nineteen eighty-two bankruptcy, through the parts and rights it acquired. Both can be true, because buying assets is not the same as being the same company. The rights have been litigated.",
+   "query": "Connection to the original",
+   "caption": "WIKIPEDIA: NO DIRECT CONNECTION TO THE ORIGINAL COMPANY \u00b7 STORE: ROOTS TRACE TO THE 1982 BANKRUPTCY VIA ACQUIRED PARTS AND RIGHTS \u00b7 COMPATIBLE READINGS (OUR NOTE) \u00b7 RIGHTS LITIGATED (WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "For an owner, the practical meaning is that one firm holds much of the stock, the drawings and the know-how. Classic and Sports Car and Classics World both say support is excellent, and both point to clubs and specialists, not just this one company. Whether a single supplier affects prices is something our sources do not examine.",
+   "query": "One main supplier",
+   "caption": "CLASSIC & SPORTS CAR + CLASSICS WORLD: SUPPORT 'EXCELLENT'; CLUBS AND SPECIALISTS ALSO KEY \u00b7 EFFECT OF A DOMINANT SUPPLIER ON PRICES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Classic and Sports Car gives dimensions the Wikipedia page does not: fourteen feet long, six feet six and a quarter inches wide, three feet nine inches tall, with a wheelbase of seven feet ten and three quarters. The weight is twenty-eight hundred forty pounds, or twelve hundred eighty-eight kilograms. By our arithmetic, that is about one hundred sixty-eight inches of length.",
+   "query": "Size and weight",
+   "caption": "CLASSIC & SPORTS CAR: 14 FT (4,267 MM) \u00d7 6 FT 6\u00bc IN \u00d7 3 FT 9 IN \u00b7 WHEELBASE 7 FT 10\u00be IN \u00b7 2,840 LB (1,288 KG) \u00b7 14 FT = 168 IN (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Size, weight and what you are buying"
+  },
+  {
+   "text": "By our arithmetic, one hundred thirty horsepower on twenty-eight hundred forty pounds is about twenty-two pounds per horsepower. Classic and Sports Car lists zero to sixty from ten point five to eight seconds, depending on the car, and top speed from one hundred nine to one hundred thirty-five miles per hour. It says the engine can be uprated to European spec.",
+   "query": "Weight per horsepower",
+   "caption": "2,840 LB \u00f7 130 HP = 21.8 LB/HP (OUR ARITHMETIC) \u00b7 CLASSIC & SPORTS CAR: 0\u201360 10.5\u20138 S \u00b7 TOP SPEED 109\u2013135 MPH \u00b7 POWER 130\u2013156 BHP (EUROPEAN SPEC HIGHER)",
+   "cuts": 3
+  },
+  {
+   "text": "A US detail matters for owners. Classic and Sports Car says American cars had an eighty-five mile per hour speedometer, though a one hundred seventy mile per hour item is available. It also says US regulations raised the front of the car by an inch, and lowering it improves handling and stance. Those are small costs, but they are part of what an owner may do.",
+   "query": "US-spec details",
+   "caption": "CLASSIC & SPORTS CAR: US CARS HAD AN 85-MPH SPEEDOMETER (170-MPH UNITS AVAILABLE) \u00b7 US REGULATIONS RAISED THE FRONT BY AN INCH \u00b7 LOWERING IMPROVES HANDLING \u00b7 COSTS OF THESE CHANGES: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Tyres are two sizes: one hundred ninety-five over sixty on fourteen-inch wheels at the front, two hundred thirty-five over sixty on fifteen-inch at the rear, per Classic and Sports Car. It says to check that the space-saver spare and toolkit are in the front compartment. Compared with the six-wheel trucks in our other videos, tyres are a small item, but we found no price for these sizes.",
+   "query": "Tyres",
+   "caption": "CLASSIC & SPORTS CAR: FRONT 195/60\u00d714 ON 6-IN WHEELS \u00b7 REAR 235/60\u00d715 ON 8-IN RIMS \u00b7 SPACE-SAVER SPARE IN FRONT COMPARTMENT \u00b7 TYRE PRICES FOR THESE SIZES: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "What does the buyer get for the money? Classic and Sports Car says timeless Giugiaro styling, attention everywhere, a bulletproof engine and transmission, and a usable grand tourer. Against that: strictly a two-seater, performance that does not match the looks, and attention that will not suit everyone. Car and Driver, in late nineteen eighty-one, found unpredictable handling on bumpy roads.",
+   "query": "For and against",
+   "caption": "CLASSIC & SPORTS CAR VERDICT: FOR \u2014 STYLING, ATTENTION, 'BULLETPROOF ENGINE AND TRANSMISSION' \u00b7 AGAINST \u2014 TWO-SEATER, PERFORMANCE, ATTENTION \u00b7 CAR AND DRIVER (LATE 1981): 'UNPREDICTABLE HANDLING ON BUMPY ROADS' (OPINIONS)",
+   "cuts": 3
+  },
+  {
+   "text": "Classic and Sports Car offers two alternatives. The Lotus Esprit S2.2 or S3, sold from nineteen eighty to eighty-seven, with eight hundred fifty-five built, is now priced at eight thousand to twenty thousand pounds or more. The Pontiac Fiero, sold from nineteen eighty-three to eighty-eight, with three hundred seventy thousand, one hundred sixty-eight built, is one thousand to five thousand pounds.",
+   "query": "Alternatives",
+   "caption": "CLASSIC & SPORTS CAR: LOTUS ESPRIT S2.2/3 \u2014 855 BUILT, \u00a38,000\u2013\u00a320,000+ NOW \u00b7 PONTIAC FIERO \u2014 370,168 BUILT, \u00a31,000\u2013\u00a35,000 NOW (2019 PRICES, POUNDS)",
+   "cuts": 3,
+   "chapter": "What else the money buys"
+  },
+  {
+   "text": "By our arithmetic, the same guide's average DeLorean price of twenty-five thousand pounds is more than the top of the Esprit range it lists and five to twenty-five times the Fiero. The Fiero was built in numbers forty-one times the DeLorean's, by our arithmetic. Rarity and film fame show up in the price, not in horsepower or practicality.",
+   "query": "What rarity costs",
+   "caption": "\u00a325,000 vs \u00a38,000\u2013\u00a320,000+ (ESPRIT) AND \u00a31,000\u2013\u00a35,000 (FIERO) \u2192 5\u00d7\u201325\u00d7 FIERO \u00b7 370,168 \u00f7 8,975 = 41\u00d7 (OUR ARITHMETIC; 2019 PRICES; DELOREAN BUILT COUNT FROM WIKIPEDIA)",
+   "cuts": 3
+  },
+  {
+   "text": "The Esprit link is interesting. Wikipedia says the DeLorean's chassis is derived from the Lotus Esprit platform, and that Colin Chapman re-engineered the car. So the Esprit is also a mechanical cousin. The guide lists it as an alternative that is cheaper and quicker, at six and a half seconds to sixty, though less rare, with only eight hundred fifty-five built.",
+   "query": "A cousin",
+   "caption": "WIKIPEDIA: DELOREAN CHASSIS DERIVED FROM LOTUS ESPRIT PLATFORM \u00b7 CLASSIC & SPORTS CAR: ESPRIT 0\u201360 6.5 S, 135 MPH, 855 BUILT \u00b7 ESPRIT 855 BUILT vs DELOREAN 8,975 (OUR NOTE: ESPRIT IS THE RARER ONE)",
+   "cuts": 3
+  },
+  {
+   "text": "Now the costs we could not find. We found no published insurance quotes for a DeLorean. We found no storage prices, apart from the fact that the Texas company offers indoor storage. We found no registration, inspection or import fees. A Hagerty page we opened gave sale data that looked inconsistent, so we did not use it.",
+   "query": "Missing costs",
+   "caption": "NOT IN OUR SOURCES: INSURANCE QUOTES \u00b7 STORAGE PRICES \u00b7 REGISTRATION / INSPECTION / IMPORT FEES \u00b7 A HAGERTY VALUATION PAGE LOOKED INCONSISTENT \u2192 NOT USED",
+   "cuts": 3,
+   "chapter": "Insurance, storage and the rest"
+  },
+  {
+   "text": "Classics World does mention imports: shipping and import costs must be factored in when buying from America, though a decent number of cars are already in the UK. Petrolicious says to confirm import taxes were paid. Classic and Sports Car says virtually all cars were sold new to the United States, and about two hundred fifty are in the UK.",
+   "query": "Importing",
+   "caption": "CLASSICS WORLD: FACTOR IN SHIPPING + IMPORT COSTS FROM AMERICA \u00b7 PETROLICIOUS: CONFIRM IMPORT TAXES PAID \u00b7 CLASSIC & SPORTS CAR: 'VIRTUALLY ALL SOLD NEW TO THE USA'; ~250 IN THE UK \u00b7 AMOUNTS: NOT GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the movie look, ThePricer describes a professionally converted nineteen eighty-one Back to the Future replica that sold for seventy-six thousand pounds after twenty-one bids on the twentieth of August twenty twenty-six. The seller said he spent more than sixty thousand pounds on the conversion alone, separate from the donor car.",
+   "query": "A replica",
+   "caption": "THEPRICER: 1981 BACK TO THE FUTURE REPLICA SOLD \u00a376,000 AFTER 21 BIDS (CAR & CLASSIC, 20 AUG 2026) \u00b7 SELLER SPENT >\u00a360,000 ON CONVERSION (SEPARATE FROM DONOR CAR) \u00b7 BUILDER: SAM CREED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, sixty thousand of seventy-six thousand pounds is at least seventy-nine percent of the sale price, spent on the conversion alone. The owner did not recover the donor car's cost, which the article does not give. It shows that modifying a DeLorean to a film look is a separate bill from buying and keeping one.",
+   "query": "Replica arithmetic",
+   "caption": "\u00a360,000 \u00f7 \u00a376,000 = 78.9% (OUR ARITHMETIC; DONOR CAR COST NOT GIVEN)",
+   "cuts": 3
+  },
+  {
+   "text": "And the real thing. A genuine Back to the Future Part Three production car sold for five hundred forty-one thousand, two hundred dollars in December twenty eleven, according to ThePricer and Wikipedia. By our arithmetic, that is about nine times the benchmark price of a regular car today, though it was sold fifteen years ago, and was one of three survivors.",
+   "query": "A film car",
+   "caption": "$541,200 (DEC 2011) \u00b7 \u00f7 $59,049 = 9.2\u00d7 (OUR ARITHMETIC; DIFFERENT YEARS) \u00b7 3 FILM CARS SURVIVE (WIKIPEDIA) \u00b7 NOT AN OWNERSHIP COST",
+   "cuts": 3
+  },
+  {
+   "text": "Let us build a simple sheet. Purchase, fifty-nine thousand, forty-nine dollars as the automatic benchmark. Fuel, two hundred eighty-six to four hundred twenty-eight a year at two thousand miles. A brake kit, nine hundred fifty-five. Everything else is unknown: insurance, storage, labour, and repairs beyond the examples above. The known running costs are small beside the price.",
+   "query": "A partial sheet",
+   "caption": "PURCHASE $59,049 (AUTOMATIC BENCHMARK) \u00b7 FUEL $286\u2013$428/YEAR (2,000 MI) \u00b7 BRAKE KIT $955.60 \u00b7 INSURANCE, STORAGE, LABOUR, OTHER REPAIRS: UNKNOWN (OUR SUMMARY)",
+   "cuts": 3,
+   "chapter": "Adding it up"
+  },
+  {
+   "text": "Over five years, by our arithmetic, fuel and a brake kit total about twenty-four hundred to three thousand one hundred dollars. That is four to five percent of the purchase price. But a single chassis or engine cradle repair could exceed that, and our sources give only pounds for some parts. This is a floor, not a budget.",
+   "query": "Five-year floor",
+   "caption": "FUEL $1,428\u2013$2,142 + BRAKE KIT $956 = $2,384\u2013$3,098 = 4.0%\u20135.2% OF $59,049 (OUR ARITHMETIC; FLOOR ONLY \u2014 EXCLUDES INSURANCE, STORAGE, LABOUR, MAJOR REPAIRS)",
+   "cuts": 3
+  },
+  {
+   "text": "The upside is value. ThePricer calls the older range outdated, and Classic and Sports Car says prices are rising and cars are a sound purchase. Petrolicious expects prices not to fall back. Those are opinions from guides, not forecasts we can test, and the Hagerty page we could not rely on. We state them as views, not facts.",
+   "query": "Value opinions",
+   "caption": "CLASSIC & SPORTS CAR: 'PRICES ARE RISING' \u00b7 'SOUND PURCHASE' \u00b7 PETROLICIOUS: EXPECTS PRICES NOT TO FALL BACK \u00b7 THEPRICER: OLD RANGE OUTDATED (OPINIONS, NOT FORECASTS)",
+   "cuts": 3
+  },
+  {
+   "text": "And the alternative, a new DeLorean. Wikipedia says the Texas company's Alpha5 electric car was announced in May twenty twenty-two but had not launched as of August twenty twenty-six. ThePricer says no retail price had been published, and older estimates of one hundred to one hundred fifty thousand dollars are third-party projections, not official prices. The earlier plan was about a hundred thousand each.",
+   "query": "A new one?",
+   "caption": "WIKIPEDIA: ALPHA5 ANNOUNCED MAY 2022 \u00b7 NOT LAUNCHED AS OF AUG 2026 \u00b7 THEPRICER: NO RETAIL PRICE; $100,000\u2013$150,000 = THIRD-PARTY PROJECTIONS \u00b7 2017 PLAN: ~$100,000 EACH",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. Insurance quotes. Storage prices. Labour rates for the stainless repairs. A measured fuel economy rather than a range. The mileage owners actually drive. A depreciation or appreciation curve instead of a few sales. If you own a DeLorean and can share a real invoice, tell us in the comments and we will update the description.",
+   "query": "DeLorean costs",
+   "caption": "NOT IN OUR SOURCES: INSURANCE \u00b7 STORAGE \u00b7 LABOUR RATES \u00b7 MEASURED MPG \u00b7 TYPICAL OWNER MILEAGE \u00b7 A PRICE CURVE OVER TIME",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "So what does it really cost to own a DeLorean today? About fifty-nine thousand dollars to buy an automatic by one benchmark, a few hundred dollars a year in fuel at light use, and an open-ended bill for the things that sit unused. In the other videos of this series we show two things you did not know about it, compare it with the Cybertruck, and tell the story of John DeLorean. Subscribe to Pickup Reality.",
+   "query": "DeLorean costs",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
