@@ -1,0 +1,2239 @@
+1
+00:00:00,000 --> 00:00:02,608
+Two Lamborghinis built for the track,
+
+2
+00:00:02,608 --> 00:00:05,006
+with a very different idea of what
+
+3
+00:00:05,006 --> 00:00:05,781
+that means.
+
+4
+00:00:05,961 --> 00:00:09,744
+The Aventador SVJ has a twelve-cylinder engine,
+
+5
+00:00:09,744 --> 00:00:13,043
+all-wheel drive and a Nürburgring record.
+
+6
+00:00:13,223 --> 00:00:16,528
+The Huracán STO has a ten-cylinder engine,
+
+7
+00:00:16,528 --> 00:00:19,440
+rear-wheel drive and a price of about
+
+8
+00:00:19,440 --> 00:00:20,305
+two thirds.
+
+9
+00:00:20,485 --> 00:00:22,471
+Which one is quicker depends on what
+
+10
+00:00:22,471 --> 00:00:23,133
+you measure.
+
+11
+00:00:23,313 --> 00:00:25,903
+We compare them with sourced numbers and
+
+12
+00:00:25,903 --> 00:00:27,457
+show every disagreement.
+
+13
+00:00:27,807 --> 00:00:32,056
+Our sources are Wikipedia's Aventador and Huracán
+
+14
+00:00:32,056 --> 00:00:35,350
+pages, Motor1's report on the STO from
+
+15
+00:00:35,350 --> 00:00:37,345
+November twenty twenty,
+
+16
+00:00:37,345 --> 00:00:41,159
+TechCrunch from September twenty twenty-one,
+
+17
+00:00:41,159 --> 00:00:44,281
+IEEE Spectrum, an Autocar road test,
+
+18
+00:00:44,281 --> 00:00:47,142
+Auto Bild, and cost pages we flag
+
+19
+00:00:47,142 --> 00:00:48,009
+as weaker.
+
+20
+00:00:48,189 --> 00:00:49,673
+Where they disagree,
+
+21
+00:00:49,673 --> 00:00:51,231
+we show both figures.
+
+22
+00:00:51,411 --> 00:00:53,849
+Our own arithmetic is labelled.
+
+23
+00:00:54,199 --> 00:00:56,498
+The SVJ has a six point five
+
+24
+00:00:56,498 --> 00:00:58,963
+litre naturally aspirated V12,
+
+25
+00:00:58,963 --> 00:01:02,248
+seven hundred seventy metric horsepower,
+
+26
+00:01:02,248 --> 00:01:05,123
+seven fifty-nine in the usual unit.
+
+27
+00:01:05,303 --> 00:01:07,676
+The STO has a five point two
+
+28
+00:01:07,676 --> 00:01:11,743
+litre naturally aspirated V10 making six hundred
+
+29
+00:01:11,743 --> 00:01:13,777
+forty metric horsepower,
+
+30
+00:01:13,777 --> 00:01:16,235
+or six thirty-one horsepower,
+
+31
+00:01:16,235 --> 00:01:17,506
+says Wikipedia.
+
+32
+00:01:17,686 --> 00:01:20,089
+Motor1 says six thirty.
+
+33
+00:01:20,269 --> 00:01:23,119
+Both cars rev to roughly eight thousand
+
+34
+00:01:23,119 --> 00:01:25,238
+revs, according to Wikipedia.
+
+35
+00:01:25,587 --> 00:01:26,988
+By our arithmetic,
+
+36
+00:01:26,988 --> 00:01:30,334
+the SVJ makes twenty-one percent more power
+
+37
+00:01:30,334 --> 00:01:33,680
+from twenty-five percent more displacement.
+
+38
+00:01:33,860 --> 00:01:37,188
+Per litre, that is one hundred sixteen
+
+39
+00:01:37,188 --> 00:01:40,516
+point eight horsepower for the SVJ and
+
+40
+00:01:40,516 --> 00:01:44,107
+one hundred twenty-one point four for the
+
+41
+00:01:44,107 --> 00:01:47,173
+STO, so the smaller V10 is slightly
+
+42
+00:01:47,173 --> 00:01:49,888
+more efficient at making power,
+
+43
+00:01:49,888 --> 00:01:52,691
+on paper, by about four percent.
+
+44
+00:01:53,040 --> 00:01:55,682
+Torque is where the STO is weaker,
+
+45
+00:01:55,682 --> 00:01:58,323
+and the sources conflict about it.
+
+46
+00:01:58,503 --> 00:02:02,946
+Wikipedia's table gives five hundred sixty-five newton-metres
+
+47
+00:02:02,946 --> 00:02:05,786
+at sixty-five hundred revs for the STO,
+
+48
+00:02:05,786 --> 00:02:08,263
+while its section on the Evo gives
+
+49
+00:02:08,263 --> 00:02:09,428
+six hundred one.
+
+50
+00:02:09,608 --> 00:02:12,610
+Motor1 notes that five sixty-five is less
+
+51
+00:02:12,610 --> 00:02:14,880
+than the six hundred of the Evo
+
+52
+00:02:14,880 --> 00:02:16,052
+and Performante.
+
+53
+00:02:16,232 --> 00:02:19,273
+The SVJ's is seven hundred twenty.
+
+54
+00:02:19,623 --> 00:02:20,924
+By our arithmetic,
+
+55
+00:02:20,924 --> 00:02:24,246
+the SVJ's torque is twenty-seven percent above
+
+56
+00:02:24,246 --> 00:02:26,124
+the STO's five sixty-five,
+
+57
+00:02:26,124 --> 00:02:28,435
+a bigger gap than the power gap.
+
+58
+00:02:28,615 --> 00:02:31,797
+That matches the difference in engine size.
+
+59
+00:02:31,977 --> 00:02:34,201
+But torque at the engine is not
+
+60
+00:02:34,201 --> 00:02:35,350
+the whole story,
+
+61
+00:02:35,350 --> 00:02:37,790
+because the STO is lighter and the
+
+62
+00:02:37,790 --> 00:02:40,302
+SVJ must put its power down through
+
+63
+00:02:40,302 --> 00:02:41,450
+all four wheels.
+
+64
+00:02:41,630 --> 00:02:43,140
+The next rounds look at that.
+
+65
+00:02:43,489 --> 00:02:43,919
+Weight.
+
+66
+00:02:44,099 --> 00:02:46,653
+Motor1 gives the STO a dry weight
+
+67
+00:02:46,653 --> 00:02:49,904
+of thirteen hundred thirty-nine kilograms,
+
+68
+00:02:49,904 --> 00:02:53,619
+forty-three kilograms less than the Performante.
+
+69
+00:02:53,799 --> 00:02:56,293
+Wikipedia does not state a weight but
+
+70
+00:02:56,293 --> 00:02:59,999
+its power-to-weight ratio implies about thirteen forty.
+
+71
+00:03:00,179 --> 00:03:03,371
+The SVJ's claimed dry weight is fifteen
+
+72
+00:03:03,371 --> 00:03:08,118
+twenty-five, and tested weight seventeen seventy according
+
+73
+00:03:08,118 --> 00:03:10,164
+to Autocar and Wikipedia.
+
+74
+00:03:10,513 --> 00:03:11,725
+By our arithmetic,
+
+75
+00:03:11,725 --> 00:03:14,620
+the SVJ is one hundred eighty-six kilograms
+
+76
+00:03:14,620 --> 00:03:17,043
+heavier than the STO on dry weights,
+
+77
+00:03:17,043 --> 00:03:18,524
+fourteen percent more.
+
+78
+00:03:18,704 --> 00:03:21,141
+But the comparison is not like for
+
+79
+00:03:21,141 --> 00:03:24,007
+like if the STO's figure excludes fluids
+
+80
+00:03:24,007 --> 00:03:27,017
+and the SVJ's tested figure includes them.
+
+81
+00:03:27,197 --> 00:03:29,855
+The STO's tested weight is not in
+
+82
+00:03:29,855 --> 00:03:32,674
+our sources, so we compare only the
+
+83
+00:03:32,674 --> 00:03:33,641
+dry numbers.
+
+84
+00:03:33,990 --> 00:03:35,318
+Power to weight,
+
+85
+00:03:35,318 --> 00:03:38,387
+by our arithmetic and on dry weights:
+
+86
+00:03:38,387 --> 00:03:42,535
+the SVJ's seven hundred fifty-nine horsepower over
+
+87
+00:03:42,535 --> 00:03:46,517
+fifteen twenty-five kilograms is zero point four
+
+88
+00:03:46,517 --> 00:03:49,420
+nine eight horsepower per kilogram.
+
+89
+00:03:49,600 --> 00:03:53,517
+The STO's six thirty-one over thirteen thirty-nine
+
+90
+00:03:53,517 --> 00:03:55,788
+is zero point four seven one.
+
+91
+00:03:55,968 --> 00:03:59,080
+The SVJ leads by about six percent.
+
+92
+00:03:59,260 --> 00:04:01,699
+The STO is much closer than its
+
+93
+00:04:01,699 --> 00:04:03,509
+power deficit suggests.
+
+94
+00:04:03,858 --> 00:04:07,003
+Wikipedia's own figure for the STO is
+
+95
+00:04:07,003 --> 00:04:10,657
+two point oh nine kilograms per horsepower,
+
+96
+00:04:10,657 --> 00:04:13,972
+without fluids, and Auto Bild gives the
+
+97
+00:04:13,972 --> 00:04:17,201
+SVJ one point nine eight kilograms per
+
+98
+00:04:17,201 --> 00:04:18,731
+metric horsepower.
+
+99
+00:04:18,911 --> 00:04:20,307
+By our arithmetic,
+
+100
+00:04:20,307 --> 00:04:24,106
+thirteen thirty-nine divided by six hundred forty
+
+101
+00:04:24,106 --> 00:04:25,734
+is two point oh nine,
+
+102
+00:04:25,734 --> 00:04:29,224
+so Wikipedia's figure is in metric horsepower
+
+103
+00:04:29,224 --> 00:04:29,534
+too.
+
+104
+00:04:29,714 --> 00:04:31,236
+In the same unit,
+
+105
+00:04:31,236 --> 00:04:34,370
+the SVJ leads by about six percent.
+
+106
+00:04:34,719 --> 00:04:37,628
+The STO is rear-wheel drive only,
+
+107
+00:04:37,628 --> 00:04:40,977
+Motor1 says, with rear-wheel steering.
+
+108
+00:04:41,157 --> 00:04:43,604
+The SVJ is all-wheel drive,
+
+109
+00:04:43,604 --> 00:04:46,686
+with an AWD system that can switch
+
+110
+00:04:46,686 --> 00:04:48,861
+to rear-wheel-only mode,
+
+111
+00:04:48,861 --> 00:04:50,583
+says IEEE Spectrum,
+
+112
+00:04:50,583 --> 00:04:55,658
+plus rear-wheel steering and magnetorheological dampers.
+
+113
+00:04:55,838 --> 00:04:58,267
+Auto Bild says that in Sport mode
+
+114
+00:04:58,267 --> 00:05:01,065
+eighty percent of the SVJ's power goes
+
+115
+00:05:01,065 --> 00:05:02,316
+to the rear axle.
+
+116
+00:05:02,666 --> 00:05:05,000
+Both have clever aerodynamics.
+
+117
+00:05:05,180 --> 00:05:07,299
+The STO has a rear wing with
+
+118
+00:05:07,299 --> 00:05:09,040
+three manual positions,
+
+119
+00:05:09,040 --> 00:05:12,295
+TechCrunch says, which can shift the centre
+
+120
+00:05:12,295 --> 00:05:15,020
+of gravity by up to thirteen percent
+
+121
+00:05:15,020 --> 00:05:17,745
+and add more than two hundred pounds
+
+122
+00:05:17,745 --> 00:05:18,729
+of downforce.
+
+123
+00:05:18,909 --> 00:05:21,827
+The SVJ's ALA system is active,
+
+124
+00:05:21,827 --> 00:05:24,650
+adjusting every half a second,
+
+125
+00:05:24,650 --> 00:05:25,968
+per Wikipedia.
+
+126
+00:05:26,148 --> 00:05:28,142
+One is set by the driver,
+
+127
+00:05:28,142 --> 00:05:29,817
+the other by the car.
+
+128
+00:05:30,166 --> 00:05:34,334
+Aerodynamic claims, each against its own predecessor.
+
+129
+00:05:34,514 --> 00:05:37,706
+Motor1 says the STO has thirty-seven percent
+
+130
+00:05:37,706 --> 00:05:41,914
+higher aerodynamic efficiency and fifty-three percent more
+
+131
+00:05:41,914 --> 00:05:44,162
+downforce than the Performante.
+
+132
+00:05:44,342 --> 00:05:45,227
+For the SVJ,
+
+133
+00:05:45,227 --> 00:05:48,765
+Wikipedia says forty percent more downforce than
+
+134
+00:05:48,765 --> 00:05:50,902
+the SV, and IEEE says thirty.
+
+135
+00:05:51,082 --> 00:05:53,806
+These are not comparable across cars,
+
+136
+00:05:53,806 --> 00:05:56,604
+since each percentage is relative to a
+
+137
+00:05:56,604 --> 00:05:59,697
+different base, as we cannot convert them.
+
+138
+00:06:00,046 --> 00:06:03,782
+Materials: Motor1 and TechCrunch say more than
+
+139
+00:06:03,782 --> 00:06:07,436
+seventy-five percent of the STO's bodywork is
+
+140
+00:06:07,436 --> 00:06:10,522
+carbon fibre, and Motor1 adds that the
+
+141
+00:06:10,522 --> 00:06:14,177
+windscreen is twenty percent lighter than the
+
+142
+00:06:14,177 --> 00:06:15,314
+Performante's.
+
+143
+00:06:15,494 --> 00:06:18,036
+The SVJ's wing is a polymer stiffened
+
+144
+00:06:18,036 --> 00:06:19,272
+with carbon fibre,
+
+145
+00:06:19,272 --> 00:06:20,509
+according to IEEE.
+
+146
+00:06:20,689 --> 00:06:23,937
+Neither source gives the SVJ's carbon share,
+
+147
+00:06:23,937 --> 00:06:26,299
+so we cannot compare it with the
+
+148
+00:06:26,299 --> 00:06:27,701
+STO's seventy-five.
+
+149
+00:06:28,051 --> 00:06:30,211
+Brakes: both use carbon-ceramic.
+
+150
+00:06:30,391 --> 00:06:32,565
+The STO has Brembo CCM-R,
+
+151
+00:06:32,565 --> 00:06:36,654
+which TechCrunch calls derived from Formula One
+
+152
+00:06:36,654 --> 00:06:39,698
+and the first such application on a
+
+153
+00:06:39,698 --> 00:06:41,177
+consumer vehicle.
+
+154
+00:06:41,357 --> 00:06:43,069
+The SVJ, per Autocar,
+
+155
+00:06:43,069 --> 00:06:48,125
+has four-hundred-millimetre front and three-eighty rear discs.
+
+156
+00:06:48,305 --> 00:06:51,212
+Both claim about thirty metres from one
+
+157
+00:06:51,212 --> 00:06:53,895
+hundred kilometres per hour to rest,
+
+158
+00:06:53,895 --> 00:06:55,759
+per Motor1 and Auto Bild.
+
+159
+00:06:56,108 --> 00:06:57,873
+A note on that last pair.
+
+160
+00:06:58,053 --> 00:07:01,417
+Motor1's thirty metres is for sixty-two miles
+
+161
+00:07:01,417 --> 00:07:04,482
+per hour, which is one hundred kilometres
+
+162
+00:07:04,482 --> 00:07:06,874
+per hour, and Auto Bild's is for
+
+163
+00:07:06,874 --> 00:07:07,771
+one hundred.
+
+164
+00:07:07,951 --> 00:07:10,830
+So the two claims are directly comparable,
+
+165
+00:07:10,830 --> 00:07:12,338
+and they are the same:
+
+166
+00:07:12,338 --> 00:07:13,709
+about thirty metres.
+
+167
+00:07:13,889 --> 00:07:16,944
+Autocar's measured seventy to zero miles per
+
+168
+00:07:16,944 --> 00:07:19,374
+hour of forty point eight metres is
+
+169
+00:07:19,374 --> 00:07:20,762
+a different measure.
+
+170
+00:07:21,112 --> 00:07:22,343
+Acceleration.
+
+171
+00:07:22,523 --> 00:07:25,184
+The STO: zero to one hundred in
+
+172
+00:07:25,184 --> 00:07:28,361
+three seconds and zero to two hundred
+
+173
+00:07:28,361 --> 00:07:31,881
+in nine, Wikipedia says; Motor1 the same.
+
+174
+00:07:32,061 --> 00:07:35,420
+TechCrunch says under three seconds to sixty
+
+175
+00:07:35,420 --> 00:07:36,565
+miles per hour.
+
+176
+00:07:36,745 --> 00:07:39,289
+The SVJ: two point eight to one
+
+177
+00:07:39,289 --> 00:07:42,079
+hundred and eight point six to two
+
+178
+00:07:42,079 --> 00:07:43,967
+hundred, per Wikipedia.
+
+179
+00:07:44,147 --> 00:07:47,111
+Autocar measured two point nine to sixty
+
+180
+00:07:47,111 --> 00:07:48,222
+miles per hour.
+
+181
+00:07:48,571 --> 00:07:49,994
+By our arithmetic,
+
+182
+00:07:49,994 --> 00:07:52,603
+the SVJ is zero point two seconds
+
+183
+00:07:52,603 --> 00:07:54,421
+quicker to one hundred,
+
+184
+00:07:54,421 --> 00:07:57,663
+seven percent, and four tenths quicker to
+
+185
+00:07:57,663 --> 00:08:00,588
+two hundred, four and a half percent.
+
+186
+00:08:00,768 --> 00:08:03,439
+The STO's claimed three seconds to one
+
+187
+00:08:03,439 --> 00:08:06,321
+hundred is a rounded manufacturer figure,
+
+188
+00:08:06,321 --> 00:08:08,430
+and the SVJ's figures are too.
+
+189
+00:08:08,610 --> 00:08:11,678
+Differences this small would be hard to
+
+190
+00:08:11,678 --> 00:08:13,959
+see without timing equipment,
+
+191
+00:08:13,959 --> 00:08:16,633
+and no independent test of the STO
+
+192
+00:08:16,633 --> 00:08:18,049
+is in our sources.
+
+193
+00:08:18,399 --> 00:08:20,925
+Top speed: the STO is listed at
+
+194
+00:08:20,925 --> 00:08:24,184
+one hundred ninety-three miles per hour,
+
+195
+00:08:24,184 --> 00:08:27,362
+which Motor1 gives as three hundred ten
+
+196
+00:08:27,362 --> 00:08:30,784
+kilometres per hour and Wikipedia as three
+
+197
+00:08:30,784 --> 00:08:32,006
+hundred eleven.
+
+198
+00:08:32,186 --> 00:08:34,849
+The SVJ is three hundred fifty,
+
+199
+00:08:34,849 --> 00:08:38,026
+two hundred seventeen miles per hour.
+
+200
+00:08:38,206 --> 00:08:39,654
+By our arithmetic,
+
+201
+00:08:39,654 --> 00:08:42,630
+the SVJ's claimed top speed is twelve
+
+202
+00:08:42,630 --> 00:08:44,721
+and a half percent higher,
+
+203
+00:08:44,721 --> 00:08:47,134
+or twenty-four miles per hour.
+
+204
+00:08:47,484 --> 00:08:49,041
+On the Nürburgring,
+
+205
+00:08:49,041 --> 00:08:52,155
+the SVJ lapped in six forty-four point
+
+206
+00:08:52,155 --> 00:08:55,024
+nine seven in July twenty eighteen,
+
+207
+00:08:55,024 --> 00:08:57,318
+Wikipedia and Auto Bild say.
+
+208
+00:08:57,498 --> 00:08:59,658
+The Huracán Performante,
+
+209
+00:08:59,658 --> 00:09:02,719
+which the STO partly derives from,
+
+210
+00:09:02,719 --> 00:09:05,509
+did six fifty-two point oh one.
+
+211
+00:09:05,689 --> 00:09:08,104
+Wikipedia lists no STO lap time,
+
+212
+00:09:08,104 --> 00:09:10,821
+and our other sources do not either.
+
+213
+00:09:11,001 --> 00:09:13,979
+So there is no like-for-like lap between
+
+214
+00:09:13,979 --> 00:09:16,213
+these two cars in our sources.
+
+215
+00:09:16,563 --> 00:09:17,945
+Now the price.
+
+216
+00:09:18,125 --> 00:09:20,662
+Motor1 says the STO starts at three
+
+217
+00:09:20,662 --> 00:09:25,373
+hundred twenty-seven thousand eight hundred thirty-eight dollars,
+
+218
+00:09:25,373 --> 00:09:27,837
+against the Huracán Evo RWD at two
+
+219
+00:09:27,837 --> 00:09:31,533
+hundred eight thousand five hundred seventy-one and
+
+220
+00:09:31,533 --> 00:09:34,432
+the Performante at launch at two hundred
+
+221
+00:09:34,432 --> 00:09:37,548
+seventy-four thousand three hundred ninety.
+
+222
+00:09:37,728 --> 00:09:42,079
+TechCrunch repeats the three twenty-seven eight thirty-eight
+
+223
+00:09:42,079 --> 00:09:44,544
+figure, before taxes and delivery.
+
+224
+00:09:44,893 --> 00:09:47,535
+The SVJ's base price is five hundred
+
+225
+00:09:47,535 --> 00:09:51,131
+seventeen thousand seven hundred seventy dollars,
+
+226
+00:09:51,131 --> 00:09:52,526
+IEEE Spectrum says,
+
+227
+00:09:52,526 --> 00:09:56,268
+and the roadster five seventy-three nine sixty-six,
+
+228
+00:09:56,268 --> 00:09:58,837
+per the unsourced Automonitor page.
+
+229
+00:09:59,017 --> 00:10:00,219
+By our arithmetic,
+
+230
+00:10:00,219 --> 00:10:03,089
+the SVJ coupé cost fifty-eight percent more
+
+231
+00:10:03,089 --> 00:10:04,625
+than the STO at launch,
+
+232
+00:10:04,625 --> 00:10:07,829
+a difference of one hundred eighty-nine thousand
+
+233
+00:10:07,829 --> 00:10:09,965
+nine hundred thirty-two dollars.
+
+234
+00:10:10,145 --> 00:10:12,460
+The STO is the cheaper car by
+
+235
+00:10:12,460 --> 00:10:14,615
+about thirty-seven percent.
+
+236
+00:10:14,965 --> 00:10:17,659
+Lambocars, in May twenty twenty-two,
+
+237
+00:10:17,659 --> 00:10:20,427
+lists the STO at three hundred thirty
+
+238
+00:10:20,427 --> 00:10:21,699
+thousand dollars.
+
+239
+00:10:21,879 --> 00:10:24,603
+Autocar says the SVJ starts at three
+
+240
+00:10:24,603 --> 00:10:27,781
+hundred sixty thousand pounds and the test
+
+241
+00:10:27,781 --> 00:10:30,505
+car cost over four hundred thousand.
+
+242
+00:10:30,685 --> 00:10:32,878
+We have no exchange rate in our
+
+243
+00:10:32,878 --> 00:10:35,706
+sources, so we leave the sterling figure
+
+244
+00:10:35,706 --> 00:10:36,131
+alone.
+
+245
+00:10:36,311 --> 00:10:39,143
+In dollars, the SVJ costs about one
+
+246
+00:10:39,143 --> 00:10:41,651
+point five eight times the STO.
+
+247
+00:10:42,001 --> 00:10:43,854
+Dollars per horsepower,
+
+248
+00:10:43,854 --> 00:10:45,304
+by our arithmetic:
+
+249
+00:10:45,304 --> 00:10:48,686
+the SVJ at five hundred seventeen thousand
+
+250
+00:10:48,686 --> 00:10:52,391
+seven hundred seventy over seven fifty-nine is
+
+251
+00:10:52,391 --> 00:10:56,096
+six hundred eighty-two dollars per horsepower.
+
+252
+00:10:56,276 --> 00:10:59,552
+The STO at three twenty-seven eight thirty-eight
+
+253
+00:10:59,552 --> 00:11:02,487
+over six thirty-one is five hundred twenty.
+
+254
+00:11:02,667 --> 00:11:05,275
+The STO gives you a horsepower for
+
+255
+00:11:05,275 --> 00:11:07,652
+twenty-four percent less money,
+
+256
+00:11:07,652 --> 00:11:10,259
+though the SVJ comes with a larger
+
+257
+00:11:10,259 --> 00:11:11,793
+engine and a record.
+
+258
+00:11:12,142 --> 00:11:12,955
+Production.
+
+259
+00:11:13,135 --> 00:11:14,209
+For the SVJ,
+
+260
+00:11:14,209 --> 00:11:17,429
+Wikipedia lists nine hundred coupés,
+
+261
+00:11:17,429 --> 00:11:20,113
+though it asks for a citation,
+
+262
+00:11:20,113 --> 00:11:22,260
+eight hundred roadsters,
+
+263
+00:11:22,260 --> 00:11:25,301
+and sixty-three of each in the SVJ
+
+264
+00:11:25,301 --> 00:11:25,569
+63.
+
+265
+00:11:25,749 --> 00:11:26,605
+For the STO,
+
+266
+00:11:26,605 --> 00:11:29,030
+Wikipedia gives no specific count,
+
+267
+00:11:29,030 --> 00:11:31,883
+only yearly totals for the whole Huracán
+
+268
+00:11:31,883 --> 00:11:32,239
+line.
+
+269
+00:11:32,419 --> 00:11:35,157
+TechCrunch says the line is limited to
+
+270
+00:11:35,157 --> 00:11:38,254
+about twenty-five hundred cars per year and
+
+271
+00:11:38,254 --> 00:11:40,559
+the STO was already sold out for
+
+272
+00:11:40,559 --> 00:11:41,928
+the following year.
+
+273
+00:11:42,277 --> 00:11:45,629
+TechCrunch also says Huracán sales since the
+
+274
+00:11:45,629 --> 00:11:49,591
+twenty fourteen launch total seventeen thousand five
+
+275
+00:11:49,591 --> 00:11:50,962
+hundred worldwide.
+
+276
+00:11:51,142 --> 00:11:54,447
+Wikipedia's yearly table sums to about twenty-nine
+
+277
+00:11:54,447 --> 00:11:57,885
+thousand seven hundred ninety-five by our arithmetic
+
+278
+00:11:57,885 --> 00:12:00,662
+for twenty fourteen to twenty twenty-four.
+
+279
+00:12:00,842 --> 00:12:01,978
+The dates differ,
+
+280
+00:12:01,978 --> 00:12:04,385
+so the numbers are not inconsistent,
+
+281
+00:12:04,385 --> 00:12:06,724
+but the STO's share of either total
+
+282
+00:12:06,724 --> 00:12:07,460
+is unknown.
+
+283
+00:12:07,809 --> 00:12:09,149
+By our arithmetic,
+
+284
+00:12:09,149 --> 00:12:12,199
+the Huracán grew by about twelve thousand
+
+285
+00:12:12,199 --> 00:12:16,217
+three hundred cars between September twenty twenty-one
+
+286
+00:12:16,217 --> 00:12:18,747
+and the end of twenty twenty-four,
+
+287
+00:12:18,747 --> 00:12:21,277
+roughly three and a quarter years.
+
+288
+00:12:21,457 --> 00:12:24,044
+That is about thirty-eight hundred cars a
+
+289
+00:12:24,044 --> 00:12:27,262
+year, higher than TechCrunch's twenty-five hundred.
+
+290
+00:12:27,442 --> 00:12:31,135
+That could reflect production increases or different
+
+291
+00:12:31,135 --> 00:12:33,692
+counting, and the sources do not say
+
+292
+00:12:33,692 --> 00:12:34,118
+which.
+
+293
+00:12:34,467 --> 00:12:36,852
+The Aventador, for comparison,
+
+294
+00:12:36,852 --> 00:12:39,872
+was planned at four thousand and ended
+
+295
+00:12:39,872 --> 00:12:43,608
+up at eleven thousand eight hundred thirty-one,
+
+296
+00:12:43,608 --> 00:12:44,800
+Wikipedia says.
+
+297
+00:12:44,980 --> 00:12:46,082
+By our arithmetic,
+
+298
+00:12:46,082 --> 00:12:48,652
+the SVJ family of eighteen twenty-six cars
+
+299
+00:12:48,652 --> 00:12:50,672
+is about fifteen percent of that,
+
+300
+00:12:50,672 --> 00:12:52,875
+while the STO's share of the Huracán
+
+301
+00:12:52,875 --> 00:12:53,549
+is unknown.
+
+302
+00:12:53,729 --> 00:12:56,295
+Rarity within the model is one of
+
+303
+00:12:56,295 --> 00:12:58,628
+the SVJ's clearest advantages.
+
+304
+00:12:58,978 --> 00:12:59,709
+Fuel.
+
+305
+00:12:59,889 --> 00:13:03,244
+Autocar measured eleven point nine miles per
+
+306
+00:13:03,244 --> 00:13:04,692
+gallon for the SVJ,
+
+307
+00:13:04,692 --> 00:13:07,894
+and four hundred fifty-two grams of carbon
+
+308
+00:13:07,894 --> 00:13:09,572
+dioxide per kilometre.
+
+309
+00:13:09,752 --> 00:13:13,251
+Lambocars says a twenty nineteen Aventador can
+
+310
+00:13:13,251 --> 00:13:16,141
+use up to sixty-six hundred dollars of
+
+311
+00:13:16,141 --> 00:13:17,054
+fuel a year.
+
+312
+00:13:17,234 --> 00:13:19,975
+The STO's consumption is not in our
+
+313
+00:13:19,975 --> 00:13:20,601
+sources.
+
+314
+00:13:20,781 --> 00:13:23,810
+Wikipedia lists figures only for the Aventador
+
+315
+00:13:23,810 --> 00:13:25,982
+and the earlier Huracán variants.
+
+316
+00:13:26,333 --> 00:13:29,049
+Depreciation is a surprise.
+
+317
+00:13:29,229 --> 00:13:31,573
+Lambocars, citing CarEdge,
+
+318
+00:13:31,573 --> 00:13:35,179
+says an Aventador loses up to thirty-one
+
+319
+00:13:35,179 --> 00:13:38,965
+percent over five years at twelve thousand
+
+320
+00:13:38,965 --> 00:13:40,137
+miles a year,
+
+321
+00:13:40,137 --> 00:13:43,022
+and a Huracán forty-six percent.
+
+322
+00:13:43,202 --> 00:13:44,453
+By our arithmetic,
+
+323
+00:13:44,453 --> 00:13:49,317
+a three-hundred-twenty-thousand-dollar Aventador would lose almost one
+
+324
+00:13:49,317 --> 00:13:51,054
+hundred thousand dollars,
+
+325
+00:13:51,054 --> 00:13:52,583
+as the article states.
+
+326
+00:13:52,763 --> 00:13:55,562
+These are averages for the models,
+
+327
+00:13:55,562 --> 00:13:58,196
+not the SVJ or STO specifically.
+
+328
+00:13:58,547 --> 00:14:02,944
+Autocar's SVJ review criticised the single-clutch gearbox,
+
+329
+00:14:02,944 --> 00:14:05,749
+interior ergonomics and ride comfort,
+
+330
+00:14:05,749 --> 00:14:08,554
+and praised the engine and precision.
+
+331
+00:14:08,734 --> 00:14:12,148
+TechCrunch says the STO uses a seven-speed
+
+332
+00:14:12,148 --> 00:14:13,773
+dual-clutch gearbox.
+
+333
+00:14:13,953 --> 00:14:16,285
+Wikipedia mentions three modes,
+
+334
+00:14:16,285 --> 00:14:18,090
+STO, Trofeo and Pioggia,
+
+335
+00:14:18,090 --> 00:14:21,174
+and racing harnesses on the bucket seats.
+
+336
+00:14:21,354 --> 00:14:24,592
+Neither source reviews the STO's comfort or
+
+337
+00:14:24,592 --> 00:14:26,324
+its everyday usability.
+
+338
+00:14:26,674 --> 00:14:30,127
+Connected tech: TechCrunch says the STO has
+
+339
+00:14:30,127 --> 00:14:32,456
+telemetry that records brake,
+
+340
+00:14:32,456 --> 00:14:35,508
+throttle and steering data with video,
+
+341
+00:14:35,508 --> 00:14:38,318
+viewable through Lamborghini's app.
+
+342
+00:14:38,498 --> 00:14:42,578
+The SVJ's seven-inch infotainment screen is called
+
+343
+00:14:42,578 --> 00:14:44,210
+outdated by Autocar.
+
+344
+00:14:44,390 --> 00:14:45,637
+By our arithmetic,
+
+345
+00:14:45,637 --> 00:14:48,062
+a car launched in twenty twenty had
+
+346
+00:14:48,062 --> 00:14:49,725
+a connected data system,
+
+347
+00:14:49,725 --> 00:14:52,566
+while the car launched in twenty eighteen
+
+348
+00:14:52,566 --> 00:14:54,990
+had a screen the reviewer disliked.
+
+349
+00:14:55,340 --> 00:14:59,555
+TechCrunch quotes Lamborghini's chief executive saying the
+
+350
+00:14:59,555 --> 00:15:02,099
+Huracán STO is a celebration of the
+
+351
+00:15:02,099 --> 00:15:05,369
+combustion engine, and that the Huracán would
+
+352
+00:15:05,369 --> 00:15:07,985
+be hybridised by twenty twenty-four,
+
+353
+00:15:07,985 --> 00:15:10,747
+with combustion versions discontinued.
+
+354
+00:15:10,927 --> 00:15:13,965
+Wikipedia says the Huracán ran to twenty
+
+355
+00:15:13,965 --> 00:15:17,382
+twenty-four, with the Temerario as successor.
+
+356
+00:15:17,562 --> 00:15:19,669
+IEEE says a hybrid successor to the
+
+357
+00:15:19,669 --> 00:15:21,475
+Aventador was being developed.
+
+358
+00:15:21,824 --> 00:15:24,390
+Both cars are therefore among the last
+
+359
+00:15:24,390 --> 00:15:25,335
+of their kind,
+
+360
+00:15:25,335 --> 00:15:26,550
+in different ways.
+
+361
+00:15:26,730 --> 00:15:30,090
+The SVJ is a naturally aspirated V12
+
+362
+00:15:30,090 --> 00:15:34,104
+flagship, the STO a naturally aspirated V10
+
+363
+00:15:34,104 --> 00:15:36,064
+homologation special.
+
+364
+00:15:36,244 --> 00:15:38,856
+Neither source ranks them against each other.
+
+365
+00:15:39,036 --> 00:15:42,586
+Our judgement is that they answer different
+
+366
+00:15:42,586 --> 00:15:45,559
+questions: the SVJ is about maximum,
+
+367
+00:15:45,559 --> 00:15:47,210
+the STO about focus.
+
+368
+00:15:47,390 --> 00:15:49,018
+That judgement is ours,
+
+369
+00:15:49,018 --> 00:15:51,001
+not a documented comparison.
+
+370
+00:15:51,350 --> 00:15:53,238
+If we had to give one number
+
+371
+00:15:53,238 --> 00:15:54,924
+to sum up the difference,
+
+372
+00:15:54,924 --> 00:15:56,744
+it is the gap in dry weight
+
+373
+00:15:56,744 --> 00:15:57,621
+and in price:
+
+374
+00:15:57,621 --> 00:16:00,588
+a hundred eighty-six kilograms and a hundred
+
+375
+00:16:00,588 --> 00:16:02,206
+ninety thousand dollars.
+
+376
+00:16:02,386 --> 00:16:03,777
+By our arithmetic,
+
+377
+00:16:03,777 --> 00:16:06,947
+that is about one thousand twenty dollars
+
+378
+00:16:06,947 --> 00:16:09,498
+for each kilogram the SVJ adds to
+
+379
+00:16:09,498 --> 00:16:12,281
+the STO, which buys a bigger engine,
+
+380
+00:16:12,281 --> 00:16:14,832
+all-wheel drive and a record lap.
+
+381
+00:16:15,181 --> 00:16:18,454
+The STO's name stands for Super Trofeo
+
+382
+00:16:18,454 --> 00:16:20,435
+Omologata, Motor1 says:
+
+383
+00:16:20,435 --> 00:16:24,225
+a road-legal version of Squadra Corse's race
+
+384
+00:16:24,225 --> 00:16:24,655
+cars.
+
+385
+00:16:24,835 --> 00:16:27,528
+It was announced on the eighteenth of
+
+386
+00:16:27,528 --> 00:16:29,203
+November twenty twenty,
+
+387
+00:16:29,203 --> 00:16:32,332
+as the successor to the Huracán Performante
+
+388
+00:16:32,332 --> 00:16:34,662
+and above the Huracán Evo in the
+
+389
+00:16:34,662 --> 00:16:35,098
+range.
+
+390
+00:16:35,278 --> 00:16:38,410
+Wikipedia lists its production run as twenty
+
+391
+00:16:38,410 --> 00:16:40,758
+twenty-one to twenty twenty-four.
+
+392
+00:16:41,108 --> 00:16:42,455
+By our arithmetic,
+
+393
+00:16:42,455 --> 00:16:44,848
+the STO was built for about four
+
+394
+00:16:44,848 --> 00:16:48,736
+years, from twenty twenty-one to twenty twenty-four.
+
+395
+00:16:48,916 --> 00:16:51,499
+The SVJ's run is less clear in
+
+396
+00:16:51,499 --> 00:16:54,771
+our sources: it was unveiled at Pebble
+
+397
+00:16:54,771 --> 00:16:56,924
+Beach in twenty eighteen,
+
+398
+00:16:56,924 --> 00:17:00,196
+and the Aventador line ended in twenty
+
+399
+00:17:00,196 --> 00:17:03,467
+twenty-two, so the SVJ's window was at
+
+400
+00:17:03,467 --> 00:17:04,845
+most four years.
+
+401
+00:17:05,025 --> 00:17:08,004
+Neither source gives exact start and end
+
+402
+00:17:08,004 --> 00:17:09,344
+dates for the SVJ.
+
+403
+00:17:09,693 --> 00:17:13,441
+Wikipedia describes three driving modes for the
+
+404
+00:17:13,441 --> 00:17:15,753
+STO: STO, Trofeo and Pioggia,
+
+405
+00:17:15,753 --> 00:17:17,507
+the last meaning rain.
+
+406
+00:17:17,687 --> 00:17:20,886
+TechCrunch calls the modes ANIMA settings,
+
+407
+00:17:20,886 --> 00:17:24,847
+which adjust suspension and torque vectoring through
+
+408
+00:17:24,847 --> 00:17:26,066
+the LDVI system,
+
+409
+00:17:26,066 --> 00:17:28,275
+and also refers to rain mode.
+
+410
+00:17:28,455 --> 00:17:30,687
+So the car has a dedicated wet
+
+411
+00:17:30,687 --> 00:17:33,736
+setting, an unusual thing to highlight on
+
+412
+00:17:33,736 --> 00:17:35,224
+a track-focused car.
+
+413
+00:17:35,573 --> 00:17:37,856
+The STO has a body made from
+
+414
+00:17:37,856 --> 00:17:41,035
+over seventy-five percent carbon fibre,
+
+415
+00:17:41,035 --> 00:17:44,866
+in a design Wikipedia mentions alongside racing
+
+416
+00:17:44,866 --> 00:17:47,311
+harnesses on the bucket seats.
+
+417
+00:17:47,491 --> 00:17:50,034
+TechCrunch adds a shark fin and a
+
+418
+00:17:50,034 --> 00:17:54,504
+Miura-inspired hood-and-fender piece it calls the cofango.
+
+419
+00:17:54,684 --> 00:17:56,553
+These are visual signatures.
+
+420
+00:17:56,733 --> 00:17:58,892
+The sources do not say how much
+
+421
+00:17:58,892 --> 00:18:00,564
+weight each piece saves.
+
+422
+00:18:00,914 --> 00:18:03,863
+What happened to the STO's engine afterwards?
+
+423
+00:18:04,043 --> 00:18:07,139
+Wikipedia says the Huracán Tecnica,
+
+424
+00:18:07,139 --> 00:18:10,588
+unveiled on the twelfth of April twenty
+
+425
+00:18:10,588 --> 00:18:15,099
+twenty-two, uses the STO's naturally aspirated V10,
+
+426
+00:18:15,099 --> 00:18:17,930
+and sits between the Evo RWD and
+
+427
+00:18:17,930 --> 00:18:18,637
+the STO.
+
+428
+00:18:18,817 --> 00:18:20,809
+It has a top speed of 325
+
+429
+00:18:20,809 --> 00:18:23,598
+kilometres per hour and zero to one
+
+430
+00:18:23,598 --> 00:18:26,387
+hundred in three point two seconds.
+
+431
+00:18:26,567 --> 00:18:28,923
+So the STO's engine lived on in
+
+432
+00:18:28,923 --> 00:18:29,760
+a road car.
+
+433
+00:18:30,109 --> 00:18:31,376
+By our arithmetic,
+
+434
+00:18:31,376 --> 00:18:33,838
+the Tecnica is two tenths slower to
+
+435
+00:18:33,838 --> 00:18:36,722
+one hundred than the STO's three seconds,
+
+436
+00:18:36,722 --> 00:18:39,536
+and its top speed is fourteen kilometres
+
+437
+00:18:39,536 --> 00:18:42,069
+per hour higher than the STO's three
+
+438
+00:18:42,069 --> 00:18:43,124
+hundred eleven.
+
+439
+00:18:43,304 --> 00:18:46,977
+Wikipedia credits it with thirty-five percent more
+
+440
+00:18:46,977 --> 00:18:50,135
+downforce and twenty percent less drag than
+
+441
+00:18:50,135 --> 00:18:50,723
+the Evo.
+
+442
+00:18:50,903 --> 00:18:53,621
+Those are different bases from the STO's
+
+443
+00:18:53,621 --> 00:18:55,659
+claims, so none of them can be
+
+444
+00:18:55,659 --> 00:18:56,882
+compared directly.
+
+445
+00:18:57,232 --> 00:18:58,579
+And the Sterrato,
+
+446
+00:18:58,579 --> 00:19:01,192
+shown as a concept in June twenty
+
+447
+00:19:01,192 --> 00:19:03,964
+nineteen and as a production car on
+
+448
+00:19:03,964 --> 00:19:07,449
+the thirtieth of November twenty twenty-two.
+
+449
+00:19:07,629 --> 00:19:11,142
+Wikipedia says one thousand four hundred ninety-nine
+
+450
+00:19:11,142 --> 00:19:14,384
+were built across twenty twenty-three and twenty
+
+451
+00:19:14,384 --> 00:19:17,086
+twenty-four, and it was described as the
+
+452
+00:19:17,086 --> 00:19:20,261
+last non-hybrid model Lamborghini would launch.
+
+453
+00:19:20,441 --> 00:19:23,090
+Its power is six hundred ten metric
+
+454
+00:19:23,090 --> 00:19:26,117
+horsepower and its top speed two hundred
+
+455
+00:19:26,117 --> 00:19:26,571
+sixty.
+
+456
+00:19:26,920 --> 00:19:29,544
+The SVJ also has a lineage.
+
+457
+00:19:29,724 --> 00:19:33,134
+Wikipedia lists the Aventador S in twenty
+
+458
+00:19:33,134 --> 00:19:37,458
+seventeen with seven hundred forty metric horsepower
+
+459
+00:19:37,458 --> 00:19:39,454
+and four-wheel steering,
+
+460
+00:19:39,454 --> 00:19:41,865
+then the SV with seven fifty,
+
+461
+00:19:41,865 --> 00:19:44,360
+then the SVJ at seven seventy,
+
+462
+00:19:44,360 --> 00:19:47,104
+then the Ultimae at seven eighty.
+
+463
+00:19:47,284 --> 00:19:48,590
+By our arithmetic,
+
+464
+00:19:48,590 --> 00:19:51,347
+each step added between ten and thirty
+
+465
+00:19:51,347 --> 00:19:54,321
+metric horsepower, and the whole run from
+
+466
+00:19:54,321 --> 00:19:57,223
+the original seven hundred added eighty.
+
+467
+00:19:57,572 --> 00:19:59,610
+The Roadster arrived earlier,
+
+468
+00:19:59,610 --> 00:20:03,124
+announced on the twenty-seventh of December twenty
+
+469
+00:20:03,124 --> 00:20:05,583
+twelve, with a claimed top speed of
+
+470
+00:20:05,583 --> 00:20:08,394
+three hundred forty-nine and a weight of
+
+471
+00:20:08,394 --> 00:20:10,502
+sixteen twenty-five kilograms,
+
+472
+00:20:10,502 --> 00:20:12,329
+fifty more than the coupé.
+
+473
+00:20:12,509 --> 00:20:15,701
+Its roof panels weigh six kilograms each.
+
+474
+00:20:15,881 --> 00:20:17,348
+The SVJ Roadster,
+
+475
+00:20:17,348 --> 00:20:18,556
+per Auto Bild,
+
+476
+00:20:18,556 --> 00:20:22,352
+would follow in late summer twenty nineteen,
+
+477
+00:20:22,352 --> 00:20:24,682
+around eight hundred units.
+
+478
+00:20:25,031 --> 00:20:28,295
+Autocar compares the SVJ with two rivals
+
+479
+00:20:28,295 --> 00:20:32,211
+in braking: McLaren's Senna stopped from seventy
+
+480
+00:20:32,211 --> 00:20:36,046
+in thirty-seven point four metres and Ferrari's
+
+481
+00:20:36,046 --> 00:20:39,799
+eight twelve Superfast in forty-two point one,
+
+482
+00:20:39,799 --> 00:20:42,737
+against the SVJ's forty point eight.
+
+483
+00:20:42,917 --> 00:20:45,894
+Autocar also ranks its cabin noise second
+
+484
+00:20:45,894 --> 00:20:47,201
+only to the Senna.
+
+485
+00:20:47,381 --> 00:20:50,292
+The outlet sets the car among hypercars
+
+486
+00:20:50,292 --> 00:20:52,605
+rather than other Lamborghinis.
+
+487
+00:20:52,955 --> 00:20:54,439
+By our arithmetic,
+
+488
+00:20:54,439 --> 00:20:57,736
+the SVJ takes nine percent more distance
+
+489
+00:20:57,736 --> 00:21:00,704
+than the Senna to stop from seventy,
+
+490
+00:21:00,704 --> 00:21:03,671
+and three percent less than the 812.
+
+491
+00:21:03,851 --> 00:21:06,226
+In short, it brakes better than a
+
+492
+00:21:06,226 --> 00:21:08,024
+front-engined Ferrari GT,
+
+493
+00:21:08,024 --> 00:21:11,333
+and worse than a lightweight McLaren hypercar,
+
+494
+00:21:11,333 --> 00:21:12,269
+in that test.
+
+495
+00:21:12,449 --> 00:21:15,327
+The STO's own measured stopping distance is
+
+496
+00:21:15,327 --> 00:21:16,599
+not in our sources,
+
+497
+00:21:16,599 --> 00:21:18,741
+only the claim of thirty metres.
+
+498
+00:21:19,091 --> 00:21:21,640
+One more SVJ detail from Autocar:
+
+499
+00:21:21,640 --> 00:21:24,962
+it criticised the transmission and said the
+
+500
+00:21:24,962 --> 00:21:28,438
+next-generation car needs major improvements.
+
+501
+00:21:28,618 --> 00:21:32,107
+The review was republished in twenty twenty-five,
+
+502
+00:21:32,107 --> 00:21:33,032
+per the page,
+
+503
+00:21:33,032 --> 00:21:35,596
+though the original test date is not
+
+504
+00:21:35,596 --> 00:21:36,094
+stated.
+
+505
+00:21:36,274 --> 00:21:39,656
+The STO's seven-speed dual-clutch gearbox,
+
+506
+00:21:39,656 --> 00:21:43,039
+per TechCrunch, is a different design from
+
+507
+00:21:43,039 --> 00:21:46,340
+the SVJ's single-clutch automated manual.
+
+508
+00:21:46,690 --> 00:21:48,353
+Within its own range,
+
+509
+00:21:48,353 --> 00:21:50,649
+the STO's price is a step up.
+
+510
+00:21:50,829 --> 00:21:53,768
+By our arithmetic from Motor1's figures,
+
+511
+00:21:53,768 --> 00:21:57,294
+the STO at three twenty-seven eight thirty-eight
+
+512
+00:21:57,294 --> 00:22:00,232
+is fifty-seven percent above the Evo RWD
+
+513
+00:22:00,232 --> 00:22:03,317
+at two hundred eight thousand five hundred
+
+514
+00:22:03,317 --> 00:22:06,917
+seventy-one, and nearly twenty percent above what
+
+515
+00:22:06,917 --> 00:22:09,855
+the Performante cost at launch in twenty
+
+516
+00:22:09,855 --> 00:22:10,590
+seventeen.
+
+517
+00:22:10,770 --> 00:22:13,588
+The Evo AWD launched at two hundred
+
+518
+00:22:13,588 --> 00:22:17,132
+sixty-one thousand two hundred seventy-four.
+
+519
+00:22:17,481 --> 00:22:21,354
+Weight again: the STO is forty-three kilograms
+
+520
+00:22:21,354 --> 00:22:23,795
+lighter than the Performante,
+
+521
+00:22:23,795 --> 00:22:27,247
+says Motor1, which by our arithmetic puts
+
+522
+00:22:27,247 --> 00:22:31,793
+the Performante at about thirteen eighty-two kilograms
+
+523
+00:22:31,793 --> 00:22:35,076
+dry, assuming both figures use the same
+
+524
+00:22:35,076 --> 00:22:35,581
+basis.
+
+525
+00:22:35,761 --> 00:22:38,682
+The sources do not state the Performante's
+
+526
+00:22:38,682 --> 00:22:41,325
+weight, so that is our derived number,
+
+527
+00:22:41,325 --> 00:22:42,994
+and we label it as such.
+
+528
+00:22:43,344 --> 00:22:46,346
+And the SVJ's relationship to its own
+
+529
+00:22:46,346 --> 00:22:49,754
+range: the sources give no base-car tested
+
+530
+00:22:49,754 --> 00:22:50,322
+weight.
+
+531
+00:22:50,502 --> 00:22:54,217
+The roadster is fifty kilograms heavier than
+
+532
+00:22:54,217 --> 00:22:56,412
+the coupé, Wikipedia says.
+
+533
+00:22:56,592 --> 00:22:58,839
+The sources do not say how weight
+
+534
+00:22:58,839 --> 00:23:00,609
+changed through the range,
+
+535
+00:23:00,609 --> 00:23:03,197
+so we would rather compare dry weights
+
+536
+00:23:03,197 --> 00:23:05,171
+directly than assume a trend.
+
+537
+00:23:05,521 --> 00:23:06,497
+What is missing.
+
+538
+00:23:06,677 --> 00:23:09,730
+A like-for-like lap time for the STO.
+
+539
+00:23:09,910 --> 00:23:11,756
+The STO's production count.
+
+540
+00:23:11,936 --> 00:23:13,039
+Its tested weight.
+
+541
+00:23:13,219 --> 00:23:17,084
+An independent acceleration test of either car
+
+542
+00:23:17,084 --> 00:23:18,177
+side by side.
+
+543
+00:23:18,357 --> 00:23:19,843
+The STO's fuel economy.
+
+544
+00:23:20,023 --> 00:23:22,198
+And the two cars' prices on the
+
+545
+00:23:22,198 --> 00:23:24,655
+same date and in the same currency.
+
+546
+00:23:24,835 --> 00:23:27,311
+If you have primary documents for any
+
+547
+00:23:27,311 --> 00:23:29,653
+of these, put them in the comments.
+
+548
+00:23:30,003 --> 00:23:32,293
+So the real difference is not just
+
+549
+00:23:32,293 --> 00:23:33,034
+horsepower.
+
+550
+00:23:33,214 --> 00:23:36,663
+It is a hundred eighty-six kilograms,
+
+551
+00:23:36,663 --> 00:23:39,366
+two driven axles against one,
+
+552
+00:23:39,366 --> 00:23:41,231
+a V12 against a V10,
+
+553
+00:23:41,231 --> 00:23:44,214
+and an STO priced at roughly two
+
+554
+00:23:44,214 --> 00:23:45,892
+thirds of the SVJ.
+
+555
+00:23:46,072 --> 00:23:48,397
+In the other videos this week,
+
+556
+00:23:48,397 --> 00:23:51,729
+we reveal the SVJ's two lesser-known facts,
+
+557
+00:23:51,729 --> 00:23:54,675
+count the cost of owning an Aventador,
+
+558
+00:23:54,675 --> 00:23:56,845
+and tell why it was the last
+
+559
+00:23:56,845 --> 00:23:57,775
+of its kind.
+
+560
+00:23:57,955 --> 00:24:00,451
+Subscribe to Pickup Reality.
