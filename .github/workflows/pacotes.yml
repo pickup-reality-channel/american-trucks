@@ -31,7 +31,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Skip if the release already exists
         id: chk
-        run: gh release view video$N >/dev/null 2>&1 && echo skip=1 >> $GITHUB_OUTPUT || true
+        run: |
+          # agendamento/rebuild.txt lists videos re-rendered after a release was published: drop that stale release first
+          if grep -qw "$N" agendamento/rebuild.txt 2>/dev/null; then gh release delete video$N --cleanup-tag -y || true; fi
+          gh release view video$N >/dev/null 2>&1 && echo skip=1 >> $GITHUB_OUTPUT || true
       - name: Join the video parts
         if: steps.chk.outputs.skip != '1'
         run: |
