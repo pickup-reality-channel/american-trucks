@@ -1,0 +1,107 @@
+# Photo credits: Bugatti Veyron vs Chiron: The Real Difference
+
+- Bugatti cars at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- FoS20162016 0624 132444AA (27785299372).jpg by Matthew Lamb, CC BY-SA 2.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron Sport (51405376237).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti Chiron 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron Royal Blue.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron 5.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron 2017.jpg by MrWalkr, CC BY-SA 4.0
+- Paris - RM Sotheby’s 2018 - Bugatti Chiron - 2017 - 009.jpg by Thesupermat, CC BY-SA 4.0
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron (53117067637).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- 2018 Bugatti Chiron 4.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 2019.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron (50176389122).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Bugatti Chiron Chantilly Arts & Elegance 2016 01.jpg by Y.Leclercq, CC BY-SA 4.0
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- 2018 Blue Bugatti Chiron at Grand Basel (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Chavannes-le-Veyron - Scierie - 2.jpg by Ludovic Péron, CC BY-SA 3.0
+- Bugatti Chiron Super Sport.jpg by MrWalkr, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Bugatti Chiron Super Sport WRE 2.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Super Sport 1.jpg by Calreyn88, CC BY 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Front.jpg by Vauxford, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0
+- Bugatti Chiron (50176389122) (cropped).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Chiron Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Simply Stunning Two-Tone Bugatti Chiron (53520049769).jpg by crudmucosa, CC BY 2.0
+- LCT 7074 in Portsmouth.jpg by JuneGloom07, CC BY-SA 4.0
+- Lct andi samudera jaya.jpg by Andi Jaya Samudera Line, CC BY-SA 4.0
+- LCT 7074 (D-Day landing craft).jpg by ITookSomePhotos, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0723.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0724.jpg by Alexander Migl, CC BY-SA 4.0
+- Bugatti Chiron 0-400-0 IMG 0719.jpg by Alexander Migl, CC BY-SA 4.0
+- TargetMPG.jpg by Jimad, Public domain
+- Fuel Administration - POSTER USED BY FUEL Administration to encourage economy of fuel - NARA - 31482610.jpg by Unknown authorUnknown author or not provided, Public domain
+- Many-banded daggerwing (Marpesia chiron).JPG by Charles J. Sharp, CC BY-SA 4.0
+- Many-banded daggerwing (Marpesia chiron) underside.JPG by Charles J. Sharp, CC BY-SA 4.0
+- Xylophanes chiron nechus MHNT CUT 2010 0 76 Cali Colombia 1000m female dorsal.jpg by Didier Descouens, CC BY-SA 4.0
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Chiron 2.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron With Lights.jpg by MrWalkr, CC BY-SA 4.0
+- Xylophanes chiron cubanus MHNT CUT 2010 0 76 Puerto Rico Caguas male dorsal.jpg by Didier Descouens, CC BY-SA 4.0
+- Xylophanes chiron cubanus MHNT CUT 2010 0 76 Puerto Rico Caguas male ventral.jpg by Didier Descouens, CC BY-SA 4.0
+- Xylophanes chiron nechus MHNT CUT 2010 0 76 Cali Colombia 1000m female ventral.jpg by Didier Descouens, CC BY-SA 4.0
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Veyron - Ferreyres 1.jpg by Abaddon1337, CC BY-SA 4.0
+- Rivière Veyron Leymiat Poncin 7.jpg by Chabe01, CC BY-SA 4.0
+- Chavannes-le-Veyron - Scierie - 1.jpg by Ludovic Péron, CC BY-SA 3.0
+- Bugatti Veyron scf25.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0
+- BicycleLaneSignage SBTV 20150205.jpg by Niranjan Arminius, CC BY-SA 4.0
+- 10 Cash - Guangxu Yuanbao (Anhui Mint) - Scott Semans 07.jpg by Scott Semans, CC BY 3.0
+- East End of Rundle and Whitemans Pond.jpg by The Cosmonaut, CC BY-SA 2.5 ca
+- Bugatti Chiron Pur Sport.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 10.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Pur Sport 11.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport gfos25 1.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport Les Legendes du Ciel.jpg by Calreyn88, CC BY-SA 4.0
+- Bugatti Chiron Sport gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 7.jpg by Calreyn88, CC BY-SA 4.0
+- 2005 Bugatti Veyron Prototype 6.jpg by Calreyn88, CC BY-SA 4.0
+- Audi 100 Coupé S (Generation C1).jpg by Rolf Kranz, CC BY-SA 4.0
+- Soviet Heavy Transport Airplane Antonov An-22. Советский тяжелый транспортный самолет Ан-22.jpg by Peer.Gynt, CC BY-SA 2.0
+- Lustenau-Mobile crane Mayer-Tadano ATF 400 G-6 400 Tonnen-01ASD.jpg by Asurnipal, CC BY-SA 4.0
+- 2021 Bugatti Chiron Super Sport 8.0 Rear.jpg by Vauxford, CC BY-SA 4.0
+- Bugatti Chiron Super Sport in Dorlisheim.jpg by Alexandre Prevot, CC BY-SA 2.0
+- Chiron SS.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2864).jpg by Matti Blume, CC BY-SA 4.0
+- Buswest Hino RB8 (UBC & Chiron) 1CKL849 @ Tuckett Street,Carlisle.jpg by ZidaneHartono, CC BY-SA 4.0
+- Perth College Hino RB8 (UBC & Chiron) 1DCC215 @ Railway Street,West Perth.jpg by ZidaneHartono, CC BY-SA 4.0
+- Bugatti Chiron, Geneva Motor Show(Ank Kumar, Infosys Limited) 37.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron, Geneva Motor Show(Ank Kumar, Infosys Limited) 30.jpg by Ank Kumar, CC BY-SA 4.0
+- Bugatti Chiron, Geneva Motor Show(Ank Kumar, Infosys Limited) 32.jpg by Ank Kumar, CC BY-SA 4.0
+- Chiron BW.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Chiron Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- Chiron Low.jpg by MrWalkr, CC BY-SA 4.0
+- Bugatti Veyron vs Bugatti Veyron Vitesse (10107122064).jpg by Axion23, CC BY 2.0
+- Bugatti Veyron vs McLaren P1 (14402979385).jpg by Axion23, CC BY 2.0
+- DBSV vs. Veyron. (4285636911).jpg by Damian Morys from New York City, United States, CC BY 2.0
+- Pogatti, BAS 24, Brussels (P1170295-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0132-2).jpg by Matti Blume, CC BY-SA 4.0
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Bugatti Veyron: https://en.wikipedia.org/wiki/Bugatti_Veyron
+- Wikipedia, Bugatti Chiron: https://en.wikipedia.org/wiki/Bugatti_Chiron
+- Wikipedia, Bugatti Chiron Super Sport 300+: https://en.wikipedia.org/wiki/Bugatti_Chiron_Super_Sport_300+
+- Bugatti (company press release), Celebrating the end of the incomparable Chiron era: https://newsroom.bugatti.com/press-releases/celebrating-the-end-of-the-incomparable-chiron-era
+- Carscoops, Bugatti L'Ultime is the final Chiron (probably): https://www.carscoops.com/2024/05/bugatti-lultime-is-the-final-chiron-probably/
+- Motor1, Bugatti Veyron: 20 years: https://www.motor1.com/features/774035/bugatti-veyron-20-years/
+- Jalopnik, Volkswagen loses a staggering $6.25 million on each Bugatti they sell: https://jalopnik.com/volkswagen-loses-a-staggering-6-25-million-on-each-bug-1426504241
