@@ -1,0 +1,2255 @@
+1
+00:00:00,000 --> 00:00:02,736
+A new Aston Martin DB5 cost four
+
+2
+00:00:02,736 --> 00:00:07,182
+thousand one hundred seventy-five pounds in nineteen
+
+3
+00:00:07,182 --> 00:00:08,208
+sixty-three.
+
+4
+00:00:08,388 --> 00:00:11,462
+Today, the Hagerty price guide shows six
+
+5
+00:00:11,462 --> 00:00:15,304
+hundred fifty-nine thousand dollars for a nineteen
+
+6
+00:00:15,304 --> 00:00:16,457
+sixty-five car.
+
+7
+00:00:16,637 --> 00:00:19,725
+A barn-find project once sold for five
+
+8
+00:00:19,725 --> 00:00:21,269
+times its estimate.
+
+9
+00:00:21,449 --> 00:00:23,738
+And a restored one cost four hundred
+
+10
+00:00:23,738 --> 00:00:25,455
+thousand pounds to restore.
+
+11
+00:00:25,635 --> 00:00:28,340
+What a real DB5 costs today depends
+
+12
+00:00:28,340 --> 00:00:30,350
+on which sale you believe,
+
+13
+00:00:30,350 --> 00:00:31,974
+and we show them all.
+
+14
+00:00:32,323 --> 00:00:36,475
+Our sources are the Hagerty valuation page,
+
+15
+00:00:36,475 --> 00:00:40,917
+RM Sotheby's, Bonhams reports from Classic and
+
+16
+00:00:40,917 --> 00:00:44,103
+Sports Car and Supercars dot net,
+
+17
+00:00:44,103 --> 00:00:45,841
+Top Gear, Auto123,
+
+18
+00:00:45,841 --> 00:00:49,896
+Wikipedia, Old Cars Weekly and the Private
+
+19
+00:00:49,896 --> 00:00:52,889
+Fleet blog, plus Census Bureau,
+
+20
+00:00:52,889 --> 00:00:58,103
+Energy Information Administration and Kelley Blue Book
+
+21
+00:00:58,103 --> 00:00:58,876
+figures.
+
+22
+00:00:59,056 --> 00:01:00,713
+We show disagreements,
+
+23
+00:01:00,713 --> 00:01:02,898
+and label our own arithmetic.
+
+24
+00:01:03,078 --> 00:01:05,411
+Running costs are mostly not in our
+
+25
+00:01:05,411 --> 00:01:06,945
+sources, and we say so.
+
+26
+00:01:07,295 --> 00:01:08,990
+Start with the launch price.
+
+27
+00:01:09,170 --> 00:01:12,718
+RM Sotheby's and 007 Travelers give four
+
+28
+00:01:12,718 --> 00:01:16,356
+thousand one hundred seventy-five pounds.
+
+29
+00:01:16,536 --> 00:01:19,049
+The Private Fleet blog gives the same
+
+30
+00:01:19,049 --> 00:01:21,766
+figure for the hardtop and four thousand
+
+31
+00:01:21,766 --> 00:01:24,415
+four hundred ninety pounds for the soft
+
+32
+00:01:24,415 --> 00:01:24,686
+top.
+
+33
+00:01:24,866 --> 00:01:29,092
+Auto123 says four thousand two hundred forty-eight.
+
+34
+00:01:29,272 --> 00:01:30,738
+By our arithmetic,
+
+35
+00:01:30,738 --> 00:01:33,099
+the soft top cost seven and a
+
+36
+00:01:33,099 --> 00:01:35,948
+half percent more than the hardtop.
+
+37
+00:01:36,299 --> 00:01:39,864
+That soft-top premium was three hundred fifteen
+
+38
+00:01:39,864 --> 00:01:41,836
+pounds, by our arithmetic.
+
+39
+00:01:42,016 --> 00:01:44,732
+The Private Fleet blog calls the DB5
+
+40
+00:01:44,732 --> 00:01:47,372
+expensive for its time but gives no
+
+41
+00:01:47,372 --> 00:01:50,465
+comparison price, and our sources give no
+
+42
+00:01:50,465 --> 00:01:53,709
+average car price for nineteen sixty-three,
+
+43
+00:01:53,709 --> 00:01:56,198
+so we cannot say how expensive in
+
+44
+00:01:56,198 --> 00:01:57,330
+relative terms.
+
+45
+00:01:57,680 --> 00:01:59,741
+The Hagerty valuation page,
+
+46
+00:01:59,741 --> 00:02:02,414
+with a value graph from July twenty
+
+47
+00:02:02,414 --> 00:02:05,469
+twenty-four to April twenty twenty-five,
+
+48
+00:02:05,469 --> 00:02:09,210
+shows six hundred fifty-nine thousand dollars for
+
+49
+00:02:09,210 --> 00:02:11,196
+a nineteen sixty-five DB5,
+
+50
+00:02:11,196 --> 00:02:13,945
+with a ten point two percent change.
+
+51
+00:02:14,125 --> 00:02:16,710
+The page does not say which condition
+
+52
+00:02:16,710 --> 00:02:18,038
+that figure is for.
+
+53
+00:02:18,218 --> 00:02:21,491
+A common-questions section on the same page
+
+54
+00:02:21,491 --> 00:02:24,613
+gives about eight hundred sixty thousand,
+
+55
+00:02:24,613 --> 00:02:28,572
+six hundred sixty-seven dollars for a good-condition
+
+56
+00:02:28,572 --> 00:02:30,095
+car of average spec.
+
+57
+00:02:30,444 --> 00:02:31,751
+By our arithmetic,
+
+58
+00:02:31,751 --> 00:02:34,582
+those two Hagerty figures differ by two
+
+59
+00:02:34,582 --> 00:02:36,106
+hundred one thousand,
+
+60
+00:02:36,106 --> 00:02:38,429
+six hundred sixty-seven dollars,
+
+61
+00:02:38,429 --> 00:02:40,243
+about thirty-one percent.
+
+62
+00:02:40,423 --> 00:02:42,409
+The page does not explain the gap.
+
+63
+00:02:42,589 --> 00:02:45,212
+It could be a difference of condition
+
+64
+00:02:45,212 --> 00:02:47,267
+or of method; we cannot tell.
+
+65
+00:02:47,447 --> 00:02:50,202
+So we use six hundred fifty-nine thousand
+
+66
+00:02:50,202 --> 00:02:52,688
+as the lower marker and eight hundred
+
+67
+00:02:52,688 --> 00:02:55,242
+sixty thousand as the upper marker for
+
+68
+00:02:55,242 --> 00:02:55,981
+a good car.
+
+69
+00:02:56,330 --> 00:02:59,744
+Top Gear wrote in September twenty twenty-one
+
+70
+00:02:59,744 --> 00:03:02,323
+that a fully restored DB5 is worth
+
+71
+00:03:02,323 --> 00:03:04,295
+about one million dollars.
+
+72
+00:03:04,475 --> 00:03:08,448
+Auto123 wrote in December twenty eleven that
+
+73
+00:03:08,448 --> 00:03:10,977
+a good used DB5 was close to
+
+74
+00:03:10,977 --> 00:03:13,415
+two hundred fifty thousand.
+
+75
+00:03:13,595 --> 00:03:14,875
+By our arithmetic,
+
+76
+00:03:14,875 --> 00:03:16,937
+that is four times as much in
+
+77
+00:03:16,937 --> 00:03:19,996
+nine years, though the two writers describe
+
+78
+00:03:19,996 --> 00:03:21,489
+different conditions.
+
+79
+00:03:21,839 --> 00:03:25,226
+RM Sotheby's London offered a nineteen sixty-four
+
+80
+00:03:25,226 --> 00:03:28,060
+DB5 in twenty twenty-two with an estimate
+
+81
+00:03:28,060 --> 00:03:30,894
+of six hundred twenty-five to six hundred
+
+82
+00:03:30,894 --> 00:03:32,899
+seventy-five thousand pounds,
+
+83
+00:03:32,899 --> 00:03:35,525
+or eight hundred fifty to nine hundred
+
+84
+00:03:35,525 --> 00:03:36,700
+thousand dollars.
+
+85
+00:03:36,880 --> 00:03:39,732
+It was restored in twenty fifteen and
+
+86
+00:03:39,732 --> 00:03:42,430
+sixteen, and is listed as not sold.
+
+87
+00:03:42,610 --> 00:03:43,978
+So at that estimate,
+
+88
+00:03:43,978 --> 00:03:46,031
+buyers did not meet the price,
+
+89
+00:03:46,031 --> 00:03:48,084
+or the seller did not meet the
+
+90
+00:03:48,084 --> 00:03:48,426
+bids.
+
+91
+00:03:48,776 --> 00:03:52,131
+Bonhams' Bond Street sale in December twenty
+
+92
+00:03:52,131 --> 00:03:55,333
+twenty-one sold a nineteen sixty-five DB5,
+
+93
+00:03:55,333 --> 00:03:57,696
+restored to concours condition,
+
+94
+00:03:57,696 --> 00:04:01,355
+for five hundred eighty-six thousand two hundred
+
+95
+00:04:01,355 --> 00:04:03,108
+pounds, as the top lot,
+
+96
+00:04:03,108 --> 00:04:05,472
+according to Supercars dot net.
+
+97
+00:04:05,652 --> 00:04:07,833
+The article says it was found as
+
+98
+00:04:07,833 --> 00:04:10,423
+a barn find about seven years earlier,
+
+99
+00:04:10,423 --> 00:04:13,490
+and that the specialist restoration cost four
+
+100
+00:04:13,490 --> 00:04:15,125
+hundred thousand pounds.
+
+101
+00:04:15,475 --> 00:04:16,663
+By our arithmetic,
+
+102
+00:04:16,663 --> 00:04:20,026
+five hundred eighty-six thousand two hundred pounds
+
+103
+00:04:20,026 --> 00:04:23,059
+minus four hundred thousand leaves one hundred
+
+104
+00:04:23,059 --> 00:04:25,170
+eighty-six thousand two hundred.
+
+105
+00:04:25,350 --> 00:04:27,552
+That would be the implied value of
+
+106
+00:04:27,552 --> 00:04:29,301
+the car before restoration,
+
+107
+00:04:29,301 --> 00:04:31,504
+if the sale price covered only the
+
+108
+00:04:31,504 --> 00:04:32,281
+restoration.
+
+109
+00:04:32,461 --> 00:04:34,716
+The article does not say what the
+
+110
+00:04:34,716 --> 00:04:36,355
+seller paid for the car,
+
+111
+00:04:36,355 --> 00:04:38,405
+so we cannot compute a profit.
+
+112
+00:04:38,755 --> 00:04:41,612
+A project car tells a different story.
+
+113
+00:04:41,792 --> 00:04:44,356
+Classic and Sports Car reported on a
+
+114
+00:04:44,356 --> 00:04:47,349
+Bonhams marque sale on the twenty-first of
+
+115
+00:04:47,349 --> 00:04:48,631
+May twenty eleven,
+
+116
+00:04:48,631 --> 00:04:50,697
+where a DB5 that had been off
+
+117
+00:04:50,697 --> 00:04:53,476
+the road for thirty-five years sold for
+
+118
+00:04:53,476 --> 00:04:56,967
+two hundred eighty-two thousand pounds against an
+
+119
+00:04:56,967 --> 00:04:59,532
+estimate of fifty to sixty thousand.
+
+120
+00:04:59,712 --> 00:05:03,274
+Eleven phone bidders and five absentee bidders
+
+121
+00:05:03,274 --> 00:05:06,294
+competed, plus about seven in the room.
+
+122
+00:05:06,644 --> 00:05:08,182
+By our arithmetic,
+
+123
+00:05:08,182 --> 00:05:09,036
+that is 4.
+
+124
+00:05:09,216 --> 00:05:10,400
+7 to 5.
+
+125
+00:05:10,580 --> 00:05:12,333
+6 times the estimate.
+
+126
+00:05:12,513 --> 00:05:15,307
+The magazine argued that the same money
+
+127
+00:05:15,307 --> 00:05:18,100
+would buy a fully restored example from
+
+128
+00:05:18,100 --> 00:05:19,604
+most top specialists,
+
+129
+00:05:19,604 --> 00:05:22,469
+so buyers paid restored-car money for an
+
+130
+00:05:22,469 --> 00:05:23,543
+unrestored car.
+
+131
+00:05:23,723 --> 00:05:25,686
+That is the article's view,
+
+132
+00:05:25,686 --> 00:05:27,795
+and we note it was written in
+
+133
+00:05:27,795 --> 00:05:30,921
+twenty eleven, when restored DB5s cost less
+
+134
+00:05:30,921 --> 00:05:32,303
+than they do today.
+
+135
+00:05:32,652 --> 00:05:33,908
+From the same sale,
+
+136
+00:05:33,908 --> 00:05:36,154
+a DB5 shooting brake sold for four
+
+137
+00:05:36,154 --> 00:05:39,524
+hundred thirty thousand five hundred pounds against
+
+138
+00:05:39,524 --> 00:05:41,837
+an estimate of two hundred fifty to
+
+139
+00:05:41,837 --> 00:05:43,357
+three hundred thousand.
+
+140
+00:05:43,537 --> 00:05:45,594
+In August twenty nineteen,
+
+141
+00:05:45,594 --> 00:05:49,391
+RM Sotheby's sold a nineteen sixty-five shooting
+
+142
+00:05:49,391 --> 00:05:52,081
+brake for one point seven six five
+
+143
+00:05:52,081 --> 00:05:53,347
+million dollars.
+
+144
+00:05:53,527 --> 00:05:56,091
+The two sales are in different currencies,
+
+145
+00:05:56,091 --> 00:05:58,044
+so we do not compute a multiple.
+
+146
+00:05:58,393 --> 00:06:00,468
+At the top of the market sit
+
+147
+00:06:00,468 --> 00:06:01,505
+the film cars.
+
+148
+00:06:01,685 --> 00:06:05,222
+A Goldfinger-era DB5 sold at RM Auctions
+
+149
+00:06:05,222 --> 00:06:08,051
+in twenty ten for four point six
+
+150
+00:06:08,051 --> 00:06:11,588
+million dollars, according to Wikipedia.
+
+151
+00:06:11,768 --> 00:06:15,316
+NBC reported two point six million pounds,
+
+152
+00:06:15,316 --> 00:06:18,189
+or four point one million dollars.
+
+153
+00:06:18,369 --> 00:06:20,382
+In August twenty nineteen,
+
+154
+00:06:20,382 --> 00:06:24,176
+RM Sotheby's sold the Thunderball promotional car
+
+155
+00:06:24,176 --> 00:06:28,047
+for six million three hundred eighty-five thousand
+
+156
+00:06:28,047 --> 00:06:28,667
+dollars.
+
+157
+00:06:29,016 --> 00:06:31,788
+The Private Fleet blog gives the twenty
+
+158
+00:06:31,788 --> 00:06:34,276
+ten sale as two point three million
+
+159
+00:06:34,276 --> 00:06:36,763
+pounds, a third number for the same
+
+160
+00:06:36,763 --> 00:06:37,190
+event.
+
+161
+00:06:37,370 --> 00:06:39,562
+It also says the car was used
+
+162
+00:06:39,562 --> 00:06:40,922
+in Goldfinger and,
+
+163
+00:06:40,922 --> 00:06:42,660
+it writes, Thunderbird,
+
+164
+00:06:42,660 --> 00:06:45,079
+which is a slip for Thunderball.
+
+165
+00:06:45,259 --> 00:06:47,367
+We treat the blog as the weakest
+
+166
+00:06:47,367 --> 00:06:49,541
+of the three sources and show all
+
+167
+00:06:49,541 --> 00:06:50,530
+of the figures.
+
+168
+00:06:50,879 --> 00:06:53,099
+A stunt car from No Time to
+
+169
+00:06:53,099 --> 00:06:55,318
+Die, one of eight replicas,
+
+170
+00:06:55,318 --> 00:06:58,195
+sold for two point nine two million
+
+171
+00:06:58,195 --> 00:07:01,976
+pounds at a twenty twenty-two charity auction,
+
+172
+00:07:01,976 --> 00:07:03,209
+Wikipedia says.
+
+173
+00:07:03,389 --> 00:07:05,343
+And the continuation cars,
+
+174
+00:07:05,343 --> 00:07:07,974
+twenty-five Goldfinger-themed DB5s,
+
+175
+00:07:07,974 --> 00:07:10,680
+were priced at about two point seven
+
+176
+00:07:10,680 --> 00:07:12,183
+five million pounds,
+
+177
+00:07:12,183 --> 00:07:14,663
+which CNN converts to three and a
+
+178
+00:07:14,663 --> 00:07:16,241
+half million dollars.
+
+179
+00:07:16,591 --> 00:07:17,969
+By our arithmetic,
+
+180
+00:07:17,969 --> 00:07:21,031
+a film-linked car sold for between seven
+
+181
+00:07:21,031 --> 00:07:23,557
+and ten times the Hagerty figure.
+
+182
+00:07:23,737 --> 00:07:26,510
+The Bond provenance premium is huge,
+
+183
+00:07:26,510 --> 00:07:28,975
+but only a handful of cars carry
+
+184
+00:07:28,975 --> 00:07:29,206
+it.
+
+185
+00:07:29,386 --> 00:07:30,954
+For an ordinary buyer,
+
+186
+00:07:30,954 --> 00:07:33,450
+the relevant range is the first set
+
+187
+00:07:33,450 --> 00:07:36,302
+of numbers: roughly five hundred to nine
+
+188
+00:07:36,302 --> 00:07:38,084
+hundred thousand dollars,
+
+189
+00:07:38,084 --> 00:07:41,007
+or one million for a perfect restoration.
+
+190
+00:07:41,357 --> 00:07:45,641
+Wikipedia mentions a nineteen sixty-five Vantage restored
+
+191
+00:07:45,641 --> 00:07:48,497
+over three years and two thousand five
+
+192
+00:07:48,497 --> 00:07:50,827
+hundred hours at a cost of four
+
+193
+00:07:50,827 --> 00:07:52,631
+hundred thousand pounds.
+
+194
+00:07:52,811 --> 00:07:55,580
+It was bought second-hand for nine hundred
+
+195
+00:07:55,580 --> 00:07:58,811
+pounds in nineteen seventy-three and is estimated
+
+196
+00:07:58,811 --> 00:08:01,449
+at one million pounds after restoration.
+
+197
+00:08:01,629 --> 00:08:02,993
+By our arithmetic,
+
+198
+00:08:02,993 --> 00:08:05,721
+that is one hundred sixty pounds for
+
+199
+00:08:05,721 --> 00:08:07,085
+each hour of work.
+
+200
+00:08:07,435 --> 00:08:10,407
+The Bonhams concours car also cost four
+
+201
+00:08:10,407 --> 00:08:13,073
+hundred thousand pounds to restore,
+
+202
+00:08:13,073 --> 00:08:15,435
+according to Supercars dot net.
+
+203
+00:08:15,615 --> 00:08:18,401
+Two separate reports of the same figure
+
+204
+00:08:18,401 --> 00:08:20,687
+suggest it is a typical order of
+
+205
+00:08:20,687 --> 00:08:23,544
+magnitude, though they might be the same
+
+206
+00:08:23,544 --> 00:08:25,402
+car, since we cannot tell.
+
+207
+00:08:25,582 --> 00:08:27,037
+By our arithmetic,
+
+208
+00:08:27,037 --> 00:08:30,919
+four hundred thousand pounds is ninety-six times
+
+209
+00:08:30,919 --> 00:08:32,536
+the DB5's new price.
+
+210
+00:08:32,886 --> 00:08:34,907
+Modern upgrades add more.
+
+211
+00:08:35,087 --> 00:08:38,712
+RM Sotheby's lists a high-output alternator,
+
+212
+00:08:38,712 --> 00:08:42,338
+LED headlamps, electronic ignition and a new
+
+213
+00:08:42,338 --> 00:08:47,694
+twin-evaporator air-conditioning system added by Clayton Classics
+
+214
+00:08:47,694 --> 00:08:49,425
+to its catalogue car.
+
+215
+00:08:49,605 --> 00:08:52,563
+The catalogue gives no prices for those
+
+216
+00:08:52,563 --> 00:08:53,018
+items.
+
+217
+00:08:53,198 --> 00:08:55,796
+It also notes that an export licence
+
+218
+00:08:55,796 --> 00:08:58,176
+is required if the car leaves the
+
+219
+00:08:58,176 --> 00:09:00,557
+United Kingdom, a cost of time if
+
+220
+00:09:00,557 --> 00:09:01,279
+not money.
+
+221
+00:09:01,628 --> 00:09:03,543
+For the Thunderball car,
+
+222
+00:09:03,543 --> 00:09:07,930
+Ecurie says Roos Engineering in Switzerland refurbished
+
+223
+00:09:07,930 --> 00:09:10,882
+all thirteen of Adam's modifications.
+
+224
+00:09:11,062 --> 00:09:13,949
+Roos is one of thirteen Aston Martin
+
+225
+00:09:13,949 --> 00:09:16,356
+Heritage Specialists, it says.
+
+226
+00:09:16,536 --> 00:09:18,836
+The cost of that restoration is not
+
+227
+00:09:18,836 --> 00:09:19,821
+in our sources.
+
+228
+00:09:20,001 --> 00:09:22,619
+So we can say a specialist exists,
+
+229
+00:09:22,619 --> 00:09:25,237
+and that the film car was returned
+
+230
+00:09:25,237 --> 00:09:26,546
+to working order,
+
+231
+00:09:26,546 --> 00:09:28,163
+but not what it cost.
+
+232
+00:09:28,513 --> 00:09:30,777
+Running costs are largely missing.
+
+233
+00:09:30,957 --> 00:09:33,630
+We searched for DB5 fuel economy and
+
+234
+00:09:33,630 --> 00:09:36,526
+found no figure; a fuel-economy site we
+
+235
+00:09:36,526 --> 00:09:38,753
+checked does not list the DB5,
+
+236
+00:09:38,753 --> 00:09:41,575
+and gives only a brand-wide average of
+
+237
+00:09:41,575 --> 00:09:44,396
+fourteen point eight miles per gallon,
+
+238
+00:09:44,396 --> 00:09:48,034
+spanning cars from nineteen eighty-four to twenty
+
+239
+00:09:48,034 --> 00:09:48,999
+twenty-seven.
+
+240
+00:09:49,179 --> 00:09:51,602
+That average is not about the DB5,
+
+241
+00:09:51,602 --> 00:09:53,242
+so we do not use it for
+
+242
+00:09:53,242 --> 00:09:53,812
+the car.
+
+243
+00:09:54,161 --> 00:09:56,188
+What we can say is what fuel
+
+244
+00:09:56,188 --> 00:09:56,623
+costs.
+
+245
+00:09:56,803 --> 00:10:00,691
+The Energy Information Administration put regular gasoline
+
+246
+00:10:00,691 --> 00:10:03,575
+at four dollars twenty-eight cents a gallon
+
+247
+00:10:03,575 --> 00:10:05,787
+for the week of the nineteenth of
+
+248
+00:10:05,787 --> 00:10:07,530
+October twenty twenty-six.
+
+249
+00:10:07,710 --> 00:10:10,989
+The DB5's premium fuel needs and consumption
+
+250
+00:10:10,989 --> 00:10:12,703
+are not in our sources.
+
+251
+00:10:12,883 --> 00:10:15,535
+Every ten dollars buys about two point
+
+252
+00:10:15,535 --> 00:10:17,489
+three gallons at that price,
+
+253
+00:10:17,489 --> 00:10:18,746
+by our arithmetic.
+
+254
+00:10:19,095 --> 00:10:21,684
+Insurance appears only as marketing.
+
+255
+00:10:21,864 --> 00:10:24,993
+The Hagerty page says it offers coverage
+
+256
+00:10:24,993 --> 00:10:26,480
+built for classics,
+
+257
+00:10:26,480 --> 00:10:28,122
+but gives no premium.
+
+258
+00:10:28,302 --> 00:10:31,122
+We know from RM Sotheby's that some
+
+259
+00:10:31,122 --> 00:10:34,908
+DB5s carry registration and export constraints.
+
+260
+00:10:35,088 --> 00:10:37,371
+Beyond that, we do not have a
+
+261
+00:10:37,371 --> 00:10:38,866
+source for storage,
+
+262
+00:10:38,866 --> 00:10:41,149
+servicing or insurance costs.
+
+263
+00:10:41,329 --> 00:10:43,605
+We will not invent a yearly figure,
+
+264
+00:10:43,605 --> 00:10:45,686
+and you should be wary of anyone
+
+265
+00:10:45,686 --> 00:10:47,703
+who gives one without a source.
+
+266
+00:10:48,052 --> 00:10:48,610
+Scale.
+
+267
+00:10:48,790 --> 00:10:50,055
+Median U.
+
+268
+00:10:50,235 --> 00:10:50,665
+S.
+
+269
+00:10:50,845 --> 00:10:54,516
+household income was eighty-three thousand seven hundred
+
+270
+00:10:54,516 --> 00:10:56,942
+thirty dollars in twenty twenty-four,
+
+271
+00:10:56,942 --> 00:10:58,449
+says the Census Bureau.
+
+272
+00:10:58,629 --> 00:10:59,968
+By our arithmetic,
+
+273
+00:10:59,968 --> 00:11:03,536
+six hundred fifty-nine thousand dollars is about
+
+274
+00:11:03,536 --> 00:11:06,361
+seven point nine years of that income,
+
+275
+00:11:06,361 --> 00:11:09,261
+and eight hundred sixty thousand is ten
+
+276
+00:11:09,261 --> 00:11:10,599
+point three years.
+
+277
+00:11:10,779 --> 00:11:13,603
+The average new vehicle was fifty thousand
+
+278
+00:11:13,603 --> 00:11:17,099
+and eighty-nine dollars in August twenty twenty-six,
+
+279
+00:11:17,099 --> 00:11:18,511
+per Kelley Blue Book.
+
+280
+00:11:18,861 --> 00:11:21,098
+So a DB5 at the Hagerty figure
+
+281
+00:11:21,098 --> 00:11:24,006
+is about thirteen average new vehicles,
+
+282
+00:11:24,006 --> 00:11:27,063
+and at the higher figure about seventeen,
+
+283
+00:11:27,063 --> 00:11:28,405
+by our arithmetic.
+
+284
+00:11:28,585 --> 00:11:29,384
+A new DB12,
+
+285
+00:11:29,384 --> 00:11:33,016
+at two hundred forty-nine thousand dollars sticker
+
+286
+00:11:33,016 --> 00:11:35,196
+according to Kelley Blue Book,
+
+287
+00:11:35,196 --> 00:11:36,213
+is about five.
+
+288
+00:11:36,393 --> 00:11:38,093
+In this comparison,
+
+289
+00:11:38,093 --> 00:11:41,673
+a sixty-year-old DB5 costs more than two
+
+290
+00:11:41,673 --> 00:11:44,090
+and a half new DB12 coupes.
+
+291
+00:11:44,439 --> 00:11:46,292
+Against the launch price,
+
+292
+00:11:46,292 --> 00:11:49,255
+the arithmetic is more dramatic but less
+
+293
+00:11:49,255 --> 00:11:50,070
+meaningful.
+
+294
+00:11:50,250 --> 00:11:53,426
+Six hundred fifty-nine thousand dollars is a
+
+295
+00:11:53,426 --> 00:11:56,964
+different currency from four thousand one hundred
+
+296
+00:11:56,964 --> 00:12:00,140
+seventy-five pounds, and our sources give no
+
+297
+00:12:00,140 --> 00:12:02,522
+exchange rate or inflation index.
+
+298
+00:12:02,702 --> 00:12:05,930
+The 007 Travelers page does record two
+
+299
+00:12:05,930 --> 00:12:09,668
+hundred thousand pounds in two thousand six.
+
+300
+00:12:09,848 --> 00:12:11,069
+By our arithmetic,
+
+301
+00:12:11,069 --> 00:12:13,784
+that is forty-eight times the new price.
+
+302
+00:12:14,133 --> 00:12:16,998
+The Hagerty page's ten point two percent
+
+303
+00:12:16,998 --> 00:12:19,576
+rise over about nine months is worth
+
+304
+00:12:19,576 --> 00:12:20,078
+a note.
+
+305
+00:12:20,258 --> 00:12:21,450
+By our arithmetic,
+
+306
+00:12:21,450 --> 00:12:24,496
+applied to the six hundred fifty-nine thousand
+
+307
+00:12:24,496 --> 00:12:27,344
+dollar figure, that is about sixty thousand
+
+308
+00:12:27,344 --> 00:12:28,536
+dollars of change.
+
+309
+00:12:28,716 --> 00:12:30,933
+But the page does not say whether
+
+310
+00:12:30,933 --> 00:12:33,485
+the rise reflects sales or the guide's
+
+311
+00:12:33,485 --> 00:12:36,777
+own revisions, and it is one condition-unlabelled
+
+312
+00:12:36,777 --> 00:12:37,516
+data point.
+
+313
+00:12:37,866 --> 00:12:40,184
+If you cannot afford the real car,
+
+314
+00:12:40,184 --> 00:12:43,114
+the continuation is not the cheaper option.
+
+315
+00:12:43,294 --> 00:12:47,916
+Wikipedia says the twenty-five Goldfinger-themed continuation cars
+
+316
+00:12:47,916 --> 00:12:50,437
+were priced at about two point seven
+
+317
+00:12:50,437 --> 00:12:52,187
+five million pounds each.
+
+318
+00:12:52,367 --> 00:12:55,038
+CNN converts that to about three and
+
+319
+00:12:55,038 --> 00:12:56,744
+a half million dollars.
+
+320
+00:12:56,924 --> 00:13:00,204
+We use CNN's conversion because our sources
+
+321
+00:13:00,204 --> 00:13:01,882
+give no exchange rate.
+
+322
+00:13:02,231 --> 00:13:05,150
+Using CNN's own conversion of three and
+
+323
+00:13:05,150 --> 00:13:06,872
+a half million dollars,
+
+324
+00:13:06,872 --> 00:13:10,015
+the multiple against the Hagerty figure is
+
+325
+00:13:10,015 --> 00:13:11,287
+five point three.
+
+326
+00:13:11,467 --> 00:13:14,809
+The continuation cars use two hundred ninety
+
+327
+00:13:14,809 --> 00:13:17,316
+brake horsepower, Wikipedia says,
+
+328
+00:13:17,316 --> 00:13:19,974
+a little more than the original two
+
+329
+00:13:19,974 --> 00:13:21,417
+hundred eighty-two.
+
+330
+00:13:21,597 --> 00:13:22,832
+They are new builds,
+
+331
+00:13:22,832 --> 00:13:24,252
+not restored originals,
+
+332
+00:13:24,252 --> 00:13:26,352
+so they are priced for a different
+
+333
+00:13:26,352 --> 00:13:27,216
+kind of buyer.
+
+334
+00:13:27,566 --> 00:13:30,483
+The Bonhams Aston Martin sale of the
+
+335
+00:13:30,483 --> 00:13:33,561
+twenty-first of May twenty eleven is a
+
+336
+00:13:33,561 --> 00:13:34,858
+useful snapshot.
+
+337
+00:13:35,038 --> 00:13:38,668
+Classic and Sports Car reported a declared
+
+338
+00:13:38,668 --> 00:13:41,088
+total of six million pounds,
+
+339
+00:13:41,088 --> 00:13:42,903
+from forty-five lots,
+
+340
+00:13:42,903 --> 00:13:45,150
+all but one of which sold.
+
+341
+00:13:45,330 --> 00:13:46,615
+By our arithmetic,
+
+342
+00:13:46,615 --> 00:13:48,827
+that is an average of about one
+
+343
+00:13:48,827 --> 00:13:52,111
+hundred thirty-six thousand pounds for each of
+
+344
+00:13:52,111 --> 00:13:54,894
+the forty-four cars that found a buyer,
+
+345
+00:13:54,894 --> 00:13:57,393
+if the total covers sold lots only.
+
+346
+00:13:57,742 --> 00:14:00,339
+The same report lists a barn-find DB4
+
+347
+00:14:00,339 --> 00:14:03,708
+convertible with about sixty thousand miles that
+
+348
+00:14:03,708 --> 00:14:06,585
+sold for three hundred nine thousand five
+
+349
+00:14:06,585 --> 00:14:09,673
+hundred pounds against an estimate of eighty
+
+350
+00:14:09,673 --> 00:14:11,779
+to one hundred forty thousand.
+
+351
+00:14:11,959 --> 00:14:13,556
+By our arithmetic,
+
+352
+00:14:13,556 --> 00:14:14,443
+that is 2.
+
+353
+00:14:14,623 --> 00:14:15,726
+2 to 3.
+
+354
+00:14:15,906 --> 00:14:17,543
+9 times the estimate.
+
+355
+00:14:17,723 --> 00:14:21,419
+A restored DB4 Series Five Vantage convertible
+
+356
+00:14:21,419 --> 00:14:23,909
+was the top lot at five hundred
+
+357
+00:14:23,909 --> 00:14:26,721
+seven thousand five hundred pounds.
+
+358
+00:14:27,071 --> 00:14:30,664
+Lower down, a nineteen sixty-eight DBS Vantage
+
+359
+00:14:30,664 --> 00:14:33,633
+replica used in an on-screen Bond film
+
+360
+00:14:33,633 --> 00:14:36,757
+sold for one hundred six thousand pounds
+
+361
+00:14:36,757 --> 00:14:39,413
+against fifty to seventy thousand.
+
+362
+00:14:39,593 --> 00:14:41,689
+A nineteen eighty-six Volante,
+
+363
+00:14:41,689 --> 00:14:43,926
+similar to the car in The Living
+
+364
+00:14:43,926 --> 00:14:47,560
+Daylights, sold for one hundred seventy-two thousand
+
+365
+00:14:47,560 --> 00:14:50,355
+against seventy to one hundred thousand.
+
+366
+00:14:50,535 --> 00:14:53,789
+A twenty-oh-nine Rapide sold for one hundred
+
+367
+00:14:53,789 --> 00:14:57,265
+twelve thousand, with proceeds going to Japan's
+
+368
+00:14:57,265 --> 00:14:58,744
+tsunami relief fund.
+
+369
+00:14:59,093 --> 00:15:00,584
+By our arithmetic,
+
+370
+00:15:00,584 --> 00:15:03,482
+the replica beat its estimate by 1.
+
+371
+00:15:03,662 --> 00:15:04,753
+5 to 2.
+
+372
+00:15:04,933 --> 00:15:07,801
+1 times and the Volante by 1.
+
+373
+00:15:07,981 --> 00:15:09,165
+7 to 2.
+
+374
+00:15:09,345 --> 00:15:10,796
+5 times.
+
+375
+00:15:10,976 --> 00:15:14,522
+The article argued these results showed strong
+
+376
+00:15:14,522 --> 00:15:17,606
+demand for Newport Pagnell-built Astons.
+
+377
+00:15:17,786 --> 00:15:19,667
+That was twenty eleven.
+
+378
+00:15:19,847 --> 00:15:22,208
+The Hagerty and Top Gear figures we
+
+379
+00:15:22,208 --> 00:15:25,514
+have for twenty twenty-one and twenty twenty-five
+
+380
+00:15:25,514 --> 00:15:27,403
+suggest prices rose further,
+
+381
+00:15:27,403 --> 00:15:29,697
+though the sources do not link the
+
+382
+00:15:29,697 --> 00:15:30,574
+two directly.
+
+383
+00:15:30,924 --> 00:15:33,130
+Which DB5 you buy matters.
+
+384
+00:15:33,310 --> 00:15:35,758
+Wikipedia says 1,059 were built,
+
+385
+00:15:35,758 --> 00:15:39,735
+of which one hundred twenty-three were convertibles,
+
+386
+00:15:39,735 --> 00:15:43,023
+and sixty-five were Vantage coupes with the
+
+387
+00:15:43,023 --> 00:15:44,247
+stronger engine.
+
+388
+00:15:44,427 --> 00:15:47,578
+Nineteen of the convertibles were left-hand drive
+
+389
+00:15:47,578 --> 00:15:50,278
+and twelve had the factory Vantage engine.
+
+390
+00:15:50,458 --> 00:15:52,752
+Rarer variants tend to cost more,
+
+391
+00:15:52,752 --> 00:15:55,184
+as the shooting brake results show.
+
+392
+00:15:55,533 --> 00:15:57,002
+By our arithmetic,
+
+393
+00:15:57,002 --> 00:16:00,838
+convertibles were twelve percent of production,
+
+394
+00:16:00,838 --> 00:16:03,042
+Vantage coupes six percent,
+
+395
+00:16:03,042 --> 00:16:05,572
+and the Bond cars under half of
+
+396
+00:16:05,572 --> 00:16:06,551
+one percent.
+
+397
+00:16:06,731 --> 00:16:09,195
+The Hagerty price guide does not say
+
+398
+00:16:09,195 --> 00:16:11,658
+which variant its figure represents,
+
+399
+00:16:11,658 --> 00:16:13,574
+so we cannot say how much of
+
+400
+00:16:13,574 --> 00:16:16,995
+the spread between six hundred fifty-nine thousand
+
+401
+00:16:16,995 --> 00:16:19,732
+and eight hundred sixty thousand is down
+
+402
+00:16:19,732 --> 00:16:20,895
+to specification.
+
+403
+00:16:21,245 --> 00:16:24,698
+Specifications also differ between sources,
+
+404
+00:16:24,698 --> 00:16:27,910
+which affects how buyers read a listing.
+
+405
+00:16:28,090 --> 00:16:30,660
+The Private Fleet blog gives a power
+
+406
+00:16:30,660 --> 00:16:33,231
+output of two hundred ten kilowatts,
+
+407
+00:16:33,231 --> 00:16:36,159
+a weight of fifteen hundred kilograms and
+
+408
+00:16:36,159 --> 00:16:38,230
+a zero to one hundred time of
+
+409
+00:16:38,230 --> 00:16:39,943
+just over seven seconds.
+
+410
+00:16:40,123 --> 00:16:44,425
+Wikipedia gives two hundred eighty-two brake horsepower,
+
+411
+00:16:44,425 --> 00:16:47,575
+fifteen hundred two kilograms and zero to
+
+412
+00:16:47,575 --> 00:16:49,342
+sixty in eight seconds.
+
+413
+00:16:49,691 --> 00:16:51,008
+By our arithmetic,
+
+414
+00:16:51,008 --> 00:16:53,934
+two hundred ten kilowatts is two hundred
+
+415
+00:16:53,934 --> 00:16:57,006
+eighty-two horsepower, so those two agree.
+
+416
+00:16:57,186 --> 00:16:59,614
+The acceleration figures do not:
+
+417
+00:16:59,614 --> 00:17:02,497
+just over seven seconds to one hundred
+
+418
+00:17:02,497 --> 00:17:05,532
+kilometres per hour is faster than eight
+
+419
+00:17:05,532 --> 00:17:07,960
+seconds to sixty miles per hour.
+
+420
+00:17:08,140 --> 00:17:09,035
+For a buyer,
+
+421
+00:17:09,035 --> 00:17:12,615
+the lesson is that old-car specifications should
+
+422
+00:17:12,615 --> 00:17:16,046
+be treated as marketing claims until verified.
+
+423
+00:17:16,396 --> 00:17:18,926
+Let us build three routes to a
+
+424
+00:17:18,926 --> 00:17:21,203
+DB5 from the numbers above.
+
+425
+00:17:21,383 --> 00:17:23,441
+Route one: buy a good car at
+
+426
+00:17:23,441 --> 00:17:26,307
+the Hagerty guide figure of six hundred
+
+427
+00:17:26,307 --> 00:17:28,365
+fifty-nine thousand dollars,
+
+428
+00:17:28,365 --> 00:17:30,938
+up to eight hundred sixty thousand.
+
+429
+00:17:31,118 --> 00:17:33,894
+Route two: buy a project and restore
+
+430
+00:17:33,894 --> 00:17:34,125
+it.
+
+431
+00:17:34,305 --> 00:17:37,216
+Route three: buy a Bond-linked car at
+
+432
+00:17:37,216 --> 00:17:37,846
+auction.
+
+433
+00:17:38,026 --> 00:17:40,520
+Each route has a very different risk,
+
+434
+00:17:40,520 --> 00:17:42,879
+and our sources only give pieces of
+
+435
+00:17:42,879 --> 00:17:43,216
+each.
+
+436
+00:17:43,565 --> 00:17:45,992
+Route two, by our arithmetic.
+
+437
+00:17:46,172 --> 00:17:48,728
+The project car of twenty eleven cost
+
+438
+00:17:48,728 --> 00:17:51,422
+two hundred eighty-two thousand pounds,
+
+439
+00:17:51,422 --> 00:17:54,393
+and a specialist restoration is reported at
+
+440
+00:17:54,393 --> 00:17:55,913
+four hundred thousand.
+
+441
+00:17:56,093 --> 00:17:59,192
+Together that is six hundred eighty-two thousand
+
+442
+00:17:59,192 --> 00:18:01,774
+pounds, though the two figures come from
+
+443
+00:18:01,774 --> 00:18:04,034
+different cars and ten years apart.
+
+444
+00:18:04,214 --> 00:18:06,132
+It does not include fees,
+
+445
+00:18:06,132 --> 00:18:08,742
+transport or the owner's own time.
+
+446
+00:18:09,091 --> 00:18:12,087
+Compare that with the Bonhams concours car
+
+447
+00:18:12,087 --> 00:18:13,584
+of twenty twenty-one,
+
+448
+00:18:13,584 --> 00:18:16,936
+which sold for five hundred eighty-six thousand
+
+449
+00:18:16,936 --> 00:18:19,575
+two hundred pounds as a finished car.
+
+450
+00:18:19,755 --> 00:18:21,025
+By our arithmetic,
+
+451
+00:18:21,025 --> 00:18:23,636
+the sum of project and restoration in
+
+452
+00:18:23,636 --> 00:18:26,810
+route two is about ninety-six thousand pounds
+
+453
+00:18:26,810 --> 00:18:28,927
+higher than that finished car.
+
+454
+00:18:29,107 --> 00:18:30,907
+This is a rough comparison,
+
+455
+00:18:30,907 --> 00:18:33,106
+but it hints at why finished cars
+
+456
+00:18:33,106 --> 00:18:34,773
+can look like good value.
+
+457
+00:18:35,122 --> 00:18:37,572
+Route three is the film cars.
+
+458
+00:18:37,752 --> 00:18:40,513
+A DB5 with Bond provenance sold for
+
+459
+00:18:40,513 --> 00:18:43,668
+four point six million dollars in twenty
+
+460
+00:18:43,668 --> 00:18:46,350
+ten and six point three eight five
+
+461
+00:18:46,350 --> 00:18:48,480
+million in twenty nineteen.
+
+462
+00:18:48,660 --> 00:18:49,808
+By our arithmetic,
+
+463
+00:18:49,808 --> 00:18:51,913
+route three is seven to ten times
+
+464
+00:18:51,913 --> 00:18:53,954
+route one at the Hagerty figure.
+
+465
+00:18:54,134 --> 00:18:56,312
+It is not a route most people
+
+466
+00:18:56,312 --> 00:18:59,016
+can take, since the sources say only
+
+467
+00:18:59,016 --> 00:19:01,495
+three Bond-modified cars survive.
+
+468
+00:19:01,844 --> 00:19:03,950
+There is also a middle path:
+
+469
+00:19:03,950 --> 00:19:05,304
+the GoldenEye car.
+
+470
+00:19:05,484 --> 00:19:09,341
+InsideHook reported in June twenty eighteen that
+
+471
+00:19:09,341 --> 00:19:12,153
+a DB5 used in GoldenEye was heading
+
+472
+00:19:12,153 --> 00:19:14,001
+to Bonhams at Goodwood,
+
+473
+00:19:14,001 --> 00:19:16,974
+with an expert projection of three to
+
+474
+00:19:16,974 --> 00:19:18,661
+five million dollars.
+
+475
+00:19:18,841 --> 00:19:21,149
+The same car sold in two thousand
+
+476
+00:19:21,149 --> 00:19:23,667
+one for two hundred ten thousand six
+
+477
+00:19:23,667 --> 00:19:24,786
+hundred dollars.
+
+478
+00:19:24,966 --> 00:19:27,433
+We do not have the twenty eighteen
+
+479
+00:19:27,433 --> 00:19:29,029
+result in our sources.
+
+480
+00:19:29,379 --> 00:19:30,729
+By our arithmetic,
+
+481
+00:19:30,729 --> 00:19:34,404
+the expert projection was fourteen to twenty-four
+
+482
+00:19:34,404 --> 00:19:36,879
+times the two thousand one price.
+
+483
+00:19:37,059 --> 00:19:39,639
+That is a rise over seventeen years,
+
+484
+00:19:39,639 --> 00:19:42,290
+from two thousand one to two thousand
+
+485
+00:19:42,290 --> 00:19:45,585
+eighteen, which works out at roughly seventeen
+
+486
+00:19:45,585 --> 00:19:47,376
+to twenty percent a year,
+
+487
+00:19:47,376 --> 00:19:49,812
+compounded, if the car had sold at
+
+488
+00:19:49,812 --> 00:19:50,887
+the projection.
+
+489
+00:19:51,067 --> 00:19:53,462
+It did not necessarily sell at it,
+
+490
+00:19:53,462 --> 00:19:55,293
+so we call this a ceiling.
+
+491
+00:19:55,642 --> 00:19:57,988
+A caution on all of this.
+
+492
+00:19:58,168 --> 00:20:01,078
+Prices in these sources come from different
+
+493
+00:20:01,078 --> 00:20:03,311
+years, currencies and conditions.
+
+494
+00:20:03,491 --> 00:20:06,187
+Hagerty's guide is updated quarterly,
+
+495
+00:20:06,187 --> 00:20:09,176
+the Bonhams results are from two thousand
+
+496
+00:20:09,176 --> 00:20:11,289
+eleven and twenty twenty-one,
+
+497
+00:20:11,289 --> 00:20:13,621
+the film cars from twenty ten to
+
+498
+00:20:13,621 --> 00:20:14,787
+twenty nineteen.
+
+499
+00:20:14,967 --> 00:20:16,581
+We have lined them up for scale.
+
+500
+00:20:16,761 --> 00:20:19,322
+A buyer would need a current valuation
+
+501
+00:20:19,322 --> 00:20:20,535
+from a specialist,
+
+502
+00:20:20,535 --> 00:20:21,951
+which we do not have.
+
+503
+00:20:22,300 --> 00:20:23,717
+One last number.
+
+504
+00:20:23,897 --> 00:20:26,958
+The Hagerty page calls its guide updated
+
+505
+00:20:26,958 --> 00:20:30,097
+quarterly and offers value-change alerts.
+
+506
+00:20:30,277 --> 00:20:32,400
+If the ten point two percent rise
+
+507
+00:20:32,400 --> 00:20:34,137
+continued for another year,
+
+508
+00:20:34,137 --> 00:20:36,968
+by our arithmetic the six hundred fifty-nine
+
+509
+00:20:36,968 --> 00:20:39,992
+thousand dollar figure would become about seven
+
+510
+00:20:39,992 --> 00:20:41,794
+hundred twenty-six thousand.
+
+511
+00:20:41,974 --> 00:20:43,585
+That is not a forecast,
+
+512
+00:20:43,585 --> 00:20:45,688
+only the arithmetic of a rate,
+
+513
+00:20:45,688 --> 00:20:47,650
+which can go down as well as
+
+514
+00:20:47,650 --> 00:20:47,860
+up.
+
+515
+00:20:48,209 --> 00:20:49,893
+There is also what you do not
+
+516
+00:20:49,893 --> 00:20:50,357
+pay for.
+
+517
+00:20:50,537 --> 00:20:52,678
+The DB5 has no entry in the
+
+518
+00:20:52,678 --> 00:20:55,135
+fuel-economy tables we checked,
+
+519
+00:20:55,135 --> 00:20:57,196
+no published warranty and,
+
+520
+00:20:57,196 --> 00:20:58,385
+in our sources,
+
+521
+00:20:58,385 --> 00:21:00,684
+no standard service schedule.
+
+522
+00:21:00,864 --> 00:21:03,712
+A buyer relies on a specialist such
+
+523
+00:21:03,712 --> 00:21:06,967
+as Roos Engineering or Clayton Classics,
+
+524
+00:21:06,967 --> 00:21:09,082
+both named in our sources,
+
+525
+00:21:09,082 --> 00:21:10,791
+and on the paperwork.
+
+526
+00:21:10,971 --> 00:21:13,739
+Their rates, other than the reported one
+
+527
+00:21:13,739 --> 00:21:16,231
+hundred sixty pounds an hour for one
+
+528
+00:21:16,231 --> 00:21:18,099
+restoration, are not given.
+
+529
+00:21:18,449 --> 00:21:21,195
+And an owner of a nineteen sixty-four
+
+530
+00:21:21,195 --> 00:21:24,535
+car, like the RM Sotheby's catalogue example,
+
+531
+00:21:24,535 --> 00:21:27,281
+might also face the question of where
+
+532
+00:21:27,281 --> 00:21:28,097
+to keep it.
+
+533
+00:21:28,277 --> 00:21:31,112
+The catalogue notes the car was shown
+
+534
+00:21:31,112 --> 00:21:34,254
+at the twenty twenty-two London Concours,
+
+535
+00:21:34,254 --> 00:21:36,016
+which suggests display,
+
+536
+00:21:36,016 --> 00:21:37,089
+not daily use.
+
+537
+00:21:37,269 --> 00:21:40,086
+Storage and insurance are the missing lines
+
+538
+00:21:40,086 --> 00:21:41,069
+in this budget,
+
+539
+00:21:41,069 --> 00:21:43,296
+and we leave them open rather than
+
+540
+00:21:43,296 --> 00:21:43,690
+guess.
+
+541
+00:21:44,039 --> 00:21:44,875
+What is missing.
+
+542
+00:21:45,055 --> 00:21:47,842
+The condition of the Hagerty six hundred
+
+543
+00:21:47,842 --> 00:21:50,210
+fifty-nine thousand dollar figure.
+
+544
+00:21:50,390 --> 00:21:54,743
+Servicing, insurance and storage costs for a
+
+545
+00:21:54,743 --> 00:21:55,139
+DB5.
+
+546
+00:21:55,319 --> 00:21:56,781
+Its fuel consumption.
+
+547
+00:21:56,961 --> 00:21:59,516
+The final price of the GoldenEye car.
+
+548
+00:21:59,696 --> 00:22:02,900
+Why the Hagerty page shows two values.
+
+549
+00:22:03,080 --> 00:22:05,553
+And the exchange rates we would need
+
+550
+00:22:05,553 --> 00:22:07,202
+to compare across years.
+
+551
+00:22:07,382 --> 00:22:09,326
+If you have primary documents,
+
+552
+00:22:09,326 --> 00:22:10,946
+put them in the comments.
+
+553
+00:22:11,295 --> 00:22:13,821
+So a real DB5 today costs somewhere
+
+554
+00:22:13,821 --> 00:22:16,996
+between about five hundred thousand and nine
+
+555
+00:22:16,996 --> 00:22:19,883
+hundred thousand dollars for a good one,
+
+556
+00:22:19,883 --> 00:22:22,337
+about a million for a perfect one,
+
+557
+00:22:22,337 --> 00:22:25,007
+and several million if Bond drove it.
+
+558
+00:22:25,187 --> 00:22:27,360
+That is our reading of the sources,
+
+559
+00:22:27,360 --> 00:22:29,099
+and the spread is the point.
+
+560
+00:22:29,279 --> 00:22:32,488
+In the other videos we compare the
+
+561
+00:22:32,488 --> 00:22:34,186
+DB5 with the DB12,
+
+562
+00:22:34,186 --> 00:22:37,583
+reveal its secrets and tell the Bond
+
+563
+00:22:37,583 --> 00:22:38,149
+story.
+
+564
+00:22:38,329 --> 00:22:40,884
+Subscribe to Pickup Reality.
