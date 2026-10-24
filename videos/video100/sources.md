@@ -1,0 +1,5 @@
+- Wikipedia, Lamborghini: https://en.wikipedia.org/wiki/Lamborghini
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Wikipedia, Lamborghini LM002: https://en.wikipedia.org/wiki/Lamborghini_LM002
+- Carscoops, Lamborghini sold nearly 5,000 Urus SUVs last year (January 2020): https://www.carscoops.com/2020/01/lamborghini-sales-soar-43-percent-in-2019-thanks-to-urus-suv/
+- Yahoo Autos, We're not selling mobility: how Stephan Winkelmann transformed Lamborghini: https://autos.yahoo.com/people-and-culture/articles/were-not-selling-mobility-stephan-083648052.html

@@ -1,0 +1,334 @@
+{
+ "id": "video100",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "Why Lamborghini Bet Everything on an SUV",
+ "scenes": [
+  {
+   "text": "In twenty seventeen, Lamborghini sold three thousand, eight hundred fifteen cars. Two years later, it sold eight thousand, two hundred five. More than half of them were one single model, and it was an SUV. The company that built the Miura and the Countach had bet its future on a family car with five seats. This is why Lamborghini bet everything on the Urus, and whether the bet paid off.",
+   "query": "Lamborghini Urus",
+   "caption": "WHY LAMBORGHINI BET EVERYTHING ON AN SUV",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here is the twist. This was not the first time. Lamborghini had built an SUV in nineteen eighty-six, a military-style truck with a Countach engine, and it was cancelled after only three hundred one were built. The Urus is the second attempt. And the second attempt changed the company completely.",
+   "query": "Lamborghini LM002",
+   "caption": "IT WAS THE SECOND TIME",
+   "cuts": 8
+  },
+  {
+   "text": "Every fact in this video comes from published sources, listed in the description. Where sources disagree, we will tell you. Where we do the maths ourselves, we will say so. Let us start with a company that has gone bankrupt before.",
+   "query": "Lamborghini Urus",
+   "caption": "EVERY FACT IS SOURCED",
+   "cuts": 5
+  },
+  {
+   "text": "Wikipedia says Ferruccio Lamborghini, who already made tractors, founded Lamborghini Automobili in Sant'Agata Bolognese on the seventh of May, nineteen sixty-three. The first series-produced car, the three fifty G T, followed in nineteen sixty-six, the same year as the Miura. It was a quick rise for a company that began as a tractor maker's hobby.",
+   "query": "Ferruccio Lamborghini",
+   "caption": "FOUNDED 7 MAY 1963",
+   "cuts": 3,
+   "chapter": "A company with a fragile history"
+  },
+  {
+   "text": "But the story was not smooth. Wikipedia says that in nineteen seventy-two Ferruccio sold a majority stake to Georges-Henri Rossetti, sold the rest to Ren\u00e9 Leimer, and fully retired in nineteen seventy-four. In nineteen seventy-eight the company went bankrupt, and the Mimran brothers took over through receivership.",
+   "query": "Lamborghini 1970s",
+   "caption": "1978: BANKRUPTCY",
+   "cuts": 3
+  },
+  {
+   "text": "The ownership table is a list of changes. Patrick Mimran from nineteen eighty-four to nineteen eighty-seven. Chrysler Corporation from nineteen eighty-seven to nineteen ninety-four. MegaTech for a year. V'Power and Mycom Setdco from nineteen ninety-five to nineteen ninety-eight. And Audi, part of the Volkswagen Group, since nineteen ninety-eight. By our count, the table shows eight ownership periods in sixty-two years.",
+   "query": "Lamborghini owners",
+   "caption": "6 OWNERS IN ~35 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "The 2005 numbers show how small the company was. An article in Yahoo Autos says that in two thousand five, the year Stephan Winkelmann was appointed president and chief executive, the brand sold sixteen hundred cars. Remember that number. Twenty years later, Wikipedia lists deliveries of ten thousand, seven hundred forty-seven.",
+   "query": "Stephan Winkelmann",
+   "caption": "2005: 1,600 CARS SOLD",
+   "cuts": 3
+  },
+  {
+   "text": "Now the first SUV. Wikipedia says the LM002, short for Lamborghini Militaire, was an off-road vehicle unveiled at the nineteen eighty-six Brussels Auto Show. It was, the page says, an unusual departure for a company then mainly known for high-performance, hand-built sports cars. Nicknamed the Rambo-Lambo, it was built from nineteen eighty-six to nineteen ninety-three.",
+   "query": "Lamborghini LM002",
+   "caption": "1986: THE \"RAMBO-LAMBO\"",
+   "cuts": 3,
+   "chapter": "The first attempt: the LM002"
+  },
+  {
+   "text": "It had the Countach's five point two litre V twelve in the front. Wikipedia lists a curb weight of two thousand seven hundred kilograms, a five-speed manual gearbox, a tubular steel frame with riveted aluminium panels, and a hundred sixty-nine litre fuel tank. It rode on custom run-flat Pirelli Scorpion tyres, with separate tread designs for mixed use and for sand.",
+   "query": "Lamborghini LM002 off-road",
+   "caption": "COUNTACH V12 \u00b7 2,700 KG \u00b7 169-LITRE TANK",
+   "cuts": 3
+  },
+  {
+   "text": "Its origins were military. Wikipedia says the Cheetah prototype of nineteen seventy-seven was Lamborghini's first military vehicle, built in the hope of selling to oil exploration companies, and used a rear-mounted Chrysler V eight. The LM001 followed, then a new chassis that moved the Countach V twelve to the front, which became the LM002.",
+   "query": "Lamborghini Cheetah",
+   "caption": "FROM THE CHEETAH TO THE LM002",
+   "cuts": 3
+  },
+  {
+   "text": "Civilian models had a luxury package, Wikipedia says: full leather, tinted power windows, air conditioning and a roof-console premium stereo. The last sixty were the LM American, sold only in the United States, first shown at the nineteen ninety-two Detroit Auto Show. A truck for the sand with a leather interior.",
+   "query": "Lamborghini LM002 interior",
+   "caption": "LAST 60: THE LM/AMERICAN",
+   "cuts": 3
+  },
+  {
+   "text": "How many were built? Wikipedia says three hundred one in total. By our own arithmetic, that is about forty-three a year over seven years. The page says that when the end was announced in nineteen ninety-one, Lamborghini claimed about eight hundred orders, but the complicated manufacturing process made them discontinue the car, so it could focus on more profitable models.",
+   "query": "Lamborghini LM002 production",
+   "caption": "301 BUILT \u00b7 ~800 ORDERS CLAIMED",
+   "cuts": 3
+  },
+  {
+   "text": "So the first SUV failed, not because nobody wanted it, but because it was too hard to build. That lesson matters. Wikipedia lists the Urus as the LM002's spiritual successor. And the Urus would be built a very different way: on the Volkswagen Group's platform, with parts shared with other brands, so it could be built in large numbers.",
+   "query": "Lamborghini Urus and LM002",
+   "caption": "THE LESSON: MAKE IT EASY TO BUILD",
+   "cuts": 3
+  },
+  {
+   "text": "The LM002 had a colourful life. Wikipedia says a Turin coachbuilder, Salvatore Diomante, built a one-off estate version for the Sultan of Brunei, and that Uday Hussein owned one, which U.S. forces blew up in two thousand four in a car-bomb test. It appeared in films including No Holds Barred, Toys and Fast and Furious. It was a car people remembered, even if few were built.",
+   "query": "Lamborghini LM002 owners",
+   "caption": "SULTAN OF BRUNEI \u00b7 FILM STAR",
+   "cuts": 3
+  },
+  {
+   "text": "The LM002 also went racing, in a way. Wikipedia says the LM002 Evoluzione of nineteen eighty-eight was tuned to six hundred metric horsepower for the Paris-Dakar, but funding ran out before it could officially enter. Sandro Munari drove the white car in the Rallye des Pharaons in Egypt and in Greece. A company that could not afford its own rally programme was already dreaming big.",
+   "query": "Lamborghini LM002 Evoluzione",
+   "caption": "EVOLUZIONE: 600 PS, NO FUNDS FOR DAKAR",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia says the Urus concept was unveiled at the Beijing Auto Show on the twenty-third of April, twenty twelve. It had a five point two litre V ten from the Gallardo, rated at six hundred metric horsepower, and all-wheel drive. It was also shown at Pebble Beach that year. Designer Filippo Perini is credited with the concept.",
+   "query": "Lamborghini Urus concept 2012",
+   "caption": "23 APRIL 2012: BEIJING",
+   "cuts": 3,
+   "chapter": "The idea returns: Beijing, 2012"
+  },
+  {
+   "text": "Stephan Winkelmann described the decision in the Yahoo Autos article. We decided to do an SUV soon after that, he said, but it took years to get there. By our arithmetic, the production Urus was shown on the fourth of December, twenty seventeen, five years and eight months after the concept. That is long, even by car industry standards.",
+   "query": "Stephan Winkelmann",
+   "caption": "\"IT TOOK YEARS TO GET THERE\"",
+   "cuts": 3
+  },
+  {
+   "text": "The production car changed a lot. Wikipedia says its exterior and powertrain differed substantially from the concept, and that Mitja Borkert designed the production version. The V ten was replaced by a four litre twin-turbo V eight, based on an Audi engine and assembled at a Volkswagen plant in Hungary. The car sits on the Volkswagen Group's M L B Evo platform.",
+   "query": "Lamborghini Urus production",
+   "caption": "V10 CONCEPT \u2192 TWIN-TURBO V8",
+   "cuts": 3
+  },
+  {
+   "text": "Winkelmann addressed the shared platform directly. In the article he says it has a common platform, but our engineers did a fantastic job creating a car which is a real Lamborghini. The page lists the Audi Q7, Bentley Bentayga, Porsche Cayenne and Volkswagen Touareg as platform relatives. Sharing is how the Urus could be built at all.",
+   "query": "Lamborghini Urus platform",
+   "caption": "\"A REAL LAMBORGHINI\"",
+   "cuts": 3
+  },
+  {
+   "text": "The target was clear. Wikipedia says deliveries began in early twenty eighteen, with a target of about three thousand five hundred units a year. It also says that the company aimed to double its sales volume by twenty nineteen after adding the Urus. In 2017, Lamborghini delivered three thousand, eight hundred fifteen cars. Doubling that is seven thousand, six hundred thirty.",
+   "query": "Lamborghini Urus launch",
+   "caption": "TARGET: ~3,500 URUS A YEAR \u00b7 DOUBLE THE VOLUME",
+   "cuts": 3
+  },
+  {
+   "text": "The name has its own story. Wikipedia says Urus is the ancestor of modern domestic cattle, also called the aurochs, and that the Latin word urus meant wild ox from the Gallic Wars onward. Lamborghini had trademarked the name earlier, and blogs in two thousand eight expected it for what became the Estoque. The bull is the brand's symbol, and the wild ox is an older bull.",
+   "query": "Aurochs",
+   "caption": "URUS = THE WILD OX",
+   "cuts": 3
+  },
+  {
+   "text": "The finished car was fast. Wikipedia lists six hundred fifty metric horsepower at six thousand r p m and eight hundred fifty newton-metres from two thousand two hundred fifty to four thousand five hundred, zero to a hundred in three point six seconds, zero to two hundred in twelve point eight, and a top speed of about three hundred five kilometres per hour. The page says it weighs under two thousand two hundred kilograms, thanks to carbon fibre.",
+   "query": "Lamborghini Urus",
+   "caption": "650 PS \u00b7 0\u2013100 IN 3.6 S \u00b7 ~305 KM/H",
+   "cuts": 3
+  },
+  {
+   "text": "The engine borrowed from the group, but with changes. Wikipedia says it was uprated by a hundred metric horsepower and eighty newton-metres over the Porsche Cayenne Turbo. The Urus Performante, later, made six hundred sixty-six metric horsepower, was forty-seven kilograms lighter and claimed three point three seconds to a hundred. A race version, the S T-X, was said to be twenty-five percent lighter than the street car.",
+   "query": "Lamborghini Urus Performante",
+   "caption": "PERFORMANTE: 666 PS, \u221247 KG",
+   "cuts": 3
+  },
+  {
+   "text": "In the Urus's first year, 2018, Wikipedia lists a total of five thousand, seven hundred fifty deliveries for Lamborghini, against three thousand, eight hundred fifteen the year before. By our arithmetic, that is a jump of about fifty-one percent. And the Urus itself accounted for two thousand, five hundred sixty-five of the cars built in that first year, according to the production table.",
+   "query": "Lamborghini 2018",
+   "caption": "2018: +51% DELIVERIES",
+   "cuts": 3
+  },
+  {
+   "text": "Did it work? Wikipedia lists Lamborghini deliveries of three thousand, eight hundred fifteen in twenty seventeen, five thousand, seven hundred fifty in twenty eighteen, and eight thousand, two hundred five in twenty nineteen. By our own arithmetic, the volume more than doubled in two years, up by about one hundred fifteen percent. The target of doubling was beaten.",
+   "query": "Lamborghini deliveries",
+   "caption": "2017: 3,815 \u2192 2019: 8,205 (+115%)",
+   "cuts": 3,
+   "chapter": "What happened: the numbers"
+  },
+  {
+   "text": "Carscoops reported that the Urus contributed four thousand, nine hundred sixty-two cars in twenty nineteen, a whopping sixty-one percent of total sales, with total volume up forty-three percent on the previous year. CEO Stefano Domenicali said that the year two thousand nineteen was the most successful in the company's history.",
+   "query": "Lamborghini 2019 sales",
+   "caption": "2019: URUS = 61% OF ALL SALES",
+   "cuts": 3
+  },
+  {
+   "text": "The sources count the Urus slightly differently. Wikipedia's Urus table lists five thousand, two hundred thirty-three for twenty nineteen, which is probably production, against four thousand, nine hundred sixty-two in Carscoops, which is deliveries. A difference of two hundred seventy-one cars. We use each as the source gives it, and do not mix them.",
+   "query": "Lamborghini Urus 2019",
+   "caption": "PRODUCTION VS DELIVERIES: 5,233 VS 4,962",
+   "cuts": 3
+  },
+  {
+   "text": "The United States was the biggest market in twenty nineteen, with two thousand, three hundred seventy-four deliveries, according to Carscoops. Then came mainland China with Hong Kong and Macau at seven hundred seventy, the United Kingdom at six hundred fifty-eight, Japan at six hundred forty-one and Germany at five hundred sixty-two.",
+   "query": "Lamborghini US market",
+   "caption": "US: 2,374 \u00b7 CHINA: 770 \u00b7 UK: 658",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia lists Urus numbers for each year: one hundred twenty-one in twenty seventeen, two thousand, five hundred sixty-five in twenty eighteen, then four thousand, three hundred sixty-four in twenty twenty, five thousand, two hundred forty in twenty twenty-one, five thousand, seven hundred eighty-five in twenty twenty-two, and six thousand in twenty twenty-three.",
+   "query": "Lamborghini Urus sales chart",
+   "caption": "URUS: 2,565 \u2192 5,233 \u2192 4,364 \u2192 5,240 \u2192 5,785",
+   "cuts": 3
+  },
+  {
+   "text": "Then six thousand, six hundred eighty-one in twenty twenty-four, and seven thousand, two hundred sixty-five in twenty twenty-five. By our own arithmetic, the nine years add up to forty-three thousand, two hundred fifty-four. And Wikipedia says the ten thousandth Urus was announced in July twenty twenty, and twenty thousand by twenty twenty-two, the fastest for any Lamborghini.",
+   "query": "Lamborghini Urus 10,000th",
+   "caption": "10,000TH IN JULY 2020 \u00b7 20,000 BY 2022",
+   "cuts": 3
+  },
+  {
+   "text": "Look at the whole company in twenty twenty-five. Wikipedia lists deliveries of ten thousand, seven hundred forty-seven. By our own arithmetic, seven thousand, two hundred sixty-five Urus would be about sixty-eight percent of that. This mixes production with deliveries, so treat it as a rough indication. The Yahoo article says the Urus accounts for significantly more than half of annual sales.",
+   "query": "Lamborghini 2025",
+   "caption": "URUS \u2248 2/3 OF THE COMPANY (ROUGH)",
+   "cuts": 3
+  },
+  {
+   "text": "After the first record year, the company kept growing. Wikipedia lists deliveries of seven thousand, four hundred thirty in twenty twenty, eight thousand, four hundred five in twenty twenty-one, nine thousand, two hundred thirty-three in twenty twenty-two, and ten thousand, one hundred twelve in twenty twenty-three. Then ten thousand, six hundred eighty-seven, and ten thousand, seven hundred forty-seven.",
+   "query": "Lamborghini deliveries 2020-2025",
+   "caption": "2020: 7,430 \u2192 2025: 10,747",
+   "cuts": 3
+  },
+  {
+   "text": "By our own arithmetic, deliveries in twenty twenty-five were about thirty-one percent above twenty nineteen, and about one hundred eighty-two percent above twenty seventeen, the year before the Urus. In twenty twenty, deliveries dipped about nine percent from twenty nineteen, then recovered. The shape of the curve is up.",
+   "query": "Lamborghini sales chart",
+   "caption": "2025 VS 2017: +182%",
+   "cuts": 3
+  },
+  {
+   "text": "The Yahoo article quotes Winkelmann on whether the SUV is a real Lamborghini. Nobody who drives an Urus ever doubts this, he says. It is, of course, the opinion of the man who made the decision. But his claim comes with eight hundred thirty-five million euros of operating income and a sixty-eight percent share of sales, by our rough arithmetic. That is a strong case.",
+   "query": "Stephan Winkelmann",
+   "caption": "\"NOBODY WHO DRIVES AN URUS EVER DOUBTS THIS\"",
+   "cuts": 3
+  },
+  {
+   "text": "Wikipedia gives one more number about the company's size. In December twenty twenty, Lamborghini had one thousand, seven hundred seventy-nine employees. By our arithmetic, with seven thousand, four hundred thirty deliveries that year, that is about four cars per employee. It remained a small company, with a very large product in its range.",
+   "query": "Lamborghini employees",
+   "caption": "1,779 EMPLOYEES (DEC 2020)",
+   "cuts": 3
+  },
+  {
+   "text": "The money followed. Wikipedia says that in twenty twenty-four, Lamborghini reported revenue of three point one billion euros and an operating income of eight hundred thirty-five million. By our own arithmetic, that is an operating margin of nearly twenty-seven percent. For a carmaker, that is a high figure. The Yahoo article calls the Urus a huge profit driver for the Volkswagen Group.",
+   "query": "Lamborghini finances",
+   "caption": "2024: \u20ac3.10B REVENUE \u00b7 \u20ac835M OPERATING INCOME",
+   "cuts": 3,
+   "chapter": "What it did to the company"
+  },
+  {
+   "text": "To put that in context, Wikipedia also lists a net income of ten point one million euros for twenty fourteen. Net income and operating income are different measures, so we cannot compare them directly. But the scale of the change, from ten million to hundreds of millions, shows why Volkswagen was happy to approve the SUV.",
+   "query": "Lamborghini 2014",
+   "caption": "2014 NET INCOME: \u20ac10.1M",
+   "cuts": 3
+  },
+  {
+   "text": "The Urus also changed the factory. Wikipedia says the Sant'Agata Bolognese site grew from eighty thousand to one hundred sixty thousand square metres when the Urus launched. By our arithmetic, that is exactly double. A company that built a few thousand sports cars now needed a second set of buildings for one SUV.",
+   "query": "Sant'Agata Bolognese factory",
+   "caption": "FACTORY AREA: 80,000 \u2192 160,000 M\u00b2",
+   "cuts": 3
+  },
+  {
+   "text": "Winkelmann has been at the helm of Lamborghini for fifteen of the past twenty years, according to the Yahoo Autos article, which says that he transformed the company beyond recognition. In his own words, they see themselves as brave, unexpected and authentic. By our arithmetic, sixteen hundred cars in two thousand five to ten thousand seven hundred forty-seven in twenty twenty-five is about a 6.7 times increase.",
+   "query": "Stephan Winkelmann Lamborghini",
+   "caption": "1,600 \u2192 10,747 IN 20 YEARS (6.7\u00d7)",
+   "cuts": 3
+  },
+  {
+   "text": "A bet this big has risks. The Yahoo article makes a pointed remark about other brands: performance brands with similar heritage such as Maserati and Lotus have struggled to maintain an identity. It does not say that of Lamborghini, but it shows the danger of chasing volume. A brand can sell more cars and lose what made it special.",
+   "query": "Lamborghini brand identity",
+   "caption": "THE DANGER OF VOLUME",
+   "cuts": 3,
+   "chapter": "The risks of the bet"
+  },
+  {
+   "text": "The Urus also had quality problems. Wikipedia says that in November twenty twenty, the N H T S A recalled two thousand, eight hundred thirty-one Urus, from the twenty nineteen and twenty twenty model years, over a fuel-line connector that was a fire risk. Wikipedia adds that Porsche had identified the issue in twenty nineteen.",
+   "query": "Lamborghini Urus recall",
+   "caption": "NOV 2020: 2,831 CARS RECALLED",
+   "cuts": 3
+  },
+  {
+   "text": "In May twenty twenty-four, Wikipedia says, two thousand, one hundred thirty-three Urus from the twenty twenty-three and twenty twenty-four model years were recalled because the hood latch striker rivets could fail, allowing the hood to detach above ninety-four miles per hour. A high-volume car brings high-volume problems.",
+   "query": "Lamborghini Urus hood",
+   "caption": "MAY 2024: 2,133 CARS RECALLED",
+   "cuts": 3
+  },
+  {
+   "text": "There is also the strategic risk of dependence. By our arithmetic, if the Urus is roughly two thirds of the company, then a bad year for SUVs would be a bad year for Lamborghini. The twenty twenty numbers show a small version of that: Urus production fell from five thousand, two hundred thirty-three to four thousand, three hundred sixty-four.",
+   "query": "Lamborghini Urus 2020",
+   "caption": "2020: URUS DOWN 17%",
+   "cuts": 3
+  },
+  {
+   "text": "Winkelmann's other big decision was about hybrids. Wikipedia says the Asterion L P I nine ten dash four, a hybrid concept from twenty fourteen, was the company's first, with a claimed combined output of nine hundred seven horsepower. So the company that started with a V twelve at the front of a truck is now defined by plug-ins, and the SUV came right in the middle of that story.",
+   "query": "Lamborghini Asterion",
+   "caption": "2014: ASTERION HYBRID CONCEPT, 907 HP",
+   "cuts": 3
+  },
+  {
+   "text": "Let us step back and count what changed, by our own arithmetic. Thirteen years separate the Beijing concept in twenty twelve and the twenty twenty-five figures. In those years, the company moved from a V ten concept to a plug-in V eight, from fifteen hundred cars to more than ten thousand, and from a single small factory to a site twice its size.",
+   "query": "Lamborghini timeline",
+   "caption": "CONCEPT 2012 \u2192 10,747 CARS IN 2025",
+   "cuts": 3
+  },
+  {
+   "text": "The same pattern appears in the LM002 and the Urus. Both were SUVs. Both used the best engine the company could get. But one was built by hand on a tubular steel frame, and the other on a shared group platform. One sold three hundred one cars in seven years. The other sold more than seven thousand in a single year, in twenty twenty-five.",
+   "query": "Lamborghini LM002 and Urus",
+   "caption": "301 CARS IN 7 YEARS VS 7,265 IN ONE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Lamborghini has kept going. Wikipedia lists the Urus SE, a plug-in hybrid with a four litre V eight making six hundred twenty horsepower, plus an electric motor of one hundred eighty-nine, for a combined seven hundred ninety-nine horsepower and nine hundred fifty newton-metres. It describes it as the fastest production SUV in the world at launch, with a top speed of three hundred twelve kilometres per hour.",
+   "query": "Lamborghini Urus SE",
+   "caption": "URUS SE: 799 HP PLUG-IN HYBRID",
+   "cuts": 3,
+   "chapter": "The bet continues"
+  },
+  {
+   "text": "The Urus SE weighs about three hundred kilograms more than the Urus S because of its twenty-five point nine kilowatt-hour battery, according to Wikipedia. Even so, it reaches a hundred kilometres per hour in three point four seconds. The SUV that started as a bet has become a platform for the company's electrification plans.",
+   "query": "Lamborghini Urus SE battery",
+   "caption": "25.9 KWH BATTERY \u00b7 +300 KG",
+   "cuts": 3
+  },
+  {
+   "text": "The wider range is changing too. Wikipedia lists the Revuelto, a V twelve hybrid with one thousand and one horsepower, and the Temerario, a mid-engine plug-in hybrid unveiled on the sixteenth of August, twenty twenty-four. In twenty twenty-one, Winkelmann said all models would be hybrid by two thousand twenty-four. The Urus was where the strategy began.",
+   "query": "Lamborghini Revuelto",
+   "caption": "REVUELTO \u00b7 TEMERARIO \u00b7 ALL HYBRID",
+   "cuts": 3
+  },
+  {
+   "text": "So was the bet worth it? On the numbers, yes. Deliveries went from three thousand eight hundred fifteen to ten thousand seven hundred forty-seven. The Urus became the best-selling Lamborghini ever. The company expanded its factory, and its operating income reached eight hundred thirty-five million euros. The sources we read describe the SUV as the engine of that growth.",
+   "query": "Lamborghini Urus",
+   "caption": "ON THE NUMBERS, THE BET PAID OFF",
+   "cuts": 3
+  },
+  {
+   "text": "But a bet is not only about the numbers. A reasonable person can still ask whether a Lamborghini should be a family car. The sources show that sales soared and that the company stayed profitable. They cannot tell you whether the brand lost something intangible. That part is a judgement, and it belongs to you.",
+   "query": "Lamborghini Urus family",
+   "caption": "NUMBERS CAN'T JUDGE THE BRAND",
+   "cuts": 3
+  },
+  {
+   "text": "Do you think Lamborghini was right to build the Urus? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the Urus, compare it with the Ferrari Purosangue, and work out what it really costs to own one.",
+   "query": "Lamborghini Urus",
+   "caption": "WAS LAMBORGHINI RIGHT?",
+   "cuts": 3
+  },
+  {
+   "text": "And if you want to spend your money on something you can actually drive every day, our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality for more stories about the cars and trucks people really talk about.",
+   "query": "Ford F-150",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
