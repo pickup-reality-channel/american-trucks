@@ -1,0 +1,8 @@
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, AC Ace: https://en.wikipedia.org/wiki/AC_Ace
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
+- Du Pont Registry, Shelby 427 Cobra price, specs, photos and review: https://news.dupontregistry.com/blogs/specs/shelby-427-cobra-price-specs-photos-and-review
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
+- Hagerty, 1965 Shelby Cobra 427 S/C (CSX3040): https://hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX3040/f33aeb97-e529-47a0-8f48-6136a6b53fde
+- Hagerty, 1959 AC Ace Bristol (BEX1117): https://www.hagerty.com/valuation-tools/past-sales/1959-ac-ace/BEX1117/1941242a-4d75-4ac0-bb77-074a95444bf2
+- Hagerty, 1956 AC Ace Bristol (BE172): https://www.hagerty.com/valuation-tools/past-sales/1956-ac-ace/BE172/572ff6cd-fdbd-4ac0-9fb2-66be383447e4
