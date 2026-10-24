@@ -1,0 +1,11 @@
+- Wikipedia, Ferrari Purosangue: https://en.wikipedia.org/wiki/Ferrari_Purosangue
+- Motor1 (Brian Silvestro), Ferrari Purosangue: the most fun SUV ever: https://www.motor1.com/reviews/725148/2025-ferrari-purosangue-review/
+- Robb Report, Ferrari stops taking Purosangue orders because of high demand: https://robbreport.com/motors/cars/ferrari-temporarily-closes-purosangue-order-book-1234778214/
+- Carscoops, Ferrari reopens Purosangue SUV orders as profits surge by 27% in Q1: https://www.carscoops.com/2023/05/ferrari-reopens-purosangue-orders-as-profits-surge-by-27-in-q1/
+- Motor1, Ferrari says if you order a car today you won't get it until 2026: https://www.motor1.com/news/694830/ferrari-new-orders-fulfilled-2026/
+- autoevolution (Cristian Gnaticov), Ferrari's ex-CEO on an SUV: 'you have to shoot me first': https://www.autoevolution.com/news/ferrari-s-ex-ceo-on-an-suv-you-have-to-shoot-me-first-meet-the-purosangue-198601.html
+- Autocar (Rachel Burgess), Ferrari boss: SUV-like vehicle will 'probably happen': https://www.autocarpro.in/news-international/ferrari-boss-suv-vehicle-probably-happen-25661
+- AOL, 2024 Ferrari Purosangue will start at an eye-watering $398,350: https://www.aol.com/2024-ferrari-purosangue-start-eye-143900131.html
+- Cars.com, Ferrari Purosangue vs. Rolls-Royce Cullinan: https://www.cars.com/research/compare/ferrari-purosangue-vs-rolls_royce-cullinan/
+- Autohled, Ferrari averaged 524 thousand euros in revenue for every car: https://www.autohled.cz/en/magazin/ferrari-utrzilo-v-prumeru-524-tisic-eur-za-kazde-auto-rekordni-rok-2025-ukazuje-silu-exkluzivity/9983
+- U.S. Census Bureau, Income in the United States: 2024: https://www.census.gov/library/publications/2025/demo/p60-286.html
