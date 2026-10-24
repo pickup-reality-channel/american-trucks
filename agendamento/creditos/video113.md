@@ -1,0 +1,122 @@
+# Photo credits: 2 Secrets Hidden Inside the Ferrari F40
+
+- F40 Ferrari 20090509.jpg by Will ainsworth, CC BY-SA 3.0
+- Ferrari F40, TC 24, Essen (TCE43319-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari F40 GIMS 2024 1X7A2271.jpg by Alexander-93, CC BY-SA 4.0
+- 1990 Ferrari F40 front.jpg by TTTNIS, CC0
+- 1990 Ferrari F40 rear.jpg by TTTNIS, CC0
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0179).jpg by Matti Blume, CC BY-SA 4.0
+- 1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9014.jpg by Alexander Migl, CC BY-SA 4.0
+- 1989 Ferrari F40 Paul Pietsch Classic 2025 DSC 9006.jpg by Alexander Migl, CC BY-SA 4.0
+- 1993 Ferrari F40 LM 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1993 Ferrari F40 LM.jpg by Calreyn88, CC BY-SA 4.0
+- 1990 Ferrari F40 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1987-11-15 Fiorano Ferrari F40 espo.jpg by Unknown photographer, Public domain
+- 1990 Ferrari F40.jpg by Calreyn88, CC BY-SA 4.0
+- 1991 Ferrari F40 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 6.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 7.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 monaco 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 4.jpg by Calreyn88, CC BY-SA 4.0
+- 1991 Ferrari F40 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 monaco.jpg by Calreyn88, CC BY-SA 4.0
+- 1984 Ferrari 288 GTO front.jpg by TTTNIS, CC0
+- 1984 Ferrari 288 GTO rear.jpg by TTTNIS, CC0
+- Ferrari 288 GTO Evoluzione (47877).jpg by Calreyn88, CC BY-SA 4.0
+- Municipality of Maranello in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- Maranello notte rossa2.jpg by Maranellolover, CC BY-SA 4.0
+- Ferrari F40 LM (53280376599).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- 1989 Ferrari F40 3.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 fos 25.jpg by Calreyn88, CC BY-SA 4.0
+- 1998 Lamborghini Diablo (RACV 2013 Motorclassica) (10491480634).jpg by Chris Phutully from Australia, CC BY 2.0
+- 1998 Lamborghini Diablo (2013 RACV MotorClassica) (10491501674).jpg by Chris Phutully from Australia, CC BY 2.0
+- Ferrari F40 fos 25.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari-Monaco-4071021.jpg by ermell, CC BY-SA 4.0
+- 2004 Enzo Ferrari rear.jpg by TTTNIS, CC0
+- Ferrari Enzos at Silverstone in 2012.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari F40 - 54848301549.jpg by Alexandre Prevot, CC BY-SA 4.0
+- F40 One (31782822743).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- F40 Two (32594983325).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- F40 Three (32442150372).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Ferrari F40 monaco 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1990 Ferrari F40 GT LHD 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1989 Ferrari F40 fos 25 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F40 at Goodwood 2014 001.jpg by Nic Redhead, CC BY-SA 2.0
+- Ferrari F40 (35721168565).jpg by Neil, CC BY 2.0
+- Ferrari F40 (1990) (52864221191).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F40 interior - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0
+- Ferrari F40 012.jpg by Arnaud 25, CC BY-SA 4.0
+- Ferrari F40 002.jpg by Arnaud 25, CC BY-SA 4.0
+- F40 Ferrari engine.JPG by Pitak, CC BY-SA 3.0
+- 1987 Ferrari F40 classic supercar supercars interior engine engines 2048x1536.jpg by NBRM97, CC BY-SA 4.0
+- Ferrari F40 TAISAN STARCARD No40 04.jpg by Tx-re, CC BY-SA 3.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Mechanical-calculator-Brunsviga-800-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- FerrariGTO.jpg by Karrmann, CC BY-SA 3.0
+- Ferrari 288 GTO hcc25.jpg by Calreyn88, CC BY 4.0
+- Ferrari 288 GTO hcc25 1.jpg by Calreyn88, CC BY 4.0
+- Ferrari F40 side.JPG by Carl Skaggs, CC BY 3.0
+- 1990 Ferrari F40 0.jpg by Fishyfool, CC BY-SA 4.0
+- Ferrari Supercars - F40, F50, and Enzo (9376918883).jpg by Axion23, CC BY 2.0
+- 1-24 model cars.jpg by メイド理世, CC BY-SA 4.0
+- 1983 Golf GTI Pirelli 2024-05-01.jpg by Wikisympathisant, CC BY-SA 4.0
+- LAMBORGHINI AVENTADOR LP700-4 PIRELLI EDITION at GIMS 2015,Geneva, Switzerland 01.jpg by Ank Kumar, CC BY-SA 4.0
+- LAMBORGHINI AVENTADOR LP700-4 PIRELLI EDITION at GIMS 2015,Geneva, Switzerland 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari F40 LM style at Quail 2022 front.jpg by Prova MO, CC BY-SA 4.0
+- 1991 Ferrari F40 front, concours 6.1.19.jpg by Kevauto, CC BY-SA 4.0
+- Ferrari F40 in Red, federal model, front left.jpg by Mr.choppers, CC BY-SA 4.0
+- F40 Five (31751007804).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- F40 Four (32442309102).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- "14 - Italian Luxury convertible - supercar California T 2014 Turbo.jpg by Noebu, CC BY-SA 3.0 it
+- Ferrari Enzo, F50, F40, and 288 GTO (16131063138).jpg by Axion23, CC BY 2.0
+- Ferrari F40, F50, and Enzo (9412184970).jpg by Axion23, CC BY 2.0
+- Ferrari F40 and Enzo (8756627372).jpg by Axion23, CC BY 2.0
+- National Dairy Research Institute, or NDRI situated at Kalyani, Nadia 28.jpg by Pinakpani, CC BY 4.0
+- Openness-creates-engagement.jpg by Dasaptaerwin, CC0
+- Grand Rapids Research Center - MSU, Grand Rapids, MI, SW corner 2019-11-17.jpg by Xnatedawgx, CC BY-SA 4.0
+- Ferrari F40 (1990) (52864221166).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F40 (1990) (52864656178).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari F40 (1989) (54868849679).jpg by Charles from Port Chester, New York, CC0
+- Ferrari F40 in IMS parking lot.jpg by unknown, CC BY-SA 2.5
+- Ferari F40 "GT" - Road registered.jpg by Gordon Calder - 7 Million Views - Thanks!, CC BY 2.0
+- Nigel Mansell Ferrari F1 (16032819141).jpg by Maurizio Cefariello, CC BY 2.0
+- Ferrari 641 F1 Mansell noBG.jpg by Quelle: 	Riottoso       /   Freisteller, Bildbearbeitung & Retusche von Auge=mit, CC BY-SA 4.0
+- 1989 Ferrari 639 SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.11.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.13.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari F40 (1989) (54868835198).jpg by Charles from Port Chester, New York, CC0
+- Ferrari F40 GTE (1990) (54871337965).jpg by Charles from Port Chester, New York, CC0
+- Ferrari F40 GTE (1990) (54870183017).jpg by Charles from Port Chester, New York, CC0
+- 1989 Ferrari F40 HCC23.jpg by MrWalkr, CC BY-SA 4.0
+- 1991 Ferrari F40 open.jpg by MrWalkr, CC BY-SA 4.0
+- 1990 Ferrari F40 LM SCD24.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F40 LM (220571147).jpg by Simon Davison from Los Gatos, United States, CC BY 2.0
+- 1990 Ferrari F40 LM.jpg by Calreyn88, CC BY 4.0
+- Ferrari F40 LM - Museo Ferrari (17951923010).jpg by Rahil Rupawala, CC BY 2.0
+- Ferrari F40 GTE (1990) (54871338000).jpg by Charles from Port Chester, New York, CC0
+- Ferrari F40 GTE (1990) (54802931438).jpg by Charles from Port Chester, New York, CC0
+- Ferrari F40 GTE (1990) (54871277233).jpg by Charles from Port Chester, New York, CC0
+- 1990 Ferrari F40 LM HCC25.jpg by MrWalkr, CC BY-SA 4.0
+- 1990 Ferrari F40 LM SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Ferrari F40 LM style at Quail 2022 rear.jpg by Prova MO, CC BY-SA 4.0
+- Pista di Nardò.jpg by Saggittarius A, CC BY-SA 4.0
+- ISS018-E-6533 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- ISS018-E-6537 - View of Italy.jpg by Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Ferrari F40: https://en.wikipedia.org/wiki/Ferrari_F40
+- Classic Motorsports, Ferrari F40: the truth about living with a legend: https://classicmotorsports.com/articles/ferrari-f40-how-you-spend-million/
+- Sotheby's, The six most expensive Ferrari F40s: https://www.sothebys.com/en/articles/the-six-most-expensive-ferrari-f40s
+- DK Engineering, Ferrari F40 (1990) vehicle archive: https://www.dkeng.co.uk/Vehicle_Archive/797/ferrari_f40.html
+- Wikipedia, Porsche 959: https://en.wikipedia.org/wiki/Porsche_959

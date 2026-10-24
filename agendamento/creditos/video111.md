@@ -1,0 +1,161 @@
+# Photo credits: What a Real Shelby Cobra Costs Today
+
+- AC Cobra 427.jpg by JoachimKohler-HB, CC BY-SA 4.0
+- AC Shelby Cobra 427 Oldtimertreffen Ebern 2019 6200154.jpg by Ermell, CC BY-SA 4.0
+- Shelby 427 S-C Cobra 1966 6170717.jpg by Ermell, CC BY-SA 4.0
+- 1966 Shelby 427 S-C Cobra 6170718.jpg by Ermell, CC BY-SA 4.0
+- AC Cobra 427 RAM Replica, Bj. 1973 (2015-09-12 3697 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra 427 Replica Magnum, li. Seite (2015-09-12 3676 b).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- AC Cobra Tour Auto 2014 Circuit de Dijon Prenois 12.jpg by François de Dijon, CC BY-SA 3.0
+- Shelby AC 427 Cobra vl blue.jpg by Stahlkocher, CC BY-SA 3.0
+- 1965 Shelby 427 Competition Cobra, Mecum Auctions Kissimmee 2024.jpg by Pokemonprime, CC BY 4.0
+- Shelby Cobra 289 (Mk II, 1964) (52128102722).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52128104907).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52129623845).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52129367954).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 (Mk II, 1964) (52128104997).jpg by Charles from Port Chester, New York, CC BY 2.0
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0
+- XK120 and Cobra.JPG by Jagvar at English Wikipedia, Public domain
+- 1965-05-23 21 Hatzenbach - Shelby Cobra, J. Sears-F. Gardner.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Shelby Cobra Kulmbach-20220626-RM-111042.jpg by Ermell, CC BY-SA 4.0
+- AC Cobra Fia Roadster (1964) Solitude Revival 2022 1X7A0085.jpg by Alexander Migl, CC BY-SA 4.0
+- Shelby AC Cobra 289 USRRC Roadster.jpg by User:Jaydec, CC BY-SA 3.0
+- Shelby AC Cobra, CSX2000.JPG by User:Jaydec, CC BY-SA 3.0
+- Shelby Cobra 427 17 rear.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra 427, Pau 2015.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra 427 17 front.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby Cobra 289 (1963) (52874882314).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 427 S C (1966) (52575852963).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby Cobra 289 Hardtop Le Mans (1962) (52575772690).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Shelby American, main entrance.JPG by User:Jaydec, CC BY-SA 3.0
+- Downtown Shelby Ohio.JPG by User:OHWiki, Public domain
+- Shelby Mustang GT500, American Muscle (3515088642).jpg by Iouri Goussev, CC BY-SA 2.0
+- Halifax DSC 9508 - Shelby Cobra 427 S-C (2918862467).jpg by Dennis G. Jarvis, CC BY-SA 2.0
+- 1967 AC Cobra Mk III 427 S-C (15966188467).jpg by Sicnag, CC BY 2.0
+- C 427 Roadster.jpg by Sicnag, CC BY 2.0
+- 1963 Shelby Cobra Mk II 289 Roadster (20522983314).jpg by Sicnag, CC BY 2.0
+- 1963 AC Cobra Mk II 289 CSX2105 (15594534106).jpg by Sicnag, CC BY 2.0
+- Shelby AC Cobra 427 7.0 (8910467715).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Aurora electronic calculator DT210 08.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 09.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 10.jpg by Coyau, CC BY-SA 3.0
+- Jamaica, particulars of a valuable Sugar Estate - know as Phœnix in the Island of Jamaica, containing 614 acres or thereabouts, together with the buildings, fixtures, machinery, and live and dead LOC 2016586641-5.jpg by Hards And Jenkinson (Firm), Public domain
+- 1937 Bentley 4 ¼ Litre All-Weather Tourer by Thrupp & Maberly, front left (Greenwich 2019).jpg by Mr.choppers, CC BY-SA 3.0
+- 1991 De Tomaso Pantera Si in Black Metallic, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- Shelby AC Cobra 427, Ollie the Dragon.JPG by User:Jaydec, CC BY-SA 3.0
+- AC Cobra 427 Heck.jpg by Robotriot, CC BY-SA 3.0
+- Yellow AC Shelby Cobra 427.jpg by Ethan Llamas, CC BY-SA 4.0
+- Shelby Cobra 289.jpg by Calreyn88, CC BY-SA 4.0
+- 1964 Shelby Cobra 289, Tour Auto 2015, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1963 Shelby Cobra 289, Tour Auto 2015, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 1964 Shelby Cobra 289, Tour Auto 2015, Toulouse 207.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Shelby AC Cobra 289 FIA Roadster.JPG by User:Jaydec, CC BY-SA 3.0
+- SHELBY Cobra 289 Roadster.jpg by Abxbay, CC BY-SA 4.0
+- Rétromobile 2016 - Shelby Cobra 289 - 001.jpg by Thesupermat, CC BY-SA 4.0
+- Shelby Cobra 289 1964 - Pierre MELLINGER - Max GIRARDO - Tour Auto 2025 - D1 Lagorce Ardèche.jpg by Kakoula10, CC BY-SA 4.0
+- SHELBY Cobra 289 1964 (34245141896).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- SHELBY Cobra 289 1964 (33901662410).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- SHELBY Cobra 289 1963 (33641268573).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 1964 AC Cobra 289 Roadster (3829339920).jpg by Craig Howell from San Carlos, CA, USA, CC BY 2.0
+- 1964 Shelby Cobra Slalom Snake.jpg by Sicnag, CC BY 2.0
+- 1967 Shelby King Cobra Can Am at Quail 2022.jpg by Prova MO, CC BY-SA 4.0
+- 2015 Shelby Cobra 50th anniversary Roadster (20958884059).jpg by Sicnag, CC BY 2.0
+- Shelby Cobra 427 (539467867).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- AC Cobra 427 Front.jpg by Robotriot, CC BY-SA 3.0
+- Blue AC Cobra 427 interior.JPG by BrokenSphere, CC BY-SA 3.0
+- Shelby Superperformance 427-435hp Driveable Chassis.JPG by User Nrbelex on en.wikipedia, CC BY 2.5
+- Shelby Daytona Cobra Coupé (1987) (55307421286).jpg by Charles from Port Chester, New York, CC0
+- Shelby Cobra Daytona Coupe CSX9000 - Replica Superformance (Foto Sp 2016-06-05).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- Carroll Shelby 427 Cobra (3608974984).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Shelby AC Cobra (8911092842).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Shelby Cobra CSX10000.jpg by Calreyn88, CC BY 4.0
+- Shelby Cobra Daytona Coupe (1965) Solitude Revival 2022 1X7A0004.jpg by Alexander Migl, CC BY-SA 4.0
+- Shelby Daytona, 1964.JPG by User:Jaydec, CC BY-SA 3.0
+- Blue Shelby Daytona Coupe at Nevada DMV.jpg by Noah Wulf, CC BY-SA 3.0
+- Carroll Shelby 427 Cobra (3608963860).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Carroll Shelby 427 Cobra (3608153057).jpg by Patrick from Merrimack, NH, United States, CC BY 2.0
+- Shelby AC Cobra (VACM Lachine 2019).jpg by Bull-Doser, Public domain
+- Shelby Cobra 427 (20009031521).jpg by Neil, CC BY 2.0
+- Blue AC Cobra 427 side.JPG by BrokenSphere, CC BY-SA 3.0
+- Blue AC Cobra 427 engine.JPG by BrokenSphere, CC BY-SA 3.0
+- Ford Mustang V California Special.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ford Cortina V 1593 cc First registered in Britain December 1981.jpg by MumblesToad01, CC BY-SA 4.0
+- Ford Mustang V 4290564.jpg by Ermell, CC BY-SA 4.0
+- Shiny & Old (6173391171).jpg by Andrew Smith from Seattle, WA, USA, CC BY-SA 2.0
+- 1954 Arnolt Bristol Bertone Bolide Deluxe (21763261599).jpg by Sicnag, CC BY 2.0
+- 1966 Shelby AC Cobra-R (49246582421).jpg by Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0
+- Mechanical-calculator-Brunsviga-800-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Aurora electronic calculator DT210 05.jpg by Coyau, CC BY-SA 3.0
+- Aurora electronic calculator DT210 07.jpg by Coyau, CC BY-SA 3.0
+- Shelby Cobra 427 1971 at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0
+- Blue AC Cobra 427 rear.JPG by BrokenSphere, CC BY-SA 3.0
+- 10-AC-Cobra-427-Racing-1966-Steckborn.jpg by Andrew-44-19, CC BY-SA 4.0
+- 2012 Grand Prix of Long Beach IMG 5893 (6935720966).jpg by Shelby Asistio from Los Angeles, United States, CC BY-SA 2.0
+- 2012 Lexus LFA Spider.jpg by TTTNIS, CC0
+- 2025 Lexus LFA Concept.jpg by TTTNIS, CC0
+- Shelby Cobra 427, gray, Golden Super Cruise 2026-10-03.jpg by Xnatedawgx, CC BY-SA 4.0
+- 1965 Shelby Daytona Super Coupe CSB3054 right rear view.jpg by ITakePhotosOfCars, CC0
+- 1965 Shelby Daytona Super Coupe CSB3054 left front view.jpg by ITakePhotosOfCars, CC0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045231).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045419).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045123).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Cobra CSX2000 @ the 2012 New York International Auto Show (7048045333).jpg by LotPro Cars, CC BY-SA 2.0
+- Shelby Daytona Cobra Coupe (47997174018).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0
+- 1962 Shelby Cobra Mk I 260 Roadster (21145649035).jpg by Sicnag, CC BY 2.0
+- Superformance Cobra 427 SC.JPG by Alf van Beem, CC0
+- 2007 Superformance GT40.jpg by Calreyn88, CC BY 4.0
+- 2010 Superformance Daytona Cobra.jpg by Calreyn88, CC BY-SA 4.0
+- Superformance Shelby Cobra Daytona Coupe.jpg by Paul Horn, CC BY 2.0
+- 2019 Superformance MK3.jpg by Calreyn88, CC0
+- Superformance Daytona (38179550234).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- 1962 Shelby Cobra 260 Competition HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- 1966 Shelby Cobra CSX3315 FOS19.jpg by MrWalkr, CC BY-SA 4.0
+- 1962 Shelby Cobra 260 HC26.jpg by MrWalkr, CC BY-SA 4.0
+- 2020 Ford GT40 Replica Superformance SCD 24.jpg by MrWalkr, CC BY-SA 4.0
+- Superformance Cobra 427 2012 (38008330005).jpg by RL GNZLZ from Chile, CC BY-SA 2.0
+- Ford GT40 MKII Superformance Everrati.jpg by Calreyn88, CC BY-SA 4.0
+- Campbell's Soup Cans by Andy Warhol.jpg by Brandon Fick, Public domain
+- Rock and Roll Hall of Fame - October 2015.jpg by Eric Friedebach, CC BY 2.0
+- Flickr - law keven - Time and tide wait for no man....HBW....-O).jpg by Keven Law from Los Angeles, USA, CC BY-SA 2.0
+- AC Ace Bristol 2.jpg by Calreyn88, CC BY-SA 4.0
+- 1959 AC Ace Bristol HCC24.jpg by MrWalkr, CC BY-SA 4.0
+- AC Ace Bristol 1.jpg by Calreyn88, CC BY-SA 4.0
+- 1964 Shelby Cobra FIA Roadster.jpg by Sicnag, CC BY 2.0
+- 2015 Shelby Cobra 50th anniversary Roadster (21119467106).jpg by Sicnag, CC BY 2.0
+- 1967 Shelby 427 Cobra starboard fore quarter, lighter. DSC 0734 (47528138991).jpg by Bill Abbott, CC BY-SA 2.0
+- 2017 Superformance GT40 Mk II 7.0.jpg by Vauxford, CC BY-SA 4.0
+- Shelby Cobra Daytona Coupe CSX9000 - Replica Superformance, Heck (Foto Sp 2016-06-05).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- SuperFORMANCE COBRA Coupe dutch licence registration AL-73-46 pic3.JPG by AlfvanBeem, CC0
+- Crosby Garrett Helmet on auction at Christies.jpg by Portable Antiquities Scheme from London, England, CC BY 2.0
+- 1939 Chevrolet Sold at auction by Coast2Coast Auctions.jpg by Rob Weiman, CC BY-SA 4.0
+- Auction House, Lakewood Heritage Center.jpg by Xnatedawgx, CC BY-SA 4.0
+- Calendar 2.jpg by পাপৰি বৰা, CC BY-SA 4.0
+- Close-up of calendar in Spanish - Calendario en español.jpg by Maximopi, CC BY-SA 4.0
+- Calendar of Wurmprecht, February and March.jpg by Wurmprecht, Public domain
+- American classic car outside Judds garage - geograph.org.uk - 1878346.jpg by Michael Trolove, CC BY-SA 2.0
+- 1917 Model 27 Brougham at Dick's Classic Car Garage in Texas, photographed in August 1918.jpg by Daneellis114, CC BY-SA 4.0
+- Classic car restoration project taking place in a garage with focus on an orange Beetle car.jpg by Shixart1985, CC BY 2.0
+- Figure 1- Results of the Bureau of Land Management's July 2014 Auction of Helium to Be Delivered in Fiscal Year 2015 (18353873816).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Willem van de Velde II - Dutch men-o'-war and other shipping in a calm.jpg by Willem van de Velde the Younger, Public domain
+- 1968 Shelby Mustang GT500KR Convertible (26768076575).jpg by Sicnag, CC BY 2.0
+- 1968 Shelby Mustang GT500KR Fastback (22471538748).jpg by Sicnag, CC BY 2.0
+- 1968 Ford Mustang Convertible (30540285743).jpg by Sicnag, CC BY 2.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Hagerty, 1965 Shelby Cobra 427 S/C (CSX3040), price guide April 2025: https://hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX3040/f33aeb97-e529-47a0-8f48-6136a6b53fde
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2208): https://www.hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2208/fe4f3048-b49a-429e-93ab-1ff270bd4e6b
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2487): https://www.hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2487/508d390d-cf5c-4893-a305-2d31e7849c8f
+- Hagerty, 1964 Shelby Cobra 289 R&P (CSX2242): https://hagerty.com/valuation-tools/past-sales/1964-shelby-cobra/CSX2242/1c73c862-8bba-4cf2-8456-1681a53b057e
+- Hagerty, 1967 Shelby Cobra 428 (CSX3299): https://hagerty.com/valuation-tools/past-sales/1967-shelby-cobra/CSX3299/e1f75911-e24a-4463-92e0-8ef7a889b60d
+- Hagerty, 1965 Shelby Cobra CSX4000 427 S/C (CSX4566), RM Sotheby's Coral Gables, March 2024: https://www.hagerty.com/valuation-tools/past-sales/1965-shelby-cobra/CSX4566/23b78ba4-8c78-4aef-9d8a-20811f33adef
+- Hagerty, 1959 AC Ace Bristol (BEX1117): https://www.hagerty.com/valuation-tools/past-sales/1959-ac-ace/BEX1117/1941242a-4d75-4ac0-bb77-074a95444bf2
+- Hagerty, 1956 AC Ace Bristol (BE172): https://www.hagerty.com/valuation-tools/past-sales/1956-ac-ace/BE172/572ff6cd-fdbd-4ac0-9fb2-66be383447e4
+- Du Pont Registry, Shelby 427 Cobra price, specs, photos and review: https://news.dupontregistry.com/blogs/specs/shelby-427-cobra-price-specs-photos-and-review
+- EVO, First-ever Shelby Cobra sells for record $13.75 million (22 Aug 2016): https://evo.co.uk/news/17955/first-ever-shelby-cobra-sells-for-record-1375-million
+- Jalopnik, The very first Shelby Cobra just sold for a staggering record $13.75 million (21 Aug 2016): https://www.jalopnik.com/the-very-first-shelby-cobra-just-sold-for-a-staggering-1785559850/
+- Wikipedia, AC Cobra: https://en.wikipedia.org/wiki/Shelby_Cobra
+- Wikipedia, Carroll Shelby: https://en.wikipedia.org/wiki/Carroll_Shelby
