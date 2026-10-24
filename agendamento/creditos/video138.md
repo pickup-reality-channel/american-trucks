@@ -1,0 +1,154 @@
+# Photo credits: Porsche 918 vs LaFerrari: The Difference Nobody Explains
+
+- Trio (19999938930).jpg by Ben, CC BY-SA 2.0
+- Porsche 918 Spyder IAA 2013.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder concept 1X7A6623.jpg by Alexander Migl, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder 4.6.jpg by Chelsea Jay, CC BY-SA 4.0
+- Porsche 918 Spyder in the Porsche-Museum (2009) 1X7A0382.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 Spyder IAA 2013 (Zuschnitt).jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht links.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 Spyder IAA 2013 Heckansicht rechts.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de
+- Porsche 918 RSR Studie (2011) in the Porsche-Museum (2009) 1X7A0381.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 RSR Studie (2011) in the Porsche-Museum (2009) 1X7A0380.jpg by Alexander Migl, CC BY-SA 4.0
+- Porsche 918 Spyder Illinois.jpg by UltraTech66, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (14567).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (71847).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 19.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- Cathedral of the Holy Trinity, Quebec city, Canada 001.jpg by Wilfredor, CC0
+- Holy Trinity Sloane Street Church Nave 2 - Diliff.jpg by Diliff, CC BY-SA 3.0
+- Holy Trinity Church, Fingerpost 1.jpg by Rodhullandemu, CC BY-SA 4.0
+- Holy Trinity, Wavertree from the southwest.jpg by Rodhullandemu, CC BY-SA 4.0
+- Holy Trinity Church, Capenhurst 01.jpg by Rodhullandemu, CC BY-SA 4.0
+- 2025 Six Nations France vs Scotland (918).jpg by Like tears in rain, CC BY-SA 4.0
+- Damir Džumhur vs Carlos Alcaraz, 2025 Roland Garros, 2025-05-30 (918).jpg by Like tears in rain, CC BY-SA 4.0
+- Jannik Sinner vs Richard Gasquet, 2025 Roland Garros, 2025-05-29 (918).jpg by Like tears in rain, CC BY-SA 4.0
+- La Roche, par Joseph de Ferraris, KBR.jpg by Joseph de Ferraris, Public domain
+- Braine la Leud, par Joseph de Ferraris, KBR.jpg by Joseph de Ferraris, Public domain
+- Esch sur la Sûre, par Joseph de Ferraris, KBR.jpg by Joseph de Ferraris, Public domain
+- La Ferrari Aperta badge.jpg by 35mmMan, CC BY 2.0
+- 2017 Aperta sn221528 at London Design Museum 2018.jpg by Surreal Name Given, CC BY 2.0
+- Basilica di Santa Maria dei Frari interno - Monumento di Canova.jpg by Didier Descouens, CC BY-SA 4.0
+- Boeing-engine-size-human-size-compare.jpg by Rupal28, CC BY-SA 4.0
+- Test Stand at the Rocket Engine Test Facility (GRC-1973-C-00785).jpg by NASA Glenn Research Center, Public domain
+- Via Roma (Via Toledo), Naples - Fire engine - Vigili del Fuoco (7617080194).jpg by Elliott Brown from Birmingham, United Kingdom, CC BY 2.0
+- Lissajous-Figur -- 2020 -- 7766.jpg by Dietmar Rabich, CC BY-SA 4.0
+- ATI RV670 display output (?) area high-res (stitched).jpg by Martijn Boer, Public domain
+- 1991 Jeep Cherokee Limited 4.0 High Output (4794204993).jpg by Spanish Coches, CC BY 2.0
+- General Electric I-40 Engine at the Lewis Flight Propulsion Laboratory (GRC-1946-C-15675).jpg by NASA Glenn Research Center, Public domain
+- Rostock Power Station, SW view.jpg by Radomianin, CC BY-SA 4.0
+- ChubuElectricPower HIGASHI-SHIMIZU electric power substation.jpg by Jihara19, CC BY-SA 4.0
+- Feedback control system.jpg by Controlsystemintro, CC BY-SA 4.0
+- Closed loop feedback systems.jpg by Controlsystemintro, CC BY-SA 4.0
+- Audio SwitchBox One (2011-10-08 by Kevin B 3).jpg by Kevin B 3, CC BY 2.0
+- Big Sandy Power Plant After Conversion.jpg by FunksBrother, CC BY-SA 4.0
+- Grundig Alana MP3 for Seat - drive unit - optical unit - Matsushita HUL7212-6603.jpg by Raimond Spekking, CC BY-SA 4.0
+- Modern Steam Turbine Generator.jpg by NRC, Public domain
+- 1970 Porsche 914 6 GT (54645207219).jpg by Tomás Del Coro from Fabulous Las Vegas, Nevada, USA, CC BY-SA 4.0
+- Flickr - ronsaunders47 - TRITON. CHOP-SHOP SPECIAL..jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- Flickr - ronsaunders47 - THE ULTIMATE 60s CAFE RACER-THE TRITON..jpg by Ronald Saunders from Warrington, UK, CC BY-SA 2.0
+- SWYOR-F8BF08 Post Medieval Apothecary Weight (FindID 1010144).jpg by West Yorkshire Archaeology Advisory Service, Ian Whitehead, 2020-09-24 10:05:32, CC BY 2.0
+- Post Medieval Apothecary weight; two drachms (FindID 795217).jpg by West Yorkshire Archaeology Advisory Service, Amy Downes, 2016-07-11 16:02:56, CC BY 2.0
+- Medieval weight, Pyramid pan weight (FindID 765383).jpg by Oxfordshire County Council, Anni Byard, 2016-02-02 11:10:11, CC BY 2.0
+- Waste hall - in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0
+- US Navy 040610-N-7265L-004 A Catapult Weight Board Operator relays the weight of an F-A-18F assigned to the.jpg by U.S. Navy photo by Photographer's Mate 2nd Class Inez Lawson, Public domain
+- Size, Weight & Power (8658872334).jpg by U.S. Army CERDEC, Public domain
+- Corduroy comparison macro.jpg by Rocknrollmancer, CC BY-SA 4.0
+- Corduroy comparison wider angle.jpg by Rocknrollmancer, CC BY-SA 4.0
+- Medieval weight, Decorated weight (FindID 629410).jpg by Oxfordshire County Council, Anni Byard, 2014-07-24 15:08:22, CC BY-SA 2.0
+- RadartimeVStangentfffAcceleration.jpg by P. Fraundorf, CC BY-SA 4.0
+- Lamborghini Urus SE (53878104939).jpg by David Merrett from Daventry, England, CC BY 2.0
+- Honda Fit EV concept (5213952298).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0
+- Ferrari 575 Superamerica (52677385760).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari 275 GTC (52175272467).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Ferrari 599 GTB Fiorano (52176555289).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Roswell Daily Record. July 8, 1947. RAAF Captures Flying Saucer On Ranch in Roswell Region. Top of front page.jpg by Roswell Daily Record., Public domain
+- Münster, Prinzipalmarkt, Giebel von Stadtweinhaus und historischem Rathaus -- 2021 -- 9474.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Münster, Prinzipalmarkt, Giebel von Stadtweinhaus und historischem Rathaus -- 2021 -- 9478.jpg by Dietmar Rabich, CC BY-SA 4.0
+- 1907 Coupe des Voiturettes lap times, L'Auto-vélo, 28 October 1907.jpg by L'Auto-Velo, Public domain
+- Times Square Ball from above.jpg by Anthony Quintano, CC BY 2.0
+- Paulo Sotero (Brazil Institute), Alan Taylor (University of Virginia), Richard Lapper (Brazil Confidential), Gillian Tett (Financial Times), Persio Arida (BTG Pactual) and Mario Garnero (BrasilInvest Group) (6214357905).jpg by Financial Times, CC BY 2.0
+- 221206-F-KN521-2021.jpg by U.S. Air Force photo by Jill Pickett, Public domain
+- 221206-F-KN521-2004.jpg by U.S. Air Force photo by Jill Pickett, Public domain
+- 221206-F-KN521-2020.jpg by U.S. Air Force photo by Jill Pickett, Public domain
+- Figure 4- Transportation Security Administration's Cost Efficiency Number as Compared to Screening Partnership Program Contract Award Prices (23524565801).jpg by U.S. Government Accountability Office from Washington, DC, United States, Public domain
+- Dülmen, Kirchspiel, BMW Mini -- 2016 -- 5129-35.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Dülmen, Kirchspiel, BMW Mini -- 2016 -- 5065-71.jpg by Dietmar Rabich, CC BY-SA 4.0
+- Lavernock Battery Modern.jpg by LukeRoyle, CC BY-SA 4.0
+- All-solid lithium-sulfur battery (8977837834).jpg by Oak Ridge National Laboratory, CC BY 2.0
+- All-solid lithium-sulfur battery (8977838852).jpg by Oak Ridge National Laboratory, CC BY 2.0
+- Collecting Ocean Water for Salt Making by Shibata Zeshin from Comparing Flowers, Volume 6.JPG by Shibata Zeshin, Public domain
+- Noix production.jpg by Pancrat, CC BY-SA 4.0
+- Inchdairnie Whisky Distillery.jpg by RRRW001, CC BY-SA 4.0
+- Stauning Whisky Distillery (Old Buildings).jpg by Erik Frohne, CC BY-SA 4.0
+- Suntory Hakushu Whisky Distillery - 7921399638.jpg by Yusuke Kawasaki, CC BY 2.0
+- Bitcoin Price Compared To US Dollar.jpg by CryptoWallet.com Images, CC BY 2.0
+- 2014 McLaren P1 3.8.jpg by Chelsea Jay, CC BY-SA 4.0
+- McLaren P1 - Mondial de l'Automobile de Paris 2012 - 005.jpg by Thesupermat, CC BY-SA 3.0
+- McLaren P1 GTR of Mike Whiddett at the 2026 Adelaide Motorsport Festival (DSCF2539).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Greenwich Power Station and Trinity Hospital 2026-01-24.jpg by The wub, CC BY-SA 4.0
+- Trinity Hospital and Greenwich Power station - geograph.org.uk - 4402465.jpg by Marathon, CC BY-SA 2.0
+- Greenwich Power Station and Trinity Hospital almshouses - geograph.org.uk - 6748805.jpg by Humphrey Bolton, CC BY-SA 2.0
+- 2013 McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- 2016 McLaren P1 LC.jpg by MrWalkr, CC BY-SA 4.0
+- 2015 Track Silver McLaren P1.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren P1 (8510117952).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- The McLaren P1™ (10952609013).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- The McLaren P1™ (8509010725).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- 2013 McLaren P1 MSO.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 MSO Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2013 McLaren P1 Purple MSO.jpg by MrWalkr, CC BY-SA 4.0
+- Triumph 2000 Mk2 (15306901684).jpg by Riley from Christchurch, New Zealand, CC BY 2.0
+- 1998 Vauxhall Vectra 1.6 LS Saloon.jpg by Kieran White, CC BY 2.0
+- Whistle (FindID 225804).jpg by The British Museum, Emma Traherne, 2010-11-16 16:04:32, CC BY-SA 2.0
+- 1956 Belgium Lotus Ferrari 166 0328M.jpg by Unknown photographer, Public domain
+- 2012 Geneva Motor Show - Ferrari F12.jpg by NRMA Motoring and Services, CC BY 2.0
+- Gênes, place Ferrari, la bourse - btv1b530768154.jpg by Agence Rol. Agence photographique (commanditaire), Public domain
+- Paris - RM auctions - 20150204 - Ferrari F40 - 1990 - 012.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Ferrari Testarossa - 1989 - 007.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Ferrari F40 - 1990 - 003.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Ferrari F40 - 1990 - 004.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Ferrari Testarossa - 1989 - 004.jpg by Thesupermat, CC BY-SA 4.0
+- Paris - RM auctions - 20150204 - Ferrari F40 - 1990 - 007.jpg by Thesupermat, CC BY-SA 4.0
+- Ferrari LaFerrari Aperta (31698).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Aperta jm.jpg by Calreyn88, CC BY 4.0
+- Ferrari LaFerrari Aperta 2.jpg by Calreyn88, CC BY-SA 4.0
+- France vs. Spain (basketball) - August 16, 2025 (918).jpg by Like tears in rain, CC BY-SA 4.0
+- Guinness 6 Nazioni 2026- Italia vs Inghilterra-918 (55150984900).jpg by Stefano Delfrate, CC BY-SA 4.0
+- AUT vs. ALB 2016-03-26 (002).jpg by Steindy (talk) 18:10, 27 March 2016 (UTC), CC BY-SA 3.0
+- Ferrari FXX-K (17851550599).jpg by emperornie, CC BY-SA 2.0
+- BBurago 1 18 Ferrari LaFerrari and FXX K Evo 2 July 2024.jpg by メイド理世, CC BY-SA 4.0
+- Ferrari F150 Laboratorio 2013 - Museo Enzo Ferrari (22443176264).jpg by Rob Oo from NL, CC BY 2.0
+- Ferrari Laferrari Aperta black.jpg by Calreyn88, CC BY 4.0
+- 2017 Ferrari Laferrari Aperta 1.jpg by Calreyn88, CC BY 4.0
+- Laferrari Aperta 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 250 GT SWB Berlinetta Competizione 3.0 '60 (8589732279).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Władysław Czachórski - List (1896).jpg by Władysław Czachórski, Public domain
+- Ivm veiling collectie Hans Wetzlar bij Sotheby, Mak van Waay , bezichtiging, mid, Bestanddeelnr 929-2043.jpg by Rob Bogaerts for Anefo, CC0
+- Ivm veiling collectie Hans Wetzlar bij Sotheby, Mak van Waay , bezichtiging, mid, Bestanddeelnr 929-2044.jpg by Rob Bogaerts for Anefo, CC0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 17.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 15.jpg by Ank Kumar, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (60043).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (99627).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (88104).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (60264).jpg by Calreyn88, CC BY-SA 4.0
+- 2015 Porsche 918 Spyder (71370).jpg by Calreyn88, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 18.jpg by Ank Kumar, CC BY-SA 4.0
+- Porsche 918 Spyder (Ank kumar, Infosys Limited) 10.jpg by Ank Kumar, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Porsche 918 Spyder: https://en.wikipedia.org/wiki/Porsche_918_Spyder
+- Wikipedia, LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Porsche press release (company source), Porsche 918 Spyder: the technology, via 911uk: https://911uk.com/porsche/official-press-release-porsche-918-spyder-the-technology.58965/latest
+- evo, Why the Ferrari LaFerrari, McLaren P1 and Porsche 918 Spyder are the most significant cars of the last 25 years: https://cdn1.evo.co.uk/hypercars/206506/why-the-ferrari-laferrari-mclaren-p1-and-porsche-918-spyder-are-the-most
+- Sotheby's, The seven most expensive Ferrari LaFerraris: https://www.sothebys.com/en/articles/the-seven-most-expensive-ferrari-laferraris
+- RM Sotheby's, 2026 Arizona sale press release: https://rmsothebys.com/media-center/press-releases/rm-sotheby-s-opens-the-2026-auction-season-with-63-million-arizona-sale-led-by-ferrari-enzo-f50-and-laferrari/
+- Motorious, Delivery-mileage 2015 Ferrari LaFerrari heads to Broad Arrow's Zürich auction: https://www.motorious.com/articles/all/delivery-mileage-2015-ferrari-laferrari-heads-to-broad-arrows-zurich-auction/
+- duPont REGISTRY, Market spotlight: Porsche 918 Spyder: https://news.dupontregistry.com/blogs/features/market-spotlight-porsche-918-spyder
+- Broad Arrow Auctions, Porsche 918 Spyder Weissach tops Broad Arrow's $20 million Air|Water auction: https://www.broadarrowauctions.com/news/Porsche-918-Spyder-Weissach-Tops-Broad-Arrows-20-Million-AirWater-Auction
