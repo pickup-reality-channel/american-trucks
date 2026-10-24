@@ -1,0 +1,332 @@
+{
+ "id": "video142",
+ "angle": "B",
+ "length_scale": 1.45,
+ "title": "Ram TRX vs Raptor R: The Difference Nobody Explains",
+ "scenes": [
+  {
+   "text": "Two trucks, two supercharged V8s, and almost the same horsepower. The Ram TRX and the Ford F one fifty Raptor R have been compared for years, and the comparison keeps changing, because the numbers keep changing. Seven hundred two against seven hundred. Then seven hundred seventy-seven against seven hundred twenty. This is the real difference between them, and the places where our sources disagree.",
+   "query": "Ram TRX vs Ford Raptor R",
+   "caption": "RAM TRX vs RAPTOR R: THE DIFFERENCE NOBODY EXPLAINS",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We read Motor1, Motor Authority, Autoblog, Ford Authority's report of a MotorTrend test, Cars dot com, Edmunds, Kelley Blue Book, Wikipedia, and both companies' own releases. We label company claims as claims, and our own arithmetic as ours. And we show every conflict, because for these two trucks, the conflicts are the story.",
+   "query": "Ram TRX vs Ford Raptor R",
+   "caption": "SOURCES: MOTOR1 \u00b7 MOTOR AUTHORITY \u00b7 AUTOBLOG \u00b7 FORD AUTHORITY (MOTORTREND) \u00b7 CARS.COM \u00b7 EDMUNDS \u00b7 KBB \u00b7 WIKIPEDIA \u00b7 COMPANY RELEASES (CLAIMS) \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "They did not start from the same place. Wikipedia says the Raptor began in twenty ten as a Ford SVT truck designed for off-road use, inspired by Baja racing. It returned in twenty seventeen with a twin-turbo V6, and a V8 came back as an option for twenty twenty-three. The TRX concept was shown in October twenty sixteen, as a supercharged Hemi study.",
+   "query": "Origins",
+   "caption": "RAPTOR: 2010 SVT, BAJA-INSPIRED \u00b7 2017 TWIN-TURBO V6 \u00b7 V8 OPTION 2023 \u00b7 TRX CONCEPT OCT 2016, SUPERCHARGED 6.2 HEMI (WIKIPEDIA)",
+   "cuts": 5,
+   "chapter": "Two different ideas"
+  },
+  {
+   "text": "The Raptor R is the Raptor's V8 version. Motor Authority and Motor1 reported it on the eighteenth of July twenty twenty-two, with a supercharged five point two litre V8 borrowed from the Shelby GT500. Motor1 says Ford retuned it for low and mid-range performance, fitting a seventy-four millimetre supercharger pulley against the GT500's eighty.",
+   "query": "Raptor R origin",
+   "caption": "RAPTOR R REPORTED 18 JULY 2022 \u00b7 5.2 L SUPERCHARGED 'PREDATOR' V8 FROM SHELBY GT500 \u00b7 74 MM PULLEY vs 80 MM ON THE GT500 (MOTOR1; MOTOR AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, six millimetres is seven and a half percent smaller. A smaller pulley turns the supercharger more slowly, and Motor1 says the peak torque arrives at forty-two hundred fifty rpm, against five thousand on the GT500. That is a difference of seven hundred fifty rpm, and it is the kind of engineering detail the TRX's own engine does not share.",
+   "query": "Raptor R tune",
+   "caption": "80\u221274 = 6 MM = 7.5% SMALLER PULLEY \u00b7 PEAK TORQUE 4,250 RPM vs 5,000 ON GT500 \u2192 750 RPM EARLIER (MOTOR1; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The TRX is a different recipe. Its engine is the supercharged six point two litre Hemi, the same family as the Hellcat engines. Ram's twenty twenty-seven release says the new version uses a two point four litre twin-screw supercharger and a dual-path induction system. The page of The Drive calls it the supercharged six point two litre V8 from the Hellcats.",
+   "query": "TRX engine",
+   "caption": "6.2 L SUPERCHARGED HEMI (HELLCAT FAMILY) \u00b7 2027: 2.4 L TWIN-SCREW SUPERCHARGER + DUAL-PATH INDUCTION (RAM RELEASE; THE DRIVE)",
+   "cuts": 3
+  },
+  {
+   "text": "Start with horsepower. The TRX makes seven hundred two, according to Wikipedia and Motor Authority. Ford's Raptor R launched at seven hundred. By our arithmetic, the TRX had a two horsepower advantage on paper, and Motor Authority notes the same. Two horsepower is a rounding error, and so the real battle was never about the horsepower number.",
+   "query": "2022 power",
+   "caption": "TRX 702 HP \u00b7 RAPTOR R 700 HP \u2192 +2 HP (WIKIPEDIA; MOTOR AUTHORITY; OUR ARITHMETIC) \u00b7 0.3% OF 700",
+   "cuts": 3,
+   "chapter": "Power and torque"
+  },
+  {
+   "text": "Torque is messier. Wikipedia and Motor1 give the TRX six hundred fifty pound-feet. Motor Authority gives six hundred sixty-three. For the Raptor R, Motor Authority and Motor1's news story say six hundred forty, while Motor1's review says six hundred forty-five in its text and six forty in its table. One truck, three torque figures; the other, two.",
+   "query": "Torque disagreements",
+   "caption": "TRX: 650 (WIKIPEDIA, MOTOR1) \u00b7 663 (MOTOR AUTHORITY) \u00b7 RAPTOR R: 640 (MOTOR AUTHORITY, MOTOR1 NEWS) \u00b7 645 (MOTOR1 REVIEW TEXT) \u00b7 640 (SAME REVIEW'S TABLE)",
+   "cuts": 3
+  },
+  {
+   "text": "Where it arrives matters more. Motor1's review says the Raptor R reaches its peak torque at forty-two hundred fifty rpm and the TRX at forty-eight hundred. By our arithmetic, the Ford is five hundred fifty rpm earlier. The reviewer says that gives the Raptor R a slight edge off the line, which is his opinion, not a measurement.",
+   "query": "Torque peak",
+   "caption": "RAPTOR R 4,250 RPM vs TRX 4,800 RPM \u2192 550 RPM EARLIER (MOTOR1 REVIEW; OUR ARITHMETIC) \u00b7 'SLIGHT EDGE OFF THE LINE' = REVIEWER'S OPINION",
+   "cuts": 3
+  },
+  {
+   "text": "Then the numbers moved. Autoblog's twenty twenty-six page lists the Raptor R at seven hundred twenty horsepower and six hundred forty pound-feet, and Forbes in January twenty twenty-six says the same. Autoblog's own twenty twenty-five review is inconsistent: its text says seven hundred, its table says seven hundred twenty at sixty-six fifty rpm. Our sources do not say when or why the number changed.",
+   "query": "Raptor R 720 hp",
+   "caption": "2026: RAPTOR R 720 HP / 640 LB-FT (AUTOBLOG 2026 PAGE; FORBES, 25 JAN 2026) \u00b7 AUTOBLOG 2025 REVIEW: TEXT 700, TABLE 720 @ 6,650 RPM \u00b7 WHEN/WHY CHANGED: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Ram's twenty twenty-seven release gives the TRX seven hundred seventy-seven horsepower and six hundred eighty pound-feet. It says the figures beat the nearest competitor by fifty-seven horsepower and forty pound-feet. By our arithmetic, that implies a rival at seven hundred twenty and six hundred forty. Those are exactly the Raptor R's figures, though Ram does not name it.",
+   "query": "Ram's unnamed rival",
+   "caption": "RAM 2027: 777 HP / 680 LB-FT, '57 HP AND 40 LB-FT' AHEAD \u2192 720 / 640 = RAPTOR R'S FIGURES (OUR ARITHMETIC) \u00b7 RAM DOES NOT NAME THE RIVAL",
+   "cuts": 3
+  },
+  {
+   "text": "So today's gap, by our arithmetic, is fifty-seven horsepower, or about eight percent of the Ford's output, and forty pound-feet, about six percent. In twenty twenty-two the gap was two horsepower in the Ram's favour. Between twenty twenty-two and now, the gap went from two horsepower to fifty-seven.",
+   "query": "Gap today",
+   "caption": "57 \u00f7 720 = 7.9% \u00b7 40 \u00f7 640 = 6.25% (OUR ARITHMETIC) \u00b7 2022 GAP: 2 HP \u00b7 2026 GAP: 57 HP",
+   "cuts": 3
+  },
+  {
+   "text": "There is a third number. Ford Performance Parts showed a Raptor R project vehicle at SEMA, on the fourth of November twenty twenty-five, with a three litre Whipple supercharger and over nine hundred horsepower. Ford says it is a demonstration vehicle, not for sale. By our arithmetic, nine hundred is one hundred twenty-three above the new TRX.",
+   "query": "Ford SEMA 900 hp",
+   "caption": "FORD PERFORMANCE PARTS PROJECT RAPTOR R: >900 HP, 3.0 L WHIPPLE SUPERCHARGER \u00b7 NOT FOR SALE \u00b7 4 NOV 2025 (FORD) \u00b7 900 \u2212 777 = 123 HP (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Ford says the supercharger kit is designed to be certified in California and legal in all fifty states, with a three-year, thirty-six thousand mile Ford Performance Parts warranty when installed by a Ford dealer. Matt Simpson, Ford's executive director of accessories and personalization, said they wanted a blueprint for the ultimate factory-backed Raptor. The press release gives no price for the kit.",
+   "query": "Ford kit details",
+   "caption": "KIT DESIGNED TO BE CARB-CERTIFIED / 50-STATE LEGAL \u00b7 3-YR / 36,000-MI WARRANTY (FORD DEALER INSTALL) \u00b7 MATT SIMPSON QUOTE \u00b7 KIT PRICE: NOT GIVEN (FORD)",
+   "cuts": 3
+  },
+  {
+   "text": "Weight is where the sources scatter. Motor1 and Motor Authority put the Raptor R at an estimated five thousand, nine hundred fifty pounds. Autoblog's twenty twenty-five review says roughly six thousand, one hundred. The TRX is six thousand, three hundred fifty on Wikipedia, and the same on Cars dot com's test. By our arithmetic, the gap is four hundred pounds on the first pair, two hundred fifty on the second.",
+   "query": "Weights",
+   "caption": "RAPTOR R: 5,950 EST. (MOTOR1, MOTOR AUTHORITY) \u00b7 ~6,100 (AUTOBLOG 2025) \u00b7 TRX 6,350 (WIKIPEDIA; CARS.COM) \u2192 GAPS 400 / 250 LB (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Weight"
+  },
+  {
+   "text": "MotorTrend, through Ford Authority, says the TRX was about seven hundred forty pounds heavier than the Raptor R. If the TRX is six thousand, three hundred fifty, that implies the Raptor R at fifty-six hundred ten, lighter than any other source says. We cannot explain it, and we do not pick a winner among them.",
+   "query": "MotorTrend weight gap",
+   "caption": "MOTORTREND (VIA FORD AUTHORITY): TRX ~740 LB HEAVIER \u2192 IMPLIES RAPTOR R \u2248 5,610 LB (OUR ARITHMETIC) \u00b7 LOWER THAN ANY OTHER SOURCE",
+   "cuts": 3
+  },
+  {
+   "text": "Using the sources' own weights, the pounds per horsepower come out close. By our arithmetic, the TRX at six thousand, three hundred fifty and seven hundred two horsepower is nine point oh five pounds per horsepower. The Raptor R at five thousand, nine hundred fifty and seven hundred is eight point five. At six thousand, one hundred and seven hundred twenty it is eight point four seven.",
+   "query": "Pounds per horsepower",
+   "caption": "TRX 6,350 \u00f7 702 = 9.05 \u00b7 RAPTOR R 5,950 \u00f7 700 = 8.50 \u00b7 6,100 \u00f7 720 = 8.47 LB/HP (OUR ARITHMETIC; WEIGHTS ARE ESTIMATES)",
+   "cuts": 3
+  },
+  {
+   "text": "Weight in context: the Raptor R is about six percent lighter than the TRX on the five thousand, nine hundred fifty figure, and about four percent lighter on the six thousand, one hundred figure. Neither is a huge difference for a truck over three tons. Neither source tells us how weight is distributed, which matters off-road.",
+   "query": "Weight in percent",
+   "caption": "400 \u00f7 6,350 = 6.3% \u00b7 250 \u00f7 6,350 = 3.9% LIGHTER (OUR ARITHMETIC) \u00b7 WEIGHT DISTRIBUTION: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Now measured speed. Ford Authority reports a MotorTrend comparison on a Michigan test track and snowy trails. The Raptor R did zero to sixty in three point seven seconds, and the quarter mile in twelve point one at one hundred eleven point eight miles per hour. The TRX did zero to sixty in three point nine. MotorTrend named the Raptor R the winner.",
+   "query": "MotorTrend comparison",
+   "caption": "MOTORTREND (VIA FORD AUTHORITY): RAPTOR R 0\u201360 3.7 S, 1/4 MILE 12.1 S @ 111.8 MPH \u00b7 TRX 0\u201360 3.9 S \u00b7 WINNER: RAPTOR R",
+   "cuts": 3,
+   "chapter": "Speed"
+  },
+  {
+   "text": "By our arithmetic, that is two tenths of a second, about five percent. And MotorTrend said the Raptor R was more comfortable, and better at absorbing obstacles, on and off pavement. Its verdict, as quoted, was that the Raptor R delivers better performance and a fuller experience. That is one magazine's conclusion on one day.",
+   "query": "MotorTrend verdict",
+   "caption": "3.9 \u2212 3.7 = 0.2 S = 5.1% (OUR ARITHMETIC) \u00b7 VERDICT: 'BETTER PERFORMANCE AND A FULLER EXPERIENCE' (MOTORTREND VIA FORD AUTHORITY) \u00b7 ONE TEST, ONE DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Cars dot com measured a twenty twenty-one TRX separately: zero to sixty in four point one, and the quarter mile in twelve point five five at just under one hundred seven miles per hour. By our arithmetic, the Raptor R's twelve point one is forty-five hundredths of a second quicker, and eleven point eight versus under seven miles per hour faster at the end. But different testers, different days, and a rollout difference.",
+   "query": "Cross-test quarter mile",
+   "caption": "CARS.COM TRX: 12.55 S @ <107 MPH \u00b7 MOTORTREND RAPTOR R: 12.1 S @ 111.8 \u2192 0.45 S AND ~4.8+ MPH (OUR ARITHMETIC) \u00b7 DIFFERENT TESTERS, ROLLOUT",
+   "cuts": 3
+  },
+  {
+   "text": "Claims are different from measurements. Ford declined to give a zero-to-sixty time at launch, according to Motor Authority, which quotes a Ford spokesperson, Dawn McKenzie. Motor1's spec table estimates four point four seconds, while Autoblog's table says three point six, and its text says under four. So Ford's figures are third-party estimates. Ram's twenty twenty-seven claim is three point five seconds.",
+   "query": "Zero to sixty claims",
+   "caption": "FORD: NO 0\u201360 AT LAUNCH (MOTOR AUTHORITY, DAWN McKENZIE) \u00b7 ESTIMATES: 4.4 S (MOTOR1) \u00b7 3.6 S / 'UNDER 4' (AUTOBLOG) \u00b7 RAM 2027 CLAIM: 3.5 S WITH LAUNCH CONTROL",
+   "cuts": 3
+  },
+  {
+   "text": "One mechanical difference shows up here. Motor Authority says the TRX has launch control and the Raptor R does not. Motor1 says the Raptor R uses the standard ten-speed automatic with unchanged gear ratios, while the TRX has an eight-speed. And Autoblog says the Raptor R is electronically limited to one hundred fourteen miles per hour, while Ram claims one hundred eighteen for the TRX.",
+   "query": "Gearing and limits",
+   "caption": "TRX: LAUNCH CONTROL, 8-SPEED, 118 MPH CLAIM \u00b7 RAPTOR R: NO LAUNCH CONTROL (MOTOR AUTHORITY), 10-SPEED, LIMITED TO 114 MPH (AUTOBLOG) \u00b7 118 \u2212 114 = 4 MPH (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Off-road, the trucks differ more than the horsepower suggests. Autoblog lists the Raptor R on thirty-seven by twelve and a half inch BFGoodrich all-terrain tyres, on seventeen-inch forged beadlock-capable wheels. Ram's original release listed the TRX on thirty-five-inch Goodyear all-terrains, on eighteen-inch wheels. The twenty twenty-seven truck also lists thirty-five-inch tyres as standard.",
+   "query": "Tyres and wheels",
+   "caption": "RAPTOR R: 37\u00d712.5R17 BFGOODRICH KO2, 17-IN BEADLOCK-CAPABLE FORGED WHEELS (AUTOBLOG) \u00b7 TRX: 35-IN GOODYEAR WRANGLER TERRITORY AT, 18-IN WHEELS (RAM 2020 RELEASE); 35-IN IN 2027 (RAM)",
+   "cuts": 3,
+   "chapter": "Off-road hardware"
+  },
+  {
+   "text": "By our arithmetic, a thirty-seven-inch tyre on a seventeen-inch wheel has a ten-inch sidewall, while a thirty-five on an eighteen has eight and a half. That is a taller, softer sidewall on the Ford, and two inches more overall diameter, or almost six percent. The Raptor R's tyres are described by Motor1 as loud and short on pavement grip.",
+   "query": "Sidewall arithmetic",
+   "caption": "(37\u221217)\u00f72 = 10 IN SIDEWALL \u00b7 (35\u221218)\u00f72 = 8.5 IN \u00b7 37 vs 35 IN = +5.7% DIAMETER (OUR ARITHMETIC) \u00b7 MOTOR1: 37S 'LOUD AND DON'T GRIP WELL ON PAVEMENT'",
+   "cuts": 3
+  },
+  {
+   "text": "Suspension travel. Autoblog says the Raptor R's Fox Live Valve shocks give up to fifteen inches of travel. Ram's twenty twenty-seven release says thirteen inches in front and up to fourteen at the rear. Ram's release uses the phrase up to, and Autoblog does not say front or rear, so these are not clean comparisons. Motor1 says the suspension is the base Raptor's, with front springs about five percent stiffer.",
+   "query": "Suspension travel",
+   "caption": "RAPTOR R: UP TO 15 IN (AUTOBLOG; FRONT/REAR NOT SPECIFIED) \u00b7 TRX 2027: 13 IN FRONT, UP TO 14 IN REAR (RAM RELEASE) \u00b7 FRONT SPRINGS ~5% STIFFER THAN BASE RAPTOR (MOTOR1, MOTOR AUTHORITY)",
+   "cuts": 3
+  },
+  {
+   "text": "Other hardware. The TRX release lists a Dana sixty rear axle, a rear electronic locker, and a four-wheel-drive low range of two point six four to one. It lists Bilstein Black Hawk adaptive shocks and eleven point eight inches of ground clearance. Our sources for the Raptor R give no ground clearance, axle or low-range ratio figures, so we cannot compare those.",
+   "query": "Axles and ratios",
+   "caption": "TRX 2027: DANA 60 REAR \u00b7 E-LOCKER \u00b7 LOW RANGE 2.64:1 \u00b7 BILSTEIN BLACK HAWK e2 \u00b7 11.8 IN CLEARANCE (RAM) \u00b7 RAPTOR R EQUIVALENTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The practical numbers. Motor Authority gives the Raptor R a payload of fourteen hundred pounds and towing up to eighty-seven hundred. Autoblog's page agrees on towing. Our sources do not give payload or towing for the TRX at all, so we cannot say which truck carries or pulls more.",
+   "query": "Payload and towing",
+   "caption": "RAPTOR R: PAYLOAD 1,400 LB \u00b7 TOWING UP TO 8,700 LB (MOTOR AUTHORITY; AUTOBLOG) \u00b7 TRX: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Now the money, which is where the sources give the most numbers. Motor Authority priced the Raptor R at one hundred nine thousand, one hundred forty-five dollars including a seventeen ninety-five destination charge. Motor1 said the same base price. MotorTrend's comparison lists the TRX at eighty-five thousand, seven hundred eighty-five.",
+   "query": "2022-23 prices",
+   "caption": "RAPTOR R $109,145 INCL. $1,795 DEST. (MOTOR AUTHORITY; MOTOR1) \u00b7 TRX BASE $85,785 (MOTORTREND VIA FORD AUTHORITY) \u00b7 MOTOR1 REVIEW: TRX BASE $85,685",
+   "cuts": 3,
+   "chapter": "Price"
+  },
+  {
+   "text": "By our arithmetic, that is a twenty-three thousand, three hundred sixty dollar gap, which matches the figure Ford Authority prints. But the TRX tested by MotorTrend cost one hundred three thousand, nine hundred eighty as tested. Against that, the Raptor R's price is five thousand, one hundred sixty-five higher. The gap depends on whether you compare a base truck or an optioned one.",
+   "query": "Price gap, three ways",
+   "caption": "$109,145 \u2212 $85,785 = $23,360 (BASE) \u00b7 $109,145 \u2212 $103,980 = $5,165 vs TRX AS TESTED (OUR ARITHMETIC; MOTORTREND)",
+   "cuts": 3
+  },
+  {
+   "text": "The magazines disagree on the equipped gap. Motor Authority says a comparably equipped TRX costs about fifteen thousand dollars less. Motor1's news story says matching the Raptor R's equipment takes about twenty thousand in options on a TRX that starts just over eighty thousand, leaving a gap of about ten thousand. Ten, fifteen, and five thousand: three estimates.",
+   "query": "Equipped-gap estimates",
+   "caption": "MOTOR AUTHORITY: ~$15,000 LESS \u00b7 MOTOR1: TRX ~$80K + ~$20K OPTIONS \u2192 GAP ~$10,000 \u00b7 MOTORTREND AS-TESTED GAP $5,165 (OUR ARITHMETIC) \u00b7 THREE ESTIMATES",
+   "cuts": 3
+  },
+  {
+   "text": "Prices have moved since. Autoblog's twenty twenty-six page estimates the Raptor R at one hundred ten thousand, nine hundred thirty dollars. By our arithmetic, that is the standard Raptor at seventy-nine thousand, five plus the R package at thirty-one thousand, nine hundred twenty-five. Ram's twenty twenty-seven TRX starts at ninety-nine thousand, nine hundred ninety-five, plus a destination charge.",
+   "query": "2026-27 prices",
+   "caption": "AUTOBLOG 2026: RAPTOR R EST. $110,930 = $79,005 + $31,925 R PACKAGE (OUR ARITHMETIC; INCL. DESTINATION NOT STATED) \u00b7 RAM 2027 TRX: $99,995 + $2,595 DEST.",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, the difference between those two starting prices is ten thousand, nine hundred thirty-five dollars. If the Ram's destination charge is added, it narrows to eighty-three forty. In twenty twenty-two, Motor Authority said a base TRX cost about thirty thousand less. So by this reckoning the price gap between base trucks has shrunk by roughly two thirds.",
+   "query": "Price gap narrowing",
+   "caption": "$110,930 \u2212 $99,995 = $10,935 \u00b7 \u2212 $102,590 = $8,340 \u00b7 2022 BASE GAP ~$30,000 (MOTOR AUTHORITY) \u2192 ~ \u221264% TO \u221272% (OUR ARITHMETIC; INCLUSIONS DIFFER)",
+   "cuts": 3
+  },
+  {
+   "text": "Price per horsepower is where Ram makes a claim. Its release says the TRX offers more horsepower per dollar than any other premium off-road full-size pickup. By our arithmetic, ninety-nine thousand, nine hundred ninety-five over seven hundred seventy-seven is about one hundred twenty-nine dollars a horsepower. The Raptor R's estimate of one hundred ten thousand, nine hundred thirty over seven hundred twenty is about one hundred fifty-four.",
+   "query": "Dollars per horsepower",
+   "caption": "TRX 2027: $99,995 \u00f7 777 \u2248 $128.7/HP \u00b7 RAPTOR R 2026: $110,930 \u00f7 720 \u2248 $154.1/HP (OUR ARITHMETIC; STARTING PRICES) \u00b7 'MORE HP PER DOLLAR' = RAM CLAIM",
+   "cuts": 3
+  },
+  {
+   "text": "Put the dates in order. Ram opened orders for the first TRX on the eighteenth of August twenty twenty. Motor1 and Motor Authority reported the Raptor R on the eighteenth of July twenty twenty-two. By our arithmetic, that is one year and eleven months later. Motor1 describes the Raptor R as Ford's response, a couple of years after the TRX arrived.",
+   "query": "Rivalry timeline",
+   "caption": "TRX ORDERS OPEN 18 AUG 2020 (RAM) \u00b7 RAPTOR R REPORTED 18 JULY 2022 (MOTOR1; MOTOR AUTHORITY) \u2192 1 YR 11 MO LATER (OUR ARITHMETIC) \u00b7 'FORD RESPONDED A COUPLE OF YEARS LATER' (MOTOR1)",
+   "cuts": 3,
+   "chapter": "The timeline of the rivalry"
+  },
+  {
+   "text": "Then the power race. The TRX began at seven hundred two in twenty twenty. The Raptor R began at seven hundred in twenty twenty-two and is now listed at seven hundred twenty. The TRX is now announced at seven hundred seventy-seven. By our arithmetic, the Ram has gained seventy-five horsepower, or ten point seven percent, and the Ford twenty, or two point nine.",
+   "query": "Power race",
+   "caption": "TRX 702 \u2192 777 = +75 HP = +10.7% \u00b7 RAPTOR R 700 \u2192 720 = +20 HP = +2.9% (OUR ARITHMETIC; FORD'S CHANGE UNEXPLAINED IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "The same arithmetic works for torque. Ninety-nine thousand, nine hundred ninety-five over six hundred eighty is about one hundred forty-seven dollars per pound-foot for the Ram, while the Raptor R at one hundred ten thousand, nine hundred thirty over six hundred forty is about one hundred seventy-three. Both prices are starting prices, and the inclusions differ.",
+   "query": "Dollars per pound-foot",
+   "caption": "$99,995 \u00f7 680 \u2248 $147.1/LB-FT \u00b7 $110,930 \u00f7 640 \u2248 $173.3/LB-FT (OUR ARITHMETIC; STARTING PRICES, INCLUSIONS DIFFER)",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the sources describe different priorities. Motor Authority lists the Raptor R with a black interior, Recaro seats, carbon-fibre trim, a twelve-inch digital gauge cluster and a twelve-inch touchscreen. Ram's twenty twenty-seven release lists a fourteen and a half inch touchscreen, a twelve point three inch cluster, and a ten-inch head-up display.",
+   "query": "Cabins",
+   "caption": "RAPTOR R: RECARO SEATS \u00b7 CARBON TRIM \u00b7 12-IN CLUSTER + 12-IN SCREEN (MOTOR AUTHORITY) \u00b7 TRX 2027: 14.5-IN SCREEN \u00b7 12.3-IN CLUSTER \u00b7 10-IN HUD (RAM RELEASE)",
+   "cuts": 3,
+   "chapter": "Inside the cabins"
+  },
+  {
+   "text": "By our arithmetic, Ram's central screen is two and a half inches larger than Ford's. Ram also lists a nine-hundred-watt, nineteen-speaker Harman Kardon system and standard hands-free Level Two Plus driver assistance. The Drive calls that last item a poke at the Ford Raptor. Our sources give no equivalent list for the Raptor R's audio or assistance systems.",
+   "query": "Technology",
+   "caption": "14.5 \u2212 12 = 2.5 IN LARGER SCREEN (OUR ARITHMETIC) \u00b7 RAM: 900 W / 19-SPEAKER HARMAN KARDON, HANDS-FREE L2+ (RELEASE) \u00b7 'A POKE AT THE FORD RAPTOR' (THE DRIVE) \u00b7 FORD EQUIVALENTS: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "A last difference in how the trucks present themselves. Motor Authority says the Raptor R has subtle styling cues: R badges and a taller hood vent. Ram's twenty twenty-seven truck adds an SRT badge and a T-Rex badge, according to Motor1, plus a Bloodshot Night Edition. One truck whispers the R, and the other shouts.",
+   "query": "Styling",
+   "caption": "RAPTOR R: 'SUBTLE' R BADGES + TALLER HOOD VENT (MOTOR AUTHORITY) \u00b7 2027 TRX: SRT + T-REX BADGES, BLOODSHOT NIGHT EDITION (MOTOR1) \u00b7 'WHISPERS / SHOUTS' = OUR DESCRIPTION",
+   "cuts": 3
+  },
+  {
+   "text": "Fuel economy is close. Kelley Blue Book lists the TRX at ten city, fourteen highway and twelve combined. Autoblog lists the Raptor R at ten, fifteen and twelve, though it does not label them as EPA figures. By our arithmetic, the highway difference is a single mile per gallon, and the combined rating is identical.",
+   "query": "Fuel economy",
+   "caption": "TRX 10/14/12 MPG (KBB) \u00b7 RAPTOR R 10/15/12 MPG (AUTOBLOG 2026; NOT LABELLED EPA) \u00b7 HIGHWAY DIFFERENCE 1 MPG, COMBINED SAME",
+   "cuts": 3,
+   "chapter": "Fuel and running costs"
+  },
+  {
+   "text": "Edmunds estimates five-year costs for both. The Raptor R: depreciation twenty-nine thousand, one hundred twenty; insurance seventy-four seventy; maintenance ten thousand, three twenty-three; repairs thirty-one sixty; financing twenty thousand, two thirty-nine; taxes eleven thousand, fourteen; fuel thirty-eight ninety-three. Total: one hundred nineteen thousand, four hundred nineteen.",
+   "query": "Raptor R cost to own",
+   "caption": "EDMUNDS 2023 RAPTOR R 5-YR: DEPR $29,120 \u00b7 INS $7,470 \u00b7 MAINT $10,323 \u00b7 REPAIRS $3,160 \u00b7 FIN $20,239 \u00b7 TAX/FEES $11,014 \u00b7 FUEL $38,093 = $119,419",
+   "cuts": 3
+  },
+  {
+   "text": "The TRX's total from the same site is one hundred two thousand, two hundred eight. By our arithmetic, the Raptor R costs seventeen thousand, two hundred eleven dollars more over five years. Depreciation explains seventy-eight twenty-seven of that, financing fifty-two forty-three, and taxes and fees twenty-seven fifty-six. Insurance runs three hundred forty-five cheaper for the Ford.",
+   "query": "Cost-to-own gap",
+   "caption": "$119,419 \u2212 $102,208 = $17,211 \u00b7 DEPRECIATION +$7,827 \u00b7 FINANCING +$5,243 \u00b7 TAXES/FEES +$2,756 \u00b7 MAINT +$1,730 \u00b7 INSURANCE \u2212$345 (EDMUNDS; OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "A note about those tables. Edmunds lists exactly the same fuel cost, thirty-eight thousand, ninety-three dollars, and the same repairs figure, thirty-one sixty, for both trucks. That fits with both trucks being rated twelve miles per gallon combined. But identical repair costs suggest that Edmunds' model is a standard formula, and not a measured cost for each truck.",
+   "query": "Edmunds model caveat",
+   "caption": "IDENTICAL FUEL ($38,093) AND REPAIRS ($3,160) FOR BOTH TRUCKS (EDMUNDS) \u00b7 FITS 12 MPG COMBINED FOR BOTH \u00b7 IDENTICAL REPAIRS SUGGEST A FORMULA (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Edmunds also lists the standard Raptor, with its smaller V6, at ninety-five thousand, two hundred sixty-five over five years. By our arithmetic, the Raptor R costs twenty-four thousand, one hundred fifty-four more than that, mostly fuel and depreciation. And the fuel figure for the V6 is twenty-eight thousand, five hundred eighty-five, which is three quarters of the R's.",
+   "query": "Raptor vs Raptor R",
+   "caption": "EDMUNDS STANDARD RAPTOR 5-YR $95,265 \u00b7 R \u2212 V6 = $24,154 \u00b7 FUEL $28,585 vs $38,093 = 75.0% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Verdicts. Motor1's Jeff Perez gave the Raptor R an eight and a half out of ten in August twenty twenty-three. The same page says Motor1's separate review of the TRX also earned an eight and a half. So at least one outlet scored them the same. He praised the supercharged V8 and the Fox live valve shocks, and called the price steep.",
+   "query": "Motor1 scores",
+   "caption": "MOTOR1 (JEFF PEREZ, 16 AUG 2023): RAPTOR R 8.5/10 \u00b7 TRX 8.5/10 IN A SEPARATE REVIEW \u00b7 PRAISE: SUPERCHARGED V8, FOX LIVE VALVE \u00b7 COMPLAINT: PRICE",
+   "cuts": 3,
+   "chapter": "The verdicts"
+  },
+  {
+   "text": "MotorTrend went to the Raptor R. Autoblog's Kyle Edward called the Raptor R's V8 a laugh-out-loud experience, in April twenty twenty-five. And neither of the comparisons we found has put the twenty twenty-seven TRX against the current Raptor R on the same day. That is the missing test, and our sources say nothing about when it might happen.",
+   "query": "Other verdicts",
+   "caption": "MOTORTREND: RAPTOR R WINS \u00b7 AUTOBLOG, KYLE EDWARD (29 APR 2025): 'LAUGH-OUT-LOUD' \u00b7 2027 TRX vs CURRENT RAPTOR R, SAME DAY: NO TEST FOUND",
+   "cuts": 3
+  },
+  {
+   "text": "The future matters too. Forbes reports that Ford chief executive Jim Farley spoke of more hybridization, on the performance side, and that Ford racing executive Will Ford said hybrid might allow Ford to keep the V8 alive a little longer. The hybrid Raptor R power numbers in that article are the author's own estimates, not Ford's, and Ford has not confirmed a hybrid Raptor R.",
+   "query": "Raptor R future",
+   "caption": "FORBES, 25 JAN 2026: JIM FARLEY 'MORE HYBRIDIZATION ... ON THE PERFORMANCE SIDE' \u00b7 WILL FORD: HYBRID 'MIGHT ALLOW US TO KEEP THE V8 ALIVE A LITTLE LONGER' \u00b7 HYBRID RAPTOR R NOT CONFIRMED; POWER FIGURES = AUTHOR'S ESTIMATES",
+   "cuts": 3
+  },
+  {
+   "text": "The TRX's own future is also uncertain. At The Drive, when asked how long the TRX would remain on sale, Ram chief executive Tim Kuniskis answered: call Washington. Wikipedia says the first TRX ended because it could not be modified to meet tougher emissions standards. So both V8 trucks face the same uncertainty, for the same reason.",
+   "query": "TRX future",
+   "caption": "KUNISKIS (THE DRIVE): 'CALL WASHINGTON' \u00b7 FIRST TRX ENDED OVER EMISSIONS (WIKIPEDIA) \u00b7 BOTH V8 TRUCKS FACE REGULATORY UNCERTAINTY (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. Payload and towing for the TRX. Ground clearance and axle details for the Raptor R. When and why the Raptor R's output rose from seven hundred to seven hundred twenty. A weight for the twenty twenty-seven TRX. An independent test of the new TRX against the current Raptor R. And a clean price comparison, which no two sources have given us.",
+   "query": "Ram TRX vs Ford Raptor R",
+   "caption": "NOT IN OUR SOURCES: TRX PAYLOAD/TOWING \u00b7 RAPTOR R CLEARANCE/AXLE \u00b7 WHEN AND WHY 700 \u2192 720 HP \u00b7 2027 TRX WEIGHT \u00b7 INDEPENDENT 2027 TRX vs RAPTOR R TEST \u00b7 A CLEAN PRICE COMPARISON",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "So the real difference, on the numbers, is this. The Ram is the louder claim: more power, a lower price, and a number of company claims. The Ford is the quieter record: a test win, bigger tyres, and travel Autoblog puts at up to fifteen inches. The truth of the matter, where our sources cannot settle it, is something only a same-day test can tell us.",
+   "query": "Ram TRX vs Ford Raptor R",
+   "caption": "RAM: MORE POWER (+57 HP), LOWER STARTING PRICE, MANY CLAIMS \u00b7 FORD: TEST WIN (MOTORTREND), TALLER TYRES, TRAVEL UP TO 15 IN \u00b7 SAME-DAY 2027 TEST: MISSING",
+   "cuts": 3
+  },
+  {
+   "text": "Which would you take, the Ram or the Ford, and why? Tell us in the comments. In the other videos of this series, we reveal two things you did not know about the TRX, add up what it really costs to own, and tell why Ram killed it. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "Ram TRX vs Ford Raptor R",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}

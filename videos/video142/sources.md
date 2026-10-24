@@ -1,0 +1,17 @@
+- Wikipedia, Ram 1500 TRX: https://en.wikipedia.org/wiki/Ram_1500_TRX
+- Wikipedia, Ford F-150 Raptor: https://en.wikipedia.org/wiki/Ford_F-150_Raptor
+- Motor1, 2023 Ford F-150 Raptor R matches 700 horsepower with $110,000 price tag: https://www.motor1.com/news/598778/2023-ford-f150-raptor-r-700hp-price-official/
+- Motor1, 2023 Ford F-150 Raptor R review (Jeff Perez): https://www.motor1.com/reviews/682058/2023-ford-f-150-raptor-r/
+- Motor Authority, 2023 Ford F-150 Raptor R roars with 700 hp for $109,145: https://www.motorauthority.com/news/1136512_2023-ford-f-150-raptor-r-price
+- Ford Authority, 2023 Ford F-150 Raptor R beats Ram TRX in new comparison (MotorTrend test): https://fordauthority.com/2023/01/2023-ford-f-150-raptor-r-beats-ram-trx-in-new-comparison/
+- Autoblog, I test drove the 2025 Ford Raptor R (Kyle Edward): https://www.autoblog.com/reviews/i-test-drove-the-2025-ford-raptor-r-heres-the-real-verdict
+- Autoblog, 2026 Ford F-150 Raptor review, specs, pricing and warranty: https://www.autoblog.com/cars/ford/f-150-raptor/2026
+- Ford, Ford Performance Parts unleashes 900+ HP F-150 Raptor R project vehicle at SEMA: https://www.fromtheroad.ford.com/us/en/articles/2025/f-150-raptor-r-project-vehicle
+- Forbes (Michael Harley), Ford CEO hints at future V8-powered F-150 Raptor R hybrid: https://www.forbes.com/sites/michaelharley/2026/01/25/ford-ceo-hints-at-future-v8-powered-f-150-raptor-r-hybrid/
+- Cars.com, Just how quick is the 2021 Ram 1500 TRX? (Brian Normile): https://www.cars.com/articles/when-dinosaurs-ruled-the-drag-strip-just-how-quick-is-the-2021-ram-1500-trx-437749/
+- Stellantis Media, Orders for all-new 2021 Ram 1500 TRX and TRX Launch Edition to open: https://media.stellantisnorthamerica.com/newsrelease.do?id=22036&mid=
+- Ram / Stellantis press release via Nasdaq, The apex pickup returns: https://www.nasdaq.com/press-release/apex-pickup-returns-rams-trx-back-fastest-and-most-powerful-production-gas-pickup
+- The Drive, The 2027 Ram TRX is back and it'll cost you $102,790: https://www.thedrive.com/news/the-2027-ram-trx-is-back-and-itll-cost-you-102790
+- Edmunds, 2023 Ford F-150 True Cost to Own: https://www.edmunds.com/ford/f-150/2023/cost-to-own/
+- Edmunds, 2023 Ram 1500 True Cost to Own: https://www.edmunds.com/ram/1500/2023/cost-to-own/
+- Kelley Blue Book, 2021 Ram 1500 Crew Cab TRX: https://www.kbb.com/ram/1500-crew-cab/2021/trx-pickup-4d-5-1-2-ft/
