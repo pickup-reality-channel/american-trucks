@@ -1,0 +1,10 @@
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Wikipedia, Ferrari Purosangue: https://en.wikipedia.org/wiki/Ferrari_Purosangue
+- Motor1, 2024 Ferrari Purosangue is predictably expensive: https://www.motor1.com/news/652734/2024-ferrari-purosangue-suv-price/
+- InsideHook, Ferrari Purosangue SUV bet has paid off: https://www.insidehook.com/autos/ferrari-purosangue-suv-bet-paid
+- Marque Cars, Buying a Ferrari Purosangue: https://marquecars.com/journal/ferrari-purosangue-buying-guide
+- CARFAX, 2026 Lamborghini Urus: https://www.carfax.com/Research-Lamborghini-Urus_w9540
+- Premier Auto Miami, How much is a Lamborghini Urus: https://www.premierautomiami.com/how-much-is-a-lamborghini-urus/
+- VinAssessment, Lamborghini Urus prices by year: https://vinassessment.com/prices/lamborghini/urus
+- Carscoops, Lamborghini sold nearly 5,000 Urus SUVs last year (January 2020): https://www.carscoops.com/2020/01/lamborghini-sales-soar-43-percent-in-2019-thanks-to-urus-suv/
+- Yahoo Autos, We're not selling mobility: how Stephan Winkelmann transformed Lamborghini: https://autos.yahoo.com/people-and-culture/articles/were-not-selling-mobility-stephan-083648052.html

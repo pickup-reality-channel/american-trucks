@@ -1,0 +1,5 @@
+- CARFAX, 2026 Lamborghini Urus: https://www.carfax.com/Research-Lamborghini-Urus_w9540
+- Premier Auto Miami, How much is a Lamborghini Urus: https://www.premierautomiami.com/how-much-is-a-lamborghini-urus/
+- VinAssessment, Lamborghini Urus prices by year (22 Oct 2026): https://vinassessment.com/prices/lamborghini/urus
+- Wikipedia, Lamborghini Urus: https://en.wikipedia.org/wiki/Lamborghini_Urus
+- Motor1, 2024 Ferrari Purosangue is predictably expensive: https://www.motor1.com/news/652734/2024-ferrari-purosangue-suv-price/
