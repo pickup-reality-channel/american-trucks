@@ -1,0 +1,6 @@
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Wikipedia, Chevrolet Corvette ZR1: https://en.wikipedia.org/wiki/Chevrolet_Corvette_ZR1
+- Wikipedia, Chevrolet Corvette (C4): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C4)
+- Wikipedia, Chevrolet Corvette (C6): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)
+- Wikipedia, Chevrolet Corvette (C7): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C7)
+- The Drive, A stock 2025 Corvette ZR1 has already beaten Chevy's official 0-60 time: https://www.thedrive.com/news/a-stock-2025-corvette-zr1-has-already-beaten-chevys-official-0-to-60-time.md
