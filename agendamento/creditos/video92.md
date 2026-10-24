@@ -1,0 +1,159 @@
+# Photo credits: The Insane Story Behind Horacio Pagani
+
+- Periodista Horacio Pagani.jpg by Victor Santa Maria, CC BY 2.0
+- Alberto Garnerone Pagani.jpg by Thecarguyfromitaly, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 10.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 12.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 08.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda, GIMS 2019, Le Grand-Saconnex (GIMS0014).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1463).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Zonda F Carbon.jpg by LSDSL, CC BY-SA 2.0 de
+- Pagani Zonda F Clubsport.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F CS.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F DKEng.jpg by MrWalkr, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 13.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- €15m Zonda HP(Horacio Pagani) Barchetta at Geneva 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0
+- Ruta Nacional 33, en su paso por Casilda, Santa Fe.JPG by Elburz1, CC BY-SA 3.0
+- Escuela Agrotécnica Libertador General San Martín 1.jpg by SUSIba, CC BY-SA 4.0
+- Ciudad de Casilda.jpg by Alejandro Raza, CC BY-SA 4.0
+- Countryside in Alta Gracia - Argentina - 03.jpg by Adam Jones Adam63, CC BY-SA 3.0
+- PCP Vaccination Clinic - 51003051430.jpg by MDGovpics, CC BY 2.0
+- PCP Vaccination Clinic - 51071529573.jpg by MDGovpics, CC BY 2.0
+- Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg by Leonardo da Vinci, Public domain
+- Leonardo Da Vinci A74163320240329.jpg by Rjcastillo, CC BY 4.0
+- Annunciation (Leonardo).jpg by Livioandronico2013, CC BY-SA 4.0
+- Roger Hansen in his Cooper T76.jpg by Ptandhan, CC BY-SA 4.0
+- 2010 Malaysian GP opening lap.jpg by Morio, CC BY-SA 3.0
+- Race car pinewood derby car.jpg by N4torfu, CC BY-SA 4.0
+- Ferenc Szisz in his Renault at the 1908 French Grand Prix at Dieppe.jpg by Agence Rol, Public domain
+- Ferenc Szisz in his Renault at the 1908 French Grand Prix at Dieppe (2).jpg by Agence Rol, Public domain
+- Renault Formula One racing car (49667991997).jpg by Ivan Radic, CC BY 2.0
+- Autodromo Juan Manuel Fangio desde La Barrosa.jpg by Celsoalbertosuarez, CC BY-SA 4.0
+- Juan Manuel Fangio statue Mercedes-Benz Museum.jpg by Morio, CC BY-SA 3.0
+- Juan Manuel Fangio statue Mercedes-Benz Museum side.jpg by Morio, CC BY-SA 3.0
+- 2024-08-25 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3912 by Stepro.jpg by Steffen Prößdorf, CC BY-SA 4.0
+- 070616 Ferrari F1 2007 01.JPG by Xavigivax, CC BY-SA 3.0
+- Fernando Alonso (ESP) Ferrari F150.Formula One Testing, Day 1, Valencia, Spain, Tuesday 1 February 2011.jpg by Raulongo, CC BY-SA 4.0
+- San Gimignano 1982.jpg by cogito ergo imago, CC BY-SA 2.0
+- Colosseum Rome 1982.jpg by cogito ergo imago, CC BY-SA 2.0
+- Castelfranco Po Valley 1982.jpg by cogito ergo imago, CC BY-SA 2.0
+- Modena Museo Casa Enzo Ferrari 91.jpg by Zairon, CC BY-SA 4.0
+- Modena Museo Casa Enzo Ferrari 93.jpg by Zairon, CC BY-SA 4.0
+- Modena Museo Casa Enzo Ferrari 92.jpg by Zairon, CC BY-SA 4.0
+- Lamborghini Diablo SV-R side.jpg by Ed Callow;Cropped and minor alterations by uploader Mr.choppers, CC BY 2.0
+- Lamborghini Diablo SV-R rear.jpg by Ed Callow, CC BY 2.0
+- Lamborghini, Sant'Agata Bolognese, Bologna.jpg by Fabrizio Pivari (Pivari.com), CC BY-SA 4.0
+- Lamborghini Countach Evoluzione Back.JPG by Stefanobiondo, CC BY-SA 4.0
+- Lamborghini Countach Evoluzione Front.JPG by Stefanobiondo, CC BY-SA 4.0
+- Lamborghini Countach LP 5000S 1983.jpg by Palauenc05, CC BY-SA 4.0
+- " 13 Fiat-Chrysler - Safety - Carbon Fiber Composite Roof Assembly SRT Viper capote.jpg by spe.automotive, CC BY 2.0 it
+- " 13 Fiat-Chrysler - Safety - Body Exterior Carbon Fiber Composite Roof Assembly SRT Viper.jpg by spe.automotive, CC BY 2.0 it
+- Bologna Panorama.jpg by Ввласенко, CC BY-SA 3.0
+- Filiale di Bologna.jpg by Acmesign, CC BY-SA 4.0
+- Children playing at sunset on a Mekong bank in Si Phan Don.jpg by Basile Morin, CC BY-SA 4.0
+- Chester Canal Warehouse Workshop - geograph.org.uk - 2801147.jpg by Richard Hoare, CC BY-SA 2.0
+- Warehouse And Workshop To Rear Of No. 5 Nelson Place East Alongside Chapel.jpg by chris_debian, CC BY-SA 4.0
+- La Palma - Garafía - Carretera Acceso Observatorios - Roque de los Muchachos Observatory - Warehouse and workshop 01 ies.jpg by Frank Vincentz, CC BY-SA 3.0
+- Motikon, TC 24, Essen (TCE42876).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Diablo, Motortreff Bella Italia 2024, Munich (P1190396).jpg by Matti Blume, CC BY-SA 4.0
+- Lamborghini Diablo (14486997194).jpg by Rutger van der Maar from Leiden, The Netherlands, CC BY 2.0
+- Modena Cathedral north portal archivolt and lintel.jpg by Username.Ruge, CC BY-SA 4.0
+- Old workshop of the Museo Enzo Ferrari, Modena, Italy, 2019.jpg by Kgbo, CC BY-SA 4.0
+- Ferrari engines at the old workshop of Museo Enzo Ferrari, Modena, Italy, 2019, 04.jpg by Kgbo, CC BY-SA 4.0
+- Amsterdam Motor Show 2023 - 72.jpg by René Cortin, CC BY-SA 4.0
+- Pagani Huayra Roadster (51101366760).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0
+- Pagani Huayra , Grand Basel 2018 14.jpg by Ank Kumar, CC BY-SA 4.0
+- 1992 Mazda Prototype V12 engine.jpg by TTTNIS, CC0
+- Example of a 3d model of a V12 engine by Quintin Cloud.jpg by Quintin.cloud, CC BY-SA 4.0
+- 1934 ALF Senior 400 V12 engine, Greenwich 2019.jpg by Mr.choppers, CC BY-SA 3.0
+- 1996 Mercedes-Benz SL70.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 Mercedes-Benz SL70 AMG.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 Mercedes-Benz SL 70 AMG.jpg by MrWalkr, CC BY-SA 4.0
+- Daimler press conference, GIMS 2018, Le Grand-Saconnex (1X7A0750).jpg by Matti Blume, CC BY-SA 4.0
+- Bernd Schneider Norbert Haug Dieter Zetsche 2008 amk.jpg by AngMoKio, CC BY-SA 3.0
+- Daimler press conference, GIMS 2018, Le Grand-Saconnex (1X7A0765).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Zonda 1.jpg by LarryStevens, CC BY-SA 3.0
+- Hieronymus Bosch Workshop (1450-1516) - The arrest of Christ (1515 ca.) - SDMA San Diego Museum of Art.jpg by Hieronymus Bosch Workshop, Public domain
+- Bottega di Lucas Cranach il Vecchio - Cristo e l'adultera (1537 circa) - Museo nazionale di Capodimonte, Napoli.jpg by Flickr user Raffaele Pagani, Public domain
+- Scale model of a war engine. Athens War Museum on November 22, 2022.jpg by George E. Koronaios, CC BY-SA 4.0
+- Ion Engine (Full-scale model).jpg by Motokoka, CC BY-SA 4.0
+- Scale model of a war engine at Athens War Museum on November 22, 2022.jpg by George E. Koronaios, CC BY-SA 4.0
+- AMG Mercedes V12.jpg by LarryStevens, CC BY-SA 3.0
+- 1996 Mercedes-Benz SL70 AMG Rear.jpg by MrWalkr, CC BY-SA 4.0
+- 1996 Mercedes-Benz SL70 AMG LC22.jpg by MrWalkr, CC BY-SA 4.0
+- Senna and Fangio Memorial Donington Grand Prix Collection.jpg by Morio, CC BY-SA 3.0
+- Juan Manuel Fangio memorial sign.jpg by Beatrice Murch, CC BY 2.0
+- Fangio y Heminway.JPG by Otto Alvarez Ferro, CC BY-SA 4.0
+- 2001 Pagani Zonda C12 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2001 Pagani Zonda C12.jpg by Calreyn88, CC BY-SA 4.0
+- 2003 Pagani Zonda C12 S.jpg by Calreyn88, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- Pagani Zonda Revolución, GIMS 2014 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0
+- 2007 Pagani Zonda F.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F Salon Prive.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda F CS Side.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Pagani Huayra blue front lights.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Pagani Huayra GIMS 2024 noBG.jpg by Fotograf der Quelle: User:MB-one   /   Freisteller, Bildbearbeitung & Retusche von Auge=mitphotographer of the source User:MB-one  /  Free-form select, image editing and retouching by Auge=mit, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1451.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1185.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Auto Zuerich 2023 1X7A1183.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA0733).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster, Auto 2024, Zurich (PANA1014).jpg by Matti Blume, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6390.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Crosswalk of Market at Third, San Francisco.jpg by Dllu, CC BY-SA 4.0
+- Horse market in Lorenzkirch.jpg by Unknown authorUnknown author, Public domain
+- Public Market Center Sign, Seattle, United States (Unsplash).jpg by Stuart Guest-Smith sguestsmith, CC0
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0361.jpg by Alexander Migl, CC BY-SA 4.0
+- Lagonda Le Mans Rapide, 4500 ccm, Bj. 1935 (17.06.2007).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0352.jpg by Alexander Migl, CC BY-SA 4.0
+- 2021 Pagani Huayra BC Roadster.jpg by MrWalkr, CC BY-SA 4.0
+- 2021 Pagani Huayra BC Roadster SP25.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Huayra BC.jpg by MrWalkr, CC BY-SA 4.0
+- Andes mountains panoramic view.jpg by Paolo Costa Baldi, CC BY 3.0
+- AndesEarlyAMArgentinoLake.jpg by Calyponte, CC BY 3.0
+- Andes mountains in the Huila department (Montañas de los Andes en el departamento del Huila).jpg by SergiXCX, CC BY-SA 4.0
+- Pagani Zonda HP Barchetta Bad.jpg by MrWalkr, CC BY-SA 4.0
+- 2017 Pagani Zonda HP Barchetta USG26.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Zonda HP Barchetta, GIMS 2018(Ank Kumar , INFOSYS) 30.jpg by Ank Kumar, CC BY-SA 4.0
+- Horacio Pagani's Zonda F (14779231110).jpg by Axion23, CC BY 2.0
+- Pagani Zonda F (15248212882) (cropped).jpg by Axion23, CC BY 2.0
+- Pagani Zonda F (15248212882).jpg by Axion23, CC BY 2.0
+- Pagani Zonda F Interior (14809013318).jpg by Axion23, CC BY 2.0
+- Pagani Zonda Revo Barchetta interior 01.jpg by Guyon, CC BY 4.0
+- Pagani Zonda Revo Barchetta interior 02.jpg by Guyon, CC BY 4.0
+- Politecnico di Milano Bovisa 3.jpg by Ita140188, CC BY-SA 3.0
+- Politecnico di Milano, Edificio Gino Cassinis - aula De Donato.jpg by Ale zena, CC BY-SA 4.0
+- Meeting Wikimania Esino Lario at Politecnico di Milano - Sede di Lecco 02.jpg by Carlo Maria Pensa, CC BY-SA 4.0
+- Rattín en Historias de Pasión Xeneize - Víctor Santa María.jpg by Víctor Santa María, CC BY 2.0
+- 2007 Pagani Zonda F CS.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F Blu Montecarlo DKEng Low.jpg by MrWalkr, CC BY-SA 4.0
+- 2007 Pagani Zonda F Clubsport Rear.jpg by MrWalkr, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6801.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6397.jpg by Alexander-93, CC BY-SA 4.0
+- Pagani Utopia Roadster Auto Zuerich 2024 DSC 6399.jpg by Alexander-93, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-150-20220911-RM-161830.jpg by Ermell, CC BY-SA 4.0
+- Leimershof US-Car-Treffen Ford F-250-20220911-RM-161429.jpg by Ermell, CC BY-SA 4.0
+- Ford F-150 (fourteenth generation) Rutesheimer Autoschau 2025 DSC 9231.jpg by Alexander Migl, CC BY-SA 4.0
+
+## Sources
+
+- Wikipedia, Horacio Pagani (auto executive): https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)
+- Wikipedia, Pagani (company): https://en.wikipedia.org/wiki/Pagani_(company)
+- Wikipedia, Pagani Zonda: https://en.wikipedia.org/wiki/Pagani_Zonda
+- Wikipedia, Pagani Utopia: https://en.wikipedia.org/wiki/Pagani_Utopia
+- Attic Capital, Horacio Pagani and the Zonda (interview summary): https://atticcapital.com/horacio-pagani-zonda/
+- Top Gear, This is the brand new Pagani Utopia: https://www.topgear.com/car-news/first-look/brand-new-pagani-utopia-v12-engined-throwback
+- Supercar Blondie, The Pagani Utopia is here: https://supercarblondie.com/pagani-utopia-c10-v12-manual-supercar-revealed/
