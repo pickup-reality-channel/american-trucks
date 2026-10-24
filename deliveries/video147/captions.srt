@@ -1,0 +1,2307 @@
+1
+00:00:00,000 --> 00:00:02,563
+A Ferrari Purosangue starts at about four
+
+2
+00:00:02,563 --> 00:00:04,876
+hundred twenty-four thousand dollars.
+
+3
+00:00:05,056 --> 00:00:07,560
+A used one with under eight thousand
+
+4
+00:00:07,560 --> 00:00:10,412
+miles recently failed to meet its reserve
+
+5
+00:00:10,412 --> 00:00:12,986
+at four hundred forty-three thousand,
+
+6
+00:00:12,986 --> 00:00:13,891
+five hundred.
+
+7
+00:00:14,071 --> 00:00:16,248
+A loan for one has been estimated
+
+8
+00:00:16,248 --> 00:00:18,622
+at about thirty-eight sixty a month.
+
+9
+00:00:18,802 --> 00:00:21,598
+So can a normal person afford a
+
+10
+00:00:21,598 --> 00:00:22,680
+Ferrari SUV?
+
+11
+00:00:22,860 --> 00:00:25,456
+This video answers with published numbers,
+
+12
+00:00:25,456 --> 00:00:27,620
+and shows where those numbers stop.
+
+13
+00:00:27,970 --> 00:00:29,842
+We read Cars dot com,
+
+14
+00:00:29,842 --> 00:00:32,249
+Motor1, AOL, Autoevolution,
+
+15
+00:00:32,249 --> 00:00:34,834
+Yahoo's Modern Car Collector,
+
+16
+00:00:34,834 --> 00:00:36,350
+Kelley Blue Book,
+
+17
+00:00:36,350 --> 00:00:39,737
+the Energy Information Administration,
+
+18
+00:00:39,737 --> 00:00:41,342
+the Census Bureau,
+
+19
+00:00:41,342 --> 00:00:42,858
+a Ferrari dealer,
+
+20
+00:00:42,858 --> 00:00:45,176
+and an Italian parts shop.
+
+21
+00:00:45,356 --> 00:00:47,703
+Several of these are estimates,
+
+22
+00:00:47,703 --> 00:00:48,688
+not receipts.
+
+23
+00:00:48,868 --> 00:00:50,373
+We label estimates,
+
+24
+00:00:50,373 --> 00:00:53,621
+and our own arithmetic is always labelled
+
+25
+00:00:53,621 --> 00:00:54,255
+as ours.
+
+26
+00:00:54,605 --> 00:00:56,311
+First, define normal.
+
+27
+00:00:56,491 --> 00:00:59,433
+The Census Bureau reports a median household
+
+28
+00:00:59,433 --> 00:01:01,572
+income of eighty-three thousand,
+
+29
+00:01:01,572 --> 00:01:05,048
+seven hundred thirty dollars for twenty twenty-four.
+
+30
+00:01:05,228 --> 00:01:07,468
+Half of households earn less.
+
+31
+00:01:07,648 --> 00:01:08,955
+By our arithmetic,
+
+32
+00:01:08,955 --> 00:01:10,478
+that is six thousand,
+
+33
+00:01:10,478 --> 00:01:14,034
+nine hundred seventy-eight dollars a month before
+
+34
+00:01:14,034 --> 00:01:14,324
+tax.
+
+35
+00:01:14,504 --> 00:01:16,924
+And Kelley Blue Book says the average
+
+36
+00:01:16,924 --> 00:01:19,016
+new vehicle cost fifty thousand,
+
+37
+00:01:19,016 --> 00:01:22,155
+eighty-nine dollars in August twenty twenty-six.
+
+38
+00:01:22,506 --> 00:01:24,653
+Now the Ferrari's price.
+
+39
+00:01:24,833 --> 00:01:27,990
+AOL listed the twenty twenty-four Purosangue at
+
+40
+00:01:27,990 --> 00:01:30,408
+three hundred ninety-eight thousand,
+
+41
+00:01:30,408 --> 00:01:32,289
+three hundred fifty dollars,
+
+42
+00:01:32,289 --> 00:01:35,782
+including a five thousand dollar destination charge.
+
+43
+00:01:35,962 --> 00:01:39,058
+Motor1 listed the twenty twenty-five at four
+
+44
+00:01:39,058 --> 00:01:41,170
+hundred twenty-three thousand,
+
+45
+00:01:41,170 --> 00:01:42,788
+six hundred eighty-six.
+
+46
+00:01:42,968 --> 00:01:45,994
+Cars dot com lists the twenty twenty-six
+
+47
+00:01:45,994 --> 00:01:48,868
+at four hundred twenty-three thousand,
+
+48
+00:01:48,868 --> 00:01:50,608
+six hundred thirty-six.
+
+49
+00:01:50,958 --> 00:01:52,356
+By our arithmetic,
+
+50
+00:01:52,356 --> 00:01:55,541
+the twenty twenty-six price is five point
+
+51
+00:01:55,541 --> 00:01:58,415
+one years of median household income,
+
+52
+00:01:58,415 --> 00:02:01,522
+and the twenty twenty-four price is four
+
+53
+00:02:01,522 --> 00:02:02,920
+point eight years,
+
+54
+00:02:02,920 --> 00:02:03,775
+before tax.
+
+55
+00:02:03,955 --> 00:02:06,255
+Against the average new vehicle,
+
+56
+00:02:06,255 --> 00:02:09,273
+the twenty twenty-six Ferrari is eight and
+
+57
+00:02:09,273 --> 00:02:11,142
+a half times as expensive.
+
+58
+00:02:11,322 --> 00:02:14,106
+These compare a price with an income,
+
+59
+00:02:14,106 --> 00:02:15,611
+and they ignore tax,
+
+60
+00:02:15,611 --> 00:02:17,719
+savings and everything else.
+
+61
+00:02:18,069 --> 00:02:19,436
+A way to feel it:
+
+62
+00:02:19,436 --> 00:02:22,815
+spread over sixty months with no interest,
+
+63
+00:02:22,815 --> 00:02:24,263
+by our arithmetic,
+
+64
+00:02:24,263 --> 00:02:27,642
+the twenty twenty-six price would be seven
+
+65
+00:02:27,642 --> 00:02:30,538
+thousand, sixty-one dollars a month.
+
+66
+00:02:30,718 --> 00:02:33,049
+That is a hundred and one percent
+
+67
+00:02:33,049 --> 00:02:36,511
+of the median household's monthly pre-tax income.
+
+68
+00:02:36,691 --> 00:02:38,404
+It is a hypothetical,
+
+69
+00:02:38,404 --> 00:02:41,259
+since nobody lends at zero percent,
+
+70
+00:02:41,259 --> 00:02:43,135
+but it shows the scale.
+
+71
+00:02:43,485 --> 00:02:46,279
+Compare it with other vehicles in this
+
+72
+00:02:46,279 --> 00:02:46,793
+series.
+
+73
+00:02:46,973 --> 00:02:49,278
+The twenty twenty-seven Ram TRX,
+
+74
+00:02:49,278 --> 00:02:51,726
+at about one hundred two thousand,
+
+75
+00:02:51,726 --> 00:02:54,463
+five hundred ninety dollars delivered,
+
+76
+00:02:54,463 --> 00:02:56,767
+is one point two years of median
+
+77
+00:02:56,767 --> 00:02:57,271
+income.
+
+78
+00:02:57,451 --> 00:02:58,760
+By our arithmetic,
+
+79
+00:02:58,760 --> 00:03:01,305
+the Ferrari is about four times the
+
+80
+00:03:01,305 --> 00:03:01,596
+TRX.
+
+81
+00:03:01,776 --> 00:03:03,773
+And the Rolls-Royce Cullinan,
+
+82
+00:03:03,773 --> 00:03:06,321
+at four hundred twenty-nine thousand,
+
+83
+00:03:06,321 --> 00:03:08,249
+six hundred on Cars dot com,
+
+84
+00:03:08,249 --> 00:03:10,728
+costs about the same as the Ferrari.
+
+85
+00:03:11,078 --> 00:03:12,866
+Options change the number.
+
+86
+00:03:13,046 --> 00:03:15,994
+Motor1's review car cost five hundred six
+
+87
+00:03:15,994 --> 00:03:19,373
+thousand, three hundred five dollars as tested.
+
+88
+00:03:19,553 --> 00:03:20,904
+By our arithmetic,
+
+89
+00:03:20,904 --> 00:03:23,605
+against the twenty twenty-five base,
+
+90
+00:03:23,605 --> 00:03:25,706
+that is eighty-two thousand,
+
+91
+00:03:25,706 --> 00:03:28,632
+six hundred nineteen dollars of extras,
+
+92
+00:03:28,632 --> 00:03:30,733
+nineteen and a half percent.
+
+93
+00:03:30,913 --> 00:03:34,283
+AOL notes that Ferrari buyers often add
+
+94
+00:03:34,283 --> 00:03:36,962
+five or six figures of options.
+
+95
+00:03:37,312 --> 00:03:39,378
+A used example shows more.
+
+96
+00:03:39,558 --> 00:03:43,807
+Autoevolution describes a twenty twenty-three Purosangue with
+
+97
+00:03:43,807 --> 00:03:46,663
+an original price of five hundred fifteen
+
+98
+00:03:46,663 --> 00:03:49,520
+thousand, six hundred fifty-five dollars.
+
+99
+00:03:49,700 --> 00:03:50,957
+By our arithmetic,
+
+100
+00:03:50,957 --> 00:03:53,682
+that is one hundred seventeen thousand,
+
+101
+00:03:53,682 --> 00:03:56,965
+three hundred five above the twenty twenty-four
+
+102
+00:03:56,965 --> 00:03:59,201
+starting price in the AOL piece,
+
+103
+00:03:59,201 --> 00:04:01,577
+or twenty-nine and a half percent.
+
+104
+00:04:01,757 --> 00:04:03,425
+The model years differ,
+
+105
+00:04:03,425 --> 00:04:06,035
+so options and price rises cannot be
+
+106
+00:04:06,035 --> 00:04:06,760
+separated.
+
+107
+00:04:07,111 --> 00:04:08,399
+An extreme case.
+
+108
+00:04:08,579 --> 00:04:11,885
+Yahoo's Modern Car Collector describes a twenty
+
+109
+00:04:11,885 --> 00:04:14,979
+twenty-six Tailor Made Purosangue on Bring a
+
+110
+00:04:14,979 --> 00:04:17,793
+Trailer, with a total suggested price of
+
+111
+00:04:17,793 --> 00:04:20,254
+eight hundred eighty-four thousand,
+
+112
+00:04:20,254 --> 00:04:22,364
+six hundred forty-six dollars,
+
+113
+00:04:22,364 --> 00:04:26,091
+including nearly three hundred fifty thousand dollars
+
+114
+00:04:26,091 --> 00:04:26,865
+in options.
+
+115
+00:04:27,045 --> 00:04:28,267
+By our arithmetic,
+
+116
+00:04:28,267 --> 00:04:30,169
+that is ten and a half years
+
+117
+00:04:30,169 --> 00:04:32,002
+of median household income.
+
+118
+00:04:32,353 --> 00:04:34,755
+The article's own numbers do not fully
+
+119
+00:04:34,755 --> 00:04:35,197
+add up.
+
+120
+00:04:35,377 --> 00:04:36,692
+By our arithmetic,
+
+121
+00:04:36,692 --> 00:04:39,250
+eight hundred eighty-four thousand,
+
+122
+00:04:39,250 --> 00:04:42,465
+six hundred forty-six minus the four hundred
+
+123
+00:04:42,465 --> 00:04:46,338
+twenty-three thousand, six hundred thirty-six base is
+
+124
+00:04:46,338 --> 00:04:48,676
+four hundred sixty-one thousand,
+
+125
+00:04:48,676 --> 00:04:49,553
+ten dollars.
+
+126
+00:04:49,733 --> 00:04:52,698
+The article accounts for nearly three hundred
+
+127
+00:04:52,698 --> 00:04:54,806
+fifty thousand of it in options.
+
+128
+00:04:54,986 --> 00:04:58,105
+The remaining hundred and eleven thousand or
+
+129
+00:04:58,105 --> 00:05:00,443
+so is not itemised in our source.
+
+130
+00:05:00,793 --> 00:05:03,912
+AOL also says its starting price excludes
+
+131
+00:05:03,912 --> 00:05:05,433
+any gas guzzler tax,
+
+132
+00:05:05,433 --> 00:05:08,857
+because the government had not yet classified
+
+133
+00:05:08,857 --> 00:05:09,465
+the car.
+
+134
+00:05:09,645 --> 00:05:11,329
+The Rolls-Royce Cullinan,
+
+135
+00:05:11,329 --> 00:05:13,820
+by comparison, is not exempt from the
+
+136
+00:05:13,820 --> 00:05:15,706
+tax, according to Wikipedia.
+
+137
+00:05:15,886 --> 00:05:18,162
+We found no final tax figure for
+
+138
+00:05:18,162 --> 00:05:20,652
+the Purosangue, so the true cost of
+
+139
+00:05:20,652 --> 00:05:22,644
+a new one may be above these
+
+140
+00:05:22,644 --> 00:05:23,711
+sticker prices.
+
+141
+00:05:24,061 --> 00:05:27,672
+AOL republishes a calculation from a YouTube
+
+142
+00:05:27,672 --> 00:05:29,889
+creator, The Economics Man,
+
+143
+00:05:29,889 --> 00:05:32,269
+in a video dated the tenth of
+
+144
+00:05:32,269 --> 00:05:34,568
+September twenty twenty-six.
+
+145
+00:05:34,748 --> 00:05:37,557
+On a four hundred twenty-four thousand dollar
+
+146
+00:05:37,557 --> 00:05:39,554
+price, with twenty percent down,
+
+147
+00:05:39,554 --> 00:05:42,863
+about three hundred thirty-nine thousand is financed.
+
+148
+00:05:43,043 --> 00:05:45,899
+At nine percent over a hundred forty-four
+
+149
+00:05:45,899 --> 00:05:49,939
+months, the monthly payment approaches thirty-eight sixty,
+
+150
+00:05:49,939 --> 00:05:52,656
+and total interest is about two hundred
+
+151
+00:05:52,656 --> 00:05:53,980
+seventeen thousand.
+
+152
+00:05:54,330 --> 00:05:56,265
+We checked the arithmetic,
+
+153
+00:05:56,265 --> 00:05:57,232
+and it holds.
+
+154
+00:05:57,412 --> 00:06:00,300
+Twenty percent down is eighty-four thousand,
+
+155
+00:06:00,300 --> 00:06:01,744
+eight hundred dollars,
+
+156
+00:06:01,744 --> 00:06:04,566
+leaving three hundred thirty-nine thousand,
+
+157
+00:06:04,566 --> 00:06:05,353
+two hundred.
+
+158
+00:06:05,533 --> 00:06:08,111
+At nine percent a year over twelve
+
+159
+00:06:08,111 --> 00:06:11,220
+years, our calculation gives a payment of
+
+160
+00:06:11,220 --> 00:06:14,936
+thirty-eight sixty, and about two hundred sixteen
+
+161
+00:06:14,936 --> 00:06:17,666
+thousand, seven hundred in interest.
+
+162
+00:06:17,846 --> 00:06:20,596
+The assumptions of nine percent and twelve
+
+163
+00:06:20,596 --> 00:06:22,167
+years are the creator's,
+
+164
+00:06:22,167 --> 00:06:22,757
+not ours.
+
+165
+00:06:23,107 --> 00:06:25,034
+Put that payment next to income.
+
+166
+00:06:25,214 --> 00:06:26,359
+By our arithmetic,
+
+167
+00:06:26,359 --> 00:06:29,412
+thirty-eight sixty a month is fifty-five percent
+
+168
+00:06:29,412 --> 00:06:32,528
+of the median household's monthly pre-tax income.
+
+169
+00:06:32,708 --> 00:06:35,823
+And the down payment of eighty-four thousand,
+
+170
+00:06:35,823 --> 00:06:38,176
+eight hundred is about one year of
+
+171
+00:06:38,176 --> 00:06:39,837
+median household income.
+
+172
+00:06:40,017 --> 00:06:42,548
+Total paid, down payment and loan,
+
+173
+00:06:42,548 --> 00:06:45,675
+comes to about six hundred forty thousand,
+
+174
+00:06:45,675 --> 00:06:47,313
+seven hundred dollars,
+
+175
+00:06:47,313 --> 00:06:49,547
+more than one and a half times
+
+176
+00:06:49,547 --> 00:06:50,291
+the price.
+
+177
+00:06:50,642 --> 00:06:51,889
+By our arithmetic,
+
+178
+00:06:51,889 --> 00:06:55,006
+the interest alone is about fifty-one percent
+
+179
+00:06:55,006 --> 00:06:55,907
+of the price,
+
+180
+00:06:55,907 --> 00:06:59,024
+or sixty-four percent of the amount borrowed.
+
+181
+00:06:59,204 --> 00:07:02,115
+A different rate or term would change
+
+182
+00:07:02,115 --> 00:07:03,059
+all of this.
+
+183
+00:07:03,239 --> 00:07:05,820
+We have no source for Ferrari's own
+
+184
+00:07:05,820 --> 00:07:08,623
+financing rates, so nine percent is an
+
+185
+00:07:08,623 --> 00:07:10,393
+assumption from a video,
+
+186
+00:07:10,393 --> 00:07:12,016
+not a published offer.
+
+187
+00:07:12,366 --> 00:07:13,573
+Maintenance first.
+
+188
+00:07:13,753 --> 00:07:17,594
+Kelley Blue Book says Ferrari's factory maintenance
+
+189
+00:07:17,594 --> 00:07:21,209
+program covers scheduled servicing for the first
+
+190
+00:07:21,209 --> 00:07:22,112
+seven years.
+
+191
+00:07:22,292 --> 00:07:25,038
+Its schedule lists oil and filter,
+
+192
+00:07:25,038 --> 00:07:26,572
+a brake inspection,
+
+193
+00:07:26,572 --> 00:07:29,479
+belts, and spark plugs at year four.
+
+194
+00:07:29,659 --> 00:07:31,823
+KBB gives no prices of its own,
+
+195
+00:07:31,823 --> 00:07:34,895
+only that some dealers charge eight hundred,
+
+196
+00:07:34,895 --> 00:07:38,455
+twelve hundred and nineteen ninety-five dollars for
+
+197
+00:07:38,455 --> 00:07:40,410
+vehicles beyond the program.
+
+198
+00:07:40,760 --> 00:07:43,166
+A Ferrari dealer in Illinois,
+
+199
+00:07:43,166 --> 00:07:45,074
+Lake Forest Sportscars,
+
+200
+00:07:45,074 --> 00:07:48,393
+publishes general figures for its brand,
+
+201
+00:07:48,393 --> 00:07:50,965
+not specific to the Purosangue.
+
+202
+00:07:51,145 --> 00:07:53,201
+After the seven-year program,
+
+203
+00:07:53,201 --> 00:07:56,604
+annual maintenance runs fifteen hundred to three
+
+204
+00:07:56,604 --> 00:07:57,809
+thousand dollars.
+
+205
+00:07:57,989 --> 00:08:01,611
+Milestone services run thirty-five hundred to seven
+
+206
+00:08:01,611 --> 00:08:02,250
+thousand.
+
+207
+00:08:02,430 --> 00:08:05,230
+Tyres are twelve hundred to thirty-five hundred
+
+208
+00:08:05,230 --> 00:08:05,588
+a set.
+
+209
+00:08:05,768 --> 00:08:09,618
+A full rotor-and-pad job on carbon-ceramic brakes
+
+210
+00:08:09,618 --> 00:08:12,211
+is twenty-five to sixty thousand.
+
+211
+00:08:12,562 --> 00:08:14,373
+An Italian parts shop,
+
+212
+00:08:14,373 --> 00:08:18,984
+Autoricambi Tritella, gives estimates for the Purosangue
+
+213
+00:08:18,984 --> 00:08:19,725
+in euros.
+
+214
+00:08:19,905 --> 00:08:23,144
+Insurance, ten to fifteen thousand a year.
+
+215
+00:08:23,324 --> 00:08:26,900
+Annual service, fifteen hundred to three thousand.
+
+216
+00:08:27,080 --> 00:08:27,939
+A tyre set,
+
+217
+00:08:27,939 --> 00:08:30,828
+twenty-five hundred to four thousand,
+
+218
+00:08:30,828 --> 00:08:34,185
+lasting ten to fifteen thousand kilometres.
+
+219
+00:08:34,365 --> 00:08:37,639
+Carbon-ceramic brakes, up to twenty thousand.
+
+220
+00:08:37,819 --> 00:08:40,234
+Major engine or gearbox work,
+
+221
+00:08:40,234 --> 00:08:42,150
+ten to thirty thousand.
+
+222
+00:08:42,330 --> 00:08:44,841
+These are the shop's estimates with no
+
+223
+00:08:44,841 --> 00:08:45,766
+stated method.
+
+224
+00:08:46,117 --> 00:08:48,858
+The shop's own total is about forty
+
+225
+00:08:48,858 --> 00:08:51,286
+to fifty thousand euros a year,
+
+226
+00:08:51,286 --> 00:08:54,888
+not including significant extra work on brakes
+
+227
+00:08:54,888 --> 00:08:55,672
+or engine.
+
+228
+00:08:55,852 --> 00:08:59,029
+It also assumes fuel consumption of fifteen
+
+229
+00:08:59,029 --> 00:09:02,133
+to eighteen litres per hundred kilometres.
+
+230
+00:09:02,313 --> 00:09:03,550
+By our arithmetic,
+
+231
+00:09:03,550 --> 00:09:06,369
+that is eight to twenty-four percent less
+
+232
+00:09:06,369 --> 00:09:08,913
+than the nineteen point six litres of
+
+233
+00:09:08,913 --> 00:09:10,906
+the American combined rating,
+
+234
+00:09:10,906 --> 00:09:12,831
+so its fuel line may be low.
+
+235
+00:09:13,182 --> 00:09:16,026
+Insurance has three published estimates.
+
+236
+00:09:16,206 --> 00:09:19,448
+AOL's creator says five to twelve thousand
+
+237
+00:09:19,448 --> 00:09:20,606
+dollars a year.
+
+238
+00:09:20,786 --> 00:09:23,622
+The Italian shop says ten to fifteen
+
+239
+00:09:23,622 --> 00:09:24,803
+thousand euros.
+
+240
+00:09:24,983 --> 00:09:27,548
+The Ferrari dealer's general figure for most
+
+241
+00:09:27,548 --> 00:09:30,405
+models is three thousand to seventy-eight hundred
+
+242
+00:09:30,405 --> 00:09:32,445
+dollars, which it does not apply to
+
+243
+00:09:32,445 --> 00:09:33,319
+the Purosangue.
+
+244
+00:09:33,499 --> 00:09:35,392
+None is an insurer's quote,
+
+245
+00:09:35,392 --> 00:09:37,845
+and the right number depends on the
+
+246
+00:09:37,845 --> 00:09:39,107
+driver, the state,
+
+247
+00:09:39,107 --> 00:09:40,999
+and the car's agreed value.
+
+248
+00:09:41,350 --> 00:09:43,254
+Fuel is simple to compute.
+
+249
+00:09:43,434 --> 00:09:46,065
+The rating is twelve miles per gallon
+
+250
+00:09:46,065 --> 00:09:50,047
+combined, and the Energy Information Administration says
+
+251
+00:09:50,047 --> 00:09:52,820
+regular gasoline averaged four dollars,
+
+252
+00:09:52,820 --> 00:09:55,522
+twenty-eight cents for the week of the
+
+253
+00:09:55,522 --> 00:09:57,087
+nineteenth of October.
+
+254
+00:09:57,267 --> 00:09:58,587
+By our arithmetic,
+
+255
+00:09:58,587 --> 00:10:01,082
+three thousand miles a year is two
+
+256
+00:10:01,082 --> 00:10:04,310
+hundred fifty gallons and about one thousand
+
+257
+00:10:04,310 --> 00:10:05,777
+seventy-one dollars.
+
+258
+00:10:05,957 --> 00:10:09,261
+Ten thousand miles is thirty-five seventy,
+
+259
+00:10:09,261 --> 00:10:12,958
+and fifteen thousand is fifty-three fifty-five.
+
+260
+00:10:13,308 --> 00:10:14,482
+Storage and care,
+
+261
+00:10:14,482 --> 00:10:17,799
+again from the Ferrari dealer's general figures:
+
+262
+00:10:17,799 --> 00:10:21,115
+climate-controlled storage of two hundred to six
+
+263
+00:10:21,115 --> 00:10:22,773
+hundred dollars a month,
+
+264
+00:10:22,773 --> 00:10:25,537
+and detailing of five hundred to fifteen
+
+265
+00:10:25,537 --> 00:10:27,472
+hundred a quarterly session.
+
+266
+00:10:27,652 --> 00:10:28,918
+By our arithmetic,
+
+267
+00:10:28,918 --> 00:10:32,506
+storage alone is twenty-four hundred to seventy-two
+
+268
+00:10:32,506 --> 00:10:34,124
+hundred dollars a year,
+
+269
+00:10:34,124 --> 00:10:35,953
+for owners who pay for it.
+
+270
+00:10:36,133 --> 00:10:39,384
+The dealer's page gives no Purosangue figures.
+
+271
+00:10:39,734 --> 00:10:42,370
+The headline claim in the AOL article
+
+272
+00:10:42,370 --> 00:10:44,863
+is that owning a Ferrari could cost
+
+273
+00:10:44,863 --> 00:10:47,713
+about fifty thousand dollars a year when
+
+274
+00:10:47,713 --> 00:10:51,204
+depreciation and operating expenses are combined.
+
+275
+00:10:51,384 --> 00:10:53,921
+It comes from the creator's example for
+
+276
+00:10:53,921 --> 00:10:56,133
+the Purosangue, not from a survey.
+
+277
+00:10:56,313 --> 00:10:59,782
+His operating cost after the maintenance period
+
+278
+00:10:59,782 --> 00:11:02,512
+is fifteen to thirty thousand a year,
+
+279
+00:11:02,512 --> 00:11:05,612
+plus insurance of five to twelve thousand.
+
+280
+00:11:05,963 --> 00:11:07,237
+By our arithmetic,
+
+281
+00:11:07,237 --> 00:11:10,634
+operating cost plus insurance is twenty thousand
+
+282
+00:11:10,634 --> 00:11:13,254
+to forty-two thousand dollars a year.
+
+283
+00:11:13,434 --> 00:11:16,335
+That is twenty-four to fifty percent of
+
+284
+00:11:16,335 --> 00:11:18,418
+a median household's income,
+
+285
+00:11:18,418 --> 00:11:20,725
+before the car loses any value.
+
+286
+00:11:20,905 --> 00:11:23,243
+And if the headline fifty thousand is
+
+287
+00:11:23,243 --> 00:11:26,087
+the total, depreciation in that example would
+
+288
+00:11:26,087 --> 00:11:28,425
+be roughly eight to thirty thousand a
+
+289
+00:11:28,425 --> 00:11:28,741
+year.
+
+290
+00:11:28,921 --> 00:11:30,976
+The creator does not break it down.
+
+291
+00:11:31,327 --> 00:11:33,702
+The creator also says that at three
+
+292
+00:11:33,702 --> 00:11:35,195
+thousand miles a year,
+
+293
+00:11:35,195 --> 00:11:37,977
+fifty thousand dollars works out to about
+
+294
+00:11:37,977 --> 00:11:39,674
+seventeen dollars a mile.
+
+295
+00:11:39,854 --> 00:11:41,184
+By our arithmetic,
+
+296
+00:11:41,184 --> 00:11:44,507
+fifty thousand over three thousand is sixteen
+
+297
+00:11:44,507 --> 00:11:45,984
+dollars sixty-seven.
+
+298
+00:11:46,164 --> 00:11:49,455
+For comparison, fuel at twelve miles per
+
+299
+00:11:49,455 --> 00:11:52,745
+gallon is about thirty-six cents a mile,
+
+300
+00:11:52,745 --> 00:11:55,049
+so on this example fuel is a
+
+301
+00:11:55,049 --> 00:11:57,681
+small part of the cost per mile.
+
+302
+00:11:58,032 --> 00:12:00,644
+Depreciation is the biggest unknown.
+
+303
+00:12:00,824 --> 00:12:04,844
+Autoevolution reports on a twenty twenty-three Purosangue
+
+304
+00:12:04,844 --> 00:12:06,254
+with seven thousand,
+
+305
+00:12:06,254 --> 00:12:08,511
+five hundred seventy-four miles,
+
+306
+00:12:08,511 --> 00:12:10,909
+offered on Bring a Trailer in July
+
+307
+00:12:10,909 --> 00:12:12,178
+twenty twenty-six.
+
+308
+00:12:12,358 --> 00:12:15,275
+The highest bid was four hundred forty-three
+
+309
+00:12:15,275 --> 00:12:17,331
+thousand, five hundred dollars,
+
+310
+00:12:17,331 --> 00:12:19,916
+below the seller's undisclosed reserve.
+
+311
+00:12:20,096 --> 00:12:23,249
+The car's original price was five hundred
+
+312
+00:12:23,249 --> 00:12:26,401
+fifteen thousand, six hundred fifty-five.
+
+313
+00:12:26,751 --> 00:12:28,102
+By our arithmetic,
+
+314
+00:12:28,102 --> 00:12:30,806
+the top bid is seventy-two thousand,
+
+315
+00:12:30,806 --> 00:12:33,135
+one hundred fifty-five dollars,
+
+316
+00:12:33,135 --> 00:12:34,637
+or fourteen percent,
+
+317
+00:12:34,637 --> 00:12:36,515
+below the original price.
+
+318
+00:12:36,695 --> 00:12:39,458
+The author speculates that the reserve was
+
+319
+00:12:39,458 --> 00:12:41,826
+four hundred fifty thousand or more.
+
+320
+00:12:42,006 --> 00:12:44,485
+Even at four hundred fifty thousand,
+
+321
+00:12:44,485 --> 00:12:46,757
+the car would have sold for about
+
+322
+00:12:46,757 --> 00:12:49,167
+twelve and a half percent under its
+
+323
+00:12:49,167 --> 00:12:51,991
+original price after roughly three years.
+
+324
+00:12:52,341 --> 00:12:55,363
+If we spread seventy-two thousand over roughly
+
+325
+00:12:55,363 --> 00:12:57,399
+three years, by our arithmetic,
+
+326
+00:12:57,399 --> 00:13:00,290
+that is about twenty-four thousand dollars a
+
+327
+00:13:00,290 --> 00:13:00,618
+year.
+
+328
+00:13:00,798 --> 00:13:04,400
+That sits inside the eight-to-thirty-thousand range implied
+
+329
+00:13:04,400 --> 00:13:07,207
+by the creator's fifty thousand dollar figure.
+
+330
+00:13:07,387 --> 00:13:08,478
+It is one car,
+
+331
+00:13:08,478 --> 00:13:10,814
+with an unknown delivery date,
+
+332
+00:13:10,814 --> 00:13:13,306
+so it is an illustration and not
+
+333
+00:13:13,306 --> 00:13:14,864
+a depreciation rate.
+
+334
+00:13:15,214 --> 00:13:17,678
+The Tailor Made car shows the risk
+
+335
+00:13:17,678 --> 00:13:18,476
+of options.
+
+336
+00:13:18,656 --> 00:13:20,211
+At the time of writing,
+
+337
+00:13:20,211 --> 00:13:22,240
+its bid on Bring a Trailer was
+
+338
+00:13:22,240 --> 00:13:25,147
+five hundred thirty-seven thousand dollars,
+
+339
+00:13:25,147 --> 00:13:27,987
+against a suggested price of eight hundred
+
+340
+00:13:27,987 --> 00:13:30,963
+eighty-four thousand, six hundred forty-six.
+
+341
+00:13:31,143 --> 00:13:32,552
+By our arithmetic,
+
+342
+00:13:32,552 --> 00:13:35,918
+that is three hundred forty-seven thousand,
+
+343
+00:13:35,918 --> 00:13:38,110
+six hundred forty-six lower,
+
+344
+00:13:38,110 --> 00:13:39,676
+thirty-nine percent.
+
+345
+00:13:39,856 --> 00:13:41,385
+It had only fifty miles,
+
+346
+00:13:41,385 --> 00:13:44,124
+and the auction closed on the twenty-eighth
+
+347
+00:13:44,124 --> 00:13:44,953
+of September.
+
+348
+00:13:45,303 --> 00:13:47,514
+The bid was still higher than the
+
+349
+00:13:47,514 --> 00:13:48,251
+base price.
+
+350
+00:13:48,431 --> 00:13:49,657
+By our arithmetic,
+
+351
+00:13:49,657 --> 00:13:52,856
+five hundred thirty-seven thousand is a hundred
+
+352
+00:13:52,856 --> 00:13:56,463
+thirteen thousand, three hundred sixty-four above the
+
+353
+00:13:56,463 --> 00:13:59,935
+twenty twenty-six base of four hundred twenty-three
+
+354
+00:13:59,935 --> 00:14:02,181
+thousand, six hundred thirty-six,
+
+355
+00:14:02,181 --> 00:14:03,815
+or twenty-seven percent.
+
+356
+00:14:03,995 --> 00:14:06,592
+So the market paid something for the
+
+357
+00:14:06,592 --> 00:14:09,044
+extras, but not close to what they
+
+358
+00:14:09,044 --> 00:14:09,405
+cost.
+
+359
+00:14:09,585 --> 00:14:11,801
+The final price is not in our
+
+360
+00:14:11,801 --> 00:14:12,337
+source.
+
+361
+00:14:12,687 --> 00:14:16,313
+Autoevolution's author, who is an opinion writer,
+
+362
+00:14:16,313 --> 00:14:19,347
+expects all the Purosangues to sell below
+
+363
+00:14:19,347 --> 00:14:22,307
+their original price in the used market,
+
+364
+00:14:22,307 --> 00:14:24,897
+because they lack special features,
+
+365
+00:14:24,897 --> 00:14:26,229
+and says the Urus,
+
+366
+00:14:26,229 --> 00:14:29,707
+Cayenne and Bentayga are better practical SUVs.
+
+367
+00:14:29,887 --> 00:14:31,067
+That is an opinion,
+
+368
+00:14:31,067 --> 00:14:32,186
+not a measurement.
+
+369
+00:14:32,366 --> 00:14:34,595
+But the one reported bid agrees with
+
+370
+00:14:34,595 --> 00:14:36,638
+the direction, at least for a car
+
+371
+00:14:36,638 --> 00:14:38,496
+that is not a limited edition.
+
+372
+00:14:38,846 --> 00:14:41,557
+A normal person buying used faces the
+
+373
+00:14:41,557 --> 00:14:42,363
+same scale.
+
+374
+00:14:42,543 --> 00:14:43,752
+By our arithmetic,
+
+375
+00:14:43,752 --> 00:14:46,035
+four hundred forty-three thousand,
+
+376
+00:14:46,035 --> 00:14:48,721
+five hundred dollars is five point three
+
+377
+00:14:48,721 --> 00:14:50,937
+years of median household income.
+
+378
+00:14:51,117 --> 00:14:54,177
+A used car with almost eight thousand
+
+379
+00:14:54,177 --> 00:14:57,236
+miles is still a very large purchase.
+
+380
+00:14:57,416 --> 00:14:59,179
+And a bid is not a sale:
+
+381
+00:14:59,179 --> 00:15:00,794
+this car did not sell.
+
+382
+00:15:01,145 --> 00:15:03,318
+There is a second barrier that money
+
+383
+00:15:03,318 --> 00:15:04,163
+may not solve.
+
+384
+00:15:04,343 --> 00:15:07,808
+Robb Report says Ferrari closed the Purosangue's
+
+385
+00:15:07,808 --> 00:15:10,046
+order book about two and a half
+
+386
+00:15:10,046 --> 00:15:11,707
+months after its debut,
+
+387
+00:15:11,707 --> 00:15:14,162
+with a waiting list of roughly two
+
+388
+00:15:14,162 --> 00:15:14,595
+years.
+
+389
+00:15:14,775 --> 00:15:17,191
+Ferrari says the model will not exceed
+
+390
+00:15:17,191 --> 00:15:19,036
+twenty percent of its output.
+
+391
+00:15:19,216 --> 00:15:22,171
+Motor1 reported order books covered the whole
+
+392
+00:15:22,171 --> 00:15:23,616
+of twenty twenty-five.
+
+393
+00:15:23,966 --> 00:15:25,285
+By our arithmetic,
+
+394
+00:15:25,285 --> 00:15:28,656
+twenty percent of Ferrari's thirteen thousand,
+
+395
+00:15:28,656 --> 00:15:32,320
+six hundred forty deliveries in twenty twenty-five
+
+396
+00:15:32,320 --> 00:15:35,911
+is at most twenty-seven hundred twenty-eight cars
+
+397
+00:15:35,911 --> 00:15:36,644
+worldwide.
+
+398
+00:15:36,824 --> 00:15:39,317
+Our sources do not say how Ferrari
+
+399
+00:15:39,317 --> 00:15:41,077
+decides who may buy one,
+
+400
+00:15:41,077 --> 00:15:43,790
+or whether new orders are open today.
+
+401
+00:15:43,970 --> 00:15:45,750
+So even with the money,
+
+402
+00:15:45,750 --> 00:15:48,614
+a buyer's access is not guaranteed by
+
+403
+00:15:48,614 --> 00:15:50,007
+anything we found.
+
+404
+00:15:50,357 --> 00:15:53,004
+Now combine the loan with the running
+
+405
+00:15:53,004 --> 00:15:53,433
+costs.
+
+406
+00:15:53,613 --> 00:15:56,415
+The loan example gives thirty-eight sixty a
+
+407
+00:15:56,415 --> 00:15:56,806
+month.
+
+408
+00:15:56,986 --> 00:15:59,635
+The operating and insurance range from the
+
+409
+00:15:59,635 --> 00:16:02,220
+creator is twenty to forty-two thousand a
+
+410
+00:16:02,220 --> 00:16:02,536
+year.
+
+411
+00:16:02,716 --> 00:16:03,897
+By our arithmetic,
+
+412
+00:16:03,897 --> 00:16:07,180
+that is sixteen sixty-seven to thirty-five hundred
+
+413
+00:16:07,180 --> 00:16:08,230
+dollars a month.
+
+414
+00:16:08,410 --> 00:16:10,275
+Together, five thousand,
+
+415
+00:16:10,275 --> 00:16:13,695
+five hundred twenty-seven to seven thousand,
+
+416
+00:16:13,695 --> 00:16:16,492
+three hundred sixty dollars a month,
+
+417
+00:16:16,492 --> 00:16:18,047
+before depreciation.
+
+418
+00:16:18,397 --> 00:16:21,736
+Against the median household's six thousand,
+
+419
+00:16:21,736 --> 00:16:25,455
+nine hundred seventy-eight dollars a month before
+
+420
+00:16:25,455 --> 00:16:27,200
+tax, by our arithmetic,
+
+421
+00:16:27,200 --> 00:16:30,160
+that is seventy-nine percent at the low
+
+422
+00:16:30,160 --> 00:16:32,816
+end and one hundred five percent at
+
+423
+00:16:32,816 --> 00:16:33,803
+the high end.
+
+424
+00:16:33,983 --> 00:16:36,142
+These figures use gross income,
+
+425
+00:16:36,142 --> 00:16:38,720
+so take-home pay would make the share
+
+426
+00:16:38,720 --> 00:16:39,207
+larger.
+
+427
+00:16:39,387 --> 00:16:41,622
+It is an illustration of scale,
+
+428
+00:16:41,622 --> 00:16:44,217
+not a budget for any real household.
+
+429
+00:16:44,568 --> 00:16:46,994
+Look inside the first loan payment.
+
+430
+00:16:47,174 --> 00:16:48,991
+At nine percent a year,
+
+431
+00:16:48,991 --> 00:16:51,836
+the monthly rate is zero point seven
+
+432
+00:16:51,836 --> 00:16:52,863
+five percent.
+
+433
+00:16:53,043 --> 00:16:55,587
+On three hundred thirty-nine thousand,
+
+434
+00:16:55,587 --> 00:16:56,927
+two hundred dollars,
+
+435
+00:16:56,927 --> 00:16:58,132
+by our arithmetic,
+
+436
+00:16:58,132 --> 00:17:01,681
+the first month's interest is twenty-five forty-four.
+
+437
+00:17:01,861 --> 00:17:04,270
+That is about sixty-six percent of the
+
+438
+00:17:04,270 --> 00:17:05,982
+thirty-eight sixty payment.
+
+439
+00:17:06,162 --> 00:17:09,622
+Only about thirteen hundred sixteen dollars reduces
+
+440
+00:17:09,622 --> 00:17:10,504
+what is owed.
+
+441
+00:17:10,855 --> 00:17:14,129
+One brake job deserves its own comparison.
+
+442
+00:17:14,309 --> 00:17:17,245
+The Ferrari dealer's general range for a
+
+443
+00:17:17,245 --> 00:17:20,180
+full carbon-ceramic rotor and pad job is
+
+444
+00:17:20,180 --> 00:17:22,970
+twenty-five to sixty thousand dollars.
+
+445
+00:17:23,150 --> 00:17:24,443
+By our arithmetic,
+
+446
+00:17:24,443 --> 00:17:27,316
+that is thirty to seventy-two percent of
+
+447
+00:17:27,316 --> 00:17:29,758
+a year of median household income,
+
+448
+00:17:29,758 --> 00:17:30,835
+for one repair.
+
+449
+00:17:31,015 --> 00:17:33,336
+The Italian shop says up to twenty
+
+450
+00:17:33,336 --> 00:17:34,359
+thousand euros.
+
+451
+00:17:34,539 --> 00:17:37,052
+The two sources disagree widely,
+
+452
+00:17:37,052 --> 00:17:38,858
+and neither is a quote.
+
+453
+00:17:39,208 --> 00:17:41,639
+How does the headline figure compare with
+
+454
+00:17:41,639 --> 00:17:43,062
+a truck we have covered?
+
+455
+00:17:43,242 --> 00:17:46,804
+Edmunds estimated five years of ownership of
+
+456
+00:17:46,804 --> 00:17:49,718
+a twenty twenty-three Ram TRX at one
+
+457
+00:17:49,718 --> 00:17:51,417
+hundred two thousand,
+
+458
+00:17:51,417 --> 00:17:53,522
+two hundred eight dollars,
+
+459
+00:17:53,522 --> 00:17:55,869
+including depreciation, fuel,
+
+460
+00:17:55,869 --> 00:17:57,650
+insurance and repairs.
+
+461
+00:17:57,830 --> 00:17:59,108
+By our arithmetic,
+
+462
+00:17:59,108 --> 00:18:01,665
+five years of the Ferrari example at
+
+463
+00:18:01,665 --> 00:18:04,221
+fifty thousand a year is two hundred
+
+464
+00:18:04,221 --> 00:18:06,778
+fifty thousand, about two and a half
+
+465
+00:18:06,778 --> 00:18:07,559
+times that.
+
+466
+00:18:07,739 --> 00:18:09,211
+The methods differ,
+
+467
+00:18:09,211 --> 00:18:11,536
+so this is a rough comparison.
+
+468
+00:18:11,886 --> 00:18:14,483
+Price per horsepower is another way to
+
+469
+00:18:14,483 --> 00:18:16,123
+see what the money buys.
+
+470
+00:18:16,303 --> 00:18:20,038
+The Purosangue has seven hundred fifteen horsepower,
+
+471
+00:18:20,038 --> 00:18:21,690
+according to Wikipedia.
+
+472
+00:18:21,870 --> 00:18:23,169
+By our arithmetic,
+
+473
+00:18:23,169 --> 00:18:26,129
+its twenty twenty-six base price is about
+
+474
+00:18:26,129 --> 00:18:29,521
+five hundred ninety-two dollars per horsepower.
+
+475
+00:18:29,701 --> 00:18:33,234
+The Cullinan has five hundred sixty-three horsepower,
+
+476
+00:18:33,234 --> 00:18:35,967
+and at four hundred twenty-nine thousand,
+
+477
+00:18:35,967 --> 00:18:38,433
+six hundred it is about seven hundred
+
+478
+00:18:38,433 --> 00:18:40,766
+sixty-three dollars per horsepower.
+
+479
+00:18:41,116 --> 00:18:42,985
+The two prices are close.
+
+480
+00:18:43,165 --> 00:18:44,433
+By our arithmetic,
+
+481
+00:18:44,433 --> 00:18:47,320
+the Cullinan costs one point four percent
+
+482
+00:18:47,320 --> 00:18:49,081
+more than the Purosangue,
+
+483
+00:18:49,081 --> 00:18:52,743
+about five thousand nine hundred sixty-four dollars.
+
+484
+00:18:52,923 --> 00:18:55,711
+For a buyer asking about affordability,
+
+485
+00:18:55,711 --> 00:18:58,357
+the rival does not change the answer.
+
+486
+00:18:58,537 --> 00:19:00,751
+Both sit at roughly five years of
+
+487
+00:19:00,751 --> 00:19:02,362
+median household income,
+
+488
+00:19:02,362 --> 00:19:04,845
+which is why the video comparing them
+
+489
+00:19:04,845 --> 00:19:07,395
+is a different question from this one.
+
+490
+00:19:07,745 --> 00:19:09,741
+Fuel deserves a last note.
+
+491
+00:19:09,921 --> 00:19:12,107
+At twelve miles per gallon,
+
+492
+00:19:12,107 --> 00:19:15,183
+the Ferrari uses a gallon every twelve
+
+493
+00:19:15,183 --> 00:19:15,668
+miles.
+
+494
+00:19:15,848 --> 00:19:17,200
+By our arithmetic,
+
+495
+00:19:17,200 --> 00:19:20,054
+five years at fifteen thousand miles a
+
+496
+00:19:20,054 --> 00:19:23,282
+year is sixty-two hundred fifty gallons and
+
+497
+00:19:23,282 --> 00:19:27,638
+twenty-six thousand, seven hundred seventy-five dollars at
+
+498
+00:19:27,638 --> 00:19:28,689
+today's price.
+
+499
+00:19:28,869 --> 00:19:32,707
+Edmunds reports thirty-eight thousand dollars of fuel
+
+500
+00:19:32,707 --> 00:19:34,734
+for the TRX over five years,
+
+501
+00:19:34,734 --> 00:19:36,907
+but we do not have its mileage
+
+502
+00:19:36,907 --> 00:19:38,645
+assumption in our notes.
+
+503
+00:19:38,995 --> 00:19:40,829
+Weight and fuel go together.
+
+504
+00:19:41,009 --> 00:19:44,560
+Wikipedia lists the Purosangue's kerb weight as
+
+505
+00:19:44,560 --> 00:19:47,356
+twenty-one hundred seventy kilograms,
+
+506
+00:19:47,356 --> 00:19:49,925
+or forty-seven eighty-four pounds.
+
+507
+00:19:50,105 --> 00:19:52,310
+Cars dot com lists the base curb
+
+508
+00:19:52,310 --> 00:19:54,239
+weight at forty-eight fifty.
+
+509
+00:19:54,419 --> 00:19:55,537
+These are close,
+
+510
+00:19:55,537 --> 00:19:58,262
+and the difference of sixty-six pounds,
+
+511
+00:19:58,262 --> 00:19:59,520
+by our arithmetic,
+
+512
+00:19:59,520 --> 00:20:01,756
+is under one and a half percent.
+
+513
+00:20:01,936 --> 00:20:05,222
+Neither number includes passengers or luggage.
+
+514
+00:20:05,572 --> 00:20:07,487
+And the engine matters for cost.
+
+515
+00:20:07,667 --> 00:20:10,644
+Wikipedia lists a six point five litre
+
+516
+00:20:10,644 --> 00:20:14,483
+V twelve making seven hundred fifteen horsepower,
+
+517
+00:20:14,483 --> 00:20:17,617
+with an eight-speed dual-clutch gearbox.
+
+518
+00:20:17,797 --> 00:20:20,744
+Our sources say nothing about how many
+
+519
+00:20:20,744 --> 00:20:23,458
+miles that engine and gearbox last,
+
+520
+00:20:23,458 --> 00:20:25,319
+or what a failure costs,
+
+521
+00:20:25,319 --> 00:20:28,033
+which is exactly the number a buyer
+
+522
+00:20:28,033 --> 00:20:30,127
+of an older car would want.
+
+523
+00:20:30,307 --> 00:20:34,540
+The shop's ten-to-thirty-thousand-euro range for major work
+
+524
+00:20:34,540 --> 00:20:35,903
+is its only figure.
+
+525
+00:20:36,253 --> 00:20:39,057
+So can a normal person afford a
+
+526
+00:20:39,057 --> 00:20:40,142
+Ferrari SUV?
+
+527
+00:20:40,322 --> 00:20:41,929
+On published numbers,
+
+528
+00:20:41,929 --> 00:20:44,532
+the sticker is about five years of
+
+529
+00:20:44,532 --> 00:20:47,288
+a median household's pre-tax income.
+
+530
+00:20:47,468 --> 00:20:51,065
+A twelve-year loan at the creator's assumptions
+
+531
+00:20:51,065 --> 00:20:54,049
+costs more than half of monthly pre-tax
+
+532
+00:20:54,049 --> 00:20:54,585
+income.
+
+533
+00:20:54,765 --> 00:20:57,708
+And estimates of running costs run from
+
+534
+00:20:57,708 --> 00:21:00,953
+twenty to forty-two thousand dollars a year
+
+535
+00:21:00,953 --> 00:21:02,462
+before depreciation.
+
+536
+00:21:02,642 --> 00:21:03,955
+By these figures,
+
+537
+00:21:03,955 --> 00:21:05,731
+not on a median income.
+
+538
+00:21:06,081 --> 00:21:08,071
+We should be careful about what that
+
+539
+00:21:08,071 --> 00:21:08,403
+means.
+
+540
+00:21:08,583 --> 00:21:10,736
+We are not giving financial advice,
+
+541
+00:21:10,736 --> 00:21:12,766
+and we are not saying that anyone
+
+542
+00:21:12,766 --> 00:21:14,550
+should or should not buy one.
+
+543
+00:21:14,730 --> 00:21:16,309
+The numbers show scale.
+
+544
+00:21:16,489 --> 00:21:18,862
+Some buyers earn far more than the
+
+545
+00:21:18,862 --> 00:21:21,723
+median, and our sources say nothing about
+
+546
+00:21:21,723 --> 00:21:23,118
+Ferrari's customers.
+
+547
+00:21:23,298 --> 00:21:25,674
+The question has an answer for each
+
+548
+00:21:25,674 --> 00:21:28,254
+household, and it depends on things we
+
+549
+00:21:28,254 --> 00:21:29,069
+do not know.
+
+550
+00:21:29,419 --> 00:21:30,347
+What is missing.
+
+551
+00:21:30,527 --> 00:21:34,188
+A Ferrari price list for Purosangue maintenance
+
+552
+00:21:34,188 --> 00:21:35,589
+beyond year seven.
+
+553
+00:21:35,769 --> 00:21:37,290
+An insurer's quote.
+
+554
+00:21:37,470 --> 00:21:39,676
+A published depreciation curve.
+
+555
+00:21:39,856 --> 00:21:42,266
+The final price of the Tailor Made
+
+556
+00:21:42,266 --> 00:21:42,550
+car.
+
+557
+00:21:42,730 --> 00:21:45,365
+Ferrari's own financing offers.
+
+558
+00:21:45,545 --> 00:21:48,253
+And any figure for the Purosangue's gas
+
+559
+00:21:48,253 --> 00:21:49,086
+guzzler tax.
+
+560
+00:21:49,266 --> 00:21:52,051
+Every running-cost number in this video is
+
+561
+00:21:52,051 --> 00:21:54,770
+an estimate from someone with an interest
+
+562
+00:21:54,770 --> 00:21:55,698
+in the answer.
+
+563
+00:21:56,048 --> 00:21:57,681
+If you own a Purosangue,
+
+564
+00:21:57,681 --> 00:21:59,383
+or have a published bill,
+
+565
+00:21:59,383 --> 00:22:01,084
+share it in the comments,
+
+566
+00:22:01,084 --> 00:22:03,466
+and we will update the description.
+
+567
+00:22:03,646 --> 00:22:05,296
+What is the most you would spend
+
+568
+00:22:05,296 --> 00:22:05,759
+on a car?
+
+569
+00:22:05,939 --> 00:22:08,317
+In the other videos of this series,
+
+570
+00:22:08,317 --> 00:22:10,492
+we reveal two things you did not
+
+571
+00:22:10,492 --> 00:22:12,258
+know about the Purosangue,
+
+572
+00:22:12,258 --> 00:22:14,229
+compare it with the Cullinan,
+
+573
+00:22:14,229 --> 00:22:16,607
+and tell why Ferrari swore it would
+
+574
+00:22:16,607 --> 00:22:17,898
+never build an SUV.
+
+575
+00:22:18,078 --> 00:22:21,097
+Our twenty twenty-seven Truck Buyer's Guide is
+
+576
+00:22:21,097 --> 00:22:22,803
+linked in the description.
+
+577
+00:22:22,983 --> 00:22:25,642
+Subscribe to Pickup Reality.
