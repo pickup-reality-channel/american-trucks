@@ -1,0 +1,16 @@
+- GoAuto (3 Nov 2009), Australian Defence Force's new G-Class era begins: https://goauto.com.au/news/mercedes-benz/g-class/australian-defence-force-rsquo-s-new-g-class-era-begins/2009-11-03/15163.html
+- GoAuto (Tim Nicholson, 18 Mar 2013), Mercedes shows off six-wheeled AMG: https://web2.goauto.com.au/future-models/mercedes-benz/g-class/mercedes-shows-off-six-wheeled-amg/2013-03-18/12509.html
+- GoAuto (Tim Nicholson, 27 Sept 2013), Benz's bush-bashing beast ruled out for Oz: https://goauto.com.au/amp/17031/benz-rsquo-s-bush-bashing-beast-ruled-out-for-oz.html
+- Motor Authority (Viknesh Vijayenthiran, 1 Mar 2013), Six-wheeled Mercedes G63 AMG 6x6: https://www.motorauthority.com/news/1082633_six-wheeled-mercedes-g63-amg-6x6-unleashed-on-the-public-video
+- Motor Authority (Jeff Glucker, 20 Feb 2015), Mercedes-Benz sells out all of its G63 AMG 6x6 beasties: https://www.motorauthority.com/news/1096910_mercedes-benz-sells-out-all-of-its-g63-amg-6x6-beasties
+- Fox News, 6x6 is the new 4x4 at Mercedes-Benz, 4 Mar 2013: https://www.foxnews.com/auto/6x6-is-the-new-4x4-at-mercedes-benz.amp
+- CarAdvice via Driven Car Guide, Mercedes-Benz ends production of 6x6 G-Wagen, 13 Apr 2015: https://www.drivencarguide.co.nz/news/mercedes-benz-ends-production-of-6x6-g-wagen/
+- Autocar (Greg Kable), Mercedes-AMG G 63 6x6 review, 23 Feb 2014: https://images.cdn.autocar.co.uk/car-review/mercedes-amg/g-63-6x6-2013-2015
+- Wikipedia, Mercedes-AMG G 63 6x6: https://en.wikipedia.org/wiki/Mercedes-AMG_G_63_6x6
+- Wikipedia, Mercedes-Benz G-Class: https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class
+- Barrett-Jackson (26 Dec 2024), The ultimate off-road icon: Mercedes-Benz G63 AMG 6x6: https://barrett-jackson.com/media/articles/the-ultimate-off-road-icon-mercedes-benz-g63-amg-66
+- The Classic Valuer, Barrett-Jackson 26 Jan 2025, Mercedes-Benz G-Wagon G 63 AMG 6x6: https://www.theclassicvaluer.com/vehicle-details/barrett-jackson-2025-01-26-mercedes-benz-g-wagon-g-63-amg-6x6-006ee1
+- MBWorld, AMG G63 6x6 G-Wagen finds a new home for $1.4 million: https://mbworld.org/articles/g63-6x6-finds-new-home-1-4-million
+- The Drive (Mate Petrany, 10 Nov 2020), G63 AMG 6x6 sold for $900K: https://www.thedrive.com/news/37546/our-new-favorite-rich-person-put-47000-miles-on-their-g63-amg-6x6-and-it-just-sold-for-900k
+- MercedesBlog (18 May 2022), G63 AMG 6x6 sold again: https://mercedesblog.com/mercedes-benz-g63-amg-6x6-sold-here-it-goes-again-and-this-time-it-was-cheaper/
+- Motor Authority (R&T), Digital Trends and The Drive coverage of the Hennessey VelociRaptor 6x6 (2016-2017)

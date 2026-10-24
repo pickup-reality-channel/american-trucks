@@ -1,0 +1,359 @@
+{
+ "id": "video152",
+ "angle": "D",
+ "length_scale": 1.45,
+ "title": "The Insane Story Behind the Mercedes 6x6",
+ "scenes": [
+  {
+   "text": "In March twenty thirteen, Mercedes showed a six-wheeled G 63 AMG and its own spokesman said there was no plan for series production. By February twenty fifteen, more than one hundred had been built and the run was sold out. In between lies an army contract, a price that moved, a production number that moved, and a pickup that Australia could not buy. This is the story, with every claim sourced.",
+   "query": "Mercedes G63 AMG 6x6",
+   "caption": "THE INSANE STORY BEHIND THE MERCEDES 6x6",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "We rely on GoAuto, Motor Authority, Autocar, CarAdvice, Wikipedia, Barrett-Jackson, MBWorld, The Classic Valuer, The Drive and Carscoops. Several of them disagree about dates, prices and numbers. Those disagreements are part of the story, so we show them. Our own arithmetic is labelled.",
+   "query": "G63 6x6 story",
+   "caption": "SOURCES: GOAUTO \u00b7 MOTOR AUTHORITY \u00b7 AUTOCAR \u00b7 CARADVICE \u00b7 WIKIPEDIA \u00b7 BARRETT-JACKSON \u00b7 MBWORLD \u00b7 THE CLASSIC VALUER \u00b7 THE DRIVE \u00b7 CARSCOOPS \u00b7 DISAGREEMENTS ARE SHOWN \u00b7 OUR ARITHMETIC IS LABELLED",
+   "cuts": 8
+  },
+  {
+   "text": "The story starts with soldiers, not millionaires. GoAuto, on the third of November two thousand nine, reported that the Australian Defence Force had taken delivery of the first two prototypes of its new Mercedes G-Class fleet, at a ceremony at the Graz plant in Austria. The programme was called Land one two one, also known as Overlander.",
+   "query": "Land 121",
+   "caption": "GOAUTO (3 NOV 2009): FIRST TWO PROTOTYPES DELIVERED AT A CEREMONY AT MERCEDES' GRAZ PLANT \u00b7 PROGRAMME: LAND 121, ALSO CALLED 'OVERLANDER'",
+   "cuts": 5,
+   "chapter": "An army contract"
+  },
+  {
+   "text": "The scale was large. GoAuto says the contract was worth three hundred fifty million dollars, signed about twelve months before the prototypes, for twelve hundred vehicles, with a fifteen-year service and parts contract. The article does not state the currency, though it is an Australian outlet. A 2007 article it links to said eleven hundred G-Wagons.",
+   "query": "The order",
+   "caption": "GOAUTO: $350 MILLION (CURRENCY NOT STATED) \u00b7 ~1,200 VEHICLES \u00b7 15-YEAR SUPPORT CONTRACT \u00b7 SIGNED ~12 MONTHS BEFORE PROTOTYPES \u00b7 A 2007 ARTICLE: '1100 G-WAGONS'",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, three hundred fifty million over twelve hundred vehicles is about two hundred ninety-two thousand per vehicle. That is not a vehicle price, because the contract also covers support and modules, but it shows that this was a very large, long-term military deal. We do not have a breakdown in our sources.",
+   "query": "Contract per vehicle",
+   "caption": "$350,000,000 \u00f7 1,200 = $291,667 (OUR ARITHMETIC; INCLUDES 15-YEAR SUPPORT; NOT A UNIT PRICE; NO BREAKDOWN IN OUR SOURCES)",
+   "cuts": 3
+  },
+  {
+   "text": "Among the variants were two-door and four-door 4x4 wagons, cab-chassis utilities, and purpose-built 6x6 single-cab and dual-cab chassis models. There was also a specialised 6x6 surveillance and reconnaissance version for use in northern Australia. So the six-wheeler was designed as a working military chassis from the start.",
+   "query": "The variants",
+   "caption": "GOAUTO: 4x4 WAGONS (2- AND 4-DOOR) \u00b7 4x4 CAB-CHASSIS \u00b7 PURPOSE-BUILT 6x6 SINGLE- AND DUAL-CAB CHASSIS \u00b7 6x6 SURVEILLANCE / RECONNAISSANCE VERSION 'FOR USE IN NORTHERN AUSTRALIA'",
+   "cuts": 3
+  },
+  {
+   "text": "The plan, per GoAuto, was twelve months of prototype testing, production deliveries from twenty eleven, and supply contracted until at least twenty fourteen. It called the arrangement a thirty-year strategic agreement. Newcastle-based Varley was to supply transport modules such as ambulance, command post, personnel carriage and general cargo.",
+   "query": "The schedule",
+   "caption": "GOAUTO: 12 MONTHS OF TESTING \u00b7 PRODUCTION DELIVERIES FROM 2011 \u00b7 SUPPLY UNTIL AT LEAST 2014 \u00b7 '30-YEAR STRATEGIC AGREEMENT' \u00b7 VARLEY (NEWCASTLE) SUPPLIES MODULES",
+   "cuts": 3
+  },
+  {
+   "text": "Now the date puzzle. Wikipedia says the vehicle was developed for the Australian Army from two thousand seven. Motor Authority, in March twenty thirteen, said it was first developed in twenty eleven for the Australian military, in a spec based on the diesel G 320 CDI. Those look contradictory.",
+   "query": "2007 or 2011?",
+   "caption": "WIKIPEDIA: DEVELOPED FROM 2007 \u00b7 MOTOR AUTHORITY (1 MAR 2013): 'FIRST DEVELOPED IN 2011' FOR THE AUSTRALIAN MILITARY, BASED ON G 320 CDI",
+   "cuts": 3,
+   "chapter": "Two dates, one explanation"
+  },
+  {
+   "text": "GoAuto's twenty nine article may reconcile them. It shows a contract signed around late two thousand eight, prototypes in two thousand nine, and production deliveries planned from twenty eleven. So twenty eleven may be when the military six-wheelers reached service. That is our reading, not a statement in any source, and we flag it as such.",
+   "query": "A possible reconciliation",
+   "caption": "GOAUTO 2009: CONTRACT ~LATE 2008 \u00b7 PROTOTYPES 2009 \u00b7 DELIVERIES FROM 2011 \u2192 '2011' MAY MEAN SERVICE ENTRY (OUR READING, NOT STATED IN ANY SOURCE) \u00b7 2007 DEAL ARTICLE ALSO CITED BY GOAUTO",
+   "cuts": 3
+  },
+  {
+   "text": "The military truck did not end. CarAdvice, in April twenty fifteen, said the Australian Army's six-wheel G-Wagen chassis is different from the AMG version and will continue to be produced. So the story of the luxury 6x6 is a spin-off from a programme that was already running, not the other way round.",
+   "query": "The army truck continues",
+   "caption": "CARADVICE (13 APR 2015): ARMY 6x6 CHASSIS 'IS DIFFERENT TO THE AMG VERSION AND WILL CONTINUE TO BE PRODUCED'",
+   "cuts": 3
+  },
+  {
+   "text": "On the eighteenth of March twenty thirteen, GoAuto reported that Mercedes had revealed the six-wheeled G 63 AMG over the weekend as a show car. It used the rear twin drivetrain from the military 6x6 version, but the article said the show car was not entirely based on the military G-Wagon used by the Australian Army.",
+   "query": "The reveal",
+   "caption": "GOAUTO (18 MAR 2013): REVEALED 'OVER THE WEEKEND' AS A SHOW CAR \u00b7 USES REAR TWIN DRIVETRAIN FROM MILITARY 6x6 \u00b7 'NOT ENTIRELY BASED ON' THE ARMY G-WAGON",
+   "cuts": 3,
+   "chapter": "March 2013: a show car"
+  },
+  {
+   "text": "Mercedes-Benz Australia's senior communications manager, David McCarthy, was blunt. He told GoAuto there is no plan for a series production, but that if people want one, they will make them one. He also said there is nothing like it. Mercedes said buyers would need a lot of money, and gave no price.",
+   "query": "No plan for series production",
+   "caption": "DAVID McCARTHY, MERCEDES-BENZ AUSTRALIA (GOAUTO, 18 MAR 2013): 'THERE IS NO PLAN FOR A SERIES PRODUCTION' \u00b7 'IF PEOPLE WANT ONE, THEY WILL MAKE THEM ONE' \u00b7 'THERE'S NOTHING LIKE IT' \u00b7 NO PRICE GIVEN",
+   "cuts": 3
+  },
+  {
+   "text": "Motor Authority, writing on the first of March twenty thirteen, was already more definite. It said the truck was built alongside the regular G-Class at Magna Steyr in Graz, that Mercedes had developed a civilian version after seeing enough interest, that it would go on sale in October, and that Mercedes predicted twenty to thirty units a year.",
+   "query": "Motor Authority's version",
+   "caption": "MOTOR AUTHORITY (1 MAR 2013): BUILT AT MAGNA STEYR, GRAZ \u00b7 CIVILIAN VERSION DEVELOPED 'AFTER SEEING ENOUGH INTEREST' \u00b7 ON SALE IN OCTOBER \u00b7 PREDICTED 20\u201330 UNITS A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "So within seventeen days the story had two versions. By our arithmetic, one source on the first of March said sales in October with twenty to thirty a year, and another on the eighteenth said no plan for series production. We cannot tell from our sources whether it was a change of plan, or two different ways of describing the same small run.",
+   "query": "Two stories in 17 days",
+   "caption": "1 MAR 2013: SALES FROM OCTOBER, 20\u201330/YEAR (MOTOR AUTHORITY) \u00b7 18 MAR 2013: 'NO PLAN FOR A SERIES PRODUCTION' (GOAUTO) \u00b7 17 DAYS APART (OUR ARITHMETIC) \u00b7 REASON: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The show car's numbers, per GoAuto: a twin-turbo V8 making four hundred kilowatts and seven hundred sixty newton-metres, five differential locks, and a tyre-pressure system for thirty-seven inch tyres. It listed a weight of 3.85 tonnes, a height of twenty-three hundred millimetres and fifteen different spring rates. Reinforced springs came from an armoured special-protection vehicle.",
+   "query": "The show car",
+   "caption": "GOAUTO: 400 KW / 760 N\u00b7M \u00b7 FIVE DIFF LOCKS \u00b7 37-IN TYRES \u00b7 3.85 T \u00b7 2,300 MM HIGH \u00b7 15 SPRING RATES \u00b7 FRONT AXLE USES REINFORCED SPRINGS FROM AN ARMOURED SPECIAL-PROTECTION VEHICLE",
+   "cuts": 3
+  },
+  {
+   "text": "Compare with the later figures. By our arithmetic, Wikipedia's four thousand eighty-three kilograms is six percent heavier than the show car's 3.85 tonnes, and its height of twenty-two ten is four percent below twenty-three hundred. Motor Authority gave a curb weight of eight thousand three hundred twenty-two pounds. The specification moved between the show car and the production truck.",
+   "query": "Show car vs production",
+   "caption": "4,083 KG \u00f7 3,850 KG = +6.0% \u00b7 2,210 MM vs 2,300 MM = \u22123.9% (OUR ARITHMETIC; WIKIPEDIA vs GOAUTO) \u00b7 MOTOR AUTHORITY: 8,322 LB",
+   "cuts": 3
+  },
+  {
+   "text": "Motor Authority adds that the ground clearance is eighteen point one inches, which is nine point eight inches higher than the stock G 63 AMG, and that the maximum payload is fourteen hundred thirty-three pounds. By our arithmetic, the stock truck's clearance would be eight point three inches, and the payload about six hundred fifty kilograms. The cargo bed floor is polished bamboo.",
+   "query": "Clearance and payload",
+   "caption": "MOTOR AUTHORITY: 18.1 IN CLEARANCE, 9.8 IN HIGHER THAN STOCK G63 AMG \u00b7 PAYLOAD 1,433 LB \u00b7 18.1 \u2212 9.8 = 8.3 IN STOCK \u00b7 1,433 LB = 650 KG (OUR ARITHMETIC) \u00b7 BAMBOO CARGO FLOOR",
+   "cuts": 3
+  },
+  {
+   "text": "Price is the second moving part. In March twenty thirteen, Motor Authority said Axel Harries, the G-Class development head, indicated buyers should expect no more than the sticker of the SLS AMG Electric Drive, which it gave as three hundred fifty thousand euros, about four hundred fifty-seven thousand dollars. Fox News, citing Autocar, said the same ranking.",
+   "query": "March price guidance",
+   "caption": "MOTOR AUTHORITY (1 MAR 2013): HARRIES INDICATED NO MORE THAN SLS AMG ELECTRIC DRIVE: \u20ac350,000 (~$457,000) \u00b7 FOX NEWS (4 MAR 2013, CITING AUTOCAR): SECOND ONLY TO THE ELECTRIC AMG",
+   "cuts": 3,
+   "chapter": "The price that moved"
+  },
+  {
+   "text": "By September, GoAuto, citing Autocar, said the car would sell from about four hundred fifty thousand euros, which it converted to six hundred fifty thousand Australian dollars, with sales starting the following month. By our arithmetic, that is twenty-nine percent above the March guidance of three hundred fifty thousand euros.",
+   "query": "September price",
+   "caption": "GOAUTO (27 SEPT 2013, CITING AUTOCAR): FROM ~\u20ac450,000 (~A$650,000) \u00b7 \u20ac450,000 \u00f7 \u20ac350,000 = +28.6% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "The reported launch price was lower. CarAdvice and Carscoops say three hundred seventy-nine thousand euros. By our arithmetic, that is eight percent above the March guidance and sixteen percent below the September figure. Autocar's own review in February twenty fourteen listed three hundred seventy thousand pounds, so even Autocar's numbers differ between currencies and dates.",
+   "query": "The launch price",
+   "caption": "\u20ac379,000 (CARADVICE, CARSCOOPS) \u00b7 +8.3% vs \u20ac350,000 \u00b7 \u221215.8% vs \u20ac450,000 (OUR ARITHMETIC) \u00b7 AUTOCAR REVIEW (23 FEB 2014): \u00a3370,000",
+   "cuts": 3
+  },
+  {
+   "text": "Why the numbers moved, our sources do not say. Perhaps the early figures were guidance, and the later ones were real quotes. That is our reading. What the record shows is a luxury product whose price was set late and reported with several different numbers. It was also priced above any other Mercedes except the electric SLS.",
+   "query": "Why the price moved",
+   "caption": "REASON FOR THE CHANGES: NOT IN OUR SOURCES \u00b7 'GUIDANCE vs QUOTE' = OUR READING \u00b7 WIKIPEDIA: 2ND MOST EXPENSIVE STREET-LEGAL MERCEDES AT LAUNCH",
+   "cuts": 3
+  },
+  {
+   "text": "Production moved even more. GoAuto in September twenty thirteen said just thirty units were confirmed for production. That is up from a show car with no series plans in March, and from twenty to thirty a year predicted by Motor Authority. Then the actual run grew beyond all of that, and the truck sold out.",
+   "query": "30 confirmed",
+   "caption": "GOAUTO (27 SEPT 2013): 'JUST 30 UNITS CONFIRMED FOR PRODUCTION' \u00b7 MARCH 2013: SHOW CAR, NO SERIES PLAN \u00b7 20\u201330/YEAR PREDICTED (MOTOR AUTHORITY)",
+   "cuts": 3,
+   "chapter": "The number that moved"
+  },
+  {
+   "text": "Motor Authority, on the twentieth of February twenty fifteen, reported that over one hundred examples were produced, citing GT Spirit. It also said Mercedes initially said two had been built, and that a few more could be produced pending demand. That is the writer's paraphrase of an earlier company line, not a direct quote.",
+   "query": "Over 100",
+   "caption": "MOTOR AUTHORITY (20 FEB 2015, CITING GT SPIRIT 17 FEB 2015): 'OVER 100 EXAMPLES WERE PRODUCED' \u00b7 MERCEDES 'INITIALLY SAID TWO HAD BEEN BUILT\u2026 A FEW MORE\u2026 PENDING DEMAND' (WRITER'S PARAPHRASE)",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, over a hundred is more than three times the thirty confirmed in September twenty thirteen, and more than three times what you get from one year of the predicted twenty to thirty. Wikipedia says Mercedes sold more units than originally anticipated. CarAdvice says the run sold out in about twelve months.",
+   "query": "Plan vs reality",
+   "caption": "100 \u00f7 30 = 3.3\u00d7 THE SEPT 2013 FIGURE (OUR ARITHMETIC) \u00b7 WIKIPEDIA: 'MORE UNITS\u2026 THAN ORIGINALLY ANTICIPATED' \u00b7 CARADVICE: SOLD OUT IN ~12 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "The last stages are dated. Motor Authority's report came on the twentieth of February twenty fifteen, CarAdvice's on the thirteenth of April saying production ends that week, and Wikipedia says the last customer delivery left Graz in May twenty fifteen. By our arithmetic, from the October twenty thirteen sale start to May twenty fifteen is about nineteen months.",
+   "query": "The end",
+   "caption": "MOTOR AUTHORITY 20 FEB 2015 \u00b7 CARADVICE 13 APR 2015: PRODUCTION ENDING 'THIS WEEK' \u00b7 WIKIPEDIA: LAST DELIVERY MAY 2015 \u00b7 OCT 2013 \u2192 MAY 2015 \u2248 19 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "Motor Authority also reported that Mercedes was expected to unveil a G 550 4x4 squared at the upcoming Geneva Motor Show. That was an expectation, not an announcement. Wikipedia later says the G 500 4x4 squared used the body of the long-wheelbase wagon on a shortened chassis from the 6x6. So the run ended as its successor appeared.",
+   "query": "What came next",
+   "caption": "MOTOR AUTHORITY (20 FEB 2015): G550 4x4\u00b2 EXPECTED AT GENEVA (EXPECTATION, NOT ANNOUNCEMENT) \u00b7 WIKIPEDIA: G 500 4x4\u00b2 = LONG-WHEELBASE 5-DOOR BODY ON SHORTENED CHASSIS FROM THE 6x6",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the irony. The truck borrowed from a vehicle built for Australia's army. Yet GoAuto, on the twenty-seventh of September twenty thirteen, reported that Mercedes-Benz Australia had ruled it out. The article said it would be produced only in small numbers and, more importantly, only in left-hand drive, which scuppered any chance of local orders.",
+   "query": "Ruled out for Australia",
+   "caption": "GOAUTO (27 SEPT 2013): 'ONLY IN LEFT-HAND DRIVE\u2026 HAS SCUPPERED ANY POSSIBILITY OF LOCAL ORDERS' \u00b7 TRUCK BORROWS PARTS FROM A VEHICLE BUILT FOR THE AUSTRALIAN ARMY",
+   "cuts": 3,
+   "chapter": "The truck Australia could not buy"
+  },
+  {
+   "text": "The same outlet had quoted McCarthy in March saying there was a chance cashed-up Australian buyers could order it. By September the answer was no. Later, Wikipedia says fifteen right-hand-drive units went to Malaysia, and a South African businessman ordered ten units, converted to right-hand drive, so right-hand drive did eventually happen.",
+   "query": "Right-hand drive after all",
+   "caption": "GOAUTO MARCH 2013: McCARTHY \u2014 'A CHANCE' AUSTRALIAN BUYERS COULD ORDER \u00b7 SEPT 2013: LHD ONLY \u00b7 WIKIPEDIA: 15 RHD UNITS FOR MALAYSIA (NAZA WORLD) \u00b7 10 UNITS CONVERTED TO RHD FOR A SOUTH AFRICAN BUSINESSMAN",
+   "cuts": 3
+  },
+  {
+   "text": "Why not Australia then? Wikipedia says the South African buyer's units were converted after the company required a larger order before converting one. By our arithmetic, that suggests a threshold of orders was needed. Our sources do not say what the threshold was, or whether any Australian buyer asked.",
+   "query": "The threshold",
+   "caption": "WIKIPEDIA: SOUTH AFRICAN BUYER ORDERED 10; 'COMPANY REQUIRED A LARGER ORDER BEFORE CONVERTING ONE' \u00b7 THRESHOLD SIZE AND ANY AUSTRALIAN ORDER: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "Mercedes never sold the 6x6 new in the United States, according to MBWorld and The Drive. Cars arrived under the Show or Display exemption, with limited road use, and conversions such as those by G and K Automotive in Santa Ana. The Drive reports one car came from Japan, with about forty-nine thousand miles.",
+   "query": "Reaching America",
+   "caption": "MBWORLD: NOT SOLD NEW IN THE U.S., BROUGHT IN UNDER SHOW AND DISPLAY \u00b7 THE DRIVE: JAPAN-DELIVERED CAR, G&K CONVERSION \u00b7 ~48,990 MI",
+   "cuts": 3,
+   "chapter": "An odd place to end up: America"
+  },
+  {
+   "text": "The Drive reported a sale for nine hundred one thousand, three hundred thirty-seven dollars in November twenty twenty. MercedesBlog reported a Brabus-tuned car at one million, one hundred seventy thousand in May twenty twenty-two. MBWorld reports one million, four hundred thousand dollars at Barrett-Jackson Scottsdale for a five-year-old car with nine hundred sixty-five miles, without a date.",
+   "query": "Auction results",
+   "caption": "THE DRIVE (NOV 2020): $901,337 \u00b7 MERCEDESBLOG (MAY 2022): $1,170,000 (BRABUS) \u00b7 MBWORLD (UNDATED): $1.4 MILLION, 965 MI, BARRETT-JACKSON SCOTTSDALE, 'FIVE-YEAR-OLD' CAR",
+   "cuts": 3
+  },
+  {
+   "text": "In January twenty twenty-five, Barrett-Jackson offered lot fourteen oh four, a two thousand fourteen car, at no reserve. Its listing describes input from AMG, a Weistec Engineering upgrade with enhanced turbochargers, and thirty-seven inch Pro Comp tyres on eighteen inch beadlock wheels. The odometer showed five thousand, four hundred seventy-one miles.",
+   "query": "Barrett-Jackson 2025",
+   "caption": "BARRETT-JACKSON (26 DEC 2024): LOT 1404, 2014 G63 AMG 6x6, NO RESERVE, SCOTTSDALE JAN 2025 \u00b7 WEISTEC UPGRADES \u00b7 37-IN PRO COMP EXTREME MT2 ON 18-IN BEADLOCKS \u00b7 5,471 MI",
+   "cuts": 3
+  },
+  {
+   "text": "The Classic Valuer lists a sale of six hundred two thousand and forty-six pounds, on the twenty-sixth of January twenty twenty-five, which it says is in the bottom half of sold prices for the model. Its comparable sales since twenty twenty range from about one hundred fifty-eight thousand to eight hundred ninety-eight thousand pounds, with a median of about six hundred fifteen thousand.",
+   "query": "The 2025 result",
+   "caption": "THE CLASSIC VALUER: \u00a3602,046 \u00b7 26 JAN 2025 \u00b7 'BOTTOM 50%' \u00b7 COMPS SINCE 2020: LOW \u00a3158,417 \u00b7 MEDIAN \u00a3614,655 \u00b7 HIGH \u00a3897,703 \u00b7 CONDITION 7/10 \u00b7 CURRENCY AND IDENTIFICATION OF THE SAME CAR: NOT CONFIRMED",
+   "cuts": 3
+  },
+  {
+   "text": "By our arithmetic, six hundred two thousand is two percent below that median. That is a very different picture from the million-dollar sales of twenty twenty-one and twenty twenty-two. We caution that the sources mix pounds and dollars, different cars, and different modifications, and the lowest comp of about one hundred fifty-eight thousand pounds is not explained.",
+   "query": "A calmer market?",
+   "caption": "\u00a3602,046 \u00f7 \u00a3614,655 = \u22122.1% BELOW MEDIAN (OUR ARITHMETIC) \u00b7 SOURCES MIX GBP / USD, MODIFIED AND STOCK CARS \u00b7 LOW COMP \u00a3158,417 UNEXPLAINED",
+   "cuts": 3
+  },
+  {
+   "text": "Barrett-Jackson's listing describes the project in the spirit of because we can, and says the 6x6 was a luxury, high-performance vehicle with input from AMG. Wikipedia says it appeared in Beyond the Reach, in twenty fourteen, and Jurassic World, in twenty fifteen. It also became the basis for the G 500 4x4 squared's chassis and for portal axles on later vehicles.",
+   "query": "Afterlife",
+   "caption": "BARRETT-JACKSON: SPIRIT OF 'BECAUSE WE CAN' \u00b7 WIKIPEDIA: 'BEYOND THE REACH' (2014), 'JURASSIC WORLD' (2015) \u00b7 PORTAL AXLES LATER USED ON G 550 4x4\u00b2 (ROAD & TRACK)",
+   "cuts": 3,
+   "chapter": "The strange afterlife"
+  },
+  {
+   "text": "The Hennessey VelociRaptor 6x6, first reported in October twenty sixteen, was framed by Digital Trends as a rival to the Mercedes. By our arithmetic, that came about seventeen months after Mercedes ended production. Hennessey planned fifty for the twenty eighteen model year, and started at three hundred forty-nine thousand dollars, per Motor Authority.",
+   "query": "A rival appears",
+   "caption": "DIGITAL TRENDS: MERCEDES NAMED AS A RIVAL \u00b7 THE DRIVE 5 OCT 2016 \u00b7 MOTOR AUTHORITY: 50 PLANNED FOR MY2018, FROM $349,000 \u00b7 MAY 2015 \u2192 OCT 2016 \u2248 17 MONTHS (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "And the Mercedes-Maybach G 650 Landaulet, shown at Geneva in March twenty seventeen, used portal axles and raised suspension from the G 500 4x4 squared, according to Wikipedia. It was limited to ninety-nine units at seven hundred forty-nine thousand, seven hundred euros. So a vehicle born from an army contract helped shape a very different luxury car.",
+   "query": "Maybach",
+   "caption": "WIKIPEDIA: MAYBACH G 650 LANDAULET \u2014 GENEVA MARCH 2017 \u00b7 PORTAL AXLES + RAISED SUSPENSION FROM THE 4x4\u00b2 \u00b7 V12 621 HP \u00b7 \u20ac749,700 \u00b7 99 UNITS",
+   "cuts": 3
+  },
+  {
+   "text": "Fox News, on the fourth of March twenty thirteen, called it a monster truck, hand-built, with a pickup bed grafted onto the cabin to fit the extra axle. It listed two twenty-one gallon fuel tanks, eight thousand three hundred pounds, and a compressed air system that adjusts tyre pressures remotely. It also said Mercedes expected twenty to thirty units a year, citing Autocar.",
+   "query": "Fox News, 2013",
+   "caption": "FOX NEWS (4 MAR 2013): 'MONSTER TRUCK' \u00b7 HAND-BUILT, PICKUP BED GRAFTED ONTO THE CABIN \u00b7 TWO 21-GAL TANKS \u00b7 8,300 LB \u00b7 20\u201330 UNITS/YEAR (CITING AUTOCAR) \u00b7 FUEL ECONOMY 'NOT DETERMINED'",
+   "cuts": 3,
+   "chapter": "How the press first saw it"
+  },
+  {
+   "text": "Gear Patrol, on the first of March twenty thirteen, quoted around five hundred twenty-six thousand dollars and said Mercedes planned a limited number for the fall. Its tone was jokey, with remarks about torque warping the earth's crust and about compensation. Those are jokes, not facts. The factual part is the spec list: six driven wheels, five locks, thirty-seven inch wheels.",
+   "query": "Gear Patrol, 2013",
+   "caption": "GEAR PATROL (1 MAR 2013): ~$526,000 \u00b7 LIMITED NUMBER FOR FALL 2013 \u00b7 JOKES ABOUT TORQUE AND COMPENSATION (OPINION) \u00b7 SIX DRIVEN WHEELS, FIVE LOCKS, '37-INCH WHEELS'",
+   "cuts": 3
+  },
+  {
+   "text": "Autocar's Greg Kable drove it in February twenty fourteen. He called it a fun thing to drive in the right conditions, remarkably easy to drive, and invincible in the dunes, but a super-exclusive proposition for all but the mega-rich. He found the steering vague on the prototype. He also noted the price was more than three times that of the G 63 AMG.",
+   "query": "Autocar's drive",
+   "caption": "AUTOCAR (GREG KABLE, 23 FEB 2014): 'A FUN THING TO DRIVE IN THE RIGHT CONDITIONS' \u00b7 'REMARKABLY EASY TO DRIVE' \u00b7 'FEELS INVINCIBLE' IN DUNES \u00b7 STEERING 'VAGUE' (PROTOTYPE) \u00b7 PRICE '>3\u00d7' G 63 AMG",
+   "cuts": 3
+  },
+  {
+   "text": "CarAdvice, in April twenty fifteen, called the vehicles Frankenstein utes, five point seven metres long and four tonnes, and said Mercedes had called it quits on one of the wildest road-going machines ever made. By our arithmetic, five point seven metres is about three percent shorter than the fifty-eight seventy-five millimetres on Wikipedia. Press numbers were rounded.",
+   "query": "CarAdvice's farewell",
+   "caption": "CARADVICE (13 APR 2015): 'FRANKENSTEIN UTES' \u00b7 5.7 M LONG \u00b7 4 TONNES \u00b7 'CALLED IT QUITS' \u00b7 5.7 vs 5.875 M = \u22123.0% (OUR ARITHMETIC)",
+   "cuts": 3
+  },
+  {
+   "text": "So by 2015, the early press had given us several lengths, weights and prices, and none was a surprise. A product that is built by hand in a few dozen or a hundred copies, with details changing between prototype and production, will produce messy numbers. That is our reading of why the sources differ, not a statement from any of them.",
+   "query": "Why numbers are messy",
+   "caption": "LENGTH: 5.70 / 5.87 / 5.875 M \u00b7 WEIGHT: 3.775 / 3.85 / 4.083 T \u00b7 PRICE: \u20ac350K / \u20ac450K / \u20ac379K \u2192 ALL IN DATED SOURCES \u00b7 REASON = OUR READING",
+   "cuts": 3
+  },
+  {
+   "text": "The Drive says the car it covered was delivered new to Japan five years before its November twenty twenty listing, and had only about twenty-five hundred miles in America after arriving the previous year. Motor Authority, a week earlier, said a car on Bring a Trailer had been imported to the United States in September twenty nineteen under the Show and Display exemption.",
+   "query": "A Japanese car",
+   "caption": "THE DRIVE (10 NOV 2020): DELIVERED NEW TO JAPAN ~5 YEARS EARLIER; ~2,500 MI IN US SINCE ARRIVING 'LAST YEAR' \u00b7 MOTOR AUTHORITY (3 NOV 2020): IMPORTED SEPT 2019, SHOW AND DISPLAY",
+   "cuts": 3,
+   "chapter": "Japan, then America"
+  },
+  {
+   "text": "They probably describe the same car, though neither says so. By our arithmetic, Motor Authority reported a bid of five hundred sixty-seven thousand dollars on the third of November, and The Drive reported a final price of nine hundred one thousand, three hundred thirty-seven a week later. That would be a rise of fifty-nine percent in the final days of the auction.",
+   "query": "Bid to sale in a week",
+   "caption": "$567,000 (3 NOV 2020) \u2192 $901,337 (10 NOV 2020) = +59.0% (OUR ARITHMETIC) \u00b7 SAME CAR? PROBABLY, NOT STATED IN EITHER SOURCE (OUR READING)",
+   "cuts": 3
+  },
+  {
+   "text": "Auctions often move late, but our sources do not discuss that. What they do say is that Motor Authority described used listings from nine hundred seventy-five thousand to one point six million dollars. So in November twenty twenty the market already had asking prices well above the final bid, and the sale closed in the middle of that range.",
+   "query": "Listings vs sale",
+   "caption": "MOTOR AUTHORITY: LISTINGS $975,000\u2013$1.6 M \u00b7 SALE $901,337 = 92% OF THE LOWEST LISTING (OUR ARITHMETIC) \u00b7 AUCTION-TIMING BEHAVIOUR: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "The import route has its own story. The Drive says G and K Automotive Conversion of Santa Ana made the car road legal. Barrett-Jackson says its lot was federalised by the same company. MercedesBlog says an NHTSA inspection is required until the car is twenty-five years old. So a legal path existed, even though Mercedes never offered the truck new in America.",
+   "query": "Making it legal",
+   "caption": "THE DRIVE + BARRETT-JACKSON: G&K AUTOMOTIVE CONVERSION, SANTA ANA \u00b7 MERCEDESBLOG: NHTSA INSPECTION UNTIL 25 YEARS OLD \u00b7 MBWORLD: NEVER SOLD NEW IN THE U.S.",
+   "cuts": 3
+  },
+  {
+   "text": "Owners did not leave it alone. Carscoops describes a Brabus B63S-700 conversion with seven hundred horsepower and seven hundred eight pound-feet, six Brembo brakes and Ohlins shocks. Barrett-Jackson describes a Weistec Engineering car with enhanced turbochargers, downpipes, a modified ECU and a three-inch exhaust. Both fit the because-we-can spirit of the truck.",
+   "query": "Tuned examples",
+   "caption": "CARSCOOPS: BRABUS B63S-700 \u2014 700 HP / 708 LB-FT, BREMBO \u00d76, OHLINS \u00b7 BARRETT-JACKSON: WEISTEC \u2014 TURBOS, DOWNPIPES, ECU, 3-IN EXHAUST",
+   "cuts": 3,
+   "chapter": "Modified examples"
+  },
+  {
+   "text": "By our arithmetic, the Brabus car makes thirty-one percent more power than the stock five hundred thirty-six horsepower. The Weistec car's output is not given in the listing we read. So we cannot say how far it went. The sources do not say whether tuning raised or lowered the sale prices, since the cars were not otherwise identical.",
+   "query": "Tuning and value",
+   "caption": "700 \u00f7 536 = +30.6% (OUR ARITHMETIC; BRABUS) \u00b7 WEISTEC POWER: NOT GIVEN \u00b7 EFFECT OF TUNING ON PRICE: NOT IN OUR SOURCES",
+   "cuts": 3
+  },
+  {
+   "text": "MBWorld, in a piece with no date, says a white 6x6 with nine hundred sixty-five miles fetched one million, four hundred thousand dollars at Barrett-Jackson Scottsdale. The author called it as close to new as you are going to get, and hoped the owner would use the locking differentials every now and again. That is opinion, but it shows how these trucks are viewed.",
+   "query": "A nearly new one",
+   "caption": "MBWORLD (UNDATED): $1.4 MILLION, 965 MI, 2014 CAR, 'FIVE-YEAR-OLD', BARRETT-JACKSON SCOTTSDALE \u00b7 AUTHOR HOPES OWNER USES LOCKS 'EVERY NOW AND AGAIN' (OPINION) \u00b7 SALE DATE: NOT STATED",
+   "cuts": 3
+  },
+  {
+   "text": "Barrett-Jackson's own copy called it the most effortlessly superior and extravagant off-roader ever to be developed and built by engineers. That is marketing language from an auction house selling the lot, and we mark it as such. Its listing facts are more useful: built at Graz from two thousand thirteen to fifteen, only one hundred produced, seating for four.",
+   "query": "Auction house copy",
+   "caption": "BARRETT-JACKSON: 'MOST EFFORTLESSLY SUPERIOR AND EXTRAVAGANT OFF-ROADER EVER' (MARKETING) \u00b7 FACTS: BUILT IN GRAZ 2013\u20132015 \u00b7 'ONLY 100' \u00b7 SEATS FOUR",
+   "cuts": 3
+  },
+  {
+   "text": "A timeline in numbers, from our sources. Land one two one prototypes, October two thousand nine. Show car, March twenty thirteen. Sale start, October twenty thirteen. Sold out, February twenty fifteen. Last delivery, May twenty fifteen. By our arithmetic, that is about three years and five months from prototypes to show car, and two years from the show car to sell-out.",
+   "query": "The timeline",
+   "caption": "OCT 2009 PROTOTYPES \u2192 MAR 2013 SHOW CAR (~3 YR 5 MO) \u2192 OCT 2013 SALE START \u2192 FEB 2015 SOLD OUT (~23.5 MO FROM 1 MAR 2013) \u2192 MAY 2015 LAST DELIVERY (OUR ARITHMETIC)",
+   "cuts": 3,
+   "chapter": "Timeline arithmetic"
+  },
+  {
+   "text": "And the price timeline: three hundred fifty thousand euros guidance in March twenty thirteen, four hundred fifty thousand quoted in September, three hundred seventy-nine thousand reported as the launch price. Then nine hundred one thousand dollars in November twenty twenty, one million one hundred seventy thousand in May twenty twenty-two, and about six hundred thousand pounds in January twenty twenty-five.",
+   "query": "The price timeline",
+   "caption": "\u20ac350K (MAR 2013 GUIDANCE) \u2192 \u20ac450K (SEPT 2013, AUTOCAR VIA GOAUTO) \u2192 \u20ac379K (REPORTED LAUNCH) \u2192 $901,337 (NOV 2020) \u2192 $1.17 M (MAY 2022, BRABUS) \u2192 \u00a3602,046 (JAN 2025, CLASSIC VALUER) \u2014 MIXED CURRENCIES, DIFFERENT CARS",
+   "cuts": 3
+  },
+  {
+   "text": "What does the story show? A military contract created a chassis. A show car in March twenty thirteen was described as having no series plan. By October it was on sale, by February twenty fifteen over a hundred were built and sold out, and by twenty twenty its resale price had passed its launch price. Each step is in a dated source.",
+   "query": "The arc",
+   "caption": "2007\u20132009 ARMY CONTRACT/PROTOTYPES \u2192 MAR 2013 SHOW CAR \u2192 OCT 2013 SALES \u2192 FEB 2015 SOLD OUT, 100+ BUILT \u2192 NOV 2020 $901,337 USED (EACH STEP DATED ABOVE)",
+   "cuts": 3,
+   "chapter": "What the story shows"
+  },
+  {
+   "text": "What the story does not show is why. Our sources do not contain a Mercedes document explaining the decision to sell the show car, the size of the run, or the price. McCarthy's remark that if people want one, they will make them one is the closest thing, and it is the remark of a regional spokesman, not the board.",
+   "query": "The why",
+   "caption": "WHY MERCEDES SOLD THE SHOW CAR / RUN SIZE / PRICE: NOT IN OUR SOURCES \u00b7 CLOSEST: McCARTHY \u2014 'IF PEOPLE WANT ONE, THEY WILL MAKE THEM ONE' (REGIONAL SPOKESMAN)",
+   "cuts": 3
+  },
+  {
+   "text": "What is missing. The exact build count. A Mercedes statement on the reasons for the price changes. Who the first customers were, beyond the Malaysian and South African orders. And the currency of the army contract. If you know any of these from a primary document, tell us in the comments.",
+   "query": "G63 6x6 story",
+   "caption": "NOT IN OUR SOURCES: EXACT BUILD COUNT \u00b7 MERCEDES REASONS FOR PRICE CHANGES \u00b7 FIRST CUSTOMER LIST \u00b7 CURRENCY OF THE ARMY CONTRACT",
+   "cuts": 3,
+   "chapter": "What our sources do not say"
+  },
+  {
+   "text": "Do you think a military chassis dressed in diamond-quilted leather makes sense, or is it the best kind of excess? Tell us in the comments. In the other videos of this series we show two things you did not know about the Mercedes, compare it with the Hennessey, and count its real cost. Our twenty twenty-seven Truck Buyer's Guide is linked in the description. Subscribe to Pickup Reality.",
+   "query": "G63 6x6 story",
+   "caption": "SUBSCRIBE: PICKUP REALITY",
+   "cuts": 3
+  }
+ ]
+}
