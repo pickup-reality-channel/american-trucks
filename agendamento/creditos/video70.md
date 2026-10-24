@@ -1,0 +1,171 @@
+# Photo credits: Ferrari SF90 vs McLaren Artura: The Difference Nobody Explains
+
+- Ferrari SF90, BAS 24, Brussels (P1170486-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90, BAS 24, Brussels (P1170502-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Ferrari SF90 XX Spider 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale Mayfair.jpg by Calreyn88, CC BY 4.0
+- 2021 Ferrari SF90 Stradale 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 XX Stradale 2.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Stradale Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Stradale sf25.jpg by Calreyn88, CC BY 4.0
+- McLaren Artura IMG 0527.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren Artura IMG 0534.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren Artura IMG 0529.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren Artura 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 McLaren Artura 13.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 McLaren Artura 6.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 McLaren Artura 14.jpg by Calreyn88, CC BY-SA 4.0
+- 2024 McLaren Artura 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6377.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6379.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7011.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB IMG 8865 (cropped).jpg by Alexander-93, CC BY-SA 4.0
+- 2024 McLaren Artura Spider.jpg by MrWalkr, CC BY-SA 4.0
+- McLaren Artura Spider.JPG by C.Stadler/Bwag (talk / email), CC BY-SA 4.0
+- McLaren Artura Spider IMG 7120.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Stradale red.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Stradale, red - front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 Stradale (7LA-173H).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Ferrari SF90 Stradale (2023) (52864220861).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2023) (52864606180).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52863637352).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari-Museum Maranello 8.JPG by Wistula, CC BY-SA 3.0
+- Ferrari 550, Techno-Classica 2018, Essen (IMG 9642).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- McLaren Artura McLaren Orange (15).jpg by Damian B Oh, CC BY-SA 4.0
+- McLaren Artura McLaren Orange (3).jpg by Damian B Oh, CC BY-SA 4.0
+- McLaren Artura McLaren Orange (12).jpg by Damian B Oh, CC BY-SA 4.0
+- McLaren P1, Bugatti Veyron, and Ferrari LaFerrari from Qatar (15278219884).jpg by Axion23, CC BY 2.0
+- McLaren P1, Ferrari LaFerrari, and Bugatti Veyron (15789562681).jpg by Axion23, CC BY 2.0
+- P1, Veyron, and LaFerrari (15865264997).jpg by Axion23, CC BY 2.0
+- McLaren Artura (2023) (52959673147).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura (2023) (52960270846).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura (2023) (52960723478).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 202X McLaren Artura - 01.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 202X McLaren Artura - 02.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 202X McLaren Artura - 03.jpg by Oleg Yunakov, CC BY-SA 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.4).jpg by OWS Photography, CC BY 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.3).jpg by OWS Photography, CC BY 4.0
+- 2025 Ferrari SF90 Stradale - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- McLaren Artura (rear three-quarter view) at Osaka Auto Messe 2026.jpg by Aos.1905, CC BY-SA 4.0
+- McLaren Artura MSO in purple (rear view) at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- 2024 McLaren Artura McLaren Orange rear three quarter at McLaren Seattle.jpg by Trans-nyan, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 6997.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7010.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7009.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 9043.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB MYLE Festival 2025 DSC 9456.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTS DSC 9039.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Stradale (front).jpg by More Cars, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52570668361).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52570203442).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari 296 GTB (7LA-171K) rear.jpg by Tokumeigakarinoaoshima, CC0
+- Ferrari 296 GTB (2022) (52570602358).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari 296 GTB (2022) (52570348819).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Spider IMG 9568.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8856.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8852.jpg by Alexander-93, CC BY-SA 4.0
+- 2022 McLaren Artura (28196).jpg by Calreyn88, CC BY-SA 4.0
+- 2024 McLaren Artura.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 McLaren Artura (35001).jpg by Calreyn88, CC BY-SA 4.0
+- Blaupunkt CR-4500 - drive unit - tape Drive Capstan, brushless DC electric motor-9992.jpg by Raimond Spekking, CC BY-SA 4.0
+- Blaupunkt CR-4500 - drive unit - tape Drive Capstan, brushless DC electric motor-9993.jpg by Raimond Spekking, CC BY-SA 4.0
+- Blaupunkt CR-4500 - drive unit - tape Drive Capstan, brushless DC electric motor-9990.jpg by Raimond Spekking, CC BY-SA 4.0
+- Ferrari SF90 Stradale in Böblingen 02.jpg by Giftzwerg 88, CC BY-SA 3.0
+- 2025 Ferrari SF90XX Stradale, rear right.jpg by Mr.choppers, CC BY-SA 4.0
+- 2025 Ferrari SF90XX Stradale, right rear view.jpg by Mr.choppers, CC BY-SA 4.0
+- Interior of a McLaren Artura (Japanese specification).jpg by Aos.1905, CC BY-SA 4.0
+- Interior of McLaren Artura MSO at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- McLaren Artura and 750S at the Osaka Mobility Show 2023.jpg by Aos.1905, CC BY-SA 4.0
+- 2025 Ferrari SF90 Stradale - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ferrari SF90 XX Stradale 1.jpg by Calreyn88, CC BY 4.0
+- 2022 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 McLaren Artura (85085).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 McLaren Artura GT4.jpg by Calreyn88, CC BY-SA 4.0
+- McLaren Artura MSO in purple (front view) at Japan Mobility Show Kansai 2025.jpg by Aos.1905, CC BY-SA 4.0
+- Ferrari SF90 Spider, EMS 2024, Essen (P1032226).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6998.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6993.jpg by Alexander Migl, CC BY-SA 4.0
+- 2023 McLaren Artura in Supernova Silver, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 XX.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Asseto Fiorano Spider.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9559.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9547.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9574.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9250.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- Munari testing Ferrari 312 PB - Fiorano Circuit - April 1972.jpg by Unknown authorUnknown author, Public domain
+- 1972-04-08 Fiorano Circuit inauguration - Ferrari 312 PB (1).jpg by Ferrari Archive, Public domain
+- 1972-04-08 Fiorano Circuit inauguration - Ferrari 312 PB (2).jpg by Ferrari Archive, Public domain
+- McLaren Artura at the 2026 Adelaide Rally Street Party on King William Road (028A4067).jpg by Yu Chu Chin, CC BY-SA 4.0
+- McLaren Artura at the 2026 Adelaide Rally Street Party on King William Road (028A4068).jpg by Yu Chu Chin, CC BY-SA 4.0
+- McLaren Artura at the 2026 Adelaide Rally Street Party on King William Road (028A4065).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Mclaren Tecnology Centre.jpg by Alistair Rickman, CC BY 2.0
+- McLaren Technology Centre, McLaren Park - geograph.org.uk - 1836958.jpg by Colin Smith, CC BY-SA 2.0
+- McLaren Technology Centre - geograph.org.uk - 1836908.jpg by Colin Smith, CC BY-SA 2.0
+- 2023 Ferrari SF90 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.08.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.11.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Factory (Maranello, Modena) in 2018.04.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- 2023 McLaren Artura, front 10.27.23.jpg by Kevauto, CC BY-SA 4.0
+- The frontview of McLaren ARTURA SPIDER.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- McLaren Artura, IAA 2021, Munich (IAA10240).jpg by Matti Blume, CC BY-SA 4.0
+- McLaren Technology Centre, Woking - geograph.org.uk - 1836979.jpg by Colin Smith, CC BY-SA 2.0
+- McLaren Park near Woking - geograph.org.uk - 4478973.jpg by Alan Hunt, CC BY-SA 2.0
+- Mclaren Park near Woking - geograph.org.uk - 4810417.jpg by Alan Hunt, CC BY-SA 2.0
+- McLaren Artura Spider (2025) (54559350720).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura Spider Performance (2024) (54094907170).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura Spider MYLE Festival 2025 DSC 9501.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Spider (88149).jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Spider (67778).jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 XX Spider.jpg by Calreyn88, CC BY 4.0
+- 2024 Ferrari SF90 XX Stradale in Bianco Artico, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 XX Stradale Giallo Modena.jpg by Ethan Llamas, CC BY-SA 4.0
+- 2026 Ferrari 849 Testarossa Assetto Fiorano in Blu Corsa.jpg by Andrew Bone from Weymouth, England, UK., CC BY 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4137).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4140).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari Luce.jpg by Lcaa9, CC BY-SA 4.0
+- Luce a De Ferrari.jpg by Forlilly, CC BY-SA 4.0
+- McLaren Artura (2023) (52959673157).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura (2022) (52452418513).jpg by Charles from Port Chester, New York, CC BY 2.0
+- McLaren Artura (2022) (52128068292).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2023 Ferrari SF90 5.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 XX Spider Ferrari Lyon.jpg by Calreyn88, CC BY-SA 4.0
+- Formula One Test Days 2019 - Ferrari SF90 - Sebastian Vettel.jpeg by Artes Max, CC BY-SA 2.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.7).jpg by OWS Photography, CC BY 4.0
+- Ferrari SF90, BAS 24, Brussels (P1170503-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Stradale on Regent Street 2023-09-16.jpg by Cityswift, CC BY 2.0
+- Ferrari SF90 Stradale – h 02052026.jpg by © M 93, CC BY-SA 3.0 de
+- Ferrari SF90 Stradale – f 02052026.jpg by © M 93, CC BY-SA 3.0 de
+
+## Sources
+
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Wikipedia, McLaren Artura: https://en.wikipedia.org/wiki/McLaren_Artura
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 29, 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Design News, Magna 8-speed DCT in the SF90: https://www.designnews.com/automotive/ferrari-sf90-stradale-accelerates-through-gears-magnas-8-speed-dual-clutch-transmission
+- duPont Registry, Ferrari SF90 Stradale review: https://news.dupontregistry.com/blogs/ferrari-news/ferrari-sf90-stradale-price-specs-photos-review
+- CarGurus, 2023 Ferrari SF90 pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- Kelley Blue Book, 2025 McLaren Artura: https://www.kbb.com/mclaren/artura/2025/
+- Carwow Spain, Ferrari 296 GTB vs McLaren Artura (June 2021): https://www.carwow.es/blog/comparativa-ferrari-296-gtb-vs-mclaren-artura
+- Road & Track via Yahoo, Fire, glitches, delays: McLaren after the Artura launch (June 2022): https://autos.yahoo.com/fire-glitches-delays-mclaren-post-202000664.html
+- Autobuzz, Facts & Figures: SF90 Stradale launched in Malaysia (2020): https://autobuzz.my/2020/09/18/facts-figures-ferrari-sf90-stradale-launched-in-malaysia/
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Driven (NZ), LaFerrari was the world's first HEV hypercar: https://www.drivencarguide.co.nz/news/the-good-oil-laferrari-was-the-worlds-first-hev-hypercar/
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Autocar NZ, McLaren is now in Abu Dhabi hands: https://www.autocar.co.nz/mclaren-is-now-in-abu-dhabi-hands
+- Business Day, McLaren Automotive to be bought by Abu Dhabi's CYVN Holdings (Oct 2024): https://www.businessday.co.za/bd/life/motoring/2024-10-31-mclaren-automotive-to-be-bought-by-abu-dhabis-cyvn-holdings/
+- Autoevolution, Artura faces 2028 exit as P34 prepares for 2027 debut: https://www.autoevolution.com/news/v6-powered-mclaren-artura-faces-2028-exit-as-new-p34-hybrid-supercar-prepares-for-2027-debut-275652.html
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
+- Electra, Ferrari Luce: everything we know: https://www.go-electra.com/en/newsroom/electric-ferrari-luce-price-power-and-everything-we-know/

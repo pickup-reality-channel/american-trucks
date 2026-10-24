@@ -1,0 +1,185 @@
+# Photo credits: 2 Things You Didn't Know About the Corvette Z06
+
+- Chevrolet Corvette Z06 (C8) Washington DC Metro Area, USA (7).jpg by OWS Photography, CC BY 4.0
+- 2025 Chevrolet Corvette C8 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339066593).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2023) (53627486983).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339134309).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52339258895).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52337875977).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52338832976).jpg by Charles from Port Chester, New York, CC BY 2.0
+- EMS 2023, Essen (P1160515).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari 458 Italia, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ferrari 458 Italia, Toulouse (2).jpg by Handelsgeselschaft, CC BY-SA 4.0
+- 2011 Ferrari 458 Italia DCT S-A 4.5 Front.jpg by Vauxford, CC BY-SA 4.0
+- 2011 Ferrari 458 Italia 3.jpg by Calreyn88, CC BY-SA 4.0
+- FERRARI 458 ITALIA China.jpg by Dinkun Chen, CC BY-SA 4.0
+- 2x Ferrari 458 Italia.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ferrari 458 Italia, Tour Auto 2015, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Corvette Racing Chevrolet Corvette C8.R pit sign during the pitwalk at the 2023 Le Mans (53468235884).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone at Dunlop Chicane at the 2023 Le Mans (53368499761).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Antonio Garcia, Jordan Taylor & Nicky Catsburg in the Esses at the 2022 Le Mans (53553842216).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Antonio Garcia, Jordan Taylor & Nicky Catsburg in the Esses at the 2022 Le Mans (53513817272).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone in the Esses at the 2023 Le Mans (53378106489).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Corvette Z06, BAS 24, Brussels (P1170397-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Corvette Z06 Cabriolet (C7) – Innenraum, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Corvette Z06 Cabriolet (C7) – Heckansicht geöffnet, 28. Oktober 2015, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de
+- Blancpain Endurance Series - Audi R8 LMS et Corvette Z06 - 002.jpg by Thesupermat, CC BY-SA 3.0
+- Chevrolet Corvette Z06 2006 Ulva.jpg by Staffan Andersson, CC BY-SA 4.0
+- ChevroletCorvetteZ06.jpg by Jason Lawrence, CC BY 2.0
+- Callaway Corvette C8 (2022) (52339258685).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Stingray C8 (49566950713).jpg by John Bauld from Toronto, Canada, CC BY 2.0
+- Chevrolet Corvette Stingray Coupé (C8, 2023) (53685654171).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 Coupé (C8, 2024) (53619876640).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 Coupé (C8, 2024) (53619767234).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0
+- Chevrolet Corvette C8 IAA 2021 1X7A0156.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 convertibles IAA 2021 1X7A0184.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette C8 IMG 8837.jpg by Alexander-93, CC BY-SA 4.0
+- Chevrolet Corvette C7 Z06 Convertible.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 C7.jpg by בר, CC BY-SA 3.0
+- Chevrolet Corvette Z06 (C7, 2019) (52339134374).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2006 Chevrolet Corvette Z06 LS7 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0
+- Chevrolet Corvette Z06 (C8, 2022) (52337874897).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C7, 2016) (52456205627).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Pulkovo Airport panoramic view.jpg by Dmitry Avdeev, CC BY-SA 3.0
+- Traditional Hand Plane, China.jpg by Rod Waddington, CC BY-SA 2.0
+- Metal bench plane with shavings.jpg by Damien Pollet, CC BY-SA 2.0
+- Corvette (5048834655).jpg by emilydickinsonridesabmx from Fort Hamilton Brooklyn, New York, USA, CC BY 2.0
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0
+- 2007 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 458 Italia 4.5 '11 (8589872623).jpg by Falcon® Photography from France, CC BY-SA 2.0
+- Ferrari 458 Italia, Tour Auto 2015 design, Toulouse.jpg by Handelsgeselschaft, CC BY-SA 4.0
+- Ferrari 458 Italia red.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 458 Italia engine room.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Display-Set Ferrari Kolben und Pleuel noBG.jpg by Auge=mit, CC BY-SA 4.0
+- Ferrari engine 458.JPG by Affemitwaffe, CC BY-SA 3.0
+- Ferrari 458 Italia rear view (Oct 5, 2025).jpg by 茅野ふたば, CC BY-SA 4.0
+- Ferrari 458 Italia Back.jpg by ravas51, CC BY-SA 2.0
+- Tuned Ferrari 458 ITALIA (ABA-F142) rear.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Cars in a local mechanic workshop in Nigeria.jpg by Sodiq Jimoh, CC BY-SA 4.0
+- Moscow, Atom cars at Atom engineering center, Aug 2026 02.jpg by Retired electrician, CC0
+- Moscow, Atom cars at Atom engineering center, Aug 2026 04.jpg by Retired electrician, CC0
+- 2022 Chevrolet Corvette, Tallahassee Automobile Museum.jpg by Michael Rivera, CC BY-SA 4.0
+- Chevrolet Corvette C8.R at the 2021 Road Race Showcase.jpg by Arturo Hurtado, CC BY 2.0
+- Chevrolet Corvette C8.R and Acura ARX-05 at the 2020 Road Race Showcase.jpg by Arturo Hurtado, CC BY 2.0
+- Chevrolet 327 Cubic Inch Small-Block V8 Engine Marinized By Chris-Craft, Incorporated Of Algonac, Michigan; Mounted On An Engine Hoist.jpg by TruckMatt, CC0
+- Left Side Of A Chevrolet 327 Cubic Inch Small-Block V8 Marinized By Boat Manufacturer Chris-Craft Of Algonac, Michigan.jpg by TruckMatt, CC BY 4.0
+- Front Right Angle Of A Chevrolet 327 Cubic Inch Small-Block V8 Marinized By Boat Manufacturer Chris-Craft Of Algonac, Michigan.jpg by TruckMatt, CC BY 4.0
+- 2025-05-01 Muensingen Corvette C4 engine-compartment.jpg by Wikisympathisant, CC BY-SA 4.0
+- 2020 Corvette C8 engine cutout.jpg by MN, CC BY-SA 4.0
+- Corvette C2 Engine - Cruisin' for a Cure.jpg by Noah Wulf, CC BY-SA 4.0
+- National Corvette Museum, KY.JPG by Jonrev at English Wikipedia, Public domain
+- 1963 Chevrolet Corvette Z06.jpg by JaseMan, CC BY 2.0
+- National Corvette Museum from Above.jpg by RyanEichlerNCM, CC BY-SA 4.0
+- Yield To Corvette Traffic (38088146181).jpg by formulanone from Huntsville, United States, CC BY-SA 2.0
+- The Corvette Cafe (5194527679).jpg by Ole Bendik Kvisberg, CC BY 2.0
+- National Corvette Museum (49420798721).jpg by zombieite, CC BY 2.0
+- Rocket Garden (KSC-2013-2103).jpg by NASA/Charisse Nahser, Public domain
+- Gemini Model in the 10- by 10-Foot Supersonic Wind Tunnel (GRC-1962-C-61762).jpg by NASA Glenn Research Center, Public domain
+- Rocket Engines Displayed for 1966 Inspection at Lewis Research Center.jpg by NASA, Public domain
+- Apollo XV Vettes at NCM.jpg by Danny Reed, CC BY-SA 4.0
+- NASA astronaut tours Embry-Riddle University, experiences recruiting at Daytona 500 (11).jpg by Staff Sgt. Jacob B. Derry, Public domain
+- Carpenter parade-2.jpg by NASA, Public domain
+- Corvette 1953 Blue Flame in-line 6 Engine.JPG by Kowloonese, CC BY-SA 3.0
+- Corvette 1953 dash.JPG by Kowloonese, CC BY-SA 3.0
+- Callaway Corvette Spider (1991) (53767809132).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 - Flickr - Alexandre Prévot (7) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- GC record-corvette z06.jpg by geigercars.de GmbH, CC BY-SA 4.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 9.jpg by Tuner tom, CC BY-SA 3.0
+- 2003 Chevrolet Corvette Z06, front left, 09-09-2023.jpg by MercurySable99, CC BY-SA 4.0
+- 2016 Chevrolet Corvette Z06 convertible, front right, 09-28-2024.jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Corvette Z06 front-1.JPG by M 93, CC BY-SA 3.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24356943329).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Chevrolet Corvette Z06 Cabriolet (C8, 2022) (52339135139).jpg by Charles from Port Chester, New York, CC BY 2.0
+- 2007 Chevrolet Corvette Z06 Special Signature Limited Edition Fox Island Car Show 2016 05.jpg by Thorsten Lindner, CC BY-SA 4.0
+- 2015 Chevy Stingray Corvette Z06 Debut at Detroit Auto Show 2.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 10.jpg by Tuner tom, CC BY-SA 3.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 8.jpg by Tuner tom, CC BY-SA 3.0
+- 2010 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 rear.JPG by M 93, CC BY-SA 3.0
+- Chevrolet Corvette Z06 front.JPG by M 93, CC BY-SA 3.0
+- 2001 Chevrolet Corvette Z06, rear right (2022 Back to the 50's Weekend).jpg by MercurySable99, CC BY-SA 4.0
+- Chevrolet Corvette Z06 rear-1.JPG by M 93, CC BY-SA 3.0
+- 2014 Chevrolet Corvette Z06 (12763611384).jpg by qJake, CC BY-SA 2.0
+- 2023 Chevrolet Corvette Z06 Convertible 70th Anniversary Edition.jpg by Oleg Yunakov, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0
+- 2015 Chevrolet Corvette Z06 Convertible at Geneva Auto Salon 2015 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone in the Esses at the 2023 Le Mans (53377793146).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone in Ford Chicane at the 2023 Le Mans (53428921721).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Chevrolet Corvette C8.R - Nicky Catsburg, Ben Keating & Nicolas Varrone exits Dunlop Chicane at the 2023 Le Mans (53366867398).jpg by Martin Lee from London, UK, CC BY-SA 2.0
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0361.jpg by Alexander Migl, CC BY-SA 4.0
+- Lagonda Le Mans Rapide, 4500 ccm, Bj. 1935 (17.06.2007).jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0352.jpg by Alexander Migl, CC BY-SA 4.0
+- Chevrolet Corvette Sting Ray Split Window 1963.jpg by Avaldia, CC BY-SA 4.0
+- 1963 Chevrolet Corvette Sting Ray Sport Coupe, rear left, 06-24-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1963 Chevrolet Corvette Sting Ray Sport Coupe, rear right, 08-25-2024.jpg by MercurySable99, CC BY-SA 4.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24698407446).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24606790242).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- 1963 Chevrolet Corvette C2 Sting Ray Z06 (24698417616).jpg by Jeremy from Sydney, Australia, CC BY 2.0
+- Le Mans disaster aftermath.jpg by Geoffrey Charles/Daily Mirror - Distributed by the Associated Press, Public domain
+- 1955 Maserati 300S sn 3061 Le Mans Classic 2012.jpg by ZANTAFIO56 from FRANCE, CC BY-SA 2.0
+- 1955 Ferrari 625 LM sn0612MDTR at Le Mans Classic 2010.jpg by ZANTAFIO56 from FRANCE, CC BY-SA 2.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 1963 Chevrolet Corvette Split-Window Coupe - 03.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- 2004 Chevrolet Corvette C5 Z06 Le Mans Edition.jpg by Calreyn88, CC BY-SA 4.0
+- 2002 Chevrolet Corvette C5 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- 2004 Chevrolet Corvette C5 Z06 Le Mans LC24.jpg by MrWalkr, CC BY-SA 4.0
+- 2006 Chevrolet Corvette C6 Z06 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2010 Chevrolet Corvette C6 Z06 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2008 Chevrolet Corvette C6 Z06.jpg by Calreyn88, CC BY-SA 4.0
+- Chevrolet Corvette Z06 3LZ Cabriolet (C8, 2022) (52338834041).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2022) (52337874827).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Chevrolet Corvette Z06 (C8, 2024) (53797860797).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Porsche 911 Carrera RSR, Bj. 1974 (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de
+- 2007-06-16 Veritas RS (05b), Bj. 1948, Start-Nr. 97 (ausgangs Brünnchen) ret.jpg by Lothar Spurzem, CC BY-SA 2.0 de
+- Nürburg Germany Fahrsicherheitszentrum-Nürburgring-07a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- Corvette ZR1 at NAIAS.JPG by The number 3, Public domain
+- 2025 Chevrolet C8 Corvette ZR1.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Indianapolis Motor Speedway Museum May 2026 51 (2025 Chevrolet Corvette ZR1 pace car).jpg by Michael Barera, CC BY-SA 4.0
+- Porsche 911 GT3 Touring, IAA 2017, Frankfurt (1Y7A2766).jpg by Matti Blume, CC BY-SA 4.0
+- 2013 Porsche 911 Carrera 4S (991) (9626546987).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Porsche 911 GT3 RS (2022) 1X7A7164.jpg by Alexander-93, CC BY-SA 4.0
+- October 14 2017 Com Sports Car Club (232060171).jpeg by Matthew Burke, CC BY 3.0
+- 1999 Chevrolet C5 Corvette Convertible (30572198050).jpg by Sicnag, CC BY 2.0
+- Lineup to see the 2020 Corvette (48568504247).jpg by Mustang Joe, CC0
+- Chevrolet Lineup 1965.jpg by Thomas J. O'Halloran, Public domain
+- Goodyear Eagle F1 Tire on Corvette Wheel (7082248513).jpg by artistmac, CC BY-SA 2.0
+- 2015 Chevy Corvette Stingray Z06 Debut at Detroit Auto Show 7.jpg by Tuner tom, CC BY-SA 3.0
+- 2009 Chevrolet Corvette Z06 hardtop side.JPG by BrokenSphere, CC BY-SA 3.0
+- 2007 Chevrolet Corvette Z06 Special Signature Limited Edition Fox Island Car Show 2016 04.jpg by Thorsten Lindner, CC BY-SA 4.0
+- CorvetteZ06.jpg by Nick Ares, CC BY-SA 2.0
+- 2011 Chevrolet C6 Corvette Coupe (15999586018).jpg by Sicnag, CC BY 2.0
+- 2009 Chevrolet C6 Corvette ZR1 Coupe (22834732513).jpg by Sicnag, CC BY 2.0
+- 2005 Dodge Magnum RT (19026310711).jpg by Greg Gjerdingen from Willmar, USA, CC BY 2.0
+- 2025 Corvette - June 2025 - Sarah Stierch.jpg by Missvain, CC0
+- 1963 Pininfarina Corvette Rondine, front right.jpg by Mr.choppers, CC BY-SA 3.0
+- 1999 Chevrolet Corvette C5 Z06 Convertible (11370999825).jpg by Sicnag, CC BY 2.0
+- National Corvette Museum (49420844711).jpg by zombieite, CC BY 2.0
+- National Corvette Museum (49420843486).jpg by zombieite, CC BY 2.0
+- National Corvette Museum (49421066917).jpg by zombieite, CC BY 2.0
+- ADAC GT Masters (8009746849).jpg by Juriën Minke, CC BY 2.0
+- ADAC GT Masters (8009756661).jpg by Juriën Minke, CC BY 2.0
+- ADAC GT Masters (8009764334).jpg by Juriën Minke, CC BY 2.0
+- 911 GT3 RS ^ Corvette C6 - Flickr - Alexandre Prévot.jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Porsche 997 GT3 RS (2006) IMG 2546.jpg by Alexander-93, CC BY-SA 4.0
+- Porsche 911 GT3, EMS 2024, Essen (P1031698).jpg by Matti Blume, CC BY-SA 4.0
+
+## Sources
+
+- The Drive, 2023 Chevy Corvette Z06: 670 hp from a naturally aspirated flat-plane V8 (Oct 2021): https://www.thedrive.com/news/42882/2023-chevy-corvette-z06-670-hp-from-a-naturally-aspirated-flat-plane-v8
+- Autoblog, 2023 Chevy Corvette Z06: the 9 coolest things (Feb 2022): https://www.autoblog.com/2022/02/18/2023-chevy-corvette-z06-coolest-9-things/
+- Hagerty, 2023 Corvette Z06 arrives with world's most powerful naturally aspirated V-8: https://www.hagerty.com/media/?p=179871
+- Hagerty, How the Corvette Z06 went from '60s racing package to modern monster: https://hagerty.com/media/?p=257365
+- Motor Authority, The 2023 Corvette Z06 exists because of Zora Arkus-Duntov: https://www.motorauthority.com/news/1136291_the-2023-chevrolet-corvette-z06-exists-because-of-zora-arkus-duntov
+- AP via WFYI, Corvette goes mid-engine for first time to raise performance (July 2019): https://www.wfyi.org/news/articles/corvette-goes-mid-engine-for-first-time-to-raise-performance
+- GM Authority, 2026 Corvette pricing uncovered (June 2025): https://gmauthority.com/blog/2025/06/2026-corvette-pricing-uncovered/
+- Wikipedia, Chevrolet Corvette (C8): https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)
+- Racer, Corvette Racing takes final GTE victory at Le Mans (June 2023): https://racer.com/2023/06/11/corvette-racing-fights-through-to-take-final-gte-victory-at-le-mans/
+- Top Gear, Corvette ZR1X fastest American car ever around the Nürburgring (Aug 2025): https://www.topgear.com/car-news/usa/chevrolet-corvette-zr1x-fastest-american-car-ever-around-nurburgring
+- Motor1, 2023 Porsche 911 GT3 RS laps the Nürburgring in 6:49.328: https://www.motor1.com/news/616069/porsche-911-gt3-rs-nurburgring-lap-record/
+- Auto123, Corvette Z06 and ZR1 recall (Aug 2025): https://www.auto123.com/en/news/chevrolet-corvette-recall-z06-zr1/73126
+- Motorious, Dealers offer deep discounts as over 1,700 Corvette Z06s sit unsold (Aug 2025): https://www.motorious.com/articles/news/dealers-offer-deep-discounts-as-over-1-700-chevrolet-corvette-z06s-sit-unsold
+- CarScoops, Corvette Z06 prices crashing on the used market (Aug 2025): https://www.carscoops.com/2025/08/corvette-z06-prices-crashing-used-market-losses/
+- CarScoops, Corvette Z06 flippers learn what happens when the hype fades (Oct 2025): https://www.carscoops.com/2025/10/corvette-z06-flippers-are-learning-the-hard-way-what-happens-when-the-hype-fades/

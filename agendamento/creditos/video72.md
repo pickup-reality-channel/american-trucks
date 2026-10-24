@@ -1,0 +1,205 @@
+# Photo credits: The Insane Story Behind Ferrari's First Plug-In Hybrid
+
+- Ferrari 599 HY KERS wheel.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández (1).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández (3).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández (4).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández (5).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS - Flickr - David Villarreal Fernández (2).jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari 599 HY KERS.jpg by David Villarreal Fernández, CC BY-SA 2.0
+- Ferrari SF90, BAS 24, Brussels (P1170486-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90, BAS 24, Brussels (P1170502-RR).jpg by Matti Blume, CC BY-SA 4.0
+- 2024 Ferrari SF90 XX Spider 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Stradale 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale Mayfair.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 XX Stradale 2.jpg by Calreyn88, CC BY 4.0
+- Ferrari SF90 Stradale Monaco.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Stradale sf25.jpg by Calreyn88, CC BY 4.0
+- Ferrari 550 GTZ Barchetta.jpg by Gordon Calder - 7 Million Views - Thanks!, CC BY 2.0
+- Maranello02.jpg by Storem, CC BY-SA 2.0
+- Ferrari-Museum Maranello 8.JPG by Wistula, CC BY-SA 3.0
+- Ferrari 550, Techno-Classica 2018, Essen (IMG 9642).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari 575M Maranello (14058614143).jpg by ilikewaffles11, CC BY 2.0
+- Ferrari F60 (7510489532).jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0
+- Ferrari F60 (7510536074).jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0
+- 2009 Ferrari F60 1.jpg by Calreyn88, CC BY 4.0
+- Ferrari F60 at Goodwood 2012.jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0
+- Ferrari F10 - andrewbasterfield.jpg by Andrew Basterfield, CC BY-SA 2.0
+- Ferrari F60 Marc Gene (17888377440).jpg by Rob Oo from NL, CC BY 2.0
+- Scuderia Ferrari Pit Stop1.JPG by Hatsukari715, Public domain
+- Scuderia Ferrari Pit Stop2.JPG by Hatsukari715, Public domain
+- 2012 Italian GP - Ferrari pit.jpg by Francesco Crippa, CC BY 2.0
+- Spa 2009 F1 GP Raikkonen.jpg by Chris Morgan, CC BY-SA 2.0
+- Kimi Raikkonen 2009 Belgium 3.jpg by Jane Belinda Smith from Peterborough, Cambridgeshire, England, CC BY 2.0
+- Kimi Raikkonen 2009 Singapore.jpg by Alex Kovach, CC BY 2.0
+- Formula One spectators at the 2014 Chinese Grand Prix.jpg by Drew Bates, CC BY 2.0
+- Bianchi F14 T Test Silverstone 2014.jpg by Andrew & Alan Frost, CC BY 2.0
+- Ferrari 156 "Sharknose" at Goodwood 2014 001.jpg by Nic Redhead, CC BY-SA 2.0
+- Ferrari Tipo F140C V12 engine display.jpg by Mr.choppers, CC BY-SA 3.0
+- 1948 Ferrari 166MM barchetta 0002M engine.jpg by Prova MO, CC BY-SA 4.0
+- 1950 Ferrari 195S Inter by Vignale - V12 engine side.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari599 A6 1.JPG by Sovxx, CC BY-SA 3.0
+- Ferrari 599 GTB Fiorano(20267165283).jpg by Danny Galvez from Pinoso, España, CC BY-SA 2.0
+- Ferrari 599 GTB Fiorano in Paris.jpg by Seamus James, CC BY-SA 3.0
+- Ferrari-Museum Maranello 4.JPG by Wistula, CC BY-SA 3.0
+- Ferrari 599 GTB at the 2025 Shannons Adelaide Rally (028A4615).jpg by Yu Chu Chin, CC BY 4.0
+- Ferrari 599 GTB Fiorano (5482951365).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- 2007 Ferrari 599 GTB Fiorano F1.jpg by Calreyn88, CC BY-SA 4.0
+- 2007 Ferrari 599 GTB Fiorano F1 (34343).jpg by Calreyn88, CC BY-SA 4.0
+- 2007 Ferrari 599 GTB Fiorano F1 gfos25.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 599 GTB Fiorano side view.jpg by Alexandre Prévot, CC BY-SA 2.0
+- Ferrari 599 GTB Fiorano front view and left side.jpg by Alexandre Prévot, CC BY-SA 2.0
+- Ferrari 599 GTB Fiorano. (3799161183).jpg by Damian Morys from New York City, United States, CC BY 2.0
+- Luca Cordero di Montezemolo - GianAngelo Pistoia.jpg by GianAngelo Pistoia, CC BY 3.0
+- 34. ISC-Symposium-Luca Cordero di Montezemolo-HSGN 028-01709.JPG by St. Gallen Symposium, CC BY-SA 4.0
+- 2014-03-04 Geneva Motor Show Ferrari California T Luca di Montezemolo 0736.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0
+- Ferrari 599 GTB Fiorano (IAA 2007).jpg by LSDSL, CC BY-SA 2.0 de
+- Ferrari 599 GTB Fiorano (5503014426).jpg by Spanish Coches, CC BY 2.0
+- 2011 Ferrari 599 GTB Fiorano (5482689475).jpg by Michael Gil from Calgary, AB, Canada, CC BY 2.0
+- Ferrari LaFerrari GIMS 2024 1X7A2272.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at Grand Basel 2018 05.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari LaFerrari at the Ferrari museum.jpg by Matyáš Solařík, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Ferrari LaFerrari engine.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Ferrari LaFerrari (2015) (53322692116).jpg by Charles from Port Chester, New York, CC BY 2.0
+- LaFerrari in Beverly Hills (14563979888).jpg by Axion23, CC BY 2.0
+- Geneva MotorShow 2013 - Ferrari LaFerrari left view.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- Ferrari Enzo (25899821207).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- McLaren P1, Bugatti Veyron, and Ferrari LaFerrari from Qatar (15278219884).jpg by Axion23, CC BY 2.0
+- McLaren P1, Ferrari LaFerrari, and Bugatti Veyron (15789562681).jpg by Axion23, CC BY 2.0
+- P1, Veyron, and LaFerrari (15865264997).jpg by Axion23, CC BY 2.0
+- Ferrari LaFerrari Aperta (31698).jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Laferrari Aperta jm.jpg by Calreyn88, CC BY 4.0
+- Ferrari LaFerrari Aperta 2.jpg by Calreyn88, CC BY-SA 4.0
+- Geneva MotorShow 2013 - Ferrari LaFerrari rear lights.jpg by Clément Bucco-Lechat, CC BY-SA 3.0
+- 2013 Ferrari LaFerrari rear.jpg by TTTNIS, CC0
+- Ferrari LaFerrari rear.jpg by TTTNIS, CC0
+- 36. St.Gallen Symposium-Sergio Marchionne-HSGN 028-01819.JPG by St. Gallen Symposium, CC BY-SA 4.0
+- Secretary Geithner Visits Detroit (5669161307).jpg by U.S. Department of the Treasury, Public domain
+- Winner Deming Cup 2013 Paolo Rocca, Chairman and CEO, Tenaris S.A..JPG by DemingCBS, CC BY-SA 3.0
+- New York Stock Exchange August 2017 02.jpg by Arild Vågen, CC BY-SA 4.0
+- Wall Street - New York Stock Exchange.jpg by Carlos Delgado, CC BY-SA 3.0
+- New York Stock Exchange Broad Street facade, 20231002 1720 1842.jpg by Jakub Hałun, CC BY 4.0
+- $4 million Ferrari Sergio at Geneva International Motor Show 2015 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0
+- $4 million Ferrari Sergio at Geneva International Motor Show 2015 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0
+- Ferrari GTC4 Lusso V-12 shooting brake in the wild. IMG 4005 (52367509367).jpg by Bill Abbott, CC BY-SA 2.0
+- Ferrari-Monaco-4071021.jpg by ermell, CC BY-SA 4.0
+- Ferrari-Monaco-4071008.jpg by ermell, CC BY-SA 4.0
+- Ferrari 488 GTB 1X7A7211.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Flags! (195773992).jpg by Mack Male from Edmonton, AB, Canada, CC BY-SA 2.0
+- Ferrari 599xx (8476590035).jpg by Shane K from Mississauga, Canada, CC BY-SA 2.0
+- Geneva Motor Show 2011 - Ferrari F1 Car rear (5576806246).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0
+- Deux Airs - et - Un Duo - Par G G. Ferrari - btv1b10075748f (3 of 4).jpg by Ferrari, Giacomo Gotifredo (1763-1842). Compositeur, Public domain
+- Deux Airs - et - Un Duo - Par G G. Ferrari - btv1b10075748f (2 of 4).jpg by Ferrari, Giacomo Gotifredo (1763-1842). Compositeur, Public domain
+- Ferrari Estates Building, Former Bank of North Queensland, Cooktown, circa 2018.jpg by Queensland State Archives, Public domain
+- Ferrari Purosangue IMG 9554.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue IMG 9550.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari Purosangue DSC 7008.jpg by Alexander Migl, CC BY-SA 4.0
+- 2021 Ferrari Monza SP2.jpg by TTTNIS, CC0
+- 2020 Ferrari Monza SP2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Monza SP2 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Stradale red.jpg by Calreyn88, CC BY-SA 4.0
+- 2022 Ferrari SF90 Stradale, red - front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 Stradale (7LA-173H).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.3).jpg by OWS Photography, CC BY 4.0
+- Ferrari SF90 Stradale Washington DC Metro Area, USA (2.4).jpg by OWS Photography, CC BY 4.0
+- 2025 Ferrari SF90 Stradale - 02.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ferrari SF90 Stradale (2023) (52864606180).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2022) (52864220871).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2023) (52864220861).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Spider IMG 9568.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8856.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 8852.jpg by Alexander-93, CC BY-SA 4.0
+- 2025 Ferrari SF90 Stradale - 01.jpg by This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here., CC BY-SA 4.0
+- Ferrari SF90 XX Stradale 1.jpg by Calreyn88, CC BY 4.0
+- 2022 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90, BAS 24, Brussels (P1170503-RR).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Spider, EMS 2024, Essen (P1032226).jpg by Matti Blume, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6998.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Assetto Fiorano (49833).jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90 Assetto Fiorano 2.jpg by Calreyn88, CC BY-SA 4.0
+- Fiorano Circuit - CCTV monitors (1972).jpg by Unknown authorUnknown author, Public domain
+- フィオラノサーキット (36331712583).jpg by nimame, CC BY 2.0
+- FERRARI P4.jpg by Stefano Mecchia, CC BY 2.0
+- Ferrari SF90 XX.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 4.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider 4.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari Headquarters (Maranello, Modena) in 2018.05.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Headquarters (Maranello, Modena) in 2018.02.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari Headquarters (Maranello, Modena) in 2018.12.jpg by CAPTAIN RAJU, CC BY-SA 4.0
+- Ferrari SF90 Stradale on Regent Street 2023-09-16.jpg by Cityswift, CC BY 2.0
+- Ferrari SF90 Stradale – h 02052026.jpg by © M 93, CC BY-SA 3.0 de
+- Ferrari SF90 Stradale – f 02052026.jpg by © M 93, CC BY-SA 3.0 de
+- McLaren Artura IMG 0527.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren Artura IMG 0534.jpg by Alexander-93, CC BY-SA 4.0
+- McLaren Artura IMG 0529.jpg by Alexander-93, CC BY-SA 4.0
+- CES 2017 - Finkbeiner and Vigna.jpg by ETC-USC, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52864385084).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52863637352).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 Stradale (2021) (52571115360).jpg by Charles from Port Chester, New York, CC BY 2.0
+- Ferrari SF90 XX Spider.jpg by Calreyn88, CC BY 4.0
+- 2024 Ferrari SF90 XX Stradale in Bianco Artico, front left.jpg by Mr.choppers, CC BY-SA 3.0
+- Ferrari SF90 XX Stradale Giallo Modena.jpg by Ethan Llamas, CC BY-SA 4.0
+- Ferrari F80.jpg by Asgaw, CC BY 4.0
+- 2025 Ferrari F80.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari F80 1.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6377.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB 1X7A6379.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 296 GTB DSC 7011.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari 375 MM Speciale.jpg by Dale Simonson from Vancouver, Canada, CC BY-SA 2.0
+- Ferrari 375 MM Pinin Farina Speciale (1954).jpg by Dale Simonson from Vancouver, Canada, CC BY-SA 2.0
+- Ferrari 512 BB LM (1983) (55079597547).jpg by Charles from Port Chester, New York, CC0
+- 2023 Ferrari SF90 2.jpg by Calreyn88, CC BY-SA 4.0
+- 2023 Ferrari SF90 Spider.jpg by Calreyn88, CC BY-SA 4.0
+- 2021 Ferrari SF90.jpg by Calreyn88, CC BY-SA 4.0
+- 2026 Ferrari 849 Testarossa Assetto Fiorano in Blu Corsa.jpg by Andrew Bone from Weymouth, England, UK., CC BY 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4138).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari 849 Testarossa at the 2026 Adelaide Rally Street Party on King William Road (028A4137).jpg by Yu Chu Chin, CC BY-SA 4.0
+- Ferrari Testarossa (1984) - Rallye des Princesses 2014 2.jpg by Blood Destructor, CC BY-SA 3.0
+- Ferrari Testarossa (1984) - Rallye des Princesses 2014.jpg by Blood Destructor, CC BY-SA 3.0
+- Porsche 911 SC Cabriolet (1988) - Ferrari Testarossa (1984) - Rallye des Princesses 2014.jpg by Blood Destructor, CC BY-SA 3.0
+- Ferrari Luce.jpg by Lcaa9, CC BY-SA 4.0
+- Luce a De Ferrari.jpg by Forlilly, CC BY-SA 4.0
+- 2008 Ferrari 599 GTB Fiorano F1 6.0.jpg by Makizox, CC BY-SA 4.0
+- Ferrari 599 GTB Fiorano (9201206021).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- Ferrari 599 GTB Fiorano (9199862094).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0
+- 2023 Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Asseto Fiorano Spider.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 3.jpg by Calreyn88, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9559.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9574.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider DSC 6993.jpg by Alexander Migl, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9547.jpg by Alexander-93, CC BY-SA 4.0
+- Ferrari SF90 Spider IMG 9250.jpg by Alexander-93, CC BY-SA 4.0
+- Formula One Test Days 2019 - Ferrari SF90 - Sebastian Vettel.jpeg by Artes Max, CC BY-SA 2.0
+
+## Sources
+
+- Motor Authority, 2010 Geneva: Ferrari 599 HY-KERS concept: https://www.motorauthority.com/news/1042084_2010-geneva-motor-show-ferrari-599-hy-kers-concept
+- CAR Magazine, Ferrari HY-KERS hybrid at Geneva 2010: https://carmagazine.co.uk/car-news/first-official-pictures/ferrari/ferrari-hy-kers-hybrid-2010-at-geneva-motor-show
+- AutoGuide, Geneva 2010: Ferrari to offer hybrid versions of all models by 2014: https://www.autoguide.com/auto-news/2010/03/geneva-2010-ferrari-to-offer-hybrid-versions-of-all-models-by-2014.html
+- Driven (NZ), LaFerrari was the world's first HEV hypercar: https://www.drivencarguide.co.nz/news/the-good-oil-laferrari-was-the-worlds-first-hev-hypercar/
+- Wikipedia, McLaren P1: https://en.wikipedia.org/wiki/McLaren_P1
+- Wikipedia, Ferrari (company history, IPO): https://en.wikipedia.org/wiki/Ferrari
+- Autosport, Former Ferrari chief Sergio Marchionne dies (July 2018): https://www.autosport.com/f1/news/former-ferrari-chief-sergio-marchionne-dies-5297863/5297863/
+- Bloomberg, Ferrari enlists Philip Morris veteran Camilleri as next CEO (July 2018): https://www.bloomberg.com/news/articles/2018-07-21/ferrari-proposes-camilleri-to-replace-ailing-marchionne-as-ceo
+- ANSA, Ferrari to launch 15 new models (Sept 2018): https://www.ansa.it/english/news/business/2018/09/18/ferrari-to-launch-15-new-models_59177c10-40a0-4c24-8b57-1b918332cd04.html
+- Motor1, Ferrari reveals roadmap with more hybrids (Sept 2018): https://www.motor1.com/news/266493/ferrari-reveals-roadmap-more-hybrids/
+- Reuters via Euronews, Ferrari accelerates its move into hybrid cars (May 2019): https://www.euronews.com/2019/05/29/ferrari-accelerates-its-move-into-hybrid-cars
+- InsideEVs, SF90 Stradale is Ferrari's first plug-in hybrid: https://insideevs.com/news/352375/sf90-stradale-first-ferrari-plugin-hybrid/
+- Wikipedia, Ferrari SF90 Stradale: https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- The Race, Ferrari CEO Camilleri resigns for personal reasons (Dec 2020): https://www.the-race.com/formula-1/ferrari-ceo-camilleri-resigns-for-personal-reasons/
+- Wikipedia, Benedetto Vigna: https://en.wikipedia.org/wiki/Benedetto_Vigna
+- Motor Authority, Ferrari SF90 recalled (Oct 2023): https://www.motorauthority.com/news/1141294_ferrari-sf90-recalled
+- Evo India, SF90 XX Stradale revealed: https://www.evoindia.com/top-news/new-ferrari-sf90-xx-stradale-revealed
+- Autobuzz, Facts & Figures: SF90 Stradale launched in Malaysia (2020): https://autobuzz.my/2020/09/18/facts-figures-ferrari-sf90-stradale-launched-in-malaysia/
+- CarGurus, 2023 Ferrari SF90 pricing: https://www.cargurus.com/research/2023-Ferrari-SF90-c32760
+- Road & Track via Yahoo, Fire, glitches, delays: McLaren after the Artura launch (June 2022): https://autos.yahoo.com/fire-glitches-delays-mclaren-post-202000664.html
+- Wikipedia, Ferrari LaFerrari: https://en.wikipedia.org/wiki/LaFerrari
+- Wikipedia, Kinetic energy recovery system (Formula One): https://en.wikipedia.org/wiki/Kinetic_energy_recovery_system
+- Wikipedia, Ferrari F80: https://en.wikipedia.org/wiki/Ferrari_F80
+- Motor Authority, Ferrari 2024 deliveries: 51% hybrids: https://www.motorauthority.com/news/1145679_ferrari-2024-hybrid-sales
+- Motoring Research, Ferrari 849 Testarossa (Sept 2025): https://www.motoringresearch.com/car-news/2026-ferrari-849-testarossa/
+- Electra, Ferrari Luce: everything we know: https://www.go-electra.com/en/newsroom/electric-ferrari-luce-price-power-and-everything-we-know/
